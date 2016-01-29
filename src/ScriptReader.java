@@ -17,7 +17,6 @@ public class ScriptReader {
 		currentEpisodeNum++;
 		try {
 			currentEpisode = new BufferedReader(new FileReader("Episode " + currentEpisodeNum + ".txt"));
-			System.out.println("Moving to episode number " + currentEpisodeNum);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
@@ -34,7 +33,7 @@ public class ScriptReader {
 						recordingLog = true;
 					if (recordingLog) {
 						if (curr.trim().isEmpty() || curr.startsWith("[") || curr.contains(":")) {
-							return line.trim() + "$";
+							return line.trim() + "#";
 						}
 						line += curr + " ";
 					}
@@ -47,8 +46,7 @@ public class ScriptReader {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
-		return line.trim() + "$";
+		return line.trim();
 	}
 
 	public boolean hasNext() {

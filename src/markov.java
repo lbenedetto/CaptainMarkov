@@ -1,6 +1,7 @@
 import java.io.IOException;
 import java.util.Hashtable;
 import java.util.Random;
+import java.util.Scanner;
 import java.util.Vector;
 
 public class markov {
@@ -14,23 +15,21 @@ public class markov {
 		// Create the first two entries (k:_start, k:_end)
 		markovChain.put("_start", new Vector<>());
 		markovChain.put("_end", new Vector<>());
-		while (scriptReader.hasNext())
+		while (scriptReader.hasNext()) {
 			addWords(scriptReader.nextLog());
-		generateSentence();
-		generateSentence();
-		generateSentence();
-		generateSentence();
-		generateSentence();
-		generateSentence();
+		}
+		Scanner kb = new Scanner(System.in);
+		boolean again = true;
+		while (again) {
+			generateSentence();
+			System.in.read();
+		}
 	}
 
 	public static void addWords(String phrase) {
+		if (phrase.equals("#") || phrase.equals("")) return;
 		// put each word into an array
 		String[] words = phrase.split(" ");
-		for(String s : words){
-			if(s.length() == 1)
-				return;
-		}
 		// Loop through each word, check if it's already added
 		// if its added, then get the suffix vector and add the word
 		// if it hasn't been added then add the word to the list
@@ -74,7 +73,7 @@ public class markov {
 		nextWord = startWords.get(rnd.nextInt(startWordsLen));
 		newPhrase.add(nextWord);
 		// Keep looping through the words until we've reached the end
-		while (nextWord.charAt(nextWord.length() - 1) != '$') {
+		while (nextWord.charAt(nextWord.length() - 1) != '#') {
 			Vector<String> wordSelection = markovChain.get(nextWord);
 			int wordSelectionLen = wordSelection.size();
 			nextWord = wordSelection.get(rnd.nextInt(wordSelectionLen));
@@ -82,11 +81,15 @@ public class markov {
 		}
 		showPhrase(newPhrase);
 	}
-	public static void showPhrase(Vector<String> phrase){
+
+	public static void showPhrase(Vector<String> phrase) {
 		String out = "";
-		for(String s : phrase){
+		for (String s : phrase) {
 			out += s + " ";
 		}
-		System.out.println(out.replace("$", ""));
+		out = out.replace("#", "");
+		if(out.length() <= 140)
+			out = "Twitter: " + out;
+		System.out.println(out);
 	}
 }
