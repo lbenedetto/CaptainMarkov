@@ -8,10 +8,10 @@ public class markov {
 	// Hashmap
 	public static Hashtable<String, Vector<String>> markovChain = new Hashtable<>();
 	static Random rnd = new Random();
-	static Tweeter tweeter = new Tweeter();
+	//static Tweeter tweeter = new Tweeter();
 
 	public static void main(String[] args) throws IOException {
-		//ScriptScraper.downloadEpisodes();
+		ScriptScraper.downloadEpisodes();
 		ScriptReader scriptReader = new ScriptReader();
 		// Create the first two entries (k:_start, k:_end)
 		markovChain.put("_start", new Vector<>());
@@ -90,7 +90,7 @@ public class markov {
 		System.out.println("Tweet this? y/n");
 		if (readChoice()) {
 			if (out.length() <= 140) {
-				tweeter.tweet(out);
+				//tweeter.tweet(out);
 			} else {
 				System.out.println("Too long");
 			}
