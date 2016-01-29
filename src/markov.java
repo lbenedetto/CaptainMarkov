@@ -11,17 +11,19 @@ public class markov {
 	//static Tweeter tweeter = new Tweeter();
 
 	public static void main(String[] args) throws IOException {
-		ScriptScraper.downloadEpisodes();
+		//ScriptScraper.downloadEpisodes();
+		//Uncomment the above line the first time you run the program
+		//It downloads all the episodes
+		//By default, it downloads TNG. If you want to download something else, you'll have
+		//to rewrite ScriptScraper
 		ScriptReader scriptReader = new ScriptReader();
 		// Create the first two entries (k:_start, k:_end)
 		markovChain.put("_start", new Vector<>());
 		markovChain.put("_end", new Vector<>());
-		while (scriptReader.hasNext()) {
-			addWords(scriptReader.nextLog());
-		}
-		while (true) {
+		while (scriptReader.hasNextLog())
+			addWords(scriptReader.getNextLog());
+		while (true)
 			generateSentence();
-		}
 	}
 
 	public static void addWords(String phrase) {
