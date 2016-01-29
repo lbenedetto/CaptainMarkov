@@ -8,6 +8,7 @@ public class markov {
 	// Hashmap
 	public static Hashtable<String, Vector<String>> markovChain = new Hashtable<>();
 	static Random rnd = new Random();
+	static Tweeter tweeter = new Tweeter();
 
 	public static void main(String[] args) throws IOException {
 		//ScriptScraper.downloadEpisodes();
@@ -89,7 +90,7 @@ public class markov {
 		}
 		out = out.replace("#", "");
 		if(out.length() <= 140)
-			out = "Twitter: " + out;
+			tweeter.tweet(out);
 		System.out.println(out);
 	}
 }

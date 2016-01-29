@@ -1,11 +1,15 @@
 import java.io.*;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 public class ScriptScraper {
-
+	static ArrayList<Integer> specialCases;
 	public static void downloadEpisodes() {
-		scrapeLink("http://www.chakoteya.net/NextGen/101.htm", 101);
-		for (int i = 103; i < 278; i++) {
+		//Comma separated list of the second part of two part episodes
+		//This way, those are skipped
+		specialCases.add(102);
+		for (int i = 101; i < 278; i++) {
 			try {
 				Thread.sleep(1000);
 			} catch (InterruptedException ex) {
@@ -13,6 +17,7 @@ public class ScriptScraper {
 			}
 			System.out.println("Downloading episode number " + i);
 			scrapeLink("http://www.chakoteya.net/NextGen/" + i + ".htm", i);
+			if(specialCases.contains(i)) i++;
 		}
 	}
 
