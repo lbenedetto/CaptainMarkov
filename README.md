@@ -9,3 +9,5 @@ Example output: http://hastebin.com/seremelete.txt
 The markov class then reads through the Captains Logs to build the statistical model.
 
 The statistical model is then used to generate new captains logs.
+
+Example outputs can be found at https://twitter.com/captain_markov
