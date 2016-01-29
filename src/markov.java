@@ -19,11 +19,8 @@ public class markov {
 		while (scriptReader.hasNext()) {
 			addWords(scriptReader.nextLog());
 		}
-		Scanner kb = new Scanner(System.in);
-		boolean again = true;
-		while (again) {
+		while (true) {
 			generateSentence();
-			System.in.read();
 		}
 	}
 
@@ -89,8 +86,27 @@ public class markov {
 			out += s + " ";
 		}
 		out = out.replace("#", "");
-		if(out.length() <= 140)
-			tweeter.tweet(out);
-		System.out.println(out);
+		System.out.println(out + " " + out.length() + " characters");
+		System.out.println("Tweet this? y/n");
+		if (readChoice()) {
+			if (out.length() <= 140) {
+				tweeter.tweet(out);
+			} else {
+				System.out.println("Too long");
+			}
+		}
+	}
+
+	public static boolean readChoice() {
+		Scanner kb = new Scanner(System.in);
+		while (true) {
+			if (kb.hasNextLine()) {
+				String s = kb.nextLine();
+				if (s.startsWith("y"))
+					return true;
+				if (s.startsWith("n"))
+					return false;
+			}
+		}
 	}
 }
