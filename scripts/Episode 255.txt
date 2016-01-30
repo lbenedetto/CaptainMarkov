@@ -1,0 +1,770 @@
+Episode Number: 255
+
+The Next Generation Transcripts - Interface
+Interface
+Stardate:
+47215.5
+Original Airdate: 4 Oct, 1993
+
+  [Jefferies
+tube]
+(Geordi has normal eyes and no visor) 
+RIKER [OC]: Geordi, have you found it yet? 
+LAFORGE: Not yet. I'm starting to get some fumes. Ammonia, chlorine,
+potassium chloride. 
+(Geordi climbs up into the fumes to the next level) 
+LAFORGE: I can feel the heat from here. 
+(he crawls along an access tunnel) 
+LAFORGE: There it is. 
+RIKER [OC]: How far? 
+LAFORGE: About ten metres up the ODN line. Boy, it's hot. I'd say over
+two thousand degrees. I'm going in. 
+(Geordi reaches through the flames to pull levers) 
+LAFORGE: We're okay. I've activated the emergency suppression system.
+[Laboratory]
+(Geordi is the contraption used in Offspring and
+Best of Both Worlds, wearing a virtual reality suit) 
+CRUSHER: All his vital functions are completely normal. 
+DATA: The interface unit is operating within expected parameters. 
+RIKER: Why did he start coughing when he went through the gasses? 
+CRUSHER: Psychosomatic response. 
+LAFORGE: (no visor, white eyes) I feel like I'm actually here. I mean
+there, in the Jefferies tube. It's funny. When I saw the smoke, I
+couldn't help but cough. 
+DATA: No one else has reported so complete a sensory experience. 
+CRUSHER: The interface is perfect for Geordi because his visor inputs
+allow the probe to transmit information directly into his cerebral
+cortex. 
+RIKER: It looks like this is going to work. Geordi, I'd like to get the
+probe out of the Jefferies tube and onto the launch bay before we reach
+Marijne Seven. 
+LAFORGE: Will do. Wait a minute. 
+[Jefferies tube]
+LAFORGE: Something's wrong. Can't get my left leg
+to work.
+[Laboratory]
+RIKER: What is it? 
+CRUSHER: The probe is designed to respond to any movement Geordi
+intends to make. When his brain sends a message to move his leg, the
+interface should move the probe instead. 
+DATA: Apparently the tactile sensors are too low. I will increase the
+input. 
+[Jefferies tube]
+LAFORGE: There it goes. I'm on my way down.
+[Laboratory]
+RIKER: Why the body suit? 
+DATA: It provides tactile sensations so that Geordi can feel he's in
+the same environment as the probe. 
+(Geordi is 'walking' past a panel and sees the probe as his reflection.
+He leans forward to examine it) 
+CRUSHER: Geordi, what's wrong? 
+LAFORGE: Nothing. I'm seeing my reflection in a panel. 
+[Engineering]
+LAFORGE: I forgot what a handsome guy I am.
+Captain's log, stardate 47215.5. We are responding
+to a distress call from the science vessel Raman, which is apparently
+trapped inside the turbulent atmosphere of an unusual gas giant planet.
+We will use an experimental interface probe in our attempt to rescue
+it.
+[Bridge]
+DATA: I have reviewed the vessel's mission plans.
+The Raman was to descend to the lower atmosphere, eleven thousand
+kilometres below its current position. The crew was to sample the
+atmosphere at that level, and then return to a safer orbit. 
+LAFORGE: Something must have happened down there. Maybe the shields
+failed, or they had some kind of inversion reaction in the nacelles. 
+PICARD: Any life signs? 
+LAFORGE: Our biosensors are useless. There's too much interference in
+the atmosphere. 
+RIKER: The crew might still be alive. There's no way we can tell from
+up here. 
+PICARD: Will the probe be able to transmit through that interference? 
+DATA: The probe sends information via a focused particle beam. It
+should be able to cut through the interference. 
+LAFORGE: But we may have to operate the probe at close to tolerance
+levels. 
+PICARD: Will your nervous system be able to handle that much sensory
+input? 
+LAFORGE: We've already tested the interface at about seventy percent
+tolerance. 
+RIKER: We shouldn't have any trouble going higher. The safety override
+will kick in at about ninety eight percent tolerance, and that'll
+disengage the interface. 
+WORF: Captain, I am receiving a transmission from Starfleet Command.
+Admiral Holt. 
+PICARD: In my ready room. The seven people on that ship are our first
+priority. Is the probe ready for launch?
+DATA: Yes, sir. 
+PICARD: Send it directly to the aft section of the Raman through the
+secondary air lock. That way it should put it just one bulkhead away
+from the Bridge. 
+LAFORGE: I'll interface with the probe as soon as it's ready, take it
+the rest of the way from there. 
+PICARD: Make it so.
+[Ready room]
+PICARD: Hello, Marcus. 
+HOLT [on monitor]: Jean-Luc. 
+PICARD: How's life on DS Three? 
+HOLT [on monitor]: We're hosting this year's palio. The Ferengi have
+already been accused of trying to bribe the Breen pilot into throwing
+the race. 
+PICARD: There's nothing unusual about that. 
+HOLT [on monitor]: Nothing at all. I wish I could say I was just
+calling to catch up on things. Nine days ago, the Hera left here on a
+routine courier mission. We were in contact with them for five of those
+days. Then the ship disappeared without a trace. 
+PICARD: The Hera? 
+HOLT [on monitor]: I'm afraid so. The Excelsior and the Noble have been
+retracing its course for the last seventy two hours. Nothing. I'm going
+to keep them at it for another seventy two. But to be honest, I don't
+think another week would make any difference. 
+PICARD: I'll inform Commander La Forge. 
+[Laboratory]
+PICARD: Mister Data, I'd like a word with Commander
+La Forge. 
+DATA: Aye, sir. I will be on the Bridge. 
+(Data leaves) 
+PICARD: Geordi, I've just spoken with Starfleet. The Hera is missing. 
+LAFORGE: Missing? My mother? 
+PICARD: Captain La Forge has disappeared along with the rest of her
+crew. 
+[La Forge's quarters]
+(Geordi is watching an old letter) 
+SILVA [on monitor]: I saw your father last week and your sister about
+ten days before that. I decided I missed my favourite son. 
+LAFORGE: Your only son, Ma. 
+SILVA [on monitor]: You're going to have to see the Hera again. We've
+got a lot of new faces on board, including a Chief Engineer who juices
+up the nacelles every chance she gets. I think she's the best
+technician in the fleet. Okay, second best. 
+(doorbell) 
+LAFORGE: Come in. 
+RIKER: I'm sorry, I didn't know you were 
+LAFORGE: Don't worry about it. 
+SILVA [on monitor]: Maybe you should meet her. We're going to be in the
+same sector next week. Take a shuttle over and I'll introduce you. 
+LAFORGE: My mother's always trying to find me a wife. 
+SILVA [on monitor]: But if you're too busy, I'll see you at your
+father's birthday party. Remember, if you talk to him it's a surprise. 
+(message ends) 
+LAFORGE: This came in about three weeks ago. I never got back to her. 
+RIKER: Geordi, the probe has entered the planet's atmosphere and I'm
+ready to take it onto the ship. If you would like to take a couple of
+days off, I'll run the interface. 
+LAFORGE: The interface is calibrated specifically to my visor's inputs.
+It would take you at least ten hours to convert it, and those crewmen
+down there can't wait. 
+RIKER: The interface doesn't have to be fully compatible. I could run
+it right now. I wouldn't have the same control that you have, but it
+would still work. 
+LAFORGE: Forget it. I'm the best person for the job, and there's no
+reason why we shouldn't proceed as planned. 
+RIKER: The Hera is reason enough. 
+LAFORGE: The Hera is missing, that's all. Now until I hear something
+different, my mother might just as well have taken the crew on an
+unscheduled holiday. Let's go.
+[Bridge]
+RIKER: Captain, the probe is through the airlock
+and in position aboard the Raman. 
+PICARD: Picard to Commander Data. Report.
+[Laboratory]
+DATA: We are ready to bring the interface online,
+sir. 
+PICARD [OC]: Proceed. 
+DATA: Activating the remote sensors. Initiating interface now. 
+CRUSHER: Vital signs normal. Geordi, how do you feel? 
+LAFORGE: Fine. 
+DATA: Do you have visual contact? 
+LAFORGE: Not yet. 
+[Raman corridor]
+LAFORGE: Data, turn up the input sensors. I'm not
+seeing anything. 
+DATA [OC]: Acknowledged. 
+LAFORGE: Okay, I can see. 
+[Laboratory]
+LAFORGE: But no colours. 
+DATA: Increasing signal strength to seventy five percent of tolerance. 
+LAFORGE: Ah, that's better. 
+CRUSHER: Your pulse has gone up. Your nervous system probably has to
+get used to the input levels. 
+LAFORGE: I'm excited, that's all, Doctor. This is like being on a
+roller coaster. Or a first date. I'm all right. 
+CRUSHER: I'll be the judge of that. If your heart rate gets too high,
+we're going to disconnect you. 
+LAFORGE: Understood. 
+[Raman corridor]
+LAFORGE: It's a mess in here. There must be a
+breach in the hull someplace. I'm picking up atmospheric gasses in the
+corridor. Methane and ammonia, primarily. That break in the hull might
+even be on the Bridge itself.
+I'm heading towards the Bridge. I've found someone. 
+DATA [OC]: What is your position? 
+LAFORGE: About twelve metres up the main corridor. He's trapped under
+some conduit from the bulkhead. I can't move it. I'm going to need more
+power to the tractor beam. 
+CRUSHER [OC]: Go to eighty percent of tolerance, Data. No higher. 
+(Geordi pulls off a metal bar and checks the man's pulse) 
+LAFORGE: He's dead. Data, that door at the end of this corridor. What's
+it lead to? 
+DATA [OC]: A magnetic storage bay. 
+LAFORGE: If there was a break in the Bridge, that'd be the safest place
+to go. Data, give me a phaser burst. Narrow focus, level four
+intensity. 
+(Geordi blows the lock off the door) 
+LAFORGE: I've found them. They're dead. All of them. There's a fire in
+here. Argh!
+[Laboratory]
+CRUSHER: Data, disconnect! What happened? Geordi? 
+LAFORGE: I don't know. My hands. 
+CRUSHER: They're burned. 
+[Sickbay]
+(Geordi's hands are in the healing box) 
+PICARD: How did this happen? 
+CRUSHER: There was some kind of energy discharge in the interface suit.
+PICARD: But shouldn't the safety overrides have prevented that? 
+CRUSHER: Yes, but I have a theory why they didn't. The tolerance levels
+of the interface were set extremely high. I think Geordi's neural
+response to the input was so strong that it created a feedback loop. 
+LAFORGE: The sensors that were transmitting the sensation of heat to my
+hands must've overloaded. 
+PICARD: The crew of the Raman are dead. I would like to retrieve them
+and their vessel, but not if it means putting Geordi's safety at risk. 
+LAFORGE: If we turn down the sensory input on the probe, I should be
+fine. Seven people lost their lives down there, Captain. We should at
+least retrieve the information they were collecting. 
+PICARD: Doctor? 
+CRUSHER: If we operate the interface at lower input levels, I'd say the
+risk is acceptable. 
+PICARD: Picard to Riker. 
+RIKER [OC]: Riker here. 
+PICARD: We will proceed with the probe. 
+[Bridge]
+RIKER: We'll have to take it into the Raman's
+auxiliary control room. Their Bridge is too badly damaged. 
+[Sickbay]
+PICARD: How long before you have it in position? 
+RIKER [OC]: A couple of hours. We have to cut through the bulkhead. 
+PICARD: Acknowledged. 
+CRUSHER: Well, it looks like you'll have time to recuperate. 
+LAFORGE: Yeah. There's something I've got to do anyway.
+[La Forge's quarters]
+(his Dad's on the monitor - played by Ben Vareen) 
+LAFORGE: How are you, Dad? 
+DR LA FORGE: As well as expected, under the circumstances. Are you
+okay? 
+LAFORGE: Yeah. 
+DR LA FORGE: I spoke with your sister this morning. She said she'll be
+in touch with you in a few days. Right now, she's pretty upset. The
+service for the Hera will probably be on Vulcan. Most of the crew was
+from there. But your sister and I want to have a private ceremony. 
+LAFORGE: Dad. Don't you think everybody's jumping the gun here? Last I
+heard there were still two starships out there looking for them.
+They've found no debris, no residual warp distortion. 
+DR LA FORGE: And no ship. 
+LAFORGE: Not yet, but that doesn't mean they won't. 
+DR LA FORGE: Starfleet is considering the Hera lost. The search isn't
+much more than a formality at this point. Geordi, your mother's gone. 
+LAFORGE: Yeah, well you can think that if you want. But until I see
+some hard evidence, I'm not going to give up hope. 
+DR LA FORGE: All right, Geordi. Call me if you need anything. 
+[Data's quarters]
+(Data is gazing at a blank monitor screen when the
+doorbell rings) 
+DATA: Come in.;
+LAFORGE: Hey, Data. Still working? 
+DATA: No. I have completed the adjustments on the interface. I am now
+waiting for Commander Riker to finish moving the probe. Do you need to
+be comforted? 
+LAFORGE: No. I was just passing by. I was wondering what you were up
+to. 
+DATA: I am using the time to catch up on my study of poetry. 
+LAFORGE: Data, there's nothing on the screen. 
+DATA: That is not entirely correct. While it is true the display is
+currently blank, this emptiness has a poetic meaning. Therefore it
+cannot be considered nothing as such. 
+LAFORGE: Says who? 
+DATA: The ancient Doosodarians. Much of their poetry contained such
+lacunae or empty spaces. Often these pauses measured several days in
+length, during which poet and audience were encouraged to fully
+acknowledge the emptiness of the experience. 
+LAFORGE: I remember a few lectures from Starfleet Academy that seemed
+like that. 
+DATA: Are you certain you do not wish to talk about your mother? 
+LAFORGE: Why would you ask that? 
+DATA: You are no doubt feeling emotional distress as a result of her
+disappearance. While you claim to be just passing by, that is most
+likely an excuse to start a conversation about this uncomfortable
+subject. Am I correct? 
+LAFORGE: No, Data. Sometimes just passing by means, just passing by. 
+DATA: Then I apologise for my premature assumption. This particular
+poem has a lacuna of forty seven minutes. You may experience the
+emptiness with me if you wish. 
+LAFORGE: Thanks. (deep breath) You know, Data, maybe you gave up a
+little too easily. 
+DATA: I do not understand. 
+LAFORGE: Well, when I said just passing by means just passing by, I
+really didn't mean it. 
+DATA: My initial assumption was correct. You do wish to speak of your
+mother. 
+LAFORGE: Am I crazy to think that she's still alive? 
+DATA: Your sanity is not in question. However, your evaluation of the
+available information is biased. 
+LAFORGE: She's a starship captain. She's gotten herself into and out of
+impossible situations before. Why should this be any different? 
+DATA: Disappearances fitting the profile of the Hera have rarely ended
+with the safe recovery of ship and crew. 
+LAFORGE: Well that makes me feel much better. Look, I'm sorry, Data. I
+didn't mean to snap at you. 
+DATA: I am not offended. You are upset. Your reactions are not
+surprising. 
+LAFORGE: It's just that, if she really is dead, I don't know what I'm
+going to do. 
+[Laboratory]
+CRUSHER: We're receiving the probe's telemetry. 
+DATA: The input levels are currently at fifty three percent of
+tolerance. 
+LAFORGE: That's too low, Data. I won't be able to do anything down
+there. 
+CRUSHER: I want to start with as wide a margin of safety as possible.
+We can adjust upward later. Ready? 
+LAFORGE: Go ahead. 
+DATA: Initiating interface. 
+LAFORGE: I can't see anything. 
+[Raman Auxiliary control]
+DATA [OC]: I am increasing the input now. 
+LAFORGE: Yeah. Yeah, that's better, but I need more. 
+DATA [OC]: Is this level sufficient? Geordi? Geordi, do you hear me? 
+(but Geordi is staring at a woman in a Starfleet uniform standing in
+front of him) 
+LAFORGE: Mom? Mom, is it you? 
+SILVA: Is it you? 
+LAFORGE: Oh, I forgot. All you can see is this probe. Yes, it's me. I'm
+actually on the Enterprise. I'm interfaced with this probe. 
+[Laboratory]
+CRUSHER: Geordi, who are you speaking to? What are
+you seeing? 
+[Raman Auxiliary control]
+LAFORGE: But is it really you? 
+SILVA: Yes, Geordi. It's mom. 
+LAFORGE: But bow can that be? I mean, how is it possible? 
+SILVA: There's no time to explain. We have to go down. 
+LAFORGE: Down where? 
+SILVA: The surface. 
+[Laboratory]
+CRUSHER: Geordi, report. 
+[Raman Auxiliary control]
+LAFORGE: Hang on, Doctor. Why? Why do we have to go
+down to the surface? 
+SILVA: We're dying. 
+LAFORGE: We? The Hera? You mean the Hera is down there? 
+CRUSHER [OC]: We're disconnecting you right now. 
+LAFORGE: No, wait. 
+SILVA: We need your help. I need your help. Geordi 
+LAFORGE: Mom. 
+(Geordi touches her, and gets a big shock) 
+[Laboratory]
+DATA: The cut off has been automatically activated.
+CRUSHER: He's in neural shock.
+[Sickbay]
+CRUSHER: The sensory overload didn't cause any
+permanent damage, but I wouldn't want to expose his brain to that kind
+of stimulus again. 
+PICARD: Is there any indication what caused this hallucination? 
+CRUSHER: His brain functions are normal. 
+LAFORGE: I told you, I wasn't hallucinating. 
+DATA: Geordi, I have analysed the probe's sensor logs. There are no
+record to indicate the presence of a living human on board the Raman. 
+LAFORGE: Well she wasn't actually there. Her ship is down on the
+surface. 
+PICARD: So you believe that what you saw was some kind of transmission?
+LAFORGE: Somehow she has managed to communicate with me. 
+DATA: We have no indication of a transmission of any kind. 
+LAFORGE: Maybe I'm the only one who can detect it because I'm
+interfaced with the probe. 
+DATA: The probe does allow Geordi to sense quantum fluctuations,
+subspace anomalies, and other phenomenon not perceptible by any other
+kind of sensors. 
+PICARD: Granted, but how could he perceive his mother visually as if
+she were standing there in the room? 
+CRUSHER: I'm not sure, I do know that our brains weren't designed to
+process the kind of sensory information Geordi was getting. When the
+brain receives something it can't understand, it interprets the input
+as best it can, sometimes as a smell or a sound, sometimes visually. 
+LAFORGE: You see? 
+CRUSHER: But Geordi, I'm not saying that your mother was really
+communicating with you. I'm just trying to give you a reason why you
+might've thought that she was. 
+LAFORGE: Look, I'm telling you my mother's ship is trapped down there
+and we've got to help them. 
+PICARD: Geordi, the Hera's last reported location was three hundred
+light years away. How could it end up here? 
+DATA: If the Hera is on the surface, its hull could not possibly
+withstand the pressure of the atmosphere. 
+LAFORGE: Well at least let me go back down there just to be sure. 
+CRUSHER: I do not recommend that he use the interface again. The
+sensory overload almost killed you. 
+LAFORGE: I'll be all right. 
+PICARD: No, no, I'm sorry, Geordi. I'm not prepared to risk your life.
+Data, find another way of salvaging the Raman. I want an alternate plan
+in two hours. 
+(Data leaves) 
+PICARD: Geordi, I'd like you to talk to Counsellor Troi. She's
+expecting you. 
+LAFORGE: Aye, sir. 
+[Troi's office]
+TROI: What's your mother like, Geordi? 
+LAFORGE: If you think I'm going to start talking about my childhood,
+Counsellor, you're way off. 
+TROI: That's not what I asked. 
+LAFORGE: Well, she's, she's brilliant. Funny. She's incredibly
+perceptive. She knows people. Knows what they're all about even before
+they open their mouths. She's always been that way. She's a real good
+judge of character. 
+TROI: When was the last time you saw her? 
+LAFORGE: About seven months ago, when she first took command of the
+Hera. I went to a party she had for her crew. She wanted me to come
+over and see her, but I was really busy at the time. I mean I suppose I
+could have made the time to go and see her, but, you know, I just
+didn't think that. I mean, you know, I, I didn't think that 
+TROI: You didn't think it would be your last chance to see her. 
+LAFORGE: That's not what I was going to say. 
+TROI: I want to suggest something. Call it a theory, all right? 
+LAFORGE: All right. 
+TROI: You're worried about the disappearance of your mother, guilty
+that you didn't see her when you had the chance, so you're unwilling to
+consider that she might be dead. Your need to believe she's alive is so
+strong that it manifests itself as a physical image. 
+LAFORGE: But she told me she's trapped on that planet, that she's in
+danger. Now, if this was some kind of wish fulfillment, don't you think
+I'd be fantasising her safe and sound? 
+TROI: No. Because that would be the end of your fantasy. You'd know it
+wasn't true. The more involved and complicated and unending your story
+is, the longer you can believe your mother's still alive. 
+LAFORGE: Yeah, well, that's your theory, Counsellor. I've got one of my
+own.
+[Observation lounge]
+DATA: I have been exploring the possibility of
+using a tractor beam to pull the Raman from the atmosphere. However,
+the high level of interference prevents a positive lock. 
+RIKER: If we set up some sort of relay system? 
+DATA: That is my conclusion as well, Commander. Two shuttlecraft,
+staggered between the Enterprise and the Raman, with their shields
+adjusted to refocus the tractor beam. 
+PICARD: Can we get the shuttles close enough without danger? Mister La
+Forge. 
+LAFORGE: Sure. Yeah. As long as we keep them both above the
+troposphere, that'll be all right. 
+PICARD: Then in that case 
+LAFORGE: But what about the Hera? We'd be leaving my mother and her
+crew stranded on the planet. 
+PICARD: Commander. 
+LAFORGE: I've been thinking about this. A couple of weeks ago I got a
+message from my mother. She said she had a new Chief Engineer who had
+been experimenting with the warp drive. Now, I've seen the Hera. It
+uses trionic initiators in the warp coil. They have a reputation
+of strange side effects, especially when you start playing around with
+them. 
+DATA: There have been reports of warp bubbles and other subspace
+deformations. 
+LAFORGE: So, what if that's what happened? Not a warp bubble, but a
+subspace funnel. 
+RIKER: Connecting two points through subspace? 
+LAFORGE: Well the Hera could have accidentally created a distortion
+that emptied out right here at Marijne Seven. 
+PICARD: Why here? 
+LAFORGE: The Hera passed near this planet just ten days ago. There's an
+awful lot of subspace disturbance in the atmosphere. The ship could've
+accidentally picked up some residual traces that directed the funnel
+right back here. 
+RIKER: So the Hera's in one piece somewhere out there? 
+LAFORGE: Maybe it's being surrounded by some kind of warp field, but
+who knows for how long? 
+PICARD: Mister La Forge, do you have any evidence to support this
+hypothesis? 
+LAFORGE: I did pick up some pretty strange subspace readings when I was
+interfaced with the probe. 
+RIKER: Geordi, that could have been anything. 
+LAFORGE: Yeah, but I talked to her, Commander. She asked me to bring
+the Raman closer to the planet. 
+PICARD: Mister Data, is any of this possible? 
+DATA: Yes, sir. However, it is highly unlikely. 
+PICARD: How unlikely? 
+DATA: Nearly impossible, sir. 
+PICARD: let's proceed with the shuttle plan. 
+LAFORGE: Captain 
+PICARD: Dismissed. Mister La Forge. 
+(Riker and Data leave) 
+PICARD: I want you to know that I am not unsympathetic to what you're
+going through. Your mother's disappearance is tragic, but I cannot risk
+your safety on the basis of a dubious hypothesis. 
+LAFORGE: Captain, if I'm right and there's just one chance in a million
+that she's alive 
+PICARD: I'm sorry, Geordi. My decision is made. 
+LAFORGE: I understand, sir.
+[Engineering]
+RIKER: We'll be in position to use the tractor beam
+in less than an hour. 
+LAFORGE: You didn't come all the way down here to tell me that. 
+RIKER: No, I didn't. Geordi, I may have seemed a little harsh about the
+situation aboard the Raman. I just don't like the idea of one of my
+best officers putting himself in unnecessary danger. 
+LAFORGE: I guess I feel like I should be the one to decide whether it's
+unnecessary or not. 
+RIKER: My mother died when I was a baby. All I have is pictures, and
+the stories that my father used to tell me about her. I begged him to
+tell those stories over and over. When I was five and I went to school,
+I started to tell my new friends those same stories, pretending that
+she was alive. Then I started believing that she was alive, that she'd
+just gone away, that she was coming back. The teacher got wind of this,
+and she and my father had this talk with me. They told me it was
+important to accept the fact that my mother was dead and that she
+wasn't coming back. And all the hoping in the world wouldn't make it
+so. In my mind, that was the day that my mother actually died. I cried
+all that night. But after that, it started feeling better. 
+LAFORGE: Your mother was dead. There was proof. There was a body, and a
+funeral. It was a reality. 
+RIKER: Geordi. 
+LAFORGE: If I could see a body, if there were wreckage, I could accept
+it, but my mother has just disappeared. And now, there's a possibility
+that she is alive. And I'm not going to quit. Not yet. 
+[Laboratory]
+(Geordi activates the interface monitors when the
+doors open) 
+DATA: I suspected you would attempt to operate the interface alone. 
+LAFORGE: Did you? 
+DATA: I am familiar enough with your behaviour patterns to predict
+certain decisions. 
+LAFORGE: Well I guess you know me pretty well. 
+DATA: You are disobeying the Captain. 
+LAFORGE: I can't just sit back and do nothing when I know that my
+mother might be down on that planet. 
+DATA: I can not allow you to endanger your well-being. 
+LAFORGE: Data, if I leave without knowing for sure, then I'll have to
+live with that for the rest of my life, wondering if I left her to die.
+I couldn't do that. That's why I've got to do this. 
+DATA: I could have you confined to quarters for the duration of the
+mission. 
+LAFORGE: If that's what you need to do, Data, then do it. Because
+nothing short of that is going to stop me from trying to save my
+mother. 
+(Data goes to the interface monitor) 
+LAFORGE: What are you doing? 
+DATA: I will monitor the interface and attempt to keep you safe. I can
+not have you confined to quarters for something you have not yet done. 
+LAFORGE: You know we could both get in a lot of trouble for this. 
+DATA: There is a high degree of probability that you are correct. 
+LAFORGE: Thanks, Data. 
+DATA: However, I do have a request. 
+LAFORGE: Yeah? What's that? 
+DATA: I would ask you to consider the possibility that what you see is
+not real. 
+LAFORGE: I will. I promise. 
+DATA: I am establishing the interface. 
+[Raman Auxiliary control]
+LAFORGE: Mom? Mom? 
+SILVA: Hello, Geordi. 
+LAFORGE: Mom, how did you get here? 
+SILVA: I'm not really with you, Geordi. I'm on my ship, on the surface.
+We were pulled into a warp funnel. 
+LAFORGE: That's just what I thought. How are we communicating? 
+SILVA: We found a way to send a subspace signal that could cut through
+the atmospheric interference. 
+DATA [OC]: Geordi, are you seeing the image of your mother? 
+LAFORGE: Yes, and she's just 
+[Laboratory]
+LAFORGE: Confirmed everything I've been saying. 
+DATA: I am reading unusual subspace energy in your vicinity, similar to
+what the probe sensor recorded the first time you encountered your
+mother. 
+LAFORGE: That's how she's communicating with me. It's the only kind of
+signal they could send that could cut through the interference.
+[Raman Auxiliary control]
+SILVA: We need your help. 
+LAFORGE: I've been thinking about this. I'm going to take the Raman
+into a low stationary orbit and initiate an inverse warp cascade. 
+SILVA: Why? 
+LAFORGE: The subspace distortion from the cascade should reverse the
+warp funnel. Your ship will end up right back where it started.
+[Laboratory]
+DATA: Geordi, the atmosphere becomes increasingly
+turbulent the farther down you go. You may not be able to bring the
+Raman close enough to the Hera before being destroyed. 
+LAFORGE: I have to try, Data.
+[Raman Auxiliary control]
+SILVA: We're running out of time. 
+LAFORGE: Shields back online. We're starting our descent. Thank God. 
+SILVA: Thank God? 
+LAFORGE: That you're alive. That I was right about all of this. I can't
+wait to call Dad. He and Ariana had given up. 
+SILVA: We're going home. 
+LAFORGE: Well, eventually, yeah. Data, everything's fading in and out.
+[Laboratory]
+LAFORGE: I'm losing the interface. 
+DATA: The probe is descending out of range. 
+LAFORGE: You'll have to turn up the input gain to maintain my
+connection. 
+DATA: We are already at seventy five percent of tolerance. 
+LAFORGE: Data, you can turn it all the way up to a hundred if you
+increase it slowly enough. Give my nervous system chance to adjust. 
+DATA: That is theoretically true, but even at this level of input you
+are already experiencing dangerous neural feedback. 
+LAFORGE: There are over three hundred people on board the Hera, Data.
+You and I are the only chance they've got. 
+DATA: I will increase the gain incrementally as you descend.
+[Raman Auxiliary control]
+LAFORGE: It's working.
+[Laboratory]
+DATA: When we are ready to disconnect the
+interface, we must allow enough time to lower the input levels,
+otherwise your nervous system will go into shock from the sudden drop
+in input.
+[Raman Auxiliary control]
+LAFORGE: Once I initiate the warp cascade we can
+start dropping the gain. 
+DATA [OC]: Understood. 
+LAFORGE: We'll be in sensor range of the Hera within a few minutes.
+Mom, I'm really sorry I didn't by to see you a few weeks ago. 
+SILVA: You were too busy with work. 
+LAFORGE: Yeah, well, I'm sorry. It won't happen again.
+[Bridge]
+WORF: Captain, the Raman is descending toward the
+planet. 
+RIKER: Geordi. 
+[Laboratory]
+DATA: We are at ninety percent of tolerance. My
+calculations show you will reach one hundred percent of tolerance
+before you are in range of the Hera. 
+LAFORGE: Then we're going to have to go beyond tolerance. 
+DATA: That would not be advisable. You must cease your descent.
+[Raman Auxiliary control]
+SILVA: No, Geordi, don't, please. 
+LAFORGE: Data, I'm taking this ship down. Now, if you don't boost the
+gain past tolerance levels, I'll lose the interface when we go out of
+range and my system will go into shock.
+[Laboratory]
+DATA: Geordi, you are putting me in a difficult
+position. Please, cease your descent. 
+[Raman Auxiliary control]
+LAFORGE: I won't do it, Data. You're going to have
+to increase the tolerance. 
+[Laboratory]
+DATA: Disengaging safety systems. Going to full
+tolerance levels, now. 
+LAFORGE: Thank you, Data.
+[Auxiliary control]
+LAFORGE: We're getting close. 
+SILVA: Thank God. 
+PICARD [OC]: Commander La Forge. 
+LAFORGE: Yes, Captain?
+[Laboratory]
+PICARD: Stop your descent. Prepare to disengage the
+interface. 
+LAFORGE: Sorry, Captain, but I can't do that. 
+PICARD: Damn it, Geordi, you're going to kill yourself. 
+LAFORGE: If I come back now, my mother and her entire crew will die. 
+[Raman Auxiliary control]
+LAFORGE: I'm scanning for your ship. I'm not
+getting anything. 
+SILVA: We're still too far away. 
+LAFORGE: No, not really. I should be picking something up by now. I'm
+not finding anything. There's no warp funnel, no ship. There's nothing
+there. 
+(Silva is behind Geordi, moving her hands to the
+side of his head. Red energy passes from her fingers to Geordi) 
+[Laboratory]
+PICARD: Doctor, report. 
+CRUSHER: His neural synapses are overloading. He can't survive this. 
+PICARD: Geordi, what's happening to you? 
+LAFORGE: Reverse tractor beam.
+[Raman Auxiliary control]
+DATA [OC]: Reversing tractor beam. 
+(Silva is thrown off and reveals herself as a flame before reverting to
+the image of Geordi's mother again) 
+LAFORGE: What are you? 
+SILVA: You're killing us. We must go down. 
+PICARD [OC]: Geordi?
+[Laboratory]
+PICARD: What's happening? Report. 
+LAFORGE: You're, you're trapped? 
+PICARD: Is there any way that we can disconnect him? 
+CRUSHER: If we take him off too abruptly, he'll go into neural shock. 
+LAFORGE: Caught on the ship? 
+PICARD: Reduce the input gradually, and still get him out before it's
+too late. 
+LAFORGE: Are you saying that you killed the Raman's crew? 
+DATA: Perhaps we could deceive his neural receptors. 
+PICARD: Deceive them? 
+DATA: By feeding them the sensory information recorded from his earlier
+experiences with the probe. 
+CRUSHER: We could disconnect the interface and still maintain the input
+levels. 
+DATA: We could then lower them in a controlled manner. 
+LAFORGE: What do you want? 
+PICARD: Like a decompression tank? Let's try it. 
+LAFORGE: Then, it was an accident? Captain, I have to take the ship
+into the lower atmosphere. 
+PICARD: Explain. 
+[Raman Auxiliary control]
+LAFORGE: As I understand it, when the Raman got
+close to the planet it accidentally picked up some lifeforms that live
+in the lower atmosphere. 
+[Laboratory]
+LAFORGE: Subspace beings of some kind. Intelligent.
+When the ship went back into a higher orbit, the beings were trapped. 
+PICARD: How do you know all this? 
+LAFORGE: One of them can communicate with me. 
+[Raman Auxiliary control]
+LAFORGE: It must have read my thoughts through the
+probe interface and took the form of my mother to try to talk me into
+taking the ship closer to the surface. 
+PICARD [OC]: Are these beings
+[Laboratory]
+PICARD: Responsible for the death of the Raman's
+crew? 
+LAFORGE: Yes, but I don't think it was on purpose. They probably tried
+communicating with them the same way they're communicating with me, by
+directly accessing their thoughts. It must've been fatal to the crew. I
+guess the interface is what protected me.
+[Raman Auxiliary control]
+LAFORGE: I have to take them back, Captain. They
+can't survive so far up in the atmosphere. I'll turn the ship around
+and come back as soon as I'm 
+(rumble, bang, flash) 
+[Laboratory]
+PICARD: Geordi, what's happening? 
+LAFORGE: The atmosphere is getting more turbulent. It's overloading the
+systems. 
+[Raman Auxiliary control]
+LAFORGE: I'm having difficulty keeping the shields
+up. 
+SILVA: Geordi. We're safe now. Goodbye. 
+(she turns into flame and goes through the bulkhead. BANG!) 
+LAFORGE: I'm losing power. 
+[Laboratory]
+LAFORGE: Total shield failure in eight seconds. 
+PICARD: Can we switch the input? 
+CRUSHER: Almost.
+[Raman Auxiliary control]
+LAFORGE: Shields are failing! 
+(and the ship is falling apart) 
+[Laboratory]
+CRUSHER: Switching inputs. 
+(Geordi has gone rigid. Beverly gives him a hypo) 
+PICARD: Is it working? 
+CRUSHER: His vital signs are stabilising. He's going to make it.
+Captain's log, supplemental. We have succeeded in
+disengaging Mister La Forge from the interface and are en route to
+Starbase four nine five.
+[Ready room]
+PICARD: You disobeyed my direct order. You put
+yourself in grave danger. I am not happy. 
+LAFORGE: Yes, sir. I take complete responsibility. Data was only 
+PICARD: I will deal with Mister Data at another time. Meanwhile, I will
+have to write this incident into your permanent record. 
+LAFORGE: Yes, sir. 
+PICARD: Dismissed. Geordi? I'm very sorry that you didn't find your
+mother. 
+LAFORGE: Thank you, sir. You know, it was funny. When I was down there,
+it was so real. I felt like I had a chance to say goodbye. 
+
+

@@ -1,0 +1,601 @@
+Episode Number: 262
+
+The Next Generation Transcripts - Inheritance
+Inheritance
+Stardate:
+47410.2
+Original Airdate: 22 Nov, 1993
+
+ 
+Captain's log, stardate 47410.2. The Atrean government has requested
+assistance in averting a natural disaster. Two of their geologists have
+come aboard, one of whom is a human who has been living on Atrea Four.
+[Observation lounge]
+JULIANA: Captain, our situation has worsened since
+my husband and I first contacted you. The molten core of our planet is
+not just cooling, it's begun to solidify. 
+PRAN: Our gravitational field has been affected. Seismic activity has
+increased by a factor of three. 
+JULIANA: If the cooling continues at this rate Atrea will become
+uninhabitable in thirteen months. 
+LAFORGE: We could minimise seismic activity by creating isobaric
+fissures and relieving some of the tectonic stress, but that would just
+be a temporary fix. 
+DATA: The only permanent solution would be to re-liquefy the core. 
+LAFORGE: These pockets in the magma layer, how close are they to the
+molten region of the core? 
+JULIANA: A few kilometres, why? 
+LAFORGE: Data, do you think that's close enough for ferro-plasmic
+infusion? 
+DATA: The procedure will involve using the ship's phasers to drill down
+through the planet's surface into the pockets, where we would set up a
+series of plasma infusion units. 
+LAFORGE: We'll trigger the units by firing modulated energy bursts down
+through the shafts. 
+JULIANA: I see. Injecting sufficient plasma directly into the core
+should trigger a chain reaction, and that will reliquify the magma. 
+DATA: It should be possible to stabilise the core temperature at ninety
+three percent of normal. 
+PRAN: If it works, the core would remain molten for centuries. 
+PICARD: If you give your permission, we could begin immediately. 
+PRAN: Very well. But before we proceed, I'd like to update our
+geological surveys. 
+LAFORGE: Fine. I'd be very happy to help you with that, Doctor. 
+PICARD: I've assigned you quarters during out time here. Please, make
+yourselves comfortable. 
+PRAN: Thank you, Captain. 
+(Pran, Picard and La Forge leave);
+JULIANA: Data? 
+DATA: Yes, Doctor? 
+JULIANA: Do you have any idea who I am? 
+DATA: You are Doctor Juliana Tainer. 
+JULIANA: You lost all your early memories. We thought you would, but we
+couldn't be certain. 
+DATA: Have we met before? 
+JULIANA: Oh, Data, I was there, right at the beginning on Omicron
+Theta. I helped create you. Now look at you. 
+DATA: You were a colleague of Doctor Soong? 
+JULIANA: Yes, I certainly was. And I was also his wife. In a way, I
+suppose you could say I am your mother.
+[Ten Forward]
+JULIANA: I still can't believe I'm seeing you like
+this again, after all these years. 
+DATA: Doctor, I have no memory of you. 
+JULIANA: Oh, there's a reason for that. We wiped your processors after
+we finished refining your programming. Why don't you tell me what you
+do remember, and then I'll fill in the gaps. 
+DATA: My memory record begins when I was activated by the Starfleet
+officers on the Omicron Theta outpost. 
+JULIANA: After the attack of the Crystalline Entity. 
+DATA: Yes. All of the inhabitants of the colony were killed. However, I
+discovered that my memory banks contained the contents of their
+journals and logs. 
+JULIANA: We hoped their experiences would be useful. After your
+childhood, we figured you could use all the help you could get. 
+DATA: My childhood? 
+JULIANA: That's what I called it. You were like a baby, at first. A
+hundred kilogram baby, but still. You had trouble learning your motor
+skills, learning how to process sensory information. And of course
+Noonian was never satisfied. He kept tinkering, trying to make you as
+human as possible. 
+DATA: So you wiped my memory processors after this childhood. 
+JULIANA: Then we deactivated you and programmed you with the colonists'
+logs. We had planned to reactivate you, but we never got the chance.
+That's when the Crystalline Entity attacked. We had to leave quickly.
+We wanted to take you with us, but there was only room for two in the
+escape pod. 
+DATA: Doctor, I have scanned the journals of the colonists. There is
+only one Juliana mentioned in them. Her last name was O'Donnell. 
+JULIANA: That's me. 
+DATA: But there was no mention that my father was married to you. 
+JULIANA: Because of my mother. She thought that Noonian was an
+eccentric scientist who was too old for me. We decided to marry
+secretly to give her a chance to get used to our being together. We
+slipped away to Mavala Four and got married there. A Klingon and a
+Corvallan trader were our witnesses. It wasn't exactly the wedding I'd
+hoped for. Somehow Noonian had a way of making even the oddest things
+seem romantic. 
+DATA: My father did have an unusual way of looking at things. 
+JULIANA: How would you know that? 
+DATA: I encountered him once in the Terlina system. 
+JULIANA: That's where we went to after we left the outpost. I had no
+idea that you'd even met him. 
+DATA: It was shortly before his death. 
+JULIANA: He's dead? 
+DATA: Yes. 
+JULIANA: I had no idea it would hit me this hard. We didn't exactly
+part on the best of terms. 
+DATA: What do you mean? 
+JULIANA: I realised he loved his work as much as he loved me. Maybe
+more. There we were, stuck on this planet in the middle of the jungle
+with no one else to talk to. No life. It just wasn't enough. That's why
+I left. That was all a very, very long time ago. The important thing is
+that we're here now together. And I do want to get to know you. 
+DATA: This has been an interesting encounter, and an altogether
+unexpected one. I would like to corroborate your story before we
+proceed further. Excuse me, Doctor.
+[Engineering]
+LAFORGE: Data, I'm almost finished reconfiguring
+the phaser banks. We should be able to start drilling in about an hour.
+DATA: Inform me when you are ready. 
+LAFORGE: What is it you're doing over there? 
+DATA: I am attempting to ascertain whether Doctor Tainer's story is
+true. 
+LAFORGE: Don't you believe her? 
+DATA: I neither believe nor doubt. I am simply attempting to verify her
+assertions. 
+LAFORGE: Well, what have you turned up so far? 
+DATA: The Registrar's Office on Mavala Four cannot confirm whether
+Doctor Soong was married there. Apparently many of the documents were
+lost when the government was overthrown. 
+LAFORGE: What's that you're looking at? 
+DATA: I am checking passenger manifests to see if they went to Mavala
+during the period in question. O'Donnell, Juliana. Soong, Noonian. They
+were both passengers on a transport which travelled from Omicron Theta
+to Mavala and returned four days later. 
+LAFORGE: That sure fits with her story. 
+DATA: Still, the fact that they went to Mavala does not prove they were
+married there. 
+LAFORGE: You know, Data, it almost seems to me like you're trying to
+prove that Doctor Tainer wasn't telling the truth. 
+DATA: Not at all. I am merely unable to reconcile her story with the
+fact that my father never mentioned her to me. 
+LAFORGE: Well, she did leave him. Maybe she broke his heart. Maybe he
+just didn't want to talk about her. Let me ask you this. Doctor Soong
+created an emotion chip. Didn't Lore tell you that chip also contained
+memories, memories Soong wanted you to have? 
+DATA: Yes. It is possible that those are memories of my childhood. And
+of Mrs Soong. 
+LAFORGE: When you think about it, why would she want to lie? Why would
+anybody want to pretend to be your mother? 
+DATA: I can think of no motive for such a pretense. 
+LAFORGE: And I can understand that this might all be a little
+disconcerting for you, Data. It came out of the blue, and it doesn't
+fit into your logical processors. 
+DATA: That is true. 
+LAFORGE: But that's life, Data. Part of being human is learning how to
+deal with the unexpected. To risk new experiences even when they don't
+fit into your preconceptions. 
+DATA: I admit I am finding it difficult to accept the possibility of a
+past about which I know nothing. But it is also true that I am curious
+to learn more about it. 
+[Ten Forward]
+(Juliana is having a meal when Data walks up to her
+table) 
+JULIANA: Data? 
+DATA: I would like to get to know you better, Mother.
+[Corridor]
+JULIANA: I wanted to make you female, but your
+father insisted on a son. We argued about it endlessly, right up until
+we were ready to assemble you. 
+DATA: How did you decide? 
+JULIANA: Noonian walked in with your head in his hand and, innocent as
+you please, said it was up to me. He knew perfectly well what he was
+doing. Once again he had made it in his own image. What could I
+possibly say? (reads door name plate) Deanna Troi, is that who you're
+going to visit? 
+DATA: Yes. 
+JULIANA: Your father would be so pleased. 
+DATA: Pleased? 
+JULIANA: He was worried that the sexuality programme he designed for
+you wouldn't work. 
+DATA: You misunderstand. Counsellor Troi is a therapist. 
+JULIANA: Goodnight. 
+[Engineering]
+DATA: We will be in position over the drilling site
+in three minutes twenty nine seconds. 
+(Juliana rests her hand on his shoulder) 
+DATA: These scans indicate that the magma pockets where we plan to set
+up the infusion units are somewhat unstable. 
+JULIANA: I'm going to monitor the density of the rock layers and adjust
+the strength of the particle beam as we go. That should minimise the
+seismic stress that we generate while we're drilling. 
+LAFORGE: Data, I reconfigured the phasers to create the most highly
+focused particle beam possible. 
+DATA: Thank you, Geordi. 
+JULIANA: I'm just so pleased you've got good manners. It wasn't easy to
+strike the right balance with your programming. At first you couldn't
+have cared less about the social niceties like please and thank you.
+You were downright rude, in fact. 
+LAFORGE: Data? That's hard to picture. 
+JULIANA: That was nothing to the problems we encountered. Never mind. I
+don't want to embarrass you. 
+DATA: I am incapable of embarrassment. Please continue. 
+JULIANA: Well, the one thing we couldn't anticipate was that you didn't
+seem to mind about being naked. Some of the colonists objected to
+having an anatomically correct android running around without any
+clothes on. We asked you to dress, but you didn't feel it was necessary
+because you didn't suffer from the elements. We actually had to write a
+modesty sub-routine to get you to keep your clothes on. 
+RIKER [OC]: Bridge to Engineering. 
+LAFORGE: La Forge here. Go ahead, Commander. 
+RIKER [OC]: We've established a synchronous orbit over the drilling
+site. 
+LAFORGE: Phaser modifications are online, sir. 
+DATA: My calculations indicate 
+[Bridge]
+DATA [OC]: The first phaser blast will be
+approximately nineteen seconds in duration. 
+RIKER: Acknowledged. 
+PRAN: Someone's checked his calculations, of course. 
+RIKER: No, but I'm sure Mister Data knows what he's doing. 
+PRAN: Even so, he is a machine. Someone should check up on him. 
+RIKER: I have complete confidence in Mister Data's ability to check up
+on himself. Mister Worf? 
+WORF: Phasers locked on target. 
+RIKER: Fire when ready.
+[Engineering]
+DATA: We are within two kilometres of the magma
+pocket. 
+JULIANA: Another five seconds should do it. We've broken through. 
+[Bridge]
+WORF: Terminating the beam. 
+[Engineering]
+JULIANA: The pocket seems stable. 
+DATA: I detect no increase in the stress levels of the surrounding
+magma. 
+RIKER [OC]: Good work, Data. 
+[Bridge]
+RIKER: I don't think we could have gotten it any
+cleaner. 
+JULIANA [OC]: We have Data to thank for that. I couldn't have done it
+without him. His figures were perfect. 
+[Engineering]
+DATA: The drilling process has raised the
+temperature in the magma pockets by almost three hundred degrees
+Celsius. It will be several hours before it cools enough for us to
+enter. 
+JULIANA: Data, do you have any plans right now? 
+DATA: I do not. 
+JULIANA: Maybe we should spend a little time together? I'd love to see
+your quarters. 
+[Data's quarters]
+(Data plays violin for her. Juliana applauds) 
+DATA: Thank you. I will be playing this piece at a recital tomorrow
+evening. 
+JULIANA: That was beautiful. 
+DATA: I have been told that my playing is technically flawless, but no
+one has described it as beautiful. 
+JULIANA: It was, really. 
+DATA: Are you certain you are not saying this because you are my
+mother? I have noticed that parents tend to exaggerate when it comes to
+their children's accomplishments. 
+JULIANA: I suppose there's a certain amount of vanity involved,
+considering that giving you a creative aspect was my idea. Your father
+didn't really see the point. He thought that since you didn't have
+emotions, there would be no real need for you to express yourself.
+Somehow I had the feeling the opposite would be true. 
+DATA: I do not know for certain, but I believe it is during my creative
+endeavours that I come closest to experiencing what it must be like to
+be human. 
+JULIANA: Well, I'm glad I insisted. 
+DATA: As am I. 
+JULIANA: Data, I'm very familiar with that Handel piece. How would you
+feel about my playing the viola part tomorrow? 
+DATA: I would like that very much. 
+JULIANA: I'll have to practice. You don't have a viola? 
+DATA: I could replicate one for you. Computer, please replicate one
+viola. 
+JULIANA: Did you paint these? 
+DATA: Yes. I am attempting to master all known styles of painting. This
+one is in the style of the early French impressionists. 
+JULIANA: It's very good. Who's this? 
+DATA: That is Lal, my daughter. 
+JULIANA: Your daughter? 
+DATA: I created her, using myself as a model. 
+JULIANA: Where is she now? 
+DATA: The positronic matrix I designed for her was unstable. She only
+lived a short time. 
+JULIANA: I see. 
+DATA: In a sense, you were her grandmother. Would you like to practice
+now? 
+JULIANA: Yes. Yes, of course. 
+[Ten Forward]
+(the place is empty so they are practising here) 
+DATA: The acoustics in Ten Forward are most favourable. 
+JULIANA: Yes, yes, very nice. Data, may I ask you something? 
+DATA: Of course. 
+JULIANA: Do you think you'll ever try to create an android again? 
+DATA: Perhaps. I created Lal because I wished to procreate. Despite
+what happened to her, I still have that wish. 
+JULIANA: How do you know the same thing won't happen? Creating a stable
+positronic matrix is very tricky. Your father lost several prototypes
+before Lore. 
+DATA: I was not aware he created other androids before my brother. 
+JULIANA: There were three of them. They were like children to us.
+Losing them was very painful. When Noonian decided to try again, I was
+very much against it. I didn't think we had the right to bring a life
+into the world with so little chance of surviving. But your Father was
+sure that he'd figured out what went wrong, insisted he could make a
+stable matrix, and he did. But Lore was cruel. Evil. Eventually we had
+no choice, we had to dismantle him. Your father decided to build yet
+another android, one who didn't have emotions. I couldn't believe he
+would want to try again. 
+DATA: I am that android. Are you saying you were against my creation? 
+JULIANA: Initially I was. But I was wrong, I know that now. I've
+followed your progress for years. I'm very proud of what you've
+accomplished. 
+DATA: Then why did you never attempt to contact me? 
+JULIANA: Because I felt guilty about something I'd done. 
+DATA: Perhaps if you told me what has made you feel this way, it may
+alleviated the guilt. 
+JULIANA: I lied. When I said there was no room for you in the escape
+pod that we took from Omicron. There was. I didn't want to bring you
+with us. I was afraid if we reactivated you, you'd turn out like Lore.
+I made Noonian leave you behind. 
+[Engineering]
+DATA: We are within four kilometres of the magma
+pocket. 
+(the ship starts shaking) 
+LAFORGE: We're picking up feedback pulses along the particle beam. 
+JULIANA: We must have hit a pocket of magnesite ore. I'll try to adjust
+the phaser harmonics to compensate. 
+RIKER [OC]: Data, we're going to have to terminate the beam if this
+keeps up. 
+DATA: If we do, we will have to begin a new shaft at a suitable
+location. 
+JULIANA: There is no other suitable location. Just give me a few more
+seconds. 
+LAFORGE: Doctor, it's going to take longer than that to match the 
+(the shaking stops) 
+LAFORGE: You did it. 
+JULIANA: It was just luck I hit the right frequency. All right, we're
+less than two kilometres away from the target site. Stand by to
+terminate the beam. 
+LAFORGE: We've broken through. 
+JULIANA: Now. 
+DATA: I am detecting no signs of 
+[Bridge]
+DATA [OC]: Instability. 
+PRAN: Commander, may I suggest we set up the infusion unit in the first
+magma pocket and give this one a chance to cool. 
+RIKER: Data 
+[Engineering]
+RIKER [OC]: Doctor Tainer, we'll meet you in
+transporter room two. 
+DATA: Acknowledged.
+[Magma pocket]
+(a nice big cave with a lovely flat floor) 
+DATA: I have initialised the plasma induction coils. 
+JULIANA: I'll need another minute to align the diverter. 
+(Data is watching Juliana very carefully) 
+PRAN: There are signs of stress in the surrounding magma, but the site
+should remain stable until we finish the plasma infusion. 
+JULIANA: Good, we're almost done here. 
+PRAN: Data, Juliana told me what she said to you last night. She's been
+very upset. I don't blame you for being angry with her 
+DATA: I am incapable of anger. 
+JULIANA: It's all right, Pran. I know what I said to you must have been
+hard to hear, but I hope you understand my reasons. 
+DATA: I am not certain I do. Perhaps you could clarify them for me? 
+JULIANA: Well, I'll try. What do you want to know? 
+DATA: If I had been your biological offspring, would you have left me
+on Omicron Theta? 
+JULIANA: Oh, Data, how can I answer that? 
+DATA: Doctor Tainer, I get the impression you are trying to spare my
+feelings. I assure you that is not necessary. 
+JULIANA: I just don't want you to misunderstand my answer. No, I
+wouldn't have left you behind if you'd been my biological child. 
+DATA: Is that because you place more value on biological life than on
+artificial life? 
+JULIANA: Absolutely not. I cherished every android your father and I
+created as if it were my child. Even Lore. Despite the fact that he
+turned on us, despite the dreadful things he did, dismantling him was
+the most difficult thing I ever had to do. I was afraid that if you
+turned out like him I would have to dismantle you, too. And I couldn't
+bear to do that. I'm not trying to justify leaving you behind. I'm just
+sorry I did. I hope you believe me. 
+DATA: I do. Thank you for making it clear to me.
+[Ten Forward]
+(Data and Juliana finish their recital to applause)
+AUDIENCE: Bravo, bravo.
+[Sickbay]
+CRUSHER: Data, why do you want to look at Doctor
+Tainer's medical records? Is something wrong with her? 
+DATA: I was hoping you would be able to determine that from her
+transporter trace pattern. 
+CRUSHER: Well, probably I could, but ordinarily I don't check
+somebody's medical status without a good reason. 
+DATA: Doctor, I would ask that you not require me to be more specific.
+I assure you, I have a good reason for asking. 
+CRUSHER: All right, Data. At first glance I see nothing wrong with her.
+Except for a mild case of hypertension, which is normal for a woman her
+age. 
+DATA: I see. 
+CRUSHER: Maybe you should tell me what her symptoms are. 
+DATA: She has not complained of any discomfort. 
+CRUSHER: Then why do you want to see her medical records? 
+DATA: Because I have reason to believe she is not who she claims to be.
+RIKER [OC]: Bridge to Data. 
+DATA: Go ahead, sir. 
+RIKER [OC]: There's been a cave-in in one of the magma pockets. You're
+needed in transporter room two. 
+DATA: On my way. Excuse me, Doctor.
+[Transporter room]
+(Juliana and Data enter) 
+JULIANA: What happened? 
+(Pran is injured) 
+PRAN: We were running a final check on the infusion units when a part
+of the wall gave way. 
+LAFORGE: It looks like the area has stabilised, but seismic stress is
+building up. Eventually, the pocket will collapse. 
+RIKER [OC]: How long, Geordi? 
+LAFORGE: It's tough to tell, Commander. Twelve hours at most. 
+JULIANA: Then we must finish configuring the unit and inject the plasma
+immediately. 
+[Bridge]
+RIKER: I'd rather not send anyone back down there. 
+JULIANA [OC]: If you don't do it 
+[Transporter room]
+JULIANA: Now, Commander, it may take months to find
+another suitable site. The core may solidify by then. 
+PRAN: She's right, we have to act now. 
+RIKER [OC]: All right, but I want you in and out of there as quickly as
+possible. 
+DATA: Acknowledged. 
+JULIANA: You're hurt. I'll go. 
+[Magma pocket]
+(Data is standing up the pattern enhancers and
+scanning the area when a quake strikes) 
+DATA: There will be more seismic activity. We must hurry. 
+(Data and Juliana go along a passage to where the equipment is set up) 
+DATA: The shaft has not been obstructed by the seismic activity. It
+should be possible to trigger the unit from orbit. 
+JULIANA: The infuser's been damaged. We're going to have to start the
+programming sequence all over again. 
+DATA: Priming the energy-transfer matrix. 
+JULIANA: Re-initialising the particle stream buffer. 
+RIKER [OC]: Riker to Data. Are you there? 
+DATA: Go ahead, sir. 
+RIKER [OC]: We're reading an increase in seismic stress levels. 
+DATA: Understood, sir. We will attempt to expedite our work. 
+JULIANA: There. Now we just have to re-align the diverter. 
+(another quake rocks the chamber) 
+RIKER [OC]: Data, are you all right? 
+DATA: Yes, sir. We'll be returning to the beam-out point shortly. 
+JULIANA: That's it. Let's go. 
+(they go down the passage and discover everything has fallen down into
+a pit) 
+JULIANA: Can we transport without the pattern enhancers? 
+DATA: No, we are too far below the surface. 
+JULIANA: How are we going to get down there? 
+DATA: There are no handholds in the rock face. We are going to have to
+jump. 
+JULIANA: No, it's too far! I won't make it! 
+DATA: You will. 
+(Data takes Juliana's arm and makes her jump with him. She lands badly,
+is knocked out, and her arm has fallen off. It is artificial.)
+[Sickbay]
+(Geordi has got Juliana's forehead open) 
+LAFORGE: Basically she's a Soong-type android, except everything about
+her is designed to fool you into thinking she's human. 
+CRUSHER: She's got tear ducts, sweat glands, even veins and capillaries
+underneath her skin. 
+RIKER: Why does the scanner read her as a human? 
+CRUSHER: Because she has a feedback processor designed to send out a
+false bio-signal. 
+LAFORGE: It's part of her aging programme. Not only does she age in
+appearance like Data, her vital signs change too. 
+CRUSHER: What I can't figure out is why she lost consciousness. As far
+as I can see, everything is fine. She should be awake. 
+DATA: Check her positronic matrix. There may be a cascade anomaly. 
+RIKER: You said you knew she was an android. How? 
+DATA: The first indication occurred when we were digging. I saw her
+perform complex calculations without the assistance of the computer. 
+RIKER: That could have just meant she was good at math. 
+DATA: That is true, but it was enough to get my attention. Later, I
+noticed something odd about the way she blinked her eyes. The intervals
+between blinks were governed by the Fourier system, the same
+mathematical formula my father used to give my blinking pattern the
+appearance of randomness. 
+RIKER: Only you could have noticed something like that. 
+DATA: Then there was the concert in Ten Forward. 
+RIKER: What about it? 
+DATA: We had practised the piece, and I noticed that she played it the
+same way during the performance. Every pitch, every intonation, was
+exactly the same. Only an artificial life form could have done that. 
+RIKER: Does her husband know anything about this? 
+DATA: I do not believe so. He is on the surface monitoring the plasma
+infusion. 
+RIKER: Probably just as well. 
+LAFORGE: Data, come take a look at this. 
+DATA: It appears to be an information module. With a holographic
+interface.
+[Holodeck]
+(Data puts Juliana's chip into a holder, then into
+the holodeck arch panel) 
+SOONG: Whoever you are, you must have found out about Juliana. 
+DATA: That is correct. 
+SOONG: I programmed this hologram to answer any questions you might
+have. I am Noonian Soong. I created her. 
+DATA: I am Data. 
+SOONG: Data? I hoped somehow it might be you. I even created a response
+programme to answer your questions. How are you, boy? 
+DATA: I am fine. 
+SOONG: I'm glad you got the chance to meet your mother. 
+DATA: You refer to Doctor Tainer as my mother, yet the complexity of
+her design indicates she was created after I was. 
+SOONG: You're right. But there was a real Juliana O'Donnell. She was my
+wife. She helped me create you. 
+DATA: What happened to her? 
+SOONG: She was injured when the Crystalline Entity attacked. We made it
+as far as Terlina Three but, she slipped into a coma. When I realised
+nothing could be done for her, I built an android. I tried to perfect
+my synaptic scanning technique so that I could transfer Juliana's
+memories into a positronic matrix. I didn't know if it would work, but
+I had to try. I couldn't stand the thought of losing the only woman I
+ever loved. A few days after Juliana died, I activated the android. She
+looked up at me and smiled. She recognised me. It had worked! Here was
+a life not two minutes old, and as far as she knew I was her husband.
+She'd just recovered from a terrible injury. It was incredible. 
+DATA: Then you never told her the truth? 
+SOONG: Why? There was no reason for her to know. I wanted her to be
+happy. I wanted us to be happy. We were. For a while. 
+DATA: What happened? 
+SOONG: I made a terrible mistake. I never really let her know how much
+I loved her. So she left me. The real Juliana probably would have left
+too, if she'd lived. 
+DATA: If she recovers and learns that she is an android 
+SOONG: She doesn't have to know. I designed her to shut down in the
+event the truth was discovered. When you put that chip back in, she
+will wake up and remember nothing. All you have to do is make up some
+excuse about what happened to her. 
+DATA: Then you do not believe she should know the truth? 
+SOONG: Truth? The truth is, in every way that matters, she is Juliana
+Soong. I programmed her to terminate after a long life. Let her live
+out her days, and die believing she was human. Don't rob her of that,
+son. Please.
+[Observation lounge]
+DATA: It seems that I must make a decision. Whether
+to tell Doctor Tainer that she is an android or to withhold that
+information from her. I do not know what to do. 
+CRUSHER: Why was Doctor Soong so adamant that she not be told? 
+DATA: He seemed certain that if she knew, it would preclude the
+possibility of her being happy. 
+PICARD: Data, what do you think? 
+DATA: I am not certain. I understand why my father felt as he did, but
+his wishes are not necessarily paramount. I am more concerned with what
+would be best for her. 
+CRUSHER: Wouldn't she be better off knowing the truth? Dealing with the
+reality of her existence? 
+TROI: I don't think so. She's believed she's human all her life. The
+truth might be devastating to her. 
+PICARD: Data, there might come some time in the future when she would
+find out anyway. Another accident, perhaps. Maybe it would be easier
+for her if she learned the truth from you. 
+CRUSHER: I can tell you that if I were in her place, I would rather be
+told by my son than by some stranger. 
+DATA: I find I am having difficulty separating what would be best for
+her from what would be best for me. 
+TROI: What do you mean? 
+DATA: If she knew she were an android, we would have something to
+share. I would no longer be alone in the universe. 
+TROI: I know how much that means to you, Data, but at the same time, by
+telling her you're robbing her of the one thing you've wanted all your
+life. To be human. 
+PICARD: It's a difficult choice. You must do what you think best, Data.
+But whatever decision you make, we will support it.
+[Sickbay]
+(Data puts the chip back in her head and covers it
+over with her hair. She wakes.) 
+JULIANA: Data? What happened? The last thing I remember is jumping off
+a cliff. 
+DATA: You were knocked unconscious by the fall. You broke a bone in
+your arm, but Doctor Crusher repaired it. Everything is fine. 
+Captain's log, supplemental. The infusion of plasma
+into the core of Atrea Four has been accomplished. The core should
+remain molten for several hundred years.
+[Transporter room]
+JULIANA: When will I see you again? 
+DATA: Perhaps I can visit Atrea on my next leave. 
+JULIANA: I would like that very much. Well, I'd better be going. 
+DATA: There is something I thought you should know. My father told me
+that he had only one great love in his life and that he regretted never
+telling her how much he cared for her. I am certain he was referring to
+you. 
+JULIANA: That's nice to know. On Atrea there is a saying, that a child
+born from parents who love each other will have nothing but goodness in
+his heart. I guess that explains you. Take care of yourself, son. 
+DATA: Goodbye, Mother. Energise.  
+
+

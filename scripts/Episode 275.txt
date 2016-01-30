@@ -1,0 +1,733 @@
+Episode Number: 275
+
+The Next Generation Transcripts - Emergence
+Emergence
+Stardate:
+47869.2
+Original Airdate: 9 May, 1994
+
+  [Holodeck
+- Prospero's island]
+(Shakespeare time, and Data is playing Prospero,
+from The Tempest, in near darkness) 
+DATA: Graves at my command have wak'd their sleepers, op'd, and let 'em
+forth by my so potent art. But this rough magic I here abjure, and when
+I have required some heavenly music, which even now I do, to work mine
+end upon their senses, that this airy charm is for, I'll break my
+staff, bury it certain fathoms in the earth, and deeper than did ever
+plummet sound, I'll (breaks character) Captain? Sir, your attention is
+wandering. 
+PICARD: Data, I can barely see. 
+DATA: But sir, I am supposed to be attempting a Neo-Platonic magical
+rite. The darkness is appropriate for such a ritual. 
+PICARD: Yes, but Data, this is a play. The audience has to see you. 
+DATA: Perhaps I have been too literal with respect to my set design.
+Computer, modify holodeck
+programme Data seven three.
+Shakespeare's
+The Tempest, Act Five, scene one. Increase
+torchlight by twenty percent. 
+PICARD: There, that's much better. Now, do you want to try it again? 
+DATA: Yes, sir. Captain, I am not certain I fully understand this
+Prospero character. I would appreciate any insight you might have that
+would improve my performance. 
+PICARD: Well, Data, Shakespeare was witnessing the end of the
+Renaissance and the birth of the modern era, and Prospero finds himself
+in a world where his powers are no longer needed. So, we see him here
+about to perform one final creative act before giving up his art
+forever. 
+DATA: There is certainly a tragic aspect to the character. 
+PICARD: Yes, but there's a certain expectancy too. A hopefulness about
+the future. You see, Shakespeare enjoyed mixing opposites. The past and
+the future. Hope and despair. Data, what is this? Is this part of your
+programme? 
+(bright lights are coming towards them, a steam whistle blows) 
+DATA: No, sir. 
+PICARD: What is going on? 
+DATA: It appears to be a steam locomotive. 
+PICARD: A train? 
+DATA: If I am not mistaken. 
+PICARD: Computer, end programme. 
+(the train's headlight reaches them) 
+PICARD: Computer, end programme. 
+(Data pushes Picard out of the way as the train thunders past)
+[Corridor]
+DATA: Captain, you are injured. 
+(Picard has a graze on his cheek) 
+PICARD: Oh yes, I know. I'll get it seen to, Data. 
+(Data checks the holodeck controls) 
+DATA: The train we encountered was from one of Doctor Crusher's
+holodeck programs. It was a re-creation of the Orient Express, a train
+which travelled from Paris to Istanbul from the late nineteenth century
+until. 
+PICARD: Yes, yes, Data, I know about the Orient Express. But what is it
+doing on Prospero's Island? 
+DATA: There appears to have been a malfunction in the holodeck's
+database retrieval
+programme. The two programs somehow temporarily linked together. 
+PICARD: Is it possible that this malfunction will affect the other
+holodecks as well? 
+DATA: It is a possibility. I will need to run a diagnostic to be
+certain. 
+PICARD: Very good, Data. But shut down the other holodecks until you're
+finished, just to be on the safe side. 
+DATA: Aye, sir.
+[Sickbay]
+PICARD: I never realised that you were interested
+in trains. Are you aware that at its peak, the Orient Express carried
+more than ten thousand
+people a year? 
+CRUSHER: It isn't really the train itself that I'm interested in. 
+PICARD: What then? 
+CRUSHER: It's the experience. The Orient Express is romantic,
+mysterious, an elegant way to see exotic places and meet fascinating
+people. Do you know that one time, on one trip, both Sigmund Freud and
+Gertrude Stein just happened to be in the same car? They ended up
+having dinner together every night. 
+PICARD: I wonder what they talked about? 
+CRUSHER: Why don't you take a trip yourself and find out? 
+RIKER [OC]: Riker to Picard. 
+PICARD: Picard here. 
+RIKER [OC]: All sections ready to begin the survey, sir. 
+PICARD: Very good. I'm on my way. Thank you. 
+CRUSHER: Don't forget the trip, Jean-Luc. Think about it. You never
+know who you'll meet on the Orient Express. 
+Captain's log, stardate 47869.2. After weathering
+an unexpected magnascopic storm in the Mekorda Sector, we are
+continuing our search for new Federation colony sites.
+[Bridge]
+RIKER: I don't think there's any possibility of
+developing sites in this region. Most of the stars are main sequence
+binaries. There are no M-class planets. 
+PICARD: Well, let's move on to another survey region. Have stellar
+cartography begin a 
+(Enterprise lurches forward) 
+PICARD: Mister Data, report. 
+DATA: The ship has moved into warp, sir. 
+RIKER: Who gave that command? 
+DATA: Apparently no one. Helm and navigation controls are not
+functioning. Our speed is now warp seven point three and holding. 
+PICARD: Picard to Engineering. 
+[Engineering]
+PICARD [OC]: Mister La Forge, what's going on?
+We've lost primary helm control on the Bridge. 
+LAFORGE: I don't understand it. The impulse systems suddenly cut out
+and the warp drive just kicked in. 
+RIKER [OC]: Geordi, can you take the engines offline? 
+LAFORGE: I'm working on it. 
+[Bridge]
+PICARD: Mister Data, what's our heading? 
+DATA: Bearing one eight seven mark four. I am unable to determine our
+destination, however we are heading away from the Mekorda sector. 
+LAFORGE [OC]: Captain, the computer's locked out all the propulsion 
+[Engineering]
+LAFORGE: Controls. I can't access any of the
+overrides. 
+[Bridge]
+LAFORGE [OC]: If you want us to stop, I'll have to
+do an emergency core shutdown. 
+RIKER: That would leave us without warp power for more than a week. 
+PICARD: Begin the procedure, Mister La Forge. 
+(another jolt) 
+DATA: We are no longer at warp, sir. Impulse power has resumed. All
+systems show normal. 
+RIKER: Where are we? 
+DATA: We are approximately thirty billion kilometres from our original
+position. 
+PICARD: Well done, Mister La Forge. 
+[Engineering]
+LAFORGE: It wasn't me. I didn't have time to
+complete the shut-down procedure. 
+PICARD [OC]: Well, I want an explanation
+[Bridge]
+PICARD: Mister La Forge. Picard out. 
+(later at the science station) 
+PICARD: Have you found anything yet? 
+LAFORGE: Only that we seem to have more than one mystery here. We still
+don't know why the ship jumped into warp, but it looks like we're lucky
+it did. There was a theta flux distortion building up around the ship. 
+PICARD: Why didn't our sensors alert us? 
+LAFORGE: Our sensors were never designed to detect theta flux
+distortions. And yet there is a record of the distortion in the sensor
+log. That's the other mystery. 
+DATA: One fact is clear, however. The distortion was growing in
+strength. If we had remained at our original position one point seven
+seconds longer, the distortion would have ruptured our warp core. 
+LAFORGE: If the Enterprise hadn't jumped into warp when it did, we
+would've been blown to pieces.
+[Jefferies tube]
+LAFORGE: I just don't get it, Data. What would
+cause the engines to suddenly jump into warp? 
+DATA: Perhaps the engines were activated by a random power fluctuation.
+LAFORGE: Which occurred just in time to save the ship? 
+DATA: It is improbable, but it is possible. 
+LAFORGE: I don't know. I don't think I'm ready to start believing in
+luck. 
+(they stop by an access panel) 
+DATA: There is another possibility. 
+LAFORGE: Yeah, what's that. 
+DATA: The sensors apparently detected a dangerous anomaly that
+threatened the Enterprise. It is possible that they triggered a safety
+device which caused the ship to avoid destruction. 
+LAFORGE: Yeah, but there's no direct link between the warp engines and
+the sensors. 
+(they open the panel) 
+LAFORGE: Whoa. What is that? It's some kind of new circuit node and
+it's connected to at least half a dozen points in the sensor array. 
+DATA: It appears to be connected to several other systems as well,
+including the warp control circuits. 
+LAFORGE: I guess there's a connection between the warp engines and the
+sensors after all. 
+(a forcefield blocks access to the node) 
+LAFORGE: A force field. Where did that come from? 
+DATA: I am not certain. Perhaps it came from the node itself. 
+LAFORGE: Well, wherever it came from, it sure doesn't want us messing
+with this node. 
+DATA: It appears to be protecting itself.
+[Engineering]
+LAFORGE: We found these nodes in several systems
+around the ship. At some level or another, they're all connected. 
+DATA: These nodes were linking the sensors to our warp control and
+defensive systems. We believe this is why the ship jumped to warp. 
+LAFORGE: When the sensors detected danger, the defensive systems
+reacted to the threat and activated the warp engines to protect us. 
+RIKER: Where did these nodes come from? 
+DATA: It is possible that the magnascopic storm we recently experienced
+had an unexpected effect on the ship's systems. 
+LAFORGE: Wherever they come from, they seem to be multiplying. 
+DATA: As they increase, it will become progressively more difficult to
+control the ship. 
+RIKER: What do you propose we do? 
+LAFORGE: Well, getting rid of them isn't going to be so easy. When we
+attempted to examine the circuitry of one of the nodes, it generated a
+force field to keep us out. 
+RIKER: Whatever's going on. our first priority is getting back control
+of the ship. 
+DATA: Agreed. All of the nodal connections intersect in holodeck three.
+It appears to be a focal point of some kind. 
+LAFORGE: We might be able to find a way to use the holodeck circuitry
+to disable the nodes permanently. 
+RIKER: All right. Let's do it.
+[Corridor]
+DATA: Commander, the holodeck appears to be in
+operation. 
+RIKER: I thought you shut down the entire system. 
+DATA: I did, but it has reactivated itself and it will not disengage. 
+WORF: Which programme is running? 
+DATA: Several different programs are running simultaneously. 
+RIKER: This should be interesting. 
+[Holodeck- train]
+(a knight in armour is cutting a newspaper, a
+rustic is standing, two 1920's women and a man are working on a jigsaw,
+a gunslinger takes a piece out of his pocket and adds it to the jigsaw)
+RIKER: You weren't kidding, Mister Data. 
+DATA: No, sir. I estimate that this scene consists of portions of seven
+distinct holodeck programs. 
+RIKER: See if you can access the circuits that have been affected by
+the nodes. 
+(an American train conductor enters) 
+CONDUCTOR: Tickets! Tickets please. Please have your tickets ready.
+Thank you, sir. Thank you, madam. Thank you. Thank you, sir. Tickets
+please. 
+RUSTIC: You know, I've never even been away from home. Now I'm going
+all the way to Vertiform City! 
+CONDUCTOR: Very nice, sir. Enjoy your trip. Tickets please. Tickets.
+Thank you sir. 
+(The conductor clips one of the knight's string of paper dolls) 
+CONDUCTOR: Tickets please. Tickets please. 
+DATA: Commander. I have located a large concentration of nodes behind
+this wall. They appear to be connected directly to the holodeck's main
+power coupling. 
+RIKER: All right, go ahead and depolarise the entire power grid. 
+DATA: The power grid is located beneath this deck, sir. 
+CONDUCTOR: Get away from there. Would you gentlemen care to show me
+your tickets? 
+RIKER: I believe we left our tickets in our compartments. Mister Worf,
+I told you to bring the tickets. 
+WORF: I forgot. 
+CONDUCTOR: I don't think you folks belong on this train. 
+ENGINEER: Hold it! You leave these people alone. They're only trying to
+help. 
+CONDUCTOR: You go back to the engine. This doesn't concern you. 
+ENGINEER: They're all trying to hijack the train. 
+RUSTIC: Hey, if you're the Engineer, who's doing the drivin'? 
+(a gangster shoots the Engineer in the back) 
+GANGSTER: I am.
+[Engineering]
+(a console explodes in front of Geordi, throwing
+him backwards) 
+CREWMAN: Easy, sir, easy. I've got you.;
+LAFORGE: I'm all right, thanks. It looks like the navigational relay's
+overloaded. 
+[Holodeck train]
+(the conductor pulls the cord and the train
+lurches. So does the ship) 
+[Engineering]
+PICARD [OC]: Geordi, what's going on? We just went
+into warp. 
+LAFORGE: We've lost engine and helm control again, Captain, but this
+time, they're completely burned out. I don't know if we can stop the
+ship.
+[Holodeck- train]
+DATA: I believe we have changed direction. 
+CONDUCTOR: Now we're on the right track. Ladies and gentlemen, we are
+on our way! 
+(cheers all round and the gangster takes a house brick from the
+engineer's overalls) 
+GANGSTER: I was right. He was trying to make off with my brick. 
+CONDUCTOR: You take good care of that. We can't afford to lose it. Now,
+are you people going to leave or are we going to have to throw you off
+the train? 
+DATA: Commander. According to my tricorder, the holodeck safeties have
+been disengaged. His weapon could be lethal. 
+RIKER: All right, let's get out of here.
+[Engineering]
+DATA: The number of systems now being affected by
+the nodes has increased considerably. Sensors, engines, replicators,
+propulsion, they are all working together now, almost independently of
+the main computer. And the nodes link them all through the holodeck. 
+RIKER: But why the holodeck? It doesn't make any sense. 
+DATA: Commander, I believe what happens on the holodeck has a direct
+effect on the ship. When we attempted to destroy the nodes, the
+characters on the train responded almost immediately to stop us. 
+RIKER: And when the engineer tried to protect us, one of the characters
+shot him. 
+DATA: Then the conductor then signalled for the train to change
+directions, and at approximately the same time 
+LAFORGE: The Enterprise also took off in a new direction. 
+RIKER: Are you saying the ship is under the control of the holodeck? 
+DATA: Not precisely. Geordi, does the configuration of connection nodes
+look familiar to you? 
+LAFORGE: Yeah. Yeah, it looks a little like the structure of your
+positronic brain. 
+DATA: That is correct. It would appear that the nodes are in the
+process of creating a rudimentary neural net. 
+RIKER: Data, what are you suggesting? 
+DATA: Unlikely as it may sound, I believe that the Enterprise may be
+forming an intelligence.
+[Observation lounge]
+DATA: This is a synaptic map of the human
+neo-cortex. This is a cross section of my positronic net. And this is a
+schematic of the connection nodes linking the ship's systems. I believe
+some sort of neural matrix is forming on the ship. It is still
+relatively primitive, but it is an intelligence nonetheless. 
+TROI: How could that happen? 
+DATA: I believe it is an emergent property. 
+PICARD: Explain. 
+DATA: Complex systems can sometimes behave in ways that are entirely
+unpredictable. The human brain, for example, might be described in
+terms of cellular functions and neurochemical interactions. But that
+description does not explain human consciousness, a capacity that far
+exceeds simple neural functions. Consciousness is an emergent property.
+LAFORGE: In other words, something that's more than just the sum of its
+parts. 
+DATA: Exactly. 
+CRUSHER: How does that explain what's happening to the Enterprise? 
+DATA: The Enterprise contains a vast database of information which is
+managed by a sophisticated computer. This complex system gives the ship
+many of the characteristics of a biological organism. 
+RIKER: That's true. It sees with its sensors, it talks with its
+communications systems. 
+CRUSHER: In a sense, it almost reproduces with the replicators. 
+PICARD: And you think that the ship has somehow gone beyond those
+functions and is developing a new capacity? 
+DATA: Yes, sir. I believe a self-determining intelligence is emerging. 
+WORF: If that is so, what does the ship want? Where is it taking us? 
+DATA: I believe the key to understanding the ship's behaviour lies in
+the holodeck. All of the connection nodes intersect at that location.
+It is clearly some kind of processing centre. 
+PICARD: Processing centre? 
+DATA: Yes, sir. A focal point where all the ideas and instincts of this
+emerging intelligence are first expressed in some form. 
+TROI: Almost like an imagination. Captain, I'd like to go to the
+holodeck. I could interact with the characters and maybe find some
+clues to help us understand what's happening. 
+PICARD: Very well. Mister Data, Mister Worf, I want you to go along.
+See if you can to re-establish control of the ship without damaging the
+nodes. If the ship is truly an emerging intelligence, then we have a
+responsibility to treat it with the same respect as any other being.
+[Holodeck - train]
+(things have changed. A flapper is repeatedly
+tapping a goblet against the knight's helm. The gunslinger is tied up
+while the gangster plays cards with him.)
+WORF: Welcome aboard, Counsellor. 
+DATA: If you will distract these people, I will attempt to depolarise
+the power grid. 
+(Troi and Worf go over the rustic and the other flapper who are working
+on the jigsaw) 
+WORF: Excuse me. Have you finished the puzzle yet? 
+RUSTIC: Not yet, but we're gettin' close. 
+WORF: Do you recognise it? 
+TROI: No. 
+WORF: I would like to help. Tell me. What exactly are you making? 
+RUSTIC: What do you think we're making? A puzzle! 
+WORF: No, I meant the picture. What is it? 
+RUSTIC: Well, I don't know. 
+(Troi goes to the card game) 
+TROI: Can you deal me in? 
+GANGSTER: Sorry. It's a two man game. 
+(Troi reaches for the brick);
+GANGSTER: Hey! Get your hand off of that. 
+TROI: Is that why you killed the Engineer? To get this brick? 
+GANGSTER: I had to get it back. You know how much it's worth, lady?
+Plenty. And I
+got to get it to Keystone City. 
+TROI: Why? What's at Keystone City? 
+GANGSTER: That's where everything begins. Gin. 
+(his five cards all show the jigsaw) 
+WORF: Are you succeeding, Commander? 
+DATA: I am ready to access the main power grid. 
+CONDUCTOR: Keystone City, next stop. Keystone City. Well, look who's
+back. 
+WORF: We do not want any trouble. We are simply passengers. 
+CONDUCTOR: Well then I'm sure you wouldn't mind showing me your
+tickets? Right. Sorry, boys. You're getting off right here. 
+GANGSTER: This is my stop. 
+TROI: Wait. What happens at Keystone City? Why are you taking the brick
+there? 
+GANGSTER: Excuse me. 
+TROI: I think we should follow that man. That brick may be an important
+clue. 
+[Holodeck - subway]
+(the Gangster goes up the subway steps from the New
+York City Transit System at Broadway + 7th) 
+TROI: Where did he go? 
+(they walk down the empty street to a manhole cover) 
+DATA: I can access the power grid here. I will attempt to depolarise
+the grid by using a low frequency inversion field. It may disengage the
+nodes without destroying them. 
+TROI: There he is. I'm going after him. 
+(Worf goes with her, leaving Data alone. Sunshine taxi registration
+H20638 hurtles round the corner and drives straight at him. Data rolls
+out of the way and carries on his work)
+[Holodeck - wall]
+(the Gangster comes to a building with scaffolding,
+and a wall where there is one brick missing from the middle) 
+TROI: What are you doing here? 
+GANGSTER: Laying the foundation. 
+(he puts his brick into the gap, it glows then blends in with the rest
+of the wall) 
+GANGSTER: Now, if you'll excuse me, I've got a train to catch.
+[Bridge]
+LAFORGE: I don't understand it, Captain. All of a
+sudden, cargo bay five started to depressurise. 
+PICARD: Did everyone get out in time? 
+LAFORGE: Yes, sir, and I've re-established the containment field, but
+I'm reading massive power surges in the cargo bay and all sorts of
+transporter activity. Something weird is happening there, Captain. 
+PICARD: I want you to send a team down there immediately. Find out
+what's going on. 
+LAFORGE: Aye, sir.
+[Cargo bay]
+(in the middle of the floor, a 3d version of the
+jigsaw is growing with a light inside it) 
+LAFORGE: La Forge to Bridge. 
+PICARD [OC]: Picard here. What's going on? 
+LAFORGE: I wish I could tell you. 
+[Holodeck - building site]
+TROI: That man said he was laying a foundation. 
+WORF: Foundation for what? 
+TROI: Troi to Data 
+DATA [OC]: Data here. 
+TROI: How are you doing?
+[Holodeck - street]
+DATA: I encountered a minor difficulty, Counsellor,
+but it has been dealt with. 
+(he is holding the revving taxi with one hand) 
+DATA: I am ready to depolarise the power grid.
+[Cargo bay]
+LAFORGE: It looks like the ship's replicator and
+transporter systems have been merged somehow. to create this. The
+question is, what is it? Ensign, I want to run a full spectral analysis
+on this. 
+(the ship shakes and a barrel falls) 
+LAFORGE: I'm picking up a massive power fluctuations. The ship is
+losing its structural integrity. 
+[Holodeck - wall]
+TROI: What's happening? 
+WORF: It's an earthquake. 
+(the wall collapses on top of Deanna, revealing a door with number 1156
+etched in the glass.) 
+[Cargo bay]
+LAFORGE: La Forge to Data
+[Holodeck - street]
+LAFORGE: Stop what you're doing. 
+DATA: Acknowledged. 
+(the quake stops)
+[Holodeck - wall]
+WORF: Are you all right? 
+TROI: I'm fine. 
+[Cargo bay]
+LAFORGE: Data, I think we ought to get together and
+compare notes. 
+DATA [OC]: Agreed. 
+[Sickbay]
+(Troi is having her grazes healed) 
+TROI: The ship was protecting itself again. Stopping us from
+interfering. Whatever it's doing it intends to continue. 
+LAFORGE: I'm betting it all has something to do with that object that's
+forming in the cargo bay. 
+TROI: I think he's right, Captain. Look at the common themes playing
+out on the holodeck. A puzzle being put together, a foundation being
+laid, a paper doll being fashioned. They're all images of something
+being constructed. 
+LAFORGE: And some kind of object in the cargo bay that's being
+constructed atom by atom. 
+PICARD: What is that object? 
+LAFORGE: I have no idea. It's composed of silica polymers, duranium,
+and a couple of other compounds we
+haven't been able to identify yet.
+But creating it has had quite an effect on our systems. Warp power has
+dropped forty seven percent. 
+PICARD: Counsellor, did you draw any other conclusions from your
+experiences on the holodeck? Anything that would help us to understand
+this situation? 
+TROI: The holodeck was full of metaphoric imagery like it was having
+some kind of daydream. It may not make literal sense, but symbolically
+it probably does have some kind of logic to it. 
+CRUSHER: The characters you spoke to, do they have any significance? 
+TROI: I think they represent different aspects of the ship. The
+Engineer, for instance, may represent the navigational system, the
+gunslinger could be the weapon system. 
+PICARD: Is there any way that we can persuade them to give back control
+of the ship? 
+TROI: I don't think it's possible to reason with them. Many of them are
+genuinely unaware of what's going on. It's as though this emergent
+intelligence is like an infant acting on impulse, trying to figure
+itself out as it goes. The only source of experience it can draw on is
+ours through our holodeck programs. 
+PICARD: Is there a way that we can relate to them on their own level,
+find some way to influence their behaviour? 
+TROI: Maybe there is. I'd like to go back and try. 
+LAFORGE: Counsellor, we haven't been able to re-establish the safeties.
+CRUSHER: The injuries you suffered on the holodeck weren't severe, but
+next time they might kill you. 
+TROI: I'm aware of that. 
+PICARD: Very well, Counsellor, go ahead. But bear in mind that whenever
+we have tried to hinder their efforts, we've failed. Perhaps it's time
+to cooperate with them.
+[Holodeck - train]
+;
+CONDUCTOR: You don't belong on this train. 
+WORF: Three tickets for Vertiform City. 
+CONDUCTOR: Guess I was wrong about you folks. Welcome aboard. 
+(the lights dim) 
+WORF: What was that? 
+CONDUCTOR: We've been having some problems. The engine is running out
+of steam. I hope we make it to Vertiform City on time. 
+TROI: Is there anything we can do to help? 
+CONDUCTOR: Well, I could use a pair of strong arms in the engine room.
+Might help us get back on schedule. 
+TROI: Why don't you go with him, Worf? We'll see what we can do here. 
+(Worf and the conductor leave) 
+RUSTIC: Excuse me. Are we going to get there okay? 
+TROI: Of course. You needn't worry about a thing. So, tell me
+everything you know about Vertiform City. 
+RUSTIC: Well, they got this restaurant there where you can eat all you
+want, any time. It's the best food around. 
+[Holodeck - Engine room]
+(coal fired of course, like the TOS blooper) 
+CONDUCTOR: There's the coal and there's the boiler. I'm much obliged
+for your help. 
+(Worf starts stoking) 
+CONDUCTOR: Well done, sir. I think this'll make a difference, all
+right.
+[Bridge]
+RIKER: I don't know how or why, sir, but warp power
+appears to be back to normal levels. 
+PICARD: What's our heading? 
+RIKER: We appear to be on a course for Tambor Beta six. It's a white
+dwarf star. 
+[Holodeck - Engine room]
+CONDUCTOR: Keep it steady. Put your back into it.
+That's the ticket. 
+[Bridge]
+RIKER: The ship is using a modified tractor beam to
+collect vertion particles from the star. 
+PICARD: Vertion particles. Vertiform City. That's what the ship was
+looking for. 
+(shudder) 
+RIKER: The particles are being routed through the transporter system
+into cargo bay five. 
+PICARD: Geordi, what's going on? 
+LAFORGE [OC]: The object is absorbing
+[Cargo bay]
+LAFORGE: Vertion particles. It's growing even
+faster than before. Commander, I'm picking up internal energy this
+thing. 
+[Bridge]
+RIKER: What do you mean? 
+LAFORGE [OC]: I mean it's generating its own energy. I'm picking up
+coherent emissions 
+[Cargo bay]
+LAFORGE: Matter conversion. It's incredible. Wait a
+minute. Wait a minute, something's wrong. We've got power fluctuations.
+Vertion absorption rate is dropping. What's happening to the particle
+beam? 
+[Bridge]
+RIKER: The beam's exhausted the supply of particles
+in the star. There's nothing left to take out. 
+LAFORGE [OC]: Captain 
+[Cargo bay]
+LAFORGE: The energy output of the object is
+decreasing. 
+[Holodeck - Engine room]
+CONDUCTOR: Something's wrong. 
+WORF: What is it? 
+CONDUCTOR: This was supposed to be Vertiform City. (the beam disengages
+and the object stops glowing) 
+CONDUCTOR: We've been on the wrong track all along. 
+(the Conductor pulls the brake lever and everyone gets thrown around)
+[Holodeck- train]
+WORF: Are you all right? 
+TROI: Yes. What happened? 
+WORF: The Conductor accidently derailed the train. 
+DATA: Data to Captain Picard. 
+[Cargo bay]
+PICARD: Picard here. 
+DATA [OC]: There has been an accident on the holodeck, sir. Has
+anything happened to the Enterprise? 
+PICARD: Yes, we've had a ship-wide shutdown. We've lost attitude
+control and most systems are offline. 
+LAFORGE: Captain, you'd better take a look at this. When the particle
+beam cut off, the object was beginning to form a coherent energy
+matrix. Now, if these readings are accurate, I'd say that the emission
+patterns were almost organic. 
+PICARD: Are you suggesting that the Enterprise is trying to create a
+lifeform? 
+LAFORGE: I think so. 
+PICARD: Will it survive? 
+LAFORGE: Well, its energy levels are dropping rapidly. Unless it gets
+an infusion of vertion particles, and I mean soon, I don't think so. 
+(rumble, and Geordi checks a console) 
+LAFORGE: Captain, all of our systems are back online and we're moving
+again, at warp nine. 
+PICARD: Let's get back to the Bridge.
+[Holodeck- train]
+(everything's back to normal) 
+RUSTIC: Whoo wee, that was a close one, wasn't it? 
+TROI: Where are we going now? 
+RUSTIC: Well, New Vertiform City, of course. 
+DATA: Data to Captain. 
+PICARD [OC]: Picard here. 
+DATA: The train has returned to normal, sir. Our destination is New
+Vertiform City.
+[Bridge]
+PICARD: What's our course? 
+RIKER: We're heading for the Cordannas system. 
+PICARD: Another white dwarf star. 
+RIKER: It's the nearest one to our last position. 
+LAFORGE: Captain, we have a problem. Even at warp nine, the Cordannas
+system is over twelve hours from here. 
+PICARD: Will the object in the cargo bay survive that long? 
+LAFORGE: Yes, sir, but that's not the problem. The ship has diverted
+all of our systems to maximum propulsion, including life support. We
+have less than two hours of reserve oxygen. 
+PICARD: Mister Data, we have to stop the Enterprise. That means you
+have to get control of the train. 
+DATA [OC]: Understood, sir. 
+PICARD: The ship is looking for vertion particles and it believes that
+the Cordannas system is the closest source. Is there any possibility of
+anything closer? 
+LAFORGE: White dwarf stars are the only natural sources of vertions,
+sir. 
+PICARD: Then what about artificial ones? Can you create the particles?
+[Holodeck - train]
+DATA: How did the Conductor stop the train? 
+WORF: There is a braking lever in the engine room. 
+TROI: Let's go. 
+RUSTIC: Sorry, folks, but you ain't going nowhere.
+[Bridge]
+LAFORGE: I've narrowed the search to the MacPherson
+Nebula, which is a supernova remnant, and Dikon Alpha, which is a class
+nine pulsar. They're both fairly close to our current flight path and
+either one could produce vertion particles if we detonated a modified
+photon torpedo inside it. 
+RIKER: Vertions usually occur in miniscule amounts. Do you think either
+of these phenomena could produce enough of them? 
+LAFORGE: It's really hard to say. I can't even guarantee that we can
+create them at all. 
+PICARD: Well, we've got to give it a try. The nebula or the pulsar?
+It's your choice, Mister La Forge. 
+LAFORGE: I say go with the nebula. 
+PICARD: Very well. Begin the torpedo modifications. 
+RIKER: Now let's see if we can get this ship to go where we want.
+[Holodeck- train]
+TROI: Please listen to me. We understand what's
+happening. We know you have get to New Vertiform City, and we want to
+help you get there. 
+RUSTIC: Well, I don't know. 
+TROI: Please, we're your friends. 
+RUSTIC: You're really going to help get us to New Vertiform City? 
+TROI: I promise. 
+RUSTIC: Okay. But just one of you. The rest stay here.
+[Holodeck - Engine room]
+CONDUCTOR: That's far enough. 
+GANGSTER: Sorry to spoil your party, pal. It's nothing personal. 
+DATA: I can get us there more quickly. I know a shorter route. 
+GANGSTER: Don't listen to him. He's up to somethin'. 
+CONDUCTOR: A shorter route? 
+DATA: Yes, if you will let me handle the controls. 
+GANGSTER: Don't do it. 
+CONDUCTOR: Well we're already behind schedule. If you can get us there
+on time. All right, go on, but no funny stuff. 
+DATA: Data to Captain Picard. I have taken control of the engine room. 
+[Bridge]
+PICARD: Stand by. Are we within sensor range of the
+nebula? 
+LAFORGE: Yes, Captain, we are. 
+PICARD: Mister Data, I need you to slow us to impulse speed. 
+[Holodeck - Engine room]
+DATA: I will attempt to do so. 
+CONDUCTOR: I hope you know what you're doing. 
+(Data closes a valve and pulls on the brake)
+[Bridge]
+PICARD: Are the modifications to the torpedoes
+complete? 
+LAFORGE: Aye, sir. 
+PICARD: Launch torpedo. 
+(whoosh, KaBOOM) 
+LAFORGE: It's working, Captain. The reaction is producing vertion
+particles. 
+[Holodeck Engine room]
+CONDUCTOR: Well, what do you know? We're here. 
+GANGSTER: New Vertiform City.
+[Cargo bay]
+RIKER: The nodes are deactivating all over the
+ship. Our systems are beginning to function normally again. 
+PICARD: Then the purpose of the ship's intelligence was simply to bring
+this life form into being. 
+CRUSHER: There are some species whose sole purpose is to reproduce.
+Once they finally procreate, they die. 
+LAFORGE: Captain. 
+(the bizarre thing lifts off the floor, becomes bright light and flies
+out through the hull)
+[Holodeck - train]
+(it's a champagne send-off for baby, and as they
+sip their drinks, Troi, Worf
+and Data are in an empty holodeck)
+Captain's log, supplemental. The Enterprise is back
+under our control. All traces of the emergent intelligence are gone and
+the object it created has disappeared into space. 
+[Ready room]
+PICARD: Come. 
+(Data enters) 
+DATA: Captain, I am staging a scene from The Tempest this evening for a
+small audience. I would like for you to attend. 
+PICARD: I would be honoured. What scene? 
+DATA: Miranda's first encounter with other human beings. 
+PICARD: O brave new world, that has such people in it. 
+DATA: It seemed appropriate. Captain, you took a substantial risk in
+allowing the Enterprise to complete its task. 
+PICARD: Why do you say that? 
+DATA: Because the end result was unknown. The object could have been
+dangerous. It may in fact, be dangerous. 
+PICARD: And I have allowed it to go off on its merry way. 
+DATA: Yes, sir. 
+PICARD: The intelligence that was formed on the Enterprise didn't just
+come out of the ship's systems. It came from us. From our mission
+records, personal logs, holodeck programs, our fantasies. Now, if our
+experiences with the Enterprise have been honourable, can't we trust
+that the sum of those experiences will be the same?  
+
+

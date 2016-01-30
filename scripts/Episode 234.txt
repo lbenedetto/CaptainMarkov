@@ -1,0 +1,543 @@
+Episode Number: 234
+
+The Next Generation Transcripts - A Fistful of Datas
+A
+Fistful of Datas
+Stardate:
+46271.5
+Original Airdate: 9 Nov, 1992
+
+ 
+Captain's log, stardate 46271.5. The Enterprise has entered orbit of
+Deinonychus Seven, but our scheduled rendezvous with the supply ship
+Biko has been delayed for another forty eight hours. In the meantime,
+many members of the crew are taking advantage of the delay to pursue
+their own projects, myself included.
+[Picard's quarters]
+(Picard has dug out his Ressikan flute) 
+PICARD: Computer, stop playback. Change the clarinet to an oboe.
+Continue recording. 
+(doorbell) 
+PICARD: Computer, pause playback. Come. 
+(Data and La Forge enter) 
+PICARD: Yes, gentlemen? 
+LAFORGE: Captain we'd like your permission to take the Engineering
+computer offline for a couple of hours. We're working on a new
+interface that would allow Data to act as an emergency backup in the
+event of a ship-wide systems failure. 
+DATA: In theory, my neural network should be able to sustain key
+systems until primary control is restored. 
+PICARD: It sounds like an intriguing experiment. I'll be interested to
+see the results. Permission granted. 
+LAFORGE: It's possible we may even be able to run secondary systems
+through Data. Weapons control, sensor arrays. 
+PICARD: Yes, I get the idea, Mister La Forge. Thank you. Please
+proceed. 
+(Data and La Forge leave) 
+PICARD: Computer, begin playback from the first measure. 
+(doorbell) 
+PICARD: Computer, pause recording. Come. 
+(Beverly enters) 
+CRUSHER: Jean-Luc, I need to talk to you about Something for Breakfast.
+PICARD: Breakfast? 
+CRUSHER: The play. 
+PICARD: Ah, yes. Well, it's a very intriguing drama, but I really don't
+have the time it would take to learn a part. And anyway, I'm not much
+of an actor. 
+CRUSHER: That's no problem. 
+PICARD: Oh? 
+CRUSHER: Well, you wouldn't be playing one of the leads. 
+PICARD: Oh. 
+CRUSHER: It's a very small part. Only two lines. 
+PICARD: Really. 
+CRUSHER: You play the butler. 
+PICARD: Well, I'll think about it and let you know. 
+CRUSHER: You would be wonderful, Jean-Luc. We're rehearsing today at
+one thirty. 
+(Crusher leaves) 
+PICARD: Computer, begin playback from the first measure. 
+(doorbell) 
+PICARD: Computer, pause recording. Yes? 
+(Worf enters) 
+WORF: Captain, I am sorry to interrupt. 
+PICARD: No, please, Mister Worf, come in. 
+WORF: I was hoping to take advantage of the Biko's delay by staging
+shipwide security drills. I have planned a tentative schedule. 
+PICARD: Oh yes, this is very impressive, Mister Worf. But we'll be
+taking on new personnel at Starbase one eighteen in a few weeks. Surely
+the drills can wait until then. 
+WORF: In that case, I will use the time to perform maintenance checks
+on the forward phaser array. 
+PICARD: Mister Worf, is there some reason why you're trying to give
+yourself more work? 
+WORF: No, sir. I simply wish to use the extra time 
+PICARD: Enjoy yourself. You have the free time. Use it. 
+WORF: Yes, sir. Thank you, sir. 
+(Worf leaves) 
+PICARD: Computer, continue recording and playback once more. From the
+top.
+[Worf's quarters]
+(Alexander is lying on the floor playing a computer
+game when Worf comes home) 
+ALEXANDER: Father! What did he say? 
+WORF: The Captain saw fit to release me from my duties. 
+ALEXANDER: You mean you can go? 
+WORF: I can go. 
+ALEXANDER: Saddle up, Father. 
+(Alexander puts a stetson on Worf's head)
+[Deadwood, main street]
+(two figures walk into town, spurs a-jingling. They
+are wearing badges) 
+WORF: Where are we? 
+ALEXANDER: Deadwood. Nineteenth century Earth. The Ancient West. 
+WORF: What is our function here? 
+ALEXANDER: You're the Sheriff and I'm the deputy. 
+WORF: So, we are in law enforcement. 
+ALEXANDER: Right. 
+[Engineering]
+(La Forge is plugging a cable into an interface) 
+DATA: Geordi, I have noticed that you have not shaved. Are you
+attempting to grow another beard? 
+LAFORGE: As a matter of fact, I am, Data. What do you think? 
+DATA: As is the case with many natural growth processes, it is
+difficult to envision the end product based on an intermediate stage. 
+LAFORGE: You're right. Give it a few more days. 
+(La Forge plugs the other ends of the cable into Data's head) 
+LAFORGE: Okay, I'm going to need to access your auxiliary inputs. 
+DATA: One moment. 
+(Data taps the back of his head and another panel opens up) 
+LAFORGE: I must admit, Data, I never get used to seeing you like this. 
+DATA: I do not understand. You are constantly working on similar
+electronic systems, yet their appearances do not disturb you. 
+LAFORGE But you're not just another electronic system. 
+DATA: Thank you, Geordi. Nor are you just another biological organism. 
+LAFORGE: All right, that should do it. Are you ready? 
+DATA: Yes. Establishing computer linkup. Interface complete. 
+LAFORGE: All right, let's see what you can do.
+[Deadwood, main street]
+(a woman in a state of extreme undress whistles at
+Worf from a balcony) 
+WORF: You wrote this holodeck programme yourself? 
+ALEXANDER: Well, Mister Barclay helped a little. 
+WORF: I must have a little talk with Mister Barclay. 
+(the sound of a gunshot) 
+[Gold Strike saloon]
+(the piano player is doing his best, the poker
+players are ignoring it, and someone is shooting up a wanted poster of
+Eli Hollander) 
+ELI: If I ever find the varmint who drew this, he'll be sorry he ever
+put pen to paper. I'm ten times uglier than that, ain't I? 
+(the Mexican laughs) 
+ELI: Shut up. You laugh so much, it's a wonder you ain't got flies in
+your mouth. 
+BANDITO: You're a very funny man, Senor Eli. 
+(Worf and Alexander enter) 
+ALEXANDER: That's the bad guy. His name's Eli Hollander. They call him
+the Butcher of Bozeman. He's killed twenty three men. He's the meanest
+and the toughest gunslinger in the West. You have to watch him. He's
+fast. 
+WORF: So I am here to apprehend him? 
+ALEXANDER: If you can. 
+WORF: You are under arrest. 
+ELI: Is that so. 
+(Worf punches him in the face) 
+WORF: You will come with me. 
+ALEXANDER: No, no, no. Computer, freeze programme. 
+WORF: What is wrong? 
+ALEXANDER: That was too easy. It has to be harder to beat the bad guys.
+Otherwise, it's no fun. Computer, increase
+programme difficulty to level four. Go back to where my father and I
+first walked into the saloon. Come on, Father. 
+(Alexander and Worf leave) 
+ELI: If I ever find the varmint who drew this, he'll be sorry he ever
+put pen to paper. I'm ten times uglier than that, ain't I? 
+(the Mexican laughs) 
+ELI: Shut up. You laugh so much, it's a wonder you ain't got flies in
+your mouth. 
+BANDITO: You're a very funny man, Senor Eli. 
+(Worf and Alexander enter. This time the piano player stops, and the
+poker players get up and leave) 
+WORF: Where are they going? 
+ALEXANDER: They don't want to get hit by the bullets. 
+WORF: You are under arrest. 
+ELI: Well, looks like Sheriff Worf's here to arrest me. That don't
+sound like a bright idea. 
+(Eli has gone to the bar, the Mexican is over on Worf's left) 
+ELI: Do it? 
+WORF: You have been accused of committing a homicide. 
+ELI: If you mean murder, then I guess I'm guilty. I've killed twenty
+three men, Sheriff. One more ain't
+going to make much of a difference. Of course, shooting someone as ugly
+as you couldn't be considered a crime, could it? Was you just born that
+way, or did your momma marry an armadillo? 
+(a man behind Worf picks up a chair) 
+ALEXANDER: Sheriff, look out! 
+(Worf is hit by the chair, but just turns and thumps his attacker. Then
+he punches out the Mexican.) 
+WORF: I'm beginning to see the appeal of this programme. 
+ELI: Don't twitch a whisker, Sheriff, unless you want a shave. (his gun
+is drawn) Okay, boys. Saddle up. But first, get their money and
+jewellry. 
+WORF: You are a murderer and a thief. 
+ELI: A man's got to make a living. 
+(Eli's hat it blown off by a gunshot from the doorway) 
+TROI: I suggest you find a new line of work. 
+ALEXANDER: I asked Counsellor Troi to join us. She loves Western
+stories. 
+ELI: You'll regret this, stranger. 
+(Eli twirls his pistol back and forth before holstering it.)
+[Engineering]
+DATA: I am now attempting to access the long range
+sensor array. 
+LAFORGE: Forward sensor array coming online. We're getting a clear
+scan. 
+DATA: I will perform a routine maintenance check on the starboard
+inertial damping system. 
+LAFORGE: Dampers online. Maintenance check in progress. Data, I think
+we're on to something here. Let's see what you can do with secondary
+systems. Try gravitational control. 
+DATA: Initiating gravitational 
+(Data twitches) 
+LAFORGE: What's wrong? 
+DATA: There appears to be an energy fluctuation in my neural net. I am
+disconnecting my interface to the computer. Interface deactivated. 
+LAFORGE: You all right? 
+DATA: I have experienced a brief power surge in my positronic
+subprocessor. But I am fine. 
+LAFORGE: (disconnecting Data) Maybe the interface coding isn't as
+stable than we thought. Looks like we've got a couple of hours of
+systems analysis before we can try this again. Let's check the
+interface programming. 
+(Data picks up a tricorder, flips it over, then pushes it down into his
+'holster')
+[Sheriff's office ]
+(Eli is in the jail) 
+WORF: What are his rights in this century? Is there be a trial or shall
+I execute him? 
+ALEXANDER: We're supposed to hold him until the US Marshal comes, and
+then we'll take him to Rapid City for a trial. 
+ELI: Frankly, I don't think I'll be around here that long. Not after my
+old man hears about this. 
+WORF: What old man are you referring to? 
+ELI: My pa. When he breaks me out of this tin can, the gravedigger'll
+be working overtime. 
+ALEXANDER: Your pa's no match for Sheriff Worf. 
+WORF: Yes. When your pa comes, we will be ready for him. 
+TROI: (lighting a cigar) He's right. You're no match for the
+Hollanders. 
+WORF: I am sure the three of us can handle any problems. 
+TROI: Hold on. I was just passing through town, saw a little trouble,
+thought I'd lend a hand. But I ain't one of your deputies, Sheriff. 
+WORF: Counsellor, I would appreciate some support in this matter. 
+TROI: Durango. I'm called Durango. 
+WORF: Yes, er, Counsellor Durango, perhaps you would consider becoming
+a temporary deputy? 
+TROI: For a price. Five hundred dollars. 
+WORF: Alexander we require large amounts of currency. 
+ALEXANDER: Yes, sir. I'll go to the bank and make a withdrawal. 
+(Alexander leaves) 
+WORF: Deanna, how do you know so much about this period in Earth's
+history? 
+TROI: My father used to read me stories from the Ancient West when I
+was a little girl. I must admit, I always wanted to play the part of
+the mysterious stranger. 
+(the saloon owner, a buxom middle-aged woman, enters and kisses Worf) 
+ANNIE: You are so brave, facing down that evil man like you did. 
+WORF: Why hank you. Miss? 
+ANNIE: Annie, you big galoot. You best not forget that tonight, 'cos
+I'm going to make you beef steak and some gooseberry cobbler for
+dessert. 
+TROI: Sounds delicious. 
+ANNIE: And I bought some special candles for the table setting. Pure
+beeswax. 
+WORF: I will not be able to come this evening. I have a prisoner. 
+TROI: I'll watch him for you, Sheriff. You two go have a good time. 
+WORF: That's very considerate of you, but I would be negligent in my
+duties if I did not stay. I am sorry, Miss Annie. 
+ANNIE: It's another woman, ain't it? It's that floozy down there at
+Miss Langford's house of pleasure. 
+WORF: Who? 
+(Annie slaps Worf's face and leaves) 
+ELI: You sure got a way with women, Sheriff.
+[Picard's quarters]
+PICARD: Computer, activate Picard Mozart trio,
+programme one. Play back tracks one, two and three. Tempo allegro. 
+(it starts up with the music Picard was recording at the start of the
+show, then changes to Dvorak's The Slavonic Dances.) 
+PICARD: Computer, stop playback. Computer identify musical composition.
+COMPUTER: Picard Mozart trio, programme one.
+[Rehearsal room]
+CRUSHER: Okay, let's work through Act two from the
+beginning. Whenever you're ready. 
+(Riker mimes entering through a door, then reads from his PADD) 
+RIKER: Felis catus, is your taxonomic nomenclature. An endothermic
+quadruped, carnivorous by nature.
+CRUSHER: Hold it. Will, what are you reading? 
+RIKER: The lines. Why? 
+CRUSHER: That's not the right dialogue. 
+(She takes his PADD) 
+CRUSHER: Your visual, olfactory, and auditory senses contribute to 
+RIKER: I recognise it. This is Data's poetry. 
+CRUSHER: What? The play's gone. I just keep getting more poetry.
+[Engineering]
+(Geordi has the PADDs in pieces) 
+LAFORGE: Well, the PADDs are functioning normally. It seems to be a
+problem with the information retrieval net. Somehow when you tried to
+call up your play, the computer accessed Data's literary files. 
+DATA: Geordi, perhaps this problem is related to our interface
+experiment. 
+LAFORGE: We'd better run a level two diagnostic on the computer. See if
+this problem has spread to any other systems. 
+DATA: And I will perform a self-diagnostic. 
+LAFORGE: That's a good idea. 
+CRUSHER: You will let me know if you find the play? 
+LAFORGE: Oh yeah, don't worry. It's in here somewhere.
+[Deadwood street]
+(Alexander is coming back along the board walk with
+a bag of money, when he is grabbed)
+
+[Mine workings]
+BANDITO: We got him, jefe. 
+DATA-FRANK: Where's my boy? 
+ALEXANDER: I'm not supposed to be kidnapped now. Computer, freeze
+programme! Hey, Computer, freeze
+programme. 
+BANDITO: You want us to kill him, Senor Frank? 
+DATA-FRANK: No. He's more valuable to us alive.
+
+[Data's quarters]
+DATA: Feline supplement one hundred twenty seven.
+Spot, I have formulated a new mixture of foods specifically designed
+for your highly selective tastes. 
+(but Spot runs away from the bowl of food) 
+DATA: I find it extremely difficult to predict what you will find
+acceptable. Perhaps hunger will compel you to try it again. 
+(Data goes to his desk, and Spot jumps on to it) 
+DATA: Spot, you are disrupting my ability to work. 
+(He puts Spot on the floor, but she jumps up again) 
+DATA: Vamoose, you little varmint.
+[Gold Strike saloon]
+ANNIE: What'll it be? 
+WORF: I was looking for my deputy. Perhaps you have seen him. 
+ANNIE: Nope. What'll you have? 
+WORF: Klingon fire wine. 
+ANNIE: This ain't Kansas City. We ain't got none of that fancy European
+stuff here. Maybe I should get you a sherry. Ain't that is what they
+serve at Miss Langford's? It is, ain't it? Ain't it? 
+(Frank, the Mexican and an outlaw enter. The piano playing stops) 
+DATA-FRANK: Howdy, Sheriff. 
+WORF: Commander, what are you doing here? 
+DATA-FRANK: The name is Frank Hollander. What are you smiling at? 
+WORF: Nothing. Nothing at all, Mister Hollander. What is it you want? 
+DATA-FRANK: My boy. 
+WORF: That is impossible. Your son is to stand trial for murder. 
+DATA-FRANK: Well then, we'll just have to work something out. Is there
+anything you want in exchange for my boy? 
+WORF: You have nothing I want. 
+DATA-FRANK: Is that so? Is that so? What about your deputy? 
+WORF: What about him? Where is he? I do not negotiate with criminals.
+Your son will stand trial. 
+(Data grabs Worf's shoulder as he walks past, hurting him) 
+DATA-FRANK: Not so fast. 
+WORF: Commander, what are you doing? 
+DATA-FRANK: I ain't in the mood for games, Sheriff. 
+WORF: Data? Commander? Computer, freeze programme. 
+DATA-FRANK: I wouldn't walk out that door if I was you, Sheriff. 
+(So Worf dives out amid a hail of bullets from the Mexican and the
+outlaw)
+
+[Sheriff's office]
+(Troi is practicing her fast draw when Worf rushes
+in) TROI: What's wrong? 
+WORF: The holodeck safeguards are not functioning. Alexander's in
+trouble. 
+TROI: My God, you've been shot! Computer, end programme. Troi to
+Captain Picard. Troi to Security. 
+WORF: There's another character in the programme. Hollander's father.
+And he looks like Commander Data. 
+(Troi uses her bandana to bind Worf's arm) 
+TROI: Data? 
+WORF: But it is not Data. I cannot explain. I believe he has taken
+Alexander. 
+DATA-ELI: Oh, now isn't that a shame? Poor Sheriff's been injured.
+What's the matter? Was my pa a little too rough on you? 
+TROI: Data? 
+DATA-ELI: What? 
+TROI: Why is the computer creating characters that look like Data? 
+WORF: Where have they taken my son? Where is he? 
+DATA-ELI: Temper, temper, Sheriff. My pa ain't going to like if I come
+home all bruised. 
+TROI: Worf, wait. We have to remember, even though the holodeck
+safeguards may be off, this is still a
+programme. If we can just get to the end of this story the way it was
+designed to play out, the programme will automatically terminate. 
+WORF: You are right. I will begin by speaking to the people of this
+town. Perhaps someone witnessed Alexander's abduction.
+Captain's log, supplemental. Commander La Forge and
+Mister Data believe they have found the cause of the mysterious
+malfunctions which have been plaguing the ship. 
+[Observation lounge]
+LAFORGE: We think our interface experiment may have
+caused one of the computer's core subroutines to be altered. 
+DATA: When the interface malfunction occurred, subroutine C forty seven
+was replaced by elements from my personal programming. 
+RIKER: What does C forty seven control? 
+LAFORGE: Library computer access, replicator selection, recreational
+programming. No critical systems. 
+DATA: That would explain why your music composition programme began
+playing The Slavonic Dances. I have been analysing the collected works
+of Antonin Dvorak. 
+LAFORGE: It's the same with Doctor Crusher's play, and with the food
+replicators. 
+RIKER: The replicators on decks four through nine are producing nothing
+but cat food. 
+PICARD: Cat food? 
+DATA: I have been formulating nutritional supplements for Spot. 
+PICARD: When can you correct the problem? 
+DATA: We are currently attempting to isolate the corrupt circuit
+pathways. I reckon the process should take less then two hours. 
+PICARD: What did you say? 
+DATA: I said the process should take less than two hours. 
+RIKER: No, you said I reckon. 
+DATA: According to my memory log, I did not use those words. Ya'll must
+be mistaken. 
+LAFORGE: There, Data, you did it again. 
+DATA: Did whut? 
+PICARD: Mister La Forge, perhaps you should take Mister Data to
+Engineering. See if you can find the problem. 
+LAFORGE: Aye, sir. 
+(Data walks with a cowhand's roll, and spits in the plant in the
+corner) 
+[Sheriff's office]
+(in the cell, Eli is shuffling cards with Data's
+speed) 
+DATA-ELI: Can I help you with somethin? 
+(there's a knock at the door. Troi lets Worf in) 
+WORF: I spoke to several witnesses who saw Alexander being abducted as
+he was leaving the bank by one of Hollander's men. We must begin a
+systematic search of the town. 
+TROI: Worf, we've got another problem. I saw Eli playing cards. He was
+shuffling the way Data does when he plays poker. He doesn't just look
+like Data, he has Data's abilities. Which means his father probably
+does also. 
+(another knock at the door. Troi gets her Winchester and Worf his
+pistol, then lets in) 
+DATA-FRANK: I've came to see my boy. 
+WORF: Remove your weapon. 
+(he does) 
+DATA-FRANK: Better take a good look at that gun, Sheriff. You might be
+seeing it again real soon. 
+DATA-ELI: Pa? 
+DATA-FRANK: Eli! How are they treating you, boy? 
+DATA-ELI: Real bad, pa. They ain't fed me since I got here and the
+Sheriff's been roughin up on me somethin fierce. 
+DATA-FRANK: Don't you worry, boy. The Sheriff's going to pay. Who's the
+stranger? 
+DATA-ELI: Don't know. She ain't said her name. But she's in cahoots
+with the Sheriff and she's mighty mean with that Winchester. 
+DATA-FRANK: You sit tight, boy. I'll have you home in time for supper.
+I'm going to give you one more opportunity, Sheriff, to avoid a ugly
+situation. Release my boy. 
+WORF: I have reconsidered your offer. I will release your son in
+exchange for my deputy. 
+DATA-FRANK: I thought you might have a change of heart. Meet me in two
+hours. You be in front of the saloon. I'll be in front of the livery
+station. Strangers ain't invited. 
+WORF: Agreed. 
+(Worf gives Frank his gun back and he leaves) 
+TROI: In every Western I've ever read, the villains always break their
+word. he can't be trusted. 
+WORF: But we have made an honourable agreement. 
+TROI: They're not concerned with honour, Worf. This is the Ancient
+West. There's a gunfighter out there who has the speed and accuracy of
+an android. And in two hours, he's going to try to kill you.
+[Engineering]
+(Geordi is working on Data's head) 
+RIKER: Mister Data. 
+DATA: Howdy, Commander. 
+RIKER: Geordi, what have you found? 
+DATA: Well, we figure part of my memory structure (normally) was
+replaced with information from the computer's recreational data base. 
+LAFORGE: Specifically, the files relating to the nineteenth century
+American West. 
+RIKER: That would explain the accent. 
+DATA: You got it, partner. 
+RIKER: This is a result of the experimental interface? 
+LAFORGE: I'm afraid so. But we've initiated a progressive memory purge
+to restore Data's programming to its original state. He should be back
+to normal in a couple of hours. 
+RIKER: And what about the computer's recreational data base? 
+LAFORGE: We started a memory purge there as well. It'll take another
+hour, maybe two. 
+DATA: Commander. You just sit tight. We'll have this all fixed up in
+time for supper. 
+RIKER: Good.
+[Sheriff's office]
+(Worf is working on his tactics) 
+WORF: I will be positioned here, at the eastern end of the street.
+Frank Hollander says he will approach from this end. When he reaches
+this point, he will be within range. 
+TROI: Understood. What about Alexander? 
+WORF: There's a rain barrel in front of the saloon. It should be enough
+to stop the bullets. 
+(knocking at the door) 
+ANNIE: You would not believe what I went through to get old man Newsom
+to give up his telegraph machine. 
+(Worf looks the morse code transmitter over) 
+WORF: Excellent. 
+ANNIE: Lord knows why I keep risking my life for you, Sheriff. 
+(Troi signals Worf to respond) 
+WORF: Oh, yes. Thank you, Miss Annie. I am in your debt. 
+(the clock chimes four) 
+(now it is five fifteen) 
+WORF: I have connected the communicator's energy cell to serve as the
+power source. 
+TROI: How long will the field last? 
+WORF: No more than fifteen seconds. It is highly unstable. 
+TROI: Let's hope it's enough.
+Deadwood street]
+(Eli and Worf walk out onto the street. The
+shopkeeper closes up and pulls down his blinds. The sun in on their
+right. Frank and Alexander appear at the other end of the street.
+Alexander is sent forward. then Eli. The Mexican and the outlaw now
+look like Data as well, and come out of their hiding places. Eli and
+Alexander cross in the middle of the street, then - ) 
+DATA-FRANK: Eli, get down! 
+WORF: Alexander! 
+(Alexander runs for cover in the saloon, Worf switches on his personal
+forcefield and Frank fires, emptying his pistol for nothing. The
+forcefield switches off) 
+(Troi gets the drop on the outlaw) 
+TROI: Don't even think about it. 
+DATA-MEXICAN: Senor Frank! 
+(and throws Frank another pistol. We watch it in slow motion, and just
+as Frank catches and starts to aim it, Worf shoots it out of his hand.
+The Mexican goes into hiding again.) 
+DATA-FRANK: Go ahead. Shoot me. 
+WORF: Do not show your face in this town again. 
+DATA-FRANK: Let's go. 
+[Gold Strike saloon]
+ALEXANDER: Father! 
+WORF: Are you all right? 
+ALEXANDER: Yes. 
+WORF: End programme. 
+TROI: I don't understand this. The story should be over. What's left? 
+WORF: Computer, end programme. 
+DATA-ANNIE: Sheriff! You're as handy with a shooting iron as you are
+with a woman's heart. 
+WORF: (panic-stricken) Computer, end programme! Computer! Now! 
+(Annie hugs him, and the programme ends. Worf is visibly relieved)
+Captain's log, stardate 46278.3. Both Commander
+Data and the ship's computer have been restored to normal operation.
+Our rendezvous with the supply ship Biko has proceeded as planned.
+[Alexander's bedroom]
+(Alexander looks asleep) 
+ALEXANDER: Father? After what happened I guess you'll never want to go
+back to the Ancient West. 
+WORF: The town of Deadwood may face danger once again. If they do, they
+will need a Sheriff and a deputy. 
+(Worf goes into the main room, puts on his stetson and tries a quick
+draw in front of the mirror. He smiles, and the Enterprise flies off
+into the sunset)  
+
+

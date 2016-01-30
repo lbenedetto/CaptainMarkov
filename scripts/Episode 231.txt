@@ -1,0 +1,666 @@
+Episode Number: 231
+
+The Next Generation Transcripts - Schisms
+Schisms
+Stardate:
+46154.2
+Original Airdate: 19 Oct, 1992
+
+ 
+Captain's log, stardate 46154.2. The Enterprise has entered the
+Amargosa Diaspora, an unusually dense globular cluster. We are faced
+with the daunting task of charting this vast region.
+[Riker's quarters]
+(Riker walks from a very unrestful night's sleep.
+The clock says 10:37)
+[Engineering]
+LAFORGE: Lieutenant Shipley, let's get a
+triangulation on these sector points. 
+SHIPLEY: Aye, sir. 
+RIKER: Sorry I'm late. I overslept again. What have we got? 
+LAFORGE: Well, the cluster's a lot more dense than we thought. It's
+going to take three days just to map out one tenth of it. 
+RIKER: Three days? 
+LAFORGE: I think we've found a way to speed that up a bit. We've been
+testing a way of channelling warp energy directly to the main deflector
+grid. It should enhance the long range sensors. 
+DATA: The modification would increase our sensor efficiency and imaging
+resolution by twenty five percent or more. 
+RIKER: That sounds like that'll use up a lot of warp energy. 
+LAFORGE: We'd channel it through the EPS mains on deck four, near Cargo
+bay four. 
+RIKER: Okay, let's give it a try. 
+LAFORGE: Data, let's get those field taps online. 
+DATA: Commander, I would like to remind you about my poetry reading
+this afternoon. 
+RIKER: I wouldn't miss it for the world. 
+LAFORGE: I can't wait to see what he's come up with.
+[Ten Forward]
+(Data is giving his recital to a slightly restless
+audience) 
+DATA: Then we sat on the sand for some time and observed 
+How the oceans that cover the world were perturbed 
+By the tides from the orbiting moon overhead 
+'How relaxing the sound of the waves is,' you said. 
+I began to expound upon tidal effects 
+When you asked me to stop, looking somewhat perplexed. 
+So I did not explain why the sunset turns red 
+And we watched the occurrence, in silence, instead. 
+(applause) 
+DATA: That poem was written in anapaestic tetrameter. For my ninth
+poem, 
+RIKER: I don't understand. I can barely keep my eyes open. 
+DATA: Throughout the ages, from Keats to Jorkemo, poets have composed
+odes to individuals who have had a profound effect on their lives. In
+keeping with that tradition, I have written my next poem in honour of
+my cat. I call it Ode to Spot. 
+Felis catus is your taxonomic nomenclature. 
+An endothermic quadruped, carnivorous by nature. 
+Your visual, olfactory, and auditory senses 
+Contribute to your hunting skill and natural defences. 
+I find myself intrigued by your subvocal oscillations. 
+A singular development of cat communications 
+That obviates your basic hedonistic predilection, 
+For a rhythmic stroking of your fur to demonstrate affection. 
+A tail is quite essential for your acrobatic talents. 
+You would not be so agile if you lacked its counterbalance. 
+And when not being utilised to aid in locomotion 
+It often serves to illustrate the state of your emotions. 
+(Riker snores, Deanna pokes him awake and he starts clapping) 
+DATA: Commander, you have anticipated my denouement. However, the
+sentiment is appreciated. I will continue. 
+Oh, Spot, the complex levels of behaviour you display 
+Connote a fairly well developed cognitive array. 
+And though you are not sentient, Spot, and do not comprehend 
+I nonetheless consider you a true and valued friend.
+[Sickbay]
+RIKER: I have no problem getting to sleep. Then I
+think I'm sleeping all night. When I wake up, I feel exhausted. 
+CRUSHER: How long has this been going on? 
+RIKER: Two, three days. Do you have to hold that thing that close? I'm
+sorry. I've been on edge all day. 
+CRUSHER: Well. other than some muscle tension in your neck, I don't see
+anything physically wrong with you. Have you been having bad dreams? 
+RIKER: Not that I can remember. 
+CRUSHER: This could be the result of lack of REM sleep. 
+RIKER: What do you recommend? 
+(she programs a PADD) 
+CRUSHER: Drink this before going to bed. 
+RIKER: What is it? 
+CRUSHER: A recipe for a warm milk toddy. 
+RIKER: A hot milk toddy? You're kidding. 
+CRUSHER: The heat activates amino acids in the lactose, making it a
+natural sedative. Besides, this is a recipe of the Captain's Aunt
+Adelle. It's delicious. 
+RIKER: Well. at this point, I'll try anything. 
+CRUSHER: And listen, if it still bothers you tomorrow, come and see me
+and I'll run further tests. 
+RIKER: Thanks. 
+[Engineering]
+LAFORGE: Everything's in place. Warp grid couplers,
+subspace field taps. All right, let's do it. Lieutenant Shipley,
+initiate warp power transfer. 
+SHIPLEY: Aye sir. Verifying sensor calibration. EPS mains holding
+stable. Sensor array online. 
+LAFORGE: Come on, work. 
+DATA: Geordi, active scanner output has increased by twenty six
+percent. 
+LAFORGE: Inform Astrophysics that the new La Forge sensor array is
+online and awaiting major scientific discoveries. 
+SHIPLEY: Yes, sir. 
+DATA: Geordi, may I make a personal inquiry? It concerns my poetry
+reading. 
+LAFORGE: Sure, Data. What is it? 
+DATA: I noticed that many spectators seemed distracted during my
+presentation. Was my poetry uninteresting? 
+LAFORGE: Well, it was very well constructed, a virtual tribute to form.
+DATA: Thank you. And? 
+LAFORGE: And what? 
+DATA: Did it evoke an emotional response? 
+LAFORGE: Well. 
+DATA: Your hesitation suggests you are trying to protect my feelings.
+However, since I have none, I would prefer you to be honest. An
+artist's growth depends upon accurate feedback. 
+LAFORGE: Well, your poems were clever, Data, and your Haiku was clever,
+and your sonnet was clever. But did it evoke an emotional response? To
+be honest, no, I don't think so. 
+DATA: Then I did not succeed in my efforts. 
+LAFORGE: No, it's not that you didn't succeed. You accomplished a lot,
+but, if you want to touch people, don't concentrate so much on rhyme
+and metre. Think more about what you want to say instead of how you're
+saying it. 
+(a alarm sounds) 
+LAFORGE: That's the power grid warning. 
+DATA: I am reading a massive EPS explosion. 
+LAFORGE: Where? 
+DATA: I am attempting to localise it. It is Cargo bay four. 
+LAFORGE: I've got three people in there. Damage control, medical team
+to Cargo bay four. Let's go.
+[Corridor]
+(everyone strolls along calmly) 
+DATA: The field imbalance has subsided. 
+WORF: There may still be a residual discharge. Stand clear.
+[Cargo bay]
+ENGINEER: Is there something wrong, sir?
+[Corridor]
+LAFORGE: And there's no evidence of an EPS
+explosion. 
+RIKER: Sensors seemed to think there was. 
+LAFORGE: I think my modification to the sensor array may have caused a
+pattern recognition failure. 
+RIKER: Just a sensor glitch? 
+LAFORGE: That's my guess. 
+RIKER: Let's perform a level three diagnostic on the internal sensor
+network and make sure that we haven't overlooked anything. 
+LAFORGE: Aye, sir. 
+RIKER: Could we pick this up in the morning, Geordi? Get a fresh start?
+Would you do me a favour? Stop by my quarters, oh seven hundred hours.
+I'm having trouble waking up. 
+LAFORGE: Sure, Commander. Goodnight. 
+RIKER: Goodnight.
+[Riker's quarters]
+(Riker drinks his prescription toddy, and lies
+down) 
+[Corridor]
+CREWMAN: Commander. 
+LAFORGE: Gordon. 
+(Geordi rings a doorbell)
+[Riker's quarters]
+RIKER: Who is it? 
+LAFORGE [OC]: It's La Forge. 
+RIKER: Come in. LAFORGE: Good morning. 
+RIKER: Morning? I just went to bed. 
+LAFORGE: Commander, it's oh seven hundred hours.
+[Barber shop]
+MOT: She said, if they're not squirming, we won't
+eat 'em! 
+(Worf enters) 
+MOT: Ah, Mister Worf, my good Klingon. Sir, welcome. What a pleasure it
+is to have you with us again so soon. So, Lieutenant, haircut today?
+Trim your beard? 
+WORF: I would like my hair trimmed. 
+MOT: Ah. A trim, of course. 
+WORF: Not like last time. 
+MOT: Oh no, just a little off the top. I took way too much off last
+time. I was just telling my colleague, Mister Setti, how thick and
+luxuriant Klingon hair is. It's such a pleasure to cut. Sometimes I get
+carried away. All those away missions, the wind and dry air, the
+elements really are harsh on the hair. I'd like to suggest that you
+start using a conditioning agent. 
+(Worf sees the scissors and grabs Mot's arm) 
+MOT: I promise, not too much off the top. 
+(Worf leaves)
+[Cargo bay]
+(Geordi is up a ladder, looking inside a panel) 
+LAFORGE: Just before the grid alarm sounded, we were running warp power
+through this junction. Somehow, it must've tripped the internal
+scanners. 
+RIKER: And it showed up as an EPS explosion? 
+LAFORGE: Yes, but the question is, why? I've made modifications to the
+sensors before but nothing like this has ever happened. 
+(He comes down the ladder) 
+RIKER: We can't waste time chasing down sensor ghosts. We should
+probably keep the whole array offline until we can get take a closer
+look. 
+LAFORGE: (yawns) Excuse me. 
+RIKER: I know the feeling. The past few nights, it seems like as soon
+as my head hits the pillow, it's time to get up in the morning. 
+LAFORGE: I'm sure we could all use a little shore leave after this
+survey's completed. 
+RIKER: Definitely. Keep me posted? 
+LAFORGE: Yeah. Data, I'm wondering if you could give me a hand. I need
+to run a structural integrity scan. I want to make sure that none of
+the conduit was 
+(Geordi sways) 
+DATA: What is it? 
+LAFORGE: This is the second time today that my visor's just cut out
+like that. 
+DATA: Are you all right, Geordi? 
+LAFORGE: I don't know. I just had a very weird feeling. Maybe I should
+go to Sickbay. 
+DATA: I will run the integrity scan. 
+LAFORGE: Thanks, Data.
+[Sickbay]
+CRUSHER: This is curious. There's a slight
+bacterial infection around your neural inputs. It was probably
+interrupting the data stream. 
+LAFORGE: An infection? From what? 
+CRUSHER: It doesn't match any bacterial strains on record. I'm going to
+have to sterilise the area. But I need to run a resonance tissue scan
+to search for any signs of additional infection. Come over here. Sit
+down. Now, come forward. Now, you're going to need to hold very still.
+[Cargo bay]
+LAFORGE: How's the scan going, Data? 
+DATA: I have just started the scan. Did you not go to Sickbay? 
+LAFORGE: Data, I've been there for over an hour and a half. 
+DATA: That is not possible. My internal chronometer indicates you have
+been gone for exactly one minute, fifteen seconds. 
+LAFORGE: I'm telling you, Data, I've been gone for over an hour. 
+DATA: Computer, what is the time, please? 
+COMPUTER: The time is fourteen twenty seven hours. 
+DATA: You are correct. Ninety two minutes, seventeen seconds have
+passed since you left the room. 
+LAFORGE: What have you been doing all this time? 
+DATA: I have no memory of events during that period. When we are
+finished here, I will perform a self-diagnostic. 
+LAFORGE: You know, first we picked up a false EPS explosion, then my
+visor cuts out twice, and now you lose an hour, all in the Cargo Bay.
+La Forge to Engineering I want a diagnostic team to Cargo bay four
+immediately. 
+SHIPLEY [OC]: On our way, sir.
+[Bridge]
+RIKER: Ensign Rager, cartography needs a better
+position to study cluster FGC thirteen. Bring us about, heading one
+twenty three mark four. 
+RAGER: Aye sir. Helm won't lock to those coordinates, sir. 
+RIKER: First time navigating through a globular cluster, Ensign? You
+have got to compensate for gravimetric interference before 
+(Riker sits at helm and stares at the edge of the console) 
+RAGER: Is there something wrong, sir? 
+RIKER: No. I don't know. Put us back on our original heading, Ensign.
+[Cargo bay]
+(Geordi is muttering at a console) 
+LAFORGE: Don't tell me. This can't be right. Data, come here and take a
+look at this, would you? I think we have another sensor glitch. 
+DATA: Sensors are functioning normally. They are detecting a subspace
+particle emission originating from within this room. 
+LAFORGE: From within this room? That's impossible. 
+DATA: The emission is emanating from this direction. Geordi. 
+(something is going on at the panel Geordi was examining earlier) 
+(a little later, Picard is there) 
+DATA: The structure of the bulkhead has been altered on a subatomic
+level. The metal itself is in a state of quasi-molecular flux. 
+PICARD: What's causing it? 
+LAFORGE: This is where it gets a little wild, Captain. Behind that
+panel is a junction we were using to transfer
+warp power to the sensor array. We're reading a subspace particle
+stream emanating from that junction. 
+DATA: It appears to be composed of spatially inverted tetryon
+particles. We believe they are emanating from a tertiary subspace
+manifold. 
+PICARD: But I thought that tetryons were unstable in normal space. 
+LAFORGE: We don't understand it either, sir. Something from that deep
+in subspace shouldn't be able to exist in our universe. But there it
+is. 
+PICARD: Does it pose a danger to the ship? 
+LAFORGE: Not unless it spreads. If it does, we can beam the bulkhead
+into space and erect a forcefield in its place. 
+PICARD: Well, keep that option ready. In the meantime, proceed with the
+analysis. 
+LAFORGE: Aye, sir.
+[Ten Forward]
+RIKER: When I sat down at the console, it triggered
+a response like I had been trapped. I had to get out of there. 
+TROI: Was it something about the console itself? 
+RIKER: No. I felt like I was disconnected. Like it was something I had
+dreamed. 
+TROI: You're the third person today who's come to me with something
+like this. An intense emotional response provoked by an object. 
+RIKER: Did any of them know why they'd the response? 
+TROI: No, they couldn't explain it any more than you could. You know,
+at this point I'm not willing to say it's coincidence. 
+RIKER: Maybe we should all get together. 
+TROI: Talking about it would help you understand your response. I'm
+going to find out if anyone else on the ship has had these kind of
+experiences. 
+[Observation lounge]
+TROI: Will, you told me you had an unusual
+experience when you sat down at the console. Why don't you describe it?
+RIKER: It was vague, the way you recall a dream. I remember the
+sensation of feeling trapped and something about a smooth surface. 
+WORF: I had a similar response, but to a pair of scissors. 
+TROI: Have you dreamt about scissors recently? 
+WORF: I may have. I do not have a distinct memory of it. 
+LAFORGE: When my visor cut out in the cargo bay, I had a weird feeling
+too. It was something about a smooth surface. It was smooth and cold,
+Yeah, it was cold. 
+KAMINER: (a civilian woman) Yes, cold. 
+WORF: It was elevated? A platform. 
+LAFORGE: Right. Like a bench, or a table 
+TROI: It seems you've all had a similar experience. Is there anything
+else you remember besides a table? 
+RIKER: Maybe there's a way we can all help ourselves to remember more. 
+[Holodeck]
+TROI: Well, you all remember a table, so let's
+start with that. Computer show me a table. 
+COMPUTER: There are five thousand forty seven classifications of tables
+on file. Specify design parameters. 
+TROI: Can you be more specific about the table? You mentioned it was
+smooth and cold. Can you remember what shape it was? 
+KAMINER: Long. It was long. 
+LAFORGE: Yeah, and it had a rectangular shape. 
+TROI: Computer, show me a rectangular conference table. 
+LAFORGE: It's too high. Computer, reduce the height of the table by
+twenty five percent. 
+WORF: No, the table was smaller. And it was inclined. Computer,
+decrease the table's surface area by twenty percent and incline the top
+fifteen degrees. 
+RIKER: No, it wasn't made of wood. It was smoother, more metallic. 
+TROI: Computer, make this a metal table. 
+(a sort of operating table appears) 
+LAFORGE: Yeah, that's starting to look right. 
+TROI: Was there anything else in the room? Furniture? Chairs? A door?
+Other people? 
+KAMINER: No, it was dark. 
+RIKER: Yes, it was dark. I couldn't see beyond the table. 
+TROI: Computer, lower the surrounding light level. 
+LAFORGE: There was a light right in my face. A bright light. Computer,
+give me a bright light right above the table. 
+COMPUTER: Specify light source. 
+LAFORGE: I couldn't tell. It was above me. An overhead lamp. 
+COMPUTER: Estimated distance of light source. 
+LAFORGE: I don't know. It was at least two or three metres above.
+Brighter. Brighter. 
+TROI: You said you were uneasy when you sat down at the conn. position.
+RIKER: Yes. I felt trapped by the console. But it wasn't like this.
+There was something else here. 
+TROI: A restraint of some kind? 
+RIKER: Yes, there was a restraint. It was flat and metal. It was made
+of metal. it came down over my legs. No, no, it was across my chest,
+right here. 
+TROI: It was holding you down? 
+RIKER: Yes, it was part of the table. It was here. It was right here. 
+TROI: Computer, create a restraining arm attached to the right side of
+the table, at the mid-point. 
+TROI: Was it like that? 
+RIKER: Computer, put controls on the restraining arm. A control panel.
+Lights. 
+KAMINER: There was something else there. Over the head of the table. A
+metal swing arm. Computer, create a metal swing arm, double jointed,
+total length one metre. Connect it to the head of the table. 
+WORF: There was something attached to it. A tool of some sort.
+Scissor-like. Computer, produce a pair of scissors attached to the
+armature. The handle is wrong. It was not scissors. Computer, make the
+handle a single grip ten centimetres long, solid metal. Now make one
+blade longer, curved inward. And give the other blade a jagged edge. 
+TROI: All right, you were lying on the table. You had a bright light
+shining in your eyes. Were there any smells in the room? Were there any
+sounds? 
+RIKER: Yes. Yes, there was a sound. Computer, there were noises coming
+from the darkness. Strange, like whispering. 
+KAMINER: More like clicks. Clicking sounds. 
+RIKER: Louder. Faster. More of them. 
+LAFORGE: I've been in this room before. 
+RIKER: We've all been here before. 
+[Sickbay]
+(a lot of examinations are going on) 
+CRUSHER: Here it is again. Something has caused high levels of
+serotonin to be produced in Geordi's visual cortex. When I examined him
+earlier today, I thought it was the result of a bacterial infection,
+but now I'm finding the same thing in all three. They all have elevated
+levels of serotonin. It's concentrated in the hippocampus, which
+suggests that they've been exposed to a neuro-sedative. And that's not
+all. I have detected minute tetryon particle traces in their subdermal
+tissues. 
+PICARD: Tetryons? Like the emissions in the cargo bay. 
+(Data enters) 
+DATA: I have completed my self diagnostic, and have confirmed that I
+was not aboard the Enterprise for ninety minutes seventeen seconds
+yesterday afternoon. 
+LAFORGE: Are you sure? 
+DATA: Whenever I am on the ship, the warp field leaves an
+electromagnetic signal on my internal servo-fluid system. Between the
+period of twelve fifty four and fourteen twenty six hours that
+signature is missing. 
+PICARD: Computer, are there any members of the crew of the Enterprise
+missing? 
+COMPUTER: There are two crewmembers unaccounted for. 
+PICARD: Identify them. 
+COMPUTER: Lieutenant Edward Hagler and Ensign Sariel Rager. 
+PICARD: When did they leave? 
+COMPUTER: They have not been present since twenty three thirty two
+hours. 
+PICARD: How did they leave? 
+COMPUTER: Method of departure unknown. 
+PICARD: Picard to Bridge. 
+CREWMAN [OC]: Bridge here, Captain. 
+PICARD: Raise shields. And I want a level four security alert. I need
+to know if anyone comes on or off this ship. 
+CREWMAN [OC]: Aye, sir. 
+PICARD: Mister La Forge, Mister Data. I believe that if we find the
+source of those tetryon emissions, we'll find the missing crewmembers. 
+LAFORGE: We're on it, sir. 
+(Data and LaForge leave) 
+MEDIC: Doctor Crusher? You'd better take a look at this. 
+CRUSHER: My God. 
+RIKER: What is it? 
+CRUSHER: It looks as though your arm has been severed and then
+reattached. 
+RIKER: What? 
+CRUSHER: The skeletal structure in your radius and ulna is offset by
+point zero two microns. Your arm has been amputated then surgically
+reattached.
+[Cargo bay]
+(Data and La Forge enter) 
+LAFORGE: Any progress with the analysis, Lieutenant? 
+SHIPLEY: Take a look at this. 
+(there's a glow in the middle of the bay, and the bit on the wall is
+brighter too.) 
+LAFORGE: Data, the tetryon emissions have intensified. They seem to be
+focusing in this direction, coalescing here. They're reading as a point
+of subspace energy. 
+DATA: It appears to be the beginnings of a spatial rupture. 
+LAFORGE: The tetryon emissions are modulating in a way that looks like
+somebody's controlling the energy. You know, the signals from the
+modifications I made to the sensor array, some of them dig pretty deep
+into subspace. Maybe they caught somebody's attention. 
+DATA: At the rate the rupture is expanding, we will soon be in danger
+of hull breach. 
+LAFORGE: Maybe we should try surrounding it with a subspace containment
+field. 
+[Bridge]
+RIKER: Other than the tetryon emissions in cargo
+bay four, our internal sensors haven't recorded anything unusual in the
+past three days. 
+PICARD: Initiate a metallurgical analysis of the ship's hull. Subspace
+field incursions may have left a trace. 
+WORF: Captain, sensors indicate that Lieutenant Hagler has returned to
+the Enterprise. He is in his quarters, deck seven, section nineteen.
+[Corridor]
+(outside quarters 09-1947, Lt Hagler) 
+CRUSHER: Computer, emergency entry, Chief Medical Officer Beverly
+Crusher. 
+(Hagler falls out into her arms) 
+CRUSHER: Crusher to Sickbay. Get a plasma infusion unit to deck seven,
+section nineteen. 
+(Picard and Riker arrive) 
+CRUSHER: His blood is turning into a liquid polymer.
+[Observation lounge]
+LAFORGE: We've set up a containment field in cargo
+bay four, but the rupture just keeps expanding. I'd say we've got
+another five or six hours before it breaches the hull. 
+PICARD: Can we still beam the affected sections out into space? 
+DATA: No, sir. The spatial rupture is creating severe nucleonic
+interference. It is impossible to obtain a positive lock on the
+bulkheads. 
+PICARD: Has your analysis suggested any way in which we might seal this
+rupture? 
+LAFORGE: We think we can close the rupture by neutralising the tetryon
+emissions with a coherent graviton pulse. But we'd have to do that at
+the source. 
+RIKER: How do we find the source? 
+LAFORGE: Good question. The emissions are coming from a tertiary
+subspace domain, but subspace has an infinite number of domains. It's
+like a huge honeycomb with an endless number of cells. We need to
+isolate the exact cell that these emissions are coming from. 
+PICARD: If someone homed onto the subspace signals created by our
+modified signal array, could we do the same to them? Track the tetryon
+emissions to their universe? 
+DATA: Tetryon particles have a random momentum. Our sensors cannot
+track them, sir. 
+WORF: Perhaps we could construct a homing device. Something that our
+sensors could track. 
+LAFORGE: That's a good idea, but there's no way to get that device to
+the source. 
+RIKER: Yes, there is. Give it to me. They've taken me for the last few
+nights. If I'm right, the same thing'll happen tonight. 
+LAFORGE: If you had a homing device, we could track it to your location
+in subspace. And as soon as they send you back to the ship, we could
+transmit the graviton pulse and neutralise the tetryon emissions. 
+TROI: If they send him back. Ensign Rager still hasn't been returned. 
+RIKER: They're going to take me whether I want to go or not. 
+PICARD: Well, we could wait as long as possible for you to be returned,
+Number One, but when the spatial ruptures begin to threaten the ship,
+then we would have to transmit that graviton pulse. 
+RIKER: Understood. 
+PICARD: Perhaps there's a way that we could give you an advantage. A
+way of keeping you conscious after they have taken you. Doctor, can you
+develop some counter-agent to the neuro-sedative that they have been
+giving the crew? 
+CRUSHER: I could give you a neuro-stimulant, but the dosage would have
+to be rather high
+to counteract the effects. It could be risky. 
+RIKER: I'm willing to take that risk. 
+PICARD: Make it so. Mister La Forge, begin work on that homing device.
+[Sickbay]
+CRUSHER: This should be enough to ward off their
+neuro-sedative for about twelve hours. 
+RIKER: I hope it's enough. 
+CRUSHER: It's going to have to be. I can't risk giving you a higher
+dosage. 
+LAFORGE: I've locked this tricorder into a continuous cycle. That way,
+it'll keep recording whether you open it or not. Hopefully you can
+bring back some information about their domain. We've modified a sensor
+relay emitter to transmit a subspace beacon. When this indicator lights
+up, it means that we've locked onto your location. 
+(Geordi fastens the device to Riker's arm) 
+RIKER: Understood.
+[Riker's quarters]
+(in uniform, Riker is lying on his bed when he
+hears a click. Then a light like the one in the cargo bay comes through
+the wall at him, and he is sucked through the hole to somewhere)
+[Bridge]
+WORF: Captain. Commander Riker has been taken from
+the Enterprise. 
+[Alien lab]
+(Riker is on the metal table, wicked knife pointing
+at his throat and clicking sounds from shrouded figures.
+Rager is on another table, with her eyes staring and large tubes coming
+out of an arm. One of the figures comes over and removes Riker's
+phaser, leaving the restraint open.)
+[Engineering]
+PICARD: Mister La Forge, report. 
+LAFORGE: I still can't locate the homing signal. We've covered the
+entire upper subspace energy band. We're extending the scan to adjacent
+levels. 
+PICARD: Mister Data, your status? 
+DATA [OC]: The rupture has expanded another four point two percent. 
+[Cargo bay]
+DATA: Without further reinforcement, containment
+field integrity will fail in approximately fourteen minutes.
+[Engineering]
+PICARD: Can you divert more power to the
+containment field? 
+LAFORGE: I can try to augment the field with auxiliary power, but it
+won't be much. 
+PICARD: Make it so. 
+LAFORGE: Aye, sir.
+[Alien lab]
+(An alien returns to Riker and scans him then
+shuffles off again. The emitter starts beeping)
+[Engineering]
+LAFORGE: Captain, I've located the homing signal.
+Locking onto it now. It's coming from a subspace energy level of
+sixteen point two keV. 
+PICARD: Stand by to initiate the graviton pulse. 
+SHIPLEY: Graviton emitters at full power, sir. Standing by. 
+PICARD: Mister Data, how much time? 
+[Cargo bay]
+DATA: At the present rate, containment failure will
+occur in approximately nine minutes.
+[Alien lab]
+(The alien removes Riker's head restraint)
+[Cargo bay]
+DATA: Captain, the containment field is beginning
+to fluctuate. Failure anticipated in 
+[Engineering]
+DATA [OC]: Three minutes, eleven seconds. 
+PICARD: We can't afford to wait any longer. Begin the graviton pulse. 
+LAFORGE: Initiating pulse now.
+[Alien lab]
+(a bright hole appears in the wall. The alien
+rushes to confer with a colleague)
+[Cargo bay]
+DATA: Data to Engineering. The graviton pulse is
+having an effect. Tetryon emissions have decreased by nineteen percent.
+(the light gets brighter) 
+DATA: Captain, additional subharmonics have appeared. They are
+reinforcing the tetryon emissions. They appear to be counter-acting the
+graviton pulse. 
+[Engineering]
+DATA [OC]: The rupture is beginning to expand
+again, sir. 
+LAFORGE: Looks like somebody is fighting back. 
+PICARD: Can you strengthen the graviton pulse? 
+LAFORGE: I can try to set up a random frequency shift. If we can keep
+them from guessing our pulse modulation, they might not be able to
+compensate.
+[Alien lab]
+(Riker is sitting up and being ignored by the
+aliens) 
+[Cargo bay]
+DATA: Tetryon emissions continue to increase. The
+rupture is still expanding. 
+[Engineering]
+DATA [OC]: Hull breach is imminent. 
+LAFORGE: They're reacting faster than we can shift frequencies.
+Shipley, programme
+the emitters for full spectrum pulse compression. I want to channel all
+of the graviton energy into a single burst. Let's see if they can
+handle that. 
+SHIPLEY: Ready, Commander.
+[Alien lab]
+(Now there are four aliens fussing around a control
+panel)
+[Cargo bay]
+DATA: The rupture is beginning to close, sir. 
+[Engineering]
+LAFORGE: Recharge the emitters. Let's hit them
+again. Come on. 
+SHIPLEY: Ready.
+[Alien lab]
+(Riker sneaks over to Rager, and uses a phaser to
+stun an alien)
+[Engineering]
+DATA [OC]: The rupture is eighty six percent
+closed. 
+LAFORGE: We're almost there. One more burst should do it. 
+SHIPLEY: Emitters recharging. 
+[Alien lab]
+(Riker picks up Rager and dashes through the
+rupture into)
+[Cargo bay]
+(the rupture turns into a blue streak which whizzes
+around then flies out into space)
+Captain's log, stardate 46191.2. The tetryon
+emissions in cargo bay four have ceased, and there have been no further
+indications of alien intrusions. All Enterprise crewmembers are safe
+and accounted for. But we are still left with some unanswered
+questions. 
+[Observation lounge]
+DATA: Based on the information gathered by
+Commander Riker's tricorder, we have determined that the molecular
+structure of the alien life forms is solanogen-based. 
+LAFORGE: We think that's why they couldn't come through into our space,
+as easily as they could take us into theirs. They needed to learn how
+to remodulate their cellular energy states in order to survive in our
+universe. 
+DATA: The tricorder readings indicate they created a small pocket of
+our universe in their laboratory to keep those they abducted alive. 
+RIKER: Like putting a fish in a bucket of water. 
+LAFORGE: That's probably what they were trying to do in cargo bay four.
+Create a pocket of their universe in ours. 
+PICARD: What can we do to prevent this from happening again? 
+LAFORGE: It looks like they found us initially by discovering my
+modified sensor signal. We should warn all Starfleet ships not to make
+that same mistake. 
+PICARD: Have we any idea what came through the rupture before we were
+able to shut it down? 
+DATA: No sir. We were unable to track it once it left the cargo bay. 
+LAFORGE: Maybe it was a probe of some kind. 
+DATA: Possibly they were simply curious. Explorers like ourselves. 
+RIKER: Ensign Rager and I were lucky to have escaped. Lieutenant
+Hagler's dead. Whoever it was sent that thing was more than simply
+curious.  
+
+

@@ -1,0 +1,719 @@
+Episode Number: 159
+
+The Next Generation Transcripts - The Hunted
+The
+Hunted
+Stardate:
+43489.2
+Original Airdate: 8 Jan, 1990
+
+ 
+Captain's log, Stardate 43489.2. We have arrived at Angosia Three, a
+planet that has expressed a strong desire for membership in the
+Federation. Prime Minister Nayrok has taken Commander Riker and me on a
+tour of the capital city. 
+[Angosian Senate]
+PICARD: Well, I'm greatly impressed with everything
+I've seen so far, Prime Minister. 
+(The PM is played by James Cromwell, the man who would become Zephram
+Cochrane) 
+NAYROK: Then I hope it will reflect favourably in your report, Captain.
+RIKER: It's a tribute to your people that you were able to recover so
+rapidly from the Tarsian War. 
+NAYROK: It is indeed. We are not warriors. We believe reason can settle
+disputes. But not every culture agrees with our position. 
+PICARD: An unfortunate reality. 
+NAYROK: The development of the mind, the cultivation of the intellect,
+these are the pursuits to which the Angosians have dedicated themselves
+for centuries. 
+ZAYNAR: Prime Minister. I'm sorry to interrupt, but we have a problem.
+May I see you for a moment? 
+NAYROK: Excuse me, gentlemen. (they move away) Yes, what is it? 
+PICARD: Well, I think they'll make a fine addition to the Federation,
+Number One. 
+RIKER: I'm not sure I'd like to live in this place. A little stuffy for
+my taste. 
+NAYROK: A prisoner has escaped from the penal colony on Lunar Five. Two
+guards are dead. The prisoner has taken a transport vessel. 
+RIKER: Do you have means of pursuit? 
+NAYROK: The tracking station was sabotaged. The entire base is in
+chaos. We have ordered ships from the surface to follow him, but to be
+honest, our civilian pilots are not trained for this. 
+RIKER: With your permission? Mister Data, a stolen transport vessel has
+departed from Lunar Five. 
+[Bridge]
+RIKER [OC]: Have you picked it up on the sensors? 
+DATA: Yes, Commander. 
+RIKER [OC]: Good. 
+[Angosian Senate]
+RIKER: Detain the vessel and quarantine the pilot.
+Is he armed? 
+NAYROK: Yes. And extremely dangerous, Commander. Lunar Five is a
+maximum security facility. 
+RIKER: Did you read that, Data? 
+DATA [OC]: Yes, sir. 
+[Bridge]
+DATA: We will use extreme caution. 
+RIKER [OC]: Keep us informed. Riker out. 
+WORF: On screen, sir. 
+DATA: Specifications on the vessel, Mister Worf? 
+WORF: No warp drive. Minimal weaponry. 
+DATA: Heading, Mister Crusher? 
+WESLEY: Three one nine mark two five oh, sir. 
+LAFORGE: Vessel's speed increasing to point oh two impulse. He's seen
+us, Data. 
+(The little transport slips behind an asteroid, but only part emerges
+on the other side) 
+LAFORGE: That's the ship's drive section 
+WESLEY: What happened to the rest of the ship? 
+DATA: Scan the drive section for life form readings. 
+WORF: None. 
+DATA: Bring us around to the back side of the asteroid, Mister Crusher.
+LAFORGE: Sensors indicate wreckage on the asteroid's surface, Data. 
+WORF: No life signs. 
+DATA: Apparently, he did not survive. 
+WESLEY: Data, the drive section. Where'd it go? There's no sign of it
+on its previous heading. Someone must be at the helm. 
+RIKER [OC]: Status report, Mister Data? 
+DATA: I am afraid the prisoner has eluded us, sir. 
+[Angosian Senate]
+PICARD: Eluded the Enterprise? 
+[Bridge]
+DATA: We followed procedures precisely, Captain.
+Scanners indicated no life forms present in the drive section. I cannot
+explain how he escaped. 
+WORF: Incoming message from the Angosian Prime Minister. 
+PICARD: On screen. 
+NAYROK [on viewscreen]: Captain, we've identified the prisoner. His
+name is Roga Danar. His criminal record is too long to go into, but I
+must caution you that he is given to bouts of uncontrollable violence. 
+PICARD: I appreciate your warning, Prime Minister. We will keep you
+informed of our progress. 
+(transmission ends) 
+RIKER: Geordi, how far and how fast can that transport ship travel? 
+LAFORGE: Without warp drive, there's no way he could be out of our
+range by now. 
+WESLEY: We've been sweeping the area constantly, Commander. There's
+nothing within sensor range. 
+PICARD: A cloaking device? 
+WORF: Sir, the Angosians have no cloaking technology. 
+RIKER: Unless he's borrowing one. If he's hanging over the planet's
+pole, the magnetic field would confuse our sensors. 
+DATA: Commander, I believe I can recalibrate our sensors to read
+through the electromagnetic interference over the poles. 
+RIKER: Let's try it. Mister Crusher, realign for polar orbit. 
+WESLEY: Aye, sir. 
+DATA: There he is, Commander. You were correct. 
+RIKER: This guy knows all the tricks, doesn't he. 
+DATA: There are still no life form readings coming from the vessel. 
+LAFORGE: Could it be the magnetic interference, Data? 
+DATA: I have compensated. Still no readings. 
+PICARD: We'll have an answer shortly. Lock on tractor beam, Mister La
+Forge. 
+LAFORGE: Tractor beam locking on, sir. 
+DATA: He is coming about, sir. 
+RIKER: He's out of his mind! 
+WORF: Sensors detect a massive power build up in his aft thrusters. 
+PICARD: On main viewer. 
+LAFORGE: He's making a suicide run. 
+DATA: Shields have been automatically activated. Tractor beam
+disengaged. 
+WESLEY: He bounced off the shields. 
+RIKER: That's an interesting twist. 
+PICARD: Mister Crusher, fix coordinates onto that vessel. We'll just
+beam the whole thing to a shuttlebay if we have to. 
+DATA: I do not believe that will be necessary, Captain. He is no longer
+in the drive section. 
+PICARD: What? 
+DATA: I anticipated that diversionary tactic based on his pattern to
+date. We are picking up a cylindrical object approximately seven metres
+in length and three metres in diameter. 
+WORF: On screen. 
+PICARD: Magnify. 
+WESLEY: An escape pod. 
+LAFORGE: This guy's incredible. 
+DATA: Yet there are still no life form readings. 
+PICARD: Transporter room four, prepare to beam aboard from inside that
+shuttle anything large enough to be a humanoid adult. 
+O'BRIEN [OC]: Aye, sir. 
+WORF: Security team, report to transporter room four. 
+SECURITY [OC]: On our way, sir. 
+[Transporter room]
+O'BRIEN: We're holding the contents in stasis
+pending arrival of security. An illicit weapon has been detected in the
+transport beam, sir. 
+[Bridge]
+O'BRIEN: It's been rendered inoperable. 
+RIKER: Work, let's greet our guest.
+[Transporter room]
+SECURITY: Bring him in, Mister O'Brien. 
+(The escaped prisoner raises his weapon.) 
+SECURITY: Just stay where you are. 
+The security guard fires, but it has almost no effect. They are jumped
+by the prisoner) 
+O'BRIEN: More security, transporter room four. More security! More
+security! 
+(O'Brien tries to help out by getting the prisoner in a head lock, but
+he is easily
+thrown off. The two guards grab the man and they tumble out into)
+[Corridor]
+(Where one is thrown off down a side passage and
+the other nearly has his arm pulled out. O'Brien shoots the prisoner in
+the back with a phaser, but again, it has little effect. O'Brien gets a
+return shot for his trouble. The turbolift doors open, and Worf pushes
+Riker out of the line of fire just in time. They rush to help the guard
+who had been thrown down the passage and finally Worf pins down their
+quarry) 
+RIKER: Get him to a detention cell. Set phasers on maximum stun. 
+O'BRIEN: Commander.
+[Bridge]
+NAYROK [on viewscreen]: We'll need a few hours to
+get the containment field on Lunar Five operational before we pick him
+up. The damage he did during his escape was considerable. 
+PICARD: We will await your signal. 
+NAYROK [on viewscreen]: I appreciate your patience. The prison
+psychologist recommends that you keep Danar fully sedated until he's
+ready for transport. 
+PICARD: Well, he's in our highest security detention area. There
+shouldn't be any more problems. 
+NAYROK [on viewscreen]: Do not relax your security for an instant,
+Captain. He is extremely violent and very cunning, as you already know.
+I will send a transport vessel to pick him up as soon as possible.
+Nayrok out. 
+RIKER: Have you run a diagnostic on the sensors, Data? 
+DATA: Yes, sir. There is nothing wrong with the ship's sensors. The
+reason we did not sense life signs aboard the escape vessel is because
+the prisoner has no life signs. 
+RIKER: Computer, identify the occupant of the detention cell. 
+COMPUTER: The detention cell is vacant at this time. 
+RIKER: He's in there. 
+PICARD: Could he be some kind of android? 
+DATA: Our sensors can identify artificial lifeforms, sir. Apparently,
+he is capable of deceiving the sensors.
+[Brig]
+(Roga has been having a nightmare, and Deanna
+sensed it while walking along a corridor. She has hurried to the Brig) 
+TROI: Are you all right? 
+ROGA: What is this ship? 
+TROI: You're on board the USS Enterprise. 
+ROGA: A war vessel? 
+TROI: A Federation starship. 
+ROGA: Federation! 
+TROI: We were orbiting Angosia when you escaped from Lunar Five. 
+ROGA: It seems that I am a victim of my own bad timing. And you are the
+keeper of this jail? 
+(he tests the forcefield) 
+TROI: I'm Deanna Troi, ship's Counsellor. 
+ROGA: Counsellor? Too bad. I'd rather you were a jailer to keep me
+company during my return trip. I assume we are returning to Lunar Five.
+TROI: That terrifies you. 
+ROGA: I just killed three men to get out of there, Counsellor, and I'm
+fully capable of killing you as well. That's terrifying thought, isn't
+it? Even to me. 
+TROI: Do they mistreat you there? 
+ROGA: Not at all. I am comfortable, well fed and housed. Oh no, the
+Angosians take good care of their prisoners. It's simply a matter of
+never being able to leave. What about you, Counsellor? Do you always
+visit the prisoners? Are you a specialist in criminal behaviour? Or am
+I just an interesting specimen that landed on your ship like an insect
+to be studied under your microscope? 
+TROI: Why do you have all this anger toward me? 
+ROGA: A girl with long dark hair broke my heart a long time ago. Out of
+bitterness and resentment, I turned to crime. How about this one? My
+mother abandoned me when I was a little boy. I never got the guidance
+that a wild young man needed. 
+TROI: Why are you doing this? 
+ROGA: Playing games? Isn't that what you do, Counsellor? Isn't that
+what all of you mind control experts do? 
+TROI: I am not a mind control expert. I came here because I sensed you
+were in pain. 
+ROGA: And what do you sense now? 
+TROI: The pain is gone. 
+ROGA: It's interesting, isn't it?
+[Ready room]
+TROI: There's a duality in the man. It's hard to
+describe. He's aware of his crimes. In fact, they trouble him deeply. 
+PICARD: Counsellor. 
+TROI: He's intelligent, thoughtful, typically Angosian. I know what
+he's done, but when I'm with him I cannot believe he is randomly and
+deliberately violent. in fact, inherently, he has a non-violent
+personality. 
+PICARD: Counsellor, it took five men to restrain him and he took apart
+half of the Transporter Room in the process. 
+TROI: I'm not opening the door for him, Captain. I can only tell you
+that I sense something very unusual about him. Something that is not
+inherent to a criminal personality. 
+PICARD: In a few hours, I'll be turning him over to the Angosians, and
+I'll be happy to do it. 
+TROI: I understand.
+[Bridge]
+TROI: Data, do we have a link up to the Angosian
+central computer? 
+DATA: Yes, Counsellor. We are copying records for Federation inspection
+pursuant to their application for admittance. 
+TROI: Can I see a police record on Roga Danar? 
+(search negative) 
+DATA: There is no police record. 
+TROI: That's impossible. He's been in prison. 
+DATA: Lunar Five is a military prison facility. 
+TROI: Military? He's a soldier ? 
+DATA: That may provide an explanation for the tactics he was able to
+use against us when we tried to capture him. 
+TROI: It doesn't say here what he was arrested for. Call up his
+military record. 
+DATA: He served in many campaigns during the Tarsian War, received two
+promotions, to the rank of Subhadar. A very honourable tour of duty 
+TROI: What was this man's crime?
+[Brig]
+TROI: I've learned you are a soldier. 
+ROGA: I was a soldier. 
+TROI: Why were you put in prison? 
+ROGA: Obviously, because I am a threat to society. 
+TROI: There's no police record. What did you do? 
+ROGA: Everything they asked me to do. That's why I became such a
+threat. 
+TROI: I don't understand. 
+ROGA: Why are you bothering to try, Counsellor? 
+TROI: Because I want to help, if I can. 
+ROGA: Unlock the door. 
+TROI: You are a non-violent man, yet you committed acts of excessive
+violence. 
+ROGA: You can learn to do it if you have to. 
+TROI: Did you have to? 
+ROGA: It was war. 
+TROI: So it started with the war? 
+ROGA: It started the day I volunteered, Counsellor. The day I began
+training. The day I met my first instructor. And he also called himself
+a counsellor.
+[Observation lounge]
+TROI: Roga Danar was an idealistic young man who
+answered his people's call to service. He joined the military to fight
+for the Angosian way of life. What he didn't realise was that by doing
+so he would have to give up that way of life for ever. He's not the
+same man who left home to go to war. He's been through intense
+psychological manipulation and biochemical modifications. 
+CRUSHER: At Troi's request I examined him. His cell structure has been
+significantly altered. They used a
+combination of cryptobiolin, triclenidil, macrospentol and a few things
+I can't even recognise. 
+RIKER: Was he a prisoner of war? Who did this to him? 
+TROI: His own government. He's been programmed to be the perfect
+soldier. He can be absolutely normal, but when
+a danger is perceived, the programming clicks in and takes over.
+Memory, strength, intelligence, reflexes, all become
+enhanced. He's conditioned to survive at any cost. 
+CRUSHER: One of the new substances in his cellular structure even
+shields electrical impulses. 
+DATA: Perhaps that would explain why our sensors did not detect him. 
+PICARD: Why was he assigned to the Lunar Five facility? 
+TROI: He committed no crime. He says he was ordered there with others
+like him. When the first soldiers returned to
+Angosia, they had trouble. The rules changed too quickly. A lost temper
+could result in murder. 
+DATA: Counsellor, did no one try to adjust their programming? 
+TROI: They were just exiled to Lunar Five. 
+PICARD: Lunar Five, an orbiting gulag.
+[Brig]
+ROGA: What do you want? 
+DATA: Am I disturbing you? 
+ROGA: Yes. 
+DATA: Then I will leave. 
+ROGA: NO. Wait, wait. I'd rather talk to someone. Why do you have
+yellow eyes? 
+DATA: I am an android. I believe you and I have something in common. 
+ROGA: We do? 
+DATA: Yes. We have both been programmed. 
+ROGA: Ah, yes, yes. You've been talking to Counsellor Troi. It is not
+at all the same, android. 
+DATA: I do not mean to belittle your condition. I understand your
+dilemma. But I am curious. My
+programme can be altered. Yours cannot? 
+ROGA: The man I was is still inside me, but this conditioning has been
+imposed. Woven together with my thoughts and my feelings and my
+responses. How do you separate the programme from the man? 
+DATA: Without further analysis of your condition from Counsellor Troi
+or Doctor Crusher, I cannot say. But I believe it is possible. 
+ROGA: Yeah, doctors! The Angosian doctors did this to me. If it could
+be undone, wouldn't they undo it? 
+DATA: I cannot answer that. 
+ROGA: Nor can I, yet I ask myself that question every moment of every
+day.
+[Ready room]
+NAYROK [on monitor]: Captain, what this man has
+been telling you is full of half-truths. He's a prisoner. What do you
+expect him to say about us? 
+PICARD: Well, perhaps you would clarify it for me. 
+NAYROK [on monitor]: The soldiers were resettled on Lunar Five. It was
+to be their colony. 
+PICARD: Was it a resettlement of their choosing? 
+NAYROK [on monitor]: It was for their own protection as well as that of
+others. Most of them were quite happy there. We went to great lengths
+to give them a fine quality of life. 
+PICARD: Prime Minister, even the most comfortable prison is a prison. 
+NAYROK [on monitor]: Unfortunately, a few agitators like Danar forced
+us to add security. 
+PICARD: My medical team suggests there may be alternative treatment. 
+NAYROK [on monitor]: Captain, I assure you that every alternative has
+been explored. And this discussion is now treading upon matters of
+internal security, which is not your concern. I have dispatched a ship
+to rendezvous with you to transport the prisoner back to Lunar Five. On
+behalf of Angosia, I thank the Federation for its assistance in
+retrieving our citizen. 
+(Transmission ends) 
+PICARD: Matter of internal security. The age-old cry of the oppressor. 
+[Brig]
+ROGA: Were you built for combat, android? 
+DATA: No. But my programme does include military strategy. That is how
+I was able to anticipate your final tactic and capture you. 
+ROGA: You did that? Perhaps you would be better at combat than you
+think. 
+DATA: Except that I am not programmed to kill. 
+ROGA: My improved reflexes have allowed me to kill eighty four times.
+And my improved memory lets me remember each of those eighty four
+faces. Can you understand how that feels? 
+DATA: I am incapable of any feeling. 
+ROGA: Why, then I envy you. 
+(Picard and Troi enter) 
+TROI: Roga, this is Captain Picard. 
+ROGA: Captain. 
+PICARD: Mister Danar, I'm transferring you to Angosian security.
+They're en route. They will arrive shortly. I wanted to tell you I have
+no choice. The Prime Minister insisted and we have no right to refuse. 
+ROGA: You would be foolish to consider it otherwise, Captain, for they
+are very correct. I am dangerous. There is no place for me in a
+civilised society. 
+TROI: I do not believe that. 
+DATA: Nor do I. 
+PICARD: I respect my officers' judgements. I wish I could help further.
+If a way appears to me, I will. 
+ROGA: I appreciate your telling me that face to face. 
+PICARD: I thought you deserved that much. 
+ROGA: And you deserve to know that I must use whatever means I can to
+escape. 
+WORF [OC]: Captain, the Angosian transport vessel has arrived. 
+PICARD: Inform them the transfer will take place shortly. Picard out.
+Mister Data, to the Bridge please. 
+(Picard leaves) 
+ROGA: Take care of yourself, android. I enjoyed our talk. 
+DATA: I too. 
+(Data leaves) 
+TROI: Perhaps when this planet becomes a member of the Federation,
+we'll be able 
+ROGA: I will not be there to see it, Counsellor. Because even with this
+overwhelming demand to survive that they've built into my soul, I would
+rather die than return to Lunar Five.
+[Bridge]
+WAGNOR [on viewscreen]: Captain Picard, we're ready
+to receive the prisoner. Now transmitting the coordinates of our
+holding cell. 
+DATA: Coordinates received, sir. 
+PICARD: Stand by for transport. Picard out. Mister Worf, have all
+security precautions been taken? 
+WORF: Release of the force field and activation of the transporter will
+be virtually simultaneous. There will only be a point one second
+difference between them. 
+RIKER: Even Danar can't move that fast. 
+WORF: There will be a full security contingent present. 
+PICARD: Proceed.
+[Transporter room]
+O'BRIEN: Transporter room one to Lieutenant Worf.
+We're ready, sir.
+[Brig]
+O'BRIEN [OC]: Energising. 
+(But Danar tries to break out of the transporter beam) 
+WORF: O'Brien, increase transporter power. 
+(Danar gets a hand out of the beam)
+[Transporter room]
+O'BRIEN: I'm losing him.
+[Brig]
+(Both arms are out) 
+TROI: Roga, don't! You'll be killed!
+(The security guards draw their phasers, there's a big flash) 
+[Transporter room]
+O'BRIEN: What the hell? 
+(The brig is empty. Roga Danar has gone) 
+[Bridge]
+RIKER: Security personnel, full alert. Shut down
+all shuttlebays, transporters, and turbolifts. 
+WORF [OC]: Captain, a phaser is missing.
+[Brig]
+WORF: We must assume that he is armed.
+[Bridge]
+PICARD: Sound general quarters. Clear corridors of
+all non-essential personnel. I don't want him taking any hostages. 
+DATA: General quarters sounded, sir. 
+PICARD: Raise security containment fields immediately on decks thirty
+four, thirty five, and thirty six. 
+SECURITY [OC]: Aye, sir. 
+RIKER: Data, put the turbolifts back online. If Danar sees they're
+operating, he may try to use them. Soon as he does, we have him. 
+[Corridor]
+(Danar sees a guard around the next corner. He
+ducks into a turbolift - 12 on the door) 
+[Bridge]
+DATA: Sir, unauthorised access of turbolift five on
+deck thirty four. 
+RIKER: He took the bait. 
+PICARD: Data, override its destination. Divert that turbolift to a
+position near Lieutenant Worf's present location. 
+DATA: Four seconds to arrival, sir. 
+[Corridor]
+WORF: We're in position. 
+(The turbolift door opens and there a high-pitched whining, but no
+person) 
+WORF: Phaser on overload! Seal this deck. 
+(Worf steps into the lift to deactivate the phaser)
+[Bridge]
+WORF [OC]: Captain, the overload has been averted. 
+[Corridor]
+(Back where Danar first spotted the guard, he now
+knocks the man out and uses his comm. badge) 
+ROGA: Drop force field on deck thirty six.
+[Bridge]
+DATA: Sir, containment field down on deck thirty
+six. 
+RIKER: How the hell did he manage that? 
+PICARD: He's headed for Engineering. 
+RIKER: Riker to La Forge. Engineering, respond.
+[Engineering]
+(Everyone is out cold) 
+RIKER [OC]: Engineering!. Engineering, come in! Geordi, are you okay? 
+(No, he's slumped against a bulkhead with his Visor lying on the floor,
+as Danar starts rearranging isolinear chips in a panel)
+[Bridge]
+DATA: Captain, someone in Engineering is attempting
+to override the security system lockout. 
+RIKER: Riker to Worf, he's in Engineering. 
+[Corridor]
+WORF: Acknowledged, Commander. We're on our way. 
+[Bridge]
+PICARD: Data, I want you to stall Danar. Allow him
+to think he's succeeding. 
+DATA: As he bypasses each subsystem, I can re-route it without his
+knowledge. 
+PICARD: Make it so. 
+DATA: Danar is extremely adept, sir. I am not certain which security
+measure he is attempting to circumvent. Sir, Danar has succeeded in
+restoring power to shuttlebay two. 
+(Danar has climbed the ladder to the upper core level) 
+DATA: I have overridden Danar's bypass. Shuttlebay two is once again
+inactive. 
+PICARD: Very good, Mister Data. Now we know where he's headed. 
+(Danar strides down a Jefferies tube taller than a man) 
+[Engineering]
+WORF: Geordi! 
+LAFORGE: I'm all right. He took us by surprise. He came out of nowhere.
+I didn't think anyone could move that fast. 
+DATA [OC]: Lieutenant, I am reading an open panel. K twelve, J nine,
+deck thirty. 
+WORF: Acknowledged. 
+LAFORGE: Danar must have climbed up the reactor core and got into a
+Jefferies tube. He could be anywhere. 
+WORF: We believe he is attempting to reach shuttlebay two. 
+LAFORGE: That's twenty five decks up from here. Quite a climb, but I
+wouldn't put it past him. 
+WORF: There is a full contingent of security at all shuttlebays. 
+LAFORGE: You want my advice? Double it!
+[Bridge]
+DATA: Captain, reading another open access panel. 
+PICARD: Security team to Jefferies tube J four, deck fifteen. 
+SECURITY [OC]: Security acknowledged. 
+(Danar puts an overloading phaser into the access panel) 
+RIKER: Deck fifteen, a few decks below the shuttlebay. 
+DATA: Sir, I find it highly unlikely that Danar would be attempting to
+reach shuttlebay two. 
+PICARD: Explain. 
+DATA: In our previous encounter, Danar employed a strategy of
+misdirection in an attempt to gain his objective. 
+PICARD: And you believe he's using the same tactic now. 
+DATA: He is aware that our sensors are unable to track him, yet he
+seems to be purposely leaving a trail for us to follow. 
+RIKER: Where do you think he's headed? 
+DATA: I am afraid his true destination remains a mystery. Readings now
+indicate an open access panel in Jeffries tube N eleven, deck thirty
+eight. 
+PICARD: He's doubled back on us. 
+RIKER: The cargo bays. 
+PICARD: Advise all personnel on deck thirty eight to stay out of the
+cargo bays. 
+(Danar tries to activate a cargo transporter, then opens up the back of
+the mechanism) 
+PICARD: Status, Mister Data? 
+DATA: They appear to be empty, sir. 
+PICARD: Good. I want you to flood them with anestazine. 
+DATA: Aye, sir. 
+(Danar spots the gas, and gets a suit from one of the containers
+nearby) 
+DATA: Sensors show anestazine concentration seventy parts per million
+within the cargo bays. 
+RIKER: That should have put our boy to sleep. 
+PICARD: Return environmental conditions to normal, Mister Data. Move in
+your security teams, Mister Worf.;
+WORF [OC]: Acknowledged.
+[Cargo bay]
+WORF: Worf to Bridge. We have found no sign of the
+intruder. But there is a missing pressure suit
+[Bridge]
+WORF [OC]: From cargo bay three.
+PICARD: Pressure suit? 
+RIKER: Could be he's planning to enter shuttlebay two from outside the
+Enterprise, bypassing the security guards. 
+PICARD: Mister Worf, post security guards at all emergency airlocks on
+decks 
+[Cargo bay]
+PICARD [OC]: Thirty seven through thirty nine. 
+WORF: Aye, sir. I'll also cover the photon torpedo launchers. Danar may
+attempt to leave the ship that way. Worf out. 
+(But Danar is hiding behind some cargo, not wearing the pressure suit.
+When he hears the doors closing, he comes out and doesn't see Worf
+hiding) 
+WORF: Danar! You are cunning. You must have Klingon blood. But the
+battle is over. 
+ROGA: My battle is never over. 
+WORF: Worf to Bridge. I have Danar. 
+(The hidden phaser explodes, the lights go out, and Danar jumps Worf) 
+[Bridge]
+DATA: Explosion in Jefferies tube section T nine
+five. All external sensors inoperative. 
+RIKER: Go to backup systems. 
+DATA: Unable to transfer control, sir.
+[Cargo bay]
+(Danar finally defeats Worf by toppling a lot of
+cargo boxes on top of him. Then he beams himself onto the transport
+ship) 
+[Transport ship]
+ROGA: Sit down, gentlemen.
+[Cargo bay]
+WORF: Worf to Bridge. 
+PICARD [OC]: Go ahead. 
+WORF: Danar has escaped. 
+[Bridge]
+WORF [OC]: He used a phaser to power the cargo
+transporter. Coordinates indicate he beamed aboard the Angosian
+transport ship.;
+PICARD: Data, can you verify that? 
+DATA: Negative, sir. All external sensors still nonfunctioning. 
+PICARD: Then we have no way to track him. 
+RIKER: That was his plan all along.
+First officer's log, supplemental. We are
+continuing to repair damage to the ship's sensors following the escape
+of the Angosian prisoner, Danar. He is still at large.
+[Bridge]
+RIKER: Engineering, I'm getting readings on
+Tactical. Are we back up? 
+LAFORGE [OC]: That's affirmative, Commander. 
+PICARD: Mister Worf, sweep the area. 
+DATA: Captain, the Prime Minister is hailing us. Priority one. 
+PICARD: On screen. 
+WORF: Priority channel cleared. 
+PICARD: Yes, Prime Minister? 
+NAYROK [on viewscreen]: Captain, I've just been informed that Roga
+Danar has attacked the penal colony on Lunar Five. 
+PICARD: Attacked it ? 
+NAYROK [on viewscreen]: In our own police shuttle. Several of my people
+have been wounded. Hundreds of prisoners are rioting. Some of them have
+escaped with Danar and at last report are headed to the capital city.
+Captain, we are not suited to handle situations like this. That's what
+we created them for. 
+PICARD: I'll send an away team, Prime Minister. Picard out. Counsellor
+Troi, Commander Data, Mister Worf, you will accompany me to the planet.
+[Corridor]
+PICARD: And my understanding is these men are
+programmed to survive. Is that correct? 
+TROI: Yes, Captain. 
+PICARD: And that they will not kill unless their survival is at stake? 
+DATA: It is against their nature to do so, Captain. 
+PICARD: Then let us hope they do not believe their survival is at
+stake. 
+RIKER: Mister Worf, you are personally responsible for the Captain's
+safety. 
+WORF: I understand, Commander.
+[Angosian Senate]
+(Weapons are being handed out in a hurry) 
+NAYROK: I don't expect them to listen to reason. I loathe the idea of a
+violent confrontation, but we must be prepared. 
+(The away team beam in) 
+NAYROK: This is all you've brought? Where are your security men? 
+PICARD: We're not here to fight your wars for you. 
+NAYROK: They have been seen moving toward the center of the city.
+People are scared. Don't you understand, Captain? They're dangerous. 
+PICARD: You are dangerous. They're only victims. You made them what
+they are. You asked them to defend your way of life and then you
+discarded them. 
+ZAYNAR: They were not happy here. 
+TROI: They were not welcome here. 
+ZAYNAR: It was the will of the people to resettle them. 
+NAYROK: No one was pleased with the solution, but we had to act for the
+greater good. 
+DATA: Prime Minister, if you have the skills to create a master
+soldier, can you not contradict the effect? 
+NAYROK: The chemicals can be removed from their systems, but we're not
+convinced that the psychological conditioning can ever be entirely
+reversed. 
+DATA: Have you tried, sir? 
+NAYROK: We studied it thoroughly. Even before the training began, we
+knew there would be problems reversing it. It was a risk we had to
+take. 
+WORF: Did you reveal that risk to the men who volunteered for service? 
+NAYROK: We were helping them to survive the war, you understand? They
+needed these skills. 
+PICARD: They're your brothers, your sons, and you turned your backs on
+them. 
+TROI: There are methods of treatment. Until you try them, how can you
+know they won't work? Even a partial recovery could give them some
+peace.
+ZAYNAR: It was the will of the people. 
+TROI: To allow them to suffer? 
+NAYROK: There was a referendum. The people weighed the costs involved.
+They chose the resettlement solution. 
+ZAYNAR: Besides, we may need to use them again some day. 
+PICARD: Have you understood one word that we've said? 
+(The rogue soldiers arrive) 
+ROGA: Freeze! Nobody move! 
+PICARD: No, Worf! All of you. Don't respond. Don't provoke them
+further. Keep those weapons down unless you wish to be killed. 
+NAYROK: Do as he says. 
+ROGA: No! Don't. Shoot us. Destroy us. Do what you have to do. But you
+will not ignore us. Go on, do it! 
+(He shoots a hole in the wall next to Nayrok) 
+ROGA: Cowards. 
+PICARD: Yes, and you are not programmed to murder cowards. So if they
+will not fight back, what will you do? 
+ROGA: We will not go back. 
+NAYROK: You are programmed to survive. You can survive at the Lunar
+Five settlement. 
+ROGA: To survive is not enough. To simply exist is not enough. 
+TROI: Roga, tell them what you want. 
+ROGA: We want our lives back. We want to come home. 
+NAYROK: I am not prepared to negotiate under threat, Danar, but if you
+will put down your weapons and return peaceably to Lunar Five, I would
+be willing. 
+ROGA: Mister Prime Minister, with all due respect, you will have to
+force us. Or at least try. 
+NAYROK: Captain, you must do something. Call your ship. 
+PICARD: Quite right, Prime Minister. Enterprise, prepare to beam the
+away team back. 
+RIKER [OC]: At your command, Captain. 
+NAYROK: Picard, you can't leave us like this. 
+PICARD: I have all the information I need for our report. Your prisoner
+has been returned to you and you have a decision to make. Whether to
+try to force them back or welcome them home. In your own words, this is
+not our affair. We cannot interfere in the natural course of your
+society's development, and I'd say it's likely to develop significantly
+in the next
+several minutes. It's been an interesting visit. When you're ready for
+membership, the Federation will be pleased to reconsider your
+application. Mister Riker, four to beam up. 
+RIKER [OC]: Aye, sir. 
+[Bridge]
+RIKER: Success, Captain? 
+PICARD: Number One, will you note in our report that if the government
+of Angosia survives the night, we will offer them Federation assistance
+in their efforts to reprogram their veterans. 
+RIKER: And if the government doesn't survive? 
+PICARD: I have a feeling they will choose to. Mister Crusher, set
+coordinates for Starbase Lya Three. 
+WESLEY: Coordinates set, Captain. 
+PICARD: Engage.  
+
+

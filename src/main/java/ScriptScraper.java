@@ -1,16 +1,16 @@
 import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class ScriptScraper {
 	static ArrayList<Integer> specialCases = new ArrayList<>();
+
 	public static void downloadEpisodes() {
 		//Comma separated list of the second part of two part episodes
 		//This way, those are skipped
 		specialCases.add(102);
 		for (int i = 101; i < 278; i++) {
-			if(specialCases.contains(i)) i++;
+			if (specialCases.contains(i)) i++;
 			try {
 				Thread.sleep(1000);
 			} catch (InterruptedException ex) {
@@ -47,6 +47,8 @@ public class ScriptScraper {
 		episodeText = episodeText.replaceAll("</div>(.*\n)*.*", "");
 		episodeText = episodeText.replaceAll("<[^>]*>", "");
 		episodeText = episodeText.replace("&nbsp", "");
+		episodeText = episodeText.replaceAll("\\n\\n\\n\\n", "\n");
+		episodeText = episodeText.replaceAll("\\n\\n", "\n");
 
 		saveEpisode(episodeText, episodeNum);
 	}
@@ -54,13 +56,17 @@ public class ScriptScraper {
 	public static void saveEpisode(String s, int n) {
 		PrintWriter txtFile = null;
 		try {
-			txtFile = new PrintWriter(new FileWriter("Episode " + n + ".txt", true));
-		} catch (IOException e) {
-			System.out.println("Something prevented the program from creating the output file");
-			System.exit(-1);
+			FileReader file = new FileReader("./scripts/Episode " + n + ".txt");
+		} catch (FileNotFoundException e) {
+			try {
+				txtFile = new PrintWriter(new FileWriter("./scripts/Episode " + n + ".txt", true));
+				txtFile.println(s);
+				txtFile.close();
+			} catch (IOException ex) {
+				System.out.println("Something prevented the program from creating the output file");
+				System.exit(-1);
+			}
 		}
-		txtFile.println(s);
-		txtFile.close();
 	}
 
 

@@ -1,0 +1,724 @@
+Episode Number: 214
+
+The Next Generation Transcripts - Conundrum
+Conundrum
+Stardate:
+45494.2
+Original Airdate: 17 Feb, 1992
+
+ 
+Captain's log, stardate 45494.2. We're investigating a series of
+subspace signals that may indicate intelligent life in the Epsilon
+Silar System. We are within sensor range.
+[Ten Forward]
+(a 3D chess game is in progress) 
+DATA: The characteristic response to the Kriskov Gambit is to counter
+with the el-Mitra Exchange, particularly since I have already taken
+both your rooks. By missing that opportunity, you have left your king
+vulnerable. 
+TROI: We'll see. 
+DATA: As you wish, Counsellor. Check. 
+(Troi makes her move) 
+DATA: Intriguing. You have devised a completely unanticipated response
+to a classic attack. You will checkmate my king in seven moves. 
+TROI: Data, chess isn't just a game of ploys and gambits. It's a game
+of intuition. 
+DATA: You are a challenging opponent, Counsellor. 
+TROI: Thanks, but don't think a compliment's going to get you out of
+our bet. You owe me one Samarian Sunset made in the traditional style,
+as only you can make it, Data. 
+DATA: I will honour our agreement.
+[Sickbay]
+CRUSHER: Raise your arm to the side. 
+(it barely gets to waist height) 
+CRUSHER: Is that it? 
+KRISTIN: I'm afraid so. What do you think? 
+CRUSHER: Well, it looks like you tucked when you should have flattened
+out. 
+KRISTIN: Something like that. 
+CRUSHER: Turn your head to the left. Some tearing of the ligaments.
+Nothing we can't take care of. 
+KRISTIN: Good. 
+CRUSHER: If I remember correctly, the last time you graced my Sickbay,
+you were diving off the Cliffs of Heaven on Sumiko Four. Holodeck
+programme 47C. 
+KRISTIN: Same thing. Only that time, I flattened out when I should have
+tucked. 
+CRUSHER: Well, as your Doctor, I would like to recommend the Emerald
+Wading Pool on Cirrus Four. It's a lot safer.
+[Turbolift]
+RIKER: Navigators on this ship have been doing
+flight handling assessments the same way for years, Ensign. 
+RO: And I've found a better way. 
+RIKER: Bridge. Do you mind if we discuss changes in procedure before
+you make them? 
+RO: If I had come to you in advance and asked you to do it my way 
+RIKER: I might have said 
+RO: No. 
+RIKER: Yes, maybe. The point is, I didn't get the chance. 
+RO: The point is, with all due respect Commander, you're trying to turn
+me into your idea of the model officer. 
+RIKER: The rules on this ship do not change just because Ro Laren
+decides they do.
+[Bridge]
+WORF: We are picking up a subspace signal, Captain.
+Sensors indicate a small spacecraft ahead. 
+LAFORGE: The configuration is unfamiliar. Nothing in our database comes
+close. 
+WORF: Within visual range. 
+PICARD: On screen. 
+(vaguely triangular with green lights) 
+PICARD: Analysis, Mister Worf. 
+WORF: No discernable armament. Reading one lifeform aboard. 
+PICARD: Hail the vessel. 
+WORF: No response, Captain. 
+LAFORGE: We're being scanned. It's not like any sensor system I've ever
+seen. Shall we raise shields? 
+PICARD: No, let's begin this with a show of good faith. 
+WORF: Sir, the scans are now matching the frequency of our optical data
+network. It could be an attempt to access our computer system. 
+LAFORGE: Scanning intensity has increased by fifteen hundred percent. 
+PICARD: Shields up.
+[Ten Forward]
+(at the bar) 
+DATA: One Samarian Sunset, made in the traditional style. 
+(Data puts a glass of clear liquid in front of Deanna, then taps it
+with his fingernail. A yellow glow diffuses into orange in the glass) 
+TROI: It's beautiful. 
+DATA: I hope you enjoy it. 
+(a green light passes across Data) 
+DATA: I hope you enjoy it.
+[Bridge]
+WORF: The scanning signal has penetrated our
+shields. 
+LAFORGE: Computers are going down. 
+PICARD: Take evasive action. 
+RO: The helm's not responding. 
+(the Bridge is briefly flooded with bright green light) 
+PICARD: What happened? 
+LAFORGE: What the hell? 
+RIKER: I don't know who any of you are. 
+PICARD: Nor do I. I don't even remember who I am. 
+(after the titles) 
+LAFORGE: Looks like we're all in the same boat. 
+RIKER: Make that on the same starship. 
+MACDUFF: But who are we? What are we doing here? 
+(who are you, sunshine?) 
+RO: It looks like I'm the pilot. We're not going anywhere now. The
+helm's dead. 
+PICARD: But you still know how to work it. 
+RO: Yes. 
+RIKER: This console has tactical configuration? 
+WORF: Yes. Phaser power status, intruder scan, torpedo guidance. But
+they do not appear to be operable. 
+PICARD: Clearly, we still possess certain skills. It would seem we know
+how to operate this ship. But our identities have somehow been erased
+or suppressed. 
+RIKER: We are on the Bridge. There's a good chance this is our ship.
+Looks like you're the leader. 
+WORF: Perhaps we should not jump to conclusions. I am decorated as
+well. 
+PICARD: It seems to me that determining leadership is not crucial right
+now. We need to find out who we are and well, what we're doing out
+here. 
+MACDUFF: But how did this happen? What did this to us? 
+LAFORGE: Better still, who did this to us? I've got some intermittent
+sensor readings here. The scan keeps repeating itself like it's stuck,
+but it looks like there's metallic debris right in front of us.
+Distance, seventeen kilometres. 
+RIKER: The remains of another ship? 
+LAFORGE: That's a good possibility. 
+WORF: Perhaps we were engaged in battle. 
+MACDUFF: If they stunned us with some type of bioelectric field that
+could have wiped out our memories. 
+RO: Then we fired back, destroyed them. 
+PICARD: But if that presumption is correct, then we could have
+sustained other damage. Um, Computer, status report. 
+RIKER: No voice interface. 
+LAFORGE: No interface, period. Hey. Got something. I've accessed the
+basic system directories. 
+PICARD: Can we get a general status report? 
+LAFORGE: Life support systems throughout the ship are fully
+operational. Navigation, propulsion offline. 
+RO: What about communications? 
+LAFORGE: Completely disrupted. 
+RO: That rules out a distress signal. 
+RIKER: If we even knew where to send it. 
+PICARD: Do we have an onboard communications system? 
+LAFORGE: We do now. 
+PICARD: Lets use it. This ship must have a crew. They may still have
+their memories. 
+RO: We should be careful what we say. There could be a boarding party
+somewhere on the ship. 
+WORF: Bridge to all personnel. Select a representative from your group
+to contact the Bridge and report on your status.
+[Sickbay]
+WORF [OC]: Remain where you are and stay calm.
+Bridge out. 
+KRISTIN: Well, that helps a lot. 
+CRUSHER: Report on our status? I wonder if every one else is in the
+same condition as we are. 
+KRISTIN: This hurts. 
+(Crusher treats her arm) 
+CRUSHER: How's that? 
+KRISTIN: Thanks. 
+CRUSHER: I didn't even think. I just picked it up and knew how to use
+it. At least I have an idea of what I'm doing here. 
+KRISTIN: But what about me? I mean, I'm a patient in a bathing suit.
+That doesn't say much. 
+CRUSHER: No, it doesn't. 
+KRISTIN: Do you have any clothes around here I could borrow? At least
+until I figure out where the swimming pool is?
+[Bridge]
+(everyone is working at the rear stations except
+Worf, who is in the Captain's chair) 
+MACDUFF: We've heard from all decks. There are over a thousand people
+on board. Everyone's had their memories affected in the same way we
+have. 
+WORF: I have completed a survey of our tactical systems. We are
+equipped with ten phaser banks, two hundred and fifty photon torpedoes,
+and a high capacity shield grid. 
+MACDUFF: We're a battleship. 
+WORF: It appears so. 
+RO: This turbolift system gives us access to the rest of the ship. 
+RIKER: That sounds like the next logical step. Start with the most
+crucial areas. 
+RO: Main Engineering, deck thirty six. I'm on my way. 
+RIKER: Whoa, wait a minute. We've got to coordinate our efforts here
+first. 
+RO: I just need to do something. 
+RIKER: Look, I feel the same way. We all do. But if anything's going to
+get done. 
+RO: I know, I just. It's really an ugly feeling I don't like being so
+out of control. 
+RIKER: Well, we're going to have to depend on each other if we're going
+to get through this, okay? 
+RO: Okay. 
+RIKER: We're going to search the ship. 
+WORF: Very well. Proceed. 
+LAFORGE: I'll go with you. I want to get my hands on the computer core.
+See if we can re-establish control from there.
+[Engineering]
+LAFORGE: I've accessed the optical data network for
+the engineering core. I can monitor every system that's routed through
+here. 
+RO: Warp and impulse drive are reading within tolerance levels. So are
+the tactical arrays, defensive and offensive. 
+LAFORGE: Everything looks functional. Now, if we could just access the
+control systems, we could get them up and running. 
+RIKER: According to the schematics, the engineering computer core
+access is down that corridor. 
+RO: Weapons, propulsion and shields are the priorities. We could be in
+danger of another attack. 
+LAFORGE: That's where I'll start. 
+RIKER: We'll begin our crew survey on decks five through ten. When you
+get those systems going, try to pull up the personnel files. It'd be
+nice if we all had names. Right. Good luck. 
+LAFORGE: Yeah. You too.
+[Ready room]
+(Picard and MacDuff report to Captain Worf) 
+PICARD: So far our survey team has found no deaths or injuries among
+the crew. Shuttlecraft are all operational, as are the transporters. 
+MACDUFF: But no one they've talked to knows any more about their
+identities than we do. 
+WORF: Engineering is working on accessing the control systems. As soon
+as the ship is operational, we must make it combat ready. 
+PICARD: Well, I would recommend that before we prepare for combat, we
+try to access the ship's logs, find out who we are, what our purpose
+here might be. 
+WORF: I disagree. We must first make ourselves ready for battle. That
+is the highest priority. 
+LAFORGE [OC]: Engineering to Bridge. 
+WORF: Go ahead. 
+[Engineering]
+LAFORGE: I've regained control of navigation,
+propulsion, weapons and communications. 
+[Ready room]
+LAFORGE [OC]: We should be able to tie them into
+the Bridge in just a few minutes. 
+WORF: Well done. Now we are ready. 
+PICARD: The question is, for what?
+[Bridge]
+(a phaser shot lances out into space) 
+MACDUFF: (at tactical) The phasers are operational. 
+WORF: We now have full tactical control. 
+PICARD: (helm) We should run a complete diagnostic of all command
+systems. 
+WORF: A full diagnostic would require us to take our systems offline.
+We would be defenceless. 
+PICARD: If we're going to trust our lives to these systems, we should
+be certain they're not going to fail. 
+MACDUFF: The computer was damaged. Some processors might still be down.
+WORF: Proceed with the diagnostic. 
+(Crusher enters) 
+WORF: What have you found, Doctor? 
+CRUSHER: Not much. The brain scans I've run are unusual, but there's no
+damage to the hippocampus. That suggests that we still have our
+long-term memories but somehow they're being blocked. 
+PICARD: Is it possible to bypass the normal pathways? To get at those
+memories some other way? 
+CRUSHER: That's what I'm hoping. What I need now is to see some normal
+brain scans for comparison. Is there any chance I can get the crew's
+medical files? 
+WORF: We are currently running a full diagnostic. Computer resources
+are limited. 
+PICARD: The medical records are our next priority. 
+CRUSHER: Thank you.
+[Corridor]
+(a crewman is standing in a doorway) 
+CREWMAN: I guess these are my quarters, but I don't remember anything. 
+RIKER: If it's any comfort, we're all in the same situation, so stay
+put for now. We'll be back in touch. 
+CREWMAN: Okay, sir. Thanks. 
+RO: That's all I need for now. 
+(the crewwoman she has been talking goes back into her quarters) 
+RO: Well, that's it for the living quarters on this deck. What's next? 
+RIKER: There's a large room up ahead called Ten Forward. 
+RO: Let's go. So if everything were back to the way it was supposed to
+be, what do you think you'd be doing right now? 
+RIKER: I'd be having more fun than searching the ship, I'd imagine. 
+RO: Fun? 
+RIKER: Well, with that holodeck we just saw. I think I could conjure up
+an interesting
+programme or two. 
+RO: Now that's disappointing. 
+RIKER: Why? 
+RO: You don't strike me as a man who needs a holodeck to have a good
+time.
+[Ten Forward]
+RIKER: Who reported to the Bridge from this group? 
+TROI: I did. 
+RIKER: Have you found anything that might give us some insight into
+what happened? 
+TROI: Not specifically, but there are two things that seem unusual. The
+bartender is an artificial lifeform. 
+DATA: Can I get you something? A beverage? 
+RIKER: No, thank you. 
+RO: I'm fine. 
+RIKER: Your memories are gone as well? 
+DATA: The databanks that identify who I am are not functioning. 
+RIKER: You were going to mention something else? 
+TROI: I don't know if this means anything, but I seem to have an
+ability that the others don't. I have a very strong sense of what other
+people are feeling at times it's almost 
+RIKER: Is something wrong? 
+TROI: No. Just for a moment, you seemed familiar. 
+RIKER: You remember me? 
+TROI: Not exactly. I mean, I don't know who you are, but there's
+something about you. 
+WORF [OC]: Bridge to survey team. 
+RIKER: Survey team here. Go ahead. 
+WORF [OC]: We have accessed the personnel files. Report to the Bridge
+immediately. 
+RO: We're on our way.
+[Bridge]
+LAFORGE: Computer give me a biographical listing of
+all personnel responsible for primary operation of the ship. 
+COMPUTER: A full biographical listing is not available. 
+LAFORGE: Is there any list of the ship's senior officers? 
+COMPUTER: The crew manifest is available. 
+LAFORGE: That's better than nothing. Give me the crew manifest. 
+COMPUTER: Commanding Officer, Captain Jean-Luc Picard. Executive
+Officer, Commander Keiran MacDuff. Second Officer, Commander
+William Riker. Operations Officer, Lieutenant Commander Data. Chief
+Medical Officer, Doctor Beverly Crusher. Ship's Counsellor, Lieutenant
+Commander Deanna Troi. Chief Engineer, Lieutenant Commander Geordi La
+Forge. Security Chief, Lieutenant Worf. Helm Officer, Ensign Ro Laren. 
+PICARD: Commander MacDuff, have the other officers listed here report
+to the Bridge. 
+MACDUFF: Aye, sir. 
+PICARD: Your next priority will be to retrieve any information you can
+about this ship's mission. Contact the Operations
+Officer to assist you. 
+LAFORGE: Aye, sir. 
+RO: He's in Ten Forward, waiting tables. 
+WORF: Captain. I regret my recent behaviour. I assumed an attitude of
+authority that was unwarranted. 
+PICARD: Mister Worf, we're all doing the best we can in a difficult
+situation. Think nothing more of it. 
+WORF: Thank you, Captain.
+[Observation lounge]
+LAFORGE: We haven't finished a full search of the
+computer records, but we have found out quite a bit. 
+DATA: This vessel is called the Enterprise. We are part of an
+organization called the United Federation of Planets. The
+Federation is currently in a state of war. 
+TROI: With whom? 
+LAFORGE: The Lysian Alliance. They're a genocidal race determined to
+destroy us. The war has been going on for years. 
+DATA: Starfleet Command believes the Lysians are using a new weapon
+which has shifted the balance of power to their favour. 
+LAFORGE: Over the last two months, fourteen Federation ships have been
+captured, apparently very easily, their crews held captive on Lysia. 
+PICARD: What do we know about this weapon? 
+DATA: Our scientists theorise the Lysians are using an energy wave,
+either plasma-based or a subspace interference pattern. The weapon
+severely disrupts a starship's computer system as well as the mental
+functions of its crew. 
+MACDUFF: That's what happened to us. 
+PICARD: Mister La Forge, do we have any record of our current mission? 
+LAFORGE: Yes, sir. (goes to wall screen) We're approximately here.
+We've been ordered to cross into Lysian territory and destroy their
+Central
+Command. This is it. The nerve centre for the entire Lysian military
+operation. 
+TROI: Captain, there's been a great deal of damage to our computer
+system. Maybe we're not getting the correct information. 
+PICARD: What are you saying? 
+TROI: That we get confirmation of this mission from our headquarters. 
+WORF: If we use subspace radio we will be detected. 
+TROI: There could be thousands of lives at stake. 
+LAFORGE: Our orders specifically require us to maintain radio silence. 
+DATA: Our mission is part of a highly coordinated effort to put an end
+to the war. There are other vessels on other fronts, all working
+according to an intricate plan. 
+LAFORGE: We're the lynchpin to the operation. If we don't destroy the
+Central Command, the entire effort will fail. 
+WORF: He's right, Captain. Our choice is clear. 
+PICARD: Commander MacDuff, set a course for the Lysian Central Command.
+[Corridor]
+(using a PADD as a map) 
+RIKER: These are your quarters. 
+TROI: Thanks for your help. Come in for a minute?
+[Troi's quarters]
+RIKER: Recognise anything? 
+TROI: It's like it belongs to someone else. Nothing feels right. This
+room, this ship, most of all this war we're fighting. 
+RIKER: I don't imagine war ever feels right. 
+TROI: I suppose that's true. 
+RIKER: What is it? 
+TROI: That same feeling. You seem familiar. You're the only thing that
+does. 
+RIKER: Can you remember anything specific about us? 
+TROI: I don't know. It's more like remembering an emotion. Feelings
+that you're somehow associated with. 
+RIKER: I hope they're good feelings. 
+TROI: Yes, they are. This entire situation is a little unnerving. 
+RIKER: It's been a long day. We've all been through a lot. 
+TROI: We certainly have. 
+(she gives him a peck on the cheek) 
+RIKER: I'll see you tomorrow. Goodnight.
+[Riker's quarters]
+(someone is in casual clothes, reading a book) 
+RO: Hi. 
+RIKER: I know I didn't get the wrong room. 
+RO: I just didn't like the way my quarters were decorated. Besides, I
+have this funny feeling that maybe I spend most of my off hours here. 
+RIKER: Really? 
+RO: For all we know, you and I could be married. 
+RIKER: For all we know, you and I could hate each other. 
+RO: Sort of exciting, isn't it? We just don't know. 
+RIKER: We might regret this. 
+RO: Regret what? Aren't you being a little presumptuous? Like I said, I
+just didn't like the way my quarters were decorated. 
+RIKER: Maybe we should switch quarters. 
+RO: Maybe we should stay right here and see what happens. 
+RIKER: What if I snore in my sleep? 
+RO: What makes you think you're going to get any sleep?
+[Bridge]
+WORF: Captain, we have crossed the Lysian border. 
+PICARD: Take us out of warp, Ensign. Go to three quarters impulse. 
+RO: Yes, sir. 
+PICARD: Mister Worf, maintain a continuous sensor sweep. 
+WORF: Aye, sir. 
+MACDUFF: How long till we reach their central command? 
+DATA: At our current speed, approximately thirty seven hours. 
+WORF: Captain, I am picking up a vessel directly ahead. 
+PICARD: Can you identify it, Mister Data? 
+DATA: The ship matches the Starfleet description of a Lysian destroyer.
+A short range attack vessel with disruptor style weapons, and a
+standard crew of fifty three. 
+WORF: Within visual range. 
+PICARD: On screen. 
+(it's just like the first ship they encountered) 
+WORF: The destroyer is increasing its speed. They are moving to
+intercept. 
+PICARD: Evasive manoeuvre sequence delta. 
+RO: Yes, sir. 
+WORF: They are matching our manoeuvres. 
+MACDUFF: Activating phaser arrays. Ready to fire, sir. 
+PICARD: Stand by. 
+MACDUFF: Captain, our orders were to destroy all Lysian warships. 
+PICARD: I'm aware of that, Commander. Tactical analysis, Mister Data. 
+DATA: The destroyer has minimal shields. Their disruptor capacity
+appears to be only two point one megajoules. 
+RIKER: They're no match for the Enterprise. 
+DATA: Captain, the destroyer is hailing us. 
+PICARD: Open a channel. 
+MACDUFF: No! Their new weapon. Whatever it was that erased out our
+computers and our memories, maybe this is how they do it, over
+communication channels. 
+DATA: It is conceivable, sir. 
+TROI: It's also possible that they just want to talk to us. I think we
+should respond. 
+WORF: Captain, the ship is hailing us again. 
+MACDUFF: If you're wrong, it could mean our destruction. We can't take
+the risk, Captain. 
+DATA: The Lysians have stopped transmitting, Captain. They are powering
+up their disruptors. They have locked onto us, sir. 
+RIKER: Full shields. 
+WORF: Shields up. 
+MACDUFF: Captain? 
+PICARD: Return fire. 
+(KaBOOM) 
+WORF: The ship has been destroyed. 
+PICARD: Maintain this course, Ensign. Three quarters impulse. 
+RO: Yes, sir. 
+MACDUFF: Well done, Captain.
+[Observation lounge]
+WORF: The Lysian Central Command would have
+received any transmission from the destroyer by now. 
+MACDUFF: They're going to be on alert. 
+RO: I recommend a randomly vectored approach to our target. It would be
+our best chance of avoiding sort of any pursuit. 
+PICARD: Agreed. Doctor, the success of this mission would be far more
+likely if we could get our memories back. Is there anything you can do?
+CRUSHER: I found several cases resembling our condition in the medical
+index. The causes are different, but the cure is similar in each case. 
+RIKER: Could the same treatment work for us? 
+CRUSHER: That's my hope. It involves increasing the activity of the
+medial temporal region of the brain, using short-term memory synapses
+to retrieve long-term memory. 
+PICARD: When can you start? 
+CRUSHER: As soon as our medical files become available. It would be
+dangerous to attempt treatment without them. 
+PICARD: Mister La Forge? 
+LAFORGE: Data and I ran into some trouble accessing the medical file
+areas in the computer, but with a little time I'm pretty sure we'll be
+able to get there. Three hours, maximum. 
+PICARD: Proceed.
+[Engineering]
+LAFORGE: I don't get it. I'm still hitting a file
+wall. 
+DATA: There appears to be a command path discontinuity. I shall attempt
+to rewrite the locator subroutine. 
+LAFORGE: You must have been one hell of a bartender. It's too bad there
+aren't any more of you around. We could certainly use the help. 
+DATA: Yes. 
+LAFORGE: I wonder why you're the only one on board? 
+DATA: I have expended considerable thought with respect to my apparent
+uniqueness among the crew. 
+LAFORGE: Any conclusions? 
+DATA: Several possibilities suggest themselves. I may represent an
+entire race of artificial lifeforms. If so, there may be a home planet
+for others of my kind. A shared history and a culture of which I am not
+presently aware. 
+LAFORGE: Then again, you could've been built just for this ship. 
+DATA: I have considered that possibility as well. It may also be the
+case that every starship in the Federation is equipped with an
+artificial lifeform such as myself. 
+LAFORGE: If that's true, maybe you all look alike. A standard issue
+android. Hard to construct so only one allowed per vessel. 
+DATA: There is another possibility. Perhaps my origin is unique. In
+that case, I am alone. We have accessed the information storage area.
+Considerable damage has been done to the files themselves. 
+LAFORGE: The mission reports are gone. 
+DATA: As well as the crew records, and the personal logs. 
+LAFORGE: So are the medical records.
+[Riker's quarters]
+RIKER: Come in. 
+TROI: I'm restless. Mind if I visit for a while? 
+RIKER: Please. What's wrong? 
+TROI: Everything. Every time I think about this war, our mission, I
+feel a sense of panic like a hand's closing around my throat. 
+RIKER: You're never going to feel good about this war. None of us will.
+But we've got to complete our mission. I've been doing a little
+research, trying to find out about William T Riker. 
+TROI: What have you discovered? 
+RIKER: He's a musician, for one thing. 
+(plays a little on the trombone) 
+TROI: Very impressive. 
+RIKER: No one was more surprised than I. 
+TROI: So what else has your research uncovered about William Riker? 
+RIKER: He's athletically inclined, loves to climb mountain. He's from
+somewhere called Alaska. He enjoys exotic food, and takes his vacations
+on a planet called Risa. 
+TROI: Ode to Psyche. John Keats. 
+RIKER: Open it. 
+TROI: To Will, all my love, Deanna. 
+RIKER: That may explain some of the familiar feelings we have. 
+TROI: I don't know what to think. 
+(they lean in for a kiss and the doorbell chimes) 
+RIKER: Come in. 
+(Laren enters) 
+RO: Hello, Counsellor. 
+TROI: Ensign. 
+RO: Am I interrupting anything? 
+RIKER + TROI: No. 
+TROI: I was just visiting. We'll talk again soon, Commander. 
+RIKER: Of course. Thank you, Counsellor. 
+RO: Bye. 
+(Troi leaves) 
+RO: And what was all of that about? 
+RIKER: Oh, we were just discussing the situation we're all in. 
+RO: Good. Because I have a feeling that I used to be the jealous type.
+[Bridge]
+LAFORGE: What bothers me, Captain, is how specific
+this damage is. Any records of a personal nature, any files that could
+tell us about who we are, those are the ones that are gone. 
+RIKER: It's a little too selective to be coincidence. 
+CRUSHER: As selective as what was done to our own memories. Skills
+still in place but personal knowledge is unavailable. 
+MACDUFF: It is consistent with what we know about the new Lysian
+weapon. 
+PICARD: Doctor, is it absolutely necessary to see the medical files to
+attempt treatment? 
+CRUSHER: It would be dangerous to do it without them. 
+RIKER: It's a risk I think we have to take. 
+MACDUFF: He's right, Captain. I volunteer for the procedure.
+[Sickbay]
+(so MacDuff is on the biobed with a device over his
+forehead) 
+CRUSHER: That's strange. The diencephalic activity is exactly the same.
+There should be some increase. Let's try broadening the bandwidth. Go
+to thirty point one. Raise the frequency as well. Increase by thirty
+three percent. 
+(MacDuff starts jerking) 
+CRUSHER: Something's wrong with the sequencing programme. 
+(She disconnects him and wakes him up) 
+CRUSHER: Kieran. Kieran. 
+MACDUFF: I'm all right. I'm all right. What happened? 
+CRUSHER: I don't know. Something went wrong with the sequence
+initiator. We're lucky we didn't lose you. Did any of this work? Do you
+remember anything more about yourself? 
+MACDUFF: No. I'm sorry, Doctor. 
+CRUSHER: Back to square one. 
+(and a smug grin from MacDuff)
+[Ready room]
+PICARD: Come. 
+MACDUFF: You wanted to see me, Captain? 
+PICARD: Yes, Commander. Please, come in. Sit down. I find myself having
+grave concerns about our mission. 
+MACDUFF: Concerns as to its success? 
+PICARD: No, no, no. More fundamental doubts. Whether or not it can be
+justified. 
+MACDUFF: I've been asking myself the same thing. I'm sure our superiors
+feel their orders are justified. 
+PICARD: Orders which we can't even verify. 
+MACDUFF: Orders we can't ignore. 
+PICARD: But I also can't ignore that we have greatly outclassed the
+only enemy vessel we've encountered. And that every
+single possible shred of information which might shed some light on
+this situation has been conveniently eliminated. I feel as though I've
+been handed a weapon, sent into a room and told to shoot a stranger.
+Well, I need some moral context to justify that action, and I don't
+have it. I'm not content simply to obey orders. I need to know that
+what I am doing is right. 
+MACDUFF: So do I. I'd feel a lot better about this if all the questions
+were answered. And if you want to abandon our mission until our
+memories return, that's your choice, but I must ask you. Is it right to
+risk prolonging this war, to allow the needless deaths of thousands on
+both sides, solely on the basis of our moral discomfort?
+[MacDuff's quarters]
+MACDUFF: Come. 
+(Worf enters) 
+MACDUFF: Lieutenant. 
+WORF: You wished to see me, sir? 
+MACDUFF: I did. Please. Memory or no, it seems clear that both you and
+I were born for battle. More so than the others. 
+WORF: I thought this as well. 
+MACDUFF: It's conceivable that is the very reason that we've been
+assigned to this vessel. The Enterprise has science officers, medical
+specialists, engineers. Our Captain is undoubtedly an accomplished
+diplomat. But we, we are the warriors. There are times for diplomacy.
+This is not one of them. 
+WORF: You're concerned about the Captain? 
+MACDUFF: I am concerned about completing our mission, ending this war.
+In victory. We may soon face a critical moment. The success of our
+mission may hang on a split-second decision. A hesitation would kill us
+all, and those that are counting on us will surely die as well. We
+cannot let this happen. That'll be all. 
+[Bridge]
+DATA: We are entering the Lysian system, sir. 
+PICARD: Slow to one quarter impulse. 
+RO: Yes, sir. 
+MACDUFF: The Central Command is directly ahead. Still beyond weapon
+range. 
+PICARD: Red Alert. Battle stations. Bring us to an attack posture,
+Mister Worf. 
+WORF: Aye, sir. 
+DATA: Sensors show several objects in our path, sir. They are twenty
+nine metres in length and are unmanned. 
+MACDUFF: According to Starfleet records, they're sentry pods programmed
+to defend their Central Command. 
+RIKER: I'm reading forty seven of them around the perimeter. 
+PICARD: Tactical analysis, Mister Data. 
+DATA: The pods are equipped with fusion-generated pulse lasers and
+minimal shielding. 
+RIKER: Not much power there. 
+PICARD: Forward shields to maximum. Lock phasers on the sentry pods.
+Prepare to return fire. 
+WORF: Shields up. Phasers locked on targets. 
+PICARD: Full impulse. Take us straight through them. 
+DATA: We are through the perimeter, sir. 
+RIKER: That was too easy. 
+WORF: We have yet to encounter any battleships. They may lie ahead. 
+PICARD: Load all torpedo bays. Ready phasers. 
+WORF: Aye, sir. 
+MACDUFF: Approaching Central Command. 
+(which looks just like the Edo's 'god') 
+PICARD: Mister Data, scan for defences. 
+DATA: I am picking up no vessels, no additional sentry pods. 
+RIKER: Optimal firing range in fifty five seconds. 
+MACDUFF: Phaser banks ready. Loading torpedoes. 
+PICARD: What are the defensive capabilities of the Central Command? 
+DATA: Armaments consist of four laser cannons and thirty nine cobalt
+fusion warheads with magnetic propulsion. Defensive shield output is
+four point three kilojoules. 
+RIKER: One photon torpedo ought to do it. 
+TROI: Data, how many people on that station? 
+DATA: Fifteen thousand, three hundred eleven. 
+MACDUFF: We're within range, Captain. 
+PICARD: Stand by. 
+MACDUFF: Waiting for your order, sir. 
+TROI: Captain, this isn't right. 
+MACDUFF: The rest of our forces are depending on us. 
+RIKER: How can our mortal enemy be over a hundred years behind us in
+weapons technology? 
+MACDUFF: Their battleships may be on the way right now. We must attack!
+PICARD: I do not fire on defenceless people. Mister Worf open a channel
+to the Lysians. 
+MACDUFF: Belay that order! There's something wrong with the Captain.
+I'm taking command of this vessel. Fire all weapons! Mister Worf. 
+(Worf blocks his way, and gets thrown across the Bridge far too easily.
+Riker fires a phaser at MacDuff and we briefly see an alien, but he
+recovers to try and fire the ships weapons. Riker shoots again, and
+Worf joins in. Finally they knock him out)
+Captain's log, supplemental. We are on a course to
+Starbase three zero one. Doctor Crusher has been working steadily, and
+has restored the memories of most of the crew.
+[Ready room]
+PICARD: The Lysians have identified Commander
+MacDuff as a Satarran, an alien race that's been at war with the
+Lysians for decades. I have conveyed our deepest regrets to the Lysians
+over the tragedy of their lost ship and crew. 
+RIKER: With all the power that MacDuff had to alter our brain chemistry
+and manipulate the computers, it's hard to believe he needed the
+Enterprise. 
+PICARD: The Satarrans' weapons technology is no more advanced than the
+Lysians'. One photon torpedo would have ended their war. 
+RIKER: It almost did.
+[Ten Forward]
+(Riker enters to see Ro and Troi chatting at a
+table. His heart sinks and his worst fears come to the surface,
+naturally) 
+RIKER: I hope I'm not interrupting. 
+RO + TROI: No. 
+RO: I was hoping to run into you. 
+TROI: Please, sit down. 
+RIKER: Well. I'm glad I ran into the two of you. When you have no
+memory of who you are, or who anybody else is, you find yourself 
+RO: The Counsellor tells me that at times like that, we might do the
+things that we've always wanted to do. 
+RIKER: She said that? 
+TROI: It's psychologically valid. 
+RO: (deadpan) Commander, don't worry about it. As far as I'm concerned,
+you and I have shared something that we will treasure forever. 
+(Ro leaves) 
+RIKER: Well, I'm a little confused. 
+TROI: Well, if you're still confused tomorrow, you know where my office
+is. 
+(Deanna leaves Will to worry over exactly what the women were talking
+about)  
+
+

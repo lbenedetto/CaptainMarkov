@@ -12,8 +12,8 @@ public class ScriptReader {
 		try {
 			logs = new BufferedReader(new FileReader("Captains Logs.txt"));
 		} catch (FileNotFoundException e) {
-			saveLogs();
 			System.out.println("File not found, creating file");
+			saveLogs();
 		}
 		nextLog();
 	}
@@ -22,9 +22,10 @@ public class ScriptReader {
 		if (currentEpisodeNum == 101) currentEpisodeNum++;
 		currentEpisodeNum++;
 		try {
-			currentEpisode = new BufferedReader(new FileReader("Episode " + currentEpisodeNum + ".txt"));
+			currentEpisode = new BufferedReader(new FileReader("./scripts/Episode " + currentEpisodeNum + ".txt"));
 		} catch (FileNotFoundException e) {
-			e.printStackTrace();
+			System.out.println("Could not find script file, downloading now");
+			ScriptScraper.downloadEpisodes();
 		}
 	}
 
@@ -44,7 +45,7 @@ public class ScriptReader {
 					if (recordingLog) {
 						if (curr.trim().isEmpty() || curr.startsWith("[") || curr.contains(":")) {
 							String out = line.trim() + "#";
-							if(!out.equals("#"))
+							if (!out.equals("#"))
 								txtFile.println(line.trim() + "#");
 							line = "";
 							recordingLog = false;
@@ -59,7 +60,6 @@ public class ScriptReader {
 				}
 			}
 			txtFile.close();
-			nextLog();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
