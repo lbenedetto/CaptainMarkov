@@ -6,22 +6,31 @@ import java.util.Vector;
 
 public class Markov {
 	// Hashmap
-	public static Hashtable<String, Vector<String>> markovChain = new Hashtable<>();
+	public static Hashtable<String, Vector<String>> markovLog = new Hashtable<>();
+	public static Hashtable<String, Vector<String>> markovCommand = new Hashtable<>();
 	static Random rnd = new Random();
 	static Tweeter tweeter = new Tweeter();
 
 	public static void main(String[] args) throws IOException {
 		ScriptReader scriptReader = new ScriptReader();
 		// Create the first two entries (k:_start, k:_end)
-		markovChain.put("_start", new Vector<>());
-		markovChain.put("_end", new Vector<>());
+		markovLog.put("_start", new Vector<>());
+		markovLog.put("_end", new Vector<>());
+		markovCommand.put("_start", new Vector<>());
+		markovCommand.put("_end", new Vector<>());
 		while (scriptReader.hasNextLog())
-			addWords(scriptReader.getNextLog());
-		while (true)
-			generateSentence();
+			addWords(scriptReader.getNextLog(), markovLog);
+		while (scriptReader.hasNextCommand())
+			addWords(scriptReader.getNextCommand(), markovCommand);
+		for (int i = 0; i < 10; i++) {
+			generateSentence(markovLog);
+		}
+		for (int i = 0; i < 10; i++) {
+			generateSentence(markovCommand);
+		}
 	}
 
-	public static void addWords(String phrase) {
+	public static void addWords(String phrase, Hashtable<String, Vector<String>> markovChain) {
 		if (phrase.equals("#") || phrase.equals("")) return;
 		// put each word into an array
 		String[] words = phrase.split(" ");
@@ -57,7 +66,7 @@ public class Markov {
 		}
 	}
 
-	public static void generateSentence() {
+	public static void generateSentence(Hashtable<String, Vector<String>> markovChain) {
 		// Vector to hold the phrase
 		Vector<String> newPhrase = new Vector<>();
 		// String for the next word
@@ -84,26 +93,5 @@ public class Markov {
 		}
 		out = out.replace("#", "");
 		System.out.println(out + " " + out.length() + " characters");
-		System.out.println("Tweet this? y/n");
-		if (readChoice()) {
-			if (out.length() <= 140) {
-				//tweeter.tweet(out);
-			} else {
-				System.out.println("Too long");
-			}
-		}
-	}
-
-	public static boolean readChoice() {
-		Scanner kb = new Scanner(System.in);
-		while (true) {
-			if (kb.hasNextLine()) {
-				String s = kb.nextLine();
-				if (s.startsWith("y"))
-					return true;
-				if (s.startsWith("n"))
-					return false;
-			}
-		}
 	}
 }
