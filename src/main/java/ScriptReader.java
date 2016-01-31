@@ -30,8 +30,6 @@ public class ScriptReader {
 	}
 
 	public void saveLogs() {
-		File oldFile = new File("Captains Logs.txt");
-		oldFile.delete();
 		System.out.println("Saving log files");
 		boolean recordingLog = false;
 		try {
