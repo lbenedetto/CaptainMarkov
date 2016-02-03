@@ -1,5 +1,5 @@
 # CaptainMarkov
-A project that utilizes a database of Star Trek scripts to generate a captain's log.
+A project that utilizes a database of Star Trek scripts to generate new phrases, such as captains logs, commands to the computer, or lines of dialogue from a specified character
 
 ## How It Works
 Scripts are pulled from http://www.chakoteya.net/ using the ScriptScraper class and saved into "./scripts/Episode num.txt"
