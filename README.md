@@ -1,11 +1,13 @@
 # CaptainMarkov
-A project that utilizes a database of Star Trek scripts to generate new captains logs
+A project that utilizes a database of Star Trek scripts to generate a captain's log.
 
+## How It Works
 Scripts are pulled from http://www.chakoteya.net/ using the ScriptScraper class and saved into "./scripts/Episode num.txt"
 
 The KeyWord class is then used to save all lines containing the key phrase, such as "Captain's log" or "Computer, "
-It includes the option to cut the line to the keyphrase so you don't get something like
-    TROI: Lets ask the computer. Computer, identify type of Riker.
+It includes the option to cut the line to the keyphrase so you don't get something like this:
+
+> TROI: Let's ask the computer. Computer, identify type of Riker.
 
 The Character class can be used to capture all the lines spoken by a given character.
 
