@@ -77,6 +77,6 @@ public class MarkovChain {
 			out += s + " ";
 		}
 		out = out.replace("#", "");
-		System.out.println(out + " " + out.length() + " characters");
+		System.out.println(out + "\n");
 	}
 }
