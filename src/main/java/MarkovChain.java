@@ -1,36 +1,21 @@
-import java.io.IOException;
 import java.util.Hashtable;
 import java.util.Random;
-import java.util.Scanner;
 import java.util.Vector;
 
-public class Markov {
+public class MarkovChain {
 	// Hashmap
-	public static Hashtable<String, Vector<String>> markovLog = new Hashtable<>();
-	public static Hashtable<String, Vector<String>> markovCommand = new Hashtable<>();
-	static Random rnd = new Random();
-	static Tweeter tweeter = new Tweeter();
+	Hashtable<String, Vector<String>> markovChain = new Hashtable<>();
+	Random rnd = new Random();
 
-	public static void main(String[] args) throws IOException {
-		ScriptReader scriptReader = new ScriptReader();
+	public MarkovChain(LineGetter lineGetter) {
 		// Create the first two entries (k:_start, k:_end)
-		markovLog.put("_start", new Vector<>());
-		markovLog.put("_end", new Vector<>());
-		markovCommand.put("_start", new Vector<>());
-		markovCommand.put("_end", new Vector<>());
-		while (scriptReader.hasNextLog())
-			addWords(scriptReader.getNextLog(), markovLog);
-		while (scriptReader.hasNextCommand())
-			addWords(scriptReader.getNextCommand(), markovCommand);
-		for (int i = 0; i < 10; i++) {
-			generateSentence(markovLog);
-		}
-		for (int i = 0; i < 10; i++) {
-			generateSentence(markovCommand);
-		}
+		markovChain.put("_start", new Vector<>());
+		markovChain.put("_end", new Vector<>());
+		while (lineGetter.hasNextLine())
+			addWords(lineGetter.getNextLine(), markovChain);
 	}
 
-	public static void addWords(String phrase, Hashtable<String, Vector<String>> markovChain) {
+	public void addWords(String phrase, Hashtable<String, Vector<String>> markovChain) {
 		if (phrase.equals("#") || phrase.equals("")) return;
 		// put each word into an array
 		String[] words = phrase.split(" ");
@@ -66,7 +51,7 @@ public class Markov {
 		}
 	}
 
-	public static void generateSentence(Hashtable<String, Vector<String>> markovChain) {
+	public void generateSentence() {
 		// Vector to hold the phrase
 		Vector<String> newPhrase = new Vector<>();
 		// String for the next word
@@ -86,7 +71,7 @@ public class Markov {
 		showPhrase(newPhrase);
 	}
 
-	public static void showPhrase(Vector<String> phrase) {
+	public void showPhrase(Vector<String> phrase) {
 		String out = "";
 		for (String s : phrase) {
 			out += s + " ";

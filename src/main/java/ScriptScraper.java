@@ -54,7 +54,9 @@ public class ScriptScraper {
 	}
 
 	public static void saveEpisode(String s, int n) {
-		PrintWriter txtFile = null;
+		PrintWriter txtFile;
+		File dir = new File("./scripts");
+		dir.mkdir();
 		try {
 			FileReader file = new FileReader("./scripts/Episode " + n + ".txt");
 		} catch (FileNotFoundException e) {

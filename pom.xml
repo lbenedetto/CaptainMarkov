@@ -6,19 +6,7 @@
 
     <groupId>com.mcworldmap.play.markov</groupId>
     <artifactId>CaptainMarkov</artifactId>
-    <version>1.0</version>
-    <dependencies>
-        <dependency>
-            <groupId>org.languagetool</groupId>
-            <artifactId>language-en</artifactId>
-            <version>3.2</version>
-        </dependency>
-        <dependency>
-            <groupId>org.twitter4j</groupId>
-            <artifactId>twitter4j-core</artifactId>
-            <version>4.0.4</version>
-        </dependency>
-    </dependencies>
+    <version>2.0</version>
     <build>
         <plugins>
             <plugin>
