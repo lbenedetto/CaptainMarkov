@@ -4,11 +4,12 @@ public class PositronicBrain {
 	public static void main(String[] args) {
 		MarkovChain captainsLogs = new MarkovChain(new KeyWord("Captain's log", false));
 		MarkovChain commands = new MarkovChain(new KeyWord("Computer, ", true));
-		String[] characterNames = {"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"};
+		//String[] characterNames = {"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"};
+		String[] characterNames = {"Computer"};
 		MarkovChain[] characters = new MarkovChain[characterNames.length];
 		//Fill the characters array
 		for (int i = 0; i < characterNames.length; i++)
-			characters[i] = new MarkovChain(new Character(characterNames[i]));
+				characters[i] = new MarkovChain(new Character(characterNames[i]));
 		//Generate a captains log
 		generate(10, captainsLogs);
 		//Generate a command to the computer

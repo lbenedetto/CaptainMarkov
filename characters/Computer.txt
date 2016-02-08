@@ -49,7 +49,6 @@ COMPUTER: Life.#
 COMPUTER: Warning. Input overload.#
 COMPUTER: Magnification deactivated.#
 COMPUTER: Translation request being patched.#
-COMPUTER:#
 COMPUTER: Silicon. Germanium.#
 COMPUTER: Gallium arsenide.#
 COMPUTER: Cadmium selenide sulfide.#
