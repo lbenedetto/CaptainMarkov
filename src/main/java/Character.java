@@ -33,6 +33,10 @@ public class Character extends LineGetter {
 					if (curr.startsWith(character)) {
 						recordingLog = true;
 					}
+					curr = curr.replaceAll("\\(.*?\\)", "");
+					curr = curr.replaceAll("\\[.*?\\]", "");
+					curr = curr.trim();
+					if (curr.equals("#")) recordingLog = false;
 					if (recordingLog) {
 						if (curr.trim().isEmpty() || (curr.contains(":") && !curr.startsWith(character))) {
 							String out = line.trim() + "#";
