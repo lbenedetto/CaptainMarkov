@@ -33,8 +33,6 @@ public class Character extends LineGetter {
 					if (curr.startsWith(character)) {
 						recordingLog = true;
 					}
-					if(curr.contains("gibberish"))
-						System.out.println("breakpoint");
 					curr = curr.replaceAll("\\(.*?\\)", "");
 					curr = curr.replaceAll("\\[.*?\\]", "");
 					curr = curr.trim();
