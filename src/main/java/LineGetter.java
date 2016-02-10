@@ -1,10 +1,7 @@
-import com.sun.applet2.AppletParameters;
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.HashMap;
 
 public abstract class LineGetter {
 	BufferedReader currentEpisode;
@@ -13,14 +10,7 @@ public abstract class LineGetter {
 	String nextLine;
 	Series series;
 
-	HashMap<Series, int[]> skippedEpisodeNums;
-	//The script database has a few odd gaps in Voyager's numbering, so we'll skip over those
-	HashMap<Integer, Integer> voyagerEpisodeGaps;
-
 	public LineGetter(Series _series) {
-		initializeSkippedEpisodeNums();
-		initializeVoyagerGaps();
-
 		series = _series;
 
 		switch (series) {
@@ -40,27 +30,6 @@ public abstract class LineGetter {
 		nextEpisode();
 	}
 
-	protected void initializeSkippedEpisodeNums() {
-		skippedEpisodeNums = new HashMap<>();
-
-		skippedEpisodeNums.put(Series.StarTrek, new int[]{});
-		skippedEpisodeNums.put(Series.NextGen, new int[]{102});
-		skippedEpisodeNums.put(Series.DS9, new int[]{402, 474});
-		skippedEpisodeNums.put(Series.Voyager, new int[]{});
-		skippedEpisodeNums.put(Series.Enterprise, new int[]{2});
-	}
-
-	protected void initializeVoyagerGaps() {
-		voyagerEpisodeGaps = new HashMap<>();
-
-		voyagerEpisodeGaps.put(120, 200);
-		voyagerEpisodeGaps.put(226, 300);
-		voyagerEpisodeGaps.put(322, 400);
-		voyagerEpisodeGaps.put(424, 500);
-		voyagerEpisodeGaps.put(526, 600);
-		voyagerEpisodeGaps.put(626, 700);
-	}
-
 	public boolean hasNextEpisode() {
 		switch (series) {
 			case StarTrek:
@@ -78,29 +47,15 @@ public abstract class LineGetter {
 		}
 	}
 
-	public boolean nextEpisodeNumIsSkipped(int _currentEpisodeNum, Series _series) {
-		for (int skippedNum : skippedEpisodeNums.get(_series)) {
-			if (skippedNum == _currentEpisodeNum + 1)
-					return true;
-		}
-
-		return false;
-	}
-
-	public boolean isAtVoyagerGap(int _currentEpisodeNum, Series _series) {
-		return _series == Series.Voyager && voyagerEpisodeGaps.containsKey(_currentEpisodeNum + 1);
-	}
-
-	public int getNumPastVoyagerGap(int _currentEpisodeNum) {
-		return voyagerEpisodeGaps.get(_currentEpisodeNum + 1);
-	}
-
 	public void nextEpisode() {
-		if (nextEpisodeNumIsSkipped(currentEpisodeNum, series)) currentEpisodeNum++;
-		else if (isAtVoyagerGap(currentEpisodeNum, series)) currentEpisodeNum = getNumPastVoyagerGap(currentEpisodeNum);
+		if (PositronicBrain.nextEpisodeNumIsSkipped(currentEpisodeNum, series))
+			currentEpisodeNum++;
+		else if (PositronicBrain.isAtVoyagerGap(currentEpisodeNum, series))
+			currentEpisodeNum = PositronicBrain.getNumPastVoyagerGap(currentEpisodeNum);
+
 		currentEpisodeNum++;
 		try {
-			String currentEpisodeNumString = currentEpisodeNum;
+			String currentEpisodeNumString = Integer.toString(currentEpisodeNum);
 
 			//Enterprise's scripts use two digits for the production number, so we need to pad the episode number
 			//	with a 0 for the single-digit episodes.
@@ -111,7 +66,7 @@ public abstract class LineGetter {
 					"/Episode " + currentEpisodeNumString + ".txt"));
 		} catch (FileNotFoundException e) {
 			System.out.println("Could not find script file, downloading now");
-			ScriptScraper.downloadEpisodes();
+			ScriptScraper.downloadEpisodes(series);
 		}
 	}
 

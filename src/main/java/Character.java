@@ -4,13 +4,13 @@ public class Character extends LineGetter {
 	String characterExternalName;
 	String character;
 
-	public Character(String c) {
-		super();
+	public Character(String c, Series _series) {
+		super(_series);
 		characterExternalName = c;
 		character = c.toUpperCase() + ":";
 		while (lines == null) {
 			try {
-				lines = new BufferedReader(new FileReader("./characters/" + characterExternalName + ".txt"));
+				lines = new BufferedReader(new FileReader("./characters/" + series.toString() + "/" + characterExternalName + ".txt"));
 			} catch (FileNotFoundException e) {
 				System.out.println("File not found, creating file");
 				saveLines();
@@ -20,13 +20,14 @@ public class Character extends LineGetter {
 	}
 
 	public void saveLines() {
-		File dir = new File("./characters");
+		String seriesString = series.toString();
+		File dir = new File("./characters" + seriesString);
 		dir.mkdir();
 		System.out.println("Saving lines spoken by " + characterExternalName);
 		boolean recordingLog = false;
 		try {
 			String line = "";
-			PrintWriter txtFile = new PrintWriter(new FileWriter("./characters/" + characterExternalName + ".txt", true));
+			PrintWriter txtFile = new PrintWriter(new FileWriter("./characters/" + seriesString + "/" + characterExternalName + ".txt", true));
 			String curr = currentEpisode.readLine().trim();
 			while (hasNextEpisode()) {
 				try {

@@ -1,4 +1,4 @@
-public enum Series  {
+public enum Series {
 	StarTrek,
 	NextGen,
 	DS9,
