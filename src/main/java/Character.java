@@ -21,7 +21,7 @@ public class Character extends LineGetter {
 
 	public void saveLines() {
 		String seriesString = series.toString();
-		File dir = new File("./characters" + seriesString);
+		File dir = new File("./characters/" + seriesString);
 		dir.mkdir();
 		System.out.println("Saving lines spoken by " + characterExternalName);
 		boolean recordingLog = false;

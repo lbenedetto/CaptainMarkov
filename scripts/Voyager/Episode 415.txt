@@ -1,0 +1,744 @@
+Episode Number: 415
+
+The Voyager Transcripts - Retrospect
+Retrospect
+Stardate:
+51679.4
+Original Airdate: 25 February 1998
+
+  [Bridge] 
+(Voyager fires a missile at a target in orbit above a planet, blasting a hole straight through it.)TUVOK:
+Direct hit. 
+KOVIN: The target buoy is solid monotanium, ten metres thick, shielded
+by a chromoelectric forcefield. (The salesman is humanoid, with a pretty pattern running from the top of his nose into his hairline.)
+JANEWAY: Impressive. 
+KOVIN: I'm glad you agree. It's not wise to travel this region without
+adequate defences. I've seen scuttled ships with more firepower than
+Voyager. 
+JANEWAY: I'm sure you have. 
+KOVIN: Imagine what you'll be capable of once the isokinetic cannon is
+integrated into your defensive systems. One projectile can penetrate
+the shields of any heavily armoured vessel. Hostile species will know
+to avoid Voyager by reputation alone. 
+JANEWAY: You've made your point, Mister Kovin. I want the cannon, and
+I'm prepared to give you astrometrics charts spanning twelve sectors.
+You'll find them unusually precise. 
+KOVIN: Even the most sophisticated charts become obsolete. One random
+anomaly and they're no longer accurate. However, I could be persuaded
+if you were to include the mapping technology that created them. 
+JANEWAY: Sorry. Our Astrometrics sensors were designed specifically for
+this ship. They'd be of no use to you. What I can offer you is a
+generous supply of isolinear processing chips. We'll even show you how
+to integrate them into your existing sensor technology. 
+KOVIN: How generous a supply? 
+JANEWAY: One hundred chips. 
+KOVIN: One hundred and fifty. 
+JANEWAY: One fifteen. 
+KOVIN: One twenty five.
+JANEWAY: Done. Escort our guest to Engineering. You'll be supervising
+the installation of the cannon? 
+KOVIN: Of course. For a modest fee. 
+JANEWAY: Five additional chips, no more. 
+KOVIN: It's good to see the art of negotiation isn't lost on you,
+Captain. (Kovin is escorted into the turbolift.)
+PARIS: That guy is worse than a Ferengi 
+JANEWAY: Assign Seven of Nine to work on this. She's got a knack for
+adapting alien technology. 
+CHAKOTAY: Should I give her complete access to the engineering control
+systems? 
+JANEWAY: I'm ready to give her some latitude. She's been behaving
+herself lately. 
+ [Astrometrics
+lab] 
+CHAKOTAY: What are you working on? 
+SEVEN: I'm trying to decode the message Starfleet Command sent us
+several weeks ago. 
+CHAKOTAY: Any progress? 
+SEVEN: None. I'm working on a new decryption algorithm. 
+CHAKOTAY: I'd like you to set it aside for a while. I have another
+assignment for you. 
+SEVEN: What is it? 
+CHAKOTAY: The Captain wants you to help Kovin integrate the new weapon
+system. 
+SEVEN: I'd rather not. I find him inefficient. 
+CHAKOTAY: Maybe so, but you seem to work well with him. You've been
+asking for more responsibilities, I thought you'd be pleased. 
+SEVEN: The captain gives me greater liberty only when she needs my
+expertise. 
+CHAKOTAY: You violated her trust, and if you want it back, you're going
+to have to earn it. One step at a time. 
+SEVEN: I will report to Engineering. 
+ [Engineering]
+ KOVIN:
+You'll need to install isolinear buffer circuits here and here. 
+SEVEN: The main power relay should be protected by a containment field.
+KOVIN: Unnecessary. All the buffer circuits would have to fail
+simultaneously for there to be any danger. 
+TORRES: We prefer to play it safe. I'll check the inventory logs to see
+if we have a field generator available. (Torres leaves them. Seven goes to another console to work. Kovin looks over her shoulder.)
+KOVIN: What are you doing? 
+SEVEN: I'm reconfiguring the tactical control systems. 
+KOVIN: The isokinetic circuit requires a specialised protocol. Let me
+take care of it. 
+SEVEN: That won't be necessary. 
+KOVIN: No, no! The subroutines need to be arranged in cascading
+sequence. Let me show you. (Kovin pushes Seven aside, so she knocks him
+down. Kovin's security guard grabs Seven, then Torres joins in.)
+TORRES: Seven, stop. 
+ [Sickbay]
+ EMH: There's a
+hairline fracture of the premaxilla bone. (Kovin's nose is bleeding.)
+KOVIN: Do you see this, Captain? She shattered it. 
+EMH: It's easily repaired. 
+JANEWAY: Do you have any idea why Seven attacked you? 
+KOVIN: It was unprovoked. She came at me like an animal! 
+TORRES: Oh, I wouldn't put it like that. I was at another console about
+ten metres away. I heard Kovin raise his voice and when I looked around
+I saw that he was holding her arm. 
+KOVIN: I barely touched her. A gentle gesture to move her out of my way
+so I could get to the console, then she turned on me, attacked me.
+JANEWAY: What did you say to her? 
+KOVIN: I told her how to reconfigure the tactical control systems
+properly. 
+JANEWAY: Is that all? 
+KOVIN: That's all! 
+TORRES: And that's when she knocked him down. Ashmore and I had to hold
+her back. 
+KOVIN: She would have killed me. That woman is dangerous. 
+EMH: It's a miracle you survived. Now hold still or this won't heal
+properly. (The EMH runs the regenerator over Kovin's pretty forehead markings.)
+KOVIN: Why are you questioning me on this? You should be disciplining
+your crew member. 
+JANEWAY: Believe me, I'll deal with it. Please accept my sincere
+apology. Now, if you'll excuse me. 
+EMH: Good as new. 
+ [Ready
+room] 
+JANEWAY: Come in. (Seven enters.)JANEWAY: Here we are again. Oh, I'm tired of having this
+conversation. You know what I'm going to say. I know how you're going
+to respond, so it seems pointless to say anything. 
+SEVEN: Shall I consider my privileges restricted and confine myself to
+the Cargo Bay? 
+JANEWAY: I think we've established that traditional disciplinary
+actions don't work with you. The question is, what will? SEVEN: Are you asking for my opinion? 
+JANEWAY: I suppose I am. Because frankly I'm running out of options.
+Throwing you in the brig isn't going to solve anything, neither is
+slapping you on the wrist. And it's not as though I don't understand
+your feelings about Kovin. There have been a few times when I'd have
+liked to pop him on the nose myself. But you have to start learning the
+difference between having an impulse and acting on it. Does that make
+any sense to you? 
+SEVEN: I believe so. I will give it more thought. 
+JANEWAY: Well, that's a start. 
+ [Sickbay]
+ EMH: I
+hear there was some excitement this morning. When I started helping you
+improve your social skills, I'm fairly certain I didn't include a
+boxing lesson. You weren't hurt, were you? 
+SEVEN: No. (Seven recoils from his proximity as he scans her.)
+EMH: Still a bit tense? 
+SEVEN: Perhaps. 
+EMH: I understand the burden you carry. Constantly being obligated to
+deal with those who fall short of excellence. I often find my own
+patience being tested by someone like Mister Kovin. Of course I
+generally respond with a devastating quip rather than a left hook. We
+must both accept the fact that very few lifeforms will ever meet our
+high standards. So, when you get irritated, just try to be tolerant,
+and remember, they can't help being what they are. Hmm. I'm reading
+some increased engrammatic activity, and your adrenalin levels are
+slightly elevated. 
+SEVEN: What does that indicate? 
+EMH: It's consistent with a state of heightened tension. Lie down and
+I'll run some scans. In a typical human, I would consider this a mood
+swing. But with your unique physiology, I'd like to rule out the
+possibility of a chemical imbalance. (Seven lies down and the curved arms close over her. She has a flashback to a more frightening similar situation.)EMH: Have you been experiencing any
+other symptoms? Headaches, disorientation? 
+SEVEN: No. 
+EMH: Physiological scans seem normal. I'm going to check your Borg
+implants now. (She has another flashback and turns her head away.)EMH: Seven? What's wrong?
+SEVEN: Let me out. 
+EMH: I will. Stay calm. (He lets her get off the biobed.)
+SEVEN: No more procedures. EMH: All right. SEVEN: Stay away. You mustn't do this.
+EMH: Do what? Seven, what are you so afraid of? 
+SEVEN: I don't know. 
+ [Medical lab] 
+(Seven is resting on a biobed.)EMH:
+She experienced an episode of acute anxiety with all the trimmings.
+Intense apprehension, shortness of breath, dizziness. I finally managed
+to sedate her. 
+JANEWAY: Could this have been caused by her cortical implants? 
+EMH: I don't think so. I think the problem has to do with memory
+suppression. I've detected a high concentration of biogenic amines in
+Seven's hippocampus, a substance I haven't noticed before. It's
+blocking portions of her memory centre. 
+JANEWAY: Do you know where it came from? 
+EMH: No, but it seems to be dissipating. [Doctor's office]EMH: Seven's unusual behaviour may
+be the result of the blocked memories beginning to surface. Memories
+which she can't identify yet. 
+JANEWAY: Can you treat her? 
+EMH: Treatment would involve integrating the repressed memories into
+Seven's consciousness. I may be able to use a standard therapeutic
+regression technique. 
+JANEWAY: I wasn't aware that you were programmed for psychotherapeutic
+capabilities. 
+EMH: I wasn't. But in the absence of a ship's counsellor, I've been
+developing a psychiatric subroutine to add to my programme. I'll be
+even more valuable to you than I am now. 
+JANEWAY: Keep me informed, Doctor. 
+ [Cargo
+Bay two] 
+(Seven is standing in her alcove with a blinkie on her forehead. It's readings are on a console nearby.)EMH: A
+Jungian therapist would attempt to retrieve unconscious memories by
+exploring synchronicities in recent events. On the other hand, Amanin
+of Betazed would argue that a combination of sensory isolation and
+focused breathing techniques would be more effective. I've integrated
+the finer points of both to create my own approach to memory
+reconstruction. 
+SEVEN: What does this approach involve?
+EMH: First, putting you at ease by performing the treatment here, in
+your own environment. Once the cortical probes have reinforced the
+neural pathways, I'll use a directed imagery technique to guide you
+through the regression. 
+SEVEN: You may proceed. 
+EMH: Please, close your eyes. Clear your mind. Try not to think or to
+analyse. 
+SEVEN: My mind is now clear. 
+EMH: Seven, this isn't an exercise in efficiency. Close your eyes,
+breathe deeply. Now concentrate on the sound of my voice. Let go of the
+present, leave the cargo bay behind. Allow yourself to drift. Describe
+the first image that enters your mind. 
+SEVEN: A medical tricorder. Duritanium casing. Seven point six
+centimetres by nine point eight centimetres by three point two
+centimetres. Alphanumeric display. 
+EMH: That's enough. So, you're in Sickbay. How does the tricorder make
+you feel? 
+SEVEN: It disturbs me. 
+EMH: Why does it disturb you? 
+SEVEN: I'm afraid it will hurt me. 
+EMH: Is there anything else there that causes you to anticipate pain? 
+SEVEN: The diagnostic bed. It's closing around me. 
+EMH: You feel restrained, confined? 
+SEVEN Yes. I am uneasy. 
+EMH: About what? 
+SEVEN: It's Kovin. 
+EMH: What is he doing? 
+SEVEN: He's restraining me. I want to get away from him but I can't.
+Kovin's using some kind of instrument on me. 
+EMH: Seven? 
+SEVEN: I didn't recall this before. 
+EMH: Recall what? 
+SEVEN: Kovin. He performed a surgical procedure on me. He extracted
+Borg technology from my body. He violated me. 
+EMH: We're making progress. Now tell me, this surgical procedure, when
+did it happen? 
+SEVEN: I don't know. The details are vague. There are only images. 
+EMH: And you're sure it was Kovin? Did you see Kovin? 
+SEVEN: Yes. 
+EMH: You said he was restraining you, using an instrument of some sort.
+SEVEN: He was. 
+EMH: Were you on Voyager when this happened? 
+SEVEN: No. It must have been when we were testing the weapons on the
+surface. 
+EMH: Then concentrate on that away mission. Focus on the first image
+that enters your mind. Describe it for me, 
+SEVEN: A large granitic stone, approximately one half metre high. 
+EMH: Now, allow that memory to develop beyond the image. Integrate it
+into your consciousness. Let the memory take shape. 
+ [Seven's
+memory - Entharan weapons range] 
+ SEVEN
+[OC]: I'm at the weapons range. Kovin had taken us there to evaluate
+various hand held firearms he wished to offer in trade. (Paris tests one of them.)SEVEN: He attempted to
+impress us with a demonstration of the weapons' destructive
+capabilities. My role was to provide a more objective analysis. 
+KOVIN: Terawatt powered particle beam rifle, four microsecond recharge
+cycle, ten kilometre range. 
+PARIS: Definitely not standard Starfleet issue. What do you think? 
+SEVEN: Seventy two percent fragmentation, twenty eight percent
+vaporisation. Crude, but efficient. 
+PARIS: It's not as accurate as our compression rifles, but it's a lot
+easier to handle. I wouldn't mind carrying one of these the next time
+we run into the Hirogen. 
+SEVEN: Targeting mechanism could be augmented with a thermal guidance
+sensor. That would improve accuracy by twenty four percent. 
+KOVIN: I can do that now. Care to join me? You can make sure the
+adjustments perform to your specifications. 
+PARIS: If you don't mind, I'd like to test some of the other firearms. 
+KOVIN: Go right ahead. This way. 
+SEVEN [OC]: Kovin took me to a small laboratory. 
+ [Seven's
+memory - Kovin's laboratory] 
+ EMH
+[OC]: Describe it. 
+SEVEN [OC]: It was poorly illuminated. I saw various instruments,
+technology unfamiliar to me. I assumed this was where he developed new
+weapon designs. 
+SEVEN: This weapon is thoron based. 
+KOVIN: Most of these hand-held disrupters are. 
+SEVEN: Thoron can be unstable in weapons. 
+KOVIN: Not if you polarise the emitter matrix. That compensates for any
+instabilities. Watch. 
+SEVEN: What are you doing?(He fires the weapon at Seven.) 
+ [Cargo
+Bay two] 
+ SEVEN:
+He turned the weapon on me. 
+EMH: He fired? 
+SEVEN: Yes, I remember it now. 
+EMH: What happened next? 
+SEVEN: I'm not sure. 
+EMH: Concentrate. See the laboratory in your mind. 
+SEVEN: There was a light in my eyes. 
+ [Seven's
+memory - Kovin's laboratory] 
+ EMH
+[OC]: Was Kovin still in the room with you? 
+SEVEN [OC]: Yes. 
+KOVIN: Restrain her, quickly. 
+SEVEN [OC]: And another Entharan was assisting him. (A woman.)
+SCHARN: This is Borg technology. 
+KOVIN: That's what I've been telling you. 
+SEVEN: Let me go. 
+ [Cargo
+Bay two] 
+ SEVEN:
+They bound me to an examination table. 
+EMH: What did they do to you? Did they scan you? 
+ [Seven's
+memory - Kovin's laboratory] 
+ KOVIN:
+The bio-ablation pump is engaged and pressurised. (Liquid bubbles through cylinders and tubes. Seven is in pain.)
+SCHARN: The growth medium is activating the implants. The nanoprobes
+are multiplying. 
+ [Cargo
+Bay two] 
+ SEVEN:
+They put a device near my head. 
+ [Seven's
+memory - Kovin's laboratory] 
+ SEVEN
+[OC]: They removed my ocular implant. 
+ [Cargo
+Bay two] 
+ SEVEN: Then some of the implants in my arm were activated. 
+EMH: Which ones? Can you be more specific? 
+ [Seven's
+memory - Kovin's laboratory] 
+ KOVIN:
+Use the maximum setting of the metagenic pulse to stimulate the
+implants. 
+SCHARN: The assimilation tubules are ready. 
+KOVIN: Prepare to harvest the nanoprobes. 
+SEVEN [OC]: They extracted nanoprobes through my assimilation tubules.
+I was powerless, unable to stop them. 
+EMH: You couldn't be expected to. You were restrained. Then what
+happened? 
+SEVEN [OC]: They took the nanoprobes to another subject, also
+restrained. Then they, they assimilated him. 
+SCHARN: Well done. (The other subject's skin turns pale, and an implant erupts through his skin.)
+SEVEN [OC]: The next thing I remember I was back in Kovin's lab. He
+claimed the particle beam rifle overloaded, that it had burned my hand.
+But it was a lie. They had attacked me. 
+KOVIN: I'm sorry. I should have been more careful. 
+SEVEN: Do you have a dermal regenerator? 
+KOVIN: Of course. 
+ [Cargo
+Bay two] 
+ EMH:
+I'll inform the captain. 
+ [Briefing room] 
+ EMH:
+There's no doubt that Seven was the victim of a brutal assault. 
+JANEWAY: How is she? 
+EMH: As well as can be expected. She's regenerating in her alcove. I
+predict her emotional recovery will take some time. I certainly hope
+you intend to hold Kovin responsible for what he's done. 
+JANEWAY: First I want to know how much of her story we can corroborate.
+Tom, you were with her on the planet. How long was she alone with
+Kovin? 
+PARIS: At least two hours. 
+JANEWAY: And when she came back, did she say anything about what
+happened? 
+PARIS: Only that they'd finished their work on the rifle. She seemed
+fine. 
+EMH: Clearly Mister Kovin used some artificial means to suppress her
+memory of the event. That would explain the unusual engrammatic
+activity I found in her neurological scans. 
+JANEWAY: Did you find any other physical evidence of the medical
+procedures she described? 
+EMH: No. I suspect Mister Kovin used Seven's own nanoprobes to repair
+any cellular damage. She distinctly remembers Kovin extracting them. 
+TUVOK: You seem to be accepting Seven's recovered memories as fact. 
+EMH: Are you suggesting otherwise? 
+TUVOK: Historically, recovered memories have often proven unreliable. 
+EMH: Yes, in cases where a traumatic experience has been repressed for
+years. But we're dealing with a very recent memory here, that was
+blocked by artificial means. When I removed that mechanism, Seven
+remembered everything that happened. 
+TUVOK: Human memory is rarely perfect. 
+PARIS: What are you saying, Tuvok? That Seven is making this up? 
+TUVOK: No, but we must remember that she's experienced hallucinatory
+images before. 
+EMH: That was in direct response to a signal from the ship where she
+was assimilated. She's not having hallucinations now. She's remembering
+what happened to her. I've confirmed this by analysing the specific
+engrammatic activity in her hippocampus. We're not talking about
+conjecture, we're talking about science. 
+JANEWAY: Let's not get bogged down. Seven's made serious accusations
+and I won't dismiss them. If Kovin assaulted her, took a sample of her
+Borg technology, we can't stand by and do nothing. In the wrong hands a
+single nanoprobe could lead to disaster. Doctor, I want you to keep
+searching for any physical evidence to back up Seven's claim. I will
+talk to Kovin. Dismissed. 
+ [Ready
+room] 
+ KOVIN:
+This is offensive and absurd. She's obviously lying. 
+JANEWAY: Why would she do that? 
+KOVIN: Maybe you can answer that. She's your crewmember. First she
+attacks me, then she invents these ridiculous stories, and you try to
+place the blame on me. Is this some kind of negotiating tactic? 
+JANEWAY: I have no hidden agenda. I'm simply trying to clarify what
+happened. 
+KOVIN: I told you already. We went to my laboratory to adjust the
+guidance system on the particle beam rifle. 
+JANEWAY: And that took two hours? 
+KOVIN: She insisted absolute precision. 
+JANEWAY: We've confirmed that Seven was exposed to an intense thoron
+discharge. 
+KOVIN: She was, after the rifle's power cell overloaded. We reported
+the accident immediately. 
+JANEWAY: She now remembers that you fired the weapon at her
+deliberately. 
+KOVIN: That's preposterous. 
+JANEWAY: The Doctor now tells me the blast could have been enough to
+render her unconscious. 
+KOVIN: But it didn't. We were both startled for a moment. And after I
+apologised for the accident, she asked if I had a dermal regenerator,
+which I did, and I used on her arm. The one with the mechanical
+implants. 
+JANEWAY: Which you recognised as Borg. 
+KOVIN: I was aware she'd been a Borg. She told me herself. 
+JANEWAY: Did you ever express curiosity in that technology, or try to
+examine it more closely? 
+KOVIN: No. 
+JANEWAY: You never considered the potential value it might have as a
+weapon? 
+KOVIN: Is that what you think I've done? 
+JANEWAY: You may not realise how dangerous Borg technology can be. If
+you've taken even a single nanoprobe, I need to know about it right
+now. 
+KOVIN: I haven't taken anything. 
+JANEWAY: I'd like to examine your laboratory to be absolutely sure. 
+KOVIN: No. This has already gone too far. 
+JANEWAY: Then I'll have to contact the authorities. Maybe they'll be
+more helpful. 
+KOVIN: Are you willing to risk our trade agreement all on the basis of
+one crew member's delusions? 
+JANEWAY: Yes. Now, are you going to cooperate with our investigation? 
+KOVIN: I don't seem to have much choice. 
+ [Tuvok's office] 
+ TUVOK:
+You stated that the rifle's power cell overloaded as a result of a
+faulty oscillator adjustment. 
+KOVIN: That's right. 
+TUVOK: Can you describe in more detail how that occurred? 
+KOVIN: I was showing her how to polarise the emitter matrix. I must
+have tuned the induction frequency too high. 
+TUVOK: Were you unfamiliar with that procedure? 
+KOVIN: No. I have done it a hundred times. It was a careless mistake.
+How many times do I need to apologise? 
+TUVOK: I am not seeking a statement of remorse. 
+KOVIN: Then what do you want? Are you trying to catch me in a lie?
+Trick me into confessing? You can't, because there's nothing for me to
+confess! I haven't done anything wrong. 
+TUVOK: One of our crew members claims that you have. 
+KOVIN: Your crewmember, Seven of Nine, she's very fortunate. 
+TUVOK: How so? 
+KOVIN: She has an entire crew leaping to her defence. I have no one. 
+TUVOK: The Entharan representative will be here shortly. 
+KOVIN: You mean the Magistrate? He won't help me. He's more interested
+in protecting diplomatic relations with people like you. 
+TUVOK: Surely he'll want to know the truth. That's all we're seeking. 
+KOVIN: You don't understand. On my world, we depend on trade with alien
+species. There are strict protocols about those relationships. Even
+being accused of violating them is a serious offence. 
+TUVOK: You will have the opportunity to refute any charges. 
+KOVIN: It won't matter. Once they're made, the damage is done. I won't
+be trusted any longer. I'll be ruined. Please, I never hurt your crew
+member. Don't do this. 
+TUVOK: I'm afraid I have no choice. But I assure you our investigation
+will be conducted in a fair and impartial manner. 
+KOVIN: You strike me as a man of your word. If you tell me I won't be
+prejudged, then I believe you. 
+ [Sickbay]
+ EMH:
+How are you feeling? 
+SEVEN: I am undamaged. 
+EMH: But how do you feel? Seven, your physical scars have healed, but
+the psychological effects are still there. You'll have to deal with
+them. 
+SEVEN: For what purpose? 
+EMH: In order to heal. Kovin attacked you, violated your rights as an
+individual. It's important that you recognise that, so you can
+understand any hostility or resentment you might be feeling. 
+SEVEN: Resentment is a human trait. It has no structure, no function. I
+want no part of it. 
+EMH: You're going to have to begin accepting the fact that your human
+feelings exist, and that suppressing them can damage you. 
+SEVEN: If I am not aware of these feelings, how can I express them? 
+EMH: Let me ask you this. What would have happened if Kovin had tried
+to take Borg technology directly from the Collective? 
+SEVEN: He would have been assimilated. 
+EMH: Precisely. Which is why he chose you. He could get what he wanted
+without running any risks. 
+SEVEN: It was my individuality which made me vulnerable. 
+EMH: Exactly. He violated that individuality. What he did is an affront
+to everything you are, Borg and Human. 
+SEVEN: It was the act of a coward. 
+EMH: Yes! Someone who was willing to use you in the cruellest way so
+that he could create new weapons and sell them. 
+SEVEN: I believe I'm beginning to experience anger. Anger toward Kovin.
+EMH: Good. That's a perfectly healthy, normal response. And when Kovin
+gets what he deserves, you're going to feel much better. 
+ [Kovin's
+laboratory] 
+ KOVIN:
+Right this way, Magistrate. My laboratory. 
+EMH: There are no examination tables. 
+KOVIN: I told you, just work benches. 
+TUVOK: Is this the entire facility? 
+KOVIN: Yes. 
+EMH: We should scan for signs that the room may have been altered
+recently. During her regression, Seven described instruments similar to
+these. 
+KOVIN: Of course she did. She was here. 
+EMH: She said a device like this was used to remove her optic implant. 
+KOVIN: That's a micro-calliper. I used it to remove the casing over the
+guidance system on the particle beam rifle. 
+EMH: And isn't this an electro-dynamic probe? 
+KOVIN: Yes. 
+EMH: Hmm. It's equipped with a monofilament stimulator. Could it be
+used to manipulate the neurotransmitter levels in a human brain? 
+KOVIN: Not as it is. 
+EMH: But with the proper modifications? 
+KOVIN: With the proper modifications I could reconfigure your comm.
+badge to manipulate neurotransmitters. What's your point? 
+EMH: I believe you've just made it. There is cellular residue on many of
+these instruments. It matches Seven's genome. With your permission,
+sir, I'd like to take these tools back to Voyager where I can run more
+conclusive scans. 
+MAGISTRATE: Take whatever you need. 
+TUVOK: Doctor, there are a number of Borg nanoprobes on the surface of
+this table. 
+EMH: I'll just collect a sample. Hmm. 
+KOVIN: That's where her arm was hit when the rifle overloaded. 
+TUVOK: The dispersal pattern is consistent with a dermal rupture. 
+EMH: These nanoprobes were recently regenerated. If this were nothing
+more than cellular residue from Seven's injury, the nanoprobes would be
+dormant. But these have been activated in a very specific pattern. 
+MAGISTRATE: I've seen enough. Kovin, there is sufficient evidence here
+to detain you pending official proceedings. 
+KOVIN: No. Please. No. (Kovin grabs a hand weapons.)KOVIN: Stay where you are. 
+MAGISTRATE: Kovin, don't! 
+KOVIN: I trusted you. You said it would be an impartial investigation.
+But you're all determined to find what you want to find. Well, I'm not
+going to let this happen. (Kovin beams himself away.)
+TUVOK: Tuvok to Voyager. 
+JANEWAY [OC]: Janeway here. 
+TUVOK: Mister Kovin has transported out of the laboratory. 
+ [Bridge]
+ TUVOK
+[OC]: Can you track his present position? 
+JANEWAY: Stand by. 
+KIM: I'm picking up a transporter signature, three hundred kilometres
+above the surface. 
+PARIS: Captain, there's a ship powering it's engines at those
+coordinates. 
+JANEWAY: Magistrate, do you want us to follow him? 
+ [Kovin's
+laboratory] 
+MAGISTRATE: Yes, but I'd like to join you. 
+JANEWAY [OC]: Very well. We'll beam you to Voyager. Stand by. 
+ [Bridge]
+ PARIS:
+Kovin's ship is on a heading of one eight mark two five. 
+JANEWAY: Set an intercept course. Get ready to lock on a tractor beam. 
+CHAKOTAY: He's only at half impulse. His ship may not have warp
+engines. 
+PARIS: We're at nine thousand kilometres and closing. 
+CHAKOTAY: I'm engaging the tractor beam. (Kovin fires a bright light at Voyager.)
+PARIS: I can't find him. All of my sensor readings have disappeared. 
+KIM: He generated a photonic pulse. It took them offline. We'll have to
+reinitialise the entire sensor array. 
+JANEWAY: Do it. Our investigation has suddenly turned into a manhunt. 
+CHAKOTAY: The fact that he's running shows that he's got something to
+hide. Until we find out what that is, we can't risk letting him go. 
+Captain's log, stardate 51679.4. We've detected the warp signature from
+Kovin's ship and we're now in pursuit. In the meantime, Tuvok and I
+have been examining the tools from Kovin's lab. 
+ [Medical lab]
+
+JANEWAY: This isn't getting us anywhere. Seven's cellular residue is on
+everyone of these, but that would be true if she simply handled them. 
+TUVOK: My examination of the rifle is equally inconclusive. It may have
+overloaded accidentally, or not. 
+JANEWAY: I'm getting a bad feeling about this, Tuvok. We aren't finding
+anything that implicates Kovin. 
+TUVOK: I told him our investigation would be impartial. I believe it
+has been. 
+JANEWAY: It has, but I'll admit I had some preconceptions about him.
+They may have influenced my judgment. The strongest evidence so far is
+the batch of nanoprobes the Doctor found. The fact that they were
+regenerated suggests that Kovin was experimenting with them. 
+TUVOK: We don't know a great deal about the interaction between
+nanoprobes and Borg physiology. It might be worthwhile to simulate the
+effect of the rifle blast on Seven's arm and see what happens to the
+nanoprobes. 
+JANEWAY: Good. Maybe that'll give us some answers.;[Sickbay]EMH: Is this really necessary, Captain? She's suffered enough trauma
+already. 
+JANEWAY: We don't want to make accusations against an innocent man. We
+have to do everything we can to find some concrete evidence. 
+SEVEN: He's not an innocent man. I know what he did to me. 
+TUVOK: But we must have proof, and this experiment may provide us with
+it. We've configured this hypospray to simulate the energy of a thoron
+blast. We'll collect thin layers of your skin tissue and examine the
+effects. It won't be painful. 
+SEVEN: I'm not afraid. I am angry. 
+JANEWAY: I know. Try to be patient. We may have some answers soon. (Tuvok injects Seven's hand.)JANEWAY: All
+right, let's see what we've got.(Janeway puts a slide under a microscope.)JANEWAY:;I think you'd better take a look. 
+SEVEN: What do you see? 
+EMH: The nanoprobes are regenerating in exactly the same pattern we saw
+in Kovin's laboratory. It appears to be a spontaneous response which
+could have been caused by the energy released from the thoron weapon.
+SEVEN: It doesn't matter. Kovin is guilty. 
+JANEWAY: Seven, there's no doubt in my mind that you believe what
+you're saying. But is it possible, just possible, that the memories you
+and the Doctor recovered aren't accurate? 
+SEVEN: How could that be? 
+JANEWAY: During your time with the Borg, you were subjected to invasive
+medical procedures. You undoubtedly witnessed other victims being
+assimilated. Could that be what you're remembering? 
+SEVEN: You know that's not right. Tell them. 
+EMH: Everything led me to believe that you were a victim. Your extreme
+response to Kovin in Engineering, your irrational fear when I was
+examining you. Something prompted that behaviour, and I believed it was
+a repressed memory of your ordeal with Kovin. 
+SEVEN: That is what it was. 
+EMH: But if I'm to be impartial, I have to acknowledge that your
+neurology is still something of a mystery to me. I can't be certain
+what triggered those memories, and we can't ignore the fact that this
+evidence supports Kovin's story, and not yours. 
+SEVEN: You were the one who helped me to understand what happened and
+now you're denying it. 
+JANEWAY: Seven, no one's abandoning you, but we have to do what's
+right. We have to find Kovin and tell him what we've learned. 
+SEVEN: The Doctor told me I would feel better when Kovin gets what he
+deserves. I want him to be punished. I won't settle for anything
+less. 
+ [Bridge]
+
+JANEWAY: Mister Paris? 
+PARIS: He's in range. 
+JANEWAY: Visual. Hail him. 
+TUVOK: No response. He's charging weapons. 
+JANEWAY: Open a channel, all frequencies. Mister Kovin, this is Captain
+Janeway. We believe we've made a mistake in accusing you. We only want
+to correct the situation. Stand down your weapons. 
+TUVOK: He's responding. 
+KOVIN [on viewscreen]: Stop your pursuit. I can damage your ship. 
+JANEWAY: We're not here to take you by force. 
+KOVIN [on viewscreen]: Then let me go. 
+MAGISTRATE: Kovin, listen to me. The proceedings must be resolved. 
+KOVIN [on viewscreen]: This is a trap. 
+JANEWAY: No. We've discovered information that supports your story. 
+KOVIN [on viewscreen]: I don't believe you. 
+EMH: We've re-examined the evidence. Finding the nanoprobes led us to
+the wrong conclusion. We know now that your thoron rifle did overload.
+Please. 
+TUVOK: He's firing a spread of photon pulses. 
+KIM: Shields down to eighty two percent. 
+JANEWAY: Back off. Give him some breathing room. 
+PARIS: He's coming about, heading right for us. 
+CHAKOTAY: Direct hit to the power grid. 
+MAGISTRATE: Innocent or not, he's going to destroy your vessel. 
+CHAKOTAY: Captain? 
+JANEWAY: He's come under enough fire from us already. Harry, try to
+beam him off his ship. 
+KIM: He's thrown up a scattering field. I can't get a lock. 
+JANEWAY: Keep trying. (Whumph!)
+CHAKOTAY: Shields are down. 
+TUVOK: He's shunting all power to his photonic emitters. 
+MAGISTRATE: We must protect ourselves. Disable his ship. 
+JANEWAY: No! Evasive manoeuvres. Hard to port, full thrusters 
+PARIS: Aye. 
+KIM: I've almost got a lock on him. A few more seconds. 
+TUVOK: He's charging weapons again. Captain, his emitters are
+overloading. All his systems are destabilising. 
+JANEWAY: Open a channel. Kovin, shut down your scattering field. Let us
+beam you aboard. Kovin! 
+CHAKOTAY: He's firing. (Kovin's ship goes KaBOOM!)
+JANEWAY: Harry? 
+KIM: I can't find anything to lock onto, Captain. 
+MAGISTRATE: There's nothing more we could have done. 
+JANEWAY: Stand down Red alert. Mister Paris, set a course back to the
+Entharan colony.(Janeway gives the EMH then Seven stern Looks before sitting down.) 
+ Chief
+Medical Officer's log, stardate 51658.2. I've spent the past three days
+being cross-examined by the Entharan authorities, but the matter is
+finally resolved. 
+ [Doctor's office]
+ SEVEN:
+Doctor. 
+EMH: Yes. 
+SEVEN: I'm here for my weekly maintenance. 
+EMH: Oh, of course. This way, please. [Sickbay]EMH: Metabolic rate is stable. Electro-optic implant is aligned. Your blood pressure is slightly off,
+but within tolerance. You're in perfect health. See you next week. 
+SEVEN: I do not feel perfect. 
+EMH: What do you mean? 
+SEVEN: I am preoccupied by Kovin's death. 
+EMH: Join the club. It's all I can think about. 
+SEVEN: As a Borg, I was responsible for the destruction of countless
+millions and I felt nothing. But now, I regret the destruction of this
+single being. 
+EMH: It's called remorse, Seven. It comes into play when you make a
+mistake, and you feel guilt about what you've done. Another new emotion
+for you to experience. 
+SEVEN: I do not enjoy this remorse any more than I enjoyed anger. Will
+the feeling subside? 
+EMH: Yes. But not quickly. 
+SEVEN: I would rather not have to wait. 
+EMH: I'm afraid you don't have much choice. (Seven leaves.)EMH: But maybe I do. 
+ [Ready room] 
+ EMH:
+I've isolated the algorithms responsible for my desire to expand beyond
+my original programming. I want to delete them. 
+JANEWAY: Why? 
+EMH: It was my urge to experiment, my infatuation with improving
+myself, that led to this tragedy. I fancied myself a psychologist, a
+ship's counsellor. But I wasn't prepared for the complexities that come
+with such a responsibility. In my enthusiasm to help Seven of Nine, I
+lost my medical objectivity. I became a self-righteous advocate. I
+didn't stop to think for one second that I might be wrong. That mustn't
+happen again. 
+JANEWAY: You want to go back to the state you were in when we first
+activated you? 
+EMH: I'll still be capable of treating any and all medical conditions,
+but without the risk of overstepping my bounds. It's for the best,
+Captain. 
+JANEWAY: Oh, I'm not so sure. This crew has benefited greatly from your
+improvements over the years. Request denied. 
+EMH: Captain. 
+JANEWAY: I won't turn back the clock because of one mistake, no matter
+how serious. And no matter how you might feel. 
+EMH: I'm a physician. I'm supposed to preserve life, not destroy it. I
+can't live with the thought that I might do it again. 
+JANEWAY: With any luck, that knowledge will prevent it from happening
+again. We all rallied around Seven, Doctor, myself included. I wanted
+her to know she was part of this family, that we would support her,
+fight for her, no matter what. We let our good intentions blind us. We
+all bear responsibility for Kovin's death, and we all have to live with
+it. But to delete that burden would be the last thing any of us should
+do.  
+
+

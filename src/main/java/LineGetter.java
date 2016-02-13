@@ -48,22 +48,16 @@ public abstract class LineGetter {
 	}
 
 	public void nextEpisode() {
-		if (PositronicBrain.nextEpisodeNumIsSkipped(currentEpisodeNum, series))
+		if (PositronicBrain.episodeNumIsSkipped(currentEpisodeNum + 1, series))
 			currentEpisodeNum++;
-		else if (PositronicBrain.isAtVoyagerGap(currentEpisodeNum, series))
-			currentEpisodeNum = PositronicBrain.getNumPastVoyagerGap(currentEpisodeNum);
+		else if (PositronicBrain.isAtVoyagerGap(currentEpisodeNum + 1, series))
+			currentEpisodeNum = PositronicBrain.getNumPastVoyagerGap(currentEpisodeNum + 1);
 
 		currentEpisodeNum++;
 		try {
-			String currentEpisodeNumString = Integer.toString(currentEpisodeNum);
-
-			//Enterprise's scripts use two digits for the production number, so we need to pad the episode number
-			//	with a 0 for the single-digit episodes.
-			if (series == Series.Enterprise && currentEpisodeNum < 10)
-				currentEpisodeNumString = "0" + currentEpisodeNum;
 
 			currentEpisode = new BufferedReader(new FileReader("./scripts/" + series.toString() +
-					"/Episode " + currentEpisodeNumString + ".txt"));
+					"/Episode " + currentEpisodeNum + ".txt"));
 		} catch (FileNotFoundException e) {
 			System.out.println("Could not find script file, downloading now");
 			ScriptScraper.downloadEpisodes(series);

@@ -1,0 +1,831 @@
+Episode Number: 209
+
+The Voyager Transcripts - Prototype
+Prototype
+Stardate:
+Unknown
+Original Airdate: January 15 1996
+
+ [Transporter Room]
+ (In
+deep space, something watches Voyager approach. It is then beamed
+aboard, and we get its viewpoint in black and white.) 
+TORRES: It's extraordinary. 
+TUVOK: I must remind you that it is also a potential security risk. 
+TORRES: It's losing power. I'd like to move it to Engineering to see if
+I can repair it before it drains completely. 
+TUVOK: I suggest we allow the power to drain. We should take the
+opportunity to examine it while it is idle. Then we can decide if it is
+wise to repair it. 
+TORRES: Captain, this thing has a completely unfamiliar power source.
+Once it stops working it's very possible I won't be able to get it
+going again, and we'll have lost an opportunity to study a new
+technology. 
+JANEWAY: This is a ship of exploration, Mister Tuvok. 
+ [Engineering]
+ (Still
+black and white, from the object's viewpoint.) 
+TORRES: The power's surging. If we can't find a way to stabilise it,
+we're going to lose it. 
+KIM: What about an interface with an EPS power conduit? 
+TORRES: Well, the energy signatures are incompatible, but it might buy
+us some time. Okay, let's give it a try. Two second burst, five percent
+maximum output. On my mark. Now. We're losing it. 
+KIM: Maybe we're overloading it's systems. 
+TORRES: Let's try a longer burst at lower power. 
+KIM: Got it. Five seconds at three percent, on your mark. 
+TORRES: Now. I think it's working. EPS flow is holding steady. EM field
+leakage is minimal. 
+KIM: We'll have to watch the pressure on the connectors. 
+TORRES: Let's try to keep it below eighty five percent. 
+KIM: Flux capacitance is spiking intermittently, but I don't think
+that's a problem. 
+TORRES: Let's reinforce the power conduit coupling just to be on the
+safe side. 
+(The object zooms in on a monitor to reveal that it is a silver robot.
+After the opening titles, we're back to colour and normal viewpoint.) 
+TORRES: It's suffered a lot of damage, but I think the EPS charge will
+keep it running for at least eighteen hours. 
+KIM: It's not a cyborg. It's completely robotic. No organic components
+of any kind. 
+TORRES: This looks like some kind of programming centre. 
+KIM: But I'm not detecting any pathways for transmitting information. 
+TORRES: It's got arms, legs, we saw it move it's head. It's clearly
+designed to perform motor functions. So where did those commands come
+from? 
+KIM: Maybe it needs to interface with a outside source. 
+TORRES: Speaking of sources, this energy module seems to be what powers
+the entire mechanism. It isn't designed to run on EPS energy, it runs
+on some kind of super-conducting plasma. If we keep charging it, we may
+end up destroying it. 
+(The robot starts making stacatto noises.) 
+TORRES: It's trying to communicate. 
+KIM: We don't know that. It may just be some kind of recording. 
+3947: One one one one one. Pralor Pralor. One one. Pralor Pralor Pralor
+Pralor. 
+TORRES: What are you trying to say? What's Pralor? If you can hear me,
+try to move, try to move your arm. 
+(Torres waves her own arm in front of its eyes.) 
+KIM: B'Elanna, we don't even know if it can see you, much less
+understand a word you're saying. 
+TORRES: We've got to figure out a way to fix it. 
+KIM: We've been trying for hours. We need a break. The EPS charge
+should hold till morning. 
+TORRES: You go ahead. I could use some time alone to think. 
+KIM: If you're staying, I'm staying. 
+TORRES: Get some rest, Harry. 
+KIM: You may think you're tougher than everybody else, B'Elanna Torres,
+but I can go without sleep just as long as you can. 
+TORRES: Don't make me laugh, Starfleet. And don't make me pull rank on
+you either. 
+KIM: If you insist. But let me know if you come up with anything,
+Lieutenant. 
+ Chief
+Engineers log, supplemental. I've tried thirteen different methods of
+reinitialising the robot's power source and I'm still having no luck,
+so I've decided to go to the mess hall to recharge my own declining
+energy reserves. 
+ [Mess
+hall] 
+ TORRES:
+Neelix, I need another pot of coffee. 
+NEELIX: Even though breakfast isn't officially served for another hour
+and a half, I'd be happy to pour you a glass of Traggle nectar. I will
+even fix you my special Jibalian seven spice omelette. 
+TORRES: Just coffee. 
+NEELIX: I'm sorry, B'Elanna, but two pots of Landras blend is the
+absolute limit. 
+TORRES: You're cutting me off? Oh, I guess you're right. It was
+starting to taste almost palatable. 
+NEELIX: Still no idea how to revive our mechanised guest. 
+TORRES: All I've been able to do is postpone the inevitable. The
+constant power depletion is like a bleeding artery, and I haven't got a
+tourniquet. 
+NEELIX: I remember when I was trying to perfect the recipe for my
+Jibalian omelette. I tried everything, a little more spith basil, a
+little less prishic, but I couldn't get it right. Finally I fell asleep
+from exhaustion right there at the counter. And then, in a dream, it
+came to me. I was using six spices, but the omelette needed seven. 
+TORRES: Let me guess. Leola root. 
+NEELIX: Nimian sea salt, actually. 
+TORRES: Salt? 
+NEELIX: Yes, salt, the most common spice in the galaxy. But I was too
+tired, so I couldn't see it. 
+TORRES: That is a very interesting story, Neelix. Now how about some
+more coffee. 
+NEELIX: To bed. I said, to bed. 
+TORRES: I'm going. I'm going. 
+ [Engineering]
+
+(Engineering is deserted. Torres goes to the robot, which is lying on a
+bench by the warp core, and knocks on its head.) 
+TORRES: Anybody home? What's that? You think I should go to bed too?
+Well, I guess I'm outnumbered. 
+(Torres goes to bed, but doesn't lie there long.) 
+ [Sickbay]
+ TORRES:
+Computer, activate Emergency Medical Holographic Programme. 
+EMH: Please state the nature. If there has been a change in the
+official dress code I certainly wish someone would have informed me. 
+TORRES: This is what I sleep in. I didn't have time to change. 
+EMH: I see. May I assume your haste is an indication that you have a
+medical problem of some kind. 
+TORRES: An engineering problem actually, but I thought you might have
+some insight.  EMH: Hmm. I shouldn't have to remind you, I'm
+a doctor 
+TORRES: Not an engineer, right, but this isn't a typical engineering
+problem. I've been working on trying to repair a robot. 
+EMH: Ah yes, the mechanical man. Kes told me about it. Fascinating. 
+TORRES: He's about to die. 
+EMH: Die? 
+TORRES: Die, stop functioning, whatever, unless I can figure out a way
+to sustain his main energy source. 
+EMH: What kind of energy source are we talking about? 
+TORRES: It's some sort of chromo-dynamic module powered by a tripolymer
+plasma, but the plasma is contaminated. It's decaying. 
+EMH: Hmm. Like diseased blood. 
+TORRES: Right. It can't retain enough energy to keep the module
+running. 
+EMH: Have you considered a transfusion? 
+TORRES: You mean replacing the plasma itself? Well, that was one of my
+first ideas, but where do I get my hands on a polymer plasma composed
+of elements I didn't even know existed twenty four hours ago? 
+EMH: Aren't Voyager's engines powered by warp plasma? 
+TORRES: It's, it's a very different substance. Too highly charged. It
+would burn out the robot's systems in seconds. It would be like trying
+to give a Bolian a blood transfusion from a Vulcan. 
+EMH: Which ordinarily would kill the unfortunate Bolian, but there have
+been instances when artificial blood was unavailable and existing blood
+cells were genetically altered for inter-species transfusions. 
+TORRES: It's a good idea, but warp plasma radiates at too high a
+frequency to alter electrochemically. Unless. 
+EMH: Go on. 
+TORRES: I could modify a series of anodyne relays, attach them directly
+to the robots power module. They could act as a sort of regulator to
+make the warp plasma compatible with the robot's energy matrix. 
+(Torres leaves.) 
+EMH: That's exactly what I was going to suggest. 
+ [Engineering]
+ TORRES:
+That's the last of the relays. 
+KIM: Plasma injector is sealed. 
+JANEWAY: This is your show, Lieutenant. Whenever you're ready. 
+TORRES: Activating the relays. All right, Harry, start the infusion.
+Twenty percent nominal flow. 
+KIM: Initiating plasma flow. 
+TORRES: Energy levels are up fourteen percent. 
+JANEWAY: The relays are holding. 
+TORRES: Harry, give it a little more juice. 
+KIM: Got it. I'm taking it to thirty percent. Thirty five percent. 
+TORRES: Wait, the energy levels are rising too fast. We're going to
+burn out it's systems. 
+KIM: But it needs more plasma. 
+JANEWAY: What about increasing the capacitance of the relays? 
+TORRES: Let's give it a try. It's stabilising. Hold the flow right
+there. Let's see what happens. The plasma is circulating. The
+programming centre is activated. I think we may have done it. 
+(The robot takes hold of Torres' arm.) 
+3947: Please identify yourself. 
+TORRES: I'm Lieutenant B'Elanna Torres of the Federation Starship
+Voyager. 
+3947: I'm automated unit 3947. Thank you for reactivating me,
+Lieutenant B'Elanna Torres. 
+ Chief
+Engineer's log, supplemental. the robot's power module is continuing to
+function normally using plasma from our warp engines. Repairing it's
+systems has taught me more about robotics than I ever could have learnt
+at Starfleet Academy. 
+ [Engineering]
+ TORRES:
+I think we're past the critical stage. 
+3947: I concur. According to my self-diagnostic systems Automated
+Personnel Unit 3947 is currently functioning at sixty eight percent of
+peak operating capabilities. 
+TORRES: Automated Personnel Unit 3947 is an extremely well designed
+machine. 
+3947: Lieutenant B'Elanna Torres is an extremely proficient humanoid. 
+TORRES: So how did you end up floating in space so badly damaged? 
+3947: I was operating an asteroid mining pod. It exploded. 
+TORRES: Do you know what caused the explosion? 
+3947: I am unable to access that information. My memory cells are not
+yet operating at optimal efficiency. 
+TORRES: Do you remember where you come from? 
+3947: I am stationed aboard a Pralor vessel. 
+TORRES: Well, we'll do our best to find your ship and return you to
+your people. 
+3947: Thank you. 
+TORRES: I'm hoping that the memory loss is only temporary. Once the new
+plasma has the chance to fully integrate into your systems, I think
+you'll be pretty close to optimal. 
+3947: New plasma? 
+TORRES: Yes, I adapted your module to accept our warp plasma as an
+energy source. 
+3947: You repaired my power module. Are you a Builder? 
+TORRES: A builder? Well, I guess you could say that. I'm an engineer.
+I'm responsible for repairing and maintaining all the systems on the
+ship. 
+3947: Only the Builders were capable of constructing or repairing power
+modules. 
+TORRES: The Builders are the people who created you? 
+3947: Yes. 
+TORRES: And they're humanoids like me? 
+3947: Yes, like Lieutenant B'Elanna Torres. You could create a new
+power module. 
+TORRES: You don't need a new module. The one I just fixed will work
+fine now. 
+3947: The new power module would not be for me. It would be a prototype
+for the construction of additional automated units. 
+TORRES: Can't the Builders make additional units? 
+3947: The Builders no longer exist. 
+ [Ready
+room] 
+ TORRES:
+Apparently thousands of them were built as service modules, but the
+race who created them, these Builders, were killed off decades ago in a
+war. 
+JANEWAY: Leaving the automated units to fend for themselves. 
+TORRES: Now they're wearing out, breaking down. They've learnt to make
+repairs to themselves, some pretty complex, but the construction of a
+power module, the device that sustains them, is beyond their grasp.
+It's an incredible challenge, Captain, but with enough time to study
+their systems, I might be able to do it. 
+JANEWAY: I don't doubt your abilities, B'Elanna, but helping them
+reproduce is a clear violation of the Prime Directive. 
+TORRES: They've expressed a desire to procreate. That's basic to any
+life form. 
+JANEWAY: I'm not saying they don't have the same rights as any organic
+species. That's not the issue here. 
+TORRES: Are you sure? Suppose they were organic but they had become
+sterile, and we had a treatment that would enable them to start
+reproducing again. Would you withhold that treatment? 
+JANEWAY: Maybe. I'd have to know more about the circumstances. But
+we're not talking about treating a disorder here, are we? 
+TORRES: What's the difference? 
+JANEWAY: Unlike a species whose become sterile, the robots never had
+the ability to reproduce. What you're talking about is giving them new
+abilities, which is the equivalent of altering their genetic structure.
+TORRES: To correct a flaw. 
+JANEWAY: You can't call it a flaw. This is the way they were designed. 
+TORRES: I'm trying to save them from extinction. 
+JANEWAY: Unfortunately extinction is often the natural end of
+evolution. 
+TORRES: So you're just willing to let their entire society die off. 
+JANEWAY: We don't know that's going to happen. If they're adaptable, as
+you say, and capable of educating themselves, they might very well
+learn to build a power module themselves some day. 
+TORRES: Some day could be too late. There are only a few hundred of
+them left. 
+JANEWAY: I feel for the robot's plight, but what you are proposing is
+exactly the kind of tampering the Prime Directive prohibits. We know
+almost nothing about these creatures or the race that built them. What
+would be the consequences of increasing their population, both to their
+own civilisation and others in this quadrant? Who are we to swoop in,
+play God and then continue on our way without the slightest
+consideration of the long term effects of our actions? 
+TORRES: Captain! 
+JANEWAY: B'Elanna, I share your scientific curiosity and I admire your
+compassion, but the answer is no. 
+ [Engineering]
+ 3947: I
+do not concur with your Captain's decision. 
+TORRES: She's following our Prime Directive. 
+3947: Define Prime Directive. 
+TORRES: It forbids us to interfere in the natural development of other
+cultures. 
+3947: The automated units were not created naturally. We were built.
+You can help us build more. 
+TORRES: Captain Janeway doesn't think that's a good idea. 
+3947: But Lieutenant B'Elanna Torres does. 
+TORRES: Maybe. I don't know. I'd like to try, but I can't. 
+3947: Without your help, we will not survive. I thought Lieutenant
+B'Elanna Torres was a Builder. 
+TORRES: So did I. We've located your ship. We should be in
+communications range in about an hour. 
+3947: Thank you. 
+ [Bridge]
+ PARIS:
+The alien vessel is entering visual range, Captain. 
+JANEWAY: Yellow alert. Slow to one quarter impulse. Put them on screen,
+Ensign Kim. 
+KIM: Aye, Captain. 
+JANEWAY: Magnify. 
+TUVOK: We're being scanned, Captain. 
+JANEWAY: That's all right. Let them take a look. Open a channel. 
+6263 [on viewscreen]: Pralor Automated Personnel Unit 6263 requests you
+identify yourselves. 
+JANEWAY: I'm Captain Kathryn Janeway of the Federation Starship
+Voyager. 
+6263 [on viewscreen]: What are your intentions, Captain Kathryn
+Janeway? 
+JANEWAY: We rescued one of your crewmembers, unit 3947, and we'd like
+to return him to your ship. 
+6263 [on viewscreen]: We'll prepare to receive the unit. Thank you for
+your assistance. 
+(Transmission ends.) 
+PARIS: Very polite, these automated units. 
+ [Transporter
+Room] 
+ TORRES:
+Captain Janeway gave me permission to give you some extra warp plasma,
+in case the plasma we infused into your system starts to degrade. 
+3947: Thank you. 
+TORRES: And you'll have to remodulate the anodyne relays periodically. 
+3947: You are repeating instructions you have already given me,
+B'Elanna. 
+TORRES: I'm just making sure. Well, I guess this is goodbye. 
+(Torres holds out her hand. 3947 takes it and then there is a whirring
+sound.) 
+TORRES: What are you doing? 
+(Energy flows over Torres, and she collapses into 3947's arms. It then
+zaps the transporter operator.) 
+ [Bridge]
+ KIM:
+Captain, I'm detecting a chromo-dynamic energy discharge in Transporter
+room two. 
+JANEWAY: Bridge to Transporter room two. Janeway to Torres. 
+(Tuvok leaves.) 
+CHAKOTAY: Captain, someone's initiating a transport. It's Torres and
+the robot. 
+JANEWAY: Override. 
+KIM: I can't block it. The patterns are already in the buffer. They're
+gone, Captain. 
+JANEWAY: Transport her back now, Mister Kim. 
+KIM: I can't get a lock on her. 
+TUVOK: They have erected some kind of subspace defence field around
+their vessel. Our targeting scanners cannot penetrate it. 
+JANEWAY: Hail them. 
+KIM: They're not responding. 
+JANEWAY: Open a channel on wideband subspace. 
+KIM: Channel open. 
+JANEWAY: This is Captain Janeway. Your abduction of our crewmember is a
+clear act of aggression. If you do not return her immediately, we will
+be forced to retaliate. Confirm that they've received the transmission,
+Mister Kim. 
+KIM: They heard us all right. They're just not answering. 
+JANEWAY: Mister Tuvok, power the forward phaser banks. 
+ [Pralor
+vessel] 
+ (A
+metal workbench cum bed moves upright and Torres steps off.) 
+TORRES: What the hell is going on here? 
+3947: This is where you will assist in the creation of the prototype. 
+TORRES: I told you I can't help you. Now return me to my ship. 
+3947: That is not possible. 
+TORRES: Torres to Voyager. 
+3947: Your communication device has been deactivated. I do not wish to
+injure you, B'Elanna. 
+TORRES: I helped you. I reactivated you. Why are you doing this? 
+3947: We require additional automated units to prevent our extinction. 
+TORRES: Captain Janeway won't let you get away with this. 
+3947: It would be inadvisable for your Captain to provoke us. 
+ [Bridge]
+ KIM:
+Still no response, Captain. 
+JANEWAY: Mister Tuvok, any luck penetrating their defence field? 
+TUVOK: Negative. 
+JANEWAY: Commander, is there any sign that they're preparing to attack?
+CHAKOTAY: Their shielding is making it difficult to get clear readings.
+I can't even tell you what their weapons capabilities are. 
+JANEWAY: Mister Tuvok, I don't want you to hit their ship, but I do
+want you to open a hole in their shielding wide enough to transport
+through. 
+TUVOK: Understood. 
+JANEWAY: Mister Kim, match the targeting scanners to the coordinates of
+the phaser fire, and stand by to beam B'Elanna back. 
+TUVOK: Phasers calibrated. 
+JANEWAY: Fire. 
+TUVOK: Their field strength is down to eighty percent. 
+JANEWAY: That's progress. Fire again. 
+(Whumph! The Pralor vessel fires Caretaker-like energy pulses at
+Voyager.) 
+PARIS: Initiating evasive pattern omega six. 
+CHAKOTAY: They're firing some kind of quantum resonance charges,
+Captain. 
+TUVOK: Our aft shields are down to fifty three percent and dropping. 
+KIM: Re-routing power to aft shields. 
+TUVOK: Down to twenty four percent. 
+PARIS: Switching evasive pattern to theta one. 
+JANEWAY: Lieutenant Tuvok, load torpedo bays one through four and stand
+by to fire on my order. 
+ [Pralor
+vessel] 
+ (Torres
+and 3947 are watching the fight on a monitor.) 
+3947: Your Captain has made a tactical error by attacking us. Our
+weapons systems are substantially superior to yours. Your shields are
+failing, your weapons pose no threat to us. 
+ [Bridge]
+ TUVOK:
+Aft shields have been penetrated. 
+CHAKOTAY: We've got to get out of here. 
+JANEWAY: Agreed. We'll try to come back for B'Elanna later. Do it,
+Mister Paris. Warp three. 
+PARIS: Propulsion systems are offline. We're dead in the water. 
+TUVOK: Hull breach on deck six. 
+KIM: Initiating emergency containment field. 
+TUVOK: Environmental control systems are failing. Oxygen levels on
+decks three through seven have dropped to critical. 
+KIM: We've lost artificial gravity on deck eight. 
+CHAKOTAY: Injury reports from all decks. 
+ [Pralor
+vessel] 
+ TORRES:
+You've got to stop this. 
+3947: Your ship opened fire. We are programmed to defend ourselves. 
+TORRES: They're helpless. Can't you see that? 
+3947: Our enemies must be destroyed. 
+TORRES: We are not your enemies. 
+3947: You are not my enemy, B'Elanna, but your Captain is, and your
+crew follows her commands. 
+TORRES: Captain Janeway backed me when I wanted to reactivate you, over
+the objections of her Chief Security officer. You wouldn't even be here
+if it weren't for her. All right, if that's what it will take to stop
+this, I'll do it. I'll build your damned prototype! 
+ [Bridge]
+
+CHAKOTAY: We're losing life support, Captain. 
+TUVOK: The robots have powered down their weapon systems. 
+KIM: They're hailing us, Captain. 
+JANEWAY: On screen. 
+TORRES [on viewscreen]: Captain, is everybody okay? 
+JANEWAY: We'll be all right. What about you? 
+TORRES [on viewscreen]: I've agreed to help them build their prototype.
+JANEWAY: Lieutenant. 
+TORRES [on viewscreen]: I know how you feel about this, Captain, I
+don't like it either. But if I don't do it, they'll destroy Voyager.
+What choice do I have? 
+ [Pralor
+vessel] 
+ 3947:
+These are all the materials necessary to construct a prototype unit.
+You will be provided with whatever additional tools and equipment you
+require. You may access our database and schematic information from
+this computer terminal, but it will not allow you to interface with any
+critical systems. While you are on board, you will have no contact with
+your ship, nor will you leave this room. I will remain here to
+supervise your work. You may proceed. 
+TORRES: Proceed. Right. But the question is, where do I proceed from?
+Let me ask you this. Have any of you ever tried to build a prototype. 
+3947: We have tried, and failed. 
+TORRES: What was the problem? 
+3947: I am unable to explain the failure. We duplicated a power module
+to exact specifications on several occasions, but in all instances the
+energy output of the new module was insufficient to operate a unit. 
+TORRES: And you're sure you reproduced the module exactly? 
+3947: This is a schematic of a power module from a terminated unit.
+This one is from a failed prototype. They are identical. There is no
+reason why one should function while the does not. 
+(Unit 6263 enters.) 
+6263: Unit 3947, what can you report? 
+TORRES: Well, let's see. We've been working for about five minutes so I
+guess we don't have a lot of progress to report. 
+6263: Our sensors indicate that the humanoid vessel will require
+approximately one hundred and forty hours to repair. It is necessary
+for you to complete work on the prototype before that time. 
+TORRES: Why? We don't seem to be any match for you. 
+6263: Our tactical subprocessors indicate a seventy nine percent
+likelihood that rescue will be attempted when sufficient repairs are
+completed. At optimal efficiency your engines are more powerful than
+ours. 
+3947: It is also possible that these humanoids will not make decisions
+based on tactical probabilities. Their cognitive process is
+unpredictable. 
+6263: We will remain on full tactical alert. The humanoid may
+purposefully attempt to delay completion of the prototype hoping she
+will be rescued. 
+TORRES: I don't know if a promise means anything to you people but it
+does to us. I gave you my word that I'd do my best, and I will. 
+3947: According to my observations, the humanoid is operating at
+optimal efficiency. 
+TORRES: Thank you. But I have to tell you there are no guarantees here.
+Building a prototype from scratch is a lot different than repairing a
+broken power module. I don't even know if it's possible. 
+6263: If you fail, you and your people will die. 
+(Unit 6263 leaves.) 
+3947: B'Elanna Torres, 6263 is a Designated Command Unit. He is merely
+following his programming. 
+TORRES: I don't need to be threatened. I told you I'd do my best. 
+3947: I believe you, but unit 6263 does not. He does not know
+Lieutenant B'Elanna Torres as I do. 
+TORRES: Let me see one of those terminated power modules. 
+ [Briefing
+room] 
+ KIM:
+We've managed to repair the hull breach but we have no power on decks
+three through seven. 
+TUVOK: Aft shields are still completely non-functional. 
+KIM: And last but not least, the dilithium matrix is destabilised, so
+we can't get the warp engines running. 
+CHAKOTAY: We're talking about at least another six days of repairs. 
+JANEWAY: We're not sticking around that long. I want a plan to get
+B'Elanna off that ship before she has a chance to finish building the
+prototype. 
+TUVOK: In that case I suggest we make warp drive our priority. Any
+rescue attempt will no doubt necessitate a rapid departure. 
+JANEWAY: Agreed. Mister Kim, can you give me an estimate on repairing
+the dilithium matrix? 
+KIM: How does seventy two hours sound? 
+JANEWAY: Like twenty four hours too long. Dismissed. 
+ [Pralor
+vessel] 
+ TORRES:
+Hand me the sub-micron scanner. Phase coil resonator. Well, I think I
+know why your other prototypes failed, but I'm not sure I know what to
+do about it yet. 
+3947: Explain. 
+TORRES: The automated units are modular. Your parts are identical,
+interchangeable, right? 
+3947: That is correct. 
+TORRES: So if you lose an arm you can replace it with another one, and
+over the years you've learnt to make new arms because they're all the
+same and your programming is sophisticated enough to allow you to
+reproduce what you see. But each power module has a slightly different
+energy signature, so even if you copy this guy's module exactly it
+wouldn't work in any other unit. As far as I can tell, every automated
+unit has a power module with a unique energy code. 
+3947: Can you reprogram the energy codes to make the modules
+interchangeable? 
+TORRES: I don't think so. 
+3947: You have failed. I will inform 6263. 
+TORRES: Hey, do all you automated units give up the minute you hit a
+bump in the road? 
+3947: You have an alternative idea? 
+TORRES: What we've got to do is design a standardised module with a
+uniform energy code that can power any unit. 
+3947: According to my observations, there is now sufficient reason for
+greater optimism. 
+TORRES: You took the words right out of my mouth. 
+ [Bridge]
+ TUVOK:
+Due to the complexity of their defence field and our severe power
+shortage, it is unlikely that we can modify the transporters to beam
+Lieutenant Torres out. 
+CHAKOTAY: But if we can manoeuvre inside the field 
+KIM: Our transporters could get the job done. 
+JANEWAY: Is that a viable option? 
+PARIS: For a shuttlecraft, it may be. 
+JANEWAY: They were able to knock out Voyager's shields in a matter of
+minutes. A shuttle would be even more vulnerable. 
+TUVOK: It would be advisable to create a diversion of some sort to take
+their attention away from the shuttle. 
+CHAKOTAY: Attack them again? 
+JANEWAY: I don't want to risk that a second time. 
+PARIS: I don't need a diversion. Just give me a chance, I'll get her
+out of there. 
+CHAKOTAY: You don't mind if the rest of us give you a little help, do
+you, Paris? I'd hate to lose another shuttle. 
+PARIS: Your concern for my welfare is heartwarming. 
+JANEWAY: In another twelve hours our warp engines will be back online.
+I'd like to come up with a diversion before then. Okay, gentlemen? 
+ [Pralor
+vessel] 
+ TORRES:
+So far so good. I'm not getting any feedback from the motor circuits.
+Are you going to be the obstetrician of this unit, 3947? 
+3947: Please rephrase the question. 
+TORRES: If this works, will you be in charge of assembling the new
+units? 
+3947: I am programmed as a ship's maintenance unit. I have no knowledge
+of design, nor do any of the other automated personnel. 
+TORRES: Sounds like you just volunteered for new duty. I hope you're
+watching closely. 
+3947: I am observing your work. However I do not possess your
+improvisational capabilities. 
+TORRES: Well, once we have the prototype, all you'd have to do is copy
+it. Tell me something, thirty nine. Can I call you thirty nine? 
+3947: I am automated unit 3947. 
+TORRES: Fine. 3947. Did you wake up on a bench like this one? How long
+have you been alive? 
+3947: I have been in service one million three hundred and fourteen
+thousand eight hundred and seven hours and thirty three minutes. I was
+activated by a Builder from the Pralor homeworld. 
+TORRES: Tell me something more about these Builders. Were they anything
+like us? 
+3947: I have insufficient knowledge of your culture to provide an
+adequate response. Will you provide additional information? 
+TORRES: Well. I asked about your culture, only fair you should ask
+about mine. 
+3947: Does your culture include artificial lifeforms? 
+TORRES: As a matter of fact, it does. 
+3947: Are they similar to the automated personnel units aboard this
+ship? 
+TORRES: Well, they come different shapes, and sizes. Some have limbs,
+some don't. Most don't have your cognitive abilities. 
+3947: Are they your servants? 
+TORRES: I guess, you could say that the robots we use are servants in a
+manner of speaking. But they aren't sentient like you. In fact, we have
+only one sentient artificial life form in our society, and he is
+treated the same as any human. 
+3947: The same? He is equal to a Builder? 
+TORRES: That's right. He works on a ship just like you or I. He wears
+the same uniform I do. 
+3947: What is his designated number? 
+TORRES: He has a name like the rest of us. Data. 
+3947: Data. I would like to be acquainted with this Data. 
+TORRES: Ah, looks like this standardised power module is working pretty
+well so far. 
+3947: You will succeed, B'Elanna Torres. 
+TORRES: Don't send me flowers yet. I've still got to see whether it
+will power an actual unit. 
+3947: I believe it will. 
+ [Ready
+room] 
+CHAKOTAY: We're making progress on the dilithium matrix. It should be
+stable enough to reinitialise the warp core in about six hours. 
+JANEWAY: Good. What about our diversion. Any suggestions? 
+CHAKOTAY: When we were in the Maquis, B'Elanna once linked a
+holo-emitter to a deflector array and projected an image of another
+ship into space. 
+JANEWAY: I like it. But do we have enough power? 
+CHAKOTAY: We will by the time the warp core's online. I already have
+Kim working on the holodeck to 
+TUVOK [OC]: Tuvok to Captain Janeway. 
+JANEWAY: Go ahead. 
+TUVOK [OC]: I am picking up an unidentified alien ship on long range
+sensors. It's heading for our co-ordinates. 
+JANEWAY: We're on our way. 
+ [Pralor
+vessel] 
+ (Torres
+puts her new power module into a Unit.) 
+TORRES: Well, it fits. Cross your fingers. So far so good. Let's hope
+it can interface with the unit. 
+(The unit tries to sit up, then fall back.) 
+3947: It does not function correctly. 
+TORRES: It does not function correctly yet. Your builders should have
+programmed you with a little more patience. I'm going to try adjusting
+the flux capacitance. 
+(The unit sits up.) 
+0001: Prototype unit 0001 is ready to accept programming. 
+TORRES: We did it. We actually did it! 
+3947: You did it, B'Elanna Torres. I knew this task would not exceed
+your operating capabilities. 
+0001: Prototype unit 0001 is ready to accept programming. 
+(Torres shakes 3947's hand.) 
+3947: What are you doing? 
+TORRES: I am congratulating you. You're a father! 
+ [Bridge]
+ (The
+new arrival flies past Voyager and starts attacking the Pralor vessel.)
+KIM: No sign of organic life aboard that ship either. 
+TUVOK: They appear to be manned by automated units virtually identical
+to those operating the first ship. 
+JANEWAY: Is it possible that we've stumbled into the middle of some
+kind of robotic war? 
+CHAKOTAY: We've got to get Torres back now. 
+JANEWAY: Agreed. But first I want to show both those ships this isn't
+our fight. Ease us back on manoeuvring thrusters, Mister Paris, nice
+and steady. 
+KIM: The second ship is hailing us. 
+JANEWAY: On screen. 
+(It is a golden robot.) 
+122 [on viewscreen]: Cravic Automated Commander 122 requests you
+identify yourself. 
+JANEWAY: My name is Kathryn Janeway, Captain of the Federation Starship
+Voyager. 
+122 [on viewscreen]: Withdraw from this area immediately. 
+JANEWAY: I'm afraid I can't do that. One of my crewmembers is being
+held hostage aboard the Pralor vessel. I won't leave without her. 
+122 [on viewscreen]: Remain at your present coordinates and do not
+attempt to intervene, or you will be fired on. 
+TUVOK: Captain, this new ship could be 
+JANEWAY: The diversion we've been looking for. Mister Kim, what's the
+status of our warp engines? 
+KIM: We're still an hour away at best. 
+JANEWAY: We may not have an hour. Get down to Engineering. Be ready to
+give me as much power as you can the minute we get Torres back. 
+KIM: Aye, Captain. 
+JANEWAY: If those two ships keep each other busy we may not need warp
+to get away. Mister Paris, report to the shuttle bay. 
+PARIS: Yes, ma'am. 
+JANEWAY: Chakotay, you have the con. 
+ [Pralor
+vessel] 
+ TORRES:
+Who are they? 
+3947: Automated Personnel Units of the Cravic homeworld. 
+TORRES: Robots from another world? 
+3947: That is correct. 
+TORRES: Why are they attacking you? 
+3947: They were programmed to do so by their Builders. 
+0001: Prototype unit 0001 is ready to accept programming. 
+TORRES: The Cravic Builders, the Pralor Builders, were they enemies? 
+3947: That is correct. 
+TORRES: Look, maybe Captain Janeway can contact the Cravic leaders and
+convince them to stop the fighting, then 
+3947: That is not possible. 
+TORRES: Why not? 
+3947: The Cravic are also extinct. 
+ [Shuttlecraft]
+ PARIS:
+I'm approaching the perimeter of the defence field. 
+TUVOK [OC]: Acknowledged. 
+ [Bridge]
+ TUVOK:
+Rotate your shield harmonics until they are synchronised with the
+frequency of the field. 
+ [Shuttlecraft]
+ PARIS:
+Shields synchronised. I'm going in. (Bump!) Then again, maybe not. 
+ [Bridge]
+
+CHAKOTAY: It didn't work. He bounced right off the field. 
+TUVOK: Mister Paris, reset your heading for coordinates one zero five 
+ [Shuttlecraft]
+ TUVOK
+[OC]: Mark four zero. 
+PARIS: Er, if I understand you, Tuvok, that would take me into a direct
+line of fire with the Cravic ship. 
+ [Bridge]
+ TUVOK:
+Precisely. The concentration of fire is opening a rift in the Pralor
+defence field. 
+ [Shuttlecraft]
+ PARIS:
+Which I just might be able to sneak through if I can dodge a disrupter
+blast or two. Changing heading. 
+ [Pralor
+vessel] 
+ TORRES:
+If both sides were annihilated then why continue your war? 
+3947: All Automated Personnel Units were programmed to achieve victory.
+0001: Prototype unit 0001 is ready to accept programming. 
+3947: The Cravic ship has penetrated our defence shield. 
+TORRES: Has anyone in all these years ever tried to stop this war? 
+3947: The Pralor and the Cravic called a truce. 
+TORRES: Wait a minute. If both sides called a truce, then why didn't
+they stop you from fighting? 
+3947: They attempted to do so. 
+TORRES: And? 
+3947: We terminated the builders. 
+ [Shuttlecraft]
+ PARIS:
+Paris to Voyager. I'm approaching the entry 
+ [Bridge]
+ PARIS
+[OC]: Point. 
+TUVOK: Acknowledged. Showing a rift in the defence 
+ [Shuttlecraft]
+ TUVOK
+[OC]: Field off your starboard bow. 
+PARIS: I'm on it. 
+ [Pralor
+vessel] 
+ 3947:
+When it was anticipated that the war would end, the Builders no longer
+required our services and they intended to terminate us. In doing so,
+they became the enemy. We are programmed to destroy the enemy. It is
+necessary for our survival. Now that you have constructed a prototype,
+we will soon outnumber the Cravic units. We will achieve victory. 
+(Boom! Fires break out.) 
+3947: This is unit 3947. Fire units report to reconstruction bay number
+one. 
+TORRES: The individual energy codes. Is that why the builders added
+them? To prevent the procreation of these units? My god, what have I
+done? 
+(She picks up a tool from a bench.) 
+0001: Prototype unit 0001 is ready to accept programming. 
+(And stabs it through the power module. 3947 zaps Torres.) 
+3947: You have terminated the prototype. 
+TORRES: Yes, I have. 
+3947: You will build another. 
+TORRES: Never. 
+3947: Lieutenant B'Elanna Torres, I told 6263 you were not our enemy. 
+TORRES: I never wanted to be your enemy. I'm sorry. 
+(Torres is beamed away.) 
+ [Shuttlecraft]
+ PARIS:
+Shuttle to Voyager. I've got her but she's injured. Tell the Doctor to
+stand by. 
+ [Bridge]
+ PARIS
+[OC]: Beam her out as soon as I clear the defence field. 
+JANEWAY: Acknowledged, Mister Paris. 
+TUVOK: The ships are continuing to exchange fire, Captain. They are
+ignoring the shuttle. 
+JANEWAY: Bridge to Engineering. Standby warp engines. We'll engage the
+moment Mister Paris gets back. 
+KIM [OC]: Aye, Captain. 
+ [Mess
+hall] 
+ KES:
+One pot of Landras blend, compliments of the chef. 
+TORRES: Mmm. I never thought Neelix's coffee could taste so good. 
+KES: I'll tell him you said so. 
+TORRES: I don't know what to say. 
+JANEWAY: As far as I'm concerned, you did what you thought was
+necessary to ensure the safety of this crew. 
+TORRES: Thank you. 
+JANEWAY: It must have been difficult. 
+TORRES: Difficult? 
+JANEWAY: To destroy what you created. 
+TORRES: It was necessary. 
+JANEWAY: I read your report. It was no small achievement, B'Elanna. You
+gave that unit life. 
+TORRES: You should have seen it, Captain. It was incredible. I
+installed that module, and the prototype looked up at me and asked me
+for programming. 
+JANEWAY: As I said, it must have been difficult. 
+TORRES: It was necessary.  
+
+

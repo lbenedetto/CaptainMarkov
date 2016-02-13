@@ -8,21 +8,35 @@ public class PositronicBrain {
 
 	public static void main(String[] args) {
 		initializeSkippedEpisodeNums();
-		initializeVoyagerGaps();
+		initializeVoyagerGaps();		
+		
+		createMarkovs(Series.StarTrek, new String[]{"Kirk", "Spock", "McCoy", "Uhura", "Chekov", "Sulu", "Computer"});
+		createMarkovs(Series.NextGen, new String[]{"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"});
+		createMarkovs(Series.DS9, new String[]{"Sisko", "O'Brien", "Bashir", "Worf", "Odo", "Kira", "Dax", "Ezri", "Quark", "Dukat", "Garak", "Weyoun", "Founder", "Nog", "Rom", "Computer"});
+		createMarkovs(Series.Voyager, new String[]{"Janeway", "Paris", "Chakotay", "Torres", "Neelix", "EMH", "Tuvok", "Seven", "Computer"});
+		//createMarkovs(Series.Enterprise, new String[]{"Jonathan", "Tucker", "T'Pol", "Phlox", "Computer"});
+		// I might have missed some Enterprise characters, I don't know that show very well
+	}
 
-		MarkovChain captainsLogs = new MarkovChain(new KeyWord("Captain's log", false, Series.NextGen));
-		MarkovChain commands = new MarkovChain(new KeyWord("Computer, ", true, Series.NextGen));
-		String[] characterNames = {"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"};
-		MarkovChain[] characters = new MarkovChain[characterNames.length];
-		//Fill the characters array
+	public static void createMarkovs(Series series, String[] characterNames)
+	{
+		MarkovChain CaptainsLogs = new MarkovChain(new KeyWord("Captain's log", false, series));
+		MarkovChain Commands = new MarkovChain(new KeyWord("Computer, ", true, series));
+		MarkovChain[] Characters = new MarkovChain[characterNames.length];
+
+		//Fill the Characters array
 		for (int i = 0; i < characterNames.length; i++)
-				characters[i] = new MarkovChain(new Character(characterNames[i], Series.NextGen));
+			Characters[i] = new MarkovChain(new Character(characterNames[i], series));
+
+		System.out.println("Creating markov chains for " + series.toString());
+
 		//Generate a captains log
-		generate(10, captainsLogs);
+		generate(10, CaptainsLogs);
 		//Generate a command to the computer
-		generate(5, commands);
+		generate(5, Commands);
 		//Generate a line of dialogue from a random character
-		generate(5, characters[ThreadLocalRandom.current().nextInt(0, characterNames.length)]);
+		generate(5, Characters[ThreadLocalRandom.current().nextInt(0, characterNames.length)]);
+
 	}
 
 	public static void generate(int n, MarkovChain mc) {
@@ -44,17 +58,17 @@ public class PositronicBrain {
 	protected static void initializeVoyagerGaps() {
 		voyagerEpisodeGaps = new HashMap<>();
 
-		voyagerEpisodeGaps.put(120, 200);
-		voyagerEpisodeGaps.put(226, 300);
-		voyagerEpisodeGaps.put(322, 400);
-		voyagerEpisodeGaps.put(424, 500);
-		voyagerEpisodeGaps.put(526, 600);
-		voyagerEpisodeGaps.put(626, 700);
+		voyagerEpisodeGaps.put(120, 201);
+		voyagerEpisodeGaps.put(226, 301);
+		voyagerEpisodeGaps.put(322, 401);
+		voyagerEpisodeGaps.put(424, 501);
+		voyagerEpisodeGaps.put(526, 601);
+		voyagerEpisodeGaps.put(626, 701);
 	}
 
-	public static boolean nextEpisodeNumIsSkipped(int _currentEpisodeNum, Series _series) {
+	public static boolean episodeNumIsSkipped(int _currentEpisodeNum, Series _series) {
 		for (int skippedNum : skippedEpisodeNums.get(_series)) {
-			if (skippedNum == _currentEpisodeNum + 1)
+			if (skippedNum == _currentEpisodeNum)
 				return true;
 		}
 

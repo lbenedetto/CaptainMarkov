@@ -1,0 +1,1017 @@
+EMH: Please state the nature of the medical emergency.#
+EMH: Status of your doctor?#
+EMH: Point four cc's of trianoline.#
+EMH: How soon are replacement medical personnel expected?#
+EMH: Tricorder. Medical tricorder. A replacement must be requested as soon as possible. I am programmed only as a short-term emergency supplement to the medical team.#
+EMH: There's no need for concern. I am capable of treating any injury or disease. No concussion. You'll be fine. Clean him up.#
+EMH: You're not seriously hurt. You can return to your station.#
+EMH: This is the Emergency Holographic Doctor speaking. I gave no permission for anyone to be transported out of Sickbay. Hello? Sickbay to Bridge. I believe someone has failed to terminate my programme. Please respond.#
+EMH: Excuse me. Could you explain what has transpired?#
+EMH: That's enough. This is a sickbay, not a conference room. Visiting hours are over. Everyone except my patient is to leave immediately.#
+EMH: I strongly advise you to rest. I will not be held responsible for the consequences. Is the crew always this difficult?#
+EMH: Doesn't anyone know how to turn off the programme when they leave?#
+EMH: Your nose is broken in three places. I'll need to reset the ethmoid fossa. Try not to move.#
+EMH: At least she gave you some good advice. Now#
+EMH: Hold still.#
+EMH: Please state the nature of the medical emergency.#
+EMH: That's it?#
+EMH: So it begins. The trivia of medicine is my domain now. Every runny nose, stubbed toe, pimple on a cheek becomes my responsibility.#
+EMH: I am not just a doctor. I've been designed with the information from two thousand medical reference sources and the experience of forty seven individual medical officers. I am the embodiment of modern medicine. How much dirt do you need?#
+EMH: Now I know how Hippocrates felt when the king needed him to trim a hangnail.#
+EMH: As a medical practitioner, I require a certain sensitivity to properly address a patient.#
+EMH: I am merely a hologram.#
+EMH: No. Why?#
+EMH: I've just run a diagnostic on my imaging processor. It shows that I've been reduced in height by ten point four centimetres. Sickbay to Operations.#
+EMH: It's just that I#
+EMH: Well, seems like a very busy day in Operations.#
+EMH: No trouble at all. Just turn off the programme before you leave.#
+EMH: What purpose would a name serve a hologram?#
+EMH: I guess they never thought I'd be around long enough to need one. What's your name?#
+EMH: Kes. I'm glad I could help you today.#
+EMH: I would appreciate a certain expediency in the matter.#
+EMH: I'm sorry, Lieutenant, but whatever it is you're going to have to take care of it yourself.#
+EMH: Hmm. Hmm, hmm.#
+EMH: Hmm?#
+EMH: Yes, terribly wrong. Your brain is not on file. Either your government failed to transmit the standard fifteen five oh one crew personnel report or somebody at Starfleet Medical really fouled up.#
+EMH: And no one asked you for your medical histories when you arrived? Of course not. That would be the ship's doctor's job. My job, if anyone had bothered to tell me about new passengers, but I seem to be just about the last to know about everything around here. So, tell me, just how many other new arrivals are there?#
+EMH: Another crew. That's nice. This is the Emergency Medical Holographic system to Captain Janeway.#
+EMH: Missing. The Captain is missing. It seems I've found myself on the Voyage of the Damned. Very well. Please advise the highest ranking officer who is not missing, to see me at his earliest convenience. You may shut off my programme now.#
+EMH: She is the healthiest member of her species I've ever seen. The only member of her species I've ever seen. You have a lovely brain. It will make a fine addition to our files. I wouldn't worry. If your species has a history of extraordinary mental abilities, this may simply be your way of flexing those muscles for the first time. Living in space requires the body to make a variety of biological adjustments. This could be a side-effect of that process. Go home. Get a good night's sleep and drink plenty of fluids.#
+EMH: Everybody should drink plenty of fluids. Don't leave without turning me off.#
+EMH: And call me in the morning.#
+EMH: Get the blood-gas infuser.#
+EMH: Equipment storage unit two, second shelf on the left. Now!#
+EMH: Hold him still.#
+EMH: He's going into a coma.#
+EMH: The infuser will keep his oxygen levels stable for the next hour or so, but after that he'll die. His lungs have been removed. (A little later, Paris is moving equipment around and Janeway is being brought up to date.)#
+EMH: The blood gas infuser will keep him alive for another forty seven minutes. The only chance for his survival I see at the moment is to get his own lungs back.#
+EMH: His respiratory system is directly linked to multiple points along his spinal column. It's too complex to replicate. I may be able to surgically reattach the organs if we get them back. In the meantime I'll have to search for other options.#
+EMH: Mister Paris, did they teach you how to run a respiratory series in your bio-chemistry classes at the Academy?#
+EMH: Fine, I'll run it myself. Get me a pulmonary scanner.  I'm going to have to ask you to leave.#
+EMH: All right, just keep out of the way.#
+EMH: It's up to thirty two percent. Lets see if we can stabilise those levels. Get me a cytoplasmic stimulator.#
+EMH: Then replicate one.  The design schematics are in the ship's medical database.#
+EMH: The man drives a seven hundred thousand ton starship so somebody thinks he'd make a good medic.#
+EMH: A transplant is not an option. No one on board is a compatible match for a Talaxian.#
+EMH: We're going to need a completely new way to oxygenate his blood supply and relay neuro-electrical impulses. Our replicators can't produce compatible artificial organs for him, but maybe there's a way to mimic their functions and give us direct control of his respiratory system. Computer, is there an identification matrix on Mister Neelix from the last time he used the transporter?#
+EMH: Transfer it to console four.#
+EMH: I'm using the transporter matrix to get exact specifications for Neelix's lungs.#
+EMH: We can't. But if I can reconfigure my emitter array I might be able to create a pair of holographic lungs for Mister Neelix.#
+EMH: If it's successful, we can precisely control his pulmonary functions to allow normal breathing.#
+EMH: Now, you hit me.#
+EMH: The magnetic containment field that creates the illusion of my body can be modulated to allow matter to pass through it or be stopped. I might be able to modulate the holographic lungs in the same way, allowing oxygen and carbon dioxide to pass from the lungs to the blood stream.#
+EMH: There's no time to explain the exact procedure to you right now.#
+EMH: The risk is that it won't work, and if it doesn't he'll die. But it is his only immediate chance for survival. If he does survive, he'll have to be held motionless in an isotropic restraint. The lungs need to be perfectly aligned to his internal physiology. The computer won't be able to compensate for any body movement whatsoever.#
+EMH: For the rest of his life, unless the holo-lungs can be replaced by his original organs. And he will never be able to leave the holographic environment of this room. The holo-lungs would disappear the moment he went out the door.#
+EMH: One micron would be preferable, but I suppose it'll have to do. Initiating the holographic emitter array.#
+EMH: Computer, activate programme Neelix One. Deactivate the infuser.#
+EMH: Here we go.#
+EMH: Yes, and they're working perfectly, if I do say so myself. Try to breath normally.#
+EMH: I don't know. This is an unprecedented medical procedure. We will be closely monitoring your condition.#
+EMH: Unless Captain Janeway is successful in retrieving your original lungs, you'll have to stay in the isotropic restraint indefinitely.#
+EMH: Yes.#
+EMH: I didn't design the room, I just work here.#
+EMH: I'm a doctor, Mister Neelix, not a decorator.  Perhaps you would be willing to accommodate his aesthetic needs.#
+EMH: Visiting hours are over. He needs rest.#
+EMH: Seventeen hundred hours. Not a minute before.#
+EMH: Don't worry, I'm not going to kiss you, I'm only adjusting the restraint.#
+EMH: What is it, Mister Neelix?#
+EMH: Yes?#
+EMH: An itch.#
+EMH: You're quite welcome.#
+EMH: I'm not leaving, Mister Neelix, I'm simply going back to work.#
+EMH: You are all alone. I'm a holographic projection. A projection with a lot of work to do, I might add.#
+EMH: There's nothing you can do except lie there and be quiet.#
+EMH: You know that's impossible.#
+EMH: Mister Neelix, you are alive. You are breathing and for the moment your condition is stable. That is more than most people can say in your situation. Now it is critical to your recovery that you not subject yourself to any additional stress. Try to calm down.#
+EMH: You're hyperventilating. Try to take slow, natural breaths.#
+EMH: Good. If you don't mind I'd like you to remain in sickbay so you're here when he wakes up.#
+EMH: Me?#
+EMH: Of course I'm agitated. This entire situation is getting out of control.#
+EMH: First they tell me there's no doctor, so I have to be on call twenty four hours a day. And then they tell me there are no nurses so I have no one to assist me.#
+EMH: Like I said, no one to assist me. And now I have a patient with severe and possibly long term emotional problems and there's no counsellor on board. I am an emergency medical supplement. A supplement, that's all. I wasn't programmed for any of this. It's just unacceptable.#
+EMH: I've only done what the programme allows me to.#
+EMH: It may seem that way to you.#
+EMH: You're very kind.#
+EMH: They learn from experience.#
+EMH: I have the capacity to accumulate and process data, yes.#
+EMH: Have you ever considered a career in medicine?  Neelix is starting to regain consciousness.#
+EMH: Believe me, I wish I weren't.#
+EMH: Wait a minute. We've already considered this. Talaxian physiology is different from that of anyone else on this ship. His immune system would reject their lungs immediately.#
+EMH: It's all right. The operation was a success. Neelix is asleep and breathing on his own now. With your lung.#
+EMH: That will pass. You'll soon adapt to diminished lung capacity. I spoke to the Captain about you. She's given me permission to begin training you as a medical assistant. You'll be a back-up for Mister Paris, or possibly a replacement. That is, assuming you're interested.#
+EMH: We'll begin your lessons as soon as you've fully recovered.#
+EMH: Thank you. You've given me a lot to think about.#
+EMH: Please state the nature of the medical emergency.#
+EMH: I can only speculate about my programmer's motives. Perhaps he thought I might be summoned for important reasons.#
+EMH: Now there's an interesting concept. A hologram that programs himself. What would I do with that ability? Create a family? Raise an army?#
+EMH: That makes me feel particularly confident.#
+EMH: If you don't like the doctor's attitude, there's a man sitting in a console in the Jupiter Station Holoprogramming Centre you can write to. His name is Zimmerman. He looks a lot like me, actually. Now, not that I don't enjoy the repartee, but was there a reason you stopped in?#
+EMH: Who gave you the first opinion?#
+EMH: A nebula? What were we doing in a nebula? No, wait, don't tell me. We were investigating. That's all we do around here. Why pretend we're going home at all? All we're going to do is investigate every cubic millimetre of this quadrant, aren't we?#
+EMH: But this is what brought you to me, isn't it? The nucleogenic peptide bonds.#
+EMH: And you were doing so well. No, I suspect it's something far more interesting than that. [Ready Room]#
+EMH: That's your problem, not mine. Doctor out.#
+EMH: Is it sore here?#
+EMH: Localised tenderness to the ulna bone, no epidermal damage, moderate oedema. What are the possible diagnoses?#
+EMH: That's exactly right.#
+EMH: Good. There's a great deal more for you to learn. The tricorder indicates this is a small stress fracture.#
+EMH: Yes, he can. Activate it and direct the beam here. That's it. Not quite so fast.#
+EMH: Of course, and quite expertly too.#
+EMH: Fine. And if you were lucky you wouldn't die on the table while you were making up your mind. That should do it. How does it feel?#
+EMH: Not more so than most.#
+EMH: Let's just say I've become accustomed to being treated like a hypospray. Now, here's some material on first aid for burns.#
+EMH: You're intellectually curious. I like that. These deal with human anatomy and physiology, but they weren't written for the layman. They're quite technical.#
+EMH: Please state the nature of the medical emergency.#
+EMH: What is it you want, Captain.#
+EMH: About what?#
+EMH: That's certainly true. I'm providing full time medical service for the entire ship's crew, functioning both as doctor and nurse, and now as an instructor as well.#
+EMH: I see. Are you suggesting that I be re-programmed?#
+EMH: Help me?#
+EMH: What I'd like is to be turned off when people leave. I spend hours here with absolutely nothing to do. When someone does remember to deactivate me they do so without asking if it's convenient. It's extremely irritating.#
+EMH: I beg your pardon?#
+EMH: I, I might like that.#
+EMH: I'm not sure, I'll have to give it some thought.#
+EMH: You've finished those already?#
+EMH: What are the bones of the middle ear?#
+EMH: And the connective tissue between the middle and the external auditory canal?#
+EMH: Hmm. I suspect you have an eidetic memory. An astonishing gift. I'll do a full neural scan on you at some point. [Doctor's office]#
+EMH: If you continue to apply yourself as you have, by the time we get back you may already have the equivalent of a medical degree.#
+EMH: Heard what?#
+EMH: If there's one thing you can count on, it's that I am the last to be told about anything that happens on this ship.#
+EMH: I see. Well, I'll say goodbye now. I won't be transporting with the rest of you.#
+EMH: My programme is fully integrated into the sickbay system. At present I cannot be downloaded.#
+EMH: Wait. I'd like. That is, could I ask a favour of you?#
+EMH: If you do leave, before you go, would you check to make sure I've been deactivated.#
+EMH: Lieutenant, I am the Chief Medical Officer of this ship. If you have something to say to me, please, direct the statement to me.#
+EMH: I'm not telling you not to work out. I'm suggesting you use a modicum of commonsense when you do it. If I see you in here again for an exercise related injury, I'll have to discuss the matter with your superior officer.#
+EMH: You're fine now. You may leave.#
+EMH: Captain Janeway has made me realise that I must function as more than an Emergency Medical replacement. I must think of myself as a member of the crew.#
+EMH: I've prepared a list of things I'd like to see added to Sickbay. Perhaps you could present it to the Captain?#
+EMH: There's one more request. Something of a, a personal nature. I would like a name.#
+EMH: That's exactly what I'd call for. All right then, let's run through the osteographic series again. Just enter the responses you're sure about.#
+EMH: I asked the Captain for one.#
+EMH: Choose one myself? Me? Well, that just isn't. Holograms are programmed, Kes. They don't choose anything for themselves.#
+EMH: Because we're not capable of choosing.#
+EMH: I'm programmed with over five million possible treatments, with contingency programs and adaptive programs. But it's all programs upon programs upon programs. There's no independent decision making.#
+EMH: The difference is#
+EMH: Well, if you put it that way.#
+EMH: Certainly. I have the names of Starfleet doctors, their patients, medical personnel in historical and literary contexts.#
+EMH: Just pick one?#
+EMH: Doctor, Doctor Galen. Doctor Salk. Doctor#
+EMH: Spock.#
+EMH: Not exactly.#
+EMH: I never even considered that I had a life.#
+EMH: I'm already on, Captain.#
+EMH: He's severely dehydrated.#
+EMH: Prepare an iv.#
+EMH: He's completely exhausted. Can some of this wait until he's had a chance to rest?#
+EMH: How long it might be before he's seriously affected, I really have no idea.#
+EMH: It's extremely technical. To the layman, it would be virtually indecipherable.#
+EMH: I believe so. But each time the cycle repeats, I'm afraid his brain will take another damaging blow.#
+EMH: I'll have it ready for you.#
+EMH: He's telling you the truth.#
+EMH: The Banean medical authorities checked him. They didn't find any drugs in his blood. Most narcotics would've been gone from his system by the time he got to me.#
+EMH: The cycle's ended. No neural damage that I can detect.#
+EMH: It's a simple process, really. She died of a cancerous growth on the brain stem. I removed the tumour, replicated new neural tissue and used the standard Starfleet postmortem resuscitation technique for a class five life form.#
+EMH: She wasn't covered with it, exactly. The biopolymer is a by-product of her own tissues.#
+EMH: As her tissues decayed, the cell membranes broke down into a biopolymer resin which was then excreted by her epidermal layer. My guess is it's a natural decomposition process for this species.#
+EMH: Were probably the result of other bodies that had decomposed and left a residual membrane. In essence, Commander, you were strolling through dead bodies.#
+EMH: Yes, of course. Kes, two cc's of netinaline.#
+EMH: Hello.#
+EMH: Two cc's cordrazine.#
+EMH: Relax, Mister Kim. Everything's fine. You're alive. [Mess hall] (Kim is alone, picking at a meal, when Janeway enters.)#
+EMH: His cells have mutated. Or they've been fused with inorganic matter. I can't make heads or tails of it. Look at this. His blood cells have bonded with metallic nuclei.#
+EMH: That remains to be seen. I'm going to have to do a complete pyrocyte replacement if we're going to keep him alive. We'd better hope there are compatible donors on board.#
+EMH: We'll let you know the results as soon as we can.#
+EMH: I'm not sure. Even if he does, there's no way to predict what kind of brain damage there might be.#
+EMH: You? I don't understand.#
+EMH: All right.#
+EMH: All the more reason we should have your blood on file.#
+EMH: Ah, Captain. I'm glad you're here. I was just about to call you.#
+EMH: Well, the good news is, we've been able to stabilise him. We had to completely replace his blood.#
+EMH: His own blood cells were killing him. They were changed by the accident on his ship.#
+EMH: We haven't been able to determine that yet.#
+EMH: It will be the truth.#
+EMH: He's dead.#
+EMH: There was some kind of nerve toxin in that needle. He died instantly. Captain, may we talk to you in my office? [Doctor's office] EMH: Ah. Have I been called to testify?#
+EMH: And may I say a doctor less informed about Bajoran medicine might have been fooled, but my programme includes the complete Bajoran medical text on Orkett's disease. There's no way any childhood virus or Cardassian bone marrow transplant can explain away the genetic markers in your blood. You are Cardassian, Ensign.#
+EMH: Me?#
+EMH: How do you intend to transfer me out of Sickbay?#
+EMH: I see.#
+EMH: Yes.#
+EMH: Yes, Captain.#
+EMH: Computer, access full text of ancient Earth epic Beowulf including historical annotation and cultural references.#
+EMH: Ah, Kes. Come in. I don't know how long I'll be gone, but my absence is no reason to suspend your studies. How are you doing with the protein synthesis text?#
+EMH: Good. Then you may as well start learning how to operate the base-pair sequencer. You'll find the manual in the technical database. Was there something else?#
+EMH: Not at all. Now if you'll excuse me, I have a great deal of preparation to do.#
+EMH: Nervous? I can perform emergency surgery without getting nervous. I can make life-or-death decisions about patients without getting nervous. What makes you think I'm nervous?#
+EMH: I can describe every detail of every piece of equipment in this Sickbay from biobed to neurostimulator, but I've never even seen a sky or a forest, let alone Vikings and monsters. I can't afford to fail but I don't know what to expect in that holodeck.#
+EMH: I have narrowed the list to three possibilities.#
+EMH: You may be right. I'll give it some thought. And Kes, thank you.#
+EMH: Of course.#
+EMH: Yes. There were no problems with the transfer. I'm on my way.#
+EMH: Yes, you're Freya, the king's daughter. A female warrior known as a Shield maiden.#
+EMH: No. It's simply that your reputation precedes you. A warrior of your skill. You're quite famous where I come from.#
+EMH: Well, your battle with#
+EMH: It's practically legend. An incredible story.#
+EMH: Charming.#
+EMH: I'd be delighted to hear all about it but I'm on an urgent mission of my own. I'm looking for Grendel.#
+EMH: I'm glad you asked. My name is Schweitzer. Doctor Schweitzer.#
+EMH: What exactly do you intend to do with it?#
+EMH: It's more likely to bring on profuse sweating, convulsions and acute delirium. This is an amonita muscaria, a fungus common to sub-arctic climates and, let me assure you, quite poisonous.#
+EMH: In a way, I suppose I am.#
+EMH: You would think so.#
+EMH: I'm sorry to hear that, but with your permission, sir, I'd like to stay here tonight and wait for Grendel.#
+EMH: I'm afraid I can't do that. I have a mission.#
+EMH: I'm simply a warrior. I'm only concerned with Grendel. I have no quarrel with you.#
+EMH: This is absurd.#
+EMH: You might want to put some ice on that. It'll take down the swelling.#
+EMH: What is it?#
+EMH: It's quite good.#
+EMH: I'm not much of a storyteller.#
+EMH: Well, there was the time I managed to stop the spread of Paronisti measles before it became epidemic. For a while, things were touch-and-go. Six people came down with it. Fortunately, I was able to isolate the endoplasmic virus and replicate it in order to form an antibody. Even then, it wasn't altogether clear I could create an effective vaccine, but I worked at it for seventy four hours straight and managed to create an inoculation that successfully protected the crew.#
+EMH: All I need is to find Grendel.#
+EMH: No, thank you. I'm fine.#
+EMH: You killed someone when you were eleven?#
+EMH: I don't remember much about my childhood.#
+EMH: I appreciate your faith in me, sire.#
+EMH: You have nothing to worry about, Unferth. Once I'm done with Grendel, I'll be leaving.#
+EMH: I appreciate your concern. I thought everyone had gone to sleep.#
+EMH: Freya, your world isn't coming to an end.#
+EMH: I think I do.#
+EMH: I'm still learning how. I'm sure that's not very helpful.#
+EMH: I'm glad I could help.#
+EMH: Well, you've done an excellent job with the fire. I'm sure I'll#
+EMH: Holodeck to Bridge.#
+EMH: Captain, I'm picking up readings of photonic energy.#
+EMH: Captain, it's right in front of me. It's some kind of photonic energy formation.#
+EMH: Emergency! Get me out of here!#
+EMH: Just like the old one, actually.#
+EMH: Bio-electrical? What are you suggesting, Captain?#
+EMH: Then you think they have simply retaliated against us?#
+EMH: Captain, if you're right about this, then we should return the remaining life form.#
+EMH: If I took the life form onto the holodeck and released it to Grendel, maybe they'll understand and release our people.#
+EMH: I'd like to finish what I started, Captain. I can do this.#
+EMH: I understand. [Holodeck - Forest] EMH: Not entirely.#
+EMH: That would be difficult to explain. But, that's not important right now. This is a talisman to destroy Grendel. I#
+EMH: Unferth, I need to get this talisman to the Hall.#
+EMH: No. Please, you don't know what you're doing.#
+EMH: Freya.#
+EMH: Freya, I'm sorry. There's nothing I can do.#
+EMH: I won't forget you.#
+EMH: My lord, you know me as a true warrior. You know I am the one hope you have to rid your kingdom of Grendel. That talisman will aid me in my conquest. I must have it.#
+EMH: The only reason you won't die is that I've taken an oath to do no harm.#
+EMH: Grendel, I'm ready for you. {The doors burst open.) EMH: I don't know if you can understand me, but watch, I'm setting this one free.#
+EMH: There's no need for any more of this. Please, we ask you to return our crew.#
+EMH: We have them back, Captain. All three of them.#
+EMH: I don't know if the being understood language or just my behaviour. It would have been interesting to pursue the relationship further.#
+EMH: I'm sorry none of that happened this time.#
+EMH: Thank you.#
+EMH: I had, but I'm not sure I want to keep it. The last time I heard that name spoken was a painful one. I don't think I want to be reminded.#
+EMH: Yes, I would say so.#
+EMH: Something tells me the same thing.#
+EMH: They've each taken a blast to the head by some kind of energy discharge. Cardiostimulator. Mister Tuvok has a serious concussion, but it's nothing I can't handle. As for Commander Chakotay, all of the bioneural energy has been extracted from his brain.#
+EMH: Yes. From the looks of it, someone drained the energy from every single axon and dendrite right down to the synapses. I can keep his heart beating and I can keep him breathing, but other than that there's nothing I can do. He's brain dead.#
+EMH: Can you tell me anything about the energy discharge? Its modulation or phase distribution?#
+EMH: I don't know, but if I'm to have any hope of reviving him, I must know precisely how his neurons were depleted. It would be a great help if I could examine the weapon.#
+EMH: You might have asked before adorning my Sickbay with animal remains.#
+EMH: Ah.#
+EMH: You've placed the Coyote Stone at the crossroads of the fifth and sixth realms, which would divert Commander Chakotay's soul, that is his consciousness, into the Mountains of the Antelope Women. According to his tradition, an extremely attractive locale. He might not want to leave.#
+EMH: It's my business to know about a variety of medical treatments, including those based on psycho-spiritual beliefs. Unfortunately, in this case, the medicine wheel won't be much help. There's just not enough of his mind left to work with.#
+EMH: What?#
+EMH: I still have a series of tests to perform, but other than his irritating lapses into nostalgia, I see nothing wrong with him.#
+EMH: Perhaps my biomolecular scan will reveal something.#
+EMH: I found something, and you're not going to like it. This is Mister Paris' memory engram for the last twenty four hours. As you can see, it has a very consistent and distinctive modulation, except at thirteen fifty hours. For one minute forty seven seconds, a different memory pattern appeared. Thirteen fifty hours is also the exact moment when Mister Paris presumably tampered with navigational control. It gets worse. In addition to that, there is another disruption at twelve oh two hours, the moment when he allegedly entered the new course at the helm. I also found there's an identical disruption in Lieutenant Torres's pattern at the moment she shut down warp power. I should point out that this is a neuroelectrical signature, what I believe to be another brain wave that was superimposed on their own.#
+EMH: I don't know. It has an unusual energy signature, one I've never seen before.#
+EMH: One possible explanation, and the only one I can think of at the moment, is that an unknown alien entity momentarily took control of their minds.#
+EMH: Well, except for me.#
+EMH: What would that mean? That I am in command?#
+EMH: Well, of course. I make life and death decisions every day.#
+EMH: So?#
+EMH: Mister Neelix, just because a man changes his drink order doesn't mean he's possessed by an alien.#
+EMH: I could examine every crew member you've mentioned so far, every person on board, for that matter and it wouldn't do any good. From what we can tell, the alien can jump from person to person at will.#
+EMH: I'm not defending him, I'm just pointing out that you're acting a little paranoid. In fact, one could say you're acting a little too paranoid.#
+EMH: All I'm suggesting, Mister Neelix, is that paranoia is only going to aggravate your already precarious emotional condition. Try to relax. I don't think Kes has suffered any permanent neurological damage. I'll let you know the moment I've had any success in reviving her.#
+EMH: What are you doing?#
+EMH: Must you do it now? I'm in the middle of a treatment.#
+EMH: No irreparable damage. In fact, her injuries are quite different from Commander Chakotay's. Her bioneural energy is completely intact, and I'm curious about these contusions on her neck and shoulder. They're not consistent with an energy discharge. They look more like wounds sustained during a physical struggle.#
+EMH: I just don't understand it. The only thing these injuries come close to resembling is an extreme trauma to the trapezius nerve bundle. It's as though her nerve fibres have been ruptured. [Ready Room]#
+EMH: It appears so. Commander. Can you hear me?#
+EMH: It involved three neural transceivers, two cortical stimulators and fifty gigaquads of computer memory. I would be happy to take you through the process, but it would take at least ten hours to explain it all to you. Needless to say, it was a remarkable procedure. I would consider writing a paper about it if there were a convenient forum in which to publish it.#
+EMH: If you think this is remarkable, you should see me remove a bunion.#
+EMH: Using tissue from your counterpart, I can replicate the Klingon DNA, then over the course of several days, I'll reintegrate that genetic material into your cellular structure.#
+EMH: That's precisely what I'm saying. Your cell's ability to synthesis proteins has been severely compromised. You need the Klingon genes to survive.#
+EMH: I'll get started on the DNA.#
+EMH: You're new found confidence in me is flattering, Mister Neelix, but Doctor Jetrel has instruments designed specifically to analyse Talaxian physiology.#
+EMH: Mister Neelix, is there anything more I can do for you? Very well, then. Computer override command one EMH alpha and end programme.#
+EMH: Now just wait one (Jetrel plugs the sample container into his equipment and presses a few buttons. The mist starts to solidify into matter. After a little hesitation, Neelix enters.)#
+EMH: Ah yes, I'm aware of these devices, but I've never seen one.#
+EMH: Interesting.#
+EMH: Initiate the scan.#
+EMH: Ah, ha!#
+EMH: The patient is sick.#
+EMH: To discuss the patient's condition in front of the patient would be a serious breach of professional etiquette. It's been suggested that I cultivate a greater sensitivity to my patient's needs. Don't worry, my little friend.#
+EMH: Very well. The biological component of the circuit device has an infection. A very contagious one.#
+EMH: I suspect the contagion is not harmful to humanoids. If it were, we probably would have seen evidence of illness in the crew by now. But in order to protect the ship's circuitry, you'll have to isolate and quarantine all the affected gel packs until a treatment regimen can be initiated.#
+EMH: I don't know. Unless we find the source of the infection, we won't be able to stop it from spreading.#
+EMH: Sickbay to Bridge. Captain, what seems to be happening.#
+EMH: : I'm afraid not. Frankly, I'm at a loss.#
+EMH: What I find curious is that these bacteria didn't show up in any of our diagnostic scans of the ship. But if the bacteria from the cheese into the ship's systems, how did the gel packs get infected?#
+EMH: Of course. A virus. The bacteria could be hosts to the infectious virus. There are thousands of viruses so small they would have escaped detection.#
+EMH: It's certainly worth a try. [Cargo bay]#
+EMH: an infection in the same way humanoid organisms do.#
+EMH: If they continue, we should be able to purge the system within a few minutes.#
+EMH: Emergency? Sickbay to bridge. Captain Janeway, please respond.#
+EMH: Well then, who's in command?#
+EMH: You mean the ship's empty?#
+EMH: What is the crew's status?#
+EMH: Did they go on shore leave? Are they dead? What?#
+EMH: Can you give me a ship's status report?#
+EMH: Okay, I get the idea. What caused this damage?#
+EMH: Of course it isn't. [Doctor's office] EMH: Replay last log entry.#
+EMH: Computer, have any escape pods been ejected?#
+EMH: Scan the ship for any humanoid life forms.#
+EMH: Well, I'm glad everyone bothered to say goodbye. Chief Medical Officers log, stardate 48892.1. It appears that Voyager has suffered a disaster. What kind I don't know, but one thing is clear. The crew was forced to abandon ship. It would therefore seem that my usefulness has come to an end. I am terminating my programme. If anyone finds this log, I can be re-activated by#
+EMH: Hello?#
+EMH: Hello? (He stands by the door. A dirty pair of hands finally prise the doors open. He grabs the person and pulls them through.)#
+EMH: Sorry, I wasn't expecting a member of the crew. The computer said everyone had left.#
+EMH: Attack?#
+EMH: Why didn't the crew return to the ship?#
+EMH: This tricorder isn't registering your life signs. This one isn't working either.#
+EMH: Can't we beam her to Sickbay?#
+EMH: Then you're going to have to go back up there with a medical kit. I'll instruct you on how to treat her.#
+EMH: That would be ideal, if it were possible, but my projection system is limited to the Sickbay and the holodecks.#
+EMH: Why wasn't I told about this?#
+EMH: Her compassion is heart-warming. The next time I'd rather be kept informed. Where are these remote projectors?#
+EMH: Most of the crew is gone. Could we divert power from life support systems?#
+EMH: I assume there's still an emergency medical kit behind the tactical console?#
+EMH: Then I'm ready.#
+EMH: I'll try.#
+EMH: Understood.#
+EMH: Thank you. I have a feeling I'll need it.#
+EMH: Captain? (The tricorder from the emergency kit does not seem to work, but the hypo does. Janeway groans and he lifts her into a sitting position.) EMH: Hello, Captain. You're going to be fine.#
+EMH: Lieutenant Torres was able to get them online. Are you feeling any pain, dizziness, nausea?#
+EMH: For some reason none of the tricorders are working, but from what I can tell you have a concussion. I'd like to get you to Sickbay as soon as possible.#
+EMH: You were successful in preventing the breach.#
+EMH: They were taken prisoner by the Kazon.#
+EMH: Is it anything like a coronary bypass?#
+EMH: Kazon! (The EMH ducks down under the tables and crawls along while Neelix catapults fruit and vegetables at a shadowy figure cowering by the window.)#
+EMH: You're injured.#
+EMH: Don't panic, Mister Neelix. It looks superficial.#
+EMH: Not unless you're allergic to tomatoes. That isn't blood, it's some kind of sauce.#
+EMH: I could ask you the same thing.#
+EMH: Me?#
+EMH: Bleeding? That's impossible.#
+EMH: I'm not programmed to bleed.#
+EMH: Emergency Medical Hologram to Captain Janeway.#
+EMH: Captain, we've captured a Kazon. He's been rendered unconscious and Mister Neelix is fine. But I believe my programme is malfunctioning. I request that you return me to sickbay immediately.#
+EMH: Pain? I'm not programmed to feel pain.#
+EMH: Heart rate, blood pressure, brain patterns? Computer, analyse Emergency Medical Holographic programme. Has it been altered in any way to include life signs?#
+EMH: Not on file? The programme's running right now! Display schematics for all Sickbay holographic systems.#
+EMH: EMH programme A K one diagnostic and surgical subroutine omega three two three. Check the database and you'll find it!#
+EMH: Well, then, who is the Chief Medical Officer on board this ship?#
+EMH: Louis Zimmerman? Yes. He was the engineer who created my programme. I understand he resembles me but, he's not on Voyager! He's at the Jupiter Station Holo-Programming Centre. Computer, how long has Doctor Zimmerman served on Voyager?#
+EMH: 48308. That's the date I was activated. Computer, display all Starfleet records on Doctor Lewis Zimmerman.#
+EMH: He looks a lot like me. In fact, he looks exactly like me. Computer, is this me?#
+EMH: Something's very wrong. These tricorders aren't picking up any of your life signs. At first I thought they were malfunctioning, but now I find they show me to be a living, breathing, bleeding human being.#
+EMH: And that's not all. According to the computer, I'm not a hologram. I'm a real person named Zimmerman. I've been trying to analyse my programme but the computer says it doesn't exist.#
+EMH: See what I mean?#
+EMH: Computer, what happened to Captain Janeway, Lieutenant Torres, Mister Neelix and the Kazon?#
+EMH: Simulations? Computer, I'm talking about real people. Locate Captain Janeway.#
+EMH: List all other programmes stored in that memory block. This is the entire Voyager crew. Computer, are you saying that the crew is nothing more than a collection of holographic programmes?#
+EMH: This is ridiculous. There must be something wrong.#
+EMH: Of course I can see you. Who are you?#
+EMH: My assistant's name is Kes. Who are you?#
+EMH: What?#
+EMH: I'm not familiar with you. Are you a member of the Voyager crew or have we encountered another Federation ship?#
+EMH: What are you talking about.#
+EMH: What are you saying? That I'm a real person?#
+EMH: My wife?#
+EMH: Please do.#
+EMH: A programme I wrote? That's preposterous. I'm the programme. Voyager is a real ship, manned by real people.#
+EMH: What was that?#
+EMH: How did you get in here?#
+EMH: You expect me to believe that the past six months I've spent on this ship have been nothing but a simulation?#
+EMH: That's impossible! I have very clear memories of my first appearance on Voyager. Meeting Captain Janeway for the first time. I've had numerous experiences aboard this ship.#
+EMH: How do I know you're not some kind of alien, impersonating a Starfleet officer.#
+EMH: So now I'm having a psychotic episode.#
+EMH: How dare you!#
+EMH: I could be programmed to think it hurt.#
+EMH: Pain. Pain, why would I have pain? I think I'm hungry. I'm not sure what for, but I'm definitely hungry. This is impossible.#
+EMH: Why don't you beam me out of here?#
+EMH: So, what do you suggest?#
+EMH: How does it conclude?#
+EMH: Destroy the ship? Destroy Voyager?#
+EMH: No. No, absolutely not.#
+EMH: First of all, I don't even know how to destroy the ship. Second of all I wouldn't do it even if I could, and third, how do I know you're not an alien intruder trying to trick me into killing everyone?#
+EMH: If what you're saying is true, why don't you destroy the ship? Why do I have to do it?#
+EMH: I'm sorry, Mister Barclay, if that's what your name really is, but you're not very convincing.#
+EMH: This appears to show a wall fifteen metres away and it does have a holodeck grid configuration.#
+EMH: But you could be manipulating these readings.#
+EMH: Yes, all right. But it could still be an elaborate deception. I can't take that risk.#
+EMH: Yes, of course I am.#
+EMH: I've seen this patient before. He has multiple percussive injuries. Tricorder. Medical tricorder. I've been in this moment in time before.#
+EMH: Have we just been catapulted across the galaxy to an unknown area of the Delta Quadrant?#
+EMH: And you are developing tumourous growths on your chest.#
+EMH: Ah. So that hasn't happened yet. Is this stardate 48308?#
+EMH: I'm not. Mister Barclay?#
+EMH: Mister Barclay, will you please return?#
+EMH: This is my first memory of being activated on Voyager.#
+EMH: Did I programme Mister Paris to be so annoying?#
+EMH: Hmm. Computer, delete Paris.#
+EMH: Computer, delete Kim. Hmm.#
+EMH: Let's just say your credibility level is rising. But I'm still not prepared to destroy Voyager.#
+EMH: I need to confirm my true nature. Whether or not I am in fact a real person. Let's just say that I'm right and this is a real ship and I am a hologram. If I were to destroy the holographic memory core then I should disappear.#
+EMH: Then I'm not a hologram.#
+EMH: The holo-memory core is located in Engineering. Let's go.#
+EMH: The remote holoprojectors were taken offline. I shouldn't be able to exist outside sickbay?#
+EMH: A real person. Yes. I'm getting the idea.#
+EMH: I'm the Emergency Medical Hologram.#
+EMH: I can't. But it's a long story. I'd rather not get into it right now.#
+EMH: I'm afraid I have a more pressing matter to attend to, Captain.#
+EMH: Computer, delete Janeway.#
+EMH: I wouldn't be so sure. I was injured earlier.#
+EMH: Now, just a moment. Let's not do anything hasty.#
+EMH: Actually, no. The array you discovered is controlled by an entity you will come to know as the Caretaker. Or Banjo man. He's actually an alien life form who's caring for a species known as the Ocampa who live nearby.#
+EMH: No, I don't think so.#
+EMH: I'm not arguing. I'm simply pointing out that in several seconds the entire crew of Voyager will be transported to the array, where you will be tortured and probed for medical information. It will be quite painful, but not fatal.#
+EMH: First things first. I have to make absolutely sure what I am.#
+EMH: This is the central memory nexus for all holographic systems on board. If I destroy this, there won't be a single hologram left on Voyager.#
+EMH: Computer, what is the status of the holographic imaging system on Voyager?#
+EMH: Are there any holographic programmes running anywhere on the ship?#
+EMH: Then why is the ship still here, and not a hologrid?#
+EMH: You said all holo-systems were destroyed. Why is the ship simulation still running?#
+EMH: Then it's true. I am a real person.#
+EMH: But if I'm wrong?#
+EMH: I know, I know, but it's just so#
+EMH: I guess you're right. What should I do?#
+EMH: Ready.#
+EMH: So I've been told. It's all a holographic simulation.#
+EMH: My programme?#
+EMH: Wait a minute. The entire crew of Voyager was just taken by the array. They won't be back for three days. So what's he doing here?#
+EMH: Are you the real Commander Chakotay, or a holographic projection like Mister Barclay.#
+EMH: Sounds familiar. He told me the same thing.#
+EMH: No. No, I don't.#
+EMH: Me?#
+EMH: What, what is it you want me to do?#
+EMH: Kes.#
+EMH: Yes, you're my assistant.#
+EMH: I always wanted to#
+EMH: What's going on?#
+EMH: What really happened?#
+EMH: So there was never a Kazon attack.#
+EMH: And the crew didn't really abandon ship.#
+EMH: And who is this Lieutenant Barclay I imagined.#
+EMH: Well, this should make an interesting paper.#
+EMH: Well, I suppose I should begin cataloguing the neotrianate samples I was working on this morning.#
+EMH: I was under a great deal of stress, you understand. I may have said things that are not necessarily my true feelings. Kes. Oh. Then you don't think I'm beautiful. EMH: I didn't say that, exactly. I consider you very, very attractive. In a platonic sense.#
+EMH: I'm afraid not.#
+EMH: Our marriage? Are you making a joke?#
+EMH: No. No, this can't be right. Something's wrong here.#
+EMH: No! No, I don't believe you. None of this is real. It's all a delusion. Somebody help me!#
+EMH: No! (The EMH tries to leave Sickbay but an armed Kazon forces him back inside.)#
+EMH: I appear to be on the holodeck grid.#
+EMH: Yes, I'm the Emergency Medical Holographic programme. Right?#
+EMH: Well, I assume everything that's happened took place here on the holodeck.#
+EMH: And Kes is my assistant, not my wife?#
+EMH: Never mind. Captain, if it's okay, I'd like to return to Sickbay now.#
+EMH: It's good to be back.#
+EMH: It was a delusion, of course.#
+EMH: I am curious about one thing.#
+EMH: The radiation surge caused my programme to malfunction and my codes and circuits began to degrade and yet, instead of detecting that threat to my programme, I experienced an elaborate delusion concerning the nature of my existence. Human or hologram. Person or projection. Why? Why would my programme focus on such an esoteric dilemma?#
+EMH: Not me. I know exactly who I am and what my purpose is. I am the Emergency Medical Hologram aboard the starship Voyager.#
+EMH: There are no toxins present in her system.#
+EMH: I am conducting an examination in order to determine that.#
+EMH: Her unusual appetite may merely indicate a nutrient deficiency. It is not unusual for humanoids to crave foods that are rich in the very vitamins and minerals that their bodies are lacking.#
+EMH: Her body temperature is elevated three point nine degrees.#
+EMH: And I'm detecting elevated levels of electrophoretic activity in her nervous system.#
+EMH: There is increased electrophoretic activity in the ship's atmosphere, probably created by the creatures we're studying.#
+EMH: You are making it impossible for me to think, much less treat my patient. You must leave.#
+EMH: Leave now or I will call security.#
+EMH: This is my Sickbay, and I will decide what goes on here.#
+EMH: Get out!#
+EMH: I was conducting tests. She was none too cooperative, let me assure you. Then suddenly she screeched and shoved me out of the way, went into my office and proceeded to erect a force field at the door. I can't lower it. She's keeping me out of my own office.#
+EMH: I was able to complete several tests before she became delirious. Her fever has increased, and her pulse and blood pressure are dangerously high.#
+EMH: I suspect it's the electrophoretic levels being created by the swarm. We should leave. Immediately.#
+EMH: There's one more thing. I discovered a strange growth on her back. It's unlike any other tumourous substance I've ever seen or studied before, and it was not there the last time I examined her.#
+EMH: Fascinating. The stimulation to the sympathetic nerves must set off a hormonal reaction, which activates glandular activity in the tissues of the tongue. I've never seen this response before. Although in a species known as the Gree, stimulating follicles on the proboscis results in a swelling of the auricular canal.#
+EMH: Yes?#
+EMH: You'll have to tell me. I know nothing of this ritual.#
+EMH: I see.#
+EMH: I can discuss delivery methods or paediatric situations. I'm afraid I don't have much perspective to offer about becoming a parent.#
+EMH: Perhaps a statistical survey will offer a context. Among the Breen, pregnancy at a young age is a common event. The Breen, of course, is one the most warlike of species. And then there are the Scathos. Any woman who conceives a child before her fourth decade is summarily executed.#
+EMH: There is a powerful biological drive, at times almost impossible to resist. Species are driven by these urges in order to survive.#
+EMH: On the rocks or straight up?#
+EMH: I'm here in an official capacity, of course. In case of a medical emergency.#
+EMH: Surprises have been known to cause acute hyperventilation, oesophageal spasms and in extreme cases, even coronary arrest. One can never be too careful.#
+EMH: The holodeck again?#
+EMH: This is infuriating.#
+EMH: How many times do I have to tell you, madam? I am a doctor, not a bartender.#
+EMH: Ensign Kim. I was just, er#
+EMH: The Captain and the others went to investigate the phenomenon Mister Tuvok reported.#
+EMH: Only a fraction of it.#
+EMH: For your information, I have been attempting to transfer myself back to Sickbay. But each time I try, I reappear here.#
+EMH: Not to mention extremely irritating. I can't seem to shut down Mister Paris's holoprogram either.#
+EMH: Wait just a minute.#
+EMH: What do you think you're going.#
+EMH: All the more reason I should be back in Sickbay. I'm sure that the Captain and the others will be able to do without you for a few more minutes.#
+EMH: There is another possibility. Exposure to some types of EM radiation has been known to cause hallucinations. Perhaps it's not the ship that's undergone changes but rather your perception of it. Unfortunately, without my medical equipment to analyse your optic nerves, there's no way to tell.#
+EMH: May I request that Kes be allowed to stay here with me? Beside helping stave off the predatory advances of that woman, she may be able to help me find a way to transfer myself back to Sickbay.#
+EMH: I'm not programmed to play games.#
+EMH: You see these hands? These are surgeon's hands, created by the most sophisticated computer imaging technology available. They do not play games, and they do not mop floors.#
+EMH: I really wish you would.#
+EMH: Oh, please tell me you've had some success in reinitialising the holoemitters.#
+EMH: Of course not.#
+EMH: What happened to her?#
+EMH: I can't guarantee she'll hear you, or be able to understand you if she does.#
+EMH: It's possible the spatial distortions have damaged her speech centre,  her neural pathways.#
+EMH: Captain, please lie down.#
+EMH: As much as he may annoy me at times, Mister Neelix is one of the most resourceful and resilient individuals I know. If anyone can survive this calamity, he can.#
+EMH: Captain?#
+EMH: You were delirious.#
+EMH: Are you all right?#
+EMH: Are you sure? You seem a little#
+EMH: You know, if you skip lunch, the result might be a lower blood sugar level, which could. I'm sorry. It's in my programme. I see something wrong, I must attempt to diagnose it.#
+EMH: How delightful.#
+EMH: You should consider it a high compliment. Throughout history, men have fought over the love of a woman. Why, I can quote you autopsy reports from duels as far back as 1538.#
+EMH: It's not meant to be. You've always been interested in autopsies.#
+EMH: I wouldn't know. I've only met one.#
+EMH: Are they? Lieutenant Paris's affection for you is obvious.#
+EMH: I mean he desires you.#
+EMH: Whenever you walk into the room, his respiration increases, his pupils dilate and the colouration of his ears turns decidedly orange. Until I noticed the pattern, I thought he was suffering from Tanzian flu. It's there for anyone to see. Maybe not in the same diagnostic detail as I see it, yet#
+EMH: You're only two years old. There may be a few things you don't know to look for in a man. In time, you'll understand.#
+EMH: Hmm. Your world must have very dry literature.#
+EMH: You've done nothing to precipitate this state of affairs. You may not be able to do much to resolve it either. There are some things you can't cure.#
+EMH: Well, this is certainly a brilliant feat of engineering.#
+EMH: Very amusing.#
+EMH: Excuse me, Captain. Would you come down here, please?#
+EMH: When did you last take shore leave?#
+EMH: Ah. How long since you've done something pleasurable, for recreation?#
+EMH: How long?#
+EMH: Well, I want you to, now.#
+EMH: I've checked Starfleet regulations. The Chief Medical Officer outranks the Captain in health matters. Now I realise this may be the first time a hologram has given an order to a captain, but I'm ordering you to report to the holodeck, now.#
+EMH: And the two of you can get busy undoing this ridiculous blunder of yours! [Holodeck - Gothic novel] (After getting changed and pausing for a wistful look at the picture of herself and her dog with Mark.)#
+EMH: I don't detect anything so far. No evidence of aneurysm, subdural haematoma, stroke.#
+EMH: Possibly. Did you go to the holodeck as I ordered?#
+EMH: And was that relaxing?#
+EMH: There are other possibilities we should consider. I want to scan for airborne bacteria and viruses. We should investigate the possibility of an alien intruder. And I'd like to do a cerebro-cortical scan on you.#
+EMH: Kes?#
+EMH: Hmm?#
+EMH: Hmm. How macabre.#
+EMH: My programmers didn't clutter me up with pithy Earth trivia. They programmed me with far more important data. Kes, would you please get my sub-neural scanner from the Med Lab?#
+EMH: I see you.#
+EMH: What happened?#
+EMH: Captain, until I am able to determine the cause of these hallucinations, I'd prefer that you return to your quarters. Get some rest. [Janeway's quarters]#
+EMH: Can you still see the hallucinations?#
+EMH: My patient has to rest now. I'm sure you'll want to get to the Bridge.#
+EMH: Captain, if you'll take a seat on one of the beds, I'd like to do some further tests. Kes, please prepare the Captain for a cerebro-cortical scan.#
+EMH: Captain, I can't allow you to leave Sickbay. You're in no condition to#
+EMH: It would appear that if the psionic field is to be blocked and the crew restored to normal, it's up to us. [Doctor's office] EMH: You will have to go to Engineering and complete Lieutenant Torres's efforts to create a resonance burst.#
+EMH: I will assist you from here.#
+EMH: I discussed the matter with Lieutenant Torres. I think I understand the basic principle behind her plan. How hard can it be?#
+EMH: Go to Engineering immediately. I'll contact you there.#
+EMH: Describe the nature of your pain.#
+EMH: Choose the word that would best describe your pain. Burning, throbbing, piercing, pinching, biting, stinging, shooting#
+EMH: Hmm.#
+EMH: Hmm? Oh, certainly. Fine. Nothing to worry about.#
+EMH: The position of the baby is simply putting pressure on your sciatic nerve. You may return to your post.#
+EMH: Elevating your legs when you sit should provide all the relief you need.#
+EMH: Mmm. Ensign Wildman, according to your medical history, this is your first pregnancy, correct?#
+EMH: Well, Ensign, unfortunately, pregnancy causes its fair share of discomforts, and you'll have to learn to live with them. That's just the way it is.  We'll schedule her for follow-up in two days. If the pain has not subsided on its own by then, we'll attempt to decrease the sensitivity of the nerve in that region.#
+EMH: Every member of this crew is an adult. I will not coddle them. Compassion can be your department. Fortunately, you have enough for both of us.#
+EMH: I don't have a life. I have a programme. [Chakotay's quarters] (Chakotay and Janeway enter.)#
+EMH: Please state the nature of the medical emergency.#
+EMH: We did. But I became so uncomfortable trying to find new ways to break the ice, as it were, that I restored it. Let's just say it works for me.#
+EMH: Ah, you noticed.#
+EMH: Generally, no, but I have accepted your challenge. I've programmed myself with the symptoms of a twenty nine hour Levodian flu. Thus, I will gain the experience that you suggest would be beneficial to the performance of my duties. A-choo.1 Holographic tissue paper for the holographic running nose. Don't offer them to patients. Hmm. Interesting sensation, blowing one's nose. It's my first time.#
+EMH: Nothing of the sort. I intend it to be an educational experience.#
+EMH: I meant for the crew. I'm tired of the whiny, cranky attitudes we see around here. I intend to serve as an example of how one's life and duties do not have to be disrupted by simple illness.#
+EMH: Neither do I, and you don't hear me complaining.#
+EMH: You're very lucky this bird didn't snatch your eye right out of the socket. We have no spare Talaxian eyeballs.#
+EMH: It's a holographic simulation, not an actual virus. There's no need for concern. You may sit up.#
+EMH: I don't require any compassion, thank you very much. I have been experiencing these symptoms for nearly twenty hours, and I am in complete command of my faculties.  You may both leave now.#
+EMH: Oh, I don't understand it. I ran a computer diagnostic and it said my programme was fine.#
+EMH: Oh.#
+EMH: Thank you. Thank you so much. Please, don't go yet.#
+EMH: I feel like I'm fading. Just fading away. You don't know what that means to a hologram.#
+EMH: Oh. My simulated virus is leading me to a simulated death.#
+EMH: She is far more devious than I ever suspected.#
+EMH: Today, yesterday and the day before. You'd think a Vulcan would be more attuned to punctuality.#
+EMH: So, how was school today?#
+EMH: Sounds stimulating.#
+EMH: I had no doubt that you would. But I'd appreciate it if you wouldn't let these mind studies interfere with your#
+EMH: I don't know. (They walk through to another area, the Medical lab?, where the EMH opens a cupboard to reveal the Caretaker's desiccated remains are rattling in their clear container. Then it stops. A little later, Janeway has arrived with Torres and Tuvok.)#
+EMH: Apparently so. But before I could analyse them, the life signs simply ceased.#
+EMH: Where?#
+EMH: Your cell membranes went through hyperthermic induction. The temperature of your blood rose by thirty seven degrees in a matter of seconds. You were in shock and I resuscitated you. I'm restricting you to light duty for the next three days. Try and get some rest.#
+EMH: Vulcans make the worst patients. Fine. But if you're feeling any nausea or dizziness I'm expecting you to report to Sickbay at once.#
+EMH: I'm detecting a residual transporter signature. There is no doubt that this man and his unfortunate companion were beamed into space.#
+EMH: Her early trials appear to have been less than successful.#
+EMH: Please state the nature. If there has been a change in the official dress code I certainly wish someone would have informed me.#
+EMH: I see. May I assume your haste is an indication that you have a medical problem of some kind.#
+EMH: Ah yes, the mechanical man. Kes told me about it. Fascinating.#
+EMH: Die?#
+EMH: What kind of energy source are we talking about?#
+EMH: Hmm. Like diseased blood.#
+EMH: Have you considered a transfusion?#
+EMH: Aren't Voyager's engines powered by warp plasma?#
+EMH: Which ordinarily would kill the unfortunate Bolian, but there have been instances when artificial blood was unavailable and existing blood cells were genetically altered for inter-species transfusions.#
+EMH: Go on.#
+EMH: That's exactly what I was going to suggest.#
+EMH: He's ingested a rare form of Nogatch hemlock. There is no known cure.#
+EMH: No.#
+EMH: I hope this is urgent, Lieutenant. We have our hands full at the moment.#
+EMH: Very well, we'll do what we can.#
+EMH: Cortical stimulator. I'm sorry, he was too badly injured.#
+EMH: Everyone seems to be in generally good condition. Malnutrition is the most common problem, but it's easily alleviated with bio-nutrient supplements.#
+EMH: I'd say less than an hour.#
+EMH: His life signs are normal. A few elevated serotonin readings in the hypothalamus. From what I can tell, he's just asleep.#
+EMH: I don't see why not.#
+EMH: Wake up, Lieutenant!#
+EMH: Well, I'm glad you had a good time.#
+EMH: You're not going anywhere. At least not for a few hours. I have some tests I'd like to run on Your Majesty before I release you back into the realm of ordinary humans.#
+EMH: It's a miracle he's still alive. This is strange.#
+EMH: He's definitely having an allergic reaction. To the water in the coffee.#
+EMH: I don't know how this is possible, but it appears that his entire biochemistry is changing. His electrolytes are breaking down, interstitial fluids are congealing.#
+EMH: The alveoli in his lungs are mutating. He's no longer processing oxygen.#
+EMH: Stand back. Computer, erect an isolation field around the surgical bay. Computer, remove all the air from within the forcefield and replace it with eighty percent nitrogen and twenty percent acidichloride. He can breath, for now.#
+EMH: I have no idea, but I assume it had something to do with his experience on the shuttle.#
+EMH: His cellular membranes are deteriorating. He's dying. I need to know more about what happened on that shuttle, and I need to know it now. Radiation levels, unexplained anomalies, anything. (Torres rushes out. Later, Kes is monitoring Paris' lifesigns at a console while the EMH goes inside the forcefield. Veins are standing out all over Paris' face.)#
+EMH: You're too stubborn to die, Mister Paris. I want to try high saturation radiometric therapy. It might slow down his cellular mutation.#
+EMH: A fitting epitaph, but I don't intend to let you use it just yet.#
+EMH: Begin with forty five rads per second.#
+EMH: No effect. Increase the dosage to eighty five rads per second. I'm going to try inhibiting the cell mitosis with a biosuppresser field.#
+EMH: It's not in my programme.#
+EMH: I'll note that in your medical file.#
+EMH: His lymphatic system is collapsing. Increase dosage to ninety eight rads per second.#
+EMH: His life signs are critical. Maximum dosage.#
+EMH: What?#
+EMH: She can't breathe the atmosphere in here.#
+EMH: Prepare to activate the neural stimulator.#
+EMH: Now! Again. Again! No neural activity.#
+EMH: His cell membranes have degraded. There's nothing more we can do. Computer, remove the acidichloride gas from the isolation field and deactivate the field. It will be necessary for us to perform an autopsy on the Lieutenant's body in the morning. Until then, I suggest you get some rest. (Kes kisses Paris' cheek, and leaves. Later, the EMH is working in his office when he hears a strange creaking sound. He follows the sound into the surgical bay, and pulls back the sheet from the body.) EMH: You're alive!#
+EMH: All of your internal organs are functioning again. In fact, you seem to have an extra one.#
+EMH: You have two hearts.#
+EMH: No.#
+EMH: So far, nothing has worked. The mutations are unlike anything in Starfleet medical records. His internal organs are being rearranged. Some have atrophied and been absorbed into his body, and there are at least three others that have appeared and have no identifiable function at all.#
+EMH: There are neuroelectrical transmutations at work. His synaptic patterns are changing almost every second. But he does still recognise me, the ship. He knows who he is.#
+EMH: Of course. But I feel I should caution you that while he still is Tom Paris, he's becoming something else as well. His personality is erratic, unpredictable. There are moments of lucidity interspersed with almost deranged behaviour.#
+EMH: I want you to run a nucleogenic scan to determine how much of his original DNA is left intact. In the meantime, I'm going to see about treating him with#
+EMH: What is it now, Mister Paris?#
+EMH: So I've noticed. Is it urgent? I'm rather busy right now.#
+EMH: I'm afraid that's not possible.#
+EMH: What do you understand?#
+EMH: I beg your pardon?#
+EMH: Something tells me we'd better hurry. [Briefing room] EMH [on#
+EMH: I don't understand. This should be working. We'll have to increase the duration of the bursts. Lieutenant, prepare a five second burst. Also, you'll need to begin depolarising the#
+EMH: Lieutenant?#
+EMH: Lieutenant! What's happening?#
+EMH: The changes in his DNA are consistent with the evolutionary development of the human genotype observed over the past four million years. Increased brain capacity, the loss of vestigial organs.#
+EMH: That's my theory. The only difference between natural evolution and what happened to Mister Paris is that his changes took place over a twenty four hour period. Somehow, travelling at infinite velocity accelerated the natural human evolutionary process by millions of years. It's possible that Mister Paris represents a future stage in human development, although I can't say it's very attractive.#
+EMH: I think my antiproton approach was correct. However, I'll need to intensify the treatment to restore his original DNA.#
+EMH: Captain, it'll take some time for your genetic codes to stabilise. I'd like you to remain in Sickbay for the next three days, just to be safe.#
+EMH: A perfectly good theory. Unfortunately it's wrong. This contusion is the result of a hard blow to the back of the skull.#
+EMH: The coup contra-coup pattern of breakage should tell us if the blow is the result of a moving head hitting a stationary object, or a moving object hitting a stationary head. In this case the pattern clearly indicates the latter. I'm sorry to report Crewman Darwin was murdered. [Ready room]#
+EMH: Do you see the DNA strands on the lower border?#
+EMH: DNA doesn't know how to lie, Lieutenant. [Suder's quarters] (Suder stares at the PADD.)#
+EMH: No doubt about it, this is the murder weapon. Mister Suder is apparently telling the truth. You don't seem satisfied, Lieutenant.#
+EMH: You have a confession and the murder weapon.#
+EMH: Does it matter?#
+EMH: Ah yes, I see. How to close the case without understanding the logic of the crime. For a Vulcan, that would be a dilemma, wouldn't it.#
+EMH: I doubt it. Kes, call up his genetic profile.#
+EMH: So he's not insane, per se. What do the elevated norepinephrine levels suggest?#
+EMH: These readings are not significantly different from those of the other Maquis crewmen. Obviously it takes a certain personality type to be attracted to the life of an outlaw.#
+EMH: And what if there was no motive?#
+EMH: I think you are trapped in your own Vulcan logic, Lieutenant. All of us have violent instincts. We have evolved from predators. Well, not me, of course, I've just been programmed by you predators. The question is, in a civilised world, can we suppress those instincts? Most of the time we can. Vulcans certainly can. You've got your violent feelings buried underneath centuries of control. But the rest of the humanoid races aren't always so skilled at self-discipline. Crewman Suder may have violent impulses that he just can't control.#
+EMH: It has been known to happen.#
+EMH: There's a definite neurochemical imbalance in the mesiofrontal cortex.#
+EMH: That's where the Vulcan psycho-suppression systems are located. This may be the result of an incompatibility with the Betazoid telepathic neural centre, I'm not sure.#
+EMH: Vulcan mind melds. Utter foolishness. Anybody with an ounce of sense wouldn't share his brain with someone else. Would you? I certainly wouldn't. And of course, when something goes wrong, and believe me it does more often than they'd like to admit, the first thing they call out is Doctor.#
+EMH: I wish I could tell you. There's a recommended course of treatments that should begin immediately.#
+EMH: First we have to take away his ability to control his violence. We do this in short bursts over a period of time and hope it provides a shock to his system. If it works, his own neural controls will take over again. I believe we're about ready. Revive him.#
+EMH: We've temporarily removed all of your emotional suppression abilities, Lieutenant. How do you feel?#
+EMH: Try to relax. The treatment still has about three minutes to go.#
+EMH: Sorry, I'm not prepared to do that. The course of treatment is very specific.#
+EMH: Ten seconds. Five seconds.#
+EMH: It's over.#
+EMH: He might be able to fool the sensors. Sedate him again. Computer, remove the forcefield.#
+EMH: I wish I knew, Captain. In a sense, Mister Tuvok's mind is fighting a classic battle between good and evil. The battle may be won in a day, a year, or it may never be won.#
+EMH: It may be hard for you to believe, Lieutenant, but what happened is encouraging. Your inability to complete the act of murder shows your suppression system in starting to function again. You're on your way back to being normal, although I'm not sure how the word normal applies to a species that suppresses all their emotions.#
+EMH: Choosing a name is no easy matter. I speak from experience.#
+EMH: I've reviewed historical, literary and anthropological databases from over five hundred worlds and have yet to find a suitable name. However, I may want to give some thought to Greskrendtregk.#
+EMH: Cameron, from the ancient Celtic term for one whose nose is bent.#
+EMH: Frederick. Very distinguished. However, it bears a close resemblance to a rather impolite term on the Bolian homeworld.#
+EMH: Yes, unfortunately it was also the name of a dictator on Sakura Prime, famed for beheading his rivals, and his parents.#
+EMH: You're right. I've never heard that name before.#
+EMH: Your scans look fine, Ensign. We'll see you in a week.#
+EMH: You never suggested your father's name to me.#
+EMH: Ah. Well, you were mistaken.#
+EMH: Won't mind that I just usurped her baby's name the moment I heard it? Thank you, but no thank you.#
+EMH: I'm a doctor, not a performer. I don't have time for such nonsense.#
+EMH: I don't think so.#
+EMH: I would?#
+EMH: This one's not badly hurt. Twenty milligrams impedrazine.#
+EMH: Treat him with the dermal regenerator. Ah, the situation has been stabilised. None of the victims is in danger any longer.#
+EMH: One of the patients? I'd think you'd be more interested in my assessment of the medical situation.#
+EMH: Yes. The first task is to triage, or to assess the relative condition of each of the victims, and then to prioritise treatment accordingly.#
+EMH: I wasn't finished. Next, the treatment per se must be supervised#
+EMH: Er.#
+EMH: Twenty milligrams of lectrazine.#
+EMH: In her parietal lobe. It looks like some sort of implant. It's a very complex web of bioneural circuitry. Nanofibres.#
+EMH: On the contrary. According to these readings, the device is actually storing her synaptic patterns, processing them and transmitting neural electrical impulses to the rest of her systems.#
+EMH: No. I'd say it's more like a neuro-cortical stimulator, designed to supplement the higher brain functions.#
+EMH: From what I can tell, the implant itself is functioning, but it's connected to mostly dead nerve cells. If we don't do something quickly, she'll be brain dead in a matter of minutes.#
+EMH: Very impressive, Kes, but I think it's too late for that. Get me a high frequency RF transmitter. You're going to have to hurry, Kes. The patient's brain function is diminishing rapidly. Now, set the delta band frequency of the holo-emitter to eight point six tetrahertz.#
+EMH: Transferring the patient's synaptic patterns into the holo-buffer before they degrade completely.#
+EMH: There's enough capacity for my programme, isn't there? And my programme contains over fifty million gigaquads of data, which I don't have to tell you is considerably more than most highly developed humanoid brains.#
+EMH: I'm creating a holographic body. Not only will we be able to communicate with the patient, but we'll have an accurate model of healthy Vidiian physiology that will aid in treating her actual body. Computer, project the patient's skeletal structure. Now add internal organs. Add musculature. Now apply epidermal layers. Computer, use transporter records to recreate the patient's clothing. [Ready room]#
+EMH: I'm the Chief Medical Officer of the Federation Starship Voyager. We received your distress call and brought you aboard.#
+EMH: It's quite simple, really. I used the undamaged chromosomes in your cerebellum to recreate your original DNA code, and then programmed the computer to project a holographic template based on that genome.#
+EMH: A three-dimensional projection of light and energy. See for yourself.#
+EMH: Your neural patterns were degrading rapidly. It was too late to expect results from inaprovaline, so I was forced to improvise, not that it would have occurred to just any physician. Why are you crying?#
+EMH: I thought you'd be pleased.#
+EMH: I'll need a complete medical history. How long have you been ill exactly?#
+EMH: And when did you begin receiving replacement tissue?#
+EMH: I wouldn't be too grateful. There are serious limitations to being a hologram. First of all, we can only exist within environments equipped with holo-emitters, such as the Sickbay.#
+EMH: I'm this ship's Emergency Medical Holographic Programme.#
+EMH: An incredibly sophisticated computer simulation.#
+EMH: I don't have a name. It wasn't part of my original programme. However you, I'm sure, have one.#
+EMH: Well, Miss Pel. May I ask what someone with an illness like yours was doing alone in space with no access to medical care?#
+EMH: You're a medical practitioner of some kind?#
+EMH: Well then, perhaps given your expertise, you can help me with your treatment.#
+EMH: Unfortunately, that's only temporary. Your synaptic patterns will eventually degrade if we don't get them out of the pattern buffers and back into your brain.#
+EMH: A few days. Perhaps a week.#
+EMH: Your real body is in stasis. As you can see, we have to find a way to repair your damaged neural tissue. Is something wrong?#
+EMH: I'm eager to discuss treatments.#
+EMH: The procedure is quite simple. I'll drill an opening into your skull precisely two millimetres in diameter, and then use a neuralyte probe to extract a sample of your parietal lobe, weighing approximately one gramme.#
+EMH: Your experience in the Vidiian prison suggests Klingon DNA is resistant to the Phage. Losing a small amount of neural tissue is inconsequential.#
+EMH: Yet that same tissue, grafted onto the patient's brain and stimulated to grow, will significantly slow the spread of her infection. If we can increase the grafted tissue mass quickly enough, we can transfer her synaptic patterns back into her brain before they degrade in the holo-buffer. It won't cure the Phage, but it should prolong her life considerably. Please, change into a surgical gown and lie down on biobed number one.#
+EMH: I've finished ingrafting the Klingon neural tissue to your cerebral cortex. Now all I have to do is create an axonal pathway between that tissue and your basal ganglia.#
+EMH: It's all part of my programming. For example, this exact procedure was developed by Doctor Leonard McCoy in the year 2253. I'm equipped with the collective medical knowledge of more than three thousand cultures. Additionally, as you see here, my imaging system allows me to perform, and in many cases improve upon, the most delicate tactile manoeuvres required by a dizzying array of surgical procedures.#
+EMH: It is, isn't it? Hand me the submicron suture, please. There. That should do it. Excellent work, Doctor.#
+EMH: Nonetheless, that assistance was invaluable. It could be two or three days before we'll know if the graft will hold. In the meantime, perhaps I should deactivate your programme temporarily.#
+EMH: It would slow the degradation of your synaptic patterns.#
+EMH: Unfortunately, that's not possible. However, if you're looking for something to do, please feel free to use my office to access our medical database. You'll find several interesting texts on comparative endocrinology.#
+EMH: On second thought, there is someplace else we could go.#
+EMH: Don't your people have recreational facilities?#
+EMH: A wise policy.#
+EMH: She is not my date. She's my patient.#
+EMH: Mister Neelix, this is Doctor Denara Pel.#
+EMH: Go away, immediately, both of you. You're disturbing my patient.#
+EMH: I apologise.#
+EMH: Irritating, isn't it?#
+EMH: It's a natural response.#
+EMH: There's not much to tell, really. My programme was developed by Doctor Louis Zimmerman in a lab on Jupiter Station. I was activated on stardate 48308. Since that time I've performed three hundred and forty seven medical exams, healed eleven compound fractures, performed three appendectomies, and in my greatest feat of medical prowess, I once cured Mister Neelix of an acute case of the hiccups.#
+EMH: I am? Well, several clinical studies have shown humour to be very therapeutic. Consider it part of your treatment. What is it?#
+EMH: That's dancing.#
+EMH: It's not part of my programming.#
+EMH: Well, Doctor Pel.#
+EMH: As you wish, Denara.#
+EMH: Well, as I said.#
+EMH: Well, I#
+EMH: Shmullus?#
+EMH: Doctor Shmullus. I think I like the sound of that.#
+EMH: Denara, I think we should#
+EMH: Deactivate your programme for at least eight hours.#
+EMH: I do.#
+EMH: All right. Computer#
+EMH: Yes?#
+EMH: I'm pleased.#
+EMH: Thank you for giving me a name. Er, well, good night, Denara.#
+EMH: Computer, deactivate Vidiian Programme Alpha. [Mess hall]#
+EMH: I'm running a level two self-diagnostic right now. I'll be there as soon as I'm finished.#
+EMH: I've been experiencing periodic lapses in concentration and difficulty handing objects. There may be a malfunction in my tactile acuity subroutine.#
+EMH: About two or three days.#
+EMH: What's your point?#
+EMH: I fail to see a connection.#
+EMH: I told you, my programme's malfunctioning.#
+EMH: Romance is not part of my programming.#
+EMH: Yes.#
+EMH: What if I don't want it to adapt right now?#
+EMH: Because I don't like what's happening to me. I'm used to being in control of my faculties, confident of my decisions. But lately, whenever Denara's programme is deactivated and I should be concentrating on my work, I find myself thinking of nothing but her.#
+EMH: Because whenever I do that, I suddenly feel unsettled, unsure of myself, and I have no idea what to say. Why would people seek out situations which induce such unpleasant symptoms?#
+EMH: Suppose, hypothetically, of course#
+EMH: I wanted to pursue that possibility. How would I proceed?#
+EMH: That's it? Just tell her how I feel?#
+EMH: I'm going to try stimulating your motor neurons. Well, the nucleus cuneatus appears to be functioning normally. And now for the anterior thalamic pathway. Excellent. By the way, Denara, I've been meaning to tell you.#
+EMH: I'm romantically attracted to you and wanted to know if you felt the same way.  Is something wrong?#
+EMH: Did you understand what I said?#
+EMH: Well?#
+EMH: Excuse me, Kes. I was speaking to Denara.#
+EMH: Oh. I'm going to try simulating the posterior sciatic nerve.#
+EMH: Actually, Mister Paris, I was looking for you.#
+EMH: Mister Paris, I assume you've had a great deal of experience being rejected by women.#
+EMH: What I'd like to know is, what does one do to recover from the unpleasant symptoms of romantic rejection?#
+EMH: I can't tell you. It's a matter of doctor-patient confidentiality.#
+EMH: I see.#
+EMH: So, the symptoms do subside over time?#
+EMH: I told you, it was confidential.#
+EMH: I did?#
+EMH: Well, what would be the right approach?#
+EMH: Where would I take her?#
+EMH: I wasn't sure you were coming.#
+EMH: If you don't want to be here#
+EMH: On a planet called Mars inside a primitive land based vehicle. It's called a '57 Chevy. Mister Paris is quite an automobile aficionado. This is his programme.#
+EMH: I believe it's called parking. I almost forgot. These are for you. (He gets a bunch of roses and a box of chocolates from the back seat. And a cuddly toy.)#
+EMH: I downloaded a new dancing subroutine programme into my programme this morning. Would you like to get out and try it?#
+EMH: You wouldn't?#
+EMH: Well, if you're interested, I could point out a few astronomical highlights. You see that bluish planet there? That's called Earth. It's where Starfleet Headquarters is located. And over there, that's Cygnus. And there, that constellation is called Hercules, named after a character in ancient Greek myth. Hippocrates was also a Greek. He was the father of Earth medicine. And that cluster over there, that's called the Pleiades.#
+EMH: Set the delta band frequency of the holo-emitter to seven terahertz.#
+EMH: Wait a minute. Did you administer the cervaline as I instructed?#
+EMH: I don't understand it.#
+EMH: The brain, your brain, it's rejecting the graft. We can't go through with the transfer. I'm detecting elevated levels of nytoxinol.#
+EMH: Is it possible you made an error? Administered nytoxinol instead of cervaline?#
+EMH: You're correct. It's cervaline. Has anyone else been in Sickbay during the last twenty four hours other than you and Denara?#
+EMH: Because if the nytoxinol was not administered by accident, I can only conclude that someone is deliberately trying to kill Denara.#
+EMH: Perhaps someone who bears ill will towards Vidiians. Whoever it is, I intend to find out. I'm calling Lieutenant Tuvok.#
+EMH: We have to find out who's trying to obstruct your recovery.#
+EMH: Didn't you know it would kill you?#
+EMH: She is you.#
+EMH: Looking for the cervaline. I have to reduce the rate of tissue rejection before it's too late.#
+EMH: If we don't get your neural patterns out of the holo-buffer, you'll be brain dead in a matter of days. I can't let that happen.#
+EMH: It's my duty to keep you alive.#
+EMH: I am your friend.#
+EMH: You're a doctor. You can help them.#
+EMH: Denara. I have no desire to see you suffer.#
+EMH: No, but#
+EMH: Denara, I was never afraid to touch you.#
+EMH: Because I love you.#
+EMH: If you go through with the transfer.#
+EMH: Denara, you're not ugly. You're simply ill.#
+EMH: Denara, do you think if you go back into your own body, I'll feel different about you?#
+EMH: Listen to me. Nothing could ever change the way I feel about you. Not a few scars, not some diseased skin. Nothing.#
+EMH: You said before you knew me that you were just a disease. Well, before you, I was just a projection of photons held together by force fields. A computerised physician doing a job, doing it exceptionally well, of course, but still it was just a profession, not a life. But now that you are here and my programming has adapted, I'm not just working anymore. I'm living, learning what it means to be with someone, to love someone. I don't think I can go back to the way things were, either. Denara, please. Don't die.#
+EMH: So do I.#
+EMH: I know. But we'd still have two weeks together before we reached your colony. Denara, please, be with me for as long as you can.#
+EMH: Computer, play music programme Doctor Alpha.#
+EMH: Cervical dilation is at ten point two centimetres. Prostaglandin levels are normal. Push, Ensign.#
+EMH: I know you're fatigued. Try to focus on your breathing. Remember the exercises we did. When you feel a contraction, bear down.#
+EMH: What's wrong?#
+EMH: The baby has shifted position, and its exo-cranial ridges have lodged in the uterine wall. This is a rare complication, but it's been known to happen in human Ktarian pregnancies.#
+EMH: No. Its spinal column is too fragile. I don't want to risk nerve damage. If we don't deliver the baby now, its ridges could perforate the uterus and cause internal bleeding. Kes, prepare for a foetal transport.#
+EMH: Congratulations, Ensign. It's a girl.#
+EMH: The transport caused a slight hemocythemic imbalance, but we'll stabilise her cell membranes with osmotic pressure therapy.#
+EMH: The incubator is losing power. Activate the auxiliary respirator.#
+EMH: Second degree plasma burns on the face and neck. Treat him with a dermaline gel.#
+EMH: Fractured clavicle, thoracic contusions, nothing serious. She can wait. Fused vertebrae. Prep him for surgery. Status?#
+EMH: Increase the osmotic#
+EMH: That's not helping. Increase the osmotic pressure ratio by ten percent.#
+EMH: Acknowledged.#
+EMH: Try remodulating the osmotic pressure.#
+EMH: Hang on. I'll be right there. (Another proton burst hits. The EMH flickers and drops his dermal regenerator.) EMH: Oh, no.#
+EMH: Prepare for emergency resuscitation.#
+EMH: Not if I can help it. [Jefferies tube]#
+EMH: I'm sorry, Ensign.#
+EMH: I'm not surprised. I am programmed to be heroic when the need arises. By the way, Ensign, this other Doctor, did he have a name?#
+EMH: By all means.#
+EMH: Ah, visitors! Welcome to sickbay. I'm the Chief Medical Officer.#
+EMH: It's an honour to meet you. We don't often receive such distinguished guests here, unless there's been some sort of accident. I'm sure nothing unfortunate will happen to you on your visit here, but if it did you can rest assured you will find yourself in very capable hands. We are fully equipped to provide a wide variety of treatments here from removing a splinter to re-sequencing the base pairs in a strand of DNA, and our research facilities are the most advanced in Starfleet.#
+EMH: Perhaps you'd like to use my office?#
+EMH: I'm afraid it's just Doctor.#
+EMH: Kes has been coaching me on my diplomatic skills.#
+EMH: Was it something I said?#
+EMH: Excuse me, you're not holding that properly. Correct positioning of the index finger is necessary for optimal dexterity.#
+EMH: I'm Captain Janeway's representative. I'm here to negotiate with you. Are you well, Mister Kim?#
+EMH: I would be pleased to tell you all about myself at a more appropriate time. For now, suffice it to say that I am here by a miracle of technology. Now, let's get down to the issues, shall we?#
+EMH: I have a very trustworthy face. My captain is prepared to give you exactly what you asked for, under the condition you release all the hostages.#
+EMH: We would provide continuing input from a simulated brain. A computer model that would generate#
+EMH: I, myself, have a comparable#
+EMH: The simulated brain#
+EMH: The captain is prepared to risk the lives of the hostages rather than leave them under your control.#
+EMH: She's the one out there with the off switch in her hand.#
+EMH: A compromise. Let some of them go.#
+EMH: We've studied your system. You only need one to survive.#
+EMH: If we could just#
+EMH: I'll be back.#
+EMH: Unstable, unpredictable. Everything you'd expect from fear.#
+EMH: There would certainly be brain damage.#
+EMH: Possibly, yes. Would Mister Kim still be able to hold his clarinet when I was done? Possibly. The brain is such an interesting organ.#
+EMH: I'll choose not to take that personally, Lieutenant. For what it's worth, Mister Viorsa suggested there would be a way to make a simulated brain function in this system. He suggested it would take a recalibration of the optronic pathways.#
+EMH: Perhaps it was because the clown's attention was divided at the time.#
+EMH: My sweet captain has a new offer to make.#
+EMH: The captain is prepared to give you a cloaking device.#
+EMH: I'm talking about a device that would shield you from being detected by any other interstellar visitors. [Cargo Bay 1]#
+EMH: We will return your entire computer system to the subterranean locale where we found it. With the help of Mister Kim and a team of Starfleet engineers, it will be an easy matter to install the cloaking device, which will insure your safety for the foreseeable future.#
+EMH: You have to understand that the captain's primary concern is the safety of the hostages.#
+EMH: Fear can provide pleasure. To seek fear is to seek the boundaries of one's sensory experience.#
+EMH: I don't get out very much.#
+EMH: The captain has sent me with an ultimatum.#
+EMH: The captain is prepared to shut down the system one minute from now if you don't agree to her terms.#
+EMH: Fifty two seconds. She is willing to risk brain damage to the hostages, but she will end this, and end this now, one way or another.#
+EMH: Forty three seconds. She will allow you to keep one person on the system. The other hostages must be released.#
+EMH: You have thirty seconds to avoid termination.#
+EMH: Twenty seconds. There is another provision. The one hostage you will be allowed to keep is Captain Janeway herself.#
+EMH: Your time is up. Your answer, please.#
+EMH: My scans indicate that all biological matter was merged on a molecular level. Proteins, enzymes, DNA sequences. The man you see before you is literally a fusion of two men. But he's surprisingly healthy considering the circumstances. All vital signs are stable.#
+EMH: I'm also picking up traces of a third genetic pattern. It appears to be plant-based.#
+EMH: Well, they're part of your genetic structure now. But they don't appear to be affecting your biochemistry.#
+EMH: Yes, Captain. EMH: Kes, take our patient to the science lab and perform a full bio-spectral analysis. I'll start examining the genetic data. [Science lab]#
+EMH: If I may, Captain. Mister Tuvix#
+EMH: Apparently, that's what he likes to be called. Mister Tuvix is indeed in perfect health. And since I've collected all the data I need, there's no reason I can't continue my investigation without him for the time being. And according to my tests, he's quite correct when he says that he possesses Tuvok's knowledge and expertise. He also possesses Tuvok's irritating sense of intellectual superiority and Neelix's annoying ebullience. I would be very grateful to you if you would assign him some duty, any duty somewhere else.#
+EMH: Obviously, in the case of Mister Tuvix, we're dealing with a much more complex organism than a flower. In effect, we're talking about recreating two humanoid life-forms without so much as a single discrete strand of DNA to start with.#
+EMH: I am an incredibly skilled doctor, and I will continue to pursue a safe and effective treatment until I find one. But I won't lie to you. I'm not optimistic. It could take months, even years, to find a solution. And we must face the possibility that this condition is simply untreatable. I feel as though I've lost two patients. I'm sorry.#
+EMH: Until late in the twenty first century, physicians administered barium to patients with certain gastrointestinal disorders. The radioactive properties of the barium made the lining of the intestines visible with a primitive imaging technology called X-rays.#
+EMH: Then we simply beam out the selected DNA and segregate the two merged species.#
+EMH: It will require a more detailed reprogramming of the transporter, but, yes, I believe we can restore Mister Tuvok and Mister Neelix.#
+EMH: I assure you, Mister Tuvix, there's nothing to worry about. We've accounted for every variable.#
+EMH: I'm sorry, Captain, but I cannot perform the surgical separation. I am a physician, and a physician must do no harm. I will not take Mister Tuvix's life against his will.#
+EMH: A total of seventeen days.#
+EMH: I wanted to exhaust every possibility of finding a cure.#
+EMH: I regret to inform you that I have been unsuccessful. [Planet surface] EMH#
+EMH: If you leave, you risk a recurrence of the disease, which would undoubtedly prove fatal. The only option I can think of at the moment is contacting the Vidiians. They have sophisticated medical technology. It's possible they might be able to help. [Planet surface]#
+EMH: Set it with the osteogenic stimulator.#
+EMH: Odd. Why wouldn't they just use the comm. line? I don't think this is coming from our ship.#
+EMH: Denara!#
+EMH: Do they know you're contacting me? Are you in any danger?#
+EMH: I believe you.#
+EMH: Our shields are up. We can't transport anything through them.#
+EMH: All right. I'll see what I can do.#
+EMH: Sickbay to Bridge.#
+EMH: It appears he inhaled noxious gases vented in the damaged shuttle. Forty milligrams pulmozine.#
+EMH: He'll be on his feet in a day or two but there's still a number of things we need to keep an eye on. He's had a nasty concussion, spinal cord trauma and a polycythemia, the cause of which I've yet to discover.#
+EMH: An abnormal increase in the number of red blood cells.#
+EMH: I'm afraid that won't help you determine if he's telling you the truth, Commander. An ARA depends on making a baseline comparison with the known response for a given species. Any Tom, Dick or Harry from the Alpha Quadrant, I could probably help you, but not with any of the new species of the Delta Quadrant. Regarding his veracity, it may help you to know that if we'd arrived an hour later, he would have been dead from his injuries.#
+EMH: You are making an adequate recovery, Mister Teirna. The only matter that I simply cannot understand is this lingering polycythemia.#
+EMH: The medical record you gave us does not indicate any prior blood disorders. Might it be an inherited trait? Do you know if your parents ever#
+EMH: I see. Well, we'll need to monitor this condition for a while. It might be due to some chemical imbalance that our sensors aren't recognising, possibly the result of the toxins you inhaled while on the shuttle. You're welcome.#
+EMH: Commander Chakotay! Not in my Sickbay. Please.#
+EMH: I told you we should have run one last systems check.#
+EMH: Computer, activate Medical Holographic recall. Set for twelve hours. Mark.#
+EMH: Please state the nature of the medical emergency.#
+EMH: How could I forget such an intriguing medical mystery? A Bajoran crewman with a Cardassian physiology. How are you, Seska? I see we have a new passenger.#
+EMH: How interesting.#
+EMH: One humanoid is pretty much the same as another from a holographic point of view. I'm programmed to provide medical care to anyone who needs it.#
+EMH: I've learned that a bedside manner occasionally requires me to, how should I put it, soft-pedal the truth. But bald-faced lying, calculated deceit? I don't have much experience with that sort of thing. But my programme is adaptive. If you really need me to be deceptive, I'm sure I could learn.#
+EMH: As you wish. Your baby's in good health.#
+EMH: Chakotay's son? That isn't Chakotay's son.#
+EMH: That may have been your intention, but it certainly wasn't the result. Here. See for yourself.#
+EMH: Your child has Cardassian DNA strands here and Kazon DNA here. Human DNA has a significantly different nucleotide sequence.#
+EMH: He's the first offspring of a Cardassian and a Kazon. We have no frame of reference by which to judge his initial appearance. Perhaps he will develop more Kazon features as he matures.#
+EMH: Eighty nine.#
+EMH: What did you say? Betazoid?#
+EMH: Where? Who?#
+EMH: Who is it?#
+EMH: Suder. Where is he?#
+EMH: Doctor to Suder. [Jefferies tube]#
+EMH: I was beginning to think you'd got lost.#
+EMH: We have no time to waste. According to the computer, we're at warp. We've got to figure out some way to slow the ship down before we get too far from the crew. That would seem to be our first priority. And then we have to get some weapons. Mister Suder, are you listening to me?#
+EMH: Oh. I see. Perhaps you consider this an opportunity.#
+EMH: To obtain your freedom from confinement. How foolish of me to think you would want to help.#
+EMH: Then what?#
+EMH: It is possible. Violence might be required to retake the ship.#
+EMH: Mister Suder. If Lieutenant Tuvok were here, I know he would tell you there are times when violence is required to defend yourself, to defend your ship, to defend your crew.#
+EMH: We must do this together, Mister Suder. If you don't trust yourself yet, then trust me. I will help you anyway I can. One hologram and one sociopath may not be much of a match for the Kazon, but we'll have to do.#
+EMH: Yes, of course. We use it to treat radiation burns.#
+EMH: Mister Suder, we need some weapons if we're going to retake the ship.#
+EMH: On the emergency channel?#
+EMH: Of course. You were smart to bring him here. We can put him in a stasis drawer.#
+EMH: You did what was necessary, Mister Suder. Five cc's of improvaline will help you calm down.#
+EMH: You must be mistaken.#
+EMH: It was damaged on a recent away mission and left behind.#
+EMH: I wouldn't know.#
+EMH: There are several dozen crewmen on board actually, and they have been working round the clock to sabotage your vessel.#
+EMH: Yes. Of course, you're right. It is one of the Maquis.#
+EMH: Sticks and stones won't break my bones, so you can imagine how I feel about being called names.#
+EMH: Very well. Since you are obviously about to disable my programme anyway, let me take the credit I deserve. I did sabotage the ship all by myself, with the computer's help, of course. As a matter of fact, one of your crewman came in unexpectedly and caught me in the act. [Stasis room] (Just off Sickbay. The EMH opens the drawer containing the Kazon crewman.)#
+EMH: He left me no choice.#
+EMH: I would think it's obvious. To make you believe I was hiding someone. I've had your people crawling through the bowels of this ship for hours looking for an intruder.#
+EMH: I was inspired by the presence of a master.#
+EMH: You would have been proud of him, Mister Tuvok.#
+EMH: Her lifesigns are very weak but stable. It appears that her synaptic pathways have undergone severe neuraleptic shock which is disrupting all cortical functions. It is similar to a comatose state, but with none of the usual biochemical markers.#
+EMH: I can't even speculate on a treatment until I know more about what caused her condition.#
+EMH: Yes. I received a fascinating lesson in the challenges of getting clear scanner readings through solid rock. We were eventually able to distinguish an intense biogenic field at the site of Kes's accident. That would certainly explain the neuraleptic shock. She was lucky not to have been killed instantly.#
+EMH: Really? I don't expect they'd care to tell us how.#
+EMH: She's not responding to conventional treatments, and frankly I'm running out of unconventional ideas as well. The level of activity in her brain is so low I can't rule out the possibility of permanent damage, even if I can revive her. The longer she stays in this condition, the less likely it is she'll ever recover.#
+EMH: I'm afraid there's been no change.#
+EMH: Not at all. She's probably experiencing light strain. What you'd expect in an endurance ritual.#
+EMH: It's too early to tell. I'm downloading every iota of information from the bioprobe sensors into a physiometric programme which is analysing the data. Even the smallest physiological change may prove significant. We can't discount anything. [Ritual room] (The strain of holding up the large stone is telling on Janeway.)#
+EMH: Ah ha!#
+EMH: There have been significant increases in the Captain's respiration, neuropeptides and adenosine triphosphate levels.#
+EMH: It certainly suggests she's going through a gruelling experience. But it's the neuropeptides that are interesting. The saturations have risen to quite an abnormal level.#
+EMH: I can't say it's either so far as the Captain's concerned, but it certainly seems a substantial piece of information. Neuropeptide levels this high could well create a natural barrier to biogenic energy.#
+EMH: Not yet, but it's the first piece of data that allows me even to formulate a hypothesis.#
+EMH: Mister Neelix, you're wallowing.#
+EMH: In useless remorse. I'll have to ask you to stop, it's bad for the patient.#
+EMH: If it's any consolation, Mister Neelix, I do understand. [Ritual room]#
+EMH: I understand your concern, Commander, but I must point out that her vital signs are stable. She seems to be in no immediate danger.#
+EMH: You seem to be implying that I'm not paying attention. I assure you I am monitoring her constantly. If I thought she were in jeopardy I would act.#
+EMH: Not that I'm aware of. She's fully conscious and has complete motor control. If she wanted to transport she could signal us.#
+EMH: I am getting some remarkable data. Her entire biochemistry is undergoing a series of unique interactions. Look. This amino acid has been formed as a result of the breakdown of the toxin in her blood stream. It's affecting the normal flow of neurotransmitters and very likely having an hallucinogenic effect.#
+EMH: I think she's experiencing the Nechani version of a psychoactive drug.#
+EMH: I don't believe that's the case, and I strongly suspect this biochemical change is going to give us the answers we need. The toxin in her bloodstream may very well be the key to getting a treatment for Kes.#
+EMH: Right away. The ritual may have been arduous for you, Captain, but it was certainly worthwhile. As I suspected, the toxin was the key. That's what produces the natural immunity the Nechani monks acquire before they enter the biogenic field.#
+EMH: I've created a physiometric programme to analyse the immune mechanism and develop a treatment regimen.#
+EMH: I'll carry out the treatment in stages to reduce the physical stress from the metabolic changes.#
+EMH: I don't believe so. Hmm, her electrolyte balance is deviating, but that's not entirely unexpected.#
+EMH: Hmm.#
+EMH: Mister Neelix, if you keep on pestering me with questions I won't be able to concentrate on what I'm doing.#
+EMH: Her cardiac functions are being disrupted. I don't understand it. Lectrazine should counteract the disruptions. This is baffling. Her biochemical levels are exactly what they need to be to correct the damage. She should be awake and alert.#
+EMH: I can't explain it. Her vital signs are unstable. I have to discontinue treatment. I don't understand it.#
+EMH: It's too dangerous.#
+EMH: No. I'm sorry, Captain, but it appears that everything you went through was meaningless.#
+EMH: The tricorder readings Commander Chakotay took at the shrine revealed traces of iridium ions, which we could have known about sooner if we'd been permitted to take those readings in the first place.#
+EMH: They caused a temporary dielectric effect in the outer epidermal layers which neutralised some of the biogenic energy. Not much, but enough to make the Captain's altered biochemistry an effective defence.#
+EMH: The metabolic treatment I administered protected you against the full impact of exposure to the field when the Captain took you through. That exposure functioned like a natural cortical stimulator and reactivated your synaptic pathways.#
+EMH: Captain? If there's something about my analysis you disagree with.#
+EMH: We suspect foul play.#

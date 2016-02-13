@@ -1,16 +1,42 @@
 import java.io.*;
+import java.net.InterfaceAddress;
 import java.net.URL;
 import java.util.ArrayList;
 
 public class ScriptScraper {
-	static ArrayList<Integer> specialCases = new ArrayList<>();
-
 	public static void downloadEpisodes(Series series) {
-		//Comma separated list of the second part of two part episodes
-		//This way, those are skipped
-		specialCases.add(102);
-		for (int i = 101; i < 278; i++) {
-			if (PositronicBrain.nextEpisodeNumIsSkipped(i, series)) i++;
+		int firstEpisodeNumber = 1;
+
+		switch (series) {
+			case NextGen:
+			case Voyager:
+				firstEpisodeNumber = 101;
+				break;
+			case DS9:
+				firstEpisodeNumber = 401;
+		}
+
+		int episodeCuttoff = 0;
+
+		switch (series) {
+			case StarTrek:
+				episodeCuttoff = 80;
+				break;
+			case NextGen:
+				episodeCuttoff = 278;
+				break;
+			case DS9:
+				episodeCuttoff = 576;
+				break;
+			case Voyager:
+				episodeCuttoff = 723;
+				break;
+			case Enterprise:
+				episodeCuttoff = 99;
+		}
+
+		for (int i = firstEpisodeNumber; i < episodeCuttoff; i++) {
+			if (PositronicBrain.episodeNumIsSkipped(i, series)) i++;
 			else if (PositronicBrain.isAtVoyagerGap(i, series)) i = PositronicBrain.getNumPastVoyagerGap(i);
 
 			try {
@@ -65,13 +91,15 @@ public class ScriptScraper {
 	public static void saveEpisode(String s, int n, Series series) {
 		PrintWriter txtFile;
 		String seriesString = series.toString();
-		File dir = new File("./scripts" + seriesString);
+		File dir = new File("./scripts/" + seriesString);
+
+
 		dir.mkdir();
 		try {
-			FileReader file = new FileReader("./scripts" + seriesString +"/Episode " + n + ".txt");
+			FileReader file = new FileReader("./scripts/" + seriesString +"/Episode " + n + ".txt");
 		} catch (FileNotFoundException e) {
 			try {
-				txtFile = new PrintWriter(new FileWriter("./scripts" + seriesString +"/Episode " + n + ".txt", true));
+				txtFile = new PrintWriter(new FileWriter("./scripts/" + seriesString +"/Episode " + n + ".txt", true));
 				txtFile.println(s);
 				txtFile.close();
 			} catch (IOException ex) {
