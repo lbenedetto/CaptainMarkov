@@ -13,14 +13,19 @@ public class PositronicBrain {
 		createMarkovs(Series.StarTrek, new String[]{"Kirk", "Spock", "McCoy", "Uhura", "Chekov", "Sulu", "Computer"});
 		createMarkovs(Series.NextGen, new String[]{"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"});
 		createMarkovs(Series.DS9, new String[]{"Sisko", "O'Brien", "Bashir", "Worf", "Odo", "Kira", "Dax", "Ezri", "Quark", "Dukat", "Garak", "Weyoun", "Founder", "Nog", "Rom", "Computer"});
-		createMarkovs(Series.Voyager, new String[]{"Janeway", "Paris", "Chakotay", "Torres", "Neelix", "EMH", "Tuvok", "Seven", "Computer"});
+		createMarkovs(Series.Voyager, new String[]{"Janeway", "Paris", "Chakotay", "Torres", "Neelix", "EMH", "Tuvok", "Computer"});
 		//createMarkovs(Series.Enterprise, new String[]{"Jonathan", "Tucker", "T'Pol", "Phlox", "Computer"});
 		// I might have missed some Enterprise characters, I don't know that show very well
 	}
 
 	public static void createMarkovs(Series series, String[] characterNames)
 	{
-		MarkovChain CaptainsLogs = new MarkovChain(new KeyWord("Captain's log", false, series));
+		String logPhrase = "Captain's log";
+
+		if (series == Series.DS9)
+			logPhrase = "Station log";  //this phrased was used more on DS9 than captain's log since Sisko was a commander at first
+
+		MarkovChain CaptainsLogs = new MarkovChain(new KeyWord(logPhrase, false, series));
 		MarkovChain Commands = new MarkovChain(new KeyWord("Computer, ", true, series));
 		MarkovChain[] Characters = new MarkovChain[characterNames.length];
 
