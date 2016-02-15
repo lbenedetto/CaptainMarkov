@@ -1,0 +1,832 @@
+Episode Number: 607
+
+The Voyager Transcripts - One Small Step
+One
+Small Step
+Stardate:
+53292.7
+Original Airdate: 17 November 1999
+
+  October 19,
+2032. Mars.
+[Ares
+IV Command module] 
+KELLY:
+Ares Four to Kumagawa. How was the sunrise from down there? (Kumagawa
+is a woman, Kelly is a negroid man. He is watching a monitor showing a
+couple in spacesuits with a rover down on the surface.)
+KUMAGAWA [OC]: Beautiful. There was a little green mixed in today. It
+was really quite spectacular. 
+KELLY: Sorry I missed it. 
+KUMAGAWA [OC]: Next time, Lieutenant. 
+KELLY: Any luck drilling through that lava plain? 
+KUMAGAWA [OC]: Roger that. We broke through the iron oxide barrier and
+we're down to eight metres. (Another man joins the conversation.)
+NOVAKOVICH [OC]: We should have some samples by the end of the day if
+all goes well. 
+KELLY: On to more important matters. Received an uplink from
+Houston. The Yankees won game five of the World Series. 
+KUMAGAWA: You owe me twenty bucks. 
+KELLY: It's not over yet. There's still game six. We won't be the only
+ones making history today. Bokai just broke DiMaggio's record. 
+NOVAKOVICH [OC]: I don't believe it. 
+KELLY: If you ask me, Houston's been manipulating the stats. 
+KUMAGAWA [OC]: They do have a few too many Kings fans at mission
+control. 
+KELLY: Well, how else do you explain Bokai beating out the Yankee
+Clipper? 
+KUMAGAWA [OC]: Commander? We lost you for a second there. 
+KELLY: The ride got a little bumpy. Stand by. Picking up some turbulence. 
+NOVAKOVICH [OC]: At your altitude? 
+KELLY: Checking LIDAR. What the hell? 
+KUMAGAWA [OC]: John, what's going on? 
+KELLY: There's an object closing on my position, azimuth one twenty one
+point six. Whatever it is, it's huge. It's over a thousand metres
+across.;
+NOVAKOVICH [OC]: How could something that big appear out of nowhere? 
+KELLY: I don't know, but I'm getting out of its way. Firing thrusters. 
+KUMAGAWA [OC]: It's probably just a solar flare. 
+KELLY: Let's hope so. (The object gets bigger.)KELLY: It's no solar flare.
+Stardate
+53292.7. 
+[Chakotay's
+quarters]
+(Chakotay is sitting reading a book when his doorbell chimes.)CHAKOTAY:
+Come in. Come in! (Chimes again and again. He looks out into the corridor. There is no one there.)CHAKOTAY: Chakotay to the bridge. 
+CREWMAN [OC]: This is transporter room two. 
+CHAKOTAY: I'm trying to reach the bridge. 
+CREWMAN [OC]: Your comm. signal was routed here, sir. 
+CHAKOTAY: Can you patch me through? 
+NEELIX [OC]: Pardon me. Where? Patch you through where?(Various voices overlap.)
+CHAKOTAY: Neelix? 
+NEELIX [OC]: Commander? 
+CREW [OC]: Check on the field generators. 
+WOMAN [OC]: Control seven, return to base at once. 
+JANEWAY [OC]: Computer, locate Neelix. 
+MAN [OC]: I can't get through to Engineering. 
+(It becomes incoherent babble. Chakotay goes to his door but they don't
+open. He steps back, and they do. After a couple of attemps, he picks
+his moment and jumps through before they shut again.)
+[Engineering]
+CHAKOTAY:
+I see you're making some changes to the computer core. SEVEN: I have enhanced the command sequencers with Borg algorithms. 
+CHAKOTAY: Well, your enhancements are wreaking havoc with our secondary
+systems. 
+SEVEN: Insignificant malfunctions. I will correct them. 
+CHAKOTAY: I don't recall authorising any modifications. 
+SEVEN: The computer core is inefficient. It needed to be improved. 
+CHAKOTAY: I appreciate your initiative, but that's not up to you. 
+SEVEN: I've explained the value of these enhancements on several
+occasions, but Lieutenant Torres chose to ignore me. I thought a
+demonstration would be more persuasive. 
+CHAKOTAY: Well, I doubt this one's going to change her mind. 
+SEVEN: Clearly Voyager is not yet ready for assimilation. A joke. The
+doctor suggested that I defuse tense situations with humour. 
+CHAKOTAY: Good idea. Now how about getting these systems back up again
+so I can get back to my book. 
+SEVEN: We are experiencing a ship-wide power drain. This is unrelated to my
+modifications.;
+KIM [OC]: Senior officers to the bridge. 
+[Bridge]
+JANEWAY:
+It's two in the morning, Ensign. This better be more than a little
+turbulence. 
+KIM: You won't be disappointed. We've got level nine gravimetric
+distortions closing on our position. 
+TUVOK: They're emanating from subspace. 
+JANEWAY: On screen. Shields. (The alien object from the teaser appears.)
+PARIS: It's heading right toward us. 
+JANEWAY: Evasive manoeuvres. 
+CHAKOTAY: Captain. 
+JANEWAY: Say good morning to thirty million terajoules of subspace
+energy. 
+PARIS: This thing is following us. I can't outrun it at impulse. 
+JANEWAY: Go to warp. 
+PARIS: It's disrupting our warp field. 
+KIM: If it gets any closer the gravimetric stresses are going to rip
+the plating off our hull. 
+SEVEN: Captain, I recognise this phenomenon. It's Borg designation is
+spatial anomaly five two one. It's attracted to objects that emit
+electromagnetic energy. We have to cut power and reverse our shield
+polarity. 
+JANEWAY: Do it. (The object glides past Voyager.)
+PARIS: That was close. 
+JANEWAY: I recognise this anomaly too. It's called a graviton ellipse.
+According to the Federation Database it travels through subspace,
+emerging occasionally without warning. Ellipses have only been observed
+a handful of times. 
+CHAKOTAY: Ares Four. 
+TUVOK: Commander? 
+CHAKOTAY: One of the early Mars missions. The Command module and its
+pilot were engulfed by a similar phenomenon back in 2032. 
+PARIS: I remember reading about that. Two astronauts were stranded on
+the surface for weeks before a rescue ship arrived. 
+CHAKOTAY: No one's gotten this close to a graviton ellipse and lived to
+tell about it. This could be a remarkable opportunity. 
+JANEWAY: Go to yellow alert. Keep our power output at minimum levels.
+Match it's course and speed but maintain a safe distance. 
+PARIS: Aye, Captain. 
+CHAKOTAY: I suggest we launch a probe. See if we can find out what
+makes this thing tick. 
+JANEWAY: Make it fast. There's no telling when our visitor's going to
+burrow back into subspace. 
+[Astrometrics
+lab]
+SEVEN:
+I'm receiving telemetry from the probe. It appears to have entered a
+stable core within the
+anomaly. The gravimetric forces are negligible. 
+TUVOK: The eye of the storm. 
+SEVEN: An apt metaphor. 
+TUVOK: Computer, run a multispectral analysis of the anomaly's core. 
+COMPUTER: Analysis in progress. 
+SEVEN: The Borg developed shields to get through the gravimetric
+currents. They intended to dissipate the
+anomaly from within. Perhaps we should continue their efforts. 
+TUVOK: It would be short-sighted to destroy it. We should study the
+phenomenon. 
+SEVEN: I didn't realise you shared this crew's penchant for
+exploration. 
+TUVOK: I am a Starfleet officer. 
+SEVEN: When the risks outweigh the potential gain, exploration is
+illogical. 
+TUVOK: We can't predict what we might find here, Seven. One must allow
+for the unexpected discovery. 
+COMPUTER: Core analysis complete. 
+SEVEN: There are more that two point eight billion compounds in the
+core. 
+TUVOK: Fascinating.
+SEVEN: The computer has isolated several synthetic compounds native to
+sector zero zero one. 
+TUVOK: Titanium and polymer composites. These materials date back to
+the twenty first century. They were used in the construction of Earth's
+early spacecraft. 
+SEVEN: Commander Chakotay mentioned a space capsule that was consumed
+by a graviton ellipse. 
+TUVOK: These alloys are consistent with the hull of that capsule. An
+unexpected discovery indeed. 
+[Briefing
+room] 
+TORRES:
+She was forty six metres, ninety two metric tons, powered by a
+third generation ion drive, and equipped with a transpectral imager. 
+CHAKOTAY: Ares Four was piloted by Lieutenant John Kelly. His ground
+team, astronauts Rose Kumagawa and Andrei Novakovich, were close to
+completing their survey mission when Kelly reported an object closing
+on his position. Then he and the command module disappeared off NASA's
+LIDAR scopes. 
+PARIS: And into the history books. That incident almost derailed the
+Mars programme. 
+TUVOK: Mankind's first encounter with a spatial anomaly. 
+CHAKOTAY: Seven, you said the Borg were working on a way to get inside
+a graviton ellipse. 
+SEVEN: Shield enhancements. 
+PARIS: Well, maybe we could apply the same enhancements to the Flyer. 
+SEVEN: Captain, do you intend to try to find the command module? 
+JANEWAY: Or what's left of it. 
+TUVOK: By my calculations, we have less than sixteen hours before the
+anomaly goes back into subspace. 
+JANEWAY: Then we have to work quickly. Harry, B'Elanna, help Seven
+modify the Flyer's shields. Tom, review the database from the Ares Four
+mission. It might tell us something about this
+anomaly we've missed. We're going to need a mission leader. 
+CHAKOTAY: I volunteer. 
+JANEWAY: I thought you might. Let's do it. (Everyone gets up and leaves, except Seven.)JANEWAY: Something on your mind,
+Seven? 
+SEVEN: The anomaly is as dangerous and unpredictable now as it was
+three hundred years ago. 
+JANEWAY: But the Delta Flyer's a little more advanced than the Ares Four
+was. We'll be taking every precaution. 
+SEVEN: That may not be enough. 
+JANEWAY: I appreciate your concern but, this is my call. 
+SEVEN: Searching for the command module seems more sentimental than
+scientific. 
+JANEWAY: I can't argue with that. If scientific knowledge was all we
+were after, then the Federation would have built a fleet of probes, not
+starships. Exploration is about seeing things with your own eyes. In
+this case, we're exploring the past. 
+SEVEN: How will retrieving this artefact enhance your appreciation of
+history? 
+JANEWAY: By making us part of it. In the same way that excavating the
+obelisks of ancient Vulcan, or finding the shroud of Kahless made those
+explorers a part of their history. Here's the crux of it. As a Borg,
+you didn't study the past, you ingested it. You've never really
+developed an appreciation for humanity's history. Maybe this is an
+opportunity to do some exploring of your own. 
+SEVEN: Are you ordering me to join this mission? 
+JANEWAY: Let's just say I'm encouraging you to volunteer.
+[Astrometrics
+lab]
+KELLY
+[on screen]: It's no solar flare. Wow! 
+KUMAGAWA [OC]: John, can you describe it? 
+KELLY [on screen]: It's at least a thousand metres wide. Bright. 
+NOVAKOVICH [OC]: Your transmission's breaking up. 
+KELLY [on screen]: It's generating an electromagnetic radiation,
+interfering with primary systems. I can't get away from it. Activating
+the transpectral imager. I'll record as much data as I can. It's
+right on top of me. I'll transmit as much as I can. 
+PARIS: That's all she wrote. 
+CHAKOTAY: NASA received Kelly's last telemetry at oh nine twenty two
+hours, October 19th, 2032. 
+PARIS: I thought I was the Mars buff. You seem to know more about the
+Ares Four than I do. 
+CHAKOTAY: The Mars missions paved the way for the exploration of space.
+Kelly was one of my childhood heroes. 
+PARIS: Mine too. 
+CHAKOTAY: That's dedication. The man's life is about to end, but he
+won't stop taking readings. 
+PARIS: Makes you wonder if those old-timers were made of sterner stuff
+than we are. 
+CHAKOTAY: You think we have it easy? 
+PARIS: You kidding? Warp drive, shields, transporters. We're travelling
+in the lap of luxury. 
+CHAKOTAY: Kelly and Kumagawa, Armstrong and Glenn, they were the real
+pioneers. 
+SEVEN: Am I interrupting? 
+PARIS: We were just admiring someone. Fellow explorer. 
+SEVEN: Hero worship. The glorification of an individual's
+accomplishment. 
+CHAKOTAY: I guess you didn't have many role models growing up. 
+SEVEN: In the Collective, personal accomplishments are irrelevant. The
+shield modifications to the Flyer are complete. We're ready for launch.
+CHAKOTAY: We? 
+SEVEN: You'll need someone familiar with Borg technology to monitor the
+shields. I'm volunteering. 
+PARIS: You don't sound too happy about it. 
+SEVEN: I'm not, but this mission can benefit from my expertise. 
+CHAKOTAY: In that case, welcome aboard. 
+[Sickbay]
+EMH: I'm
+preparing an inoculant to counter the effects of gravimetric
+radiation. Of course, if you were a hologram, you'd simply adjust your
+mobile emitter. That's what I did on Arakis Prime, one of my first away
+missions. 
+SEVEN: I don't recall that. 
+EMH: This was before you came aboard. Such an enchanting planet.
+Crystalline glaciers, magnesium vapour atmosphere. I had to stop my
+metallurgical scans just to admire the sheer beauty of it. To smell the roses, to
+coin a phrase. 
+SEVEN: An inefficient use of your time. 
+EMH: Perhaps. We're all finished here, except for one thing. Would you
+record some images when you're inside the ellipse, for those of us not
+lucky enough to make the trip? (He hands her his holo-imager.)
+SEVEN: You envy my participation in this mission? 
+EMH: There isn't a crewman aboard who doesn't. 
+SEVEN: Why? 
+EMH: I can only tell you how I felt that morning when I materialised on
+Arakis Prime. I left my footprints in the magnesite dust and thought,
+one small step for a hologram, one giant leap for mankind. 
+SEVEN: To coin a phrase. 
+EMH: Well, I know the sentiment isn't exactly original, but the fact
+is, I was exhilarated. 
+CHAKOTAY [OC]: Chakotay to Seven of Nine. Report to Shuttlebay two. 
+EMH: Good luck. 
+[Delta
+Flyer]
+PARIS:
+We're approaching the perimeter in five, four, three, two, one. 
+[Bridge]
+TUVOK:
+We're within two thousand kilometres. Gravimetric interference is
+increasing. 
+TORRES: It's nothing compared to what they're going through. They're
+really getting knocked around in there. 
+KIM: Their shields have weakened but they're still holding. 
+JANEWAY: Harry, keep your finger on that tractor beam in case we have
+to pull them out. 
+TORRES: They're approaching the anomaly's core. We've lost sensor
+contact. 
+JANEWAY: Harry. 
+KIM: The comm. link is still active. 
+[Delta
+Flyer]
+PARIS:
+The gravimetric shear is increasing. 
+SEVEN: I'm reading diminished turbulence directly ahead. 
+CHAKOTAY: Full thrusters, Tom. Punch us through. Chakotay to Voyager.
+We're in. 
+[Bridge]
+CHAKOTAY
+[OC]: I wish you could see this, Captain, it's incredible. 
+JANEWAY: We're all ears. 
+CHAKOTAY [OC]: It's very calm. No gravimetric distortions. The EM
+activity is creating a natural luminescence. Tom called it mood
+lighting. 
+PARIS [OC]: Hey B'Elanna, it's the perfect romantic getaway. 
+TORRES: I'll take your word for it. 
+CHAKOTAY [OC]: We've detected asteroid fragments, pieces of vessels,
+matter from every quadrant of the galaxy. Next time I lose something
+I'll know where to look. Instead of a graviton ellipse we should call
+it the kitchen sink anomaly. The chemical interactions have even
+created a primitive atmosphere. 
+PARIS [OC]: Nothing you'd want to breathe, of course. 
+JANEWAY: What do you make of it, Seven? 
+SEVEN [OC]: Well, I suppose it's intriguing. Some of the matter appears
+to be extra-dimensional
+in origin. 
+KIM: Sounds like this anomaly's gotten around. 
+JANEWAY: Any sign of the Ares command module? 
+PARIS [OC]: We're picking up traces of the hull, but our sensor
+readings are being refracted by all the debris in here. (Whumph.)
+TUVOK: That was a gravimetric surge caused by the anomaly changing
+course by point zero zero six degrees. 
+JANEWAY: We just had a big jolt out here. 
+CHAKOTAY [OC]: We didn't feel a thing. 
+JANEWAY: By our estimate you have five hours thirty six minutes before
+the anomaly
+returns to subspace.
+[Delta
+Flyer]
+JANEWAY
+[OC]: You'd better get a move on. 
+CHAKOTAY: Understood. 
+SEVEN: I'm having difficulty isolating the debris from the command
+module. 
+PARIS: I'll lay in a search pattern. It may take a couple of hours to
+cover an area this large. 
+CHAKOTAY: Seven and I can use the time to take some samples, get a
+better idea of where this
+anomaly's been. 
+SEVEN: We should focus on achieving our objective and returning to
+Voyager. 
+CHAKOTAY: We're not here just to find a module. We've got an
+opportunity to
+SEVEN: Explore. I am familiar with our mission. 
+CHAKOTAY: In that case, let's get started. 
+[Delta
+Flyer - aft compartment] 
+SEVEN:
+The fossilised microbes in this ore appear to have had metallic
+membranes. 
+CHAKOTAY: We've speculated about the possibility of metallic lifeforms, but we've never discovered one. 
+SEVEN: You're excited by this discovery? 
+CHAKOTAY: This piece of rock is billions of years older than Earth,
+from a time when the galaxy was still forming. Here. 
+SEVEN: Commander? 
+CHAKOTAY: Take it. You're holding a piece of history. Maybe even the
+beginnings of life itself. 
+SEVEN: Unlikely. 
+CHAKOTAY: It's more likely than you think. This anomaly is as old as
+anything we've ever encountered. I could spend a lifetime studying the
+things it's collected. 
+SEVEN: And leave Voyager without a First Officer? 
+CHAKOTAY: They'd manage. Palaeontology was always my first love. It's
+the reason I joined Starfleet. 
+SEVEN: Why didn't you pursue it? 
+CHAKOTAY: My sense of responsibility got in the way. First the Maquis,
+then Voyager. What I wanted to be always seemed to take a back seat. Do
+you remember what you wanted to be before you were assimilated? 
+SEVEN: I was assimilated when I was a child. 
+CHAKOTAY: I knew I wanted to be a palaeontologist when I was six. 
+SEVEN: A ballerina. 
+CHAKOTAY: Maybe it's not too late. 
+SEVEN: It was a juvenile fantasy. 
+CHAKOTAY: Those are the ones that stick with you. 
+PARIS [OC]: Heads up, folks. I think we're getting close. 
+[Delta
+Flyer - cockpit]
+PARIS:
+I've isolated the module, bearing thirty nine mark one five. There. 
+SEVEN: It appears to be intact. 
+CHAKOTAY: I'm reading hull breaches and corrosion, but all things
+considered it's pretty well preserved. 
+PARIS: We weren't expecting to find a fragment this big. Can't just
+stow it in the aft section. 
+CHAKOTAY: We'll use a tractor beam to tow it back to Voyager. 
+[Bridge]
+KIM:
+Captain, the anomaly just made another course change, point zero zero
+three degrees. 
+JANEWAY: That's the third one in an hour. Something has to be
+attracting it. 
+TORRES: There's nothing on the sensors. 
+JANEWAY: I think it enjoys being unpredictable. 
+KIM: We know it has a taste for electromagnetic energy. 
+JANEWAY: So what could generate an EM field large enough to get it's
+attention, but still not show up on sensors? 
+KIM: An energy burst from a pulsar, a neutrino cloud. 
+TORRES: Dark matter. 
+JANEWAY: Realign the sensor array to scan for EM fluctuations. 
+TORRES: I've got a spatial disturbance three million kilometres away.
+It's a dark matter asteroid. 
+JANEWAY: Bingo. 
+KIM: The anomaly's heading right for it. 
+JANEWAY: Time to impact? 
+TUVOK: Four minutes. Captain, we can't predict how the impact will
+affect the anomaly. 
+TORRES: But it's a safe bet it won't be a gentle nudge. 
+JANEWAY: Janeway to Delta Flyer, we've 
+[Delta
+Flyer]
+JANEWAY
+[OC]: got a problem. The anomaly is on a collision course with a dark
+matter asteroid. 
+CHAKOTAY: We've located the Mars orbiter. We're adapting a tractor
+beam. 
+[Bridge]
+CHAKOTAY
+[OC]: Give us a minute. 
+JANEWAY: You don't have it. Get out of there. 
+[Delta
+Flyer]
+CHAKOTAY:
+Captain? 
+[Bridge]
+JANEWAY:
+Now.
+[Delta
+Flyer] 
+CHAKOTAY:
+Is the tractor beam ready? 
+PARIS: Just about, sir. 
+CHAKOTAY: Lock onto the module and take us out. 
+SEVEN: We don�t have time. 
+CHAKOTAY: I gave you an order. 
+SEVEN: Commander. 
+CHAKOTAY: We're not leaving without that module. Tom! 
+[Bridge]
+TUVOK:
+Captain, both the anomaly and the asteroid are accelerating. 
+JANEWAY: They're attracting each other like a pair of magnets. 
+TORRES: At this rate it'll impact in fifty six seconds. 
+JANEWAY: Chakotay, you've got less than a minute. 
+CHAKOTAY [OC]: Acknowledged. 
+[Delta
+Flyer] 
+PARIS:
+The module is slowing us down. 
+CHAKOTAY: Maintain tractor lock. How long until we clear the anomaly? 
+SEVEN: At our current speed, forty seconds. 
+CHAKOTAY: We can do it. 
+[Bridge]
+TORRES:
+Thirty seconds to impact. They're still not clear. 
+JANEWAY: Chakotay, status. 
+[Delta
+Flyer]
+CHAKOTAY:
+We're on our way. 
+[Bridge]
+TORRES:
+Twenty seconds. (The
+asteroid his the anomoly, sending ripples through it. One of them
+disconnects the Flyer from the Ares IV and sends it tumbling backwards.
+Chakotay gets an electric shock from his console.)
+TUVOK: Gravimetric distortions are increasing. 
+JANEWAY: The Flyer? 
+KIM: I've lost the signal. 
+[Delta
+Flyer - aft compartment]
+
+SEVEN:
+How badly is he damaged? 
+PARIS: He's got a severe concussion and internal injuries. We need to
+get him back to Voyager. 
+SEVEN: That may not be possible. Communications, shields and propulsion
+are still offline. 
+PARIS: He's stable for now. I'll give you a hand. 
+SEVEN: We can repair the shields, but the engines are
+unsalvageable.;
+PARIS: It can't be that bad. 
+SEVEN: It's worse. The ellipse showing signs of returning to subspace.
+We have less than two hours. (Later -)PARIS:
+He's regaining consciousness. Easy, easy. Lie still. 
+CHAKOTAY: It feels like I just went ten rounds with an Andorian. 
+PARIS: More like twenty. You were hit with a plasma discharge. The
+gravimetric surge from the asteroid caught us at the edge of the
+anomaly and tossed us back inside. 
+CHAKOTAY: The command module? 
+PARIS: It's adrift, three hundred metres off our port bow. 
+CHAKOTAY: Then we can still salvage it. 
+PARIS: Not so fast. We can't get engines or shields back online, not to
+mention a tractor beam. We'll be lucky to get out of this in one piece.
+CHAKOTAY: I can help. 
+PARIS: You're in worse shape than this ship. You want to help? Lie in
+the bed, doctor's orders. 
+SEVEN: Another gravimetric surge. 
+PARIS: I'll see if I can reinforce the structural integrity field. (Paris goes to the cockpit.)
+CHAKOTAY: You might try drawing power from auxiliary life support. 
+SEVEN: That system was damaged as well. 
+CHAKOTAY: What about the secondary relays? 
+SEVEN: They're offline. 
+CHAKOTAY: That doesn't leave us many choices. Try rerouting the phaser
+couplings. 
+SEVEN: We explored that option while you were unconscious. 
+CHAKOTAY: Then maybe you can bring me up to date. 
+SEVEN: There's no time. I suggest you recuperate. We have the situation
+under control. 
+CHAKOTAY: It doesn't look that way from here. I'm still in command of
+this mission. I want to know what's going on. 
+SEVEN: Very well. We were ordered by the Captain to leave this anomaly,
+but you chose to disobey that command. As a result of your obsession
+with the module, we are now trapped along with it. In all probability we
+won't survive without 
+CHAKOTAY: Point taken. Now why don't you continue, without the
+attitude. 
+SEVEN: An inventory of the damaged systems. Read it for yourself. 
+CHAKOTAY: I made a mistake. I put the mission at risk. 
+SEVEN: You put our lives at risk. 
+CHAKOTAY: Well, if we don't make it out, someone's bound to come
+looking for us in a few hundred years. Defusing a tense situation with
+humour, remember? 
+JANEWAY [OC]: Voyager to Delta Flyer. 
+SEVEN: They're using a probe as a transmission relay. 
+JANEWAY [OC]: Voyager to Chakotay, please respond. We can't detect you.
+CHAKOTAY: Captain, we can hear you. 
+SEVEN: I'm matching their frequency. Voyager, this is the Delta Flyer. Respond. 
+JANEWAY [OC]: Are you all right? What's your status? 
+CHAKOTAY: We've sustained heavy damage, Captain, but we're alive. It's
+good to hear your voice. 
+[Briefing
+room]
+KIM: We
+could install the same shielding on a class two shuttle and take it in.
+PARIS [OC]: It took us hours to make the modifications 
+[Delta
+Flyer - cockpit]
+PARIS: To the Flyer. We've only got eighty two minutes before this thing
+disappears into subspace. 
+[Briefing
+room]
+TUVOK:
+It may be possible to modify a tractor beam to cut through the
+gravimetric interference. 
+KIM: You'll never be able to get it all the way through to the core. 
+JANEWAY: Start working on it anyway. 
+TORRES: You said all the energy conduits are fused?
+SEVEN [OC]: Correct. 
+[Delta
+Flyer - cockpit]
+SEVEN:
+We can't get power to any of the primary systems. 
+PARIS: If the replicators were working we could whip up a new plasma
+manifold 
+[Briefing
+room]
+PARIS
+[OC]: And be on our way. 
+TORRES: What if I could get you an old manifold? 
+PARIS [OC]: Excuse me? 
+TORRES: The command module may be three centuries old, but the power
+distribution system isn't that different from the Flyer's. Right here.
+This control panel in the main cockpit. It was called an ion
+distributor. With a few tweaks it could be modified to channel warp
+plasma. 
+SEVEN [OC]: Even if it were possible, we have to obtain the object 
+[Delta
+Flyer - cockpit]
+SEVEN: Before we can adapt it. 
+JANEWAY [OC]: Do you have enough 
+[Briefing
+room]
+JANEWAY: Power to beam one of you to the module? 
+[Delta
+Flyer - cockpit]
+PARIS:
+Yes, ma'am. I'll go. 
+JANEWAY: Not so fast, Tom. If another gravimetric surge hits, we'll need
+you at the helm. Seven. 
+[Delta
+Flyer - cockpit]
+SEVEN:
+Are you encouraging me to volunteer again, Captain? 
+[Briefing
+room]
+JANEWAY:
+You read my mind. 
+[Delta
+Flyer - cockpit]
+PARIS:
+Come on, just a little closer. That's it for thrusters
+[Delta
+Flyer - aft compartment]
+PARIS
+[OC]: But I got us within transporter range. Ready? (Seven is in a spacesuit.)
+SEVEN: Stand by. 
+CHAKOTAY: Ironic. You're doing what I've always dreamt of. Remember,
+when you set foot in that module, you'll be stepping into history. 
+SEVEN: History is irrelevant. 
+CHAKOTAY: Irrelevant? Do me a favour. When you're over there, download
+whatever you can from their database. And also take a minute to look
+around, so you can tell us what it was like. 
+SEVEN: There may not be time, but I'll try. 
+CHAKOTAY: Good luck. 
+[Ares
+Four Command Module]
+(No artificial gravity here. Seven wears magnetic boots.)PARIS
+[OC]: What's it like in there? 
+SEVEN: Dark. The ambient temperature is minus two hundred sixty
+degrees. There appear to be fractures in the aft bulkheads. 
+PARIS [OC]: Is the cockpit intact? 
+SEVEN: Yes. (So is Kelly's body.) SEVEN: I've brought the main computer online. 
+KELLY [OC]: I've lost contact with the team on the surface, and I can't
+get a fix on my position. 
+PARIS [OC]: What was that? 
+SEVEN: There's an active data file. 
+[Delta
+Flyer - aft compartment]
+SEVEN
+[OC]: It appears to contain log entries. 
+CHAKOTAY: Can you play them for us? 
+[Ares
+Four Command Module]
+SEVEN: I
+believe so. 
+[Delta
+Flyer - aft compartment]
+CHAKOTAY:
+Consider it my last request. 
+[Ares
+Four Command Module]
+KELLY
+[on monitor]: And I can't get a fix on my position. But I�m alive and
+the CM seems to be intact. I'm inside this 
+[Delta
+Flyer - cockpit]
+KELLY
+[OC]: Whatever it is. 
+PARIS: Could you hear that, Chakotay? 
+[Delta
+Flyer - aft compartment]
+CHAKOTAY:
+It's amazing. Everyone assumed he was killed instantly. 
+[Ares
+Four Command Module]
+KELLY
+[on monitor]: What I've gotten myself into. It's very calm, like I'm in
+the eye of a hurricane. It's a little spooky but the way I figure it.
+[2032
+- Ares Four Command Module]
+
+KELLY:
+If there's a way in, there's got to be a way out. I'm gonna fire up the
+spectral imager before I initiate another engine burn, collect as much
+data as I can. Jeannie, I may not be bringing you back the Mars rock,
+but I promise you, I'm going to do everything I can to get home. (Later.)KELLY:
+Ares Four, mission record, October 23rd. I'm starting to feel like
+Jonah. How long was he in the belly of that whale? Three days? I got
+him beat by a day or two already. The EM interference is disrupting
+communications and LIDAR, and I can't see the stars. There's no way I
+can get a fix on my position. If this thing's moving as fast as it was
+when it pulled me in, I could be a long way from Mars by now. The
+imager's been working overtime cataloguing all the matter in here, but
+a lot of it defies analysis. I think we're going to need to make room
+on the periodic table. Where the hell am I? Power levels have dropped
+another fifteen percent since my last systems check.; (The module appears to hit something. A piece of another spaceship drifts past the porthole.)KELLY: I think I just saw
+another spacecraft. Either that, or all this dehydrated food has gone to
+my head. I've got it. The hull's made of some kind of alloy. I can't
+make heads or tails of it. I shouldn't have been so dismissive.
+[Ares
+Four Command Module] 
+KELLY
+[on monitor]: I remember giving Kumagawa a hard time when she claimed
+she saw a UFO over the Gulf. I told her it was a meteor or another
+piece of MIR. I guess I owe you an apology, Rose. Ares Four, mission
+record, October 25th. It's been a nice place to visit
+[Delta
+Flyer - aft compartment]
+KELLY
+[OC]: But I'm ready to come home. I've prepped the ion drive, channeled
+all the thruster reserves into the main tank. 
+[2032
+- Ares Four Command Module]
+KELLY: I
+have enough fuel for one last engine burn. Wish me luck. (He puts a photograph of himself and his wife on the control panel.)KELLY: Ignition
+sequence. Five, four, three, two. I'm losing pitch control. Gyros
+aren't responding. Power failure. I've got to abort. I'm not going to
+make it. 
+[Ares
+Four Command Module]
+(Seven looks at the photograph.)KELLY
+[on monitor]: All systems go. Watch me, Dad, I'm flying. Boom. Bad
+landing. Call the
+MedEvac team. Ha. 
+[Delta
+Flyer - cockpit]
+PARIS :
+Paris to Seven. Status? 
+[Ares
+Four Command Module]
+SEVEN:
+I've located the device, but it's fused to the hull. Stand by. 
+[Delta
+Flyer - cockpit]
+PARIS:
+Make it quick. We've got less than fifteen minutes. 
+[Ares
+Four Command Module]
+SEVEN:
+Understood. 
+[2032.
+Ares Four Command Module]
+KELLY:
+All systems go. Watch me Dad, I'm flying. Boom. Bad landing. Call the MedEvac
+team. Ha. John Kelly's first flight, not exactly A-OK. Remember that,
+Dad? I jumped off the roof with a parachute made of blankets. I guess I
+didn't calculate the aerodynamics. Of course, I was only six. I guess 
+[Delta
+Flyer - cockpit]
+KELLY
+[OC]: This is John Kelly's last flight. This time, I can't blame it on
+pilot error. This time, no regrets. 
+[Delta
+Flyer - aft compartment]
+KELLY
+[OC]: Oh, what I've seen proves we were right to come out here. 
+[Ares
+Four Command Module]
+KELLY
+[on monitor]: We're not alone, I know that now. The module's losing
+power. I'm taking life support offline. 
+[2032
+- Ares Four Command Module]
+KELLY:
+Rerouting whatever's left to the imager. Keep it running as long as
+possible. Mission Control, Dad, whoever finds this, do me a favour.
+Take all the data I've collected. Put it to good use. I hope you don't
+look at this as a failure. I don't. 
+[Ares
+Four Command Module]
+KELLY
+[on monitor]: Actually, I do have one regret. I never found out who won
+the World Series. I'm tired, and I can't (Entry 435 ends. Seven pulls the distributor out of its assembly, then gets out her tricorder and sets it recording.)
+PARIS [OC]: Paris to Seven. how's it going over there? 
+SEVEN: I have the distributor. I'm downloading Lieutenant Kelly's
+database. 
+PARIS [OC]: Hurry. we're running out of time. (The download is complete. She puts her comm. badge on a cloth sleeve with an Ares IV misson badge sewn onto it.)
+SEVEN: Lock onto my bio-signature and my comm. badge. 
+PARIS [OC]: Seven? 
+SEVEN: Energise. 
+[Bridge]
+JANEWAY:
+Delta Flyer, report. 
+PARIS [OC]: We're trying to integrate the distributor. Stand by,
+Captain.;
+JANEWAY: How long do they have? 
+TUVOK: Four minutes. 
+[Delta
+Flyer - cockpit] 
+PARIS:
+Try bypassing the power couplings. 
+SEVEN: No effect. 
+PARIS: Resequence the ion modulators, see if that does it. 
+SEVEN: Power conversion in process. 
+PARIS: We have propulsion, shields. 
+SEVEN: The plasma flow is still fluctuating. 
+PARIS: Stay on top of it. Paris to Voyager. 
+JANEWAY [OC]: Go ahead. 
+PARIS: Open the shuttlebay doors. We're coming home. 
+[Bridge]
+JANEWAY:
+Acknowledged. 
+[Delta
+Flyer - cockpit]
+PARIS:
+Laying in an escape trajectory. 
+[Bridge]
+TUVOK:
+The ellipse is returning to subspace. 
+JANEWAY: The Flyer? 
+KIM: They're approaching the perimeter. Two thousand metres, eighteen
+hundred. 
+TORRES: The anomaly's submerging. (Things on the Flyer are going bang.)
+JANEWAY: Are we in tractor range? 
+TUVOK: Not yet. 
+JANEWAY: Take us closer. (Torres is at the helm.)
+TORRES: Captain? 
+JANEWAY: Do it. 
+TUVOK: They're still out of reach. Another three hundred metres. 
+JANEWAY: Closer. 
+TORRES: We'll be pulled right in with them. 
+JANEWAY: Just a few more metres. 
+TORRES: We're too close.
+TUVOK: I've got a lock. 
+JANEWAY: Reverse thrusters, full impulse. (The Delta Flyer is pulled out of the anomaly as it goes into subspace.) 
+Captain's log, stardate 53301.2. The away team collected over sixty teraquads of
+data on the anomaly. Before we begin to analyse them, we've decided to
+pay our respects to an old colleague. 
+[Bridge]
+(A torpedo casing is covered with a UFP flag. The officers are in dress uniform.)JANEWAY:
+Space. Literally it means nothing, a vacuum between stars and planets,
+but by the same token it means everything. It's what connects all our
+worlds, Vulcan, Kronos, Talax, Earth. Centuries ago, mankind sent its
+first wave of explorers into that void. Astronauts like Mister Kelly.
+They paved the way for the first colonies, the first starships, for
+those of us who've made space our home. We commend the spirit and the
+bravery of Lieutenant John Mark Kelly as we commit his body to space.
+He will not be forgotten. 
+SEVEN: Captain. I did not know this individual. Had I encountered him
+while I was a Borg I would have found his technology unworthy of
+assimilation. But we are more alike than one might think. In a sense,
+his desire to explore was not unlike a quest for perfection. 
+[Sickbay]
+(Chakotay is on a ;biobed listening, along with the EMH.)SEVEN
+[OC]: His contribution helped secure humanity's future, and in some
+ways, my own. 
+[Bridge]
+SEVEN:
+(sotto) The Yankees, in six games. (She looks over at Janeway, who nods.)
+TUVOK: All hands, attention. Honour guard. (The guard step forward at the bosun's whistle. Moments later, the torpedo casing is fired into space.)  
+
+

@@ -1,6 +1,7 @@
 import java.util.Hashtable;
 import java.util.Random;
 import java.util.Vector;
+import java.util.concurrent.SynchronousQueue;
 
 public class MarkovChain {
 	// Hashmap
@@ -55,18 +56,25 @@ public class MarkovChain {
 		// Vector to hold the phrase
 		Vector<String> newPhrase = new Vector<>();
 		// String for the next word
-		String nextWord;
+		String nextWord = "";
 		// Select the first word
 		Vector<String> startWords = markovChain.get("_start");
 		int startWordsLen = startWords.size();
-		nextWord = startWords.get(rnd.nextInt(startWordsLen));
+
+		while (nextWord.isEmpty()) {
+			nextWord = startWords.get(rnd.nextInt(startWordsLen));
+		}
 		newPhrase.add(nextWord);
+
 		// Keep looping through the words until we've reached the end
 		while (nextWord.charAt(nextWord.length() - 1) != '#') {
 			Vector<String> wordSelection = markovChain.get(nextWord);
 			int wordSelectionLen = wordSelection.size();
-			nextWord = wordSelection.get(rnd.nextInt(wordSelectionLen));
-			newPhrase.add(nextWord);
+			String wordCandidate = wordSelection.get(rnd.nextInt(wordSelectionLen));
+			if (!wordCandidate.isEmpty()) {
+				nextWord = wordCandidate;
+				newPhrase.add(nextWord);
+			}
 		}
 		showPhrase(newPhrase);
 	}

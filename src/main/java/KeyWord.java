@@ -4,13 +4,13 @@ public class KeyWord extends LineGetter {
 	String keyPhrase;
 	boolean cutToPhrase;
 
-	public KeyWord(String phrase, boolean c) {
-		super();
+	public KeyWord(String phrase, boolean c, Series _series) {
+		super(_series);
 		keyPhrase = phrase;
 		cutToPhrase = c;
 		while (lines == null) {
 			try {
-				lines = new BufferedReader(new FileReader(keyPhrase + ".txt"));
+				lines = new BufferedReader(new FileReader("keyWords/" + series.toString() + "/" + keyPhrase + ".txt"));
 			} catch (FileNotFoundException e) {
 				System.out.println("File not found, creating file");
 				saveLines();
@@ -22,9 +22,14 @@ public class KeyWord extends LineGetter {
 	public void saveLines() {
 		System.out.println("Saving lines with " + keyPhrase);
 		boolean recordingLog = false;
+
+		String seriesString = series.toString();
+		File dir = new File("./keyWords/" + seriesString);
+		dir.mkdir();
+
 		try {
 			String line = "";
-			PrintWriter txtFile = new PrintWriter(new FileWriter(keyPhrase + ".txt", true));
+			PrintWriter txtFile = new PrintWriter(new FileWriter("keyWords/" + seriesString + "/" + keyPhrase + ".txt", true));
 			String curr = currentEpisode.readLine().trim();
 			while (hasNextEpisode()) {
 				try {

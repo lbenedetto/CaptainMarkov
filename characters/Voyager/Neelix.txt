@@ -1,0 +1,842 @@
+NEELIX: Astonishing! You Federations are obviously an advanced culture.#
+NEELIX: Neelix. Good to meet you!#
+NEELIX: Interesting. What, what exactly, what exactly does all this, all this do?#
+NEELIX: A what?#
+NEELIX: Ah, Mister Vulcan. Come in, come in, please. I can hardly see you.#
+NEELIX: I want to thank you for your hospitality. I must admit, I haven't had access to a food rebel er, er, replicator before.#
+NEELIX: And to immerse myself in water. Oh, do you know what joy this is? No one around here wastes water in this manner. Good sand scrub, that's the best that we can hope for.#
+NEELIX: Oh! Could you hand me the, er, towel?#
+NEELIX: If you will scan the large southern continent you'll find a range of extinct volcanoes. Follow the foothills north until you discover a dry riverbed. You'll find an encampment there.#
+NEELIX: It's not impossible. Maybe. Perhaps not. But we'll find them. We'll need several containers of water to bring for barter. Do these, er, replicators make clothing as well?#
+NEELIX: Will it make me a uniform like yours?#
+NEELIX: The rich cormaline deposits are very much in demand.#
+NEELIX: Not the Ocampa, the Kazon-Ogla.#
+NEELIX: They are. Kazon sects control this part of the quadrant. Some have food, some have ore, some have water. They all trade and they all kill each other for it.#
+NEELIX: My friends, it's good to see you again! (A group of Kazon pick up Neelix and carry him to the middle of the settlement. Others take the away team's weapons.) NEELIX: I must speak with your Maje, the ever-wise Jabin!#
+NEELIX: Very amusing.#
+NEELIX: Very amusing. I, I enjoy a joke as much as the next man. Jabin! My old friend! Water. Water, Jabin. I have water to replace all that I borrowed. Show them, Mister Paris. Their ship has technology that makes water out of thin air!#
+NEELIX: Maybe she can help these good people find a way down.#
+NEELIX: Then she's worthless to you. Let us trade you water for this scrawny little thing.#
+NEELIX: Tell them to drop their weapons. Drop them, my friends, or he dies in an instant.#
+NEELIX: Step aside. (Neelix aims his weapon at the tanks and fires holes in them. The Kazon rush to save as much water as they can.) NEELIX: Come on!#
+NEELIX: I strongly suggest you get us out of here.#
+NEELIX: Irrational? We got out of there, didn't we?#
+NEELIX: No, no, it's a wonderful quality. Your most endearing.#
+NEELIX: Kes can tell you where to go. But now that she's free, we're leaving this system together.#
+NEELIX: I rescued you.#
+NEELIX: You're not thinking of going back there? Well, if a fool needs company. Take care of them, dearest. I'll see you later.#
+NEELIX: There they are.#
+NEELIX: Ah, Captain! We were just coming to see you.#
+NEELIX: Well, you see, that's what we wanted to discuss. We'd like to go with you.#
+NEELIX: We'd be valuable colleagues.#
+NEELIX: Whatever you need is what I have to offer. You need a guide? I'm your guide. You need supplies? I know where to procure them. I have friends among races you don't even know exist. You need a cook? Oh, you haven't lived until you've tasted my angla'bosque. It will be my job to anticipate your needs before you know you have them. And I anticipate your first need will be me.#
+NEELIX: Sorry we're late, but I wasn't informed there was a meeting this morning. Oh, there don't seem to be enough chairs.#
+NEELIX: I see. Well, I, I am the senior Talaxian on board. Kes is the senior Ocampa. And I do know more about this region of space than any other member of the crew.#
+NEELIX: I can do some wonderful things with vegetables, Captain. My feragoit goulash is known across twelve star systems.#
+NEELIX: What about that electronic man down in Sickbay?#
+NEELIX: No, nothing I recognise. But then it's, it's so hard to make out.#
+NEELIX: A singularity is a star that's collapsed in on itself. The event horizon is a very powerful energy field surrounding it. Why, er, once on a particularly dangerous trade mission to the twin stars of Keloda, I myself was almost trapped inside#
+NEELIX: Captain, we're less than three light years from Ilidaria. They have sophisticated technology. They might be able to help and they're quite friendly, most of the time.#
+NEELIX: Familiar? Not exactly familiar. Considerably less than familiar, actually.#
+NEELIX: Kes, what are you doing here?#
+NEELIX: Know? Know what?#
+NEELIX: What do you mean, you saw it? How could you see it?#
+NEELIX: What did you see?#
+NEELIX: You felt the shockwave in your sleep. It's just your imagination, a strange coincidence.#
+NEELIX: What else could it be?#
+NEELIX: Telepathy is a message, words, a voice. What you're describing, why, its almost like the visions of Drakian forest dwellers.#
+NEELIX: A tribe with para-normal abilities. They can walk into an empty room#
+NEELIX: No one believes those stories.#
+NEELIX: What?#
+NEELIX: Is something wrong?#
+NEELIX: We came aboard at mid-expedition.#
+NEELIX: Just us.#
+NEELIX: She's not on board. She's missing on the surface of a planet.#
+NEELIX: But you haven't told us anything about her condition.#
+NEELIX: Ah, Commander. Will you be going back to the planet surface?#
+NEELIX: That's what I told her.#
+NEELIX: Familiar. Not exactly familiar. Considerably less than familiar, actually.#
+NEELIX: Kes, what are you doing here?#
+NEELIX: Know? Know what?#
+NEELIX: You had a bad dream.#
+NEELIX: Of course. A most enlightened philosophy. Come on, Kes.#
+NEELIX: Hope you enjoy it.#
+NEELIX: Captain, you caught me by surprise.#
+NEELIX: Well, I know how you and the other senior officers have been, excuse me, disappointed with the rations lately, so I thought I'd use a few of the vegetables from the hydroponics bay and whip up a little breakfast.#
+NEELIX: It wasn't easy. I had to completely re-route the mess hall power conduits and scrounge a lot of supplies from all over the ship, but that's my specialty, making something out of nothing. I know it doesn't look like much now, but in a few days you'll swear there'd been a galley here for years. Be careful, that one is a little spicy.#
+NEELIX: Ah, well, no one.#
+NEELIX: Your? Your dining room?#
+NEELIX: Oh! Then I guess that you'll be wanting me to move all of this stuff out of your way.#
+NEELIX: Ensign Parsons, would you mind keeping an eye on things until I get back and er, rotate the darvot fritters every ten minutes until they turn a deep chartreuse. And remember one, one to a customer.#
+NEELIX: Just as I said. I bet there are a few Yallitaian engineers who'd give all three of their spinal columns to know where this planet is.#
+NEELIX: With you. I've been studying my tricorder operations manual. Lieutenant Torres has brought me up to date on dilithium geophysics. I've been preparing for this mission all week.#
+NEELIX: I think you'll find me extremely helpful, Commander. I remember the first time I flew past this planet, it was about three years ago#
+NEELIX: I think I've found something. A large cavern approximately twenty metres from my position. I'm reading a huge dilithium formation there.#
+NEELIX: Not so much as a sliver of dilithium, and yet according to my readings I should be surrounded by it.#
+NEELIX: Wait a minute. I'm getting unusual readings from this rock face. Traces of organic energy. Looks like a bio-electrical signature. I think there's something alive down here. It's about two metres into this rock face.#
+NEELIX: Just one minute, Commander. (The rock face behind Neelix transforms into a tunnel. A figure sees Neelix and hides. Neelix turns and sees the constructed tunnel.) NEELIX: Hello? Is there someone there? Hello? I know there's somebody.#
+NEELIX: How long can I live like this?#
+NEELIX: When do I get out of this restraint?#
+NEELIX: Indefinitely? You mean I could be in here the rest of my life.#
+NEELIX: Well, if I'm going to be in here a while, now's as good a time as any to tell you. Your ceiling is hideous.#
+NEELIX: Something with a bit of colour would help. Maybe a nice tapestry or a painting. Could you dim the lights a little?#
+NEELIX: And some music would be nice. Or better yet, are you programmed to sing?#
+NEELIX: Oh, fine. I have a little accident, I lose a pair of lungs, and the next thing I know Paris is swooping in like a Rectillian vulture.#
+NEELIX: Didn't you hear the way that he said that? I'll be on the bridge if you need me. If you need me.#
+NEELIX: Why doesn't he just pull the plug on the holographic emitter and get it over with. Get me out of the way so he can have you all to himself.#
+NEELIX: Ah, so it's Tom now, is it?#
+NEELIX: It's not you I'm worried about. It's him. He's just one big hormone walking around the ship. Don't you see the way that he looks at you?#
+NEELIX: Kes, I could be in here a very long time. You need to go on with your life. Don't worry about me.#
+NEELIX: You should just let me die.#
+NEELIX: I'll try to contain my disappointment.#
+NEELIX: Doctor? Doctor, I require your assistance.#
+NEELIX: Please, it's urgent.#
+NEELIX: I have an itch#
+NEELIX: Just above my left eyebrow.#
+NEELIX: A little higher. Ah. Thank you.#
+NEELIX: Doctor, wait, don't leave.#
+NEELIX: I can't see you over there. I feel like I'm all alone.#
+NEELIX: That's very amusing, Doctor. But, I'm really starting to feel a little trapped in here. A little claustrophobic, maybe. I'm not sure what to do.#
+NEELIX: I'm going to lie here for the rest of my life, aren't I? Just staring up at the ceiling. I'm not sure I can take that. I really need to get out of this restraint. Doctor, I want you to let me out of this thing right now.#
+NEELIX: I'm the patient, I know what my rights are. I want to be released from this restraint immediately. Immediately!#
+NEELIX: Don't tell me to calm down! You're not the one trapped in a restraining field with holo, holo-lungs. I don't think they're working. I can't, can't get enough oxygen. There's something wrong.#
+NEELIX: I can't. I'm dying. Let me out of here. Help me. Help me.#
+NEELIX: No, absolutely not. It's too dangerous. Let someone else do it.#
+NEELIX: All right.#
+NEELIX: You mean I can keep my kitchen?#
+NEELIX: Thank you, Captain. And Captain? I'll see you at breakfast. Captain's log, supplemental. The aliens have successfully transplanted one of Kes' lungs into Neelix. The dampening field has been deactivated, and I have allowed them to beam back to their vessel. We are resuming a course home.#
+NEELIX: Captain! May I say, you look beautiful this morning. Is that a new colour lipstick?#
+NEELIX: Well, perhaps it's just the way the glow of the food heater lamps hit you but you look wonderful. Not to suggest you don't always look wonderful.#
+NEELIX: No, but we have something even better.#
+NEELIX: It's made from a proteinaceous seed I discovered on an expedition#
+NEELIX: That would not be appropriate, Captain.#
+NEELIX: You need to set an example for the crew.#
+NEELIX: You're welcome. After all, if you want the crew to begin to accept natural food alternatives instead of futher depleting our energy reserves, you need to encourage them by your own choices, don't you?#
+NEELIX: And how about some Takar loggerhead eggs with that this morning?#
+NEELIX: It's a tiny bit richer blend than you're used to, but you'll learn to love it.#
+NEELIX: I wouldn't know. I'm smart enough to go around nebulas when I encounter them.#
+NEELIX: These people are natural born idiots, if you ask me. They don't appreciate what they have here. This ship is the match of any vessel within a hundred light years, and what do they do with it? Well, let's see if we can't find some space anomaly today that might rip it apart!#
+NEELIX: You don't care a great deal about your crew and introduce them to the spectre of death at every opportunity. And I speak as a member of that crew now. I'm not sure I would've wanted you to come along had I known that this is what#
+NEELIX: Wonderful?#
+NEELIX: I don't deny the romantic quality of this sort of casting about. I wouldn't exactly call it wonderful.#
+NEELIX: Although, it's getting more wonderful by the minute.#
+NEELIX: What did I tell you?#
+NEELIX: The bantan is a little on the spicy side. Kes grows them herself in the hydroponics garden. Don't eat any of the little pink things and you'll be fine.#
+NEELIX: Now what? Neelix to Chakotay.#
+NEELIX: No. I'm going to the Captain about this. [Ready Room]#
+NEELIX: Captain, I understand that this nebula we've discovered is some kind of monster?#
+NEELIX: Excuse me if I sound crazy, because someone may have been playing a joke on me, but you aren't planning to take us back into the belly of this beast, are you?#
+NEELIX: Why?#
+NEELIX: I did not come on board this ship to be a veterinarian, Captain.#
+NEELIX: I just reached my limit. So if you don't mind, Kes and I will wait on board my little vessel for you to return.#
+NEELIX: Is that final?#
+NEELIX: Time for refreshment. Ailis pat�, Felada onion crisps, stuffed Cardaway leaves. Yum.#
+NEELIX: As the morale officer on this ship, I insist that a break in the workload is both healthy and necessary. Go on, Mister Vulcan. It might even help you loosen up. Or not.#
+NEELIX: Oh, just a few minutes ago when I sensed crew morale might be especially low. Mine certainly was. We were in a free fall at the time.#
+NEELIX: Yes, and after we stabilised, I certainly needed to unwind. So, it seemed to me, I had a choice to either come up here and say I told you so.#
+NEELIX: Or to try to do something constructive to help out in my own humble manner. Try the stuffed Cardaway leaves. They're irresistible.#
+NEELIX: Now, as your new morale officer, I thought it might be fun for us all to sing a few songs together.#
+NEELIX: You sent for me, Captain.#
+NEELIX: Be prepared to be intercepted by Numiri patrols. They always try to intimidate travellers to the Banean planet.#
+NEELIX: I understand.#
+NEELIX: To be honest, whenever I saw the Numiri coming, I always left before the intimidation began.  However, I know from knowledgeable sources that they have directed energy weapons comparable to your own. Our own, that is. Plus regenerative shields that may even give them a certain advantage over us in a firefight.#
+NEELIX: The Numiri and the Banea are quite different from one another, even though they once coexisted on the same planet. That's why I recommended the Banea to you in the first place. The Numiri have a remarkably covert society.#
+NEELIX: A standard patrol vessel. Curious.#
+NEELIX: I would've expected them to send out more than one tiny patrol to meet a ship like this.#
+NEELIX: Very, very curious. In Numiri terms, that greeting was downright friendly.#
+NEELIX: That is a standard tactic for the Numiri when they intend to board your vessel. Well, at least now you know I was telling the truth about them, Captain. Although I take no pleasure in being right, mind you.#
+NEELIX: The Numiri have never needed an excuse to attack anyone.#
+NEELIX: Captain. More Numiri will be coming, I promise you.#
+NEELIX: A, a what? What, what did he say? A mind what?#
+NEELIX: Captain, I'm serving lunch in less that two hours.#
+NEELIX: Ah! Ooo. Sikaris!#
+NEELIX: Only stories about their incredible hospitality.#
+NEELIX: And I hear the Sikarians have a huge variety of edible plants. If we could collect some seeds, we'd expand our selection significantly.#
+NEELIX: Kaylos. Ah. Aren't they gorgeous? One bite'll kill you. Puff you up like a vakol fish. First your windpipe swells, and just when you think you're going to die of suffocation, ow! Oh, you get a sharp pain in your knees, which begins to work its way right up to#
+NEELIX: Sorry, Mister Carey. Just remember the old trader's axiom. Never judge a fruit by its skin. Er, on the other hand, take a bite.#
+NEELIX: A leola root.#
+NEELIX: This is the reason I brought you here, Commander. There's no better source of vitamins and minerals in the quadrant than in this, this ugly little root.#
+NEELIX: You humans! You're not used to roughing it, are you? Well, you take it from one who knows. The day may come when you'll relish every last crunch of leola.#
+NEELIX: Stewed for a few hours in a light herbal broth, you wouldn't even notice the mildew.#
+NEELIX: Captain, this may be a trap. The Kazon-Nistrim is one of the most violent sects in the entire Kazon collective.#
+NEELIX: Your telepathic senses again. Is this like last week, when you went into Sickbay and you knew Lieutenant Hargrove had been there, only he'd left hours before?#
+NEELIX: Mmm hmm?#
+NEELIX: Who was it?#
+NEELIX: And that's not all. Ensign Parsons ordered his pejuta cold.#
+NEELIX: He always drinks it hot. Hot! With lemon. But not today. Today it's cold pejuta, hold the lemon.#
+NEELIX: Nevertheless, don't you think you should scan him or dissect him or something, just to make sure?#
+NEELIX: It sounds to me like you're defending Ensign Parsons.#
+NEELIX: Are you suggesting that I, that I could possibly? Doctor, I can assure you, not even an alien intruder could make me do anything to hurt Kes.#
+NEELIX: I'll be back as soon as you wake, dearest. And don't worry, you're in good hands. Thank you, Doctor.#
+NEELIX: Nonsense. Everyone aboard this ship deserves a little taste of home every now and then.#
+NEELIX: Don't thank me, I'm having a marvellous time experimenting with the native dishes of the entire crew. So far I've learned to make corn salad for Mister Chakotay, and peanut butter and jelly sandwiches for Mister Paris. He calls it comfort food. Isn't that charming? What are you waiting for, it's no good cold.#
+NEELIX: Well?#
+NEELIX: It is zesty, isn't it. I tried following the recipe in the computer's databank but it seemed so bland, so I took the liberty of spicing it up a bit. Call it plomeek soup a la Neelix.#
+NEELIX: But your soup?#
+NEELIX: Ah, there's no place like home.#
+NEELIX: Safety?#
+NEELIX: Oh, I don't know. It sounds cowardly.#
+NEELIX: All right. Safety. (Neelix sends the cue ball round two bumpers without touching another ball. That'd be a foul stroke in snooker.) NEELIX: Ah ha ha! Mister Vulcan, let's see you reason your way out of this conundrum. This safety business is a lot more satisfying than I imagined. I've left him with an impossible shot.#
+NEELIX: Go ahead then. Call your shot.#
+NEELIX: You should have called a safety.#
+NEELIX: Me?#
+NEELIX: That's a Haarkonian shuttle.#
+NEELIX: My people were at war with them for the better part of a decade. They conquered my homeworld more than fifteen years ago.#
+NEELIX: None at all.#
+NEELIX: I'm Neelix. What do you want?#
+NEELIX: Who are you?#
+NEELIX: Doctor Jetrel was the scientist who conceived the Metreon Cascade, then he led the team of scientists who built it.#
+NEELIX: In the blink of an eye Rinax was enveloped by a deadly cloud, and those lovely days were turned into one endless frigid night. More than three hundred thousand were killed.#
+NEELIX: I had the good fortune to be on Talax at the time with our defence forces, preparing for an invasion that never came. It wasn't necessary. The day after the Cascade was deployed, Talax surrendered unconditionally to the Haarkonian Order.#
+NEELIX: Maybe this is one experience that can't be shared. It's too hard to describe how I feel to someone who didn't see what I saw. I'm sorry.#
+NEELIX: Captain! Back from your doctor's appointment already?#
+NEELIX: Nothing you tell me can make this day more disturbing than it's already been.#
+NEELIX: Er, Captain, please tell Doctor Jetrel that I am touched by his tender concern for my state of health, but that I'd rather be immersed in a pit of Kraylinnian eels than examined by him.#
+NEELIX: I don't want that man within ten parsecs of me!#
+NEELIX: Don't either of you find it the slightest bit strange that a man who has made it his life's work to develop a weapon to destroy as many Talaxians as possible should suddenly be concerned with this Talaxian's health.#
+NEELIX: If the disease is fatal, what's the point of knowing whether I have it or not?#
+NEELIX: Peace of mind is a relative thing, Captain.#
+NEELIX: Outnumbered and outflanked. All right then, I surrender. [Briefing room]#
+NEELIX: Why are you doing this?#
+NEELIX: Is it all just scientific curiosity, Metreons and isotopes. Or do you feel guilty about what you did.#
+NEELIX: Really? It was necessary to vaporise more than a quarter of a million people and to leave thousands of others to be eaten away by Metreon poisoning.#
+NEELIX: Unfortunate? Did you hear that, Captain? It was unfortunate.#
+NEELIX: That must be a very convenient distinction for you. Does it help you sleep at night?#
+NEELIX: What is that supposed to mean?#
+NEELIX: Don't worry about it, Captain, because Doctor Jetrel will have to find himself another laboratory rodent to help his experiments. Because I would rather die than help you ease your conscience.#
+NEELIX: Are you sure you can't do this?#
+NEELIX: Just get it over with.#
+NEELIX: Did I ever tell you about the notorious two-tailed talchoks of Rinax?#
+NEELIX: Nasty little vermin. Sharp claws, dripping fangs. Ugh. It was quite a nuisance. So one summer when I was a boy, I decided to do something about them. I spent weeks tinkering, creating a fool-proof talchok trap. Once I'd perfected it I set it in the garden. And the next day I found one of those beasts pinned at the neck. But it wasn't dead, it was squirming, squealing in agony. And suddenly it didn't look so fiendish any more. It looked like a poor innocent animal.#
+NEELIX: You see, I had become so fascinated with my invention that I never really thought about how that poor creature would suffer.#
+NEELIX: For now.#
+NEELIX: And?#
+NEELIX: Sorry? Why are you sorry?#
+NEELIX: Come in.#
+NEELIX: Kes, my sweet, I'll have you know this is not the first time I have gazed into the gaping maw of death. Why once, during the battle of the Pyrithian Gorge I faced down an entire battery of Haarkonian artillery. There I was, with only a small crevice for cover#
+NEELIX: Well, there's one good thing that will come from all this. When I first met you I didn't know that your species lived only eight or nine years. I fell in love with you without knowing how lonely it would be to live without you after you're gone. Now that I'm going to die first, I don't have to worry about it.#
+NEELIX: Is there anything besides science that makes your heart beat faster, Jetrel?#
+NEELIX: You know what I've been thinking? If I'd been in charge of the Cascade I'd have, I don't know, chosen a military target, simply deployed it on an uninhabited planet. Somehow I don't think I'd have targeted innocent civilians.#
+NEELIX: You should have tried to stop them! Why didn't you speak out? People would have listened to you.#
+NEELIX: So you did it for science.#
+NEELIX: Consequences? Who are you to talk about consequences.#
+NEELIX: Your family was killed?#
+NEELIX: That's a sad story, Jetrel, but let me tell you another one. A man goes back to Rinax after the Cascade. Back to what had been his home, to look for survivors. But the impact of the blast has set off hundreds of fires, and there's nothing there. Just smouldering ruins and the stench of seared flesh. But in the distance, in the middle of all that emptiness, from out of this huge cloud of billowing dust, he can see bodies moving, whimpering, coming toward him. They're monsters, their flesh horribly charred, the colour of shale. One of them comes toward him, mangled arms outstretched, and he can't help it, he turns away frightened. But then the thing speaks and he knows by the sound of her voice that she's not a monster at all, but a child. A little girl.#
+NEELIX: Her name was Palaxia. We brought her back to Talax with the other survivors. Over the next few weeks I stayed at her bedside and watched her wither away. Those are consequences, Doctor Jetrel.#
+NEELIX: Did you ever think that maybe your wife was right. That you have become a monster?#
+NEELIX: I hope you have to live with that a very long time.#
+NEELIX: And why is that?#
+NEELIX: There's no open shot.#
+NEELIX: I'm no coward.#
+NEELIX: What are you doing, it's my turn!#
+NEELIX: I did what I thought was right.#
+NEELIX: No! I#
+NEELIX: Who are you?#
+NEELIX: Palaxia!#
+NEELIX: You! You did this, butcher! (Neelix pushes his opponent onto the pool table, and looks into his own frightened face.) [Neelix's quarters] JANEWAY#
+NEELIX: Here, Captain.#
+NEELIX: Hard to believe that on clear nights you could look up from Talax and see the shimmering lights of the colony. The night of the Cascade, a bright flash cut across the sky. It was so blinding that people threw themselves to the ground. Then everything stopped, like a moment out of time. Then we all looked up to see where the flash had come from, but the sky seemed oddly empty. Took most of us a few seconds to realise it was because Rinax was gone. Of course, the moon was still there. We just couldn't see it because of that Metreon cloud.#
+NEELIX: This brings back too many memories, Captain. If you'll excuse me.#
+NEELIX: I wanted to be alone.#
+NEELIX: No, you don't know! Not everything. You don't know where I was the night Rinax was destroyed.#
+NEELIX: I was on Talax, but I wasn't fighting with the defence forces. I was hiding from them. I wasn't a hero at the battle of the Pyrithian Gorge. I've never even been there.#
+NEELIX: I never reported for duty.#
+NEELIX: I thought the war was unjust, that Talax was fighting for reasons that weren't worth killing for. Or at least, that's what I told myself. But the real reason I didn't report was because I was a coward. Now you know.#
+NEELIX: During war time, the punishment for refusing military service was death.#
+NEELIX: It makes me a liar! I've lied about it all these years, to you, to Jetrel, to everyone.#
+NEELIX: Because I'm ashamed.#
+NEELIX: Of course I am. He killed them all. My mother, my father, my little brothers.#
+NEELIX: I don't know.#
+NEELIX: You mean from looking at myself? You may be right, but I hate him. And I don't think I can stop hating him.#
+NEELIX: Doctor Jetrel.#
+NEELIX: I'm sorry, but I need to speak with you.#
+NEELIX: What is that? You're engaging in some kind of bizarre experiment, aren't you? What is it this time?#
+NEELIX: What do you call that? Scientific progress? I'm going to the Captain!#
+NEELIX: Bring who back? Who, Doctor? Who is it you're going to bring back?#
+NEELIX: He's out of his mind, Captain.#
+NEELIX: Do we have to listen to this?#
+NEELIX: Is that what you were doing with that thing in Sickbay?#
+NEELIX: But, but, if the biomatter in the cloud is so random, so jumbled, how could you reconstruct something whole?#
+NEELIX: What if he's right?#
+NEELIX: Why didn't you just tell us the truth in the first place?#
+NEELIX: Captain, if there's any chance he can do it, you've got to let him try.#
+NEELIX: Please, Captain.#
+NEELIX: It's incredible.#
+NEELIX: Maybe the Cascade was a punishment for all of us, for our hatred, our brutality. There's something I need to tell you. I tried to tell you before, but#
+NEELIX: I want to tell you that I forgive you.#
+NEELIX: I feel that my services as Morale Officer are required.#
+NEELIX: Oh really? One, no cup of tea. Two, no PADD. Three, you're sitting on the opposite side from usual. All of that tells me you've got something on your mind. And what tells me that it's making you miserable is that cloud of doom that's rising from you like a ground fog.#
+NEELIX: Ah, ha. Maquis trainees getting you down?#
+NEELIX: What seems to be the problem?#
+NEELIX: Come with me, I want to show you something.#
+NEELIX: These are Keela flowers. Beautiful, and remarkably strong. The stem is flexible, impossible to break. But occasionally on the same plant there's a bloom whose stem is not so flexible. Ah, here's one. And when the stem is brittle, it breaks.#
+NEELIX: No, Mister Vulcan, I'm saying that you are rigid and inflexible, but maybe if you'd learn to bend a little, you might have better luck with your class. Those Maquis aren't Starfleet cadets. You can't treat them the same way. Get to know them, try to find out what they're like inside. You might discover a better teaching method.#
+NEELIX: Brill cheese. I made it from that schplict we brought on board last week. Ensign Ashmore asked for something called macaroni and cheese.#
+NEELIX: Of course. Captain's log, stardate 48859.3. Lieutenant Tuvok has reported what may be a possible explanation for the infection in the bio-neural gel packs. I have asked Lieutenant Torres and her team to investigate Neelix's kitchen. [Mess hall kitchen]#
+NEELIX: That's just a Laurelian pudding. It has to simmer for four hours.#
+NEELIX: I feel awful about this. I assure you I had no idea.#
+NEELIX: I hope that crushed your skull, Kazon pus hog.#
+NEELIX: What's it like to stare death in the face, Kazon?#
+NEELIX: Missed me!#
+NEELIX: I suggest you surrender now, Kazon. The Captain's on her way!#
+NEELIX: Want some more, you needle-snake? (The EMH jumps the Kaxon from behind. Neelix runs out of the kitchen and smacks the Kazon across the head with a pan, making a dent in it.) NEELIX: My best saut� pan. Good work, Doctor.#
+NEELIX: Ahhh! What's wrong? Is it serious?#
+NEELIX: Am I going to die?#
+NEELIX: Nondoran tomato paste. Oh, that'll leave a nasty stain. What are you doing here, Doctor?#
+NEELIX: Kes and I were on our way to the escape pod when this Kazon fungus came crawling out of an access hatch. I kept him occupied long enough for Kes to get away but he didn't give up so easily. So I took off running, he chased me and I led him here. No one gets the best of me in my kitchen! I'm fine now. The question is, are you?#
+NEELIX: You're bleeding.#
+NEELIX: Don't panic, Doctor. It looks superficial.#
+NEELIX: Maybe you should check your programme.#
+NEELIX: No problem, Captain.#
+NEELIX: What's this?#
+NEELIX: I doubt the Captain would think so if she found it crawling around in her salad.#
+NEELIX: No, nothing. I'm just very busy. So, you're seeing Tom Paris later?#
+NEELIX: He said, see you later. You said, right. Is he helping you in the Airponics bay now?#
+NEELIX: How thoughtful.#
+NEELIX: You're such an innocent! I see the way he looks at you. I used to look at women that way. I know what it means.#
+NEELIX: Thank you for bringing the cabbage. I can handle this from here. Thank you.#
+NEELIX: For you, sweeting.#
+NEELIX: Oh, no occasion. I just wanted to apologise.#
+NEELIX: For the way I acted in the Mess hall. I was jealous.#
+NEELIX: It has nothing to do with trusting you. It's him I don't trust. I've seen his kind before. They're all over the quadrant, as a matter of fact. They prey on naive, sheltered young women like you.#
+NEELIX: A vase.#
+NEELIX: What's this?#
+NEELIX: Awful! How can you eat it?#
+NEELIX: Dirt? You're eating dirt? Why?#
+NEELIX: What?#
+NEELIX: You didn't. Neelix to Sickbay. Prepare to receive an emergency patient.#
+NEELIX: We are going to get to the bottom of this. Come on.#
+NEELIX: We are going to Sickbay.#
+NEELIX: I'll call security unless you come with me.#
+NEELIX: Come on! Come on!#
+NEELIX: You're sure the beetles weren't poisonous? Or the flowers?#
+NEELIX: Doctor, why is she eating all these strange things? What's wrong with her?#
+NEELIX: But don't you have any ideas?#
+NEELIX: She's burning up!#
+NEELIX: You have to bring them down!#
+NEELIX: You mean there's a connection between what's happening to Kes and those creatures? Well, you have to do something about it!#
+NEELIX: Well, I won't. Kes needs me.#
+NEELIX: You can't talk to me that way.#
+NEELIX: But#
+NEELIX: I'll be back. Don't worry about a thing.#
+NEELIX: Captain, may I speak with you? It's a matter of some urgency.#
+NEELIX: I have been thrown out of Sickbay, and I'm just wondering if you feel it's appropriate for a hologram to banish a flesh and blood person who should have the right to be at the bedside of his loved one who is extremely ill?#
+NEELIX: The hologram doesn't have a clue as to what's wrong with her, though it may have something to do with these creatures. But he still won't let me offer comfort to the woman I love at a time when my place is clearly by her side.#
+NEELIX: That's what I wanted to know. But before I got any answers, I was summarily dismissed!#
+NEELIX: Sweeting. What's wrong? Please come out.#
+NEELIX: Kes, please come out. You can eat anything you want. Captain?#
+NEELIX: Oh. I'm, I'm, I'm, I'm, I'm, I'm honoured, but are you entirely certain it would be safe?#
+NEELIX: Well, you're so young. Is it dangerous for you to conceive a child at your age?#
+NEELIX: If you never had a child, would you be terribly unhappy?#
+NEELIX: Well, to be honest, I've never given it much thought. Until now, my life has been so itinerant. There's no way I could have provided the stability a child would need.#
+NEELIX: Well, yes. but raising a child on a starship? That's hardly what I would call the ideal environment.#
+NEELIX: No, that's not it at all. I'm just trying to look at all sides of the issue. Bringing a child into the world. It's a huge responsibility. I know you'd want to be sure we're both up to the task. I mean, somebody would have to keep their eye on the little guy all the time or he'd be off sticking his finger into an EM conduit or playing with the plasma injectors.#
+NEELIX: What about your medical studies? You wouldn't be able to continue them if you had a child.#
+NEELIX: What's that?#
+NEELIX: It does?#
+NEELIX: Six days?#
+NEELIX: Well, er, fifty hours? That's good. That's good. We can sleep on it. I'll get back to you. [Mess Hall] (Neelix has to change someone's meal tray for a fresh one.) NEELIX: Sorry. I swear I heard you say lots of pepper sauce.#
+NEELIX: Well, actually, I didn't get around to making a lunch special. But we have some lovely gabosti stew left over from last night.#
+NEELIX: I've had quite a run on it, as a matter of fact. It seems very popular.#
+NEELIX: You can have it with or without pepper sauce.#
+NEELIX: Mister Tuvok, I was wondering. You have children, don't you?#
+NEELIX: Four! My, that's certainly quite a family. Tell me, what's it like, being a father?#
+NEELIX: Well, I mean, it's a lot of responsibility, isn't it? Watching them, caring for them, keeping them safe, giving them an education.#
+NEELIX: Sounds like it's a lot more trouble than it's worth.#
+NEELIX: It's just all happening so fast. I don't know what to think.#
+NEELIX: Ah. that's what I thought.#
+NEELIX: I-I-I've heard it said that children can bring a lot of joy into one's life.#
+NEELIX: Now that I think about it, it might be fun to have a little guy around. We could do a lot together. I've got quite a bit I could teach a boy, you know. Survival methods, piloting skills, romantic techniques.#
+NEELIX: A daughter? I don't have anything to teach a daughter.#
+NEELIX: It just would. She'd learn more from her mother.#
+NEELIX: I understand. We'll get there, Mister Vulcan. I'm sure of it. Thank you. You've given me a lot to think about.#
+NEELIX: Well, order the diapers. We're about to become parents.#
+NEELIX: More than anything.#
+NEELIX: I just hadn't thought it through. Now that I have, I swear to you I want to do this. And I'll be the best possible father to our child.#
+NEELIX: So, what comes next?#
+NEELIX: What does that involve?#
+NEELIX: Er, where do you plan to find a parent?#
+NEELIX: Will that work, since he's not a real person?#
+NEELIX: I don't know how I feel about him massaging your feet.#
+NEELIX: Okay. Okay, fine. How long will that take?#
+NEELIX: No. Thanks.#
+NEELIX: No. No, nothing.#
+NEELIX: It was your choice. I respect that.#
+NEELIX: I think, once I decided to become a father, I was looking forward to it. But I'll get over it.#
+NEELIX: But I thought this was the only time.#
+NEELIX: You mean, we might still be able to have a daughter?#
+NEELIX: No. I've thought about it. A daughter, definitely. One who looks just like you. Captain's log, stardate 48921.3. I continue to wonder about the issue of procreation aboard the ship. Certainly, it's wrong to interfere with the private lives and decisions of the crew, yet I remain concerned about the environment we could provide for any child born here. [Ready room]#
+NEELIX: Surprise! Happy birthday, my sweet.#
+NEELIX: Imagine, two years old today. If you ask me, you don't look a day over one.#
+NEELIX: Now, how about a glass of my special birthday punch? Gar�on?#
+NEELIX: Did you see that?#
+NEELIX: He. He. He did a lovely wrapping job, don't you think?#
+NEELIX: But, but, what about the Jibelian fudge cake?#
+NEELIX: I thought you'd like it. The cake, the presents. What was your favourite part?#
+NEELIX: Ah, that was nice, wasn't it? And don't forget that beautiful necklace Tom Paris gave you.#
+NEELIX: Oh, why wouldn't I like it? Paris obviously has excellent taste.#
+NEELIX: Who, me? Don't be silly.#
+NEELIX: You, my dearest, have seen the last of that green-eyed pus hog called jealousy.#
+NEELIX: Of course, Paris did replicate that locket, whereas I baked the Jibelian fudge cake from scratch.#
+NEELIX: I was just following you. [Mess hall] (Torres marches in and stops dead.)#
+NEELIX: Kyoto's quarters. Nicoletti. Hargrove. Ayala.#
+NEELIX: This is deck eight. That's where your quarters are.#
+NEELIX: How do you know where everyone's quarters are?#
+NEELIX: Remember from what? Have you been in all their quarters?#
+NEELIX: Well, see for yourself.#
+NEELIX: Perhaps, sweeting, your memory isn't as reliable as you think.#
+NEELIX: Why Hargrove?#
+NEELIX: Why are you so sure about Hargrove's quarters? What makes him so special?#
+NEELIX: Kes, my sweet, you have many wonderful attributes. Your sense of direction is not one of them, because. Oh, er, Harry, B'Elanna. Maybe you can help us. I know you'll find this hard to believe, but we can't seem to find Kes's quarters.#
+NEELIX: And, er, I'll assist Commander Chakotay, Captain. As you may have heard, my tracking skills are legendary throughout the quadrant.#
+NEELIX: Oh, come now. Ha! A handsome man like you. I bet women find you irresistible.#
+NEELIX: Er, er, er, have you, er, but have you ever been jealous?#
+NEELIX: You have?#
+NEELIX: I see. It's a perfectly normal response. Then why, why is it so unpleasant?#
+NEELIX: No. I mean, I don't think so. At least I certainly hope not. I just can't seem to stop these awful feelings.#
+NEELIX: Cake, anyone?#
+NEELIX: Oh, it's a long story. I'll tell you all about it later. Right now, it's time to finish your party.#
+NEELIX: What for, sweeting?#
+NEELIX: Happy birthday, Kes.#
+NEELIX: It must have been terrible for you. Pepper, sweeting.#
+NEELIX: I'm sure Lieutenant Paris is a fine teacher. Oh! I almost forgot the Palliantyne peas. Ever so lightly spiced.#
+NEELIX: Gentlemen. May I recommend the Alfarian hair pasta today?#
+NEELIX: Not at all. It's actually made from the follicles of the mature Alfarian. We harvest the hair during shedding season in early fall. It's very high in protein.#
+NEELIX: You subclass genus.#
+NEELIX: Sitting with your backs to each other like two strangers waiting for a transport. Was that supposed to fool me?#
+NEELIX: Liar.#
+NEELIX: I'll kill you!#
+NEELIX: Yes, Captain?#
+NEELIX: Me and him?#
+NEELIX: Frankly, yes, Captain.#
+NEELIX: Nothing happened.#
+NEELIX: Kes. We'll talk when I get back.#
+NEELIX: When I get back.#
+NEELIX: We lost communication with Voyager thirty seconds ago. You don't have to impress me with your technobabble.#
+NEELIX: You're the commander of this mission. You can make any suggestion you want, and if you make it an order, I'll even have to obey it.#
+NEELIX: I left my personal problems back on the ship. I can't speak for you.#
+NEELIX: You get us down in one piece, and I'll take it from there.#
+NEELIX: Ensign Baytart took me through the basics. Of course, I didn't have the benefit of your personal tutelage.#
+NEELIX: Confirmed.#
+NEELIX: What does that mean?#
+NEELIX: Deuterium flow sealed.#
+NEELIX: Can you regain control?#
+NEELIX: I said in one piece.#
+NEELIX: Everything seems to be working. I'm itching.#
+NEELIX: If we've got atmospheric leakage, how can we fly out of here?#
+NEELIX: We're not even sure they're looking for us yet. We don't know if the EMS pulse got through.#
+NEELIX: I say we stay right here.#
+NEELIX: You're the one who wants to go out into those vapours. Staying here is our best chance of being found. You heard what they said. Those windows may only be open for a matter of minutes.#
+NEELIX: Is that an order or a suggestion?#
+NEELIX: Yes, sir! [Planet surface] NEELIX: I certainly don't know why the ship's sensors indicated this planet might be rich in food supplies. It sure doesn't look it.#
+NEELIX: I'll find something for us. Of course, it might not meet your personal culinary standards.#
+NEELIX: What good fortune. [Kes's quarters]#
+NEELIX: Garnesite. This will give us a little heat, at least.#
+NEELIX: So, what is Starfleet protocol for situations like this?#
+NEELIX: I hope you had a passing grade.#
+NEELIX: That's not very encouraging.#
+NEELIX: And he gave you a B minus? I guess he didn't play favourites, huh?#
+NEELIX: I wrote my own book. My life before Voyager was no bed of Felaran rose petals.#
+NEELIX: What?#
+NEELIX: You were going to say junk, perhaps? Go ahead. Say it. Junk. I was a dealer in junk. Perhaps not worthy of a woman like Kes, in your opinion.#
+NEELIX: Tell me something. In that Starfleet survival course, did your father teach you to check for life signs before you seal yourself inside a cave?#
+NEELIX: There are now.#
+NEELIX: In this atmosphere, it could be dying of exposure.#
+NEELIX: I'd say it's becoming more and more evident that we chose the wrong cave.#
+NEELIX: If this species is sentient, wouldn't that suggest that its parents might return to care for it?#
+NEELIX: I think we've established we're not dealing with a common reptile.#
+NEELIX: We can't just leave it here.#
+NEELIX: But we blocked off the cave. The mother might have been trapped outside.#
+NEELIX: Look. It's not that simple. What if she can sense we were here? She, she might be able to smell that faux lime aftershave of yours. I'm sure you realise many species won't return to a nest after it's been tampered with.#
+NEELIX: No.#
+NEELIX: This creature is our responsibility.#
+NEELIX: The moment we came in here, it became our responsibility.#
+NEELIX: Look, if she does return and accepts the hatchling, it'll solve everything. We just have to wait and see what she does. I don't know how it is in your quadrant, but in mine we don't abandon a new-born thing.#
+NEELIX: It's stopped crying.#
+NEELIX: To be honest, I haven't been around many new borns.#
+NEELIX: Oh, look at this, Paris. It's stopped shivering.#
+NEELIX: If I were in my kitchen, I could cook you up some delightful leola root broth.#
+NEELIX: It seems far more interested in my jacket than your food.#
+NEELIX: We were certainly wrong about that.#
+NEELIX: The perfect source of nutrition for the hatchling.#
+NEELIX: There must be something in here we can use to resuscitate it.#
+NEELIX: No! It's our fault. It's our fault. If we hadn't come. Here. Cordrazine. This is a stimulant.#
+NEELIX: So we should just let it die?#
+NEELIX: What are you doing?#
+NEELIX: Do it again. Again. NEELIX: It's working. It's working!#
+NEELIX: You did it!#
+NEELIX: Who cares?#
+NEELIX: I'm sorry.#
+NEELIX: I feel I owe you an apology.#
+NEELIX: I had no right to push that pasta in your lap.#
+NEELIX: I haven't been fair to you. You know, I hear people talking about you in the mess hall.#
+NEELIX: Oh, that you used to be a coward and couldn't be trusted. It's typical of Kes that she would befriend someone like you. Someone who really needs a friend. And I guess I just got a little jealous. I got more than a little jealous. I realise now I was wrong.#
+NEELIX: I know.#
+NEELIX: What do you mean?#
+NEELIX: Oh?#
+NEELIX: I see. Well, in a way I can't say I blame you. She is very attractive.#
+NEELIX: Well, I did save her life. I'm sure she's grateful.#
+NEELIX: There are others?#
+NEELIX: I don't pick Kes's friends for her. Just my own.#
+NEELIX: We can't leave yet.#
+NEELIX: What if the mother rejects it?#
+NEELIX: We promised each other we wouldn't abandon it until#
+NEELIX: Captain, this is Neelix. Are you in a particular rush to leave?#
+NEELIX: There's nothing like a family reunion.#
+NEELIX: As soon as you're ready. [Transporter Room] NEELIX: And I'm a godmother. I'd say this is the special occasion I've been waiting for to open up that bottle of Potak cold fowl I've been saving.#
+NEELIX: No. It's actually made from the glandular secretions of an adult dunghill bird, found only on Potak Three. It's very rare. Very exquisite. There are, I believe, only twenty seven bottles in existence at this time.#
+NEELIX: Ah, Captain, the computer told me I'd find you on deck eleven section four B, starboard side, and sure enough, here you are.#
+NEELIX: I assumed you'd want to talk to me.#
+NEELIX: About the Botha. We're headed for their space and as I've told you, they're going to have to be handled very carefully.#
+NEELIX: I wouldn't put this off too long. We're getting closer, you know.#
+NEELIX: I've been in subspace contact with some old friends of mine. Nomads, collectors, much as I used to be. They're in a position to gather information during their travels. What they've told me doesn't sound good.#
+NEELIX: There are lots of rumours about ships entering Bothan space, never to be heard from again. My sources on Mithren say that they have lost a number of vessels. They say the Botha protect their territory fiercely.#
+NEELIX: I don't think they are either. They just don't want anyone crossing their borders.#
+NEELIX: It's hard to say. There's some belief that they don't even have a legitimate claim to the space, that they're nothing more than pernicious, odious vandals. In which case, diplomacy would fall on deaf ears.#
+NEELIX: Captain, if I may. What was the last time you ate?#
+NEELIX: Then let me suggest that we conduct our talk in the mess hall. We're serving a sumptuous repast for lunch.#
+NEELIX: All you have to do is give me a call. I'll be there in a trice with a tray of food so delectable you won't be able to resist. I do think I've outdone myself this time. An exquisite pate made from Seltin wood fungus. Brine-soaked neccel strips. Deviled wood throk.#
+NEELIX: Lieutenant Hargrove asked for them. Is something wrong?#
+NEELIX: Why, I'm not sure. I think I found several of them in storage. Unusual, isn't it? Captain, is everything all right?#
+NEELIX: Didn't you like it?#
+NEELIX: Delectable.#
+NEELIX: Exquisite!#
+NEELIX: Sublime.#
+NEELIX: Cucumber sandwiches?#
+NEELIX: I don't even know what that is. The other item on the menu was a fried murt cake. You ate one.#
+NEELIX: One of these. The ones I found in storage.#
+NEELIX: Flowers? Well, no, I don't see any flowers. Maybe there was another cup, but I don't think so. Would you like a cup with flowers on it? I'm sure I can replicate one.#
+NEELIX: Aye, Captain.#
+NEELIX: Sweeting! Thank goodness I found you. Are you all right?#
+NEELIX: In the mess hall, trying to help the poor souls there.#
+NEELIX: I didn't hear them. The comm. system must be down. And frankly, I was a little busy. Ashmore thought I was a Kazon. Tried to kill me with a carving knife.#
+NEELIX: Who else would I be? Kes, all I want to do is protect you, to keep you safe. We have to get away from here, get to my shuttle.#
+NEELIX: You're becoming annoying.#
+NEELIX: Move away from that console.#
+NEELIX: What's the matter, Kes? Can't lift your head?#
+NEELIX: Stop it! (Neelix collapses and turns into the Bothan. Kes turns the monitor back on.)#
+NEELIX: What do you think this is? Some kind of message? (Chakotay kneels by circle of stones with markings on the ground inside it. He traces the spiral and remembers - ) [Memory - Central American jungle] (The same spiral and lines carved into a piece of dead wood.)#
+NEELIX: It takes more than a little thunderstorm to bother one of your mighty Starfleet ships, huh?#
+NEELIX: Is something bothering you, Commander?#
+NEELIX: I never knew you had such horticultural expertise, Mister Vulcan.#
+NEELIX: Then we have something in common. I breed orchids too. Don't they make the most exquisite salad? A touch of Baldoxic vinegar, pure heaven.#
+NEELIX: The bird! The bird! (The hawk swoops in again. Chakotay gets a glimpse of a face before he waves his arms and the bird flies off.) NEELIX: My eye. Oh.#
+NEELIX: Is something the matter with him?#
+NEELIX: Is he contagious?#
+NEELIX: Touchy, isn't he?#
+NEELIX: This is delicious. Mister Tanis, is it true you're fourteen years old?#
+NEELIX: Would that technology work for Kes?#
+NEELIX: Ahem, excuse me.#
+NEELIX: May I say something now?#
+NEELIX: I'm so proud of you. I knew you could do it. This is a whole new beginning for you, Kes.#
+NEELIX: Go?#
+NEELIX: I'd go anywhere with you. Captain's log, supplemental. We've arrived at what Tanis calls the meeting place, the region of space where Suspiria exists.#
+NEELIX: Am I interrupting?#
+NEELIX: Leave her alone, Tanis!#
+NEELIX: I said, leave her alone!#
+NEELIX: I've never seen the Kazon do anything like this before.#
+NEELIX: Forgive me, Captain, but are you sure going after the Nistrim is the wisest course of action after what they've already done to us?#
+NEELIX: Even though all they've stolen is a small computer component?#
+NEELIX: They'll try to get it for themselves any way they can. You're right. It could alter the balance of power among the sects.#
+NEELIX: You can count on me, Captain.#
+NEELIX: I'm not so sure these men died by accident, Captain. You see this green band he's wearing? It means he was the First Maje of the Kazon-Relora.#
+NEELIX: Sworn enemies of the Nistrim. It's conceivable that Seska and Culluh used the transporter to execute these men. Captain's log, stardate 49208.5. I have convened a meeting of the senior staff to determine how we can get close enough to the Nistrim ship to deploy the anti-proton beam. [Briefing room]#
+NEELIX: They must belong to enemy sects.#
+NEELIX: It's certainly unusual for rival Kazon sects to congregate peacefully.#
+NEELIX: I've never known the Kazon to do anything like that before.#
+NEELIX: Understood.#
+NEELIX: It worked then. We're all right.#
+NEELIX: I don't know exactly. I went in the shop, completed the trade, then I heard weapons fire on the street. By the time I got out there the Captain and the others were gone.#
+NEELIX: I spoke to witnesses on the street. They said it was quite a fight.#
+NEELIX: Someone must have told them we were coming. The Mokra have informants everywhere.#
+NEELIX: I don't think I would have made it back here with the tellerium if he had been. Besides, he's involved with the Alsaurian resistance movement. He would never help the Mokra.#
+NEELIX: The Mokra are paranoid and hostile. They have no use for diplomacy. I wouldn't be surprised if they started shooting at us immediately.#
+NEELIX: He's not like any Mokra I've ever met. I can't believe he'll really help us.#
+NEELIX: What does that mean?#
+NEELIX: There's only one problem with that. If the Mokra detect us breaking through their shields, we'll be surrounded by soldiers in seconds.#
+NEELIX: Even though breakfast isn't officially served for another hour and a half, I'd be happy to pour you a glass of Traggle nectar. I will even fix you my special Jibalian seven spice omelette.#
+NEELIX: I'm sorry, B'Elanna, but two pots of Landras blend is the absolute limit.#
+NEELIX: Still no idea how to revive our mechanised guest.#
+NEELIX: I remember when I was trying to perfect the recipe for my Jibalian omelette. I tried everything, a little more spith basil, a little less prishic, but I couldn't get it right. Finally I fell asleep from exhaustion right there at the counter. And then, in a dream, it came to me. I was using six spices, but the omelette needed seven.#
+NEELIX: Nimian sea salt, actually.#
+NEELIX: Yes, salt, the most common spice in the galaxy. But I was too tired, so I couldn't see it.#
+NEELIX: To bed. I said, to bed.#
+NEELIX: Rabbit? She never told me she likes rabbits. What is a rabbit anyway? Is this some new chef she's interviewing?#
+NEELIX: Captain, if I may?#
+NEELIX: We're not far from a planet known as Sobras, where there's a Kazon settlement inhabited by a faction known as the Pommar. I have an acquaintance there, someone who owes me some favours. Some rather large favours, actually. Perhaps I could meet with him and sound him out.#
+NEELIX: Not exactly, but he does have the Maje's ear. This would be strictly informal, but it might give us a reading on the possibility without the risk of actual confrontation.#
+NEELIX: Hello my friends. Please, don't let me interrupt. I was hoping to find my good friend Jal Tersa here. Has he been in tonight?#
+NEELIX: Thank you. Tersa, my friend!#
+NEELIX: I'd never dream of sneaking up on you, but you were so engrossed in whatever it is you're doing.#
+NEELIX: I'm good at puzzles, perhaps I can help?#
+NEELIX: Oh, a splendid motivation, to be sure. I might just be able to make your night a memorable one.#
+NEELIX: I might, if you'll hear me out first. My fortunes have changed since we last met, Tersa. I've become a person of some influence aboard a starship known as Voyager.#
+NEELIX: A simple misunderstanding. Tersa, I know you have the ear of your First Maje, as I do with our Captain. We could be quite useful to both of them.#
+NEELIX: My Captain is interested in talking to your Maje, to discuss a possible alliance. Do you think he'd have any interest in such a meeting?#
+NEELIX: An interesting thought, isn't it?#
+NEELIX: Tersa! Explain to them we're friends!#
+NEELIX: I guess you'll be spending the night alone. [Briefing room]#
+NEELIX: He won't look kindly on anyone who's made such a egregius error. What are you charging me with? How long will I be held?#
+NEELIX: Well, I assume you'll at least let me confer with counsel. I have the ability to reward handsomely anyone who shows me a bit of understanding. Is that a baby?#
+NEELIX: My name is Neelix. I'm Talaxian.#
+NEELIX: I wasn't walking quickly enough for them.#
+NEELIX: Why are they holding you?#
+NEELIX: How long have you been here?#
+NEELIX: The Kazon won't be satisfied until you've all been annihilated.#
+NEELIX: Only two. I guess they assume this place is so secure that they don't need anymore. Why do you ask?#
+NEELIX: You can count on me.#
+NEELIX: I'd rather go out fighting, myself.#
+NEELIX: I'll keep an eye on him.#
+NEELIX: You have to understand. The Trabe were rich and powerful. They manipulated information about the conditions on their planet. And no one wanted to risk offending them, and losing opportunities for trade.#
+NEELIX: My contact on the planet said that he was making a sketch of the conference site, and believe me the Takrid are not known for their art.#
+NEELIX: That's as much information as I got.#
+NEELIX: Why miss a chance to wipe out your rivals while they're together in one room?#
+NEELIX: A rumour that must be taken seriously nonetheless.#
+NEELIX: Have you heard anything more about the matter we discussed?#
+NEELIX: Tersa, this time I am here with a powerful starship. You'd better be telling me everything you know.#
+NEELIX: He hasn't heard anything more, but he's frightened. He must believe something's going to happen.#
+NEELIX: Peace? A massacre?#
+NEELIX: We're in good shape, Captain. We shouldn't have to stop anywhere for several weeks.#
+NEELIX: More coffee? Ah, you look like a happy bunch.#
+NEELIX: Oh. Well, maybe I can help.#
+NEELIX: No. But I'm a quick study. What are we working on?#
+NEELIX: Sure. There's some Kalavian biscuits, somewhere in the kitchen.#
+NEELIX: What are you saying? I'm not smart enough? I'll have you know I did two years as an engineer's assistant aboard a Trabalian freighter. I'm well-versed in warp theory.#
+NEELIX: Infinite velocity. Got it. So that means very fast.#
+NEELIX: Wow! And you're working on this?#
+NEELIX: I remember there was a time when I lost a warp nacelle going through a dark matter nebula.#
+NEELIX: I realise that. I'm just using it as an example. As the ship went through the nebula, it sent out a dark matter bow wave. Eventually so much pressure built up, it tore the nacelle from its housing. Now, maybe the same thing is happening to you.#
+NEELIX: I have no idea what they just said. (Neelix takes a biscuit from the plate that Torres found in the kitchen.) [Briefing room] PARIS#
+NEELIX: I can tell.#
+NEELIX: But it's the Kal Rekk season.#
+NEELIX: Atonement. Solitude. All your Vulcan holidays are the same. I've been doing some research, I know.#
+NEELIX: It's part of my job as Morale officer.#
+NEELIX: Oh, please! There's no one on this ship requires my services more than you do. I will not rest until I see you smile.#
+NEELIX: I don't suppose you've ever heard of the Vulcan Rumarie?#
+NEELIX: Full of barely clothed Vulcan men and women covered in slippery Rillan grease, chasing one another.#
+NEELIX: Well, it's time to bring it back.#
+NEELIX: I've been thinking of a Rumarie theme for the mess hall next week. Lots of high fat, greasy foods, and if people want to take of their clothes and chase one another, well, it certainly wouldn't hurt morale around here.#
+NEELIX: Okay, all right. Far be it from me to bother anyone. If you really want me to leave, I'll leave.#
+NEELIX: I don't believe you. Your voice says go away, but your heart want me to make you smile.#
+NEELIX: Come on. A little smile. How is it going to hurt? I won't tell anyone.#
+NEELIX: Come on, just a little itty bitty smile. Just let the mouth curl a little then. There's an old Talaxian song my mother used to sing me as a child. I'm going to sing it to you every day from now on. It goes#
+NEELIX: Mister Vulcan, I can't breathe, I can't breathe, I'm sorry, I, I#
+NEELIX: So, how did you stop it?#
+NEELIX: Good day, Voyager and welcome to A Briefing With Neelix. It's a catchy title, isn't it? I'll be coming to you each and every day with news of general interest. Interviews with our fascinating crew members. Musical performances. Recommendations for new holodeck programmes. And of course, previews of upcoming meals. Everything from Hlaka soup to Zabee nuts. A Briefing With Neelix will help you stay informed about ship's activities, er, keep you abreast of your colleague's accomplishments and broaden your knowledge about a wealth of subjects. But most of all, it will make you feel good, because what you see here will always be the most uplifting, optimistic view of everything that happens on our ship. After all, as your morale officer, isn't it my job to bring a little joy into everyone's day? Hmm? Captain Janeway has agreed to appear on the show with regular updates about the ship's progress, and Commander Chakotay will commend outstanding crew members. So snap to and keep those boots polished to a shine. You never know when you might be featured on A Briefing With Neelix. Ready, Ensign?#
+NEELIX: In just a moment, an amazing talent. Ensign Pablo Baytart will astound you with his juggling ability. He'll keep PADDs, hyposprays, even phasers in the air for minutes at a time. But before that, what makes people feel better than a little romance? And what Lieutenant in a gold uniform was recently huddled in the Mess Hall with what crewman in blue having a very intimate conversation over a carafe of Silmic wine? Well, I'd never name names, but you know who you are. Best wishes to a handsome pair of lovebirds. And now, ladies and gentlemen, Ensign Pablo Baytart. [Doctor's office] NEELIX: I can see Hints for Healthful Living becoming a very popular segment, Doctor.#
+NEELIX: You'd be lifted to a whole new level in the crew's eyes. They'd hang on your every word. You'd enjoy a, a popularity, a, a celebrity that you've never known before.#
+NEELIX: You don't have to answer right away. Just think about it.#
+NEELIX: Did you watch A Briefing With Neelix this morning?#
+NEELIX: Is there something about the programme you disliked?#
+NEELIX: You do?#
+NEELIX: What did your professors say when you told them you were going to publish the editorial?#
+NEELIX: I'm heading for my quarters. Put it through there.#
+NEELIX: Laxeth, you old dilithium scrubber. It's good to see you. Calling to trade me some of your ill-gotten goods again? I promise you, I never want to see another wheel of Pendrashian cheese.#
+NEELIX: Communications master? Well, you've certainly come up in the world. Congratulations.#
+NEELIX: How's that?#
+NEELIX: Passenger? We don't carry any passengers.#
+NEELIX: An old friend of mine is serving with a Talaxian convoy. He told me they'd be rendezvousing with us in a few days.#
+NEELIX: Tom?#
+NEELIX: Well, yes.#
+NEELIX: But he seemed so determined to get those things behind him. It means a lot to him to be respected by this crew.#
+NEELIX: I can't believe this. I never thought. Captain, may I speak with him?#
+NEELIX: Hello, Tom.#
+NEELIX: I hear you're leaving the ship?#
+NEELIX: When did you make this decision?#
+NEELIX: Tom, you and I have had our differences, but I thought we put those behind us. I just hope I haven't contributed to your decision?#
+NEELIX: I thought you found those things here.#
+NEELIX: I'm one of them, Tom. And I wish you wouldn't go.#
+NEELIX: Doctor, what can I do for you?#
+NEELIX: Well, that's good news, I-I'm delighted you've decided to become a contributor. But I'm afraid I don't have time to discuss it right now.#
+NEELIX: That is fascinating, but I'm afraid there's a more important story I have to work on today.#
+NEELIX: When you see it, I'm sure you will understand.#
+NEELIX: Definitely. Without fail. I promise you.#
+NEELIX: Fine. Fine. Good bye, Doctor.#
+NEELIX: Good morning, Voyager. I want to tell you about a friend of mine. I first met this man almost a year ago, and tell you the truth, I didn't like him much. He seemed a little too cocky, a little too sure of himself. A lot of people had questions about him. He'd proven he'd pretty much sell himself out to the highest bidder, go wherever the wind blew him, so people wondered, could you trust this person when things got tough? Would he stand side by side with you, or would he let you down when you needed him most? But the fact of the matter is, he proved himself right from the beginning. I wouldn't be alive right now if it weren't for him. And the same goes for many of you. It took me a while to realize it. Like a lot of people, I was too caught up in first impressions to see the truth that was right in front of me. I overlooked his bravery because I was focusing of his brashness. I ignored his courage because I saw it as arrogance. And I resented his friendliness because I mistook it for licentiousness. So while this man was giving us his best every minute of every day, I was busy judging him. And now he's leaving. I'm proud to say that in spite of my narrow-mindedness, Thomas Eugene Paris became my friend. I'm going to miss him. No more laughs over a game of pool. No more sitting up into the wee hours swapping stories. No more complaints about my cooking. Goodbye, Tom. I think I speak for more of us than you might imagine when I say you're going to leave an empty space when you go. I hope you find what you're looking for. (Tom hugs Kes, and then Kim, steps onto the transporter pad and is beamed away. Neelix is now seen to be there with Kes.) [Briefing room]#
+NEELIX: Thank you.#
+NEELIX: Lieutenant, if I may? This sounds like news of substance to me.#
+NEELIX: Are we all right?#
+NEELIX: Neelix to Sickbay. Prepare for emergency transport. We have three wounded.#
+NEELIX: May I interview one of them now?#
+NEELIX: Well, I am, of course. Would you care to make a statement?#
+NEELIX: Thank you, Doctor. I'm sure that will be of great interest to the crew.#
+NEELIX: Very interesting. Now, I know the crew would love to hear a few words from the man who risked his life to save the ship. Would you consent to an interview?#
+NEELIX: Ah. Right here, Captain.#
+NEELIX: I'm on my way. I'll contact you later about the interview.#
+NEELIX: Verterium cortenide, if I'm not mistaken, that's a densified composite material.#
+NEELIX: Let's see. Er, there's a yellow dwarf system called Hemikek with an M-class planet quite rich in minerals. Mining rights belong to a consortium of non-aggressive people. I'm sure we could make arrangements to purchase some verterium and cortenum.#
+NEELIX: A Talaxian convoy would never let the Kazon know where they are. That would be like committing suicide.#
+NEELIX: That wouldn't have stopped them from taking the cargo too. And according to my friend Laxeth, it was a swift, efficient strike. It sounds like they knew Tom was there, and they came just to get him.#
+NEELIX: One possibility I can think of is that it was someone on this ship.#
+NEELIX: I don't know. But a responsible journalist would find out.#
+NEELIX: Oh.#
+NEELIX: I was wondering if you could show me how to access the subspace communications logs.#
+NEELIX: Well, just part of my news programme.#
+NEELIX: I understand. Just get me started.#
+NEELIX: Oh, maybe a month or two.#
+NEELIX: No. I'll be fine. Thank you very much.#
+NEELIX: Voyager to Mithren. Mithren again. Voyager to Kotati.#
+NEELIX: I, I don't know exactly what I'm looking for. Something anomalous.#
+NEELIX: An incident I'm investigating. Tell me, Mister Hero. If someone wanted to make a secret subspace transmission, how would he do it?#
+NEELIX: Oh, I can't be too forthcoming right now, but if I find what I think I'm going to, well, let me just say that this ship will be stunned.#
+NEELIX: What about that?#
+NEELIX: That gap, as if some of the log entries have been deleted.#
+NEELIX: I beg your pardon?#
+NEELIX: Here it is again.#
+NEELIX: Maybe Lieutenant Torres can explain it.#
+NEELIX: Ah. Here it is again. Gaps in the log entries. And frankly it looks like more than data fragmentation to me. The gaps are showing up in logs entered over the last months, but not before that.#
+NEELIX: Doctor! How can I help you?#
+NEELIX: That's right, that's right. I've been so preoccupied with this other matter.#
+NEELIX: That's very interesting, but we're going to have to put it off until tomorrow.#
+NEELIX: I'm sorry, Doctor, but I really have to go now. [Tuvok's office] NEELIX: Ah ha! I knew you'd say that. Answer this, Mister Vulcan. Why would those gaps, those deletions, occur only in the sub-com logs and only in the last month? I checked every log system we have. Sensor logs, power allocation logs, warp maintenance logs, environmental control logs. They're all perfectly fine.#
+NEELIX: I believe someone on this ship has been making covert transmissions and erasing the evidence.#
+NEELIX: I don't know, but I suspect whoever it was has been communicating with the Kazon.#
+NEELIX: I know. That's why I've come to you.#
+NEELIX: And I will help you.#
+NEELIX: As a journalist, I have an ethical obligation to keep digging for the facts in this case.#
+NEELIX: I see. All right, I leave it in your hands. Good hunting.#
+NEELIX: I was wondering if it's possible to look underneath a log that seems to have been erased, to see if there's anything left of it.#
+NEELIX: Ah, that would be ideal.#
+NEELIX: What?#
+NEELIX: How could someone do that?#
+NEELIX: Ingenious. Would there be a way to determine who sent the messages?#
+NEELIX: Thanks for your help. I'll check out deck four. Go room by room, console by console.#
+NEELIX: Override existing clearance. Engineering authorisation omega four seven.#
+NEELIX: Unbelievable. [Ready room] NEELIX#
+NEELIX: It was, er, I believe it was called signal correlation traces. Mister Hogan was helping me, and he detected them.#
+NEELIX: It isn't?#
+NEELIX: I don't think so. He was just the person walking by who Lieutenant Torres asked to help me.#
+NEELIX: Anything I can do to help, Captain, and get Tom home safely, I want to do. [Kazon ship] (Paris is still working on the console in his 'prison'. He finally gets into a communication.)#
+NEELIX: Excuse me.#
+NEELIX: I was wondering if one of you could help me.#
+NEELIX: The signal correlation traces that implicated Tom Paris. They were added to the file after the fact.#
+NEELIX: So I was trying to figure out how that could have happened, and who might have done it.#
+NEELIX: Do you mind if I use the diagnostic terminal over there?#
+NEELIX: I'll be careful.#
+NEELIX: What's going on?#
+NEELIX: Mister Jonas, I'm no expert, but it doesn't look to me like you're working on the transporter subsystems.#
+NEELIX: What did you do? What is this forcefield for?#
+NEELIX: Neelix to (Jonas knocks Neelix out, takes his comm. badge and heads for the upper level. Neelix wakes, grabs a very large wrench, and follows him.)#
+NEELIX: Don't worry about me, Mister Vulcan. I'm perfectly all right. Unfortunately, Mister Jonas wasn't so lucky.#
+NEELIX: Well, I'm going to have plenty of material for tomorrow's Briefing With Neelix. [On monitor]#
+NEELIX: An amazing story. Amazing.#
+NEELIX: Of course.#
+NEELIX: There you have it, ladies and gentlemen, the true hero of this whole endeavour, Lieutenant Thomas Eugene Paris. Well, I'm afraid that's all the time we have. Oh, I'd like to apologise to the Doctor for not getting around to him once again today. But I promise you he'll be here tomorrow with lots of fascinating information about the Bolian digestive system. Good day, Voyager.#
+NEELIX: Doctor! Aren't you going to introduce me to your date?#
+NEELIX: I'm sorry. I didn't realise.#
+NEELIX: As Chief Morale Officer, may I be the first to welcome you to Voyager.#
+NEELIX: Let's go. You're making the lady nervous. Nice to meet you.#
+NEELIX: Good afternoon, Ensign. How are we doing today?#
+NEELIX: Good, good. By the way, I was wondering if you'd take a look at the thermal array in the kitchen. It overloaded this morning and vaporised an entire pot roast.#
+NEELIX: Wonderful. I informed Ensign Kim about the problem hours ago, and he still hasn't come down to fix it.#
+NEELIX: If this thing doesn't get fixed soon, we'll all be eating cold leftovers for dinner and who do you think the crew will blame?#
+NEELIX: Cabbages, psyllium, green beans, celery and all. It all comes out looking a touch too yellow.#
+NEELIX: Well, the yields have been a little low lately. Normally, I would never dream of using synthesised veggies.#
+NEELIX: What's wrong?#
+NEELIX: That's wonderful. Labour can't be far behind. Let's, let's get you to Sickbay. Try to breathe now. Deep, deep regular breaths. Not so fast now. We're having a baby.#
+NEELIX: Several hours ago. Is there a problem?#
+NEELIX: Captain, this used to be a major trading spot.#
+NEELIX: I'm not sure exactly. If I had to guess#
+NEELIX: I'd say about nineteen years, more or less.#
+NEELIX: I'm sorry. What does that mean?#
+NEELIX: Maybe it was caused by the panic that accompanies a heart attack.#
+NEELIX: Maybe we should try to make him laugh. A good joke just, er, seems to make er, fear dissolve. Well, it does in me, anyway.#
+NEELIX: Oh, let's not quibble about semantics. A breeze is blowing. The sun is shining. It's beautiful.#
+NEELIX: Adequate? You know something? You're acting more Tuvokian than usual this morning.#
+NEELIX: There you go with the semantics again. But you know what I'm talking about.#
+NEELIX: Well, then I'll explain it to you. You're a nature lover, aren't you?#
+NEELIX: Then it's one of the things that you and I have in common. And here we are, on a perfect day, foraging for an exceptionally lovely variety of orchid, your favourite flower, and all you can say about the experience is that it's adequate. I just, I don't see why you're not having fun.#
+NEELIX: Why, is there some regulation that says we can't do both at the same time? I know. Why don't, why don't we sing a song while we toil, hmm? It'll cheer you up. Now, I've been studying Vulcan music. Do you know that lovely tune that starts,  Oh starless night of boundless black.#
+NEELIX: I know, but it was the most cheerful song I could find in the Vulcan database. Come on, Tuvok, join me. Oh starless night of boundless black.#
+NEELIX: Yes?#
+NEELIX: Hello, sweeting.#
+NEELIX: I can tell you, the morale of the crew is going to suffer if we leave them behind.#
+NEELIX: Is there something going on that I should know about?#
+NEELIX: Four days if you didn't take such a circuitous route, if we simply went across the Tenarus cluster.#
+NEELIX: It so happens that I do know this part of space, my Kazon friend. I just wanted to see if you would tell us the truth. The route he suggests is safer, Captain.#
+NEELIX: Oh, Red alert. I'm afraid we have to go. I'll leave it here, just in case.#
+NEELIX: This is outrageous!#
+NEELIX: Do you really think it's likely that someone will find us, Captain?#
+NEELIX: Help is on the way!#
+NEELIX: Delta team with me.#
+NEELIX: If that's true, I'd say this is a do-not-disturb sign, wouldn't you? They look humanoid. We might be able to use these as tools or weapons. Gather them up, Mister Hogan. Is there a problem?#
+NEELIX: Waste nothing. That's one of the first rules of survival. (Neelix drops the thigh bone he has picked up and leaves Hogan to his task.)#
+NEELIX: Hogan!#
+NEELIX: This is my fault. If I hadn't told Hogan to pick up these bones.#
+NEELIX: Captain, none of the search teams were able to find plants of any nutritional value.#
+NEELIX: If we put some bigger rocks around the fire, they'll reflect the heat better. I'm going to go get some.#
+NEELIX: Now, see here. You just keep your hands off her!#
+NEELIX: Commander. Thank goodness.#
+NEELIX: I agree. The other two seem to be trying to figure out what to make of us. In a manner of speaking. Not in a culinary sense, I hope.#
+NEELIX: Stand? Certainly. I'll be happy to stand. What, 0ver here? Fine, fine, fine, fine.#
+NEELIX: What? No. No. No! That is unacceptable!#
+NEELIX: Commander, that looks just like the tunnel where Hogan#
+NEELIX: It's coming from this way.#
+NEELIX: Hard to tell. A fertility symbol, maybe.#
+NEELIX: Or happiness and love.#
+NEELIX: What? (They go back to a side cave with a bright light shining from a platform at the top of a short flight of steps.)#
+NEELIX: It looks like a shrine. Come on, sweeting, we don't want to be left behind.#
+NEELIX: Kes! Kes, can you hear me? Help! Somebody! We need help!#
+NEELIX: She didn't touch anything. She went as far as that archway and then an energy field knocked her down.#
+NEELIX: You can cure her, can't you?#
+NEELIX: Excuse me, Captain. I'd like to do something to help.#
+NEELIX:  I'll be back soon. [Ready room]#
+NEELIX: I've researched everything I could find about the sacred shrine. I didn't uncover much scientific evidence, but there was one story, it was in a very old text, I'm not sure how reliable, about a boy who recovered from a condition like Kes's. He was a young prince. He wandered into the shrine accidentally and he went into a death sleep. Everyone said it was the will of the spirits. His father, King Nevad, refused to accept that, so he went through the ritual to seek an audience with the spirits and he pleaded for his son's life. The spirits in their infinite mercy granted his request. That was the only trace of hope that I could find.#
+NEELIX: What? What is it? What have you found?#
+NEELIX: Is that bad?#
+NEELIX: Is that good or bad?#
+NEELIX: So you have something that will help Kes.#
+NEELIX: It should be me going through all that! I was the one who let Kes get hurt in the first place.#
+NEELIX: I'm wallowing?#
+NEELIX: It's just frustrating to be so helpless.#
+NEELIX: What's that? Is something wrong?#
+NEELIX: It isn't.#
+NEELIX: What does that mean? Hmm? What?#
+NEELIX: Something is wrong!#
+NEELIX: Why isn't she?#
+NEELIX: Can't we try again?#
+NEELIX: Have you found a way to help her?#
+NEELIX: I hate to question you, Captain, but why?#
+NEELIX: You know you'll always have my gratitude for everything you've done to save Kes, but I couldn't and I know she couldn't ask you to risk your own life like this. There are too many other people who need you.#
+NEELIX: These are the same people who were willing to let Kes die just for disturbing their shrine. Can you take their word for it that you'll be safe in there?#
+NEELIX: And this Barzan wormhole, it's the same one we've discovered now?#
+NEELIX: What other option is there?#
+NEELIX: How do we do that?#
+NEELIX: Not the Grand Nagus. I'm his official messenger, the Grand Proxy.#
+NEELIX: Through the Barzan wormhole. The humans stabilised it temporarily and were kind enough to send a probe through, informing us of your impressive operation.#
+NEELIX: If I were you, I'd save the grovelling for the Nagus himself.#
+NEELIX: Of course not, you idiot! You two are going to him. You've been recalled.#
+NEELIX: You will be leaving immediately.#
+NEELIX: The Grand Nagus knows all about your little scheme, the Song of the Sages and all the rest of it. Very clever. But he wants you and all your acquisitions back on Ferenginar before the wormhole closes again.#
+NEELIX: The Grand Nagus has no intention of losing profits from this market. That's why he's already got a team of scientists investigating the human's technology to see if we can find a way to open and close the wormhole whenever we want.#
+NEELIX: That's enough!#
+NEELIX: The Grand Nagus has recalled you both. It's non-negotiable. Of course, the Nagus doesn't want to upset the local population. He may want to send others in your place. That's why he wants you to make a little speech telling the people that their Holy Sages have been recalled to the Divine Treasury or whatever it is the people around here call it. Then he wants you to tell them not to worry, that everything will be all right without you. Then he wants you to thank them for their generosity.#
+NEELIX: The 299th Rule of Acquisition, Whenever you exploit someone, it never hurts to thank them. That way it's easier to exploit them the next time.#
+NEELIX: You've been gone a very long time. Oh, by the way, did I mention that the Nagus is appropriating all your holdings?#
+NEELIX: All.#
+NEELIX: I'll be back in twenty minutes to approve your speech. I suggest you start writing.  You! Come with me!#
+NEELIX: And you. There you are. Don't push. There's plenty to go around.#
+NEELIX: Oh, you're quite welcome. Here. Please, one at a time. There you go.#
+NEELIX: And you.#
+NEELIX: What is the meaning of this?#
+NEELIX: But the Grand Nagus#
+NEELIX: Wait! Wait! I'm not, I'm not the Grand Proxy!#
+NEELIX: Stop! My name is Neelix!#
+NEELIX: Wait! I'm not Ferengi.#
+NEELIX: I've never even met the Grand Nagus.#
+NEELIX: It's true! I'm wearing a disguise. I'm really a Talaxian, a crewman on Voyager.#
+NEELIX: I'm not sure how.#
+NEELIX: I can't feel a thing.#
+NEELIX: Suffice it to say, they know I'm not the Grand Proxy.#
+NEELIX: I'm, er, well.#
+NEELIX: That's right. Another Holy One.#
+NEELIX: I am the Holy Pilgrim!#
+NEELIX: I have come to fulfil the destiny that is prophesied in the Song of the Sages.#
+NEELIX: Ah, there you are. Do you not recognise me? I am the Holy Pilgrim.#
+NEELIX: Oh no, Great Sage, you are mistaken. I am indeed the Holy Pilgrim. And just as the Song of the Sages promises, I have come to lead you back, high into the sky of black.#
+NEELIX: Well, it looks as though you two will be heading off to see the Grand Nagus after all.#
+NEELIX: I am not a false Pilgrim and I'll prove it.#
+NEELIX: Look, my friends. Look! Right up there!#
+NEELIX: No, no! Wait a minute, people! No! There's, there's no reason to interpret the Song of the Sages so literally. Kafar! Kafar! Tell them!#
+NEELIX: I am the Holy Pilgrim, and I have come to tell you there's another verse to the song. It's er, please, don't burn the Holy Ones.#
+NEELIX: Commander? I think now would be a very good time for that beam-out.#

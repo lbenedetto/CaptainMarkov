@@ -1,0 +1,806 @@
+Episode Number: 421
+
+The Voyager Transcripts - Demon
+Demon
+Stardate:
+Unknown
+Original Airdate: 6 May 1998
+
+  [Bridge] 
+(Lights are going out all over the ship.
+Note to those who are interested - Roxann is back after being missing
+in Living Witness, because she was giving birth to her first daughter.)KIM:
+The ship is grey, Captain. We've cut power to decks four through nine.
+Replicators, holodecks and all other nonessentials are offline.
+Remaining systems are operating at twenty percent capacity. 
+JANEWAY: Tom, how long can you keep us flying? 
+PARIS: With the deuterium supply this low? Even at one quarter impulse
+we'll be out of gas inside a week. 
+JANEWAY: Everyone redouble your efforts. Keep your eyes open for new
+sources of deuterium. Tuvok, Chakotay, I want recommendations for
+further methods of conservation. Harry, you and I will give them a hand
+in geophysics. See if we can't synthesise a substitute fuel. In the
+meantime, we stay in grey mode. If anybody's got any other ideas, I'm
+listening. 
+PARIS: We could set up a bicycle in the mess hall, attach a generator,
+pedal home. 
+JANEWAY: Now why didn't I think of that? 
+PARIS: And I volunteer Harry to take the first shift. 
+ [Corridor]
+ TUVOK:
+Living space will be extremely limited. Take only those personal items
+which are absolutely essential. (Tuvok bumps into Neelix and his collection of duffel bags. He picks up a book which has fallen out.)
+NEELIX: Hello, there. 
+TUVOK: What, may I ask, is this? 
+NEELIX: That, Mister Vulcan, is the Selected Works of Jirex. 
+TUVOK: Only essential items, Mister Neelix. 
+NEELIX: Oh, Jirex is essential. He's the greatest writer in the
+Talaxian canon. I never go to sleep without reading at least one of his
+parables. 
+TUVOK: A habit you will have to break until we're able to restore power
+to crew quarters. 
+NEELIX: I suppose I can try. 
+TUVOK: And these? (Bolsters and pillows.)
+NEELIX: I get terrible neck pains without them. 
+TUVOK: I suggest you ask the Doctor to prescribe an anti-inflammatory. 
+NEELIX: Fine. I don't mind roughing it. 
+TUVOK: Mister Neelix. The blankets. 
+NEELIX: No, no, that's where I draw the line. My mother knitted these
+herself. I've slept with them since I was a child. 
+TUVOK: You'll have to make do with standard issue bedding. 
+NEELIX: Those Starfleet blankets give me a rash. 
+TUVOK: I suggest you ask the Doctor 
+NEELIX: For some anti-itch cream. I might as well sleep in Sickbay.
+Thank you, Mister Vulcan. You've just given me an idea. (Neelix leaves Tuvok holding his gear.)
+ [Astrometrics
+lab] 
+CHAKOTAY: What's going on here? 
+SEVEN: I'm working. 
+CHAKOTAY: You were ordered to shut down Astrometrics an hour ago. We
+can't afford the power. Seven, it's inefficient. 
+SEVEN: Efficiency is relative, Commander. If I shut down Astrometrics, I
+won't be able to scan for new fuel sources. 
+CHAKOTAY: I appreciate your efforts, but we'll have to use conventional
+scanners until (Beep!)
+SEVEN: Conventional scanners would not have found this. 
+CHAKOTAY: What? 
+SEVEN: Highly concentrated deuterium. 
+CHAKOTAY: Where? 
+SEVEN: Computer, display source. A planetoid point four light-years
+from our present position. There are dense pockets of deuterium just
+beneath the surface. 
+CHAKOTAY: Maybe so, but that's a Demon class planet. 
+SEVEN: Demon class? 
+CHAKOTAY: That's what Starfleet calls it. Also known as Class Y. It's
+got a toxic atmosphere filled with thermionic radiation. Surface
+temperatures are in excess of five hundred Kelvins. Just entering a
+standard orbit would be suicide. 
+SEVEN: Our situation is desperate. 
+CHAKOTAY: True. 
+SEVEN: When faced with desperate circumstances, we must adapt. 
+Captain's log, supplemental. I've ordered adaptations to our shields to
+repel the thermionic discharges. Hoping that the benefits will outweigh
+the risks, we're now trying to beam deuterium from beneath the planet's
+surface. 
+ [Transporter
+room] 
+ SEVEN:
+Narrow the annular confinement beam to point four seven terahertz.
+Ready here, Captain. 
+ [Bridge]
+
+JANEWAY: Stand by. Harry, shunt whatever additional power you can to
+the containment field. I don't want any of those atmospheric gasses
+seeping in. 
+KIM: Aye, Captain. (Whumph!)
+TUVOK: A thermionic discharge has struck the forward shields. They're
+holding. 
+JANEWAY: Let's get this over with before you tell me otherwise. Seven,
+do it. 
+ [Transporter
+room] 
+ SEVEN:
+Energise. Transport in progress.(As the container fills, the transporter console explodes.) 
+ [Bridge]
+ TUVOK:
+Shields are weakening. 
+KIM: I'm reading an overload in the pattern buffers. 
+JANEWAY: Abort transport. 
+ [Transporter
+room] 
+ SEVEN:
+Controls not responding. 
+ [Bridge]
+
+JANEWAY: Get out of there now. 
+ [Corridor]
+(The container explodes. Seven gets the transporter operator out just in time.)SEVEN:
+Computer, seal off the transporter room and erect a level ten
+containment field. 
+COMPUTER: Containment field established. 
+ [Briefing
+room] 
+CHAKOTAY: The good news is Nozawa and Seven of Nine have both been
+treated and released from Sickbay, and the planetary gases have been
+expelled from the transporter room. 
+JANEWAY: And the bad news? 
+CHAKOTAY: The transporters are offline. It'll take days before they're
+back again. 
+JANEWAY: Great. We use valuable energy on a course change and all we get for
+our trouble is another downed system. Can we send a probe to collect
+the deuterium?
+TUVOK: It would incinerate within seconds of entering the upper
+atmosphere. 
+JANEWAY: Then I don't see any other options. Tom, put us back on our
+original course, one quarter impulse. 
+KIM: Captain, maybe I can help. 
+PARIS: Harry, the bicycle thing was just a joke. 
+KIM: I've been thinking. With Tuvok's shield modifications and a few
+tweaks to an environmental suit, I could take a shuttle to the surface
+and mine the deuterium from there. 
+TUVOK: Need I remind you, Ensign, that there is no environment less
+hospitable to humanoid life than a Class Y. 
+KIM: Actually, Tuvok, no, you needn't remind me. What's the
+alternative? Resume course? Creep along at quarter impulse hoping we
+find fuel before we end up dead in the water? We've got deuterium
+within arm's reach. We can't let the opportunity slip away without at
+least trying. 
+CHAKOTAY: He's got a point. 
+JANEWAY: You wouldn't be able to communicate with us if you got in
+trouble, and until we get transporters back we couldn't beam you out. 
+TUVOK: Even with modifications, it wouldn't be long before your suit
+began to corrode. Exposure to that atmosphere could kill you within
+minutes. 
+KIM: I know the risks. 
+JANEWAY: Even if I agreed, I'd never let you go alone. 
+KIM: Of course not. That's why I'm volunteering my good buddy Tom here
+to go with me. 
+ [Corridor]
+ PARIS:
+You were pretty forceful in there. 
+KIM: So? 
+PARIS: So? I don't think I've ever seen you that assertive in a staff
+meeting before. You must be bucking for a promotion. 
+KIM: I had an idea and I spoke up, that's all. 
+PARIS: Oh, no, no, no. It was more than that. You put Tuvok in his
+place right in front of everybody. 
+KIM: He was stating the obvious again. Talking down to me like I didn't
+know anything about Demon Class planets. 
+PARIS: I am not criticising you. Believe me, nobody enjoys seeing the
+Vulcan Master put down a peg more than I do. I was just surprised,
+that's all. 
+KIM: Why? 
+PARIS: It didn't seem like you. 
+KIM: Good. 
+ [Turbolift]
+ KIM:
+Cargo bay two. 
+PARIS: You trying to change your squeaky clean image or something? 
+KIM: Not exactly. 
+PARIS: What, then. 
+KIM: How do I explain this? When I first came on board Voyager I was
+pretty green, right? 
+PARIS: A deep, almost fluorescent green, if I remember correctly. 
+KIM: I was young, inexperienced, and I acted like it. Nervous about
+giving my opinion, hesitant to make suggestions, so I usually just kept
+my mouth shut. And I behaved that way for so long it became a habit.
+But, in the last four years, a lot has happened. I've fought the Borg,
+been transformed into an alien, helped defeat the Hirogen. Hell, I've
+even come back from the dead. 
+PARIS: It's been a wild ride. 
+KIM: I woke up the other morning and it suddenly hit me. I've got a lot
+of experience now, so why should I be afraid to take the initiative or
+voice my ideas? 
+PARIS: Good for you, Harry. 
+ [Corridor]
+ PARIS:
+But do me a favour. The next time you try to assert yourself, leave me
+out of it. I hate hot weather. 
+KIM: Don't worry. We can cut some holes in the environmental suits, get
+some ventilation going. 
+PARIS: Harry, while you're busy improving yourself, you might try
+working on your sense of humour. 
+KIM: My sense of humour? What about that stupid gag about the bicycle? 
+PARIS: Oh, ho, ho. That was funny. 
+KIM: No, that was not funny. 
+ [Shuttlecraft]
+ PARIS:
+I can't thank you enough for getting me in on this mission, Harry. 
+KIM: Don't mention it. 
+PARIS: Remind me to volunteer you to help the next time I have to clean
+the warp plasma manifolds. 
+KIM: Really, Tom, you don't owe me anything. 
+PARIS: Oh, but I do. We've lost attitude control. 
+KIM: Time to show off your piloting skills. Think you can handle it? 
+PARIS: Watch me. 
+KIM: Oh, I'll be watching you, all right. Switching to manual control. 
+PARIS: Just sit back, relax, and enjoy the ride. 
+KIM: We're entering the lower atmosphere. Approaching the landing
+coordinates. 
+PARIS: All right. I'm going to set us down. On my mark.;(Big thump. They bounce in their seats.) PARIS: Mark.
+KIM: You did that on purpose, didn't you. 
+ [Planet
+surface] 
+ PARIS:
+It's almost five hundred degrees Kelvin. 
+KIM: Don't worry. The suits can handle it. 
+PARIS: If not, we'll be human barbecue. 
+KIM: I'm picking up traces of deuterium. Fifty metres that way. Let's
+move. 
+PARIS: No sweat. 
+KIM: Lame. 
+ [Cavern]
+(They find a pool of what looks like mercury, which would still be liquid even at these temperatures.) KIM:
+It's coming from inside here. 
+PARIS: What is it? 
+KIM: Some kind of metallic compound. Highly viscous, And if these
+readings are right, its temperature is only twelve degrees? 
+PARIS: In this environment? 
+KIM: Whatever this stuff is it's packed with liquefied deuterium. 
+PARIS: Jackpot! 
+KIM: There's another pool twenty metres that way. Why don't you go
+check it out while I collect a few samples here. 
+PARIS: Right. I don't know, Harry. A couple of lounge chairs, a big
+beach umbrella, maybe some dermalplast to counteract the chemical
+burns and I think we've found ourselves a new vacation spot. Oh, come
+on. That was a little funny. Let me hear you do better. Harry. Harry?
+(Paris returns to the first pool. There are bubbles coming from it.)PARIS: Oh, my god. (Paris reaches in and pulls Kim out.)PARIS: I know it's hot out, Harry, but you picked a lousy time to
+go for a swim. 
+KIM: I don't know what happened. I leaned over to collect a sample and
+it was like I was pulled in. 
+COMPUTER: Warning, Ensign Kim. An environmental seal has been
+compromised. Oxygen depletion in thirty seconds. 
+PARIS: Hang in there, buddy, and I'll get you back to the shuttle. Have
+you put on weight? 
+KIM: You're just out of shape. 
+COMPUTER: Warning. Oxygen depletion in fifteen seconds. 
+PARIS: I'll make you a deal. You hold your breath till we get back to
+the shuttle and I promise I'll start exercising every day. 
+KIM: Maybe you should start with the bicycle. 
+PARIS: I thought I told you to hold your breath. 
+COMPUTER: Warning. Oxygen depletion in five seconds. 
+PARIS: Hang in there, Harry. We'll make it. 
+COMPUTER: Warning, Lieutenant Paris. An environmental seal has been
+compromised. Oxygen depletion in thirty seconds. (Kim collapses.)
+PARIS: You've got to be kidding me. We're in the same boat now, buddy,
+but I'll get us out of this. 
+COMPUTER: Warning. Oxygen depletion in fifteen seconds. 
+PARIS: You're right. I definitely need to get back in shape. 
+COMPUTER: Warning. Oxygen depletion in five seconds.(The beep becomes a long tone. They are both unconscious. Or worse.) 
+ [Doctor's office]
+ EMH:
+Out of the question. 
+NEELIX: Be reasonable, Doctor. 
+EMH: Take it up with Commander Chakotay. He's on his way here right
+now. 
+NEELIX: But it's only for a couple of days. Just until we get power
+back in the crew quarters. 
+EMH: I suggest you set up camp in the mess hall. 
+NEELIX: The mess hall is full. Where are we supposed to sleep? 
+EMH: Anywhere but here. This is a sickbay, not a dormitory. 
+NEELIX: But you have four empty beds. 
+EMH: Biobeds, reserved for patients. 
+NEELIX: You don't have any patients. 
+EMH: I may have one in a moment if you and your fellow squatters don't
+go elsewhere. (Chakotay enters.)
+CHAKOTAY: You wanted to see me, Doctor? 
+EMH: Oh, it's about time. Mister Neelix is attempting to turn my
+sickbay into a flophouse. 
+CHAKOTAY: We are short on beds right now. We've got to adapt. 
+NEELIX: Ah ha! 
+EMH: But, what if there's a medical emergency? 
+CHAKOTAY: Then Neelix and the others will get out of the way. 
+NEELIX: Absolutely. 
+EMH: But, this isn't just sickbay, it's my residence. 
+NEELIX: And we promise to be the most perfect houseguests. 
+CHAKOTAY: What more can you ask for. 
+EMH: But, I have a routine. I'm a night owl. What if one of them should
+snore while I'm listening to Puccini? 
+CHAKOTAY: Well, if you feel that strongly about it, Doc, I suppose
+we'll have to consider other options. 
+EMH: Thank you, Commander. 
+CHAKOTAY: For example, we could shut down your programme until you're
+needed. The Captain asked me to look for ways to conserve power, and it
+would spare you from having to listen to them snore. 
+JANEWAY [OC]: Commander Chakotay to the bridge. 
+CHAKOTAY: On my way. EMH: But(Chakotay leaves.)
+EMH:;Make yourselves at home. 
+ [Bridge]
+
+JANEWAY: Try scanning for infrared signatures. 
+TUVOK: There's too much interference. 
+CHAKOTAY: What's up? 
+JANEWAY: Tom and Harry still aren't back. 
+CHAKOTAY: You want me to take another shuttle down and look for them? 
+JANEWAY: And risk losing you, too? Either we keep waiting until we run
+out of deuterium and we get trapped in orbit, or
+CHAKOTAY: Or? 
+JANEWAY: We land the ship. 
+TUVOK: As you know, Captain, the landing procedure requires a
+significant output of energy. With shield strength as low as it is, we
+can't even be certain the ship will survive the descent. 
+JANEWAY: What's the alternative? We're up here, the deuterium's down
+there, and we're stuck without it. We've come this far. Janeway to
+engineering. Vent all plasma from the nacelles. Transfer any available
+power to atmospheric thrusters and stand by to commence landing
+sequence. 
+TORRES [OC]: Acknowledged, Captain. 
+JANEWAY: Commander Chakotay, take the conn. 
+CHAKOTAY: Tom's going to be sorry he missed this. 
+JANEWAY: Code blue. 
+TUVOK: Commander Tuvok to all hands. Go to Blue alert and report to Code Blue stations. 
+CHAKOTAY: Atmospheric controls at standby. Landing struts online.
+Inertial dampers at maximum. 
+TUVOK: All operative decks report condition blue. 
+JANEWAY: Let us down easy, Commander. 
+CHAKOTAY: We're on a declining glide trajectory. Altitude one hundred
+and fifty kilometres. (Whumph!)
+TUVOK: A thermionic discharge. Shields down to eighty one percent.
+Shields at forty three percent. 
+JANEWAY: Chakotay. 
+CHAKOTAY: I think we're through the worst of it. Almost. 
+TUVOK: Shields at twenty two percent and falling. 
+JANEWAY: Can you shore them up? 
+TUVOK: Negative. There's no more available power. 
+CHAKOTAY: Engaging landing struts. Brace for impact! (Voyager lands with a bump.)
+JANEWAY: Status? 
+TUVOK: I could give you a litany of damaged systems, Captain, but
+suffice it to say, now that we're down, we won't go up again soon. 
+JANEWAY: Start organising repair crews. That was very good, Commander.
+Take an away team and find Harry and Tom. 
+ [Corridor]
+ TORRES:
+Chakotay, you're going out to look for them, aren't you? 
+CHAKOTAY: That's right. 
+TORRES: Take me with you. 
+CHAKOTAY: I can't do that, B'Elanna. You're needed here to complete
+repairs. 
+TORRES: I've already handed out assignments. Vorik's on top of it. I
+want to help you find them. 
+CHAKOTAY: Look, I know you're concerned about Tom and Harry. We all are. I'll
+have them back safe and sound in no time. 
+TORRES: Don't patronise me. We both know how dangerous that environment
+is. They could be in serious trouble. 
+CHAKOTAY: You're right. I don't know what we're going to find. That's
+why I need cool heads. 
+TORRES: You think I can't control myself? 
+CHAKOTAY: I think you're a little too close to this. 
+TORRES: You're damn right I am. If someone you loved was missing on
+this planet you would be the first one out that door, and you know it. 
+CHAKOTAY: B'Elanna, the clock is ticking. Go back to Engineering, do
+your job and let me do mine. 
+TORRES: Do me a favour. 
+CHAKOTAY: What? 
+TORRES: Take Seven of Nine with you. 
+CHAKOTAY: You're recommending her? 
+TORRES: You said you needed cool heads, didn't you? Nobody's head is
+cooler than hers. 
+CHAKOTAY: All right. 
+TORRES: And bring them back safe. 
+CHAKOTAY: I will. 
+ [Sickbay]
+(The EMH is humming opera and making plenty of noise as he does his chores. As he starts to break into song -)NEELIX:
+Excuse me, Doctor. 
+EMH: Yes, Mister Neelix? 
+NEELIX: We'd like to sleep now, if you don't mind. 
+EMH: Not at all. Make yourselves comfortable. 
+NEELIX: But you seem busy. 
+EMH: Oh, don't mind me. Just going about my routine. Sleep away. (The EMH activates the arms to trap Neelix on the surgical bay biobed, then lowers them again.)
+NEELIX: What about the lights? 
+EMH: What about them? 
+NEELIX: Could we turn them off? 
+EMH: You don't expect me to work in the dark, do you? 
+NEELIX: Well, no, but I'll never be able to fall asleep. 
+EMH: That's not my problem, is it? 
+NEELIX: I've got a very, very busy day tomorrow and my next shift is
+just four hours away. 
+EMH: Perhaps you should have thought of that when choosing your
+accommodations. 
+NEELIX: Well, if we can't sleep, I guess we'll just have to find some
+other way to pass the time. How about a sing-along? I could teach you
+all some Talaxian rondos and I know a Vulcan funeral dirge, not to
+mention the classics of Klingon opera. (Neelix makes a strangled noise.)
+EMH: Very well, Mister Neelix. You win. Pleasant dreams. 
+NEELIX: Computer, lights off. 
+ [Planet
+surface] 
+(A fumerole makes Seven nearly jump out of her environmental suit.)CHAKOTAY: You're a little jumpy, aren't you? 
+SEVEN: I thought I heard something. 
+CHAKOTAY: Now you know why they call it Demon Class. 
+SEVEN: Demon implies a presence. This planetoid is unoccupied. 
+CHAKOTAY: I'm picking up the shuttlecraft. 
+ [Shuttlecraft]
+(The back door is open wide.)CHAKOTAY: Nobody home. 
+SEVEN: It's unlikely their environmental suits were able to survive the
+elements for this long. 
+CHAKOTAY: I hope you're wrong. 
+ [Planet surface]
+CHAKOTAY: Looks like they went this way. 
+SEVEN: My tricorder isn't picking up any lifesigns. How did you reach
+that conclusion?
+CHAKOTAY: Footprints. I guess you never assimilated any Indian scouts. [Cavern]SEVEN:
+High concentrations of deuterium coming from this fluid. I'll collect a
+sample. (She takes vial 758 from her sample case and is about to dip it in the fluid when Chakotay stops her.)
+CHAKOTAY: Let's find Tom and Harry first. We'll collect the deuterium
+later 
+SEVEN: As you wish. 
+CHAKOTAY: Maybe they found some shelter inside. (A rock ledge gives way under Chakotay's foot and he falls, just grabbing on to the remaining edge of the pit in time.)
+SEVEN: Commander! (Seven tries to pull Chakotay to safety, then other hands join in the effort. Paris is not wearing an environmental suit.)
+PARIS: Good to see you guys. Welcome to the Demon planet. Our suits
+were corroding, our lungs were burning. We were suffocating. You know
+what they say about your life passing before your eyes? Well, it's
+true. I was finally getting past puberty when suddenly, I lost
+consciousness. I don't know how long I was out but, the next thing I
+knew, I was awake and I was breathing normally. And I looked over at
+Harry. He was breathing normally too, with his helmet off. And, and we
+just looked at each other, and we just started laughing. I know it
+sounds crazy, but it was an exhilarating experience. 
+SEVEN: His vital signs are normal. Apparently he has adapted. 
+CHAKOTAY: Just the same, we'd better let the Doctor take a look at you.
+Chakotay to Voyager. 
+PARIS: I've already tried that. The comm. signal can't get out of the
+caves. 
+CHAKOTAY: Then we'll call again when we get back outside. 
+PARIS: I'm telling you, Chakotay. It was an amazing experience. It,
+it's like when you're a kid who's afraid of the water and you suddenly
+realise that you can swim. Go ahead, take your helmets off. Try it. 
+CHAKOTAY: I'm glad you're feeling all right, but none of us should be
+taking any risks until we know exactly what's going on. 
+PARIS: Don't tell me that a big, tough guy like you is afraid of a little
+poisoned atmosphere?
+CHAKOTAY: Where's Harry? 
+PARIS: He's further inside the cave. We found a huge cache of
+deuterium. 
+CHAKOTAY: Let's find him and get you two back to the ship. 
+PARIS: Whatever you say, boss, but I'm telling you. We could breathe
+this air forever. 
+ [Engineering]
+ VORIK:
+Lieutenant. 
+TORRES: Yes? 
+VORIK: We should have transporters back online within the hour. 
+TORRES: Well, that's great. But right now I'm more concerned with
+little things like, oh, I don't know, say, life support? 
+VORIK: Indeed. According to my calculations, environmental systems will
+cease to function in two hours. 
+TORRES: You say that like you're giving me the weather report. 
+VORIK: I agree the situation is dire, but losing our cool will not help
+matters. 
+TORRES: Losing our cool? Where did you pick up that expression? 
+VORIK: Mister Paris. 
+TORRES: Well, there's hope for you yet. Now, how about giving me a
+hand. 
+ [Cavern]
+(Paris leads Chakotay and Seven through a narrow tunnel.)CHAKOTAY: Harry. 
+KIM: Commander. Isn't it incredible? 
+PARIS: That's what I've been trying to tell them. 
+CHAKOTAY: Are you feeling okay, Harry? 
+KIM: Never better. If we could get mobile transporters down here, we
+could mine enough deuterium to get us all the way to the Alpha Quadrant
+and back again. 
+CHAKOTAY: Tom tells me you've already picked up twenty kilos. That
+should be enough to get the main systems back online. Let's get back to
+the ship. Have the Doctor take a look at you. 
+KIM: I'd rather stay here and keep working, if it's all the same to you.
+CHAKOTAY: It's not. 
+KIM: Really, Commander, I'm fine. You should send some more personnel
+out to help. They won't even need environmental suits. 
+CHAKOTAY: I appreciate your enthusiasm, but we're going back to Voyager.
+Now. 
+PARIS: It's all right, Harry. Once the Doc takes a look at us and sees
+we're fine, we'll get right back to work. 
+ [Bridge]
+
+JANEWAY: Status, Mister Tuvok? 
+TUVOK: I've shut down life support everywhere but decks one and five.
+It should provide us with an extra hour of breathable air. 
+CHAKOTAY [OC]: Chakotay to Voyager. 
+JANEWAY: Janeway here. 
+CHAKOTAY [OC]: We've found Tom and Harry. 
+JANEWAY: First good news I've had all day. What about the deuterium? 
+CHAKOTAY [OC]: We've got 
+ [Planet
+surface] 
+CHAKOTAY: A few kilos. We're on our way back to Voyager now. 
+ [Bridge]
+
+JANEWAY: What's your position? 
+CHAKOTAY [OC]: About two kilometres from the ship. 
+TUVOK: Captain. 
+JANEWAY: Transporters are coming back online. We should be able to beam
+you back from that distance, but it may take a few minutes. 
+ [Planet
+surface] 
+CHAKOTAY: Have the Doctor standing by. I think he's going to want to
+look at Tom and Harry. 
+ [Sickbay]
+(The sound of snoring ripples through the air. The EMH strides out of his office.)EMH:
+Computer, lights. Maximum illumination. Everybody up! Rise and shine,
+Mister Neelix. 
+NEELIX: What's going on? 
+EMH: It's checkout time. 
+NEELIX: It's the middle of the night. 
+EMH: Medicine knows no time clock. I've got patients on the way and
+there's no more room at the inn. 
+NEELIX: Patients. Is somebody sick? 
+EMH: I can't answer that until I've examined them, now can I? 
+NEELIX: Examine who? 
+EMH: Ensign Kim and Lieutenant Paris. 
+NEELIX: Is there anything I can do to help? 
+EMH: Yes. You and your friends can vacate the premises. 
+NEELIX: Right, move! You heard the Doctor. This is an emergency
+evacuation. Move! Move! Move! Doctor. 
+EMH: Yes?
+NEELIX: Thanks for your hospitality. And if you ever need a place to
+stay, my door's always open. 
+ [Transporter
+room] 
+JANEWAY: Energising. (Janeway takes over the transport. Paris and Kim start gasping for breath as soon as they are solid.)#JANEWAY: Beam Tom and Harry to Sickbay. 
+ [Sickbay]
+ EMH:
+What happened to them? 
+CHAKOTAY: As soon as we beamed aboard they started suffocating. 
+EMH: Computer, erect a level seven forcefield around biobeds one and
+two. 
+COMPUTER: Forcefield established. 
+JANEWAY: What are you doing? 
+EMH: Filling the area inside the forcefield with the atmospheric gases
+from the planet. Try to breathe normally now. Easy, or you'll
+hyperventilate. Slowly. In and out. In and out. 
+Captain's log, supplemental. The Doctor continues to investigate Tom
+and Harry, whose condition seems as serious as it is strange. 
+ [Sickbay]
+(The EMH holds a vial of the fluid from the pool.)PARIS:
+That stuff is in our blood? 
+EMH: I'm afraid so. From what I can tell, you've been bioformed. 
+KIM: Bioformed? 
+EMH: Think of it as the opposite of terraforming. In the same way we
+adapt the environment of a planet to suit our needs, this planet has
+adapted you. 
+PARIS: How is that possible? 
+EMH: This fluid somehow entered your bloodstream and began altering
+your physiology at the cellular level. I haven't had the time to
+analyse this substance, but I hope to have answers soon. 
+JANEWAY: I'd like to run a few tests of my own, if you don't mind. 
+EMH: Of course. 
+PARIS: So, what's our prognosis, Doc? 
+EMH: Well, you'll be fine. As long as you keep breathing the planet's
+gases. 
+KIM: You mean we have to stay inside this forcefield? 
+EMH: I'm afraid it's worse than that. The atmosphere of this planet
+can't be replicated safely. 
+PARIS: Which means if we leave, we'll have nothing to breathe. 
+EMH: Exactly. Either we find a way to treat your condition, or you'll
+have to be left behind. 
+JANEWAY: Can the bioforming process be reversed? 
+EMH: As it stands, I don't know enough about the phenomenon to undo it. 
+JANEWAY: I'll send Chakotay and Seven back to the surface. They'll
+gather as much information as they can. B'Elanna and I will start
+running tests on this. 
+KIM: Let me go with the away team, Captain. I know the terrain. I can
+help. 
+JANEWAY: Doctor? 
+EMH: Right now they're better off out there than they are in here. But
+one of you will have to remain so I can monitor your condition. 
+KIM: No problem. I volunteer Tom to stay here and play guinea pig. 
+ [Planet
+surface] 
+ SEVEN:
+Each square kilometre of this planetoid is less appealing than the
+last. 
+KIM: I think it's breathtaking. 
+SEVEN: Breathtaking? 
+KIM: Yes. 
+SEVEN: Perhaps your recent experience has impaired your perceptions. 
+KIM: No, I don't think so. I wasn't really seeing it before. 
+CHAKOTAY: Seeing what? 
+KIM: The beauty. 
+SEVEN: Would you care to point out an example? 
+KIM: Look over there. What do you see? 
+SEVEN: I see monochromatic geological formations, dust, haze. 
+CHAKOTAY: What do you see, Harry? 
+KIM: To me, those geological formations are a dozen shades of red and
+gold. That dust, it's glowing. And the haze, it seems to intensify the
+colours. I'm sorry. I know it's weird, but I feel connected to this
+place. 
+CHAKOTAY: Connected how? 
+SEVEN: I'm picking up humanoid lifesigns. 
+CHAKOTAY: Location? 
+SEVEN: One hundred metres this way. 
+ [Science
+lab] 
+(The fluid is under the microscope.)JANEWAY: Magnify. Factor ten. Deuterium, hydrogen sulphate,
+dichromates. 
+TORRES: Add a little sodium chloride and it would probably taste a lot
+like Neelix's soup. 
+JANEWAY: We should be so lucky. Oh, what's this? Magnify. Factor
+twenty. 
+TORRES: Captain? That's a protein molecule. 
+JANEWAY: This fluid has organic properties. Let me see the sample
+that's been treated with the reagents. (The sample slithers onto Torres' thumb.)
+TORRES: Captain. 
+JANEWAY: Let's get you to sickbay. 
+TORRES: Wait. That might not be necessary.(The sample returns to its dish, then becomes a replica of the thumb.) 
+ [Cavern]
+ KIM:
+Commander!(Two bodies in
+environmental suits are lying on the ground, creating the lifesigns on
+the tricorder. Kim rolls one over and looks at himself.) 
+ [Science
+lab] 
+(A pool of fluid is forming beneath Voyager. The softening ground makes one landing strut sink, jolting the ship.)JANEWAY: Janeway to bridge. Report. 
+ [Bridge]
+ TUVOK:
+A large pool of the metallic compound is forming beneath the ship. We
+are sinking, Captain. 
+ [Science
+lab] 
+JANEWAY: On my way. Get down to Engineering. Get thrusters online.
+We're getting off this planet. 
+ [Cavern]
+ KIM:
+I'm not sure how, but they're still alive. 
+SEVEN: Just barely. 
+TUVOK [OC]: Tuvok to Chakotay. 
+CHAKOTAY: Go ahead. 
+TUVOK [OC]: The Captain has ordered an emergency ascent. 
+ [Bridge]
+ TUVOK:
+We must bring you back to the ship. 
+CHAKOTAY [OC]: Understood. I've got five to beam back. 
+TUVOK: Five? 
+ [Cavern]
+
+CHAKOTAY: We found another Paris and Kim. 
+ [Bridge]
+
+CHAKOTAY [OC]: I can't explain it. 
+JANEWAY: I think I can. Prepare for transport. 
+ [Cavern]
+
+CHAKOTAY: Beam us directly to Sickbay. 
+KIM: No. I don't want to go back. 
+ [Bridge]
+
+JANEWAY: Transporters are still acting up. We can't get individual
+locks. We're going to have to grab you in a wide beam and bring you in
+as a group. 
+ [Cavern]
+
+CHAKOTAY: Acknowledged. 
+KIM: I belong here. 
+CHAKOTAY: Maybe so. But until we know what's going on, you've got to
+come back with us to the ship. Harry, no!(Demon Kim runs off.) 
+ [Bridge]
+ TUVOK:
+Four of the away team are in Sickbay, Captain. I'm trying to get a lock
+on the fifth. It is Ensign Kim or rather, one of the Ensigns Kim. The
+ship is continuing to sink. 
+JANEWAY: Then there's no time. We've got to get back into orbit. We'll
+worry about Harry or whoever he is once we're up. Bring antigrav
+thrusters online. (Janeway takes the helm.)
+TUVOK: Thrusters enabled. 
+JANEWAY: Inertial dampers to flight configuration. 
+TUVOK: Dampers reconfigured. All stations report ready. 
+JANEWAY: Initiating ascent. I need power to the thrusters. 
+TUVOK: We are being restrained by an electromagnetic force. 
+JANEWAY: Compensate. 
+TUVOK: No effect. Decks fourteen and fifteen are submerged. The ship is
+continuing to sink. 
+JANEWAY: Report. 
+TUVOK: Thrusters are offline due to an overload. Decks thirteen through
+fifteen are submerged. If we don't lift off soon, the hull will begin
+to corrode. 
+JANEWAY: Bridge to Engineering. 
+ [Engineering]
+ VORIK:
+Ensign Vorik here. 
+JANEWAY [OC]: I need thrusters back online. 
+VORIK: Lieutenant Torres has already sent a team to the thruster
+control junction. 
+JANEWAY [OC]: How long? 
+VORIK: At least a half an hour. 
+ [Bridge]
+ TUVOK:
+Even if thrusters are repaired, they won't be of much use if we sink
+any deeper. 
+JANEWAY: There must be some way to disperse it. Try a nadion burst from
+the phaser emitters. It may weaken the electromagnetic properties of
+the fluid. 
+TUVOK: Aye, Captain. 
+JANEWAY: I'm on my way to Sickbay to check on Harry and Tom. You've got
+the bridge. 
+ [Sickbay]
+
+JANEWAY: How are they? 
+EMH: Lucky. The backup systems in their environmental suits kept their
+vital functions going. It'll take time, but they'll recover. 
+JANEWAY: And him? 
+EMH: Aside from his ability to breathe the rarified air on this planet,
+he's the exact duplicate of Mister Paris. He even seems to share his
+memories, not to mention his winning personality. 
+JANEWAY: B'Elanna and I discovered that the fluid has mimetic
+properties. Somehow, it reads the DNA of whatever it comes in contact
+with and re-creates it. 
+EMH: Fascinating. 
+JANEWAY: Can you tell me who you are? DEMON PARIS: Please, just let me go back. 
+JANEWAY: Not until I find out why two of my crew have been duplicated. DEMON PARIS: Captain, you have to believe me. I don't know any more than you
+do about this. Until he showed up, I thought I was Tom Paris. A little
+changed by my experience on the planet maybe, but now I don't know who
+or what I am. All I know is that I have to get off this ship and go
+back down to the surface. 
+TUVOK [OC]: We're ready to try the nadion burst, Captain. 
+JANEWAY: Do it. (It hurts Demon Paris.)DEMON PARIS: Ow. What are you doing? 
+TUVOK [OC]: Captain, we're receiving an urgent hail. It's from Ensign
+Kim. The one on the surface. 
+JANEWAY: Put him through. DEMON KIM [OC]: Captain, please. Stop what you're doing. 
+JANEWAY: If you really do have Harry Kim's memories, you know that I'm
+going to do whatever it takes to get this ship back in orbit. 
+ [Planet
+surface] 
+DEMON KIM:
+You can't do that! 
+JANEWAY [OC]: Why not? DEMON KIM: I, I'm not sure I understand it myself. 
+ [Sickbay]
+
+JANEWAY: Well then, you're going to have to help me figure it out.
+Mister Tuvok, I'm on my way to transporter room one. Erect a level
+seven forcefield around the platform. Fill it with atmosphere from the
+planet and then beam Mister Kim, or rather his duplicate, aboard. 
+TUVOK [OC]: Aye, Captain. 
+ [Transporter
+room] 
+JANEWAY: Do you have a lock on him? 
+TRANSPORTER TECHNICIAN: Yes, ma'am. 
+JANEWAY: Energise. (Demon Kim is beamed aboard.)JANEWAY: Release my vessel. DEMON KIM: We can't do that. 
+JANEWAY: We? DEMON KIM: The planet and I, we're connected somehow. I can't explain it,
+Captain. I only know that you've got to stop. 
+JANEWAY: And I'm willing to stop. But I'll say it again, release the
+ship. DEMON KIM: No. We need you. 
+JANEWAY: Janeway to Tuvok. Fire. (Demon Kim falls, and briefly appears made of the fluid.)JANEWAY: What are you? DEMON KIM: Stop. No. 
+JANEWAY: I'll fire again. DEMON KIM: You're killing us! 
+JANEWAY: You leave me no choice. DEMON KIM: It's not fair. It's wrong!;
+JANEWAY: Janeway to Tuvok. DEMON KIM: No! No, no, no. Please. No more. 
+JANEWAY: Hold your fire, Tuvok.
+TUVOK [OC]: Captain, we are continuing to submerge. 
+JANEWAY: Hold your fire. 
+TUVOK [OC]: Acknowledged. 
+JANEWAY: I want some answers. DEMON KIM: I'm trying to understand. This is hard for me as well. 
+JANEWAY: You said you have a connection to this planet. You talk about
+it like it's alive. DEMON KIM: Alive. Yes, but not the planet. The silver blood. 
+JANEWAY: The compound that sampled Harry's DNA, and created you. DEMON KIM: Yes. but it's never been conscious, never sentient before now.
+Before me and the other. 
+JANEWAY: Tom Paris. DEMON KIM: We're the first. Don't you see? You came here. You showed us. When
+the compound came in contact with Tom and Harry, it experienced
+awareness for the first time. Before, it was only instinct, sound and
+light and heat. But those two showed us thought. 
+JANEWAY: I'm beginning to understand. This silver blood experienced
+sentience, and now you want more. You want to duplicate the rest of this
+crew and populate this planet. DEMON KIM: You're trying so hard to reach home, but this can be home. 
+JANEWAY: Not for me, and not for my people. Do you understand why we
+can't stay here? DEMON KIM: I think so. 
+JANEWAY: Well then, release us. DEMON KIM: We'd rather die than be alone. We deserve life. 
+JANEWAY: This silver blood that created you. It duplicated Harry
+without killing him. So you don't need our bodies, only samples of;DNA.
+Release Voyager and I'll speak to my crew. And if they're willing, I'll
+let you duplicate the rest of us. 
+TUVOK [OC]: Bridge to Janeway. We've stopped, Captain. We're no longer
+submerging. 
+JANEWAY: Understood. We're getting out of here, Tuvok, but first
+assemble the crew in Cargo Bay one 
+ [Bridge]
+ JANEWAY
+[OC]: And have the Doctor meet me there. 
+TUVOK: Captain? 
+JANEWAY [OC]: I'll explain later. 
+ [Transporter
+room] 
+JANEWAY: It's time to meet your new family. 
+ [Bridge]
+(Voyager is standing on solid ground again.)KIM:
+All stations report ready for lift off. 
+TUVOK: Code blue status confirmed. 
+JANEWAY: Take us up, Mister Paris. 
+PARIS: Aye, Captain.(Voyager flies away, leaving behind over a hundred apparently Starfleet people.)  
+
+

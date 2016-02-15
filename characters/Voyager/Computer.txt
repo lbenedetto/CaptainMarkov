@@ -1,0 +1,103 @@
+COMPUTER: There are fourteen varieties of tomato soup available from this replicator. With rice, with vegetables, Bolian style, with pasta, with#
+COMPUTER: Specify hot or chilled.#
+COMPUTER: Warning. Warp core microfracture. Breach imminent.#
+COMPUTER: Warning. Warp core microfracture. Breach imminent.#
+COMPUTER: Ensign Kim is not on board.#
+COMPUTER: One. Ensign Harry Kim.#
+COMPUTER: Affirmative.#
+COMPUTER: Ensign Seska. [Kazon ship] (Seska walks through the forcefield to the mysterious console.)#
+COMPUTER: Unable to comply. Security lockout is in place.#
+COMPUTER: A Kazon vessel fourteen kilometres off the port bow.#
+COMPUTER: Unable to comply. Ensign Kim is not aboard the ship.#
+COMPUTER: The programme in progress is a holonovel based on the epic Earth poem Beowulf.#
+COMPUTER: Data compilation in progress.#
+COMPUTER: Command code transfer complete.#
+COMPUTER: Unable to comply. The EMH programme has been disabled.#
+COMPUTER: Unknown.#
+COMPUTER: The authorisation was entered by Commander Chakotay.#
+COMPUTER: Doctor Jetrel is in Transporter room one.#
+COMPUTER: Unable to comply. There has been a disruption of power to energy grid beta four.#
+COMPUTER: Auto-initiation of the EMH programme occurred when a ship-wide Red alert was initiated.#
+COMPUTER: Captain Janeway is not on board the ship.#
+COMPUTER: Internal scans indicate no crew members are on board.#
+COMPUTER: Affirmative.#
+COMPUTER: Unknown.#
+COMPUTER: That information is not available.#
+COMPUTER: Affirmative. Warp core is offline. The ship is restricted to emergency power and auxiliary systems only. Structural integrity breach on deck six, deck seven and deck twelve. Deflector shields inoperative. Weapons array offline. Communications offline. Sewage and waste reclamation offline.#
+COMPUTER: That information is not available.#
+COMPUTER: Accessing bridge logs.#
+COMPUTER: All escape pods were launched at twenty one hundred hours.#
+COMPUTER: There are no humanoid life forms aboard this vessel.#
+COMPUTER: Unable to comply. Requested programme is not on file.#
+COMPUTER: No holographic systems exist in Sickbay.#
+COMPUTER: Specified programme does not exist.#
+COMPUTER: The Chief Medical Officer of USS Voyager is Doctor Louis Zimmerman.#
+COMPUTER: Doctor Zimmerman commenced duty on stardate 48308.2#
+COMPUTER: Affirmative. Doctor Lewis Zimmerman.#
+COMPUTER: All holographic simulations were discontinued.#
+COMPUTER: Captain Janeway is stored in memory block forty seven alpha.#
+COMPUTER: Affirmative.#
+COMPUTER: The holographic imaging system has been destroyed.#
+COMPUTER: Negative.#
+COMPUTER: Please restate the question.#
+COMPUTER: All holo-simulations have been terminated.#
+COMPUTER: Negative. No temporal anomalies have been reported.#
+COMPUTER: Information on USS Voyager is classified. Security clearance level three or above is required to access files.#
+COMPUTER: Security authorisation accepted. Last recorded contact with USS Voyager prior to its disappearance was on stardate 48307.5.#
+COMPUTER: Ensign Daniel Byrd.#
+COMPUTER: Intruder alert. Unauthorised launch in progress.#
+COMPUTER: Warning. Vectored exhaust controls malfunctioning.#
+COMPUTER: Negative.#
+COMPUTER: Warning. Approach vector is too steep. Discontinue landing sequence.#
+COMPUTER: Warning. Hull breach on deck four, Cargo bay two.#
+COMPUTER: Warning. Intruder alert in Cargo Bay two.#
+COMPUTER: Commander Chakotay is not aboard the ship.#
+COMPUTER: Approximately thirty minutes.#
+COMPUTER: Approximately six minutes.#
+COMPUTER: Initiating scans. [Kazon bridge]#
+COMPUTER: Generator ready.#
+COMPUTER: Beam targeted.#
+COMPUTER: The generator is offline.#
+COMPUTER: Beacon launched.#
+COMPUTER: Warning. Nearing maximum warp velocity. Structural collapse is imminent.#
+COMPUTER: Warning. At present speed, structural failure in forty five seconds.#
+COMPUTER: Radiogenic particle density at the measured co-ordinates was one eight seven three per cubic metre.#
+COMPUTER: There is no winner today.#
+COMPUTER: Try your luck again. Tomorrow you could be a winner.#
+COMPUTER: Particle density at the measured co-ordinates was one four one five per cubic metre.#
+COMPUTER: Acknowledged. Security seals in place.#
+COMPUTER: Specified security clearance deleted.#
+COMPUTER: Acknowledged. [Outside Tuvok's quarters]#
+COMPUTER: Warning, self-destruct sequence has been initiated. Warp core overload in twenty minutes.#
+COMPUTER: Cardassian ATR4107 attempting to activate systems.#
+COMPUTER: Attempting to activate systems.#
+COMPUTER: Accessing central processor memory.#
+COMPUTER: Attempting to over-ride programme.#
+COMPUTER: The Maquis munitions base on Planetoid Alpha four four one#
+COMPUTER: Malfunction detected in the targeting system. Attempting to correct.#
+COMPUTER:  This target does not conform to established targeting parameters. The detonation sequence cannot proceed without proper target identification. Ejecting antimatter pod. Emergency ejection system has failed. Attempting to re-initialise all key systems. Accessing backup systems. Unable to access. Enable backup overrides. Command pathways. The central processor has been routed. Attempting. (They descend into gibberish as Torres works on a control panel. A hatch opens.);#
+COMPUTER: Warning. Self destruct sequence has been initiated. Warp core overload in eleven minutes.#
+COMPUTER: Warning. Self-destruct sequence has been initiated. Warp core overload in seven minutes.#
+COMPUTER: Warning. Self destruct sequence has been initiated. Warp core overload in three minutes.#
+COMPUTER: Warning. Self destruct sequence has been initiated. Warp core overload in two minutes. [Dreadnought core]#
+COMPUTER: Warning. Self destruct sequence has been initiated. Warp core overload in one minute.#
+COMPUTER: Confirmed. Sequence terminated.#
+COMPUTER: Security authorisation required.#
+COMPUTER: Authorisation accepted. Running analysis.#
+COMPUTER: Unable to comply. Monitor is cleared for Lieutenant Thomas Paris only.#
+COMPUTER: Authorisation accepted. Files recovered.#
+COMPUTER: Warning. Hull breach on deck one. Emergency forcefields inoperative.#
+COMPUTER: Warning. Self-destruct sequence has been initiated. Warp core overload in four minutes, fifty five seconds. There will be no further audio warnings. [Voyager 2 - Sickbay]#
+COMPUTER: Warning. Fires have been detected on decks twelve and fifteen, sections A four through C eighteen.#
+COMPUTER: Unable to initiate self-destruct sequence due to damage to secondary command processors.#
+COMPUTER: Damage has been detected in the stabiliser acceleration sensors.#
+COMPUTER: Warning. Vessel approaching on intercept course.#
+COMPUTER: Kazon patrol vessel.#
+COMPUTER: There are eighty nine Kazon#
+COMPUTER: And one Betazoid on board.#
+COMPUTER: There is one Betazoid on board.#
+COMPUTER: Please restate a single question.#
+COMPUTER: Crewman Lon Suder.#
+COMPUTER: Between decks eight and nine.#
+COMPUTER: Unable to comply. Internal scanner relays have been damaged.#
+COMPUTER: Unable to respond. All Starfleet voice access has been cancelled. [Doctor's office] EMH [on#

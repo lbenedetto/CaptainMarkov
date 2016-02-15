@@ -1,0 +1,774 @@
+Episode Number: 566
+
+The Deep Space Nine Transcripts - Badda-Bing, Badda-Bang
+Badda-Bing,
+Badda-Bang
+Stardate:
+Unknown
+Original Airdate: 22 Feb, 1999
+
+  [Holosuite
+- Las Vegas lounge] 
+VIC: Sure I remember the Alamo. 
+BASHIR: See? Told you he would. 
+VIC: Laurence Harvey, Richard Widmark and John Wayne as Davy Crockett.
+Great battle scenes, nice sets, but way too long. 
+O'BRIEN: We're not talking about a movie. 
+BASHIR: No, we're talking about our holosuite programme. 
+VIC: Oh, that Alamo. What about it? 
+BASHIR: Well, we've got holosuite four reserved for an hour and we were
+wondering whether you'd like to join us. 
+VIC: Look fellas, I'm touched by the offer, but I don't know. 
+O'BRIEN: We can transfer your matrix to the Alamo programme. 
+BASHIR: You've got to leave of Vegas sometimes, right? 
+VIC: True, but I'm afraid I have to say no. 
+BASHIR: Why? 
+VIC: I don't look good in buckskin. Tell you what I'll do though. How
+about a little tune to get you into a Texas state of mind. Fellas,
+Alamo. (singing) Standing around by the Alamo. Walking around in San
+Antonio. Looking around for a new kind of love. 
+(Zing and the place subtly changes to something less swanky and classy.
+The band is hopeless and the audience boos him.) 
+VIC: Baby I'm lonesome tonight. History abounds by the famous fort. 
+MAN: Get him off! 
+(The music changes to burlesque and on come the aggressive looking
+showgirls.) 
+MAN: Come on, step down, ya hack. Oh, honey. Show me, show me! 
+VIC: What the hell? 
+BASHIR: What is all this? 
+VIC: Don't ask me. 
+O'BRIEN: Maybe there's a pointer fault in the holosuite's parameter
+file. 
+FRANKIE: Well, look who's here. The pretty boy singer himself. 
+VIC: Frankie Eyes. What are you doing in Vegas? 
+FRANKIE: What happened to 'Hello, Frankie, long time no see. Make
+yourself at home. Can I get you anything?' You believe this guy? 
+CICCI: (the muscle) No manners. 
+FRANKIE: Were you born in a barn or something? 
+BASHIR: This gentleman a friend of yours? 
+VIC: We know each other. 
+FRANKIE: We're a long way from South Philly, ain't we, Vic? 
+VIC: So, are you here on business or pleasure? 
+FRANKIE: Let's just say I'm here to stay, while you, Vicky boy, are
+about to take a powder. 
+VIC: I'm not going anywhere. 
+FRANKIE: I got news for you, pal. I just bought this hotel. You're
+history. 
+VIC: You can't fire me. I have a contract. 
+FRANKIE: And you can paper your walls with it. You're finished in this
+town, Vic. 
+VIC: You're blackballing me? 
+FRANKIE: As of this moment, you couldn't get a job as a singing busboy.
+Now are you going to walk out of here, or do you have to be carried
+out? Makes no difference to me. 
+O'BRIEN: Let me handle this. Computer. Delete characters Frankie Eyes
+and I'm sorry, I didn't catch your name. 
+CICCI: Cicci. (pronounced Cheech.) 
+O'BRIEN: And Cicci from the holosuite's programme. 
+(Nothing happens.) 
+CICCI: What's a holosuites? 
+FRANKIE: Beats me. 
+BASHIR: They're still here, Chief. 
+O'BRIEN: Computer, freeze programme. There must be a little problem in
+the character deletion algorithm. 
+(Cicci takes Vic by the lapels.) 
+CICCI: I'll show you the door. 
+VIC: Make that a big problem. 
+FRANKIE: What's it going to be, pallie? 
+VIC: I guess I start packing. 
+FRANKIE: Smart boy. All right, Cicci, come on. Let's check out my
+casino. 
+(Frankie and Cicci leave.) 
+BASHIR: So what do we do now? 
+VIC: Nothing we can do. Frankie's a made man, capisce? 
+BASHIR: I'm not talking about Frankie, I'm talking about fixing the
+entire programme. 
+O'BRIEN: Well, we could shut it down manually and reset it. But that
+would wipe Vic's memory. He'd forget everything that's happened since
+we first activated him. 
+VIC: Oh, hold on, pallie. Nobody's wiping my memory. 
+BASHIR: Of course not. There must be some other way. 
+O'BRIEN: I wish I knew what it was. 
+BASHIR: Better talk to Felix. After all, he was the one who designed
+this programme. 
+VIC: You do that. 
+O'BRIEN: In the meantime, you stay out of the way of Frankie Eyes. 
+VIC: You'll get no argument from me.
+ [Ops]
+NOG: I'll tell you one thing, if this Frankie Eyes
+hurts Vic in any way, he's going to have to answer to me. 
+WORF: I do not understand how you could feel such loyalty for a
+hologram. 
+NOG: He's not just a hologram, he's my friend. 
+O'BRIEN: Don't you like Vic? 
+WORF: As a singer, I find him entertaining. But beyond that, I neither
+like him nor dislike him. He is a hologram, and therefore he does not
+exist. 
+KIRA: He does for me. 
+(Bashir arrives and Worf leaves.) 
+BASHIR: I just talked to Felix. I know what's been affecting Vic's
+programme. It's a jack in the box. 
+NOG: A what? 
+O'BRIEN: A jack in the box. It's a children's toy on Earth. You wind it
+up and a figure jumps out and goes Boo! 
+BASHIR: Except this type of jack in the box is different. 
+NOG: It doesn't go Boo? 
+BASHIR: No, this surprise is buried deep in the holosuite programme. 
+O'BRIEN: It's meant to shake things up, you know? Make things
+interesting. 
+NOG: I wasn't bored. Were you? 
+KIRA: Not at all. I liked Vic's the way it was. 
+BASHIR: According to Felix, if we get rid of Frankie Eyes, everything
+resets back to the way it was. 
+KIRA: That's good to know. 
+NOG: So how do we get rid of Frankie Eyes? 
+BASHIR: That's up to us. But Felix did warn me the programme is period
+specific. 
+O'BRIEN: In other words, if we shoot him, we have to use a forty five
+automatic and not a phaser. 
+BASHIR: We can't shoot Frankie, it's too dangerous. 
+O'BRIEN: The mob could retaliate against Vic. 
+BASHIR: If anything happens to Vic, his matrix will be eliminated from
+the programme. Permanently. 
+NOG: The news just keeps getting better, doesn't it? 
+SISKO: What news? 
+KIRA: Oh, nothing, sir. We're talking about a holosuite programme. 
+BASHIR: Vic Fontaine's hotel's just been bought by gangsters. 
+SISKO: I see. When do you plan on to going back to work? 
+O'BRIEN: Right away, sir. 
+(Sisko leaves.) 
+NOG: Whatever you decide to do, Chief, count me in. I owe Vic. I
+thought losing my leg was the end of my Starfleet career. He taught me
+otherwise. 
+KIRA: He changed my life, too. And Odo's. 
+BASHIR: Now all we need is a plan.
+ [Sisko's quarters]
+(Home-cooked meal.) 
+KASIDY: Your daddy would be proud. 
+SISKO: My daddy taught me everything I know. 
+KASIDY: How nice. 
+SISKO: So, how was your day? 
+KASIDY: It's getting better. 
+SISKO: Something happen? 
+KASIDY: It's Vic. 
+SISKO: Vic? 
+KASIDY: Vic Fontaine. A gangster named Frankie Eyes took over his
+lounge. The whole place has changed and no one's sure how to change it
+back. What? 
+SISKO: Nothing. 
+KASIDY: I guess this sounds pretty silly to you. 
+SISKO: A little. 
+KASIDY: You have to understand, Vic isn't just another holosuite
+programme. He's more like a friend. 
+SISKO: Kasidy, can we talk about something else? 
+KASIDY: Sure. How come you've never been to Vic's? 
+SISKO: Does it matter? You like going there and I don't. Let's leave it
+at that. 
+KASIDY: I was only asking. 
+SISKO: And I gave you my answer. 
+KASIDY: There are times when I just can't figure you out. 
+SISKO: Well, maybe that's part of the attraction. 
+KASIDY: Believe that if you want to.
+ [Holosuite- outside Vic's hotel suite]
+(Room 107 if you're interested.) 
+VIC [OC]: Who is it? 
+O'BRIEN: It's Miles and Julian. 
+VIC [OC]: Just a minute. 
+(The door rattles and then is unlocked, and a very beaten up Vic
+appears.) 
+VIC: You wouldn't happen to have an ice pack on you, would you? 
+ [Holosuite- Vic's hotel suite]
+(It's a wreck. Bashir is checking Vic for broken
+ribs.) 
+VIC: Hey, pallie, whose side are you on? 
+BASHIR: I'm sorry, but you have three bruised ribs here and your left
+wrist is sprained. The good news is your skull is still in one piece. 
+(O'Brien brings a damp towel.) 
+BASHIR: Thanks. 
+VIC: I feel better already. A jack in the box. I can't believe Felix
+would do that to me. 
+BASHIR: Oh, don't take it personally. He was just trying to do me a
+favour by not letting things get too boring. 
+VIC: I thought that was my job. 
+BASHIR: Oh, and you're great at it. You know we love ya. 
+O'BRIEN: So, you going to tell us what happened? 
+VIC: I slipped in the bathtub. 
+O'BRIEN: And knocked over this furniture looking for a bandage, right? 
+VIC: Something like that. Frankie sent Tony Cicci to pay me a little
+visit. He wanted to remind me not to take too long packing. 
+O'BRIEN: What is it with you and Frankie? 
+VIC: It goes back to the old neighbourhood when we were kids. I used to
+beat him at stickball. 
+BASHIR: And? 
+VIC: And nothing. We've been rivals ever since. 
+O'BRIEN: That Felix, huh. When he designs a holosuite programme, he
+doesn't fool around. 
+VIC: Tell me about it. 
+BASHIR: Now you should get some rest. Maybe take a little vacation. 
+VIC: A vacation? Did you guys take a vacation when the Dominion took
+over DS Nine? 
+O'BRIEN: It's not the same thing. 
+VIC: It is to me. This is my life, remember? I don't run at the first
+sign of trouble. 
+BASHIR: We're not asking you to run anywhere. We just want you to stay
+out of sight while we come up with a plan. 
+VIC: What plan? 
+O'BRIEN: How to get rid of Frankie Eyes. 
+BASHIR: Odo and Kira are down in the lounge right now. 
+VIC: Doing what? 
+O'BRIEN: Checking up on Frankie. We need to find his weak spot. 
+VIC: I hope you know what you're getting me into. If you guys screw up,
+I'm the one who winds up buried in the desert.
+ [Holosuite - Las Vegas lounge]
+(The girls are on stage doing the chair routine
+from Cabaret.) 
+KIRA: Let me guess, you'll look around here while I check out the
+casino? 
+ODO: Oh. Er. If you'd prefer, I'll go and 
+KIRA: Enjoy yourself. Just remember, we have a job to do. 
+(Kira leaves.) 
+ODO: Of course. 
+(Odo goes to the bar where Cicci is holding forth to other gangsters.) 
+CICCI: Then I drive him out to the woods. Badda bing badda bang. Three
+in back of the head, that's the end of little Paulie. So what do you
+think Frankie says when I report back in? Little Paulie? Nah, I told
+you to pop Big Paulie! That's the problem with our business, too many
+guys named Paulie.
+ [Holosuite- Casino] 
+(Kira is playing blackjack, badly. Queen and six
+showing.) 
+KIRA: Hit me. (eight) I'm done. 
+FRANKIE: Not so fast. What kind of card is that to give such a pretty
+lady. Hit her again. 
+KIRA: Isn't that against the rules? 
+FRANKIE: Don't worry about it. Double your bet. 
+(Dealer gives a ten.) 
+FRANKIE: Twenty six? What's wrong with you? Again. (queen) You're
+starting to aggravate me, pal. (five) Twenty one, finally. Pay the
+lady. 
+DEALER: Yes, sir. 
+FRANKIE: If I were you, I'd quit while I was ahead. The name's Frank
+Chalmers, but everyone calls me Frankie Eyes. 
+KIRA: Why's that? 
+FRANKIE: Because I don't miss a trick. 
+KIRA: You're very sure of yourself. 
+FRANKIE: Doubt is for losers. 
+KIRA: And quite a philosopher. 
+FRANKIE: Well, I'm thinking of writing a book. 
+KIRA: What's the title? 
+FRANKIE: Well, maybe you can help me think one up. 
+KIRA: My talents lie in other directions. 
+FRANKIE: Good title. Mind if I use it? 
+KIRA: I'd say you already paid for it. 
+FRANKIE: So what do you say we hit the roulette table and see if I
+can't buy Chapter One.
+ [Holosuite - Las Vegas lounge]
+CICCI: Hey, Max, Max, come over here. I want you to
+see this. 
+(Odo stretches his arm to reach a glass just out of reach.) 
+CICCI: Can you believe it? He did it again. Buddy, I've been hanging
+out in bars for twenty years. I ain't never seen a stunt like that. 
+ODO: There's nothing to it, really. 
+CICCI: Hear that? The guy's the eighth wonder of the world and he says
+there's nothing to it. So where you from again? 
+ODO: Bajor. 
+CICCI: That's in Jersey, right? 
+ODO: Right. 
+CICCI: Max, Max, another round for my friend here.
+ [Holosuite- Vic's hotel suite]
+(The Gang's all here - Nog, Ezri, Bashir, Kasidy,
+O'Brien, Odo and Kira.) 
+ODO: Turns out Frankie Eyes was sent to Vegas by a man named Carl
+Zeemo. 
+VIC: Looks like Frankie's moving up in the world. 
+KIRA: You know Mister Zeemo? 
+VIC: Been around forever. Likes to pretend he's a sweet old man, but
+he's meaner than a junkyard dog. It's is all starting to make sense. I
+knew Frankie didn't have the money to buy a hotel. 
+EZRI: But Zeemo does. 
+VIC: More than enough. This is going to be a pretty sweet deal for him.
+The casino's bringing in about a million bucks a month. Cash. And out
+of that, Zeemo expects to be sent a couple of hundred grand. 
+ODO: That would be the skim. 
+VIC: Right off the top. Tax free. Frankie's got nothing to worry about.
+All he's got to do is send Mister Zeemo his cut. 
+KIRA: According to Frankie, Mister Zeemo's coming into town in about
+six days to pick up his first payment. He's never been to Vegas and he
+wants to look over his newest acquisition. 
+O'BRIEN: What would happen to Frankie if he didn't give Zeemo his skim?
+VIC: Frankie's not that dumb. 
+BASHIR: Miles, are you thinking what I'm thinking? 
+O'BRIEN: That depends on what you're thinking. 
+BASHIR: All we have to do is see to it that Mister Zeemo doesn't sees a
+penny of that money. 
+EZRI: Are you talking about robbing the casino? 
+O'BRIEN: That's what I was thinking. 
+KASIDY: Isn't that dangerous? 
+VIC: Stealing from the mob? You bet it is. You get caught and I kiss
+the world goodbye. 
+O'BRIEN: Then the trick is not to get caught. 
+VIC: You guys are nuts, you know that? Besides, the money's kept in a
+safe. 
+NOG: What kind of safe? 
+VIC: I don't know. It's in the countroom and there's a guard outside
+the door twenty four hours a day. And even if you did get past him,
+there's still that little problem of the two countmen inside. 
+KIRA: I'll get a look at the safe. 
+BASHIR: We'll figure out a way to take out the guard. 
+KASIDY: And the countmen. 
+EZRI: And anything else that comes along. 
+O'BRIEN: Then we're agreed? 
+BASHIR: Absolutely. 
+KIRA: I'm in. 
+ODO: Me, too. 
+KASIDY: Sure. 
+EZRI: Okay. 
+NOG: Let's do it. 
+VIC: Wait a minute. Let me get this straight. You're going to knock
+over the casino and swipe a cool million from the mob? 
+O'BRIEN: Vic, you want your lounge back or not? 
+VIC: Deal me in.
+ [Holosuite- Countroom] 
+(The cash from the casino is being emptied onto the
+table.) 
+FRANKIE: Have you ever seen a prettier shade of green? 
+KIRA: Looks like you had a profitable night. 
+FRANKIE: And the night's not over. 
+(He picks up a hundred dollar bill.) 
+KIRA: Is this for me or am I just keeping it warm for you? 
+FRANKIE: It's all yours, baby. And there's more where that came from. 
+(He leans in for a kiss) 
+KIRA: I'll take your word for it. 
+FRANKIE: What are you looking at? 
+AL: Nothing. 
+FRANKIE: Just keep counting. After you, sweetheart.
+ [Holosuite- Casino] 
+(Kasidy is playing a slot machine and talking to
+the guard by the countroom door) 
+KASIDY: Are you sure you didn't go to high school in Asheville, North
+Carolina? 
+GUARD: Yeah, I'm positive. 
+KASIDY: That's funny. You look just like the captain of our football
+team. I had such a crush on him. 
+GUARD: Well, actually, I did play a little football. 
+KASIDY: I knew it. You have the body of an athlete.
+ [Holosuite - Las Vegas lounge]
+CICCI: You call this a cheesesteak? I wouldn't feed
+this to my parole officer. 
+ODO: Excuse me, Cicci. Could I have a word with you? 
+CICCI: Just a second, please. Now I want a cheesesteak and I don't care
+if you got to fly to Philadelphia to get me one. 
+(Cicci rams the sub into the hapless waiter's mouth. The waiter flees.)
+CICCI: A guy can starve to death in this town. 
+ODO: Ezri, this is Tony Cicci. 
+EZRI: Nice to meet you. 
+CICCI: The pleasure is all mine. 
+ODO: Ezri's new in town. She needs a job. 
+EZRI: I'm a very good waitress. 
+CICCI: Ah. You wouldn't happen to have a slice of pizza on you? 
+EZRI: No, but I could go the kitchen and get you one. 
+CICCI: That chef wouldn't know a good pizza if it hit him right in the
+face. Consider yourself gainfully employed. 
+EZRI: Really? That's wonderful. 
+ODO: Thanks, Cicci. I owe you one. 
+CICCI: Ah, don't mention it, Stretch. Maybe one of these days you'll
+show me the 
+(Vic enters.) 
+CICCI: I don't believe it. 
+VIC: Take it easy, pallie. Take it easy. I'm not looking for trouble. 
+CICCI: That's a relief. 
+VIC: I'm here to see Frankie. I want to try to work things out with
+him. You know, let bygones be bygones.
+ [Holosuite- Casino] 
+VIC: Frankie, I'm dying here. The Sands, the Dunes,
+the DI, no one will even return my call. 
+FRANKIE: Tell me something I don't know. 
+VIC: There's got to be a way for us to bury the hatchet. 
+FRANKIE: I already did. In your head. 
+VIC: Frankie you want me to beg? I'll beg. Give me a chance to make
+things right. I know people, people with dough. High rollers. I could
+bring 'em into the casino. 
+FRANKIE: What? You want to be my shill? 
+VIC: I'm talking about people who can drop ten, twenty, thirty big ones
+a night. 
+KIRA: Give him what he wants, Frankie. I can't take much more of his
+whining. 
+FRANKIE: Bring in a couple of players, then we'll talk. 
+VIC: That's all I ask. Let me buy you a drink. 
+FRANKIE: I don't drink with losers. Come on, dollface. Let's warm up
+the poker table. 
+CICCI: Welcome back.
+ [Sisko's quarters]
+SISKO: You're in charge of what? 
+KASIDY: Of distracting the guard so that we can sneak someone into the
+countroom. 
+SISKO: Kasidy, I can't believe you're involved in this thing. The whole
+thing is ridiculous. 
+KASIDY: I guess that means you're not going to wish me luck. 
+SISKO: And you're telling me that virtually my entire senior staff is a
+part of this nonsense? 
+KASIDY: You're supposed to help your friends when they're in trouble.
+And Vic, hologram or not, is in trouble. Not that I'd expect you to
+care. 
+SISKO: Look, this is not about Vic Fontaine. 
+KASIDY: Then what is your problem? 
+SISKO: You want to know? You really want to know what my problem is?
+I'll tell you. Las Vegas nineteen sixty two, that's my problem. In
+nineteen sixty two, black people weren't very welcome there. Oh, sure
+they could be performers or janitors, but customers? Never. 
+KASIDY: Maybe that's the way it was in the real Vegas, but that is not
+the way it is at Vic's. I have never felt uncomfortable there and
+neither has Jake. 
+SISKO: But don't you see, that's the lie. In nineteen sixty two, the
+Civil Rights movement was still in its infancy. It wasn't an easy time
+for our people and I'm not going to pretend that it was. 
+KASIDY: Baby, I know that Vic's isn't a totally accurate representation
+of the way things were, but it isn't meant to be. It shows us the way
+things could have been. The way they should've been. 
+SISKO: We cannot ignore the truth about the past. 
+KASIDY: Going to Vic's isn't going to make us forget who we are or
+where we came from. What it does is it reminds us that we're no longer
+bound by any limitations, except the ones we impose on ourselves.
+ [Holosuite- Vic's hotel suite]
+KASIDY: What about Worf? 
+KIRA: Oh, he'll never agree to it. 
+EZRI: There's always Quark. 
+ODO: I'm not sure he'd help. He thinks of you as his competition. 
+(Knock on the door.) 
+NOG: I'll get it. 
+O'BRIEN: Better get this out of sight. 
+(The blackboard with the plan of the casino on it goes onto the
+balcony.) 
+EZRI: There's one little problem. We're still one man short. 
+BASHIR: We need a high roller with Vic at the craps table. Someone to
+gather a crowd, keep attention away from the countroom. 
+O'BRIEN: Otherwise the whole plan falls apart. 
+(Nog opens the door.) 
+SISKO: And we certainly can't let that happen. Now, exactly what do you
+need me to do? 
+(Later, much later, Bashir is finishing the pretzels.) 
+VIC: Let's go over it one more time. 
+NOG: Do we have to? Everyone knows what they have to do, right? 
+EZRI: It's all pretty simple really. 
+VIC: Hey, far be it from me to tell Starfleet officers how to do their
+jobs. 
+O'BRIEN: Robbing casinos isn't part of any Starfleet job description
+I've ever read. 
+KIRA: We can't afford to make any mistakes. 
+SISKO: And we're not going to. Take us through it again. 
+VIC: You got it, pallie. It all begins with you. 
+ [Holosuite - Las Vegas lounge]
+(Kira is with Frankie Eyes.) 
+VIC [OC]: Keeping Frankie Eyes away from the casino and the countroom.
+ [Holosuite - Casino] 
+(Craps table) 
+VIC [OC]: Meanwhile, the Captain and I will be laying down some heavy
+bread over at the craps table. Enough to draw a crowd. 
+SISKO [OC]: Where are we going to get that kind of money? 
+VIC [OC]: I put a little away for a rainy day. Now each night, at
+precisely eleven forty five. 
+SISKO [OC]: Al, one of the countmen, takes a break to call home. 
+(Al goes to a pay phone.) 
+SISKO [OC]: He never varies his routine. He's gone for eight minutes
+every night. 
+VIC [OC]: During those six minutes, Howard, the other countman, has a
+martini brought in. 
+(Ezri is a cocktail waitress.) 
+EZRI [OC]: That's where I come in. But first, I make a stop at poker
+table three where I hand a drink to Julian. 
+BASHIR [OC]: And I slip a few drops of ipecac into Howard's. 
+EZRI [OC]: After which, I continue on to the countroom.
+ [Holosuite- Countroom] 
+(Howard makes sure Ezri has to lean forward in
+front of him to put the tray down on a clear space.) 
+EZRI [OC]: I set the tray down and leave. 
+[Holosuite - Casino]
+VIC [OC]: Once Ezri's out of the countroom 
+KASIDY [OC]: I go running up to the guard and tell him Chief O'Brien
+has stolen my chips. 
+VIC [OC]: Do whatever you need to do to keep him distracted. And don't
+be afraid to turn on the waterworks. And Chief, you play innocent. 
+O'BRIEN [OC]: I am innocent! I've never seen this woman before in my
+life. 
+VIC [OC]: That's the ticket. Now remember, the two of you have to keep
+that guard away from the door for at least two minutes. 
+BASHIR [OC]: Once he takes a sip of his drink, Howard'll come flying
+out of that countroom at warp speed. 
+NOG [OC]: Which is where I come in. 
+(Nog the maintenance man slips inside the countroom.)
+ [Holosuite- Countroom] 
+VIC [OC]: You and those fabulous Ferengi ears of
+yours. 
+(Nog goes to the safe and starts cracking the five digit code.) 
+NOG [OC]: And once I've opened the safe. 
+ODO [OC]: you'll need someplace to put all that money. 
+(The drinks tray morphs into Odo with a large suitcase.) 
+VIC [OC]: You're going to be surprised how much a million bucks weighs.
+ODO [OC]: I think I can handle it. 
+(Nog takes off his overalls to become a security guard.) 
+ [Holosuite- Casino] 
+VIC [OC]: When you walk into the casino, don't talk
+to anyone. Don't even look at anyone. And whatever you do, don't run.
+Just head for the exit and dump the cash in the garbage cans outside.
+With no money, there's no skim to give to Mister Zeemo, and old Frankie
+becomes yesterday's news. 
+BASHIR [OC]: And everything returns to normal
+ [Holosuite- Vic's hotel suite]
+BASHIR: And we pop open the champagne. 
+VIC: Music to my ears, pallie. 
+SISKO: Eight minutes. That's how long we have to get into the
+countroom, open the safe, grab the money, and then get out again. 
+BASHIR: I bet we do it in five. 
+NOG: When do we pull off the caper? 
+KASIDY: The sooner, the better. 
+EZRI: Zeemo's due in two days. 
+SISKO: Then we have no choice. We go tomorrow night. 
+VIC: Hey. Crazy.
+ [Infirmary]
+(Blue dye is put into a liquid. A quick stir and
+it's gone.) 
+O'BRIEN: That was fast. 
+BASHIR: It has to be.
+ [Wardroom]
+(Nog is practising safe cracking.) 
+EZRI: Two minutes, fourteen seconds. 
+NOG: I've got to do a lot better than that. 
+EZRI: Right. 
+NOG: (resets the tumblers.) Go.
+ [Kira's quarters]
+(Odo zips Kira into another tight evening gown.)
+ [Sisko's quarters]
+(Sisko practices throwing dice.) 
+KASIDY: Better finish getting dressed. It's almost time.
+ [Promenade]
+(Ocean's Eleven, sorry, Fontaine's Eight, head for
+Quarks.)
+ [Quark's]
+QUARK: I'm telling you, Morn. Something's going on
+in Vic's that we don't know about.
+ [Holosuite - Las Vegas lounge]
+FRANKIE: Looking good, as usual, dollface. 
+KIRA: I'm glad you like what you see. 
+FRANKIE: I only wish I could see more. 
+KIRA: Well you know what they say, good things come to those who wait. 
+FRANKIE: Who are they and how much of you have they seen? 
+KIRA: I never kiss and tell. 
+FRANKIE: I bet you don't. 
+ [Holosuite- Casino] 
+(Kasidy and O'Brien are playing blackjack.) 
+KASIDY: Oh, nineteen. Let's if see you can beat that. 
+(Dealer doesn't.) 
+KASIDY: Twenty three. You're busted. 
+(Bashir is playing poker and trying to be Sean Connery.) 
+BASHIR: Vodka martini. Stirred, not shaken. 
+EZRI: Right away, sir. 
+ROULETTE: Winner seventeen black. 
+(Over at the craps table.) 
+SISKO: Ten thousand. 
+CROUPIER: Good luck to you, sir. Make your bets. High low bets. 
+VIC: A hundred dollars? 
+SISKO: Too much? 
+VIC: You're supposed to be a high roller, so start rolling. Make it two
+thousand. 
+SISKO: Two thousand. 
+[Holosuite - Las Vegas lounge]
+FRANKIE: What do you say we blow some of my money
+at the crap table? 
+KIRA: Maybe later. Right now, I want you to buy me a drink. We can play
+footsies under the table. 
+FRANKIE: Footsies? I guess that's a start. 
+[Holosuite - Casino]
+(Al comes out to make his phone call.) 
+VIC: We have lift off. 
+(Ezri heads over to Bashir with her tray, but a man sends it flying.) 
+EZRI: Oh, I'm so sorry. 
+BASHIR: Don't worry about it. You're too kind. 
+(He grabs two martinis off another tray, doses one and takes the other
+for himself.) 
+CROUPIER: Coming out now, new shooter. 
+SISKO: Here's where things get interesting. Come on, seven.
+ [Holosuite- Countroom] 
+EZRI: You're not Howard. 
+COUNTMAN: He's out with the flu. 
+(Familiar? It's Robert O'Reilly aka Gowron.) 
+EZRI: Oh. This drink must be yours, then. 
+COUNTMAN: I'm not thirsty. 
+EZRI: But 
+COUNTMAN: Hey, you're making me lose count. 
+EZRI: Sorry. You mind if I drink that? I've been on my feet for hours
+and I could really use a little pick me up. 
+COUNTMAN: That's about the saddest story I ever heard. 
+(And he drinks it himself) 
+ [Holosuite- Casino] 
+CROUPIER: Place your bets. 
+SISKO: Let it ride, let it ride. 
+(Vic and O'Brien see Ezri come out of the countroom.) 
+KASIDY: You have to help me. That man. That man right there. He stole a
+stack of my chips. 
+GUARD: Hey, you! Stop right there! 
+O'BRIEN: Who, me? 
+GUARD: The lady says you stole her chips. 
+O'BRIEN: I did no such thing. 
+KASIDY: Liar! I'm telling you, he took them. You're a thief! 
+O'BRIEN: And you're drunk, 
+KASIDY: I am not. 
+GUARD: Hey, hey, let's just calm down, okay? 
+KASIDY: Not until I get my money! 
+O'BRIEN: What money? 
+KASIDY: The money you stole. 
+O'BRIEN: I told you, I never touched your money. 
+KASIDY: Liar. 
+(The countman rushes out to the bathroom and Nog gets in safely.)
+ [Holosuite- Countroom] 
+(Odo morphs as Nog starts working the tumbler.) 
+NOG: Uh oh. 
+ODO: What do you mean, uh oh. We don't have time for uh oh. 
+NOG: This safe. It has an auto-relock tumbler. Kira didn't mention
+anything about an auto-relock tumbler. 
+ODO: Well she obviously didn't know about it. 
+NOG: We're not going to have enough time. 
+ODO: Keep working. 
+ [Holosuite - Las Vegas lounge]
+FRANKIE: This is the hand that shook the hand of
+Bugsy Siegel, the man that built Las Vegas. I'm telling you, he was a
+visionary. And is there even one statue of the guy in this town? 
+KIRA: There's no justice. 
+FRANKIE: You can say that again. Sure you don't want to play the tables
+for a while? 
+KIRA: I'm perfectly content right here. 
+FRANKIE: Who am I to argue with a lady? 
+[Holosuite - Casino]
+KASIDY: What are you standing around for? Arrest
+him! I told you he took two hundred dollars worth of chips from me. 
+O'BRIEN: How come I've only got five bucks on me? 
+KASIDY: Don't believe him. 
+O'BRIEN: I'm telling you. This broad ain't playing with a full deck. 
+KASIDY: And just what is that supposed to mean? 
+O'BRIEN: What do you think it means? 
+SISKO: Beginner's luck. For the dealers. 
+VIC: Six minutes. 
+SISKO: I wonder what's taking them so long. 
+AL: I've got to go. I'm running late. This Frankie 
+(And Nog still can't get the safe open. Odo checks his watch.)
+[Holosuite - Las Vegas lounge]
+(Kira checks her watch.) 
+FRANKIE: You in some kind of hurry? 
+KIRA: Me? 
+FRANKIE: You keep staring at that watch. 
+KIRA: Really? I hadn't noticed. 
+FRANKIE: And your drink. You haven't touched it. 
+KIRA: Oh, well, the night is young. I've got to pace myself. 
+FRANKIE: Pace yourself? For what? 
+CICCI: Frankie, there's someone here to see you. 
+FRANKIE: I'm busy. 
+ZEEMO: You don't look busy. 
+(A wizened old guy with a young blonde bimbo on his arm.) 
+FRANKIE: Mister Zeemo. We weren't expecting you until tomorrow. 
+ZEEMO: I'm early. Any problem with that? 
+FRANKIE: No, not at all. Sit down, have a drink. 
+ZEEMO: We'll have a drink later. Where's the er, where's the countroom.
+FRANKIE: Follow me. 
+KIRA: Mister Zeemo. It's a great honour to meet you. 
+ZEEMO: I know. 
+KIRA: Frankie has told me so much about you. 
+ZEEMO: Frankie. 
+FRANKIE: Yeah. 
+ZEEMO: The money, Frankie. 
+FRANKIE: Right this way. 
+ZEEMO: Let's go. Come on. 
+ [Holosuite- Countroom] 
+ODO: Nog, it's been eight minutes. We're running
+out of time. 
+(Still no success.)
+ [Holosuite- Casino] 
+(Al is still trying to end the phone call, and
+finally does. Bashir has a full house, Kings over eights.) 
+BASHIR: I fold. Excuse me. Your name's Al, right? 
+AL: Who wants to know? 
+BASHIR: Frankie Eyes. 
+AL: Frankie Eyes? 
+BASHIR: He's waiting for you out back. 
+AL: For what? I didn't do nothing. 
+BASHIR: Then you have nothing to worry about. 
+(Al leaves.) 
+VIC: You gotta be kidding me 
+SISKO: Now what? Zeemo! 
+VIC: He's a day early. Keep playing, I'll try to stall them. 
+VIC: Nina? Nina, is that you? 
+ZEEMO: Who's this? 
+FRANKIE: Nobody. Hey, Vic, take a walk. 
+VIC: Where you been keeping yourself, baby? 
+BLONDE: Do I know you? 
+VIC: Do you know me? Don't you remember that week in Miami? Ever see
+what she looks like in a bikini? Oh, mamma mia. 
+ZEEMO: When were you in Miami? 
+BLONDE: I don't know what he's talking about. 
+VIC: Who's this? Your grandpa? 
+ZEEMO: Frankie. 
+FRANKIE: Cicci! 
+CICCI: Now you've done it. 
+FRANKIE: Bury him. So long, sucker. 
+ZEEMO: Frankie, I'm waiting for the money. 
+FRANKIE: Yes, all right. Right this way. 
+SISKO: Tonight everyone's a winner. 
+(Sisko throws dollar bills into the air. Chaos as the blonde and Cicci
+start grabbing. Bashir throws his notes too. The safe's still not
+opening.) 
+ZEEMO: What's this? What's going on? 
+[Holosuite - Countroom]
+(Clunk!) 
+NOG: Piece of cake. 
+(Odo loads up his hand-suitcase.) 
+[Holosuite - Casino]
+O'BRIEN: Can I go now? 
+KASIDY: You aren't going anywhere! Don't let him leave. 
+GUARD: Charlie, over here. Take this gentleman to security. 
+KASIDY: But I wanted you to handle this. 
+GUARD: I'm afraid I can't leave my post. Charlie, strip search. 
+O'BRIEN: Strip search? 
+(O'Brien is led away as Odo and Nog come out of the countroom. Kasidy
+bursts into tears in the guard's arms to stop him turning around and
+seeing them.) 
+GUARD: There, there, it's not worth all that. 
+KASIDY: I needed that money to buy a gift for my mother. 
+(Odo and Nog take a back way out. Kasidy leaves the guard.) 
+ZEEMO: Funny way to run a casino. 
+KIRA: What are you waiting for, Frankie? Why don't you show Mister
+Zeemo to the countroom. 
+ZEEMO: Well you heard the lady. 
+FRANKIE: I'm telling you, Mister Zeemo, buying this casino was the
+smartest move you ever made. We're making money hand over fist. 
+ [Holosuite- Countroom] 
+FRANKIE: I just hope you brought a big enough
+briefcase. 
+(We look at them through the empty safe.) 
+ZEEMO: Where's my money?
+ [Holosuite - Las Vegas lounge]
+(Zeemo's muscle escort Frankie and Cicci past
+Bashir, Nog, Ezri, Odo, Kira, Sisko, Kasidy and Vic at the bar. As soon
+as they go through the door the proper lounge returns.) 
+VIC: Now that's more like it. 
+ODO: Say goodbye to Frankie Eyes. 
+KIRA: You can tell Felix that we shut the lid on his jack in the box. 
+BASHIR: With pleasure. 
+VIC: Ladies and gentlemen, the bubbly's on me. 
+BASHIR: Thanks. Vic. 
+ODO: Hear, hear. 
+(O'Brien enters, putting his jacket on.) 
+BASHIR: Where've you been? 
+O'BRIEN: I don't want to talk about it. 
+(They all raise their glasses.) 
+VIC: The next time you two fight the battle of the Alamo, count me in.
+Coonskin cap and all. 
+BASHIR: You got it, pallie. 
+VIC: To the best friends a hologram ever had. 
+BASHIR: Hear, hear. 
+O'BRIEN: Cheers. 
+VIC: I owe you, big time. 
+BASHIR: Cheers, Vic. 
+EZRI: Cheers. 
+VIC: Okay, fellas, let's do it. Captain? You'll join me? 
+KIRA: What? 
+Vic and Sisko sing 'The Best is Yet to Come'. Nice.)  
+
+

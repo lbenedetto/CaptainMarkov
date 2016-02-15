@@ -8,23 +8,59 @@ public abstract class LineGetter {
 	int currentEpisodeNum;
 	BufferedReader lines;
 	String nextLine;
-	public LineGetter() {
-		currentEpisodeNum = 100;
+	Series series;
+
+	public LineGetter(Series _series) {
+		series = _series;
+
+		switch (series) {
+			case NextGen:
+			case Voyager:
+				currentEpisodeNum = 100;
+				break;
+			case DS9:
+				currentEpisodeNum = 400;
+				break;
+			case StarTrek:
+			case Enterprise:
+			default:
+				currentEpisodeNum = 0;
+		}
+
 		nextEpisode();
 	}
 
 	public boolean hasNextEpisode() {
-		return currentEpisodeNum < 277;
+		switch (series) {
+			case StarTrek:
+				return currentEpisodeNum < 79;
+			case NextGen:
+				return currentEpisodeNum < 277;
+			case DS9:
+				return currentEpisodeNum < 575;
+			case Voyager:
+				return currentEpisodeNum < 272;
+			case Enterprise:
+				return currentEpisodeNum < 98;
+			default:
+				return false;
+		}
 	}
 
 	public void nextEpisode() {
-		if (currentEpisodeNum == 101) currentEpisodeNum++;
+		if (PositronicBrain.episodeNumIsSkipped(currentEpisodeNum + 1, series))
+			currentEpisodeNum++;
+		else if (PositronicBrain.isAtVoyagerGap(currentEpisodeNum + 1, series))
+			currentEpisodeNum = PositronicBrain.getNumPastVoyagerGap(currentEpisodeNum + 1);
+
 		currentEpisodeNum++;
 		try {
-			currentEpisode = new BufferedReader(new FileReader("./scripts/Episode " + currentEpisodeNum + ".txt"));
+
+			currentEpisode = new BufferedReader(new FileReader("./scripts/" + series.toString() +
+					"/Episode " + currentEpisodeNum + ".txt"));
 		} catch (FileNotFoundException e) {
 			System.out.println("Could not find script file, downloading now");
-			ScriptScraper.downloadEpisodes();
+			ScriptScraper.downloadEpisodes(series);
 		}
 	}
 

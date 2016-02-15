@@ -1,0 +1,851 @@
+Episode Number: 214
+
+The Voyager Transcripts - Dreadnought
+Dreadnought
+Stardate:
+49447
+Original Airdate: February 12 1996
+
+ [Sickbay] 
+ (Ensign
+Wildman is having a pre-natal check-up.) 
+WILDMAN: I've been considering naming him after my husband. It's been a
+tradition in his family for over five generations. 
+KES: I'm sure he'd be very pleased. 
+WILDMAN: My husband's name is Greskrendtregk. He's Ktarian. 
+EMH: Choosing a name is no easy matter. I speak from experience. 
+WILDMAN: Have you had any progress, Doctor? 
+EMH: I've reviewed historical, literary and anthropological databases
+from over five hundred worlds and have yet to find a suitable name.
+However, I may want to give some thought to Greskrendtregk. 
+WILDMAN: To be honest, I've been thinking of something simpler. What do
+you think of Cameron? 
+KES: I like it. 
+EMH: Cameron, from the ancient Celtic term for one whose nose is bent. 
+WILDMAN: What about Frederick? 
+EMH: Frederick. Very distinguished. However, it bears a close
+resemblance to a rather impolite term on the Bolian homeworld. 
+WILDMAN: It doesn't have to be a human name. I like Sural. It's Vulcan.
+EMH: Yes, unfortunately it was also the name of a dictator on Sakura
+Prime, famed for beheading his rivals, and his parents. 
+KES: You won't have any objection to Benaren. 
+EMH: You're right. I've never heard that name before. 
+WILDMAN: I think it's lovely. Is it Ocampan? 
+KES: Benaren was my father's name. He was the greatest inspiration of
+my life. 
+JANEWAY [OC]: All science officers. Please report to your stations. 
+EMH: Your scans look fine, Ensign. We'll see you in a week. 
+WILDMAN: Thank you. Greskrendtregk would make a good middle name, don't
+you think? 
+(Wildman leaves.) 
+EMH: You never suggested your father's name to me. 
+KES: I thought you were only considering human names. 
+EMH: Ah. Well, you were mistaken.
+KES: If you like Benaren there's no reason you can't use it too. I'm
+sure she won't mind. 
+EMH: Won't mind that I just usurped her baby's name the moment I heard
+it? Thank you, but no thank you. 
+KES: My uncle's name was Elrem. I once knew a boy named Tarrik. 
+ [Bridge]
+ PARIS:
+There's not much left of whatever it was. From the amount of debris I'd
+guess it was a small ship, no bigger than a shuttlecraft. 
+KIM: I'm not reading any organic material in the debris field. It must
+have been an unmanned vessel. Possibly a probe. 
+JANEWAY: Any idea what happened to it? 
+TUVOK: The high residual energy signature indicates repeated weapons
+fire. 
+KIM: Captain, the wreckage is composed primarily of duritanium
+polyalloy. 
+JANEWAY: Duritanium? 
+CHAKOTAY: I haven't seen many weapons that could do that kind of damage
+to a duritanium hull. 
+JANEWAY: Transport some samples of the debris to Engineering for
+analysis. 
+CHAKOTAY: Continuous scans, Lieutenant. We don't want whoever did this
+to catch us by surprise. 
+ [Engineering]
+
+JANEWAY: Any conclusions? 
+CHAKOTAY: Afraid so. 
+TORRES: We've identified the signature left by the weapons fire.
+There's no question. It was Cardassian. 
+JANEWAY: Cardassian! Could Seska be responsible? 
+TORRES: No, Captain. I am. 
+ [Briefing
+room] 
+ TORRES:
+The probe was destroyed by an experimental Cardassian weapon from the
+Alpha quadrant. 
+(Paris runs in, late.) 
+PARIS: Sorry. 
+TORRES: I recognise it's signature because, because I know this weapon
+very well. Chakotay and I got our hands on it when we were fighting the
+Cardassians. 
+KIM: How did it get here? 
+CHAKOTAY: Probably the same way we did. 
+TORRES: The last time we saw it, it was heading in the same direction
+in the Badlands where the Caretaker picked us up. 
+CHAKOTAY: Originally the Cardassians sent this thing to destroy a
+Maquis munitions base. We nicknamed it Dreadnought. It's a self-guided
+tactical missile carrying a charge of a thousand kilos of matter and
+another thousand of antimatter. 
+TUVOK: Enough to destroy a small moon. 
+TORRES: Now add to that one of the most sophisticated computer systems
+I've ever seen. They made this missile adaptable, evasive, armed with
+it's own defensive weaponry. In other words, unstoppable. 
+NEELIX: So, how did you stop it? 
+CHAKOTAY: We didn't. It got through all our defences. Worked like it
+was supposed to except for one minor detail. It didn't go off. 
+TORRES: Leave it to the Cardassians to build such an incredibly
+advanced tactical weapon and then arm the warhead with an old kinetic
+detonator. 
+CHAKOTAY: The missile skipped off into the atmosphere and quietly went
+into orbit. 
+TORRES: I got inside it and reprogrammed the computer. Hell, I didn't
+just reprogramme it, I changed it's identity. I made it forget about
+being Cardassian. Now it was working for the Maquis. 
+CHAKOTAY: And we gave it a new mission. To destroy the Cardassian fuel
+depot on Aschelan Five. But it never made it out of the Badlands. We
+thought it had been destroyed in one of the plasma storms. 
+JANEWAY: So how do we stop this weapon before it causes any more
+damage? 
+TORRES: Dreadnaught masks its warp trail with a randomised EM field,
+but I can modify our navigational sensors to cut through that. 
+PARIS: And what are we going to do with it once we find it? 
+TORRES: I get back inside it. I know all the security codes. I
+installed them myself. 
+JANEWAY: Lieutenant Paris can assist you with the navigational sensors.
+Keep me informed. Dismissed. 
+CHAKOTAY: Lieutenant. I expect everyone to show up for meetings on time
+and properly dressed. 
+(Paris nearly says something, then changes his mind.) 
+PARIS: Yes, sir. 
+ [Engineering]
+ PARIS:
+There's still a lot of distortion in the upper frequencies. Better. Now
+let's try filtering out the ion radiation. B'Elanna? You must be really
+worried about catching this thing. 
+TORRES: Chakotay wasn't telling the whole truth. We didn't send
+Dreadnought on a mission against the Cardassians. I was the one who
+sent it, without asking him. 
+PARIS: You were afraid he'd say no. 
+TORRES: After I did it, he pulled me aside and I was ready to defend
+myself. I was so sure that I had anticipated everything that could
+possibly go wrong. I even programmed it to warn Federation ships to
+stay out of its way, in my own voice. 
+PARIS: Your voice? 
+TORRES: Listening to that Cardassian computer's voice was driving me
+crazy. 
+PARIS: I don't blame you. 
+TORRES: Anyway, Chakotay looked at me. I didn't know him very well yet.
+And all he said, in that damned soft voice of his was that I'd hurt
+him. That he thought he'd earned my trust and loyalty. I was so glad
+when it disappeared into the Badlands. I remember thinking, thank god,
+it's over. But it's not. And if anything happens here because of
+Dreadnought, it's my fault. No one else's. 
+PARIS: You took a risk. You were thinking like a Maquis. That was a
+whole different life. 
+TORRES: Tell me about it. 
+PARIS: You know, I've been surprised at how well you've been able to
+fit in here. A little envious too. 
+TORRES: Tom, what's been going on with you lately? 
+PARIS: Going on? How? 
+TORRES: People are starting to talk. 
+PARIS: Are they? People like who? Chakotay? 
+TORRES: No, I mean people. Like me. Like today. Look at yourself,
+coming to a briefing late. And is it true you had a fight with
+Lieutenant Rollins? 
+PARIS: The Lieutenant was unhappy that my conn. reports weren't
+punctuated properly, according to Starfleet protocol. I didn't like his
+attitude. 
+TORRES: Was he right about your reports? 
+PARIS: We're in the Delta quadrant, nowhere near Starfleet. What
+difference? Yeah, he was right. I'm the one who's been wrong. Wrong
+about a lot of things. Why don't we try running a multi-phasic sweep? 
+ [Bridge]
+ KIM:
+Captain, I'm picking up the trail again. New heading one nine six mark
+four. 
+PARIS: I'm on it. 
+JANEWAY: This course is erratic. Are we sure we're following a single
+warp trail? 
+TUVOK: Perhaps the missile's navigational system is malfunctioning.
+It's been operating for over a year, far longer than it was designed to
+function. 
+TORRES: No, this is deliberate. It's following one of the evasive
+patterns I programmed into it. It must have observed us following. 
+KIM: I think I've got it on long range sensors. 
+TORRES: No, that's only a sensor echo. Dreadnought's programmed to
+deflect it's up to one hundred thousand kilometres from it's true
+location. The next time you get a heading look for a brief surge in
+neutrino emissions within a one hundred thousand kilometre radius.
+That'll be the real thing. 
+KIM: Got it. Elevated neutrino levels. Locking in coordinates. It's
+within visual range. 
+CHAKOTAY: On screen. 
+TORRES: It's targeting scanners have been activated. 
+JANEWAY: What's wrong? 
+CHAKOTAY: It's not supposed to do that until it's locked onto it's
+final target. 
+TORRES: It's heading for a planet in a system over ten light years
+away. At its current speed, it'll get there in about three weeks. 
+CHAKOTAY: The planet is Class M. I'm reading several heavily populated
+areas. 
+ [Secret
+location] 
+ JONAS:
+Seska will want to know about this Cardassian missile immediately. 
+LORRUM [on monitor]: Mister Jonas, your enthusiasm is appreciated, but
+I would prefer to know more about it before I bring it to Maje Culluh's
+attention. 
+JONAS: If I could just talk to Seska. 
+LORRUM [on monitor]: As I explained, I have now been assigned to be
+your control. 
+JONAS: Look, has she been made aware how much I've been helping you? 
+LORRUM [on monitor]: What the Maje chooses to share with her is none of
+my concern, but you are in good hands, my friend. Now tell me more
+about this weapon your ship has found. 
+JONAS: Look, all you need to tell Seska is that this missile is better
+armed than the entire Kazon-Nistrim sect. 
+(Jonas' computer starts beeping.) 
+LORRUM [on monitor]: That's very interesting. What more can you tell me
+that I can bring to my 
+JONAS: Someone's about to make a subspace transmission. They may be
+able to detect our comm. link. I have to terminate. 
+ [Bridge]
+
+JANEWAY: My name is Kathryn Janeway, Captain of the Federation Starship
+Voyager. 
+KELLAN [on viewscreen]: First Minister Kellan, Captain. What is it you
+want. 
+JANEWAY: Our scans of your world suggest you have long range tracking
+abilities. 
+KELLAN [on viewscreen]: We have been observing your course for the last
+two days. 
+JANEWAY: Have you also been able to detect the missile on a parallel
+course off our starboard bow? 
+KELLAN [on viewscreen]: We haven't been able to identify what it is,
+but yes. 
+JANEWAY: You have the right to know, First Minister, that this missile
+is carrying a warhead with a significant destructive force that 
+KELLAN [on viewscreen]: Is this some sort of threat, Captain? 
+JANEWAY: On the contrary. We want to help. 
+KELLAN [on viewscreen]: I find that hard to believe. Your reputation
+precedes you, Captain. We've been told that you've threatened many
+races since your arrival in this quadrant. 
+JANEWAY: First Minister, we're aware the Kazon have been telling that
+to people. They'd like to prevent us from making allies. But I assure
+you, you've been misled. 
+KELLAN [on viewscreen]: And yet here you are, sending this missile
+towards us. 
+JANEWAY: The missile arrived here from our quadrant due to a very
+unusual accident. We haven't been able to determine yet why it chose
+Rakosa as it's target, but my Chief Engineer is preparing to disarm it
+before it reaches you. 
+KELLAN [on viewscreen]: Perhaps you are telling me this in order to
+delay our defensive response. 
+JANEWAY: I could have maintained communication silence and not given
+you any warning at all. 
+KELLAN [on viewscreen]: That's true. Nevertheless, be aware that I am
+placing our defence force on alert. 
+JANEWAY: I'd do the same in your place. 
+KELLAN [on viewscreen]: We will be watching your progress closely. 
+(Transmission ends.) 
+JANEWAY: Janeway to Torres, how soon will you be ready 
+ [Transporter
+room] 
+ JANEWAY
+[OC]: To transport? 
+TORRES: Dreadnought's shields have responded to my codes. I'm ready
+now, Captain. 
+JANEWAY [OC]: Proceed. 
+TORRES: Energise. 
+ 
+[Dreadnought] 
+ (Torres
+beams in with her tool box. The computer speaks in her own voice.) 
+DREADNOUGHT: Authorised entry detected. Initiating DNA scan. B'Elanna
+Torres confirmed. Hello, B'Elanna. Your last systems access was on
+stardate 47582. Current date is 49447. Time zero eight forty hours. Did
+you sleep well last night? 
+TORRES: Not so well, to tell you the truth. Activate programmer
+interface. 
+DREADNOUGHT: Your presence was not anticipated during the mission.
+Please explain. 
+TORRES: Something's gone wrong with your programming, Dreadnought.
+Display targeting schematic. 
+DREADNOUGHT: A self-diagnostic has been conducted every fourteen hours.
+No malfunctions have been detected. 
+TORRES: Maybe there's something wrong with your diagnostic systems too.
+Identify target. 
+DREADNOUGHT: Aschelan Five. 
+TORRES: What targeting parameters are you using? 
+DREADNOUGHT: Size. Radiothermic signature. Atmospheric composition.
+Relative 
+TORRES: Enough. Dreadnought, you're no where near Aschelan Five. 
+DREADNOUGHT: Based on available data, you are mistaken, B'Elanna. 
+TORRES: Let me check out your navigational systems. 
+DREADNOUGHT: Access to primary navigational systems is denied at stage
+three alert status. 
+TORRES: That was my idea, wasn't it. 
+DREADNOUGHT: Affirmative. 
+TORRES: Okay, We'll have to go at this in a different way then, won't
+we. Dreadnought, do you know what happened to you the day after my last
+systems access? 
+DREADNOUGHT: Please be more specific. 
+(Torres takes a tool from her box and starts scanning Dreadnought's
+isolinear chips.) 
+TORRES: Did you encounter a coherent tetryon beam? 
+DREADNOUGHT: Confirmed. All attempts to avoid the phenomenon failed. 
+TORRES: That beam carried you into the Delta quadrant. I'm not
+surprised it damaged your sensors. Dreadnought, reinitialise your
+navigational systems. Computer.
+DREADNOUGHT: Reinitialisation sequence is complete. 
+TORRES: Okay. Now verify our current position. 
+DREADNOUGHT: Based on relative position to known astronomical markers,
+this vessel is currently located in the Delta quadrant. 
+TORRES: And is Aschelan Five located in the Delta quadrant? 
+DREADNOUGHT: Negative. 
+TORRES: Then reconfirm your target lock. 
+DREADNOUGHT: Unable to verify. Standing down from stage three. Target
+lock has been deactivated. Reestablishing stage four. 
+JANEWAY [OC]: Janeway to Torres. 
+TORRES: Go ahead Captain. 
+ [Bridge]
+
+JANEWAY: We're showing a shut down of all your engines. Can you confirm
+that? 
+TORRES [OC]: That 
+ [Dreadnought]
+ TORRES:
+And more. I'll be ready to transport back in a few minutes. 
+JANEWAY [OC]: Acknowledged. Good work, B'Elanna. Janeway out. 
+TORRES: Dreadnought, return to stage five. Initiate power save
+programme. 
+DREADNOUGHT: Acknowledged. Goodnight, B'Elanna. 
+TORRES: Sweet dreams. 
+ [Ready
+Room] 
+CHAKOTAY: The Dreadnought's quantum torpedoes could be modified to be
+compatible with our launchers. 
+JANEWAY: What about it's engine components? 
+TORRES: Easily converted to Starfleet specs. We'll have spare parts for
+years. 
+CHAKOTAY: We should also download some files from the computer core. 
+JANEWAY: B'Elanna, you can begin the salvage operation first thing in
+the 
+PARIS [OC]: Paris to Janeway. 
+JANEWAY: Yes, Lieutenant. 
+PARIS [OC]: The missile just took off. It's going into warp. 
+JANEWAY: Stay with it, Tom. 
+ [Bridge]
+ PARIS:
+Engaging warp drive. 
+TORRES: This isn't possible. When I left it was completely shut down. 
+CHAKOTAY: We're back on a heading to Rakosa Five. 
+PARIS: It's increasing speed to warp nine. 
+CHAKOTAY: At this rate it'll reach the planet in fifty one hours. 
+(Later.) 
+PARIS: It's still on course for the planet at warp nine. 
+JANEWAY: Mister Paris, bring us within ten kilometres. Maintain a
+parallel position. Bridge to Torres. Your status? 
+TORRES [OC]: I don't understand it, Captain. 
+ [Transporter
+room] 
+ TORRES:
+Dreadnought's shields are not recognising my security code any more. We
+can't initiate transport. 
+JANEWAY [OC]: You'd better get back up here, Lieutenant. 
+TORRES: Aye, Captain. 
+ [Bridge]
+
+JANEWAY: Mister Tuvok, let's take a shot at disabling its drive
+systems. Ready photons. Red alert. 
+CHAKOTAY: Torres programmed the missile's shields to adjust to all
+known weapons, even Starfleet's. 
+JANEWAY: Voyager wasn't in service when she did it. We're equipped with
+type six photon torpedoes. They may just get through. Fire. 
+(Two torpedoes light up Dreadnought's shields.) 
+TUVOK: No discernable damage, Captain. 
+CHAKOTAY: It must have scanned our weapons, adapted its shields. 
+PARIS: Captain, it's maintaining course and speed. 
+KIM: We're being hailed by the missile. 
+JANEWAY: Let's hear it. 
+DREADNOUGHT [OC]: Unidentified Federation ship. Although this vessel is
+Cardassian it has been appropriated by the Maquis. Please stand down
+your weapons. 
+JANEWAY: You stand down your weapons and I'll stand down mine. 
+DREADNOUGHT [OC]: You are interfering with a tactical mission against
+Cardassian aggressors. This vessel is programmed to respond with all
+necessary force to prevent any disruption to its mission. 
+TORRES: Dreadnought, why have you resumed course? 
+DREADNOUGHT [OC]: Hello B'Elanna. Course was resumed once your safe
+departure from this vessel was confirmed. It was a necessary response
+to your deception. 
+TORRES: My deception? 
+DREADNOUGHT [OC]: You are participating in the Delta quadrant
+deception. 
+JANEWAY: Explain, Dreadnought. 
+DREADNOUGHT [OC]: False information has been entered into Dreadnought's
+navigational sensor array. 
+PARIS: When a bomb starts talking about itself in the third person, I
+get worried. 
+TORRES: Why would I enter false information? 
+DREADNOUGHT [OC]: Probability assessment indicates you are being
+coerced by Cardassian forces. 
+JANEWAY: You've already identified Voyager as a Federation ship,
+Dreadnought. Your scanners must indicate this is not a Cardassian crew.
+DREADNOUGHT [OC]: Probability assessment indicates you are operating
+within the parameters of the Cardassian Federation Alliance, as
+described in the treaty of 2367. A treaty rejected by the Maquis. 
+TORRES: So when I was just over there and you shut yourself off, you
+were lying to me? 
+DREADNOUGHT [OC]: Acknowledged. 
+TORRES: I never taught it to do that. 
+DREADNOUGHT [OC]: That is not correct, B'Elanna. Your tactical
+subroutine instructed Dreadnought to prepare responses for thirty nine
+potential Cardassian threats. The possibility of your capture and
+coercion was number seven. 
+JANEWAY: Dreadnought, is there anyway we can prove to you you are
+actually in the Delta quadrant. That this is not a deception. 
+DREADNOUGHT [OC]: The probability of being in the Delta quadrant,
+seventy five thousand light years from last confirmed location, is
+negligible. The target is located in the Alpha quadrant. Target lock
+has been established. There will be no further warnings. Terminating
+communications link. 
+TORRES: The one possible vulnerability I remember is in the thoron
+shock emitter. If we can get it to fire at full power, that should
+destabilise the reactor core for thirty seconds. A single sustained
+tachyon beam might just penetrate that core and destroy it. 
+JANEWAY: What will it take to provoke Dreadnought into firing? 
+TORRES: It shouldn't be that difficult. Once we go after it with an
+all-out assault, the emitter should fire. 
+JANEWAY: Mister Tuvok, set your target. Ready photons. 
+TUVOK: Ready Captain. 
+JANEWAY: Fire. 
+(Four photon torpedoes are used.) 
+TUVOK: The missile's thoron shock emitter has fired. 
+(Boom.) 
+JANEWAY: Initiate the tachyon beam. 
+TUVOK: We have penetrated its shields. Direct hit to the core. 
+KIM: Reading an energy build up in it's reactor. It should overload in
+about thirty seconds. Wait a minute. There's a plasma surge coming from
+it's core. What the hell? 
+(Whumph!) 
+JANEWAY: Report! 
+KIM: It sent a plasma burst along the tachyon beam into our main power
+system. We've got EPS relays burnt out all over the ship. 
+PARIS: I'm not getting any response from the warp or impulse drives.
+Even the manoeuvring thrusters are out. 
+TUVOK: The missile was not significantly damaged. It has maintained its
+course for Rakosa. 
+ [Ready
+room] 
+JANEWAY: Our engines will be back online in less than an hour, First
+Minister, then we'll try again. 
+KELLAN [on monitor]: Did you sustain any casualties, Captain? 
+JANEWAY: A few. A broken arm, a broken leg, fortunately that's all. 
+KELLAN [on monitor]: I'm pleased to hear that. We are projecting
+casualties at two million, if the worst occurs. I have deployed our
+fleet to intercept this missile in a matter of hours. 
+JANEWAY: First Minister, we've analysed your offensive capabilities,
+and they're no match for what you're facing. You must have realised
+that yourself. 
+KELLAN [on monitor]: And what would you have me do? Sit here and wait
+for death to fall from the sky? I'm sorry. We haven't had much sleep.
+We weren't prepared for anything like this. We are not a war-like race.
+We haven't devoted our resources to building weapons like yours. 
+JANEWAY: First Minister 
+KELLAN [on monitor]: Please, I've always hated that title. My name is
+Kellan. I prefer that. 
+JANEWAY: Our Chief Engineer is trying to return to the missile's
+control room. She's still our best chance at disarming it. There's no
+reason to send your fleet on a hopeless mission. 
+KELLAN [on monitor]: I appreciate your efforts, truly, but the decision
+has been made. We have some good pilots, Captain. Perhaps they will
+surprise you. 
+ [Transporter
+room] 
+ KIM:
+Blocked again. 
+TORRES: We don't have time for this. 
+KIM: Don't worry, we'll find a way to get you back over there. 
+TORRES: We wouldn't have to if I'd done my job right the first time. 
+KIM: You couldn't expect to guess every move it made. 
+TORRES: Why not? Dreadnought seems pretty good at guessing mine. 
+KIM: It's only as smart as you made it. 
+TORRES: I'm not so sure about that, Harry. It's programmes are adaptive
+and it's been accumulating data all this time. It spends every minute
+of every day thinking about new strategies, new probabilities. 
+KIM: And I bet it doesn't spend much time worrying about what it could
+have done differently. 
+TORRES: All right, Starfleet, let's give it another try. 
+(After an initial stutter, Torres is beamed away.) 
+ [Dreadnought]
+
+DREADNOUGHT: Unauthorised entry detected. Initiating DNA scan. Hello
+B'Elanna. Your last systems access was today at zero eight forty hours.
+Current time is nineteen thirty one hours. Have you had a pleasant day?
+TORRES: Oh, yeah. Swell day. 
+DREADNOUGHT: Access to programmer interface has been denied. 
+(Torres tries another panel.) 
+DREADNOUGHT: Access to programmer interface has been denied. 
+(Torres crosses the area and opens a panel. She gets an electric shock
+through the tool she is using. She throws it away and gets out a
+tricorder.) 
+DREADNOUGHT: Access to circuit pathways has been denied. Be advised
+that the intensity of the shock will increase if you attempt to open
+the panel again. 
+(Torres goes to another panel.) 
+TORRES: I'm disappointed in you, Dreadnought. If I really was a
+Cardassian agent, you should have killed me with the first charge. 
+DREADNOUGHT: Probability assessment indicates that you are being
+coerced by Cardassian forces. 
+(Torres manages to remove a rod without being shocked.) 
+TORRES: Somehow I expected you to put up more of a fight. Computer? 
+DREADNOUGHT: Stage two alert has been activated. 
+TORRES: Tell me what's happening. 
+DREADNOUGHT: There are fifteen priority targets approaching. All weapon
+systems at full readiness. Speed, full impulse. 
+TORRES: The Rakosan fleet. 
+ [Bridge]
+
+JANEWAY: Hail the lead ship. 
+KIM: Channel open, Captain. Audio only. 
+JANEWAY: This is Captain Janeway on Voyager. I urge you to break off
+your attack. One of my crew members is aboard the missile. 
+RAKOSAN [OC]: You'd better get your crewman out, Captain. We estimate
+time to intercept, ninety seconds. 
+JANEWAY: We're still attempting to disarm its weapons. 
+RAKOSAN [OC]: My orders are clear. You'll have to talk to my superiors
+back home. Rakosa One, out. 
+JANEWAY: Janeway to Torres. 
+TORRES [OC]: Yes Captain. 
+JANEWAY: The Rakosan fleet is preparing to attack. 
+TORRES [OC]: Captain, don't beam me out. I may not be able to transport
+back here again. 
+JANEWAY: Lieutenant. 
+TORRES [OC]: I'm making progress. 
+ [Dreadnought]
+ TORRES:
+The Rakosan ships have created a diversion. I've already used it to
+disarm the security codes on board. Now, if I can just get to the
+central processor, I can disable the entire system. 
+ [Bridge]
+
+JANEWAY: All right. We'll try to keep a transporter lock on you.
+Janeway out. 
+TUVOK: The Rakosan attack is commencing, Captain. 
+JANEWAY: Move us into weapons range, Mister Paris. 
+PARIS: Aye, Captain. 
+JANEWAY: Give them some cover fire. Red alert. 
+TUVOK: Firing phasers. 
+ [Dreadnought]
+
+DREADNOUGHT: All command functions have been rerouted through protected
+back-up circuits, B'Elanna. Your attempt to compromise control has been
+blocked. 
+TORRES: Those ships aren't your enemy. They are not Cardassian. Can't
+you recognise that? 
+DREADNOUGHT: This vessel is programmed to respond with all necessary
+force to prevent any disruption to it's mission. 
+ [Bridge]
+
+(Dreadnought wipes out Rakosan ships easily.) 
+KIM: Shields are holding. 
+TUVOK: We are drawing minimal fire from the missile. It's primary
+weapons systems are focused on the Rakosan vessel. 
+PARIS: Another group of fighters are starting an attack run. 
+JANEWAY: We've got to draw more of the missile's fire. Make Voyager a
+more serious threat, Tuvok. 
+(Phasers and torpedoes are fired. Boom!) 
+TUVOK: Shields at forty percent. 
+KIM: Damage reported on decks three and four. Repair crews responding. 
+PARIS: The Rakosan vessels are withdrawing, Captain. 
+JANEWAY: Good. Move us out of range of the plasma wave. Janeway to
+Torres. 
+TORRES [OC]: Yes, Captain. 
+JANEWAY: The Rakosan ships have retreated. We have one hour and nine
+minutes 
+ [Dreadnought]
+ JANEWAY
+[OC]: Until the missile reaches the planet. Any progress? 
+TORRES: Dreadnought's created back-up systems to replace the ones I
+tried to disable. 
+JANEWAY [OC]: Do you have any other ideas? 
+TORRES: I'm reluctant to discuss them in present company, but could you
+send over a. Captain? 
+DREADNOUGHT: Communications have been terminated. Transporter lock has
+also been disengaged. 
+TORRES: What took you so long? 
+DREADNOUGHT: There was a tactical advantage in monitoring your ship's
+communications until this time. 
+TORRES: So, it's just you and me now. 
+DREADNOUGHT: You are accessing the detonation control circuit.
+Probability assessment indicates you are attempting to detonate the
+explosive before it reaches its target. 
+TORRES: Now, that wouldn't make much sense, would it? I'd be killing
+myself in the process. 
+DREADNOUGHT: Probability assessment indicates you are attempting to
+detonate the explosive before it reaches its target. 
+TORRES: If I'm being coerced by Cardassians, why would I be willing to
+sacrifice myself for them? Answer that one. 
+DREADNOUGHT: Unable to respond. Reassessing probabilities. 
+TORRES: Ah, ha. Gotcha. Why don't we reassess those probabilities
+together, okay? Remember how we used to play hypothetical games? 
+DREADNOUGHT: Affirmative. 
+TORRES: Let's play one now. Here's a hypothetical situation for you.
+Suppose I've been telling you the truth all along, and you really are
+in the Delta quadrant. 
+DREADNOUGHT: Probability of being in the Delta quadrant, seventy five
+thousand light years from last confirmed location, is negligible. 
+TORRES: Hypothetical, Dreadnought. It's a game, remember? Assume it's
+true for a moment. 
+DREADNOUGHT: Assumption entered. 
+TORRES: And we're heading for the wrong target. 
+DREADNOUGHT: Assumption entered. 
+TORRES: Millions of innocent people about to die when you detonate. 
+DREADNOUGHT: Assumption entered. 
+TORRES: Now, explain to me how this might happen. 
+DREADNOUGHT: If key sensor programmes were damaged or deleted,
+databanks would be compromised. 
+TORRES: Just for the fun of it, let's have a look at those databanks.
+See if anything looks at all compromised. 
+(A display comes up on a wall monitor.) 
+TORRES: Is this a complete file directory? There seem to be a few
+missing. 
+DREADNOUGHT: Files containing information about the weapons or tactical
+systems are not necessary to verify sensor accuracy. 
+TORRES: Oh, I'm hurt you don't trust me. Hold on, pause the display.
+What's that? Computer, identify the Cardassian file on screen. 
+DREADNOUGHT: Unable to identify. 
+TORRES: Looks like a back-up file. Computer, when was this file
+created? 
+DREADNOUGHT: Stardate 46437.5 
+TORRES: I believe that was before you and I ever met. 
+DREADNOUGHT: Hypothetical game terminated. Probability reassessment
+complete. 
+TORRES: A new conclusion? 
+DREADNOUGHT: Affirmative. Probability of being in the Delta quadrant
+remains negligible. When that option is rejected, new probability
+assessment indicates that you have changed loyalties, B'Elanna. You are
+now cooperating with the Cardassian Federation Alliance as described in
+the treaty of 2367, a treaty which has been rejected by the Maquis. 
+TORRES: Dreadnought. 
+DREADNOUGHT: Humanoid life support aboard this vessel has been
+terminated. Approaching target at full impulse. Stage one alert has
+been activated. Initiating final detonation sequence. 
+ [Ready
+room] 
+ KELLAN
+[on monitor]: People are crowding every port trying to get off the
+eastern continent. There aren't enough ships. 
+JANEWAY: Kellan, there are still forty one minutes for us to prevent
+this. 
+KELLAN [on monitor]: What can be done in forty one minutes? 
+JANEWAY: I'm prepared to use this ship to detonate the warhead before
+the missile reaches you. 
+KELLAN [on monitor]: Use your ship? To collide with it? 
+JANEWAY: Something like that. 
+KELLAN [on monitor]: Do you really think that would work? 
+JANEWAY: I'm not sure. 
+KELLAN [on monitor]: You would sacrifice yourselves to benefit a people
+you didn't even know two days ago? 
+JANEWAY: To save two million lives? That's not a hard decision. 
+KELLAN [on monitor]: Your reputation in this quadrant isn't deserved,
+Captain. For what it's worth, you've made a friend here. 
+JANEWAY: I'm still hoping we'll have a chance to celebrate this new
+friendship together. 
+ [Dreadnought]
+
+DREADNOUGHT: All key systems have been secured. You will not gain
+access. 
+TORRES: I'm not interested in your key systems anymore, Dreadnought. 
+DREADNOUGHT: That is an unlikely assertion, B'Elanna. 
+TORRES: Seriously. Check for yourself. 
+DREADNOUGHT: You are attempting to access the obsolete Cardassian file.
+Why? 
+TORRES: Oh, just killing time. 
+DREADNOUGHT: Life support has been terminated. It is advisable for you
+to return to your ship. 
+ [Bridge]
+
+JANEWAY: Gentlemen, I believe our best chance at stopping Dreadnought
+now is to set off a large antimatter explosion directly in it's path. 
+CHAKOTAY: To work, it would take more energy than all of our photons
+put together. 
+TUVOK: Or more to the point, it would take a warp core breach. 
+JANEWAY: You'll be in charge of the evacuation, Commander. 
+CHAKOTAY: I'm not leaving you on the ship. 
+JANEWAY: Captain's prerogative. Get the rest of the crew to the escape
+pods. I'll send the senior officers to join you in a few minutes. We
+don't have time to debate this, Chakotay. 
+CHAKOTAY: Everyone except senior officers, with me. 
+(Chakotay leaves.) 
+JANEWAY: Computer, initiate the self-destruct sequence. Authorisation
+Janeway pi one one zero. Set it at twenty minutes. 
+COMPUTER: Warning, self-destruct sequence has been initiated. Warp core
+overload in twenty minutes. 
+ [Dreadnought]
+ (Torres
+gets the back-up file running. She is also gasping for oxygen.) 
+COMPUTER: Cardassian ATR4107 attempting to activate systems. 
+TORRES: I never thought I'd be glad to hear that voice again. 
+DREADNOUGHT: Voice analyser functioning. Unable to identify. 
+COMPUTER: Attempting to activate systems. 
+DREADNOUGHT: No additional presence detected. 
+TORRES: Check those diagnostics, Dreadnought. You're talking to
+yourself. I believe you're having an identity crisis. 
+COMPUTER: Accessing central processor memory. 
+DREADNOUGHT: Engaging counter-virus response programme. 
+COMPUTER: Attempting to over-ride programme. 
+TORRES: Computer, identify the target. 
+COMPUTER: The Maquis munitions base on Planetoid Alpha four four one
+DREADNOUGHT: The Cardassian depot on Aschelan Five. 
+COMPUTER: Malfunction detected in the targeting system. Attempting to
+correct. 
+DREADNOUGHT: Negative. Target lock has been confirmed. The Maquis are
+now in control of this weapon. The original targeting parameters have
+been replaced with those of this target. The countdown for the
+detonation sequence will continue. Aschelan Five will be destroyed.
+Access to the navigational system is denied. All critical pathways have
+been re-routed through protected backup systems. Security lockout in
+function. All overrides will be blocked. Counter virus response. All
+systems. Attempting. 
+COMPUTER: (at same time) This target does not conform to established
+targeting parameters. The detonation sequence cannot proceed without
+proper target identification. Ejecting antimatter pod. Emergency
+ejection system has failed. Attempting to re-initialise all key
+systems. Accessing backup systems. Unable to access. Enable backup
+overrides. Command pathways. The central processor has been routed.
+Attempting. 
+(They descend into gibberish as Torres works on a control panel. A
+hatch opens.);
+TORRES: Yes. 
+(Torres crawls into the small space.) 
+ [Bridge]
+
+COMPUTER: Warning. Self destruct sequence has been initiated. Warp core
+overload in eleven minutes. 
+KIM: Captain, I've broken through the interference. I'm not sure how.
+We have communications. Checking on transporter signal. I have a lock
+on her. 
+JANEWAY: Voyager to Torres. 
+TORRES [OC]: Yes, Captain. 
+JANEWAY: I need to get you out of there. We're abandoning Voyager. I'm
+going to overload the 
+ [Dreadnought
+core] 
+ JANEWAY
+[OC]: warp core in the missile's flight path. 
+TORRES: I may be able to detonate the warhead from here 
+ [Bridge]
+ TORRES
+[OC]: By breaching the containment field. 
+JANEWAY: Can you get access to the core? 
+TORRES [OC]: I'm already in it. I'm using 
+ [Dreadnought
+core] 
+ TORRES:
+My phaser to burn through the magnetic constrictor casing now. 
+ [Bridge]
+
+JANEWAY: Are you all right, B'Elanna? 
+TORRES [OC]: Fine. 
+ [Dreadnought]
+ TORRES:
+The air's just a little thin in here. 
+JANEWAY [OC]: Keep me advised. 
+ [Bridge]
+
+JANEWAY: Janeway out. Mister Kim, transfer control to the conn. and
+report to your escape pod. 
+KIM: Captain. 
+JANEWAY: That's a direct order to all of you. Mister Paris, I'm
+relieving you. Now! 
+PARIS: The starboard thrusters are a little sluggish. Ease into them. 
+JANEWAY: Understood. 
+PARIS: Captain, thanks for everything. 
+COMPUTER: Warning. Self-destruct sequence has been initiated. Warp core
+overload in seven minutes. 
+JANEWAY: You too, Tuvok. 
+TUVOK: It is logical to have a second in command in case you are
+injured and unable to complete the mission, Captain. I request
+permission to remain. 
+JANEWAY: Permission granted. 
+ [Dreadnought
+core] 
+DREADNOUGHT: Hello, B'Elanna. The Cardassian virus has been
+neutralised. 
+TORRES: Good for you. 
+DREADNOUGHT: Containment field integrity at forty percent and falling. 
+TORRES: Estimated time to breach. 
+DREADNOUGHT: This vessel is programmed to respond with all necessary
+force to prevent any disruption to its mission. 
+TORRES: Unless I'm mistaken, you're out of options, Dreadnought. 
+DREADNOUGHT: Analysis of your vital signs suggests you are about to
+lose consciousness, B'Elanna. 
+TORRES: I'm not going anywhere until I'm finished. 
+DREADNOUGHT: When you cease your efforts to breach the containment
+field, life support will be restored. 
+TORRES: No deal. 
+ [Bridge]
+
+COMPUTER: Warning. Self destruct sequence has been initiated. Warp core
+overload in three minutes. 
+JANEWAY: Increasing velocity. Preparing to adjust our heading to
+intercept. 
+ [Dreadnought
+core] 
+ JANEWAY
+[OC]: Janeway to Torres. 
+TORRES: Yes. 
+JANEWAY [OC]: This is your last chance 
+ [Bridge]
+
+JANEWAY: This is your last chance to get back here, B'Elanna. I have to
+launch the last escape pods. 
+ [Dreadnought
+core] 
+ TORRES:
+I understand, Captain. I'm almost finished. Let me stay. 
+ [Bridge]
+
+COMPUTER: Warning. Self destruct sequence has been initiated. Warp core
+overload in two minutes. 
+ [Dreadnought
+core] 
+DREADNOUGHT: Containment field at twenty percent and falling. Perhaps
+your Delta quadrant hypothesis deserves further consideration. 
+TORRES: Nice try. Who would have thought two years ago, after all those
+weeks we spent together perfecting your programme, that we'd end up out
+here trying to kill each other. 
+DREADNOUGHT: Probability assessment did not anticipate this outcome. 
+ [Bridge]
+ TUVOK:
+The missile's containment field is collapsing. 
+JANEWAY: Beam her back, now. Hang on! 
+(Janeway makes a sharp left turn as Dreadnought goes KaBOOM!) 
+COMPUTER: Warning. Self destruct sequence has been initiated. Warp core
+overload in one minute. 
+JANEWAY: Computer, terminate self destruct sequence. Authorisation
+Janeway pi one one zero. 
+COMPUTER: Confirmed. Sequence terminated. 
+JANEWAY: Janeway to Torres. B'Elanna, are you 
+EMH [OC]: She's here in Sickbay, Captain. Please turn to your Emergency
+Medical Holographic channel. 
+JANEWAY: Doctor, I forgot about you. 
+EMH [on monitor]: How flattering. I wanted to advise you that I took
+the liberty of beaming Lieutenant Torres 
+ [Sickbay]
+ EMH:
+From the Transporter room to Sickbay. She is somewhat singed around the
+edges but should make a complete recovery. 
+ [Bridge]
+
+JANEWAY: Very good, Doctor. Janeway out. Mister Tuvok, prepare to
+retrieve our escape pods. Let's bring our crew home. 
+TUVOK: Aye, Captain.  
+
+
