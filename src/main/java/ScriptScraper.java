@@ -2,6 +2,11 @@ import java.io.*;
 import java.net.URL;
 
 class ScriptScraper {
+	/**
+	 * Downloads all episodes of a given series
+	 *
+	 * @param series Series
+	 */
 	public static void downloadEpisodes(Series series) {
 		int firstEpisodeNumber = 1;
 
@@ -70,6 +75,13 @@ class ScriptScraper {
 		System.out.println("Downloading episode number " + episode + " from series " + series);
 	}
 
+	/**
+	 * Scrape the given episode using the provided information
+	 *
+	 * @param episodeURL String
+	 * @param episodeNum int
+	 * @param series     Series
+	 */
 	private static void scrapeLink(String episodeURL, int episodeNum, Series series) {
 		String episodeText = "Episode Number: " + episodeNum + "\n";
 		URL url;
@@ -104,17 +116,24 @@ class ScriptScraper {
 		saveEpisode(episodeText, episodeNum, series);
 	}
 
-	private static void saveEpisode(String s, int n, Series series) {
+	/**
+	 * Saves the input string to epNum.txt in the given series folder
+	 *
+	 * @param text   String
+	 * @param epNum  int
+	 * @param series Series
+	 */
+	private static void saveEpisode(String text, int epNum, Series series) {
 		PrintWriter txtFile;
 		String seriesString = series.toString();
 		File dir = new File("./scripts/" + seriesString);
 		dir.mkdir();
 		try {
-			new FileReader("./scripts/" + seriesString + "/Episode " + n + ".txt");
+			new FileReader("./scripts/" + seriesString + "/Episode " + epNum + ".txt");
 		} catch (FileNotFoundException e) {
 			try {
-				txtFile = new PrintWriter(new FileWriter("./scripts/" + seriesString + "/Episode " + n + ".txt", true));
-				txtFile.println(s);
+				txtFile = new PrintWriter(new FileWriter("./scripts/" + seriesString + "/Episode " + epNum + ".txt", true));
+				txtFile.println(text);
 				txtFile.close();
 			} catch (IOException ex) {
 				System.out.println("Something prevented the program from creating the output file");
