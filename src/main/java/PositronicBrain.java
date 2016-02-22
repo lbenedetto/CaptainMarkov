@@ -10,11 +10,11 @@ public class PositronicBrain {
 		initializeVoyagerGaps();
 		HashMap<String, HashMap<String, MarkovChain>> chains = new HashMap<>();
 		chains.put("TOS", createMarkovChainsForSeries(Series.TOS, new String[]{"Kirk", "Spock", "McCoy", "Uhura", "Chekov", "Sulu", "Computer"}));
-		createMarkovChainsForSeries(Series.TNG, new String[]{"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"});
-		createMarkovChainsForSeries(Series.DS9, new String[]{"Sisko", "O'Brien", "Bashir", "Worf", "Odo", "Kira", "Dax", "Ezri", "Quark", "Dukat", "Garak", "Weyoun", "Founder", "Nog", "Rom", "Computer"});
-		createMarkovChainsForSeries(Series.VOY, new String[]{"Janeway", "Paris", "Chakotay", "Torres", "Neelix", "EMH", "Tuvok", "Computer"});
+		chains.put("TNG", createMarkovChainsForSeries(Series.TNG, new String[]{"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"}));
+		chains.put("DS9", createMarkovChainsForSeries(Series.DS9, new String[]{"Sisko", "O'Brien", "Bashir", "Worf", "Odo", "Kira", "Dax", "Ezri", "Quark", "Dukat", "Garak", "Weyoun", "Founder", "Nog", "Rom", "Computer"}));
+		chains.put("VOY", createMarkovChainsForSeries(Series.VOY, new String[]{"Janeway", "Paris", "Chakotay", "Torres", "Neelix", "EMH", "Tuvok", "Computer"}));
 		//For some reason the script refers to him as both Jonathan and Archer
-		createMarkovChainsForSeries(Series.ENT, new String[]{"Jonathan", "Archer", "Reed", "Tucker", "Travis", "Hoshi", "T'Pol", "Phlox", "Computer"});
+		chains.put("ENT", createMarkovChainsForSeries(Series.ENT, new String[]{"Jonathan", "Archer", "Reed", "Tucker", "Travis", "Hoshi", "T'Pol", "Phlox", "Computer"}));
 		return chains;
 	}
 
@@ -23,8 +23,8 @@ public class PositronicBrain {
 		//this phrased was used more on DS9 than captain's log since Sisko was a commander at first
 		String logPhrase = series == Series.DS9 ? "Station log" : "Captain's log";
 		HashMap<String, MarkovChain> chains = new HashMap<>();
-		chains.put("Logs", new MarkovChain(new KeyWord(logPhrase, false, series)));
-		chains.put("Commands", new MarkovChain(new KeyWord("Computer, ", true, series)));
+		chains.put("Log", new MarkovChain(new KeyWord(logPhrase, false, series)));
+		chains.put("Command", new MarkovChain(new KeyWord("Computer, ", true, series)));
 		//Fill the Characters array
 		for (String characterName : characterNames)
 			chains.put(characterName, new MarkovChain(new Character(characterName, series)));
