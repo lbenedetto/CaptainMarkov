@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Menu {
+	//TODO: Convert to GUI (long term goal)
 	public static void main(String[] args) {
 		HashMap<String, HashMap<String, MarkovChain>> chains = PositronicBrain.createMarkovChains();
 		HashMap<String, MarkovChain> seriesChain;
@@ -30,6 +31,11 @@ public class Menu {
 		}
 	}
 
+	/**
+	 * Read a string from the user
+	 *
+	 * @return String
+	 */
 	private static String readString() {
 		Scanner kb = new Scanner(System.in);
 		while (!kb.hasNextLine()) {
@@ -38,6 +44,11 @@ public class Menu {
 		return kb.nextLine();
 	}
 
+	/**
+	 * Read a positive int from the user
+	 *
+	 * @return int
+	 */
 	private static int readInt() {
 		Scanner kb = new Scanner(System.in);
 		int out = 0;

@@ -10,9 +10,13 @@ abstract class LineGetter {
 	private String nextLine;
 	final Series series;
 
+	/**
+	 * Constructor for LineGetter
+	 *
+	 * @param _series Series
+	 */
 	LineGetter(Series _series) {
 		series = _series;
-
 		switch (series) {
 			case TNG:
 			case VOY:
@@ -26,10 +30,14 @@ abstract class LineGetter {
 			default:
 				currentEpisodeNum = 0;
 		}
-
 		nextEpisode();
 	}
 
+	/**
+	 * Check if the current episode is the last episode of the series
+	 *
+	 * @return boolean
+	 */
 	boolean hasNextEpisode() {
 		switch (series) {
 			case TOS:
@@ -47,6 +55,9 @@ abstract class LineGetter {
 		}
 	}
 
+	/**
+	 * Move to the next episode
+	 */
 	void nextEpisode() {
 		if (PositronicBrain.episodeNumIsSkipped(currentEpisodeNum + 1, series))
 			currentEpisodeNum++;
@@ -65,6 +76,9 @@ abstract class LineGetter {
 		}
 	}
 
+	/**
+	 * Move to the next line
+	 */
 	void nextLine() {
 		try {
 			nextLine = lines.readLine();
@@ -76,12 +90,22 @@ abstract class LineGetter {
 
 	}
 
+	/**
+	 * Get the next line
+	 *
+	 * @return String
+	 */
 	public String getNextLine() {
 		String out = nextLine;
 		nextLine();
 		return out;
 	}
 
+	/**
+	 * Check if this has a next line
+	 *
+	 * @return boolean
+	 */
 	public boolean hasNextLine() {
 		return nextLine != null;
 	}

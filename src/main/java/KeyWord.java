@@ -4,10 +4,17 @@ class KeyWord extends LineGetter {
 	private final String keyPhrase;
 	private final boolean cutToPhrase;
 
-	public KeyWord(String phrase, boolean c, Series _series) {
+	/**
+	 * Constructor for KeyWord
+	 *
+	 * @param phrase      String
+	 * @param cutToPhrase boolean
+	 * @param _series     Series
+	 */
+	public KeyWord(String phrase, boolean cutToPhrase, Series _series) {
 		super(_series);
 		keyPhrase = phrase;
-		cutToPhrase = c;
+		this.cutToPhrase = cutToPhrase;
 		while (lines == null) {
 			try {
 				lines = new BufferedReader(new FileReader("keyWords/" + series.toString() + "/" + keyPhrase + ".txt"));
@@ -19,14 +26,15 @@ class KeyWord extends LineGetter {
 		nextLine();
 	}
 
+	/**
+	 * Save lines matching this keyword
+	 */
 	private void saveLines() {
 		System.out.println("Saving lines with " + keyPhrase);
 		boolean recordingLog = false;
 
 		String seriesString = series.toString();
-		File dir = new File("./keyWords/" + seriesString);
-		dir.mkdir();
-
+		new File("./keyWords/" + seriesString).mkdir();
 		try {
 			String line = "";
 			PrintWriter txtFile = new PrintWriter(new FileWriter("keyWords/" + seriesString + "/" + keyPhrase + ".txt", true));

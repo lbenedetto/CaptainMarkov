@@ -5,6 +5,13 @@ class PositronicBrain {
 	//The script database has a few odd gaps in VOY's numbering, so we'll skip over those
 	private static HashMap<Integer, Integer> voyagerEpisodeGaps;
 
+	/**
+	 * Create a HashMap of series names to their Markov Chains
+	 * HashMap<String, HashMap<String, MarkovChain>>
+	 * HashMap<Series, HashMap<DialogueType, MarkovChain>>
+	 *
+	 * @return HashMap
+	 */
 	public static HashMap<String, HashMap<String, MarkovChain>> createMarkovChains() {
 		initializeSkippedEpisodeNums();
 		initializeVoyagerGaps();
@@ -18,6 +25,15 @@ class PositronicBrain {
 		return chains;
 	}
 
+	/**
+	 * Create a Markov Chain for the specified series
+	 * HashMap will contain Markov Chains for all the characters in the String[]
+	 * as well as a Markov Chain for logs and commands to the computer
+	 *
+	 * @param series         Series
+	 * @param characterNames String[]
+	 * @return HashMap
+	 */
 	private static HashMap<String, MarkovChain> createMarkovChainsForSeries(Series series, String[] characterNames) {
 		System.out.println("Creating markov chains for " + series.toString());
 		//this phrased was used more on DS9 than captain's log since Sisko was a commander at first
@@ -31,6 +47,9 @@ class PositronicBrain {
 		return chains;
 	}
 
+	/**
+	 * Initialize the HashMap of skipped episodes for each series
+	 */
 	private static void initializeSkippedEpisodeNums() {
 		skippedEpisodeNums = new HashMap<>();
 		skippedEpisodeNums.put(Series.TOS, new int[]{});
@@ -40,6 +59,9 @@ class PositronicBrain {
 		skippedEpisodeNums.put(Series.ENT, new int[]{2});
 	}
 
+	/**
+	 * Initialize the gaps in Voyagers production numbers
+	 */
 	private static void initializeVoyagerGaps() {
 		voyagerEpisodeGaps = new HashMap<>();
 		voyagerEpisodeGaps.put(120, 201);
@@ -50,6 +72,13 @@ class PositronicBrain {
 		voyagerEpisodeGaps.put(626, 701);
 	}
 
+	/**
+	 * Check if the given episode num is skipped by the given series
+	 *
+	 * @param _currentEpisodeNum int
+	 * @param _series            Series
+	 * @return boolean
+	 */
 	public static boolean episodeNumIsSkipped(int _currentEpisodeNum, Series _series) {
 		for (int skippedNum : skippedEpisodeNums.get(_series)) {
 			if (skippedNum == _currentEpisodeNum)
@@ -58,10 +87,23 @@ class PositronicBrain {
 		return false;
 	}
 
+	/**
+	 * Check if the current series is Voyager and if the current episode is in a gap
+	 *
+	 * @param _currentEpisodeNum int
+	 * @param _series            Series
+	 * @return boolean
+	 */
 	public static boolean isAtVoyagerGap(int _currentEpisodeNum, Series _series) {
 		return _series == Series.VOY && voyagerEpisodeGaps.containsKey(_currentEpisodeNum + 1);
 	}
 
+	/**
+	 * Get the next episode number for Voyager
+	 *
+	 * @param _currentEpisodeNum int
+	 * @return int
+	 */
 	public static int getNumPastVoyagerGap(int _currentEpisodeNum) {
 		return voyagerEpisodeGaps.get(_currentEpisodeNum + 1);
 	}

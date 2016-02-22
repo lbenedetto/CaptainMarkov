@@ -4,10 +4,16 @@ class Character extends LineGetter {
 	private final String characterExternalName;
 	private final String character;
 
-	public Character(String c, Series _series) {
+	/**
+	 * Constructor for Character
+	 *
+	 * @param cName   String
+	 * @param _series Series
+	 */
+	public Character(String cName, Series _series) {
 		super(_series);
-		characterExternalName = c;
-		character = c.toUpperCase() + ":";
+		characterExternalName = cName;
+		character = cName.toUpperCase() + ":";
 		while (lines == null) {
 			try {
 				lines = new BufferedReader(new FileReader("./characters/" + series.toString() + "/" + characterExternalName + ".txt"));
@@ -19,12 +25,15 @@ class Character extends LineGetter {
 		nextLine();
 	}
 
+	/**
+	 * Save lines spoken by this character to a txt file
+	 */
 	private void saveLines() {
+		//Create the directory
 		String seriesString = series.toString();
-		File dir = new File("./characters/" + seriesString);
-		dir.mkdir();
+		new File("./characters/" + seriesString).mkdir();
 		System.out.println("Saving lines spoken by " + characterExternalName);
-		boolean recordingLog = false;
+		boolean recordingLine = false;
 		try {
 			String line = "";
 			PrintWriter txtFile = new PrintWriter(new FileWriter("./characters/" + seriesString + "/" + characterExternalName + ".txt", true));
@@ -32,23 +41,24 @@ class Character extends LineGetter {
 			while (hasNextEpisode()) {
 				try {
 					if (curr.startsWith(character)) {
-						recordingLog = true;
+						recordingLine = true;
 					}
+					//Remove parentheses and brackets
 					curr = curr.replaceAll("\\(.*?\\)", "");
 					curr = curr.replaceAll("\\[.*?\\]", "");
 					curr = curr.trim();
 					if (curr.equals(character))
-						recordingLog = false;
-					if (recordingLog) {
+						recordingLine = false;
+					if (recordingLine) {
 						if (curr.trim().isEmpty() || (curr.contains(":") && !curr.startsWith(character))) {
 							String out = line.trim() + "#";
 							if (!out.equals("#"))
 								txtFile.println(line.trim() + "#");
 							line = "";
-							recordingLog = false;
+							recordingLine = false;
 						}
 					}
-					if (recordingLog)
+					if (recordingLine)
 						line += curr + " ";
 					curr = currentEpisode.readLine().trim();
 				} catch (NullPointerException e) {
