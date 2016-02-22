@@ -1,9 +1,9 @@
 import java.util.HashMap;
 
-public class PositronicBrain {
-	public static HashMap<Series, int[]> skippedEpisodeNums;
+class PositronicBrain {
+	private static HashMap<Series, int[]> skippedEpisodeNums;
 	//The script database has a few odd gaps in VOY's numbering, so we'll skip over those
-	public static HashMap<Integer, Integer> voyagerEpisodeGaps;
+	private static HashMap<Integer, Integer> voyagerEpisodeGaps;
 
 	public static HashMap<String, HashMap<String, MarkovChain>> createMarkovChains() {
 		initializeSkippedEpisodeNums();
@@ -18,7 +18,7 @@ public class PositronicBrain {
 		return chains;
 	}
 
-	public static HashMap<String, MarkovChain> createMarkovChainsForSeries(Series series, String[] characterNames) {
+	private static HashMap<String, MarkovChain> createMarkovChainsForSeries(Series series, String[] characterNames) {
 		System.out.println("Creating markov chains for " + series.toString());
 		//this phrased was used more on DS9 than captain's log since Sisko was a commander at first
 		String logPhrase = series == Series.DS9 ? "Station log" : "Captain's log";
@@ -31,7 +31,7 @@ public class PositronicBrain {
 		return chains;
 	}
 
-	protected static void initializeSkippedEpisodeNums() {
+	private static void initializeSkippedEpisodeNums() {
 		skippedEpisodeNums = new HashMap<>();
 		skippedEpisodeNums.put(Series.TOS, new int[]{});
 		skippedEpisodeNums.put(Series.TNG, new int[]{102});
@@ -40,7 +40,7 @@ public class PositronicBrain {
 		skippedEpisodeNums.put(Series.ENT, new int[]{2});
 	}
 
-	protected static void initializeVoyagerGaps() {
+	private static void initializeVoyagerGaps() {
 		voyagerEpisodeGaps = new HashMap<>();
 		voyagerEpisodeGaps.put(120, 201);
 		voyagerEpisodeGaps.put(226, 301);

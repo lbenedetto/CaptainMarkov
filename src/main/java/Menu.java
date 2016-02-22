@@ -30,7 +30,7 @@ public class Menu {
 		}
 	}
 
-	public static String readString() {
+	private static String readString() {
 		Scanner kb = new Scanner(System.in);
 		while (!kb.hasNextLine()) {
 			kb.next();
@@ -38,7 +38,7 @@ public class Menu {
 		return kb.nextLine();
 	}
 
-	public static int readInt() {
+	private static int readInt() {
 		Scanner kb = new Scanner(System.in);
 		int out = 0;
 		while (out <= 0) {

@@ -1,8 +1,8 @@
 import java.io.*;
 
-public class Character extends LineGetter {
-	String characterExternalName;
-	String character;
+class Character extends LineGetter {
+	private final String characterExternalName;
+	private final String character;
 
 	public Character(String c, Series _series) {
 		super(_series);
@@ -19,7 +19,7 @@ public class Character extends LineGetter {
 		nextLine();
 	}
 
-	public void saveLines() {
+	private void saveLines() {
 		String seriesString = series.toString();
 		File dir = new File("./characters/" + seriesString);
 		dir.mkdir();

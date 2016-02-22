@@ -1,8 +1,8 @@
 import java.io.*;
 
-public class KeyWord extends LineGetter {
-	String keyPhrase;
-	boolean cutToPhrase;
+class KeyWord extends LineGetter {
+	private final String keyPhrase;
+	private final boolean cutToPhrase;
 
 	public KeyWord(String phrase, boolean c, Series _series) {
 		super(_series);
@@ -19,7 +19,7 @@ public class KeyWord extends LineGetter {
 		nextLine();
 	}
 
-	public void saveLines() {
+	private void saveLines() {
 		System.out.println("Saving lines with " + keyPhrase);
 		boolean recordingLog = false;
 

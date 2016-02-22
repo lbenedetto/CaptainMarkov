@@ -4,7 +4,7 @@ public enum Series {
 	DS9("DS9"),
 	VOY("Voyager"),
 	ENT("Enterprise");
-	private String name;
+	private final String name;
 
 	Series(String name) {
 		this.name = name;

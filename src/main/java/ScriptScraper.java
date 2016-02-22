@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.URL;
 
-public class ScriptScraper {
+class ScriptScraper {
 	public static void downloadEpisodes(Series series) {
 		int firstEpisodeNumber = 1;
 
@@ -53,7 +53,8 @@ public class ScriptScraper {
 			scrapeLink("http://www.chakoteya.net/" + series.toString() + "/" + episodeNumString + ".htm", i, series);
 		}
 	}
-	public static void downloadEpisode(Series series, int episode){
+
+	public static void downloadEpisode(Series series, int episode) {
 		try {
 			Thread.sleep(1000);
 		} catch (InterruptedException ex) {
@@ -69,7 +70,7 @@ public class ScriptScraper {
 		System.out.println("Downloading episode number " + episode + " from series " + series);
 	}
 
-	public static void scrapeLink(String episodeURL, int episodeNum, Series series) {
+	private static void scrapeLink(String episodeURL, int episodeNum, Series series) {
 		String episodeText = "Episode Number: " + episodeNum + "\n";
 		URL url;
 		InputStream is = null;
@@ -103,18 +104,16 @@ public class ScriptScraper {
 		saveEpisode(episodeText, episodeNum, series);
 	}
 
-	public static void saveEpisode(String s, int n, Series series) {
+	private static void saveEpisode(String s, int n, Series series) {
 		PrintWriter txtFile;
 		String seriesString = series.toString();
 		File dir = new File("./scripts/" + seriesString);
-
-
 		dir.mkdir();
 		try {
-			FileReader file = new FileReader("./scripts/" + seriesString +"/Episode " + n + ".txt");
+			new FileReader("./scripts/" + seriesString + "/Episode " + n + ".txt");
 		} catch (FileNotFoundException e) {
 			try {
-				txtFile = new PrintWriter(new FileWriter("./scripts/" + seriesString +"/Episode " + n + ".txt", true));
+				txtFile = new PrintWriter(new FileWriter("./scripts/" + seriesString + "/Episode " + n + ".txt", true));
 				txtFile.println(s);
 				txtFile.close();
 			} catch (IOException ex) {

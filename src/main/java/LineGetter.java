@@ -3,14 +3,14 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public abstract class LineGetter {
+abstract class LineGetter {
 	BufferedReader currentEpisode;
-	int currentEpisodeNum;
+	private int currentEpisodeNum;
 	BufferedReader lines;
-	String nextLine;
-	Series series;
+	private String nextLine;
+	final Series series;
 
-	public LineGetter(Series _series) {
+	LineGetter(Series _series) {
 		series = _series;
 
 		switch (series) {
@@ -30,7 +30,7 @@ public abstract class LineGetter {
 		nextEpisode();
 	}
 
-	public boolean hasNextEpisode() {
+	boolean hasNextEpisode() {
 		switch (series) {
 			case TOS:
 				return currentEpisodeNum < 79;
@@ -47,7 +47,7 @@ public abstract class LineGetter {
 		}
 	}
 
-	public void nextEpisode() {
+	void nextEpisode() {
 		if (PositronicBrain.episodeNumIsSkipped(currentEpisodeNum + 1, series))
 			currentEpisodeNum++;
 		else if (PositronicBrain.isAtVoyagerGap(currentEpisodeNum + 1, series))
@@ -65,7 +65,7 @@ public abstract class LineGetter {
 		}
 	}
 
-	public void nextLine() {
+	void nextLine() {
 		try {
 			nextLine = lines.readLine();
 			while (nextLine.equals("#"))
