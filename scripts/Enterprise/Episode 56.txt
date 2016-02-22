@@ -93,7 +93,7 @@ ARCHER: The chemist said his shop was on barge twelve.
 TUCKER: Phlox would have a field day here. 
 ARCHER: I'm afraid we'll have to save the souvenir hunting for another
 time. (An alien with very big pointed ears speaks to them.)
-ALIEN:;I don't recognise your species. You
+ALIEN: I don't recognise your species. You
 must be newcomers. Welcome. 
 ARCHER: Thank you. We're looking for barge twelve, a chemist named
 B'Rat Ud. 
@@ -256,7 +256,7 @@ bulkheads, as a precaution.
  [Archer's quarters] 
 (Archer is stripped down to vest and shorts.)  ARCHER: Come
 in. (No one enters so he gets up and opens the door. It is Rajiin in a grey trouser suit.) 
-RAJIIN:;Good evening, Captain. 
+RAJIIN: Good evening, Captain. 
 ARCHER: Is everything all right? 
 RAJIIN: I'm sorry to disturb you. I hoped you might have time to talk. 
 ARCHER: Er, I'm not quite, er. Please. I meant to speak with you

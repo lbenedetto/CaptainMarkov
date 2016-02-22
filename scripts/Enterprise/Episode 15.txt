@@ -202,7 +202,7 @@ T'POL: It's our shuttlepod taking off.
  TUCKER: Try it now. 
 ARCHER: Archer to T'Pol. What's your status? 
 TUCKER: They're back in comm. range. (Travis sees the shuttlepod leaving the gas giant.)
-TRAVIS:; Captain. 
+TRAVIS:  Captain. 
 ARCHER: Shuttlepod One, respond. 
 TRAVIS: Sir, they're heading into open space. 
 TUCKER: I'm picking up something. 
@@ -435,7 +435,7 @@ pesky human emotion, but there are times I wish I could just ignore my
 feelings. Bury them the way Vulcans do. 
 T'POL: Take my hand. 
 HOSHI: Excuse me? (T'Pol kneels in front of her.)
-T'POL:; My hand. Close your eyes. (She puts three
+T'POL:  My hand. Close your eyes. (She puts three
 fingers on Hoshi's palm.) T'POL: Think of yourself on a turbulent ocean. You
 have the power to control the waves. 
 HOSHI: Whatever it is you're trying to do, it's not working. (T'Pol shifts her fingers.) 
@@ -450,7 +450,7 @@ T'POL: Lieutenant Reed, report.
  REED: The hull pressure's approaching critical.
 This ship's about to be crushed. 
 (A visual of the outer hull starting to cave in. Reed is drinking.) 
-REED:;It'll work. 
+REED: It'll work. 
 T'POL: If you're wrong, you could destroy the ship. 
 REED: Look, even with Hoshi's help it could take hours just to find the
 fusion injector in here. We're out of time. 

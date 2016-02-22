@@ -1,7 +1,17 @@
 public enum Series {
-	StarTrek,
-	NextGen,
-	DS9,
-	Voyager,
-	Enterprise
+	TOS("StarTrek"),
+	TNG("NextGen"),
+	DS9("DS9"),
+	VOY("Voyager"),
+	ENT("Enterprise");
+	private String name;
+
+	Series(String name) {
+		this.name = name;
+	}
+
+	@Override
+	public String toString() {
+		return name;
+	}
 }

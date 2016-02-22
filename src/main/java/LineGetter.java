@@ -14,15 +14,15 @@ public abstract class LineGetter {
 		series = _series;
 
 		switch (series) {
-			case NextGen:
-			case Voyager:
+			case TNG:
+			case VOY:
 				currentEpisodeNum = 100;
 				break;
 			case DS9:
 				currentEpisodeNum = 400;
 				break;
-			case StarTrek:
-			case Enterprise:
+			case TOS:
+			case ENT:
 			default:
 				currentEpisodeNum = 0;
 		}
@@ -32,15 +32,15 @@ public abstract class LineGetter {
 
 	public boolean hasNextEpisode() {
 		switch (series) {
-			case StarTrek:
+			case TOS:
 				return currentEpisodeNum < 79;
-			case NextGen:
+			case TNG:
 				return currentEpisodeNum < 277;
 			case DS9:
 				return currentEpisodeNum < 575;
-			case Voyager:
+			case VOY:
 				return currentEpisodeNum < 272;
-			case Enterprise:
+			case ENT:
 				return currentEpisodeNum < 98;
 			default:
 				return false;
@@ -59,6 +59,7 @@ public abstract class LineGetter {
 			currentEpisode = new BufferedReader(new FileReader("./scripts/" + series.toString() +
 					"/Episode " + currentEpisodeNum + ".txt"));
 		} catch (FileNotFoundException e) {
+			//TODO: Do this per episode instead of per series
 			System.out.println("Could not find script file, downloading now");
 			ScriptScraper.downloadEpisodes(series);
 		}

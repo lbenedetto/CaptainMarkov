@@ -390,7 +390,7 @@ ARCHER: Bring Trip along. See if he can get it working.
 REED: You two, start down there. 
 MACO: Yes, Lieutenant. 
 TUCKER: This whole section's depressurized. (Reed is walking with his knees bent.)
-REED:;Let's hope the rest of this ship isn't
+REED: Let's hope the rest of this ship isn't
 as cramped. 
 TUCKER: I can't read anything through these bulkheads. 
 REED: Stay alert. 

@@ -18,7 +18,7 @@ punishment.
 cell] 
  (Archer
 is staring at a bone joint on his metal plate, A guard lets Phlox enter.) 
-GUARD:;You have five minutes. 
+GUARD: You have five minutes. 
 ARCHER: Glad you could drop by. 
 PHLOX: How are you? 
 ARCHER: I've been better. 
@@ -48,7 +48,7 @@ PHLOX: I'll let them know. How are your accommodations?
 ARCHER: Not so bad. Can't say I'm a big fan of Klingon cuisine. 
 PHLOX: It may not appear appetising, but it seems like a good source of
 protein. I suggest you eat it. (Kolos enters.)
-KOLOS:;Is he infectious? 
+KOLOS: Is he infectious? 
 PHLOX: I don't believe so. 
 KOLOS: Then return to your ship. 
 PHLOX: I'd like to run some more tests. 
@@ -58,7 +58,7 @@ PHLOX: I'm sure I'll see you soon. (Phlox leaves with the guard.)
 KOLOS: I'm Kolos, your advocate. 
 ARCHER: Jonathan Archer. 
 KOLOS: The tribunal's about to begin. (Kolos walks out, and Archer follows him.)
-ARCHER:;We haven't even discussed what happened. 
+ARCHER: We haven't even discussed what happened. 
 KOLOS: I'm familiar with the charges. 
 ARCHER: Well, I'm not familiar with your justice system. What can I
 expect out there? 

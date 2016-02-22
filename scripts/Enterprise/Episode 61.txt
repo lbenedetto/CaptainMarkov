@@ -355,7 +355,7 @@ ARCHER: There are other
 settlements. I'm sure they could use a good teacher. 
 BETHANY: Things won't be any different there. 
 ARCHER: Maybe not, but you won't be spending ten years in prison.
-(He locks Bennings in the cell. Later, the sheriff has returned.)BENNINGS:;It was Archer. 
+(He locks Bennings in the cell. Later, the sheriff has returned.)BENNINGS: It was Archer. 
 (MacCready lets him out and they go into the street, weapons drawn.) 
  [Main
 Street] 

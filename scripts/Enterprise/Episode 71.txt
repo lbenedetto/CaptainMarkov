@@ -111,7 +111,7 @@ T'POL: Bring it in.
  [Launch bay] 
  (Two armed MACOs, Reed and T'Pol go to see what is
 in the little vessel. Reed scans for a hatch control.)
-REED:;Here. (It opens it to reveal -
+REED: Here. (It opens it to reveal -
 Archer.) 
  [Sickbay] 
  PHLOX: No internal injuries. Numerous contusions
@@ -395,7 +395,7 @@ T'POL: Understood.
  T'POL: Doctor. 
 PHLOX: Yes, this will just take a moment. (T'Pol;grabs his arm.) PHLOX: What is
 it? (After examining her.)
-PHLOX:;There's a good deal of residual trellium
+PHLOX: There's a good deal of residual trellium
 in your bloodstream. How long have you been doing this? 
 T'POL: Three months. 
 PHLOX: I need to know precisely what has been happening. 

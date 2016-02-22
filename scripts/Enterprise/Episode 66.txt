@@ -16,7 +16,7 @@ ARCHER: You're the weapons expert. See if you can get those shields
 back online. If we don't raise the shields, the only that's going to be
 left of this ship is a cloud of vapour. (He pushes Degra aside and does it
 himself. Degra looks out of the porthole.)
-DEGRA:;Insectoids! 
+DEGRA: Insectoids! 
 ARCHER: These could be shield emitters. They're not going to last for
 long. 
 DEGRA: Open a channel to those ships. 

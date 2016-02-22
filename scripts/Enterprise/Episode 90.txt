@@ -220,7 +220,7 @@ SHRAN: Afraid of heights, Captain?
 suddenly falls the rest of the way, and lands screaming in pain with a
 bright blue icicle stuck through his right leg. Archer dashes
 down to him.) 
-ARCHER:;Shran! 
+ARCHER: Shran! 
 SHRAN: The ice gave out beneath me. 
 (He lifts his own leg off the icicle.) 
 ARCHER: You're losing a lot of blood. Hold still. 
@@ -476,7 +476,7 @@ ARCHER: Whenever you're ready.
 JHAMEL: I'm ready, Captain. 
 (The helmet is lowered over her head. Tucker reads
 the monitor.) 
-TUCKER:;A lot of movement. Fifty percent spike. 
+TUCKER: A lot of movement. Fifty percent spike. 
 ARCHER; Are you feeling all right? 
 SHRAN: We can stop anytime you like. 
 JHAMEL: It's strangely enjoyable. 

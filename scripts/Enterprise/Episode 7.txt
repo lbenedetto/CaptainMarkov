@@ -331,7 +331,7 @@ TUCKER: Looks like a krellide power cell.
  [Large room - night] 
  (The Andorians do a quick head count and leave
 again. Tucker resumes work on the transmitter. The Elder offers a blanket.) 
-ELDER:;There is one to spare. 
+ELDER: There is one to spare. 
 TUCKER: No thanks. It'll just get in my way. 
 ELDER: (to Archer) It's only going to get colder. 
 ARCHER: (to T'Pol) You take it. 

@@ -592,7 +592,7 @@ TUCKER: Your warp field's destabilising.
 Beta] 
 (Archer
 is fighting the controls.) 
-ARCHER:;Warp two point one five. (to AG) You'd better get that
+ARCHER: Warp two point one five. (to AG) You'd better get that
 intermix locked down because I'm not backing off till I break your
 record. Got it? 
 ROBINSON: Almost. 

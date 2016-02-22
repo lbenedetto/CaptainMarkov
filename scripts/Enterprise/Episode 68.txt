@@ -518,7 +518,7 @@ PHLOX: What? What, T'Pol? Help me. Is it the particle confinement?
 T'POL: Perhaps you should increase it. 
 PHLOX: How do I do that? (He dashes to his help screen.) PHLOX: Particle
 confinement, particle confinement. (Things go bang.)
-T'POL:;Doctor, perhaps we should wake Commander
+T'POL: Doctor, perhaps we should wake Commander
 Tucker. 
 PHLOX: He'll die. 
 T'POL: If we destroy the ship, we'll all die. 

@@ -263,7 +263,7 @@ again on the Bridge) Ready.
 EMORY: Help me up. 
 TUCKER: Sir? 
 EMORY: Give me a hand, please. (Tucker helps him stand at the control
-console.)EMORY:; This part I like doing myself. Energising. 
+console.)EMORY:  This part I like doing myself. Energising. 
 (A contraption is beamed away.) 
 [Bridge]
 T'POL: The probe materialised at the target

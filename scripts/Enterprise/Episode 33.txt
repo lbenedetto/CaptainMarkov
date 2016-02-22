@@ -174,7 +174,7 @@ of a mountain.)
  [Tavern] 
  (Many different races have come here to drink, and
 other things, when the three enter in their thermal gear. T'Pol's scanner is beeping.) 
-T'POL:;He's here. 
+T'POL: He's here. 
 ARCHER: Where? 
 T'POL: Within thirty metres. 
 ARCHER: (to Travis) If he sees T'Pol, he may try to get to his ship. 
@@ -494,7 +494,7 @@ forcefield comes down to reveal -) MENOS: I'm a very patient man,
 T'Pol. (He's holding a rifle, she draws her pistol.) MENOS: I was simply waiting
 for you to leave, but your Captain's curiosity has put an end to that.
 Would you please lower your weapon? (She does. Archer enters the cargo hold.) 
-ARCHER:;There's some kind of energy field
+ARCHER: There's some kind of energy field
 running. 
 MENOS: I don't want to harm T'Pol, Captain, but I will. 
 ARCHER: Those are violent words for a peaceful man. 

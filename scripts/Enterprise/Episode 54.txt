@@ -90,7 +90,7 @@ ship]
  (The
 group clomp along as boots and small pieces of equipment float in the
 zero gravity. Reed scans scorch marks on the wall.) 
-REED:;Weapons fire. (Kemper opens a door and seeing a corpse.) 
+REED: Weapons fire. (Kemper opens a door and seeing a corpse.) 
 KEMPER: Captain? (scans it) No
 external injuries. 
 ARCHER: Let's find the Bridge. 

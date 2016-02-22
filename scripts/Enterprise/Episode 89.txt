@@ -348,7 +348,7 @@ REED: All right. I'll reconnect the matrix. Open the hatch!
 TUCKER: Malcolm, no! That's an order! 
 (TUcker collapses. Reed works at
 the panel.) 
-REED:;Commander? 
+REED: Commander? 
 VALDORE [OC]: Do your duty, Malcolm. 
 [Control area]
 VALDORE: Restore the matrix. Save your commander's
@@ -401,7 +401,7 @@ VALDORE: When you're finished.
 REED: There! Now shut it off! And open this hatch! 
 (The hatch opens and Reed takes the two suit helmets in with him. He helps
 Tucker sit up.) 
-REED:;Commander, stay with me. 
+REED: Commander, stay with me. 
 [Control area]
 NIJIL: The matrix has been reactivated. 
 VALDORE: Then we don't need the humans anymore. 
@@ -421,7 +421,7 @@ REED: I apologise for saving your life, Commander. It won't happen
 again. 
 TUCKER: Sorry. 
 (Reed is undoing the nuts around another circular feature.)
-REED:;According
+REED: According
 to the bridge schematic, this is an access panel. 
 TUCKER: Where's it lead? 
 REED: Away from the Bridge. 

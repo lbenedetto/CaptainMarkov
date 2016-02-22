@@ -37,7 +37,7 @@ public class Character extends LineGetter {
 					curr = curr.replaceAll("\\(.*?\\)", "");
 					curr = curr.replaceAll("\\[.*?\\]", "");
 					curr = curr.trim();
-					if(curr.equals(character))
+					if (curr.equals(character))
 						recordingLog = false;
 					if (recordingLog) {
 						if (curr.trim().isEmpty() || (curr.contains(":") && !curr.startsWith(character))) {

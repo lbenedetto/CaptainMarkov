@@ -56,7 +56,7 @@ planet? Maybe they're on their honeymoon.
 coming from those thermal vents. 
 (Turbulence. Archer is in the
 pilot's seat.) 
-ARCHER:;We should be right over that ship. 
+ARCHER: We should be right over that ship. 
 T'POL: I'm scanning for a break in the canopy. 
 HOSHI: If this is anything like the Amazon, good luck. 
 ARCHER: I used to say I could land a shuttlepod with my eyes closed. 
@@ -226,7 +226,7 @@ homeworld? Go to sleep. If you're lucky, maybe she'll visit you in your
 dreams. 
 (The hunting party is now getting ready to set out. Reed examines
 one of the goggles.) 
-REED:;These can detect infrared. 
+REED: These can detect infrared. 
 (Damrus takes them off him.) 
 DAMRUS: Among other things. 
 TUCKER: What are you going after today? 
@@ -410,7 +410,7 @@ ARCHER: I see a beautiful woman.
 WOMAN: Because you want to see a beautiful woman. 
 ARCHER: How do you know what I want? 
 (She touchs his temple.) 
-WOMAN:;I can see your thoughts. I see what eludes you. 
+WOMAN: I can see your thoughts. I see what eludes you. 
 ARCHER: You're telepathic. That's how you know my language. 
 WOMAN: I know more than your language. 
 ARCHER: Then you must know why I'm so drawn to you. Why I feel like I

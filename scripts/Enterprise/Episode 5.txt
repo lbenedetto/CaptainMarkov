@@ -18,7 +18,7 @@ ARCHER: What the hell's going on?
 gravity plating on E deck. I hope it hasn't caused you 
  [Archer's quarters] 
  REED [OC]: Any inconvenience. (Archer is hanging onto the showerhead.)
-ARCHER:;Oh, no, no, no, not at all. Any
+ARCHER: Oh, no, no, no, not at all. Any
 idea when you might get it back online? 
  [Bridge] 
  REED: Commander Tucker says it should be any
@@ -251,7 +251,7 @@ AH'LEN: Something similar. Have you had enough?
 TUCKER: A man needs a lot of fluids when he's under the weather. (She
 continues to feed him water, slowly, letting her fingers linger on his
 lips. She finally breaks eye contact.) 
-AH'LEN:;If you're feeling well enough,
+AH'LEN: If you're feeling well enough,
 we really should get back to the repairs. 
 TUCKER: Could we take some of those with us? 
  [Bridge] 
@@ -295,7 +295,7 @@ TUCKER: The depth perception is incredible. What is it, a 3-D simulator
 of some kind? 
 AH'LEN: It's holographic. 
 TUCKER: Not like any hologram I've ever seen. (Ah'Len pours sand into his hand.)
-AH'LEN:;It seems real, doesn't it. 
+AH'LEN: It seems real, doesn't it. 
 TUCKER: How do you? 
 AH'LEN: Resequenced photons. Come with me. (They walk) 
 TUCKER: The perspective's changing. 
@@ -315,7 +315,7 @@ TUCKER: We don't. Well, actually we do, but we do it through observing
 behaviour, getting to know someone. 
 AH'LEN: The follicles on your face. If I'm not mistaken, they've grown.
 Do they have a purpose? (Tucker rubs his chin.)
-TUCKER:;Not that I know of. Normally we shave them off
+TUCKER: Not that I know of. Normally we shave them off
 with something called a razor, but I haven't had the chance since I've
 been here. 
 AH'LEN: Do you mind? 
@@ -368,7 +368,7 @@ ARCHER: Return to our previous heading, Travis.
 TRAVIS: Aye, sir. 
  [Mess hall] 
  REED: Didn't they feed you over there? (Tucker is eating like he's starving.)
-TUCKER:;You should've come with me,
+TUCKER: You should've come with me,
 Malcolm. 
 REED: I heard about the holographic recreation. 
 TUCKER: It wasn't like any visual simulator I've ever tried. It was

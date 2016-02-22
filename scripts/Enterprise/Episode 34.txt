@@ -103,7 +103,7 @@ The Enterprise Transcripts - The Communicator
       
      (Archer and Reed sit at a table by the wall, on pew-like benches with very high backs for privacy - and when I can 
      remember the name of the pub where I've sat in exactly those type of seat, I'll let you know. Reed has a look on the floor.) 
-     ARCHER:;This was the table? 
+     ARCHER: This was the table? 
      REED: Positive. 
      ARCHER: Try your scanner. 
      BARKEEP: Welcome back. What would you like? 
@@ -130,7 +130,7 @@ The Enterprise Transcripts - The Communicator
      PELL: Does this belong to you? What is it? 
      ARCHER: I don't know. 
      (Reed and Archer are pushed against the wall and searched. Pell finds the phase pistol.) 
-     PELL:;What kind of weapon is this? (silence) Where's General Gosis? 
+     PELL: What kind of weapon is this? (silence) Where's General Gosis? 
      SOLDIER: On the Eastern perimeter.  
      PELL: Send a level four communiqu� and tell him I think we've found a pair of enemy spies. 
      Take them to the Complex and put your men on alert. You won't be seeing your friends in the Alliance for a long time.
@@ -372,7 +372,7 @@ The Enterprise Transcripts - The Communicator
      [Cell ship]
      
      (There's a beep and a shudder. Travis is flying the thing.) 
-     TRAVIS:;What was that? 
+     TRAVIS: What was that? 
      TUCKER: There's a power drain in the cloaking generator. 
      (The cell ship becomes visible as it reaches the cloud layer.) 
      TUCKER: Are the warp relays offline? 

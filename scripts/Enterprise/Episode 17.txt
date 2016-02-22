@@ -299,7 +299,7 @@ FORREST [on monitor]: Keep me posted.
  (She blows out the candle and dreams.) 
 TOLARIS [OC]: Our primal nature isn't as dangerous as you think. 
 (She is exploring San Francisco with Tolaris whispering in her ear.) 
-TOLARIS:;Do you like the taste? You must have
+TOLARIS: Do you like the taste? You must have
 learned a great deal about emotion. 
 (She enters the jazz club, then opens her eyes to see Tolaris sleeping
 next to her.) 
@@ -357,7 +357,7 @@ ARCHER: He's dying, Kov.
 KOV: If it isn't too much trouble, would you please send a message back
 for me? Tell him that we said goodbye a long time ago. 
  [Vahklas] 
-(Tolaris enters bearing two mugs.) TOLARIS:;Good morning.
+(Tolaris enters bearing two mugs.) TOLARIS: Good morning.
 Chamomile? 
 T'POL: Thank you. 
 TOLARIS: How did it go? 

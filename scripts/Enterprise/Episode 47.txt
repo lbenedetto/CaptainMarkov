@@ -63,7 +63,7 @@ TRAVIS: Flex-cable?
 REED: Five hundred metres. 
 TRAVIS: Waste disposal units. 
 TUCKER: What are these for? 
-TRAVIS: We take out everything we bring in. (Archer enters.)ARCHER:;I just spoke to the Xantoras Regional Governor. He's
+TRAVIS: We take out everything we bring in. (Archer enters.)ARCHER: I just spoke to the Xantoras Regional Governor. He's
 issued a general order. You have to get them out of there in three
 days. 
 TUCKER: That's not much time. 
@@ -261,7 +261,7 @@ and takes Tucker with him, them Travis as the piton fails. They toboggan
 down the incline on their bottoms until finally Travis jams one foot
 against the wall and halts the train. Tucker and Reed are dangling in
 mid-air over yet another bottomless-looking pit. Tucker is trying to get to the cliff wall.)
-TUCKER:;I can't reach it. (He carries on swinging
+TUCKER: I can't reach it. (He carries on swinging
 while Travis grimaces in pain.) TUCKER: Almost! 
 TRAVIS: I can't hold this much longer. 
 TUCKER: Stand by. We'll try again. Let's swing together. You ready? On
@@ -530,7 +530,7 @@ agreement and you won't find yourself fighting on two fronts.
  (While
 Tucker and Reed haul themselves slowly up their ropes, the Denobulans
 'walk' up the rock face remarkably like Sulibans would. Yolen looks down from a ledge.) 
-YOLEN:;Commander, the bombing seems to have
+YOLEN: Commander, the bombing seems to have
 stopped. 
 REED: We need to get out of here before it starts up again. 
  [Sickbay]

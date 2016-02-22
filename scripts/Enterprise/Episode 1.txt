@@ -752,7 +752,7 @@ SARIN: They're taking orders from the distant future.
 ARCHER: What? 
 SARIN: We can help you find Klaang but we don't have a starship. You'll
 have to take us with you. (Weapons fire. They head for cover and return
-fire. Sarin releases the others and gives them their weapons back.)SARIN:; Where's your vessel? 
+fire. Sarin releases the others and gives them their weapons back.)SARIN:  Where's your vessel? 
 ARCHER: On the roof. Docking port three. 
 SARIN: This way. 
 (As they head onto an elevator platform, Silik shoots Sarin in the
@@ -857,7 +857,7 @@ TUCKER: He only wanted to see his engine fly. They never even gave him
 a chance to fail. Here you are, thirty years later, proving just how
 consistent you Vulcans can be. 
  [Sickbay] 
-(Phlox removing a creature from Archer's leg.) PHLOX:;Very nice, very nice. Your myofibres are fusing beautifully. 
+(Phlox removing a creature from Archer's leg.) PHLOX: Very nice, very nice. Your myofibres are fusing beautifully. 
 ARCHER: How long have? 
 PHLOX: Less than six hours. I thought it best to keep you sedated while
 the osmotic eel cauterized your wound.
@@ -1112,7 +1112,7 @@ KLAANG: Qu'taw bob.
 ARCHER: Be quiet. 
 (Klaang mutters as they take cover from Suliban weapons.) 
 TUCKER: You tell him, big guy. 
-ARCHER: Give me the box. (Klaang goes hand to hand with a Suliban.)TUCKER:;Thanks.
+ARCHER: Give me the box. (Klaang goes hand to hand with a Suliban.)TUCKER: Thanks.
 ARCHER: Get to the ship. I'll be right behind you. (He sets the magnetic
 unlocking device, then discovers just how many pieces the structure is
 really made of. Forcefields activate to stop atmosphere escaping, and

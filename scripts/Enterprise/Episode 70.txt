@@ -319,7 +319,7 @@ ARCHER: I hate to add to this menagerie of yours, Doc.
 PHLOX: Nonsense. What's one more mouth to feed? 
 ARCHER: Just don't harvest any part of him. 
 PHLOX: I doubt that would be necessary. 
-ARCHER:;Do me a favour. Slip him a piece of cheese
+ARCHER: Do me a favour. Slip him a piece of cheese
 every now and then. 
 PHLOX: Certainly. 
  [Bridge] 
@@ -368,7 +368,7 @@ T'POL: Get out.
  [Reptilian ship brig] 
  (Archer is being interrogated by three Reptilians, one of whom is hitting him. Archer's hands are chained above his head.)
 REPTILIAN: Answer the question. 
-ARCHER:;Repeat the question. 
+ARCHER: Repeat the question. 
 REPTILIAN: How many Earth vessels have entered the Expanse? 
 ARCHER: I wish I could help you, but my superiors keep me in the dark
 about these things. (He gets hit again.) 

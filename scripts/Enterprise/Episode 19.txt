@@ -23,7 +23,7 @@ MUK: Cucht nee va zeh? (Krem sees how small human ears are,)
 KREM: Nass. (Muk tells him to hurry up.)
 MUK: Y-solah-na. Y-solah-na! 
  [Mess hall] 
-(Krem fingers some food.) MUK:;Krem. Tenda sout
+(Krem fingers some food.) MUK: Krem. Tenda sout
 bazul. Ningor. Ningor! 
  [Engineering] 
 (Awed by the engine.)  KREM: Oh! Gard-day latinum
@@ -46,7 +46,7 @@ MUK [OC]: Feesha vou dolay.
 ULIS: Rejahvey. 
  [Decon chamber] 
  (Tucker wakes up. He is wearing;blue singlet and shorts.) 
-TUCKER:;Doc, isn't my time up yet? You
+TUCKER: Doc, isn't my time up yet? You
 said twenty minutes. 
  [Sickbay] 
  TUCKER [OC]: It's been at least an hour. I'm
@@ -112,7 +112,7 @@ already.
 MUK: There's more here. He's hiding something. 
 GRISH: I agree with Krem. Let's take what we have and go. 
 ULIS: What do we have? Scanners, low-grade weapons. (Archer spots Tucker
-watching from above.)ULIS:; Nothing but trinkets. 
+watching from above.)ULIS:  Nothing but trinkets. 
 KREM: Don't forget about the females. Some of them are worth their
 weight in latinum. If we leave now we can make the next slave market on
 Stameris. 
@@ -314,7 +314,7 @@ GRISH: Over here!
 GRISH: Make it stop! 
 (Muk shoots T'Pol's console and the noise stops.) 
 ULIS: Let's get to their Captain's quarters. (Muk returns to the situation room.) 
-MUK:;Where are my scanners? I left
+MUK: Where are my scanners? I left
 them right here! 
 ULIS: You should be more careful with your acquisitions. 
 MUK: Oh, oh! Open your bag. 
@@ -528,7 +528,7 @@ Trip working at the lock he installed earlier.)
 GRISH: The vault? 
 TUCKER: It's all yours. 
 ULIS: Open it. Open it! (Tucker opens the hatch slightly.)
-TUCKER:;Better let me go in first. 
+TUCKER: Better let me go in first. 
 ULIS: Why? 
 TUCKER: Knowing Captain Archer, he's probably rigged the place with
 booby traps. Just give me a few minutes to check it out. 

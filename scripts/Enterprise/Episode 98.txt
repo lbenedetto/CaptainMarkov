@@ -22,7 +22,7 @@ REED: And he'll undoubtedly make every effort to take no credit.
 T'POL: Undoubtedly. 
 HOSHI: That'd be like Zefram Cochrane not taking credit for warp drive.
 (Archer enters from the Ready room.)
-ARCHER:;
+ARCHER: 
 How do you pronounce the name of
 the second Tellarite liberator? Challash? 
 HOSHI: Shallash. 
@@ -544,7 +544,7 @@ ARCHER: Trip, that's enough!
 TUCKER: Listen. I won't do this if you kill him, but could you please
 shut him up? 
 (Archer gets knocked out. Tucker goes to help.) 
-ALIEN:;Stop. You can't expect me to just leave
+ALIEN: Stop. You can't expect me to just leave
 him here alive? 
 TUCKER: He's out cold. He's not going to cause any trouble. 
 ALIEN: (to henchman) Stay here. If we're not back in ten minutes, kill
@@ -569,7 +569,7 @@ going to die before your Captain.
 TUCKER: Satisfied? 
 ALIEN: Proceed. Hurry up. You're running out of time. (Tucker takiesdown a similar tube and prepares to join them
 together.)
-TUCKER:;There's just one other thing I need to tell you. You can all
+TUCKER: There's just one other thing I need to tell you. You can all
 go straight to hell. 
 (The explosion blows the aliens out of the compartment and partway back
 down the corridor. Archer wakes up and goes to the scene of the

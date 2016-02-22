@@ -401,7 +401,7 @@ TUCKER: All done.
 ARCHER: What do you think? 
 TUCKER: Sounds good. 
 ARCHER: Let me read you the rest. (Tucker is intent on the scan results on his monitor.)
-TUCKER:;I really need to
+TUCKER: I really need to
 get to work on this. 
 ARCHER: It's just a few more pages. 
 TUCKER: How many more? 

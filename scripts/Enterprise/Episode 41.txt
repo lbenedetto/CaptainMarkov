@@ -144,7 +144,7 @@ a flag of truce. Be careful.
  [Shuttlepod] 
  (Shortly after launching from Enterprise. Archer
 is piloting.) 
-ARCHER:;We've lost the navigational sensors, and the comm. 
+ARCHER: We've lost the navigational sensors, and the comm. 
 T'POL: It's the Andorian jamming signal. I'm entering the landing
 coordinates they gave us. 
 ARCHER: Let's hope they're accurate. 

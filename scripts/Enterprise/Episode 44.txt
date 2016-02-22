@@ -300,7 +300,7 @@ injectors. Tucker to Ensign Cook.
 COOK [OC]: Yes, sir. 
 TUCKER: I need you and two other engineers down here right away. 
 COOK [OC]: I'll see who I can find. 
-ROSTOV [OC]:;Commander! 
+ROSTOV [OC]: Commander! 
 TUCKER: Quickly please. Tucker out. Something wrong? (He goes to where
 Rostov is just staring at a control board.) TUCKER: Run into a problem? 
 ROSTOV: Problem? No, everything's fine. 

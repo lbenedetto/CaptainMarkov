@@ -14,7 +14,7 @@ egg, drops in some meat, a clawed arm reaches from the sand and drags
 it down.) PHLOX: Don't worry. I didn't forget you. (He removes cover from case and
 offers a green caterpillar to the occupant.) PHLOX: Now, Let's try it without
 biting my fingers this time. (Phlox eats the second one himself.; Later, Hoshi;enters bearing a PADD.) 
-HOSHI:;People are getting jealous. You get more
+HOSHI: People are getting jealous. You get more
 letters from home than anyone on this ship. What's her name? 
 PHLOX: It's nothing like that. They're from Doctor Lucas. He's a
 colleague from the Interspecies Medical Exchange. 
@@ -308,13 +308,13 @@ PHLOX [OC]: On a personal note, the affection Crewman Cutler is showing
 has left me a bit perplexed, so I've decided to discuss it with the one
 person on board who might understand the complexities of the situation.
 (Later, T'Pol is on a biobed.) 
-T'POL:;That's impossible. 
+T'POL: That's impossible. 
 PHLOX: It's nothing to be ashamed of. 
 T'POL: My teeth were sealed with a tri-fluorinate compound twenty three
 years ago. 
 PHLOX: Well, normal wear and tear has allowed some decay to sneak in.
 See for yourself. There, on your anterior tricuspid. (T'Pol gets up.)
-T'POL:;I'm sure you have more pressing concerns. I'll come
+T'POL: I'm sure you have more pressing concerns. I'll come
 back later. 
 PHLOX: I'm waiting for the computer to analyse some tissue samples.
 It'll only take a moment to repair. (T'Pol lies down again.) PHLOX: Open,
@@ -595,10 +595,10 @@ right choice I'd have been no better than the Vulcan diplomats who held
 your species back because they felt you couldn't make proper decisions
 on your own. 
  [Sickbay] 
-(Phlox is dictating his letter.) PHLOX:; I came very close to
+(Phlox is dictating his letter.) PHLOX:  I came very close to
 misjudging Jonathan Archer, but this incident has helped me gain a new
 respect for him. Happiness and health to you, Doctor. Your dedicated
-colleague, Phlox. (Hoshi enters.)HOSHI:;You wanted to see me? 
+colleague, Phlox. (Hoshi enters.)HOSHI: You wanted to see me? 
 PHLOX: Please. (He hands over the data slide.) PHLOX: For Doctor Lucas. 
 HOSHI: It'll go out first thing in the morning. Everything all right? 
 PHLOX: Fine, fine. The past few days have been taxing. 

@@ -29,7 +29,7 @@ TUCKER: What's the point of having three wives if you never get to see
 them?
 PHLOX: Denobulans are renowned for their patience. (The air lock door opens
 to reveal a petite blonde in a bright pink outfit.) PHLOX: Welcome, my beloved!(They embrace by almost but not quite touching.)
-FEEZAL:;My beloved.
+FEEZAL: My beloved.
 PHLOX: Captain Archer, I'd like you to meet my second wife, Feezal. 
 ARCHER: It's a pleasure to have you aboard. 
 FEEZAL: Thank you.
@@ -447,7 +447,7 @@ REED: It might be a lot easier to avoid her advances than to get Phlox
 angry. I once saw him lose his temper when one of his creatures bit
 him. It wasn't a pretty sight. 
  [Sickbay] 
-(Phlox looks at a monitor.) PHLOX:;This is far from a
+(Phlox looks at a monitor.) PHLOX: This is far from a
 cure, but it should slow down the progression of the disease. It's
 surprising. I assumed your Science Directorate would've made more
 progress than this.

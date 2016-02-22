@@ -134,7 +134,7 @@ GOFF: I know the way.;
  [Retellian cargo bay] 
  (The woman is shouting and thumping at the pod lid
 as Trip tries to crowbar it open. Goff grabs his arm.) 
-GOFF:;What are you doing? 
+GOFF: What are you doing? 
 TUCKER: Help me open this thing! 
 GOFF: We can't bring her out of stasis. 
 TUCKER: She's suffocating! 
@@ -230,7 +230,7 @@ TUCKER: Have you seen a little device? It's about this big, has a
 keypad on it. It's my Universal Translator. It'll help us understand
 each other. 
 (She finds it.)
-KAITAAMA:;Has nos? 
+KAITAAMA: Has nos? 
 TUCKER: That's it. It's just so we can talk. 
 (She hands it over.) 
 TUCKER: I need you to say something. You got to keep talking. 
@@ -498,7 +498,7 @@ TUCKER: I'm not contagious.
 (Tucker opens the container and sniffs at a biscuit.) 
 KAITAAMA: Is it edible? (Tucker
 takes a bite.)
-TUCKER:;Depends how hungry you are. 
+TUCKER: Depends how hungry you are. 
 (She nibbles genteelly.) 
 TUCKER: It reminds me of my first car. 
 KAITAAMA: Car? 

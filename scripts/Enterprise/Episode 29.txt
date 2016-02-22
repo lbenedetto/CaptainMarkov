@@ -104,7 +104,7 @@ it? (The image is sparkling and fuzzy.)
 TRAVIS: Some kind of cloaked ship? 
 ARCHER: It's too small. 
 T'POL: I'm not reading any biosigns. (The image solidifies.)
-REED:;It's armed with tricobalt explosives. I
+REED: It's armed with tricobalt explosives. I
 think it's a mine. And judging by the firepower, something similar
 damaged our ship. 
 ARCHER: Can you tell if it's active? 
@@ -571,7 +571,7 @@ set free to float away.)
 TUCKER: Another hundred ought to do
 it. (Two warbirds decloak.) 
 TRAVIS: Sub-commander. (T'Pol comes forward to the Captain's chair.)
-T'POL:;Hail them. 
+T'POL: Hail them. 
 TRAVIS: No response. (He is now at Reed's station.) 
 TUCKER: They're charging weapons. 
 T'POL: Polarise the hull plating. 

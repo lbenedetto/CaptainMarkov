@@ -412,7 +412,7 @@ ARCHER: You drink it. That's an order.
 TUCKER: Got to keep moving. 
 ARCHER: Take the water, or I'll knock you on your ass and pour it down
 your throat.;Easy. (Tucker drinks, and empties that one too.)
-TUCKER:;Thanks. 
+TUCKER: Thanks. 
  [Bridge] 
  REED: There's a vessel approaching from the
 surface. It's Zobral. 

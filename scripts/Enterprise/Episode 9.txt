@@ -326,7 +326,7 @@ T'POL: Enjoy your tea.
  (T'Pol's scans of Riann's books are on the
 monitor. She is back to her normal appearance.) 
 PHLOX: Quite impressive. Did you say this is a pre-industrial society? 
-T'POL:;Yes. 
+T'POL: Yes. 
 PHLOX: Her methods may be unrefined, but this woman is using forensic
 techniques far more sophisticated than I would've expected. Isn't it
 extraordinary? Thousands of sentient species in our little corner of
@@ -459,7 +459,7 @@ vehicle to take you and the woman.
 ARCHER: She belongs here. 
 GAROS: Believe me, she'll be better off on your ship. Now step away
 from the control panel, Captain. (Archer gives his phase pistol to Riann.)
-ARCHER:;If anyone walks through
+ARCHER: If anyone walks through
 either of these doors, aim this and pull the trigger. 
  [Bridge] 
 

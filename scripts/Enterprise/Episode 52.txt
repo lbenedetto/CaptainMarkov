@@ -347,7 +347,7 @@ REED: Are you certain she was here when it happened?
 TUCKER: Someone would have heard from her if she wasn't. 
  [Deleted
 scene - Hoshi's quarters] 
-(Hoshi is packing a bag.)HOSHI:;Come in. This is a nice surprise. 
+(Hoshi is packing a bag.)HOSHI: Come in. This is a nice surprise. 
 ARCHER: How'd it go with your folks? 
 HOSHI: I think I might need to brush up on my Japanese. 
 ARCHER: I doubt it. We got the new upgrades for the Universal
@@ -381,7 +381,7 @@ finally informed me that we're to proceed with our new mission.
  [Shuttlepod]
  (They fly
 past a ship in Spacedock. Archer is piloting.) 
-ARCHER:;The NX-02. 
+ARCHER: The NX-02. 
 FORREST: She'll be ready to launch in fourteen months. 
 ARCHER: A long time. 
 FORREST: Hopefully you'll be back well before then. 

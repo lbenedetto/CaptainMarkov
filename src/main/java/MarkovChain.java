@@ -1,7 +1,6 @@
 import java.util.Hashtable;
 import java.util.Random;
 import java.util.Vector;
-import java.util.concurrent.SynchronousQueue;
 
 public class MarkovChain {
 	// Hashmap
@@ -24,6 +23,7 @@ public class MarkovChain {
 		// if its added, then get the suffix vector and add the word
 		// if it hasn't been added then add the word to the list
 		// if its the first or last word then select the _start / _end key
+		try{
 		for (int i = 0; i < words.length; i++) {
 			// Add the start and end words to their own
 			if (i == 0) {
@@ -49,7 +49,15 @@ public class MarkovChain {
 					markovChain.put(words[i], suffix);
 				}
 			}
+		}}catch(ArrayIndexOutOfBoundsException e){
+			System.out.println("Shits broke yo:");
+			System.out.println(phrase);
 		}
+	}
+
+	public void generateSentences(int n) {
+		for (int i = 0; i < n; i++)
+			generateSentence();
 	}
 
 	public void generateSentence() {
@@ -81,9 +89,8 @@ public class MarkovChain {
 
 	public void showPhrase(Vector<String> phrase) {
 		String out = "";
-		for (String s : phrase) {
+		for (String s : phrase)
 			out += s + " ";
-		}
 		out = out.replace("#", "");
 		System.out.println(out + "\n");
 	}

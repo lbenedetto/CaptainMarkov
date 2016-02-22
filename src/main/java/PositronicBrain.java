@@ -1,68 +1,47 @@
 import java.util.HashMap;
-import java.util.concurrent.ThreadLocalRandom;
 
 public class PositronicBrain {
 	public static HashMap<Series, int[]> skippedEpisodeNums;
-	//The script database has a few odd gaps in Voyager's numbering, so we'll skip over those
+	//The script database has a few odd gaps in VOY's numbering, so we'll skip over those
 	public static HashMap<Integer, Integer> voyagerEpisodeGaps;
 
-	public static void main(String[] args) {
+	public static HashMap<String, HashMap<String, MarkovChain>> createMarkovChains() {
 		initializeSkippedEpisodeNums();
-		initializeVoyagerGaps();		
-		
-		createMarkovs(Series.StarTrek, new String[]{"Kirk", "Spock", "McCoy", "Uhura", "Chekov", "Sulu", "Computer"});
-		createMarkovs(Series.NextGen, new String[]{"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"});
-		createMarkovs(Series.DS9, new String[]{"Sisko", "O'Brien", "Bashir", "Worf", "Odo", "Kira", "Dax", "Ezri", "Quark", "Dukat", "Garak", "Weyoun", "Founder", "Nog", "Rom", "Computer"});
-		createMarkovs(Series.Voyager, new String[]{"Janeway", "Paris", "Chakotay", "Torres", "Neelix", "EMH", "Tuvok", "Computer"});
-		//createMarkovs(Series.Enterprise, new String[]{"Jonathan", "Tucker", "T'Pol", "Phlox", "Computer"});
-		// I might have missed some Enterprise characters, I don't know that show very well
+		initializeVoyagerGaps();
+		HashMap<String, HashMap<String, MarkovChain>> chains = new HashMap<>();
+		chains.put("TOS", createMarkovChainsForSeries(Series.TOS, new String[]{"Kirk", "Spock", "McCoy", "Uhura", "Chekov", "Sulu", "Computer"}));
+		createMarkovChainsForSeries(Series.TNG, new String[]{"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"});
+		createMarkovChainsForSeries(Series.DS9, new String[]{"Sisko", "O'Brien", "Bashir", "Worf", "Odo", "Kira", "Dax", "Ezri", "Quark", "Dukat", "Garak", "Weyoun", "Founder", "Nog", "Rom", "Computer"});
+		createMarkovChainsForSeries(Series.VOY, new String[]{"Janeway", "Paris", "Chakotay", "Torres", "Neelix", "EMH", "Tuvok", "Computer"});
+		//For some reason the script refers to him as both Jonathan and Archer
+		createMarkovChainsForSeries(Series.ENT, new String[]{"Jonathan", "Archer", "Reed", "Tucker", "Travis", "Hoshi", "T'Pol", "Phlox", "Computer"});
+		return chains;
 	}
 
-	public static void createMarkovs(Series series, String[] characterNames)
-	{
-		String logPhrase = "Captain's log";
-
-		if (series == Series.DS9)
-			logPhrase = "Station log";  //this phrased was used more on DS9 than captain's log since Sisko was a commander at first
-
-		MarkovChain CaptainsLogs = new MarkovChain(new KeyWord(logPhrase, false, series));
-		MarkovChain Commands = new MarkovChain(new KeyWord("Computer, ", true, series));
-		MarkovChain[] Characters = new MarkovChain[characterNames.length];
-
-		//Fill the Characters array
-		for (int i = 0; i < characterNames.length; i++)
-			Characters[i] = new MarkovChain(new Character(characterNames[i], series));
-
+	public static HashMap<String, MarkovChain> createMarkovChainsForSeries(Series series, String[] characterNames) {
 		System.out.println("Creating markov chains for " + series.toString());
-
-		//Generate a captains log
-		generate(10, CaptainsLogs);
-		//Generate a command to the computer
-		generate(5, Commands);
-		//Generate a line of dialogue from a random character
-		generate(5, Characters[ThreadLocalRandom.current().nextInt(0, characterNames.length)]);
-
-	}
-
-	public static void generate(int n, MarkovChain mc) {
-		for (int i = 0; i < n; i++) {
-			mc.generateSentence();
-		}
+		//this phrased was used more on DS9 than captain's log since Sisko was a commander at first
+		String logPhrase = series == Series.DS9 ? "Station log" : "Captain's log";
+		HashMap<String, MarkovChain> chains = new HashMap<>();
+		chains.put("Logs", new MarkovChain(new KeyWord(logPhrase, false, series)));
+		chains.put("Commands", new MarkovChain(new KeyWord("Computer, ", true, series)));
+		//Fill the Characters array
+		for (String characterName : characterNames)
+			chains.put(characterName, new MarkovChain(new Character(characterName, series)));
+		return chains;
 	}
 
 	protected static void initializeSkippedEpisodeNums() {
 		skippedEpisodeNums = new HashMap<>();
-
-		skippedEpisodeNums.put(Series.StarTrek, new int[]{});
-		skippedEpisodeNums.put(Series.NextGen, new int[]{102});
+		skippedEpisodeNums.put(Series.TOS, new int[]{});
+		skippedEpisodeNums.put(Series.TNG, new int[]{102});
 		skippedEpisodeNums.put(Series.DS9, new int[]{402, 474});
-		skippedEpisodeNums.put(Series.Voyager, new int[]{});
-		skippedEpisodeNums.put(Series.Enterprise, new int[]{2});
+		skippedEpisodeNums.put(Series.VOY, new int[]{});
+		skippedEpisodeNums.put(Series.ENT, new int[]{2});
 	}
 
 	protected static void initializeVoyagerGaps() {
 		voyagerEpisodeGaps = new HashMap<>();
-
 		voyagerEpisodeGaps.put(120, 201);
 		voyagerEpisodeGaps.put(226, 301);
 		voyagerEpisodeGaps.put(322, 401);
@@ -76,12 +55,11 @@ public class PositronicBrain {
 			if (skippedNum == _currentEpisodeNum)
 				return true;
 		}
-
 		return false;
 	}
 
 	public static boolean isAtVoyagerGap(int _currentEpisodeNum, Series _series) {
-		return _series == Series.Voyager && voyagerEpisodeGaps.containsKey(_currentEpisodeNum + 1);
+		return _series == Series.VOY && voyagerEpisodeGaps.containsKey(_currentEpisodeNum + 1);
 	}
 
 	public static int getNumPastVoyagerGap(int _currentEpisodeNum) {

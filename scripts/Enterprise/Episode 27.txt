@@ -251,7 +251,7 @@ JACK: Your break.
  [Vulcan's apartment] 
  (T'Mir is browsing through books while Mestral
 watches a western on TV. Stron is wearing his hair long over his ears.)
-STRON:;This is the third time
+STRON: This is the third time
 this week I've had to fix Mrs. Garrett's sink. 
 MESTRAL: Perhaps she enjoys your company. 
 STRON: It might be tolerable if her son didn't insist on calling me

@@ -85,7 +85,7 @@ ARCHER: Welcome aboard. Captain Jonathan Archer. It's customary on
 Earth to greet someone with a handshake. 
 (Archer holds his hand out to an alien with a very high forehead with
 ridged domes.)
-MANTOOS:;I'm Prah Mantoos. May Agosoria embrace you into his
+MANTOOS: I'm Prah Mantoos. May Agosoria embrace you into his
 cycle of renewal. 
 ARCHER: Thanks. 
 MANTOOS: These are my fellow celebrants. We've travelled many light
@@ -97,7 +97,7 @@ MANTOOS: For you, Captain.
 ARCHER: It's beautiful. What exactly is it? 
 MANTOOS: A clock. It charts time from the beginning of the universe. 
 (With points around the chin and eyebrows.)
-SONSORRA:;Voo-Sinteel. 
+SONSORRA: Voo-Sinteel. 
 (He hands a long bottle of red liquid to Tucker.) 
 SONSORRA: It's a spirit traditionally consumed as the Plume reaches its
 full brilliance. You'll find it enhances the experience. 
@@ -212,7 +212,7 @@ T'POL: Agreed. Ensign.
 TRAVIS: I'm already on it. 
  [Sickbay] 
 (As a volunteer comes out of the body scanner.) 
-PHLOX:;There's your heart, lungs, liver, another heart. Every
+PHLOX: There's your heart, lungs, liver, another heart. Every
 organ. This imaging device also allows us to examine your genetic
 structure. Ah, you'll be happy to know you're in perfect health. Who
 would like to go next? 
@@ -399,7 +399,7 @@ DANIELS: You like your scrambled eggs soft. Have I ever brought them to
 you any other way? 
  [Ready room] 
 (Archer pours out the Voo-Sinteel.) 
-ARCHER:;You sure you don't want a glass? 
+ARCHER: You sure you don't want a glass? 
 T'POL: I'm sure. The Vulcan Science Directorate has studied the
 question of time travel in great detail. They found no evidence that it
 exists or that it can exist. 
@@ -499,7 +499,7 @@ T'POL: One of the power relays is offline.
 TUCKER: Must have been damaged during the plasma storm. J-37. It's
 about three metres behind that bulkhead. 
 (Daniels slips a device over his hand.)
-DANIELS:; I'll take care of it. 
+DANIELS:  I'll take care of it. 
 (He goes to the bulkhead.) 
 DANIELS: J-37? 
 (Daniels activates device and walks through the wall, a few moments and
@@ -577,7 +577,7 @@ DANIELS: Go! Bring help. Go.
 TUCKER: Evacuate Engineering. Everybody out! 
 (All the crew leave the room. Silik
 points his gun at Daniels.)
-SILIK:;Did they tell you that the twenty second century was
+SILIK: Did they tell you that the twenty second century was
 going to be your final resting place? 
 (Silik shoots him and he ripples, again and he flies apart. Tucker
 watches with T'Pol from the doorway.) 

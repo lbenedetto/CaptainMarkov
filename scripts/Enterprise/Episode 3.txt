@@ -598,7 +598,7 @@ ARCHER: Doors.
 a drop-down metal stairway.) 
 ARCHER: Archer to the Bridge. It doesn't feel like we've gone to warp. 
 T'POL [OC]: Our port nacelle has been damaged. (More weapons fire jolts Enterprise.)
-ARCHER:; Have Malcolm arm the
+ARCHER:  Have Malcolm arm the
 torpedoes. 
  [Bridge] 
  ARCHER: Report. 
@@ -683,7 +683,7 @@ HOSHI: Sir.
 REED: Captain, they've started drilling into the hull. 
 ARCHER: Hoshi, Hoshi, I need you to do this. We all do. That's why
 you're here. (Hoshi stands in front of the viewscreen, very nervous.)
-HOSHI:; Uta doi ura.
+HOSHI:  Uta doi ura.
 (The alien replies.) 
 ARCHER: Again. 
 HOSHI: Uta lora ista. Urasta mistavor. (They go into a conversation.) 

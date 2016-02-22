@@ -9,13 +9,13 @@ Original Airdate: 21 Oct, 2001
   [Bridge]
 (Travis is looking at a series of archive pictures
 on his station monitor.) 
-TRAVIS:;This was their first view of it. 
+TRAVIS: This was their first view of it. 
 HOSHI: If you don't look too close, you'd think it was Earth. 
 TRAVIS: Breaking ground on the town hall. 
 HOSHI: Is that Captain Mitchell? 
 TRAVIS: No, I think that's Mitchell. 
 (Archer enters.)
-ARCHER:;Are we there yet? 
+ARCHER: Are we there yet? 
 TRAVIS: Three hours seventeen minutes to go, sir. 
 HOSHI: Travis has been digging through the archives. 
 TRAVIS: There's tons of data here. Crew manifests, survey photos,
@@ -171,7 +171,7 @@ originally came through. There are shots and Reed falls.)
 REED: I'm all right, sir.;
 (He gets jumped by a man. Arche is on the
 other side of the opening.) 
-ARCHER:;Malcolm?;
+ARCHER: Malcolm?;
 (He;looks back through
 the opening. There's just a flashlight on the ground, then shots drive
 him back.);
@@ -325,7 +325,7 @@ ARCHER: Probably best if you lead the way.
  [Shuttlepod] 
  (The old woman is fascinated as they approach
 Enterprise to dock. Archer is at the controls.) 
-ARCHER:;That's Enterprise. It's a lot like the ship that
+ARCHER: That's Enterprise. It's a lot like the ship that
 brought the colonists to this planet. It was called the Conestoga.
 Maybe you were born on board, or were you born after your parents got
 here? 
@@ -367,7 +367,7 @@ we're both human.
 JAMIN: Bury your drawings. 
 (Archer clears
 monitor.)
-ARCHER:;Doctor,
+ARCHER: Doctor,
 keep me posted. 
  Captain's starlog, supplemental. Sub-Commander
 T'Pol has discovered the remnants of an impact crater that could
@@ -392,7 +392,7 @@ TUCKER: They spent all those years getting here, and for what?
 Right. I don't suppose there's a lavatory on the premises, is there? I
 wouldn't mind freshening up a little. No. Didn't think so. 
 (Athan puts down his gun and picks up a digger carcass to eat.)
-ATHAN:;Is
+ATHAN: Is
 your belly
 hollow? 
 REED: That all depends. What's for dinner? 

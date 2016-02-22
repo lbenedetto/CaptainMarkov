@@ -104,7 +104,7 @@ ROONEY: A warp signature. (It leads them to a cover.) ROONEY: Help me with this.
 (They start to open it) 
  [Base
 camp] 
-(A researcher brings in a flask of hot drink.)RESEARCHER:;Just what the doctor ordered.;
+(A researcher brings in a flask of hot drink.)RESEARCHER: Just what the doctor ordered.;
 MONINGER: Thanks. 
 RESEARCHER: How are your friends? 
 MONINGER: A little on the quiet side. 
@@ -128,7 +128,7 @@ scream from the camp has Drake and Rooney rushing back.)
 camp} 
  (They
 burst into the lab to find a corpse is missing and Moninger lying on the floor.)
-DRAKE:;Here, here. Get me a
+DRAKE: Here, here. Get me a
 medical kit. 
 (Moninger is gasping, and his skin is starting to turn pale and
 mottled, like the corpse. Rooney turns to face the alien who has come

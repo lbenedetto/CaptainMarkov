@@ -42,7 +42,7 @@ REED: Your move.
 [Shuttlepod]
 (An away team is returning from the planet.
 Hoshi;pulls something from her hair.
-HOSHI:;I can't wait to get back. 
+HOSHI: I can't wait to get back. 
 TUCKER: Two days ago, you couldn't wait to get off the ship. 
 HOSHI: Sifting through a Klingon garbage dump. Not my idea of exploring
 strange new worlds. 
