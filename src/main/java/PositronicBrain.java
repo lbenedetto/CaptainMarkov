@@ -22,7 +22,27 @@ class PositronicBrain {
 		chains.put("VOY", createMarkovChainsForSeries(Series.VOY, new String[]{"Janeway", "Paris", "Chakotay", "Torres", "Neelix", "EMH", "Tuvok", "Computer"}));
 		//For some reason the script refers to him as both Jonathan and Archer
 		chains.put("ENT", createMarkovChainsForSeries(Series.ENT, new String[]{"Jonathan", "Archer", "Reed", "Tucker", "Travis", "Hoshi", "T'Pol", "Phlox", "Computer"}));
+		chains.put("ALL", mixSeries());
 		return chains;
+	}
+
+	/**
+	 * Creates Markov Chains for KeyWords for all series mixed together and stores them in a HashMap
+	 *
+	 * @return HashMap
+	 */
+	public static HashMap<String, MarkovChain> mixSeries() {
+		HashMap<String, MarkovChain> out = new HashMap<>();
+		MarkovChain log = new MarkovChain();
+		MarkovChain command = new MarkovChain();
+		for (Series series : Series.values()) {
+			String logPhrase = series == Series.DS9 ? "Station log" : "Captain's log";
+			log.addMoreLines(new KeyWord(logPhrase, false, series));
+			command.addMoreLines(new KeyWord("Computer, ", true, series));
+		}
+		out.put("Log", log);
+		out.put("Command", command);
+		return out;
 	}
 
 	/**

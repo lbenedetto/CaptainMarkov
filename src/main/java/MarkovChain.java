@@ -7,14 +7,43 @@ class MarkovChain {
 	private final Hashtable<String, Vector<String>> markovChain = new Hashtable<>();
 	private final Random rnd = new Random();
 
+	/**
+	 * Initialize empty chain
+	 */
+	public MarkovChain() {
+		createStarterEntries();
+	}
+
+	/**
+	 * Initialize chain with lines
+	 */
 	public MarkovChain(LineGetter lineGetter) {
+		createStarterEntries();
+		addMoreLines(lineGetter);
+	}
+
+	public void createStarterEntries() {
 		// Create the first two entries (k:_start, k:_end)
 		markovChain.put("_start", new Vector<>());
 		markovChain.put("_end", new Vector<>());
+	}
+
+	/**
+	 * Add more lines to the Markov Chain
+	 *
+	 * @param lineGetter LineGetter
+	 */
+	public void addMoreLines(LineGetter lineGetter) {
 		while (lineGetter.hasNextLine())
 			addWords(lineGetter.getNextLine(), markovChain);
 	}
 
+	/**
+	 * Black Magic
+	 *
+	 * @param phrase      String
+	 * @param markovChain Hashtable
+	 */
 	private void addWords(String phrase, Hashtable<String, Vector<String>> markovChain) {
 		if (phrase.equals("#") || phrase.equals("")) return;
 		// put each word into an array
@@ -56,11 +85,19 @@ class MarkovChain {
 		}
 	}
 
+	/**
+	 * Generate n sentences
+	 *
+	 * @param n int
+	 */
 	public void generateSentences(int n) {
 		for (int i = 0; i < n; i++)
 			generateSentence();
 	}
 
+	/**
+	 * Generate and show a sentence from the Markov Chain
+	 */
 	private void generateSentence() {
 		// Vector to hold the phrase
 		Vector<String> newPhrase = new Vector<>();
@@ -85,12 +122,8 @@ class MarkovChain {
 				newPhrase.add(nextWord);
 			}
 		}
-		showPhrase(newPhrase);
-	}
-
-	private void showPhrase(Vector<String> phrase) {
 		String out = "";
-		for (String s : phrase)
+		for (String s : newPhrase)
 			out += s + " ";
 		out = out.replace("#", "");
 		System.out.println(out + "\n");

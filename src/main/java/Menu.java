@@ -12,8 +12,8 @@ public class Menu {
 		MarkovChain curr;
 		while (!series.equals("exit")) {
 			System.out.println("Enter Series Name");
-			System.out.println("TOS, TNG, DS9, VOY, ENT");
-			series = readString();
+			System.out.println("TOS, TNG, DS9, VOY, ENT, ALL");
+			series = readString().toUpperCase();
 			seriesChain = chains.get(series);
 			System.out.println("Enter type of line to generate");
 			System.out.println("Log, Command, or character name");
@@ -24,9 +24,9 @@ public class Menu {
 			while (true) {
 				curr.generateSentences(n);
 				System.out.println("Type back to go back");
-				if (readString().equals("back")) break;
+				if (readString().equalsIgnoreCase("back")) break;
 			}
-			System.out.println("Type exit to exit, or select a new series");
+			System.out.println("Type exit to exit, or enter to continue");
 			series = readString();
 		}
 	}
