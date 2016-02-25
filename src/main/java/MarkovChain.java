@@ -22,7 +22,7 @@ class MarkovChain {
 		addMoreLines(lineGetter);
 	}
 
-	public void createStarterEntries() {
+	private void createStarterEntries() {
 		// Create the first two entries (k:_start, k:_end)
 		markovChain.put("_start", new Vector<>());
 		markovChain.put("_end", new Vector<>());
@@ -38,6 +38,12 @@ class MarkovChain {
 			addWords(lineGetter.getNextLine(), markovChain);
 	}
 
+	/**
+	 * Splits the phrase into groups of two, with overlap
+	 *
+	 * @param phrase String
+	 * @return String[]
+	 */
 	private String[] spliterator(String phrase) {
 		String[] split = phrase.split(" ");
 		String[] out = new String[split.length];
@@ -49,6 +55,12 @@ class MarkovChain {
 		return out;
 	}
 
+	/**
+	 * Removes every other word in the phrase
+	 *
+	 * @param phrase String
+	 * @return String
+	 */
 	private String removeDuplicateWords(String phrase) {
 		String[] words = phrase.split(" ");
 		String out = "";
@@ -57,11 +69,11 @@ class MarkovChain {
 			if (add) {
 				out += s + " ";
 				add = false;
-			}else{
+			} else {
 				add = true;
 			}
 		}
-		return out + words[words.length-1];
+		return out + words[words.length - 1];
 	}
 
 	/**
@@ -81,36 +93,31 @@ class MarkovChain {
 		// if its added, then get the suffix vector and add the word
 		// if it hasn't been added then add the word to the list
 		// if its the first or last word then select the _start / _end key
-		try {
-			for (int i = 0; i < words.length; i++) {
-				// Add the start and end words to their own
-				if (i == 0) {
-					Vector<String> startWords = markovChain.get("_start");
-					startWords.add(words[i]);
-					Vector<String> suffix = markovChain.get(words[i]);
-					if (suffix == null) {
-						suffix = new Vector<>();
-						suffix.add(words[i + 1]);
-						markovChain.put(words[i], suffix);
-					}
-				} else if (i == words.length - 1) {
-					Vector<String> endWords = markovChain.get("_end");
-					endWords.add(words[i]);
+		for (int i = 0; i < words.length; i++) {
+			// Add the start and end words to their own
+			if (i == 0) {
+				Vector<String> startWords = markovChain.get("_start");
+				startWords.add(words[i]);
+				Vector<String> suffix = markovChain.get(words[i]);
+				if (suffix == null) {
+					suffix = new Vector<>();
+					suffix.add(words[i + 1]);
+					markovChain.put(words[i], suffix);
+				}
+			} else if (i == words.length - 1) {
+				Vector<String> endWords = markovChain.get("_end");
+				endWords.add(words[i]);
+			} else {
+				Vector<String> suffix = markovChain.get(words[i]);
+				if (suffix == null) {
+					suffix = new Vector<>();
+					suffix.add(words[i + 1]);
+					markovChain.put(words[i], suffix);
 				} else {
-					Vector<String> suffix = markovChain.get(words[i]);
-					if (suffix == null) {
-						suffix = new Vector<>();
-						suffix.add(words[i + 1]);
-						markovChain.put(words[i], suffix);
-					} else {
-						suffix.add(words[i + 1]);
-						markovChain.put(words[i], suffix);
-					}
+					suffix.add(words[i + 1]);
+					markovChain.put(words[i], suffix);
 				}
 			}
-		} catch (ArrayIndexOutOfBoundsException e) {
-			System.out.print("Shits broke yo: ");
-			System.out.println(phrase);
 		}
 	}
 

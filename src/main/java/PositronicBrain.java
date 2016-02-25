@@ -31,7 +31,7 @@ class PositronicBrain {
 	 *
 	 * @return HashMap
 	 */
-	public static HashMap<String, MarkovChain> mixSeries() {
+	private static HashMap<String, MarkovChain> mixSeries() {
 		HashMap<String, MarkovChain> out = new HashMap<>();
 		MarkovChain log = new MarkovChain();
 		MarkovChain command = new MarkovChain();
