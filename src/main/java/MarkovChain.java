@@ -38,16 +38,45 @@ class MarkovChain {
 			addWords(lineGetter.getNextLine(), markovChain);
 	}
 
+	private String[] spliterator(String phrase) {
+		String[] split = phrase.split(" ");
+		String[] out = new String[split.length];
+		for (int ix = 1; ix < split.length; ix++) {
+			String temp = split[ix - 1];
+			temp += " " + split[ix];
+			out[ix - 1] = temp;
+		}
+		return out;
+	}
+
+	private String removeDuplicateWords(String phrase) {
+		String[] words = phrase.split(" ");
+		String out = "";
+		boolean add = true;
+		for (String s : words) {
+			if (add) {
+				out += s + " ";
+				add = false;
+			}else{
+				add = true;
+			}
+		}
+		return out + words[words.length-1];
+	}
+
 	/**
 	 * Black Magic
 	 *
 	 * @param phrase      String
 	 * @param markovChain Hashtable
 	 */
+
 	private void addWords(String phrase, Hashtable<String, Vector<String>> markovChain) {
 		if (phrase.equals("#") || phrase.equals("")) return;
 		// put each word into an array
-		String[] words = phrase.split(" ");
+		String[] words = spliterator(phrase);
+		//No point in adding 2 word phrases
+		if (words.length < 2) return;
 		// Loop through each word, check if it's already added
 		// if its added, then get the suffix vector and add the word
 		// if it hasn't been added then add the word to the list
@@ -80,7 +109,7 @@ class MarkovChain {
 				}
 			}
 		} catch (ArrayIndexOutOfBoundsException e) {
-			System.out.print("Shits broke yo:");
+			System.out.print("Shits broke yo: ");
 			System.out.println(phrase);
 		}
 	}
@@ -126,6 +155,7 @@ class MarkovChain {
 		for (String s : newPhrase)
 			out += s + " ";
 		out = out.replace("#", "");
+		out = removeDuplicateWords(out);
 		System.out.println(out + "\n");
 	}
 }
