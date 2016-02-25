@@ -2,77 +2,19 @@ import java.io.*;
 import java.net.URL;
 
 class ScriptScraper {
-	/**
-	 * Downloads all episodes of a given series
-	 *
-	 * @param series Series
-	 */
-	public static void downloadEpisodes(Series series) {
-		int firstEpisodeNumber = 1;
-
-		switch (series) {
-			case TNG:
-			case VOY:
-				firstEpisodeNumber = 101;
-				break;
-			case DS9:
-				firstEpisodeNumber = 401;
-		}
-
-		int episodeCuttoff = 0;
-
-		switch (series) {
-			case TOS:
-				episodeCuttoff = 80;
-				break;
-			case TNG:
-				episodeCuttoff = 278;
-				break;
-			case DS9:
-				episodeCuttoff = 576;
-				break;
-			case VOY:
-				episodeCuttoff = 723;
-				break;
-			case ENT:
-				episodeCuttoff = 99;
-		}
-
-		for (int i = firstEpisodeNumber; i < episodeCuttoff; i++) {
-			if (PositronicBrain.episodeNumIsSkipped(i, series)) i++;
-			else if (PositronicBrain.isAtVoyagerGap(i, series)) i = PositronicBrain.getNumPastVoyagerGap(i);
-
-			try {
-				Thread.sleep(1000);
-			} catch (InterruptedException ex) {
-				Thread.currentThread().interrupt();
-			}
-			System.out.println("Downloading episode number " + i + " from series " + series);
-
-			//ENT's scripts use two digits for the production number, so we need to pad the episode number
-			//	with a 0 for the single-digit episodes.
-			String episodeNumString = Integer.toString(i);
-			if (series == Series.ENT && i < 10)
-				episodeNumString = "0" + i;
-
-			scrapeLink("http://www.chakoteya.net/" + series.toString() + "/" + episodeNumString + ".htm", i, series);
-		}
-	}
-
 	public static void downloadEpisode(Series series, int episode) {
-		try {
-			Thread.sleep(1000);
-		} catch (InterruptedException ex) {
-			Thread.currentThread().interrupt();
-		}
-		System.out.println("Downloading episode number " + episode);
+		System.out.println("Downloading episode number " + episode + " from series " + series);
 		//ENT's scripts use two digits for the production number, so we need to pad the episode number
 		//	with a 0 for the single-digit episodes.
 		String episodeNumString = Integer.toString(episode);
 		if (series == Series.ENT && episode < 10)
 			episodeNumString = "0" + episode;
 		scrapeLink("http://www.chakoteya.net/" + series.toString() + "/" + episodeNumString + ".htm", episode, series);
-		System.out.println("Downloading episode number " + episode + " from series " + series);
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException ex) {
+			Thread.currentThread().interrupt();
+		}
 	}
 
 	/**

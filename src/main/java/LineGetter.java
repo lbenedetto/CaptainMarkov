@@ -57,22 +57,27 @@ abstract class LineGetter {
 
 	/**
 	 * Move to the next episode
+	 * Pass in -1 to use default episode number
 	 */
+
 	void nextEpisode() {
 		if (PositronicBrain.episodeNumIsSkipped(currentEpisodeNum + 1, series))
 			currentEpisodeNum++;
 		else if (PositronicBrain.isAtVoyagerGap(currentEpisodeNum + 1, series))
 			currentEpisodeNum = PositronicBrain.getNumPastVoyagerGap(currentEpisodeNum + 1);
-
 		currentEpisodeNum++;
 		try {
-
 			currentEpisode = new BufferedReader(new FileReader("./scripts/" + series.toString() +
 					"/Episode " + currentEpisodeNum + ".txt"));
 		} catch (FileNotFoundException e) {
-			//TODO: Do this per episode instead of per series
 			System.out.println("Could not find script file, downloading now");
-			ScriptScraper.downloadEpisodes(series);
+			ScriptScraper.downloadEpisode(series, currentEpisodeNum);
+			try {
+				currentEpisode = new BufferedReader(new FileReader("./scripts/" + series.toString() +
+						"/Episode " + currentEpisodeNum + ".txt"));
+			} catch (FileNotFoundException ex) {
+				System.out.println("Somethings fucky");
+			}
 		}
 	}
 
@@ -85,7 +90,11 @@ abstract class LineGetter {
 			while (nextLine.equals("#"))
 				nextLine = lines.readLine();
 		} catch (IOException | NullPointerException e) {
-			nextLine = null;
+			if (hasNextEpisode()) {
+				nextEpisode();
+				nextLine();
+			} else
+				nextLine = null;
 		}
 
 	}
