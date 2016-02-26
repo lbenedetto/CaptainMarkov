@@ -16,3 +16,5 @@ The markov class then reads through the lines provided by the instance of the ab
 The statistical model is then used to generate new dialogue
 
 Example outputs can be found at https://twitter.com/captain_markov
+
+Star Trek and related marks are trademarks of CBS Studios Inc. Copyright 1966, Present. The Star Trek scripts in this repo are for educational and entertainment purposes only. All other copyrights property of their respective holders.
