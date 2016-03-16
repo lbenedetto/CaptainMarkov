@@ -183,7 +183,7 @@ T'POL: We've scanned the planet, it's uninhabited.#
 T'POL: Other than ourselves, there are no humanoid life forms here.#
 T'POL: It's functioning perfectly. Perhaps you imagined seeing them.#
 T'POL: Where do you propose we go, back out into the storm?#
-T'POL:;I'll be back shortly.#
+T'POL: I'll be back shortly.#
 T'POL: If there's someone back there, I intend to find them. (She heads deeper into the cavern. Cutler takes the final phase pistol.)#
 T'POL: Excuse me?#
 T'POL: Talking to? There's no one here.#
@@ -432,7 +432,7 @@ T'POL: I should return to the ship and begin my analysis.#
 T'POL: What about you?#
 T'POL: The longer you remain, the more you risk cultural contamination.#
 T'POL: Enjoy your tea.#
-T'POL:;Yes.#
+T'POL: Yes.#
 T'POL: I'm not familiar with it.#
 T'POL: Could this be responsible for the epidemic?#
 T'POL: I'll notify the Captain.#
@@ -547,9 +547,9 @@ T'POL: They did come looking for us, and considering they've already met two oth
 T'POL: We should assign some crewmen to watch Doctor Phlox and his equipment.#
 T'POL: Your experience with lesser civilisations is limited, Captain. You might be surprised what a temptation our technology can be.#
 T'POL: No. We may look alike, but the similarity ends there.#
-T'POL:;That's impossible.#
+T'POL: That's impossible.#
 T'POL: My teeth were sealed with a tri-fluorinate compound twenty three years ago.#
-T'POL:;I'm sure you have more pressing concerns. I'll come back later.#
+T'POL: I'm sure you have more pressing concerns. I'll come back later.#
 T'POL: Are you asking out of personal interest or scientific curiosity?#
 T'POL: In my experience, humans lack the emotional maturity for interspecies relationships. They tend to be easily infatuated with things they find new. This crewman may simply be satisfying her curiosity at your expense.#
 T'POL: Be careful.#
@@ -596,7 +596,7 @@ T'POL: Enterprise had no good reason to visit a Vulcan sanctuary. I had the oppo
 T'POL: I am not running away.#
 T'POL: No.#
 T'POL: I'm not hungry.#
-T'POL:;What happened?#
+T'POL: What happened?#
 T'POL: Captain Sopek?#
 T'POL: I'd like to return to my quarters.#
 T'POL: You should have consulted me first.#
@@ -641,7 +641,7 @@ T'POL: They are worms.  HOSHI: Ugh! (They hear movement from behind a door, and 
 T'POL: You're in a dangerous situation in an alien environment. Your anxiety is understandable.#
 T'POL: You can't deny your nature.#
 T'POL: Take my hand.#
-T'POL:; My hand. Close your eyes. (She puts three#
+T'POL:  My hand. Close your eyes. (She puts three#
 T'POL: Focus. The waves are subsiding. The water is growing still. You're in control.#
 T'POL: When we return to the ship, I'll teach you how to do it on your own.#
 T'POL: Lieutenant Reed, report.#
@@ -1229,7 +1229,7 @@ T'POL: They're demanding that we jettison the section of hull plating and leave.
 T'POL: I'm sure you did everything you could, Captain.#
 T'POL: Captain, I assume there's no point in my questioning your plan.#
 T'POL: Bridge to Captain Archer.#
-T'POL:;Hail them.#
+T'POL: Hail them.#
 T'POL: Polarise the hull plating.#
 T'POL: Enterprise to Captain Archer. Captain, respond.#
 T'POL: Open the doors to Launch bay two.#
@@ -1351,7 +1351,7 @@ T'POL: Only once, on Risa. They thought they were invulnerable.#
 T'POL: He. He thought he was invulnerable there, that no one would think to look for him on such a peaceful place.#
 T'POL: I got very close. Twenty metres, maybe ten. (She has a memory of running through foliage.)#
 T'POL: I never found him again. No one did. Not until now. (It's snowing when the shuttlepod lands by some buildings on the side of a mountain.)#
-T'POL:;He's here.#
+T'POL: He's here.#
 T'POL: Within thirty metres.#
 T'POL: He saw me.#
 T'POL: I'm not certain. (Archer jumps onto a table and whistles to Travis, then ducks as shots are fired towards him. It's Menos trying to make his escape. An alien snarls something at Archer.)#
@@ -1504,7 +1504,7 @@ T'POL: That would most likely attract the polaric discharge.#
 T'POL: The chambers you and Mister Tucker photographed contained sacred relics.#
 T'POL: What's the problem?#
 T'POL: Lives are at stake, Ensign.#
-T'POL:;Ensign. Would you like to join me?#
+T'POL: Ensign. Would you like to join me?#
 T'POL: Why is that?#
 T'POL: The hostage situation was resolved. They're back on board.#
 T'POL: Crewman Baird deciphered their language. A simple bimodal syntax.#
@@ -1545,7 +1545,7 @@ T'POL: All right. Twenty cubic metres.#
 T'POL: We'll be inside the phenomenon for nearly eight days. We can run all the scans we want. Lieutenant Reed has completed his modifications.#
 T'POL: A single neutronic surge could overload the grid and damage critical systems.#
 T'POL: I must have remembered incorrectly.#
-T'POL:;One minute, five seconds.#
+T'POL: One minute, five seconds.#
 T'POL: Thirty seconds.#
 T'POL: Twenty seconds. Fifteen. Ten.#
 T'POL: Only slightly. (Archer turns off the PADD and settles down to sleep, but with the light on and T'Pol tapping at her PADD, it's not easy.) T'POL: Am I disturbing you?#
@@ -1568,7 +1568,7 @@ T'POL: The final sequencer.#
 T'POL: Report.#
 T'POL: Maintain your course.#
 T'POL: They could still be on board.#
-T'POL:;Maintain your course. That's an order.  Go ahead.#
+T'POL: Maintain your course. That's an order.  Go ahead.#
 T'POL: Ensign.#
 T'POL: The dead man was secretly working for Sheriff Boggs.#
 T'POL: Isn't it obvious?#
@@ -2523,7 +2523,7 @@ T'POL: You've been abducting people for money and you're questioning our honesty
 T'POL: What are you doing?#
 T'POL: Extinguish that now!#
 T'POL: Now.#
-T'POL:;Stay exactly where you are.  T'POL: T'Pol.#
+T'POL: Stay exactly where you are.  T'POL: T'Pol.#
 T'POL: Are you in a position to disable all three of them? [Warehouse - looking down on the Xindi lab]#
 T'POL: Acknowledged. (She returns to the car and throws the keys at#
 T'POL: Drive.#
@@ -2678,7 +2678,7 @@ T'POL: Perhaps Triannon mythology has a basis in fact. It appears the pod was de
 T'POL: Corporal. Come in.#
 T'POL: Please sit down. Remove your jacket. I assume Commander Tucker briefed you on the proper breathing technique.#
 T'POL: Begin with a deep breath. Good. Doctor Phlox did caution you against any further neuro-pressure from Commander Tucker?#
-T'POL:;You and Commander Tucker appear to enjoy each others company.#
+T'POL: You and Commander Tucker appear to enjoy each others company.#
 T'POL: He didn't mention it.#
 T'POL: Extremely low.#
 T'POL: Did you lose any relatives?#
@@ -2798,7 +2798,7 @@ T'POL: Shall we try?#
 T'POL: What's wrong?#
 T'POL: You need to#
 T'POL: Perhaps you should increase it.#
-T'POL:;Doctor, perhaps we should wake Commander Tucker.#
+T'POL: Doctor, perhaps we should wake Commander Tucker.#
 T'POL: If we destroy the ship, we'll all die.#
 T'POL: If we can't accomplish our mission, billions of people on Earth could die. Isn't it logical to sacrifice one life to save so many?#
 T'POL: The field is stabilising.#
@@ -3094,7 +3094,7 @@ T'POL: There's a Vulcan axiom. The needs of the many outweigh the needs of the f
 T'POL: No, but it makes it honourable.#
 T'POL: Most definitely.#
 T'POL: The Spheres are controlled by a network of artificial intelligence. This section houses the redundant memory core. It should contain a significant amount of information.#
-T'POL:;We need to access the data from this. Meet me in the Command centre in half an hour. I'll assist you.#
+T'POL: We need to access the data from this. Meet me in the Command centre in half an hour. I'll assist you.#
 T'POL: This could be a command subroutine.#
 T'POL: We'll have to make do without her.#
 T'POL: We're here to analyse this data, not speculate on Ensign Sato's fate.#
@@ -3216,7 +3216,7 @@ T'POL: Several vehicles converged on the area moments before the shuttlepod expl
 T'POL: But Vosk and his men arrived on Earth recently. A few years ago.#
 T'POL: Daniels said that different factions in the Temporal War are changing history throughout the timeline. Maybe this assassin was working for one of them.#
 T'POL: Their shields are still holding.#
-T'POL:;You should be able to deactivate the shields from this console. Here's the procedure. The data from the disk was extremely helpful.#
+T'POL: You should be able to deactivate the shields from this console. Here's the procedure. The data from the disk was extremely helpful.#
 T'POL: Our targeting array is offline. We're in need of Commander Tucker's skills.#
 T'POL: Understood. Good luck.#
 T'POL: Could it pose a danger to the Captain?#

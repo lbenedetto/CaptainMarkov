@@ -133,7 +133,7 @@ PHLOX: Two days, maybe three.#
 PHLOX: Under the circumstances, I defer to your experience.#
 PHLOX: It's not unlike the Hindu faith, Commander. They also believe that the universe goes through repeated cycles of rebirth.#
 PHLOX: Oh, yes. In fact, while I was there I made it a point to study a number of them. I spent two weeks at a Tibetan monastery where I learned to sing chords with the high lamas. I attended Mass at Saint Peter's Square. I was even allowed to observe the Tal-Shanar at the Vulcan consulate.#
-PHLOX:;There's your heart, lungs, liver, another heart. Every organ. This imaging device also allows us to examine your genetic structure. Ah, you'll be happy to know you're in perfect health. Who would like to go next?#
+PHLOX: There's your heart, lungs, liver, another heart. Every organ. This imaging device also allows us to examine your genetic structure. Ah, you'll be happy to know you're in perfect health. Who would like to go next?#
 PHLOX: I plan to, Captain. Thank you for letting me spend the night with these people.#
 PHLOX: Aye, Captain. .#
 PHLOX: Roja durana tua teenan, Captain. That is a traditional greeting on the morning of Agosoria. It means, may the Plume light your way.#
@@ -370,7 +370,7 @@ PHLOX: Ambassador Soval's service record contains an impressive list of accompli
 PHLOX: I'll certainly miss your outspoken personality, Mister Tucker.#
 PHLOX: Hoshi?#
 PHLOX: How are you holding up?#
-PHLOX:; Good luck. (She continues on, then punches out a grill into a corridor and starts to lower herself down. Her vest gets caught on a hook and she drops to the floor, leaving it behind.) [Reed's quarters} (The door opens to reveal - Hoshi with her arms crossed in front of her naked breasts.)#
+PHLOX:  Good luck. (She continues on, then punches out a grill into a corridor and starts to lower herself down. Her vest gets caught on a hook and she drops to the floor, leaving it behind.) [Reed's quarters} (The door opens to reveal - Hoshi with her arms crossed in front of her naked breasts.)#
 PHLOX: Get this man into the imaging chamber.#
 PHLOX: I don't know.#
 PHLOX: Yes, Captain.#
@@ -410,7 +410,7 @@ PHLOX: I'll still need at least a couple of hours.#
 PHLOX: He's fast asleep.#
 PHLOX: He's gone into anaphylactic shock. His body's rejecting the treatment I selected.#
 PHLOX: Exactly. It's not working.#
-PHLOX:;Fill this with five cc's of tetrasol. It's the blue fluid, second on the right. Five cc's.#
+PHLOX: Fill this with five cc's of tetrasol. It's the blue fluid, second on the right. Five cc's.#
 PHLOX: I don't think so.#
 PHLOX: You asked me if he was going to die.#
 PHLOX: A couple of hours, yes. How are things progressing with the Kreetassans?#
@@ -1290,7 +1290,7 @@ PHLOX: Nearly forty years.#
 PHLOX: Twice. Why?#
 PHLOX: Probably not. May I ask what you're planning to do?#
 PHLOX: I'll be ready.#
-PHLOX: Yes, this will just take a moment.  PHLOX: What is it? PHLOX:;There's a good deal of residual trellium in your bloodstream. How long have you been doing this?#
+PHLOX: Yes, this will just take a moment.  PHLOX: What is it? PHLOX: There's a good deal of residual trellium in your bloodstream. How long have you been doing this?#
 PHLOX: I need to know precisely what has been happening.#
 PHLOX: As I recall, you were homicidal and paranoid.#
 PHLOX: You must have known it was dangerous. Trellium exposure is deadly to Vulcans. It eats away at the neural pathways.#

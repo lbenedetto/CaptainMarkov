@@ -16,9 +16,10 @@ class Character extends LineGetter {
 		character = cName.toUpperCase() + ":";
 		while (lines == null) {
 			try {
+				if(Menu.deepLogging)System.out.println("Reading file ./characters/" + series.toString() + "/" + characterExternalName + ".txt");
 				lines = new BufferedReader(new FileReader("./characters/" + series.toString() + "/" + characterExternalName + ".txt"));
 			} catch (FileNotFoundException e) {
-				System.out.println("File not found, creating file");
+				System.out.println("File not found, creating file ./characters/" + series.toString() + "/" + characterExternalName + ".txt");
 				saveLines();
 			}
 		}
@@ -30,15 +31,16 @@ class Character extends LineGetter {
 	 */
 	private void saveLines() {
 		//Create the directory
-		String seriesString = series.toString();
-		new File("./characters/" + seriesString).mkdir();
+		if (!new File("./characters/" + series.name).mkdirs()) {
+			System.out.println("Failed to create directory ./characters/" + series.name);
+		}
 		System.out.println("Saving lines spoken by " + characterExternalName);
 		boolean recordingLine = false;
 		try {
 			String line = "";
-			PrintWriter txtFile = new PrintWriter(new FileWriter("./characters/" + seriesString + "/" + characterExternalName + ".txt", true));
+			PrintWriter txtFile = new PrintWriter(new FileWriter("./characters/" + series.name + "/" + characterExternalName + ".txt", true));
 			String curr = currentEpisode.readLine().trim();
-			while (hasNextEpisode()) {
+			while (series.hasNextEpisode()) {
 				try {
 					if (curr.startsWith(character)) {
 						recordingLine = true;

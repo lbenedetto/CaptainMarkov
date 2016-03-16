@@ -35,7 +35,7 @@ class MarkovChain {
 	 */
 	public void addMoreLines(LineGetter lineGetter) {
 		while (lineGetter.hasNextLine())
-			addWords(lineGetter.getNextLine(), markovChain);
+			addWords(lineGetter.getNextLine());
 	}
 
 	/**
@@ -79,11 +79,10 @@ class MarkovChain {
 	/**
 	 * Black Magic
 	 *
-	 * @param phrase      String
-	 * @param markovChain Hashtable
+	 * @param phrase String
 	 */
 
-	private void addWords(String phrase, Hashtable<String, Vector<String>> markovChain) {
+	private void addWords(String phrase) {
 		if (phrase.equals("#") || phrase.equals("")) return;
 		// put each word into an array
 		String[] words = spliterator(phrase);

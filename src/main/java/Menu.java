@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Menu {
+	public static final boolean deepLogging = false;
 	//TODO: Convert to GUI (long term goal)
 	public static void main(String[] args) {
 		HashMap<String, HashMap<String, MarkovChain>> chains = PositronicBrain.createMarkovChains();

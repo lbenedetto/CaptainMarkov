@@ -273,7 +273,7 @@ TUCKER: We're still in the same room and this isn't a boat.#
 TUCKER: Resequenced photons.#
 TUCKER: If we had one of these on Enterprise, I'd never ask for shore leave.#
 TUCKER: We don't. Well, actually we do, but we do it through observing behaviour, getting to know someone.#
-TUCKER:;Not that I know of. Normally we shave them off with something called a razor, but I haven't had the chance since I've been here.#
+TUCKER: Not that I know of. Normally we shave them off with something called a razor, but I haven't had the chance since I've been here.#
 TUCKER: Go ahead.(She strokes his cheek and that electric thing#
 TUCKER:  Not in the least.;(She uses the holodeck control to#
 TUCKER: Are there any rules to this game?#
@@ -287,7 +287,7 @@ TUCKER: A little shorter than us, weird scales on their faces, but otherwise pre
 TUCKER: I see you've got the visual back online.#
 TUCKER: It was worth every minute. As long as those coils stay charged, you shouldn't have a problem maintaining a stable warp field. (to Ah'len) Thanks for taking care of me when I wasn't feeling so hot.#
 TUCKER: I appreciate the opportunity, Commander.#
-TUCKER:;You should've come with me, Malcolm.#
+TUCKER: You should've come with me, Malcolm.#
 TUCKER: It wasn't like any visual simulator I've ever tried. It was more like actually being there. You could smell the ocean, feel the salt air on your skin.#
 TUCKER: I don't know if they can recreate people with it, but it sure did a hell of a job on landscapes.#
 TUCKER: Ah'len, one of their engineers. She's the one who showed me the holographic chamber.#
@@ -422,7 +422,7 @@ TUCKER: Looks like she's having some trouble keeping her promises. Should I have
 TUCKER:  You sure you want me here for this? I've got a lot of work to do.#
 TUCKER: Pause it, will you?  TUCKER: A poop question, sir? Can't I talk about the warp reactor or the transporter?#
 TUCKER: The first thing you've got to understand is we recycle pretty much everything on a starship. That includes waste, and the first thing that happens to the waste is it gets processed through a machine called a bio-matter resequencer. Then it gets broken down into. Hold on. TUCKER: They're going to think I'm the sanitation engineer.#
-TUCKER:;So the waste is broken down into little molecules and then they get transformed into any number of things we can use on the ship. Cargo containers, insulation, boots, you name it.#
+TUCKER: So the waste is broken down into little molecules and then they get transformed into any number of things we can use on the ship. Cargo containers, insulation, boots, you name it.#
 TUCKER: Any luck?#
 TUCKER: What's it say?#
 TUCKER: You didn't read it?#
@@ -471,7 +471,7 @@ TUCKER: You've got an obligation to yourself. You've spent the last year around 
 TUCKER: I respect your customs, but this marriage was arranged when you were a kid. A lot's happened since then. People change.#
 TUCKER: Really.#
 TUCKER: Sounds to me like you already made up your mind. Why the hell did you ask me here?#
-TUCKER:;Did it ever occur to you that you might have postponed the wedding because subconsciously you wanted to get out of it?#
+TUCKER: Did it ever occur to you that you might have postponed the wedding because subconsciously you wanted to get out of it?#
 TUCKER: Well it happens to humans all the time. Maybe you're picking up some of our bad habits.#
 TUCKER:  The mouth of that chasm's a little narrow.#
 TUCKER: Bring us in another fifty metres. Two metres starboard. A little more.#
@@ -926,7 +926,7 @@ TUCKER: Captain.#
 TUCKER: Why do you think this shape-shifter reached into your mind and picked an image you'd almost forgotten?#
 TUCKER: Maybe that poem's been on your mind more than you realise.#
 TUCKER: You sure? You look pretty rattled.#
-TUCKER:;Doc, isn't my time up yet? You said twenty minutes.#
+TUCKER: Doc, isn't my time up yet? You said twenty minutes.#
 TUCKER: Hello? (He tries the door, then uses the panel to short out the lock and leave. He discovers the unconscious crewmen in the corridors and turbolift. At the airlock,;Ulis and Grish put a ramp over the door lip and wheel trolleys onto Enterprise/)#
 TUCKER: You all right, Captain?#
 TUCKER: From what I can tell, you and I are the only ones on the ship still standing. I would've tried to wake some of the others but there's nothing left in Sickbay to do it with.#
@@ -957,7 +957,7 @@ TUCKER: Keep your shirt on. It's close.#
 TUCKER: Watch your head.#
 TUCKER: Relax. We're here. (The three aliens try to go through the hatch at the same time to see Trip working at the lock he installed earlier.)#
 TUCKER: It's all yours.#
-TUCKER:;Better let me go in first.#
+TUCKER: Better let me go in first.#
 TUCKER: Knowing Captain Archer, he's probably rigged the place with booby traps. Just give me a few minutes to check it out.#
 TUCKER: Sorry fellas, bank must be closed today.#
 TUCKER: I bet you'd look good in Triaxian silk.#
@@ -1196,7 +1196,7 @@ TUCKER: My shift doesn't begin for another six hours.#
 TUCKER: Where? Where are we going? ARCHER: Nice little place I know. Plenty of shade. TUCKER: Are there blankets down there? I'm freezing.#
 TUCKER: No, sir. I won't take another man's water.#
 TUCKER: Got to keep moving.#
-TUCKER:;Thanks.#
+TUCKER: Thanks.#
 TUCKER: Home, sweet home. (Archer finds a metal bowl with some water in#
 TUCKER: Now, this is my idea of a great time.#
 TUCKER: What'd you do, rub two sticks together?#
@@ -1267,7 +1267,7 @@ TUCKER: Still, it would probably be best if we didn't get too flirtatious.#
 TUCKER: You think twenty years from now there'll be Earth colonies out this far? Human kids growing up on New Sausalito?#
 TUCKER: Every light year. You know, I think I've heard you say that at least half a dozen times.#
 TUCKER: That's the weird part, sir. The tetrazine levels were less than three parts per million. That's half what the protocol specified.#
-TUCKER:;When tetrazine is ignited by plasma exhaust, there's only one outcome you can be sure of.#
+TUCKER: When tetrazine is ignited by plasma exhaust, there's only one outcome you can be sure of.#
 TUCKER: You got it.#
 TUCKER: Cancelled?#
 TUCKER: Twenty years? Starfleet won't buy that for a minute.#
@@ -1578,7 +1578,7 @@ TUCKER: Don't move.#
 TUCKER: Turn around.#
 TUCKER: All done.#
 TUCKER: Sounds good.#
-TUCKER:;I really need to get to work on this.#
+TUCKER: I really need to get to work on this.#
 TUCKER: How many more?#
 TUCKER: Nineteen? Are you writing the preface or the book?#
 TUCKER: No kidding.#
@@ -1744,7 +1744,7 @@ TUCKER: If you find any water up there, I could use some.#
 TUCKER: Thanks.#
 TUCKER: Allow me.#
 TUCKER: I'm not contagious.#
-TUCKER:;Depends how hungry you are.#
+TUCKER: Depends how hungry you are.#
 TUCKER: It reminds me of my first car.#
 TUCKER: A four-wheeled vehicle. Wasn't much bigger than this. All we're missing is the ocean breeze coming off the Gulf. I used to drive out to a place called Chatkin Point, park along the shoreline and stare at the moon with my girlfriend. Don't worry. I won't make a pass at you.#
 TUCKER: You must be a fun date.#
@@ -1865,7 +1865,7 @@ TUCKER: Yeah. Sorry, but breakfast is going to have to wait. I've figured out a 
 TUCKER: Got it. Almost there. I think this is going to work.#
 TUCKER: No, not nohkto. Good.#
 TUCKER: That's right. We're getting out of here. Once we get back to Enterprise and we can finally understand each other, the first words out of your mouth had better be thank you. (He gets an electrical short#
-TUCKER:;Before we start, we'll get some food from your ship. Your v'dhoze. (As soon as his hands are free, Zho'Kaan attacks Tucker. They wrestle,#
+TUCKER: Before we start, we'll get some food from your ship. Your v'dhoze. (As soon as his hands are free, Zho'Kaan attacks Tucker. They wrestle,#
 TUCKER: Chief Engineer's log, supplemental. It's been two hours since we started signaling the Enterprise. No response yet. The sun's not even up yet and it's already hotter than hell. My sparring partner doesn't look too good. I can't be sure, but I don't think his species can sweat. For the record, I have learned one thing about him. His name's Zho'Kaan. Anything you want to say to the folks back home?#
 TUCKER: That means bad. You'd be proud of me, Hoshi. I've picked up about a dozen words in his language. A couple of them are real tongue-twisters. (He unscrews the top from Zho'Kaan's flask so he can drink.)#
 TUCKER: Hey. Zho'Kaan.  I though I lost you there.#
@@ -2162,7 +2162,7 @@ TUCKER: I think it's Denobulan. I've seen characters like these in Phlox's medic
 TUCKER:  Rock samples.#
 TUCKER: Toss a coin?#
 TUCKER: How can you tell?#
-TUCKER:;I can't reach it. (He carries on swinging#
+TUCKER: I can't reach it. (He carries on swinging#
 TUCKER: Stand by. We'll try again. Let's swing together. You ready? On three. One, two, three!#
 TUCKER: We're all right!(The pair make it back up to Travis on the ledge, and check out his ankle.)#
 TUCKER: Yes. You tore a couple of ligaments, too.#
@@ -3100,7 +3100,7 @@ TUCKER: You okay?#
 TUCKER: I thought Vulcans didn't get headaches.#
 TUCKER: You notice anything strange about the way she's been acting?#
 TUCKER: I think I pulled a muscle.#
-TUCKER:; Pain's pretty bad.#
+TUCKER:  Pain's pretty bad.#
 TUCKER: We've been running double shifts in Engineering. Captain's in hell of a rush to get to this damned Council.#
 TUCKER: Oh, I have faith in the Captain, but not in the people he's trying to convince.#
 TUCKER: Reasonable? I don't think many people back in my home town would go along with that.#
@@ -3730,7 +3730,7 @@ TUCKER: Oh, I'm crazy?#
 TUCKER: You're the last one that should be giving me a lecture. Vulcan neuro-pressure was your idea.#
 TUCKER: What the hell am I going to do?#
 TUCKER: She's good to go.#
-TUCKER:;A lot of movement. Fifty percent spike. ARCHER; Are you feeling all right?#
+TUCKER: A lot of movement. Fifty percent spike. ARCHER; Are you feeling all right?#
 TUCKER: She's maxed it out.#
 TUCKER: We could simulate a course correction.#
 TUCKER: There's no getting around it. I missed a ten degree variance in the telepresence emitter.#

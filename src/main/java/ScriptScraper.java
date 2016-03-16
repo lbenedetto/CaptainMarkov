@@ -67,14 +67,14 @@ class ScriptScraper {
 	 */
 	private static void saveEpisode(String text, int epNum, Series series) {
 		PrintWriter txtFile;
-		String seriesString = series.toString();
-		File dir = new File("./scripts/" + seriesString);
-		dir.mkdir();
+		if (!new File("./scripts/" + series.name).mkdirs()) {
+			System.out.println("Failed to create directory for ./scripts/" + series.name);
+		}
 		try {
-			new FileReader("./scripts/" + seriesString + "/Episode " + epNum + ".txt");
+			new FileReader("./scripts/" + series.name + "/Episode " + epNum + ".txt");
 		} catch (FileNotFoundException e) {
 			try {
-				txtFile = new PrintWriter(new FileWriter("./scripts/" + seriesString + "/Episode " + epNum + ".txt", true));
+				txtFile = new PrintWriter(new FileWriter("./scripts/" + series.name + "/Episode " + epNum + ".txt", true));
 				txtFile.println(text);
 				txtFile.close();
 			} catch (IOException ex) {

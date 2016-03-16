@@ -41,6 +41,20 @@ COMPUTER: The holographic imaging system has been destroyed.#
 COMPUTER: Negative.#
 COMPUTER: Please restate the question.#
 COMPUTER: All holo-simulations have been terminated.#
+COMPUTER: The shuttlecraft has sustained phaser fire. Minor damage to aft shields.#
+COMPUTER: A Kazon spacecraft closing at one nine five mark six.#
+COMPUTER: Affirmative. One life sign.#
+COMPUTER: Acknowledged. Targeting scanners.#
+COMPUTER: Scanners locked.#
+COMPUTER: Long-range communications, lateral sensor array and aft shields are offline.#
+COMPUTER: Warning. Alien vessel approaching at zero two two mark eight.#
+COMPUTER: Confirmed. Transmission has been received.#
+COMPUTER: Warning. Kazon vessel has engaged a tractor beam.#
+COMPUTER: Unable to comply. Tractor force exceeds available engine power.#
+COMPUTER: Aft shields at sixty three percent.#
+COMPUTER: There is an M-class moon at bearing one zero eight mark one eight. Distance, one point nine million kilometres.#
+COMPUTER: Warning. Aft shields have been penetrated. Hull breach is imminent.#
+COMPUTER: Transport is not recommended. The moon is out of safety range.#
 COMPUTER: Negative. No temporal anomalies have been reported.#
 COMPUTER: Information on USS Voyager is classified. Security clearance level three or above is required to access files.#
 COMPUTER: Security authorisation accepted. Last recorded contact with USS Voyager prior to its disappearance was on stardate 48307.5.#

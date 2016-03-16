@@ -180,7 +180,7 @@ ARCHER: Bank starboard, ninety degrees.#
 ARCHER: That's the upper support radius. Drop down right below it. Start a counter clockwise sweep. A little more. A little more. (they bump another pod) Right there.#
 ARCHER:  Stun seems to work.#
 ARCHER: Be quiet.#
-ARCHER: Give me the box. TUCKER:;Thanks. ARCHER: Get to the ship. I'll be right behind you. (He sets the magnetic unlocking device, then discovers just how many pieces the structure is really made of. Forcefields activate to stop atmosphere escaping, and thousands of pods fall off a central spacedock shaped structure.) {Suliban pod]#
+ARCHER: Give me the box. TUCKER: Thanks. ARCHER: Get to the ship. I'll be right behind you. (He sets the magnetic unlocking device, then discovers just how many pieces the structure is really made of. Forcefields activate to stop atmosphere escaping, and thousands of pods fall off a central spacedock shaped structure.) {Suliban pod]#
 ARCHER: Still on the central core. Get Klaang back to Enterprise.#
 ARCHER: Believe me, I'll try.#
 ARCHER: What is this room? What goes on in here?#
@@ -317,7 +317,7 @@ ARCHER: Have you tried hailing them?#
 ARCHER: Try again.#
 ARCHER: We're almost in. Stand by to jump to warp. (Lots of weapons fire. The pod is jolted off the arm. Hoshi closes the porthole shutter as they try again. Success.) ARCHER: Doors.#
 ARCHER: Archer to the Bridge. It doesn't feel like we've gone to warp.#
-ARCHER:; Have Malcolm arm the torpedoes.#
+ARCHER:  Have Malcolm arm the torpedoes.#
 ARCHER: Report.#
 ARCHER: Malcolm?#
 ARCHER: Stand by starboard tube.#
@@ -351,7 +351,7 @@ ARCHER: Set us down just east of those hills.#
 ARCHER: I almost forgot what fresh air smells like.#
 ARCHER: Put that thing away. Take a minute to enjoy yourself. The sky ever get this blue on Vulcan?#
 ARCHER: We're walking on an alien world light years from Earth or Vulcan. Doesn't that impress you?#
-ARCHER:;Smile. Be sure to get a copy of that to the Vulcan High Command.#
+ARCHER: Smile. Be sure to get a copy of that to the Vulcan High Command.#
 ARCHER: I'm afraid my log entry isn't going to do this justice.#
 ARCHER: Three weeks in deep space, you're ready to jump ship?#
 ARCHER: Archer.#
@@ -411,7 +411,7 @@ ARCHER: Now, I'm going to ask Hoshi to tell T'Pol everything I just told you in 
 ARCHER: Ensign.#
 ARCHER: Archer to the Bridge.#
 ARCHER: What the hell's going on?#
-ARCHER:;Oh, no, no, no, not at all. Any idea when you might get it back online?#
+ARCHER: Oh, no, no, no, not at all. Any idea when you might get it back online?#
 ARCHER: Thank you.#
 ARCHER: Any luck?#
 ARCHER: You think it might be a good idea to drop out of warp?#
@@ -485,7 +485,7 @@ ARCHER: I appreciate your co-operation. I hope the next time we meet, we can be 
 ARCHER: Trena'l told me that at full impulse, they can probably get home in less than a month.#
 ARCHER: That business about the Klingon Chancellor calling me a brother, was that true?#
 ARCHER: Your appetite seems to be back to normal.#
-ARCHER:;Are we there yet?#
+ARCHER: Are we there yet?#
 ARCHER: You'd be the first.#
 ARCHER: I'll let you know in about three hours and seventeen minutes.#
 ARCHER: I'm surprised you've never heard of it.#
@@ -514,7 +514,7 @@ ARCHER: After you. (Further on they find a storeroom with a collection of dead a
 ARCHER: My name is Archer. We're looking for some people. I was hoping you could help us.  We're not going to hurt you. We're just trying to find out what happened to them.; (A man rushes in with a weapon, they stun him and the small faces vanish. A second man come in and fires a percussion weapon. Archer and Reed run, but the Captain is#
 ARCHER: We're under attack, and I think we just took a wrong turn. We could use a little help navigating down here.#
 ARCHER: I don't see a tunnel.#
-ARCHER:;Malcolm?; (He;looks back through the opening. There's just a flashlight on the ground, then shots drive him back.); ARCHER: Malcolm?#
+ARCHER: Malcolm?; (He;looks back through the opening. There's just a flashlight on the ground, then shots drive him back.); ARCHER: Malcolm?#
 ARCHER: Go.;#
 ARCHER: Take us up.#
 ARCHER: Archer to the Bridge. What have you found?#
@@ -544,13 +544,13 @@ ARCHER: Doctor Phlox can make her well, but she'd have to come back to our ship.
 ARCHER: She'd be back before the sun rises on the overside. Let us help you.#
 ARCHER: He needs to be treated as well.#
 ARCHER: Probably best if you lead the way.#
-ARCHER:;That's Enterprise. It's a lot like the ship that brought the colonists to this planet. It was called the Conestoga. Maybe you were born on board, or were you born after your parents got here?#
+ARCHER: That's Enterprise. It's a lot like the ship that brought the colonists to this planet. It was called the Conestoga. Maybe you were born on board, or were you born after your parents got here?#
 ARCHER: It's all right. (It opens. She comes out and sits up immediately.)#
 ARCHER: Medicine. He's just going to give her some medicine.#
 ARCHER: I've got some other pictures you might like to see. One of my crewmen found these in our database. (Archer calls up the expedition files Travis was looking at.) ARCHER: They might help you remember what it was like living on the overside before the poison rain.#
 ARCHER: I'm just trying to help you see how you got here.#
 ARCHER: Well look again. Because whether you want to believe it or not, we're both human.#
-ARCHER:;Doctor, keep me posted. Captain's starlog, supplemental. Sub-Commander T'Pol has discovered the remnants of an impact crater that could explain the radiation.#
+ARCHER: Doctor, keep me posted. Captain's starlog, supplemental. Sub-Commander T'Pol has discovered the remnants of an impact crater that could explain the radiation.#
 ARCHER: How far away is it?#
 ARCHER: Comet or an asteroid?#
 ARCHER: The poison rain.#
@@ -853,7 +853,7 @@ ARCHER: We could debate this all day. Blue or yellow?#
 ARCHER: I told you. We detected your reactor from orbit.#
 ARCHER: We're trying to help these people. What you're doing here is contaminating their water supply.#
 ARCHER: She belongs here.#
-ARCHER:;If anyone walks through either of these doors, aim this and pull the trigger.#
+ARCHER: If anyone walks through either of these doors, aim this and pull the trigger.#
 ARCHER: How's it going up there?#
 ARCHER: And the reactor?#
 ARCHER: Don't worry about me, just get the reactor.#
@@ -1016,7 +1016,7 @@ ARCHER: Are you implying Silik was sent here to save my ship, and if he hadn't w
 ARCHER: You're from nine hundred years in the future, and you need my help?#
 ARCHER: I've noticed.#
 ARCHER: If I decide to help you I can't do it alone. I need to inform some of my crew.#
-ARCHER:;You sure you don't want a glass?#
+ARCHER: You sure you don't want a glass?#
 ARCHER: The Suliban woman I spoke with, Sarin, she also used the phrase Temporal Cold War.#
 ARCHER: The same words.#
 ARCHER: What about the Suliban's genetic engineering? Phlox says it's far beyond their abilities.#
@@ -1303,7 +1303,7 @@ ARCHER: Ready?#
 ARCHER: Go.  ARCHER: Easy. ARCHER: Come on. Go. (They try#
 ARCHER: That's not frustration I hear in your voice.#
 ARCHER: Good. Let's try it again. One, two, three. (They get back to a#
-ARCHER: Go. ARCHER:; I think these are starting to come loose. How about yours?#
+ARCHER: Go. ARCHER:  I think these are starting to come loose. How about yours?#
 ARCHER: We might be able to untie these knots. You'd think the Vulcan database might have mentioned these people were fighting a civil war. T'Pol wriggles her way around his side within the ropes around their#
 ARCHER: I imagine your people are going to want their database back,#
 ARCHER: You're not responsible for what happened. You didn't have any idea that your people had installed a listening post, or that there were Andorian commandos there.#
@@ -1508,7 +1508,7 @@ ARCHER: Lay in a course. Let's take a closer look.#
 ARCHER: Give it a rest, Trip.#
 ARCHER: Oases. Any people?#
 ARCHER: Try to hail them.#
-ARCHER:;We should be right over that ship.#
+ARCHER: We should be right over that ship.#
 ARCHER: I used to say I could land a shuttlepod with my eyes closed.#
 ARCHER: It doesn't have to be.#
 ARCHER: Why don't you let me play Captain for a while, Malcolm? This reminds me of the rain forest in New Zealand. I earned my wilderness merit badge there.#
@@ -2538,7 +2538,7 @@ ARCHER: I thought you were just, you know, a people doctor.#
 ARCHER: I'm impressed. So, how's he doing?#
 ARCHER: Before what?#
 ARCHER: Before what, Doctor?#
-ARCHER:; I would have brought you some cheese, but Doctor Phlox wouldn't have let me give you any. (Archer goes to bed, draws a curtain around it, lies down and dims the lights. A metallic grinding sound gets him up again.) ARCHER: Doctor, are you all right?#
+ARCHER:  I would have brought you some cheese, but Doctor Phlox wouldn't have let me give you any. (Archer goes to bed, draws a curtain around it, lies down and dims the lights. A metallic grinding sound gets him up again.) ARCHER: Doctor, are you all right?#
 ARCHER: Just wanted to be sure you're okay.#
 ARCHER: What the hell's going on?#
 ARCHER: How long was I asleep?#
@@ -2874,7 +2874,7 @@ ARCHER: What is it, Travis?#
 ARCHER: What's up?#
 ARCHER: There's a hell of a lot of energy flowing through those circuits. Any idea what they are?#
 ARCHER: Well, obviously something's powered up. There's one way to find out what it is. (He turns the circuits off, and back in the cargo hold, a camouflaged#
-ARCHER:;There's some kind of energy field running.#
+ARCHER: There's some kind of energy field running.#
 ARCHER: Those are violent words for a peaceful man.#
 ARCHER: What about her?#
 ARCHER: You okay?#
@@ -2916,7 +2916,7 @@ ARCHER:  We'll be in range of their surveillance towers in less than two minutes
 ARCHER: Your feet ready for another hike?#
 ARCHER: How about thirty years in the brig, or maybe a good flogging?#
 ARCHER: It was an accident, Malcolm. It could have happened to any of us.#
-ARCHER:;This was the table?#
+ARCHER: This was the table?#
 ARCHER: Try your scanner.#
 ARCHER: Can you give us a few minutes?#
 ARCHER: You have a good memory.#
@@ -3364,7 +3364,7 @@ ARCHER: Bombard.#
 ARCHER: What about T'Pol?#
 ARCHER: Warm and friendly as ever.#
 ARCHER: It's crucial to ours, too. Maybe we're not out here to just scan comets and meet new species. Maybe we're out here to prove that humanity is ready to join a much larger community. I intend to do that, whether the Vulcans like it or not.#
-ARCHER:;We've lost the navigational sensors, and the comm.#
+ARCHER: We've lost the navigational sensors, and the comm.#
 ARCHER: Let's hope they're accurate.#
 ARCHER: I glanced at it.#
 ARCHER: It's twelve hundred pages long.#
@@ -3745,7 +3745,7 @@ ARCHER: When this is over, whatever the outcome, I'm counting on them to get Ent
 ARCHER: Not so bad. Can't say I'm a big fan of Klingon cuisine.#
 ARCHER: Thanks for the house call, Doc.#
 ARCHER: Jonathan Archer.#
-ARCHER:;We haven't even discussed what happened.#
+ARCHER: We haven't even discussed what happened.#
 ARCHER: Well, I'm not familiar with your justice system. What can I expect out there?#
 ARCHER: Do I get a chance to testify?#
 ARCHER: How can you do that when you haven't heard what really happened?#
@@ -4171,7 +4171,7 @@ ARCHER: Not on your life. (The ship goes past Tucker and his monitor as it leave
 ARCHER: Something wrong?#
 ARCHER: What?#
 ARCHER: We're about to find out.#
-ARCHER:;Warp two point one five.  You'd better get that intermix locked down because I'm not backing off till I break your record. Got it?#
+ARCHER: Warp two point one five.  You'd better get that intermix locked down because I'm not backing off till I break your record. Got it?#
 ARCHER: With all due respect, its not your's either. You're right, sir. We were reckless. We knew there'd be consequences. We knew we'd probably be thrown out of Starfleet.#
 ARCHER: AG and I may never fly again, but its a small sacrifice to make if it keeps this project going. We didn't build this engine to make test runs around Jupiter. We built it to explore. If my father were alive today, he'd be standing here asking, what the hell are we waiting for?#
 ARCHER: Convincing enough. We managed to avoid a court martial, but they grounded us for three months.#
@@ -4322,7 +4322,7 @@ ARCHER: I thought you were leaving.#
 ARCHER: I don't know. You're a teacher, an academic.#
 ARCHER: That's not what I meant.#
 ARCHER: I wouldn't have it any other way. Captain's Starlog, supplemental. After days of debate, Starfleet's finally informed me that we're to proceed with our new mission.#
-ARCHER:;The NX-02.#
+ARCHER: The NX-02.#
 ARCHER: A long time.#
 ARCHER: Hopefully. What kind of armaments will she have?#
 ARCHER: This morning.#
@@ -4947,7 +4947,7 @@ ARCHER: So I�m supposed to stay locked up in my quarters all day?#
 ARCHER: In other words, just stay out of the way.#
 ARCHER: The thought did cross my mind.#
 ARCHER: How the hell did you know that?#
-ARCHER: Exactly how far has it evolved? PHLOX:;Nothing seems to have changed since your last exam. ARCHER: Is this why you came all the way from Denobula, to give me a check-up?#
+ARCHER: Exactly how far has it evolved? PHLOX: Nothing seems to have changed since your last exam. ARCHER: Is this why you came all the way from Denobula, to give me a check-up?#
 ARCHER: Captain Tucker. I don�t think you need to call me sir anymore.#
 ARCHER: How long has it been since you took command?#
 ARCHER: Thank you, Commander is it?#
@@ -5170,7 +5170,7 @@ ARCHER: Not necessarily. [Outside bank] (The scanner persuades an ATM to dispens
 ARCHER: They had been for thirty years, but it wasn't until 2061 that they finally#
 ARCHER: Any humans?#
 ARCHER: This doesn't look very residential. Set your phase pistol to kill. When the Reptilians boarded Enterprise, stun had no effect. See what you can find out. I'll look over there. [Outside the warehouse]#
-ARCHER:;There's a neutronic power source coming from the first floor.#
+ARCHER: There's a neutronic power source coming from the first floor.#
 ARCHER: I see it.#
 ARCHER: Here he comes. [Loomis' apartment] (Back home, Loomis paces a bit, then gets another beer, sits on his bed and starts going through files.)#
 ARCHER: And the man in the wheelchair. Why were you bringing him to an abandoned factory in the middle of the night?#
@@ -5520,7 +5520,7 @@ ARCHER: How are the drills going?#
 ARCHER: Archer.#
 ARCHER: On my way.#
 ARCHER: You weren't sent here against your will. You know exactly what your mission was. What were your people trying to do? You tried to destroy my ship. Why? Answer me!#
-ARCHER:;Damn.#
+ARCHER: Damn.#
 ARCHER: Why didn't sensors pick it up before now?#
 ARCHER: A trans-dimensional disturbance.#
 ARCHER: How long would it take to go around it?#
@@ -5551,7 +5551,7 @@ ARCHER: More like an assault vehicle. I'm reading a half dozen particle cannons,
 ARCHER: A hatchery?#
 ARCHER: Do you think you can repair it?#
 ARCHER: There's a shuttlecraft in their port bay. Get it back to the ship. I want an analysis of their tactical systems as soon as possible.#
-ARCHER:;Did you find their Bridge?#
+ARCHER: Did you find their Bridge?#
 ARCHER: I'm all right.#
 ARCHER: Humans seem to have that effect on the Xindi.#
 ARCHER: Malcolm's bringing you two dead insectoids. I want you to learn as much as you can about them.#
@@ -5687,9 +5687,9 @@ ARCHER: An hour ago I gave the command to kill three Xindi in cold blood. A mont
 ARCHER: I'm saying I won't order anyone else to die.#
 ARCHER: I hate to add to this menagerie of yours, Doc.#
 ARCHER: Just don't harvest any part of him.#
-ARCHER:;Do me a favour. Slip him a piece of cheese every now and then.#
+ARCHER: Do me a favour. Slip him a piece of cheese every now and then.#
 ARCHER: I've always been much better at avoiding farewells than giving them, so I'm not even going to try, but I'm going to ask all of you to think back to the day when this ship was first launched. We were explorers then. When all this is over, when Earth is safe, I want you to get back to that job. There are four hundred billion stars in our galaxy. We've only explored a tiny fraction. You have a lot of work to do. Of all the Captains who will sit in this chair, I can't imaging any of them being more proud than I am right now.#
-ARCHER:;Repeat the question.#
+ARCHER: Repeat the question.#
 ARCHER: I wish I could help you, but my superiors keep me in the dark about these things.#
 ARCHER: I thought that was your specialty.#
 ARCHER: Let me guess. Stinking up the room?#
@@ -6706,7 +6706,7 @@ ARCHER: I can find it.#
 ARCHER: T'Klaas. He was a student of Surak, one of the first Kolinahr masters.#
 ARCHER: We're getting close.#
 ARCHER: It's here. (They are standing in front of a circular carved door. Archer presses three panels in particular ways, and it opens. Archer enters, takes the slender three-sided pyramid object from it's plinth and hands it to T'Pau.)#
-ARCHER:;Let's go. This way.#
+ARCHER: Let's go. This way.#
 ARCHER: How far to the capital?#
 ARCHER: We have a more important mission. We've to get this to the capital.#
 ARCHER: It's too dangerous. We're staying together.#
@@ -7093,7 +7093,7 @@ ARCHER: It's hard to believe anything can survive here.#
 ARCHER: Careful, Shran. You don't have your balance back yet.#
 ARCHER: I'm sure Phlox would love to get his hands on one.#
 ARCHER: Shran, listen to me. We should find another way.#
-ARCHER:;Shran!#
+ARCHER: Shran!#
 ARCHER: You're losing a lot of blood. Hold still.#
 ARCHER: Hold still. Bleeding's stopped, but if you move it could start again.#
 ARCHER: Archer to Enterprise. Archer to Enterprise.#

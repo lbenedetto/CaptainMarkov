@@ -311,7 +311,7 @@ REED: Fairly well.#
 REED: The aft cannon should be working by the end of day tomorrow.#
 REED: Cheers.#
 REED: You shouldn't have gone to any trouble.#
-REED:; Pineapple! That's my favourite. How on Earth did you know?#
+REED:  Pineapple! That's my favourite. How on Earth did you know?#
 REED: Yeah, another time, Doctor. I'm due back in the Armoury.#
 REED: It's definitely pre-warp, sir. It could be unmanned. Maybe a probe of some kind.#
 REED: It's pretty crowded out there. A lot of spacecraft and artificial satellites.#
@@ -371,7 +371,7 @@ REED: Argh!#
 REED: Yes. I seem to be getting a little light-headed. Must be the heat.#
 REED: Watch yourselves.#
 REED: The hull pressure's approaching critical. This ship's about to be crushed.#
-REED:;It'll work.#
+REED: It'll work.#
 REED: Look, even with Hoshi's help it could take hours just to find the fusion injector in here. We're out of time.#
 REED: If there's one thing on board this ship I ought to be able to figure out, it's the torpedoes.#
 REED: We'll need to detonate one closer next time.#
@@ -426,7 +426,7 @@ REED: I'll heat up some rations. Unless of course you'd rather wait until we run
 REED: What are you in the mood for?#
 REED: Veal marsala. Chilean sea bass. Moo Goo Gai Pan.#
 REED: With gravy and mashed potatoes.#
-REED:;Kentucky bourbon.#
+REED: Kentucky bourbon.#
 REED: The sea bass.#
 REED: It's lovely. Thank you. (Later again, Trip is trying to sleep but Reed is still doing dictation.) REED: Captain Archer claims you told him you weren't even aware that I was serving on Enterprise. I find that difficult to believe, considering I wrote you twice in the weeks prior to our departure. Now, it is possible that you never received those letters. You were, I believe, in the process of moving back to Malaysia at the time. But you must have spoken to Aunt Sherry during that period, and I know she received my letters. I would hate to go to my death thinking that either of you felt I was trying to avoid#
 REED: As I'm sure you must have heard that was my esteemed colleague, Commander Charles Tucker. Mister Tucker doesn't share my belief that it is essential to say what must be said, to leave a record, tie up loose ends. Mister Tucker is labouring under the false hope that we are going to be miraculously rescued before we both suffocate.#
@@ -577,7 +577,7 @@ REED: Like those bore worms.#
 REED: I wouldn't miss it.#
 REED: Night. I suppose I'll turn in then.#
 REED: A nightgown, sir?#
-REED:;These can detect infrared.#
+REED: These can detect infrared.#
 REED: I'll try to keep up.#
 REED: What is it? Is there something out there?#
 REED: Well, let's find out.#
@@ -814,7 +814,7 @@ REED: They're in place, but eight subsections have decompressed.#
 REED: I can't tell, sir. Not yet.#
 REED: I'd give you an answer if I could, sir. The sensor logs aren't showing anything. All systems were functioning normally.#
 REED: Figures are coming in, sir. Seventeen so far, including Hoshi. No fatalities.#
-REED:;It's armed with tricobalt explosives. I think it's a mine. And judging by the firepower, something similar damaged our ship.#
+REED: It's armed with tricobalt explosives. I think it's a mine. And judging by the firepower, something similar damaged our ship.#
 REED: No reason to believe it's not.#
 REED: We don't know how it's triggered. Somebody has to go out there and defuse it, and it should be me. I have the ordnance training.#
 REED: Lieutenant Reed to Bridge. I've opened the outer hatch. Wish me luck.#
@@ -1353,7 +1353,7 @@ REED: No, sir. No vessels, no signs of technology, nothing.#
 REED: Long range sensors are showing increasing numbers of spatial distortions.#
 REED: No, sir. [Locker room]#
 REED: And don't forget, just because sensors didn't pick up any biosigns doesn't mean you won't encounter anyone.#
-REED:;Weapons fire.#
+REED: Weapons fire.#
 REED: They're charging weapons.#
 REED: I'm sorry, sir.#
 REED: Yeah.#
@@ -1690,7 +1690,7 @@ REED: Hold it. Sorry.#
 REED: Well, we won't get to the Bridge this way.#
 REED: Stand down!#
 REED: Tell them to stand down.#
-REED:;It's over, Major. Take him to his quarters.#
+REED: It's over, Major. Take him to his quarters.#
 REED: I imagine not.#
 REED: We couldn't take the chance that you'd side with the Captain.#
 REED: Yeah.#
@@ -1728,7 +1728,7 @@ REED: It's Xindi.#
 REED: Targeting.#
 REED: It appears to be a one-man vessel. No armaments.#
 REED: One.#
-REED:;Here. (It opens it to reveal - Archer.)#
+REED: Here. (It opens it to reveal - Archer.)#
 REED: They went to a lot of trouble to let you go. Do you really think they'll attack us again?#
 REED: We've run out of moons to hide behind, but there is a cometary dust cloud not too far off.#
 REED: At present speed, about three days.#
@@ -2047,7 +2047,7 @@ REED: That wasn't my doing, sir. I didn't target their power grid.#
 REED: I don't understand it, sir. The warp trail ends right here.#
 REED: Their life support's offline.#
 REED: You two, start down there.#
-REED:;Let's hope the rest of this ship isn't as cramped.#
+REED: Let's hope the rest of this ship isn't as cramped.#
 REED: Stay alert.#
 REED: What's happening?#
 REED: We'll be fine, sir.#
@@ -2096,12 +2096,12 @@ REED: I've got a better idea. Make sure you're well away from the door.#
 REED: Everything's off.#
 REED: Commander, what's your status?#
 REED: All right. I'll reconnect the matrix. Open the hatch!#
-REED:;Commander?#
+REED: Commander?#
 REED: I'm reconnecting the warp matrix!#
-REED: There! Now shut it off! And open this hatch! (The hatch opens and Reed takes the two suit helmets in with him. He helps Tucker sit up.) REED:;Commander, stay with me.#
+REED: There! Now shut it off! And open this hatch! (The hatch opens and Reed takes the two suit helmets in with him. He helps Tucker sit up.) REED: Commander, stay with me.#
 REED: We're better off here than on the Bridge. (We get to see what the Romulans don't know - a phase pistol set to overload lodged in the power conduit panel.)#
 REED: I apologise for saving your life, Commander. It won't happen again.#
-REED:;According to the bridge schematic, this is an access panel.#
+REED: According to the bridge schematic, this is an access panel.#
 REED: Away from the Bridge.#
 REED: We should assume that we're being monitored. Did you ever read the manual that came with that thing? (Tucker looks down at his phase pistol, then Malcolm turns to show his holster is empty.) REED: The warning about inadvertent overload?#
 REED: By now, less than a minute.#

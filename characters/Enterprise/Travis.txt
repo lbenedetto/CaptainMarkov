@@ -122,7 +122,7 @@ TRAVIS: What were the Xyrillians like?#
 TRAVIS: Aye, sir.#
 TRAVIS: Looks like their signature.#
 TRAVIS: Should I lay in a new course, Captain?#
-TRAVIS:;This was their first view of it.#
+TRAVIS: This was their first view of it.#
 TRAVIS: Breaking ground on the town hall.#
 TRAVIS: No, I think that's Mitchell.#
 TRAVIS: Three hours seventeen minutes to go, sir.#
@@ -275,7 +275,7 @@ TRAVIS: At least it sounds like they're still alive.#
 TRAVIS: Here we go.#
 TRAVIS: Siren calls. That's what we called them when I was a kid. My dad would put them through the speakers whenever we flew by a gas giant. It gave me nightmares sometimes.#
 TRAVIS: Aye, sir.#
-TRAVIS:; Captain.#
+TRAVIS:  Captain.#
 TRAVIS: Sir, they're heading into open space.#
 TRAVIS: Aye, sir.#
 TRAVIS: Yes, sir.#
@@ -481,7 +481,7 @@ TRAVIS: Any change?#
 TRAVIS: Having a cloaked hand could have its advantages. Be useful in a poker match.#
 TRAVIS: It might be helpful on movie night, if you bring a date. In case you want to steal some popcorn.#
 TRAVIS: Is it working?#
-TRAVIS:;What was that?#
+TRAVIS: What was that?#
 TRAVIS: Primary and backups.#
 TRAVIS: We did.#
 TRAVIS: It'd be a lot easier if they stop firing at us.#
@@ -716,7 +716,7 @@ TRAVIS: Aye, sir.#
 TRAVIS: Ration packs.#
 TRAVIS: Flex-cable?#
 TRAVIS: Waste disposal units.#
-TRAVIS: We take out everything we bring in. ARCHER:;I just spoke to the Xantoras Regional Governor. He's issued a general order. You have to get them out of there in three days.#
+TRAVIS: We take out everything we bring in. ARCHER: I just spoke to the Xantoras Regional Governor. He's issued a general order. You have to get them out of there in three days.#
 TRAVIS: This is the nearest entrance to their campsite. I'd be willing to bet they came this way. [Cave system] (Nice, tall tunnels to walk along, with the occasional stalagmite.) TRAVIS: Watch your footing. There's a lot of loose rock.#
 TRAVIS: Yes, sir.#
 TRAVIS: Don't worry, I'll go first.#

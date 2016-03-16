@@ -53,6 +53,17 @@ Computer, what is the status of the holographic imaging system on Voyager?#
 Computer, transfer EMH programme to Sickbay.#
 Computer, Bridge.#
 Computer, end holodeck programme Paris Three. Computer, arch. Either the holoemitters are malfunctioning or the computer's not accepting voice commands. I'm sorry, Doctor. I don't have time to help you right now.#
+Computer, report.#
+Computer, open a channel to the Kazon vessel. This is Commander Chakotay of the Federation Starship Voyager. Why have you fired on me?#
+Computer, are there any life signs inside the Kazon vessel?#
+Computer, establish a transporter lock on the lifeform.#
+Computer, damage report.#
+Computer, open a channel. Kazon vessel, I have a young man on board you might know. He goes by the name of Kar. I'd say he's about thirteen. I'd like to arrange for his transfer before I return to my Computer, confirm channel is open.#
+Computer, prepare to go to warp.#
+Computer, damage report.#
+Computer, scan for an M-class atmosphere.#
+Computer, lay in a course to the moon. Evasive pattern omega one. Maximum impulse.#
+Computer, prepare for long-range transport. Two to beam to the surface.#
 Computer, display my service record.#
 Computer, access Starfleet Science Academy database. Have there been any temporal anomalies in the space-time continuum reported in the last forty eight hours?#
 Computer, has there been any contact with the starship Voyager since it was lost in the Badlands?#

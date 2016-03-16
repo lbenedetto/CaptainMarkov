@@ -127,7 +127,7 @@ HOSHI: Do what myself?#
 HOSHI: That's impossible, sir. I haven't even learned their basic conjugations.#
 HOSHI: You don't understand. I don't even know how to say pump. I'll get it all wrong, it'll just make things worse.#
 HOSHI: Sir.#
-HOSHI:; Uta doi ura.#
+HOSHI:  Uta doi ura.#
 HOSHI: Uta lora ista. Urasta mistavor.#
 HOSHI: This isn't exactly like the place you came from, but it's close enough. It's not that hard to adapt. You're going to do just fine here.#
 HOSHI: Suitable for humanoid life.#
@@ -271,7 +271,7 @@ HOSHI: We're being hailed.#
 HOSHI: At least there's one good thing about coming back this far. We can drop another subspace amplifier.#
 HOSHI: Sorry to interrupt, Captain. I have that component that you asked for.#
 HOSHI: We have our sources.#
-HOSHI:;People are getting jealous. You get more letters from home than anyone on this ship. What's her name?#
+HOSHI: People are getting jealous. You get more letters from home than anyone on this ship. What's her name?#
 HOSHI: I didn't know there were humans serving on Denobula.#
 HOSHI: I had a pen pal once when I was twelve, from Brisbane, Australia, and I loved getting her letters. It was like this little window into distant places with strange sounding names.#
 HOSHI: Are we still on for later?#
@@ -683,8 +683,8 @@ HOSHI: Am I supposed to?#
 HOSHI: What happened to him?#
 HOSHI: What happened to him?#
 HOSHI: I must have fallen asleep before the ghost stories.#
-HOSHI:;See you later.#
-HOSHI:;Doctor? Doctor Phlox. Hello?#
+HOSHI: See you later.#
+HOSHI: Doctor? Doctor Phlox. Hello?#
 HOSHI: I just looked in there. Were you in there? Did you hear me come in?#
 HOSHI: You didn't hear me?#
 HOSHI: No, I'm not feeling well. I dematerialised, and then I rematerialised and, no, I'm not feeling well.#
@@ -732,7 +732,7 @@ HOSHI: I get motion sickness, remember? Have you felt okay since we were transpo
 HOSHI: I didn't think I was, but the doctor seems to feel my symptoms are psychological.#
 HOSHI: I just haven't been myself. Everything's a little off ,even the laws of physics.#
 HOSHI: It's okay. Phlox promises me I'll be fine.#
-HOSHI:;I hope it's just a question of being anxious.#
+HOSHI: I hope it's just a question of being anxious.#
 HOSHI: I saw my reflection become transparent. I saw water pass right through my hand. I'm not convinced that the transporter put me back the way it was supposed to.#
 HOSHI: You men are all alike.#
 HOSHI: Thank God you're here. I've been stuck in here for hours. The door control is#
@@ -773,7 +773,7 @@ HOSHI: Well, I hope you don't plan on beaming me anywhere for a long time.#
 HOSHI: I was trying to save Enterprise.#
 HOSHI: It's all in my head, remember?#
 HOSHI: If it's all the same to you, sir, I'd like to stick to shuttlepods for the time being.#
-HOSHI:;Captain, if you don't mind.#
+HOSHI: Captain, if you don't mind.#
 HOSHI: Commander? Hello?#
 HOSHI: Give or take an adverb.#
 HOSHI: At least you don't have to work alone.#
@@ -782,7 +782,7 @@ HOSHI: A doctor?#
 HOSHI: It's not polite to stare, Commander.#
 HOSHI: Let me know if you have any problems with that translation.#
 HOSHI: No response.#
-HOSHI:;Pretty well, sir. A few days in this place should cure anyone of claustrophobia.#
+HOSHI: Pretty well, sir. A few days in this place should cure anyone of claustrophobia.#
 HOSHI: You're the Captain. Can't you order the storm to calm down a little?#
 HOSHI: I'm out of desserts.#
 HOSHI: Thanks, Chef.#
@@ -1210,7 +1210,7 @@ HOSHI: The cruiser's breaking off its attack.#
 HOSHI: Shran's hailing.#
 HOSHI: Hull breach on G deck. We're venting atmosphere.#
 HOSHI: We're being hailed. It's the High Command.#
-HOSHI:;I can't wait to get back.#
+HOSHI: I can't wait to get back.#
 HOSHI: Sifting through a Klingon garbage dump. Not my idea of exploring strange new worlds.#
 HOSHI: Not a chance, sir.#
 HOSHI: And a latrine.#

@@ -575,6 +575,14 @@ TUVOK: Commander Chakotay.#
 TUVOK: I want to thank you for endorsing my recommendation.#
 TUVOK: Thank you, sir. And since we are speaking candidly, may I say, sir, that I have not always been particularly partial to your methods either.#
 TUVOK: I have always respected Captain Janeway's decisions. However, I suppose that particular decision did put me in a position I am unaccustomed to. If that ever caused me to make things more difficult for you, I must apologise.#
+TUVOK: More than six hours ago.#
+TUVOK: Captain, I am detecting an ion trail leading away from this location.#
+TUVOK: The signature of the radiation is not consistent with Federation propulsion systems.#
+TUVOK: From the dispersal pattern of the debris, we've been able to extrapolate Chakotay's course prior to the explosion. It appears he was heading for an M-class moon in this system.#
+TUVOK: We tried to scan the surface, but there is intense radiothermic interference.#
+TUVOK: As you wish, Captain, but I must point out that due to radiothermic interference, we will not be able to communicate with the ship.#
+TUVOK: I would beg to differ. Based on these readings, that way would seem the logical choice.#
+TUVOK: We could try remodulating the phasers to a higher frequency output.#
 TUVOK: Negative. The signal is at maximum gain.#
 TUVOK: Their last velocity vector indicates a steep descent. We've lost contact.#
 TUVOK: They do not respond, Captain.#

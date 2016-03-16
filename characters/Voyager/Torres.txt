@@ -464,6 +464,13 @@ TORRES: No damage to the hull or ship systems.#
 TORRES: You're not going to believe this, Captain, but twenty million gigaquads of new information have been input into the ship's computer.#
 TORRES: My guess is it came from the distortion ring.#
 TORRES: That's not all, Captain. Our entire database has been copied and downloaded into somebody else's system.#
+TORRES: Most of the debris we've examined is composed of a polyduranide alloy which isn't used in the construction of Federation spacecraft.#
+TORRES: This ship was Kazon. [Kazon trophy room] (Haliz brings other young Kazon with him.)#
+TORRES: I've got something#
+TORRES: It appears to be coming from subterranean energy sources, several carefully concealed weapons systems, phaser banks, force fields, proton dischargers#
+TORRES: I'm already working on a dampening field to cut through the interference, but it'll take several hours at least.#
+TORRES: I still haven't been able to get the dampening field working. I can't even give you an estimate.#
+TORRES: Then I guess the Captain's going to be greeted by some unexpected visitors.#
 TORRES: The anomaly is sending out heavy subspace distortions. I can't get a positive lock on him.#
 TORRES: I'll try.#
 TORRES: We've got him, Captain.#

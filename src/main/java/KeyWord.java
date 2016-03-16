@@ -17,9 +17,10 @@ class KeyWord extends LineGetter {
 		this.cutToPhrase = cutToPhrase;
 		while (lines == null) {
 			try {
-				lines = new BufferedReader(new FileReader("keyWords/" + series.toString() + "/" + keyPhrase + ".txt"));
+				if(Menu.deepLogging)System.out.println("Reading file ./keyWords/" + series.name + "/" + keyPhrase + ".txt");
+				lines = new BufferedReader(new FileReader("./keyWords/" + series.name + "/" + keyPhrase + ".txt"));
 			} catch (FileNotFoundException e) {
-				System.out.println("File not found, creating file");
+				System.out.println("File not found, creating file ./keyWords/" + series.name + "/" + keyPhrase + ".txt");
 				saveLines();
 			}
 		}
@@ -32,14 +33,14 @@ class KeyWord extends LineGetter {
 	private void saveLines() {
 		System.out.println("Saving lines with " + keyPhrase);
 		boolean recordingLog = false;
-
-		String seriesString = series.toString();
-		new File("./keyWords/" + seriesString).mkdir();
+		if (!new File("./keyWords/" + series.name).mkdirs()) {
+			System.out.println("Failed to create directory ./keyWords/" + series.name);
+		}
 		try {
 			String line = "";
-			PrintWriter txtFile = new PrintWriter(new FileWriter("keyWords/" + seriesString + "/" + keyPhrase + ".txt", true));
+			PrintWriter txtFile = new PrintWriter(new FileWriter("keyWords/" + series.name + "/" + keyPhrase + ".txt", true));
 			String curr = currentEpisode.readLine().trim();
-			while (hasNextEpisode()) {
+			while (series.hasNextEpisode()) {
 				try {
 					if (curr.contains(keyPhrase)) {
 						if (cutToPhrase) curr = curr.substring(curr.indexOf(keyPhrase));
