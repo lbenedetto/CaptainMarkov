@@ -7,7 +7,7 @@ Stardate:
 Original Airdate: 18 Oct 2000
 
   [Delta Flyer]
-(Paris is piloting the Flyer through a very dense asteroid field.)(PARIS:;What's the matter, Harry? You
+(Paris is piloting the Flyer through a very dense asteroid field.)(PARIS: What's the matter, Harry? You
 look a little pale. 
 KIM: I volunteered for a test flight, not a suicide mission.
 PARIS: How can we put the new Delta Flyer through her paces without
@@ -142,7 +142,7 @@ JANEWAY: One thing, gentleman. Now that we�re in this race, we�re in it
 to win. After all, Starfleet�s honour is at stake.
 PARIS: Don't worry, it's in good hands. 
 [Sickbay]
-(The Sickbay doors open and a flashing green golf ball rolls out. Paris picks it up. Inside, the EMH is practising his putting.)PARIS:; A little tip, Doc. This game was not
+(The Sickbay doors open and a flashing green golf ball rolls out. Paris picks it up. Inside, the EMH is practising his putting.)PARIS:  A little tip, Doc. This game was not
 meant to be played indoors. 
 EMH: Here to rub salt in the wound? 
 PARIS: I beg your pardon? 
@@ -610,7 +610,7 @@ KIM: Now what?
 IRINA: I think it's the injector ports. 
 KIM: No, it's an overload in my console! (Kim dives out of the way just in time.) KIM: That's the second time your
 co-pilot's console exploded. Quite a coincidence. (Irina points a gun at him.)
-IRINA:;I'm sorry, Harry. I really am. 
+IRINA: I'm sorry, Harry. I really am. 
 KIM: You sabotaged your own ship. Twice. Why are you trying so hard to
 get out of this race? (He slaps a control and makes the ship jolt. She loses her balance and he wrestles
 the gun off her.) KIM: What the hell is going on? Sit down and hold still!

@@ -14,8 +14,6 @@ TRAVIS: It's just like being back in the womb.#
 TRAVIS: It took the fourth, fifth and sixth grades to get there. I've also been to Draylax and both the Denebian moons.#
 TRAVIS: Three. It's true.#
 TRAVIS: First-hand, second-hand, third-hand.#
-TRAVIS: Warp four point three, sir.#
-TRAVIS: We're losing power on all decks.#
 TRAVIS: Mister Reed thought he detected something right before we lost power.#
 TRAVIS: Is this where you saw Klaang?#
 TRAVIS: We should get going.#
@@ -26,7 +24,6 @@ TRAVIS:  I can't believe we fell for that.#
 TRAVIS: Ask him where they are. This storm's getting worse.#
 TRAVIS: The storm's kicking up too much interference. I can't isolate human biosigns. They could be anywhere in the complex.#
 TRAVIS:  I found her. (They take off, and fly over to the fight. T'Pol slips and falls in the snow when she gets out again.)#
-TRAVIS: The starboard thruster's down!#
 TRAVIS: They're getting too far ahead of us.#
 TRAVIS: I'm not authorised to go beyond four four.#
 TRAVIS: I'm okay, Captain#
@@ -62,9 +59,6 @@ TRAVIS: Are those venting ports or hull breaches?#
 TRAVIS: Maybe they're in trouble. Sick or something.#
 TRAVIS: Mayweather here, sir.#
 TRAVIS: Aye, sir.#
-TRAVIS: We've reversed course, sir. We should be back at the coordinates in five hours.#
-TRAVIS: Distance, sixty thousand kilometres.#
-TRAVIS: The pod's on the arm.#
 TRAVIS: We're dead in the water, sir.#
 TRAVIS: What was that?#
 TRAVIS: Sir, another vessel just dropped out of warp. (Reed returns to his#
@@ -75,13 +69,11 @@ TRAVIS: Minshara-class?#
 TRAVIS: Aye sir.#
 TRAVIS: It's beautiful all right, but I couldn't call a place home unless it came with a pair of warp nacelles.#
 TRAVIS: We would?#
-TRAVIS: Keep in mind those cargo vessels weren't equipped for rescue operations, so the Captain wasn't sure what to do when he picked up the distress call. But it wasn't a ship that sent the signal. It was a life-pod from one of the old Y-500-class freighters.#
 TRAVIS: Exactly. The pod had been drifting in space for sixty three years. Bioscans showed one lifesign inside the pod. Human. The assistant engineer, George Webb, a friend of my uncle's, was assigned to open it. Took him over an hour to cut through the hull. He said the metal felt strange, cold to the touch.#
 TRAVIS: He could hear a tapping noise coming from inside, but when he finally got it open the pod was empty. No body, nothing. A few days later, Webb started acting strange, getting into fights with the crew, muttering to himself in some sort of alien language. Then one day he locked himself in Engineering and overloaded the impulse reactors. He almost destroyed the ship. Then he sealed himself in a life pod and ejected it.#
 TRAVIS: The reactors were too badly damaged. Some people say it was an alien life form that got into him, others think it was the ghost of a dead crewman. I never knew what to believe, but Webb is still out there, drifting. When the subspace noise is real low, some comm. officers say they can still hear the echo of his distress call. Beep, Beep.#
 TRAVIS: Are you sure?#
 TRAVIS: Now you know.#
-TRAVIS: It must be gusting at eighty kph.#
 TRAVIS: Try flying through an ion storm at warp two.#
 TRAVIS: What is it?#
 TRAVIS: What for?#
@@ -90,7 +82,6 @@ TRAVIS: You wanna shoot a bug?#
 TRAVIS: Not me, sir.#
 TRAVIS: I'll go.#
 TRAVIS: Trip? Hello?#
-TRAVIS: Was anybody outside just now?#
 TRAVIS: There's someone else out there.#
 TRAVIS: Near the campsite.#
 TRAVIS: It's no story.#
@@ -99,9 +90,7 @@ TRAVIS: It was too dark.#
 TRAVIS: There could be something wrong with your scanner.#
 TRAVIS: They looked pretty real to me.#
 TRAVIS: Ethan!#
-TRAVIS:  Ethan!#
 TRAVIS: That could explain why they're not showing up on our scanners. (In the cavern, Cutler hears voices and goes deeper into the tunnels to investigate. Outside, the men nearly step off a cliff in the dark.)#
-TRAVIS: The Captain's on his way. We're getting out of here.#
 TRAVIS: Sir. I hate to add to our problems, but we're running low on water.#
 TRAVIS: Sir?#
 TRAVIS: You were the one who found these caves, and it was your idea to stay overnight.#
@@ -110,14 +99,12 @@ TRAVIS: I'm trying, sir.#
 TRAVIS: No. (So she neck-pinches him and injects him anyway, before finally injecting herself. The sun has risen by the time Tucker wakes up and accepts a drink of water from her.)#
 TRAVIS: I was hoping it was all just a bad dream.#
 TRAVIS: Ow, I must have twisted up my neck. How's Novakovich? Do we know?#
-TRAVIS: Going to impulse, sir.#
 TRAVIS: Aye, sir.#
 TRAVIS: We've got a seal.#
 TRAVIS: It's too bad the ship-to-ship sensors are down. Would have been nice to get a look at them.#
 TRAVIS: (handing up case as Tucker climbs into the;tube between the airlocks) Here you go.#
 TRAVIS: I don't know. We are kind of busy. Have fun.#
 TRAVIS: Before you know it, he'll have that engine room running like a well-oiled machine.#
-TRAVIS: Decompression any easier coming back?#
 TRAVIS: What were the Xyrillians like?#
 TRAVIS: Aye, sir.#
 TRAVIS: Looks like their signature.#
@@ -128,14 +115,12 @@ TRAVIS: No, I think that's Mitchell.#
 TRAVIS: Three hours seventeen minutes to go, sir.#
 TRAVIS: There's tons of data here. Crew manifests, survey photos, weekly status reports. I was hoping to find something, a clue to what happened.#
 TRAVIS: I've been fascinated by Terra Nova since I was a kid, sir. I always thought lost colonies affected boomers more than anyone else. Something about people who choose to live off-world.#
-TRAVIS: Two hundred thousand kilometres.#
 TRAVIS: I promised my dad I'd see this place someday.#
 TRAVIS: A housing unit.#
 TRAVIS: We've got the schematics for the communications tower.#
 TRAVIS: Aye, sir.#
 TRAVIS: Where's Malcolm?#
 TRAVIS: If those aliens killed the colonists, they could kill Malcolm too.#
-TRAVIS: I don't get it. If they're human, why were they shooting at us?#
 TRAVIS: Can we use the transporter?#
 TRAVIS: They didn't seem too eager to talk.#
 TRAVIS: It's Captain Mitchell.#
@@ -144,7 +129,6 @@ TRAVIS: We don't. We only want to help you, make you healthy.#
 TRAVIS: I've got the landing site locked in, Captain.#
 TRAVIS: Our thrusters are down.;#
 TRAVIS: Pod One to Enterprise, we've got an emergency.#
-TRAVIS: Ever heard of Judge Crater?#
 TRAVIS: Disappeared in the early twentieth century. How about Amelia Earhart?#
 TRAVIS: 1937. Never found a trace of her. A lot of people spent years, decades, trying to figure out what happened to them, but neither of those mysteries holds a candle to Terra Nova. And we solved it!#
 TRAVIS: All these years wondering about that colony. I never thought I'd become part of their history.#
@@ -152,7 +136,6 @@ TRAVIS: Thank you, sir.#
 TRAVIS: There what is?#
 TRAVIS: Not a lot of room on that landing platform. Maybe they're just some other visitors.#
 TRAVIS: You heard what he said. If we try to send more people.#
-TRAVIS: Sir, you're wearing a hole in the deck plating.#
 TRAVIS: Archer's comet.#
 TRAVIS: Aye sir.#
 TRAVIS: Aye, sir.#
@@ -176,11 +159,8 @@ TRAVIS: I hope I never see snow again.#
 TRAVIS: We should have never ignited the thrusters.#
 TRAVIS: They've got us.#
 TRAVIS: Should we hail them?#
-TRAVIS: There's a ship approaching.#
 TRAVIS: It must have been in a geosynchonous orbit on the other side of the planet.#
 TRAVIS: I'll try.#
-TRAVIS: We've lost lateral thrusters.#
-TRAVIS: I can't shake them.#
 TRAVIS: Not counting newborn babies.#
 TRAVIS: I grew up on a J-class, a little smaller but the same basic design, and one thing I can tell you is that at warp one point eight you've got a lot of time on your hands between ports. That's how my parents wound up with me.#
 TRAVIS: Well, typically nothing more than a low-yield plasma cannon, but most freight haulers would've upgraded the first chance they got.#
@@ -198,7 +178,6 @@ TRAVIS: I was born on her, halfway between Draylax and Vega Colony.#
 TRAVIS: I've still got my sister and her husband aboard the Horizon, but I know my dad expected me to take over at some point.#
 TRAVIS: I had to figure out where I wanted to spend the rest of my life, and I was pretty sure it wasn't on the Draylax - Vega run. Besides, the Horizon didn't have transporters to play with.#
 TRAVIS: Even with a warp three engine you'd be able to cut a five year cargo run down to six months.#
-TRAVIS: Save room for dessert, home made ice-cream.#
 TRAVIS: Chef's the best in Starfleet. I heard the Captain had to call in a lot of favours to get him on board. It's good you stayed away from the resequenced meat loaf. They still haven't gotten that right.#
 TRAVIS: That's because it is.#
 TRAVIS: I remember those. What did we used to call them?#
@@ -214,7 +193,6 @@ TRAVIS: Don't worry, not everybody's going to go.#
 TRAVIS: You think leaving the Horizon was easy for me? That I just took off because I got tired of the food? That ship was my home.#
 TRAVIS: Being in Starfleet is the best thing that ever happened to me. My parents weren't happy I left, but they respected my decision.#
 TRAVIS: They're charging weapons.#
-TRAVIS: They're jettisoning our pod. Their warp drive's coming online.#
 TRAVIS: We don't know where they are, but we know who they're looking for. The Nausicaans. Ryan's after revenge, sir.#
 TRAVIS: It's rational to him. Those pirates attacked his ship. That's his family. If we want to find the Fortunate, we need to find the Nausicaans.#
 TRAVIS: No. Try bypassing circuit L-47.#
@@ -234,20 +212,14 @@ TRAVIS: Aye, sir.#
 TRAVIS: He wouldn't be there if you hadn't attacked them in the first place.#
 TRAVIS: What are you going to do, kill him?#
 TRAVIS: Sir, with your permission. You think killing one of them is going to accomplish anything?#
-TRAVIS: I'm just thinking about my family.#
 TRAVIS: What's going to happen to the next freighter that runs into the Nausicaans? What if it's the Horizon and they have to pay the price for your#
-TRAVIS: The hell you are! This isn't about protecting cargo ships.#
 TRAVIS: Don't kid yourself into thinking you're doing this for some greater good. This is about revenge, nothing else.#
 TRAVIS: You don't like me because I left the Horizon to join Starfleet. You're afraid that if more people do that there won't be anyone left to run the freighters. Maybe you're right#
-TRAVIS: The Nausicaans are going to kill you and your crew.#
 TRAVIS: And then there'll be twenty three fewer people out there to run those freighters.#
-TRAVIS: Hold the door. Where were you last night?#
 TRAVIS: Well, you didn't miss much.#
 TRAVIS: Night of the Killer Androids.#
 TRAVIS: We've got fifty thousand movies in the database. There must be something worth watching.#
-TRAVIS: Lieutenant.#
 TRAVIS: We found one of the ships, sir.#
-TRAVIS: Did you get to meet them?#
 TRAVIS: Looks like the Captain's going all out.#
 TRAVIS: What?#
 TRAVIS: I'm fine right here.#
@@ -258,7 +230,6 @@ TRAVIS: He's probably calling about the weather.#
 TRAVIS: I'm already on it.#
 TRAVIS: The storm's moving in our direction. I'm having trouble getting around it.#
 TRAVIS: He's far enough ahead. He made it past.#
-TRAVIS: There's a vessel approaching no bigger than a shuttlepod. It's Suliban.#
 TRAVIS: Maybe they checked us out and decided we weren't very interesting.#
 TRAVIS: I had to reverse engines to keep from banging into them.#
 TRAVIS: They've gone to warp, sir.#
@@ -282,11 +253,9 @@ TRAVIS: Yes, sir.#
 TRAVIS: Ten thousand metres, but I'm having a hard time getting a fix on them. Too much interference.#
 TRAVIS: Sir, external pressure's at maximum.#
 TRAVIS: The hull plating's failing.#
-TRAVIS: I found these schematics in the Vulcan database. It's a Raptor Class scout vessel.#
 TRAVIS: Its hull's at least twice as thick as ours, reinforced with some kind of coherent molecular alloy.#
 TRAVIS: Our only other option is for T'Pol and Malcolm to fix a broken-down Klingon ship and fly it out themselves.#
 TRAVIS: Aye, sir.#
-TRAVIS: Sir, there are two ships approaching at high warp. I think they're Klingon.#
 TRAVIS: Sixteen minutes. We're being hailed. It's the Captain.#
 TRAVIS: Aye, Captain. It's the Raptor, sir. They're hailing us.#
 TRAVIS: They're moving off.#
@@ -357,7 +326,6 @@ TRAVIS: You'll be on the edge of your seat.#
 TRAVIS: Don't worry. (The lights go down, the screen comes on, but it's not the movie, it's sickbay, then the situation room.)#
 TRAVIS: The last time we opened the airlock, we were docked with the Kreetassans.#
 TRAVIS: The Kreetassans might know something about this thing. I can start scanning for their ship, try to pick up their warp trail.#
-TRAVIS: I think I found them.#
 TRAVIS: Point five two light years from here.#
 TRAVIS: I already have. I've been sending out hails but we're still out of comm. range.#
 TRAVIS: You speak English.#
@@ -375,22 +343,17 @@ TRAVIS: I don't understand.#
 TRAVIS: We were just eating. How do you eat?#
 TRAVIS: I see. Okay. Please believe me, we had no idea that would be offensive to you. It was simply a misunderstanding. On behalf of the entire crew, I sincerely apologise.#
 TRAVIS: Thank you. Now, could I have those coordinates?#
-TRAVIS: Look at this. They've got sea rays the size of shuttlepods.#
 TRAVIS: I've never done it, but if there was ever a time to learn. 'Your guides are genetically enhanced to breathe underwater.' And they're all female.#
 TRAVIS: How about you, Lieutenant?#
-TRAVIS: Entering orbit, sir.#
 TRAVIS: A small craft's approaching, sir.#
-TRAVIS: An unidentified vessel, sir, fifty thousand kilometres and closing.#
 TRAVIS: They're closing, fast.#
 TRAVIS: Aye, sir.#
-TRAVIS: You've been to Risa, haven't you?#
 TRAVIS: How's the ocean?#
 TRAVIS: Aye, sir. Warp four point eight.#
 TRAVIS: Warp four point nine.#
 TRAVIS: At this speed, a little over two hours, but I don't think we can hold it that long.#
 TRAVIS: They're increasing speed. Warp four point nine five.#
 TRAVIS: Four point nine three, nine five.#
-TRAVIS: Four point nine seven.#
 TRAVIS: Four point nine nine. Warp five.#
 TRAVIS: They're right on top of us.#
 TRAVIS: We're dropping to impulse.#
@@ -405,7 +368,6 @@ TRAVIS: What do you mean, he's not available?#
 TRAVIS: Well, wake him up. He's got a patient.#
 TRAVIS: Hibernating? For how long?#
 TRAVIS: Just a hypospray for the pain. Is something wrong?#
-TRAVIS: I feel terrible.#
 TRAVIS: I really think we should wake up Doctor Phlox.#
 TRAVIS: It's Travis, Doctor.#
 TRAVIS: What?#
@@ -414,12 +376,9 @@ TRAVIS: Did you see that?#
 TRAVIS: I'm coming around. Bring the grappler online. (Hoshi goes to#
 TRAVIS: What is it?#
 TRAVIS: Traces of borocarbons.#
-TRAVIS: You think they've replaced you in Brazil yet?#
 TRAVIS: After a year on Enterprise, the thought of a cargo ship is pretty unappealing.#
 TRAVIS: Or maybe infamous. From what Commander Tucker tells me, people back home think that we're doing nothing out here but getting in trouble.#
 TRAVIS: The docked ship is moving away.#
-TRAVIS: So if we can't pick the locks, what about the shafts that house the EPS conduits?#
-TRAVIS: There's no one else that can get through those crawlspaces, unless we could reach Crewman Naiman.#
 TRAVIS: The antimatter stream's back to normal.#
 TRAVIS: Hull plating on the port-aft quarter's down.#
 TRAVIS: They're closing.#
@@ -428,7 +387,6 @@ TRAVIS: Why waste ammunition? They have us surrounded.#
 TRAVIS: Sub-Commander?#
 TRAVIS: One Cell ship approaching aft.#
 TRAVIS: Aye, sir.#
-TRAVIS: Captain, something just struck the ship. Starboard side upper aft quadrant.#
 TRAVIS: Some kind of cloaked ship?#
 TRAVIS: I believe so.#
 TRAVIS: Sir, they're hailing us. (T'Pol goes to Hoshi's station and soon an alien language comes through the speakers.)#
@@ -437,25 +395,19 @@ TRAVIS: The orbits of those mines are pretty erratic, sir. It's going to be tric
 TRAVIS: Aye, sir.#
 TRAVIS: I see it.#
 TRAVIS: Thank you, sir, but I'd prefer to stay at my post.#
-TRAVIS: We're being hailed.#
-TRAVIS: Six hundred metres.#
 TRAVIS: Sub-commander.#
 TRAVIS: No response.#
 TRAVIS: I see them. Bearing two one three mark four. Closing in.#
 TRAVIS: A hundred metres more. Fifty. I've got them. Sealing Launch bay doors.#
 TRAVIS: Aye, sir.#
 TRAVIS: Sir.#
-TRAVIS: Some kind of mechanical arms are being attached to the outer hull.#
 TRAVIS: Mayweather.#
 TRAVIS: I thought that section was off-limits, sir.#
 TRAVIS: Aye, sir.#
-TRAVIS: Captain? Hello? Hello? (He sees an open section of the bulkhead with electricity rippling across it.)#
-TRAVIS: Sir?#
 TRAVIS: Much better, sir. Thank you. The doctor told me what happened. I'm not sure I understand.#
 TRAVIS: Why would it do that?#
 TRAVIS: What about all those other people?#
 TRAVIS: Sounds good, sir.(In the darkness of space, amongst a load of debris, a welding arm is at work.)#
-TRAVIS: Lieutenant, a ship just dropped out of warp. Six hundred thousand kilometres and closing.#
 TRAVIS: I'm reading twelve biosigns, all Klingon.#
 TRAVIS: Aye, sir.#
 TRAVIS: It's not you that I'm worried about. (He swings it and she dodges either side then rolls away.)#
@@ -471,21 +423,6 @@ TRAVIS: After I got the board running, I brought life support up to level three.
 TRAVIS: Our scanner showed everything powered down.#
 TRAVIS: Aye, sir.#
 TRAVIS: I think I know why he was so nervous about us firing at him while he was over here. Look at this.#
-TRAVIS: Guard towers, gun emplacements, it's not a hotel.#
-TRAVIS: Aye, sir.#
-TRAVIS: Maybe this panel isn't the cloaking device.#
-TRAVIS: This would be a lot easier if there was a button marked cloak.#
-TRAVIS: Are you all right?#
-TRAVIS: Maybe a little more than that.#
-TRAVIS: Any change?#
-TRAVIS: Having a cloaked hand could have its advantages. Be useful in a poker match.#
-TRAVIS: It might be helpful on movie night, if you bring a date. In case you want to steal some popcorn.#
-TRAVIS: Is it working?#
-TRAVIS: What was that?#
-TRAVIS: Primary and backups.#
-TRAVIS: We did.#
-TRAVIS: It'd be a lot easier if they stop firing at us.#
-TRAVIS: The shuttlepod's right where you left it, sir. We'll be there in two minutes.#
 TRAVIS: I've got a little headache. Nothing serious.#
 TRAVIS: I was hoping you could just give me something. I'm right in the middle of upgrading the navigation sensors.#
 TRAVIS: No.#
@@ -496,7 +433,6 @@ TRAVIS: On what?#
 TRAVIS: I have to get back to the Bridge.#
 TRAVIS: The Captain needs those upgrades, Doctor.#
 TRAVIS: But your scans didn't show anything.#
-TRAVIS: Doctor?#
 TRAVIS: When are you going to#
 TRAVIS: I have just enough time to shower and get changed.#
 TRAVIS: I haven't slept all night and I'm supposed to go on duty in fifteen minutes.#
@@ -554,26 +490,18 @@ TRAVIS: Aye, sir.#
 TRAVIS: The Andorians are following, sir.#
 TRAVIS: We're more than thirty light years from the nearest trade route. I don't see how he could have made it out this far.#
 TRAVIS: There's nothing here that looks like a power source.#
-TRAVIS: Sir, a vessel's dropped out of warp. They're on an intercept course.#
 TRAVIS: They're moving off.#
 TRAVIS: I've lost them, sir. Captain's Starlog, supplemental. We've contacted the Vulcan ship Tal'Kir. They've agreed to meet us in three days to take the craft back to Earth. Hopefully, we won't have another visit from the Suliban before we reach the rendezvous point.#
 TRAVIS: Twenty thousand kilometres and closing.#
 TRAVIS: We're losing speed.#
 TRAVIS: Captain.#
 TRAVIS: Engines are down.#
-TRAVIS: The Cell-Ships. They've been destroyed.#
 TRAVIS: All of them. The Tholians are on an intercept course.#
 TRAVIS: Two of their ships are approaching the saucer section. Eighty metres. forty.#
-TRAVIS: Sir, it's gone.#
-TRAVIS: The transport's dropped out of warp. It's entered a binary system. Looks like they're heading for the fourth planet.#
-TRAVIS: There's a small vessel dropping out of warp.#
-TRAVIS: The fourth planet.#
 TRAVIS: They're gaining on us, sir.#
 TRAVIS: How do we know the security officers are okay?#
 TRAVIS: Go ahead, sir.#
-TRAVIS: No problem, sir.#
 TRAVIS: I'm on my way.#
-TRAVIS: Mayweather to the Bridge.#
 TRAVIS: One of those things just followed me up the starboard strut, but when I got into the catwalk it didn't come through. There must be something keeping it from getting in here.#
 TRAVIS: I'm fine, sir. Thank you.#
 TRAVIS: I saw him down near the Command Compartment.#
@@ -797,8 +725,6 @@ TRAVIS: Nine hundred kilometres.#
 TRAVIS: Seven hundred.#
 TRAVIS: Hull plating's down to forty percent.#
 TRAVIS: We're dropping out of warp.#
-TRAVIS: Aye sir. (The two ships vanish, as if they were going into a sphere cloaking field.)#
-TRAVIS: Those ships just entered some kind of vortex. They're gone.#
 TRAVIS: I've got a lock. (Travis starts the beam-in sequence, and the floor ripples.)#
 TRAVIS: There's an overload in the resequencer.#
 TRAVIS: I can't. (Circuits blow, the rock vanishes, the floor ripples, then the rock reappears as pieces embedded in the walls.)#
@@ -812,7 +738,6 @@ TRAVIS: But you're sure this stuff is safe to bring on board?#
 TRAVIS: The starboard thruster's failing.#
 TRAVIS: We're clear. We've only got one thruster left.#
 TRAVIS: I think so.#
-TRAVIS: It broke orbit five minutes ago, Captain.#
 TRAVIS: The helm�s not responding. The starboard injectors are fused.#
 TRAVIS: We can't transport six thousand people back to Earth.#
 TRAVIS: Aye, sir. Four point five, four point six, four point seven, four point eight.#
@@ -830,12 +755,9 @@ TRAVIS: The helm's not responding.#
 TRAVIS: Sir, I'm picking up something out there. I think it's a ship.#
 TRAVIS: There's too much distortion.#
 TRAVIS: Aye, sir.#
-TRAVIS: Two Xindi ships approaching.#
 TRAVIS: Aye.#
 TRAVIS: They're heading back into the system.#
 TRAVIS: Already on it, sir.#
-TRAVIS: I'm picking up a ship at the edge of the system.#
-TRAVIS: They're making a run for it.#
 TRAVIS: Radiation from the debris field. It's starting to affect our systems.#
 TRAVIS: The port hydraulics are acting up.#
 TRAVIS: They're not responding.#
@@ -880,7 +802,6 @@ TRAVIS: I should be the one to go.#
 TRAVIS: I'm the only one who can pilot that shuttle.#
 TRAVIS: But I've actually done it.#
 TRAVIS: Aye sir. (Archer leaves, goes down corridor, through into a turbolift and finds himself in... )#
-TRAVIS: I know these controls aren't exactly intuitive.#
 TRAVIS: Try again. Good, you're starting to think like an insectoid.#
 TRAVIS: Can I ask you something?#
 TRAVIS: You're the least expendable man on Enterprise. Why are you doing this?#
@@ -892,15 +813,9 @@ TRAVIS: Still offline.#
 TRAVIS: Aye sir.#
 TRAVIS: Almost sounds like music.#
 TRAVIS: It's never too late. You can start when we get home. We're getting home.#
-TRAVIS: The escape pod can manoeuvre underwater. Aside from that, nothing out of the ordinary.#
 TRAVIS: Why don't we just transport their warp coil to Enterprise?#
 TRAVIS: Two hundred kilometres.#
 TRAVIS: Our port thrusters are offline.#
-TRAVIS: We're approaching the coordinates, Captain. Right on schedule.#
-TRAVIS: Maybe they're running late?#
-TRAVIS: Aye, sir.#
-TRAVIS: Aye, sir.#
-TRAVIS: He's nearly reached the Reptilians.#
 TRAVIS: Aye, sir.#
 TRAVIS: Whoever they are, they're on an intercept course.#
 TRAVIS: We're losing speed.#
@@ -915,24 +830,15 @@ TRAVIS: Warp engines just went offline. Our plasma injectors are disengaged.#
 TRAVIS: They're making a run for it.#
 TRAVIS: Two thousand metres.#
 TRAVIS: Six minutes.#
-TRAVIS: Sir, we're losing speed.#
 TRAVIS: We're increasing speed. They've engaged a tractor beam.#
 TRAVIS: Forty five seconds to the corridor.#
-TRAVIS: Twelve seconds to the corridor.#
 TRAVIS: The stars are where they're supposed to be.#
-TRAVIS: A ship's dropping out of warp.#
-TRAVIS: Five seconds, three, two.#
 TRAVIS: RCS inverter.#
 TRAVIS: Nothing we need to worry about sir.#
 TRAVIS: You sure about this?#
 TRAVIS: Aye.#
-TRAVIS: I'm detecting some kind of movement.#
 TRAVIS: There's too much interference. I don't know where it is#
-TRAVIS: Whatever it was, it's stopped moving. Got something! It's heading in your direction.#
 TRAVIS: It's coming down from the upper#
-TRAVIS: It's seventy metres away. Fifty metres, thirty, fifteen!#
-TRAVIS: Five more headed this way. Move!#
-TRAVIS: It was that last run through the cloaking barrier. The coil assembly's been damaged.#
 TRAVIS: There's a large group of ships leaving the system. One of them is Enterprise. I'm detecting weapons fire.#
 TRAVIS: What have we missed?#
 TRAVIS: Have they launched it?#
@@ -941,18 +847,13 @@ TRAVIS: We'll have to pull back.#
 TRAVIS: Aye, sir.#
 TRAVIS: What about the anomalies?#
 TRAVIS: Aye, sir.#
-TRAVIS: I think we've got a problem.#
 TRAVIS: Sphere Forty One.#
 TRAVIS: Yep. There shouldn't be anything on sensors, not with the cloaking barrier, but there it is and it's getting bigger.#
 TRAVIS: Could be spatial anomalies, but they're clustered much tighter than we've ever seen them.#
-TRAVIS: You wanted to see me, sir?#
 TRAVIS: When?#
 TRAVIS: Sir.#
 TRAVIS: That's tying my hands, Commander, especially with the ticking clock.#
-TRAVIS: It's grown. It's a hundred thousand kilometres deeper than when we first detected it.#
-TRAVIS: Here we go.#
 TRAVIS: It's too soon.#
-TRAVIS: I've got it.#
 TRAVIS: Twenty thousand kilometres.#
 TRAVIS: Fifteen degrees north.#
 TRAVIS: Aye.#
@@ -1197,3 +1098,18 @@ TRAVIS: I know.#
 TRAVIS: A lot of details to work out.#
 TRAVIS: The least I can do is give you a ride.#
 TRAVIS: The Launch Bay's this way.#
+TRAVIS: When are they expecting you in Brazil?#
+TRAVIS: After ten years on this ship, I'll bet it'll take a while getting used to the humidity again.#
+TRAVIS: He hates giving speeches.#
+TRAVIS: Aye, sir.#
+TRAVIS: We're going through the troposphere. Might get a little bumpy.#
+TRAVIS: Go ahead, sir.#
+TRAVIS: Understood.#
+TRAVIS: Close to twenty years. He taught the Captain how to scuba dive somewhere off the coast of Florida.#
+TRAVIS: Sorry.#
+TRAVIS: They've got a shorthand they use sometimes. Comes from spending so much time together.#
+TRAVIS: At who?#
+TRAVIS: Not that I know of. When push comes to shove, Commander Tucker usually ends up doing the right thing. How am I doing?#
+TRAVIS: Yep.#
+TRAVIS: I've asked him for a little more time, until Captain Archer decides what he's going to be doing.#
+TRAVIS: Malcolm's right. They'll never keep him behind a desk.#

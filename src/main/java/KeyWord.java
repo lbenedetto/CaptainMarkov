@@ -23,7 +23,8 @@ class KeyWord {
 					System.out.println("Reading file ./keyWords/" + series.name + "/" + keyPhrase + ".txt");
 				file = new IterableFile("./keyWords/" + series.name + "/" + keyPhrase + ".txt");
 			} catch (FileNotFoundException e) {
-				System.out.println("File not found, creating file ./keyWords/" + series.name + "/" + keyPhrase + ".txt");
+				if (Menu.deepLogging)
+					System.out.println("File not found, creating file ./keyWords/" + series.name + "/" + keyPhrase + ".txt");
 				saveLines();
 			}
 		}
@@ -36,13 +37,18 @@ class KeyWord {
 		SeriesReader seriesReader = new SeriesReader(series);
 		System.out.println("Saving lines with " + keyPhrase);
 		boolean recordingLog = false;
-		if (!new File("./keyWords/" + series.name).mkdirs()) {
-			System.out.println("Failed to create directory ./keyWords/" + series.name);
-		}
+		File f = new File("./keyWords/" + series.name);
+		if (!f.exists())
+			if (!f.mkdirs())
+				System.out.println("Failed to create directory ./keyWords/" + series.name);
 		try {
 			String line = "";
 			PrintWriter txtFile = new PrintWriter(new FileWriter("keyWords/" + series.name + "/" + keyPhrase + ".txt", true));
 			for (String curr : seriesReader) {
+				//Remove parentheses and brackets
+				curr = curr.replaceAll("\\(.*?\\)", "");
+				curr = curr.replaceAll("\\[.*?\\]", "");
+				curr = curr.trim();
 				if (curr.contains(keyPhrase)) {
 					if (cutToPhrase) curr = curr.substring(curr.indexOf(keyPhrase));
 					recordingLog = true;

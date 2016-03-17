@@ -846,7 +846,6 @@ GARAK: You know, I envy you. Think of all the wonderful foods you'll get to enjo
 GARAK: yes, I suppose you do. Six months in a holding cell? The thought is unattractive, to say the least.#
 GARAK: Yes, but my heart was in the right place.#
 GARAK: What a generous offer.#
-GARAK: Odo, what's wrong?#
 GARAK: If I'd known what I was walking into, I never would have gone.#
 GARAK: I thought the Bajorans would be grateful to hear someone provide them with an opposing philosophical view.#
 GARAK: My understanding of this conference was that it was supposed to be an examination of the occupation from a dispassionate historical perspective. Instead, everyone went out of their way to dismiss virtually everything I had to say.#
@@ -1411,3 +1410,52 @@ GARAK: Ah. Yes. I can explain that.#
 GARAK: I don't know why you're making such a fuss over this. I have a busy repair schedule and I can't stand here all night arguing with#
 GARAK: And how long will that be?#
 GARAK: Freedom!#
+GARAK: I'm sorry, have we done something wrong? We're new to the city and I'm afraid we're lost.#
+GARAK: I told you you looked like him. I can't tell you how many times my cousin has been mistaken for that traitor.#
+GARAK: I don't mean to sound ungrateful, but what are you doing here?#
+GARAK: But the vote was unanimous. The work disruptions begin tomorrow.#
+GARAK: The Dominion fleet will be cut off from all ground support.#
+GARAK: You're too kind.#
+GARAK: If the Dominion hasn't been able to restore power to the capital, then the entire planet must be in chaos.#
+GARAK: Just stop dawdling and give them to me.#
+GARAK: I haven't changed much, have I?#
+GARAK: That won't be easy. They will have tightened their security.#
+GARAK: Ironic, isn't it? The saviour of Cardassia a former Bajoran terrorist.#
+GARAK: I wouldn't count on it.#
+GARAK: Chop off a snake's head and the body will die.#
+GARAK: I'll get right on it.#
+GARAK: If you don't have anything positive to say, Mila.#
+GARAK: I'm not looking well because I live in a cellar.#
+GARAK: And what about him?#
+GARAK: I'm afraid I don't follow you.#
+GARAK: Who could that be?#
+GARAK: I don't know. (The door at the top of the stairs opens, then Mila's body tumbles down.) GARAK: Mila!#
+GARAK: Does anyone have any last words?#
+GARAK: How disappointing.#
+GARAK: It's the Jem'Hadar. They're leveling the city building by building.#
+GARAK: All during the years of my exile I imagined what it would be like to come home. I even thought of living in this house again with Mila. But now she's dead, and this house is about to be reduced to a pile of rubble. My Cardassia's gone.#
+GARAK: I have an even better reason, Commander. Revenge.#
+GARAK: We have a problem.#
+GARAK: I'm afraid it's a rather large problem. The cargo door is made of neutronium.#
+GARAK: You see the problem.#
+GARAK: Isn't it obvious? Here we are, ready to storm the castle, willing to sacrifice our lives in a noble effort to slay the Dominion beast in its lair and we can't even get inside the gate.#
+GARAK: As I said, we have a problem.#
+GARAK: And us along with you.#
+GARAK: Fall back, fall back.#
+GARAK: He's dead.#
+GARAK: For Cardassia!#
+GARAK: And order their troops on Cardassia to do the same.#
+GARAK: Damar's dead.#
+GARAK: He died trying to free Cardassia.#
+GARAK: I was hoping you'd say that.#
+GARAK: Constable.#
+GARAK: That's a very bad idea, Constable.#
+GARAK: I'm warning you, Odo.#
+GARAK: I don't think so.#
+GARAK: Move aside, Odo.#
+GARAK: I suggest we secure her in a containment field.#
+GARAK: And casualty reports still coming in. Well, aren't you going to congratulate me, Doctor? My exile is now officially over. I've returned home. Or rather, to what's left of it.#
+GARAK: Some may say that we've gotten just what we deserved. After all, we're not entirely innocent, are we? And I'm not just speaking of the Bajoran occupation. No, our whole history is one of arrogant aggression. We've collaborated with the Dominion, betrayed the entire Alpha Quadrant. Oh, no, no. There's no doubt about it. We're guilty as charged.#
+GARAK: Please, Doctor. Spare me your insufferable Federation optimism. Of course it will survive, but as not the Cardassia I knew. We had a rich and ancient culture. Our literature, music, art were second to none. And now, so much of it is lost. So many of our best people, our most gifted minds.#
+GARAK: Oh, it's quite all right, Doctor. You've been such a good friend. I'm going to miss our lunches together.#
+GARAK: I'd like to think so, but one can never say. We live in uncertain times.#

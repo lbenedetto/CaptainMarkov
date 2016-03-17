@@ -1758,7 +1758,6 @@ O'BRIEN: All of it. The Utopia Planitia yards on Mars, the terraforming stations
 O'BRIEN: The only subspace signals I'm detecting are coming from the vicinity of Alpha Centauri. And they're Romulan.#
 O'BRIEN: They must have.#
 O'BRIEN: I'm not sure. Maybe, maybe when it exploded, the singularity that polarised the chroniton particles created some kind of subspace bubble around the ship, isolated it from the changes in the timeline. I'm not sure, I'd have to run some tests. One thing's for certain, right now this ship is all that's left of Starfleet.#
-O'BRIEN: I think I know what happened to Commander Sisko and the others. The transporter beam was redirected as it passed through the polarised particles.#
 O'BRIEN: Not where, when.#
 O'BRIEN: According to our computer simulations, the degree of temporal displacement is directly proportional to the number of chroniton particles interacting with the transporter beam. Unfortunately, there's no way to know the exact concentration of particles at the time of the accident, but I've narrowed it down to ten possibilities, each one corresponding with a different time frame. One of them has to be right. We just hope we find the right one before we run out of chroniton particles.#
 O'BRIEN: Just say you broke your nose. On the other hand, maybe you'd better say nothing. I'll do the talking.#
@@ -3191,7 +3190,6 @@ O'BRIEN: Nearly ready.#
 O'BRIEN: Ready.#
 O'BRIEN: Someone sabotaged the emitter array.#
 O'BRIEN: Someone sabotaged the emitter array.#
-O'BRIEN: They're still not responding to our hails.#
 O'BRIEN: It's working. I don't believe it. The Dominion ships are turning away from the station. They're laying in a new course.#
 O'BRIEN: Straight for Cardassia.#
 O'BRIEN: I don't know who it was, but they did a pretty thorough job. The emitters had the exact opposite effect to what we'd intended. They were supposed to collapse the wormhole's spatial matrix and close it forever. Instead, they made the matrix even more stable. Not even trilithium explosives could destroy it now.#
@@ -3297,7 +3295,6 @@ O'BRIEN: Looking after a baby can be a full time job. Here, do me a favour. Just
 O'BRIEN: Just be a minute. (Worf holds Yoshi while O'Brien goes into the bedroom. O'Brien comes out with a bottle.)#
 O'BRIEN: The baby. He's not crying. He's not crying!#
 O'BRIEN: Here.#
-O'BRIEN: Message from Cardassia. It's from Gul Dukat.#
 O'BRIEN: He's demanding to speak to you.#
 O'BRIEN: They're hailing us.#
 O'BRIEN: They've locked weapons on the station.#
@@ -3486,7 +3483,6 @@ O'BRIEN: Take us to our final set of coordinates.#
 O'BRIEN: If you do, you risk setting off every mine on this ship.#
 O'BRIEN: As soon as you give the word, sir.#
 O'BRIEN: Do we go back for him?#
-O'BRIEN: More Jem'Hadar ships come through the wormhole every week.#
 O'BRIEN: How do we keep them out?#
 O'BRIEN: I guess they got tired of looking at our backs. Three months of bloody slaughter and what have we got to show for it? Not a damn thing. Engage, retreat, engage, retreat. Just once I would've liked to have gotten a look at their backs.#
 O'BRIEN: Sorry, sir. Nothing a little sleep won't cure.#
@@ -4753,3 +4749,46 @@ O'BRIEN: Looks just like her.#
 O'BRIEN: Yeah, the Breen are going to be in for a surprise when they train their energy dampening weapon on this beauty, huh?#
 O'BRIEN: Let's go look.#
 O'BRIEN: I guess they worked it out.#
+O'BRIEN: Oh, and don't forget Kirayoshi has his checkup at oh nine hundred tomorrow.#
+O'BRIEN: And don't stay up too late writing that paper on, what those trees are called?#
+O'BRIEN: Yeah, well, try to get some sleep. Oh, and#
+O'BRIEN: Right. Molly. Please don't touch that.#
+O'BRIEN: Yeah, but you see, this isn't a toy. This is a model.#
+O'BRIEN: I suppose I could give it to Julian.#
+O'BRIEN: No, not yet.#
+O'BRIEN: What's that supposed to mean?#
+O'BRIEN: Of course we are. Daddy's going to teach at the Academy, when the war's over.#
+O'BRIEN: I'll tell him, you know, when I think he's ready to hear it.#
+O'BRIEN: Sounds good to me.#
+O'BRIEN: Sounds like the Doppler compensators are out of phase.#
+O'BRIEN: I'm on it. O'Brien to Engineering.#
+O'BRIEN: Recalibrate the inertial dampers and check the plasma flow regulators while you're at it.#
+O'BRIEN: You'd think someone would have come up with a better inertial control system.#
+O'BRIEN: I said I wish you'd wipe that grin off your face. You're not the first person to fall in love, you know.#
+O'BRIEN: I am happy for you. O'Brien to Engineering.#
+O'BRIEN: Now try re-aligning the induction coils.#
+O'BRIEN: Julian, there's something I need to talk to you about.#
+O'BRIEN: How did you know?#
+O'BRIEN: Actually, we've been talking about it for quite a while.#
+O'BRIEN: Right. I'll try to compensate with the impulse response filters.#
+O'BRIEN: I wasn't talking about the Alamo model. Besides, it's too big for your quarters.#
+O'BRIEN: Oh, it's nothing that can't wait. Is that any better, Nog?#
+O'BRIEN: Stay with him.#
+O'BRIEN: Just fix the shoulder.#
+O'BRIEN: Careful!#
+O'BRIEN: You'd do anything to beat me at darts.#
+O'BRIEN: I'm going to miss our games, Julian.#
+O'BRIEN: I'm leaving DS Nine, Julian. I'm moving back to Earth.#
+O'BRIEN: I've been offered a position at Starfleet Academy. Professor of Engineering.#
+O'BRIEN: When the war's over.#
+O'BRIEN: Somebody has to teach you officers the difference between a warp matrix flux capacitor and a self sealing stembolt.#
+O'BRIEN: I'm kind of busy right now.#
+O'BRIEN: Look, Julian.#
+O'BRIEN: Yes, sir.#
+O'BRIEN: No. Keiko and I are still mulling over a few possibilities.#
+O'BRIEN: I don't think that's on our list.#
+O'BRIEN: Yeah. Too many.#
+O'BRIEN: Listen, Julian, I know Earth isn't exactly around the corner, but I still expect you to visit.#
+O'BRIEN: Yeah, you and me taking a little trip to Texas.#
+O'BRIEN: The real Alamo. You see? It's going to be great.#
+O'BRIEN: Hear, hear.#

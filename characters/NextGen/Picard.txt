@@ -2047,7 +2047,6 @@ PICARD: Indispensable is the appropriate word. I think it should be only you bec
 PICARD: Well, I want you to put a stitch in time and, er, save much more than nine.#
 PICARD: If other members of the away team became disoriented, it could create additional problems and perhaps increase the danger.#
 PICARD: Good luck, Data. Transporter room]#
-PICARD: Mister Data, what's going on?#
 PICARD: What's the next step, Mister Data?#
 PICARD: Patched is good enough. Well done. Beam back immediately.#
 PICARD: Intact, for the most part.#
@@ -3752,7 +3751,6 @@ PICARD: Commander Riker will captain the Hathaway.#
 PICARD: Yes.#
 PICARD: Starfleet is not a military organisation. Its purpose is exploration.#
 PICARD: With the Borg threat, I decided that my officers and I needed to hone our tactical skills. In a crisis situation, it is prudent to have several options.#
-PICARD: Well, Number One, you are allowed a complement of forty, so select whom you will, save of course Mister Data, who will serve as my first officer during your#
 PICARD: On my ship, the leader of an away team has total control of the mission. If you want to judge leadership, why not start at the beginning?#
 PICARD: Doctor.#
 PICARD: Begin long-range scanning of all sectors within three light years of Braslota. How#
@@ -9206,7 +9204,6 @@ PICARD: We can't afford to wait any longer. Begin the graviton pulse.#
 PICARD: Can you strengthen the graviton pulse?#
 PICARD: What can we do to prevent this from happening again?#
 PICARD: Have we any idea what came through the rupture before we were able to shut it down?#
-PICARD: Welcome to the Enterprise, Miss Rogers. I'm delighted to have you aboard.#
 PICARD: And congratulations. I understand that you were selected for this internship out of hundreds of applicants.#
 PICARD: Or at least what fields you're not interested in.#
 PICARD: Come.#
@@ -9382,7 +9379,6 @@ PICARD: We have no choice. Remember, aim low. Fire in short, controlled bursts.#
 PICARD: Now.#
 PICARD: What do you want?#
 PICARD: So you concocted an elaborate ruse to bring me here. Why?#
-PICARD: You are hereby requested and required to relinquish command of your vessel to Captain Edward Jellico, Commanding Officer USS Cairo, as of this date.#
 PICARD: Our orders are to penetrate the Celtris Three installation.#
 PICARD: It's a trap. Come on!#
 PICARD: What do you want?#
@@ -11615,3 +11611,289 @@ PICARD: What the hell is she doing?#
 PICARD: Can you counter the effect?#
 PICARD: Have they crossed the border?#
 PICARD: When she comes aboard take her into custody.#
+PICARD:  Counsellor! What's today's date? The date!#
+PICARD: 47988.#
+PICARD: 47988. I'm not sure. I don't know how or why, but I'm moving back and forth through time.#
+PICARD: I had this feeling I had physically left the Enterprise. I was in another time, another place. I was somewhere in the past.#
+PICARD: You see, it's all slipping away so fast. It's like waking up from a nightmare. It was years ago. It was before I took command of the Enterprise. I was talking to someone, I can't remember who. And then it all changed. I was no longer in the past. I was now an old man in the future, and I was outside and I was doing something. I can't remember what it was. I'm sorry, it's all gone. I just can't remember.#
+PICARD: No, no, it was much more than a dream. The smells, the sounds, the very touch of things, much more real than a dream.#
+PICARD: You see, I can't say. At first I had a sense of confusion, disorientation. I wasn't sure where I was. And then all that passed and it all seemed perfectly natural, as though I belonged in that time. But I can't#
+PICARD: Geordi.#
+PICARD: Oh, I haven't been called that for some time either.#
+PICARD: How about Jean-Luc?#
+PICARD: Good Lord, Geordi. Well, how long has it been?#
+PICARD: No, no, no. Since you last called me Captain, since we were all together on the Enterprise?#
+PICARD: Twenty five years. Well, time has been good to you.#
+PICARD: Oh, well, I'm just tying up some vines.#
+PICARD: How is Leah?#
+PICARD: What about the little ones, Brett, Alandra and er?#
+PICARD: Sidney.#
+PICARD: So what brings you here?#
+PICARD: Geordi, you don't make the trip from Rigel Three to Earth just to drop by.#
+PICARD: So, you've heard?#
+PICARD: I'm not an invalid. Irumodic Syndrome can take years to run its course.#
+PICARD: Well now that you're here, you can help me carry those tools. Well, my cooking may not be up to Leah's standards, but I can still make a decent cup of tea. Oh, I read your last novel. I thought that the protagonist a little too flamboyant, but for the rest I#
+PICARD: I'm sorry, Lieutenant. My mind must have wandered. What were you saying?#
+PICARD: No. Of course, I'm familiar with the blueprints and specifications, but this will be my first time aboard.#
+PICARD: I'm sure she is.#
+PICARD: No. It's just that you look very familiar.#
+PICARD: Tasha. I was just with Tasha in the shuttle.#
+PICARD: Actually, I really like running around the ship in my bare feet.#
+PICARD: A defect that you hadn't noticed before?#
+PICARD: If that's so, why do you look like you've just signed my death sentence?#
+PICARD: I wouldn't worry about it. Something tells me that you're going to have to put up with me for a long time to come.#
+PICARD: Has Worf found anything?#
+PICARD: I wasn't dreaming. Something happened.#
+PICARD: Go ahead, Mister Worf.#
+PICARD: Beverly? Mister Worf, will you route the call through to Doctor Crusher's office.#
+PICARD: Admiral.#
+PICARD: Is there any explanation why they would make such a blatantly aggressive move?#
+PICARD: What are our orders?#
+PICARD: Am I authorised to enter the Neutral Zone?#
+PICARD: Understood.#
+PICARD: This is not my time. I don't belong here.#
+PICARD: I was somewhere else a few moments ago.#
+PICARD: No, no, no! I was somewhere else. I was, it was a long time ago. There was someone talking. I was talking to someone. Beverly. I was talking to Beverly.#
+PICARD: I'm not senile, you know. This did happen. I was here, I was talking to you, and then I was somewhere else. I was on the Enterprise. I was back on the Enterprise. At least, I think that's where it was. I was in Sickbay. Well, it might have been a hospital.#
+PICARD: Yes, yes, I know what you're thinking. It's the Irumodic Syndrome. He's beginning to lose his mind, the old man. Well, it's not that. And I'm not daydreaming either.#
+PICARD: Data. I want to see Data.#
+PICARD: Because I think he can help.#
+PICARD: I don't know! I don't know! I want to see Data!#
+PICARD: Yes, I think he is.#
+PICARD: You see them, don't you?#
+PICARD: They're everywhere. They're laughing at me. Why are they laughing?#
+PICARD: Yes, Data. We'll go see Data. [Future Cambridge University - Data's library] (a roaring fire, plenty of cats and an obviously fake streak of white in his hair) PICARD: I know how it sounds but it happened. It was real. I was there, back on board the Enterprise.#
+PICARD: Tea? Earl Grey. Hot.#
+PICARD: Nothing. Well, Data, I must say, this is a fine place you have here. They certainly treat professors pretty well at Cambridge#
+PICARD: You say this is Earl Grey? I'd swear that it was Darjeeling.#
+PICARD: A week. They've prescribed peridaxon.#
+PICARD: Yes, I know, it's not a cure, There's nothing that can prevent the deterioration of the synaptic pathways. You think that I'm senile, that all this is just a delusion.#
+PICARD: That's the Data that I remember. I knew I could count on you.#
+PICARD: To Captain Jean-Luc Picard, stardate 41148#
+PICARD: You are hereby requested and required to take command#
+PICARD: to take command of the USS Enterprise as of this date. Signed Rear Admiral Norah Satie, Starfleet Command.#
+PICARD: Red Alert! All crew to battle stations.#
+PICARD: Report.#
+PICARD: Noted. Counsellor, do you sense anything unusual on board the Enterprise? Perhaps an alien presence that doesn't belong here, maybe one operating on a level of intelligence far superior to our own?#
+PICARD: Mister Worf, initiate a level two security alert on all decks until further notice.#
+PICARD: No, of course not. Lieutenant, security alert two.#
+PICARD: We're on our way, Chief.#
+PICARD: This tells me that a large spatial anomaly has appeared in the Neutral Zone, in the Devron System.#
+PICARD: No, we'll proceed to Farpoint.#
+PICARD: You heard me.#
+PICARD: Mister Worf, will you man your station.#
+PICARD: I've no intention of explaining to anyone. We will proceed with our mission to Farpoint as planned. Chief O'Brien, am I right in thinking that you're having a problem with the warp plasma inducers.#
+PICARD: Well I know how to get them back online. You're with me. We'll be in main Engineering.#
+PICARD: Mister O'Brien, will you use these specifications to bypass the secondary plasma inducer.#
+PICARD: But the Chief Engineer isn't on board. Mister O'Brien, trust me. I know you can do it. All those years you spent as a child building those model starship engines. They were well worth it.#
+PICARD: From your Starfleet records.#
+PICARD: Commander Data, welcome on board. It's so very good to see you.#
+PICARD: I could use your help with the infuser array.#
+PICARD: As you can see, we're having difficulty with the plasma conduits.#
+PICARD: It happened again.#
+PICARD: Yes.#
+PICARD: It's still a little vague, but I can remember more this time. It seems that every time I shift periods, I can retain more memory. At first, it appeared that I was in the future, years from now, and then I was in the past just before our first mission.#
+PICARD: Counsellor, do you remember when I first came on board the Enterprise?#
+PICARD: What happened after the welcoming ceremony?#
+PICARD: Do you have any memory of my calling Red Alert in Spacedock? Do you remember Starfleet diverting us from Farpoint to the Neutral Zone to investigate a spatial anomaly?#
+PICARD: For all I know, I may find the same thing in the future.#
+PICARD: These are all very important questions, and perhaps I will find answers to them in the past, but now we have a potentially dangerous threat from the Romulans. I want all departments to present a battle readiness report to me at oh eight hundred hours tomorrow morning. Dismissed.#
+PICARD: I want continuous subspace sweeps. We may be able to detect a temporal disturbance.#
+PICARD: Will, this time shifting. When it happens I experience a momentary disorientation. If that should happen during a crisis, I want you to take command immediately. Number One?#
+PICARD: Speaking of disorientation, are you all right?#
+PICARD: You have the Bridge, Number One. I'll be in my Ready room.#
+PICARD: Come.#
+PICARD: What's this?#
+PICARD: Beverly.#
+PICARD: Yes, sir. What? Hey, Beverly?#
+PICARD: But you said yourself that this is only a possibility.#
+PICARD: I prefer to look on the future as something which is not written in stone. A lot of things can happen in twenty five years.#
+PICARD: Yes. What is it? Have we reached the Neutral Zone?#
+PICARD: Sorry. I was in the past again. What's going on?#
+PICARD: No, no, no. No, we have to get to the Neutral Zone.#
+PICARD: In the other two time periods, Starfleet reported a sort of a spatial anomaly in, in, in the Devron system. In Devron system in the Neutral Zone.#
+PICARD: If the anomaly appeared there in the past, then it might be here too and we have to find out.#
+PICARD: But if it is here, then it means something. Damn it, Geordi, I know what we have to do!#
+PICARD: Right. Right. Klingons. In this time period, the Klingons have taken over the Romulan Empire.#
+PICARD: I know that. I haven't completely lost my mind, you know.#
+PICARD: Right. Now, I think it's time to call in some old favours. Contact Admiral Riker, Starbase two four seven.#
+PICARD: Will, if this spatial anomaly really is in the Devron System.#
+PICARD: Well I don't believe it! What if their long range scanners are faulty? We have to go there and see for ourselves.#
+PICARD: Will, that is just not good enough.#
+PICARD: Damn him, anyway. After all we've been through together. He's been sitting behind that desk too long.#
+PICARD: Medical ship?#
+PICARD: Yes. Yes!#
+PICARD: I think I can arrange that. Data, find the USS Pasteur. I have some pull with the Captain. At least, I used to have.#
+PICARD: Let's just choose one.#
+PICARD: So, did you get my message?#
+PICARD: Oh. So that's why you married me.#
+PICARD: Yes, that's it. Worf. Yes, that's the answer. Worf will help us.#
+PICARD: So, you kept the name.#
+PICARD: No, I'm fine. I don't need rest.#
+PICARD: Look, you are treating me as if I am an invalid. I do have a few years left in me yet. I do not want to be led around, and I do not want to be patronised.#
+PICARD: Now, I'll go and get some rest.#
+PICARD: We'll find the anomaly. I know we will.#
+PICARD: Report.#
+PICARD: Is there anything unusual in the vicinity, Mister Data?#
+PICARD: There should be a barrier of some sort nearby. A large plasma field, highly disruptive.#
+PICARD: This is the right time, the right place. He should be here now.#
+PICARD: Q! We're here! This has gone on long enough! Counsellor, do you sense an alien presence?#
+PICARD: I don't understand. This is not the way it's supposed to happen. Maintain this position. I'll be in my Ready room.#
+PICARD: Q. I knew it. What's going on?#
+PICARD: The last time that I stood here was seven years ago.#
+PICARD: You accused me of being the representative of a barbarous species.#
+PICARD: We demonstrated to you that mankind had become peaceful and benevolent. You agreed and you let us go on our way. Now why am I standing here again?#
+PICARD: Are you putting mankind on trial again?#
+PICARD: Is there any connection between the trial seven years ago and whatever's going on now?#
+PICARD: The spatial anomaly in the Neutral Zone, is it related to what's happening?#
+PICARD: Is it part of a Romulan plot, a ploy to start a war?#
+PICARD: That's only four.#
+PICARD: Did you create the anomaly?#
+PICARD: Are you responsible for my shifting through time?#
+PICARD: Why?#
+PICARD: Guilty of what?#
+PICARD: We've journeyed to countless new worlds, we've contacted new species, we have expanded our understanding of the universe.#
+PICARD: We are what we are, and we're doing the best we can. It is not for you to set the standards by which we should be judged.#
+PICARD: You're going to deny us travel through space?#
+PICARD: Q, I do not believe that even you are capable of such an act.#
+PICARD: Me?#
+PICARD: What sort of meaningless doubletalk is this?#
+PICARD: Commander, assemble the senior staff and go to Red alert. We have a bigger problem than I thought.#
+PICARD: Normally I would agree with you, but this time I feel that somehow it is different. There was a deadly earnestness about him. I think he's serious. Which means that in some fashion, I am going to be the cause of the destruction of humanity.#
+PICARD: So what am I going to do? Lock myself in a room in all three different time periods?#
+PICARD: Agreed. I've been thinking about my conversation with Q. He admitted that he was responsible for my shifting through time. Now it occurred to me that he might be giving me a chance somehow to save humanity.#
+PICARD: Well, he's always had a certain fascination with humanity, with myself in particular. I think he has more than a passing interest in what happens to me.#
+PICARD: If I weren't travelling through time I would never have realized that the anomaly in the Neutral Zone appeared there in the past as well. Assuming that's an important piece of a larger puzzle, my ability to shift through time may be the key to understanding what's going on.#
+PICARD: Go ahead.#
+PICARD: We're on our way.#
+PICARD: All stop. Initiate long range scans.#
+PICARD: We are. Mister Worf, hail the Romulan flagship.#
+PICARD: On screen.#
+PICARD: But surely, Worf, you must still have some influence. We have to get into the Neutral Zone. Can't you just get us permission to cross the border?#
+PICARD: I don't care what kind of ship we go in. We have to get to the Devron System.#
+PICARD: I know that I'm an old man and I'm out of touch, but the Worf that I remember was more concerned with things like honour and loyalty than rules and regulations. But that was a long time ago. Maybe you're not the Worf once I knew.#
+PICARD: Because it always works, Worf. Your problem is that you really do have a sense of honour and you really do care about trust and loyalty. Don't blame me for knowing you so well.#
+PICARD: Terms accepted.#
+PICARD: Engage.#
+PICARD: Set a course for the Devron system, and engage at warp nine.#
+PICARD: I'm aware of that, Lieutenant. Carry out my orders, Chief.#
+PICARD: Yes of course, Counsellor. Contact Farpoint Station. I wish to speak with Commander Riker.#
+PICARD: They don't trust me. They think that I'm behaving erratically.#
+PICARD: I understand, but I also know what this crew is capable of, even if they don't.#
+PICARD: I know it's difficult operating in the dark, but right now I don't think I have any other choice.#
+PICARD: Excuse me. Put him through here. Commander Riker. I wanted to inform you that we'll be delayed in picking you up at Farpoint Station. (we see Farpoint Riker on the monitor, but cut away when he's supposed to be speaking)#
+PICARD: I can't say. I'll keep you updated. Will you inform Doctor Crusher and Lieutenant La Forge of our delay?#
+PICARD: Is there anything else, Counsellor?#
+PICARD: What about him?#
+PICARD: I see. Do you think this will interfere with your duties?#
+PICARD: I appreciate your telling me, but I'm quite sure that the two of you will find some way to deal with the situation.#
+PICARD: Tea, Earl Grey, hot.#
+PICARD: There is an alternative, Tomolak. We each know why we're here. We could each send one ship into the Neutral Zone to investigate the anomaly in the Devron System.#
+PICARD: No.#
+PICARD: There is no need to make threats. We each know the consequences.#
+PICARD: Helm, set course for the Devron system, warp five.#
+PICARD: Engage.#
+PICARD: All stop. On screen. Full scan, Mister Data.#
+PICARD: We have to get as much information as possible about that anomaly.#
+PICARD: All stop. On screen. Then it is larger in the past.#
+PICARD: Nothing. Full scan, Mister Data.#
+PICARD: On screen! On screen! Let's see it!#
+PICARD: I don't understand. It was here in the other two time periods. Why isn't it here now?#
+PICARD: You're not thinking about leaving?#
+PICARD: There should be! There has to be! Data, is there some other way to scan for a temporal disturbance? Something that isn't covered in a normal sensor sweep.#
+PICARD: That's it. Make it so.#
+PICARD: But six more hours may not be enough. We have to stay here until we find it, no matter how long it takes.#
+PICARD: Beverly, I cannot believe that you are not willing to stay here until we#
+PICARD: Damn it, I was just trying to. Look, there are larger concerns here. What you don't understand is that#
+PICARD: You're right. I was out of line. It won't happen again. But what you have to understand is what is at stake here. Q has said that all of humanity will be destroyed.#
+PICARD: What?#
+PICARD: Q? What is going on here? Where is the anomaly?#
+PICARD: Answer me.#
+PICARD: What help?#
+PICARD: My time shifting. The answer does lie there, doesn't it. Now, tell me one thing. This anomaly we're looking for, will that destroy humanity?#
+PICARD: By doing what? When? How can#
+PICARD: Report, Mister Data.#
+PICARD: What is the source of this energy?#
+PICARD: What if we modified the main deflector to emit an inverse tachyon pulse. That might be able to scan beyond the subspace barrier. That might give us some idea of what the interior of this thing looks like.#
+PICARD: I have some friends who are quite well versed in it. Make it so.#
+PICARD: How is this possible?#
+PICARD: Anti-time?#
+PICARD: So if time and anti-time were to collide#
+PICARD: Data, what could have caused this collision of time and anti-time?#
+PICARD: I believe that if you modify the deflectors to send out an inverse tachyon pulse, then you'll find that the anomaly is a rupture between time and anti-time.#
+PICARD: I don't have time to discuss it now, Mister Data. Do the modifications and send out the pulse. Then try working on a theory as to what caused this rupture. Mister O'Brien, how large is this anomaly?#
+PICARD: I don't understand why it's bigger in the past. PICARD: Lieutenant, you have the Bridge. I'll be in my Ready room.#
+PICARD: What's going on?#
+PICARD: Weapons status?#
+PICARD: We have to stop it!#
+PICARD: We don't have time for this. The Pasteur's core is going to breach.#
+PICARD: No, Will, we can't! We have to save humanity.#
+PICARD: Will, don't leave! We have to stay here and find what is causing the temporal anomaly.#
+PICARD: We have to! Everything depends on it! We can't leave now! Please, listen to me!#
+PICARD: How is she?#
+PICARD: So this is affecting the entire crew.#
+PICARD: We have to find out how widespread this effect is. Contact Starbase Twenty three, that's the nearest outpost. Have them check their personnel to see if there are any signs of temporal reversion.#
+PICARD: Mister Data, how close are you to completing the tachyon scan?#
+PICARD: Good. When it's done I want you to find some way of collapsing this anomaly without making things worse. Give me a risk analysis of whatever solution you come up with.#
+PICARD: Dismissed.#
+PICARD: Why? Will that cause the destruction of mankind?#
+PICARD: Home?#
+PICARD: Q, is there any point to all this?#
+PICARD: So the anomaly is here too, at Earth.#
+PICARD: The further back in time, the larger the anomaly.#
+PICARD: Are you saying that I caused the anomaly, and that the anomaly somehow disrupted the beginnings of life on Earth?#
+PICARD: Let's concentrate on how this anomaly was initially formed. Speculation?#
+PICARD: Is there any way that we can scan the interior?#
+PICARD: Do you know what could?#
+PICARD: Data do we have a tomographic imaging scanner on board?#
+PICARD: Can you use it to scan the interior of the anomaly?#
+PICARD: What is it?#
+PICARD: Three pulses, from three time periods, converging at one point in space.#
+PICARD: Computer, where is Admiral Riker?#
+PICARD: Ensign. How do I get to Ten Forward?#
+PICARD: Thank you.#
+PICARD: Will! Will, I know why it's happening. I know what's causing the anomaly. We have to go back.#
+PICARD: Damn it Will, I know why it's happening. We caused the anomaly with the tachyon pulse. It happened three times, Will. We did it in three different time periods!#
+PICARD: Will you leave me alone? Damn it, I'm not stupid. Will, the tachyon pulses, they were used in the same spot in three different time periods. Don't you see? When the tachyon pulse used. I mean, I mean when the Pasteur used the tachyon pulse, then, then, we I mean everything started, Will. We set everything in motion. It's like the chicken and the egg, Will, the chicken and the egg! We think it started in the past but it didn't. It started right here, in the future. That's why it's getting larger in the past.#
+PICARD: Yes! Right. That's it.#
+PICARD: Yes. That's why it gets larger in the past. It grows as it travels backwards in time.#
+PICARD: Go back, Will. We go back to the Devron System.#
+PICARD: I was right.#
+PICARD: We must stop it here so it can't travel back through time.#
+PICARD: The next time I'm there, it's the first thing I'll do.#
+PICARD: Data, disengage the tachyon pulse.#
+PICARD: Do it. The convergence of the tachyon pulses from the three time periods is what is causing the anomaly.#
+PICARD: Is there any change in the anomaly?#
+PICARD: Disengage the tachyon pulse.#
+PICARD: I know that. But it is imperative that you disengage the tachyon pulse immediately.#
+PICARD: Why isn't the anomaly being affected?#
+PICARD: I've shut off the tachyon pulses in the other time periods but it hasn't changed the anomaly.#
+PICARD: That could be a problem. The anomaly's so much larger in the other two time periods#
+PICARD: It may be dangerous to take the ship in.#
+PICARD: Into the anomaly, Chief. Lay in a course for the exact centre and transfer all available power to the shields.#
+PICARD: No, Lieutenant, I cannot.#
+PICARD: I understand your concerns, Lieutenant, and I know if I were in your position I would be doing the same thing. Looking for answers. But you're not going to find any because I don't have any to give you. I know it is difficult for you to understand, but we have to take the ship into the very centre of the phenomenon and create a static warp shell. Now, this will put the ship at risk. Quite frankly, we may not survive. But I want you to believe that I am doing this for a greater purpose, and that what is at stake here is more than any of you can possibly imagine. I know you have your doubts about me, about each other, about the ship. All I can say is that although we have only been together for a short time, I know that you are the finest crew in the fleet and I would trust each of you with my life. So, I am asking you for a leap of faith, and to trust me.#
+PICARD: Take us in, Chief.#
+PICARD: A static warp shell. It could repair the barrier and collapse the anomaly.#
+PICARD: Mister Data, you're a clever man in any time period. Helm, lay in a course for the centre of the anomaly and prepare to initiate a static warp shell.#
+PICARD: The other two Enterprises, they're on their way.#
+PICARD: All hands, brace for impact!#
+PICARD: Maintain course and speed. Mister Data, how long until we reach the centre?#
+PICARD: Initiate warp shell!#
+PICARD: No, we have to maintain the static warp shell as long as possible!#
+PICARD: Transfer emergency power to the antimatter containment system!#
+PICARD: Maintain position! Mister La#
+PICARD: Data, report!#
+PICARD: Are you saying that it worked? We collapsed the anomaly?#
+PICARD: Did it work?#
+PICARD: What about my crew?#
+PICARD: Thank you.#
+PICARD: You had a hand in helping me get out of this.#
+PICARD: I sincerely hope that this is the last time that I find myself here.#
+PICARD: When I realised the paradox.#
+PICARD: Q, what is it that you're trying to tell me?#
+PICARD: Mister Worf, what's the date?#
+PICARD: No. No. No. I think I'll get back to bed. I could use some sleep. Captain's log, supplemental. Starfleet Command reports no unusual activity along the Neutral Zone, and there is no sign of a temporal anomaly. It would appear that I am the only member of the crew to retain any knowledge of the events I experienced.#
+PICARD: No. I, er, I just thought that I might, erm, I might join you this evening. If there's room.#
+PICARD: Oh, er, thank you, Mister Data. Actually, I used to be quite a card player in my youth, you know. I should have done this a long time ago.#
+PICARD: So. Five card stud, nothing wild, and the sky's the limit.#

@@ -227,7 +227,7 @@ SPOCK: I'll accompany you, Doctor.#
 SPOCK:  It wasn't McCoy. It was the creature. It hit me. Crater grabbed my phaser. I wondered about McCoy. Doubt had crossed my mind.#
 SPOCK: Fortunately, my ancestors spawned in another ocean than yours did. My blood cells are quite different. [McCoy's quarters]#
 SPOCK: It's killing the Captain. Shoot it, Doctor, quickly!#
-SPOCK:;It's killing the captain! Shoot, quick!#
+SPOCK: It's killing the captain! Shoot, quick!#
 SPOCK: This is not Nancy.  If she were Nancy, could she take this?#
 SPOCK: Is that Nancy, Doctor?#
 SPOCK: Something wrong, Captain?#
@@ -1300,7 +1300,6 @@ SPOCK: Where, Captain?#
 SPOCK: Kill it, Captain, quickly.#
 SPOCK: You don't dare take the chance, Captain.#
 SPOCK: Jim, your life is in danger. You can't take the risk.#
-SPOCK: I remind you it's a proven killer. I'm on my way. Spock out.#
 SPOCK: Fascinating. It's made no moves against you?#
 SPOCK: Yes, I see.#
 SPOCK: Possibly the answer, Captain, but I'm not certain. Captain, you are aware of the Vulcan technique of the joining of two minds.#
@@ -4242,3 +4241,49 @@ SPOCK: You start ahead, Doctor. I do not wish to part from you.#
 SPOCK: How much time do we have?#
 SPOCK: There's no further need to observe me, Doctor. As you can see, I've returned to the present in every sense.#
 SPOCK: Yes, it happened. But that was five thousand years ago. And she is dead now. Dead and buried. Long ago.#
+SPOCK: Captain. Tricorder picking up very faint life readings. Approximately seven hundred metres from here. Help will have to be immediate.#
+SPOCK: Captain, that will delay our work at Beta Aurigae. It means reversing course.#
+SPOCK: May I point out that Starbase Two is on the direct route to our destination.#
+SPOCK: If the diagnosis of Doctor Lester's illness is the critical problem, then the Benecia Colony is definitely not the place for her. Their medical facilities are the most primitive.#
+SPOCK: Starbase Two is fully equipped and staffed with the necessary specialists to determine exactly what is wrong with the doctor. Is that not crucial to your decision?#
+SPOCK: At maximum speed, Starbase Two would still meet the emergency.#
+SPOCK: Sir, I believe Starfleet will have to be notified that our rendezvous with the starship Potemkin will not take place as scheduled.#
+SPOCK: Since the captain usually deals with Starfleet in these matters, I assumed that my suggestions might be deemed interference.#
+SPOCK: Good. Knowledge of the captain's aberrant behaviour is spreading through the ship. The crew is becoming increasingly tense.#
+SPOCK: I'm afraid that is a forlorn hope, Doctor. The illness appears to be primarily mental.#
+SPOCK: Perhaps the Surgeon General's office should be alerted.#
+SPOCK: Are you sure that the captain will comply with your order in his present state of mind?#
+SPOCK: Doctor, we are treading on very thin ground. Actions such as these might be misinterpreted.#
+SPOCK: Whatever happened to the captain on that planet must've taken place in the short space of time that he was alone with Doctor Lester. Perhaps a conversation with her might shed some light.#
+SPOCK: How is the doctor?#
+SPOCK: Good. I have questions to ask her.#
+SPOCK: Why should he? They are my questions, therefore I am ordering it, Lieutenant.#
+SPOCK: Has such an order ever included his senior officers?#
+SPOCK: By all means, Lieutenant.#
+SPOCK: Complete life-entity transfer with the aid of a mechanical device?#
+SPOCK: To my knowledge, such total transfer has never been accomplished with complete success anywhere in the galaxy.#
+SPOCK: That is your claim. As yet, it is unsubstantiated by any external evidence or objective tests.#
+SPOCK: At this moment Doctor McCoy is examining the captain for psychological changes. If any facts are uncovered, that would be acceptable evidence. The only kind which is acceptable to Starfleet Command and to the crew of the Enterprise.#
+SPOCK: That is true. The captain did not. However, those events have been recorded. They could have become known to you.#
+SPOCK: I believe you. However, my belief is not acceptable evidence. Evidence must be factual. Doctor McCoy may be of help. Come with me.#
+SPOCK: He is not the captain.#
+SPOCK: Certainly, Lieutenant. We all must do our duty. (Spock walks past him and feints a neck pinch. It is parried so he gets him with the other hand)#
+SPOCK: It's quite all right, Ensign. Everything is under control. (Neck-pinches him as McCoy and Kirk arrive. Then two more security come out of the turbolift)#
+SPOCK: A repetition of your physical violence is not called for, sir. No physical resistance will be offered.#
+SPOCK: I have stated my evidence. Telepathic communication with the mind of Captain James T. Kirk.#
+SPOCK: You've had great deal of evidence, except that of the chief witness. The one who should be the real subject of this investigation is kept locked away and in isolation. Why, Captain?#
+SPOCK: She is dangerous only to your authority, sir.#
+SPOCK: The witness, sir. Bring on the witness. Let your officers put the questions.#
+SPOCK: I know them now.#
+SPOCK: I am disappointed and deeply concerned that there is no objective evidence to support my position. So far.#
+SPOCK: Sir, there is only one issue here. Is the story of life-entity transfer believable? This crew has been to many places in the galaxy. They've been witness to many strange events. They are trained to know that what seems to be impossible often is possible, given the scientific analysis of the phenomenon.#
+SPOCK: Not precisely, no.#
+SPOCK: I expect only to reveal the truth.#
+SPOCK: And what will become of Doctor Lester?#
+SPOCK: No, sir. I shall not withdraw a single charge that I have made. You are not Captain Kirk. You have ruthlessly appropriated his body, but the life entity within you is not that of Captain Kirk. You do not belong in charge of the Enterprise and I shall do everything in my power against you.#
+SPOCK: I do. And I stand by it.#
+SPOCK: Yes, sir. An immediate vote before our chief witness can be left to die on some obscure planet with the truth locked away inside of her.#
+SPOCK: Perhaps you were.#
+SPOCK: To accomplish that, each one of us must be ready to seize any opportunity to break out of here and attack.#
+SPOCK: May I point out, Captain#
+SPOCK: I'm sure we all understand that, Captain.#

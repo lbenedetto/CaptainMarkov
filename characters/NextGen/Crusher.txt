@@ -2924,7 +2924,6 @@ CRUSHER: Three, maybe four hours.#
 CRUSHER: Maybe you were seeing it through his eyes?#
 CRUSHER: What does it all mean?#
 CRUSHER: I could give you an inhibitor that would slow the brain's production of psilosynine. That might be able to suppress your empathic abilities and make the experience more manageable. It would take about sixteen hours to synthesise the inhibitor.#
-CRUSHER: I've synthesised the inhibitor. Please come to Sickbay whenever you're ready.#
 CRUSHER: This should take effect immediately.#
 CRUSHER: It's hard to say for sure, but I can always increase the dosage if it's not enough.#
 CRUSHER: This dosage should prevent any further empathic flashes.#
@@ -3014,3 +3013,72 @@ CRUSHER: Did you see the buffet?#
 CRUSHER: We wanted you to know how glad we are to have you back.#
 CRUSHER: What are do you planning to do#
 CRUSHER: Yes. Do you mind?#
+CRUSHER: I've finished the neurographic scan. I don't see anything that might cause hallucinations or a psychogenic reaction.#
+CRUSHER: No. Usually a temporal shift would leave some kind of triptamine residue in the cerebral cortex, but the scan didn't show any. Personally, I think you just enjoy waking everybody up in the middle of the night.#
+CRUSHER: Your blood gas analysis is consistent with someone who's been breathing the ship's air for weeks. If you'd been somewhere else, there would be an indication of change in the oxygen isotope ratios. Thanks. Deanna, would you excuse us please?#
+CRUSHER: Jean-Luc, I scanned for evidence of Irumodic Syndrome, as you suggested. There wasn't any. But I did find a small structural defect in the parietal lobe.#
+CRUSHER: It's the kind of defect that would only show up on a level four neurographic scan. It could cause you to be susceptible to several kinds of neurological disorders including Irumodic Syndrome. Now, it's possible for you to live with this defect for the rest of your life without developing a problem. Or even if you do, many people continue to live normal lives for a long time after the onset of Irumodic Syndrome.#
+CRUSHER: I'm sorry. I guess it caught me off guard.#
+CRUSHER: Well, it won't be easy, but I'll manage.#
+CRUSHER: A time shift?#
+CRUSHER: I just scanned his temporal lobe and compared it to the scan I performed just a few minutes before. There's a thirteen percent increase in the acetylcholine of the hippocampus. Within a matter of minutes, you have accumulated over two days worth of memories.#
+CRUSHER: How is all this related to your time shifting?#
+CRUSHER: Milk, warm, a dash of nutmeg.#
+CRUSHER: A prescription. A glass of warm milk and eight hours uninterrupted sleep.#
+CRUSHER: Doctor's orders. You're exhausted. Look, I don't know whether you've slept in the past or in the future, but I'm sure you haven't slept in the present. Now get some rest, or I'll have you relieved and sedated.#
+CRUSHER: As a physician, it's often my job to give people unpleasant news. To tell them that they need surgery or that they can't have children or that they might be facing a difficult illness.#
+CRUSHER: But you've been to the future. You know it's going to happen.#
+CRUSHER: A lot of things can happen.#
+CRUSHER:  Well, this is a page from the past. I never thought I'd see either of you on a starship again.#
+CRUSHER: Geordi.#
+CRUSHER: Data.#
+CRUSHER: All right.#
+CRUSHER: Yes. Jean-Luc, crossing into Klingon territory. It's absurd. But then I never could say no to you.#
+CRUSHER: Well now, the first order of business is to get clearance to cross the Klingon border.#
+CRUSHER: Tell McKinley we've been called away on a priority mission.#
+CRUSHER: I've prepared quarters for you on deck five. You might want to get some rest.#
+CRUSHER: Nell, please escort the Ambassador to his quarters.#
+CRUSHER: You're right. I'm sorry.#
+CRUSHER: How long since his last neurological scan?#
+CRUSHER: Do you really think he's moving through time?  I'm not sure I do either. But he's Jean-Luc Picard and if he wants to go on one more mission, that's what we're going to do.#
+CRUSHER: But didn't Q say you already had caused it?#
+CRUSHER: Hello, Worf. It's been a long time.#
+CRUSHER: Have you had a chance to read our request?#
+CRUSHER: Inform transporter room two to beam the Governor aboard. I must make one thing very clear, Jean-Luc. If we run into any serious opposition, I'm taking us back into Federation territory. We aren't well armed and wouldn't last long in a fight.#
+CRUSHER: All right. Set course for the Devron system, warp thirteen. Once more, for old time's sake?#
+CRUSHER: There's nothing here, Jean-Luc.#
+CRUSHER: We should head back to Federation territory.#
+CRUSHER: Wait a minute. Data, how long would this take?#
+CRUSHER: All right. Data, begin to modify the tachyon pulse. Ensign Chilton, lay in a course back to the Federation. We'll stay here for six more hours, and if we haven't found anything we're heading back, maximum warp.#
+CRUSHER: Carry out my orders. May I see you a moment?#
+CRUSHER: Don't you ever question my orders on the Bridge of my ship again!#
+CRUSHER: I understand that you would never have tolerated that kind of behaviour back on the Enterprise and I won't here. I don't care if you're my ex-Captain or my ex-husband.#
+CRUSHER: I know. That's why I've allowed us to stay here longer and keep looking. But I also want you to allow for the possibility that none of what you're saying is real.#
+CRUSHER: Jean-Luc, I care for you too much not to tell you the truth. You have advanced Irumodic Syndrome. It's possible that all of this is in your mind. I'll stay here six hours longer and then we're heading home. I want you to remember, if it were anyone but you, we wouldn't even be here.#
+CRUSHER: This is amazing. The DNA in his optic nerves is regenerating. Geordi, it's as if you're growing new eyes.#
+CRUSHER: It shouldn't be possible at all. There's no medical explanation for spontaneous regeneration of an organ.#
+CRUSHER: In English, Data.#
+CRUSHER: We're under attack.#
+CRUSHER: Warp speed. Get us out of here.#
+CRUSHER: Heading one four eight, mark two one five. Full impulse.#
+CRUSHER: Geordi, we need more warp power, now.#
+CRUSHER: Open a channel.#
+CRUSHER: This is Captain Beverly Picard. We are a medical ship on a mission of mercy. Please break off all  Worf, signal our surrender.#
+CRUSHER: On screen.#
+CRUSHER: Damage report.#
+CRUSHER: Your visual acuity's improving by the hour, Geordi.#
+CRUSHER: I'm sorry, Alyssa. May I take another look? You'll have a little tenderness for a few days. That's to be expected.#
+CRUSHER: Jean-Luc. I'll be right back, Alyssa.#
+CRUSHER: Alyssa lost the baby. I think it's the same phenomenon that affected Geordi. Somehow, the temporal energy from the anomaly caused the foetal tissue to revert to an earlier stage of development. It's as if the unborn child began to grow younger, until finally the DNA itself began to break down.#
+CRUSHER: Physically, she's fine for now. But if this temporal reversion continues, I don't think any of us are going to be fine for much longer.#
+CRUSHER: Our cellular structures appear to be coalescing, reverting to earlier forms. In some cases, this has caused old injuries to be healed, but the effect is only temporary. Eventually, may kill all of us.#
+CRUSHER: Will, how long is this thing between you and Worf going to go on?#
+CRUSHER: I agree. I think it's time to put it behind you.#
+CRUSHER: I know, but I think in his mind you were the reason that he and Deanna never got together.#
+CRUSHER: Didn't you, Will?#
+CRUSHER: Oh, my god.#
+CRUSHER: I think you'd better come with me.#
+CRUSHER: He may be right.#
+CRUSHER: What do we do?#
+CRUSHER: Take it.#
+CRUSHER: You know, I was thinking about what the Captain told us about the future. About how we all changed and drifted apart. Why would he want to tell us what's to come?#

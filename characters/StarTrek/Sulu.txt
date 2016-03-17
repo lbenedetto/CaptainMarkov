@@ -425,7 +425,6 @@ SULU: Turning on three oh seven degrees, mark eight. Being executed now, sir.#
 SULU: Sir, the instruments won't respond.#
 SULU: Sir, we're picking up speed. Warp five, six. Warp seven, sir.#
 SULU: I can't, sir. All the controls are jammed.#
-SULU: The reading's growing stronger, Captain. Coming from a star system directly ahead.#
 SULU: Planet dead ahead, Captain. Becoming visual.#
 SULU: All power gone, sir.#
 SULU: All normal. No damage at all.#
@@ -452,7 +451,6 @@ SULU: Phasers firing.#
 SULU: Phasers firing. A hit.#
 SULU: The other three ships are holding station out of range. The Excalibur looks dead.#
 SULU: All phaser power gone, sir.#
-SULU: Approaching planet Omega Four, sir. Object ahead. Another vessel in planet orbit, Captain.#
 SULU: It's the USS Exeter, sir.#
 SULU: The sensors indicate no damage to the vessel, Captain.#
 SULU: Sir, this is Lieutenant Sulu in temporary command of the Enterprise.#
@@ -692,7 +690,6 @@ SULU: Captain, I get no response from controls. We're going off course.#
 SULU: Captain, it seems as though someone else is running the ship.#
 SULU: Captain, we're now leaving the Neutral Zone. Bearing into Romulan space!#
 SULU: I think so, sir.#
-SULU: All observation stations, take final readings. This'll be our last orbit.#
 SULU: I'm reading it now, Mister Spock. It seems to indicate artificial power being generated in factor seven quantities.#
 SULU: Completing final orbit, sir.#
 SULU: Aye, aye, sir.#
@@ -703,3 +700,11 @@ SULU: No answer yet on what caused it. They're standing by.#
 SULU: Captain! How can we warn him? (Khan throws a rock at Spock, and a fight starts until the bad guys run off)#
 SULU: We should be on warp power within thirty minutes, sir.#
 SULU: Aye, aye, sir.#
+SULU: Warp factor two, sir.#
+SULU: Aye, sir. Three seven three mark eight.#
+SULU: Aye, sir.#
+SULU: Sulu here, Captain. Starfleet Command is requesting additional details on the delay.#
+SULU: The death penalty is forbidden. There's only one exception.#
+SULU: The captain really must be going mad if he thinks he can get away with an execution.#
+SULU: What difference does it make who he is? Are we going to allow an execution to take place?#
+SULU: I'll fight them every way and any way I can.#

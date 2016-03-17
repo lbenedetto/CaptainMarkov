@@ -31,7 +31,6 @@ PHLOX: Antsy?#
 PHLOX: Every moment's been an adventure for me. Humans are so unpredictable. Have you seen the quantities of food Crewman Namod consumes?#
 PHLOX: Have you smelled Ensign Socorro after she exercises? She gives off a fragrance not unlike the adrenal gland of a Nausicaan. And Crewmen Bennett and Haynem over there. Do you see them? (A man and a#
 PHLOX: They're clean.#
-PHLOX: Not long after I became a physician, there was an explosion on a cargo ship orbiting my homeworld. I was part of the first medical team to arrive. There were seventeen bodies on the Bridge alone. I'd never seen that many dead people in one place before. Very disturbing. You have nothing to be ashamed of.#
 PHLOX: We're all frightened by unfamiliar things. You should be grateful that your body of experience doesn't include rooms full of corpses.#
 PHLOX: Not so far. She has been under a great deal of stress, but I'm hoping this protein concentrate whets her appetite.#
 PHLOX: It goes without saying that you're going to encounter the unexpected.#
@@ -48,7 +47,6 @@ PHLOX: Oh, for any number of reasons. To create medicines, vaccines, some specie
 PHLOX: It's quite a common practice. I'm surprised you're not familiar with it.#
 PHLOX: It's worth noting that triglobulin is very similar to human lymphatic fluid.#
 PHLOX: A sub-molecular bio-scan. You've been probed, Ensign. We've all been probed. They have no doubt discovered that your lymphatic systems contain some useful compounds.#
-PHLOX: Human skin is a resilient organ. These wounds should heal nicely.#
 PHLOX: Yes, but I doubt he'll make much sense. Have you ever heard of tropolisine.#
 PHLOX: It's a psychotropic compound known for its hallucinogenic effects. This crewman's bloodstream is filled with it.#
 PHLOX: Normally, it's found in certain flowering plants. Perhaps your sensors weren't calibrated to detect it.#
@@ -64,7 +62,6 @@ PHLOX: Ah, but you're not on Vulcan. You should try these blueberry pancakes. Th
 PHLOX: Give it some time. The Vulcan digestive tract is highly adaptable.#
 PHLOX: There's an old saying. When in Fellebis, do as the Fellebians do.#
 PHLOX: Now that's adventurous.#
-PHLOX: I'm giving you forty milligrams of mirazine.  It should shorted the decompression process by half.#
 PHLOX: I've sent them your dietary requirements.#
 PHLOX: I don't believe you're having an allergic reaction. Tell me, did your visit to the Xyrillian ship involve any romance?#
 PHLOX: Were you intimate with anyone?#
@@ -86,7 +83,6 @@ PHLOX: You should expect to begin experiencing some unusual symptoms. Hormonal c
 PHLOX: You may very well be putting those nipples to work before you know it. (The crewman has reentered with a fresh tray of chicken tetrazzini. Tucker takes it off him and glares. The crewman leaves quickly.)#
 PHLOX: Many species feed on underground fauna and flora. Tubers, fungi, insects.#
 PHLOX: Right away, sir.#
-PHLOX: Do you think they know we've returned?#
 PHLOX: May I have my medical supplies, please? (An older man with white and blue face markings comes in, accompanied by an old woman.)#
 PHLOX: My name is Phlox. I am a Denobulan. I'm Captain Archer's physician.#
 PHLOX: He can walk, more or less, but I'll need to get him back to Sickbay to remove the projectile.#
@@ -104,7 +100,6 @@ PHLOX: T'Pol says the soil and foliage is going to remain irradiated for at leas
 PHLOX: She's as disagreeable as she was before I treated her.#
 PHLOX: For the last two or three generations that immunity kept you all alive, but now the poisons have gotten into your water supply. As Captain Archer says, it is no longer safe.#
 PHLOX: I should take one more thoracic scan.#
-PHLOX: Well, you must be looking forward to visiting the sanctuary.#
 PHLOX: But such an opportunity to appreciate your cultural history.#
 PHLOX: Precisely my point. You'll be able to introduce some of your own people to your new crew. Oh, I believe I see the source of your misgivings. Being seen with a human crew.#
 PHLOX: May I? (He picks up with his fingers a piece of the salad she's eating with knife and fork.) PHLOX: I confess I feel awkward on the ship myself, sometimes, out of place. But what is that Vulcan motto? Infinite diversity.#
@@ -114,11 +109,9 @@ PHLOX: Well then, it seems to me a cultural exchange between your Vulcan brethre
 PHLOX: Human children have such fertile imaginations. Sub-commander.#
 PHLOX: I'm going to put this one up in Sickbay. Would you like one for your quarters?#
 PHLOX:  Ah, I believe I can answer that, Captain. Hello, children. I'm Doctor Phlox, the ship's physician. I'm from a system called Denobula Triaxa and I feel very honoured to be part of this important mission. Germs. They may be tiny but they are among the most resilient organisms known to medical science. They can survive almost anywhere, on your kitchen counter, under your fingernail, in the vacuum of space. Over two hundred million space-dwelling microbes have been catalogued. One of the most virulent species lives inside grains of interstellar dust. Polycocyx astris. They can drift in a dormant state for millions of years and still cause a nasty cold. I once discovered a peculiar colony of spores on the hull of a#
-PHLOX: When did these symptoms begin?#
 PHLOX:  Perhaps you slept in an awkward position.#
 PHLOX: For two days? Something on your mind? It appears to be a tension headache. You know anything said between us is strictly confidential. Would you like to talk about what's troubling you?#
 PHLOX: I don't know if there's anyone on this ship you would feel comfortable talking with, but if there is, it might feel good to get whatever's bothering you out in the open.  This is a simple analgesic. I can give you something later to help you sleep this evening, if you'd like.#
-PHLOX: It should stand up to scrutiny as long as you don't look too close. Here, see for yourself. (He holds a mirror up for Hoshi to see her Akaali forehead ridges in place.)#
 PHLOX: You mustn't touch it, Ensign. The irritation will subside.#
 PHLOX: The anterior crests aren't quite symmetrical. I'll just add a little more definition to the right side.#
 PHLOX: Of course, Captain.#
@@ -136,7 +129,6 @@ PHLOX: Oh, yes. In fact, while I was there I made it a point to study a number o
 PHLOX: There's your heart, lungs, liver, another heart. Every organ. This imaging device also allows us to examine your genetic structure. Ah, you'll be happy to know you're in perfect health. Who would like to go next?#
 PHLOX: I plan to, Captain. Thank you for letting me spend the night with these people.#
 PHLOX: Aye, Captain. .#
-PHLOX: Roja durana tua teenan, Captain. That is a traditional greeting on the morning of Agosoria. It means, may the Plume light your way.#
 PHLOX: Oh, it was mesmerising. Four hours of ritual prayer followed by the Kaana-sah, a series of exercises designed to purify the body. I think I strained a leg muscle, but it was well worth it.#
 PHLOX: Eleven, I believe. The others wanted to observe the star from their ship.#
 PHLOX: I didn't take a head count but that sounds about right.#
@@ -175,15 +167,12 @@ PHLOX: He's the first. He helped me get settled in when I came to San Francisco.
 PHLOX: The curiosity of an explorer, even then.#
 PHLOX: Oh, yes. I'm looking forward to it. If you think you're ready, we can tackle gerunds today.#
 PHLOX: Oh, it's superficial. Only first degree burns. A little dermoline gel should do the trick.#
-PHLOX: Lieutenant, I saved a seat for you.#
-PHLOX: It's just a little gastrointestinal distress.#
 PHLOX: Well, you've been feeding him cheese again, haven't you? You've got to learn how to say no, Captain.#
 PHLOX: No bother. He was one of my more co-operative patients today.#
 PHLOX: No, no. I'd like to stay and see what happens.#
 PHLOX: No, not the film. I'm sensing a rising emotional undercurrent in the room. I'm curious to see if it culminates in some kind of group response.#
 PHLOX: We had something similar a few hundred years ago, but they lost their appeal when people discovered their real lives were more interesting.#
 PHLOX: I suppose it is.#
-PHLOX: Temporal vein.#
 PHLOX: And what is the maxillary connected to?#
 PHLOX: Very good. The external jugular.#
 PHLOX: And that leads to?#
@@ -243,7 +232,6 @@ PHLOX: Unless I misinterpreted those signals.#
 PHLOX: You need to know that my culture is different.#
 PHLOX: It doesn't? This culture's different. That seems to matter to you a great deal.#
 PHLOX: What do you mean by friend?#
-PHLOX: Trouble sleeping, Captain?#
 PHLOX: Actually, Denobulans require very little rest, unless you count our annual hibernation cycle.#
 PHLOX: Only for six days.#
 PHLOX: The research has been challenging, to say the least.#
@@ -266,7 +254,6 @@ PHLOX: Yes. Perhaps you're right.#
 PHLOX: Good night. Phlox to Crewman Cutler.#
 PHLOX: I, er, know it's short notice, but I was wondering if you might like to join me for a little snack in the Mess hall. I could use a friend right about now.#
 PHLOX: Thank you. Sweet dreams.#
-PHLOX: May I? I just heard about your transfer. I'm sorry you'll be leaving us. I'm sure you'll excel at whatever new assignment you're given.#
 PHLOX: I assumed you were being promoted.#
 PHLOX: Do you agree with their assessment?#
 PHLOX: I'm certain the High Command would reconsider your transfer if they knew everything you've done for this crew. You realise you're not the first Vulcan officer to be posted aboard a human starship. The High Command has tried this before but none of the others lasted more than a few weeks. They found their crewmates too chaotic and unpredictable. But you've been here more than six months and you haven't merely tolerated this crew, you've become part of it. Isn't it logical to take pride in that accomplishment?#
@@ -283,13 +270,11 @@ PHLOX: Well, you won't be contagious inside an environment suit. Just try not to
 PHLOX: T'Pol was right. There's a neurotoxin in her bloodstream. Untreated, it could kill her within a day or two.#
 PHLOX: I'm working on it.#
 PHLOX: She's showing the effects of hypothermia. My guess is she took refuge in a low temperature environment aboard her ship. The cold would have delayed the effects of the toxin.#
-PHLOX: You'll be pleased to know I've developed an antitoxin. There's an interesting wrinkle, though. When you have a moment I'd like to share it with you.#
 PHLOX: Specifically, the toxin was bonded to a molecule unique to Xarantine ale.#
 PHLOX: And that included some Xarantine ale?#
 PHLOX: Lie still, Lieutenant.#
 PHLOX: Get some rest. There will be plenty of time to explain what happened in the morning.#
 PHLOX: It took nearly three hours go get your body temperatures back to normal.#
-PHLOX: This is more than a simple headache. Your blood pressure's elevated and I'm reading unusually high synaptic activity. It doesn't appear to be a virus or a bacterial infection. I'd like to run a cranial scan, just to be safe.#
 PHLOX: It'll only take a moment.#
 PHLOX: Very well, Doctor. It's not like you to stray from your routine. This wouldn't have anything to do with our visitors? You've been spending quite a bit of time on their ship.#
 PHLOX: And?#
@@ -302,14 +287,10 @@ PHLOX: The cells are in a state of chromosomal flux. They're mutating. It's as i
 PHLOX: Captain?#
 PHLOX: I've been analyzing their mutative ability. Quite remarkable.#
 PHLOX: I'll start right away.#
-PHLOX: This is obviously someone's final resting place. What do you expect to accomplish by opening it?#
 PHLOX: I don't believe you'll be needing my services.#
 PHLOX: Finishing as we speak, though I'm not completely happy with the nose.#
-PHLOX: It's working.#
-PHLOX: Shut off the emitters.#
 PHLOX: Shut them off.#
 PHLOX: Their nervous systems appear to be linked to the organism's. They're sharing autonomic functions, neural impulses. If we continue firing we could end up killing our own people.#
-PHLOX: The rate of symbiosis is increasing. If we don't find a way to extract them soon their systems will be too integrated with the creature. I won't be able to separate them.#
 PHLOX: A few hours at most. Their metabolic rates are dropping. Temperature, respiration.#
 PHLOX: I'm not sure if you appreciate how alien this creature is. It's not attacking our crewmen, it's trying to integrate them into itself.#
 PHLOX: At some point in the very near future there won't be six lifeforms in that cargo bay. There'll only be one.#
@@ -327,7 +308,6 @@ PHLOX: We don't know anything about this creature's intentions.#
 PHLOX: If you want information to help you construct your force field, you'll acquire it under my supervision.#
 PHLOX: Not in my Sickbay, unless the Captain says otherwise.#
 PHLOX: Precisely.#
-PHLOX: But Crewman Kelly's metabolic rate has dropped to a critical level. Whatever you're planning to do#
 PHLOX: Commander Tucker's heart rate is increasing.#
 PHLOX: Good. Crewman Kelly's biosigns are stabilising as well. (Suddenly there is total silence, then a slithering sound as the four#
 PHLOX: Medical Team, report to Cargo bay two.#
@@ -357,7 +337,6 @@ PHLOX: No, fresh ones would be better.#
 PHLOX: Set a course for Regulus, maximum warp.#
 PHLOX: I appreciate the offer, but it would be best to keep our relationship professional.#
 PHLOX: I am the Chief Medical Officer on this ship and I am going to treat Ensign Mayweather. Then I'm going back to bed.#
-PHLOX: There we go.#
 PHLOX: You can check it yourself if you like, Doctor. The analysis clearly shows he was given benzethonium chloride. You're quite allergic to it. This should do the trick.#
 PHLOX: He has a mild concussion, but he should be fine.#
 PHLOX: Ah, to be Vulcan. It's been my experience that humans have a great deal of difficulty separating emotional despair from what you call responsibility.#
@@ -371,9 +350,7 @@ PHLOX: I'll certainly miss your outspoken personality, Mister Tucker.#
 PHLOX: Hoshi?#
 PHLOX: How are you holding up?#
 PHLOX:  Good luck. (She continues on, then punches out a grill into a corridor and starts to lower herself down. Her vest gets caught on a hook and she drops to the floor, leaving it behind.) [Reed's quarters} (The door opens to reveal - Hoshi with her arms crossed in front of her naked breasts.)#
-PHLOX: Get this man into the imaging chamber.#
 PHLOX: I don't know.#
-PHLOX: Yes, Captain.#
 PHLOX: I'm afraid not. She suffered a rather severe concussion.#
 PHLOX: You'd be of little help in your present condition, Ensign.#
 PHLOX: Ensign, lie still. Your injuries don't appear to be serious. Present circumstances, however, should not keep up from continuing our Denobulan lessons. What about anatomy? Let's begin with the thyroid gland.#
@@ -465,7 +442,6 @@ PHLOX: My eldest son's an artist. A potter, actually. He lives in the same town 
 PHLOX: My two younger sons and I never saw eye-to-eye. I'm afraid we haven't spoken in quite some time.#
 PHLOX: Perfectly all right. You asked me if I missed them. The answer is yes, every one of them. The children, the wives, even the other husbands. But we Denobulans live a long time, Captain, and right now there is nowhere I'd rather be than serving with the Interspecies Medical Exchange aboard this wonderful vessel of yours.#
 PHLOX: As I recall, you accused my entire species of being insensitive. Then I apologise to you and all your fellow Denobulans. PHLOX: Well, I can't speak for the others, but, on behalf of myself, I accept. And to think T'Pol told me you were incapable of apologising.#
-PHLOX: No apologies, Captain.#
 PHLOX: I hear things went very well on the surface.#
 PHLOX: You'll be pleased to know that while you were gone, things went very well up here, too.#
 PHLOX: Not the slightest sign of rejection.#
@@ -483,7 +459,6 @@ PHLOX: It's remarkable. Your cells are regenerating at an exponential rate. Do y
 PHLOX:  I could certainly use a device like this. Perhaps the Captain could negotiate a trade of some sort. (The device#
 PHLOX: He's dead, Captain.#
 PHLOX: The subcutaneous burns are consistent with an isolytic shock but I can't be certain until I perform a full postmortem. I'll keep you apprised.#
-PHLOX: Computer, begin recording. Subject's name, Ensign Travis Mayweather. Human male. Weight, seventy two kilograms. Age, twenty six Earth years. Far too young to be on this table. Cellular decay suggests that death occurred at approximately twenty three thirty hours. Preliminary cause of death, ventricular fibrillation induced by an isolytic shock. The vascular system appears to have functioned as a conduit for the discharge. The musculature shows extensive necrosis along the conductive pathway. There are subcutaneous burns over approximately twelve percent of the body. The right phalanges and metacarpus exhibit signs of multiple thermal fractures. Computer, pause. Ensign? This is not an ideal time.#
 PHLOX: You may find this disturbing.#
 PHLOX: It's different when it's someone you know personally. (He pulls back the curtain for her.)#
 PHLOX: I don't recall that.#
@@ -515,17 +490,6 @@ PHLOX: Headache, nausea, diarrhoea. But they would subside in a day or two. Do I
 PHLOX: I'm afraid the virus will have spread by then. I really need an answer today.#
 PHLOX: Not too much later.#
 PHLOX: It's going to be difficult to convince them he's indisposed for the next four days.#
-PHLOX: Welcome home.#
-PHLOX: Not a single parasite, spore or virus. I take it your expedition was productive?#
-PHLOX: You're done here.#
-PHLOX: Can you move your fingers?#
-PHLOX: You tell me.#
-PHLOX: Very little, I'm afraid. Quantum physics is hardly my specialty, but I'd guess that you received an intense dose of whatever particle radiation that ship uses to conceal itself.#
-PHLOX: It's difficult to determine, but I suspect your appendage will eventually re-materialise on its own.#
-PHLOX: Come back in an hour. I'll check on your progress.#
-PHLOX: I'd also recommend a fresh uniform.#
-PHLOX: That's nothing.#
-PHLOX: Give it time. Give it time.#
 PHLOX: Ensign. Is there something I can do for you?#
 PHLOX: Why don't you let me have a look?#
 PHLOX: It would be irresponsible to dispense medication without examining you first. Please. Any other symptoms? Dizziness, blurred vision?#
@@ -574,7 +538,6 @@ PHLOX: Well, I see you, Ensign, and the Sickbay doors responded when you came in
 PHLOX: As far as I'm concerned I didn't even see you come in here.#
 PHLOX: I would like to give you a mild sedative. It'll help you get a good night's sleep.#
 PHLOX: As you wish, but stop by in the morning, all right?#
-PHLOX: She came to Sickbay after the incident with the storm, then a second time early last night.#
 PHLOX: She said she felt shaky. You're aware that was the first time she'd ever transported?#
 PHLOX: I believed that was the source of her anxiety. She was convinced her molecules hadn't been reassembled properly. I should've taken her more seriously. These are the biomolecular scans I took during each of#
 PHLOX: Look how much her subcellular membranes have degraded. These scans were taken less than twenty four hours apart. It's virtually impossible.#
@@ -608,7 +571,6 @@ PHLOX: I wouldn't do that, Captain.#
 PHLOX: I've been analysing the Arkonians' physiology. Their endocrine system is extremely sensitive to temperature fluctuations. If that pilot is suffering from dehydration, it's no doubt causing an acute cellular breakdown.#
 PHLOX: Transporting him will most likely be fatal.#
 PHLOX: Why don't you ask him yourself? The Universal Translator is online.#
-PHLOX: Your neurolytic enzymes are considerably higher than last month.#
 PHLOX: I told you it was just a matter of time before we'd need supplemental medications. This conference is a perfect opportunity. Some of your finest physicians will be there. It's essential that I speak with them.#
 PHLOX: I think I can question them without revealing that you're infected.#
 PHLOX: I'm afraid we have no choice. Without further treatment, you could very possibly die.#
@@ -675,14 +637,11 @@ PHLOX: Vulcan physiology isn't affected by the pathogen. Shall we? (Archer enter
 PHLOX: Ironic. They weren't overly enthusiastic about you taking command of Enterprise in the first place, and now your presence is crucial to their interests.#
 PHLOX: All finished.#
 PHLOX: Captain, I served as a medic in the Denobulan infantry. If I learned anything from that experience, it's that battlefields are unpredictable places, even under a flag of truce. Be careful.#
-PHLOX: This was a human male. A microcellular scan should tell us his age at the time of death. Apparently, you're not the first humans out this far.#
 PHLOX: The tissue damage is extensive, but I should be able to isolate a few fragments.#
 PHLOX: Absolutely.#
-PHLOX: I managed to find only a few undamaged cells, but they were enough to complete a genetic analysis.#
 PHLOX: No, but I did discover that our guest is no ordinary human. I found an unusual deviation in this nucleotide sequence. At first I thought I was looking at some kind of mutation, but there was something familiar about the chromosome structure, so I widened my search to include the interspecies database. This nucleotide sequence is Vulcan.#
 PHLOX: The likeliest explanation is that he had at least one Vulcan ancestor further back than a great-grandparent.#
 PHLOX: I also found genetic material belonging to several other species. This sequence is Terrelian. There's another I can't identify. I believe this individual is the result of several generations of interspecies breeding.#
-PHLOX: May I join you?#
 PHLOX: I found another nucleotide sequence in the pilot's genome. It appears to be Rigelian. That corpse is full of surprises. (tastes his meal) I didn't realise how late it was until my stomach reminded me it was time to eat. You seem to be engrossed in your work as well.#
 PHLOX: Anything noteworthy?#
 PHLOX: More mysteries.#
@@ -694,8 +653,6 @@ PHLOX: Surprises, Sub-Commander. I believe in embracing surprises.#
 PHLOX: Good night.#
 PHLOX: I can't find anything wrong with either of you.#
 PHLOX: The particle density's quite low. It's unlikely to have any lasting effects.#
-PHLOX: If I may, I've been running a forensic analysis. There are traces of human blood on the deck and bulkheads, both the Captain's and Commander Tucker's. Lieutenant Reed believes they were abducted.#
-PHLOX: And you?#
 PHLOX: I'm not detecting any parasites or lifeforms or wisps of smoke. He seems in perfect working order.#
 PHLOX: It's a very common hallucination, returning to a familiar place.#
 PHLOX: You're clear, Commander. Free to go.#
@@ -714,33 +671,20 @@ PHLOX:  I'm glad I brought you along.#
 PHLOX: Doctor Phlox.#
 PHLOX: More or less.#
 PHLOX: Sub-Commander? T'Pol?  PHLOX: Have you#
-PHLOX: But she's certainly not herself.#
-PHLOX: Come with me. Everything will be all right. PHLOX: I'm afraid I have to insist. I promise you (Then the blue wisp leaves her, she#
 PHLOX: My name.#
 PHLOX: We'll have to purge the carbon dioxide within twenty seconds of respiratory failure.#
-PHLOX: It's enough time. Don't forget to close off the ventilation to the starboard nacelle.#
 PHLOX: Four, five, six, seven.#
 PHLOX: Junction four one alpha. Atmospheric#
-PHLOX: Two silver.#
-PHLOX: Done.#
 PHLOX: What should I do with it?#
 PHLOX: Very well. (He pulls it off to reveal a right angled pipe and a#
-PHLOX: It's right here. It has six green lights.#
-PHLOX: And how do I go about doing that?#
-PHLOX: I've reached the access tube, Captain.#
 PHLOX:  It's not coming off.#
-PHLOX: I've used every muscle I've got. it won't budge.#
 PHLOX: Good suggestion.#
 PHLOX: Tell me what to do.#
 PHLOX: Back home, I'm known for my fine motor skills. I doubt a pair of EV gloves#
-PHLOX: Did you say there were two?#
-PHLOX: Got it.#
 PHLOX: I see them.#
 PHLOX: Phlox to Captain Archer.#
 PHLOX: Mission accomplished.#
-PHLOX: It's left Commander Tucker.#
 PHLOX: In a moment, Captain. I need to be certain the CO2 levels are consistent throughout the ship, that all the lifeforms are gone.#
-PHLOX: It's done.#
 PHLOX: Just breathe deeply. You'll be fine.#
 PHLOX: In through the nose, out through the mouth.#
 PHLOX: Follow me, Commander. We have a lot of doors to unlock.#
@@ -926,7 +870,6 @@ PHLOX: And what about you?#
 PHLOX: I'm much more interested in hearing what you want.#
 PHLOX: Nonsense. You've done it before. It's interesting. You and I, the only aliens on board this vessel. To go or to stay. For me, it was a simple question of loyalty towards the Captain and the sad realisation that he'll need me more then ever on such a crucial mission. But for you it's a more difficult decision. Does your allegiance lie with the High Command or with Captain Archer?#
 PHLOX:  Ah.#
-PHLOX: Come, look at this. The pigmentation is far more colourful that I would have suspected.#
 PHLOX: Xindi epithelial cells, harvested from the corpse they found inside the crashed probe.#
 PHLOX: Precisely. When I'm finished constructing my physiometric profile I wouldn't be surprised to find he has reptilian characteristics.#
 PHLOX: Do you have any siblings?#
@@ -983,20 +926,16 @@ PHLOX: This is the last of the mutagenic virus. I assume you want me to destroy 
 PHLOX: Captain, you experienced first-hand what this pathogen can do.#
 PHLOX: Considering the alternatives, that would be best.#
 PHLOX: Captain.#
-PHLOX: You've been scratching again.#
 PHLOX: Have you been using the ointment I gave you?#
 PHLOX: The more you scratch, the longer it will take to heal. I understand you may have found a source of trellium-D?#
 PHLOX: I hope he's correct. Crewman Cutler broke her arm when one of those spatial anomalies went through the Exo-biology lab. The sooner the ship is insulated against these phenomena the happier I will be.#
 PHLOX: Of course. (Phlox holds out a jar of ointment. Archer applies it#
 PHLOX: You were transformed into a different species. Don't expect to recover overnight.#
-PHLOX: You have the most intriguing eyes. I've never seen a retinal structure this complex.#
 PHLOX: I'm not familiar with her species, but she appears to be in perfect health.#
 PHLOX: Of course.#
-PHLOX: You should let me run a neural scan.#
 PHLOX: I can't even begin to speculate. She's suffered disruptions throughout her neocortex. If she were human, or Denobulan for that matter, she'd probably be dead. But Vulcan neurophysiology is a great deal more resilient than ours.#
 PHLOX: I have to finish treating her injuries first.#
 PHLOX: A few hours.#
-PHLOX: This gland released a fatal dose of neuro-toxin into his bloodstream.#
 PHLOX: Not this one. He was surgically enhanced, if you can call it an enhancement.#
 PHLOX: The damage is more severe than I expected.#
 PHLOX: I'm not certain. T'Pol#
@@ -1017,19 +956,6 @@ PHLOX: Be my guest. The Vulcan root-leaf's in that container.#
 PHLOX: It makes perfect sense. Listening to your thoughts has been very pleasurable.#
 PHLOX: I've been with you for several days. Studying your mind, your memories. Learning so many things about you.#
 PHLOX: My telepathy only works in rare instances. It takes a unique mind to process it. Yours is the first I've found in many years.#
-PHLOX: I'm flattered you requested my assistance, Commander, but weaponry isn't exactly my area of expertise.#
-PHLOX: They appear to be generating synaptic impulses.#
-PHLOX: Wouldn't make a very good pet but, definitely organic. (Another worm emerges to#
-PHLOX: I've been running scans of the weapons organic component. It's neural pathways appear to help modulate the rifle's power output. It's the most sophisticated example of biomechanical engineering I've ever seen.#
-PHLOX: Ah, yes. I've been attempting to break down this creature's immune system.#
-PHLOX: However, it's proving to be quite resilient. I tried an array of viruses and pathogens, but it's immune to all of them. Then I began exposing it to various radioactive spectra. A sustained burst of delta radiation.#
-PHLOX: In theory. Unfortunately, the amount of radiation required would be extremely hazardous to any humans in the area.#
-PHLOX: And, Commander, I'd avoid exposing any of the Xindi technology to omicron radiation. It seems to thrive on it, as you can see.#
-PHLOX: If I may? Commander Tucker and I have learnt all we can from examining the workings of the device. A practical test is the next logical step.#
-PHLOX: Ready.#
-PHLOX: Perhaps it has a safety device.#
-PHLOX: It's coming from the weapon.#
-PHLOX: Quick thinking, Commander.#
 PHLOX: No. Captain, there are a few questions I have to ask you.#
 PHLOX: I�m afraid I have to insist. When did you last speak to Commander Tucker?#
 PHLOX: The anomaly in the corridor left something behind. We�ve never seen it before. This is a microcellular scan of your hippocampus. You�ve been infected by several clusters of parasites. They haven�t caused any tissue damage but they�re impairing certain synaptic functions. They�re preventing you from forming new long term memories.#
@@ -1089,15 +1015,12 @@ PHLOX: He has severe burns! The other two are suffering from the effects of rapi
 PHLOX: I will not leave without treating these people.#
 PHLOX: Can I help you? (In a corridor, Archer jumps a Triannon and knocks him out.) [Jefferies tube]#
 PHLOX: Don't worry, it's harmless unless it's agitated. (His minder ducks as it flaps near him.) [Reed's quarters]#
-PHLOX: He should remain unconscious for at least two hours.#
-PHLOX: I could make a truth serum, but it could take weeks to synthesise the correct formula. I've been studying Xindi neuro-physiology. It may be possible to erase his most recent memory engrams. That way Degra will never know that he came aboard, or that he met any of us.#
 PHLOX: Their neural pathways are virtually identical. I'll need to perform a few tests, but I don't expect it will be a problem.#
 PHLOX: They're relatively easy to implant.#
 PHLOX: Thank you. Dermal art used to be very common on Denobula. Fortunately, my parents insisted I study it. I've also stimulated his hair follicles.#
 PHLOX: Ah, but you're forgetting about the stress of imprisonment and torture. It could very well have an effect on hair pigmentation.#
 PHLOX: Oh, yes. I've treated patients with Regulan bloodworms for years. There should be no side-effects aside from a thoroughly cleansed lymphatic system. Please try not to injure it. They're difficult to replace.#
 PHLOX: I'm injecting them with trace amounts of the plasma. It won't be harmful.#
-PHLOX: Ah, I appreciate your stopping by so quickly.#
 PHLOX: Are you acquainted with Corporal Amanda Cole?#
 PHLOX: She was in this morning with a mild headache. Says she's been experiencing it for a week now. Every test I ran came back negative. Frankly, I was mystified until she mentioned she was receiving Vulcan neuro-pressure from Commander Tucker.#
 PHLOX: Well, I wanted to ask you. Neuro-pressure's a highly specialised discipline. Commander Tucker's only be receiving it for a couple of months. I thought it was possible that he might have misapplied one of it's techniques.#
@@ -1108,7 +1031,6 @@ PHLOX: He's suffering from a form of rapid cellular degeneration.#
 PHLOX: I don't know yet. I've managed to revive him, but he's in a fair amount of pain.#
 PHLOX: We were trying to save your life.#
 PHLOX: He may be going into shock.#
-PHLOX: His condition has worsened. He's literally disintegrating and there doesn't seem to be any way to stop it.#
 PHLOX: I don't even know if I can revive him.#
 PHLOX: Captain, this man is dying a painful death. To keep him conscious is unethical.#
 PHLOX: Very well, I'll do what I can.#
@@ -1118,16 +1040,11 @@ PHLOX: They're from a different world than I am.#
 PHLOX: Mine is called Denobula, my shipmates are from Earth.#
 PHLOX: I'm doing everything I can.#
 PHLOX: Try to rest. (Phlox goes over to a monitor and the alien grabs him, his arm passing through Phlox's throat and knocking him out. The alien goes for a walk through the walls.)#
-PHLOX: I'm afraid there's nothing I can do.#
-PHLOX: Porthos, come back here. Porthos, stop. Return. Heel, that's it. Heel. Porthos. (Outside Archer's quarters, the faithful companion scratches at the door and yips.) PHLOX: All right, but just for a moment.#
+PHLOX: All right, but just for a moment.#
 PHLOX: That's enough. You can come and see him again tomorrow.#
-PHLOX:  It says here that canines can be quite territorial. Is that why you keep returning to the Captain's quarters? On Earth, a dog called Scruffers travelled three thousand kilometres attempting to reunite with it's human keeper. I heard of a Pycan space moth that drifted half a light year trying to return to it's home world, but I don't believe it had a name. I could use a walk. How about you?#
-PHLOX:  Dear Doctor Lucas. I apologise in responding to your last letter. As you can imagine, the crew and I have been quite busy.#
-PHLOX: In we go. I was deeply saddened to hear about your colleagues lost in the Xindi attack. You have my condolences. It's unfortunate you were forced to cut your time on Denobula short, but obviously you're needed on Earth. Perhaps when our mission is successfully completed I'll see you back in San Francisco. The Expanse. An extremely curious place. (He takes#
 PHLOX: That's true, unless we take the appropriate precautions. The reconfigured space disrupts the human neocortex, but I can counteract the effects by dampening the crew's neurological activity. It would be like, oh, shutting down the main computer to protect it from an ion storm.#
 PHLOX: Quite simply, I can place each of you in a comatose state until we've passed through the affected region.#
 PHLOX: Shouldn't cause any problems.#
-PHLOX: Commander Tucker was none too keen on my plan. However, I was able to convince Captain Archer. Since my Denobulan physiology is immune to the effects of the disturbance, I volunteered to watch over the crew. So far, they've been no trouble at all.#
 PHLOX: Every two hours.#
 PHLOX: I imagine it would.#
 PHLOX: These are hardly normal circumstances.#
@@ -1140,8 +1057,6 @@ PHLOX: Hello? Hello?  Nonetheless, I'm not ashamed to admit I'll be relieved whe
 PHLOX: I know, I know, I'm sorry I'm late.#
 PHLOX:  Did you hear that?#
 PHLOX: Computer, mute sound.  That doesn't sound normal, does it. I suppose we should investigate, hmm. I'm not going alone. Come, Porthos, come.  I'd be better off talking to my Pyrithian bat.#
-PHLOX: Perhaps we are letting our imaginations run away with us. I should never have let Mister Tucker talk me into watching The Exorcist last week.#
-PHLOX: Hello? It's Doctor Phlox. Porthos! Porthos, come back here. Porthos.#
 PHLOX: Well, now don't you feel foolish.#
 PHLOX: I called out. Didn't you hear me?#
 PHLOX: You could hear that all the way from the mess hall.#
@@ -1155,7 +1070,6 @@ PHLOX: Hello?  T'Pol? Is that you? (It seems like someone runs#
 PHLOX: Would you mind not creeping around the ship like a Draxxan cloud viper.#
 PHLOX: Please. I wouldn't have imagined that Vulcans engaged in childish games.#
 PHLOX: What were you doing in Engineering just now?#
-PHLOX: I hope you don't mind eating here in the galley. Mess hall seems a bit, er, oh, melancholy. All the empty chairs.#
 PHLOX: My fifth grandmother made this for each of my weddings (ladling liquid). Chef's tried to prepare it, but he never gets it quite right.#
 PHLOX: I always thought so, but was afraid to mention it. T'Pol, you're sure you weren't in Engineering today?#
 PHLOX: We're supposed to be assisting each other. It's a large ship for two people to maintain.#
@@ -1167,9 +1081,6 @@ PHLOX: What I'm saying is that we're a sociable people. Being alone on Enterpris
 PHLOX: That isn't what I meant.#
 PHLOX: Such as Commander Tucker.#
 PHLOX: I understand, but I for one will never complain again when I can't get a good seat on movie night.#
-PHLOX:  Despite the tragic circumstances surrounding your homecoming, Doctor Lucas, you must be happy to return to Earth. As I've mentioned before, I've no regrets about accepting my position on Enterprise. However, it has struck me recently how much I miss the familiar pleasures of my home.#
-PHLOX: You've experienced the nightclubs in our Kaybin district, so you know the excitement of meeting a new companion or two. The intimacy that can develop so quickly when all parties are receptive. You humans are a truly remarkable species, Doctor Lucas, but when Enterprise has accomplished its mission I look forward to being among Denobulans again. The more of them, the better.#
-PHLOX: Good afternoon, Captain. How are we feeling today? Neurochemistry looks excellent, theta waves are good, you should wake up extremely well rested. (There's a creaking noise. He looks out#
 PHLOX: I told you, it was outside of the ship, on the hull.#
 PHLOX: What about alien vessels?#
 PHLOX: You said this reconfigured space could be affecting our systems. What if it's interfering with our sensors?#
@@ -1177,9 +1088,7 @@ PHLOX: I didn't imagine it! I saw something.#
 PHLOX: What about what I saw in Engineering?#
 PHLOX: I need to finish my rounds.#
 PHLOX: Get away from her! (It comes after him, so he runs down a corridor, sees the shadow of another and hides in an airlock.)#
-PHLOX: Phlox to T'Pol.#
 PHLOX: It's the Xindi. They're on board.#
-PHLOX: We'll need to arm ourselves. I saw two. There could be more of them.#
 PHLOX: Then the sensors must be wrong.#
 PHLOX: They were real. I saw them.#
 PHLOX: They could have transporter technology.#
@@ -1208,7 +1117,6 @@ PHLOX: I don't know what's happening.#
 PHLOX: You're not concerned about that? (He starts backing away down the corridor.)#
 PHLOX: You're not real.#
 PHLOX: You are not real!#
-PHLOX: I was so busy monitoring the crew I never thought to run another neural scan on myself. The effects are subtle and difficult to detect, but there are disruptions deep within my neocortex. You were right. I was hallucinating.#
 PHLOX: I don't believe there'll be any permanent damage. However, it's obviously affecting my judgment. I have no choice but to put myself under neuro-sedation and ask you to look after the crew.#
 PHLOX: With your scientific background, you should have no problems.#
 PHLOX: It won't be for long. We'll be coming out of the disturbance in less than six hours. T'Pol, I'm asking for your help.#
@@ -1224,7 +1132,6 @@ PHLOX: At our current rate of speed we won't be out of this for another ten week
 PHLOX: But we knew it would. Travis said our course and speed would compensate. T'Pol?#
 PHLOX: We're already at full impulse.#
 PHLOX: Commander Tucker said it would be too dangerous. We don't know what might happen.#
-PHLOX: All right, what do we do first?#
 PHLOX: Do I need to keep reminding you, you are the Science Officer.#
 PHLOX: On your worst day you're more qualified to operate the warp engines than I am.#
 PHLOX: I'm a physician, not an engineer.#
@@ -1253,7 +1160,6 @@ PHLOX: Lieutenant Reed insisted on showing me how to transfer power to the hull 
 PHLOX: Lie still. Your neocortex may need a few moments to warm up.#
 PHLOX: Yes. I'll begin waking the rest of the crew shortly.#
 PHLOX: A few minor glitches. It will all be in my log. If you're feeling up to it, you have a visitor.#
-PHLOX: How are you feeling?#
 PHLOX: I'm not surprised. You haven't eaten anything in four days. Get to the Mess hall.#
 PHLOX: Oh, that won't be necessary. I appreciate the offer but you need some rest. Let me walk you to your quarters.#
 PHLOX: I'll stop by and check on you in a few hours. (He glances at the bed and sees T'Pol lying there, comatose. The T'Pol he was talking to has vanished.)#
@@ -1267,7 +1173,6 @@ PHLOX: Ah, Captain. I've learnt quite a bit about this fascinating fellow. Perha
 PHLOX: They reproduce asexually. Each adult appears capable of producing multiple egg sacs. I wouldn't be surprised if every insectoid vessel had it's own hatchery. I'd estimate their lifespan is no more than twelve Earth years. This individual may be one of the elder members of the crew. It was nearly ten years old.#
 PHLOX: Without knowing more about their incubation cycle it's impossible to say, but probably no more than a week at most. Captain, if you don't mind my saying, you look as if you could use some rest.#
 PHLOX: Surely a few hours sleep wouldn't#
-PHLOX: There was nothing I could do. I'm sorry.#
 PHLOX: Captain, you haven't eaten or slept in almost two days. You've shown signs of obsessional behaviour and paranoia.#
 PHLOX: Captain, if you won't come with me then I'll be required under Starfleet order 104 section C to relieve you of command.#
 PHLOX: His neurochemistry appears normal.#
@@ -1281,10 +1186,8 @@ PHLOX: He'll be awake in a few hours. He should be fully recovered by then.#
 PHLOX: Nonsense. What's one more mouth to feed?#
 PHLOX: I doubt that would be necessary.#
 PHLOX: Certainly.#
-PHLOX: No internal injuries. Numerous contusions consistent with blunt trauma.#
 PHLOX: Fourteen. Three are unaccounted for.#
 PHLOX: It's good to see you again, Captain. (goes to tend to others on biobeds)#
-PHLOX:  He's all yours. He was the perfect house guest, as usual. You'll be happy to know that I discharged Ensign Ansara this morning, and Corporal O'Malley will be returning to duty this afternoon. Captain?#
 PHLOX: It's a simple matter of repairs. Well, perhaps not that simple. Somehow, I don't think it's the damage to Enterprise that's troubling you.#
 PHLOX: Nearly forty years.#
 PHLOX: Twice. Why?#
@@ -1306,28 +1209,6 @@ PHLOX: It's not surprising that there are residual effects. They're probably tem
 PHLOX: Then you'll learn to cope with them.#
 PHLOX: Afraid?#
 PHLOX: You sought these emotions. Don't expect them to vanish overnight. Patience.#
-PHLOX: You must have known it was dangerous. Trellium exposure is deadly to Vulcans.#
-PHLOX: Have a seat. I'll have to use a hand scanner. The imaging chamber is still offline. Commander Tucker reassigned the repair team that was working here. He said the Armoury was a higher priority. We'll see how low a priority I am the next time he burns his fingers on a plasma conduit.  You've experienced no further withdrawal symptoms?#
-PHLOX: I'm only detecting trace amounts of trellium in your system. Hardly worth mentioning. That's good news. What is it?#
-PHLOX: On Earth, there is a cautionary tale about the dangers of releasing a magical creature called a genie from the bottle. Once it's out, it's extremely difficult to put back in.#
-PHLOX: You used trellium for three months. It caused significant damage to your neural pathways. You may have to learn to live with these emotions.#
-PHLOX: Commander.#
-PHLOX: So it seems. I understand you haven't slept since the attack.#
-PHLOX: Perhaps she's worried about you.#
-PHLOX: Has it occurred to you that we'll be far worse off if you collapse from exhaustion?#
-PHLOX: I don't believe so.#
-PHLOX: I'm relieving you of duty. You will go to your quarters and not return to your post before oh five hundred tomorrow.#
-PHLOX: Please don't make me involve security.#
-PHLOX: Yes, Captain.#
-PHLOX: I'll be right there. Well, Commander?#
-PHLOX: I believe the number was six.#
-PHLOX: Four. Not a minute less.#
-PHLOX: I'm aware of that.#
-PHLOX: I believe our universe was toxic to him. His species evolved in a different dimension with a different set of physical laws. He simply couldn't exist here.#
-PHLOX: I believe he was a test subject sent here to see if they were succeeding.#
-PHLOX: Or any of us.#
-PHLOX: We need to bring his body temperature down. Let's get him to Sickbay.#
-PHLOX: They are who they claim to be. Most of the young woman's ancestors were human, but there are also chromosomes from three species I've never seen before. These genetic markers belong to you, Captain. She would appear to be your great grand-daughter. I've compared your genetic profile with Lorian's. These base pair sequences could only have come from you.#
 PHLOX: That's correct. They came from his father.#
 PHLOX: According to Lorian, I discovered, or rather I will discover, a method of successfully combining human and Vulcan genomes.#
 PHLOX: Commander Tucker. Captain's starlog, supplemental. I've decided to proceed with Lorian's plan to modify our warp engines. Both ships have moved a safe distance from the nebula to avoid conflict with the Kovaalans.#
@@ -1338,7 +1219,6 @@ PHLOX: It's remarkable, isn't it? Discovering an extended family that you never 
 PHLOX: From what I've gathered, your great grand-daughter would be more at home on the bridge of a starship.#
 PHLOX: Perhaps Starfleet will consider allowing children on board starships one day. Admiral Forrest did let you bring Porthos.#
 PHLOX: For any of us.#
-PHLOX: I'm not detecting any trellium in your system. How are you feeling?#
 PHLOX: Meditation isn't helping?#
 PHLOX: There isn't anyone on the ship who hasn't been affected by recent events. What can I do for you?#
 PHLOX: Have a seat.#
@@ -1347,7 +1227,6 @@ PHLOX: Degra seems to be a reasonable man.#
 PHLOX: I'll have it sent over immediately. I've never heard of this procedure.#
 PHLOX: The transport pod that carried this alien?#
 PHLOX: There are some modifications that need to be made to it.#
-PHLOX: Trouble sleeping?#
 PHLOX: Certainly.#
 PHLOX: You make that sound like bad news.#
 PHLOX: Now we are making peace with them.#
@@ -1355,7 +1234,6 @@ PHLOX: You have other friends.#
 PHLOX: Ah, I was hoping someone might notice.#
 PHLOX: Well, I'm pleased to see that my efforts are yielding results.#
 PHLOX: A Denaxian tape-worm.#
-PHLOX: It attaches itself to the lower intestinal tract and absorbs nutrients.#
 PHLOX: It's perfectly harmless. I hardly notice it at all.#
 PHLOX: I insert a standard V probe into my#
 PHLOX: Well, it's a simple procedure.#
@@ -1369,10 +1247,8 @@ PHLOX: She's in no condition to be moved!#
 PHLOX: You could kill her.#
 PHLOX: She'll need another cortical treatment. At least let me come with you.#
 PHLOX: He's not a doctor.#
-PHLOX: They're transforming the space around that Sphere. Not unlike the disturbance where we found that trans-dimensional being. They obviously expected us.#
 PHLOX: If the ship were to enter that disturbance, the entire crew would be dead within minutes. I could synthesise a neuraleptic compound that would keep us conscious for approximately twelve minutes. I'm afraid there's nothing I can do to prevent epidermal decay.#
 PHLOX: Perhaps I can extend it, but not by much. I encourage you and Mister Tucker to encourage alternatives. There must be something you can do to abbreviate your plan.#
-PHLOX:  And if it's not too much of an inconvenience, I'd appreciate it if you'd contact my first wife's third husband, Groznik. Tell him that he's welcome to keep the Aldebaran drum set I loaned him. Oh, they have a child named Indaura, a sweet little girl, she must be eight or nine by now. Well, I would like to leave her my botanical library. She always had a flair for plants. Computer, pause recording. Everything's ready here.#
 PHLOX: Oh no, don't be silly. I was simply dictating a letter to my colleague, Doctor Lucas. He offered to make sure my affairs were in order in the event that, er, well, you know.#
 PHLOX: Hope for the best, prepare for the worst. I don't know about Vulcans, but Denobulans take great pleasure in bequeathing their belongings to far-flung relatives.#
 PHLOX:  I've enhanced the neuraleptic compound as much as I can. I strongly advise we remain in the disturbance no longer than fifteen minutes.#
@@ -1390,7 +1266,6 @@ PHLOX: T'Pol. T'Pol!#
 PHLOX: You don't have a minute, Commander!#
 PHLOX: That's it, times up.#
 PHLOX: Without the Spheres, their transformed space must be collapsing in on itself.#
-PHLOX:  It's all right. All right, it won't be much longer. I promise.#
 PHLOX: I think they sense that we're travelling in an unusual manner. In the belly of the beast, so to speak.#
 PHLOX: I don't have the slightest idea. I doubt I'll get much peace and quiet around here until we're flying under our own power.#
 PHLOX: Is there something I can do for you?#
@@ -1733,7 +1608,6 @@ PHLOX: If the Emperor were my patient, I'd be obligated to save his life. I supp
 PHLOX: These interruptions aren't helping.#
 PHLOX: The inside of this panel#
 PHLOX: I've removed the module.#
-PHLOX: Phlox to Soval. I'm finished here. Stand by to transport.#
 PHLOX: I thought it was a fine speech.#
 PHLOX: She's going into shock. Get me a med kit!#
 PHLOX: I just received word from Starfleet Medical. The wound was too severe. She didn't survive.#
@@ -1759,3 +1633,14 @@ PHLOX: It appears my initial prognosis was incorrect. It's genetic. Her Vulcan a
 PHLOX: I'm attempting to stabilise her nucleotides, but there's never been a child like her.#
 PHLOX: I wish I could do more.#
 PHLOX: When you invited me to join this crew, I thought it would be an interesting diversion for a few months. Some time away from the complications of family, which on Denobula can be extremely complicated. I didn't expect to gain another family. It hurts as if she were my own child. Make something good come from this, Captain.#
+PHLOX: And he's always pushing himself, often to the point of exhaustion. He's forced me to order him to relax on more than one occasion.#
+PHLOX: Yeah. Wasn't very keen on getting neuro-pressure treatments from T'Pol, but it was that or become addicted to sedatives.#
+PHLOX: Their romance began? Precisely. One time, he became so exhausted I had to demand he get six hours sleep. He negotiated it down to four.#
+PHLOX: Didn't have a choice.#
+PHLOX: Add two percent syntho-surfactant.#
+PHLOX: The plasma was super-heated. It thermalised his lungs. Initialise the hyperbaric sequencer.#
+PHLOX: We need to get him into the chamber now!#
+PHLOX: Clear!#
+PHLOX: There are dignitaries here from eighteen different worlds. It's a good sign. I wouldn't be surprised if this alliance begins to expand before we know it. You should be very proud of yourself, Captain.#
+PHLOX: That's not what I meant.#
+PHLOX: Well, I've got three wives waiting. I'd better go and join them. I'd wish you good luck, Captain, but you've always had an ample supply.#

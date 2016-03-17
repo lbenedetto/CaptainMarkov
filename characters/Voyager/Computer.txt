@@ -115,3 +115,393 @@ COMPUTER: Crewman Lon Suder.#
 COMPUTER: Between decks eight and nine.#
 COMPUTER: Unable to comply. Internal scanner relays have been damaged.#
 COMPUTER: Unable to respond. All Starfleet voice access has been cancelled. [Doctor's office] EMH [on#
+COMPUTER: Jora Mirell is in her quarters. [Mirell's quarters] (Jora does not answer her knocks, so Torres overrides the door controls and enters. She finds the old woman lying on the floor.)#
+COMPUTER: The programme is activated.#
+COMPUTER: Jupiter station programme is activated.#
+COMPUTER: Matrix overlay programme is active. Please stand by.#
+COMPUTER: Zimmerman programme alpha one is now complete.#
+COMPUTER: SATCOM 47 activating.#
+COMPUTER: Sweep underway. (Starling is pacing the surgical alcove, under the watchful eyes of two security guards.)#
+COMPUTER: Hyper-impulse drive engaged.#
+COMPUTER: Command confirmed. (The timeship Aeon smashes out of the penthouse floor of the Chronowerx skyscraper.)#
+COMPUTER: Initiating. [Torpedo tube one] KIM#
+COMPUTER: Temporal core has reached cascade potential.#
+COMPUTER: Kes is in Transporter room one. [Transporter room one] (Kes is with Adin and Nori.)#
+COMPUTER: Specify parameters.#
+COMPUTER: Input algorithm not accepted.#
+COMPUTER: That programme is currently running. [Holodeck � Paxau Resort] (Marayna and Tuvok are playing kal-toh.)#
+COMPUTER: Warning. Hydrazene gas leak.#
+COMPUTER: Warning. Hydrazene gas levels at one hundred twelve parts per million. Begin evacuation procedures. [Planet surface] (Chakotay carries Janeway outside, and lays her down again a little way from the shuttlecraft.)#
+COMPUTER: A security code is required for that command.#
+COMPUTER: That code is not recognised.#
+COMPUTER: A security code is required for that command.#
+COMPUTER: Oh three hundred hours.#
+COMPUTER: That programme is currently running.#
+COMPUTER: Holodeck one. [Holodeck - Paxau Resort] (Gandhi's head is spinning rapidly. T'Pau is repeatedly trying to add a rod to a kal-toh that is not there. Socrates has been cut in half, and revealed to have no innards. Byron is lying on the bar.)#
+COMPUTER: Kes and the Doctor.#
+COMPUTER: Life form found. (A small quadruped._#
+COMPUTER: Genus Eryops. Devonian Era.#
+COMPUTER: Genus Hadrosaur. Cretaceous Era.#
+COMPUTER: Extrapolation complete.#
+COMPUTER: Launch protocols have been disrupted.#
+COMPUTER: Unable to comply. Weapons systems are offline.#
+COMPUTER: Method unknown.#
+COMPUTER: Kes is not on board Voyager.#
+COMPUTER: Eleven hundred thirty two hours.#
+COMPUTER: Eleven hundred thirty two hours.#
+COMPUTER: Warning. Disabling lateral EPS relays may disrupt computer functions throughout the ship.#
+COMPUTER: Seven minutes and twenty seconds.#
+COMPUTER: Intruder alert on deck eight.#
+COMPUTER: The holographic simulation has ended.#
+COMPUTER: Unable to comply.#
+COMPUTER: Additional narrative parameters have not been programmed.#
+COMPUTER: Affirmative.#
+COMPUTER: Please rephrase the question.#
+COMPUTER: That information is classified.#
+COMPUTER: The programme has been reinitiated.#
+COMPUTER: The holo-matrix has been formatted.#
+COMPUTER: This ship will self-destruct in sixty seconds.#
+COMPUTER: Unable to comply. Voiceprint not recognised.#
+COMPUTER: Self-destruct in forty five seconds.#
+COMPUTER: Fifteen seconds to self-destruct. Thirteen, twelve, eleven, ten, nine#
+COMPUTER: Self-destruct sequence has been terminated.#
+COMPUTER: The holographic simulation has ended.#
+COMPUTER: Warning. Structural integrity field has been compromised. Now at fifty three percent and falling. Hull breach in two minutes twenty seconds.#
+COMPUTER: Warning. Hull breach in two minutes ten seconds.#
+COMPUTER: Warning. The structural integrity field has collapsed. Hull breach in two minutes.#
+COMPUTER: Warning. Hull breach in one minute fifty seconds.#
+COMPUTER: Warning. Oxygen level at one hundred fourteen millibars.#
+COMPUTER: Warning. Oxygen level at ninety three millibars.#
+COMPUTER: Warning. Oxygen level at one hundred four millibars.#
+COMPUTER: Warning. Oxygen level at eighty seven millibars.#
+COMPUTER: Warning. Oxygen level at seventy one millibars.#
+COMPUTER: Warning. Propulsion systems are offline.#
+COMPUTER: Warning, structural collapse in three minutes.#
+COMPUTER: Warning, structural collapse;#
+COMPUTER: Warning, structural collapse in ten seconds. Warning, structural collapse in five, four, three, two, one. (He lets the hatch close. An explosion rips along the whole starboard side of the main section, throwing the bridge crew to the deck.)#
+COMPUTER: This is the Federation starship Prometheus.#
+COMPUTER: Affirmative.#
+COMPUTER: Negative.#
+COMPUTER: Access to the communications system has been restricted.#
+COMPUTER: Twenty seven.#
+COMPUTER: None alive.#
+COMPUTER: USS Prometheus. Experimental prototype designed for deep space tactical assignments. Primary battle systems include regenerative shielding, ablative hull armour, multivector assault mode.#
+COMPUTER: Access to tactical data requires level four clearance.#
+COMPUTER: Initiating decoupling sequence. [Prometheus Sickbay] COMPUTER: Autoseparation in ten seconds. Nine. Eight. Seven. Six.#
+COMPUTER: Five. Four. Three. [Prometheus Bridge] COMPUTER: Two. One. Separation sequence in progress.#
+COMPUTER: Specify target.#
+COMPUTER: Pattern and target confirmed.#
+COMPUTER: Negative. Communications access requires level four clearance or above.#
+COMPUTER: Access to that programme is unrestricted.#
+COMPUTER: Transfer complete.#
+COMPUTER: Initiating decoupling sequence.#
+COMPUTER: Autoseparation in ten seconds.#
+COMPUTER: Five. Four. Three. Two.#
+COMPUTER: Separation sequence in progress.#
+COMPUTER: Specify attack pattern.#
+COMPUTER: Specify target.#
+COMPUTER: Ensign Kim is in his quarters.#
+COMPUTER: Warning. Warp core breach in sixty seconds.#
+COMPUTER: Warp core breach in fifty seconds.#
+COMPUTER: Warp core breach in forty seconds.#
+COMPUTER: Warp core breach in thirty seconds.#
+COMPUTER: Warp core breach in ten seconds. Nine. Eight. Seven.#
+COMPUTER: Six. Five. Four. Three. Two. One.#
+COMPUTER: Time to reversion three hours thirteen minutes. Complete genome recovery is imminent.#
+COMPUTER: Please enter authorisation code. COMPUTER: Access granted. Commencing download.#
+COMPUTER: Navigation matrix one seven one one. The Kotaba expanse. Coaxial leap complete.#
+COMPUTER: Unable to execute command.#
+COMPUTER: The differential induction drive has been secured. The security access code is required to implement the coaxial leap.#
+COMPUTER: Sequence in progress. [Pseudo Cargo Bay two]#
+COMPUTER: Containment field established. [Briefing room]#
+COMPUTER: Warning, Ensign Kim. An environmental seal has been compromised. Oxygen depletion in thirty seconds.#
+COMPUTER: Warning. Oxygen depletion in fifteen seconds.#
+COMPUTER: Warning. Oxygen depletion in five seconds.#
+COMPUTER: Warning, Lieutenant Paris. An environmental seal has been compromised. Oxygen depletion in thirty seconds.#
+COMPUTER: Warning. Oxygen depletion in fifteen seconds.#
+COMPUTER: Warning. Oxygen depletion in five seconds.#
+COMPUTER: Forcefield established.#
+COMPUTER: Course adjusted.#
+COMPUTER: Warning. Emergency procedures in effect.#
+COMPUTER: The antimatter;storage tanks are failing.#
+COMPUTER: Attempting to make correction. Stand by. Attempting to make correction. Unable to comply.#
+COMPUTER: Diagnostic in progress.#
+COMPUTER: Diagnostic complete.#
+COMPUTER: Quantum failures are present in thirty three percent of gel pack relays.#
+COMPUTER:  Rerouting complete. Relay failures bypassed. [Astrometrics lab]#
+COMPUTER: Six days, five hours.#
+COMPUTER: Channel open.#
+COMPUTER:  Warning. Deuterium tank levels are fluctuating beyond acceptable tolerances.#
+COMPUTER: Bridge sealed.#
+COMPUTER: Warning. Primary EPS conduits are overloading. EMH: I tied my mobile emitter into the EPS conduits.#
+COMPUTER: Unable to comply.#
+COMPUTER: Warning. Primary EPS conduits overloading. Secondary systems are failing.#
+COMPUTER: Seventeen hours, eleven minutes.#
+COMPUTER: Warning. Propulsion system failure in progress.#
+COMPUTER: Warning. Propulsion system failure in progress.#
+COMPUTER: Forty one minutes.#
+COMPUTER: Warning. Propulsion system failure in progress.#
+COMPUTER: Propulsion systems have failed. All engines are offline.#
+COMPUTER: Engines are back online.#
+COMPUTER: Eleven minutes.#
+COMPUTER: Diagnostic in progress.#
+COMPUTER: Regeneration cycle incomplete.#
+COMPUTER: Warning. Disengaging safety protocols presents extreme risk of injury.#
+COMPUTER: Acknowledged. Safety protocols have been disengaged.#
+COMPUTER: The programme is active.#
+COMPUTER: Warning. Disengaging safety protocols presents extreme risk of injury.#
+COMPUTER: Acknowledged. Safety protocols have been disengaged. (Torres enters the holodeck and removes her jacket. It is a cave setting. A Cardassian attacks her. She defeats him, and another grabs her from behind. Then the first gets up again.)#
+COMPUTER: Immersion shielding activated.#
+COMPUTER: Range to probe, thirty thousand kilometres. Twenty five thousand. Warning. Atmospheric pressure is exceeding tolerance levels. Rapid ascent recommended.#
+COMPUTER: Acknowledged. Range to probe, ten thousand kilometres.#
+COMPUTER: Warning. Disengaging safety protocols presents extreme risk of injury.#
+COMPUTER: Acknowledged. Safety protocols have been disengaged. Warning. Atmospheric pressure is exceeding tolerance levels.#
+COMPUTER: Acknowledged. Microfractures are present in zones one and four.#
+COMPUTER: Lieutenant Torres is in holodeck one.#
+COMPUTER: Warning. Hull microfractures are present in zones one, two, three and four. Hull breach is imminent. Repeat. Hull microfracture are present in zones one, two, three and four. Hull breach is imminent.#
+COMPUTER: Programme activated.#
+COMPUTER: Once upon a time in the Forest of Forever, Flotter and Trevis encountered a strange element they'd never seen before.#
+COMPUTER: Neelix is on the Bridge.#
+COMPUTER: Naomi Wildman is in her quarters. [Wildman's quarters - Naomi's bedroom]#
+COMPUTER: Programme activated. [Planetoid - cavern]#
+COMPUTER: Warning. Life support has fallen to critical levels.#
+COMPUTER: Acknowledged.#
+COMPUTER: Warning. Oxygen depletion in ten minutes.#
+COMPUTER: Unable to comply. Holodeck controls have been encoded.#
+COMPUTER: Warning. Oxygen depletion in two minutes.#
+COMPUTER: Transfer complete.#
+COMPUTER: Installation complete.#
+COMPUTER: Algorithm installed.#
+COMPUTER: Warning. Hull breach on deck ten.#
+COMPUTER: Tactical alert. Vessel approaching, bearing one eight four mark seven. [2390 Delta Flyer]#
+COMPUTER: Warning. Warp core breach in sixty seconds.#
+COMPUTER: Warning. Warp core breach in forty five seconds.#
+COMPUTER: Warning. Warp core breach in thirty seconds.#
+COMPUTER: Warning. Warp core breach in fifteen seconds.#
+COMPUTER: Warning. Warp core breach in ten, nine, eight, seven, six, five, four, three, two.#
+COMPUTER: Warning. Neurochemical synapses are destabilising.#
+COMPUTER: Unable to comply. Power transport systems are offline.#
+COMPUTER: Analysis in progress.#
+COMPUTER: Analysis complete.#
+COMPUTER: The EMH is inactive.#
+COMPUTER: Unavailable. That file has been deleted.#
+COMPUTER: Those holo-images have been deleted.#
+COMPUTER: Unknown.#
+COMPUTER: Transfer complete.#
+COMPUTER: Duplication complete.#
+COMPUTER: Acknowledged.#
+COMPUTER: Restoring memory files. Restoration complete.#
+COMPUTER: Unable to comply. Holodeck controls are offline.#
+COMPUTER: End of round three.#
+COMPUTER: Begin round four.#
+COMPUTER: Negative.#
+COMPUTER: Begin round one.#
+COMPUTER: Begin round one.#
+COMPUTER: Begin round one.#
+COMPUTER: Begin round one. [Vision quest - boxing ring] COMPUTER: Begin round one.#
+COMPUTER: Begin round one.#
+COMPUTER: End round one.#
+COMPUTER: Begin round one.#
+COMPUTER: Access to those files is restricted.  COMPUTER: Access granted.#
+COMPUTER: The anomaly is consistent with a Class one wormhole. No irregularities detected.#
+COMPUTER: No irregularities detected.#
+COMPUTER: No vessel has been detected.#
+COMPUTER: Channel open.#
+COMPUTER: Channel open.#
+COMPUTER: Random subspace energy fluctuations.#
+COMPUTER: Random subspace energy fluctuations.#
+COMPUTER: Transpectral analysis complete.#
+COMPUTER: Negative.#
+COMPUTER: Cargo bay two has decompressed.#
+COMPUTER: Unable to comply.#
+COMPUTER: Deck one force field is in place.#
+COMPUTER: Warp ejection systems enabled.#
+COMPUTER: Five minutes and thirty four seconds. [The real Voyager Bridge]#
+COMPUTER: Microcellular analysis is complete.#
+COMPUTER: Reference found.#
+COMPUTER: Analysis underway.#
+COMPUTER: Five hours, seventeen minutes. [Mess hall]#
+COMPUTER: Acknowledged. (The EMH's uniform turns from ;blue to red shoulders, and four pips appear on his collar.) COMPUTER: Transferring all systems to your command. You have the bridge.#
+COMPUTER: Enemy shields are intact.#
+COMPUTER: Warning, primary shields are failing.#
+COMPUTER: The photonic cannon is online.#
+COMPUTER: Commander Chakotay is in his quarters.#
+COMPUTER: Warp core breach in thirty seconds.#
+COMPUTER: Warning. Warp core breach a lot sooner than you think.#
+COMPUTER: Warning. Last chance to be a hero, Doctor. Get going.#
+COMPUTER: Access established.#
+COMPUTER: Vaadwaur. Archaic adjective. Primary meaning, Foolish. Additional meanings, Weak-minded, reckless, blind.#
+COMPUTER: First written example appears in Eldaxon's Collected Folklore, second edition. Year of publication, 5012, new calendar.#
+COMPUTER: The Demon with the Golden Voice. The Tale of the Deadly Stranger. The Tale of the Boy who Lost his Head. The Tale of the Bloody Hand.#
+COMPUTER: Transfer complete. [Astrometrics lab]#
+COMPUTER: Analysis in progress.#
+COMPUTER: Core analysis complete.#
+COMPUTER: Particulate dust and metallic fragments composed of an unknown alloy. Vapour composed of hydrogen, helium, mercury and argon.#
+COMPUTER: Negative.#
+COMPUTER: Twenty thousand teracochranes.#
+COMPUTER: Commander Tuvok.#
+COMPUTER: Insufficient sensor data.#
+COMPUTER: Insufficient sensor data.#
+COMPUTER: Secondary power core.#
+COMPUTER: Affirmative.#
+COMPUTER: Acknowledged.#
+COMPUTER: Acknowledged.#
+COMPUTER: Transceiver gain is at maximum.#
+COMPUTER: Filter engaged.#
+COMPUTER: Access denied. That code has been de-authorised.#
+COMPUTER: Access authorised. [Pathfinder lab]#
+COMPUTER: Matrix activated.#
+COMPUTER: Emitters powering.#
+COMPUTER: A pulsar has been detected at coordinates two two seven by four one mark six.#
+COMPUTER: Tachyon beam initiated.#
+COMPUTER: Approximately seventeen minutes. BARCLAY: Computer, is there a micro-wormhole present at coordinates three four three by two seven? COMPUTER: Scanning. Affirmative.#
+COMPUTER: Trajectory established.#
+COMPUTER: Channel open.#
+COMPUTER: Two unidentified humans, deck four, section eight.#
+COMPUTER: Access denied. Hologrid controls have been encrypted.#
+COMPUTER: Trajectory established. Transmitting.#
+COMPUTER: Negative.#
+COMPUTER: Unable to comply. Main power controls have been encrypted.#
+COMPUTER: Trajectory established. Transmitting.#
+COMPUTER: Warning. Warp core breach in forty five seconds.#
+COMPUTER: Warning. Warp core breach in thirty seconds.#
+COMPUTER: Warp core breach in twenty seconds.#
+COMPUTER: Warp core breach in ten seconds. Nine, eight#
+COMPUTER: Seven, six, five.#
+COMPUTER: Four.#
+COMPUTER: Two. [Astrometrics lab]#
+COMPUTER: Modification complete.#
+COMPUTER: Specify.#
+COMPUTER: Specify.#
+COMPUTER: Modification complete.#
+COMPUTER: Modification complete.#
+COMPUTER: Affirmative.#
+COMPUTER: Specify.#
+COMPUTER: Modification complete.#
+COMPUTER: Starship Voyager.#
+COMPUTER: That procedure will require significant modifications.#
+COMPUTER: Warning. Holodeck controls and safety protocols are offline.#
+COMPUTER: Emergency overrides are malfunctioning.#
+COMPUTER: Sixty two percent compliance.#
+COMPUTER: Mestal te'iote senve.#
+COMPUTER: Warning. Regeneration cycle incomplete.#
+COMPUTER: Source unknown.#
+COMPUTER: Fifty six days, seventeen hours. [Sickbay - 2371]#
+COMPUTER: Channel open.#
+COMPUTER: Command authorisation required.  COMPUTER: Access granted. [Ready room - 2371]#
+COMPUTER: Unable to comply. Control functions have been disabled.#
+COMPUTER: Affirmative.#
+COMPUTER: Unable to comply.#
+COMPUTER: Insufficient power.#
+COMPUTER: The subspace transmitter is online.#
+COMPUTER: The transporter is online.#
+COMPUTER: Lieutenant Torres is in Engineering. Ensign Trumari is on deck four, section thirty. Commander Tuvok is on the bridge.#
+COMPUTER: Ensign Vorik is in Engineering, level two.#
+COMPUTER: Warning, oxygen depletion in progress.#
+COMPUTER: Warning. Power failure.#
+COMPUTER: Captain Janeway. Captain Janeway. Captain Janeway is in main Engineering.#
+COMPUTER: Authorisation code required.#
+COMPUTER: Unable to comply.#
+COMPUTER: Database accessed.#
+COMPUTER: Captain Janeway, report to Astrometrics.#
+COMPUTER: Captain Janeway, report to Astrometrics.#
+COMPUTER: Astrometrics life-support has been restored.#
+COMPUTER: Affirmative.#
+COMPUTER: Manual helm control enabled.#
+COMPUTER: Affirmative.#
+COMPUTER: Affirmative.#
+COMPUTER: Life support on the bridge has been restored. Level ten authorisation required.#
+COMPUTER: Affirmative.#
+COMPUTER: Clarify.#
+COMPUTER: Warning, Life support failure on all decks. Abandon ship. Abandon. [Cargo Bay two]#
+COMPUTER: Abandon ship.#
+COMPUTER: Unable to comply.#
+COMPUTER: Warning, oxygen depletion in progress.#
+COMPUTER: Warning, helm circuits are overloading. COMPUTER: Abandon ship.#
+COMPUTER: Unable to comply.#
+COMPUTER: To deprive of life. Extinguish.#
+COMPUTER: Clarify.#
+COMPUTER: Unable to confirm.#
+COMPUTER: Abandon ship.#
+COMPUTER: Diagnostic completed. Secondary systems are offline. Primary systems at thirty two percent. Estimated time to failure, six days thirteen hours.#
+COMPUTER: Captain Janeway, report to Engineering.#
+COMPUTER: Acknowledged.  COMPUTER: Captain Janeway, report to Engineering.#
+COMPUTER: Unable to comply.#
+COMPUTER: Captain Janeway, report to Engineering.#
+COMPUTER: Access to all systems has been restored. [Cargo Bay two]#
+COMPUTER: Unable to comply.#
+COMPUTER: The interface is incompatible.#
+COMPUTER: Diagnostic complete. Alcove zero one is operating within normal parameters.#
+COMPUTER: Unable to comply.#
+COMPUTER: Your cortical node is malfunctioning. [Mess hall]#
+COMPUTER: The EMH is offline.#
+COMPUTER: Seven of Nine is in Sickbay. [Engineering - upper level]#
+COMPUTER: Warp core breach in twenty seconds.#
+COMPUTER: Warp core breach in fifteen seconds.#
+COMPUTER: Warp core breach in ten seconds, nine, eight.#
+COMPUTER: Four.#
+COMPUTER: Three. [Mess hall] (Assan zips through the finishing line.)#
+COMPUTER: Unable to comply.#
+COMPUTER: Crewman Jor is in the mess hall. [Mess hall]#
+COMPUTER: Lieutenant Torres is in Cargo Bay two.#
+COMPUTER: Stardate 54090.4.#
+COMPUTER: Access to that information has been restricted.#
+COMPUTER: Access to that information has been restricted.#
+COMPUTER: Restrictions overridden.TUVOK: Where was Commander Tuvok at the specified time? COMPUTER: Commander Tuvok was in holodeck two.#
+COMPUTER: One hundred eighty two centimetres.#
+COMPUTER: One hundred eighty two centimetres.#
+COMPUTER: Commander Chakotay is in sickbay.#
+COMPUTER: Transfer complete.#
+COMPUTER: The trajectory ends in sector three nine five.#
+COMPUTER: Download complete.#
+COMPUTER: Installation complete.#
+COMPUTER: Subspace communications are offline.#
+COMPUTER: Warning, coolant system breached.#
+COMPUTER: Unable to comply.#
+COMPUTER: Holodeck controls are offline.#
+COMPUTER: File accessed.#
+COMPUTER: Lieutenant Torres is in Sickbay.#
+COMPUTER: Unable to comply.#
+COMPUTER: Authorisation denied.#
+COMPUTER: Access to these quarters has been restricted.#
+COMPUTER: Neelix.#
+COMPUTER: Input error four one five. Command code violation two three zero eight.#
+COMPUTER: Warning. Main computer is failing.#
+COMPUTER: Main computer stabilised.#
+COMPUTER: Unable to comply.#
+COMPUTER: Insufficient power.#
+COMPUTER: Unable to comply.#
+COMPUTER: Relays to the transponder are fused.#
+COMPUTER: Please restate inquiry.#
+COMPUTER: Negative.;#
+COMPUTER: Warning. Intruder alert.#
+COMPUTER: The bridge.#
+COMPUTER: Two humanoids.#
+COMPUTER: Negative. Sensor resolution is below twenty percent.#
+COMPUTER: Command codes transferred.#
+COMPUTER: An alien vessel has locked on to Voyager with a tractor beam.#
+COMPUTER: Warp engines are offline.#
+COMPUTER: Warning. Two vessels approaching bearing three three six mark one.#
+COMPUTER: Access restricted. Security clearance verified.#
+COMPUTER: Data unavailable.#
+COMPUTER: Personnel files. Employee eight five eight two. Nozowo, Kashimuro. Employee eight five eight four. Janeway, Kathryn. Employee eight five eight five. McKenzie, William. Employee eight five eight six. Hansen, Annika. Employee eight five eight seven. Anderson, Lydia. Employee eight five eight eight, Torres, B'Elanna. Employee [Janeway's apartment]#
+COMPUTER: Warning. Core overload detected. Initiating emergency shutdown.#
+COMPUTER: Modifications complete.#
+COMPUTER: Seven of Nine is in Holodeck two. [Holodeck - Seven's quarters]#
+COMPUTER: Make it yourself.#
+COMPUTER: Nine minutes, four seconds.#
+COMPUTER: End of programme.#
+COMPUTER: Unable to comply.#
+COMPUTER: Warning. Structural failure in thirty seconds.#
+COMPUTER: Warning. Structural failure in ten seconds, nine, eight.#
+COMPUTER: Intruder alert.#
+COMPUTER: EMH protocols are offline.#
+COMPUTER: Unable to comply. Access to the holodeck has been restricted.#
+COMPUTER: Unable to comply. Holodeck controls are offline.#
+COMPUTER: All command codes have been transferred to the ECH.#
+COMPUTER: Warp ejection system enabled.#
+COMPUTER: Transporters are offline.#
+COMPUTER: Unable to comply.#
+COMPUTER: Warning. Vessel approaching. Vector one two one mark six.#
+COMPUTER: Unable to comply. Ablative generator is offline.#
+COMPUTER: Warning. Regeneration cycle incomplete.#

@@ -51,7 +51,7 @@ PARIS [OC]: It's kind of urgent.
 (In the
 shuttlebay. Paris is wearing a very brightly patterned shirt, and unpacking a picnic.)
 TORRES: What's this? 
-PARIS:;Well, I thought you'd enjoy a
+PARIS: Well, I thought you'd enjoy a
 romantic lunch under the glow of a red giant. 
 TORRES: Oh, you replicated potato salad. 
 PARIS: With extra paprika, just the way you like it. 
@@ -430,7 +430,7 @@ the Blue Danube Waltz before tapping some controls.)
 ship]
 (All this is visible on the screen.)ZET:
 Doctor, what are you doing? 
-EMH [OC]:;If you don't mind 
+EMH [OC]: If you don't mind 
 [Doctor's office]
 EMH:
 I've had a stressful day. (Tuvok enters Sickbay. The EMH stops the music.) 
@@ -454,8 +454,8 @@ TUVOK: Computer, deactivate the EMH.
 COMPUTER: EMH protocols are offline. 
 TUVOK: Security to Sickbay. Remain where you are. 
 EMH: You haven't forgotten I'm a hologram, have you? (Tuvok;fires his phaser at a wall emitter. The EMH flickers.)
-TUVOK:; If necessary, I'll disable all of
-your holo-emitters. (The EMH leaps through the window into his office.)[Doctor's office]EMH:;Computer, transfer the EMH to
+TUVOK:  If necessary, I'll disable all of
+your holo-emitters. (The EMH leaps through the window into his office.)[Doctor's office]EMH: Computer, transfer the EMH to
 the mobile emitter. (He runs out through the Medical lab.)
 TUVOK: All hands, Red Alert. Security teams, apprehend the Doctor. 
 [Outside
@@ -590,7 +590,7 @@ EMH:
 Ready. 
 [Overlooker's
 ship]
-(Instead, the EMH is beamed into the cell with Janeway.)EMH:;We had an agreement!
+(Instead, the EMH is beamed into the cell with Janeway.)EMH: We had an agreement!
 ZET: To spare your captain. As you can see, she's still alive. 
 JANEWAY: Let the Doctor go. I'm the more valuable hostage.
 ZET: Actually, you're not. We'll leave you in the Vinry system. The
@@ -760,7 +760,7 @@ SEVEN: Your cognitive algorithms are malfunctioning.
 EMH: Goodbye, my friends. Speak well of me. (The EMH disappears.) 
 JANEWAY: Is he 
 TORRES: No, I've got him. (The EMH reappears.)
-EMH:;What happened?
+EMH: What happened?
 TORRES: I deleted the extraneous subroutines. 
 EMH: I'm not going to decompile? 
 JANEWAY: You'll probably outlive us all. (Janeway hands him the mobile emitter.)

@@ -310,7 +310,7 @@ BALLARD: I've lived with this face for long enough. Let's do it.
 EMH: Have a seat. You may experience some dizziness. 
 BALLARD: I'll hang onto Harry for support, if he doesn't mind. 
 KIM: That's what I'm here for. (The EMH gives her a hypospray, and her skin starts to turn pink.)
-BALLARD:;What? Something wrong? 
+BALLARD: What? Something wrong? 
 KIM: See for yourself.
 [Mess
 hall]

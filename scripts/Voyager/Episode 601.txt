@@ -208,7 +208,7 @@ THREE: Ready. (Four hesitates.)
 TWO: He's still worried about injuring her. 
 THREE: If we fail, we'll never become individuals. We have to
 remember that. 
-TWO: There is consensus. (Two injects his tubules into Seven's neck.)TWO:; I've found her memory files. 
+TWO: There is consensus. (Two injects his tubules into Seven's neck.)TWO:  I've found her memory files. 
 THREE: She's aware of our presence. 
 TWO: She's trying to regain consciousness. 
 FOUR: We must abort. 
@@ -501,7 +501,7 @@ FOUR: You're responsible for our suffering.
 THREE: How could you do it? 
 TWO: If you didn't want to return to the Collective
 THREE: You didn't have to. 
-SEVEN: You don't understand what happened. (All three shout at her at the same time.)SEVEN:;Somebody help me! (Tuvok enters.)
+SEVEN: You don't understand what happened. (All three shout at her at the same time.)SEVEN: Somebody help me! (Tuvok enters.)
 TUVOK: What's happening? 
 EMH: Somehow they broke their link with Seven. They're malfunctioning.
 Help me get them to Sickbay. 

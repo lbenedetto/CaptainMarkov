@@ -26,7 +26,7 @@ class SeriesReader implements Iterable<String> {
 		SeriesIterator si = new SeriesIterator();
 		si.nextEpisode();
 		si.nextLine();
-		return null;
+		return si;
 	}
 
 	class SeriesIterator implements Iterator<String> {

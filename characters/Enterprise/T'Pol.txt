@@ -47,7 +47,6 @@ T'POL: Humans can't refrain from drawing conclusions. You should learn to object
 T'POL: No, it's this way!#
 T'POL: Enterprise needs its Captain! Give me the weapons!#
 T'POL: Ignore it. Take us up.#
-T'POL: Open a channel. Sub-Commander T'Pol to Enterprise.#
 T'POL: We'll be docking in four minutes. Have Doctor Phlox meet us in decon.#
 T'POL: The Captain. I'm taking command of Enterprise.#
 T'POL: Tell Mister Mayweather to prepare to leave orbit.#
@@ -63,7 +62,6 @@ T'POL: With Mister Tucker's assistance, I modified the sensors. You now have the
 T'POL: It is a foolish mission. The Suliban are clearly a hostile race with technology far superior to yours, but as acting Captain, I was obligated to anticipate your wishes.#
 T'POL: I should return to the Bridge.#
 T'POL: Match their speed.#
-T'POL: Would you please give the helmsman permission to go to warp four point five.#
 T'POL: It's a gas giant.#
 T'POL: Class seven. The Suliban vessel dropped to impulse a few hours ago and altered course. Their new heading took them through its outer radiation belt.#
 T'POL: Yes.#
@@ -99,7 +97,6 @@ T'POL: You might've risked Klaang's life in a foolish attempt to swing back and 
 T'POL: The situation must be analysed logically.#
 T'POL: That is a specious analogy.#
 T'POL: Stand by impulse engines. Mister Tucker, status.#
-T'POL: If the Suliban have re-established their defences, we'll have no other option.#
 T'POL: Can we dock, Ensign?#
 T'POL: Mister Tucker, we're going to plan B. (Archer finally manages to struggle free of Silik's grasp and runs as a weapon is aimed at his#
 T'POL: I was under the impression that Enterprise would be taking me back to Earth.#
@@ -114,7 +111,6 @@ T'POL: We have limited data on the course Starfleet has assigned you.#
 T'POL: We don't select our destinations by what piques our interest.#
 T'POL: My people don't share your enthusiasm for exploration. Space is vast, Captain. T'POL: I'm sure you're aware that only one out of every forty three thousand planets supports intelligent life.#
 T'POL: I'll leave you to your exploring.#
-T'POL: Bridge to Captain Archer.#
 T'POL: Approximately ninety two metres in length.#
 T'POL: It's not moving at all.#
 T'POL: Almost three light years away.#
@@ -141,14 +137,11 @@ T'POL: They weren't Vulcans.#
 T'POL: We don't know where they came from. It would be very difficult to locate their families.#
 T'POL: We Vulcans would have never gone on board that ship in the first place.#
 T'POL: We have a code of behaviour, and we try to obey it.#
-T'POL: It appears that whoever killed that crew has returned.#
 T'POL: Bridge to Armoury.#
 T'POL: We have a potentially hostile vessel approaching. Are you prepared to defend the ship?#
 T'POL: Do the best you can, but I need you on the Bridge in five minutes.#
-T'POL: Arm extended.#
 T'POL: Eight thousand kilometres.#
 T'POL: Our sensors can't penetrate their shielding.#
-T'POL: There's been no response.#
 T'POL: T'Pol to Archer. They're still not responding.#
 T'POL: They seem to have stopped firing. They're closing on our position.#
 T'POL: Captain?#
@@ -167,16 +160,11 @@ T'POL: Occasionally.#
 T'POL: I've been to thirty six Minshara class planets. This experience is only marginally different.#
 T'POL: You have your assignments. We'll rendezvous here at nineteen hundred hours, unless the Captain wants us to pose for more pictures. (Cutler examines eel-like fish in a lake. There are two crescent moons in the sky. Ethan picks a yellow flower in an alpine meadow.)#
 T'POL: We were scheduled to rendezvous fifteen minutes ago.#
-T'POL: We've identified several nocturnal marsupials. I'd like to keep crewmen Cutler and Novakovich with me overnight to study them.#
 T'POL: This isn't shore leave, this is a research mission.#
 T'POL: It's highly doubtful that a distress beacon could function continuously for sixty three years.#
 T'POL: Certainly.#
 T'POL: A front is approaching from the south west.#
-T'POL:  T'Pol to Tucker.#
 T'POL: Is there a problem, Commander?#
-T'POL: Do you require assistance?#
-T'POL: Less than half a kilometre from here.#
-T'POL: We've relocated into a cavern.#
 T'POL: A landing under these circumstances might be difficult. We'll be protected until the winds diminish.#
 T'POL: We must have left them at the campsite.#
 T'POL: We've scanned the planet, it's uninhabited.#
@@ -189,7 +177,6 @@ T'POL: Excuse me?#
 T'POL: Talking to? There's no one here.#
 T'POL: I performed a geological analysis. The rocks are composed of limestone and cormalite, nothing more.#
 T'POL: She's mistaken.#
-T'POL: I have no reason to deceive you.#
 T'POL: I can't explain what you've seen, but I assure you I didn't speak to anyone.#
 T'POL: Your point?#
 T'POL: This is pointless.#
@@ -208,7 +195,6 @@ T'POL: Under stress, you become volatile. You're a far more dangerous species th
 T'POL: I didn't ask you or Mister Tucker to join us.#
 T'POL: There's no one there, Commander.#
 T'POL: All I see is a delusional engineer.#
-T'POL: Yes, Captain.#
 T'POL: And I have a phase pistol pointed at my head.#
 T'POL: He's lowered his phase pistol, sir.#
 T'POL: Yes, but only slightly.#
@@ -228,14 +214,12 @@ T'POL: I sampled human food on several occasions. It didn't agree with me.#
 T'POL: I prefer to eat the foods I'm accustomed to.#
 T'POL: It's difficult enough having to smell all this. Eating it is out#
 T'POL: Commander, I think I've found the problem.#
-T'POL: Something's distorting our wake pattern.#
 T'POL: Hull plating.#
 T'POL: Stand by to ignite a charge at eighty metres due aft.#
 T'POL: They must be using some sort of stealth technology.#
 T'POL: Their warp reactor is offline.#
 T'POL: I'll be briefing you on their propulsion systems.#
 T'POL: They claim to have the ability to synthesize protein and carbohydrates, but there's no telling what it may taste like. Try to be diplomatic.#
-T'POL: Are the injector cells aligned with the primary coil?#
 T'POL: Have you tested the ion matrix, Commander?#
 T'POL: The ion matrix, Commander.#
 T'POL: I for one won't miss the malfunctions their proximity was causing.#
@@ -258,7 +242,6 @@ T'POL: They're not. If they wanted to destroy Enterprise they would have done it
 T'POL: Less than one month ago, Captain Archer stood in the High Council Chamber in Kronos. The Chancellor himself called him a man of honour, a brother. Enterprise is the ship that found Klaang and returned him to the Empire. Without Klaang, your houses would be at war with each other. Jonathan Archer is the man who carried out that rescue. You are in his debt. You would be demonstrating both honour and wisdom to grant his request.#
 T'POL: Klingons are known to exaggerate. I saw nothing wrong with doing the same.#
 T'POL: I've run a check through the Starfleet database. You might be pleased to know that this is the first recorded incident of a human male becoming pregnant.#
-T'POL: Terra Nova?#
 T'POL: I'm not familiar with the early years of human space exploration.#
 T'POL: Name one.#
 T'POL: What happened to them?#
@@ -272,9 +255,6 @@ T'POL: No sign of weapons fire, only rust.#
 T'POL: Judging by the isotope decays, the radiation levels seventy years ago would have been lethal.#
 T'POL: Maybe they left the planet before it could affect them.#
 T'POL: This leads to a network of caverns that extend for several hundred metres.#
-T'POL: T'Pol to Captain Archer.#
-T'POL: Just a moment. In approximately three metres, a tunnel will branch off to your left.#
-T'POL: Correction, ten metres.#
 T'POL: Those weren't aliens. They're human.#
 T'POL: They may have been driven underground by the radiation.#
 T'POL: A section of this tunnel is collapsed. It's empty. If we could get into it, we could clear the obstruction with phase pistols. We'd be less than twenty metres from Lieutenant Reed.#
@@ -292,7 +272,6 @@ T'POL: Are you certain it is the right thing?#
 T'POL: When you get them back to Earth, what will you do? Send them to school, teach them to read and write, wear human clothing, eat human food, teach them to live on the surface, enjoy the sunshine?#
 T'POL: They've lived in those tunnels for three generations. You can't just pluck them up and bring them to a strange world and hope they'll learn to conform. You'd be destroying their identity, destroying the Novan culture.#
 T'POL: Unaffected by the asteroid.#
-T'POL: Is anyone hurt?#
 T'POL: Crater?#
 T'POL: No.#
 T'POL: You wanted to see me, Captain.#
@@ -337,7 +316,6 @@ T'POL: Are you questioning my loyalty?#
 T'POL: I have never disobeyed your orders. (rolls over and takes all the blanket with her)#
 T'POL: That would almost be directly beneath the atrium.#
 T'POL: Perhaps you have faulty equipment.#
-T'POL: They're down this passage. Thirty metres.#
 T'POL: Yes.#
 T'POL: I've completed my scans.#
 T'POL: Sir?#
@@ -448,14 +426,11 @@ T'POL: I didn't say leave orbit, I said prepare to leave orbit. I have no intent
 T'POL: Evasive manoeuvres. Keep us within transporter range.#
 T'POL: Return fire.#
 T'POL: Put him through.#
-T'POL: A Malurian vessel's opened fire. We're taking damage.#
 T'POL: We're trying to get a lock on it now.#
-T'POL: Are you all right? He said you'd been killed.#
 T'POL: Commander Tucker, status.#
 T'POL: If they want it so badly, maybe we should give it to them. (Down in the street, Garos's henchman spots them and opens fire with his weapon. Archer and Riann duck behind a stone trough. Garos is attracted by the commotion. Archer takes out the henchman then goes around the trough to hide from Garos and another gunman.)#
 T'POL: Stand by to go to full impulse. Now, Commander. (The reactor is beamed into the alcove then straight out again into the path of the Malurian ship.) T'POL: Fire. (The torpedo detonates the reactor as the Malurians arrive on top of it. Satisfying green ripples.)#
 T'POL: Come about, Ensign. Target their weapons array.#
-T'POL: The Earth cargo ship Fortunate. Y-class freighter, maximum speed warp one point eight. Crew complement twenty three.#
 T'POL: Do you have any helpful information on this vessel beyond its recreational activities?#
 T'POL: None, Captain.#
 T'POL: I'm reading twenty four biosigns.#
@@ -467,22 +442,18 @@ T'POL: It isn't.#
 T'POL: My bioscans indicated this Nausicaan was injured.#
 T'POL: I'm reading one biosign, but it's not Nausicaan.#
 T'POL: Captain, there's a breach.#
-T'POL: The Fortunate has fired its weapons.#
 T'POL: Captain, considering our rate of decompression, I'd suggest Enterprise retrieve us as quickly as possible.#
 T'POL: Mister Tucker says at least four hours.#
 T'POL: A very primitive emotion, but it would explain his irrational behaviour.#
-T'POL: Captain, long range sensors are detecting weapons fire.#
 T'POL: Nausicaans.#
 T'POL: There are four Nausicaan biosigns on board the Fortunate and I'm detecting weapon discharges.#
 T'POL: It appears to be a transport vessel.#
 T'POL: When is this Great Plume due to erupt?#
 T'POL: Six days.#
-T'POL: Our beliefs are based on logic and the pursuit of clarity.#
 T'POL: On screen.#
 T'POL: We're aware of it.#
 T'POL: Twice.#
 T'POL: Agreed. Ensign.#
-T'POL: We're circumnavigating a plasma storm, Captain.#
 T'POL: Ensign.#
 T'POL: What about the transport ship?#
 T'POL: I'm sure. The Vulcan Science Directorate has studied the question of time travel in great detail. They found no evidence that it exists or that it can exist.#
@@ -500,7 +471,6 @@ T'POL: No, the Plume is just beginning.#
 T'POL: Captain?#
 T'POL: Took what?#
 T'POL: Bridge to Captain Archer.#
-T'POL: A Suliban vessel just took something in and went to warp. Should we go after them?#
 T'POL: The transport ship has left. We're ready to resume course. Have you learned how it works?#
 T'POL: I'd be glad to help.#
 T'POL: Agreed.#
@@ -516,7 +486,6 @@ T'POL: It was a different time.#
 T'POL: There were fewer warp-capable species.#
 T'POL: What are you suggesting?#
 T'POL: Ensign, if you want to know something about Mister Reed perhaps you should ask him. {Mess hall}#
-T'POL: Captain, I'm detecting a ship dead astern. Eight thousand metres.#
 T'POL: Closing to seven thousand. Six thousand.#
 T'POL: Warp drive is offline.  T'POL: Main power is down.#
 T'POL: Tactical systems are down.#
@@ -524,7 +493,6 @@ T'POL: The outer doors in Launch Bay two are opening.#
 T'POL: I can't.#
 T'POL: No.#
 T'POL: None that I know of, Captain.#
-T'POL: There are no Vulcan ships within scanning range.#
 T'POL: That's because it isn't there.#
 T'POL: There's nothing but debris at the co-ordinates where we deployed the amplifier.#
 T'POL: Destroyed as well.#
@@ -533,7 +501,6 @@ T'POL: There's nothing there.#
 T'POL: I'm getting an anomalous reading from Launch Bay two.#
 T'POL: It's very likely. It's putting out a tremendous amount of energy. Over six hundred megajoules.#
 T'POL: Whatever it is, it's tapped into most of our systems including internal sensors and communications on every deck.#
-T'POL: It's them.#
 T'POL: Closing from astern, twenty thousand metres. Fifteen.#
 T'POL: They've stopped. Eleven thousand metres.#
 T'POL: I'm reading a fluctuation in their shielding, but it's marginal.#
@@ -601,11 +568,9 @@ T'POL: Captain Sopek?#
 T'POL: I'd like to return to my quarters.#
 T'POL: You should have consulted me first.#
 T'POL: That won't be possible. Leaving Sickbay would violate my doctor's orders.#
-T'POL: The probe's entered the outer atmosphere.#
 T'POL: Intense magnetic fields often create unique waveforms.#
 T'POL: Other than keeping Ensign Mayweather up at night, I'm not sure what we expect to accomplish here. There are four gas giants in your own solar system.#
 T'POL: I'm reading an anomalous power signature in the lower atmosphere, and several biosigns.#
-T'POL: I thought you were acquainted with the environmental suit.#
 T'POL: I requested you for your skills as a translator, but if you're uncomfortable.#
 T'POL: Gravity's pulling it deeper into the atmosphere. At their current altitude the pressure is fifteen thousand gsc.#
 T'POL: For the moment. But at the rate that vessel is sinking, we'll have an hour at most.#
@@ -614,10 +579,8 @@ T'POL: We've entered an eddy of liquid helium. We're clear.#
 T'POL: One hundred metres.#
 T'POL: Fifty metres. Forty.#
 T'POL: Twenty metres. Ten. Engaging docking interface.#
-T'POL: Nitrogen-oxygen atmosphere. Carbon dioxide levels are high, but nothing's toxic. It's breathable.#
 T'POL: There are many classes of ships. I'm not familiar with all of them.#
 T'POL: I'm reading three biosigns. That way. All very weak.#
-T'POL: They're still alive. We should leave before they regain consciousness.#
 T'POL: They don't want our help.#
 T'POL: They're Klingons. To die at their post assures them a path to the afterlife. If we rescue them, they'd be dishonoured.#
 T'POL: Your compassion is admirable but misguided. If they awake and find us on their ship, they'll kill us. (In the Klingon galley, there are carcasses hanging from butcher's hooks, some green stuff in bowls. A woman walks out of a storage area,)#
@@ -634,7 +597,6 @@ T'POL: You're certain?#
 T'POL:  What about this one?#
 T'POL: Or hull?#
 T'POL: Then we'd better hurry. This appears to be the helm station.#
-T'POL: We've been attempting to restart their engines, but they appear to be offline.#
 T'POL: You're dehydrated. You need some water.#
 T'POL: You shouldn't go alone.#
 T'POL: They are worms.  HOSHI: Ugh! (They hear movement from behind a door, and ready their phase pistols. T'Pol opens the door to reveal three pigs with lots of spines and attitude, then shuts it again) T'POL: Targs. Klingons prefer their food freshly slaughtered. Are you all right?#
@@ -676,14 +638,12 @@ T'POL: I never intended to suggest that our crewmembers were less important than
 T'POL: Yes.#
 T'POL: About what?#
 T'POL: Good night, Lieutenant.#
-T'POL: This text book is what you wanted me to see?#
 T'POL:  From the library of Admiral Johnny Archer?#
 T'POL: This class of vessel hasn't been used for a long time.#
 T'POL: You're V'tosh ka'tur.#
 T'POL: That's not possible.#
 T'POL: I am here as an observer.#
 T'POL: I'm not capable of feeling offence.#
-T'POL: They've asked for any medical supplies we can spare and a thousand litres of plasma coolant.#
 T'POL: Tavin has also requested the recipe for Chicken Marsala.#
 T'POL: I've been busy.#
 T'POL: That's unlikely.#
@@ -748,7 +708,6 @@ T'POL: I don't know.#
 T'POL: I have to return to the compound.#
 T'POL: Let me go.#
 T'POL: No!#
-T'POL: Stop.#
 T'POL: Stop! This was a mistake.#
 T'POL: Please go.#
 T'POL: Leave! TOLARIS: You're feeling anger. Your emotions are breaking the surface. Embrace them!  What a shame. (After the door closes T'Pol falls to the floor, then crawls to a comm. panel.) T'POL: T'Pol to Sickbay.#
@@ -774,13 +733,11 @@ T'POL: For a moment, I had a humanoid biosign. It's gone.#
 T'POL: Have we trespassed in your territory?#
 T'POL: You're hunters.#
 T'POL: To kill the indigenous species?#
-T'POL: We can start with the entomologists then bring the other bioscience teams down. I'd recommend we limit the number of crewmen on the surface to six at a time.#
 T'POL: Perhaps you were dreaming.#
 T'POL: Are those volcanic vents?#
 T'POL: It's more like the grottoes of Deneva Prime. I'm detecting a large geothermal shaft sixty metres in that direction. I'd like to examine it. Sir?#
 T'POL: Are you all right?#
 T'POL: There's no internal damage but he's lost a great deal of blood.#
-T'POL: Lieutenant Reed reports they've docked with Enterprise.#
 T'POL: What did she say?#
 T'POL: I believe you should reconsider returning to Enterprise.#
 T'POL: So the only logical conclusion is that she is a real human woman?#
@@ -799,7 +756,6 @@ T'POL: I assume you have an explanation.#
 T'POL: That artefact you brought back from the lunar surface. It must have been placed there intentionally. When I opened it, the canister released some kind of gas.#
 T'POL: There are times I wish Vulcans hadn't learned to repress their violent tendencies.#
 T'POL: What about the others?#
-T'POL: Have you come to rescue me?#
 T'POL: Whatever put the others to sleep didn't affect me in the same way. My body works differently than the humans.#
 T'POL: That's the name of their species. They're a terrible race. Deceitful, cruel.#
 T'POL: It wasn't my choice. I'm a captive here. They've enslaved me. Please, take me with you.#
@@ -848,7 +804,6 @@ T'POL: Not at all.#
 T'POL: I've done as much as I can do for now. I need to return to Enterprise to analyse the data. If you'll excuse me.#
 T'POL: I need to contact my ship.#
 T'POL: I don't understand.#
-T'POL: I'd like to speak with them.#
 T'POL: May we attend the hearing?#
 T'POL: Will they be given legal representation?#
 T'POL: We'll need the coordinates.#
@@ -861,15 +816,11 @@ T'POL: Electric chair?#
 T'POL: Set a course for Tandar Prime.#
 T'POL: Why?#
 T'POL: Proceed.#
-T'POL: Suliban bio-signs.#
 T'POL: In orbit. It won't be long before we're detected.#
-T'POL: I'm not familiar with that planet.#
-T'POL: I thought you decided not to interfere with other cultures.#
 T'POL: Yes, Captain.#
 T'POL: This appears to be a pulse cannon.#
 T'POL: Bridge to Sickbay.#
 T'POL: What's your status?#
-T'POL: It's almost time.#
 T'POL:  Put him through. Go ahead, Captain.#
 T'POL: Where's Captain Archer?#
 T'POL: We didn't come here to fight. We came to talk with you.#
@@ -899,12 +850,10 @@ T'POL: Our encounter didn't go well but I doubt we gave them reason to attack us
 T'POL: We'll need to communicate with them better than last time.#
 T'POL: T'Pol to Doctor Phlox. Report.#
 T'POL: Yes. Stand by. (The display monitor switches to an overhead view of dissection table with the tentacle on it.)#
-T'POL: Doctor?#
 T'POL: I'm sorry, Ensign, there isn't enough time.#
 T'POL: We need to neutralise it, quickly. You said phase pistols had no effect?#
 T'POL: Then I suggest you find a method that does.#
 T'POL: Can you assemble some EM emitters?#
-T'POL: What happened?#
 T'POL: Mister Reed, withdraw your team.#
 T'POL:  You wanted a chance to communicate. I suggest you begin.#
 T'POL: How much time do they have?#
@@ -915,7 +864,6 @@ T'POL: I suggest you work quickly.#
 T'POL: Where?#
 T'POL: Lay in a course.#
 T'POL: Let me know as soon as they respond.#
-T'POL: Any progress?#
 T'POL: The situation requires expertise, not luck.#
 T'POL: If you don't, no one else aboard Enterprise does.#
 T'POL: It was your suggestion that we attempt to communicate with it. If you don't think that's possible, we'll have to find another solution.#
@@ -951,7 +899,6 @@ T'POL: If you're wearing that to impress the women on Risa, you may as well stay
 T'POL: Mister Tucker has a point.#
 T'POL: The safety of this ship depends on its captain being at his most efficient.#
 T'POL: Incoming transmission from Starfleet Command.#
-T'POL: Thank you for volunteering your quarters.#
 T'POL: I imagine she'll spend most of the journey alone, engaged in meditation, but if it seems appropriate I'll ask if she'll meet with you.#
 T'POL: If you wouldn't mind taking that. T'POL: Ambassador V'Lar is accustomed to a Spartan environment.#
 T'POL: I believe so. I've prepared this to familiarize the crew with#
@@ -1028,12 +975,9 @@ T'POL: Our Captain and Chief Engineer were invited.#
 T'POL: A man named Zobral. And you are?#
 T'POL: His ship was damaged and we assisted him. In return, he offered his hospitality.#
 T'POL: I've been contacted by a government official in a city about two hundred kilometres from where you are now. He claims that you're in danger.#
-T'POL: Zobral and his men are terrorists.#
-T'POL: Perhaps not, but until we're certain who they are, I suggest you return to the ship.#
 T'POL: Hail the Captain.#
 T'POL: Captain, are you all right?#
 T'POL: In the middle of an assault?  See if you can find Chancellor Trellit.#
-T'POL: You neglected to mention that you'd be attacking the encampment.#
 T'POL: Captain Archer wanted to speak with Zobral.#
 T'POL: I don't know. If you'd be willing to end your assault, we could launch a search party.#
 T'POL: If you believe we're assisting the terrorists, you're mistaken.#
@@ -1056,17 +1000,14 @@ T'POL: Would they be targeting one of your settlements?#
 T'POL: Set a course and prepare to fire. I believe they've located the Captain and Commander Tucker.#
 T'POL: Fire.#
 T'POL: I see them. Two humans bearing one one five mark three.#
-T'POL: What you told him was correct. Decisions to get involved in the conflicts of other worlds should be left to governments, and not starship captains.#
 T'POL: I've visited Risa before. It seemed appropriate to give someone else a chance.#
 T'POL: I don't anticipate any problems.#
 T'POL: The crew is trained to handle emergencies, but I'll alert you immediately if there are any problems.#
 T'POL: Everyone drew lots. You had the same chance as the others.#
 T'POL: Captain, you need a vacation.#
 T'POL: Enjoy yourselves.#
-T'POL: How long will this last?#
 T'POL: And if someone should require medical attention during your hibernation?#
 T'POL: Pleasant dreams, Doctor.#
-T'POL: Enterprise.#
 T'POL: What's the problem, Ensign?#
 T'POL: Where are you?#
 T'POL: Why didn't you let them finish treating you on the surface?#
@@ -1085,7 +1026,6 @@ T'POL: Ensign Mayweather, our helmsman.#
 T'POL: We're in your quarters.#
 T'POL: What?#
 T'POL: Doctor, I think this was a mistake. You should return to your quarters.#
-T'POL: You don't sound very relaxed, Captain.#
 T'POL: Understood.#
 T'POL: You're certain?#
 T'POL: Your biosigns are stabilising. It seems to be working.#
@@ -1096,9 +1036,7 @@ T'POL: Although the matriarchal elements in the culture have diminished it might
 T'POL: This is no time to be placing blame. A thorough investigation should explain what happened. How is he?#
 T'POL: I've analysed six of the pod sensor logs. I have two left.#
 T'POL: Every log on the shuttle indicates that both ducts were sealed and locked.#
-T'POL: His behaviour has been erratic. He seems to alternate between agitation, despondency and guilt. He spends most of his time alone. I've tried to remind him that this was an accident, but his responses have been illogical. He seems to be ignoring his responsibilities as captain.#
 T'POL: Nevertheless, as his physician you should monitor him closely, to be certain he remains fit for command.#
-T'POL: Lieutenant?#
 T'POL: Where did you find it?#
 T'POL: It might simply be boro-carbons formed by the explosion.#
 T'POL: If you'd prefer, I'll come back.#
@@ -1115,7 +1053,6 @@ T'POL: And Daniels claims this is Suliban technology?#
 T'POL: Captain. The Vulcan ship we were headed for, it's no doubt detected we've altered course.#
 T'POL: Which one?#
 T'POL: Captain, they're all around us.#
-T'POL: It took a while before we realized that the three discs had to work in unison. The interface seems to be holding.#
 T'POL: They got a lot closer than you think. (She calls up images of the shuttlepod on it's way to the surface.)#
 T'POL: They were docked with the shuttlepod for nearly two minutes.#
 T'POL: As I've told you, the Vulcan Science Directorate has concluded that time travel is impossible.#
@@ -1143,7 +1080,6 @@ T'POL: I went to Carbon Creek because I wanted to visit the site of First Contac
 T'POL: Actually, it didn't.#
 T'POL: In fact, the Vulcans visited Earth long before then. My second foremother was one of them.#
 T'POL: My mother's mother's mother. Would you like to hear the story?#
-T'POL: During their third week of gathering information about humanity their impulse manifold began to malfunction. They had no choice but to attempt an emergency landing.#
 T'POL: The incident is well-documented at the Science Directorate and the Space Council.#
 T'POL: Of course.#
 T'POL: Their subspace transceiver was damaged in the crash. They had no way of knowing if their distress signal had even been transmitted.#
@@ -1160,7 +1096,6 @@ T'POL: As I said, you asked me to tell you a story.#
 T'POL: If you check my record, you'll note that I also visited Yellowstone Park and the Carlsbad Caverns. I'm a scientist. That includes geology. Thank you for the meal.#
 T'POL: Good night.(In her quarters, preparing for her meditation before sleep, T'Pol takes something out of a cupboard. It is the handbag T'Mir was carrying when she took the Velcro pouch to Pittsburgh.)#
 T'POL: (Bridge} Captain Archer is no longer aboard Enterprise.#
-T'POL: He's not on board. You must have sensors that can confirm that.#
 T'POL: Come see for yourself, or send your soldiers. You'll realise I'm telling the truth.#
 T'POL: This is Sub-Commander T'Pol. All security teams remain where you are.;#
 T'POL: There are thirty armed vessels surrounding us. Unless I'm mistaken their weapons are still targeting our warp core. Mister Reed? So, unless you have a better suggestion?#
@@ -1189,10 +1124,8 @@ T'POL: Forty metres, maybe forty five.#
 T'POL: Third dimension, timeline. Timeline, first, second,#
 T'POL: First, third dimension.#
 T'POL: No! No! No!  T'POL: No! Stop!#
-T'POL: You certainly took your time. He had this pressed against my head.#
 T'POL: If they regain consciousness don't hesitate to use these. (The hyposprays.)#
 T'POL: Ready. (Tucker rushes to the warp controls. Over on the Helix, Silik is trying to use the future device.) (Alarms are#
-T'POL: Report, Ensign.#
 T'POL: You may have overdone your pyrotechnic display. The scorching on the starboard nacelle is extensive.#
 T'POL: Maintain your course and speed, Ensign.#
 T'POL: Alter course ten degrees starboard.#
@@ -1201,7 +1134,6 @@ T'POL: I see them.#
 T'POL: Stand down weapons. Open a channel. Enterprise to Suliban vessel.#
 T'POL: Lieutenant Reed suffered some minor injuries, but he's recovering in Sickbay. Captain, I'm curious. Why didn't the other Cell ships try to stop you?#
 T'POL: Permission granted. Captain's Starlog, supplemental. We've joined the Vulcan ship D'kyr. It seems that Starfleet and the High Command are eager to discuss the future of our mission.#
-T'POL: Discovered how to suppress their volatile emotions only after centuries of savage conflict. You spoke of the destruction of the monastery. What about the Vulcan listening post that Captain Archer found there? I would hope that our people have learned from those events that using a sacred sanctuary to spy on others was a dishonourable practice, to say the least. I don't wish to contradict Captain Archer, but learning from one's mistakes is hardly exclusive to humans. Their mission should be allowed to continue. (The Vulcans sweep out of the room at Starfleet, and leave Enterprise's Bridge as well.)#
 T'POL: Come in.#
 T'POL: She tends to be discreet. What can I do for you?#
 T'POL: You spoke to the Admiral?#
@@ -1213,25 +1145,20 @@ T'POL: Bridge to Sickbay. We need medical assistance.#
 T'POL: I'm not reading any biosigns.#
 T'POL: Captain, it's lodged near Impulse Reactor Two. An explosion anywhere near there could disable Enterprise.;#
 T'POL: They were designed to penetrate Suliban cloaking devices. I'll try shifting the phase variance.#
-T'POL: I'm detecting something in the gamma spectrum, phase variant point zero zero seven five.#
 T'POL: No. It's reflecting our scans.#
 T'POL: Perhaps the mines use a more primitive cloaking system.#
 T'POL: The translator's not locking on.#
 T'POL: Not yet.#
 T'POL: And their next message?#
 T'POL: Romulan. It's pronounced Romulan.#
-T'POL: They're rumoured to be an aggressive, territorial species but the Vulcan High Command has never made direct contact with them. Ensign Sato's translation says that#
-T'POL: She believes she'll have a reply prepared within the hour.#
 T'POL: Bridge to Captain Archer.#
 T'POL: Understood.#
 T'POL: We were unable to translate your language until a short time ago. We're trying to defuse a weapon lodged on our hull.#
 T'POL: They're demanding that we jettison the section of hull plating and leave.#
 T'POL: I'm sure you did everything you could, Captain.#
 T'POL: Captain, I assume there's no point in my questioning your plan.#
-T'POL: Bridge to Captain Archer.#
 T'POL: Hail them.#
 T'POL: Polarise the hull plating.#
-T'POL: Enterprise to Captain Archer. Captain, respond.#
 T'POL: Open the doors to Launch bay two.#
 T'POL: Bridge to Doctor Phlox.#
 T'POL: Meet us outside Launch bay two.#
@@ -1267,7 +1194,6 @@ T'POL: That's not necessary.#
 T'POL: There's no need to apologise.#
 T'POL: Friction is to be expected whenever people work in close quarters for extended periods of time.#
 T'POL: Then it's good that you're my superior officer. That we're not in a position to allow ourselves to become attracted to one another, hypothetically. If we were, the friction that you speak of could be much more problematic.;#
-T'POL: It's a Tellarite freighter.#
 T'POL: We have received a set of co-ordinates.#
 T'POL: They're not the most agreeable species, but they're usually trustworthy. The co-ordinates are three and a half days away at warp two.#
 T'POL: None that I can detect.#
@@ -1290,7 +1216,6 @@ T'POL: Not every culture is based on the acquisition of wealth. The station's bu
 T'POL: Perhaps they prefer anonymity.#
 T'POL: Yes.#
 T'POL: Eighteen hundred hours.#
-T'POL: I've located Ensign Mayweather's parents.#
 T'POL: Our repairs will be complete in nineteen minutes. The station's expecting us to depart.#
 T'POL: I'm detecting one human biosign.#
 T'POL: Their vital organs appear to be functioning. They've suffered severe neurological damage.#
@@ -1304,7 +1229,6 @@ T'POL: Are you certain? You seem to have a large inventory. Our sensors showed o
 T'POL: Several.#
 T'POL: Not usually.#
 T'POL: We're here to trade with them, not judge their living conditions.#
-T'POL: They must realise that you trade with other ships.#
 T'POL: Tessic is explaining that their yield isn't what they'd hoped.#
 T'POL: Have you tried contacting your homeworld?#
 T'POL: The deuterium's been stowed. Two hundred litres. Should I instruct Ensign Mayweather to break orbit?#
@@ -1386,7 +1310,6 @@ T'POL: I suppose I was never certain what his intentions were. The Elder had no 
 T'POL: When the first call came in about this new mission. Maybe that's why I wanted you with me. What if Jossen wasn't a smuggler? What if he was innocent? Then it wouldn't have mattered whether he intended to use that weapon or not.#
 T'POL: Menos's ship was filled with injector casings, nothing else. He has a family. Our scans should be able to confirm if he's dying of radiation poisoning.#
 T'POL: Where's Menos?#
-T'POL: He's not aboard.#
 T'POL: He's not here.#
 T'POL: Why risk using his own vessel? He'd know we'd follow him.#
 T'POL: Any one of them.#
@@ -1406,28 +1329,7 @@ T'POL: No, it's not.#
 T'POL: That won't be necessary. I was much younger then.#
 T'POL: You do have a way of putting questionable actions behind you.#
 T'POL: If you ever need someone you can trust.#
-T'POL: It's crucial we retrieve the technology. We can't risk contaminating a pre-warp culture.#
-T'POL: We'll have to take that risk. T'Pol to Captain Archer.#
-T'POL: Captain, please respond. Close the channel.#
-T'POL: Try to isolate their biosigns. I want to know exactly where they are.#
-T'POL: Any closer and we'd be detected. Do your best.#
-T'POL: If you were captured, you'd be giving the inhabitants more technology. It would undoubtedly affect the evolution of their society.#
-T'POL: Work quickly.#
-T'POL: I suggest we monitor the communiqu�s coming from the compound. They may tell us what's happening to the Captain and Mister Reed.#
-T'POL: How soon can you launch?#
-T'POL: You don't have time. They're going to be executed in less than two hours.#
-T'POL: You're about to find out. Prepare it for launch.#
-T'POL: We'll be in range of those surveillance towers in less than two minutes.#
-T'POL: Three military aircraft off our port side. They're on an intercept course.(In the detention centre courtyard,;the trapdoors on the gallows have been tested when Archer and Reed come in to see their nooses waiting.)#
-T'POL: Commander.#
-T'POL: I scanned the region ahead. There's a blue giant cluster three light years from our current position.#
-T'POL: None that are inhabited.#
-T'POL: Yes, sir. Was there something else?#
-T'POL: A calculated risk.#
-T'POL: We did do damage to those people.#
 T'POL: They now believe their enemy is capable of creating genetically-enhanced soldiers, not to mention particle weapons.#
-T'POL: You don't have to leave technology behind to contaminate a culture.  You were willing to sacrifice your life to protect them. I would not have expected that.#
-T'POL: I'm continuing my analysis of the condition that's stricken the crew. Without Doctor Phlox's assistance I'm not hopeful about reversing its effects. I'm documenting my findings so that Starfleet will at least have a record of what happened. The symptoms began not long after we set a course for the trinary system. That was nearly two days ago.#
 T'POL: A class four.#
 T'POL: That's correct, but none of them were part of a trinary star system.#
 T'POL: The gravitational shear between the stars is extreme. We'd have to drop to impulse, but we should be able to approach to within five million kilometres.#
@@ -1446,13 +1348,11 @@ T'POL: Commander. Commander.#
 T'POL:  Commander.  T'POL: Perhaps you could finish that later.#
 T'POL: He also requested detailed sensor readings of this trinary system.#
 T'POL: We also have sensitive hearing. (Tucker resumes drilling and my#
-T'POL: Come in.#
 T'POL: This trinary system is emitting some unusual radiation. I'm trying to identify it.#
 T'POL: Correct.#
 T'POL: I said it was important.#
 T'POL: I prefer to work here. I'll need your assistance with this.#
 T'POL: Are you feeling all right, Commander?#
-T'POL: Lieutenant, I need your#
 T'POL: I beg your pardon?#
 T'POL: Even to the First Officer?#
 T'POL: Part of your new security protocol?#
@@ -1472,7 +1372,6 @@ T'POL: Captain.#
 T'POL: Was he injured?#
 T'POL: Doctor, you may want to delay the procedure. We have a larger problem. The entire crew is ill.#
 T'POL: You've been affected, as well.#
-T'POL:  Ironically, Dr. Phlox's obsession with Ensign Mayweather's headache has provided some useful data. His cerebral scans have helped me determine that the radiation coming from the trinary system is causing (a computer alert sounds) Computer, pause. (A scan of the star's radiation fields comes#
 T'POL: Captain? Captain Archer! You're needed on the Bridge.#
 T'POL: We have very little time.#
 T'POL: Your crew may be dying.#
@@ -1500,7 +1399,6 @@ T'POL: Captain? We have another storm.#
 T'POL: The discharges are more intense.#
 T'POL: And stronger. It's pushing the first storm through these mountains at twice the speed it was moving a few minutes ago.#
 T'POL: Less than ten kilometres from the first storm. {Planet surface] (A driving wind, and thick black storm clouds and twisters coming over the mountains.)#
-T'POL: That would most likely attract the polaric discharge.#
 T'POL: The chambers you and Mister Tucker photographed contained sacred relics.#
 T'POL: What's the problem?#
 T'POL: Lives are at stake, Ensign.#
@@ -1535,10 +1433,8 @@ T'POL: Your weight.#
 T'POL: Height?#
 T'POL: Does your culture observe any postmortem rituals?#
 T'POL: They've granted me complete autonomy in these matters. If I had to consult my superiors every time I made a ruling it would defeat my purpose here. We'll convene at eighteen hundred hours.#
-T'POL: The wavefront spans more than half a dozen light years. A Vulcan starship encountered a class five over a century ago. The vessel was nearly destroyed.#
 T'POL: Approximately four hours.#
 T'POL: You're proposing we take refuge in a crawlspace?#
-T'POL: You're behind schedule. Do you need help?#
 T'POL: That's correct.#
 T'POL: Perhaps some of your creatures could share.#
 T'POL: All right. Twenty cubic metres.#
@@ -1559,13 +1455,8 @@ T'POL: The antimatter injectors have come online.#
 T'POL: A power surge could've triggered both circuits.#
 T'POL: We're more than twenty light years from your homeworld. It's an unlikely coincidence.#
 T'POL: They obviously don't realise we're in the catwalk. If they learn we're here, it would undoubtedly endanger the crew.#
-T'POL: We may outnumber them, but we only have three EV suits.#
 T'POL: Understood.#
-T'POL: Stand by.#
-T'POL: We're having trouble with the dilithium sequencers. It's taking longer than we expected.#
 T'POL: We're disabling#
-T'POL: The final sequencer.#
-T'POL: Report.#
 T'POL: Maintain your course.#
 T'POL: They could still be on board.#
 T'POL: Maintain your course. That's an order.  Go ahead.#
@@ -1714,7 +1605,6 @@ T'POL: Forward plating is holding.#
 T'POL: Their weapons have been disabled.#
 T'POL: Sir?#
 T'POL: It could it tell us what happened, maybe even who built the vessel.#
-T'POL: A database from the future?#
 T'POL: I'm not certain Daniels would approve of this.#
 T'POL: A Vulcan cruiser. I don't recognise the configuration.#
 T'POL: Few Vulcans have ever chosen to mate with another species.#
@@ -1737,27 +1627,21 @@ T'POL: I prefer to embrace logic. If you'll excuse me, Doctor.#
 T'POL: Captain, the craft is emitting some type of high-energy particles.#
 T'POL: The radiation could have affected your perception of time.#
 T'POL: Can I speak with you?#
-T'POL: The radiation could spread to other sections, affect more systems.#
 T'POL: I'm not certain we'll survive that long. We've attracted the attention of two hostile species. It's logical to assume they're searching for us.#
 T'POL: Perhaps you should destroy the vessel.#
 T'POL: Assuming for the moment the Temporal Cold War exists, I believe we shouldn't get involved.#
 T'POL: Your curiosity is placing Enterprise in unnecessary danger.#
 T'POL: Captain.#
 T'POL: If the Suliban return, they may be cloaked. I recommend we go to Tactical Alert.#
-T'POL: The ships will be within weapons range in twenty seconds.#
 T'POL: They're matching our speed.#
 T'POL: Less than three minutes.#
 T'POL: Six hundred thousand kilometres.#
 T'POL: Two hundred thousand kilometres.#
 T'POL: The crew's alive. The vessel is disabled.#
 T'POL: The cell ships have dropped out of warp.#
-T'POL: Even if you're correct, it's unlikely help will arrive in time.#
-T'POL: Bridge to Captain Archer.#
-T'POL: You don't have much time.#
 T'POL: How many?#
 T'POL: We're prepared to surrender it to you, but our launch bay doors took heavy damage. We're going to need more time. I have a repair team working on it, but they estimate it will take#
 T'POL: Seal the hatches and send security teams.#
-T'POL: T'Pol to Captain Archer.#
 T'POL: It dematerialised, and it's not aboard the Tholian ships.#
 T'POL: They may have only wanted the vessel.#
 T'POL: Their warp drive is damaged, but life support is stable.#
@@ -1765,24 +1649,6 @@ T'POL: There's no evidence to support that.#
 T'POL: As the captain of the Tal'Kir pointed out, a ship can be replaced.#
 T'POL: I'm sure the gesture would be appreciated. The High Command has asked me to prepare a report on this incident, with your permission.#
 T'POL: They're more likely to believe in time travel.#
-T'POL: Lieutenant?#
-T'POL: Biosigns?#
-T'POL: Sensor logs?#
-T'POL: Set a course for Keto-Enol.#
-T'POL: We're on an exploratory mission. We believe our Captain and Chief Engineer were abducted after visiting your planet.#
-T'POL: We don't know.#
-T'POL: Let us send you their descriptions. Perhaps you could find out if any of your officers have seen them.#
-T'POL: Where are they?#
-T'POL: I trust you'll accompany us to ensure there are no further mistakes.#
-T'POL: Your transport vessel?#
-T'POL: Try hailing them.#
-T'POL: Increase our speed to warp four point two.#
-T'POL: Contact them.#
-T'POL: Are your superiors aware that there are two innocent humans aboard?#
-T'POL: Drop to impulse. Take us into the system. Any human biosigns?#
-T'POL: Patrol ship?#
-T'POL: Magnify. Where's it heading?#
-T'POL: They may have come to rescue Kuroda. How heavily armed is it?#
 T'POL: It's approaching at warp six.#
 T'POL: It's not in the Vulcan database.#
 T'POL: There's no way to tell. Our sensors can't penetrate their hull.#
@@ -1823,7 +1689,6 @@ T'POL: It's a risk I'm willing to take.#
 T'POL: You told me you trust my judgment. Trust it now, unless you have another suggestion.#
 T'POL: They're lying to us.#
 T'POL: We don't have time for this, Phlox. I have to get to the Captain.#
-T'POL: Their ship is deteriorating, and they have no way to repair it. They can't survive in space.#
 T'POL: Eighty two of them are. One for every crewman on Enterprise.#
 T'POL: Hundreds. The rest will try to find another vessel of corporeal beings. Where's Commander Tucker?#
 T'POL: Please find him.  T'POL: If the Commander can find a way to shield Enterprise, we can leave the catwalk and go to warp.#
@@ -1831,7 +1696,6 @@ T'POL: Two thirds will survive.#
 T'POL: That may be difficult.#
 T'POL: It would be no different than being exposed to space. They'd die.#
 T'POL: Not since we sealed them.#
-T'POL: Those six switches control the feed. You're going to have to recalibrate them in sequence for CO2.#
 T'POL: If he knows what we're doing.#
 T'POL: There are two solenoids behind the openings. When you tap them simultaneously, the plate should retract.#
 T'POL: T'POL: The nine o'clock position will vent the gas when we're finished. (As Phlox reaches for the lever, Tucker grabs his arm, throws him away and starts closing the valves instead. Hitting him with the metal cover doesn't stop him, but a headbutt from a space helmet does. The CO2 is released while the possessed engineer tries to move the lever back, and he passes out.)#
@@ -2319,31 +2183,6 @@ T'POL: A third sphere would correct some of the error but not all of it, so I ha
 T'POL: We'll need to get farther into the Expanse to be certain, but, at least fifty.#
 T'POL: And each one generating massive amounts of gravimetric energy.#
 T'POL: Why would someone want to create a web of crippling anomalies? [Hoshi's quarters] (She's finishing reading the book.)#
-T'POL: No active sensor sweeps or artificial satellites, no vessels anywhere in the vicinity.#
-T'POL: They could also be electrical storms, deposits of diamagnetic ore, or#
-T'POL: Acknowledged.#
-T'POL: Corporal Hawkins is standing by with an assault team.#
-T'POL: We have it, Captain.#
-T'POL: Acknowledged.#
-T'POL: I managed to identify a sub-quantum imprint. It matches the signature of the Xindi probe.#
-T'POL: He was quite insistent.#
-T'POL: He said he needed it to help prove a point.#
-T'POL: Are you sure this is wise?#
-T'POL: Still, it might be prudent to find a more suitable environment to test it.#
-T'POL: What about radiation or particle disbursement? You know nothing about this device.#
-T'POL: Let me know when you're ready.#
-T'POL: What's wrong?#
-T'POL: What's that?#
-T'POL: The energy levels are increasing. It's overloading.#
-T'POL: If you remove the power cell#
-T'POL: The Xindi ship is still in orbit. We haven't detected any other vessels.#
-T'POL: I strongly urge you to return to the ship.#
-T'POL: Is everything all right?#
-T'POL: Go ahead.#
-T'POL: Acknowledged.#
-T'POL: Lieutenant Reed, report.#
-T'POL: Go ahead.#
-T'POL: Acknowledged.#
 T'POL: Target their engines.#
 T'POL: Someone take him back to his quarters!#
 T'POL: You�re up early.#
@@ -2567,7 +2406,6 @@ T'POL: How did you locate us?#
 T'POL: And how did the Imperial Guard know Earth had been attacked?#
 T'POL: Especially if you're monitoring communications between Starfleet and the Vulcan High Command.#
 T'POL: I resigned my commission.#
-T'POL: The Andorian shuttle has docked.#
 T'POL: I recommend we assign a security detail to each repair crew.#
 T'POL: That doesn't mean we shouldn't exercise caution.#
 T'POL: I neither like nor dislike Andorians. I've simply had a great deal of experience with them.#
@@ -2577,11 +2415,9 @@ T'POL: Considering the importance of this mission, I feel compelled to point out
 T'POL: Three neuro-pressure sessions a week is hardly avoiding you. The Captain asked for an update on your repairs.#
 T'POL: How long until we have warp?#
 T'POL: No. Keep me informed of your progress.#
-T'POL: Two hundred million kilometres.#
 T'POL: It's a G-type star system, six planets with over a hundred moons.#
 T'POL: There's a great deal of debris in the system. I can't tell from this range.#
 T'POL: Four vessels, all Xindi.#
-T'POL: Many of the moons show evidence of extensive weapons bombardment.#
 T'POL: So you believe this is some kind of proving ground.#
 T'POL: I thought it was four to two.#
 T'POL: It's emitting high levels of radiation.#
@@ -2599,10 +2435,7 @@ T'POL: Tactical alert. Evasive manoeuvres, Ensign.#
 T'POL: Hail the Captain.#
 T'POL: Return fire. Target their engines.#
 T'POL: Pursuit course, Ensign. Continue firing all weapons.#
-T'POL: We disabled main power on both reptilian ships. The other vessels aren't pursing us.#
 T'POL: It's approaching the anomaly field.#
-T'POL: They have less than thirty seconds.#
-T'POL: Six seconds.#
 T'POL: It wasn't on one of their normal comm. frequencies. It was encrypted to look like subspace interference.#
 T'POL: Judging by the clandestine nature of the transmission, I'd guess that whoever sent this didn't want to be discovered.#
 T'POL: There are seven red giants in this region, but they're spread over approximately forty light years.#
@@ -2617,20 +2450,14 @@ T'POL: They've been deleted.#
 T'POL: It may be necessary to communicate with you while you're inside the simulator.#
 T'POL: Details?#
 T'POL: T'Pol to Cargo Bay two.#
-T'POL: Increase to level seven.#
 T'POL: Sharp.#
-T'POL: Let the Captain know.#
-T'POL: Ensign?#
 T'POL: Stand by to respond.#
 T'POL: Go ahead.#
-T'POL: How long until they arrive?#
 T'POL: Lieutenant, take us back into the debris field.#
 T'POL: I'm aware of the risks. Carry out my orders.#
 T'POL: The Doctor gave him an anti-intoxicant.#
 T'POL: A red giant. Open a comm. line to the Captain.#
-T'POL: A considerable detour if the weapon isn't there. (Archer taps a control, and the words Stand By come up on the main monito.r)#
 T'POL: Can you stabilise the simulator?#
-T'POL: Captain, we're having some problems. Stand by. T'Pol to the Bridge. Take us out of the debris field.#
 T'POL: Acknowledged.#
 T'POL: Magnify.#
 T'POL: Captain, he has a weapon.#
@@ -2672,10 +2499,8 @@ T'POL: You're hard to miss.#
 T'POL: There's no reason to justify your behaviour. I was simply suggesting you might use some discretion.#
 T'POL: It's not appropriate for a senior officer to fraternise with a subordinate.#
 T'POL: We need to get this data to the Captain immediately.#
-T'POL: There's no mistake. The pod's hull contains the exact combination of alloys we found on the surface of the Spheres.#
 T'POL: They believed the Spheres were created by divine beings who will one day return to the Chosen Realm.#
 T'POL: Perhaps Triannon mythology has a basis in fact. It appears the pod was designed to transmit data regarding the alien's physiological status. I believe he was inserted into the disturbance so someone could monitor his exposure to the environment.#
-T'POL: Corporal. Come in.#
 T'POL: Please sit down. Remove your jacket. I assume Commander Tucker briefed you on the proper breathing technique.#
 T'POL: Begin with a deep breath. Good. Doctor Phlox did caution you against any further neuro-pressure from Commander Tucker?#
 T'POL: You and Commander Tucker appear to enjoy each others company.#
@@ -2704,8 +2529,6 @@ T'POL: You're jealous?#
 T'POL: Which would mean you're attracted to me. It goes with the assumption.#
 T'POL: He's disrupting systems as he goes. We can use that to track him.  That was the secondary relay coupling.#
 T'POL: Between the A1 and A3 bulkheads.#
-T'POL: He's moving in your direction.#
-T'POL: Magnetic containment is fluctuating.#
 T'POL: Commander.#
 T'POL: Eventful.#
 T'POL: How long before we can get underway?#
@@ -2743,7 +2566,6 @@ T'POL: It sounds fascinating.#
 T'POL: I'm sorry I haven't been better company.#
 T'POL: I know. It is ironic, however, that I should be your sole companion. Unlike your people, most Vulcans will go to great lengths to find solitude. At times it has been trying for me to co-exist with eighty humans. Especially the more irrational ones.#
 T'POL: I've found the last two days to be a welcome respite.#
-T'POL: Internal sensors don't show any additional biosigns.#
 T'POL: There are no lifeforms anywhere in this vicinity.#
 T'POL: You can see for yourself there's nothing there.#
 T'POL: That's possible, but we should consider another explanation. You mentioned you were having difficulty adjusting to the solitude of the past few days.#
@@ -2753,7 +2575,6 @@ T'POL: There's nothing on sensors.#
 T'POL: Doctor. Phlox! I thought you were going to get some rest.#
 T'POL: If that's true, then how did they get on the ship? All external hatches and docking ports are sealed.#
 T'POL: There were no transporter signatures.#
-T'POL: We've searched four decks.#
 T'POL: If there are Xindi aboard, why are they concealing themselves?#
 T'POL: There are over eighty biosigns aboard, not counting your pets in Sickbay.#
 T'POL: Neither are your pets.#
@@ -2806,7 +2627,6 @@ T'POL: Then I suggest we go to warp.#
 T'POL: What are you doing?#
 T'POL: I'll assist you in waking the others.#
 T'POL: Doctor's orders?#
-T'POL: Thank you.#
 T'POL: Of course. Commander Tucker was complaining that it will take him days to realign the warp coils.#
 T'POL: He also said, and I quote, Phlox did one hell of a job. You must have enjoyed having the ship to yourself.#
 T'POL: None that I can detect. There's no atmosphere aboard.#
@@ -2840,7 +2660,6 @@ T'POL: Billions of lives are at risk on Earth if our mission fails.#
 T'POL: Commander Tucker and Lieutenant Reed also believe that this would compromise our mission.#
 T'POL: I'm sorry, Captain. I can't obey that order.#
 T'POL: Perhaps we should contact Starfleet, and discuss this with Admiral Forrest.#
-T'POL: What's our status?#
 T'POL: Our antimatter supply will be depleted by then. The Captain's behaviour is becoming increasingly illogical, even for a human. He's preoccupied with the hatchery, he's displaying signs of paranoia.#
 T'POL: You can't allow him to use our antimatter.#
 T'POL: You have to speak with Phlox. Ask him to run a full exam on the Captain.#
@@ -2863,9 +2682,6 @@ T'POL: The grid is extremely sensitive. We'd be detected the instant we passed t
 T'POL: It utilises thousands of satellites. If one of them goes out of commission, it fills the gap.#
 T'POL: Their shuttle might be able to get through the grid without raising suspicion.#
 T'POL: Commander Tucker is going to need time to install the translation matrix.#
-T'POL: Their flightpath is somewhat erratic.#
-T'POL: They're passing through the grid.#
-T'POL: The detection grid is creating too much interference. I've lost them.#
 T'POL: From the moon's surface. A small monitoring station. The moon's rotation brought it into scanning range.#
 T'POL: I'm reading three Xindi biosigns.#
 T'POL: Not yet.#
@@ -2873,14 +2689,12 @@ T'POL: Probably for the moon's rotation to bring them back into communication ra
 T'POL: Four hours.#
 T'POL: Sir.#
 T'POL: The initial explosion would need to be of considerable yield.#
-T'POL: I'll have this quantum dated.#
 T'POL: What do you intend to do?#
 T'POL: He said you're the only one who can end the conflict with the Xindi. You can't do that if you're dead.#
 T'POL: He's in a position to know.#
 T'POL: Our recent visit to Detroit has tempered my scepticism. You should reconsider your decision.#
 T'POL: I don't want you to die. It's not necessary.#
 T'POL: I'll be in the Ready room.#
-T'POL: Come in.#
 T'POL: I'm aware of that.#
 T'POL: Doubtful.#
 T'POL: For what?#
@@ -2888,7 +2702,6 @@ T'POL: I'll be notified if my presence is needed.#
 T'POL: I don't need any leadership advice.#
 T'POL: Dismissed.#
 T'POL: Get out.#
-T'POL: Sensors would have easily detected an explosion of that magnitude, even underwater.#
 T'POL: This system is heavily guarded. Our chances for reaching the weapon are non-existent.#
 T'POL: There's still a chance the Captain may succeed.#
 T'POL: If we don't hear from the Captain in one hour, I'll pilot a shuttlepod into the system.#
@@ -2910,7 +2723,6 @@ T'POL:  This is going to happen to me. It's already started. I can feel my contr
 T'POL: Ensign, get us out of here.#
 T'POL: What about Cargo Bay two?#
 T'POL: Weapons?#
-T'POL: Commander.#
 T'POL: How long?#
 T'POL: Impulse?#
 T'POL: Make it a priority.#
@@ -2928,7 +2740,6 @@ T'POL: The diamagnetic field should shield us from long range scans.#
 T'POL: Our sensors are still offline.#
 T'POL: I'm detecting numerous spatial anomalies in the area.#
 T'POL: I believe so.#
-T'POL: I discovered a set of coordinates embedded in the document.#
 T'POL: There was another embedded number. A stardate, three days from now.#
 T'POL: Four light years. We'll need at least warp three to make it in time. It's unlikely that Degra will wait beyond three days.#
 T'POL: Perhaps we should reconsider negotiation.#
@@ -2945,7 +2756,6 @@ T'POL: I apologise.#
 T'POL: It's been a difficult few days. I haven't had the time to meditate.#
 T'POL: I didn't mean what I said.#
 T'POL: Understood.#
-T'POL: Doctor.#
 T'POL: Three months.#
 T'POL: When I was exposed to trellium aboard the Seleya, it affected me in a way that I wasn't prepared for.#
 T'POL: The initial effects were overwhelming, but as they began to wear off I discovered I was able to access certain emotions. I wanted more. I began to experiment by ingesting small amounts of trellium. I devised a way to inject it into my bloodstream.#
@@ -2957,7 +2767,6 @@ T'POL: Go ahead.#
 T'POL: I'm on my way.#
 T'POL: The Captain needs me. I have to go.#
 T'POL: Are you going to discuss this with the Captain?#
-T'POL: Good luck.#
 T'POL: Stand by weapons.#
 T'POL: Target their propulsion systems.#
 T'POL: Fire.#
@@ -2966,48 +2775,14 @@ T'POL: Energise.#
 T'POL: We can't leave them defenceless.#
 T'POL: The Captain's orders.#
 T'POL: Evasive manoeuvres. T'Pol to the Captain.#
-T'POL: We're taking heavy damage.#
 T'POL: Lieutenant.#
 T'POL: Adjust phase cannons to a narrow confinement beam. Target this power juncture.#
 T'POL: Fire!#
-T'POL: Commander Tucker's aboard. We have it.#
-T'POL: I'm not sure why I asked you to come see me.#
 T'POL: Perhaps.#
 T'POL: I thought that without the trellium I would no longer have difficulty suppressing my emotions, but that's not true.#
 T'POL: And if they're not?#
 T'POL: I'm not certain I'll be able to. I'm#
 T'POL: Vulcans don't experience fear.#
-T'POL: That accounts for everyone.#
-T'POL: Mister Reed has both forward phase cannons back online in addition to the aft torpedo launchers. Hull plating is up to eighty percent.#
-T'POL: Degra's message was clear. We're to meet him ten hours from now.#
-T'POL: You're busy. I'll come back.#
-T'POL: None.#
-T'POL:  These emotions have grown more difficult to control. My usual techniques for suppressing them haven't been effective.#
-T'POL: Are you saying these emotions may never subside?#
-T'POL: It's a spatial anomaly. We've entered a dense field.#
-T'POL: Captain.#
-T'POL: Pepperoni pizza.#
-T'POL: Damage reports?#
-T'POL: I'm sure they'll appreciate that.#
-T'POL: When was the last time you slept?#
-T'POL: That was two days ago.#
-T'POL: Go to your quarters. Get some sleep.#
-T'POL: I could order you.#
-T'POL: We've been working to reconstruct our database.#
-T'POL: Increase the data resolution.#
-T'POL: Commander.#
-T'POL: Commander!#
-T'POL: The Captain is trying to gain Degra's trust.#
-T'POL: It must have ruptured when our sensors were offline.#
-T'POL: The manifold pressure is increasing. We have less than six minutes before the fire reaches the reactor shielding.#
-T'POL: He's too close to the fire. His EV suit can't compensate.#
-T'POL: The forward valve is closed.#
-T'POL: We've detected a ship. They've just passed through the cloaking barrier.#
-T'POL: The Reptilian ship has been destroyed.#
-T'POL: Crewman Rostov said I'd find you here.#
-T'POL: You might find this useful. Portable power cells.#
-T'POL: Is there anything I can help you with?#
-T'POL: You think that the loss of a colleague or friend doesn't affect us? It does. But if we give in to those emotions, they overwhelm us. You're the ones to be envied.#
 T'POL:  Come in. The probe?#
 T'POL: Seven million people.#
 T'POL: Then you have no choice. You must find Jonathan Archer.#
@@ -3042,13 +2817,11 @@ T'POL: You said we couldn't travel through the corridor.#
 T'POL: The hull wasn't designed for that speed.#
 T'POL: These chromosomes are human.#
 T'POL: That's impossible. Vulcans and humans have never been able to reproduce.#
-T'POL: Hello, Jonathan.#
 T'POL: It's good to see you.#
 T'POL: You mean, still alive. You look well. How's Trip?#
 T'POL: That might be awkward.#
 T'POL: I wish we had time to get reacquainted.#
 T'POL: You must give this to your Science Officer. She'll know what it means.#
-T'POL: She thinks that Lorian's plan won't work. T'Pol found a discrepancy in his calculations. If we exceed warp five point six the injectors could start to overload. We'd be destroyed.#
 T'POL: He agrees with the assessment.#
 T'POL: There is an alternative. The subspace corridor.#
 T'POL: Not necessarily. T'Pol spent many years examining their sensor logs from the incident. She believes it's possible to reconfigure our impulse manifolds. It should prevent the corridor from destabilising.#
@@ -3063,10 +2836,8 @@ T'POL: The fact that our counterparts married doesn't mean that we'll do the sam
 T'POL: I should have known this was a mistake.#
 T'POL: Exploring human sexuality with you. You're obviously unable to have a physical relationship without developing an emotional attachment.#
 T'POL: We would appear to be evenly matched.#
-T'POL: I can't establish a lock.#
 T'POL: Acknowledged.#
 T'POL: I'm reading multiple images.#
-T'POL: We've lost aft plating.#
 T'POL: Hull integrity's failing.#
 T'POL: We've travelled eleven point six light years.#
 T'POL: It's unlikely they survived.#
@@ -3075,12 +2846,10 @@ T'POL: The emotions are still difficult to control.#
 T'POL: Somewhat, but I'm still experiencing frequent#
 T'POL: Just a mild headache.#
 T'POL: I'm needed in the Command centre.#
-T'POL: The Spheres are controlled by a network of artificial intelligence. This section houses the redundant memory core. It should contain a significant amount of information.#
 T'POL: Our present course will take us close to another Sphere.#
 T'POL: We're interested in any information you have on the construction of their outer shells.#
 T'POL: Shut it down.#
 T'POL: Adjust heading oh two six mark three.#
-T'POL: Hold this position. The exhaust vent.#
 T'POL: Set a course, oh three one mark four.#
 T'POL: Half thrusters.#
 T'POL: Hold your course.#
@@ -3095,13 +2864,11 @@ T'POL: No, but it makes it honourable.#
 T'POL: Most definitely.#
 T'POL: The Spheres are controlled by a network of artificial intelligence. This section houses the redundant memory core. It should contain a significant amount of information.#
 T'POL: We need to access the data from this. Meet me in the Command centre in half an hour. I'll assist you.#
-T'POL: This could be a command subroutine.#
 T'POL: We'll have to make do without her.#
 T'POL: We're here to analyse this data, not speculate on Ensign Sato's fate.#
 T'POL: I'm fond of Hoshi as well, but we can't allow her situation to become a distraction.#
 T'POL: There's a great deal of data to analyse, but we've made some progress. We know the Spheres are connected by a subspace energy grid, but four of them appear to be integral to that connection.#
 T'POL: I believe they act as control Spheres, allowing the network to operate in concert.#
-T'POL: A deflector pulse might disrupt the subspace links.#
 T'POL: We could tie the impulse reactors directly into the array.#
 T'POL: The Captain told the aquatics we could disable these Spheres.#
 T'POL: Really.#
@@ -3110,20 +2877,15 @@ T'POL: Or you might surprise me with an idea of your own.#
 T'POL: Commander, Trip! Everything that's happened recently has caused me to become slightly emotional.#
 T'POL: I apologise.#
 T'POL: I wish I could. It may take some time before I regain my control. It will be difficult to do, especially on my own.#
-T'POL: This appears to be some kind of interspatial manifold on the surface of Sphere Forty One.#
 T'POL: We'll keep working.#
 T'POL: I've heard no complaints, except from Chef of course.#
 T'POL: You may buy me a drink if you wish.#
 T'POL: There are some colleagues I'd enjoy seeing again, but I've considered formalising my service with Starfleet.#
 T'POL: I said I was considering it.#
-T'POL: Captain, I've located Ensign Sato. She's on board one of the Reptilian vessels.#
 T'POL: She's somewhere on the first three decks. I can't pinpoint her exact location.#
-T'POL: Captain, there's a massive anomaly forming near the weapon. Two more.#
-T'POL: Captain. The power readings from the weapon are increasing.#
 T'POL: I believe so. We have a plan to disable Sphere Forty One.#
 T'POL: I'll do my best.#
 T'POL: We have a plan to disable Sphere Forty One.#
-T'POL: Report.#
 T'POL: Be prepared to initiate the pulse within two hours.#
 T'POL: Two hours, Mister Tucker.#
 T'POL: Has it occurred to you what's going to happen if Captain Archer fails? If Earth is destroyed?#
@@ -3145,7 +2907,6 @@ T'POL: Hold your course.#
 T'POL: How far?#
 T'POL: As soon as we make visual contact, go to thrusters. Set a heading to latitude fifteen degrees north. Deflector?#
 T'POL: Drop to two thousand metres. Track starboard, eighty two mark zero.#
-T'POL: Ten degrees port. Slow to thirty kph. I'm transferring the target point to the deflector array.#
 T'POL: Begin.#
 T'POL: Bridge to Engineering. Report.#
 T'POL: Go ahead.#
@@ -3153,7 +2914,6 @@ T'POL: Doctor.#
 T'POL: Go ahead.#
 T'POL: All right. Take us to full impulse. Get us out of here.#
 T'POL: Now, Mister Mayweather. (As the Sphere implodes, an energy beam streaks to another Sphere, destroying it as well and causing it to send out another beam. The aliens jerk upright in pain and vanish. Ships systems are restored.) T'POL: The network is being destroyed.#
-T'POL: Long range sensors are detecting no evidence of the Spheres.#
 T'POL: None. And all the spatial anomalies within our scanning range have vanished.#
 T'POL: I can only detect a small section from our location, but it appears to be dissipating.#
 T'POL: It would appear that the Expanse is returning to normal space.#
@@ -3967,3 +3727,52 @@ T'POL: Elizabeth.#
 T'POL: Her name is Elizabeth.#
 T'POL: Come in.#
 T'POL: She was important.#
+T'POL: He's working on it now.#
+T'POL: Undoubtedly.#
+T'POL: Captain, Admiral Douglas is asking you to approve the decommission protocols.#
+T'POL: He's an admitted criminal. You said so yourself.#
+T'POL: If we're late for the ceremony, it will have far-reaching consequences.#
+T'POL: I don't trust him.#
+T'POL: I'll try.#
+T'POL: There are eighty three crewmembers aboard.#
+T'POL: I appreciate the gesture, but it's not necessary to prepare a special dish for me.#
+T'POL: In that case, I prefer to be surprised.#
+T'POL: We have already lost five hours picking up Shran's shuttle. Now we're going to lose at least another day diverting our course to Rigel.#
+T'POL: Is there anything aboard this ship you don't know?#
+T'POL: His compassion has gotten us into trouble on many occasions. We could miss this ceremony.#
+T'POL: Thank you.#
+T'POL: Excuse me?#
+T'POL: I spent the morning with him, recalibrating the plasma array.#
+T'POL: If you're referring to our intimate relationship, that's been over for six years.#
+T'POL: I'm Vulcan. I don't miss people.#
+T'POL: Trip rarely questions the Captain's decisions.#
+T'POL: He's not. He simply tends to agree with the Captain most of the time. He trusts him.#
+T'POL: Before I joined this crew, I never could have imagined anything more important than following orders.#
+T'POL: Humans believe that sometimes you have to follow your instincts. A very illogical approach, but one I've come to embrace.#
+T'POL: The photograph you gave us had poor resolution, but I'm confident our replication will look authentic.#
+T'POL: They'll need a spectral micrometer to see it's a fabrication.#
+T'POL: Have you been down to see Chef yet?#
+T'POL: He talked about you.#
+T'POL: Us.#
+T'POL: It's not important.#
+T'POL: Do you ever miss me?#
+T'POL: Yes.#
+T'POL: That's not what I asked you.#
+T'POL: I haven't thought about those days in a long time.#
+T'POL: After speaking with Chef, I realised we may never see each other again.#
+T'POL: We're taking different assignments. There's no way of knowing.#
+T'POL: However long it may be, I believe I'm going to miss you.#
+T'POL: We want the child first.#
+T'POL: You'll never get this case open, I promise you.#
+T'POL: No, thank you.#
+T'POL: Will they still be coming to the ceremony?#
+T'POL: I'd like to meet them.#
+T'POL: Yes. I'd like to meet them.#
+T'POL: My mother was somewhat eccentric, as well.#
+T'POL: Trip told me as the years went by that I would miss her less. But he was wrong, because I find myself missing her more. Why would he tell me that?#
+T'POL: And you wonder why we suppress them.#
+T'POL: Trip would be the first to say it was worthwhile.#
+T'POL: Please stand still. If you hadn't waited until the last minute, you would have had time to memorise your speech.#
+T'POL: Why do so many humans refuse to take credit where credit is due? There are times when modesty and humility are quite illogical.#
+T'POL: I'm going to remain down here, if you don't mind.#
+T'POL: You look very heroic. (Archer comes back down the steps and gives her a big hug. Then he heads up to the red carpet and rapturous applause.)#

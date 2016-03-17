@@ -523,7 +523,7 @@ JANEWAY: That depends on what you're going to do.
 NEELIX: It's up to the Talaxians. (Janeway opens the shuttlebay doors.)
 JANEWAY: Safe journey, Mister Neelix.
 [Public area]
-(Back inside the asteroid, Neelix addresses a crowd.)NEELIX:;I know from personal experience that you have
+(Back inside the asteroid, Neelix addresses a crowd.)NEELIX: I know from personal experience that you have
 forcefield emitters. We could use them to establish a shield grid.
 We'd need to deploy a series of them on the asteroid's surface, along
 bisecting diameters. Sixteen emitters should be enough to form a grid. 
@@ -607,7 +607,7 @@ Neelix, what are you doing?
 NEELIX [OC]: Don't worry about me. 
 [Neelix's
 ship]
-NEELIX:;Just get ready to bring the
+NEELIX: Just get ready to bring the
 grid online. 
 [Delta
 Flyer]

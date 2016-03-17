@@ -67,9 +67,10 @@ class ScriptScraper {
 	 */
 	private static void saveEpisode(String text, int epNum, Series series) {
 		PrintWriter txtFile;
-		if (!new File("./scripts/" + series.name).mkdirs()) {
-			System.out.println("Failed to create directory for ./scripts/" + series.name);
-		}
+		File f = new File("./scripts/" + series.name);
+		if (!f.exists())
+			if (!f.mkdirs())
+				System.out.println("Failed to create directory ./scripts/" + series.name);
 		try {
 			new FileReader("./scripts/" + series.name + "/Episode " + epNum + ".txt");
 		} catch (FileNotFoundException e) {

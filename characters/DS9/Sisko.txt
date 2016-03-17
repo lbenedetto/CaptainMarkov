@@ -2724,7 +2724,6 @@ SISKO: You're one of the Founders, aren't you?#
 SISKO: Constable.#
 SISKO: Chief!#
 SISKO: If the Dominion comes through the wormhole the first battle will be fought here, and I intend to be ready for them.#
-SISKO: If you could do any science project you wanted to, anything at all?#
 SISKO: The Jem'Hadar wanted us to escape, didn't they?#
 SISKO: If the Dominion comes through the wormhole the first battle will be fought here, and I intend to be ready for them. And now, the continuation.#
 SISKO: I've brought back a little surprise for the Dominion.#
@@ -2840,7 +2839,6 @@ SISKO: They'll be more cautious this time. Doctor, use evasive pattern delta fiv
 SISKO: T'Rul, where's my warp power?#
 SISKO: Full impulse, get us out of here.#
 SISKO: Ready escape pods. Prepare to abandon ship. (Jem'Hadar beam in, and they fight, but it's pretty one-sided. T'Rul is the only one using a weapon and she doesn't last long.)#
-SISKO: Our mission is to take the Defiant into the Gamma Quadrant and try to find the leaders of the Dominion, the Founders.#
 SISKO: This has been a long time coming, Major. Starfleet has never been happy with the Constable. I want him to stay as much as you do but he has to want to stay.#
 SISKO: Commander's log, supplemental. It's been six days since we had to abandon the Defiant after the Jem'Hadar attack. We still don't know what happened to the rest of the crew. Doctor Bashir and I have plotted a course back to the wormhole. Whether the shuttle can get us back there or not is questionable at best. Our engines are failing, our external sensors are barely functioning and life support systems are at twenty percent and dropping.#
 SISKO: I thought you were sleeping.#
@@ -6244,7 +6242,6 @@ SISKO: If we're going to do this, it's got to be now.#
 SISKO: Activate graviton emitters.#
 SISKO: What happened?#
 SISKO: Battle stations. To Be Continued...#
-SISKO: One of our listening posts in the Gamma Quadrant picked this up a few minutes ago.#
 SISKO: There's no way we can beat the Dominion. Our only hope is to prevent their fleet from entering the Alpha Quadrant.#
 SISKO: What happened?#
 SISKO: Battle stations. And now the conclusion.#
@@ -6928,7 +6925,6 @@ SISKO: The Dominion won't attack Earth.#
 SISKO: Because Earth isn't the key to the Alpha Quadrant. The wormhole is. And whoever controls Deep Space Nine controls the wormhole.#
 SISKO: We take the ships we have, fight our way to Deep Space Nine and destroy that anti-graviton emitter. It's our only hope.#
 SISKO: There's an old saying, fortune favours the bold. Well, I guess we're about to find out. And now the conclusion.#
-SISKO: Sisko to all ships. Cruiser and Galaxy wings, drop to half impulse. You too, Commander.#
 SISKO: Forget the Klingons. Our job is to get to Deep Space Nine and prevent the Dominion reinforcements from coming through the wormhole, and that's what we're going to do. Attack fighters, tactical pattern Theta. Concentrate your fire on the Cardassian ships, and then split off into squadrons and run like hell.#
 SISKO: Sisko to attack fighters. Prepare to engage on my command.#
 SISKO: Attack fighters full impulse. Fire at will.#
@@ -8365,3 +8361,90 @@ SISKO: Kasidy, we have been through this.#
 SISKO: Shh. Nothing is going to happen to our baby.#
 SISKO: I am the Emissary of the Prophets and I know that nothing is going to happen. Everything is going to be all right.#
 SISKO: We're going to have a baby.#
+SISKO: How's that?#
+SISKO: Well, if it will help, morning sickness ends after the first trimester.#
+SISKO: You're going to make it.#
+SISKO: I promise.#
+SISKO: I said I promise.#
+SISKO: Come in.#
+SISKO: I'd like that.#
+SISKO: She doesn't like taking medication unless it's absolutely necessary.#
+SISKO: You're sure I can't get you anything?#
+SISKO: All right people, what do you say we end this war?#
+SISKO: Ensign, I believe you know the way to Cardassia.#
+SISKO: Do you hear that, Chief?#
+SISKO: Ensign, how's she handling?#
+SISKO: Chief?#
+SISKO: I wish she were here, too, Constable.#
+SISKO: The Colonel's a survivor.#
+SISKO: And it will. Soon. One way or the other.#
+SISKO: Mother?#
+SISKO: Are you talking about the war?#
+SISKO: I don't intend to.#
+SISKO: The Prophets came to me in a vision#
+SISKO: I'm not sure. Only time will tell.#
+SISKO: Put them through.#
+SISKO: That the three of us would share a bottle of bloodwine on Cardassia Prime.#
+SISKO: He knows it won't be. Sisko to all hands. Prepare to engage the enemy. (After the break, ships are having holes blows in them. Several Defiant-class ships are whizzing around.)#
+SISKO: So do you, Ensign.#
+SISKO: Mister Worf?#
+SISKO: Evasive action, pattern Delta.#
+SISKO: Well done, Ensign.#
+SISKO: I wouldn't be too worried about it. There are plenty more to choose from.#
+SISKO: On screen.#
+SISKO: We'll try to help.#
+SISKO: It's too well protected, but their lines are spread pretty thin in the middle.#
+SISKO: On my way. Dax, have attack wings sixty four and sixty five follow us.#
+SISKO: You heard him, Chief.#
+SISKO: Dax, we need some support from our attack fighters.#
+SISKO: Ensign, get us out of here.#
+SISKO: The timing couldn't be better. Come about and head for the centre of their lines. This is our chance to punch through.#
+SISKO: On screen.#
+SISKO: Not yet it isn't.#
+SISKO: What if they use this time to rebuild their fleet?#
+SISKO: Admiral, with the Cardassians joining us, we have an opportunity to put an end to this war once and for all.#
+SISKO: All right, people. You heard the orders. Let's finish what we started.#
+SISKO: Sisko to Bashir. Report.#
+SISKO: Doctor, I need every able-bodied crewman at their post.#
+SISKO: I'd say she did fine, Ensign. Mister Worf?#
+SISKO: That'll have to do. How are you holding up, old man?#
+SISKO: Well, that makes two of us.#
+SISKO: Well, let's see what they have waiting for us. On screen.#
+SISKO: Now we know.#
+SISKO: When do we go?#
+SISKO: The Dominion is beaten and they know it, but they're going to make us pay for every kilometre of the planet.#
+SISKO: Let's get on with it.#
+SISKO: We're glad to find you in one piece, Commander.#
+SISKO: What's your status?#
+SISKO: Is your position secure?#
+SISKO: Then they will fight to the last man.#
+SISKO: You haven't had much success with her in the past.#
+SISKO: Very well. Commander, tell the Founder that Odo is going to pay her a visit.#
+SISKO: Suddenly I'm not thirsty.#
+SISKO: That doesn't mean I have to drink a toast over their bodies.#
+SISKO: Commander Worf.#
+SISKO: Can you spare a moment?#
+SISKO: Thank you, Mister Worf. I'll probably regret this in the morning, but if it's what you want, then by all means.#
+SISKO: The honour is mine.#
+SISKO: New Orleans is a gorgeous city.#
+SISKO: You'd better get used to it. Things are going to be pretty different around here now. To the best crew any captain ever had. This may be the last time we're all together, but no matter what the future holds, no matter how far we travel, a part of us, a very important part, will always remain here on Deep Space Nine.#
+SISKO: I understand now.#
+SISKO: What I have to do. What I was meant to do. Kasidy, I have to go.#
+SISKO: To Bajor. To the fire caves.#
+SISKO: No, I have to do this alone.#
+SISKO: I should have known the demon would be you.#
+SISKO: You are pathetic.#
+SISKO: First the Dominion, now the Pah wraith. You have a talent for picking the losing side.#
+SISKO: The Pah wraith will never conquer anything. Not Bajor. Not the Celestial Temple. And certainly not the Alpha Quadrant.#
+SISKO: I am.#
+SISKO: Sarah? Are you here? What happened?#
+SISKO: But the Pah wraiths.#
+SISKO: The book was the key, wasn't it?#
+SISKO: And Dukat? Is he dead?#
+SISKO: I intend to. As soon as I return to Deep Space Nine.#
+SISKO: Kasidy.#
+SISKO: The Celestial Temple.#
+SISKO: I can't. Not now.#
+SISKO: It's difficult to explain. It's not linear.#
+SISKO: My life, my destiny. The Prophets saved me, Kasidy. I'm their Emissary and they still have a great deal for me to do. But first, there is much to learn. Things only the Prophets can teach me.#
+SISKO: It's hard to say. Maybe a year, maybe yesterday. But I will be back.#

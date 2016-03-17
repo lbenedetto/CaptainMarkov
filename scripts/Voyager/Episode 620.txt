@@ -221,7 +221,7 @@ TORRES: The Maquis used to lure the Cardassians into the Badlands.
 Those Galor class cruisers had nowhere to run. 
 JANEWAY: Neither will we, unless. Tom, how dense are those vacuoles? 
 PARIS: They cover about seventy percent of the region. 
-JANEWAY: Excuse me, Doctor. (Janeway replaces the EMH with a map of the upcoming area.)JANEWAY:;Tom, what's the first thing they teach you
+JANEWAY: Excuse me, Doctor. (Janeway replaces the EMH with a map of the upcoming area.)JANEWAY: Tom, what's the first thing they teach you
 about
 manoeuvring at warp? 
 PARIS: Faster than light, no left or right. When possible, maintain a
@@ -280,7 +280,7 @@ CAREY: May I help you, sir? Lieutenant, is something wrong?(The alcoves and thei
 [Kes'
 quarters - 2371]
 (Kes picks up a PADD with an active file, and activates it.)NEELIX
-[OC]:;Hello, Sweeting. I took the liberty of
+[OC]: Hello, Sweeting. I took the liberty of
 preparing one of your favourite meals. It's under replicator programme
 Neelix One. Call me if you'd like some company. Miss you.(She throws the PADD across the room and pushes the meal off the table.)
 KES: Computer, end music. Open an encrypted channel. Direct the signal
@@ -506,7 +506,7 @@ bay - 2371]
 (The transmission is stopped. Kes opens the drawer where her other self is hidden.)KES:
 Computer, initiate site-to site transport programme Kes beta six. 
 COMPUTER: Unable to comply. Control functions have been disabled. (Kes wakes her younger self.)
-KES:;Shush, shush. I'm taking you home. (Janeway and her escort have a phaser fight with some Vidiians.) 
+KES: Shush, shush. I'm taking you home. (Janeway and her escort have a phaser fight with some Vidiians.) 
 [Bridge
 - 2371]
 KIM:

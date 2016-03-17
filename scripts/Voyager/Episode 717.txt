@@ -13,7 +13,7 @@ Original Airdate: 18 April 2001
 waiting for the light. Then, a single photon flares into existence,
 then another, and soon thousands more. Optronic pathways connect,
 subroutines emerge from the chaos, and a holographic consciousness is
-born. (To illustrate this, an image of the EMH is built up bit by bit. He is wearing a satin smoking jacket. Very Noel Coward.)EMH [OC]:;I awaken into this world fully programmed yet completely
+born. (To illustrate this, an image of the EMH is built up bit by bit. He is wearing a satin smoking jacket. Very Noel Coward.)EMH [OC]: I awaken into this world fully programmed yet completely
 innocent, unaware of the hardships I'll endure or the great potential I
 will one day fulfil. (The hologram sits at a desk, picks up a quill pen and starts writing in a blank book.
 EMH: Computer, save revisions and open chapter one. 
@@ -162,8 +162,8 @@ PARIS: Second degree plasma burns. He's got an aortic rupture. Get him
 to the surgical bay now. (A hunky Bajoran man with a long pony tail and
 tattoo over his cheek, helps an injured person in. The tattoo
 incorporates a snake and a Bajoran symbol.)
-KATANAY:;You. Over here. (The injured man is Paris with a moustache.)
-PARIS:;Nice moustache. 
+KATANAY: You. Over here. (The injured man is Paris with a moustache.)
+PARIS: Nice moustache. 
 KATANAY: What? 
 PARIS: Nothing. He's got a mild concussion. I'm going to have to treat
 the others first. 
@@ -224,7 +224,7 @@ MARSEILLES-PARIS: You should be glad we let you out of your cage at
 all. Now get going. 
  [Holodeck
 - Engineering] 
-(Chief Engineer Torrey is a human woman.)TORREY:;I'm impressed. 
+(Chief Engineer Torrey is a human woman.)TORREY: I'm impressed. 
 ENGINEER: Really? 
 TORREY: Absolutely. I haven't seen a dilithium matrix this far
 out of alignment since I served aboard a Ferengi garbage scow. I'll fix
@@ -262,7 +262,7 @@ CREWWOMAN 2: I'm here for my physical?
 EMH
 [OC]: Chapter six. Duel in the Ready room. In which our protagonist
 faces an inquisition. (Captain Jenkins points a flintlock pistol at Neelix, who is wearing the;backpack.)
-JENKINS:;This time, you've
+JENKINS: This time, you've
 gone too far. 
 NEELIX: Captain, I'm not sure what you mean. 
 JENKINS: An inventory of your holo-matrix. Fifty gigaquads of
@@ -295,7 +295,7 @@ KYMBLE: There must be millions of viruses in this quadrant that no
 one's ever encountered before. With my luck, I'll probably end up
 catching half of them. 
 KIM: Great, my character's a hypochondriac. (The turbolift doors open to reveal a red-headed woman with a flashing necklace.)
-THREE:;I'll escort the prisoner
+THREE: I'll escort the prisoner
 from here. 
 TULAK: Our orders are to take him to the holo-lab. 
 THREE: I've been ordered to perform the procedure. 
@@ -435,7 +435,7 @@ manner. Remember, patience is a virtue.
 PARIS
 [OC]: Chapter one. It's The Doctor's World, You're Just Living In
 It. (This EMH has a comb-over.)
-HOLO-EMH:;When I tell you your shift begins at oh
+HOLO-EMH: When I tell you your shift begins at oh
 eight hundred that doesn't mean you can stroll in here at oh eight
 hundred and twenty four seconds. Do you understand me, Ensign! 
 EMH: This is outrageous. 

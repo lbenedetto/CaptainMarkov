@@ -127,7 +127,7 @@ CHAKOTAY: I�ll have to stay here and try to keep out of sight.
 SEVEN: I�ll contact you if I find anything useful. 
 CHAKOTAY: I guess I don�t have to tell you to avoid interacting with
 these people.(Chakotay rests against a tree trunk.) 
-[Jungle](Seven locates another small piece of the shuttlecraft. It is still working.)SEVEN:;Seven of Nine to Chakotay.
+[Jungle](Seven locates another small piece of the shuttlecraft. It is still working.)SEVEN: Seven of Nine to Chakotay.
 [Above a clearing]SEVEN
 [OC]: Seven of Nine to Chakotay. (A red hand is reaching for the comm. badge. Chakotay pushes it away and opens his eyes to see three natives in front of him.)SEVEN [OC]: Commander, respond. I�ve found something. Seven of Nine to Chakotay.(One native snatches the comm. badge and smashes it with a stone. Seven puts the retrieved part in a case and walks on.) 
 [Cave
@@ -360,7 +360,7 @@ Voyager.
 girl is making bracelets from pieces of magnetic rock. Seven activates her communication device, but the energy
 arcs to a nearby group of pebbles and fails.) 
 SEVEN: May I see those? (Chakotay arrives with the man.)
-CHAKOTAY:;Seven, is everything all right? 
+CHAKOTAY: Seven, is everything all right? 
 SEVEN: I need your tricorder. 
 CHAKOTAY: Nice to see you, too. 
 SEVEN: I lost mine. There�s a strong magnetic field here that�s
@@ -591,7 +591,7 @@ the Ledosian expedition party aboard.)
 BARUS: What have you done? 
 PARIS: We had to get you out of there before we close the barrier. 
 BARUS: You can't do that. (He walks into a forcefield.)
-PARIS:;Just sit back and enjoy the ride. Paris to
+PARIS: Just sit back and enjoy the ride. Paris to
 Voyager. I've got them.
 [Bridge]
 CHAKOTAY:

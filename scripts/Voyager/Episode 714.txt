@@ -142,7 +142,7 @@ coefficients. I'll join you.
 JANEWAY: Really, I'm very, very busy. 
 JAFFEN: Oh, not to socialise. To, er, help you review the manuals. 
 (Paris brings two blue cocktails to a couple at another table.)
-PARIS:;Here you are. Compliments of the
+PARIS: Here you are. Compliments of the
 proprietress. 
 UMALI: Tom? 
 PARIS: I'll be right back. 
@@ -228,7 +228,7 @@ returning to Voyager after five days of trading with the Nar Shaddan.
 Flyer - aft compartment] 
 (Kim is
 on the biobed.)
-KIM:;In six years I've never been on an away mission
+KIM: In six years I've never been on an away mission
 worse than this one. 
 NEELIX: I don't know how you can say that? The cargo hold is crammed
 with valuable supplies. 
@@ -1122,7 +1122,7 @@ I was starting to think ;(But it is Yerid with two security guards.)
 YERID: Stay where you are. (Chakotay makes a grab for his gun, but gets
 shot in the stomach.) 
  [Hospital]
-(Chakotay is shown pictures of Torres and Neelix.)CHAKOTAY:;I don't know them. 
+(Chakotay is shown pictures of Torres and Neelix.)CHAKOTAY: I don't know them. 
 YERID: I think you do, and I think you were involved in their
 disappearance. 
 CHAKOTAY: I'm not the man you're looking for. 
@@ -1199,7 +1199,7 @@ last chance we have to talk.
 KIM: What's your status? 
  [Quarren
 Medical Facility] 
-(Chakotay is in the brainwashing helmet.)CHAKOTAY:;I'm almost ready to shut down the shield
+(Chakotay is in the brainwashing helmet.)CHAKOTAY: I'm almost ready to shut down the shield
 grid. I'm sending you encrypted instructions. They'll tell you where
 and when to enter orbit. 
 KIM [OC]: We have it, Commander. 
@@ -1344,7 +1344,7 @@ RAVOC: Does everyone know about this?
 KADAN: Not everyone. Just a few trusted associates. The question is,
 are you going to be one of them? 
  [Bar]
-(A security man is showing a picture of Seven to Paris.) SECURITY:;She's considered dangerous. 
+(A security man is showing a picture of Seven to Paris.) SECURITY: She's considered dangerous. 
 PARIS: She's never been in here. 
 SECURITY: You're sure? 
 PARIS: I don't think I'd forget that face. 
@@ -1378,7 +1378,7 @@ had to sedate her. She wouldn't come voluntarily.
 KADAN: Her condition's obviously worsened. I'll treat her. 
 YERID: There are some other patients I'd like to interview. (Yerid shows Kadan a list.)
 KADAN: These people can't be disturbed. (Yerid pulls a gun. Kadan tries to move away but Seven grabs his wrist.) 
-SEVEN:;I suggest you comply. 
+SEVEN: I suggest you comply. 
  [Power
 Distribution Plant] 
 JAFFEN:
@@ -1441,7 +1441,7 @@ Medical Facility]
 Ask them to give us some privacy. 
 KADAN: You're dismissed. 
 YERID: Disconnect them. 
-SEVEN:;Doctor Ravoc. Why is this man
+SEVEN: Doctor Ravoc. Why is this man
 here? 
 KADAN: Dysphoria syndrome. 
  [Bridge]
@@ -1494,7 +1494,7 @@ NEELIX: This way.
  [Torres-Paris's
 quarters] 
 (Paris is watching old cartoons on the TV set, and eating popcorn. Torres kisses him on the cheek.) 
-PARIS:;What's that for? 
+PARIS: What's that for? 
 TORRES: For taking care of me, even when you didn't know who I was.
 (Then she punches his arm.) 
 PARIS: Ow! What was that for? 

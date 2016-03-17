@@ -3,7 +3,6 @@ REED: I don't think I'm quite ready to have my molecules compressed into a data 
 REED: Do they indeed. Well, I certainly hope the Captain doesn't plan on making us use it.#
 REED:  This is ridiculous. I asked for plasma coils and they sent me a case of valve sealant. There's no chance I can have these weapons online in three days.#
 REED: Didn't you read the profile report on these Klingons? Apparently, they sharpen their teeth before they go into battle.#
-REED: No doubt Mister Tucker will reassure me that my equipment will be here tomorrow. Keep your shirt on, Lieutenant.#
 REED: Feels all right. Earth sea level.#
 REED: After being raised on cargo ships, it must've felt like you had lead in your boots when you got to Earth.#
 REED: I believe you missed a spot. Commander Tucker, Ensign Travis Mayweather. He just arrived.#
@@ -21,7 +20,6 @@ REED: Perhaps another time.#
 REED: We are explorers. [Level nineteen}#
 REED: We've been trying to reach you, Captain. We're back in the shuttle.#
 REED: Captain, what's your location? The weather is definitely#
-REED: I've never seen lightning in a snowstorm before.#
 REED: Try Vulcan biosigns.#
 REED: Your appendages blister, peel and turn gangrenous.#
 REED: Let me see.  Doctor Phlox may have to amputate.#
@@ -45,10 +43,7 @@ REED: If we change our position, they'll have to start from scratch.#
 REED: This is ridiculous! If we don't move the ship, Captain Archer won't have anything to look for when he gets back.#
 REED: The charges are getting closer again.#
 REED: All I hear is noise.#
-REED: Hull plating's been re-polarised.#
-REED: We have four more coming up off starboard.#
 REED: We've detected it, sir. Sensors show a nitrogen sulfide atmosphere.#
-REED: Ready.#
 REED: Activating simulation J6. Target acquired.#
 REED: Five seconds to impact. Three, two, one.  REED: Wonderful.#
 REED: Only three metres. Three metres could mean the difference between hitting a weapons port and a warp core. Instead of disabling a vessel we'd end up destroying it, and probably ourselves in the process.#
@@ -81,7 +76,6 @@ REED: Their bodies are being flushed out with some kind of fluid.#
 REED: All dead, sir. I'm afraid so.#
 REED: Fifteen.#
 REED: I'll bring a security detail.#
-REED: That depends. How long till it gets here?#
 REED: Then the answer is most likely no. The scanners are still out of alignment. Look, if you wanted me to hit a stationary dairy barn, then I could accommodate you, but not a moving#
 REED: They're charging weapons.  REED: They're targeting our engines.#
 REED: Both forward tubes loaded and ready, sir.#
@@ -97,25 +91,18 @@ REED: None in range, sir. Looks like no one's planted a flag just yet.#
 REED: A shame. A wind storm's moving across the northern continent. It looks like a nasty one.#
 REED: They've taken shelter, but I'd recommend pulling them out. I've got a shuttlepod on standby.#
 REED: Aye, sir.#
-REED: I've got a fix. Twenty kilometres north;east.#
-REED: I'm reading them. Two kilometres due west.#
 REED: Starboard.#
 REED: Thruster four's down. We're leaking plasma coolant.#
 REED: Sir, we can't safely land in this wind with a thruster out.#
-REED: Yes, sir.#
 REED: Understood. Stand by.  REED: There's a problem, sir. There are contaminants in the matter stream. The phase discriminator can't seem to isolate the debris. (Ethan finally#
 REED: Or perhaps it wasn't there until that damn wind started.#
-REED: The centre of the storm's already passed over them, but the system spans some five hundred kilometres. We won't be able to land a shuttlepod before dawn.#
 REED: Nine hours.#
 REED: I think I can safely place it two metres inside the mouth of the cave.#
-REED: We are having a little trouble with the gravity plating on E deck. I hope it hasn't caused you#
-REED: Commander Tucker says it should be any minute now, sir.#
 REED: EM residue in the exhaust ports?#
 REED: Sir?#
 REED: If we polarize the hull plating, it should be all right as long as we maintained at least half impulse.#
 REED: Both nacelles are at maximum.#
 REED: They're moving off, sir.#
-REED: Didn't they feed you over there?#
 REED: I heard about the holographic recreation.#
 REED: If we had one of those on board, I can only imagine what it would be used for.#
 REED: Make any friends?#
@@ -127,7 +114,6 @@ REED: Nevertheless, you'd better have Doctor Phlox take a look at it.#
 REED: Yes, absolutely certain. Their last trajectory?#
 REED: It may take a while. Why exactly are we trying to find that ship?#
 REED: Commander, if we tune the UV sensors to the omicron band, we should be able to isolate their plasma trail a good deal faster. Do you think you could spare a minute just to help me recalibrate them?#
-REED: Got something.#
 REED: If the starship profiles the Vulcans gave us are correct#
 REED: Sir, with all due respect, do we really think this is a wise idea?#
 REED: Sir, they're charging weapons.#
@@ -143,18 +129,15 @@ REED: I'm all right, sir.; (He gets jumped by a man. Arche is on the other side 
 REED: Fancy meeting you here.#
 REED: I've lost a bit of blood, sir, but I don't think it's too serious.#
 REED: Don't worry about me, sir. I was just getting used to the place.#
-REED: That's an old MK-33, isn't it? Or is it a 34? Impressive body armour you're wearing. Did you make it yourself? Right. I don't suppose there's a lavatory on the premises, is there? I wouldn't mind freshening up a little. No. Didn't think so.#
 REED: That all depends. What's for dinner?#
 REED: Looks a little undercooked.#
 REED:  Not bad. (Some young people are playing wind instruments made from digger skulls and other bones, a haunting gently melody.)#
 REED: Captain.#
 REED: Not badly, all things considered, but I really wouldn't mind getting this bullet out of my leg.#
-REED: The shuttle's sensors should have picked it up.#
 REED: It should be standard procedure, that's why. In any event, there it is.#
 REED: A vessel, not Vulcan, and it's less than one kilometre from our shuttlepod.#
 REED: Well, I for one would like to know who these visitors are. And why havenn't we heard from the landing party?#
 REED: Maybe that should be standard procedure as well.#
-REED: Yes. I'm looking for Captain Archer.#
 REED: Let me talk to the Captain.#
 REED: Try T'Pol or Commander Tucker.#
 REED: Have the launch bay put shuttlepod two on standby.#
@@ -162,15 +145,11 @@ REED: I don't take orders from a comm. voice, Ensign. Not unless that voice belo
 REED: What is it?#
 REED: Put it through.#
 REED: This is Enterprise. We can barely read you, Commander.#
-REED: I've been reading about them in the Vulcan database. Militaristic.#
-REED: Are you certain we can't negotiate?#
 REED: Understood.#
-REED: Phase pistols on stun.#
 REED: The Captain's instructions were quite explicit. It's a console, Ensign. It won't bite.#
 REED: Crewman?#
 REED: I've heard the same stories. Now get up here. Coordinates set?#
 REED: Then energise before we change our minds.#
-REED: This is it.#
 REED: Will you be all right?#
 REED: This way.#
 REED: Two of them got away. They went down into the catacombs.#
@@ -182,27 +161,22 @@ REED: I've checked the Vulcan database, sir. No previous sightings.#
 REED: We've got the portable drilling rig, sir.#
 REED: Shouldn't take more than three or four hours.#
 REED: By all means.#
-REED: I've never stood on a comet before.#
 REED: Good question.#
 REED: Well, then it's only fitting that we commemorate the occasion.#
 REED: No, too predictable.#
 REED: The EV suits would take all the fun out of that. We'll just have to see how the spirit moves us when we get there. (They land on the comet, and stand on the ragged and pockmarked surface. Travis has a big, big grin.)#
-REED: The beauty of ice is that it records everything like a blank page. The farther down you drill, the farther back in time you go.#
 REED: Yes?#
 REED: Hand me the plasma torch. (Reed gives it two eyes and a smiling mouth, and sticks the torch in as a nose.)#
 REED: Go ahead, sir.#
 REED: We're just about to set the charges.#
 REED: Right.#
-REED: It won't be there for long, sir.#
 REED: I thought so.#
 REED: Don't get too comfortable. This landscape is about to change. Reed to Enterprise.#
 REED: Charges are set.#
-REED: Understood. (They crouch down behind an ice pinnacle while the charge goes off, then inspect the resulting crater.)#
 REED: I was hoping for a little more symmetry.#
 REED: Go ahead, sir.#
 REED: We hit a layer of magnesite and cracked a drill bit, but we've replaced it.#
 REED: Sir?#
-REED: We'll be done with time to spare, sir.#
 REED: Travis!#
 REED: What?#
 REED: You rest here.#
@@ -216,15 +190,12 @@ REED: More or less. How far did we drop?#
 REED: We're not going anywhere.#
 REED: Go ahead, Enterprise.#
 REED: I'm not picking up any other ships or satellites.#
-REED: Even if we flatten the building with a torpedo barrage, it probably wouldn't make a dent in that energy field.#
 REED: That's strange. Sensors aren't#
 REED: I'm picking up multiple weapon platforms. They're armed to the teeth.#
 REED: The ship's firing.#
-REED: They're recharging weapons.#
 REED: I've got a fix on it.#
 REED: The forward hull plating's depolarising.#
 REED: They've got some kind of energy shielding. Our weapons are ineffective.#
-REED: (Starboard tube's loaded.#
 REED: Their shielding is down.#
 REED: For example, what kind of weapons they carry.#
 REED: Why is that?#
@@ -234,23 +205,17 @@ REED: The main hatch is damaged. No chance we'll get a positive seal.#
 REED: If you didn't need our help, why did you send out a distress call?#
 REED: Get down.#
 REED: What was that?#
-REED: We're trying to track their warp trail, but their plasma cannon knocked out our long range sensors.#
 REED: It's difficult to be sure at this distance, sir. Looks like some kind of plasma discharge. I can't rule out our boomer friends.#
-REED: It's the Fortunate, sir, and three smaller ships.#
 REED: Fore and aft plasma cannons. I doubt those shields of theirs would hold up to our torpedoes.#
 REED: One of the Nausicaan ships has locked weapons on us, sir.#
 REED: The Nausicaan ships are firing, sir.#
-REED: The Nausicaans are powering down their weapons. They're moving off, sir.#
 REED: Ensigns. Enjoy the show last night? Those were two hours of my life I'd rather have back.#
 REED: What were they like?#
 REED: I hope he's not planning to show them the Armory.#
 REED: Still, we're not familiar with these species. Tactical systems should be off-limits. Starboard targeting sensor's out again.#
 REED: No. I'll take care of it. It'll only take a moment. You have the Bridge, Ensign.#
 REED: Permission to take my station?#
-REED: That one hit our port bow. Power's down on C-Deck, subsection four. No other damage.#
 REED: We're losing main power.#
-REED: Yes, sir.#
-REED: Looks like he slipped through here. We could remove these conduits but it would take some time.#
 REED: Sir? (Archer tests it, his hand passes through the bulkhead. Reed hands over a phase pistol.)#
 REED: Aye, sir.#
 REED: Echo Two is away, sir. A clean launch.#
@@ -263,7 +228,6 @@ REED: Damage reports are coming in, sir. No one's been hurt.#
 REED: Captain, when they fired their weapon they dropped their shielding for about two seconds and I was able to take some scans.#
 REED: Biosigns. At least fifteen, maybe more.#
 REED: It's a good thing they're gone. I doubt very much our torpedoes could've penetrated their shielding.#
-REED: Just give us two weeks, Captain.#
 REED: Sir, with your permission, we could at least begin the work, get a few things started for Jupiter Station.#
 REED: This, ladies and gentlemen is a phase-modulated energy weapon. It's rated for a maximum power output of five hundred gigajoules. Enterprise was designed to carry three of them. We have one, and it's only a prototype.#
 REED: Far be it from me to question the Captain's judgment, but Commander Tucker and I believe we can do this ourselves.#
@@ -279,7 +243,6 @@ REED: That's very flattering. I'm just not sure it would be appropriate.#
 REED: Well, we work together and it just might be a little awkward, Serving on the same ship.#
 REED: Well, then, it's my mistake then.#
 REED: No, please, finish your dinner.#
-REED: Reed to Bridge.  Armoury, report. Get to your stations. Move.#
 REED: Port two or port one?#
 REED: Get it right. Start on those beam emitters.#
 REED: We should be aligning them by now, not installing them.#
@@ -295,29 +258,17 @@ REED: Yes, sir.#
 REED: I'm just disconnecting them now.#
 REED: Yes, Commander, I am.#
 REED: In that case, if the Chief Engineer wouldn't mind getting his hands dirty, I could use some help. Captain's starlog, September 1, 2151. It's been two days now with no sign of the alien vessel.#
-REED: Acquiring the target. Full power to the primary coils. (hatches open on the underside of the saucer and the cannons emerge) Phase cannons one and two standing by.#
-REED: Check the cannons. Be careful down there. The blast yield was ten times what we expected.#
 REED: Something overloaded the phase modulators.#
 REED: They're toying with us. They want us to know they can destroy us whenever they want, even with our own weapons.#
-REED: We see them. Both forward cannons are charged and ready.#
-REED: Even if these cannons had been installed at Jupiter Station, they wouldn't be any more effective than they are now.#
 REED: Yes sir, but that was due to an overload.#
-REED: Sir, after the damage from the first time the plasma recoil would probably knock out two decks.#
-REED: I believe so.#
-REED: But sir.#
-REED: The grav-plating wasn't designed#
-REED: Stand by. Trip? We're ready, sir.#
 REED: Fairly well.#
-REED: The aft cannon should be working by the end of day tomorrow.#
 REED: Cheers.#
 REED: You shouldn't have gone to any trouble.#
 REED:  Pineapple! That's my favourite. How on Earth did you know?#
 REED: Yeah, another time, Doctor. I'm due back in the Armoury.#
 REED: It's definitely pre-warp, sir. It could be unmanned. Maybe a probe of some kind.#
-REED: It's pretty crowded out there. A lot of spacecraft and artificial satellites.#
 REED: Almost certainly?#
 REED: Is this how you protect your visitors?#
-REED: It's definitely a ditanium signature about four kilometres outside the capital.#
 REED: From what we can tell, the entire capital is surrounded by a shanty town. There are almost as many biosigns on the outskirts as there are inside the city.#
 REED: Not yet.#
 REED: They must have switched it off. Sir, I've got a rescue team standing by in the launch bay.#
@@ -355,7 +306,6 @@ REED: What language?#
 REED: So I'm assuming you don't know how many Klingons are on board.#
 REED: And what if they don't? The atmosphere's going to crush this ship like an eggshell pretty soon.#
 REED: Well, I for one don't intend to just fly off and let these people die, honourable deaths or not.#
-REED: There's got to be some way off this ship.#
 REED: I don't know about the structural integrity of Klingon escape pods. My guess is we're better off in here.#
 REED: I haven't had much experience at piloting Klingon ships.#
 REED: We could always try waking one of them to help us.#
@@ -366,17 +316,14 @@ REED: To quote our very own Mister Tucker, that means we're dead in the water.#
 REED: The one time we need our Chief Engineer is the one time we leave him behind.#
 REED: Sounds like we need to find the port fusion injector.#
 REED: Reactor pit? Could that be Engineering?#
-REED: This one?#
 REED: Argh!#
 REED: Yes. I seem to be getting a little light-headed. Must be the heat.#
 REED: Watch yourselves.#
-REED: The hull pressure's approaching critical. This ship's about to be crushed.#
 REED: It'll work.#
 REED: Look, even with Hoshi's help it could take hours just to find the fusion injector in here. We're out of time.#
 REED: If there's one thing on board this ship I ought to be able to figure out, it's the torpedoes.#
 REED: We'll need to detonate one closer next time.#
 REED: And if I don't? We need to generate a large enough shock wave to push us into a higher orbit. To do that, the blast has to be big and it#
-REED: Did it work?#
 REED: That's all?#
 REED: This whole damn ship's coming apart. How many torpedoes do we have left?#
 REED: Load two more.#
@@ -390,7 +337,6 @@ REED: Is someone going to get that?#
 REED: Are you sure, Doctor? Who knows what was living on that ship?#
 REED: That should buy us at least another half an hour.#
 REED: Went to a spa once in Mexico. The most relaxing place I've ever been, but it doesn't compare to this. Oh, it certainly feels nice to be clean again.#
-REED: The Captain said they'd be mapping this asteroid field, but I can't see head nor tails of them.#
 REED: No, this is the one. Two primaries, seventeen planetesimals.#
 REED: Well, with our sensor array down, we won't know when they get back until we see them. Any luck with the comm?#
 REED: Well, no doubt you'll have your boys take this pod apart piece by piece once it's back in the launch bay.#
@@ -432,7 +378,6 @@ REED: It's lovely. Thank you. (Later again, Trip is trying to sleep but Reed is 
 REED: As I'm sure you must have heard that was my esteemed colleague, Commander Charles Tucker. Mister Tucker doesn't share my belief that it is essential to say what must be said, to leave a record, tie up loose ends. Mister Tucker is labouring under the false hope that we are going to be miraculously rescued before we both suffocate.#
 REED: In a few days, when the reality of this situation actually begins to sink in, you might very well decide you want to record some logs of your own. You have my word, I will not interrupt you.#
 REED: We have less than nine days of oxygen left. It seems a waste to use it up sleeping.#
-REED: We're back.#
 REED: What happened? How did we?#
 REED: I'm afraid I don't understand.#
 REED: Sub-Commander?#
@@ -497,7 +442,6 @@ REED: And who was that?#
 REED: A moray eel? Are you out of your mind.#
 REED: So?#
 REED: That must have been the last time the Captain ever went diving with you.#
-REED: Hey, what do you think of T'Pol, hmm? Do you think she's pretty?#
 REED: Well, she's a woman, you know? I think she's pretty.#
 REED: Don't tell me you've never looked at her, you know, in that way.#
 REED: Well, I think she's pretty.#
@@ -540,7 +484,6 @@ REED: Be my guest. I could use a little less responsibility. Now, get down here.
 REED: Your Armoury Officer, and perhaps your friend.#
 REED: You know, I'm not a doctor, but I'm pretty sure you use up a lot more oxygen when you shout like that!#
 REED: That's exactly what I'm saying. If there's one chance in a thousand that they saw our impulse drive explode, that they increased their speed, I'll take that chance. I've invested far too much time trying to figure you out, Mister Tucker. I'm not about to accept that it was all for nothing.#
-REED: We're back. How did?#
 REED: The Commander.#
 REED: You must have seen the explosion.#
 REED: You don't say. We saw debris from Enterprise on one of the asteroids. We assumed, we thought you were all.#
@@ -548,7 +491,6 @@ REED: Sub-Commander.#
 REED: Isn't there something you're supposed to say to me?#
 REED: Heroics. Something about heroics.#
 REED: Trip?  REED: Mind if I call you Trip? Sleep well, my friend.#
-REED: Is it what you imagined, sir?;#
 REED: Am I interrupting anything?#
 REED: Reed. Malcolm Reed.;#
 REED: Frightening.#
@@ -556,7 +498,6 @@ REED: Likewise.#
 REED: Sir, I'm picking up a small planet on our current heading.#
 REED: It's not a system, Captain. It's just a planet.#
 REED: I'm picking up a power signature near the equator. There's a ship down there.#
-REED: Infrared's useless. There's too much heat coming from those thermal vents. (Turbulence. Archer is in the pilot's seat.)#
 REED: Well, the proof's in the pudding, Captain.#
 REED: Follow me.#
 REED: You were a Boy Scout, sir?#
@@ -587,7 +528,7 @@ REED: So, how'd you lose them?#
 REED: They're well armed and they know the terrain. I wouldn't want to try and take their weapons from them.#
 REED: I've located the ship, sir.#
 REED: Aye, sir.#
-REED: Here. REED: This is where they say their engines were hit.#
+REED: This is where they say their engines were hit.#
 REED: Impact damage, sir. No scorch marks, no melting. No indications of any weapons fire.#
 REED: It's possible. They also say they haven't sent out a distress call because it'd give away their position.#
 REED: They crashed three years ago, sir. Whoever attacked them has to be gone by now. Why are they still hiding?#
@@ -614,7 +555,6 @@ REED: I'll find him.#
 REED: I thought you said it wasn't for another fifteen minutes.#
 REED: Reed to Enterprise.#
 REED: The guards are ahead of schedule.#
-REED: Go ahead.#
 REED: Tell him#
 REED: Go, go. (He gets the rest of the Suliban out of the corridor before detonating the charges and incidentally taking out Klev and his men.) REED: Reed to Tucker. The wall's down.#
 REED: How'd you know it was me? (He leaves the cell first, only to be knocked out by -)#
@@ -632,23 +572,17 @@ REED: Captain.#
 REED: Careful.#
 REED:  She's alive.#
 REED: Captain! (Archer is dragged along the floor, Trip hanging onto him. Despite shooting at the tentacle, he's pulled up into the web, and Tucker is grabbed around the chest.)#
-REED: This thing appears to be growing. There's no telling if it'll get out of the cargo bay. I recommend we evacuate the entire deck.#
 REED: You think they left us a little souvenir?#
 REED: You didn't see that thing go after the Captain! It seemed hostile enough to me.#
-REED: Do you think that's wise, Doctor?#
 REED: With all due respect, Hoshi, we're not talking about nouns and verbs here. It could take you days to learn a language like that, even if it is one.#
 REED: None that I could tell.#
 REED: It'll take a few minutes.#
 REED: Bridge, something's wrong.#
-REED: Off.#
-REED: Understood.#
 REED: There must be some way to cut them out of there.#
 REED: The end result's the same.#
-REED: If that thing continues to grow, we're going to have to find a way to contain it.#
 REED: Starfleet's been working on creating a stable EM barrier for the last five years.#
 REED: Right. They just haven't found a way to control the particle density. All the specs are in the database. I've been trying to jerry-rig a prototype of my own.#
 REED: I've got it stable enough to absorb a phase pistol blast sixty percent of the time. I think I can improve on that.#
-REED: How's our little friend?#
 REED: But it's alive?#
 REED: Good. Now, if you don't mind, I'd like to run a few tests of my own.#
 REED: I need to determine how much bioelectric stress it can tolerate.#
@@ -692,7 +626,6 @@ REED: I need something to do on this ship, Commander.#
 REED: Then I'd say Starfleet needs to make its presence known on Risa.#
 REED: Any good restaurants?#
 REED: I imagine that's quite good for the skin. Three ships coming up fast.#
-REED: Our Mazarite friends, sir, and they've brought company.#
 REED: We could drop to impulse, use the phase cannons.#
 REED: They're closing to twenty thousand kilometres. Fifteen.#
 REED: They're holding at four point nine, sir.#
@@ -705,11 +638,8 @@ REED: We could try deflecting their jamming signal, sir. Use it to blind their s
 REED: Aye, sir.#
 REED: That's a direct hit to our starboard nacelle.#
 REED: We can't hold off those ships for that long.#
-REED: There's a number of ships strafing the encampment.#
 REED: I can't localise their biosigns. I'll take a shuttlepod and find them myself.#
 REED: I've lost sensor contact with the surface. Some kind of orbital dispersion field. I can't get any readings below a hundred kilometres.#
-REED: The dispersion field covers half the continent, but if I disable these three satellites, I think I can get a clear reading of the eastern desert.#
-REED: There's a vessel approaching from the surface. It's Zobral.#
 REED: There were eighty nine. There were only eighty nine Suliban, not thousands.#
 REED: I would hardly call it an army. It was more like a few dozen prison guards, and to be honest they didn't put up much of a fight.#
 REED: Actually, I'm the tactical officer on this ship, and I don't have any experience at waging desert warfare. I'm afraid you've come to the wrong people for help.#
@@ -718,15 +648,12 @@ REED: I'll need all the pertinent data.#
 REED: I'm a quick study.#
 REED: Then they'll have to wait a little longer. You're the one that got our people stranded down there.#
 REED:  If we increased our altitude this would go a lot faster.#
-REED: I'm picking up weapons fire on the surface. Ninety kilometres due south.#
-REED: I've got a lock.#
 REED: Well, supposedly Risa's very cosmopolitan. There are species visiting from all over.#
 REED: Now I know you've been cooped up on a starship for too long.#
 REED: Well, nothing, I suppose. I just wouldn't know which eyes to look into. Hey, hey, hey, hey. Now, she's interesting.#
 REED: I don't know. Maybe I should have brought my scanner with me.#
 REED: Thank you.#
 REED: What shall we drink to?#
-REED:  That place up the street looked pretty lively.#
 REED: How would the Vulcans know? They only mate once every seven years.#
 REED: Do you know something I don't?#
 REED: Oh, she's very disciplined.#
@@ -755,7 +682,6 @@ REED: I don't smell anything.#
 REED: You look rested, sir. Did you get a good night's sleep?#
 REED:  This should take a bit longer than usual.#
 REED: The protocol said fifty kilometres, but to be on the safe side I'm going to lock them off at about seventy five.#
-REED: I closed both plasma ducts. I'm certain of it.#
 REED: I closed both ducts. Any kind of malfunction would have triggered an alarm. Two alarms. There are backups to prevent these kinds of accidents. The ducts were closed.#
 REED: The flash point was directly beneath the shuttle, sir, but it seems to have originated at the starboard plasma duct.#
 REED: Put it up here, would you?#
@@ -764,18 +690,14 @@ REED: I don't care whether that probe picked up traces of bread pudding. Both ou
 REED: Over here. It's not exactly a smoking gun, but this EM signature does not belong here.#
 REED: On the outer hull, about twelve centimetres below the starboard plasma duct.#
 REED: I already checked. There isn't a carbon atom to be found. Whatever it is, its profile doesn't match anything in our database.#
-REED: Why did Daniels leave it in his quarters?#
 REED: No. Well, if it is there and it contains what he said it does, it could be invaluable to Starfleet.#
 REED: Pity. Assuming he's right and we manage to find the Cruiser what makes you think the Suliban won't come after us? (Reed enters the code for the security lock on Daniel's quarters.)#
 REED: Wait a minute. Did you see that? They've got schematics on half a dozen different Klingon ships.#
 REED: There. There it is.#
 REED: Reed here.#
 REED: Aye, sir.#
-REED: The closer, the better, sir.#
 REED: All four weapon banks, as well.#
 REED: Okay, here's the tricky part. (A photon torpedo is launched and strikes the underneath of the cruiser.)#
-REED: I see them. You'd better take cover. (He fires a phase cannon at the cruiser's docking clamp and the explosion knocks#
-REED: I've taken the liberty of asking Commander Tucker to join us.#
 REED: We're having trouble balancing the warp field.#
 REED: It's odd. It'll be stable one moment, and then, for no reason, it'll go slightly out of alignment.#
 REED: Well, they're not. We've had to realign the field a dozen times over the last hour.#
@@ -786,11 +708,8 @@ REED: It's targeting our warp core.#
 REED: Security teams to docking ports one, two, and three.#
 REED: Barely. You're going to need to boost the signal.#
 REED: Yeah.#
-REED: Are you all right?#
-REED: And the others?#
 REED: I wasn't planning on going anywhere.#
 REED: They were pretty much blocked off when the ship was completed.#
-REED: Well, you or I couldn't get through them.#
 REED: I'm positive.#
 REED: Good luck.#
 REED: I guess I wasn't thinking.#
@@ -818,13 +737,7 @@ REED: It's armed with tricobalt explosives. I think it's a mine. And judging by 
 REED: No reason to believe it's not.#
 REED: We don't know how it's triggered. Somebody has to go out there and defuse it, and it should be me. I have the ordnance training.#
 REED: Lieutenant Reed to Bridge. I've opened the outer hatch. Wish me luck.#
-REED: There are proximity sensors, but they appear to be offline.#
-REED: The arming mechanism's extending. (He turns to#
-REED: Understood. If you plan to go to warp, sir, you'll let me know?#
-REED: Our friends just vanished.#
-REED: I've identified four separate detonation circuits. If I can isolate them in the proper sequence, I should be able to deactivate the mine. It'll take some doing, but to be honest, Captain, it's only a theory.#
 REED: Bridge.#
-REED: It just magnetised itself to the hull.#
 REED: On its way it went through my leg, sir.#
 REED: Actually, I'd prefer a leg.#
 REED: Actually, sir, I wouldn't do that. My scans show detonation circuits inside the spikes. I would consider letting you amputate, but if Chef got hold of it he'd be serving Roast Reed for Sunday dinner. Just give me something for the pain and I'll do my best to reach the access panel.#
@@ -887,7 +800,6 @@ REED: It's rearming.#
 REED: All things considered. If I may say so, sir, your style of command does have its advantages.#
 REED: I counted ten seconds.#
 REED: Respectfully, sir, it was ten.#
-REED: You're killing me!#
 REED: It can't be ethical to cause a patient this much pain.#
 REED: When will I be able to return to duty?#
 REED: Two weeks?#
@@ -915,8 +827,6 @@ REED: It's a letter to his sister. It was on the monitor when I came in. I'm afr
 REED: Sub-Commander T'Pol's working on it, but it could take some time. Cargo ships aren't always easy to track down.#
 REED: We were within twenty metres when we tripped the sensors.#
 REED: I believe so.#
-REED: It's there, about five metres ahead. (He crawls forward to the iris, sets off the alarm and gets beamed out to the Bridge while Archer and T'Pol take readings. Then they use their phase pistols.)#
-REED: Three of the station's arms have just clamped on to the hull.#
 REED: There's no effect.#
 REED: They're going offline.#
 REED: We're losing main power.#
@@ -926,12 +836,10 @@ REED: I'm reading secondary explosions throughout the station. (The station star
 REED: One of those arms is still locked onto the hull.#
 REED: At this range, sir, I wouldn't recommend it.#
 REED: I see her.#
-REED: No indication, sir.#
 REED: I was hoping for a bit more to work with.#
 REED: With a few modifications these should be effective against more than lizards.#
 REED: But this battle won't be won with firepower. Deception and surprise can be just as potent as brute force.#
 REED: The gullies on this hillside, are they deep enough to hide in?#
-REED: You ready? (Hoshi starts up the training#
 REED: We've got to get them to move fifty metres to our left.#
 REED: A little farther. This is good.#
 REED: I could use a few days to recalibrate the torpedo launchers.#
@@ -940,46 +848,6 @@ REED: Are you sure the Captain wouldn't have a problem with you using his dining
 REED: While we're on the subject of approvals, I promised Captain Archer that I'd recalibrate the torpedo launchers. I'll need to divert computer access from Main Engineering.#
 REED: It'll only be for a day. We're not exactly going anywhere.#
 REED: Is that the Chief Engineer talking, or the Acting Captain?#
-REED: It was worth every step, sir. The architecture alone.#
-REED: Am I that obvious?#
-REED: The speaker at the political rally, what was his name? Chancellor Kultrey?#
-REED: You could write a book about him alone. His speech reminded me of Winston Churchill before the Second World War.#
-REED: My communicator.#
-REED: It's gone.#
-REED: It's not in decon. Any luck?#
-REED: What about the launch bay crew? Could they have found it while they were securing the pod?#
-REED: I contacted T'Pol to let her know we'd entered the city.#
-REED: No.#
-REED: I'd remember. Either I dropped it or someone picked my pocket.#
-REED: This L-shaped structure. isn't that the fountain? The one with the statues. The tavern was directly across the street, here. The communicator could have slipped out of my pocket when we sat down.#
-REED: The hull plating's already been polarised.#
-REED: It's not a problem, sir. Captain. my carelessness was inexcusable. I'm prepared for whatever reprimand you feel is appropriate.#
-REED: Sir,#
-REED: Three military aircraft, seventy two kilometres off starboard. I suggest you increase our descent vector. That should keep us well below their visual threshold.#
-REED: Positive.#
-REED:  I've got it.#
-REED: It's in a room, off that corridor.#
-REED: No.#
-REED: There are two people inside.#
-REED: I didn't have time to visit the doctor. I wonder if the guard would bring us some Epsom salts, if I asked politely.#
-REED: We came down to retrieve my communicator. Now we've lost two of them. Not to mention my phase-pistol and a pair of scanners.#
-REED: If they really think we are spying for this Alliance, perhaps we should consider telling them the truth.#
-REED: It couldn't hurt to try.#
-REED: Understood.#
-REED: We've been genetically enhanced.#
-REED: Our immune systems are resistant to chemical and biological weapons, and our internal organs have been modified to increase cellular regeneration by thirty percent. That way, our wounds can heal more quickly.#
-REED: Well, it may be an old trick where we come from, but maybe they haven't heard of it here.#
-REED: Thanks. Improvisation isn't my strong suit.#
-REED: What do you suppose Enterprise will do, after we're.#
-REED: It's ironic. Giving our lives to protect people who want to kill us.#
-REED: I'm not afraid, sir.#
-REED: You said it yourself, Captain. They'd never believe us.#
-REED: If we did tell them who we are, maybe it would do them a world of good. Look what the Vulcans did for Earth.#
-REED: It could still happen, sir. I'm expecting a rescue party to come barging through that door any moment.#
-REED: Captain.#
-REED: Sir, the phase pistol, our equipment.#
-REED: Sir, looking for this?#
-REED: Keep those target discriminators aligned. We don't want a torpedo mistaking one of our own nacelles for an enemy vessel.#
 REED: I would have come to you, Captain.#
 REED: I've been reviewing our encounters with hostile species. The crew's response has been admirable but I feel we can do better, sir.#
 REED: I've been thinking about a ship wide emergency alert. Something a bit more comprehensive than battle stations. We're taking far too long to react to potential threats. With a single order from you, or an impact to the hull, the plating could be polarised, weapons brought online, critical systems secured.#
@@ -1022,25 +890,20 @@ REED: You ignored a tactical alert for this?#
 REED: This is all a big joke to you.#
 REED: This isn't a bloody pleasure cruise. Without proper discipline on this ship, this mission is doomed.#
 REED: If this were a military situation you'd be taken out and shot. (Tucker grabs Reed and pushes him up against the bulkhead. Archer has to break them up.)#
-REED: You wanted to see me, Captain?#
 REED: I heard, sir. I've already deactivated the new protocols.#
 REED: No objection, sir.#
 REED: I'll get right on it.;#
 REED: They're diamagnetic storms, Captain, saturated with polaric energy.#
-REED: Welcome to the club.#
-REED: So he tells her it was merely a warp imbalance.#
 REED: We all heard it, Commander. There's no use pretending.#
 REED: Travis, let her eat her supper.#
 REED: You mean other than Cyrus Ramsey?#
 REED: Come on, Hoshi, everybody's heard of Cyrus Ramsey.#
 REED: They're still in the complex. I'm trying to isolate the specific chamber.#
 REED: Maybe you should forget about the UT. Just try and talk to them.#
-REED: Three. (Hoshi materialises, dressed in her uniform and looking windswept and holding an equipment case)#
 REED: Everything's fine, Hoshi.#
 REED: Hoshi, the transporter was affected by the storms. I had some trouble reintegrating your matter stream.#
 REED: Eight point three seconds, to be precise.#
 REED: What?#
-REED: Mister Plinn?#
 REED: Lieutenant Reed. The Captain asked me to escort you back to your ship.#
 REED: I'm afraid I'm under orders.#
 REED: It's just a precaution.#
@@ -1079,11 +942,8 @@ REED: I think the Vulcans see them, too. They're breaking orbit. Probably giving
 REED: The Vulcans are charging weapons. The Andorians as well.#
 REED: If you don't mind me asking, what do you have in mind?#
 REED: Locked and ready.#
-REED: The Vulcan ships are breaking formation. They're heading for the planet.#
 REED: I'm not reading any weapons signatures. Possibly some sort of accident.#
-REED: There's no windows. I'm not sure whether this end's the bow or the stern.#
 REED: If it is, it's been fused shut. With your permission, sir? (He gets a phase pistol and starts cutting into the thing. When he's done, Archer forced the hatch open and starts coughing. T'Pol checks that the air inside is safe. Archer climbs inside and finds a seat at the far end. He turns it around to discover a desiccated occupant.)#
-REED: The hull seems to absorb EM radiation. Without all this damage, it never would have shown up on our sensors.#
 REED: Maybe he got a ride from someone.#
 REED: Could be an escape pod.#
 REED: Commander. (They've uncovered a round thing with thick wires leading off it in 4 directions.) REED: Registers as some kind of bio-matter.#
@@ -1134,22 +994,6 @@ REED: It was only an estimate, sir.#
 REED: At least twice, maybe more.#
 REED: I'd recommend putting more distance between us and that ship.#
 REED: Good question.#
-REED: They took some weapons fire. Main power's offline. Gravity plating, life support.#
-REED: None.;#
-REED: Pan zan?#
-REED: Too badly damaged to be much help.#
-REED: If they were, they didn't go without a fight.#
-REED: Are your patrols in the habit of arresting innocent people?#
-REED: You certainly made one this time.#
-REED: And we're determined to get our people back.#
-REED: A good place to get lost in the crowd.#
-REED: Two. It's them. I recommend we use the transporter once we're in range.#
-REED: I don't think so. Four biosigns. They're all Enolian.#
-REED: Fore and aft particle cannons. Nothing we can't handle.#
-REED: Loud and clear, sir.#
-REED: Captain, Travis says he can't maintain the docking seal much longer.#
-REED: It's now or never, sir! (Kuroda shuts himself in the Bridge. Reed drags Archer onto the shuttle which then disengages and escapes back to Enterprise. Then Kuroda discovers that Archer was telling the truth, and braces himself for a fiery death.)#
-REED: Sensors can't identify its hull composition. There doesn't even seem to be a warp signature.#
 REED: It's big, more than five hundred metres across.#
 REED: What the hell is that?#
 REED: Weapons aren't charging, sir. They're offline. Phase cannons, torpedoes.#
@@ -1181,7 +1025,6 @@ REED: Main propulsion's offline, life support is failing. They're in a bad way, 
 REED: Perhaps they're bringing the supplies they promised.#
 REED: Seventeen minutes.#
 REED: Yes, sir.#
-REED: I don't suppose there's any chance of outrunning them.#
 REED: Sustained fire from our phase-cannons should be able to penetrate their armour, but I doubt they'd sit still long enough to give us the chance.#
 REED: Pretty standard multi-spectral sensors, not too different from ours.#
 REED: For a few seconds.#
@@ -1227,7 +1070,6 @@ REED: Feels like weapons fire to me. Pretty high yield by the sound of it.#
 REED: You mean to tell us that you climbed down that rock face without any ropes, any safety equipment at all?#
 REED: I'm fine.#
 REED: We need to get out of here before it starts up again.#
-REED: I see them. Bearing one eight four mark two seven.#
 REED: Minimal damage. They're using low-power particle beams.#
 REED: How long before it goes supernova?#
 REED: We may not be able to get any closer, but someone else has.#
@@ -1400,7 +1242,6 @@ REED: After an hour in this place, I can't wait to get back to Decon.#
 REED: Gladly.#
 REED: I believe you have something for us?#
 REED: Liquid?#
-REED: The biosigns match the genetic profile of the Xindi pilot who attacked Earth.#
 REED: Three boarding parties, at least five men each.#
 REED: No damage, though we may need a fresh coat of paint.#
 REED: Minimal. Decks twelve and thirteen have decompressed.#
@@ -1448,31 +1289,6 @@ REED: Sir.#
 REED: My station's down.#
 REED: Weapons are coming back online.#
 REED: Aye, sir.#
-REED: There are no defensive systems?#
-REED: It's also possible that what we've been told about this colony isn't accurate. We're putting a lot of faith in Hoshi's telepathic friend.#
-REED: If anyone sees us, they'll think we're a meteor.#
-REED: Eight hundred metres, just over that rise.  REED: That's definitely the source of the energy readings.#
-REED: I'm not picking up any security devices.#
-REED: Approximately eighty inside the complex, but not within a hundred metres.#
-REED: Captain. Some kind of radiolytic compound. It doesn't match anything in our database. There's several hundred kilograms n this room.#
-REED: Captain, this place obviously has something to do with the weapon. It seems to me the sooner we put it out of commission, the better.#
-REED: There's nobody else here, sir. Apparently he lives alone.#
-REED: Congratulations, sir. Three months ago we entered the Expanse with no idea who these Xindi were or how to find them, and now we're about to destroy one of their weapons facilities.#
-REED: They struck first.#
-REED: Let's not forget the seven million people who were killed.#
-REED: What about Gralik, sir? He'll tell them about Enterprise.#
-REED: The reptilians seem rather upset about something.#
-REED: Captain. They've gone.#
-REED: Just because you didn't show up for work?#
-REED: Someone's closing on our position, sir. Four hundred metres.#
-REED: I'm not certain. Three hundred and fifty metres.#
-REED: Still closing, sir. Two hundred metres, one fifty. They're bloody fast, whoever they are.#
-REED: No, sir. We just might have stopped those bloodhounds before they transmitted our position.#
-REED: Permission to speak freely?#
-REED: I'm not sure it was wise to let him go.#
-REED: There are two of them, loading containers.#
-REED: They're heading back.#
-REED: We've run into a small problem. Stand by.#
 REED: No effect.#
 REED: Weapons are offline.#
 REED: After course. Twenty degrees to port.#
@@ -1520,19 +1336,16 @@ REED: Captain, it's Reed. We have the Bridge. This'd be a lot easier if I had we
 REED: We just grazed it. No damage.#
 REED: We're losing hull integrity. Atmosphere's venting on D deck.#
 REED: Main power's going down.#
-REED: Targeting sensors are down, hull plating. We're damn lucky the torpedoes were all in safe mode. If one of them had detonated.#
 REED: They haven't even got enough power to light a camp fire.#
 REED: I couldn't even guess without a chance to sort this out.#
 REED: We'd be giving them access to critical systems, sir.#
 REED: Aye, sir.#
-REED: Coffee, black.#
 REED: Yeah, no crumpets either, thank you. I need all the caffeine I can get. What's the situation in Engineering?#
 REED: Worse.#
 REED: I'm Lieutenant Reed.#
 REED: It's coffee, and just for the record, I haven't left the Armoury for so much as a bathroom break in nearly twelve hours. And you are?#
 REED: This is Commander Tucker, our Chief Engineer.#
 REED: Indeed. Well, I'll see if I can find something for you to do.#
-REED: Hand me the micro-spanner, please.#
 REED: The spanner will do the job nicely. If you wouldn't mind.#
 REED: That'd be lovely.#
 REED: Give my regards to Commander Shran.#
@@ -1549,10 +1362,8 @@ REED: Three, on my father's side.#
 REED: What?#
 REED: Actually, we haven't done much exploring for quite a while, but since you ask, he wasn't very pleased. The Royal Navy was his life.#
 REED: I'm sure he would. Right, all done. I'll power it up and we'll see where we stand.#
-REED: Reed here, sir.#
 REED: Torpedoes are back online, and thanks to Lieutenant Talas we should have phase cannons within the hour.#
 REED: I've never gotten them above ninety three. If you ever decide to leave the Imperial Guard, Starfleet could certainly use you.#
-REED: What are you doing? Why are you accessing the sensors? They weren't damaged.#
 REED: You're just being thorough.#
 REED: So, anything we need to worry about?#
 REED: Even with our primitive weapons?#
@@ -1564,14 +1375,10 @@ REED: No damage sir.#
 REED: They were much closer than we were. Their hull's intact but there's significant damage to their engines and power systems.#
 REED: Captain, I'm reading three biosigns on board.#
 REED: They're not going anywhere, sir.#
-REED: There's a surge in the plasma network.#
 REED: Sir, I recommend putting a safe distance between us and the test site.#
 REED: Understood.#
 REED: It's not simply a matter of constructing a shuttle, it has to be designed. What species built it, what language would the control interface use.#
 REED: The MACOs use subdermal transceivers.#
-REED: I'm picking up a distortion in subspace. I believe it's a Xindi ship.#
-REED: About six hours.#
-REED: Open it.#
 REED: You two, come with me. I said move!#
 REED: I'm picking up several Xindi vessels. I'm also reading significant quantities of kemocite.#
 REED: Minimal damage. The hull plating's coming back online.#
@@ -1631,10 +1438,6 @@ REED: You just can't stand taking orders from me, can you.#
 REED: Hayes!#
 REED:  As you were. (The crewman carefully retraces his steps as the pair carry on beating seven bells out of each other.)#
 REED:  It's a little Klingon move I picked up.#
-REED: We're coming up on access tube seventeen baker.#
-REED: Can you be any more specific? (The alien walks out of a console and down another corridor. Reed and Hayes shoot at him, but of course phase pistol fire is useless.)#
-REED: He's heading towards the centre of the ship.#
-REED: We need to reverse polarity on the plasma coils. It'll trigger a feedback pulse. Turn the T-valve all the way to the left.#
 REED: Let's see if you can handle this.#
 REED: Captain.#
 REED: There's no problem, Captain.#
@@ -1656,7 +1459,6 @@ REED: Do you intent do shoot me, Major?#
 REED: That won't go over well with Commander Tucker. Monday night is movie night.#
 REED: The senior officers do have other duties. We can't all spend our time playing holographic games in the Armoury.#
 REED: Acknowledged. Deploy the docking arm.#
-REED:  You're going to have to remove the relays here and here. That should disable the security protocols.#
 REED: Any word on how much longer he's planning to stay in orbit?#
 REED: I'd be the last to question the Captain's orders, but doesn't it seem a little odd that we're staying here to save a nest of Xindi?#
 REED: Meanwhile, their big brothers are trying to destroy Earth.#
@@ -1669,7 +1471,6 @@ REED: Those manifolds are pretty narrow, but our targeting scanners should be ab
 REED: I apologise. I over-reacted. A lot of the crew's on edge lately.#
 REED: I heard things got pretty ugly down there.#
 REED: I've got to get back to the Bridge. Let me know if your simulation finds anything else.#
-REED: What is it?#
 REED: Tactical alert. Captain Archer, report to the Bridge.#
 REED: Pursuit course. Arm phase cannons. Disable their engines. (Two phase shots are fired.)#
 REED: Torpedoes. Maximum yield. Target their impulse manifolds.#
@@ -1696,7 +1497,6 @@ REED: We couldn't take the chance that you'd side with the Captain.#
 REED: Yeah.#
 REED: I'm picking up a large array of satellites. They're generating a detection grid.#
 REED: Seems like we've come to the right place.#
-REED: I've analysed every link in the grid. I can't find a single weakness.#
 REED: Make like one of the locals?#
 REED: We're being scanned.#
 REED: I'm not picking up any vessels in the vicinity.#
@@ -1710,18 +1510,14 @@ REED: What do you propose we do?#
 REED: The longer we wait here, the greater the likelihood we'll be spotted.#
 REED: You can't possibly believe that has any chance of success.#
 REED: You'll just be captured or killed.#
-REED: Four Xindi vessels, closing fast.#
 REED: They're charging weapons.#
 REED: We've lost hull plating.#
 REED: We've got hull breaches on C, D and E.#
 REED: The bulkheads aren't responding. We're venting atmosphere.#
-REED: Another breach on C deck, E deck's depressurising. We can't take much more of this.#
 REED: They've ceased firing. They're moving off, back into the system.#
-REED: The comm. system's still down. We don't have a complete casualty list yet. So far the news isn't good. Five people are confirmed dead, a dozen wounded. Most of the hull breaches have been contained with emergency bulkheads.#
 REED: I don't know. There's no way to get to it. A large portion of E deck is still decompressed.#
 REED: The aft torpedo launcher's working, but that's about it. I really don't know what's holding us together, but let's hope it doesn't give out.#
 REED: Indeed. We've already lost one Captain today.#
-REED: Emergency power's back online. We'll have phase cannons in about an hour.#
 REED: I'll have to pull people from other areas.#
 REED: Aye.#
 REED: It's Xindi.#
@@ -1729,44 +1525,20 @@ REED: Targeting.#
 REED: It appears to be a one-man vessel. No armaments.#
 REED: One.#
 REED: Here. (It opens it to reveal - Archer.)#
-REED: They went to a lot of trouble to let you go. Do you really think they'll attack us again?#
 REED: We've run out of moons to hide behind, but there is a cometary dust cloud not too far off.#
 REED: At present speed, about three days.#
-REED: They have minimal weapons, all powered down.#
 REED: Who are we boarding, sir?#
 REED: I don't understand.#
 REED: Captain.#
-REED: Under normal circumstances they'd be no match for us, but we've sustained a lot more damage than they have. This could be risky.#
 REED: How long?#
 REED: If they fight back, ten minutes could be a very long time.#
 REED: Aye.#
 REED:  Their warp drive's offline. They're charging weapons.#
 REED: They're firing.#
-REED: Their weapons are at fifty percent.#
 REED: We have to take out their weapons!#
 REED: If we want to get through this in one piece, we may have no choice.#
-REED: They're targeting our starboard nacelle.#
 REED: We're venting atmosphere on C deck. T'Pol!#
 REED: Got it.#
-REED: No ships out there, sir.#
-REED: Reports of injuries on B deck.  REED: No one's out there, sir.#
-REED: That's very close to the fire.#
-REED: That'd be me, sir.#
-REED: Where's the other valve?#
-REED: I think the heat's warped the metal. The panel won't open.#
-REED: This is going to take a while.#
-REED: Almost there.#
-REED: I'm almost finished, Captain.#
-REED: I'm sorry sir, you're breaking up.#
-REED: There's no time. Do what you have to do so I can shut this down.#
-REED: Reptilians.#
-REED: We don't stand a chance against them. Not in the shape we're in.#
-REED: They're charging weapons.#
-REED: Then you know where they're vulnerable, where to target our weapons.#
-REED: He's knocked out their shield generators.#
-REED: Their weapons are down. Degra was spot on. He knew exactly where to hit them.#
-REED: Sir, he's charging weapons!#
-REED: Degra said these Kovaalans have only one or two ships inside the nebula.#
 REED: I suggest we enter here, above this layer of metreon gas. It should reflect our engine signature, create multiple sensor ghosts, false readings. If we're lucky they won't know which one to fire at.#
 REED: Are you sure it's not a sensor reflection?#
 REED: Must be the NX02, Colombia.#
@@ -1778,9 +1550,7 @@ REED: No. Actually, I didn't. Apparently the Reed family line came to a rather u
 REED: Yeah, and it would appear I'm going to be one of them.#
 REED: This seat's available.#
 REED: They're preparing to go to warp.#
-REED: Hull plating at sixty one percent.#
 REED: They have the same complement of weapons as we do.#
-REED: We've lost hull plating.#
 REED: Weapons are gone.#
 REED: Sir, they still have one torpedo in the forward tube. It's locked onto our starboard engine.#
 REED: Weapons are standing by.#
@@ -1807,7 +1577,6 @@ REED: Let's break out the suits.#
 REED: Picking up a very powerful energy signature.#
 REED: It's practically gift-wrapped.#
 REED: I suggest we work fast.#
-REED: Reed to Shuttlepod one. Anything?#
 REED: I don't see anything.#
 REED: Are you sure?#
 REED: Hawkins!#
@@ -1820,7 +1589,6 @@ REED: The Sphere had an automated defence mechanism. He was killed. I'm sorry, M
 REED: Why have they stopped? They could have been half way to Earth by now.#
 REED: We've been out-gunned before, sir. We did not come all this way to give up without a fight.#
 REED: Six vessels approaching, sir. All aquatic.#
-REED: Have you assembled your boarding party?#
 REED: I wish I was leading it myself.#
 REED: No offence, Major. It's just that Ensign Sato is a friend. Here's my report on Corporal Hawkins.#
 REED: First, I'd like to know if we have a problem.#
@@ -1828,25 +1596,19 @@ REED: If you blame me for the Corporal's death.#
 REED: I did everything I could. Things happened very fast.#
 REED: I'm not finished. Hawkins may well have been a MACO, but he was my responsibility out there.#
 REED: If I contributed to that, I apologise.#
-REED: They're moving to intercept, but they're keeping a substantial force around the weapon.#
 REED: Give me the word, sir.#
-REED: We're in range.#
-REED: Minor damage to the starboard nacelle. We're still in the fight.#
 REED: Aye, sir.#
 REED: They're preparing to launch.#
-REED: They're gone.#
 REED: Doctor?#
 REED: I'm afraid he's a bit of a mother hen.#
 REED: Thank you for bringing her home.#
 REED: What?#
 REED: No more of that talk. That's an order.#
-REED:  At ease. I've just come from Sickbay, where the Doctor assures me that Sergeant Kemper and Ensign Sato will make full recoveries. Unfortunately, Major Hayes' injuries were more severe. He didn't survive. I'm sorry. We've got less than ten hours before this weapon reaches Earth. The Captain wants to take a team aboard to destroy it. I don't imagine the reptilians will make this easy for us, but that's why you're here. That's why Major Hayes picked each one of you for this mission. Because he knew you'd get the job done. I need three volunteers.  Woods, Ramira, Forbes. Assemble your gear. Meet me at the starboard airlock in ten minutes.#
 REED: With pleasure. All set, sir.#
 REED: They're preparing to launch.#
 REED: It may be faster but it's not well-armed. How many ships are escorting the weapon?#
 REED: She's in no condition to come up here.#
 REED: Sir, she's barely conscious.#
-REED: We won't be able to transport directly onto the control platform, it's too heavily shielded. We'll have to beam in and out no deeper than this peripheral framework.#
 REED: Sir, she's hardly in any shape#
 REED: She was drugged. There's no reason to believe that she'll remember anything.#
 REED: And you, sir?#
@@ -1860,7 +1622,6 @@ REED: Are you sure?#
 REED: But if we knock the reactor out, won't that be enough?#
 REED: I'll take care of it, sir.#
 REED: As Chief Tactical Officer, sir#
-REED: Can you get a lock on him?#
 REED: It's done.#
 REED: Captain Archer destroyed the weapon.#
 REED: Captain didn't make it, Trip.#
@@ -2357,3 +2118,20 @@ REED: On your feet, sir. Shuttlepod One was sabotaged.#
 REED: We nearly crashed!#
 REED: Is there any reason why we shouldn't?#
 REED: Who replaced you? Who!#
+REED: Does the Captain have to give a speech?#
+REED: And he'll undoubtedly make every effort to take no credit.#
+REED: How's it going, sir?#
+REED: If you recall, Rigel Ten is filled with a very unsavoury element. And I rather doubt Shran's scheme will be quite as simple as he claims.#
+REED: I don't like it. What exactly are you doing?#
+REED: Well, what's the point? This ship will be joining the mothball fleet next week.#
+REED: All good things. Captain thinks there'll be another Enterprise before too long.#
+REED: It won't be the same.#
+REED: Stand still and you won't be harmed. (The aliens return fire, of course. One shot breaks the plank Tucker is standing on, and he's dangling in midair as Archer tries to pull him to safety)#
+REED: He was anything but tactful. What his countrymen might refer to as a hick. For the life of me, I couldn't understand what Captain Archer saw in him.#
+REED: Yeah, right.#
+REED: That's about it, really. I used to think that first impressions meant something. I guess it's not always true. To be honest, I didn't think he was going to last a month, old friend of the Captain's or not. And now, I can't imagine what these last ten years would've been like without him.#
+REED: Are you certain these are the right seats?#
+REED: They don't seem very VIP to me.#
+REED: From this distance you can't tell an Andorian from a Tellarite.#
+REED: I'll bet you a month's pay he'll be on the bridge of a new ship. He won't be able to resist one of those warp seven beauties.#
+REED: It's very wise of you to stick with him. That's exactly what I plan to do.#

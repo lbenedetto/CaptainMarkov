@@ -237,7 +237,6 @@ DUKAT: A Federation trial#
 DUKAT: All right. I would be willing to hand over Major Kira, the Maquis, and the ship, but not Riker. He led the mission. If I can bring him to justice and obtain the information on Orias, that might be enough for Central Command.#
 DUKAT: I'll have to clear that with the Ministry of Justice.#
 DUKAT: Those are faster than any Keldon class ships I've ever seen. What is going on in that system?#
-DUKAT: They won't fire on another Cardassian ship. They can't.#
 DUKAT: How do you know about that?#
 DUKAT: I'm not sure I share your optimism, but then I don't have much choice, do I? We'll meet you there.#
 DUKAT: Captain, this is Dukat. Almost half the council members are still aboard my ship. We need at least another minute.#
@@ -1098,3 +1097,39 @@ DUKAT: Show me out? I don't understand.#
 DUKAT: By putting me out on the street?#
 DUKAT: You're not serious.#
 DUKAT: Adami, listen. Adami! Adami listen to me, please! Adami!#
+DUKAT: Hello, Adami.#
+DUKAT: Is that all you have to say to me?#
+DUKAT: Yes, they've forgiven me. I was hoping you could find it in your heart to do the same.#
+DUKAT: I've told you how much I regret my actions during the occupation.#
+DUKAT: Have you learned how to release the Pah wraiths?#
+DUKAT: Then why haven't you gone to the Fire Caves and freed them?#
+DUKAT: Then you do forgive me.#
+DUKAT: All you have to do is ask. Together we will release the Pah wraiths so they can lay claim to the Celestial Temple and destroy the Prophets.#
+DUKAT: No, no, no. Benjamin Sisko will be dealt with by me and me alone.#
+DUKAT: Oh, he'll survive. But I promise you, he'll wish he hadn't.#
+DUKAT: Is it really necessary to rest so often?#
+DUKAT: I'm in no hurry. During the occupation, my people found the Bajorans' fear of these caves amusing. And yet we never took the time to visit them. And now, here I am. It's ironic, isn't it?#
+DUKAT: Excuse me? I just meant#
+DUKAT: I meant no disrespect, Adami.#
+DUKAT: How should I address you then?#
+DUKAT: Perfectly. Eminence.#
+DUKAT: Let me guess. We're here.#
+DUKAT: Well, this may sound naive, but I was expecting to see fire. They are called the fire caves.#
+DUKAT: I've never seen you look so radiant.#
+DUKAT: Do you give yourself willingly to the Pah wraiths?#
+DUKAT: Then call to them.#
+DUKAT: I'm honoured.#
+DUKAT: Now you.#
+DUKAT: Why?#
+DUKAT: No!#
+DUKAT: Did you really think the Pah wraiths would choose you to be their Emissary? Soon the Pah wraiths will burn across Bajor, the Celestial Temple, the Alpha Quadrant. Can you picture it? A entire universe set in flames, to burn for all eternity. The Prophets have sent me a gift. Their beloved Emissary, sent forth like an avenging angel to slay the demon.#
+DUKAT: Go on. Kill me if you can.#
+DUKAT: You'll have to do better than that, Captain.#
+DUKAT: This is too easy. That's it. Come closer. That's it.#
+DUKAT: Now bow to me. I said bow.#
+DUKAT: Then why are you the one on your knees?#
+DUKAT: Benjamin, please. We've known each other too long. And since this is the last time we will ever be together, let's try to speak honestly. We've both had victories and our defeats. Now it's time to resolve our differences and face the ultimate truth. I've won, Benjamin. You've lost.#
+DUKAT: And who's going to stop us?#
+DUKAT: You can't even stand up.#
+DUKAT: Are you still here?#
+DUKAT: Farewell, Adami. (Sisko rugby-tackles Dukat and they both go over into the flames with the book. Sisko pushes Dukat below him, and the Kosst Amojan then Dukat burst into flames.)#

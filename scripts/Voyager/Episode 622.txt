@@ -389,7 +389,7 @@ ZIMMERMAN [OC]: Fine, Haley, fine. Give me a few minutes.
 [Zimmerman's lab]
 (Zimmerman is receiving a massage from a
 Tarlac woman. She continues to knead with her elbow whilst scanning him
-with a medical tricorder.)ZIMMERMAN:;Ah. Ah. Lower. Ah. Perfect. I needed this. You have
+with a medical tricorder.)ZIMMERMAN: Ah. Ah. Lower. Ah. Perfect. I needed this. You have
 no idea what I've had to endure these past few days. Last night I woke
 up and I found him hovering over my bed with a hypospray. A smattering
 of photons, that's all he is. What's that? What is that? A tricorder?
@@ -676,7 +676,7 @@ treatments, but I'm optimistic he'll make a full recovery.
 [Zimmerman's lab]
 (The EMH is taking holo-photographs of the lab.)ZIMMERMAN:
 Trying to steal my secrets? 
-EMH:;Another one of my hobbies. I thought I'd take
+EMH: Another one of my hobbies. I thought I'd take
 home a few memories. You're supposed to be in bed. 
 ZIMMERMAN: I've got work to do. 
 EMH: It can wait. Go to bed. Doctor's orders. 

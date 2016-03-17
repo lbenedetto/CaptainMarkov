@@ -23,7 +23,7 @@ SEVEN: The procedure could take several hours.
 NEELIX: How much do they know about what's happening?
 SEVEN: Nothing. The children have overactive imaginations. I don't want
 to alarm them unnecessarily. 
-NEELIX:;What if they start asking questions? I can't just lie to
+NEELIX: What if they start asking questions? I can't just lie to
 them. 
 SEVEN: You have considerable childcare experience. I'm sure you'll
 manage. 
@@ -274,7 +274,7 @@ COMPUTER: Ensign Vorik is in Engineering, level two.
 NEELIX
 [OC]: Meanwhile, Commander Chakotay was headed for Engineering, or so
 he thought.;(The turbolift doors open and he steps out by the mess hall. He gets back in.)
-CHAKOTAY:;Engineering. (The turbolift doesn't move.) CHAKOTAY: I bet you wouldn't try to
+CHAKOTAY: Engineering. (The turbolift doesn't move.) CHAKOTAY: I bet you wouldn't try to
 pull this on the Captain. Have it your way. I'll walk. (The doors shut in his face.)
 NEELIX [OC]: The turbolift started to fall 
 [Cargo
@@ -494,7 +494,7 @@ NEELIX
 [OC]: I still had no idea what was going on. I'd been waiting in the
 mess hall for more than four hours in the dark, cut off from the rest
 of the crew. (He hears the doors open and shut.)
-NEELIX:;Is somebody there? Hello? Hello? Hello? 
+NEELIX: Is somebody there? Hello? Hello? Hello? 
 [Corridor]
 (He forces the mess hall doors open.)NEELIX:
 Is somebody out there? Tom, if that's you, this isn't funny. (The turbolift
@@ -740,7 +740,7 @@ her ship
 tube]
 NEELIX
 [OC]: I was with Tuvok and about to face one of mine. (Tuvok is zapped by energy.)
-NEELIX:;Tuvok! Lie still. I'll try to (Purple-red gas enters the
+NEELIX: Tuvok! Lie still. I'll try to (Purple-red gas enters the
 tube.) 
 TUVOK: Mister Neelix. Proceed without me. 
 NEELIX: I'm not leaving you here. 

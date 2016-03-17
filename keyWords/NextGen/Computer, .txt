@@ -1,6 +1,6 @@
 Computer, give me a location on Captain Picard.#
 Computer, emergency order to Transporter room three.#
-Computer, exit! (nothing) Data, try the other exit in the hall.#
+Computer, exit!  Data, try the other exit in the hall.#
 Computer, identify exit.#
 Computer, this is the Captain! Computer, identify exit!#
 Computer, I'd like some place to play some music. A little atmosphere.#
@@ -129,7 +129,7 @@ Computer, configure a perimeter field charge, sections Nine K through Twelve T.#
 Computer, prepare to transport me directly to the following coordinates.#
 Computer, estimate the time from this location to Starbase four one six at warp nine.#
 Computer, establish a security code for access to all functions previously transferred to Bridge.#
-Computer, initiate cascade sequence, accepting instructions from Commander Data en route. (enters turbolift) Now.#
+Computer, initiate cascade sequence, accepting instructions from Commander Data en route.  Now.#
 Computer, begin scan phase.#
 Computer, three metre cross seal.#
 Computer, restore tactical station.#
@@ -177,7 +177,7 @@ Computer, given the distance between the light and the wall, can you determine t
 Computer, locate Commander La Forge.#
 Computer, what was the last known location of Commander La Forge?#
 Computer, location of Lieutenant Barclay.#
-Computer, begin new programme. Create as follows, workstation chair. (he sits in it) Now, create a standard alphanumeric console positioned for left hand. Now an iconic display console positioned for right hand. Tie both consoles into the Enterprise main computer core, utilising neural-scan interface.#
+Computer, begin new programme. Create as follows, workstation chair.  Now, create a standard alphanumeric console positioned for left hand. Now an iconic display console positioned for right hand. Tie both consoles into the Enterprise main computer core, utilising neural-scan interface.#
 Computer, how were the Argus reactors shut down?#
 Computer, respond.#
 Computer, locate Council Member Vash.#
@@ -224,7 +224,7 @@ Computer, perform a narrow bandwidth analysis. Eliminate all non-vocal waveform 
 Computer, continuous playback please. There are approximately one thousand voices overlapping. The voices are those of the Enterprise crew. Our voices.#
 Computer, display Saturn NavCon file six dash three seven nine. These images were obtained by a navigational control satellite in orbit Computer, freeze image. Magnify sector gamma three and enhance.#
 Computer, what is the location of Alexander Rozhenko?#
-Computer, some jestral tea, please. Anyway, why shouldn't I get married if I choose to? You make everything into such a mystery. There is no mystery, Deanna, except about this Petrokian sausage.#
+Computer, some jestral tea, please. Anyway, why shouldn't I get married if I choose to? You make everything into such a mystery. There is no mystery, Deanna, except about this Petrokian sausage. The tea. All I wanted was a cup of tea. Oh dear, I think your replicator's having a nervous collapse.#
 Computer, analyze the nitrium content of both the affected stabiliser and replicator.#
 Computer, stop at next level. Computer, acknowledge.#
 Computer, transfer power from warp engines to life support.#
@@ -351,3 +351,5 @@ Computer, where is Jason Vigo?#
 Computer, modify holodeck programme Data seven three. Shakespeare's The Tempest, Act Five, scene one. Increase torchlight by twenty percent.#
 Computer, end programme.#
 Computer, end programme.#
+Computer, restore holographic image.#
+Computer, where is Admiral Riker?#

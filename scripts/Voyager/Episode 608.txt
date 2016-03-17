@@ -228,7 +228,7 @@ SEVEN: Who programmed the device?
 COMPUTER: Commander Tuvok. 
 SEVEN: Display the detonation. Advance the image by point zero one
 seconds. Again. 
-SEVEN: Isolate grid three seven and magnify. (There is a blue beam aiming at the array.)SEVEN:; Is that a tractor beam? 
+SEVEN: Isolate grid three seven and magnify. (There is a blue beam aiming at the array.)SEVEN:  Is that a tractor beam? 
 COMPUTER: Insufficient sensor data. 
 SEVEN: Identify its source. 
 COMPUTER: Insufficient sensor data. 

@@ -69,7 +69,7 @@ Computer, level one security access.#
 Computer, locate Ensign Melora Pazlar.#
 Computer, any Vulcan etudes on file?#
 Computer, play something by Delvok.#
-Computer, turn on. (starts to leave) Quark to Odo.#
+Computer, turn on.  Quark to Odo.#
 Computer, one chiraltan tea, with a double twist of lemon. Something wrong?#
 Computer, lights on full.#
 Computer, please show me a chart of this star system.#
@@ -148,7 +148,7 @@ Computer, run programme delta five nine.#
 Computer, this is Captain Benjamin Sisko. Initiate auto-destruct sequence. Authorisation Sisko alpha one alpha.#
 Computer, elapsed time?#
 Computer, bat'leth. I thought you might be tired of fighting holograms.#
-Computer, lights. (stays dark) Bridge to Engine Room.#
+Computer, lights.  Bridge to Engine Room.#
 Computer, I need to store all data currently in the transporter pattern buffer. Where can I save it?#
 Computer, what if we wiped all computer memory in every system on the station and then stored the patterns?#
 Computer, this is a command priority override. Wipe all computer memory necessary in order to save the patterns from the buffer. Authorisation Eddington zero six five alpha enable.#
@@ -162,7 +162,7 @@ Computer, locate Commander Worf.#
 Computer, time.#
 Computer, locate Jake Sisko.#
 Computer, reactivate turbolift.#
-Computer, lights. (doorbell, doorbell) Come in already.#
+Computer, lights.  Come in already.#
 Computer, remove corpse. For a man who wants to kill himself, you're strangely determined to live.#
 Computer, bat'leth. MoVas ah-kee rustak!#
 Computer, locate Keiko O'Brien.#
@@ -194,7 +194,7 @@ Computer, initiate programme Sisko one nine seven.#
 Computer, time.#
 Computer, time.#
 Computer, lights.#
-Computer, freeze programme. Computer. (beep) Hi. Er, listen. Go to native language mode and replay time code seven six one through seven six nine.#
+Computer, freeze programme. Computer.  Hi. Er, listen. Go to native language mode and replay time code seven six one through seven six nine.#
 Computer, music. Make it grand.#
 Computer, respond.#
 Computer, freeze programme. Reset Jem'Hadar.#
@@ -212,7 +212,7 @@ Computer, music. Something romantic.#
 Computer, locate Sarina Douglas.#
 Computer, override door locks. Authorization Bashir delta five seven alpha.#
 Computer, run programme Bashir sixty two.#
-Computer, activate fire suppression sys (penny drops) Laas? I need to talk to you.#
+Computer, activate fire suppression sys  Laas? I need to talk to you.#
 Computer, freeze programme. There must be a little problem in the character deletion algorithm.#
 Computer, override locking mechanism.#
 Computer, show me the position of the Koraga at the time it was attacked.#

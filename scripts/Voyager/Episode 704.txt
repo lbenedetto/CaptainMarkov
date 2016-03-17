@@ -151,7 +151,7 @@ Pressure's fluctuating in one one four. (Jor is standing on the upper level.)
 JOR: You'd better check the seals. 
 [Jeffries
 tube]
-(Josa crawls into the tube and starts scanning. Suddenly the lights go out. YOSA:;Yosa to Engineering. Engineering. (The sound of a hatch opening, then bright lights shine into his eyes.)YOSA: Hello? (Yosa backs out of the tube.)YOSA: Computer, seal
+(Josa crawls into the tube and starts scanning. Suddenly the lights go out. YOSA: Yosa to Engineering. Engineering. (The sound of a hatch opening, then bright lights shine into his eyes.)YOSA: Hello? (Yosa backs out of the tube.)YOSA: Computer, seal
 hatch six one three beta. 
 COMPUTER: Unable to comply. 
 YOSA: Crewman Yosa to Security.(The lights reach him.)
@@ -395,7 +395,7 @@ to the brig.
 [Brig]
 (Tuvok is meditating while the EMH scans him.)EMH: He
 wants to speak with you, but I advise you to remain outside the forcefield. 
-JANEWAY:;Tuvok, can you hear me? 
+JANEWAY: Tuvok, can you hear me? 
 TUVOK: I hear you. But there is another voice trying to control me. 
 JANEWAY: Another voice? Whose? This is a holy time. What did you mean
 by that? 
@@ -482,7 +482,7 @@ TUVOK: We spoke briefly. He was interested in Vulcan culture. That's
 all I remember. 
 JANEWAY: Maybe that's all he wanted you to remember. He was developing
 some kind of mind control technique. We think he used it on you seven
-years ago. (Tuvok has a quick sepia vision of himself.)JANEWAY:;What is it?
+years ago. (Tuvok has a quick sepia vision of himself.)JANEWAY: What is it?
 TUVOK: I, I was restrained. Very frightened. 
 JANEWAY: What did he do to you? 
 TUVOK: I can't remember. 

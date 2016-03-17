@@ -636,7 +636,7 @@ RIGA: I know.
  TUVOK:
 Captain, there has just been an unauthorised launch from shuttlebay
 one, The Delta Flyer. 
-JANEWAY: Tom. (The Flyer plunges into the ocean.)JANEWAY:; Hail him. 
+JANEWAY: Tom. (The Flyer plunges into the ocean.)JANEWAY:  Hail him. 
 TUVOK: No response. 
 CHAKOTAY: Try a tractor beam. 
 TUVOK: We're out of range. 

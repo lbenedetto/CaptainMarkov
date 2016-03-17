@@ -321,7 +321,7 @@ after being active for so long.
 EMH: I assure you I am in perfect health. I was saving Voyager from
 annihilation when you were only a gleam in your programmer's eye. Now,
 are you going to help me take back this ship or not? 
-EMH2: Get me the thrombic modulator. (The EMH hesitates over the various devices on the instrument tray, then picks up one like a small flying saucer.)EMH2:;It's the cone shaped device. Hand
+EMH2: Get me the thrombic modulator. (The EMH hesitates over the various devices on the instrument tray, then picks up one like a small flying saucer.)EMH2: It's the cone shaped device. Hand
 it to me, please. Medical science has made a few advances while you've
 been off in the Delta Quadrant, did you say? 
 EMH: That's right. 
@@ -606,7 +606,7 @@ a message back from them.
 HIROGEN [on screen]: All messages will be intercepted. 
 TORRES: He's trying to jam the link again. 
 JANEWAY: There must be some room for negotiation. Isn't there anything
-you might accept in exchange for (They see energy hitting the Hirogen. The transmission ends.)JANEWAY:;What happened? 
+you might accept in exchange for (They see energy hitting the Hirogen. The transmission ends.)JANEWAY: What happened? 
 SEVEN: I generated a feedback surge along our sensor link. 
 TORRES: You killed him? 
 SEVEN: It was a mild shock. He will recover. 

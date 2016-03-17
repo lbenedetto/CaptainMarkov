@@ -520,3 +520,5 @@ COMPUTER: Awaiting authorisation.#
 COMPUTER: Genetic re-sequencing in progress. DNA to seventy percent normal.#
 COMPUTER: Programme initiated. Enter when ready.#
 COMPUTER: Jason Vigo is in holodeck four.#
+COMPUTER: That beverage has not been programmed into the replication system.#
+COMPUTER: Admiral Riker is in Ten Forward.#

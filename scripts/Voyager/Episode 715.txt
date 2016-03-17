@@ -275,7 +275,7 @@ background, Chopin's Barcarolle.)
 HOLO-CHAKOTAY: You look perfect. Give me a hand with this? 
 SEVEN: I'm surprised your Starfleet training didn't include cork
 extraction. 
-HOLO-CHAKOTAY: I must have been sick that day. (The cork refuses to budge from the bottle neck.)HOLO-CHAKOTAY:;Looks like wine's off
+HOLO-CHAKOTAY: I must have been sick that day. (The cork refuses to budge from the bottle neck.)HOLO-CHAKOTAY: Looks like wine's off
 the menu. 
 SEVEN: Unless you brought a phaser. 
 HOLO-CHAKOTAY: Never on the first date. 
@@ -499,7 +499,7 @@ you stand to gain.
 SEVEN: It's irrelevant. 
 HOLO-CHAKOTAY: No, it's not. Real intimacy with another person?
 Nothing's more relevant. (Seven hears the little noise again.)
-SEVEN:;I must return to my station. 
+SEVEN: I must return to my station. 
 HOLO-CHAKOTAY: Stay here with me. 
 SEVEN: This ship needs me. 
 HOLO-CHAKOTAY: So do I. (That sound again.)
@@ -507,14 +507,14 @@ SEVEN: I can't function this way.
 HOLO-CHAKOTAY: You're not a drone anymore, you're human. 
 SEVEN: Stop! (The noise becomes constant.) 
 HOLO-CHAKOTAY: Seven, what's wrong? (Seven picks up her comm. badge and activates it.)
-SEVEN:;Sickbay, medical emergency. 
+SEVEN: Sickbay, medical emergency. 
 [Sickbay]
 EMH:
 Seven? Computer, locate Seven of Nine.
 COMPUTER: Seven of Nine is in Holodeck two. 
 [Holodeck
 - Seven's quarters]
-(The EMH appears.)EMH:;What happened? 
+(The EMH appears.)EMH: What happened? 
 HOLO-CHAKOTAY: We were having an argument, then she just collapsed. 
 EMH: Her cortical node is shutting down. She's going into neural shock.
 And what happened to her facial implants? 

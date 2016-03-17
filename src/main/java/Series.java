@@ -94,7 +94,7 @@ public enum Series {
 			case DS9:
 				return currentEpisodeNum < 575;
 			case VOY:
-				return currentEpisodeNum < 272;
+				return currentEpisodeNum < 722;
 			case ENT:
 				return currentEpisodeNum < 98;
 			default:

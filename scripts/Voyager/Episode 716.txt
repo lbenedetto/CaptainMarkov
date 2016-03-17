@@ -98,7 +98,7 @@ JUNIOR: I'm just observing humanity. Aren't you going to scamper away, make
 some futile attempt to cover yourself? (She continues working. He returns her clothes, shakes his head and leaves.)
  [Mess
 hall] 
-(Janeway goes to the wall replicator.)JANEWAY:;Coffee, black. 
+(Janeway goes to the wall replicator.)JANEWAY: Coffee, black. 
 COMPUTER: Make it yourself. 
 NEELIX: You can thank Q's son. He thought the computer needed more
 personality. 
@@ -353,7 +353,7 @@ hall]
  NEELIX:
 Welcome. It's so nice to see you this evening. I hope you're hungry.
 Step right up, there's plenty for everyone. Enjoy! (Junior is behind the counter, serving the food.)
-JUNIOR:;Do you ever stop? 
+JUNIOR: Do you ever stop? 
 NEELIX: Oh, I'm sorry. I forgot. My talking annoys you. Too bad you
 can't just shut me up again, huh? Crewman Biddle, where have you been
 hiding yourself? I haven't seen you in days. 
@@ -709,7 +709,7 @@ together. And when they realised they might lose me, they crumbled like
 a Gelbian sand sculpture. 
 JUNIOR: They're going to return my powers? 
 Q: They already have. (Junior conjures up a large bouquet of roses.)
-JUNIOR:;For you, Captain. For all your help. 
+JUNIOR: For you, Captain. For all your help. 
 JANEWAY: Thank you. (Then she notices the room is full of roses.) 
 Q: Now that you're a Q again, I thought we might spend some quality
 time together. I want to show you the cosmos the way it was meant to be

@@ -34,15 +34,12 @@ HOSHI: I've managed to translate most of what Klaang said, but none of it makes 
 HOSHI: Nope.#
 HOSHI: The word's not even in their database. It's all there. There were only four words I couldn't translate. probably just proper nouns.#
 HOSHI: It's all right. Rigelian uses a pronominal base. The translator's just reprocessing the syntax.#
-HOSHI: Isn't an enclave supposed to have people?#
 HOSHI: T'Pol said something about live food. I don't see any restaurants.#
 HOSHI: Ha'quj jeg! They looked Klingon to me.#
 HOSHI: Maybe we should get back to where there are more people.#
-HOSHI: Where's the pod?#
 HOSHI: Great!#
 HOSHI: I think I have frostbite.#
 HOSHI: I never had to worry about frostbite in Brazil.#
-HOSHI: Sensor resolution's falling off at about twelve kilometres.#
 HOSHI: You might think about recommending seat belts when we get home.#
 HOSHI: We've got sensors.#
 HOSHI: Over three thousand, but I can't isolate a Klingon. If there is one.#
@@ -86,7 +83,6 @@ HOSHI: No, I'd better get back to the Launch Bay.#
 HOSHI: I've been cleared on EM sidearms and class three pulse rifles. I've never seen one of those.#
 HOSHI: Is this necessary?#
 HOSHI: Enterprise, we've got access. We're boarding the vessel.#
-HOSHI: Well, at least we know they're bipeds.#
 HOSHI: The ladder.#
 HOSHI: There's power going through here, but not much of it.#
 HOSHI: Blood?#
@@ -106,7 +102,6 @@ HOSHI: Captain.#
 HOSHI: Maybe it's a log. What do you think?#
 HOSHI: The grammar sounds bimodal.#
 HOSHI: Let's hope.  Ship. Ship.#
-HOSHI: How long before the transceiver's online?#
 HOSHI: The quicker we get this done, the quicker we can get back to the ship.#
 HOSHI: Yeah, great.#
 HOSHI: Distress. Two other teachers and I once took a hydro-skimmer out onto a small tributary in the Amazon. You know, to see the wildlife. Sloths, pink dolphins, all kinds of snakes.#
@@ -154,23 +149,18 @@ HOSHI: The irony is that Captain Mitchell's message never reached Earth. The deb
 HOSHI: They went to visit some monks. Why would they scan for alien ships?#
 HOSHI: You can't expect them to check in every ten minutes.#
 HOSHI: You sure you're not over-reacting? They're probably just taking a tour, observing some kind of meditation ritual.#
-HOSHI: I've lost the signal.#
 HOSHI: No response.#
 HOSHI: Aye, sir.#
 HOSHI: Transmission from the surface. It's a modulated EM signal, very weak.#
 HOSHI: No, it'll just scramble your molecules.#
 HOSHI: Aye, sir.#
 HOSHI: That means we discovered it.#
-HOSHI: Captain, I'm detecting a vessel closing on our position. It's Vulcan.#
-HOSHI: Commander, you wanted to see me?#
 HOSHI: Looks like an encrypted transmission. It came from the Vulcan ship.#
-HOSHI: Whenever you're ready, Captain.#
 HOSHI: Well, Chloe, that's a very good question. We use a device called the universal translator. It's like an alien dictionary with hundreds of languages programmed into it, and it can learn new languages very quickly, but it doesn't always work, and when that happens it's up to me to try to translate. I'm sure I don't have to tell you it can be really hard sometimes. One wrong word can mean the difference between saying 'take my hand' or 'take my life'. So far I have managed to do pretty well.#
 HOSHI: Sorry it took so long. The code was pretty complex.#
 HOSHI: It's in Vulcan. You'll have to run it through the translation matrix.#
 HOSHI: I didn't feel it'd be right.#
 HOSHI: Aye, sir.#
-HOSHI: Captain, you should take a look at this.#
 HOSHI: The Vulcan ship's hailing us.#
 HOSHI: Captain Vanik wants to know if we require assistance.#
 HOSHI: Who? I'm picking up dozens of cities on each continent.#
@@ -186,7 +176,6 @@ HOSHI: Her name's Riann, she's an apothecary.#
 HOSHI: I think we may have seen some of them. Mottled skin, lesions on their faces.#
 HOSHI: We're being hailed from the surface.#
 HOSHI: I don't think so.#
-HOSHI: The dampening field's down.#
 HOSHI: It's the Captain.#
 HOSHI: Even if we get the reactor, how are we going to keep them from taking it back?#
 HOSHI: Their comm. systems may be down.#
@@ -207,16 +196,12 @@ HOSHI: Aren't you going to take the chair?#
 HOSHI: You're in command.#
 HOSHI: Haven't you ever wondered what it's like?#
 HOSHI: Okay.#
-HOSHI: We're being hailed by Captain Fraddock.#
-HOSHI: And the transport ship is requesting permission to dock. Some of the passengers would like to take you up on your offer and observe it from the Mess Hall.#
-HOSHI: Someone just used our comm. system to transmit a message.#
 HOSHI: I'd like to send a few test transmissions to calibrate amplifiers. An hour.#
 HOSHI: The channel's open, sir.#
 HOSHI: Maybe they got our signal but it didn't make any sense to them. Our translator is far from perfect.#
 HOSHI: Sir?  I tracked them down. It took me all week.#
 HOSHI: Kota Baharu. It's in Malaysia.#
 HOSHI: A little after nine at night.#
-HOSHI: How'd it go?#
 HOSHI: Me, sir?#
 HOSHI: Maybe this is more in Chef's area.#
 HOSHI: Sir, I'm running a diagnostic on our subspace transceiver array.#
@@ -236,7 +221,6 @@ HOSHI: Try, please.#
 HOSHI: Is that a fish?#
 HOSHI: Thanks.#
 HOSHI: I've talked to his sister, his best friend, his Uncle Archie, his two spinster aunts. The most anyone seems to know about his eating habits is that he occasionally eats.#
-HOSHI: Anyone sitting here?#
 HOSHI: This is the first chance I've had to eat all day.#
 HOSHI: How's your ravioli?#
 HOSHI: Nothing like a nice plate of pasta. You know, I used to love to cook but I never get a chance to anymore, and the way that Chef protects the galley. One of these nights, I should fix something myself.#
@@ -249,7 +233,6 @@ HOSHI: What does that have to do with?  Oh! No, I didn't, I didn't mean to imply
 HOSHI: No, it's my fault. I shouldn't have. Yeah, I'll just.#
 HOSHI: No, no, no, you've got a lot of work to do, so. (Hoshi leaves with her tray.)#
 HOSHI: I can't raise Vulcan. It's funny. I ran a diagnostic after the attack, but now Echo Two won't respond.#
-HOSHI: Doctor?#
 HOSHI: I see you released your patients.#
 HOSHI: That's good to hear.#
 HOSHI: Any idea what his favourite food might be?#
@@ -278,7 +261,6 @@ HOSHI: Are we still on for later?#
 HOSHI: I can hardly wait. (Hoshi leaves. Phlox sits down to listen to his letter.)#
 HOSHI: The ship's not answering our hails, Captain.#
 HOSHI: I need a little more.#
-HOSHI:  How are your patients?#
 HOSHI:  I'm sure you'll find a way to help them.#
 HOSHI:  Do you like the food?#
 HOSHI:  Eggplant's not a vegetable, it's a nostril.#
@@ -320,7 +302,6 @@ HOSHI: They've cut transmission.#
 HOSHI: They were using a triaxilating signal.#
 HOSHI: We're getting another transmission.#
 HOSHI: It's not from the planet. It's coming from a Vulcan ship, the Ni'Var.#
-HOSHI: We're being hailed. It's the Vulcans.#
 HOSHI: He's unavailable at the moment. Can I take a message?#
 HOSHI: What shuttlepod is that?#
 HOSHI: I really wouldn't know, sir. We get shuttlepods coming and going all the time. It's a little like Union Station around here. (She starts messing with the transmission frequency on her board.)#
@@ -352,7 +333,6 @@ HOSHI: How weak?#
 HOSHI: Shouldn't we try to help them?#
 HOSHI: How do you know?#
 HOSHI: What if we carry some of them into the pod? We could save three or four.#
-HOSHI: What's that?#
 HOSHI: What about escape pods?#
 HOSHI: Maybe we can use their comm. system to contact Enterprise.#
 HOSHI: I'll try, but reading Klingon is a lot different than speaking it.#
@@ -403,7 +383,6 @@ HOSHI: No, and he feels terrible about the damage to Enterprise. He has no idea 
 HOSHI: I saw the wreckage on the asteroid. There wasn't much left.#
 HOSHI: They're hailing us again.#
 HOSHI: We'll have to send our readings to the publisher so they can put out a revised edition.#
-HOSHI: Sir, I'm picking up a transmission from Echo three. (Archer signs a PADD and hands it back to the red-haired woman - a yeoman?)#
 HOSHI: It's Admiral Forrest.#
 HOSHI: How is that possible?#
 HOSHI: No response.#
@@ -418,8 +397,6 @@ HOSHI: I can't trace the signal. He must have scrambled the carrier wave.#
 HOSHI: I'm tracing it now. Bearing one seven eight mark twelve.#
 HOSHI: I'm triaxilating the signal, sir. If we were in the middle of Starfleet headquarters no one would pick it up.#
 HOSHI: It's Captain Archer.#
-HOSHI: We're being hailed. It's him.#
-HOSHI: Those patrol ships are closing fast.#
 HOSHI: Here they come.#
 HOSHI: Two direct hits. They're veering off.#
 HOSHI: They took heavy damage. They're both attempting to land.#
@@ -429,7 +406,6 @@ HOSHI: Kjass. Skjask las?#
 HOSHI: You eat like you mate?#
 HOSHI: I think they want to leave.#
 HOSHI: Jhaaratun yiitooratt loorii.#
-HOSHI: Does anybody hear that?#
 HOSHI: Frequency distortions mixed in with the static.#
 HOSHI: It's coming from the comm. system.#
 HOSHI: Twice. I guess today is just not my day.#
@@ -462,7 +438,6 @@ HOSHI: I didn't ask for you to keep count of every time I make a mistake, or to 
 HOSHI: This goes beyond duty, Sub-Commander. You've been looking over my shoulder ever since you came on board. Double-checking my log entries, my translations.#
 HOSHI: Is that all we're talking about? You don't think I belong on Enterprise, do you.#
 HOSHI: Yes. Why don't we take another look at the sub-harmonics. I was thinking we could run it through the decryption matrix, see if we can find a pattern. All I see is numbers, codes.#
-HOSHI: Here, here it is. I found a third set of repetitions. Try it. Just a few more and the UT can start building a syntax.#
 HOSHI: I'm going to create distortions in the tone. Hopefully, the organism will understand what I'm trying to do. (Phlox's scanner shows vital signs at dangerously low levels. After her#
 HOSHI: It's talking to us.#
 HOSHI: Hold on. It's giving us coordinates.#
@@ -486,19 +461,16 @@ HOSHI: Well, what's it like?#
 HOSHI: Did you do anything there?#
 HOSHI: Our aft sensors are still out of alignment.#
 HOSHI: The Mazarites are still jamming us.#
-HOSHI: They're hailing us.#
 HOSHI: I don't see how, sir.#
 HOSHI: We may have gotten a message through to them, sir, but I'm not sure.#
 HOSHI: The comm. just went down, sir.#
 HOSHI: They're hailing us.#
-HOSHI: We're being hailed.#
 HOSHI: No. It's coming from a city on the far side of the desert.#
 HOSHI: That's the best I can give you. The entire region is flooded with jamming signals.#
 HOSHI: Why Montana? Of all the places the Vulcans could have landed they chose Bozeman, Montana.#
 HOSHI: Well, how did they know it wouldn't alarm other nations? An alien species makes contact with the United States. It could have made a lot of other countries nervous.#
 HOSHI: It seems to me that we're going to run into similar problems. We get invited to dinner, and before you know it we're accused of taking sides in a war.#
 HOSHI: He's hailing us.#
-HOSHI: I'm glad you decided to take some time off, sir.#
 HOSHI: That sounds kind of dangerous.#
 HOSHI: Is that all you two think about?#
 HOSHI: I plan on doing something constructive with my time. I have been relying on the universal translator far too much. Before I left Earth, I learned thirty eight languages and now all I do is push a button and the computer does all the work.#
@@ -522,7 +494,6 @@ HOSHI: Where are you from?#
 HOSHI: That's the name of your planet? Say it slower.#
 HOSHI: Try it again.#
 HOSHI: I'm not ready to give up. Will you teach me?#
-HOSHI: I'm sorry. I give up. I never thought that I'd hear a language I couldn't learn.#
 HOSHI: It only took you one day to pick up English.#
 HOSHI: Teacher.#
 HOSHI: Oh, we don't have anything exactly like it. The closest thing would be a strawberry.#
@@ -537,12 +508,10 @@ HOSHI: Two days and two nights. That's all we had.#
 HOSHI: Took advantage of me? Not for a minute.#
 HOSHI: What's that smell?#
 HOSHI: As a matter of fact, I learned several new conjugations.#
-HOSHI: Enterprise to Shuttlepod one. Captain Archer, please respond.#
 HOSHI: The shuttlepod's attitude isn't right.#
 HOSHI: Not yet. Now.#
 HOSHI: We could see the colony in full magnification, sir. The ground was scorched for at least a hundred kilometres in every direction.#
 HOSHI: Sir, I tried to explain. There's nothing left. No buildings, no trees, no people.#
-HOSHI: The atmospheric analysis of the probe is coming through.#
 HOSHI: Even if they have, they'd take me back. I'm a prodigy, remember? How about you?#
 HOSHI: What if they made you Captain? You're going to be the most famous Boomer around, you know.#
 HOSHI: Then it's our job to let the people back home know what really happened. Anyone who tries to bad-mouth Captain Archer in front of me is going to get an earful in any language they want.#
@@ -551,14 +520,12 @@ HOSHI: What for?#
 HOSHI: We'll do our best, Captain.#
 HOSHI: I wouldn't know, sir. Our comm. is on the fritz.#
 HOSHI: Aren't we in range of their sensors, sir?#
-HOSHI: They're charging weapons.#
 HOSHI: The Stealth Cruiser was definitely in orbit of the Paraagan colony when the explosion took place. They were monitoring us very closely. There are sensors logs that tracked our course, our altitude, even our hull temperature. Look at these. (Lovely shots of Enterprise viewed from underneath with the planet behind.)#
 HOSHI: Those cloaking devices sure come in handy.#
 HOSHI: We're being hailed.#
 HOSHI:  There's nothing left. No buildings, no trees, no people.#
 HOSHI: We didn't have time to make a copy.#
 HOSHI: Isn't there some other way that I can help out? Something that needs translating? You know how claustrophobic I am.#
-HOSHI: Then how far to Lieutenant Reed's?#
 HOSHI: Good guess.#
 HOSHI: Great. If you don't mind I'd just like to get this over with.#
 HOSHI: Whatever you're about to say I don't want to hear it. Just get me a shirt.#
@@ -580,7 +547,6 @@ HOSHI: They were offended.#
 HOSHI: Five days.#
 HOSHI:  Go ahead.#
 HOSHI:  Feel better, Porthos.#
-HOSHI: It's their reconciliation demands. The Captain's not going to believe this.#
 HOSHI: Captain, I didn't.#
 HOSHI: Do we have a chainsaw on board?#
 HOSHI: I apologise. We weren't aware that it was required.#
@@ -612,24 +578,6 @@ HOSHI: Do you mind, Lieutenant?  HOSHI: I can see your finger tensing on the tri
 HOSHI: The Vulcan database says it has a methane-based atmosphere.#
 HOSHI: There's no record of them ever having spoken, but I can't be certain.#
 HOSHI: If he has, the Vulcan database doesn't mention it.#
-HOSHI: I need to spend more time in the gym.#
-HOSHI: I could have spent all day in that temple.#
-HOSHI: I don't suppose it has anything to do with the tactical situation down there.#
-HOSHI: Kultarey.#
-HOSHI: I did everything but tear up the floor plating.#
-HOSHI: I think I can narrow down the search, Captain. An inverse carrier wave should amplify its power signature. With any luck, I'll be able to isolate it.#
-HOSHI: I'm getting something. I've got it down to two square kilometres.#
-HOSHI: I'll try.#
-HOSHI: I've isolated the signal to within three city blocks. That's the best I can do, sir.#
-HOSHI: If they're in a public place, the communicator would draw attention.#
-HOSHI: The comm. line's open.#
-HOSHI: Somewhere in this district.#
-HOSHI: It hasn't moved.#
-HOSHI: Maybe they took a train or a car.#
-HOSHI: There are nearly a hundred thousand people in that part of the city.#
-HOSHI: They're here, inside this compound.#
-HOSHI: Right away.#
-HOSHI: Sub-Commander, another communiqu�. It's from a General Gosis to the Chancellor. He said they've captured two enemy spies. They're going to hang them.#
 HOSHI: The orange spinach?#
 HOSHI: Why don't we let him tackle that when he gets back? I have something else in mind. HOSHI: It's one of my grandmother's specialties. The recipe's been passed down for generations.#
 HOSHI: Oh no. You can resequence all the chicken and potatoes you want, but I am making this from scratch.#
@@ -646,7 +594,6 @@ HOSHI: Carrots!#
 HOSHI: I believe I'm in charge of the galley.#
 HOSHI: You're relieved.#
 HOSHI: Get out!#
-HOSHI: I have eighty three people to feed, not just senior officers.#
 HOSHI: I don't have time for special orders. Anyway, you'll like this better.#
 HOSHI: It'll be ready in one minute, sir.#
 HOSHI: If you're so hungry, fix yourself a sandwich.#
@@ -654,8 +601,6 @@ HOSHI: That is a very complex recipe. I will not serve it till it's just right. 
 HOSHI: These are at least three hundred years older than the ones in the last chamber.#
 HOSHI: No. How about you?#
 HOSHI: You're a budding linguist. Let's get a shot of that one.(A#
-HOSHI: Captain, these ruins have very thick walls. I'm sure we'll be safe inside.#
-HOSHI: Over four thousand years old. I'm sure they've survived hundreds of these storms.#
 HOSHI: Couldn't we wait it out inside the shuttle? Polarise the hull plating.#
 HOSHI: Have you ever done this?#
 HOSHI: Your molecules get pulled apart.#
@@ -684,7 +629,6 @@ HOSHI: What happened to him?#
 HOSHI: What happened to him?#
 HOSHI: I must have fallen asleep before the ghost stories.#
 HOSHI: See you later.#
-HOSHI: Doctor? Doctor Phlox. Hello?#
 HOSHI: I just looked in there. Were you in there? Did you hear me come in?#
 HOSHI: You didn't hear me?#
 HOSHI: No, I'm not feeling well. I dematerialised, and then I rematerialised and, no, I'm not feeling well.#
@@ -697,7 +641,6 @@ HOSHI: It's not a joke, Doctor. If that machine could move a birthmark, who know
 HOSHI: Hello?#
 HOSHI: What time is it?#
 HOSHI: Eleven hundred hours, that's impossible. My shift starts at oh eight hundred.#
-HOSHI: I'm sorry, Captain, I don't know what happened.#
 HOSHI: Taken hostage by who?#
 HOSHI: People? There wasn't a biosign on the planet.#
 HOSHI: How could you possibly know that?#
@@ -710,7 +653,6 @@ HOSHI: If I went back to the universal translator, maybe I could#
 HOSHI: I can't.#
 HOSHI: I know. I don't understand what he's saying. I'm, I'm sorry. I'm sorry.#
 HOSHI: Captain, I realise I overslept. I don't know how it happened, but please, I don't want to go back to my quarters.#
-HOSHI: Anyone sitting here? Sub-commander?#
 HOSHI: Thank you. I would've thought you'd be on the Bridge.#
 HOSHI: Commander Tucker. Travis.#
 HOSHI: It's only been an hour since I left the Bridge. What happened?#
@@ -719,7 +661,6 @@ HOSHI: That's impossible. I ran every linguistic algorithm.#
 HOSHI: If we've decrypted their language, I should get back to the Bridge. It sounds like the Captain might want to speak with them again.#
 HOSHI: Alison.#
 HOSHI: What?#
-HOSHI: Can you see me?#
 HOSHI: Can you see me?#
 HOSHI: Something's wrong, Doctor. Something's very wrong. Ever since I used that transporter nothing has been the way that it's supposed to be. I couldn't translate a simple, bi-modal syntax, but Crewman Baird could. Crewman Baird doesn't know the first thing about our linguistic database. And Captain Archer told me to stay in my quarters, but my mirror doesn't want to give me a solid reflection and my shower can't decide whether to bounce off me or go through me. Nobody wants to talk to me. Sometimes I think they don't even see that I'm there. The turbolift control won't even respond to me.#
 HOSHI: You won't put this on my medical record, will you?#
@@ -774,7 +715,6 @@ HOSHI: I was trying to save Enterprise.#
 HOSHI: It's all in my head, remember?#
 HOSHI: If it's all the same to you, sir, I'd like to stick to shuttlepods for the time being.#
 HOSHI: Captain, if you don't mind.#
-HOSHI: Commander? Hello?#
 HOSHI: Give or take an adverb.#
 HOSHI: At least you don't have to work alone.#
 HOSHI: Who is she? Any idea?#
@@ -788,11 +728,8 @@ HOSHI: I'm out of desserts.#
 HOSHI: Thanks, Chef.#
 HOSHI: Who's picking these movies? Shouldn't we all get a vote?#
 HOSHI: I've isolated your comm. frequencies. They won't hear a thing.#
-HOSHI: Enterprise to Shuttlepod One. Commander Tucker, do you read me?#
 HOSHI: They're hailing us.(A grey skinned alien with aggressive bony ridges radiating out across the face from the bridge of his nose.)#
-HOSHI: Captain, I'm picking up a transmission.#
 HOSHI: I can't tell yet. I'm trying to get a lock.#
-HOSHI: It doesn't make any sense.#
 HOSHI: We're orbiting an alien world, and most of the crew are free to go down and visit. Why would anyone want to stay on board and watch a movie?#
 HOSHI: It sounds like you're the one picking the movies.#
 HOSHI: Who else would choose an obscure horror film? Why not something a little more, I don't know, romantic? I'm going down to the surface.#
@@ -806,14 +743,12 @@ HOSHI: She's pulling your leg, sir. I was only talking about grammar.#
 HOSHI: I've got to go. It was very nice to meet you.#
 HOSHI: I'm trying, sir, but if the Vulcans can't find them.#
 HOSHI: Yes, sir.#
-HOSHI: Commander.#
 HOSHI: I can't be sure. You see this EM differential here?#
 HOSHI: It's definitely a biosign. I'm ninety percent sure it's human.#
 HOSHI: I need another hour.#
 HOSHI: We're being hailed by the Vulcans and the Andorians.#
 HOSHI: We're being hailed from the surface. It's the Captain.#
 HOSHI: We're being hailed.#
-HOSHI: Someone's trying to open Launch bay two.#
 HOSHI: I can't.#
 HOSHI: I don't know, but I don't think he was paying you a compliment.#
 HOSHI: No response. We're being hailed by the Suliban.#
@@ -823,17 +758,9 @@ HOSHI: They've locked on to both docking ports.#
 HOSHI: They're cutting through the doors.#
 HOSHI: They're disengaging.#
 HOSHI: Aye, sir. Captain's Starlog, supplemental. A Vulcan transport is en route to tow the Tal'Kir. Fortunately, there were no casualties. Our long range scanners show no sign of Tholians or Suliban in our vicinity.#
-HOSHI: Please respond. Enterprise to Shuttlepod One. Captain Archer, please respond.#
-HOSHI: There's only one more log entry after that. Something about a pan zan match.#
-HOSHI: It's a sporting event. The Captain said it was the closest thing to water polo he's seen since we left Earth.#
-HOSHI: I'm picking up an automated distress signal.#
-HOSHI: The signal originated near our rendezvous coordinates, but they've stopped transmitting.#
-HOSHI: No response.#
-HOSHI: They're trying to hail the prison transport. They're not getting a response.#
 HOSHI: We're in visual range.#
 HOSHI: No response, sir. I'm not even detecting a transceiver on board.#
 HOSHI: Aye, sir. Captain, we've been getting reports from all over the ship. Some of the crew are acting very strange.#
-HOSHI: We polarised the hull plating as soon as we detected that ship. Obviously it didn't do any good. What's keeping them from taking all of us?#
 HOSHI: I thought you said we needed to get out of here.#
 HOSHI: It would be best if they stayed where they were.#
 HOSHI: We're offering them a great opportunity. They may never get another chance to experience existence as we do.#
@@ -912,7 +839,6 @@ HOSHI: Don't trust her. She's not one of us.#
 HOSHI: Urquat?#
 HOSHI: Tell me. What was it like?#
 HOSHI: Someone's coming.#
-HOSHI: Can I help you?#
 HOSHI: I know. News travels fast on a starship. I'm Ensign Hoshi Sato.#
 HOSHI: I just happen to be going that way.#
 HOSHI: I'm the ship's Communications Officer.#
@@ -1024,12 +950,6 @@ HOSHI: Why now?#
 HOSHI: He came to my quarters.#
 HOSHI: He gave me these coordinates.#
 HOSHI: A Xindi colony. He said they're building part of the weapon there.#
-HOSHI: Who are you?#
-HOSHI: What do you want?#
-HOSHI: A Xindi colony. He said they're building part of the weapon there.#
-HOSHI: It's the Captain. Go ahead, sir.#
-HOSHI: The radiolytic signature. If you can get it onboard their ship, I'll be able to track it.#
-HOSHI: Loud and clear.#
 HOSHI: Captain! (Everyone stares in horror at the viewscreen, as the Xindi weapon blasts Earth into tiny pieces.) [Archer and T'Pol's home] (Archer wakes in a light, airy room. His hair is shot through with grey. He goes through to the kitchen where T'Pol is pouring orange juice.)#
 HOSHI: I�m reading more anomalies ahead.#
 HOSHI: They�re locking on to the starboard docking port.#
@@ -1050,7 +970,6 @@ HOSHI: We just showed you this book. How do you know about the Martian machines?
 HOSHI: Your mum?#
 HOSHI: Captain, I'm reading one person in there. [Launch bay]#
 HOSHI: Loud and clear.#
-HOSHI: The signal was so weak I wasn't even sure it was there at first.#
 HOSHI: Yes, sir. The isotopic signature matches the kemocite that you planted on the Xindi ship.#
 HOSHI: We've managed to dig about thirty percent of our lost data out of the redundant memory core.#
 HOSHI: Here.#
@@ -1064,14 +983,9 @@ HOSHI: No. There's a reference to a planet he visited recently, Azati Prime.#
 HOSHI: I've recovered a letter Degra wrote to his wife a few months ago. Her name's Naara. They have two children.#
 HOSHI: This is going to be a rough one, sir.#
 HOSHI: I've got it.#
-HOSHI: Their sensors are pretty sophisticated. They might see us long before then.#
 HOSHI: The Captain's certainly drinking a lot.#
-HOSHI: That you'd been captured by the insectoids. There were reports that you had been executed.#
-HOSHI: They're coming in. One one two seven point four by four zero five two by three nine zero one point one.#
 HOSHI: There's something in his hand.#
 HOSHI: Piral and Jaina.#
-HOSHI: It's not in here, sir.#
-HOSHI: Why would he encrypt the coordinates if they weren't accurate?#
 HOSHI: Military Assault Command.#
 HOSHI: They're coming in.#
 HOSHI: Captain, I'm picking up an intermittent signal. Very faint.#
@@ -1086,23 +1000,13 @@ HOSHI: I'm sorry, Major. (Hayes starts to back up to open a comm. channel himsel
 HOSHI: It's Commander Tucker.#
 HOSHI: If Commander Tucker wants to speak insectoid I have to get this#
 HOSHI: No response.#
-HOSHI: Comm.'s down.#
-HOSHI: I thought Insectoid was tough.#
 HOSHI: My mother always wanted me to take piano lessons. I should have listened to her.#
 HOSHI: I've gone through the databanks. Just your standard navigational operational files, but I did find one document. An engineer asking his supervisors for additional parts. Here's a translation.#
 HOSHI: The names of Degra's children.#
-HOSHI: They're still hailing us.#
 HOSHI: We have another hull breach, on E deck.#
-HOSHI: Scanning all frequencies. Nothing so far.#
-HOSHI: We're receiving a transmission. It's Degra. He's telling us to follow him.#
-HOSHI: They're hailing us.#
-HOSHI: Captain, the temperature in Lieutenant Reed's suit is over forty four degrees.#
-HOSHI: Forty six degrees.#
-HOSHI: Captain, Degra's hailing us.#
 HOSHI: We're within visual range.#
 HOSHI: I don't think that's Colombia.#
 HOSHI: We're being hailed.#
-HOSHI: Two, a boy and a girl. Toru and Yoshiko.#
 HOSHI: I don't know. It was probably in their database but I didn't look it up.#
 HOSHI: Some things are better left a mystery. How about you, did you get married?#
 HOSHI: A MACO? How well do you know her?#
@@ -1132,7 +1036,6 @@ HOSHI: [translating aquatic) We agree.#
 HOSHI: The weapon's been launched from beneath the surface. The Insectoid ships are in formation around it.#
 HOSHI: We're being hailed.#
 HOSHI: It's the shuttlepod.#
-HOSHI: Why am I here? What do you want?#
 HOSHI: Maybe you should have applied yourself more.#
 HOSHI: I'm not a cryptologist.#
 HOSHI: That's very flattering, but you'll have to manage on your own.#
@@ -1145,7 +1048,6 @@ HOSHI: I did. I should have fought harder.#
 HOSHI: I tried to jump but I wasn't fast enough.#
 HOSHI: You've got the three codes so why don't you just kill me? Didn't you say you're going to kill me?#
 HOSHI: I understand.#
-HOSHI: What have you guys figured out?#
 HOSHI: I've found the sequence, but decrypting it's another story. Your friend Degra didn't make this easy.#
 HOSHI: The first time you came to visit me in Brazil.#
 HOSHI: I had a bug then, too. A tropical bacterium not a reptilian parasite. I was sick as a dog but I wanted to make a good impression.#
@@ -1431,3 +1333,11 @@ HOSHI: We're in the mess hall.#
 HOSHI: No, I don't see him, sir.#
 HOSHI: Wait here, sir.#
 HOSHI: Samuels is in here. He's safe.#
+HOSHI: I told them a couple of weeks after the ceremony. With all the receptions, and then I'll need at least a week to clear up the linguistic database.#
+HOSHI: And the bugs.#
+HOSHI: That'd be like Zefram Cochrane not taking credit for warp drive.#
+HOSHI: Shallash.#
+HOSHI: Maybe a little. I never really thought he was my type. Didn't even graduate college, he learned about engineering working on boat engines, I think. Never cared much about languages, could barely speak English. But he did have his moments. I still find him kind of cute. Keep that to yourself.#
+HOSHI: I'm sure the Admiral wanted us to have a view that took in the scope of the occasion.#
+HOSHI:  Have you given an answer to Captain Stillwell yet?#
+HOSHI: I've heard he's already been tapped for admiral.#

@@ -1,4 +1,5 @@
 import java.io.*;
+import java.nio.file.Files;
 
 class Character {
 	String characterExternalName;
@@ -22,7 +23,8 @@ class Character {
 					System.out.println("Reading file ./characters/" + series.name + "/" + characterExternalName + ".txt");
 				file = new IterableFile("./characters/" + series.name + "/" + characterExternalName + ".txt");
 			} catch (FileNotFoundException e) {
-				System.out.println("File not found, creating file ./characters/" + series.name + "/" + characterExternalName + ".txt");
+				if (Menu.deepLogging)
+					System.out.println("File not found, creating file ./characters/" + series.name + "/" + characterExternalName + ".txt");
 				saveLines();
 			}
 		}
@@ -34,9 +36,10 @@ class Character {
 	private void saveLines() {
 		SeriesReader seriesReader = new SeriesReader(series);
 		//Create the directory
-		if (!new File("./characters/" + series.name).mkdirs()) {
-			System.out.println("Failed to create directory ./characters/" + series.name);
-		}
+		File f = new File("./characters/" + series.name);
+		if (!f.exists())
+			if (!f.mkdirs())
+				System.out.println("Failed to create directory ./characters/" + series.name);
 		System.out.println("Saving lines spoken by " + characterExternalName);
 		boolean recordingLine = false;
 		try {

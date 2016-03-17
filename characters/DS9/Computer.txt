@@ -335,3 +335,5 @@ COMPUTER: Warning. Plasma flow activity ahead.#
 COMPUTER: Re establishing engine control is recommended.#
 COMPUTER: Acknowledged. (The runabout touches a flare and gets thrown around. Then she sees something else artificial out there.)#
 COMPUTER: Command codes transferred.#
+COMPUTER: Doctor Bashir. The time is oh five hundred.#
+COMPUTER: Emergency power engaged.#

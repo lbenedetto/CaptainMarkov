@@ -82,7 +82,7 @@ LaTour. My compliments.
 TUVOK: The '29? 
 JANEWAY: I hate to waste good wine. Give him the '36. 
 TUVOK: As you wish. 
-SEVEN:;And I have waited so long. It must be right. It can't be
+SEVEN: And I have waited so long. It must be right. It can't be
 wrong. 
 (The song finishes, and she gets a round of applause.)
 SEVEN: Merci. Be generous to Claude this evening. Without him, my voice
@@ -992,7 +992,7 @@ he'll die.
 MEDIC: Treat the burns, or I'll deactivate your programme. 
 EMH: What kind of physician are you? The first rule of triage states
 that the critical injuries take priority. 
-MEDIC: You're rules, not mine. (He deactivates the EMH.)MEDIC:;From now on, leave the wounded
+MEDIC: You're rules, not mine. (He deactivates the EMH.)MEDIC: From now on, leave the wounded
 prey where they fall. Tend only to our own. 
  
 [Holodeck two - Klingon programme] 
@@ -1103,7 +1103,7 @@ JANEWAY: I'll explain later. Set the detonator for five minutes.
  MEDIC: Five hunters have been killed in the last hour. You must engage
 the safety protocols. 
 KARR [on monitor]: Those protocols aren't functioning. 
-MEDIC: Then I'll need assistance to (He hears a hatch opening.) MEDIC:;Stand by. [Sickbay]MEDIC:;You. 
+MEDIC: Then I'll need assistance to (He hears a hatch opening.) MEDIC: Stand by. [Sickbay]MEDIC: You. 
 JANEWAY: Get him out of here. 
 CHAKOTAY: There are ten pounds of dynamite under the floor set to blow
 in less than three minutes. Move.(Chakotay
@@ -1121,7 +1121,7 @@ KaBOOM! The Sickbay doors are blown out.)
  [Le
 Coeur de Lion] 
 (Paris and Torres grab the back of their necks in pain. Tuvok likewise.)SEVEN:
-We are on the holodeck under attack. You must (The Kapitan enters with Hirogens. The Resistance and their allies are taken prisoner.)TURANJ:;Bridge, this is holodeck one. I have seized the building,
+We are on the holodeck under attack. You must (The Kapitan enters with Hirogens. The Resistance and their allies are taken prisoner.)TURANJ: Bridge, this is holodeck one. I have seized the building,
 and I have found another access to this holodeck. 
  [Ready
 room] 
@@ -1240,7 +1240,7 @@ what you need to create the holodeck technology. It would be cunning
 for you to agree. 
  [Le
 Coeur de Lion] 
-(Turanj pours himself a glass of wine.)TURANJ:;Synthetic, and undrinkable. I am tired of this simulation. 
+(Turanj pours himself a glass of wine.)TURANJ: Synthetic, and undrinkable. I am tired of this simulation. 
 KAPITAN: Mein Herr, a word with you. 
 TURANJ: And these holograms are becoming annoying as well. 
 KAPITAN: What are we waiting for? Why don't we execute these
@@ -1406,7 +1406,7 @@ weren't close enough.)
 KAPITAN: Surrender. (Janeway limps to a
 place where a holographic soldier no longer has any legs. She drags him
 back and they reappear, and she carries on. Meanwhile, Seven is helped
-to her feet. Real life thunder rumbles overhead.)KAPITAN:;Verdamt. Bring that one to me. I will spare
+to her feet. Real life thunder rumbles overhead.)KAPITAN: Verdamt. Bring that one to me. I will spare
 your life for now, but only because you are carrying a German child. 
  
 [Corridor] 
@@ -1417,7 +1417,7 @@ steps forward. His rifle starts to disappear, he looks down and she
 hits him with a metal pipe. Then she picks up the rifle and he runs away.) 
  [Sainte
 Claire - Street] 
-(A firing squad is formed.)KAPITAN:;Against the wall. Your deaths will serve the glory of the
+(A firing squad is formed.)KAPITAN: Against the wall. Your deaths will serve the glory of the
 Reich. Prepare to fire. (A swarm of Klingons burst through the barricade. The Nazi soldiers go to meet them. Turanj looks down on the melee.)
 NEELIX: Fight on, warriors! This way! 
 EMH: Qapla', gentlemen. Qapla'! (Neelix and the EMH stay under a cafe awning as the rain pours. The Kapitan knocks down Paris, then a Klingon kills him.) 

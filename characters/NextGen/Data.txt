@@ -3179,7 +3179,6 @@ DATA: Yes, sir.#
 DATA: I must replace the emitter module and reconnect the power supply. It will take approximately two minutes to complete the modification, sir.#
 DATA: I have completed modifications, Commander.#
 DATA: Lieutenant Barclay's performance was adequate, but clearly not rooted in The Method approach. I do not understand why.#
-DATA: The fusion reactors that power the array are extremely unstable. There is a high risk of overload.#
 DATA: They do not seem to be functioning at all, sir.#
 DATA: No, sir. Power emissions do not match any known radiation patterns. We have not encountered this technology before, sir.#
 DATA: Captain, sensors are reading no particulate emissions or subspace field distortions.#
@@ -5949,3 +5948,91 @@ DATA: The polarising effect being created by the beam may make it possible for u
 DATA: I will attempt to do so.#
 DATA: Sir, the Maquis ships are breaking formation.#
 DATA: No, sir. They are withdrawing.#
+DATA: Holding the Lucasian Chair does have its perquisites. This house originally belonged to Sir Isaac Newton when he held the position. It's become the traditional residence.#
+DATA: Jessel. She can be frightfully trying at times, but she does make me laugh.#
+DATA: I found that a touch of grey adds an air of distinction.#
+DATA: Captain, how long has it been since you've seen a physician about your Irumodic Syndrome?#
+DATA: But sir, peridaxon#
+DATA: In all honesty, Captain, the thought has occurred to me. However, there's nothing to disprove what you're saying. So it's possible something is happening to you. The first thing we should do is run a complete series of neurographic scans. We can use the equipment at the biometrics lab here on the campus. Jessel, ask Professor Ripper to take over my lecture for tomorrow. Possibly for the rest of the week. Captain, we'll get to the bottom of this.#
+DATA: That would be inadvisable.#
+DATA: If you attempt to ignite a petroleum product on this ship at zero hundred hours, it will activate the fire suppression system, which would seal off this entire compartment.#
+DATA: Expression of what?#
+DATA: Ah. Then to burn the midnight oil implies late work?#
+DATA: I am curious. What is the etymology of that idiom? How did it come to be used in contemporary language?#
+DATA: It is good to see you, too, sir.#
+DATA: Certainly.#
+DATA: This will need a completely new field induction subprocessor. It appears that we will be required to ignite the midnight petroleum, sir.#
+DATA: It would appear there is a discontinuity between the time periods you described. Events in one time period would seem to have no effect on the other two.#
+DATA: Aye, sir.#
+DATA: Computer, restore holographic image.#
+DATA: There is another option. We could arrange passage aboard a medical ship.#
+DATA: Yes, sir. There was an outbreak of Terrellian plague on Romulus. The Klingons have been allowing Federation medical ships to cross the border.#
+DATA: Doctor.#
+DATA: I'm not sure. Information on the Klingon political structure is hard to come by these days. However, at last report Worf was governor of H'atoria, a small Klingon colony near the border.;#
+DATA: How would you define unusual, sir? Every region of space has its own unique properties that cannot be found anywhere else.#
+DATA: Nothing, sir.#
+DATA: Given the fact that there is an apparent discontinuity between the three time periods the Captain has visited, Q's statement may be accurate, if confusing.#
+DATA: That is true. Q's interest in you has always been very similar to that of a master and his beloved pet. That was only an analogy, Captain.#
+DATA: Captain, there are four warbirds holding position on the Romulan side of the Neutral Zone.#
+DATA: Sensors are picking up a large subspace anomaly directly ahead.#
+DATA: Aye, sir.#
+DATA: We are approaching the Devron system, Captain. Sensors are picking up a large subspace anomaly directly ahead.#
+DATA: Aye, sir.#
+DATA: As you can see, sir, there's nothing there.#
+DATA: Still nothing, Captain. I've conducted a full sensor sweep out to one light year from the Pasteur. No temporal anomalies, no particle fluctuations, nothing.#
+DATA: There are several methods of detecting temporal disturbances, but we're limited by the equipment on the Pasteur.#
+DATA: However, it may be possible to modify the main deflector to emit an inverse tachyon pulse, which could scan beyond the subspace barrier.#
+DATA: To make the modifications and search the entire Devron system will take approximately fourteen hours.#
+DATA: The anomaly is two hundred million kilometres in diameter. It is a highly focused temporal energy source which is emitting approximately the same energy output as ten G type stars.#
+DATA: I am uncertain, sir. Sensors are unable to penetrate the anomaly.#
+DATA: That is a most intriguing idea, sir. I do not believe a tachyon beam was ever used in such a way. I had no idea you were so versed in the intricacies of temporal theory, sir.#
+DATA: I believe we can make the necessary modifications in main Engineering, sir.#
+DATA: Agreed. Initiating tachyon pulse.#
+DATA: It will take the computer some time to give us a complete picture of the anomaly's interior. I suggest we#
+DATA: Geordi? What is wrong?#
+DATA: Data to Sickbay. Medical emergency in main Engineering.#
+DATA: Captain, I believe I have a partial explanation. I have completed my analysis of the anomaly. It appears to be a multi-phasic temporal convergence in the space-time continuum.#
+DATA: It is, in essence, an eruption of anti-time.#
+DATA: A relatively new concept in temporal mechanics. The relationship between anti-time and normal time is analogous to the relationship between antimatter and normal matter.#
+DATA: They would annihilate one other, causing a rupture in space. I believe this is what happened in the Devron system. The rupture may be sending out waves of temporal energy which are disrupting the normal flow of time.#
+DATA: Anti-time, sir?;#
+DATA: That is a fascinating hypothesis. How did you formulate#
+DATA: Captain, another ship decloaking bearing two one five mark three one oh. It's the Enterprise.#
+DATA: They're hailing us.#
+DATA: The Klingon ship is disengaging. Admiral Riker is hailing us.#
+DATA: Approximately one hour forty five minutes, sir.#
+DATA: Aye, sir.#
+DATA: Our tachyon pulse has been unable to completely penetrate the anomaly. If we had information on the centre of the phenomenon, we might have a basis for speculation.#
+DATA: In theory, a tomographic imaging scanner capable of multiphasic resolution would be able to penetrate this much interference. The Daystrom Institute has been working on such a device, but it is still only theoretical.#
+DATA: Yes, sir.#
+DATA: Possibly.  There is a great deal of interference, but I am getting some readings. This is very unusual.#
+DATA: It appears that our tachyon pulse is converging with two other tachyon pulses at the centre of the anomaly. The other two pulses have the exact same amplitude modulation as our own pulse. It is as if all three originated from the Enterprise.#
+DATA: Captain, what are you suggesting?#
+DATA: I suspect the last thing Counsellor Troi would have wanted is for the two of you to be alienated.#
+DATA: I think I know what the Captain's talking about. If I'm not mistaken, he's describing a paradox.#
+DATA: Intriguing. It is possible we could've caused the very anomaly we've been looking for. Let us assume for a moment that the Captain has been travelling through time. Let us also assume he has initiated an tachyon pulse at the same coordinates in space in all three time periods. In that case, it is possible that the convergence of three tachyon pulses could've ruptured the subspace barrier and created an anti-time reaction.#
+DATA: If we go back to the Devron system now, we might be able to see the initial formation of the anomaly.#
+DATA: Sensors are picking up a small temporal anomaly off the port bow.#
+DATA: The anomaly is being sustained by the continuing tachyon pulses in the other two time periods. I suggest shutting them down.#
+DATA: I will investigate the options.#
+DATA: Sir?#
+DATA: Aye, sir.#
+DATA: No, sir.#
+DATA: Aye, sir. Disengaging.#
+DATA: It remains unaffected here as well, sir.#
+DATA: It would require taking the ship into the anomaly itself. Once inside, we may be able to use the engines to create a static warp shell.#
+DATA: Collapsing the anomaly and restoring the normal flow of time. But this would have to be done in the other two time periods as well.#
+DATA: I am preparing to initiate a static warp shell.#
+DATA: Captain, I have an idea. If we take the ship to the centre of the anomaly and create a static warp shell#
+DATA: Yes, sir.#
+DATA: At least thirty seconds, sir.#
+DATA: We have reached the centre, sir.#
+DATA: Initiating static warp shell now.#
+DATA: Something is happening. A new subspace barrier appears to be forming,#
+DATA: Captain, it appears to be working. The anomaly is beginning to collapse. I think that#
+DATA: The warp shell is definitely having an effect, sir. The anomaly is collapsing.#
+DATA: Both of the other ships have been destroyed.#
+DATA: The anomaly is nearly collapsed.#
+DATA: I believe, however, this situation is unique. Since the anomaly did not occur, there have already been changes in the way this time line is unfolding. The future we experience will undoubtedly be different from the one the Captain encountered.#
+DATA: Five card draw, deuces wild.#
+DATA: Would you care to deal, sir?#

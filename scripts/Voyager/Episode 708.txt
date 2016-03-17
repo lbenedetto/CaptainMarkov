@@ -40,7 +40,7 @@ JANEWAY: I agree. Until we get underway again, he's assigned to you.
 With him on your team, maybe you'll get this job done a little faster. 
 [Delta
 Flyer - cockpit]
-(Neelix has his feet up, and is snoring.)KIM:;Neelix? (Kim sounds an alarm to wake him.)KIM: Rise and shine. It's oh five hundred. 
+(Neelix has his feet up, and is snoring.)KIM: Neelix? (Kim sounds an alarm to wake him.)KIM: Rise and shine. It's oh five hundred. 
 NEELIX: Already? Oh. I was dreaming we found the dilithium and were
 back aboard Voyager. 
 SEVEN: Dreaming is an accurate description. 
@@ -76,7 +76,7 @@ KIM: Neelix, set our deflector beam for a narrow pulse. Seven, let me
 know the second their weapons array is fully charged. I might be able
 to trigger an overload. 
 NEELIX: The deflector bandwidth is at point four microns. SEVEN: Now.(Kim fies the pulse at the Annari ship and then veers off.)
-SEVEN:;Their weapons are offline. Shields are down. They're
+SEVEN: Their weapons are offline. Shields are down. They're
 retreating. 
 KIM: Take the helm. Neelix, you're with me. 
 [Kraylor

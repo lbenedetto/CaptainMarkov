@@ -200,7 +200,7 @@ into the cockpit and hears the computer beeping about an open panel.
 Kim starts to put his helmet away in the storage cage when an alien
 hiding in there
 jumps him. Chakotay enters with his phaser drawn.)
-CHAKOTAY:;Don't move.
+CHAKOTAY: Don't move.
 (The alien raises his weapon, so Chakotay shoots him.) CHAKOTAY: You okay? Delta Flyer to Paris. Chakotay to away team.
 Respond.(Whumph!)
 [Delta
@@ -401,7 +401,7 @@ PARIS: They're no substitute for an environmental suit.
 CAREY: These people have lived here all their lives without
 environmental suits.
 NEELIX: These people have lived here without much of anything. (A young girl peeks from behind a rock.)
-YUN:;Hello. 
+YUN: Hello. 
 PARIS: Hello. It's all right. We're not going to hurt you. What's your
 name? 
 YUN: Yun. 
@@ -417,7 +417,7 @@ PARIS: Excuse me. We'd like to give her something. It's in the
 equipment bag. It's a toy. (Brin fetches the globe. Paris turns the music;on and gives it to Yun.)
 VERIN: That could be a weapon. (Verin snatches it away from Yun. Brin takes it and turns it off.)
 BRIN: It's harmless. 
-VERIN:;These men are dangerous. I want you to stay away from
+VERIN: These men are dangerous. I want you to stay away from
 them. Understood? (Yun leaves.)
 PARIS: So much for making friends. 
 NEELIX: Mister Verin? 
@@ -569,7 +569,7 @@ VERIN: Can you?
 PARIS: I think so. But I'll need my med kit. 
 [Cave
 entrance]
-(The Delta Flyer flies over.)GUARD:;Inform Verin. 
+(The Delta Flyer flies over.)GUARD: Inform Verin. 
 [Cave]
 PARIS:
 I'm losing the heartbeat.
@@ -710,7 +710,7 @@ JANEWAY: Not yet. Fire the next sequence.
 OTRIN:
 You can't launch those missiles. 
 VERIN: Hold him. (Brin points a rifle at Verin.)
-BRIN:;Stop.
+BRIN: Stop.
 VERIN: What are you doing? 
 BRIN: I won't let you ruin our only chance for survival. 
 VERIN: You'd kill me? 

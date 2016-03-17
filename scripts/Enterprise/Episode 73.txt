@@ -336,39 +336,7 @@ REED: Yeah, and it would appear I'm going to be one of them.
 TRAVIS: I'm on duty in a few minutes. 
 HOSHI: Me too. See you later, sir. 
 (They leave, and a blonde crewwoman comes in looking around.) 
-REED: This seat's available. 
- [Deleted scene - Sickbay]
- (I have no idea where it originally
-belonged. It doesn't fit naturally anywhere, which could be why it got
-chopped)
-ARCHER: Doctor? 
-PHLOX: Captain. (he's putting together a box of supplies) Their Sickbay
-is in poor shape, and they're short on critical medical supplies. So,
-with your permission? 
-ARCHER: Whatever we can spare. 
-PHLOX: I can't believe this. My Rigellian parrot is still alive. I knew
-they had long lifespans, but 
-ARCHER: You mentioned something about inoculations. 
-PHLOX: Oh, yes. Eight members of their crew are suffering from
-low-grade Nubilian fever. I'd like to vaccinate everyone on both ships.
-Their physician, and I use that term generously, is very inexperienced.
-And I'd like some time to give him a refresher course in viral
-propagation. 
-ARCHER: Do what you can. (turns to leave) 
-PHLOX: It's remarkable, isn't it? Discovering an extended family that
-you never knew existed. Did you know that I have nearly thirty living
-descendants on that ship? I look forward to introducing them to my
-wives on Denobula. 
-ARCHER: I suppose when this mission is over, most of their crew will
-want to return to Earth. 
-PHLOX: From what I've gathered, your great grand-daughter would be more
-at home on the bridge of a starship. 
-ARCHER: We seem to be cut from the same cloth. 
-PHLOX: Perhaps Starfleet will consider allowing children on board
-starships one day. Admiral Forrest did let you bring Porthos. 
-ARCHER: I can imagine the look on the Admiral's face when he sees two
-Enterprises pulling into Spacedock. Keep me updated.  
- [Ready room] 
+REED: This seat's available.  [Ready room] 
  T'POL: She thinks that Lorian's plan won't work.
 T'Pol found a discrepancy in his calculations. If we exceed warp five
 point six the injectors could start to overload. We'd be destroyed. 
@@ -464,8 +432,35 @@ attachment.
 TUCKER: You know, all the other women on board must have been taken,
 because I can't imagine any other reason why I would have married
 someone as stubborn as you. I'll go help Rostov with the port manifold.
-You seem to have everything under control. 
- [Engineering] 
+You seem to have everything under control. [Deleted scene - Sickbay]
+
+ARCHER: Doctor? 
+PHLOX: Captain. (he's putting together a box of supplies) Their Sickbay
+is in poor shape, and they're short on critical medical supplies. So,
+with your permission? 
+ARCHER: Whatever we can spare. 
+PHLOX: I can't believe this. My Rigellian parrot is still alive. I knew
+they had long lifespans, but 
+ARCHER: You mentioned something about inoculations. 
+PHLOX: Oh, yes. Eight members of their crew are suffering from
+low-grade Nubilian fever. I'd like to vaccinate everyone on both ships.
+Their physician, and I use that term generously, is very inexperienced.
+And I'd like some time to give him a refresher course in viral
+propagation. 
+ARCHER: Do what you can. (turns to leave) 
+PHLOX: It's remarkable, isn't it? Discovering an extended family that
+you never knew existed. Did you know that I have nearly thirty living
+descendants on that ship? I look forward to introducing them to my
+wives on Denobula. 
+ARCHER: I suppose when this mission is over, most of their crew will
+want to return to Earth. 
+PHLOX: From what I've gathered, your great grand-daughter would be more
+at home on the bridge of a starship. 
+ARCHER: We seem to be cut from the same cloth. 
+PHLOX: Perhaps Starfleet will consider allowing children on board
+starships one day. Admiral Forrest did let you bring Porthos. 
+ARCHER: I can imagine the look on the Admiral's face when he sees two
+Enterprises pulling into Spacedock. Keep me updated.[Engineering] 
  (The E2 crew have knocked out the Enterprise
 engineers and are accessing the injectors.) 
 LORIAN: Injectors are still online. Greer, 

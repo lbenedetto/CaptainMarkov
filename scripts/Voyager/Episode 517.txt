@@ -19,7 +19,7 @@ BORG [OC]: Irrelevant.
 JANEWAY [on monitor]: Is it? You've scanned our vessel. You know we can
 match your firepower. 
 BORG [OC]: You will be assimilated. (They fire at Voyager, with no effect. Voyager returns fire, and makes things go Bang!)BORG [OC]: Regenerate primary shield matrix.
-Remodulate weapons. (A photon torpedo is beamed inside the Borg vessel.)BORG [OC]:; Security breach. Starfleet photon torpedo. Disarm
+Remodulate weapons. (A photon torpedo is beamed inside the Borg vessel.)BORG [OC]:  Security breach. Starfleet photon torpedo. Disarm
 weapon. (A drone opens the casing. KaBOOM!) 
  [Bridge]
 
@@ -1167,7 +1167,7 @@ thought they couldn't see us.
 PARIS: They can't! They're firing blind! 
  [Borg
 Sphere] 
-(Janeway injects a drone in an alcove.)JANEWAY: Wake him. It's transmitting. (The drone walks through the forcefield.)JANEWAY:;I've got it. Field modulation is
+(Janeway injects a drone in an alcove.)JANEWAY: Wake him. It's transmitting. (The drone walks through the forcefield.)JANEWAY: I've got it. Field modulation is
 three two four point nine five. (Tuvok adjusts her bio-dampener.)
 TUVOK: Proceed. (Janeway goes through the forcefield, and her bio-dampener fritzes.)
 JANEWAY: It's offline. 

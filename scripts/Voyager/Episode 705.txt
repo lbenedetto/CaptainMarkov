@@ -303,7 +303,7 @@ JANEWAY [on monitor]: And we've begun to implement Starfleet's. (Fast forward.)
 REG [on monitor]: In accordance with the seventy
 fourth Rule of Acquisition, Knowledge Equals Profit, I've enclosed the
 specifications you've requested. See you soon. (Next, a picture of Seven of Nine.)
-NUNK:; Oh, look at those hands. I bet she
+NUNK:  Oh, look at those hands. I bet she
 gives great oo-mox.
 YEGGIE: Too bad she'll be dead when she gets here.
 GEGIS: Forget the hands. Show me the nanoprobes. How many are there? 

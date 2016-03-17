@@ -28,7 +28,7 @@ YEDIQ: I had eight men in custody. Where are the other two?
 [Sickbay]
 EMH:
 We're not going to hurt you. (One of them has a laser scalpel to Seven's throat.)
-IKO:;Stay away or I'll kill her! 
+IKO: Stay away or I'll kill her! 
 EMH: I'm sure we can resolve this without resorting to violence. What
 is it you want? 
 IKO: A ship, some food. 
@@ -242,7 +242,7 @@ It's nice to look into someone's eyes and not see fear.
 PARIS
 [OC]: You have to be a criminal to get something to eat around here? (Neelix is reading a PADD while tending a pot.)
 NEELIX: Sorry. Dinner will be ready in fifteen minutes. (Torres slides the shutters apart.)
-TORRES:;You said that fifteen minutes ago. 
+TORRES: You said that fifteen minutes ago. 
 NEELIX: Did you know the Nygeans govern a sector of space occupied by
 several different humanoid species? 
 PARIS: If we say yes, will you feed us? 
@@ -562,7 +562,7 @@ Captain's
 log, supplemental. Warden Yediq has used his influence to convince the
 Nygean family to hear Iko's appeal for leniency. 
 [Bridge]
-(The family are on the viewscreen.)IKO:;I won't beg for my life. It belongs to you. I
+(The family are on the viewscreen.)IKO: I won't beg for my life. It belongs to you. I
 only want you to understand what's happened to me. I'm a different
 person now. A better person. This crew has helped me to see that. If my
 death helps you find peace, I can accept it. But if you let me live, I
@@ -609,7 +609,7 @@ IKO: I'd like that. (Janeway and Yediq enter with a guard.)
 JANEWAY: I'm sorry. The family has denied your appeal. 
 YEDIQ: We're due to rendezvous with a transport ship in a few hours. I
 need to return you to your cell. (Iko puts his hand on Seven's shoulder.)
-IKO:;You were the first person who wasn't afraid to look me
+IKO: You were the first person who wasn't afraid to look me
 in the eye. That's how I'd like to remember you.(Seven
 turns and looks at him. Iko leaves with Yediq and the guard. After a
 moment, Janeway leaves too. She returns some time later.)JANEWAY:

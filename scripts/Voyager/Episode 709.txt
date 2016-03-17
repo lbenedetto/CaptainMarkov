@@ -106,7 +106,7 @@ CHAKOTAY: There may be other injured crewmen. (Chakotay picks up a medkit.)
 EMH: In case you've forgotten, I'm a prisoner of these walls. 
 CHAKOTAY: Where's your mobile emitter? 
 EMH: My what? 
-CHAKOTAY:;I'll be back. 
+CHAKOTAY: I'll be back. 
 EMH: Wait. Tell me about this mobile emitter. 
 [Turbolift]
 CHAKOTAY:
@@ -231,7 +231,7 @@ CHAKOTAY: If you inject yourself, I can take you down that corridor and
 show you everything I've said is true. 
 JANEWAY: Have Mister Kim run a full spectral analysis. For all I know,
 this is poison and Mister Chakotay is trying to assassinate me. (Chakotay grabs Janeway and uses her as a shield.)
-CHAKOTAY:;She's right. It's poison, and
+CHAKOTAY: She's right. It's poison, and
 I'll use it. (He backs them out into the corridor with the hypo at her throat.) 
 [Corridor]
 
@@ -239,13 +239,13 @@ ANDREWS:
 Let her go. 
 CHAKOTAY: Lower your weapon. (Chakotay injects Janeway.)ANDREWS: Captain! (Chakotay steps back through
 the barrier with Janeway, and they disappear.) 
-ANDREWS:;Andrews to the Bridge. I need help here. JANEWAY:
+ANDREWS: Andrews to the Bridge. I need help here. JANEWAY:
 Andrews! 
 CHAKOTAY: He can't hear you. We've moved into a different time frame. 
 ANDREWS: Scan the area but don't go past that bulkhead.
 CHAKOTAY: You want more proof? It's right down that corridor. You just
 have to trust me. 
-JANEWAY:;It isn't easy when you're holding me hostage. 
+JANEWAY: It isn't easy when you're holding me hostage. 
 CHAKOTAY: Stay or go. it's your choice. 
 JANEWAY: Now that I'm inoculated, I can go anywhere on the ship I want?
 CHAKOTAY: That's right. 
@@ -455,7 +455,7 @@ ROBOT: Surrender.
 COMPUTER: Holodeck controls are offline. 
 JANEWAY: Hold on. Now wait a minute.;
 LONZAK: Thieves, my liege. (Satan's Robot grabs Janeway from behind, pinning her arms.)
-ROBOT:;Do not resist. 
+ROBOT: Do not resist. 
 LONZAK: They were attempting to rob your laboratory. 
 CHAOTICA: Fool! Don't you recognise the Queen of the Spider People?
 Arachnia, my bride. I knew you'd return to me one day, so I could watch
