@@ -31,8 +31,8 @@ class PositronicBrain {
 		MarkovChain command = new MarkovChain();
 		for (Series series : Series.values()) {
 			String logPhrase = series == Series.DS9 ? "Station log" : "Captain's log";
-			log.addMoreLines(new KeyWord(logPhrase, false, series));
-			command.addMoreLines(new KeyWord("Computer, ", true, series));
+			log.addFile(new KeyWord(logPhrase, false, series).file);
+			command.addFile(new KeyWord("Computer, ", true, series).file);
 		}
 		out.put("Log", log);
 		out.put("Command", command);
@@ -49,17 +49,17 @@ class PositronicBrain {
 	 * @return HashMap
 	 */
 	private static HashMap<String, MarkovChain> createMarkovChainsForSeries(Series series, String[] characterNames) {
-		System.out.println("Creating markov chains for " + series.toString());
+		System.out.println("Creating markov chains for " + series.name);
 		//this phrased was used more on DS9 than captain's log since Sisko was a commander at first
 		String logPhrase = series == Series.DS9 ? "Station log" : "Captain's log";
 		HashMap<String, MarkovChain> chains = new HashMap<>();
-		chains.put("Log", new MarkovChain(new KeyWord(logPhrase, false, series)));
+		chains.put("Log", new MarkovChain(new KeyWord(logPhrase, false, series).file));
 		series.resetInstance();
-		chains.put("Command", new MarkovChain(new KeyWord("Computer, ", true, series)));
+		chains.put("Command", new MarkovChain(new KeyWord("Computer, ", true, series).file));
 		//Fill the Characters array
 		for (String characterName : characterNames) {
 			series.resetInstance();
-			chains.put(characterName, new MarkovChain(new Character(characterName, series)));
+			chains.put(characterName, new MarkovChain(new Character(characterName, series).file));
 		}
 		return chains;
 	}

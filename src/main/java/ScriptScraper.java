@@ -9,7 +9,7 @@ class ScriptScraper {
 		String episodeNumString = Integer.toString(episode);
 		if (series == Series.ENT && episode < 10)
 			episodeNumString = "0" + episode;
-		scrapeLink("http://www.chakoteya.net/" + series.toString() + "/" + episodeNumString + ".htm", episode, series);
+		scrapeLink("http://www.chakoteya.net/" + series.name + "/" + episodeNumString + ".htm", episode, series);
 		try {
 			Thread.sleep(1000);
 		} catch (InterruptedException ex) {

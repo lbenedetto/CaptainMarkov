@@ -1,35 +1,38 @@
 import java.io.*;
 
-class Character extends LineGetter {
-	private final String characterExternalName;
-	private final String character;
+class Character {
+	String characterExternalName;
+	String character;
+	Series series;
+	IterableFile file;
 
 	/**
 	 * Constructor for Character
 	 *
-	 * @param cName   String
-	 * @param _series Series
+	 * @param cName  String
+	 * @param series Series
 	 */
-	public Character(String cName, Series _series) {
-		super(_series);
+	public Character(String cName, Series series) {
+		this.series = series;
 		characterExternalName = cName;
 		character = cName.toUpperCase() + ":";
-		while (lines == null) {
+		while (file == null) {
 			try {
-				if(Menu.deepLogging)System.out.println("Reading file ./characters/" + series.toString() + "/" + characterExternalName + ".txt");
-				lines = new BufferedReader(new FileReader("./characters/" + series.toString() + "/" + characterExternalName + ".txt"));
+				if (Menu.deepLogging)
+					System.out.println("Reading file ./characters/" + series.name + "/" + characterExternalName + ".txt");
+				file = new IterableFile("./characters/" + series.name + "/" + characterExternalName + ".txt");
 			} catch (FileNotFoundException e) {
-				System.out.println("File not found, creating file ./characters/" + series.toString() + "/" + characterExternalName + ".txt");
+				System.out.println("File not found, creating file ./characters/" + series.name + "/" + characterExternalName + ".txt");
 				saveLines();
 			}
 		}
-		nextLine();
 	}
 
 	/**
 	 * Save lines spoken by this character to a txt file
 	 */
 	private void saveLines() {
+		SeriesReader seriesReader = new SeriesReader(series);
 		//Create the directory
 		if (!new File("./characters/" + series.name).mkdirs()) {
 			System.out.println("Failed to create directory ./characters/" + series.name);
@@ -39,39 +42,31 @@ class Character extends LineGetter {
 		try {
 			String line = "";
 			PrintWriter txtFile = new PrintWriter(new FileWriter("./characters/" + series.name + "/" + characterExternalName + ".txt", true));
-			String curr = currentEpisode.readLine().trim();
-			while (series.hasNextEpisode()) {
-				try {
-					if (curr.startsWith(character)) {
-						recordingLine = true;
-					}
-					//Remove parentheses and brackets
-					curr = curr.replaceAll("\\(.*?\\)", "");
-					curr = curr.replaceAll("\\[.*?\\]", "");
-					curr = curr.trim();
-					if (curr.equals(character))
-						recordingLine = false;
-					if (recordingLine) {
-						if (curr.trim().isEmpty() || (curr.contains(":") && !curr.startsWith(character))) {
-							String out = line.trim() + "#";
-							if (!out.equals("#"))
-								txtFile.println(line.trim() + "#");
-							line = "";
-							recordingLine = false;
-						}
-					}
-					if (recordingLine)
-						line += curr + " ";
-					curr = currentEpisode.readLine().trim();
-				} catch (NullPointerException e) {
-					nextEpisode();
-					curr = currentEpisode.readLine().trim();
+			for (String curr : seriesReader) {
+				if (curr.startsWith(character)) {
+					recordingLine = true;
 				}
+				//Remove parentheses and brackets
+				curr = curr.replaceAll("\\(.*?\\)", "");
+				curr = curr.replaceAll("\\[.*?\\]", "");
+				curr = curr.trim();
+				if (curr.equals(character))
+					recordingLine = false;
+				if (recordingLine) {
+					if (curr.trim().isEmpty() || (curr.contains(":") && !curr.startsWith(character))) {
+						String out = line.trim() + "#";
+						if (!out.equals("#"))
+							txtFile.println(line.trim() + "#");
+						line = "";
+						recordingLine = false;
+					}
+				}
+				if (recordingLine)
+					line += curr + " ";
 			}
 			txtFile.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
-
 }

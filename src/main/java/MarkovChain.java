@@ -17,9 +17,9 @@ class MarkovChain {
 	/**
 	 * Initialize chain with lines
 	 */
-	public MarkovChain(LineGetter lineGetter) {
+	public MarkovChain(IterableFile lines) {
 		createStarterEntries();
-		addMoreLines(lineGetter);
+		addFile(lines);
 	}
 
 	private void createStarterEntries() {
@@ -31,11 +31,11 @@ class MarkovChain {
 	/**
 	 * Add more lines to the Markov Chain
 	 *
-	 * @param lineGetter LineGetter
+	 * @param lines IterableFile
 	 */
-	public void addMoreLines(LineGetter lineGetter) {
-		while (lineGetter.hasNextLine())
-			addWords(lineGetter.getNextLine());
+	public void addFile(IterableFile lines) {
+		for (String s : lines)
+			addWords(s);
 	}
 
 	/**

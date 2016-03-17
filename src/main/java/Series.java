@@ -6,9 +6,9 @@ public enum Series {
 	DS9("DS9", 400),
 	VOY("Voyager", 100),
 	ENT("Enterprise", 0);
-	private HashMap<String, int[]> skippedEpisodeNums;
+	private final HashMap<String, int[]> skippedEpisodeNums;
 	//The script database has a few odd gaps in VOY's numbering, so we'll skip over those
-	private HashMap<Integer, Integer> voyagerEpisodeGaps;
+	private final HashMap<Integer, Integer> voyagerEpisodeGaps;
 	public final String name;
 	public int currentEpisodeNum;
 	private boolean canGetNextEpisode;
@@ -105,7 +105,7 @@ public enum Series {
 	/**
 	 * If the current episode number is skipped, increment the current episode past the gap
 	 */
-	public void validateEpisodeNum() {
+	private void validateEpisodeNum() {
 		for (int skippedNum : skippedEpisodeNums.get(this.name)) {
 			if (skippedNum == currentEpisodeNum)
 				currentEpisodeNum++;
