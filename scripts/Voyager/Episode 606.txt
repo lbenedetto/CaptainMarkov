@@ -1,11 +1,9 @@
 Episode Number: 606
-
 The Voyager Transcripts - Riddles
 Riddles
 Stardate:
 53263.2
 Original Airdate: 3 November 1999
-
   Ambassador's log, stardate
 53263.2. Though helpful during my negotiations on the Kesat homeworld,
 Commander Tuvok certainly hasn't been the most sociable of travel
@@ -160,7 +158,6 @@ JANEWAY: With all due respect, we're more interested in saving Tuvok's
 life. 
 NAROQ: If we work together, maybe we can do both. 
 [Sickbay]
-
 EMH: His
 cognitive, memory and logic centres have all been severely damaged. 
 NAROQ: But he still has brain activity, which is more than I can say
@@ -267,7 +264,6 @@ NEELIX: I'm going to take him on a tour of the ship. The Doctor thinks
 that familiar sights and sounds might get the old synaptic juices
 flowing. Don't worry, Captain. Tuvok will be back to his old self
 before you can say live long and prosper.
-
 [Bridge]
 NEELIX:
 I've brought a visitor. 
@@ -680,5 +676,4 @@ to me that he could also have eaten the Sundaes.
 NEELIX: That's a very clever answer, Mister Vulcan, But it's not very
 logical, is it? 
 TUVOK: No, it's not.  
-
 

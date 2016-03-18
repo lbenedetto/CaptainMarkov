@@ -1,12 +1,10 @@
 Episode Number: 49
-
 The Star Trek Transcripts - A Piece Of The Action
 A
 Piece Of The Action
 Stardate:
 4598.0
 Original Airdate: 12 Jan, 1968
-
   [Bridge]
 CHEKOV: Approaching Sigma Iotia Two, Captain. 
 KIRK: Standard orbit, Mister Chekov. 
@@ -427,7 +425,6 @@ MCCOY: You mean you're going to trust him?
 SPOCK: If we are to save the captain without blatant, forceful
 interference on this planet, Doctor, we must have the assistance of
 someone indigenous. We are therefore forced to trust Mister Oxmyx.
-
 [Small office]
 (Kirk has used copper wire to create a trip-wire,
 and starts throwing the waste paper bin around to make a noise.) 
@@ -865,5 +862,4 @@ KIRK: Serious? Serious, Bones? It upsets the whole percentage.
 MCCOY: How do you mean? 
 KIRK: Well, in a few years, the Iotians may demand a piece of our
 action.  
-
 

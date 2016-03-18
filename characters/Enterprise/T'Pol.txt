@@ -2231,8 +2231,7 @@ T'POL: You often take Porthos for a walk, visit the classrooms on D deck. The ch
 T'POL: You're needed on Enterprise. The civilian leaders are going to want to meet with you.#
 T'POL: I�m resigning my commission.#
 T'POL: Captain Archer will be better off on the surface with the others. He�ll need a caretaker, someone he trusts. I can�t be in two places at the same time.#
-T'POL: I have my reasons. [Archer and T'Pol's home]#
-T'POL: Margaret Mullin. You met her when you were twenty four years old, during flight school in San Francisco. The night before you graduated, you asked her to marry you, outside of her apartment on Westgate Avenue. She turned you down. She said she didn�t want to become a Starfleet widow.#
+T'POL: I have my reasons. [Archer and T'Pol's home] T'POL: Margaret Mullin. You met her when you were twenty four years old, during flight school in San Francisco. The night before you graduated, you asked her to marry you, outside of her apartment on Westgate Avenue. She turned you down. She said she didn�t want to become a Starfleet widow.#
 T'POL: Our relationship has evolved over the years.#
 T'POL: We�re going to Enterprise. [Docking hatch] (They are piped on board in traditional Naval fashion. Tucker has gone grey, too.)#
 T'POL: When can you begin?#

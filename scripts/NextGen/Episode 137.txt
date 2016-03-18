@@ -1,11 +1,9 @@
 Episode Number: 137
-
 The Next Generation Transcripts - Contagion
 Contagion
 Stardate:
 42609.1
 Original Airdate: 20 Mar, 1989
-
  
 Captain's log, stardate 42609.1. In response to a desperate plea for
 aid by my old friend, Captain Donald Varley of the USS Yamato, I am
@@ -764,5 +762,4 @@ DATA [OC]: Aye, sir.
 PICARD: Well, Number One, I can see why you want to keep the away
 missions to yourself. That's where the excitement is. So, what's been
 happening here? Same old routine, I suppose?  
-
 

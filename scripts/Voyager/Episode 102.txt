@@ -1,5 +1,4 @@
 Episode Number: 102
-
 The Voyager Transcripts - Parallax
 Parallax
 Stardate:
@@ -7,7 +6,6 @@ Stardate:
 Original Airdate: January 23, 1995
  
   [Sickbay]
-
 (Lieutenant Carey sits up from the biobed, blood streaming from his
 nose.) 
 CAREY: She's not just out of control, she's out of her mind.
@@ -670,7 +668,6 @@ JANEWAY: If we saturate the event horizon with warp particles, we might
 be able to see the escaping through the rupture we made when we
 entered. 
  [Bridge]
-
 JANEWAY: Mister Tuvok, take the main deflector off-line. Mister Kim,
 reroute the port and starboard plasma flow to the main deflector. We
 can use it to generate a warp field.
@@ -704,7 +701,6 @@ who's familiar with the finer points of temporal mechanics, and unless
 you've been hiding your credentials, I don't think that's you.
 B'Elanna, you're with me. The Bridge is yours, Commander. 
  [Shuttlecraft]
-
 JANEWAY: We've cleared Voyager.
 TORRES: Shields at full strength.
 JANEWAY: We'll reach the rupture in approximately four and a half
@@ -733,7 +729,6 @@ JANEWAY: Increase speed. We have to get to that rupture before these
 spatial distortions tear us apart. All right. Let's open this hole in
 the ice a little wider. Initiate the dekyon beam. 
  [Bridge]
-
 KIM: They've widened the rupture by almost thirty five percent.
 PARIS: They'll have to widen it twice that much before Voyager can make
 it through.
@@ -762,7 +757,6 @@ CHAKOTAY: Mister Paris, as soon as we've recovered the shuttlecraft,
 lay in a course toward the rupture and take us out.
 PARIS: Aye, sir. 
  [Shuttlecraft]
-
 (The shuttlecraft is returning to two Voyagers, one coming towards them
 and one facing away.) 
 TORRES: Well, this is a problem.
@@ -798,7 +792,6 @@ JANEWAY: All right. Cut the thrusters. Let's see what happens. (Bump as
 they come to a halt on the deck.) Feels like a real ship to me. Let's
 get back to the Bridge. 
  [Bridge]
-
 JANEWAY: Commander Chakotay, report.
 CHAKOTAY: We're almost to the rupture. Mister Paris is about to impress
 us with his piloting skills.
@@ -823,7 +816,6 @@ remember that one.
 JANEWAY: Set a course. I want to be at least one hundred million
 kilometres away from the singularity before we begin repairs. 
  [Engineering]
-
 (Chakotay escorts Torres into main engineering.) 
 CHAKOTAY: There they are. Your staff.
 TORRES: I'll try not to break any of their noses.
@@ -873,5 +865,4 @@ EMH: I'm sorry, Lieutenant, but whatever it is you're going to have to
 take care of it yourself.
 PARIS: Oh, it's all right. It's just a scratch, really. You know, I
 like you better this way.  
-
 

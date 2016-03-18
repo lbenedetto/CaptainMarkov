@@ -1,12 +1,10 @@
 Episode Number: 719
-
 The Voyager Transcripts - Natural Law
 Natural
 Law
 Stardate:
 54827.7
 Original Airdate: 2 May 2001
-
   [Shuttlecraft]
 (A standard Starfleet shuttlecraft is flying
 over a lush green forest.) 
@@ -508,7 +506,6 @@ with them, I came to realise that they�re a resourceful, self-reliant
 people. Their isolation may limit their potential, but if that
 isolation ends, so will a unique way of life.
 [Bridge]
-
 AMBASSADOR
 [on viewscreen]: We appreciate your help in opening this territory to
 exploration, Captain. It�s an unprecedented opportunity. 
@@ -643,5 +640,4 @@ SEVEN: If I'd never made those modifications
 CHAKOTAY: We might still be stranded there. I don't know about you, but
 I'm glad to be back on Voyager. 
 SEVEN: As am I.  
-
 

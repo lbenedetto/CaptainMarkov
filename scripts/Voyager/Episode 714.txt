@@ -4,7 +4,6 @@ Workforce
 Stardate:
 545484.3 - 54622.4
 Original Airdate: 21, 28 February 2001
-
   [Power distribution
 plant] 
 (On a
@@ -158,7 +157,6 @@ JAFFEN: Thank you. It looks great.
 completely miserable. She looks at the happy people and leaves again.) 
  [Staircase
 and walkway]
-
 JANEWAY: I can't believe I let you keep me out this late. 
 JAFFEN: I felt it was my responsibility to help you study those
 manuals. 
@@ -290,7 +288,6 @@ COMPUTER: Two humanoids.
 EMH: Can you identify them? 
 COMPUTER: Negative. Sensor resolution is below twenty percent. 
  [Bridge]
-
 (The ECH sneaks onto the bridge, phaser ready. His wrist beacon reveals
 two figures in environment suits.) 
 EMH: Stop what you're doing and turn around! 
@@ -1528,5 +1525,4 @@ life.
 CHAKOTAY: Are you sorry I showed up? 
 JANEWAY: Not for a second. Resume course, Mister Paris. 
 PARIS: Aye, sir.  
-
 

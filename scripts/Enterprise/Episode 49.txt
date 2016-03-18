@@ -1,10 +1,8 @@
 Episode Number: 49
-
 The Enterprise Transcripts - Regeneration
 Regeneration
  Mission date: Mar 1, 2153
 Original Airdate: 7 May, 2003
-
   [Arctic Circle, Earth] 
  (It is
 still a cold, snow-covered landscape that the transport lands in,
@@ -165,7 +163,6 @@ TUCKER: Buried in the ice for a century.
 ARCHER: Hard to believe anything could survive. 
 TUCKER: Handsome devil. 
  [Armoury]
-
 (Reed is studying the images of the aliens on a monitor.) 
 PHLOX: You wanted to see me, Lieutenant? 
 REED: Yes. The researchers gathered a great deal of biometric data on
@@ -270,7 +267,6 @@ race.
 ARCHER: If he was right, they might be heading back to their homeworld
 so they can try again. 
  [Sickbay]
-
  (One of
 the Tarkaleans is starting to regain consciousness.) 
 TARKALEAN: Who are you?! 
@@ -304,7 +300,6 @@ ARCHER: I'll have it brought down.;(The
 Tarkaleans quickly make their way through Jefferies tubes and
 maintenance walkways, looking for something in particular.) 
  [Engineering]
-
 (Looking at a schematic of the Arctic transport.) 
 TUCKER: They've modified most of the primary systems. Engines, hull
 plating. These look like weapons nodes. I don't even want to guess what
@@ -493,7 +488,6 @@ ARCHER: Aren't you jumping the gun a little?
 PHLOX: I have no intention of turning into one of those cybernetic
 creatures. 
  [Armoury]
-
 (Reed and Crewman Foster are test firing a phase rifle.) 
 REED: Increase power another five megajoules. Fire. Keep it going.
 Increase to seven megajoules. Try eight. Nine. The density's holding.
@@ -707,5 +701,4 @@ least two hundred years for a subspace message to reach the Delta
 Quadrant, assuming it's received at all. 
 ARCHER: Sounds to me like we've only postponed the invasion until what,
 the twenty fourth century?  
-
 

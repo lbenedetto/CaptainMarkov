@@ -1,12 +1,10 @@
 Episode Number: 517
-
 The Voyager Transcripts - Dark Frontier
 Dark
 Frontier
 Stardate:
 52619.2
 Original Airdate: 17 February 1999
-
   [Borg Probe Vessel]
  BORG
 [OC]: A vessel has been detected. Unimatrix four two four grid one one
@@ -22,7 +20,6 @@ BORG [OC]: You will be assimilated. (They fire at Voyager, with no effect. Voyag
 Remodulate weapons. (A photon torpedo is beamed inside the Borg vessel.)BORG [OC]:  Security breach. Starfleet photon torpedo. Disarm
 weapon. (A drone opens the casing. KaBOOM!) 
  [Bridge]
-
 CHAKOTAY: I thought we were trying to disable it. 
 SEVEN: The torpedo detonated near the power matrix. It caused a chain
 reaction. 
@@ -305,7 +302,6 @@ We are at the shield matrix. Stand by.
 KIM: The primary shield generator. I've got it. 
 TUVOK: Spatial charges. Here, there and there. (Seven and Janeway arrive at their target.) 
  [Bridge]
-
 CHAKOTAY: You've got fifty five seconds. 
  [Borg
 Sphere] 
@@ -316,14 +312,12 @@ The transwarp coil is offline.
 JANEWAY: Tuvok, now.TUVOK:
 Activate the charges.JANEWAY: Bridge, their shields are down. Energise. 
  [Bridge]
-
 CHAKOTAY: Tom? 
 PARIS: I've got a lock. 
  [Borg
 Sphere] 
 CHAKOTAY [OC]: Target obtained. 
  [Bridge]
-
 CHAKOTAY: You're out of time. 
  [Borg
 Sphere] 
@@ -348,7 +342,6 @@ CHAKOTAY [OC]: Two minutes twelve seconds.
 JANEWAY: Twelve seconds too late. Once we disable their sensor grid we
 only have two minutes until it regenerates. 
  [Holodeck - Bridge]
-
 CHAKOTAY: Did you run into any problems? 
  [Holodeck - Transporter
 room] 
@@ -370,7 +363,6 @@ JANEWAY: We've run enough simulations for one day. Let's work on
 refining our tactics, anything we can do to shave a few more seconds
 off our little heist. Computer, end programme. 
  [Corridor]
-
 JANEWAY: I don't know about you but I�m glad to be back on Voyager.
 Borg vessels make my skin crawl. 
 SEVEN: It was a holodeck recreation. 
@@ -613,7 +605,6 @@ JANEWAY: Keep moving. That's an order. (A forcefield flickers into existence bet
 SEVEN: Go! 
 CHAKOTAY [OC]: Chakotay to away team. 
  [Bridge]
-
 CHAKOTAY: The sphere has detected Voyager. They've altered course to
 intercept and they're charging weapons. We've got to get you out of
 there now. 
@@ -621,7 +612,6 @@ PARIS: Four hundred thousand kilometres and closing.
 CHAKOTAY: Full power to weapons. 
  [Borg
 Sphere] 
-
 JANEWAY: I'm not leaving without you. 
 SEVEN: Then you will be assimilated. (Janeway shoots an approaching drone, then runs. Two drones flank Seven.)TUVOK:
 They can see us. 
@@ -631,7 +621,6 @@ JANEWAY: Bridge, we're in position. Three to beam up.
 CHAKOTAY [OC]: Three? 
 JANEWAY: Energise. 
  [Bridge]
-
 CHAKOTAY: Where's Seven? 
 JANEWAY: She had a change of heart. Report. 
 CHAKOTAY: The Sphere's changing course. They're retreating. 
@@ -838,7 +827,6 @@ brilliant as the Hansens were, they made a fatal mistake. They became
 overconfident. 
 JANEWAY: We won't make the same mistake. 
  [Bridge]
-
 JANEWAY: This will be a long range tactical rescue. It could take days,
 even weeks, before we find our missing crewman. Lieutenant Torres is
 equipping the Delta Flyer with the transwarp coil. It'll allow us to
@@ -1272,7 +1260,6 @@ Flyer]
 JANEWAY: Voyager, report. 
 CHAKOTAY [OC]: We collapsed 
  [Bridge]
-
 CHAKOTAY: the conduit. No sign of Borg activity. 
  [Delta
 Flyer] 
@@ -1315,5 +1302,4 @@ SEVEN: When I am finished.
 JANEWAY: No, now. That's an order. 
 SEVEN: Yes, Captain. 
 JANEWAY: Sweet dreams.  
-
 

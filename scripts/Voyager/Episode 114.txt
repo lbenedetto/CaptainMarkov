@@ -1,11 +1,9 @@
 Episode Number: 114
-
 The Voyager Transcripts - Jetrel
 Jetrel
 Stardate:
 48823.1
 Original Airdate: May 15 1995
-
  [Sandrine's]
  NEELIX:
 He hasn't left me with a single shot.
@@ -99,7 +97,6 @@ JETREL: That's not surprising. I'm afraid I am not a very popular
 figure among the Talaxian people.
 TUVOK: May we show you to your quarters? 
  [Corridor]
-
 JANEWAY: Mister Neelix has given me permission to speak on his behalf.
 You indicated that he may be in some kind of danger?
 JETREL: Yes. It's imperative that he undergo a compete medical
@@ -287,7 +284,6 @@ CHAKOTAY [OC] Chakotay here, Captain.
 JANEWAY: Have Doctor Jetrel's shuttle tractored into the shuttlebay and
 lay in a course for the Talaxian system. 
  [Bridge]
-
 CHAKOTAY: That's a significant detour, Captain.
 JANEWAY [OC] I'm aware of that, Commander. 
  [Ready
@@ -409,7 +405,6 @@ NEELIX: Here, Captain.
 JANEWAY [OC]: Neelix, I thought you'd like to know, we're approaching
 Rinax. 
  [Bridge]
-
 JANEWAY: Neelix? 
  [Neelix'
 quarters] 
@@ -519,7 +514,6 @@ NEELIX: What do you call that? Scientific progress? I'm going to the
 Captain! 
 (Jetrel grabs Neelix and hypos him.) 
  [Bridge]
-
 JANEWAY: Any report on Doctor Jetrel's progress, Commander?
 CHAKOTAY: Not yet, Captain.
 JANEWAY: Bridge to Sickbay. 
@@ -527,7 +521,6 @@ JANEWAY: Bridge to Sickbay.
  JANEWAY
 [OC]: Janeway to Sickbay. Janeway to Doctor Jetrel. 
  [Bridge]
-
 JANEWAY: Computer, activate Emergency Medical Hologram.
 EMH [OC]: Please state the nature of
 JANEWAY: What the hell is going on down there, Doctor? 
@@ -543,7 +536,6 @@ COMPUTER: Doctor Jetrel is in Transporter room one.
  EMH:
 And Mister Neelix is unconscious. It appears he's been tranquillised. 
  [Bridge]
-
 JANEWAY: You have the Bridge, Commander. Security, meet me in
 Transporter room one. Tuvok. 
  [Transporter
@@ -649,5 +641,4 @@ tell you before, but
 JETREL: What is it? 
 NEELIX: I want to tell you that I forgive you.
 (Jetrel dies. Neelix leaves.)  
-
 

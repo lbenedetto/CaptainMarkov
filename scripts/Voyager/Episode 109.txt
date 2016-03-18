@@ -1,12 +1,10 @@
 Episode Number: 109
-
 The Voyager Transcripts - Prime Factors
 Prime
 Factors
 Stardate:
 48642.5
 Original Airdate: March 20 1995
-
  [Mess Hall]
  (Torres
 is openly eyeing a man who has just collected a meal from the counter.
@@ -46,7 +44,6 @@ CHAKOTAY [OC]: Captain, we're receiving a distress call in one of the
 lower subspace bands.
 JANEWAY: I'm on my way. 
  [Bridge]
-
 (Janeway, Paris and Kim enter.) 
 JANEWAY: Report, Commander.
 CHAKOTAY: The subspace distress signal is coming from a vessel bearing
@@ -346,7 +343,6 @@ SESKA: Right. And hypothetically, if we could modify the deflector
 array to emit phased neutrinos, we could create a big enough bubble.
 TORRES: Let's give it a try. In theory, of course. 
  [Alleyway]
-
 (Twilight.) 
 KIM: I don't understand. Why is it so important I come here now?
 EUDANA: You'll see in a minute. We're here.
@@ -437,7 +433,6 @@ is willing to use the trajector to help us. If that possibility exists
 at all, you must explore it.
 JANEWAY: You're right. Thank you, Tuvok. 
  [Plaza]
-
 JANEWAY: Have you spoken with the other Magistrates about using the
 trajector?
 GATH: Actually, I haven't. Some of them are travelling now but I assure
@@ -484,7 +479,6 @@ GATH: Of course I did. I did everything in my power to persuade you to
 stay here.
 JANEWAY: Janeway to Voyager. One to beam up. 
  [Bridge]
-
 JANEWAY: Cancel all shore leave and recall the away teams. We've been
 asked to leave.
 CHAKOTAY: Aye, Captain.
@@ -543,7 +537,6 @@ TORRES: You were going to download it?
 TUVOK: I will make the exchange with Jaret Otel. Return to your
 stations. Do what you can to prepare the ship for the matrix. Energise.
  [Bridge]
-
 CHAKOTAY: Mister Tuvok is on the surface now, Captain. He says the
 remaining away teams should be on board in fifteen minutes.
 JANEWAY: Are all the food supplies secured?
@@ -590,14 +583,12 @@ SESKA: Then we can abort. This is our only chance.
 JANEWAY [OC]: Bridge to Engineering.
 TORRES: Torres here. 
  [Bridge]
-
 JANEWAY: We're ready to leave orbit. Thrusters online.
 TORRES [OC]: Aye Captain. 
  [Engineering]
  SESKA:
 We have to do something. 
  [Bridge]
-
 JANEWAY: Mister Paris, take us out of orbit. Four thousand kph.
 PARIS: Aye, Captain. There's no response. Thrusters are offline.
 JANEWAY: Janeway to Engineering. 
@@ -607,7 +598,6 @@ JANEWAY: Janeway to Engineering.
 TORRES: We've got a phase variance in plasma conduit three. I'll have
 to check it out before we can engage thrusters. 
  [Bridge]
-
 JANEWAY: When did this problem show up?
 TORRES [OC]: Just now, Captain. It's only a slight variance, I'll have
 it fixed in a minute.
@@ -704,5 +694,4 @@ justify almost anything. That's it's power, and it's flaw. From now on,
 bring your logic to me. Don't act on it behind my back.
 TUVOK: You have my word. My logic was not in error, but I was.
 JANEWAY: Dismissed.  
-
 

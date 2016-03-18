@@ -2264,7 +2264,7 @@ RIKER: I guess we've piqued their interest now.#
 RIKER: How did you like command?#
 RIKER: And we'll experience actual battle conditions?#
 RIKER: I prefer brains over brawn as well. I think it's a waste of effort to test our combat skills. It's a minor province in the make-up of a starship captain.#
-RIKER: Mister Kolrami, when I agree to do something. I do it. Do you care to surrender now, Captain?#
+RIKER: Mister Kolrami, when I agree to do something. I do it. Do you care to surrender now, Captain? f#
 RIKER: Lieutenant?#
 RIKER: You've heard of the simulation aboard the Hathaway?#
 RIKER: Anticipating the worst, do you think they can be whipped into shape in forty eight hours?#
@@ -2289,15 +2289,14 @@ RIKER: Yes. Congratulations.#
 RIKER: I may get over there and want to come right home.#
 RIKER: Ah, you're wrong, Mister Worf. It's fantastic. And it's ours. Mister Worf.#
 RIKER: Worf, this is a battle simulation. You're my Tactical Officer. I've discussed this with Geordi and we agreed. You need to be at my side.#
-RIKER: Attention, crew of the USS Hathaway. This is your Captain. Over the next two days, you might lose a lot of sleep, but with your skill and your stamina, we'll have this old lady ready to fly. I want hourly progress reports from all stations. Riker out.#
-RIKER: If you can pull that off, Mister Worf, it might just give us the edge we're looking for.#
+RIKER: Attention, crew of the USS Hathaway. This is your Captain. Over the next two days, you might lose a lot of sleep, but with your skill and your stamina, we'll have this old lady ready to fly. I want hourly progress reports from all stations. Riker out. [Hathaway Bridge] RIKER: If you can pull that off, Mister Worf, it might just give us the edge we're looking for.#
 RIKER: So unless someone runs to a window and looks out#
 RIKER: It's that important?#
 RIKER: What is that?#
 RIKER: Wes?#
 RIKER: You went back to the Enterprise for that? Wes, you cheated.#
 RIKER: Assuming you can, can you regulate the reaction?#
-RIKER: You're better than good. Great. Brilliant. It's going to be fun. Carry on.#
+RIKER: You're better than good. Great. Brilliant. It's going to be fun. Carry on. [Data's quarters]#
 RIKER: I think that deserves some kind of explanation.#
 RIKER: That's not long enough for an escape, but used as a surprise it may give a strategic advantage.#
 RIKER: And if your theory fails to pay off?#

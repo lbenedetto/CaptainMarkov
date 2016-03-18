@@ -1,10 +1,8 @@
 Episode Number: 46
-
 The Enterprise Transcripts - Horizon
 Horizon
  Mission date: Jan 10, 2153
 Original Airdate: 16 Apr, 2003
-
   {Enterprise's 'sweet spot'] 
  (Travis
 is relaxing and reading a book in zero gravity.) 
@@ -141,7 +139,6 @@ glimpse into human behaviour.
 T'POL: Don't be surprised if you see me here again afterwards. I have
 little doubt my headache will return. 
  [Corridor]
-
 (Enterprise has rendezvoused with the Horizon.) 
 TUCKER: Just a quick tour of the engine room. That's all I'm asking. 
 TRAVIS: The Horizon's fifty years old. I'm sure you've seen far more
@@ -237,7 +234,6 @@ TRAVIS: See you at dinner?
 PAUL: Travis. You might want to change into something a little less
 conspicuous. 
  [Bridge]
-
 (There's a red-headed woman with a pony-tail at the helm.) 
 T'POL: I've deployed the imaging relays. 
 ARCHER: How long until the show begins? 
@@ -681,5 +677,4 @@ ARCHER: We spotted some damage on their port cargo modules.
 TRAVIS: Probably an old meteorite impact. 
 ARCHER: You sure everything's all right? 
 TRAVIS: Never better, sir.  
-
 

@@ -4,7 +4,6 @@ Miri
 Stardate:
 2713.5
 Original Airdate: Oct 27, 1966
-
   {Bridge]
 KIRK: Earth-style distress signal. SOS. 
 FARRELL: I've answered it on all frequencies, sir. They don't reply. 
@@ -560,5 +559,4 @@ KIRK: Yes. I never get involved with older women, Yeoman. Mister Spock?
 SPOCK: Captain? 
 KIRK: Full ahead. Warp factor one. 
 SPOCK: Warp factor one, Captain.  
-
 

@@ -3,7 +3,7 @@ import java.io.*;
 class KeyWord {
 	private final String keyPhrase;
 	private final boolean cutToPhrase;
-	Series series;
+	private Series series;
 	IterableFile file;
 
 	/**
@@ -13,7 +13,7 @@ class KeyWord {
 	 * @param cutToPhrase boolean
 	 * @param series      Series
 	 */
-	public KeyWord(String phrase, boolean cutToPhrase, Series series) {
+	KeyWord(String phrase, boolean cutToPhrase, Series series) {
 		keyPhrase = phrase;
 		this.cutToPhrase = cutToPhrase;
 		this.series = series;

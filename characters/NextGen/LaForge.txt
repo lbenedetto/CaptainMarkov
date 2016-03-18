@@ -955,13 +955,13 @@ LAFORGE: Transferring Engineering to the Bridge.#
 LAFORGE: I think so. Those old shields weren't particularly efficient at blocking gamma ray output. If I can tune the sensors to a particular band of. There. Got them. Transferring coordinates to helm.#
 LAFORGE: Yes, Commander.#
 LAFORGE: Yes, sir, and the best of luck to you. I've researched the old Avidyne engines. They're archaic by our standards, very touchy.#
-LAFORGE: I've already taken the liberty of putting together a few necessities.#
+LAFORGE: I've already taken the liberty of putting together a few necessities. f[Worf's quarters] (He seems to be building matchstick ship, The door chime makes him break a#
 LAFORGE: So you're going#
 LAFORGE: Well, then it's going to be a close one.#
 LAFORGE: But you have got a chance?#
 LAFORGE: Are you going to bother to show up?#
 LAFORGE: Other aside from your being privileged, is there anything else I can look forward to?#
-LAFORGE: This is going to be exciting.#
+LAFORGE: This is going to be exciting. [Ten Forward] (Troi putting the finger controls on Kolrami, while Worf is Riker's second. They are staring at each other across a board which will project a#
 LAFORGE: I wouldn't bet on us being here that long.#
 LAFORGE: Yeah, Data, I'd like to see your neural flex tear him down a peg.#
 LAFORGE: Come on, Commander, come on now.#
@@ -970,7 +970,7 @@ LAFORGE: Besides, Worf, if Engineering's anything like the Bridge, I'm going to 
 LAFORGE: No, sir.#
 LAFORGE: Sure, the system is functional. But without antimatter, what difference does it make?#
 LAFORGE: Wes, we've only got thirty two hours.#
-LAFORGE: And this isn't?#
+LAFORGE: And this isn't? [Hathaway Bridge]#
 LAFORGE: Easy now. Is that it?#
 LAFORGE: Good. Good work. All right, Hand me the connector on that kit.#
 LAFORGE: The hard part's going to be calibrating the thermal curve necessary to start a controlled reaction.#

@@ -1,12 +1,10 @@
 Episode Number: 509
-
 The Voyager Transcripts - Infinite Regress
 Infinite
 Regress
 Stardate:
 52188.7
 Original Airdate: 25 November 1998
-
   [Cargo Bay two]
 (Seven wakes from a cacophany of voices.)COMPUTER: Regeneration cycle incomplete. (She
 prowls around the cargo bay, searching for something, then goes out
@@ -149,7 +147,6 @@ SEVEN: You are strong. You will make an excellent mate.
 TORRES: Get the hell away from me! 
 SEVEN: You wish to prove yourself in battle. (She pushes her way past two security men and runs out into the corridor.) 
  [Bridge]
-
 JANEWAY: Report. 
 CHAKOTAY: Seven of Nine attacked B'Elanna in Engineering. She's on deck
 nine, section twenty three. 
@@ -175,7 +172,6 @@ SEVEN: Certainly. Clearly he was attacked. I suggest we use caution. (voices)
 PetaQ! You will drown in your own blood. 
 TUVOK: Keep moving.(Seven turns to attack him, and he stuns her.) 
  [Sickbay]
-
 JANEWAY: Seven. 
 SEVEN: Captain, why am I here? 
 JANEWAY: You've been unconscious for nearly two hours. We believe
@@ -293,7 +289,6 @@ CHAKOTAY [OC]: Bridge to Seven of Nine. We're approaching the debris
 field. 
 SEVEN: Acknowledged. 
  [Bridge]
-
 JANEWAY: Survivors? 
 TUVOK: None. 
 CHAKOTAY: Any sign of Borg vessels? 
@@ -464,7 +459,6 @@ insufficient.
 JANEWAY: Your job is to keep trying to hold on even when you think you
 can't. Leave the rest to me and the crew. 
  [Bridge]
-
 CHAKOTAY: Meet anyone interesting? 
 JANEWAY: Just finished swapping jokes with a Bolian manicurist. Before
 that, I was debating the finer points of temporal physics with a Krenim
@@ -554,7 +548,6 @@ EMH: I just hope I don't find myself with a second patient.
 CHAKOTAY [OC]: Captain to the bridge. 
 JANEWAY: On my way. 
  [Bridge]
-
 JANEWAY: Commander? 
 CHAKOTAY: It's them. Species 6339. 
 KIM: Their vessel is well-armed, Captain. I'm picking up twenty two
@@ -568,7 +561,6 @@ VEN [on viewscreen]: The Vinculum, you have it?
 JANEWAY: Yes. 
 VEN [on viewscreen]: You've made a terrible mistake, Captain. 
  [Engineering]
-
 JANEWAY: A weapon? 
 VEN: Yes. Since the Borg decimated our world, we've been looking for
 ways to retaliate. 
@@ -641,7 +633,6 @@ SEVEN: Voices!
 EMH: Concentrate! Focus on the sound of my voice! 
 SEVEN: Get them out, please! I can't, I can't! No! (The EMH sedates her. Tuvok completes his meditative preparations.) 
  [Bridge]
-
 JANEWAY: Report. 
 PARIS: The alien vessel is coming about.
 KIM: They're charging weapons. 
@@ -719,7 +710,6 @@ TORRES [OC]: Torres to bridge.
 The Vinculum's stopped adapting. I think the new dampening field is
 working. We should have it disabled in the next sixty seconds. 
  [Sickbay]
-
 COMPUTER: Warning. Neurochemical synapses are destabilising. 
 EMH: Computer, increase power to the cortical inhibitors. 
 COMPUTER: Unable to comply. Power transport systems are offline. 
@@ -735,7 +725,6 @@ TUVOK: Seven!
 Power output's down to twenty nine percent. Twenty two. Seventeen.
 Bridge, we just lost the field emitters. 
  [Bridge]
-
 JANEWAY: We took a direct hit to the power grid. Stand by. We're
 switching to emergency backup. 
  [Meld]
@@ -801,5 +790,4 @@ NAOMI: Me?
 SEVEN: I wish to participate in recreational activities. 
 NAOMI: Great.;[Turbolift]SEVEN: Kadis-kot. Instruct me how to play. 
 NAOMI: I will comply.  
-
 

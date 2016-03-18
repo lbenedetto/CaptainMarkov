@@ -1,11 +1,9 @@
 Episode Number: 112
-
 The Voyager Transcripts - Cathexis
 Cathexis
 Stardate:
 48734.2
 Original Airdate: May 1 1995
-
  Captain's log, stardate
 48734.2. Sometimes it's a good idea to get away from being a Captain
 for a while. To that end, I've started participating in a new
@@ -284,7 +282,6 @@ energy drain all over the ship, and the warp core is shutting down.
 JANEWAY: Bridge to Engineering. Report. Lieutenant Torres, please
 respond. Mister Kim, take the Bridge. Tuvok, you're with me. 
  [Engineering]
-
 JANEWAY: Torres, what's going on?
 TORRES: Captain?
 JANEWAY: You've initiated an emergency warp core shutdown.
@@ -546,7 +543,6 @@ JANEWAY: When it's ready, transfer control of the scan to the Bridge.
 In the meantime, I think we should take a look at exactly what it is
 we're not supposed to see. 
  [Bridge]
-
 JANEWAY: Mister Tuvok, can you locate the ion trail of the alien ship
 that attacked you?
 TUVOK: I believe so. Mister Kim, lay in that course. Shields are at
@@ -697,7 +693,6 @@ where we ejected the warp core and have successfully retrieved it. Now
 we're hoping the Doctor will be able to successfully reintegrate
 Commander Chakotay's consciousness. 
  [Sickbay]
-
 (Janeway and Torres are looking over the EMH's shoulders.) 
 JANEWAY: Did it work?
 EMH: It appears so. Commander. Can you hear me?
@@ -723,5 +718,4 @@ became easier to do more. I'm sorry I had to knock you around, Tuvok.
 TUVOK: No apology is necessary.
 JANEWAY: Good job, Commander, and welcome back.
 CHAKOTAY: To be honest, I feel like I never left.  
-
 

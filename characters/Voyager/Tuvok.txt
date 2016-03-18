@@ -2276,7 +2276,7 @@ TUVOK: But you say that she claims she was on Voyager before this.#
 TUVOK: Display Voyager's route towards the Alpha Quadrant.#
 TUVOK: There's no proof that you ever came aboard Voyager.#
 TUVOK: Her story seems to be legitimate, but there are further steps to take.#
-TUVOK: I'd rather not engage in speculation. It is a dangerous pastime.#
+TUVOK: I'd rather not engage in speculation. It is a dangerous pastime. [Mess hall]#
 TUVOK: Shield strength down to twenty nine percent.#
 TUVOK: Firing.#
 TUVOK: A reasonable expectation. What are her skills?#

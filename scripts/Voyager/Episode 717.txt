@@ -1,12 +1,10 @@
 Episode Number: 717
-
 The Voyager Transcripts - Author, Author
 Author,
 Author
 Stardate:
 54732.3
 Original Airdate: 18 April 2001
-
   [Holodeck]
  EMH
 [OC]: In the beginning there is darkness. The emptiness of a matrix
@@ -876,5 +874,4 @@ EMH1: And, while you're there, do yourself a favour. Ask the operator
 to run programme forty seven beta. 
 EMH2: Why? What is it? 
 EMH1: It's called Photons Be Free. It's quite provocative. 
-
 

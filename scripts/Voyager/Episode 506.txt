@@ -1,12 +1,10 @@
 Episode Number: 506
-
 The Voyager Transcripts - Nothing Human
 Nothing
 Human
 Stardate:
 Unknown
 Original Airdate: 2 December 1998
-
   [Holodeck]
 (The Doctor is showing off the photographs he has taken with his holo-imager. His audience is less than enthralled.)EMH:
 And, since I was the only crewmember who could survive the corrosive
@@ -74,7 +72,6 @@ TORRES: Try it, and I'll kill you. Right after I finish deleting the
 Doctor's programme. (The ship starts shaking.)
 PARIS: What'd you put in this coffee, Neelix? 
  [Bridge]
-
  KIM:
 I'm reading a massive energy wave nine hundred thousand kilometres off
 the starboard bow, heading right for us. 
@@ -127,7 +124,6 @@ JANEWAY: Janeway to Kim. Beam the alien lifeform
 [OC]: Back to it's vessel. Now! 
 KIM: I'm having trouble getting a lock. 
  [Sickbay]
-
  EMH:
 It's piercing her neck! (Later, Torres is on the biobed, unconscious, with the creature fastened on top of her.)EMH:
 Her heart and lungs are seriously compromised, and her kidneys are
@@ -394,7 +390,6 @@ survive. I agree. It'll be a difficult first contact, but we might find
 a way to communicate. 
 CHAKOTAY: It's worth a shot. 
  [Bridge]
-
 JANEWAY: Tuvok, reroute auxiliary power to the deflector dish.
 Retransmit the alien's message on all subspace bands. 
 TUVOK: Aye, Captain. Deflector at full capacity. 
@@ -767,7 +762,6 @@ EMH: Perhaps. Give it forty milligrams of stenophyl. It's going into
 anaphylactic shock. 
 MOSET: All right, increasing the dosage to sixty milligrams. 
  [Bridge]
-
 CHAKOTAY: We've lost power on decks seven through twelve. 
 TUVOK: Shields are failing, Captain. 
 JANEWAY: Doctor? 
@@ -873,5 +867,4 @@ Conscience? Funny how they all go out the airlock when we need
 something. Are you and I really so different? 
 EMH: Computer, delete Medical Consultant Programme and all related
 files.  
-
 

@@ -4,13 +4,11 @@ Phage
 Stardate:
 48532.4
 Original Airdate: February 6 1995
-
  Captain's log, stardate
 48532.4. We're on our way to a rogue planetoid which Mister Neelix
 tells us is an extremely rich source of raw dilithium. If he's right,
 this could go a long way toward easing our power shortage. 
  [Corridor]
-
 JANEWAY: Assuming we do find dilithium on this planetoid, we're going
 to need a refining facility on the ship to process it.
 CHAKOTAY: Lieutenant Torres has already asked permission to start
@@ -127,7 +125,6 @@ twenty metres from my position. I'm reading a huge dilithium formation
 there.
 CHAKOTAY [OC]: Don't go any further 
  [Tunnel]
-
 CHAKOTAY: Neelix. Stay within the search radius. I'll be with you in a
 minute. 
  [Cavern]
@@ -139,10 +136,8 @@ NEELIX: Not so much as a sliver of dilithium, and yet according to my
 readings I should be surrounded by it.
 CHAKOTAY: All right, I've had enough 
  [Tunnel]
-
 CHAKOTAY: Of this. Kim, Neelix, we're heading back to the ship. 
  [Cavern]
-
 CHAKOTAY [OC]: Rendezvous at the
 NEELIX: Wait a minute. I'm getting unusual readings from this rock
 face. Traces of organic energy. Looks like a bio-electrical signature.
@@ -341,7 +336,6 @@ CHAKOTAY [OC]: We've just picked
 CHAKOTAY: Up an alien ship leaving the planet. 
 JANEWAY: Tractor them 
  [Tunnel]
-
 JANEWAY: Commander.
 CHAKOTAY [OC]: Sorry, Captain. They went into warp too quickly.
 JANEWAY: Beam us back. As soon as we're aboard lay in a course for
@@ -525,7 +519,6 @@ EMH: You're hyperventilating. Try to take slow, natural breaths.
 NEELIX: I can't. I'm dying. Let me out of here. Help me. Help me. 
 (The EMH hypos Neelix into unconsciousness.) 
  [Bridge]
-
 JANEWAY: You're doing fine, Mister Paris. Just fine.
 PARIS: Thanks, Captain.
 TUVOK: Sensors detect a large chamber ahead.
@@ -607,7 +600,6 @@ JANEWAY: B'Elanna, shut down the warp core.
 TORRES: No effect, Captain.
 JANEWAY [OC]: Keep me informed. 
  [Bridge]
-
 JANEWAY: Bridge out. Can you pinpoint the source of the dampening field?
 KIM: It appears to be coming from two one seven mark zero one five.
 Distance, five hundred and forty seven metres.
@@ -753,5 +745,4 @@ EMH: We'll begin your lessons as soon as you've fully recovered.
 KES: Thank you, Doctor.
 EMH: Thank you. You've given me a lot to think about.
  
-
 

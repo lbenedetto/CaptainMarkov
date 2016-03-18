@@ -1,17 +1,14 @@
 Episode Number: 108
-
 The Voyager Transcripts - Emanations
 Emanations
 Stardate:
 48623.5
 Original Airdate: March 13 1995
-
  Captain's log, stardate
 48623.5. There are two hundred forty six elements known to Federation
 science. We believe we have just discovered the two hundred forty
 seventh inside the ring system of a Class D planet. 
  [Bridge]
-
 (Gathered around the Science station.) 
 KIM: The element has an unusually large atomic mass, over five hundred
 and fifty nucleons. And the readings are constant. The element appears
@@ -50,17 +47,14 @@ CHAKOTAY: Captain, there are eighteen bodies here, all humanoid. Eleven
 male, seven female. From what we can tell they're in various stages of
 decomposition. Some have been here for years. 
  [Bridge]
-
 CHAKOTAY [OC]: Others no longer than a few days. In fact, one body
 arrived less than twelve hours ago.
 JANEWAY: Arrived from where?
 CHAKOTAY [OC]: I don't know, Captain. 
  [Cavern]
-
 CHAKOTAY: But from the position of the arms, I'd say we're looking at
 some kind of burial site. 
  [Bridge]
-
 JANEWAY: What about the element we discovered? 
  [Cavern]
  TORRES:
@@ -70,7 +64,6 @@ It's emanating from their bodies, Captain. We think it's some kind of
 [OC]: By-product of their decomposition process.
 CHAKOTAY [OC]: I recommend we leave these bodies in peace, Captain. 
  [Cavern]
-
 CHAKOTAY: However, Mister Kim has a different opinion.
 KIM: With all due respect, Captain, I have to disagree with the
 Commander. This is our first contact with this race, and I think we
@@ -81,20 +74,16 @@ should be learning all we can about them.
 CHAKOTAY [OC]: I understand the chance for scientific discovery,
 Captain 
  [Cavern]
-
 CHAKOTAY: But whatever belief this race has, they clearly meant for
 their dead to be left alone and I think we should respect that. 
  [Bridge]
-
 JANEWAY: I'm afraid I agree with Commander Chakotay. Set your
 tricorders for passive scans. I don't want to disturb anything. 
 CHAKOTAY [OC]: Captain 
  [Cavern]
-
 CHAKOTAY: The sanctity of these bodies should be respected. I recommend
 we make visual observations only. No tricorders. 
  [Bridge]
-
 JANEWAY: Very well. Keep me informed. 
  [Cavern]
  JANEWAY
@@ -146,7 +135,6 @@ Have everyone stand closer together. I'm going to try a blind beam-out
 [OC]: Centred on your comm. signal. 
 CHAKOTAY: Acknowledged. Energise! 
  [Bridge]
-
 JANEWAY: Bridge to Transporter Room Three. Do you have them? 
 SESKA [OC]: Subspace distortions 
  [Transporter
@@ -268,7 +256,6 @@ from was another dimension.
 KIM: Another dimension?
 NERIA: Yes. You returned from the Next Emanation. The afterlife. 
  [Sickbay]
-
 JANEWAY: How were you able to revive her?
 EMH: It's a simple process, really. She died of a cancerous growth on
 the brain stem. I removed the tumour, replicated new neural tissue and
@@ -342,7 +329,6 @@ think there might be a way to use this spectral rupture of yours to
 NERIA: You're not going anywhere. You are our first glimpse into what
 lies beyond death. We are not going to let this opportunity pass us by.
  [Bridge]
-
 CHAKOTAY: We've completed our analysis of the ring system. Our sensors
 have detected over two hundred thousand alien bodies on various
 asteroids in the rings. From what we can tell, a subspace vacuole
@@ -470,7 +456,6 @@ Emanation, I have to admit there is a little voice inside of me that is
 terrified of dying. And since I've been talking to you, that little
 voice has started to get louder. 
  [Engineering]
-
 JANEWAY: I'm reading another vacuole forming on the ship. Tuvok, try
 remodulating the shield harmonics.
 TUVOK: It's no use, Captain. The vacuole is still forming. 
@@ -493,7 +478,6 @@ lay in a course. I want to get
 PARIS: Aye, Captain. (Zoom) Paris to Janeway. I've brought us out of
 warp. We're point six light years from the ring system. 
  [Engineering]
-
 JANEWAY: Any other subspace vacuoles forming?
 TORRES: No. The magnetic interlocks have stabilised. I think we're safe
 out here.
@@ -678,7 +662,6 @@ LORIA: Bye, Hatil. I love you.
 (Loria pushes a button and two glowing rods extend towards Kim. They
 touch his neck, there's a jolt, and he is very still.) 
  [Bridge]
-
 (Whumph!) 
 TORRES: Another vacuole. Deck fifteen.
 TUVOK: The body of an alien female has been left behind.
@@ -698,7 +681,6 @@ JANEWAY: Janeway to Seska. There's a body on deck twelve. Beam it
 directly to Sickbay.
 SESKA [OC]: Yes, Captain. 
  [Sickbay]
-
 (Janeway and Tuvok enter.) 
 EMH: Two cc's cordrazine. 
 (There is a long pause, then Kim gasps and opens his eyes.) 
@@ -741,5 +723,4 @@ JANEWAY: I'm not certain, but I am certain about this. What we don't
 know about death is far, far greater than what we do know. See you in
 two days, Ensign.
 KIM: Thank you, Captain.  
-
 

@@ -1,11 +1,9 @@
 Episode Number: 414
-
 The Voyager Transcripts - Prey
 Prey
 Stardate:
 51652.3
 Original Airdate: 18 February 1998
-
   [Hirogen ship]
 (For the
 first time, we see Hirogen without their breathing masks.)
@@ -80,7 +78,6 @@ EMH: Oh, good. Pay special attention to exercise seventeen, Bridge
 Banter for Beginners. 
 SEVEN: Have a pleasant day. 
  [Bridge]
-
 JANEWAY: Verify. 
 TUVOK: Monotanium hull plating, dicyclic warp signature. The vessel is
 definitely Hirogen. 
@@ -183,7 +180,6 @@ few scans of your midsection. You should know I'm a hologram and can't
 be bent, spindled or mutilated, so don't bother trying. Please lie
 down. Or remain standing. 
  [Bridge]
-
 CHAKOTAY: Captain, we've detected six more Hirogen ships. They're
 converging on us from all directions. 
 TUVOK: The one in Sickbay may have sent a distress call from his
@@ -232,7 +228,6 @@ PARIS: How did it get past our shields?
 JANEWAY: We'll worry about that later. You have the bridge, Commander.
 I'll be on deck eleven. 
  [Engineering]
-
  SEVEN:
 I've erected a level ten forcefield around Engineering. 
 TORRES: Good. (to other crew) Set up secondary forcefields around every hatch,
@@ -253,7 +248,6 @@ JANEWAY: Secure the warp core.
 CREWWOMAN: Yes, Captain. 
 JANEWAY: Seven. 
  [Corridor]
-
 JANEWAY: It would seem that the Hirogen underestimated their latest
 prey. 
 SEVEN: You believe they were hunting the creature? 
@@ -314,7 +308,6 @@ accessed the environmental controls. Deck eleven is losing life support.
 Artificial gravity has also been compromised. (Tuvok floats upwards.)
 JANEWAY [OC]: Evacuate the deck. 
  [Sickbay]
-
 JANEWAY: Regroup on deck ten. 
 TUVOK [OC]: Aye, Captain. 
 ALPHA: He's trying to barricade himself. He did the same thing to us. 
@@ -340,7 +333,6 @@ CHAKOTAY [OC]: Proceed to deck eleven, Keep you comm. links open.
 TUVOK: Understood. Activate the nanoprobe charges. 
 SEVEN: Level five should be sufficient to stun the creature. 
  [Corridor]
-
 CHAKOTAY: Depressurising hatch. Magnetise. 
  [Corridor
 - Deck 11] 
@@ -443,7 +435,6 @@ ALPHA: We will not be denied our prey. Give us the creature, or your
 crew will take its place. 
 JANEWAY: Tuvok. 
  [Corridor]
-
 JANEWAY: Have Seven of Nine report to my ready room. 
 TUVOK: You intend to ask her to open a rift into 8472's realm. 
 JANEWAY: She's the only one on board who knows how. 
@@ -533,7 +524,6 @@ TUVOK: Not yet.
 Doctor to bridge. Species 8472 appears to be regenerating. I'm no
 exobiologist, but I'd say this fellow is becoming highly agitated. 
  [Bridge]
-
 CHAKOTAY: It could be sensing the Hirogen attack. 
 JANEWAY: Doctor, can you sedate it? 
 EMH [OC]: I believe so, but I'll need another dose of Borg nanoprobes. 
@@ -546,7 +536,6 @@ JANEWAY [OC]: Report to deck eleven immediately with a supply of
 nanoprobes. 
 SEVEN: Understood. 
  [Bridge]
-
 CHAKOTAY: B'Elanna, how's it going down there? 
  [Engineering]
  TORRES:
@@ -569,7 +558,6 @@ JANEWAY: Bridge to Doctor. Report.
  EMH:
 It's all right, Captain. The creature is contained. 
  [Bridge]
-
 CHAKOTAY: Bridge to Sickbay. Security, respond. (The Alpha takes a phaser rifle from the unconsious security guard.)CHAKOTAY: Security, dispatch
 teams to deck five. The Hirogen may be loose. 
 PARIS: Direct hit to our port nacelle. Now they've taken out our
@@ -641,5 +629,4 @@ SEVEN: I believe that you are punishing me because I do not think the
 way you do. Because I am not becoming more like you. You claim to
 respect my individuality, but in fact you are frightened by it. 
 JANEWAY: As you were.  
-
 

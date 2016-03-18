@@ -1,14 +1,11 @@
 Episode Number: 508
-
 The Voyager Transcripts - Thirty Days
 Thirty
 Days
 Stardate:
 52179.4
 Original Airdate: 9 Dec 1998
-
   [Ready room]
-
 JANEWAY: Lieutenant Thomas Eugene Paris. I hereby reduce you to the
 rank of Ensign, and I sentence you to thirty days solitary confinement.
 Take Ensign Paris to the brig.
@@ -122,7 +119,6 @@ PARIS: Fallen for the unattainable woman. First it was a hologram, then
 a Borg, and now the wrong twin. 
 KIM: At least I'm consistent. 
  [Bridge]
-
 JANEWAY: Sorry to interrupt your fun, gentlemen, but long range sensors
 have picked up something interesting. 
 CHAKOTAY: A concentrated mass of oxygen and hydrogen. Lots of animal
@@ -173,7 +169,6 @@ resources.
 NEELIX: We're always interested in learning about other cultures. Yours
 sounds particularly fascinating. 
  [Bridge]
-
 JANEWAY: And this is Voyager's command centre. Feel free to have a look
 around. 
 NEELIX: I'm curious, Consul. Have your people always lived here? 
@@ -357,7 +352,6 @@ SEVEN: The creature is retreating.
 KIM: We've got a breach. 
 PARIS: I'm on it. 
  [Brig]
-
  PARIS:
 Six hundred kilometres underwater, propulsion offline, water pouring
 into the cabin. It was like something out of one of those Jules Verne
@@ -492,7 +486,6 @@ ADMIRAL PARIS [OC]: Go to your room, young man. That's an order. Stay
 there and think about what I've said. 
 KIM: Tom? 
  [Brig]
-
  KIM:
 Tom? Tom, wake up. Bad dream? 
 PARIS: Oh, you could say that. 
@@ -659,7 +652,6 @@ PARIS: Sorry, Captain. I can't do that.
 JANEWAY [OC]: Lieutenant, you are disobeying a direct order. 
 PARIS: I know. 
  [Bridge]
-
 CHAKOTAY: He cut us off. 
 JANEWAY: What the hell are they up to? 
 KIM: Looks like they're heading directly beneath the industrial
@@ -697,7 +689,6 @@ protected member of this crew the second he launched that shuttle.
 How long till we reach our target? 
 PARIS: Thirty six seconds. 
  [Bridge]
-
 CHAKOTAY: He's started his ascent. 
 JANEWAY: Hail him. 
 KIM: Go ahead. 
@@ -713,7 +704,6 @@ PARIS: I've taken you this far. We'd better arm that missile.
 RIGA: Missile armed. 
 JANEWAY [OC]: Stand down, Mister Paris. 
  [Bridge]
-
 JANEWAY: Or I will open fire. 
 KIM: Still no answer. 
  [Delta Flyer] 
@@ -793,5 +783,4 @@ duties. I honestly don't know if I'll ever understand you, or what went
 wrong between us, but I hope this letter helps you understand me a
 little better. Computer, file letter in my personal database, and
 transmit when we're within range of Earth.  
-
 

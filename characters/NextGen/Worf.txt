@@ -833,7 +833,7 @@ WORF: Nor have I.#
 WORF: K'Ehleyr. I will not be complete without you.#
 WORF: Despite their reputations, this Zakdorn does not appear to be#
 WORF: So no one is willing to test that perception in combat.#
-WORF: Then the reputation means nothing.#
+WORF: Then the reputation means nothing. [Observation lounge] (Kolrami is giving a presentation at the viewscreen.)#
 WORF: Just finished.#
 WORF: Waste of time.#
 WORF: Useless. If there is nothing to lose, no sacrifice, then there is nothing to gain.#

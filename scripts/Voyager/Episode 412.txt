@@ -1,12 +1,10 @@
 Episode Number: 412
-
 The Voyager Transcripts - Waking Moments
 Waking
 Moments
 Stardate:
 511471.3
 Original Airdate: 14 January 1998
-
   [Corridor]
  SEVEN:
 Ensign Kim. I require your assistance in Jefferies tube thirty seven
@@ -22,7 +20,6 @@ TUVOK: On my way.
 hall] 
 JANEWAY: Computer, lights on. (Nothing happens.)JANEWAY: Neelix? Is anybody here? 
  [Shuttlecraft]
-
 CHAKOTAY [OC]: Voyager to Lieutenant Paris. 
 PARIS: Paris here. 
 CHAKOTAY [OC]: How's it going out there, Tom? 
@@ -127,7 +124,6 @@ NEELIX: Must have been those three full moons we passed yesterday.
 Well, a few sips of my coffee should clear the fuzz out of your brain. 
 PARIS: Maybe you should pour yourself a cup while you're at it. 
  [Bridge]
-
 JANEWAY: We seem to be a little short-handed today. 
 CHAKOTAY: Tom and Harry are both late. I was going to give them another
 five minutes but I'll call them now if you'd like.
@@ -160,7 +156,6 @@ JANEWAY: Computer, locate Ensign Kim.
 COMPUTER: Ensign Kim is in his quarters. 
 JANEWAY: Tuvok. 
  [Turbolift]
-
 JANEWAY: Deck six. I've got a hunch Harry's dreaming about our new
 alien friend. 
 TUVOK: That would be consistent with the experience the rest of us have
@@ -256,7 +251,6 @@ JANEWAY: You'll do this in Sickbay, under the Doctor's supervision. The
 rest of you keep scanning the region. Analyse this ship from stem to
 stern. Wherever he is, find him. 
  [Sickbay]
-
  EMH:
 Normally I consider a good night's sleep an important part of any
 health regimen, but in this case, I can't recommend it.
@@ -561,7 +555,6 @@ PARIS: I managed to open a Jefferies tube hatch.
 JANEWAY: Good work. Neelix, Seven, Kim, do what you can to distract the
 guards. We're going to find a way to retake the ship. 
  [Engineering]
-
 JANEWAY: Looks like a complete power drain. 
 TORRES: Their dampening field has shut down the warp core. 
 TUVOK: Which begs the question of what they intend to do with an
@@ -593,7 +586,6 @@ TUVOK: Captain!
 JANEWAY: That's an order! 
 COMPUTER: Warp core breach in ten seconds. Nine. Eight. Seven. 
  [Corridor]
-
 COMPUTER: Six. Five. Four. Three. Two. One. (Boom! The doors to main Engineering open.)
 JANEWAY: Either I've become impervious to antimatter explosions, or
 we're still dreaming. 
@@ -648,7 +640,6 @@ That as long as they know they're in a dream, they can't be harmed.
 TUVOK: And if the aliens try to stop us?
 JANEWAY: Then we turn this dream world of theirs into a nightmare.(Janeway takes Tuvok's phaser rifle.) 
  [Cavern]
-
 CHAKOTAY: Okay, Doctor, I'm in. 
 EMH [OC]: Acknowledged, Commander.(Chakotay
 follows the tricorder signal around a corner to where an alien is lying
@@ -680,32 +671,27 @@ amplify the
 CHAKOTAY [OC]: Neurogenic field.
 EMH: Can you turn it off? 
  [Cavern]
-
 CHAKOTAY: I tried knocking it out with my phaser, but there's some kind
 of forcefield. 
  [Doctor's office] 
  EMH:
 Commander? 
  [Cavern]
-
 CHAKOTAY: Sorry, I'm having trouble concentrating. 
  [Doctor's office] 
  EMH:
 Time for your medicine. 
  [Cavern]
-
 CHAKOTAY: Doctor. This animazine, it's pretty powerful. 
  [Doctor's office] 
  EMH:
 Yes. And I suggest you take it immediately. 
  [Cavern]
-
 CHAKOTAY: These aliens, they look pretty frail. 
  [Doctor's office] 
  EMH:
 That's fascinating, Commander. Now please, inject yourself. 
  [Cavern]
-
 CHAKOTAY: They probably wouldn't have the same tolerance for stimulants
 that we do. 
 EMH [OC]: What are you getting at? 
@@ -716,7 +702,6 @@ aliens.
 Commander, I'd be happy to discuss comparative pharmacology with you
 after you administer your injection. 
  [Cavern]
-
 CHAKOTAY: Actually, I think I'm going to give it to one of my sleepy friends
 here. 
  [Doctor's office] 
@@ -724,7 +709,6 @@ here.
 What would that accomplish? 
 CHAKOTAY [OC]: If I can wake him up 
  [Cavern]
-
 CHAKOTAY: I might be able to get him to deactivate this generator.
 EMH [OC]: There's not enough 
  [Doctor's
@@ -732,28 +716,24 @@ Office]
  EMH: Animazine for two doses. If you fall asleep again, there's no way I can
 revive you. 
  [Cavern]
-
 CHAKOTAY: Doctor, I want you to go to the bridge. 
  [Doctor's office] 
  EMH:
 Commander! 
 CHAKOTAY [OC]: I'm giving you an order! 
  [Cavern]
-
 CHAKOTAY: Go to the bridge and target my comm. signal with a photon
 torpedo. 
  [Doctor's office] 
  EMH:
 You're delirious. You're asking me to incinerate you. 
  [Cavern]
-
 CHAKOTAY: Not just me. These aliens and their transmitter, too. But
 only if you don't hear from me; 
  [Doctor's office] 
 CHAKOTAY [OC]: In five minutes. Understood?
 EMH: Commander. 
  [Cavern]
-
 CHAKOTAY: Understood? 
  [Doctor's office] 
  EMH:
@@ -767,7 +747,6 @@ Bay two]
 ALIEN: What happened? 
 JANEWAY: Looks like he woke up. 
  [Cavern]
-
 CHAKOTAY: I'll give you five seconds. Four, three, two(Chakotay falls asleep.) 
  [Cargo
 Bay two] 
@@ -801,5 +780,4 @@ NEELIX: You know, I could learn to enjoy these late night
 get-togethers. 
 PARIS: Speak for yourself. I would kill for a good night's sleep. (Tuvok enters, yawning.)
 CHAKOTAY: Neelix, I think it's time for breakfast.  
-
 

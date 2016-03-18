@@ -1,11 +1,9 @@
 Episode Number: 312
-
 The Voyager Transcripts - Unity
 Unity
 Stardate:
 50614.2
 Original Airdate: February 12, 1997
-
   First Officer's log, stardate
 50614.2. Ensign Kaplan and I are returning to Voyager after completing
 a scouting mission in the Nekrit Expanse. 
@@ -74,7 +72,6 @@ ATTACKER: Come on.
 ORUM: Take him inside. 
 (Chakotay is dragged away, and his hand phaser retrieved.) 
  [Bunker]
-
 (Chakotay wakes up face down on a bed. He has nasty bruises on the
 right side of his forehead. A woman with long blonde hair speaks.) 
 RILEY: I'd lie still if I were you. You've got a nasty head injury. 
@@ -260,7 +257,6 @@ and the Doctor get started on that autopsy. In the meantime, I think it
 would be a good idea to rendezvous with Commander Chakotay a little
 ahead of schedule, and let him know we've run into some old friends. 
  [Bunker]
-
 (Chakotay tries operating the door controls, then knocks on the door
 itself.) 
 CHAKOTAY: Hello? Anybody there? Riley? 
@@ -601,10 +597,8 @@ TUVOK: They are increasing speed to maximum impulse.
 JANEWAY: Tom, lay in a pursuit course. Tell Neelix we'll rendezvous
 with his shuttle later. 
  [Shuttlecraft]
-
 COOPERATIVE [OC]: Chakotay, transport to module forty seven omega. 
  [Bunker]
-
 COOPERATIVE [OC]: The bunker is under attack. Forty seven omega,
 section nine. Mark coordinates. We are under attack. Nine alpha alpha.
 We must hurry. The bunker is under attack. Forty seven omega, section
@@ -631,7 +625,6 @@ COOPERATIVE [OC]: You must move power circuit mechanism alpha to
 position one. 
 (Chakotay does it before he passes out. The Cube lights up.) 
  [Settlement]
-
 COOPERATIVE [OC]: Hear our voices. We welcome you into our thoughts.
 Feel the connection. 
 (The attack stops.) 
@@ -694,5 +687,4 @@ me when it served their interests, did they?
 JANEWAY: No, they didn't. 
 CHAKOTAY: I wonder how long their ideals will last in the face of that
 kind of power.  
-
 

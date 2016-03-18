@@ -1663,11 +1663,11 @@ DATA: But Counsellor, I do not have a#
 DATA: That is what troubles me. I made no mistakes. I have conducted a diagnostic check of all of my programs. I am cross-checking with the ship's computer.#
 DATA: I believe so. I have proven to be vulnerable. At the present time, my deductions should be treated with scepticism.#
 DATA: Yes. The Captain would be ill advised to rely upon my judgement.#
-DATA: I, however, am not sure.#
+DATA: I, however, am not sure. [Hathaway Engineering] (Wesley's experiment is being put into a wall panel.)#
 DATA: Doctor?#
 DATA: I am conducting diagnostic#
 DATA: No, Doctor, this is not ego. I am concerned about giving the Captain unsound advice.#
-DATA: Why, Doctor? It is done, and perhaps just as well. This has indicated that I am damaged in some fashion. I must find the malfunction.#
+DATA: Why, Doctor? It is done, and perhaps just as well. This has indicated that I am damaged in some fashion. I must find the malfunction. [Hathaway Engineering]#
 DATA: Captain, with all due respect, perhaps it would be better if you choose another to serve as your First Officer.#
 DATA: I have not been able to isolate the problem, sir. I might make a mistake.#
 DATA: Yes, sir.#

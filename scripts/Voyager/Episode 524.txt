@@ -1,11 +1,9 @@
 Episode Number: 524
-
 The Voyager Transcripts - Warhead
 Warhead
 Stardate:
 Unknown
 Original Airdate: 19 May 1999
-
   [Mess hall]
 PARIS:
 Show mercy. 
@@ -45,7 +43,6 @@ upstart like you? Just promise me one thing. When you reach the top,
 you'll remember all the little people you climbed over to get there. You
 won't make them work night shifts?
 [Bridge]
-
 KIM:
 Helm, status? (He has a blonde lady pilot.)
 JENKINS: Same as it was twenty minutes ago. 
@@ -72,7 +69,6 @@ KIM: There could be any number of reasons why we're not detecting
 lifesigns. We'll have to go down there and take a look. I'll inform the
 Commander. Oh, Jenkins? The bridge is yours.
 [Corridor]
-
 KIM: I
 hope I made the right decision. 
 CHAKOTAY: About changing course or waking me up? 
@@ -948,5 +944,4 @@ to thank you for keeping us in one piece.
 KIM: You're welcome. Any time. Do me a favour? 
 JENKINS: Of course, sir. 
 KIM: No more distress calls. At least not tonight.  
-
 

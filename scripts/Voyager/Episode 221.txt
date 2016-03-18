@@ -1,11 +1,9 @@
 Episode Number: 221
-
 The Voyager Transcripts - Resolutions
 Resolutions
 Stardate:
 49690.1
 Original Airdate: May 13 1996
-
  [Planet surface]
 (The sun
 is shining and birds are singing in the trees around an open grassy
@@ -120,7 +118,6 @@ JANEWAY [OC]: We've received the transport. We'll check it over and let
 you know if we're missing anything. 
 TUVOK: I will remain in orbit until I hear from you. And after that, we
 can still remain in communication for approximately thirty six hours.
-
 [Planet surface]
 JANEWAY:
 I'll contact you before the day is over. Janeway out. 
@@ -377,7 +374,6 @@ TUVOK: Ensign, I'm going to say this once and once only. If you ever
 question my orders again, you will be relieved of duty permanently. The
 next words I expect to hear from you are yes sir. 
 KIM: Yes, sir.
-
 [Outside the shelter]
 (Chakotay
 is smoothing some wood.) 
@@ -646,7 +642,6 @@ This is Tuvok. We're rather busy here, Doctor.
 [Sickbay]
 EMH:
 Doctor Pel is on one of the Vidiian ships.
-
 [Bridge]
 EMH
 [OC]: If we can drop our shields briefly, we can beam aboard the serum.
@@ -772,5 +767,4 @@ hours.
 JANEWAY: Check with phaser maintenance. See if they solved that problem
 with the pre-fire chamber temperature. 
 CHAKOTAY: Yes, ma'am. I'll see to it.  
-
 

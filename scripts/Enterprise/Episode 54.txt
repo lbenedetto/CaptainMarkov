@@ -1,11 +1,8 @@
 Episode Number: 54
-
 The Enterprise Transcripts - Anomaly
 Anomaly
 Original Airdate: 17 September, 2003
-
   [Ready room]
-
 (Porthos is uneasy, and howls.) 
 ARCHER: Come here. 
 (The little dog runs over to him.) 
@@ -372,7 +369,6 @@ REED: Let's hope there's no one home.
 ARCHER: Do you see that docking port, Ensign? 
 TRAVIS: Yes, sir. 
  [Module]
-
 (Reed cuts through the door with his phase pistol to get them
 inside.) 
 REED: We're all clear, sir. 
@@ -594,5 +590,4 @@ is not a quality that will serve you well in the Expanse, Captain.
 centre] 
  ARCHER:
 Computer, load the Xindi database.  
-
 

@@ -410,8 +410,7 @@ KIRK: The impostor's back where he belongs. Let's forget him.#
 KIRK: Thank you, Yeoman.#
 KIRK: This is the Captain speaking. Navigator, set in course correction. Helmsman, steady as she goes.#
 KIRK: Shall we pick some flowers, Doctor? When a man visits an old girlfriend she usually expects something like that.#
-KIRK: They'll be along. You rushed us down ten minutes early. (enter building) [Crater's home]#
-KIRK: Professor Crater? Professor? Mrs. Crater? Nervous, Dr. McCoy?#
+KIRK: They'll be along. You rushed us down ten minutes early. (enter building) [Crater's home] KIRK: Professor Crater? Professor? Mrs. Crater? Nervous, Dr. McCoy?#
 KIRK:  Mrs. Crater. I've heard a great deal about you.#
 KIRK: Something wrong, Darnell?#
 KIRK: Why don't you step outside, Darnell.#
@@ -464,8 +463,7 @@ KIRK: I don't know. Green!  Did you see this?#
 KIRK: Crater!#
 KIRK: We're beaming aboard the ship, Doctor.#
 KIRK: We can't search this whole planet on foot.#
-KIRK: You could learn something from Mister Spock, Doctor. Stop thinking with your glands. We've equipment aboard the Enterprise that could pinpoint a match lit anywhere on this planet, or the heat of a body. Transporter room, Kirk speaking. Three to beam up. [Transporter room]#
-KIRK: Kirk to Bridge.#
+KIRK: You could learn something from Mister Spock, Doctor. Stop thinking with your glands. We've equipment aboard the Enterprise that could pinpoint a match lit anywhere on this planet, or the heat of a body. Transporter room, Kirk speaking. Three to beam up. [Transporter room] KIRK: Kirk to Bridge.#
 KIRK: Break out the surface search equipment. I want co-ordinates on two people.#
 KIRK: There's a body down there. Sturgeon.#
 KIRK: You could use some sleep, Bones.#
@@ -494,7 +492,7 @@ KIRK: Kirk to Enterprise.#
 KIRK: It's definite, Mister Sulu. The intruder can assume any shape. Crewmen, you, myself, anyone. Do you understand?#
 KIRK: Go to GQ four.#
 KIRK: Kirk to transporter room. Three to beam up.#
-KIRK: There's one, Professor. Your creature is killing my people.#
+KIRK: There's one, Professor. Your creature is killing my people. Captain's log, continuing. The Enterprise has been invaded by a creature capable of assuming any form, and with the capacity to paralyse and draw the life from any one of us.#
 KIRK: Yeoman Rand, how long was this Green with you?#
 KIRK: Mister Spock?#
 KIRK: Dr. McCoy?#

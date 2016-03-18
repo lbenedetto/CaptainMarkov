@@ -1,5 +1,4 @@
 Episode Number: 411
-
 The Voyager Transcripts - Message in a Bottle
 Message
 in a Bottle
@@ -7,7 +6,6 @@ Stardate:
 Unknown
 Original Airdate: 21 January 1998
   [Corridor]
-
  TORRES:
 Cold, patronising, arrogant. 
 CHAKOTAY: I know she can be difficult. 
@@ -39,7 +37,6 @@ JANEWAY: I've been summoned. Any guesses what this is about?
 CHAKOTAY: None. 
  [Astrometrics
 lab] 
-
 CHAKOTAY: Your call sounded urgent. 
 SEVEN: It was. I've been working to increase the range of the
 astrometric sensors, and I have detected something that you should find
@@ -329,7 +326,6 @@ EMH2: We don't use scalpels or leeches anymore. I suggest you let me
 handle the medical side of things. As for retaking the ship, I'll leave
 that in your experienced hands. 
  [Bridge]
-
 CHAKOTAY: No word. Our link to the sensor net is stable. Seven of Nine
 is standing watch in Astrometrics. I tried to relieve her but she
 doesn't want to leave her post. She says she doesn't need to regenerate
@@ -801,5 +797,4 @@ promised that they won't stop until they've found a way to get Voyager
 back home. And they asked me to relay a message. They wanted you to
 know you're no longer alone. 
 JANEWAY: Sixty thousand light years seems a little closer today. 
-
 

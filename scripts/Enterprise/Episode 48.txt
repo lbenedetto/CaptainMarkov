@@ -2,7 +2,6 @@ Episode Number: 48
 The Enterprise Transcripts - Cogenitor
 Cogenitor
  Original Airdate: 30 Apr, 2003
-
   [Bridge] 
 (Enterprise is flying close to a massive star.) 
 T'POL: It's losing mass at an extraordinary rate. 
@@ -288,7 +287,6 @@ array.
 REED: There's an old Earth expression. I'll show you mine if you show
 me yours. 
  [Stratopod]
-
 DRENNIK: Your father. That's hard to imagine. The man who developed
 warp drive on my world lived nearly a thousand years ago. 
 ARCHER: I'm surprised your ancestors never made it to Earth. 
@@ -479,7 +477,6 @@ TUCKER: Actually, my name's Charles.
 COGENITOR: Then I would like my name to be Charles. 
 TUCKER: I'm flattered. 
  [Stratopod]
-
 DRENNIK: There's a flare forming ahead. 
 ARCHER: I don't see it. 
 DRENNIK: You will. Turn the axis forty degrees to port. I think we can
@@ -496,7 +493,6 @@ DRENNIK: Where did you learn to do that?
 ARCHER: North shore of Oahu, body surfing. I think it's time you took
 the helm back. 
  [Corridor]
-
 COGENITOR: Would you be punished if they find out you've brought me
 here? 
 TUCKER: Punished? No, but they might get a little angry. 
@@ -693,7 +689,6 @@ HOSHI [OC]: There's a call coming in from the Vissian Captain, sir. He
 sounds upset. 
 ARCHER: Put him through. 
  [Ready room]
-
 (The doorbell chimes.) 
 ARCHER: Come in. 
 TUCKER: You wanted to see me, Captain? 
@@ -718,5 +713,4 @@ you did.
 TUCKER: You're not responsible. 
 ARCHER: Dismissed. (Archer turns his back to look out of the porthole.) 
 TUCKER: Captain?  
-
 

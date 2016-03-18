@@ -1,12 +1,10 @@
 Episode Number: 608
-
 The Voyager Transcripts - The Voyager Conspiracy
 The
 Voyager Conspiracy
 Stardate:
 53329
 Original Airdate: 24 November, 1999
-
   [Cargo Bay two]
 (Little Naomi is standing in Seven's regeneration chamber when Seven enters.)SEVEN:
 Naomi Wildman. State your purpose here. 
@@ -461,7 +459,6 @@ all checks out I see no reason not to.
 KIM: I've received the telemetry. 
 CHAKOTAY: I'll take it to Engineering. 
 [Engineering]
-
 CHAKOTAY:
 I want you to add a point zero three variance to these shield
 modifications. 
@@ -745,5 +742,4 @@ JANEWAY: You're right. We've been through too much to stop trusting
 each other. 
 CHAKOTAY: You didn't poison the coffee, did you? 
 JANEWAY: Not any more than I usually do.  
-
 

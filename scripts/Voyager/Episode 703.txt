@@ -1,12 +1,10 @@
 Episode Number: 703
-
 The Voyager Transcripts - Critical Care
 Critical
 Care
 Stardate:
 Unknown
 Original Airdate: 1 November 2000
-
    [Level Red]
 (A storm rages above a huge city. A
 small craft flies to a massive floating structure. A lot of patients
@@ -226,7 +224,6 @@ EMH: In some societies, it's considered rude to refer to someone in the
 third person while he's standing in front of you. 
 CHELLICK: I'm sure you'll make good use of him. 
 [Bridge]
-
 TUVOK:
 The warp trail ends here. Gar should be directly ahead. 
 JANEWAY: All stop. Red alert. On screen. (It is only a beacon.)
@@ -798,5 +795,4 @@ collective.
 EMH: No offence, Seven, but I don't exactly aspire to Borg ideals. 
 SEVEN: You were hoping your behaviour was the result of a malfunction.
 I'm sorry Doctor, but I must give you a clean bill of health. 
-
 

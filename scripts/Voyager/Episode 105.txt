@@ -1,12 +1,10 @@
 Episode Number: 105
-
 The Voyager Transcripts - The Cloud
 The
 Cloud
 Stardate:
 48456.2
 Original Airdate: February 13 1995
-
  JANEWAY [OC]: Personal log,
 Stardate 48546.2. Our journey home is several weeks old now, and I have
 begun to notice in my crew and in myself, a subtle change as the
@@ -15,7 +13,6 @@ virtually the entire family of man. We are more than a crew and I must
 find a way to be more than a captain to these people, but it's not
 clear to me exactly how to begin. 
  [Engineering]
-
 (Janeway comes out of the turbolift and walks past a crewman gazing out
 of an observation window in the corridor, then into Engineering.) 
 JANEWAY [OC]: At the Academy, we are taught that a captain is expected
@@ -97,7 +94,6 @@ CHAKOTAY [OC]: Bridge to Janeway.
 JANEWAY: On my way. Janeway out. Tomorrow maybe. 
 (Janeway leaves her cup, so Neelix drinks it.) 
  [Bridge]
-
 JANEWAY: Yes, Commander?
 CHAKOTAY: There was no need for you to come to the bridge, Captain.
 JANEWAY: Yes, there was.
@@ -178,7 +174,6 @@ force ratio of four to one. Recommend we shut down impulse and go to
 thrusters.
 JANEWAY [OC]: Acknowledged. Engage thrusters. 
  [Bridge]
-
 JANEWAY: Ahead, slow.
 PARIS: Density still increasing. Up by seventy percent now.
 JANEWAY: Mister Tuvok?
@@ -202,7 +197,6 @@ JANEWAY: Is it natural or artificial?
 We're not reading any directed energy source down here, Captain. My
 guess is it's a natural phenomenon. 
  [Bridge]
-
 JANEWAY: How far are we from the particles, Lieutenant?
 TUVOK: Just over seven thousand kilometres.
 JANEWAY: It's conceivable this energy barrier is related to those
@@ -217,7 +211,6 @@ the barrier?
 The barrier appears to be only fifty metres deep. A four second burst
 at maximum thrusters ought to do it. 
  [Bridge]
-
 JANEWAY: All right. Maximum shields. Engage full thrusters for four
 seconds and then drop to one quarter.
 PARIS: Acknowledged. Engaging thrusters.
@@ -259,7 +252,6 @@ KES: I've never kissed anyone inside a nebula before.
 (Thump! Thump!) 
 NEELIX: What did I tell you? 
  [Bridge]
-
 JANEWAY: Red alert.
 CHAKOTAY: Whatever they are, they're passing right through our shields.
 JANEWAY: Try reversing the shield polarity. Mister Tuvok?
@@ -274,7 +266,6 @@ JANEWAY: Go ahead.
 These things are sticking to the hull. And I'm showing a drain on our
 energy reserves. 
  [Bridge]
-
 JANEWAY: A drain? Why would we be losing energy?
 TORRES [OC]: I'm not sure, Captain. They seem to be drawing it right
 through the shield grid along the hull.
@@ -300,7 +291,6 @@ We can't go back to impulse, Captain. That's how our problem started.
 Our best chance is to burn the aft thrusters beyond their recommended
 limits. 
  [Bridge]
-
 JANEWAY: Proceed.
 TORRES [OC]: Acknowledged. Accelerating deuterium to rear thrusters.
 CHAKOTAY: We have a complement of thirty eight photon torpedoes at our
@@ -596,7 +586,6 @@ CREWWOMAN: Sorry.
 CREWMAN: Excuse me.
 NEELIX: Now what? Neelix to Chakotay. 
  [Bridge]
-
 CHAKOTAY: We're very busy up here, Neelix. What do you need? 
 NEELIX [OC]: This yellow alert business. 
  [Mess
@@ -670,7 +659,6 @@ JANEWAY: Magnify. Engineering, ready your nucleonic beam.
  TORRES:
 Ready and awaiting your orders, Captain. 
  [Bridge]
-
 JANEWAY: Mister Paris, bring us into position.
 PARIS: Coming about forty degrees.
 (Thump!) 
@@ -764,7 +752,6 @@ TORRES: We're ready
 Down here, Captain. 
 JANEWAY [OC]: Let's give the wound 
  [Bridge]
-
 JANEWAY: Two doses to start. Five bursts at a two second interval. Now.
 Analysis. 
  [Engineering]
@@ -833,7 +820,6 @@ JANEWAY: Engineering, I'll need a one second burst from our aft
 [OC]: Thrusters on my order. 
 TORRES: Standing by. 
  [Bridge]
-
 JANEWAY: Launch microprobe. Thrusters. 
  [Engineering]
  TORRES:
@@ -865,7 +851,6 @@ JANEWAY: Disengage nucleonic beam. Fire thrusters.
  TORRES:
 Thrusters engaged. 
  [Bridge]
-
 JANEWAY: Now, Mister Paris.
 PARIS: Forty thousand kilometres to the perimeter. Thirty thousand.
 CHAKOTAY: The life form's regeneration rate is up forty percent,
@@ -891,7 +876,6 @@ KIM: Well, I don't mean to be out of place, but if you'd care to join
 us, you'd be welcome.
 JANEWAY: Join you where? 
  [Sandrine's]
-
 (Chakotay and Paris are playing pool.) 
 RICKY: Come on, Tommy. Let's get out of here.
 PARIS: Easy, honey. I'm setting the Indian up for the big hustle.
@@ -935,5 +919,4 @@ JANEWAY: Eight ball in the side pocket.
 grandfathers and from the bones of our people. But perhaps there is one
 powerful being who will embrace this good crew and give them the answer
 they seek.  
-
 

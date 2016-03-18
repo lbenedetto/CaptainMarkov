@@ -1,12 +1,10 @@
 Episode Number: 129
-
 The Next Generation Transcripts - Elementary, Dear Data
 Elementary,
 Dear Data
 Stardate:
 42486.3
 Original Airdate: 5 Dec, 1988
-
  
 Captain's log, Stardate 42286.3. We have arrived on station at
 coordinates three six two nine by five eight four, three days early for
@@ -695,5 +693,4 @@ PICARD: As are we, Mister La Forge.
 LAFORGE: Yes, sir. 
 RIKER [OC]: Captain. Starship Victory has arrived. 
 PICARD: On my way, Number One.  
-
 

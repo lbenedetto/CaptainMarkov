@@ -1,11 +1,9 @@
 Episode Number: 413
-
 The Voyager Transcripts - Hunters
 Hunters
 Stardate:
 51501.4
 Original Airdate: 11 February 1998
-
   [Bridge] 
 (A very garbled message is being sent across the galaxy.)VOICE [OC]: USS Voyager. If you are receiving this message, please study it carefully. We have information JANEWAY: What happened? 
 KIM: I'm not sure. The transmission just stopped. 
@@ -47,7 +45,6 @@ BETA: Unknown. It comes from across the galaxy.
 ALPHA: Locate the ship receiving it. 
 BETA: It's on a course to one of our modules. 
 ALPHA: Intercept. 
-
 [Bridge]KIM:
 Maybe they've figured out a way to get us home. 
 PARIS: How can they get us home from sixty thousand light years away? 
@@ -116,7 +113,6 @@ EMH: Unlikely. I've accomplished things no EMH ever has. In fact, most
 likely I'll become an object of intense study and discussion. Possibly
 even veneration. What's that?(Voyager is shaking.) 
  [Bridge]
-
 JANEWAY: Report. 
 KIM: We're encountering some kind of gravimetric forces. 
 CHAKOTAY: Source? 
@@ -281,7 +277,6 @@ seems to let up...however I do need to relate some rather difficult
 news...since you've been gone, it's been so difficult for me to 
 assume... Janeway starts out smiling, but then it fades.)
  [Engineering]
-
 CHAKOTAY: Have you gotten a letter yet? 
 TORRES: Don't expect one. 
 CHAKOTAY: Do you remember Sveta? 
@@ -517,7 +512,6 @@ JANEWAY: Well, I knew he'd eventually move on with his life. But there
 was such a finality to that letter. 
 KIM [OC]: Kim to the captain. Can you come to the bridge? 
  [Bridge]
-
 JANEWAY: What is it? 
 KIM: We've picked up an automated distress signal from Tuvok's shuttle.
 Sensors show there's no one on board. 
@@ -607,7 +601,6 @@ first. I want the female to witness what will happen to her. Their bone
 structure makes cutting through the back difficult. This will take
 time. 
  [Bridge]
-
 JANEWAY: Bridge to Torres. 
 TORRES [OC]: Torres here, Captain. 
 JANEWAY: How much longer? 
@@ -616,7 +609,6 @@ lab]
  TORRES:
 I'm getting out piece by piece. At least another half hour. 
  [Bridge]
-
 JANEWAY: How are you coming? 
 KIM: The ship has some kind of monotanium armour plating. It's
 scattering the targeting beam. 
@@ -690,7 +682,6 @@ ship]
 Full reverse. Increase power to the engine. 
 BETA: No response. 
  [Bridge]
-
 JANEWAY: Do you have them? 
 KIM: Not yet. Their patterns are distorting. 
 JANEWAY: Narrow the annular confinement beam. 
@@ -796,5 +787,4 @@ JANEWAY: Plenty of time.
 NEELIX: Neelix to the ready room. The party's about to begin and there
 are only two people missing. 
 JANEWAY: We're on our way. (Chakotay offers Janeway his arm, and they leave together.)  
-
 

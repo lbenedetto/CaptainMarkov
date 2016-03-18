@@ -10,14 +10,14 @@ class MarkovChain {
 	/**
 	 * Initialize empty chain
 	 */
-	public MarkovChain() {
+	MarkovChain() {
 		createStarterEntries();
 	}
 
 	/**
 	 * Initialize chain with lines
 	 */
-	public MarkovChain(IterableFile lines) {
+	MarkovChain(IterableFile lines) {
 		createStarterEntries();
 		addFile(lines);
 	}
@@ -33,7 +33,7 @@ class MarkovChain {
 	 *
 	 * @param lines IterableFile
 	 */
-	public void addFile(IterableFile lines) {
+	void addFile(IterableFile lines) {
 		for (String s : lines)
 			addWords(s);
 	}
@@ -125,7 +125,7 @@ class MarkovChain {
 	 *
 	 * @param n int
 	 */
-	public void generateSentences(int n) {
+	void generateSentences(int n) {
 		for (int i = 0; i < n; i++)
 			generateSentence();
 	}

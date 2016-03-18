@@ -1,10 +1,9 @@
 import java.io.*;
-import java.nio.file.Files;
 
 class Character {
-	String characterExternalName;
-	String character;
-	Series series;
+	private String characterExternalName;
+	private String character;
+	private Series series;
 	IterableFile file;
 
 	/**

@@ -2205,8 +2205,7 @@ CHAKOTAY: What do you want me to do? Throw her in the brig for the rest of the t
 CHAKOTAY: Chakotay here.#
 CHAKOTAY: On my way.#
 CHAKOTAY: You're a senior officer on this ship. Act like one. Find a#
-CHAKOTAY: None. [Astrometrics lab]#
-CHAKOTAY: Your call sounded urgent.#
+CHAKOTAY: None. [Astrometrics lab] CHAKOTAY: Your call sounded urgent.#
 CHAKOTAY: You couldn't have extended the astrometric sensors that far.#
 CHAKOTAY: It doesn't look like we'll be able to keep track of it very long.#
 CHAKOTAY: Can we use the network to transmit a message?#
@@ -4230,8 +4229,7 @@ CHAKOTAY: She's going to be your Chief Engineer. Two crews, Maquis and Starfleet
 CHAKOTAY: Don't worry, you'll always get the last word.#
 CHAKOTAY: She was a member of my crew, who turned out to be a Cardassian spy. She made an alliance with the Kazon and took over the ship. It's all right, we got it back.#
 CHAKOTAY: I suggest we take a page from your rule book. We try diplomacy.#
-CHAKOTAY: Something tells me you already have one. [Engineering - Basics]#
-CHAKOTAY: I'm glad you're cooperating.#
+CHAKOTAY: Something tells me you already have one. [Engineering - Basics] CHAKOTAY: I'm glad you're cooperating.#
 CHAKOTAY: What's that?#
 CHAKOTAY: What are you doing?#
 CHAKOTAY: That's not possible.#

@@ -1,11 +1,9 @@
 Episode Number: 314
-
 The Voyager Transcripts - Darkling
 Darkling
 Stardate:
 50693.2
 Original Airdate: 19 February, 1997
-
   Captain's log, stardate
 50693.2. We've been in orbit above an outpost of the Mikhal Travellers.
 This loosely governed race of explorers has extensive knowledge of the
@@ -611,7 +609,6 @@ signatures exactly like those of the Doctor.
 JANEWAY [OC]: Are you suggesting the Doctor attacked Zahir? 
 CHAKOTAY: That's what it looks like, Captain 
  [Bridge]
-
 JANEWAY: Then Kes could be in danger. And Torres. Get someone from
 security down to Sickbay. Check on B'Elanna. Try and find them,
 Chakotay. I'll see what I can do about the scattering field. 
@@ -691,7 +688,6 @@ JANEWAY [OC]: Janeway to Chakotay.
 CHAKOTAY: Go ahead, Captain. 
 JANEWAY [OC]: I've gotten through the Doctor's scattering field. Not 
  [Bridge]
-
 JANEWAY: Enough to beam them up yet but I've got a fix on their
 position. I'm downloading the coordinates into Tuvok's tricorder. 
  [Mountain
@@ -744,7 +740,6 @@ why I'm wearing these ridiculous clothes?
 KIM: Kim to bridge. We got them. And the Doctor seems to be back to
 normal. 
  [Bridge]
-
 JANEWAY: Acknowledged. 
  [Transporter
 room] 
@@ -781,5 +776,4 @@ EMH: I swear this oath by Apollo Physician, by Aesculpius, by Health,
 and by all the gods and goddesses. In whatsoever place that I enter, I
 will enter to help the sick and heal the injured. And I will do no
 harm.  
-
 

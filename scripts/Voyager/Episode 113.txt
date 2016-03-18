@@ -1,11 +1,9 @@
 Episode Number: 113
-
 The Voyager Transcripts - Faces
 Faces
 Stardate:
 448784.2
 Original Airdate: May 8 1995
-
   [Laboratory]
  SULAN:
 Regeneration phase completed. Deactivate the genitron. Shut down the
@@ -44,7 +42,6 @@ TUVOK: Please, enjoy it.
 (Tuvok leaves. Neelix drinks the soup directly from the bowl.) 
 NEELIX: Ah, there's no place like home. 
  [Bridge]
-
 CHAKOTAY: The away team hasn't arrived at the pre-arranged coordinates,
 Captain, and they've failed to respond to our hails. 
 JANEWAY: Have you tried locking on to their comm. signals? 
@@ -246,29 +243,23 @@ CHAKOTAY: Away team to Voyager.
 JANEWAY [OC]: Go ahead Commander. 
 CHAKOTAY: We've run into some type of force field, Captain. 
  [Bridge]
-
 CHAKOTAY [OC]: One minute we were reading an empty tunnel, and the next
 we walked 
  [Tunnels]
-
 CHAKOTAY: Right into a solid wall of rock. 
 TUVOK: Captain, the energy configuration of the force field matrix is
 virtually identical to those used by the Vidiians. 
  [Bridge]
-
 JANEWAY: Mister Ayala, scan for any alien vessels in the sector.
 Commander, we know from past experience that our phasers can disrupt
 that forcefield. I want to find out what's in there. 
  [Tunnels]
-
 CHAKOTAY: Aye, Captain. 
 JANEWAY [OC]: But I don't want you taking any unnecessary risks. We'll
 be 
  [Bridge]
-
 JANEWAY: Standing by to implement an emergency beam out. 
  [Tunnels]
-
 CHAKOTAY: Acknowledged. 
 (Chakotay fires his phaser at the rock wall.) 
 CHAKOTAY: It's not working, Captain. 
@@ -278,7 +269,6 @@ KIM: Commander!
 (Two Vidiians duck out of sight.) 
 CHAKOTAY: Three to beam up! 
  [Laboratory]
-
 (Klingon B'Elanna is testing the strength of the restraints. She breaks
 one as Sulan enters.) 
 SULAN: B'Elanna? How are you feeling today? 
@@ -326,7 +316,6 @@ DURST: It's okay, Tom. They're the ones with the guns, remember?
 (Durst is taken away. Torres is covering in the shadows.) 
 PARIS: What is it? 
  [Bridge]
-
 JANEWAY: Now that the Vidiians know we're here, we have to be prepared
 for the possibility they'll call in reinforcements. 
 KIM: So far long range sensors haven't located any alien vessels near
@@ -437,7 +426,6 @@ KIM: Initiating auto sequence.
 TUVOK: Targeting scanners to match coordinates. Scanners locked. 
 JANEWAY: On my mark, Mister Kim. Energise. Well, now we wait. 
  [Tunnels]
-
 (Klingon B'Elanna takes the Talaxian prisoner.) 
 B'ELANNA: Make a sound and I'll break your neck, understand? I'm
 looking for my friend, Tom Paris, a human male. Have you seen him? 
@@ -518,7 +506,6 @@ B'ELANNA: We can't go to the prison barracks. There are too many guards
 there. In the lab where they were holding me, there was a security
 console. That's the last place they would expect us to be. 
  [Barracks]
-
 TALAXIAN: They must have taken her to organ processing. 
 PARIS: Tell me how to get there. 
 (A Vidiian puts his hand on Paris' shoulder.) 
@@ -539,7 +526,6 @@ GUARD: Very well, take him. But from now on I expect to be notified in
 advance of all transfers. 
 CHAKOTAY: Yes, sir. 
  [Laboratory]
-
 B'ELANNA: There. 
 TORRES: I have to bypass the security code so I can access the force
 field grid. Then I'll have a better idea of what we're dealing with.
@@ -576,7 +562,6 @@ JANEWAY: Mister Kim, can you get a lock on Commander Chakotay?
 CHAKOTAY: {OC} Chakotay to Voyager, do you read? 
 JANEWAY: Loud and clear, Commander. 
  [Laboratory]
-
 CHAKOTAY: I've found them, Captain.
 (Sulan takes a weapon from behind his back and points it at Torres.) 
 B'ELANNA: No! 
@@ -616,5 +601,4 @@ CHAKOTAY: I'd have to say that you two made quite a team down there.
 TORRES: I know. I came to admire a lot of things about her. Her
 strength, her bravery. I guess I just have to accept the fact that I'll
 spend the rest of my life fighting with her.  
-
 

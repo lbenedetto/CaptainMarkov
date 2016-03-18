@@ -1,11 +1,9 @@
 Episode Number: 125
-
 The Next Generation Transcripts - Conspiracy
 Conspiracy
 Stardate:
 41775.5
 Original Airdate: 9 May, 1988
-
   First
 officer's log, stardate 41775.5. We are en route to the ocean world of
 Pacifica. While our mission is scientific in nature, we look forward to
@@ -636,5 +634,4 @@ LAFORGE: Any idea what the message was, Data?
 DATA: I believe it was a beacon. 
 PICARD: A beacon? 
 DATA: Yes, sir. A homing beacon, sent from Earth.  
-
 

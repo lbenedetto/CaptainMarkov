@@ -12,7 +12,7 @@ class SeriesReader implements Iterable<String> {
 	 *
 	 * @param _series Series
 	 */
-	public SeriesReader(Series _series) {
+	SeriesReader(Series _series) {
 		series = _series;
 	}
 
@@ -29,7 +29,7 @@ class SeriesReader implements Iterable<String> {
 		return si;
 	}
 
-	class SeriesIterator implements Iterator<String> {
+	private class SeriesIterator implements Iterator<String> {
 		String nextLine;
 		String currLine;
 		BufferedReader currentEpisode;

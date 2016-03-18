@@ -1,11 +1,9 @@
 Episode Number: 319
-
 The Voyager Transcripts - Displaced
 Displaced
 Stardate:
 50912.4
 Original Airdate: 14 May, 1997
-
   [Corridor - Deck six]
  (Torres
 comes out of the holodeck, holding a bat'leth, which say to me that
@@ -111,7 +109,6 @@ TORRES: Localise the source, I'll try to increase the sensor
 resolution. Do you have anything yet? Harry? Torres to bridge. Ensign
 Kim just disappeared. 
  [Bridge]
-
 JANEWAY: And we just got another visitor. 
 (A dark-skinned young woman. A crewman vanishes in a corridor and a
 Nyrian appears in the Paxau Resort holoprogramme. Later -) 
@@ -155,7 +152,6 @@ Captain's log, stardate 50912.4. It's been twelve hours since these
 mysterious exchanges began, and we still haven't discovered their
 cause. I've already lost over half my crew. 
  [Corridor]
-
 CHAKOTAY: Cargo Bay two is almost full. We'll have to start converting
 the shuttle bays. 
 JANEWAY: Then do it. I want them where we can keep an eye on them. 
@@ -164,7 +160,6 @@ are getting a little thin.
 JANEWAY: Shut down everything but the ship's essential functions. We'll
 be operating on a skeleton crew before long. 
  [Engineering]
-
 JANEWAY: B'Elanna, you've developed a theory about what's happening? 
 TORRES: A Nyrian astrophysicist who arrived about an hour ago told me
 about some strange graviton fluctuations they detected at their colony.
@@ -204,7 +199,6 @@ NEELIX: We'll make sure you're comfortable. A security guard will
 escort you. 
 SECURITY: Right away, sir. 
  [Bridge]
-
 (Chakotay is running the ship from the helm. He has one other bridge
 crew, a young woman.) 
 LANG: Commander, there's a problem with the internal sensors on deck
@@ -300,7 +294,6 @@ power. We've got to seal those doors.
 (Too late. The Nyrians enter. Lang shoots two before being shot
 herself. There is another very brief battle in Engineering.) 
  [Corridor]
-
 CHAKOTAY: They're everywhere. They're even decrypting our access codes.
 The Nyrians obviously prepared for this before they got here. They must
 have tapped into our computer somehow, gotten enough information to
@@ -344,7 +337,6 @@ I've located the last human. He's on the fifth deck.
 DAMMAR: Send a patrol to stop him. 
 RISLAN: I already have. 
  [Sickbay]
-
 CHAKOTAY: Activate Emergency Medical Holographic programme. 
 EMH: Please state the nature. Hello? 
 CHAKOTAY: Doctor, over here. 
@@ -740,5 +732,4 @@ TORRES: Things were pretty chilly there for a while.
 PARIS: I guess they were. 
 TORRES: It feels good to be warm again. 
 PARIS: Yeah, it sure does.  
-
 

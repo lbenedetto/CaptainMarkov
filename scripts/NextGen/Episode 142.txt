@@ -1,12 +1,10 @@
 Episode Number: 142
-
 The Next Generation Transcripts - Q Who?
 Q
 Who?
 Stardate:
 42761.3
 Original Airdate: 8 May, 1989
-
   [Engineering]
 SONYA: Hot chocolate, please. 
 LAFORGE: We don't ordinarily say please to food dispensers around here.
@@ -503,7 +501,6 @@ O'BRIEN: I've laid in coordinates which should set you down in the
 least damaged section of the Borg ship.
 RIKER: Set phasers on stun. Be ready to increase power in case we need
 it. Energise.
-
 [Borg ship]
 (They are on one of the many walkways. Lots of wall
 panels, ducts and cabling overhead, Borg hooked up to alcoves
@@ -670,5 +667,4 @@ PICARD: Maybe Q did the right thing for the wrong reason.
 GUINAN: How so?
 PICARD: Well, perhaps what we most needed was a kick in our
 complacency, to prepare us ready for what lies ahead.  
-
 

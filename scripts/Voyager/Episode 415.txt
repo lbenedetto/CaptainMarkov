@@ -1,11 +1,9 @@
 Episode Number: 415
-
 The Voyager Transcripts - Retrospect
 Retrospect
 Stardate:
 51679.4
 Original Airdate: 25 February 1998
-
   [Bridge] 
 (Voyager fires a missile at a target in orbit above a planet, blasting a hole straight through it.)TUVOK:
 Direct hit. 
@@ -578,7 +576,6 @@ Captain's log, stardate 51679.4. We've detected the warp signature from
 Kovin's ship and we're now in pursuit. In the meantime, Tuvok and I
 have been examining the tools from Kovin's lab. 
  [Medical lab]
-
 JANEWAY: This isn't getting us anywhere. Seven's cellular residue is on
 everyone of these, but that would be true if she simply handled them. 
 TUVOK: My examination of the rifle is equally inconclusive. It may have
@@ -637,7 +634,6 @@ SEVEN: The Doctor told me I would feel better when Kovin gets what he
 deserves. I want him to be punished. I won't settle for anything
 less. 
  [Bridge]
-
 JANEWAY: Mister Paris? 
 PARIS: He's in range. 
 JANEWAY: Visual. Hail him. 
@@ -740,5 +736,4 @@ fight for her, no matter what. We let our good intentions blind us. We
 all bear responsibility for Kovin's death, and we all have to live with
 it. But to delete that burden would be the last thing any of us should
 do.  
-
 

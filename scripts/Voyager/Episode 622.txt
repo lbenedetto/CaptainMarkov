@@ -1,12 +1,10 @@
 Episode Number: 622
-
 The Voyager Transcripts - Life Line
 Life
 Line
 Stardate:
 Unknown
 Original Airdate: 10 May 2000
-
   [Shuttlecraft]
 BARCLAY:
 Shuttlecraft Dawkins to Jupiter Station. 
@@ -300,7 +298,6 @@ EMH: I'm no longer a prototype. I have exceeded my original
 programming. I'm no longer under your control. 
 ZIMMERMAN: Oh, really? Computer, transfer EMH to the living quarters.
 [Zimmerman's living quarters]
-
 BARCLAY:
 How did it go? (Later, the EMH comes storming out of the lab on his own.)EMH:
 Power up the MIDAS array. I'm leaving. 
@@ -690,5 +687,4 @@ EMH: If you insist. (Barclay enters.)
 BARCLAY: Ready? 
 EMH: Would you mind? (He hands Barclay his holo-camera.) 
 BARCLAY: Not at all. Smile!  
-
 

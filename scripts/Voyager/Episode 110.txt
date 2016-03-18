@@ -1,12 +1,10 @@
 Episode Number: 110
-
 The Voyager Transcripts - State of Flux
 State
 of Flux
 Stardate:
 48658.2
 Original Airdate: April 10 1995
-
  [Planet surface]
  (Carey
 comes running down the valley side with a large fruit in his hand.) 
@@ -61,7 +59,6 @@ Surface]
 CHAKOTAY: Nothing but bloodworms. Neelix wants to bring some back for a
 tartar 
  [Bridge]
-
 CHAKOTAY [OC]: He wants to make. I'm trying to talk him out of it.
 JANEWAY: We're picking up an unidentified ship in low orbit. Collect
 your teams and prepare to transport back while we investigate.
@@ -93,7 +90,6 @@ CHAKOTAY: If she went inside one, it might be blocking her comm. badge
 signal. The rest of you get back to the ship. I'm going to look for
 her. 
  [Cave]
-
 (Chakotay hides when he hears voices from deep inside the cave. A pair
 of Kazon walk past, and Chakotay heads further in. Seska points a
 phaser at him.) 
@@ -249,7 +245,6 @@ JANEWAY: How could they possibly have Federation technology?
 TUVOK: There are only three alternatives I can discern at this time.
 One, it is not Federation technology at all but something similar. 
  [Turbolift]
-
 JANEWAY: Bridge.
 TUVOK: Two, another Federation starship may have been brought to the
 Delta Quadrant prior to our arrival, and they interacted with the
@@ -381,7 +376,6 @@ walks through the forcefield to the mysterious console.)
 CHAKOTAY [OC]: Chakotay to Seska.
 SESKA: I really don't have time to talk to you right now, Chakotay. 
  [Bridge]
-
 CHAKOTAY: What the hell do you think you're doing?
 SESKA [OC]: Retrieving the console, my way.
 CHAKOTAY: I want you back on this ship, and I mean now. 
@@ -474,7 +468,6 @@ CULLUH [on viewscreen]: You will prepare for my arrival.
 (Transmission ends.) 
 PARIS: Friendly sort. 
  [Sickbay]
-
 (Janeway and Tuvok enter with Culluh and his escort.) 
 EMH: Ah, Captain. I'm glad you're here. I was just about to call you.
 JANEWAY: Doctor, this is First Maje Culluh of the Kazon-Nistrim. Could
@@ -602,7 +595,6 @@ I guess they just didn't know what to do with it.
 JANEWAY: I want a complete report on everything we've found so I can
 share it with our Kazon friends. 
  [Sickbay]
-
 (Chakotay enters, and Kes leaves.) 
 CHAKOTAY: We've recovered the console. It's a replicator, constructed
 with materials from Voyager.
@@ -655,7 +647,6 @@ using their own name?
 CHAKOTAY: Chief Inspector Tuvok leaves no stone unturned. I'll tell the
 Captain what you told me. Somehow we'll try to clear this up soon. 
  [Corridor]
-
 CHAKOTAY: She said a Cardassian bone marrow transplant saved her life
 as a child.
 TUVOK: Did you set our plan in motion? I gave Lieutenant Carey the same
@@ -793,5 +784,4 @@ TUVOK: Curious.
 CHAKOTAY: What?
 TUVOK: That my failure, added to your own, should improve your feelings.
 CHAKOTAY: Misery loves company, Tuvok.  
-
 

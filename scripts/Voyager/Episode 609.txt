@@ -1,11 +1,9 @@
 Episode Number: 609
-
 The Voyager Transcripts - Pathfinder
 Pathfinder
 Stardate:
 Unknown
 Original Airdate: 1 December 1999
-
   [Earth - Barclay's
 Apartment] 
 (Someone is knocking on the door of a character previously seen in The Next Generation.)BARCLAY:
@@ -103,7 +101,6 @@ good thing that Admiral Paris is coming tomorrow. We can brief the
 Admiral on my theory. 
 [Pathfinder
 lab]
-
 HARKINS:
 What theory? 
 BARCLAY: I've been going over the interstellar phenomena forecasts from
@@ -448,7 +445,6 @@ BARCLAY: But I'm the one who knows the
 ADMIRAL PARIS: That's the best I can do, Mister Barclay. Good day.
 [Barclay's
 Apartment]
-
 (Night has now fallen.)TROI: So
 the meeting went well? 
 BARCLAY: No, no, no. It didn't, not at all. 
@@ -503,7 +499,6 @@ gamma.
 COMPUTER: Access authorised. (The door opens. He shuts the panel and goes inside the dark lab.) 
 [Pathfinder
 lab]
-
 BARCLAY:
 Computer, interface with the MIDAS array. Activate the control matrix.
 (In deep space, the three panels of the array send a beam to the
@@ -540,7 +535,6 @@ programme Barclay pi three and restrict access.
 HARKINS: Stop him. Stun him if you have to. 
 [Holodeck
 - Voyager Corridor]
-
 (Barclay diverts the two security men through an opening and closing holodeck door.)BARCLAY:
 Tuvok. Did you see those two men? 
 TUVOK: I did not. 
@@ -781,5 +775,4 @@ details.
 BARCLAY: Well, her name is Hope. 
 TROI: You're kidding. 
 BARCLAY: No And, and, and she loves cats.  
-
 

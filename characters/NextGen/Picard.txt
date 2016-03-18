@@ -3765,20 +3765,19 @@ PICARD: Have you any objection?#
 PICARD: Permission granted. Mister Burke, will you handle that?#
 PICARD: Ensign, where is Commander Data?#
 PICARD: Why is that?#
-PICARD: Mister Kolrami, may I speak with you in private?#
-PICARD: Mister Kolrami, you have been nothing but denigrating and abusive of Commander Riker since coming aboard this ship. Now I would like some explanation.#
+PICARD: Mister Kolrami, may I speak with you in private? [Ready room] PICARD: Mister Kolrami, you have been nothing but denigrating and abusive of Commander Riker since coming aboard this ship. Now I would like some explanation.#
 PICARD: In what regard?#
 PICARD: Don't confuse style with intent. Only a fool would question Commander Riker's dedication to Starfleet and the men and women under his command. He is simply the finest officer with whom I have ever served.#
-PICARD: The test is if a crew will follow where Commander Riker leads. His joviality is the means by which he creates that loyalty. And I will match his command style with your statistics any time.#
+PICARD: The test is if a crew will follow where Commander Riker leads. His joviality is the means by which he creates that loyalty. And I will match his command style with your statistics any time. [Data's quarters]#
 PICARD: Don't you think you both might be overreacting? Data is not capable of the emotions which you are assigning to him.#
 PICARD: I am less than an hour away from a battle simulation, and I have to hand-hold an android.#
 PICARD: Commander, I require your presence on the Bridge.#
 PICARD: Data, you are my First Officer.#
 PICARD: Yes, you might. But that does not alter your duty to me and to this ship. Now, do you know how to formulate a premise?#
 PICARD: Then formulate this one. How do I deal Riker and the Hathaway? I will await your answer on the Bridge. And, Commander, it is possible to commit no mistakes and still lose. That is not a weakness. That is life.#
-PICARD: And Data, will you leave your hesitation and self-doubt here in your quarters.#
+PICARD: And Data, will you leave your hesitation and self-doubt here in your quarters. [Observation lounge]#
 PICARD: On screen. The hunt begins, Number One.;#
-PICARD: Screen off. Set course two two three mark three five seven. Full impulse power. Initiate Kumeh manoeuvre.#
+PICARD: Screen off. Set course two two three mark three five seven. Full impulse power. Initiate Kumeh manoeuvre. [Hathaway Bridge]#
 PICARD: Set course three one mark seven three. Present minimal aspect. Ready warp one, optimal spread on simulated torpedoes.#
 PICARD: What the?#
 PICARD: Bring us about, Ensign. Maximum shields.#
@@ -3804,7 +3803,7 @@ PICARD: I am open to suggestions.;#
 PICARD: On screen. Number One, have you been monitoring communications?#
 PICARD: That would leave you defenceless.#
 PICARD: Your what?#
-PICARD: I told you he was the best. I'd like to hear about this, Number One, later. Right now I have to work something out with Mister Data.#
+PICARD: I told you he was the best. I'd like to hear about this, Number One, later. Right now I have to work something out with Mister Data. [Observation lounge]#
 PICARD: There is a way. Number One, can you hear this?#
 PICARD: Mister Data#
 PICARD: I cannot order you to do this.[Hathaway Bridge]#
@@ -3818,7 +3817,7 @@ PICARD: You had no claim to that vessel. It was ours to destroy.#
 PICARD: You can try.#
 PICARD: You made it, Number One. Smooth ride?#
 PICARD: We'll lock on and pick you up.#
-PICARD: Thank you. Initiate recovery procedures. Continue repairs. Plot a course for the nearest starbase. Captain's log, supplemental. With the transporter repaired and my crew safely back aboard, we have officially ended our first Starfleet battle simulation.[Ten forward]#
+PICARD: Thank you. Initiate recovery procedures. Continue repairs. Plot a course for the nearest starbase. Captain's log, supplemental. With the transporter repaired and my crew safely back aboard, we have officially ended our first Starfleet battle simulation.[Ten forward] (Riker and Pulaski enter as a Strategema game between Data and Kolrami is in full flow. The crowd are very excited. The scores are in the 32000! and climbing. Kolrami is sweating, Data is unblinking and has a#
 PICARD: Number One.#
 PICARD: Put your foot where it didn't belong?#
 PICARD: Can you remove it?#

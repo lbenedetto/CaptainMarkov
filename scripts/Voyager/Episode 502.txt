@@ -1,11 +1,9 @@
 Episode Number: 502
-
 The Voyager Transcripts - Drone
 Drone
 Stardate:
 Unknown
 Original Airdate: 21 October 1998
-
   [Cargo Bay two]
 (Seven
 is practising smiling in a mirror when the Doctor enters.)
@@ -192,7 +190,6 @@ CHAKOTAY: Red alert. Captain to the bridge. Tuvok, take a security team
 to the science lab. Chakotay to Seven of Nine, looks like you were
 right. 
  [Sickbay]
-
 CHAKOTAY [OC]: We've detected Borg on the ship. Deck eight, science
 lab. 
 SEVEN: How many drones? 
@@ -666,7 +663,6 @@ leader. We will resist.
 ONE: Resistance is futile. 
 SEVEN: Perhaps. 
  [Bridge]
-
 CHAKOTAY: The Borg vessel's moving into range. 
 JANEWAY: On screen. 
 ONE: Long-range tactical vessel. Transwarp capability. Ablative hull
@@ -725,7 +721,6 @@ Sphere]
 Terminate your interface. 
 (The Sphere buckles then goes KaBOOM! Voyager is hit by the shockwave.)
  [Bridge]
-
 JANEWAY: Stand down red alert. Tuvok, secure all stations. Organise
 damage control teams, Chakotay. 
 KIM: Captain, I'm reading a lifesign in the debris. It's the drone. He
@@ -762,5 +757,4 @@ ONE: You will adapt.
 (One dies.) 
 EMH: I'm sorry.
 (Seven returns to the cargo bay, and deactives One's alcove.) 
-
 

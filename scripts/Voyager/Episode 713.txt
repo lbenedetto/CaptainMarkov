@@ -5,7 +5,6 @@ Void
 Stardate:
 54553.4
 Original Airdate: 14 February 2001
-
   [Mess hall]
 (A formal dinner party is in progress.)NEELIX:
 For our third course, luhvian quail in truffle sauce, served with
@@ -652,7 +651,6 @@ GARON: Refusing the modulator won't bring back the people he killed.
 JANEWAY: No. But using it would make us accessories to murder. Take it
 and get out. 
  [Corridor]
-
 CHAKOTAY: The Jelinians and the Kraylor have left with Bosaal. They
 felt you were being 
 JANEWAY: Impulsive and self-righteous? Is that what you think? 
@@ -765,5 +763,4 @@ LOQUAR: Thank you. (They are beamed away.)
 JANEWAY: It was almost like being part of a Federation again. 
 CHAKOTAY: The real one's only thirty thousand light years away. 
 JANEWAY: Then what are we standing around for?  
-
 

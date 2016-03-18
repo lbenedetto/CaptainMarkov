@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.URL;
 
 class ScriptScraper {
-	public static void downloadEpisode(Series series, int episode) {
+	static void downloadEpisode(Series series, int episode) {
 		System.out.println("Downloading episode number " + episode + " from series " + series);
 		//ENT's scripts use two digits for the production number, so we need to pad the episode number
 		//	with a 0 for the single-digit episodes.
@@ -50,8 +50,7 @@ class ScriptScraper {
 		episodeText = episodeText.replaceAll("</div>(.*\n)*.*", "");
 		episodeText = episodeText.replaceAll("<[^>]*>", "");
 		episodeText = episodeText.replace("&nbsp", "");
-		episodeText = episodeText.replaceAll("\\n\\n\\n\\n", "\n");
-		episodeText = episodeText.replaceAll("\\n\\n", "\n");
+		episodeText = episodeText.replaceAll("\\n+", "\n");
 		//For some reason, Enterprise has a ton of this, and it breaks things down the line
 		episodeText = episodeText.replaceAll(":;", ": ");
 

@@ -5,9 +5,9 @@ import java.io.IOException;
 import java.util.Iterator;
 
 class IterableFile implements Iterable<String> {
-	BufferedReader file;
+	private BufferedReader file;
 
-	public IterableFile(String fileName) throws FileNotFoundException {
+	IterableFile(String fileName) throws FileNotFoundException {
 		file = new BufferedReader(new FileReader(fileName));
 	}
 
@@ -23,7 +23,7 @@ class IterableFile implements Iterable<String> {
 		return fi;
 	}
 
-	public class FileIterator implements Iterator<String> {
+	private class FileIterator implements Iterator<String> {
 		String nextLine;
 		String curr;
 

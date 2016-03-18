@@ -1,12 +1,10 @@
 Episode Number: 315
-
 The Voyager Transcripts - Favorite son
 Favorite
 Son
 Stardate:
 50589.1
 Original Airdate: 19 March, 1997
-
   [Bridge] 
 CHAKOTAY: Let's mark the coordinates of that trinary star. It'll be a
 good reference point for this sector. 
@@ -61,7 +59,6 @@ JANEWAY: Bridge to Engineering, what's the status of the warp drive?
 The plasma injectors are offline, Captain. We're working on them now. 
 (A conduit blows up in Torres' face.) 
  [Bridge]
-
 CHAKOTAY: A plasma conduit just blew in Engineering. Propulsion systems
 are down. They're reporting casualties. 
 JANEWAY: Target their weapons array and fire. 
@@ -203,7 +200,6 @@ TUVOK [OC]: Tuvok to Janeway. There are three ships approaching of the
 same configuration as the Nasari vessel. 
 JANEWAY: On my way. 
  [Bridge]
-
 CHAKOTAY: They'll intercept in thirty six minutes. 
 JANEWAY: Can we outrun them? 
 CHAKOTAY: I doubt it. Engineering's still working on repairs. We could
@@ -436,7 +432,6 @@ ELIANN: This uniform seems so restrictive. Why don't you let me find
 you something more comfortable? 
 KIM: Thanks. I mean (strokes her cheek.) 
  [Bridge]
-
 (Voyager is surrounded by the Nasari ships.) 
 ALBEN [on viewscreen]: I agree with you completely, Captain. There's no
 reason for further hostility between us. 
@@ -496,7 +491,6 @@ KIM: Maybe so.
 LYRIS: Come, join the celebration while you wait. And of course you're
 welcome to stay the night. 
  [Corridor]
-
 CHAKOTAY: We've been able to poke some holes in the tachyon grid but
 they're too small to squeeze Voyager through. 
 JANEWAY: Could a shuttle make it? 
@@ -660,7 +654,6 @@ MALIA: This won't work. You're too important to us. Whatever happens to
 me, they won't allow you to leave. 
 (Kim pushes Malia into the other two, then runs out.) 
  [Bridge]
-
 CHAKOTAY: If we hit the grid here, we'll have a few seconds before the
 patrol ship can move in to intercept us. 
 JANEWAY: That doesn't give you much time to get a lock on Harry. 
@@ -686,7 +679,6 @@ KIM: I won't let you do this to me!
 LYRIS: Harry, there's nowhere to go. 
 (Then he gets beamed up.) 
  [Bridge]
-
 CHAKOTAY: We've got him. 
 PARIS: Setting a new course. 
 TUVOK: The Taresians are in pursuit. 
@@ -736,5 +728,4 @@ KIM: That'll be the day.
 PARIS: I'm serious. You're my role model. You're reliable, hard
 working, extremely punctual. Did I mention polite? 
 KIM: Thanks a lot.  
-
 

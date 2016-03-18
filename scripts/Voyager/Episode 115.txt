@@ -1,12 +1,10 @@
 Episode Number: 115
-
 The Voyager Transcripts - Learning Curve
 Learning
 Curve
 Stardate:
 48846.5
 Original Airdate: May 22 1995
-
   [Holodeck �
 Janeway's Gothic novel] 
 (Janeway opens the drawing room windows to let in the sunshine.) 
@@ -57,7 +55,6 @@ energy grid beta four.
 JANEWAY: Janeway to Bridge. Report. 
 CHAKOTAY [OC]: We're experiencing 
  [Bridge]
-
 CHAKOTAY: Power fluctuations on deck six, Captain. Mister Tuvok is
 investigating.
 JANEWAY [OC]: Keep me informed. Janeway out. 
@@ -604,7 +601,6 @@ It hasn't responded.
 EMH: Sickbay to Bridge. Captain, what seems to be happening.
 JANEWAY [OC]: We're losing more bio-neural circuitry, Doctor. 
  [Bridge]
-
 JANEWAY: All systems are being affected. Please, tell me you have some
 good news about a treatment.
 EMH: [OC]: I'm afraid not. Frankly, I'm at a loss. 
@@ -663,7 +659,6 @@ EMH [OC]: The gel packs are incapable of responding to
  EMH: an
 infection in the same way humanoid organisms do. 
  [Bridge]
-
 JANEWAY: With a fever.
 EMH [OC]: Exactly. 
  [Sickbay]
@@ -683,7 +678,6 @@ TORRES [OC]: I suppose we could infuse the gel pack
  TORRES:
 Circuits with a high energy plasma burst from a symmetric warp field. 
  [Bridge]
-
 JANEWAY: But we'd have to generate that heat by inverting the warp
 field towards the ship. 
  [Engineering]
@@ -700,7 +694,6 @@ have?
 If we re-route the emergency power to the warp engines it might be
 enough. But it's a risky move. 
  [Bridge]
-
 JANEWAY: I'm aware of that, but I think we have to try it. Divert all
 power including life support to the warp engines
 TORRES [OC]: Aye, Captain.
@@ -766,7 +759,6 @@ TUVOK: Keep moving.
 (Tuvok closes the hatch behind his trainees and runs across the cargo
 bay to the ladder.) 
  [Bridge]
-
 JANEWAY: Janeway to sickbay, report.
 EMH [OC]: Bacterial levels are dropping, Captain. 
  [Sickbay]
@@ -775,7 +767,6 @@ they continue, we should be able to purge the system within a few
 minutes.
 JANEWAY [OC]: Keep me informed. 
  [Bridge]
-
 JANEWAY: We need life support back on line as soon as possible.
 EMH [OC]: I'll get back to you right away, Captain. 
 (Meanwhile, Tuvok reaches Gerron, puts him across his shoulders and
@@ -790,7 +781,6 @@ EMH [OC]: All of the infectious bacteria have been destroyed.
  EMH:
 The danger of further infection has passed. 
  [Bridge]
-
 JANEWAY: Mister Kim, start getting our systems back on line.
 KIM: Aye, Captain. 
  [Cargo
@@ -810,5 +800,4 @@ TUVOK: It was. However, I recently realised that there are times when
 it is desirable to bend the rules.
 DALBY: Lieutenant, if you can learn to bend the rules, I guess we can
 learn to follow them. Come on, let's get you two to Sickbay. 
-
 

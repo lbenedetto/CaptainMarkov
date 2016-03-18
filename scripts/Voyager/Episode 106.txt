@@ -1,18 +1,15 @@
 Episode Number: 106
-
 The Voyager Transcripts - Eye of the Needle
 Eye
 of the Needle
 Stardate:
 48579.4
 Original Airdate: February 20 1995
-
  Captain's log, stardate
 48579.4. The crew has been scanning constantly for anomalies that might
 help us shorten our journey home. Ensign Kim has reported an exciting
 discovery. A subspace disturbance which may be a wormhole. 
  [Bridge]
-
 (Janeway enters. Tuvok and Chakotay are at Kim's station.) 
 JANEWAY: Let's see what you have, Mister Kim.
 KIM: There. It's registering only on subspace bands. We don't even have
@@ -185,7 +182,6 @@ going to care one way or the other whether I'm alive. We're ready to
 transmit.
 KIM: Engineering to Bridge. 
  [Bridge]
-
 JANEWAY: Janeway here.
 KIM [OC]: We have a communications link with the microprobe. We're
 going to try sending a preliminary test signal, a series of
@@ -195,7 +191,6 @@ sub-harmonic pulses.
 They stand the best chance of transmission through the wormhole.
 JANEWAY [OC]: Acknowledged. 
  [Bridge]
-
 JANEWAY: Proceed.
 KIM [OC]: Aye, Captain.
 CHAKOTAY: I'm reading transmission of the test signal. The probe has
@@ -208,7 +203,6 @@ There's no response.
 TORRES: It's too soon. Remember, we have no idea how long it takes to
 reach the other side. 
  [Bridge]
-
 JANEWAY: Are you reading anything, Mister Tuvok?
 TUVOK: Negative Captain. There is nothing that would suggest a response.
 CHAKOTAY: Even if someone receives our signal, it might take them some
@@ -220,7 +214,6 @@ KIM [OC]: Aye Captain.
 How long shall we keep it up?
 JANEWAY [OC]: Until I tell you otherwise. 
  [Bridge]
-
 JANEWAY: You have the bridge, Commander.
 TUVOK: Captain.
 JANEWAY: Mister Tuvok.
@@ -557,7 +550,6 @@ EMH: If you do leave, before you go, would you check to make sure I've
 been deactivated.
 KES: I promise. 
  [Bridge]
-
 JANEWAY: And our Chief Engineer has managed to bind a transporter beam
 to the visual link between us.
 TELEK [on viewscreen]: Then you've matched your data transmission to
@@ -631,7 +623,6 @@ TELEK [on viewscreen]: If the procedure is successful, I'll arrange for
 a troop ship to join me. That would easily accommodate your crew.
 JANEWAY: Very well. We'll be in touch. 
  [Corridor]
-
 CHAKOTAY: Kim and Torres have made more than twenty transports of the
 test cylinder, even though she's still having trouble with that phase
 variance. Every one of them has been successful.
@@ -751,5 +742,4 @@ Perhaps you could present it to the Captain?
 KES: I'd be happy to.
 EMH: There's one more request. Something of a, a personal nature. I
 would like a name.  
-
 

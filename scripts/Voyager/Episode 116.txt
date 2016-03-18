@@ -1,11 +1,9 @@
 Episode Number: 116
-
 The Voyager Transcripts - Projections
 Projections
 Stardate:
 48892.1
 Original Airdate: Sep 11 1995
-
  [Sickbay] 
  EMH:
 Please state the nature of the medical emergency. Hello? Computer, who
@@ -454,14 +452,12 @@ EMH: Then I'm not a hologram.
 BARCLAY: And you'll know that I'm telling you the truth.
 EMH: The holo-memory core is located in Engineering. Let's go. 
  [Corridor]
-
 BARCLAY: What's wrong?
 EMH: The remote holoprojectors were taken offline. I shouldn't be able
 to exist outside sickbay? 
 BARCLAY: That's because you're a
 EMH: A real person. Yes. I'm getting the idea. 
  [Engineering]
-
 JANEWAY: Magnetic constrictors are online. The warp core is stable.
 Let's get started on those plasma relays. You, who are you?
 EMH: I'm the Emergency Medical Hologram.
@@ -682,7 +678,6 @@ PARIS: Doctor, are you listening to me? That man needs help!
 (That man is the EMH on a biobed, with bad burns and Janeway's voice.) 
 JANEWAY: Try to calm down, Doctor, everything's going to be fine. 
  [Holodeck]
-
 JANEWAY: Doctor, do you know who I am? Do you know where you are?
 (Chakotay and Kim are there, too.) 
 EMH: I appear to be on the holodeck grid.
@@ -723,5 +718,4 @@ KES: Are you sure about that?
 It opens. He checks that the corridor is clear then sticks his arm out.
 It disappears up to the elbow. He pulls it back in, smiles, and goes
 back to his work.)  
-
 

@@ -1,11 +1,9 @@
 Episode Number: 708
-
 The Voyager Transcripts - Nightingale
 Nightingale
 Stardate:
 54274.7
 Original Airdate: 22 November 2000
-
   Captain's log, stardate
 54274.7. Lieutenant Torres has finally convinced me that I can't put
 off a major maintenance overhaul any longer. We've set down on an
@@ -81,7 +79,6 @@ retreating.
 KIM: Take the helm. Neelix, you're with me. 
 [Kraylor
 ship - Bridge]
-
 (The place is wrecked.)KIM:
 Who's in charge here? 
 TEREK: He is. (He indicates a corpse) TEREK: What are we going to do? 
@@ -166,7 +163,6 @@ ICHEB: I do have an interest in geology.
 TORRES: It's not about the rocks, Icheb. It's about the climbing. 
 [Kraylor
 ship - Bridge]
-
 SEVEN:
 Main power has been restored. All stations responding. 
 KIM: The cloak's back online. Impulse and warp drives are standing by.
@@ -808,5 +804,4 @@ or a zesty lasagne.
 KIM: You know, Neelix, the truth is, I'm not sure. 
 NEELIX: I thought we talked about this. A captain has to be deci 
 KIM: I'm not a captain, Neelix. Not yet, anyway.  
-
 

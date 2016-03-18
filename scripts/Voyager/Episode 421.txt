@@ -1,11 +1,9 @@
 Episode Number: 421
-
 The Voyager Transcripts - Demon
 Demon
 Stardate:
 Unknown
 Original Airdate: 6 May 1998
-
   [Bridge] 
 (Lights are going out all over the ship.
 Note to those who are interested - Roxann is back after being missing
@@ -88,7 +86,6 @@ room]
 Narrow the annular confinement beam to point four seven terahertz.
 Ready here, Captain. 
  [Bridge]
-
 JANEWAY: Stand by. Harry, shunt whatever additional power you can to
 the containment field. I don't want any of those atmospheric gasses
 seeping in. 
@@ -111,7 +108,6 @@ room]
  SEVEN:
 Controls not responding. 
  [Bridge]
-
 JANEWAY: Get out of there now. 
  [Corridor]
 (The container explodes. Seven gets the transporter operator out just in time.)SEVEN:
@@ -306,7 +302,6 @@ JANEWAY [OC]: Commander Chakotay to the bridge.
 CHAKOTAY: On my way. EMH: But(Chakotay leaves.)
 EMH: Make yourselves at home. 
  [Bridge]
-
 JANEWAY: Try scanning for infrared signatures. 
 TUVOK: There's too much interference. 
 CHAKOTAY: What's up? 
@@ -490,7 +485,6 @@ Now.
 PARIS: It's all right, Harry. Once the Doc takes a look at us and sees
 we're fine, we'll get right back to work. 
  [Bridge]
-
 JANEWAY: Status, Mister Tuvok? 
 TUVOK: I've shut down life support everywhere but decks one and five.
 It should provide us with an extra hour of breathable air. 
@@ -503,7 +497,6 @@ CHAKOTAY [OC]: We've got
 surface] 
 CHAKOTAY: A few kilos. We're on our way back to Voyager now. 
  [Bridge]
-
 JANEWAY: What's your position? 
 CHAKOTAY [OC]: About two kilometres from the ship. 
 TUVOK: Captain. 
@@ -650,23 +643,18 @@ We must bring you back to the ship.
 CHAKOTAY [OC]: Understood. I've got five to beam back. 
 TUVOK: Five? 
  [Cavern]
-
 CHAKOTAY: We found another Paris and Kim. 
  [Bridge]
-
 CHAKOTAY [OC]: I can't explain it. 
 JANEWAY: I think I can. Prepare for transport. 
  [Cavern]
-
 CHAKOTAY: Beam us directly to Sickbay. 
 KIM: No. I don't want to go back. 
  [Bridge]
-
 JANEWAY: Transporters are still acting up. We can't get individual
 locks. We're going to have to grab you in a wide beam and bring you in
 as a group. 
  [Cavern]
-
 CHAKOTAY: Acknowledged. 
 KIM: I belong here. 
 CHAKOTAY: Maybe so. But until we know what's going on, you've got to
@@ -711,7 +699,6 @@ TUVOK: Aye, Captain.
 JANEWAY: I'm on my way to Sickbay to check on Harry and Tom. You've got
 the bridge. 
  [Sickbay]
-
 JANEWAY: How are they? 
 EMH: Lucky. The backup systems in their environmental suits kept their
 vital functions going. It'll take time, but they'll recover. 
@@ -742,7 +729,6 @@ DEMON KIM:
 You can't do that! 
 JANEWAY [OC]: Why not? DEMON KIM: I, I'm not sure I understand it myself. 
  [Sickbay]
-
 JANEWAY: Well then, you're going to have to help me figure it out.
 Mister Tuvok, I'm on my way to transporter room one. Erect a level
 seven forcefield around the platform. Fill it with atmosphere from the
@@ -802,5 +788,4 @@ All stations report ready for lift off.
 TUVOK: Code blue status confirmed. 
 JANEWAY: Take us up, Mister Paris. 
 PARIS: Aye, Captain.(Voyager flies away, leaving behind over a hundred apparently Starfleet people.)  
-
 

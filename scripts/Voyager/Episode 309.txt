@@ -1,12 +1,10 @@
 Episode Number: 309
-
 The Voyager Transcripts - Fair Trade
 Fair
 Trade
 Stardate:
 50437.8
 Original Airdate: January 8, 1997
-
   [Corridor]
  NEELIX:
 Mister Tuvok! Mister Tuvok! I was supposed to accompany you on security
@@ -59,7 +57,6 @@ NEELIX: I also had a question about the transporter buffers.
 JANEWAY [OC]: Mister Neelix, please report to the bridge. 
 NEELIX: On my way, Captain. 
  [Bridge]
-
 JANEWAY: Neelix, we seem to be approaching some kind of interstellar
 dust clouds. Can you tell us anything about them? They look rather
 ominous to me. 
@@ -267,7 +264,6 @@ out he'll take twenty percent, and I can't afford that.
 NEELIX: I suppose there's no need to mention it. 
 WIXIBAN: Thanks, Neelix. I knew I could count on you. 
  [Shuttlecraft]
-
 WIXIBAN: Didn't I tell you this would be easy? I got the medical
 supplies and you got the pergium your ship needs so badly. 
 NEELIX: Only twenty kilogrammes. I told Commander Chakotay it would be
@@ -713,5 +709,4 @@ JANEWAY: Well, that's good. Report to deuterium maintenance at oh four
 hundred tomorrow morning. You're going to spend the next two weeks
 scrubbing the exhaust manifolds. That should give you time to think
 about what I've said. Dismissed.  
-
 

@@ -1,11 +1,9 @@
 Episode Number: 114
-
 The Next Generation Transcripts - Datalore
 Datalore
 Stardate:
 41242.4
 Original Airdate: 18 Jan, 1988
-
  
 Captain's log, stardate 41242.4. Our last assignment has taken us into
 the remote Omicron Theta star system, home of our android crewmember
@@ -609,5 +607,4 @@ PICARD: And we're overdue for our computer refit. Number One, have you
 ever considered whether Data is more human, or less human than we want?
 RIKER: I only wish we were all as well balanced, sir.
 PICARD: Agreed!  
-
 

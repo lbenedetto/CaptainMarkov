@@ -1,11 +1,9 @@
 Episode Number: 701
-
 The Voyager Transcripts - Imperfection
 Imperfection
 Stardate:
 54129.4
 Original Airdate: 11 October 2000
-
   Captain's log, stardate
 54129.4. It's a bittersweet day for the crew of Voyager. We've finally
 found a home for some of our most precious cargo. 
@@ -163,7 +161,6 @@ JANEWAY: What if this had happened when you were part of the
 Collective? How would the Borg have repaired the damage? 
 SEVEN: They wouldn't have. Trying to repair a node would be a futile
 exercise. The Borg would simply replace it. 
-
 [Bridge] 
 JANEWAY:
 Harry, we passed a Borg debris field six or seven days ago just outside
@@ -286,7 +283,6 @@ you at tactical. When I bring us around, target their engine core.
 JANEWAY: Aye, sir. (Paris loops around a hunk of debris and gets behind them. Janeway fires phasers.)
 PARIS: Nice shot. They're breaking pursuit. 
 [Sickbay]
-
 (The Doctor is in his office when he realises Seven is using a sickbay console.)EMH: May
 I ask what you're doing? 
 SEVEN: Your filing system is inefficient. I'm implementing a new one. 
@@ -365,7 +361,6 @@ JANEWAY: I'm not giving up on her.
 EMH: Neither am I. I'll do everything in my power to help her, but we
 both have to face the possibility that it may not be enough. 
 [Sickbay]
-
 NEELIX:
 Red, grid thirteen three. 
 SEVEN: They should have finished the simulation by now. 
@@ -608,7 +603,6 @@ EMH: He's locked me out of the controls.
 JANEWAY: How could you do this? 
 ICHEB: It was the only way I could prove to you that it would work. 
 [Sickbay]
-
 (Janeway
 and the EMH beam in with Icheb.) 
 SEVEN: What's wrong with him? 
@@ -678,5 +672,4 @@ ICHEB: Seven?
 SEVEN: Yes? 
 ICHEB: Your ocular implant. It's malfunctioning again. (The EMH scans her.)
 EMH: Actually, it's functioning perfectly.  
-
 

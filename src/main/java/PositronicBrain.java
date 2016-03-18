@@ -8,7 +8,7 @@ class PositronicBrain {
 	 *
 	 * @return HashMap
 	 */
-	public static HashMap<String, HashMap<String, MarkovChain>> createMarkovChains() {
+	static HashMap<String, HashMap<String, MarkovChain>> createMarkovChains() {
 		HashMap<String, HashMap<String, MarkovChain>> chains = new HashMap<>();
 		chains.put("TOS", createMarkovChainsForSeries(Series.TOS, new String[]{"Kirk", "Spock", "McCoy", "Uhura", "Chekov", "Sulu", "Computer"}));
 		chains.put("TNG", createMarkovChainsForSeries(Series.TNG, new String[]{"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"}));

@@ -1,11 +1,9 @@
 Episode Number: 209
-
 The Voyager Transcripts - Prototype
 Prototype
 Stardate:
 Unknown
 Original Airdate: January 15 1996
-
  [Transporter Room]
  (In
 deep space, something watches Voyager approach. It is then beamed
@@ -116,7 +114,6 @@ more coffee.
 NEELIX: To bed. I said, to bed. 
 TORRES: I'm going. I'm going. 
  [Engineering]
-
 (Engineering is deserted. Torres goes to the robot, which is lying on a
 bench by the warp core, and knocks on its head.) 
 TORRES: Anybody home? What's that? You think I should go to bed too?
@@ -442,7 +439,6 @@ the objections of her Chief Security officer. You wouldn't even be here
 if it weren't for her. All right, if that's what it will take to stop
 this, I'll do it. I'll build your damned prototype! 
  [Bridge]
-
 CHAKOTAY: We're losing life support, Captain. 
 TUVOK: The robots have powered down their weapon systems. 
 KIM: They're hailing us, Captain. 
@@ -728,7 +724,6 @@ frequency of the field.
  PARIS:
 Shields synchronised. I'm going in. (Bump!) Then again, maybe not. 
  [Bridge]
-
 CHAKOTAY: It didn't work. He bounced right off the field. 
 TUVOK: Mister Paris, reset your heading for coordinates one zero five 
  [Shuttlecraft]
@@ -827,5 +822,4 @@ installed that module, and the prototype looked up at me and asked me
 for programming. 
 JANEWAY: As I said, it must have been difficult. 
 TORRES: It was necessary.  
-
 

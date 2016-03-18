@@ -1,11 +1,9 @@
 Episode Number: 214
-
 The Voyager Transcripts - Dreadnought
 Dreadnought
 Stardate:
 49447
 Original Airdate: February 12 1996
-
  [Sickbay] 
  (Ensign
 Wildman is having a pre-natal check-up.) 
@@ -65,7 +63,6 @@ analysis.
 CHAKOTAY: Continuous scans, Lieutenant. We don't want whoever did this
 to catch us by surprise. 
  [Engineering]
-
 JANEWAY: Any conclusions? 
 CHAKOTAY: Afraid so. 
 TORRES: We've identified the signature left by the weapons fire.
@@ -214,7 +211,6 @@ that I can bring to my
 JONAS: Someone's about to make a subspace transmission. They may be
 able to detect our comm. link. I have to terminate. 
  [Bridge]
-
 JANEWAY: My name is Kathryn Janeway, Captain of the Federation Starship
 Voyager. 
 KELLAN [on viewscreen]: First Minister Kellan, Captain. What is it you
@@ -313,7 +309,6 @@ lock has been deactivated. Reestablishing stage four.
 JANEWAY [OC]: Janeway to Torres. 
 TORRES: Go ahead Captain. 
  [Bridge]
-
 JANEWAY: We're showing a shut down of all your engines. Can you confirm
 that? 
 TORRES [OC]: That 
@@ -359,7 +354,6 @@ can't initiate transport.
 JANEWAY [OC]: You'd better get back up here, Lieutenant. 
 TORRES: Aye, Captain. 
  [Bridge]
-
 JANEWAY: Mister Tuvok, let's take a shot at disabling its drive
 systems. Ready photons. Red alert. 
 CHAKOTAY: Torres programmed the missile's shields to adjust to all
@@ -483,7 +477,6 @@ have done differently.
 TORRES: All right, Starfleet, let's give it another try. 
 (After an initial stutter, Torres is beamed away.) 
  [Dreadnought]
-
 DREADNOUGHT: Unauthorised entry detected. Initiating DNA scan. Hello
 B'Elanna. Your last systems access was today at zero eight forty hours.
 Current time is nineteen thirty one hours. Have you had a pleasant day?
@@ -510,7 +503,6 @@ DREADNOUGHT: There are fifteen priority targets approaching. All weapon
 systems at full readiness. Speed, full impulse. 
 TORRES: The Rakosan fleet. 
  [Bridge]
-
 JANEWAY: Hail the lead ship. 
 KIM: Channel open, Captain. Audio only. 
 JANEWAY: This is Captain Janeway on Voyager. I urge you to break off
@@ -533,7 +525,6 @@ The Rakosan ships have created a diversion. I've already used it to
 disarm the security codes on board. Now, if I can just get to the
 central processor, I can disable the entire system. 
  [Bridge]
-
 JANEWAY: All right. We'll try to keep a transporter lock on you.
 Janeway out. 
 TUVOK: The Rakosan attack is commencing, Captain. 
@@ -542,7 +533,6 @@ PARIS: Aye, Captain.
 JANEWAY: Give them some cover fire. Red alert. 
 TUVOK: Firing phasers. 
  [Dreadnought]
-
 DREADNOUGHT: All command functions have been rerouted through protected
 back-up circuits, B'Elanna. Your attempt to compromise control has been
 blocked. 
@@ -551,7 +541,6 @@ you recognise that?
 DREADNOUGHT: This vessel is programmed to respond with all necessary
 force to prevent any disruption to it's mission. 
  [Bridge]
-
 (Dreadnought wipes out Rakosan ships easily.) 
 KIM: Shields are holding. 
 TUVOK: We are drawing minimal fire from the missile. It's primary
@@ -658,7 +647,6 @@ Captain. For what it's worth, you've made a friend here.
 JANEWAY: I'm still hoping we'll have a chance to celebrate this new
 friendship together. 
  [Dreadnought]
-
 DREADNOUGHT: All key systems have been secured. You will not gain
 access. 
 TORRES: I'm not interested in your key systems anymore, Dreadnought. 
@@ -670,7 +658,6 @@ TORRES: Oh, just killing time.
 DREADNOUGHT: Life support has been terminated. It is advisable for you
 to return to your ship. 
  [Bridge]
-
 JANEWAY: Gentlemen, I believe our best chance at stopping Dreadnought
 now is to set off a large antimatter explosion directly in it's path. 
 CHAKOTAY: To work, it would take more energy than all of our photons
@@ -725,7 +712,6 @@ hatch opens.);
 TORRES: Yes. 
 (Torres crawls into the small space.) 
  [Bridge]
-
 COMPUTER: Warning. Self destruct sequence has been initiated. Warp core
 overload in eleven minutes. 
 KIM: Captain, I've broken through the interference. I'm not sure how.
@@ -750,7 +736,6 @@ core]
  TORRES:
 My phaser to burn through the magnetic constrictor casing now. 
  [Bridge]
-
 JANEWAY: Are you all right, B'Elanna? 
 TORRES [OC]: Fine. 
  [Dreadnought]
@@ -758,7 +743,6 @@ TORRES [OC]: Fine.
 The air's just a little thin in here. 
 JANEWAY [OC]: Keep me advised. 
  [Bridge]
-
 JANEWAY: Janeway out. Mister Kim, transfer control to the conn. and
 report to your escape pod. 
 KIM: Captain. 
@@ -791,7 +775,6 @@ DREADNOUGHT: When you cease your efforts to breach the containment
 field, life support will be restored. 
 TORRES: No deal. 
  [Bridge]
-
 COMPUTER: Warning. Self destruct sequence has been initiated. Warp core
 overload in three minutes. 
 JANEWAY: Increasing velocity. Preparing to adjust our heading to
@@ -803,7 +786,6 @@ core]
 TORRES: Yes. 
 JANEWAY [OC]: This is your last chance 
  [Bridge]
-
 JANEWAY: This is your last chance to get back here, B'Elanna. I have to
 launch the last escape pods. 
  [Dreadnought
@@ -811,7 +793,6 @@ core]
  TORRES:
 I understand, Captain. I'm almost finished. Let me stay. 
  [Bridge]
-
 COMPUTER: Warning. Self destruct sequence has been initiated. Warp core
 overload in two minutes. 
  [Dreadnought
@@ -843,9 +824,7 @@ the liberty of beaming Lieutenant Torres
 From the Transporter room to Sickbay. She is somewhat singed around the
 edges but should make a complete recovery. 
  [Bridge]
-
 JANEWAY: Very good, Doctor. Janeway out. Mister Tuvok, prepare to
 retrieve our escape pods. Let's bring our crew home. 
 TUVOK: Aye, Captain.  
-
 

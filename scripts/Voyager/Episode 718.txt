@@ -1,12 +1,10 @@
 Episode Number: 718
-
 The Voyager Transcripts - Friendship One
 Friendship
 One
 Stardate:
 54775.4
 Original Airdate: 25 April 2001
-
   [Laboratory]
 (A pair of humanoids with forehead ridges are picking up a transmission from space.)PROBE
 [OC]: We the people of Earth greet you in a spirit of peace and
@@ -66,7 +64,6 @@ Captain's log, stardate 54775.4. We've been searching for five days without any
 sign of the probe, but we're not about to disappoint Starfleet on our
 first official assignment in seven years. 
  [Bridge]
-
 KIM:
 Nothing in grid two nine five. 
 TUVOK: Mister Paris? 
@@ -748,5 +745,4 @@ were out there asking the same questions.
 CHAKOTAY: The urge to explore is pretty powerful. 
 JANEWAY: But it can't justify the loss of lives, whether it's millions
 or just one.  
-
 

@@ -1,12 +1,10 @@
 Episode Number: 304
-
 The Voyager Transcripts - Future's End
 Future's
 End
 Stardate:
 Unknown
 Original Airdates: 6 + 13 November 1996
-
  [Earth - High
 Sierras - 1967] 
  (A
@@ -39,7 +37,6 @@ TUVOK: I've completed my monthly security evaluation. All systems and
 crew 
 CHAKOTAY [OC]: Red Alert! Captain Janeway to the bridge. 
  [Bridge]
-
 JANEWAY: Report. 
 CHAKOTAY: Some sort of spatial rift. It opened right in front of us. 
 JANEWAY: Analysis. 
@@ -764,7 +761,6 @@ STARLING: Kill them!
 (Chakotay is beamed away.) 
 STARLING: Damn! 
  [Bridge]
-
 JANEWAY: Helm, maintain present altitude. Keep us within transporter
 range. Chakotay, see if you can disable the forcefield around that
 timeship. B'Elanna, prepare to lock onto the timeship and beam it to
@@ -806,7 +802,6 @@ You're from the twenty fourth century? And here all this time I though
 you were from the twenty ninth. Looks like I have the home field
 advantage. Ooo, what's this? 
  [Bridge]
-
 STARLING [OC]: Oh, now this is interesting. 
 CHAKOTAY: Damage reports are coming in. Some minor power fluctuations
 in the impulse drive and a few burned out circuits in the main computer
@@ -1101,7 +1096,6 @@ Plaza]
  PARIS:
 Paris to Chakotay. 
  [Shuttlecraft]
-
 CHAKOTAY: Go ahead. 
 PARIS [OC]: Starling's arrived, with the Doctor. 
 TORRES: What? How is that possible? 
@@ -1147,7 +1141,6 @@ take him out of his own car.
 TUVOK: There may not be enough time. I've determined the coordinates. 
 PARIS: Now, Chakotay! 
  [Shuttlecraft]
-
 CHAKOTAY: We've got a lock on Starling's position. 
 TORRES: Energising. 
  [Starling's
@@ -1173,7 +1166,6 @@ TUVOK: Doctor.
 EMH: I've been equipped with an autonomous self-sustaining mobile
 holo-emitter. In short, I am footloose and fancy free. 
  [Shuttlecraft]
-
 CHAKOTAY: Captain, we've got Starling in our transporter buffers but we
 can't rematerialise him. 
 TORRES: The interference is disrupting computer pathways. 
@@ -1187,7 +1179,6 @@ shuttle's pattern buffers and energise.
 CREWWOMAN [OC]: Acknowledged. 
 JANEWAY: Chakotay, we're taking over from here. Mister Kim, let's go. 
  [Shuttlecraft]
-
 CHAKOTAY: The buffers are purged. They've taken Starling off our hands.
 TORRES: We're losing altitude. 
  [Transporter
@@ -1199,10 +1190,8 @@ STARLING: Ah. Damn it. (collapses)
 JANEWAY: Janeway to sickbay. Medical emergency in Transporter room one.
 KES [OC]: Acknowledged, Captain. 
  [Shuttlecraft]
-
 CHAKOTAY: Propulsion is offline. Voyager, we're going down! 
  [Cellar]
-
 (General tools on shelves, with cobwebs over them. Torres and Chakotay
 are lying on the floor, bound hand and foot. Torres wakes, then two men
 open the door and walk to the top of the stairs. The leader is carrying
@@ -1248,7 +1237,6 @@ PARIS: Rain, I'm sorry you got dragged into all this.
 (The cellphone rings.) 
 TUVOK: Tuvok here. 
  [Sickbay]
-
 JANEWAY: Tuvok, we've got Starling, but we've lost contact with
 Chakotay and Torres. Their shuttle went down over Arizona. Mister Kim
 is transmitting the co-ordinates to your tricorder. I want 
@@ -1439,7 +1427,6 @@ kilometres ahead of you.
 It could be his launch site. 
 JANEWAY: Stay on him. 
  [Bridge]
-
 JANEWAY: Our weapons are still offline and Torres hasn't finished
 repairing the shuttle. It might all be up to you. 
  [Arizona
@@ -1467,7 +1454,6 @@ RAIN: Come on.
 PARIS: Jump! 
 (They do, then the shuttlecraft arrives and phasers the truck.) 
  [Shuttlecraft]
-
 CHAKOTAY: Chakotay to Paris. What's your status? 
  [Arizona
 - highway] 
@@ -1521,7 +1507,6 @@ RAIN: Same here. Say hi to Saturn for me.
 PARIS: I will. 
 (Paris kisses Rain goodbye.) 
  [Timeship]
-
 STARLING: Initiate temporal inversion. 
 COMPUTER: Initiating. 
  [Torpedo
@@ -1553,7 +1538,6 @@ CHAKOTAY: Fate, Tuvok? I won't accept that. Close to within ten
 kilometres. We'll ram him if we have to. 
 PARIS: Aye, sir. 
  [Timeship]
-
 COMPUTER: Temporal core has reached cascade potential. 
 STARLING: Penetration point at nine six mark zero four seven. 
  [Torpedo
@@ -1579,7 +1563,6 @@ KIM: He's entering the rift.
 CHAKOTAY: Fire! 
 (Janeway is knocked backwards by the launch gases.) 
  [Timeship]
-
 STARLING: Uh oh! 
 (The Aeon goes KaBOOM just before it reaches the rift, which closes.) 
  [Turbolift]
@@ -1587,7 +1570,6 @@ STARLING: Uh oh!
 Captain, I insist you come to sickbay. 
 JANEWAY: There'll be plenty of time for that, Doctor. 
  [Bridge]
-
 CHAKOTAY: The Bridge is yours, Captain. 
 JANEWAY: Is there a chance in hell we can reopen that rift? 
 KIM: Captain, the rift is opening. There's something coming out. It's
@@ -1646,5 +1628,4 @@ PARIS: Of course not!
 TUVOK: Given Mister Paris's alleged familiarity with twentieth century
 America, it is a wonder we survived the experience at all. 
 PARIS: Tuvok, has anyone ever told you you're a real freakosaurus. 
-
 

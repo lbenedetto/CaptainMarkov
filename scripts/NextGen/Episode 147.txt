@@ -1,12 +1,10 @@
 Episode Number: 147
-
 The Next Generation Transcripts - Peak Performance
 Peak
 Performance
 Stardate:
 42923.4
 Original Airdate: 10 Jul, 1989
-
  
 Captain's log, Stardate 42923.4. Despite misgivings, I have agreed to
 Starfleet's request that the Enterprise divert to the Braslota System,
@@ -22,9 +20,7 @@ KOLRAMI: Captain. I bring greetings from those at Starfleet Command.
 PICARD: Would you care to be shown to your quarters? 
 KOLRAMI: I require little rest, Captain. I prefer that we commence with
 our mission.
-
 [Bridge]
-
 WORF: Despite
 their reputations, this Zakdorn
 does not appear to be
@@ -37,10 +33,8 @@ in the galaxy.
 WORF: So no one is willing to test that perception in combat. 
 DATA: Exactly. 
 WORF: Then the reputation means nothing.
-
 [Observation
 lounge]
-
 (Kolrami
 is giving a
 presentation at the viewscreen.)
@@ -75,9 +69,7 @@ KOLRAMI: Your objection is noted. Let us hope your distaste for the
 exercise will not affect your strategic abilities. 
 RIKER: Mister Kolrami, when I agree to do something. I do it. Do you
 care to surrender now, Captain?
-
  f[Bridge]
-
  PICARD: Well, Number One, you
 are allowed a complement
 of forty, so select whom you
@@ -97,9 +89,7 @@ PULASKI: Captain, he needs an attitude adjustment.
 DATA: The Zakdornian culture is replete with self-assuredness and
 confidence. Seldom is it undeserved. For example, Kolrami is a third
 level grand master at the game of Strategema.
-
 [Engineering]
-
 (Adjustments
 are being made
 to something on the warp
@@ -116,10 +106,8 @@ RIKER: Anticipating the worst, do you think they can be whipped into
 shape in forty eight hours? 
 LAFORGE: I've already taken the liberty of putting together a few
 necessities.
-
  f[Worf's
 quarters]
-
  (He
 seems to be building
 matchstick ship, The door
@@ -145,9 +133,7 @@ else have you got?
 WORF: Guile. 
 RIKER: Join me. 
 WORF: The honour is to serve.
-
 [Bridge]
-
 PICARD: Begin long-range scanning
 of all sectors within three
 light years of Braslota. How
@@ -167,9 +153,7 @@ RIKER: I enjoy a challenge.
 KOLRAMI: Very well. An opponent of limited dimensions can often be
 quite diverting. 
 RIKER: Thank you.
-
 [Corridor]
-
 LAFORGE: So you're going
 to beat him? RIKER:
 Nope. 
@@ -184,10 +168,8 @@ LAFORGE: Other aside from your being privileged, is there anything else
 I can look forward to? 
 RIKER: Nope. 
 LAFORGE: This is going to be exciting.
-
 [Ten
 Forward]
-
 (Troi
 putting the finger
 controls on Kolrami, while Worf is Riker's second. They
@@ -226,9 +208,7 @@ PULASKI: That's it?
 RIKER: I'm afraid so. 
 PULASKI: But but you only made twenty-three moves. 
 RIKER: Yes. Congratulations.
-
  [Bridge]
-
 (The Hathaway is old,
 battered, with that nacelle
 design of two above, two below)PICARD:
@@ -237,10 +217,8 @@ WORF [OC]: Away team assembled and ready to transport, Commander.
 RIKER: I may get over there and want to come right home. 
 PICARD: Good luck, Number One. Captain. 
 KOLRAMI: The simulation will commence in forty eight hours.
-
 [Hathaway
 Bridge]
-
 (It
 looks like it's been
 partially stripped for spares. Everyone is using torches at
@@ -263,15 +241,12 @@ RIKER: Attention, crew of the USS Hathaway. This is your Captain. Over
 the next two days, you might lose a lot of sleep, but with your skill
 and your stamina, we'll have this old lady ready to fly. I want hourly
 progress reports from all stations. Riker out.
-
  [Hathaway
 Bridge]
-
 RIKER:
 Nice job, Geordi
 [Hathaway
 Engineering]
-
 RIKER [OC]: Now, what are
 the possibilities of warp
 drive? LAFORGE: Not good. There are only a few dilithium
@@ -285,7 +260,6 @@ WESLEY: We haven't got a prayer.
 Bridge]
 RIKER:
 Would you like to transfer back
-
 [Hathaway
 Engineering]
 RIKER
@@ -295,14 +269,11 @@ WESLEY: No, sir.
 Bridge]
 RIKER:
 Wes, remember our purpose is to improvise,
-
 [Hathaway
 Engineering]
 RIKER
 [OC]: It's the effort that counts.
-
 [Bridge]
-
 PICARD: Open.
 (hailing frequencies) 
 KOLRAMI: I believe the rules are understood by all. 
@@ -337,10 +308,8 @@ DATA: Indeed, I. (pause) Cannot.
 KOLRAMI: Then you will play for the honour of your ship. 
 PULASKI: The honour of the ship? It's your reputation that's on the
 line.
-
 [Hathaway
 Bridge]
-
 WORF:
 With my knowledge of the Enterprise's security override, we may be able
 to convince the sensors that an enemy ship is approaching. Their
@@ -352,10 +321,8 @@ WORF: If I am successful, the computer will project a false image of
 the enemy ship on the main viewscreen. 
 RIKER: So unless someone runs to a window and looks out 
 NAGEL: They're going to fall for it.
-
 [Hathaway
 Engineering]
-
 (We are
 looking out from the warp core.)
 WESLEY: The lining's still smooth. We should to be able to do something
@@ -366,10 +333,8 @@ WESLEY: Geordi, I have to return to the Enterprise.
 LAFORGE: Wes, we've only got thirty two hours. 
 WESLEY: This is important. 
 LAFORGE: And this isn't?
-
 [Hathaway
 Bridge]
-
 WORF:
 Attempt the routing bypass here. If it works, they will be surprised.
 NAGEL: Where am I going to get the opticable? 
@@ -380,9 +345,7 @@ May I go back and shut it down?
 RIKER: It's that important? 
 WESLEY: It has to be monitored. And it is my final grade in plasma
 physics.
-
 [Bridge]
-
 BURKE: Message from the Hathaway, sir.
 PICARD: On screen. 
 RIKER [on viewscreen]: Request permission for Ensign Crusher to reboard
@@ -397,9 +360,7 @@ PICARD: Permission granted. Mister Burke, will you handle that?
 BURKE: Aye, sir. 
 KOLRAMI: I saw no sense in Riker choosing him anyway. Just a
 non-commissioned child.
-
 [Engineering]
-
 WESLEY:
 I can't believe I forgot about this. It's a good lesson not to let
 excitement cloud your thinking.
@@ -412,15 +373,12 @@ WESLEY: I'm going to have to dispose of this safely It's very volatile.
 I'll beam it off the Enterprise and leave it particalised. 
 BURKE: Fine, let's just do it. 
 WESLEY: I'll transfer the coordinates to the transporter room.
-
 [Hathaway
 Engineering]
 (Wesley's
 experiment apparatus beams in.)
-
 [Ten
 Forward]
-
 (The two
 contestants are being set up like before.)
 DATA: In the present context, what did she mean by bust him up? 
@@ -438,9 +396,7 @@ DATA: Thank you, but what would be the point?
 (Kolrami leaves) 
 PULASKI: How can you lose? You're supposed to be infallible! 
 DATA: Obviously, I am not.
-
 [Bridge]
-
 PICARD: Ensign, where is Commander Data?
 (cough - he was Lieutenant a few scenes ago!) 
 BURKE: He has temporarily removed himself from bridge duty, sir. 
@@ -451,10 +407,8 @@ PICARD: Why is that?
 KOLRAMI: I do not expect Captain Riker will present much of a
 challenge. 
 PICARD: Mister Kolrami, may I speak with you in private?
-
 [Ready
 room]
-
 PICARD:
 I would like to know the root of your prejudice for my First Officer.
 KOLRAMI: Captain, I 
@@ -477,10 +431,8 @@ KOLRAMI: We shall see if your faith is well founded.
 PICARD: The test is if a crew will follow where Commander Riker leads.
 His joviality is the means by which he creates that loyalty. And I will
 match his command style with your statistics any time.
-
 [Data's
 quarters]
-
 DATA:
 Come in, please.
 TROI: Data. 
@@ -505,10 +457,8 @@ TROI: That is why you haven't been on the Bridge.
 DATA: Yes. The Captain would be ill advised to rely upon my judgement. 
 TROI: I think you're really over-reacting. I'm sure you're all right. 
 DATA: I, however, am not sure.
-
 [Hathaway
 Engineering]
-
 (Wesley's
 experiment is being put into a wall panel.)
 LAFORGE: Easy now. Is that it? 
@@ -528,10 +478,8 @@ reaction through the chips.
 LAFORGE: Are we good? 
 RIKER: You're better than good. Great. Brilliant. It's going to be fun.
 Carry on.
-
 [Data's
 quarters]
-
 DATA:
 Come in, please.
 PULASKI: All right, Data, enough of this. 
@@ -548,10 +496,8 @@ sorry.
 DATA: Why, Doctor? It is done, and perhaps just as well. This has
 indicated that I am damaged in some fashion. I must find the
 malfunction.
-
  [Hathaway
 Engineering]
-
 RIKER:
 The simulation begins in one hour.
 LAFORGE: You'll have warp drive, Captain, though it may not be what you
@@ -568,10 +514,8 @@ RIKER: Yes.
 LAFORGE: Ever popped the clutch? 
 RIKER: You're saying we're going to stall the Hathaway? 
 WESLEY: And the Enterprise will waltz right over and pulverise us.
-
 [Ready
 room]
-
 PICARD:
 Let me try to understand. You're saying that Commander Data is
 suffering from a profound loss of confidence, and that you believe only
@@ -588,10 +532,8 @@ address his problem.
 PICARD: I am less than an hour away from a battle simulation, and I
 have to hand-hold an android. 
 PULASKI: The burdens of command.
-
 [Data's
 quarters]
-
 DATA:
 Come in, please.
 PICARD: Commander, I require your presence on the Bridge. 
@@ -610,10 +552,8 @@ That is not a weakness. That is life.
 DATA: I believe I understand, sir. 
 PICARD: And Data, will you leave your hesitation and self-doubt here in
 your quarters.
-
 [Observation
 lounge]
-
 DATA:
 I
 have several examples of Commander Riker's battle technique. At the
@@ -639,9 +579,7 @@ DATA: Then despite whatever options he is given, he must be
 TROI: The man that he is. Exactly. 
 DATA: Is that a failing in humans? 
 TROI: You'll have to decide that for yourself.
-
 [Bridge]
-
 PICARD: On screen. The
 hunt begins, Number One.;
 RIKER [on screen]: We're ready. Just remember, Enterprise. Captain Riker has never
@@ -649,10 +587,8 @@ lost.
 KOLRAMI: Begin now. 
 PICARD: Screen off. Set course two two three mark three five seven.
 Full impulse power. Initiate Kumeh manoeuvre.
-
 [Hathaway
 Bridge]
-
 LAFORGE:
 Kumeh manoeuvre? Why
 would they start out with such a recognisable ploy? 
@@ -662,9 +598,7 @@ WORF: Counter with Talupian manoeuvre on instrument sighting.
 RIKER: Agreed. Three quarters impulse, full on my command. Ensign
 Nagel, maximum shields. Mister Worf, prepare your little surprise. 
 WORF: Aye, sir.
-
 [Bridge]
-
 PICARD: Set course three one mark
 seven three. Present minimal
 aspect. Ready warp one,
@@ -689,10 +623,8 @@ PICARD: Mister Worf must have overridden the sensor codes, played some
 holographic games. Mister Data, input a new code.
 Attack posture, circumvental attitude. Prepare beams for photon mode. 
 BURKE: Bye, bye, Hathaway.
-
  [Hathaway
 Bridge]
-
 WORF: Computers report heavy
 damage to Enterprise.
 WESLEY: They're moving off, sir. Why not go after them? 
@@ -701,9 +633,7 @@ prepare to warp jump.
 LAFORGE: There are no guarantees here, sir. 
 RIKER: There never are, Lieutenant. I'm going to trust your expertise.
 Secure your stations. Stand by for my signal.
-
 [Bridge]
-
 PICARD: Ready photon torpedoes.;
 BURKE: Captain, sensors picking up a Ferengi warship closing at warp
 five. 
@@ -719,14 +649,11 @@ DATA: Engage phasers and target.
 PICARD: Fire when ready. 
 [Hathaway
 Bridge]
-
 NAGEL: That's no ghost attacking
 the Enterprise. That's real.
 WORF: We must assist, sir. 
 RIKER: With what? We have no offensive weapons.
-
 [Bridge]
-
 PICARD: Where are my
 weapons?
 BURKE: Unavailable, sir! We cannot disengage the modified beams. The
@@ -780,7 +707,6 @@ find myself with little time
 to decide the;fate of; forty of
 my crew stranded aboard the
 derelict Hathaway.[Bridge]
-
 PICARD: I am open to
 suggestions.;
 BURKE: Captain, we are now capable of launching a limited number of
@@ -799,10 +725,8 @@ RIKER: We have a limited, two-second warp capability.
 KOLRAMI: Impossible! That ship was rendered warp inactive. 
 PICARD: I told you he was the best. I'd like to hear about this, Number
 One, later. Right now I have to work something out with Mister Data.
-
 [Observation
 lounge]
-
 DATA: Premise. The Ferengi wish to
 capture the Hathaway believing it
 to be value. Therefore we
@@ -817,13 +741,11 @@ RIKER: Waiting for you to
 pull another rabbit out of
 your hat. [Observation
 lounge]
-
 PICARD: Mister Data
 DATA: On the Captain's signal, we will fire four photon torpedoes
 directly at the Hathaway. 
 [Hathaway
 Bridge]
-
 DATA [OC]: One millisecond
 after its detonation, the
 computer will trigger your
@@ -832,19 +754,15 @@ LAFORGE: I think I hate this plan. Data, we're not even sure our warp
 jump 
 [Observation
 lounge]
-
 LAFORGE [OC]: Will
 work.
 DATA: If the warp engines fail to function, the result could be
 unfortunate. 
 WORF [OC]: Very unfortunate.
-
 [Hathaway
 Bridge]
-
 WORF: We will be dead.;
 PICARD [OC]: Captain Riker
-
 [Observation
 lounge]
 PICARD: I cannot order
@@ -857,7 +775,6 @@ it will appear from the Kreechta's perspective as though
 you were destroyed in the
 explosion. [Hathaway
 Bridge]
-
 WORF: That only deceive
 them for a few minutes. Their sensors will soon
 locate us.
@@ -866,20 +783,16 @@ to prepare another surprise for them.
 PICARD [OC]: Then we're agreed. 
  [Observation
 lounge]
-
 PICARD: On my mark, four
 minutes.
 DATA: Remember, Geordi, if the implementation is off by a millisecond 
 [Hathaway
 Bridge]
-
 DATA [OC]: The Hathaway
 will not survive.
 LAFORGE: Data, that's the one part of this plan that we're all
 absolutely sure about.
-
 [Bridge]
-
 PICARD: Are we ready, Number One?
 DATA: Ready, Captain. 
 RIKER [OC]: Ready, Captain. 
@@ -921,7 +834,6 @@ repaired and my crew safely
 back aboard, we have
 officially ended our first Starfleet battle simulation.[Ten
 forward]
-
 (Riker and Pulaski enter as
 a Strategema game between Data and Kolrami is in full
 flow. The crowd are very excited. The
@@ -951,5 +863,4 @@ did not win.
 TROI + PULASKI: Data! 
 DATA: I busted him up. 
 ALL: Yes! 
-
 

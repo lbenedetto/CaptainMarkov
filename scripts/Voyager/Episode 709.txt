@@ -1,11 +1,9 @@
 Episode Number: 709
-
 The Voyager Transcripts - Shattered
 Shattered
 Stardate:
 Unknown
 Original Airdate: 17 January 2001
-
   [Cargo Bay two]
 (Naomi is sitting on the floor doing a jigsaw of a double helix.)NAOMI:
 Hmm. There. 
@@ -234,7 +232,6 @@ this is poison and Mister Chakotay is trying to assassinate me. (Chakotay grabs 
 CHAKOTAY: She's right. It's poison, and
 I'll use it. (He backs them out into the corridor with the hypo at her throat.) 
 [Corridor]
-
 ANDREWS:
 Let her go. 
 CHAKOTAY: Lower your weapon. (Chakotay injects Janeway.)ANDREWS: Captain! (Chakotay steps back through
@@ -612,7 +609,6 @@ fails, we need a backup plan.
 CHAKOTAY: Something tells me you already have one. 
 [Engineering
 - Basics]
-
 CHAKOTAY:
 We've already injected the gel packs in the other timeframes. That
 just leaves the ones here. It's in both our interests to work together.
@@ -698,7 +694,6 @@ TORRES: Why?
 CHAKOTAY: Have you ever heard of a lightning rod? In about three
 seconds, we're going to need one. 
 [Bridge]
-
 JANEWAY:
 What is it?
 KIM: I don't know. Main power's being rerouted to the deflector dish. 
@@ -739,5 +734,4 @@ CHAKOTAY: How do you know that's where I keep it?
 JANEWAY: Oh, I can't tell you. 
 CHAKOTAY: Why not?
 JANEWAY: Temporal Prime Directive.  
-
 

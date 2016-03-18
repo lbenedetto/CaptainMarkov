@@ -1,11 +1,9 @@
 Episode Number: 510
-
 The Voyager Transcripts - Counterpoint
 Counterpoint
 Stardate:
 Unknown
 Original Airdate: 16 December 1998
-
   [Bridge] 
 (Voyager is surrounded by bigger vessels. Chakotay is at th tactical station.)CHAKOTAY: The Devore ships are assuming a tactical formation. 
 JANEWAY: Bridge to Transporter room. Status. 
@@ -19,7 +17,6 @@ Bay one]
 [OC]: Cargo Bay one, Report. 
 SEVEN: The bay is clear. 
  [Bridge]
-
 CHAKOTAY: They're powering weapons. 
 PARIS: Why do they bother? They know we won't resist. 
 JANEWAY: Protocol, Mister Paris. 
@@ -183,7 +180,6 @@ Captain's log, supplemental. After weeks of playing hide and seek with
 the Devore inspectors, our goal is near. A transport vessel that will
 take our passengers to a wormhole leading out of hostile territory. 
  [Sickbay]
-
 JANEWAY: Back to your old self again? 
 KIR: Each time we do this, I feel as thought I've left a few molecules
 behind in your Cargo bay. 
@@ -263,7 +259,6 @@ JANEWAY: Neelix.
 NEELIX: Right away. Come on now, we're going to go see your parents.
 Let's go. 
  [Bridge]
-
 JANEWAY: Report. 
 CHAKOTAY: It's a scout ship. One pilot, no other crew. 
 PARIS: The vessel hasn't raised shields or charged weapons. 
@@ -521,7 +516,6 @@ the company I'm keeping.
 JANEWAY: Or the polarisation axis of the windows. 
 KASHYK: That must be it. 
  [Corridor]
-
 JANEWAY: How often does this array emit a scanning pulse? 
 KASHYK: Every forty seconds. 
 JANEWAY: Range? 
@@ -557,7 +551,6 @@ JANEWAY [OC]: Options.
 TORRES: I can't correct it in time, so that leaves shutting down the
 core. 
  [Bridge]
-
 JANEWAY: Do it. 
 TUVOK: The array has released another pulse. 
 JANEWAY: Time. 
@@ -609,7 +602,6 @@ TUVOK: Time to intercept.
 PARIS [OC]: Six hours. 
 JANEWAY: Take the bridge. I'll be in Engineering. Kashyk. 
  [Corridor]
-
 JANEWAY: First we'll check those shield modifications, then we'll see
 if we can adjust our phasers to penetrate the Devore shields. If
 torpedoes don't work I want an alternative. 
@@ -675,7 +667,6 @@ Bay one]
 [OC]: Cargo bay one? 
 SEVEN: Clear. 
  [Bridge]
-
 CHAKOTAY: They're hailing. 
 JANEWAY: On screen. 
 PRAX [on viewscreen]: Gaharay vessel, prepare to be
@@ -799,5 +790,4 @@ JANEWAY: I never lied to you. My offer to take you with us was genuine,
 and it would still stand if you'd kept your part of the bargain. 
 KASHYK: For what it's worth, you made a tempting offer. The bridge is
 yours.  
-
 
