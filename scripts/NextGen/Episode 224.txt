@@ -1,68 +1,50 @@
 Episode Number: 224
 The Next Generation Transcripts - The Next Phase
-The
-Next Phase
-Stardate:
-45092.4
+The Next Phase
+Stardate: 45092.4
 Original Airdate: 18 May, 1992
-  [Bridge]
+[Bridge]
 PICARD: Time, Mister Data? 
-DATA: We will arrive within transporter range in three minutes twenty
-one seconds. 
-MCDOWELL: (at tactical) I've finally established audio contact with the
-Romulan ship. 
-ROMULAN [OC]: (heavy static) Main power failing. No way to stop the
-overload. 
-PICARD: Enterprise to Romulan vessel. We are en route to your position.
-ROMULAN [OC]: Enterprise, what is your time of arrival? We are facing
-an imminent core breach. 
+DATA: We will arrive within transporter range in three minutes twenty one seconds. 
+MCDOWELL: (at tactical) I've finally established audio contact with the Romulan ship. 
+ROMULAN [OC]: (heavy static) Main power failing. No way to stop the overload. 
+PICARD: Enterprise to Romulan vessel. We are en route to your position. 
+ROMULAN [OC]: Enterprise, what is your time of arrival? We are facing an imminent core breach. 
 PICARD: Repeat your last transmission. 
 MCDOWELL: I'm sorry, Captain. They've stopped transmitting. 
-PICARD: Picard to Riker.
+PICARD: Picard to Riker. 
 [Transporter room]
 RIKER: Riker here. 
 PICARD: Transport to the Romulan ship as soon as we're within range. 
 (La Forge and Ro are on the transporter pads) 
-RIKER: Aye, sir. No weapons. We don't want them to think they're under
-attack. 
+RIKER: Aye, sir. No weapons. We don't want them to think they're under attack. 
 RO: This is not a bright idea. 
 RIKER: I beg your pardon, Ensign. I didn't quite catch that. 
 RO: Nothing, sir. 
-(Worf and Riker join them)
+(Worf and Riker join them) 
 [Romulan Engineering]
-(it is a scene of death, devastation, fires and
-controlled chaos) 
-VOICES [OC]: All main thrusters are shut down. Your information is
-unreliable. The AH is inoperative. Give me a hand here. 
+(it is a scene of death, devastation, fires and controlled chaos) 
+VOICES [OC]: All main thrusters are shut down. Your information is unreliable. The AH is inoperative. Give me a hand here. 
 (the team beam in) 
-RIKER: We're from the Federation Starship Enterprise. We received your
-distress call. 
+RIKER: We're from the Federation Starship Enterprise. We received your distress call. 
 MIROK: The Enterprise? 
-RIKER: That's right. Your message said you'd suffered a failure in your
-engine core. 
+RIKER: That's right. Your message said you'd suffered a failure in your engine core. 
 MIROK: Yes. We had a forced chamber explosion in the resonator coil. 
-LAFORGE: It's a pretty strange set up, but it looks like the graviton
-field generator has been completely depolarised. There's no way to fix
-it. It'll have to be replaced. 
+LAFORGE: It's a pretty strange set up, but it looks like the graviton field generator has been completely depolarised. There's no way to fix it. It'll have to be replaced. 
 RIKER: Where are your replicators? 
 VAREL: (a woman) They are offline. 
 RIKER: Who's in charge here? 
 MIROK: The Captain is dead. I'm the science officer. Mirok. 
-RIKER: We'd like to move the generator back to the Enterprise for
-replication. 
+RIKER: We'd like to move the generator back to the Enterprise for replication. 
 MIROK: All right. 
 RIKER: Geordi, you and Ro. 
-LAFORGE: La Forge to Brossmer. Two people and one piece of equipment to
-beam aboard. 
+LAFORGE: La Forge to Brossmer. Two people and one piece of equipment to beam aboard. 
 [Transporter room]
 BROSSMER: Aye, sir. 
 (She activates the controls and things fizzle) 
-BROSSMER: What the hell? Engineering, I need more power to the primary
-energising coil. Brossmer to Commander Riker. I'm losing them I have to
-abort. 
+BROSSMER: What the hell? Engineering, I need more power to the primary energising coil. Brossmer to Commander Riker. I'm losing them I have to abort. 
 [Romulan Engineering]
-BROSSMER [OC]: They should be returning to your
-coordinates, sir. 
+BROSSMER [OC]: They should be returning to your coordinates, sir. 
 RIKER: Chief, do you have them? They're not here. 
 BROSSMER [OC]: No, sir. 
 RIKER: Where are they? 
@@ -71,55 +53,39 @@ BROSSMER: I can't locate their patterns.
 [Romulan Engineering]
 BROSSMER [OC]: We've lost them, sir. 
 [Bridge]
-BROSSMER [OC]: I've done all I can, sir. I'm afraid
-they're gone. 
-PICARD: Mister Data, begin a level one diagnostic. All transporter
-systems offline until further notice. Could they have materialised
-somewhere else? 
-DATA: Negative, Captain. Sensors are unable to locate them anywhere
-within transporter range. 
+BROSSMER [OC]: I've done all I can, sir. I'm afraid they're gone. 
+PICARD: Mister Data, begin a level one diagnostic. All transporter systems offline until further notice. Could they have materialised somewhere else? 
+DATA: Negative, Captain. Sensors are unable to locate them anywhere within transporter range. 
 PICARD: Counsellor? 
 (Troi shakes her head) 
 RIKER [OC]: Riker to Enterprise. 
-PICARD: Go ahead, Number One.
+PICARD: Go ahead, Number One. 
 [Romulan Engineering]
-RIKER: Captain, we're still looking at a core
-breach unless we can fashion a new graviton generator. 
+RIKER: Captain, we're still looking at a core breach unless we can fashion a new graviton generator. 
 [Bridge]
 RIKER [OC]: I need replacement personnel, sir. 
-PICARD: Mister Data, you may continue the diagnostic of the transporter
-systems at another time. Take a shuttlecraft and two more engineers
-down to the Romulan ship. 
+PICARD: Mister Data, you may continue the diagnostic of the transporter systems at another time. Take a shuttlecraft and two more engineers down to the Romulan ship. 
 DATA: Aye, sir. 
-PICARD: Mister McDowell, alert the main shuttlebay to have all
-available ships and pilots standing by in case we need them. 
+PICARD: Mister McDowell, alert the main shuttlebay to have all available ships and pilots standing by in case we need them. 
 MCDOWELL: Aye, sir. 
-PICARD: Ensign, lay in a course away from the Romulan vessel. Engage at
-warp one if you detect any sign it's going to explode.
+PICARD: Ensign, lay in a course away from the Romulan vessel. Engage at warp one if you detect any sign it's going to explode. 
 [Romulan Engineering]
-MIROK: Pressure in the containment chamber has
-increased fifteen melakols in the last two minutes. 
+MIROK: Pressure in the containment chamber has increased fifteen melakols in the last two minutes. 
 RIKER: What can we do to stop the overload? 
-MIROK: Most of the conduits were damaged during the explosion. I can't
-even access the central computer. 
-WORF: Commander. Emergency bulkheads have sealed this section off from
-the rest of the ship. There is no way to gain access to the main Bridge
-or control centres. 
+MIROK: Most of the conduits were damaged during the explosion. I can't even access the central computer. 
+WORF: Commander. Emergency bulkheads have sealed this section off from the rest of the ship. There is no way to gain access to the main Bridge or control centres. 
 RIKER: Survivors? 
-WORF: Readings indicate at least seventy three Romulans are still
-alive. 
+WORF: Readings indicate at least seventy three Romulans are still alive. 
 VAREL: Seventy three. 
 (an alarm sounds) 
 MIROK: The pressure has jumped two hundred melakols! 
 VAREL: I've lost control of the containment chamber. 
 MIROK: It's going to implode. 
-RIKER: We'll need to dump the entire engine core. Do you have an
-auto-eject system? 
+RIKER: We'll need to dump the entire engine core. Do you have an auto-eject system? 
 MIROK: Yes, but it's not functioning. I'll have to do it manually. 
 RIKER: Mister Worf, you two seal the chamber. 
 VAREL: Implosion will occur in one minute five seconds. 
-RIKER: Enterprise, we need to jettison the entire engine core. You'll
-need to extend the shields once it clears the hull. 
+RIKER: Enterprise, we need to jettison the entire engine core. You'll need to extend the shields once it clears the hull. 
 PICARD [OC]: Understood, Number One. We'll stand by for your signal. 
 (Worf and Varel have got to the manual latches and undone them) 
 WORF: We must get the doors closed. 
@@ -127,8 +93,7 @@ WORF: We must get the doors closed.
 WORF: Commander! 
 RIKER: Time? 
 VAREL: Thirty seconds. 
-(the three men finally shift the girder and start to pull the doors
-shut) 
+(the three men finally shift the girder and start to pull the doors shut) 
 MIROK: I'm ready, Commander. 
 RIKER: Stay there! Eject the chamber on my order! 
 DATA: Excuse me, sir. 
@@ -139,98 +104,63 @@ RIKER: Now.
 RIKER: Enterprise, extend shields! 
 (KaBOOM) 
 RIKER: Well, we're still here. 
-MIROK: Yes.
+MIROK: Yes. 
 [Bridge]
-RIKER [OC]: We'll have a complete power survey done
-within the hour. We'll probably have to supply them with energy for
-life support, and they'll need a new engine core to get home. 
-PICARD: Understood, Commander. Keep us informed of your efforts. Picard
-out. I'll be in Sickbay. 
-MCDOWELL: Aye, sir.
+RIKER [OC]: We'll have a complete power survey done within the hour. We'll probably have to supply them with energy for life support, and they'll need a new engine core to get home. 
+PICARD: Understood, Commander. Keep us informed of your efforts. Picard out. I'll be in Sickbay. 
+MCDOWELL: Aye, sir. 
 [Corridor]
-(Picard walks past Ro lying on the floor. She wakes
-up) 
-RO: Ensign Ro to the Bridge. This is Ensign Ro reporting in. I'm at
-section twenty three baker, near Sickbay. (she wobbles) Sickbay. 
+(Picard walks past Ro lying on the floor. She wakes up) 
+RO: Ensign Ro to the Bridge. This is Ensign Ro reporting in. I'm at section twenty three baker, near Sickbay. (she wobbles) Sickbay. 
 [Sickbay]
-(the door doesn't open for her, but she gets in
-when a man walks out) 
-RO: Excuse me, I need some help. Excuse me? Excuse me, I need some
-help. 
+(the door doesn't open for her, but she gets in when a man walks out) 
+RO: Excuse me, I need some help. Excuse me? Excuse me, I need some help. 
 (but everyone ignores her) 
 RO: Excuse me! I need some help! 
 [Crusher's office]
-CRUSHER: We shouldn't make any hasty decisions,
-Jean-Luc. The transporter could've beamed them somewhere else. The
-Romulan ship, another deck of the Enterprise. 
-PICARD: We've already checked those possibilities. The initial findings
-would seen to indicate that there was a radiation surge from the
-Romulan engine core which disrupted the signal. They never
-rematerialised. 
-CRUSHER: We should check again. There might be something that we've
-overlooked and 
+CRUSHER: We shouldn't make any hasty decisions, Jean-Luc. The transporter could've beamed them somewhere else. The Romulan ship, another deck of the Enterprise. 
+PICARD: We've already checked those possibilities. The initial findings would seen to indicate that there was a radiation surge from the Romulan engine core which disrupted the signal. They never rematerialised. 
+CRUSHER: We should check again. There might be something that we've overlooked and 
 PICARD: Beverly, we've done everything that we can. 
-CRUSHER: You're right. I just hate making out death certificates. Does
-Ensign Ro have any family? 
+CRUSHER: You're right. I just hate making out death certificates. Does Ensign Ro have any family? 
 RO: Captain, I'm right here. 
-PICARD: None that I know of, but I'll check with the Bajoran liaison
-Office. 
+PICARD: None that I know of, but I'll check with the Bajoran liaison Office. 
 RO: I'm not dead! 
 CRUSHER: I'll have the official reports ready within the hour. 
 RO: Captain, I don't know what's going on 
 (Picard walks straight through Ro and out of the office) 
 RO: Doctor. Doctor Crusher. Doctor Crusher, I'm right here. Damn it. 
-(Ro's fist goes straight through the desk, so she tests it out on a
-desk console. Then she looks at what Beverly is doing, updating her
-personnel file to current status - deceased) 
+(Ro's fist goes straight through the desk, so she tests it out on a desk console. Then she looks at what Beverly is doing, updating her personnel file to current status - deceased) 
 [Romulan Engineering]
 MIROK: We're ready, Commander. 
 RIKER: Riker to Enterprise. Begin power transfer. 
 (a beam comes from the Enterprise and the light come back on) 
-MIROK: The power flow is consistent at four hundred kolems. No
-fluctuations in frequency. The main power grid is online. 
+MIROK: The power flow is consistent at four hundred kolems. No fluctuations in frequency. The main power grid is online. 
 PICARD [OC]: Picard to Riker. 
 RIKER: Riker here. Power transfer appears stable at this end, Captain. 
-PICARD [OC]: Good.
+PICARD [OC]: Good. 
 [Bridge]
-PICARD: What is the status of the engine
-replacement? 
-RIKER [OC]: Engineering is modifying one of our subspace resonators to
-act as a new engine core. It won't do more than warp two, but it'll get
-them home. 
+PICARD: What is the status of the engine replacement? 
+RIKER [OC]: Engineering is modifying one of our subspace resonators to act as a new engine core. It won't do more than warp two, but it'll get them home. 
 PICARD: Very well. 
-DATA: Captain. The diagnostic of the transporter system shows an
-anomalous energy fluctuation. I will need to inspect the imaging
-scanner in transporter room three. 
+DATA: Captain. The diagnostic of the transporter system shows an anomalous energy fluctuation. I will need to inspect the imaging scanner in transporter room three. 
 PICARD: By all means. 
-DATA: Captain? I have a personal favour to ask. I considered Commander
-La Forge to be my best friend. I believe it is my responsibility to
-plan and conduct the memorial service. May I have your permission to do
-so? 
-PICARD: Permission granted. Make whatever arrangements you think are
-appropriate. 
-DATA: Thank you, sir.
+DATA: Captain? I have a personal favour to ask. I considered Commander La Forge to be my best friend. I believe it is my responsibility to plan and conduct the memorial service. May I have your permission to do so? 
+PICARD: Permission granted. Make whatever arrangements you think are appropriate. 
+DATA: Thank you, sir. 
 [Romulan Engineering]
-(a Romulan confers with Guy Vardeman as Worf
-enters) 
-WORF: Commander, the (looks round) the Romulans want a computer. We
-cannot give them access to Federation technology. That is an
-unacceptable security risk. 
-RIKER: What about a computer core from thirty or forty years ago? One
-the Romulans are already familiar with. 
+(a Romulan confers with Guy Vardeman as Worf enters) 
+WORF: Commander, the (looks round) the Romulans want a computer. We cannot give them access to Federation technology. That is an unacceptable security risk. 
+RIKER: What about a computer core from thirty or forty years ago? One the Romulans are already familiar with. 
 WORF: That would be satisfactory. 
-RIKER: Check with the Enterprise, see what's available. Be sure your
-concern are addressed before we install it. 
-WORF: Aye, sir. Thank you.
+RIKER: Check with the Enterprise, see what's available. Be sure your concern are addressed before we install it. 
+WORF: Aye, sir. Thank you. 
 [Engineering]
 (Geordi is failing to attract anyone's attention) 
 RO: La Forge? 
-LAFORGE: Ro. Boy, am I glad to see you. And I'm really glad that you
-can see me. It's like I'm here, but I'm not here. 
+LAFORGE: Ro. Boy, am I glad to see you. And I'm really glad that you can see me. It's like I'm here, but I'm not here. 
 RO: No one can see me either. 
-LAFORGE: I can't figure it out. One minute we were transporting from
-the Romulan vessel, and the next I wake up in the arboretum with a
-splitting headache. Can you pass through things like bulkheads? 
+LAFORGE: I can't figure it out. One minute we were transporting from the Romulan vessel, and the next I wake up in the arboretum with a splitting headache. Can you pass through things like bulkheads? 
 RO: Tables, people, yeah. 
 (they touch hands) 
 LAFORGE: Well, we're solid enough to each other. 
@@ -240,67 +170,38 @@ RO: This. Death.
 LAFORGE: What? 
 RO: We're dead, Geordi. 
 LAFORGE: Is that some kind of a joke? 
-RO: Our patterns were lost in a transporter malfunction. We never
-rematerialised after leaving the Romulan ship. 
-LAFORGE: Wait a minute. What are you saying, that we're some sort of
-spirits? 
-RO: Spirits, souls. My people used to call them borhyas. Whatever term
-you want to use, we're it. 
-LAFORGE: But my uniform, my visor. Are you saying I'm some blind ghost
-with clothes? 
+RO: Our patterns were lost in a transporter malfunction. We never rematerialised after leaving the Romulan ship. 
+LAFORGE: Wait a minute. What are you saying, that we're some sort of spirits? 
+RO: Spirits, souls. My people used to call them borhyas. Whatever term you want to use, we're it. 
+LAFORGE: But my uniform, my visor. Are you saying I'm some blind ghost with clothes? 
 RO: I don't have all the answers. I've never been dead before. 
 LAFORGE: We are not dead. 
-RO: According to Doctor Crusher, we died in a transporter malfunction
-at fourteen thirty hours.
-Geordi, I saw her make out the death certificates. We need to make
-peace with our former lives. That's what I was taught. We have to say
-goodbye to the people who were in our lives. 
+RO: According to Doctor Crusher, we died in a transporter malfunction at fourteen thirty hours. Geordi, I saw her make out the death certificates. We need to make peace with our former lives. That's what I was taught. We have to say goodbye to the people who were in our lives. 
 LAFORGE: No. You may be ready for the afterlife, but I'm not. 
-RO: I don't see that we have much of a choice. When I was growing up, I
-never gave much thought to all the talk about borhyas. I figured that
-it was just superstition passed on to children. 
-LAFORGE: Fine. You go make peace with yourself, all right? I'm going to
-transporter room three. I'm going to figure a way out of this
-situation.
+RO: I don't see that we have much of a choice. When I was growing up, I never gave much thought to all the talk about borhyas. I figured that it was just superstition passed on to children. 
+LAFORGE: Fine. You go make peace with yourself, all right? I'm going to transporter room three. I'm going to figure a way out of this situation. 
 [Transporter room]
-BROSSMER: I didn't have any warning that something
-would go wrong, sir. Suddenly their patterns just weren't there. 
-DATA: I believe the cause of the accident may be related to the
-explosion on the Romulan ship. 
+BROSSMER: I didn't have any warning that something would go wrong, sir. Suddenly their patterns just weren't there. 
+DATA: I believe the cause of the accident may be related to the explosion on the Romulan ship. 
 LAFORGE: Really? 
 BROSSMER: But that happened before we even arrived. 
-DATA: In all likelihood, the explosion damaged the Romulan cloaking
-device, causing it to discharge chroniton particles.
-I am detecting a chroniton field in here. 
+DATA: In all likelihood, the explosion damaged the Romulan cloaking device, causing it to discharge chroniton particles. I am detecting a chroniton field in here. 
 LAFORGE: A chroniton field? 
-BROSSMER: If the particles were produced on the Romulan ship, why are
-you detecting them here? 
+BROSSMER: If the particles were produced on the Romulan ship, why are you detecting them here? 
 LAFORGE: The transporter beam. 
-DATA: I suspect they travelled through the transporter beam. That may
-have been the cause of Geordi and Ro's death.
-I will go to the Romulan ship. Perhaps I can discover the source of the
-emissions. 
+DATA: I suspect they travelled through the transporter beam. That may have been the cause of Geordi and Ro's death. I will go to the Romulan ship. Perhaps I can discover the source of the emissions. 
 BROSSMER: Commander, are these chronitons dangerous? 
-DATA: They pose no danger to humans. However, some of the ship's
-systems may be affected by prolonged exposure. When I return I will
-devise a method to eradicate them. 
-LAFORGE: La Forge to Ensign Ro. (then realises the comm. system doesn't
-work for them)
+DATA: They pose no danger to humans. However, some of the ship's systems may be affected by prolonged exposure. When I return I will devise a method to eradicate them. 
+LAFORGE: La Forge to Ensign Ro. (then realises the comm. system doesn't work for them) 
 [Bridge]
 (Ro follows a crewman out of the turbolift) 
 RO: Thanks for the ride. I'm here to say goodbye. 
 (she gently touches her helm console, then Riker and Picard enter) 
-RIKER: There are a lot of what appear to be experimental engine
-components lying around over there. I'd say they were testing a new
-warp drive design and it blew up in their faces.
+RIKER: There are a lot of what appear to be experimental engine components lying around over there. I'd say they were testing a new warp drive design and it blew up in their faces. 
 [Ready room]
-PICARD: That would explain why they're so far away
-from Romulan space. To avoid being picked up on Federation long range
-scans. 
-RIKER: We should have an engine core ready for them by nineteen hundred
-hours. 
-PICARD: Commander, there'll be a memorial service at twenty three
-hundred hours this evening. Mister Data is making arrangements. 
+PICARD: That would explain why they're so far away from Romulan space. To avoid being picked up on Federation long range scans. 
+RIKER: We should have an engine core ready for them by nineteen hundred hours. 
+PICARD: Commander, there'll be a memorial service at twenty three hundred hours this evening. Mister Data is making arrangements. 
 RIKER: I'll be there. 
 RO: Me, too. 
 RIKER: In fact I might like to say a few words. 
@@ -310,270 +211,158 @@ RO: Me?
 PICARD: When you're ready, coordinate with Mister Data. 
 RO: Wait a minute. What are you going to say about me? 
 (Riker leaves) 
-RO: Captain. I don't believe this. I'm dead. you can't even hear me and
-I'm still intimidated by you. I just wanted to say thank you. For
-trusting in me when no one else would. 
-LAFORGE: Hey, there you are. Excuse me, Captain. Listen, Data's taking
-the next shuttle over to the Romulan vessel and we need to be on it. 
+RO: Captain. I don't believe this. I'm dead. you can't even hear me and I'm still intimidated by you. I just wanted to say thank you. For trusting in me when no one else would. 
+LAFORGE: Hey, there you are. Excuse me, Captain. Listen, Data's taking the next shuttle over to the Romulan vessel and we need to be on it. 
 RO: Why? 
-LAFORGE: because I think what happened to us, the answers are over
-there. 
+LAFORGE: because I think what happened to us, the answers are over there. 
 RO: Why can't you just accept the fact 
-LAFORGE: Look, if you're right then we're dead and this doesn't make
-any difference. But if I'm right, then we're still alive and I'm going
-to need your help.
+LAFORGE: Look, if you're right then we're dead and this doesn't make any difference. But if I'm right, then we're still alive and I'm going to need your help. 
 [Shuttlecraft]
-DATA: Lieutenant, I am planning a memorial service
-for Commander La Forge and Ensign Ro. I would like you to participate. 
+DATA: Lieutenant, I am planning a memorial service for Commander La Forge and Ensign Ro. I would like you to participate. 
 WORF: What kind of service? 
-DATA: Captain Picard asked me to arrange a ceremony that was
-appropriate. I have given a great deal of thought as to what is
-appropriate in this instance. 
+DATA: Captain Picard asked me to arrange a ceremony that was appropriate. I have given a great deal of thought as to what is appropriate in this instance. 
 WORF: Sir, shuttlecraft four has not yet cleared the Romulan ship. 
 DATA: Hold position here. 
 LAFORGE: This is weird, listening to them plan our funeral. 
-DATA: I find I am having difficulty deciding what kind of service to
-have. Do you have any suggestions? 
-WORF: Human custom is to conduct a solemn, dignified service in which
-the dead are praised by their friends and loved ones. 
-DATA: Ensign Ro was Bajoran. Her beliefs should be reflected as well.
-However their death rituals are quite complicated. 
+DATA: I find I am having difficulty deciding what kind of service to have. Do you have any suggestions? 
+WORF: Human custom is to conduct a solemn, dignified service in which the dead are praised by their friends and loved ones. 
+DATA: Ensign Ro was Bajoran. Her beliefs should be reflected as well. However their death rituals are quite complicated. 
 RO: Please, not the Death Chant. 
 WORF: The Bajoran Death Chant is over two hours long. 
-DATA: I am not certain that either human or Bajoran rites are fitting,
-and I have researched the funerary customs of over five thousand
-cultures to no avail. 
+DATA: I am not certain that either human or Bajoran rites are fitting, and I have researched the funerary customs of over five thousand cultures to no avail. 
 WORF: Shuttlecraft four has just cleared. 
-DATA: Resume course. In almost all societies, it is traditional to say
-a ritual farewell to those you call friends.
-I never knew what a friend was until I met Geordi. He spoke to me as
-though I were human. He treated me no differently from anyone else. He
-accepted me for what I am. And that, I have learned, is friendship. But
-I do not know how to say goodbye. 
+DATA: Resume course. In almost all societies, it is traditional to say a ritual farewell to those you call friends. I never knew what a friend was until I met Geordi. He spoke to me as though I were human. He treated me no differently from anyone else. He accepted me for what I am. And that, I have learned, is friendship. But I do not know how to say goodbye. 
 RO: He seems almost human, doesn't he. 
 WORF: Commander, I am not the proper person to advise you. 
 DATA: Why? 
-WORF: I am very happy for Commander La Forge. He has crossed over to
-that which is beyond. For a Klingon, this is a joyful time. A friend
-has died in the line of duty and he has earned a place among the
-honoured dead. It is not a time to mourn. 
+WORF: I am very happy for Commander La Forge. He has crossed over to that which is beyond. For a Klingon, this is a joyful time. A friend has died in the line of duty and he has earned a place among the honoured dead. It is not a time to mourn. 
 DATA: Begin docking procedure. 
-LAFORGE: Data, that's a nice sentiment, but a little premature. I don't
-plan on being commemorated before my time.
+LAFORGE: Data, that's a nice sentiment, but a little premature. I don't plan on being commemorated before my time. 
 [Romulan Engineering]
-(Geordi sticks his head inside a piece of
-equipment) 
-MIROK: I'm afraid I fail to see the point of this investigation,
-Commander. 
-DATA: Chroniton emissions may have been responsible for the accident
-which claimed the lives of our officers. 
+(Geordi sticks his head inside a piece of equipment) 
+MIROK: I'm afraid I fail to see the point of this investigation, Commander. 
+DATA: Chroniton emissions may have been responsible for the accident which claimed the lives of our officers. 
 VAREL: A most regrettable event, of course. 
 DATA: Was your cloaking device damaged in the explosion? 
 MIROK: All of our systems were damaged, including the cloaking device. 
-DATA: That explains the chroniton fields I am detecting in here now.
-For your own safety, it is important to eliminate those emissions. 
+DATA: That explains the chroniton fields I am detecting in here now. For your own safety, it is important to eliminate those emissions. 
 VAREL: Our safety? 
-DATA: There is no way to predict what will happen when the chronitons
-interact with the new engine core. 
-LAFORGE: I've never seen anything like this. There's something in here
-that looks like a molecular phase inverter. 
+DATA: There is no way to predict what will happen when the chronitons interact with the new engine core. 
+LAFORGE: I've never seen anything like this. There's something in here that looks like a molecular phase inverter. 
 RO: What's that? 
-LAFORGE: It's supposed to change the structure of matter so it can pass
-through normal matter and energy. Hang on a second. A few years back,
-we got intelligence reports that the Klingons were working on trying to
-combine a phase inverter and a cloaking
-device. In theory, they believed that a phased ship could hide
-anywhere, even inside a planet, and that conventional weapons would be
-useless against it. 
+LAFORGE: It's supposed to change the structure of matter so it can pass through normal matter and energy. Hang on a second. A few years back, we got intelligence reports that the Klingons were working on trying to combine a phase inverter and a cloaking device. In theory, they believed that a phased ship could hide anywhere, even inside a planet, and that conventional weapons would be useless against it. 
 RO: How far did they get in their research? 
-LAFORGE: It never got out of the preliminary stages. There were several
-accidents. The Romulans might be pursuing the same
-technology, trying to combine an inverter and a cloaking device. And if
-this is the prototype 
+LAFORGE: It never got out of the preliminary stages. There were several accidents. The Romulans might be pursuing the same technology, trying to combine an inverter and a cloaking device. And if this is the prototype 
 RO: Then that would explain the explosion and the chroniton fields. 
 LAFORGE: And us. 
 RO: You mean we're cloaked? 
-LAFORGE: Not just cloaked, phased. Our entire molecular structure
-altered so that we don't have any substance. 
+LAFORGE: Not just cloaked, phased. Our entire molecular structure altered so that we don't have any substance. 
 RO: Then that would mean we're not dead. 
-LAFORGE: Yes. It would also mean that there's probably a way to
-de-phase us. 
+LAFORGE: Yes. It would also mean that there's probably a way to de-phase us. 
 DATA: The field emissions are particularly strong in this area. 
 (the equipment Geordi was examining) 
-MIROK: You can be assured that the emissions will be eliminated before
-the engine core is replaced. 
+MIROK: You can be assured that the emissions will be eliminated before the engine core is replaced. 
 WORF: Commander, may I speak with you? 
 (Data moves away) 
-VAREL: If they come back they're going to discover the interphase
-generator. 
+VAREL: If they come back they're going to discover the interphase generator. 
 MIROK: Is their power transfer beam still at full intensity? 
 VAREL: Yes. It will be until we're ready to switch to internal power. 
-MIROK: We will set up a muon feedback wave inside the transfer beam.
-The particles will accumulate in their dilithium chamber. When they go
-to warp speed, their engines will explode. 
+MIROK: We will set up a muon feedback wave inside the transfer beam. The particles will accumulate in their dilithium chamber. When they go to warp speed, their engines will explode. 
 LAFORGE: We've got to get to the Enterprise and warn them. 
 RO: How? 
 LAFORGE: I don't know, but we have to find a way. Come on. 
-(A Romulan who had been sitting in a chair gets up, walks through a
-console and follows them. He gets to the Enterprise on a shuttle, too)
+(A Romulan who had been sitting in a chair gets up, walks through a console and follows them. He gets to the Enterprise on a shuttle, too) 
 [Engineering]
-RO: The muon feedback wave's not showing up on any
-of the engine displays. 
-LAFORGE: The Romulans must be hiding it in a sensor return signal.
-Unless someone runs a level three diagnostic, they'd never detect it.
-There must be a way to warn them before the ship goes to warp. 
-DATA: This is puzzling. Three more chroniton fields have formed aboard
-the Enterprise in the last hour. 
-LAFORGE: There's no reason why the interphase device would be producing
-new fields aboard this ship. 
-DATA: We should begin decontamination immediately. Run an internal
-sensor sweep for locations of all chroniton fields on the Enterprise. 
-BROSSMER: Aye, sir. The following areas are showing contamination.
-Sickbay, Transporter room three, main Bridge, Captain's Ready room,
-shuttlebay two, and main Engineering. 
+RO: The muon feedback wave's not showing up on any of the engine displays. 
+LAFORGE: The Romulans must be hiding it in a sensor return signal. Unless someone runs a level three diagnostic, they'd never detect it. There must be a way to warn them before the ship goes to warp. 
+DATA: This is puzzling. Three more chroniton fields have formed aboard the Enterprise in the last hour. 
+LAFORGE: There's no reason why the interphase device would be producing new fields aboard this ship. 
+DATA: We should begin decontamination immediately. Run an internal sensor sweep for locations of all chroniton fields on the Enterprise. 
+BROSSMER: Aye, sir. The following areas are showing contamination. Sickbay, Transporter room three, main Bridge, Captain's Ready room, shuttlebay two, and main Engineering. 
 LAFORGE: Ro, look at this. 
-DATA: I do not understand how these new fields have formed. No
-transporter beam has been active in any of those areas. I cannot see
-that they have anything in common. 
+DATA: I do not understand how these new fields have formed. No transporter beam has been active in any of those areas. I cannot see that they have anything in common. 
 LAFORGE: Oh, yes they do. 
 DATA: In fact, they seem to be appearing at random. 
-LAFORGE: No, they're not. We were in every one of those locations.
-Somehow we're leaving chroniton footprints behind us. 
+LAFORGE: No, they're not. We were in every one of those locations. Somehow we're leaving chroniton footprints behind us. 
 DATA: Can you narrow the focus of the scan to pinpoint the locations? 
 BROSSMER: Not with the internal sensors, Commander. 
-DATA: Go to science station two on the main Bridge. Use a lateral
-sensor array to get a more precise reading. I will modify an anyon
-emitter to eliminate the fields once they've been isolated. 
-LAFORGE: Why don't you go with her and see what the lateral sensors
-turn up. I'll stay here with Data. 
+DATA: Go to science station two on the main Bridge. Use a lateral sensor array to get a more precise reading. I will modify an anyon emitter to eliminate the fields once they've been isolated. 
+LAFORGE: Why don't you go with her and see what the lateral sensors turn up. I'll stay here with Data. 
 RO: Right. 
 (Data is scanning with a tricorder, then spraying) 
-LAFORGE: Well that's interesting. You're reading chroniton readings in
-here, but not from me? There's a field in this wall? Why? Data, I came
-through this wall. I walked right through it when I came in here. When
-the phased matter in my body passed through the wall, it must've
-disrupted the wall's molecular structure producing a chroniton field.
-Data, I'm right here that's me you're reading. Watch. 
+LAFORGE: Well that's interesting. You're reading chroniton readings in here, but not from me? There's a field in this wall? Why? Data, I came through this wall. I walked right through it when I came in here. When the phased matter in my body passed through the wall, it must've disrupted the wall's molecular structure producing a chroniton field. Data, I'm right here that's me you're reading. Watch. 
 (Geordi walks through the 'pool table' and Data detects the field) 
-LAFORGE: Come on, it's me. You see?
+LAFORGE: Come on, it's me. You see? 
 [Bridge]
-(Ro follows Brossmer onto the Bridge, and discovers
-the Romulan) 
+(Ro follows Brossmer onto the Bridge, and discovers the Romulan) 
 PAREM: Do not move. Yes, I can see you. 
 RO: Who are you? 
-PAREM: Where is the scientific officer? The one like us. The one who
-came with you to our ship. He spoke of a plan to return to normal. Yes,
-this disruptor works. I was wearing it when I was changed. Now, where
-is he?
+PAREM: Where is the scientific officer? The one like us. The one who came with you to our ship. He spoke of a plan to return to normal. Yes, this disruptor works. I was wearing it when I was changed. Now, where is he? 
 [Engineering]
-(Geordi is persisting in putting new fields in the
-pool table) 
-LAFORGE: Data, stop being so rational. Try using your imagination once
-in a while. These aren't just random patterns, it's me! 
+(Geordi is persisting in putting new fields in the pool table) 
+LAFORGE: Data, stop being so rational. Try using your imagination once in a while. These aren't just random patterns, it's me! 
 (Data catches Geordi's hand with his spray) 
-LAFORGE: Hey, watch where you point that thing. Wait a minute, Data, I
-think you did something here . It's not so easy to push through any
-more. The molecules in my hand must have been partially de-phased by
-the anyon beam. Data, if a low level beam can bring my hand part of the
-way back, maybe a high level beam can bring me all of the way back.
-I'll just have to get you to turn up the beam intensity so that. Hey,
-wait a minute, don't stop now. No, no, no. Data, don't give up on it.
-It works, I was just creating more fields. Your method is fine. You
-just need to turn up the intensity, Data.
+LAFORGE: Hey, watch where you point that thing. Wait a minute, Data, I think you did something here . It's not so easy to push through any more. The molecules in my hand must have been partially de-phased by the anyon beam. Data, if a low level beam can bring my hand part of the way back, maybe a high level beam can bring me all of the way back. I'll just have to get you to turn up the beam intensity so that. Hey, wait a minute, don't stop now. No, no, no. Data, don't give up on it. It works, I was just creating more fields. Your method is fine. You just need to turn up the intensity, Data. 
 [Corridor]
 (The Romulan has Ro at gunpoint)
-RO: He's in here.
+RO: He's in here. 
 [Transporter room]
-(Ro walks through the door first and dodges to the
-side. She attacks the Romulan and knocks him down. Then she runs, and
-the disrupter beam just misses her)
+(Ro walks through the door first and dodges to the side. She attacks the Romulan and knocks him down. Then she runs, and the disrupter beam just misses her) 
 [Engineering]
 BROSSMER [OC]: Brossmer to Commander Data. 
 DATA: Data here. 
-BROSSMER [OC]: I've just detected a large chroniton field on deck
-seventeen. The field strength is three hundred percent above the others
-we've found, sir. 
+BROSSMER [OC]: I've just detected a large chroniton field on deck seventeen. The field strength is three hundred percent above the others we've found, sir. 
 LAFORGE: Is that Ro? 
-DATA: Acknowledged.
+DATA: Acknowledged. 
 [Crew quarters]
-(Ro and Parem run through the quarters of a woman
-in a state of undress, as Data tracks their progress on his tricorder.
-Then through a crewman doing press-ups and into a room where a man and
-woman are having a romantic dinner. Parem shoots Ro in the leg. Data is
-outside the door.) 
+(Ro and Parem run through the quarters of a woman in a state of undress, as Data tracks their progress on his tricorder. Then through a crewman doing press-ups and into a room where a man and woman are having a romantic dinner. Parem shoots Ro in the leg. Data is outside the door.) 
 PAREM: Get up. Where is the science officer? 
-(the doorbell rings, and the distraction enables Ro to turn the tables
-on Parem. They fight.) 
+(the doorbell rings, and the distraction enables Ro to turn the tables on Parem. They fight.) 
 MAN: I'll go. Commander? 
 DATA: Excuse me for interrupting, Lieutenant. 
 LAFORGE: Ro! 
-DATA: I'm detecting a chroniton field in your room. May I scan the
-area? 
-(meanwhile, Geordi has piled into the fight and knocked Parem out
-through the hull into space, where even an out of phase Romulan cannot
-survive) 
+DATA: I'm detecting a chroniton field in your room. May I scan the area? 
+(meanwhile, Geordi has piled into the fight and knocked Parem out through the hull into space, where even an out of phase Romulan cannot survive) 
 MAN: Certainly. 
 RO: Thanks. 
 LAFORGE: Any time. 
 [Bridge]
-LAFORGE: There's still no indication that the
-Romulans set up a muon wave in our dilithium chamber. 
+LAFORGE: There's still no indication that the Romulans set up a muon wave in our dilithium chamber. 
 RO: It's there, and when they go to warp 
 MCDOWELL: Incoming message from the Romulan ship, Captain. 
 PICARD: On screen. 
 LAFORGE: Now what? 
-MIROK [on viewscreen]: Installation of the new engine core has been
-completed. We are ready to switch to internal power, Enterprise. 
+MIROK [on viewscreen]: Installation of the new engine core has been completed. We are ready to switch to internal power, Enterprise. 
 PICARD: Understood. Disconnect the power-transfer beam. 
-MIROK [on viewscreen]: We are now on internal power. Captain Picard,
-please accept my sincere thanks on behalf the Romulan Empire. 
+MIROK [on viewscreen]: We are now on internal power. Captain Picard, please accept my sincere thanks on behalf the Romulan Empire. 
 RO: Don't listen to him, Captain. 
-PICARD: It was our pleasure, Mirok. And I hope that this example of
-cooperation between our two peoples will not be an isolated incident. 
+PICARD: It was our pleasure, Mirok. And I hope that this example of cooperation between our two peoples will not be an isolated incident. 
 MIROK [on viewscreen]: As do I, Captain. 
 (transmission ends) 
 PICARD: Set a course for the Garadius system. Warp six. 
 LAFORGE: No, Captain wait. 
 RO: Don't do it, sir. 
-BROSSMER: Captain. I'm still running the decontamination programme.
-Mister Data believes we shouldn't engage the warp drive until I've
-cleared all the chroniton fields from the ship. 
+BROSSMER: Captain. I'm still running the decontamination programme. Mister Data believes we shouldn't engage the warp drive until I've cleared all the chroniton fields from the ship. 
 PICARD: Very well. Let me know when you finished your sweep. 
 BROSSMER: Yes, sir. 
-RO: If we can get to the locations that she's decontaminating, maybe
-the anyon emissions would re-phase us enough for someone to see us. 
-LAFORGE: Yeah, well the beam strength would have to be pretty strong in
-order for us to be visible for more than a millisecond. Somebody's
-going to have to be looking directly at us. 
-RO: Then we're going to have to go somewhere with an awful lot of
-people. 
+RO: If we can get to the locations that she's decontaminating, maybe the anyon emissions would re-phase us enough for someone to see us. 
+LAFORGE: Yeah, well the beam strength would have to be pretty strong in order for us to be visible for more than a millisecond. Somebody's going to have to be looking directly at us. 
+RO: Then we're going to have to go somewhere with an awful lot of people. 
 (Riker enters) 
 RIKER: It's time, sir. We should go. 
-PICARD: You have the Bridge, Mister McDowell. I'll be at the service in
-Ten Forward. 
-LAFORGE: Ten Forward? Well, that's perfect. We'll create as many
-chroniton fields in there as we can. Get them to flood that room with a
-stronger beam.
+PICARD: You have the Bridge, Mister McDowell. I'll be at the service in Ten Forward. 
+LAFORGE: Ten Forward? Well, that's perfect. We'll create as many chroniton fields in there as we can. Get them to flood that room with a stronger beam. 
 [Turbolift]
-PICARD: Deck ten. I've been thinking about the
-first time I met Geordi La Forge. He was a young officer assigned to
-pilot me on an inspection tour, and I made some off hand remark about
-the shuttle's engine efficiency not being what it should. And the next
-morning I found that he'd stayed up all night refitting the fusion
-initiators. Well, I knew then that I wanted him with me on my next
-command. Have you decided what you're going to say about Ensign Ro? 
+PICARD: Deck ten. I've been thinking about the first time I met Geordi La Forge. He was a young officer assigned to pilot me on an inspection tour, and I made some off hand remark about the shuttle's engine efficiency not being what it should. And the next morning I found that he'd stayed up all night refitting the fusion initiators. Well, I knew then that I wanted him with me on my next command. Have you decided what you're going to say about Ensign Ro? 
 RIKER: Yes, I have. It wasn't easy. 
-PICARD: Situations like these are never easy, Number One. RO: Why? What
-wasn't easy? What?
+PICARD: Situations like these are never easy, Number One. RO: Why? What wasn't easy? What? 
 [Ten Forward]
-(a party is in full swing, complete with jazz band,
-balloons) 
+(a party is in full swing, complete with jazz band, balloons) 
 RO: What is going on here? 
 LAFORGE: It's our memorial service. 
 RO: This? 
 LAFORGE: Why not? 
-RO: I don't believe this. They think we're dead and they're having a
-party. 
+RO: I don't believe this. They think we're dead and they're having a party. 
 LAFORGE: Yeah. It's perfect. Come on, let's get started. 
 (Ro fires the disrupter at random targets around the room) 
 PICARD: Well, this is unusual. 
@@ -582,22 +371,16 @@ RIKER: Yeah, I think I like it.
 RO: Now I suppose I'll never know what you were going to say about me. 
 (and she fires the disrupter through his head) 
 DATA: Do you think the others will think this service appropriate? 
-CRUSHER: Look around you, Data. Everybody is sharing their memories of
-Geordi and Ro, laughing and talking. What could be more appropriate
-than that? 
+CRUSHER: Look around you, Data. Everybody is sharing their memories of Geordi and Ro, laughing and talking. What could be more appropriate than that? 
 DATA: I am glad you approve, Doctor. 
 BROSSMER [OC]: Brossmer to Commander Data. 
 DATA: Go ahead, Chief. 
-BROSSMER [OC]: I'm sorry to disturb you, sir. We've cleared the
-critical areas of chronitons but we've detected a new field forming in
-Ten Forward that's stronger than any we've seen before. 
+BROSSMER [OC]: I'm sorry to disturb you, sir. We've cleared the critical areas of chronitons but we've detected a new field forming in Ten Forward that's stronger than any we've seen before. 
 [Bridge]
-BROSSMER: Should I wait until after the service is
-over before beginning decontamination? 
+BROSSMER: Should I wait until after the service is over before beginning decontamination? 
 DATA [OC]: No. 
 [Ten Forward]
-DATA: No. Anyon emissions are harmless. Please
-begin immediately. 
+DATA: No. Anyon emissions are harmless. Please begin immediately. 
 BROSSMER [OC]: Aye, sir. 
 LAFORGE: Here we go. 
 (they brace themselves, and sparkle briefly) 
@@ -606,37 +389,28 @@ RO: Lieutenant!
 LAFORGE: We're right here, Worf. Damn. 
 RO: We have to find a way to increase the emission strength. 
 LAFORGE: Yeah, I know. 
-PICARD: if she hadn't lost her rank as a result of that incident at
-Garon Four, I think she would've made Lieutenant Commander by now. 
+PICARD: if she hadn't lost her rank as a result of that incident at Garon Four, I think she would've made Lieutenant Commander by now. 
 MCDOWELL [OC]: Bridge to Captain Picard. 
 PICARD: Go ahead. 
-MCDOWELL [OC]: Incoming message from Garadius Four, sir. The diplomatic
-situation is deteriorating. They want an update on our ETA. 
+MCDOWELL [OC]: Incoming message from Garadius Four, sir. The diplomatic situation is deteriorating. They want an update on our ETA. 
 PICARD: Stand by, Ensign. 
 LAFORGE: We've got to do something now, before they go into warp. 
 RO: The disruptor. I can put it on overload. 
 LAFORGE: Do it. 
 RO: Let's go! 
 (Ro and Geordi hide at the back of the room behind furniture) 
-PICARD: I would like to get under way as soon as possible. The
-situation on Garadius Four is becoming serious. 
-DATA: I see no reason to delay our departure. The chroniton fields have
-been cleared from all critical areas. 
+PICARD: I would like to get under way as soon as possible. The situation on Garadius Four is becoming serious. 
+DATA: I see no reason to delay our departure. The chroniton fields have been cleared from all critical areas. 
 (out of phase KaBOOM that they do not notice)
-PICARD: Excellent. Mister McDowell, will you set course for Garadius
-Four and engage at 
-BROSSMER [OC]: Commander Data, chroniton field strength in Ten Forward
-has just increased by three thousand percent. 
-DATA: Curious. Captain, I believe we should decontaminate this room
-before getting underway. 
+PICARD: Excellent. Mister McDowell, will you set course for Garadius Four and engage at 
+BROSSMER [OC]: Commander Data, chroniton field strength in Ten Forward has just increased by three thousand percent. 
+DATA: Curious. Captain, I believe we should decontaminate this room before getting underway. 
 PICARD: Very well. 
 DATA: Chief. 
 BROSSMER [OC]: Yes, Commander. 
-DATA: Increase anyon emissions to six thousand particles per second and
-decontaminate this area. 
+DATA: Increase anyon emissions to six thousand particles per second and decontaminate this area. 
 LAFORGE: Okay, hang on. 
-(Ro and Geordi are right next to Picard and Data when they sparkle and
-are faintly visible) 
+(Ro and Geordi are right next to Picard and Data when they sparkle and are faintly visible) 
 LAFORGE: Data, can you see us? 
 RO: Captain, we're right here. 
 LAFORGE: We're right here! We're right here! 
@@ -651,38 +425,26 @@ DATA: It would explain the mysterious chroniton fields
 RO: Yes, yes, yes. 
 DATA: If they were cloaked in some way. 
 PICARD: Are you saying that they're still alive? 
-DATA: If I am right, sir, they are, and in this room. Their brief
-appearance coincided with the anyon sweep. Perhaps the anyons
-neutralise the cloaking effect. Chief Brossmer. 
+DATA: If I am right, sir, they are, and in this room. Their brief appearance coincided with the anyon sweep. Perhaps the anyons neutralise the cloaking effect. Chief Brossmer. 
 BROSSMER [OC]: Yes, Commander? 
 DATA: Set the anoynic beam to its highest level and flood Ten Forward. 
 BROSSMER [OC]: Aye, sir. 
-(Geordi and Ro fall to the floor under the effects, but now everyone
-can see them. The party grinds to a halt) 
+(Geordi and Ro fall to the floor under the effects, but now everyone can see them. The party grinds to a halt) 
 LAFORGE: Data, do you see us? 
 DATA: Of course. 
-LAFORGE: La Forge to Engineering. Take the warp engines off line until
-further notice. There's a muon wave build up in the dilithium chamber. 
+LAFORGE: La Forge to Engineering. Take the warp engines off line until further notice. There's a muon wave build up in the dilithium chamber. 
 ENSIGN [OC]: Captain, who gave that order? 
-PICARD: That was Commander Geordi La Forge, Ensign. Please follow his
-instructions. 
+PICARD: That was Commander Geordi La Forge, Ensign. Please follow his instructions. 
 ENSIGN [OC]: Aye, sir. 
 LAFORGE: It looks like a great party. Do you mind if we join you? 
 DATA: Geordi, it is good to see you. 
 LAFORGE: Thanks, Data. I've never been to a better funeral. 
-(later, the party is over and Ro and Geordi are alone. Geordi is
-eating) 
+(later, the party is over and Ro and Geordi are alone. Geordi is eating) 
 LAFORGE: Could you pass the rolls? 
 RO: You've been eating for over an hour. 
-LAFORGE: Come on. We didn't eat for almost two days. I'm hungry. What's
-wrong? 
+LAFORGE: Come on. We didn't eat for almost two days. I'm hungry. What's wrong? 
 RO: Nothing. 
 LAFORGE: Come on. 
-RO: I was raised with Bajoran beliefs. I even followed some of the
-practices, but I never really believed in a life after death. Then
-suddenly I was dead and there was another life, and it made me feel
-like I'd been pretty arrogant to discount everything I'd been taught,
-you know? Now I don't know what to believe. 
-LAFORGE: Maybe we should develop our own interphase device. If it can
-teach Ro Laren humility, it can do anything.  
+RO: I was raised with Bajoran beliefs. I even followed some of the practices, but I never really believed in a life after death. Then suddenly I was dead and there was another life, and it made me feel like I'd been pretty arrogant to discount everything I'd been taught, you know? Now I don't know what to believe. 
+LAFORGE: Maybe we should develop our own interphase device. If it can teach Ro Laren humility, it can do anything. 
 

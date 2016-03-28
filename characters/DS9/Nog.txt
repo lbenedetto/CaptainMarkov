@@ -1,5 +1,5 @@
 NOG:  Hurry up! Now.#
-NOG: Now! (They leave through a broken piece of metal mesh onto the chaotic Promenade)#
+NOG: Now!#
 NOG: What do you want, Human?#
 NOG: I know who you are.#
 NOG: Why do you care?#
@@ -33,7 +33,7 @@ NOG: Planets in the Bajoran. What's that word?#
 NOG: System.#
 NOG: The lar, largest planet is Bajor. It has three moons?#
 NOG: The third moon, it has#
-NOG: How about as soon as you get out of school. (A Vulcan woman walks past in a tight catsuit. The boy's hormones kick in.)#
+NOG: How about as soon as you get out of school.#
 NOG: No.#
 NOG: Because baseball is slow and boring.#
 NOG: It's a stupid game that even humans stopped playing hundreds of years ago.#
@@ -76,7 +76,7 @@ NOG: It'll be funny.#
 NOG: Watch me.#
 NOG: Wait over there.#
 NOG: Watch the front door. I'll be right back.#
-NOG: Found it. (Odo's bucket is broader at the base than the top. Very sensible design. Nog trips, and goo flies from the bucket all over Jake.)#
+NOG: Found it.#
 NOG: It's oatmeal. I filled it from the replicator.#
 NOG: You should have seen your face!#
 NOG: Five thousand wrappages. That's a lot of yamok sauce.#
@@ -148,8 +148,9 @@ NOG: He doesn't?#
 NOG: Good thinking. Too bad I won't ever be able to use that lie. My dad knows I never do homework.#
 NOG: A dabo girl who studies entomology? Sure.#
 NOG: What is entomology?#
-NOG: You mean she wants to be a chef? (Jake shakes his head, then looks down to see Tumak hanging around the Replimat)#
-NOG: I don't know. What's he doing? (Tumak waits until a couple leave their table, then goes for the leftovers) NOG: That's disgusting.#
+NOG: You mean she wants to be a chef?#
+NOG: I don't know. What's he doing?#
+NOG: That's disgusting.#
 NOG: Doesn't he know what a replicator's for? Idiot. So, does Mardah have any sisters?#
 NOG: Can't talk now! Got to run!#
 NOG: Who's running?#
@@ -356,7 +357,7 @@ NOG: I'm a slow learner.#
 NOG: The Klingons agreed to let Starfleet send an expedition through the wormhole. They said it was in the spirit of scientific exchange, but I think they were happy to have us test the waters in the Gamma Quadrant after all these years. Find out how the Dominion would react to ships coming through.#
 NOG: I'm sorry to say it's looking a little run down these days. But you'll never guess who's still there.#
 NOG: No, no. He and my Uncle left years ago. Quark finally got that little moon he was always talking about, and my father, as usual, is making sure it doesn't fall out of orbit. But Morn is still there, running the bar!#
-NOG: To my dear friend Jake Sisko, winner of this year's Betar prize for his Collected Stories. May the years continue to be good to you, may your muse continue to inspire you, and may someone make a holoprogram out of one of your stories so you can start raking in the latinum. (A tea cup smashes and we're back to the future again. Jake's breathing is getting more difficult.)#
+NOG: To my dear friend Jake Sisko, winner of this year's Betar prize for his Collected Stories. May the years continue to be good to you, may your muse continue to inspire you, and may someone make a holoprogram out of one of your stories so you can start raking in the latinum.#
 NOG: Take us out of warp.#
 NOG: Look.#
 NOG: We're picking up temporal distortions in the subspace field.#
@@ -378,7 +379,7 @@ NOG: It says here that humans didn't even have currency until five thousand year
 NOG: But think about it, uncle. That means they went from being savages with a simple barter system to leaders of a vast interstellar Federation in only five thousand years It took us twice as long to establish the Ferengi Alliance, and we had to buy warp technology from the#
 NOG: Uncle, are you smuggling kemacite? Isn't that dangerous?#
 NOG: As a Starfleet cadet, it's my duty to report any violation of Federation law to my superiors immediately. But then again, I haven't been sworn in yet. I'll take ten percent.#
-NOG: Father, have you ever heard of the  Bell Riots?#
+NOG: Father, have you ever heard of the#
 NOG: But doesn't this Gabriel Bell human look just like Captain Sisko?#
 NOG: You mean sabotage?#
 NOG: He never did like you very much, Uncle.#
@@ -411,7 +412,7 @@ NOG: Why not? Your feeble weapons will be useless against us. We will kill all y
 NOG: Untie me and I will show you on that map.#
 NOG: The first landing parties will arrive here.#
 NOG: Here. Right by that blue blob.#
-NOG: No, not Cleveland. Right here. (Nog elbows Wainwright and goes for his gun, but the remaining MP aims weapon at Nog.)#
+NOG: No, not Cleveland. Right here.#
 NOG: It was an accident. I tripped. I didn't mean to do it. I'm really, really, sorry.#
 NOG: Thank you.#
 NOG: For a primitive female, she's pretty smart.#
@@ -581,7 +582,8 @@ NOG: The two of you were only talking.#
 NOG: Jake, I know your track record. You never get past talking.#
 NOG: Scurrilous? Is that worse than a regular lie?#
 NOG: Okay. And you do the same.#
-NOG: Now who's being scurrilous? (Martok and some Klingons are in Nog and Jake's favourite place on the upper level.) NOG: I don't believe this.#
+NOG: Now who's being scurrilous?#
+NOG: I don't believe this.#
 NOG: They're loitering on the Promenade in our old spot.#
 NOG: Jake, don't you get it? They know I'm territorial about that spot. They're purposely doing this to insult me.#
 NOG: I can't let them do this to me. Stay back, Jake. This could get ugly.#
@@ -719,7 +721,7 @@ NOG: What? Captain, I would like to separate myself from#
 NOG: What did you say that for?#
 NOG: Of course not. If you tell him about the card, he might forgive us. He might even be grateful for all the effort we've gone through just to make him happy. And we certainly wouldn't want that. Habitat ring.#
 NOG: Jake, as your friend, I think I should tell you that you're starting to go over the edge. You need some perspective on all this. You need to get away, clear your head.#
-NOG: This isn't what I had in mind. (Two Jem'Hadar appear, then Weyoun enters. They are on the ship, not the station.)#
+NOG: This isn't what I had in mind.#
 NOG: Do something.#
 NOG: Oh, no.#
 NOG: You do?#
@@ -857,13 +859,13 @@ NOG: Everyone calm down.#
 NOG: There are no other thirty bars. Are there?#
 NOG: No!#
 NOG: Well, there's no doubt about it. According to these readings, this man is dead.#
-NOG: I just wanted to be sure. I thought maybe we could revive him but I guess not. (Nog puts another blinkie on Keevan's head and the left arm jerks up and hits him.)#
+NOG: I just wanted to be sure. I thought maybe we could revive him but I guess not.#
 NOG: No, he isn't. It's just the neural stimulator. It caused a reflexive impulse in his cerebellum.#
 NOG: I didn't, but if you think about it, medicine isn't that different from engineering. It's all about keeping things running, fixing broken parts.#
 NOG: Find me more neural stimulators.#
 NOG: Stall them, Uncle.#
 NOG: All right, here we go.#
-NOG: I'm trying. (Ishka dodges Keevan and gets to Quark for a hug. Keevan bumps into the bulkhead, repeatedly, like a tin soldier. Quark and Ishka run into the airlock.)#
+NOG: I'm trying.#
 NOG: I can't. The transceiver is jammed.#
 NOG: The miniaturisation process won't begin until the runabout reaches the edge of the accretion disc.#
 NOG: Yes, sir.#
@@ -951,11 +953,11 @@ NOG: Warp six, aye.#
 NOG: Torpedoes ready, sir.#
 NOG: Impulse engines at full thrust.#
 NOG: I'm on it!#
-NOG: Main power's offline! I'm rerouting the (The rest of the bridge consoles blow up. Farris and Shepard die. The little ship is still taking a pounding.)#
+NOG: Main power's offline! I'm rerouting the#
 NOG: No, it's over.#
 NOG: The Captain is dead, Chief. They're all dead. The ship is lost. There's no need for us to die here too.#
 NOG: Jake! Jake!#
-NOG: We failed. (The first two are shot down. Two more set off then Valiant goes KaBOOM destroying one of them. Number four heads off.)#
+NOG: We failed.#
 NOG: Yeah. You going to write a story about all this?#
 NOG: What are you going to say?#
 NOG: That it was a good ship with a good crew that made a mistake. We let ourselves blindly follow Captain Watters and he led us over a cliff.#
@@ -987,7 +989,7 @@ NOG: They must know they don't stand a chance against a fleet this size.#
 NOG: I always thought the Jem'Hadar were crazy.#
 NOG: Aye, sir.#
 NOG: Approaching the target.#
-NOG: Yes! We did it! (The remains of the fleet move through, taking revenge on platforms as they pass.);#
+NOG: Yes! We did it!#
 NOG: I'll say one thing for guarding convoys, it's usually a lot safer than being on the front lines.#
 NOG: I didn't mean that the way it sounded, sir.#
 NOG: Yes, sir.#
@@ -995,7 +997,7 @@ NOG: I hope Commander Worf doesn't think I'm afraid to fight.#
 NOG: It's not that I'm afraid to fight, I just don't want to die. I wish Captain Sisko were here.#
 NOG: There's never a runner at home.#
 NOG: That seems simple enough.#
-NOG: Today? I think he's missed ten. (Rom throws the ball part way to Kira, runs, picks it up, throws, runs, picks it up etc.)#
+NOG: Today? I think he's missed ten.#
 NOG: Batter up!#
 NOG: Sir, can't you give him another chance?#
 NOG: That's right. I'll go talk with him in the morning. Maybe he'll change his mind.#
@@ -1004,7 +1006,7 @@ NOG: Playing baseball doesn't mean anything to me.#
 NOG: The stands?#
 NOG: I'm beginning to hate him myself.#
 NOG: Hey, don't worry, you'll get the next one. Okay? Okay?#
-NOG: All right. (The scoreboard moves up to Logicians 4, Niners 0. Note - Kasidy has number 47 on her back, Kira is number 9. In the dugout.)#
+NOG: All right.#
 NOG: Was that slide at second legal?#
 NOG: What's wrong?#
 NOG: Is that true? What do I do?#
@@ -1174,7 +1176,7 @@ NOG: What do you think?#
 NOG: Wonderful. Goodbye.#
 NOG: I heard her. Now you can go.#
 NOG: I said get out.#
-NOG: Let me put it another way. (Nog overturns the table and punches Jake. Vic comes down to break it up.)#
+NOG: Let me put it another way.#
 NOG: What?#
 NOG: I couldn't sleep.#
 NOG: I'm sorry about what happened.#
@@ -1195,7 +1197,8 @@ NOG: I told him. And if you try to force me to leave, I'll resign my commission.
 NOG: Good. Because Vic and I have big plans.#
 NOG: I've been going over your books, and this place is a latinum mine and you don't even know it. In my opinion, it's time to expand the business.#
 NOG: Of course it's a holosuite. That doesn't mean we can't build a new casino.#
-NOG: If you'll excuse us, Counsellor, we have business to conduct. (With the title song 'It's Only A Paper Moon' in the background, we move into a series of montages. - Blueprints are drawn up, accounts are worked on, films are watched on TV while eating popcorn, Nog lights a lady's cigarette with his replica cane, the business section of the Las Vegas Register is read, Ezri notices Nog greeting the customers whilst holding and not leaning on his cane.) NOG: Go easy on the garnishes. People order a drink, they don't want a fruit bowl in their glass. We'll talk about this later.#
+NOG: If you'll excuse us, Counsellor, we have business to conduct.#
+NOG: Go easy on the garnishes. People order a drink, they don't want a fruit bowl in their glass. We'll talk about this later.#
 NOG: I'll take care of them. Hey, long time, no see.#
 NOG: Right this way.#
 NOG: Couldn't be better. Business is booming. We're making money hand over fist. I can hardly keep up with all the profits.#
@@ -1279,7 +1282,7 @@ NOG: But I lost the Breen ship we were after.#
 NOG: Jem'Hadar ship off the port bow.#
 NOG: Another Jem'Hadar to port.#
 NOG: Breen ship off the starboard aft.#
-NOG: I'm trying, sir. (The Breen ship lines up the Defiant, then KaBOOM!! It is blown apart by a Cardassian warship.)#
+NOG: I'm trying, sir.#
 NOG: Yes!#
 NOG: Aye, sir.#
 NOG: She did pretty well for a first date, don't you think, Captain?#
@@ -1287,4 +1290,4 @@ NOG: Captain, we're approaching the Dominion defence perimeter.#
 NOG: The duty roster, Colonel.#
 NOG: Thank you, sir. I guess putting me in for promotion was one of Captain Sisko's last official acts.#
 NOG: I'd like to think so, sir.#
-NOG: I'll get right on it. (Nog leaves. Kira picks up the baseball and goes to stand at the top of the stairs, looking at the new faces in Ops.)#
+NOG: I'll get right on it.#

@@ -127,7 +127,7 @@ O'BRIEN:  Uh-huh. Try it now.#
 O'BRIEN: Who has time for sleep? I'd settle for five minutes of peace and quiet.#
 O'BRIEN: You're absolutely right, sir. I knew I'd forgotten something. Can't have the operations chief sitting around daydreaming when there's work to be done, can we? I'll get right on it.#
 O'BRIEN: Fix the replicators, Chief. My console's offline, Chief. I should've transferred to a cargo drone. No people, no complaints.#
-O'BRIEN: Hot coffee, black, double sweet. (It looks right, smells right and tastes right. He gives it a final once over and we get to see the little hidden device start blinking.)#
+O'BRIEN: Hot coffee, black, double sweet.#
 O'BRIEN: There you go, sir. I think you'll find that more to your liking.#
 O'BRIEN: Don't mention it, sir. Unfortunately, there are plenty of replicators around the station that still need looking after.#
 O'BRIEN: I'm just a bit hot. The environmental controls must be acting up again.#
@@ -156,7 +156,7 @@ O'BRIEN: Aye, sir.#
 O'BRIEN: Aye, sir.#
 O'BRIEN: O'Brien to Ops.#
 O'BRIEN: Sure you#
-O'BRIEN: Friend? If you're in here, you've got nothing to worry about from me. Understand? I'm just going to take a look at your ship. See what the problem is. Okay? Just to let you know, I'm an engineer. I know a little bit about ships. Well, more than a little, actually, but I'll tell you, I've never seen anything close to this. All right then. Is this some sort of plasma injector? Okay. Then#
+O'BRIEN: Friend? If you're in here, you've got nothing to worry about from me. Understand?  I'm just going to take a look at your ship. See what the problem is. Okay? Just to let you know, I'm an engineer. I know a little bit about ships. Well, more than a little, actually, but I'll tell you, I've never seen anything close to this. All right then. Is this some sort of plasma injector? Okay. Then#
 O'BRIEN: that must be an off-axis field controller over there.#
 O'BRIEN: You can't go sneaking up on someone like that, friend. It's an Alpha quadrant rule.#
 O'BRIEN: Well, that all depends.#
@@ -245,10 +245,10 @@ O'BRIEN: This is a Starfleet matter. Orders from Sisko.#
 O'BRIEN: No, sir, that won't be necessary. Good relations with other cultures is our highest priority. Commander Sisko wants to make sure you understand we're sorry we interfered with your hunt. The least we can do is give you an official escort off the station. It's a token of goodwill and respect in our society.#
 O'BRIEN: This way.#
 O'BRIEN: Glass jaw. Now I know why you wear a helmet. Up here.#
-O'BRIEN: Come on. Your ship's ready. (An alien materialises and Tosk jumps him, knocking him over the railing)#
+O'BRIEN: Come on. Your ship's ready.#
 O'BRIEN: Here.#
 O'BRIEN: The Cardies made these conduits from two metre thick duranium composite. I've never seen a scanning device that could penetrate it.#
-O'BRIEN: Until now. (bang behind them so they get to an exit panel above a corridor)#
+O'BRIEN: Until now.#
 O'BRIEN: Come on, Tosk. Round this corner and we're there.#
 O'BRIEN: No.#
 O'BRIEN: Go on.#
@@ -277,7 +277,7 @@ O'BRIEN: Oh, don't get me wrong. The power reserves are empty, the inertial damp
 O'BRIEN: But there's nothing wrong with any of them. Once we put power back into her, she should be fully operational.#
 O'BRIEN: Yes, sir. I ran a level one diagnostic. Everything checks out. I can't explain it. It's like something tapped into the ship's systems and drained them dry.#
 O'BRIEN: Hardly at all. I only met her that one time she was aboard the Enterprise.#
-O'BRIEN: Well Sir, Vash and Captain Picard were friends. Close friends, if you follow my meaning. Seems they met on Risa a few years back.#
+O'BRIEN: Well Sir, Vash and Captain Picard were friends. Close friends, if you follow my meaning.#
 O'BRIEN: I think she must be a special woman, being friends with the Captain and all.#
 O'BRIEN: The Captain likes a good challenge, sir.#
 O'BRIEN: I'll have to replace the whole unit.#
@@ -422,7 +422,7 @@ O'BRIEN: You'll just have to find someone else.#
 O'BRIEN: Faren, I would like to help, really I would, but I don't know how.#
 O'BRIEN: As simple as that, is it?#
 O'BRIEN: Let's hope so.#
-O'BRIEN: The way I see it, the only way out of this mess is to find out exactly what this Dal'Rok is, and destroy it before it destroys us. Station log supplemental. We have completed a second day of talks between the Paqu and the Navot. So far, we're no closer to finding a solution than we were when the negotiations began.#
+O'BRIEN: The way I see it, the only way out of this mess is to find out exactly what this Dal'Rok is, and destroy it before it destroys us.#
 O'BRIEN: There's some residual neutrino levels in the microstructure of these rocks.#
 O'BRIEN: I didn't say it made sense. But this rock face didn't just spontaneously blow itself to pieces.#
 O'BRIEN: All I did was repeat what the Sirah told me.#
@@ -436,7 +436,7 @@ O'BRIEN: Oh, no. This won't do. You continue looking around here. I'll go to che
 O'BRIEN: Look, I could use some privacy.#
 O'BRIEN: All right, bring them in. Hold on. Didn't you work for the Sirah?#
 O'BRIEN: Did he ever reveal any of his secrets? How he controlled the Dal'Rok, and that sort of thing?#
-O'BRIEN: All right, have it your way. Don't blame me when that creature goes rampaging through your village. (Hovath tries to creep up on O'Brien with a dagger, but O'Brien sees him in the mirror and they struggle)#
+O'BRIEN: All right, have it your way. Don't blame me when that creature goes rampaging through your village.#
 O'BRIEN: Careful, don't hurt him.#
 O'BRIEN: That's enough.#
 O'BRIEN: I said that's enough!#
@@ -454,7 +454,7 @@ O'BRIEN: You think I can?#
 O'BRIEN: Once upon a time, there was a Dal'Rok. And it lives there, in the woods, and he hated the village and all of the villagers and he wanted to see them destroyed.#
 O'BRIEN: Yes, the Dal'Rok is here, and it's hungry. But the village is prepared to fight, like it has always fought, with the lights, the shimmering lights.#
 O'BRIEN: You know what I'm talking about. Come on, you can do it. The village is strong and unafraid and powerful, and ready to face the Dal'Rok.#
-O'BRIEN: All right now, let's really focus and send this one out, okay? Let's really the Dal'Rok a message. Where the hell are those lights? (Energy from the Dal'Rok knocks O'Brien down. Hovath takes the bracelet off him.)#
+O'BRIEN: All right now, let's really focus and send this one out, okay? Let's really the Dal'Rok a message. Where the hell are those lights?#
 O'BRIEN: It's about time.#
 O'BRIEN: Let's get out of here before they change their minds.#
 O'BRIEN: Not for me. I've had my fill of storytelling for the time being.#
@@ -777,7 +777,7 @@ O'BRIEN: Commander. Two assault vessels are headed this way on direct course fro
 O'BRIEN: I'd say we could have all our people out and away in three hours.#
 O'BRIEN: Sir, that'll take days. A week, for all I know. But those assault ships are going to be here in seven hours.#
 O'BRIEN: What gives them the right to mess up our station?#
-O'BRIEN: Commander, two assault vessels are headed this way on a direct course from Bajor. They've given all non-Bajorans seven hours to evacuate. And now, the conclusion.#
+O'BRIEN: Commander, two assault vessels are headed this way on a direct course from Bajor. They've given all non-Bajorans seven hours to evacuate.#
 O'BRIEN: You'll need someone to oversee the inventory process, sir.#
 O'BRIEN: Is that everything?#
 O'BRIEN: Keiko, please, don't go like this.#
@@ -795,7 +795,7 @@ O'BRIEN: Maybe we should send him with a little more experience. Someone who can
 O'BRIEN: Come on. Get down.#
 O'BRIEN: O'Brien to Sisko.#
 O'BRIEN: They've got us pinned down in here.#
-O'BRIEN: Now! (They run down the Promenade, chased by two troopers. Odo morphs into a trip wire and our pair get away.)#
+O'BRIEN: Now!#
 O'BRIEN: It's a good idea. Kind of thing I might've come up with. We've got to get out of here, and soon.#
 O'BRIEN: If they didn't make it, we're all fighting for a lost cause here.#
 O'BRIEN: Aye, sir.#
@@ -886,7 +886,7 @@ O'BRIEN: Major, Quark's been looking for you. He says it's urgent.#
 O'BRIEN: Commander, sensors are picking up elevated neutrino readings. A ship's coming through the wormhole.#
 O'BRIEN: I'm reading a plasma leak in their engine core.#
 O'BRIEN: The reactor's overheating. Life support is barely functioning.#
-O'BRIEN: Aye, sir. (A female and three males are beamed in. They have very dry, flaking skin.)#
+O'BRIEN: Aye, sir.#
 O'BRIEN: It's working, Commander, but for some reason it's having a hard analyzing their language patterns. Their syntax and their grammatical structure must be completely unlike anything in our database.#
 O'BRIEN: It seems the men are a bit too emotional to become leaders.#
 O'BRIEN: Kentanna?#
@@ -899,13 +899,14 @@ O'BRIEN: The interceptor's closing on the Skrreean ship.#
 O'BRIEN: Commander, they're returning fire.#
 O'BRIEN: The phaser beam must've ignited the radiation leak.#
 O'BRIEN: Hello, Doctor.#
-O'BRIEN: Yeah. Just finished. I missed playing and I figured there'd be at least a couple of other players on board. I didn't think you'd be one of them. BASHIR Captain of the team at Starfleet Medical Academy. We took the sector championships in my final year. O'BRIEN: Against other medical students?#
+O'BRIEN: Yeah. Just finished. I missed playing and I figured there'd be at least a couple of other players on board. I didn't think you'd be one of them.#
+O'BRIEN: Against other medical students?#
 O'BRIEN: And you won?#
 O'BRIEN: Well, I can't say I've had much in the way of formal training myself, but it's been a serious pastime for a lot of years.#
 O'BRIEN: Really.#
 O'BRIEN: Serve.#
 O'BRIEN: I can play any style you like.#
-O'BRIEN: Serve! (Thump, bounce, bounce, bounce off the walls and O'Brien doesn't even see the ball)#
+O'BRIEN: Serve!#
 O'BRIEN: Medical school. Captain of the team at Medical school.#
 O'BRIEN: Bashir.#
 O'BRIEN: No, he had a game. I just kind of stumbled around the court for ninety minutes and made a complete ass of myself.#
@@ -938,7 +939,7 @@ O'BRIEN: Have a good game, Julian.#
 O'BRIEN: Something's wrong here.#
 O'BRIEN: The best I've played my entire life. I'm making shots I couldn't have made fifteen years ago when I was playing five hours a day, every day. I can't miss.#
 O'BRIEN: Try throwing the ball against the wall.#
-O'BRIEN: O'Brien to Ops. (Later, we hear five bounces then the ball arrives in O'Brien's open, still, hand)#
+O'BRIEN: O'Brien to Ops.#
 O'BRIEN: I must have done it a dozen times by now. And I haven't missed once yet.#
 O'BRIEN: Improbable?#
 O'BRIEN: How can we find out what's causing it?#
@@ -961,7 +962,7 @@ O'BRIEN: Well, I definitely hear something ahead. Can you hear it on the comm. l
 O'BRIEN: It almost sounds like. I can't describe it. I'm moving in closer. If you run into my wife, don't mention I did this.#
 O'BRIEN: My day was and I'll say, fine, honey, how was yours? Sometimes I think she really doesn't want to know the truth, so I do us both a favour and#
 O'BRIEN: It's a structural breach. Ahhh!#
-O'BRIEN: I'm okay. I'm fine. I found our missing lifeform. Except it isn't a lifeform anymore. It's dead. Station log, stardate 47391.7. Engineering crews have been working for over fifteen hours searching conduits. There have been no additional incidents and no further evidence of the alien lifeform has been found.#
+O'BRIEN: I'm okay. I'm fine. I found our missing lifeform. Except it isn't a lifeform anymore. It's dead.#
 O'BRIEN: I have a power failure in Security, Commander.#
 O'BRIEN: I'm tracking it. We have a power drain in the life support conduit above the Security Office. If it's feeding off our power, we may be able to slow it down by shutting off the primary flow to the entire core section.#
 O'BRIEN: The power shutdown is complete, Commander. Odo, or whatever it is in there, has stopped moving for the moment.#
@@ -982,7 +983,7 @@ O'BRIEN: Federation rations. I've had enough T'Lani food this past week to last 
 O'BRIEN: I still can't figure it. Why would the Kelleruns wait till the harvesters were destroyed before they made their move?#
 O'BRIEN: Maybe they're convinced they can defeat the T'Lani with conventional weapons.#
 O'BRIEN: Wait. Listen to me, Julian. The Kelleruns are going to expect us to be on the move. If we start running, their sensors'll pick us up before we've gone a kilometre. If we stay still maybe, just maybe, it'll take them longer to find us. The way I see it, we have only one chance to survive this thing that's to stay alive long enough for Commander Sisko to find us.#
-O'BRIEN: I said it was our only chance, I didn't say it was a good one. What have we here? Looks like some kind of comm. system. Maybe we can contact the T'Lani from here.#
+O'BRIEN: I said it was our only chance, I didn't say it was a good one.  What have we here? Looks like some kind of comm. system. Maybe we can contact the T'Lani from here.#
 O'BRIEN: I'll have to open it up, see if there's a backup power supply. Why don't you take a seat, Doctor?#
 O'BRIEN: Extension courses?#
 O'BRIEN: Julian, do you really want to help?#
@@ -1001,7 +1002,7 @@ O'BRIEN: Well, you career officers don't know what you're missing.#
 O'BRIEN: What about me and Mrs O'Brien?#
 O'BRIEN: What?#
 O'BRIEN: Say that again?#
-O'BRIEN: That's the first intelligent thing you've said since we got here. (O'Brien gets a blanket from the supplies and puts it over his shoulders)#
+O'BRIEN: That's the first intelligent thing you've said since we got here.#
 O'BRIEN: Yes. Aren't you?#
 O'BRIEN: I'm fine.#
 O'BRIEN: I don't want to sitting down. I've got work to do.#
@@ -1117,7 +1118,7 @@ O'BRIEN: That's an order.#
 O'BRIEN: O'Brien to Kira.#
 O'BRIEN: I'd like the access codes to the Parada quarters.#
 O'BRIEN: Commander, I spent the last week going over these arrangements with the Paradas. I really need to#
-O'BRIEN: Yes, sir. (When O'Brien has left, DeCurtis opens the door and goes in. But O'Brien sees from around the corner.)#
+O'BRIEN: Yes, sir.#
 O'BRIEN: Where'd you get this? I haven't seen one of these since I was a kid.#
 O'BRIEN: Really, really, old?#
 O'BRIEN: Don't worry about it. Why don't you come by my place after dinner. We'll see if we can add the rest of the pieces.#
@@ -1145,7 +1146,8 @@ O'BRIEN: Access internal EM sensor grid.#
 O'BRIEN: Scan for any evidence of sub-harmonic transmissions.#
 O'BRIEN: Any unusual neural wave patterns.#
 O'BRIEN: Any telepathic activity on board.#
-O'BRIEN: Computer, display all arriving vessels from stardate 47550 through 47571. (It does, first entry USS Yorktown from Theta Omicron IV, Captain H Zimmerman. There's also Captains J Swift and G Gulliver, Gump, JJ Adams, W Clinton, et al) O'BRIEN: None from the Gamma Quadrant?#
+O'BRIEN: Computer, display all arriving vessels from stardate 47550 through 47571.#
+O'BRIEN: None from the Gamma Quadrant?#
 O'BRIEN: Coffee, Jamaican blend, double strong, double sweet. You're drinking too much of this stuff, O'Brien. Anything to stay alert, O'Brien. Okay, computer, play back station logs chronologically, starting with stardate 47550.#
 O'BRIEN: All officers.#
 O'BRIEN: Vocal.#
@@ -1172,7 +1174,7 @@ O'BRIEN: What did you find out?#
 O'BRIEN: Don't ask me to explain the politics of the situation, but I know they've been fighting the government forces for twelve years. Why?#
 O'BRIEN: Odo, Sisko's logs indicate that secret messages have been coming from the Parada System. Could those messages have been from the rebels?#
 O'BRIEN: That's already a breach of the security agreement we made with the Paradan government, and it's a good enough reason for us to cancel these peace talks.#
-O'BRIEN: What are you talking about? We've got more than enough They got to you.#
+O'BRIEN: What are you talking about? We've got more than enough  They got to you.#
 O'BRIEN: No, they did. They got to you.#
 O'BRIEN: Who the hell are you?#
 O'BRIEN: Thanks just the same.#
@@ -1269,7 +1271,7 @@ O'BRIEN: Yes, sir.#
 O'BRIEN: Are you all right, Commander?#
 O'BRIEN: This duonetic field is still a mystery, sir. I can't believe it's being generated by the astatine deposits in the stream bed.#
 O'BRIEN: What are you talking about? You just had him up all night standing watch.#
-O'BRIEN: Wait a minute! (O'Brien is restrained, and a pointed stick held against him. Sisko gives Vinod his hand-hoe and gets into the little oven, to bake in the sun)#
+O'BRIEN: Wait a minute!#
 O'BRIEN: I need your help, Joseph.#
 O'BRIEN: I've got to try to track down where that duonetic field is coming from.#
 O'BRIEN: That's not what's causing it. If it were, I'd have that transmitter running and we'd all be out of here already. It's got to be something else and I think I've figured a way to get me to the source of it.#
@@ -1295,7 +1297,7 @@ O'BRIEN: No. All right, come to papa.#
 O'BRIEN: They weren't bothering us until we started moving into areas of the station that they've been hiding in. Now they're spreading out all over the place.#
 O'BRIEN: They seem to be attracted to electromagnetic fields. Give me a hand, Major, will you?#
 O'BRIEN: Maybe we could create some kind of EM pathway along the inner hull and try to lure them into a trap.#
-O'BRIEN: I can't, and it would take days to round them all up. We'd have to evacuate the station. The only other thing I can come up with is a directional sonic generator. Now I can adjust it to a frequency that'll be uncomfortable to their ears, drive them out of hiding one at a time. But at that rate, I'll be doing this for the rest of my tour of duty. (Quark has arrived on the turbolift, holding something at arm's length.)#
+O'BRIEN: I can't, and it would take days to round them all up. We'd have to evacuate the station. The only other thing I can come up with is a directional sonic generator. Now I can adjust it to a frequency that'll be uncomfortable to their ears, drive them out of hiding one at a time. But at that rate, I'll be doing this for the rest of my tour of duty.#
 O'BRIEN: Relax, Quark. We're working on something new that ought to make the voles beg for mercy.#
 O'BRIEN: A sonic#
 O'BRIEN: You all right? Are you all right?#
@@ -1420,7 +1422,7 @@ O'BRIEN: Yeah, maybe we should've brought Molly with us. Do you think she'll be 
 O'BRIEN: We could swing back, pick up the holocam and Molly, and still only lose half a day.#
 O'BRIEN: Or we could pick up the holocam when we get there.#
 O'BRIEN: What?#
-O'BRIEN: Just a few. Computer, play something by Minezaki. (He goes over to where she is sitting and starts kissing her face. Eventually she smiles.)#
+O'BRIEN: Just a few. Computer, play something by Minezaki.#
 O'BRIEN: I wish they did.#
 O'BRIEN: Identify.#
 O'BRIEN: Shields up. Try to send an emergency subspace signal to the station.#
@@ -1435,7 +1437,7 @@ O'BRIEN: I'm not going anywhere with you.#
 O'BRIEN: My name is Miles O'Brien. My rank, Chief of Operations, Starfleet. I'm a Federation citizen.#
 O'BRIEN: My name is Miles O'Brien. My rank is Chief of Operations, Starfleet. I'm a Federation citizen.#
 O'BRIEN: My name is Miles O'Brien. My rank is Chief of Operations, Starfleet. I am a citizen of the Federation.#
-O'BRIEN: My name is Miles O'Brien. My rank is Chief of Operations (A lock of hair and a tooth are taken from him during this, then he is irradiated. The main doors open and a female Cardassian enters.)#
+O'BRIEN: My name is Miles O'Brien. My rank is Chief of Operations#
 O'BRIEN: As what?#
 O'BRIEN: What do I need a lawyer for? What am I charged with? Who's accusing me?#
 O'BRIEN: I've been told that I've already been charged, indicted, convicted and sentenced. What would I need with a lawyer?#
@@ -1758,6 +1760,7 @@ O'BRIEN: All of it. The Utopia Planitia yards on Mars, the terraforming stations
 O'BRIEN: The only subspace signals I'm detecting are coming from the vicinity of Alpha Centauri. And they're Romulan.#
 O'BRIEN: They must have.#
 O'BRIEN: I'm not sure. Maybe, maybe when it exploded, the singularity that polarised the chroniton particles created some kind of subspace bubble around the ship, isolated it from the changes in the timeline. I'm not sure, I'd have to run some tests. One thing's for certain, right now this ship is all that's left of Starfleet.#
+O'BRIEN: I think I know what happened to Commander Sisko and the others. The transporter beam was redirected as it passed through the polarised particles.#
 O'BRIEN: Not where, when.#
 O'BRIEN: According to our computer simulations, the degree of temporal displacement is directly proportional to the number of chroniton particles interacting with the transporter beam. Unfortunately, there's no way to know the exact concentration of particles at the time of the accident, but I've narrowed it down to ten possibilities, each one corresponding with a different time frame. One of them has to be right. We just hope we find the right one before we run out of chroniton particles.#
 O'BRIEN: Just say you broke your nose. On the other hand, maybe you'd better say nothing. I'll do the talking.#
@@ -1769,7 +1772,7 @@ O'BRIEN: Evening.#
 O'BRIEN: I told you not to say anything.#
 O'BRIEN: I'm not picking up any residual electrostatic charge.#
 O'BRIEN: I said I'm not picking up any residual electrostatic charge.#
-O'BRIEN: They're not here! (The music stops, a girl and man get out of the VW. The girl gives Kira a flower.)#
+O'BRIEN: They're not here!#
 O'BRIEN: Uh-oh.#
 O'BRIEN: Well, we know one thing. They arrived before the year twenty forty eight.#
 O'BRIEN: Because we were just there. And that wasn't the mid-twenty first century I read about in school. It's been changed. I mean, Earth history has been through its rough patches, but never that rough.#
@@ -1870,7 +1873,7 @@ O'BRIEN: One more.#
 O'BRIEN: I know, I know. But I've seen it and I can't shake the feeling that it's going to happen despite our precautions. There's something about the way things look, the number of people. There's something a little too familiar about everything.#
 O'BRIEN: You said you weren't going to let the Klingons back in the bar.#
 O'BRIEN: Watch the Romulan!#
-O'BRIEN: Miles? (As the panel is opened O'Brien is shot by a booby trap. He's dead, Miles.)#
+O'BRIEN: Miles?#
 O'BRIEN: No, I'm not. In a few hours I'm going to be dead.#
 O'BRIEN: This is the panel I saw myself open. It looked like a phaser or a high-energy laser came out of the bulkhead.#
 O'BRIEN: Absolutely. Believe me, I have a pretty vivid memory of the whole thing.#
@@ -1924,7 +1927,7 @@ O'BRIEN: Twenty, outer ring.#
 O'BRIEN: It's also a little disturbing. I have this nagging feeling that I don't really belong here. This isn't really my life. Maybe this life belongs to that other Miles O'Brien.#
 O'BRIEN: Well, I think I'll go to bed. I'm still kind of tired.#
 O'BRIEN: Quark. Dabo.#
-O'BRIEN: I say we do nothing until we get reinforcements from Bajor. DAX Julian, there you are. Where have you been?#
+O'BRIEN: I say we do nothing until we get reinforcements from Bajor.#
 O'BRIEN: It'll take hours. Too many system's have been sabotaged. All my work crews are missing, and I cannot make new parts until we get the replicators fixed.#
 O'BRIEN: Oh well, now he's trying to kill us all by destroying the station.#
 O'BRIEN: If we go out looking for the Lethean, we're the ones who'll end up dead.#
@@ -2016,14 +2019,15 @@ O'BRIEN: You know, Captain Sisko would try to fight his way out of this.#
 O'BRIEN: I wanted to be free.#
 O'BRIEN: It took him long enough.#
 O'BRIEN: Re-routing the central ODN processor. The Intendant's orders.#
-O'BRIEN: You don't say? (There are bangs, the lights flicker and the doors open. O'Brien grabs the Cardassian's phaser and shoots another guard while the workers take care of another.) O'BRIEN: All right, anyone who wants to get out of here, follow me. Come on.#
-O'BRIEN: Hey! (The Cardassians are killed in the crossfire.#
+O'BRIEN: You don't say?#
+O'BRIEN: All right, anyone who wants to get out of here, follow me. Come on.#
+O'BRIEN: Hey!#
 O'BRIEN: Yeah. The only problem is there's thirty more of them behind us.#
 O'BRIEN: Come on.#
 O'BRIEN: We've got to find another way out of here.#
 O'BRIEN: If we surrender, she'll kill us.#
 O'BRIEN: Only a couple of levels.#
-O'BRIEN: Sure. It's easy for you to say. (O'Brien dashes forward under fire, pulls the levers and gets back before the doors shut tight)#
+O'BRIEN: Sure. It's easy for you to say.#
 O'BRIEN: I don't know what you're up to, Captain, but there's no way out of this room except through that door.#
 O'BRIEN: Ready, Captain?#
 O'BRIEN: What?#
@@ -2113,9 +2117,10 @@ O'BRIEN: Hip hip.#
 O'BRIEN: Hip hip.#
 O'BRIEN: Don't worry, Captain. If the Tzenkethi try to start any trouble, we'll be ready for them.#
 O'BRIEN: Captain?#
-O'BRIEN: Getting jumpy in your old age, O'Brien. My son, the writer, thinks I should say something profound on his occasion. He even offered to write me a brief statement. I told him I'd take care of it myself, but as it turns out the only think I can think of is, Begin Captain's log, stardate 48960.9.#
+O'BRIEN: Getting jumpy in your old age, O'Brien.#
 O'BRIEN: Warp and impulse engines are online.#
-O'BRIEN: Hello. Who's there? (No reply, so he goes to look. There's another thud. O'Brien looks behind him then) O'BRIEN: Julian!#
+O'BRIEN: Hello. Who's there?#
+O'BRIEN: Julian!#
 O'BRIEN: Why didn't you answer me?#
 O'BRIEN: What are you doing here, anyway?#
 O'BRIEN: I could have done that for you.#
@@ -2138,7 +2143,7 @@ O'BRIEN: Yes, but not for much longer. They dissipate quickly.#
 O'BRIEN: We'll be the prime suspects. Yes, we know that.#
 O'BRIEN: Nothing.#
 O'BRIEN: Well I am. After all, you were in that conduit the other day.#
-O'BRIEN: Of course you were. I saw you. (Beep! And the Admiral morphs into a whirl of goo, and escapes through the ceiling.)#
+O'BRIEN: Of course you were. I saw you.#
 O'BRIEN: I can't deactivate the cloaking device.#
 O'BRIEN: It must've been the changeling. I went down the hall to get an interphasic compensator. I heard a noise and when I came back#
 O'BRIEN: Damage control team, report to the engine room.#
@@ -2159,7 +2164,8 @@ O'BRIEN: That's what I like about you, Julian. You're easily impressed.#
 O'BRIEN: So what you're saying is, it's quiet in here.#
 O'BRIEN: I thought I'd ask the Klingons what they're up to.#
 O'BRIEN: Why not?#
-O'BRIEN: Well, suit yourself. (O'Brien sits down again. Bashir tries the sand pea flip trick and misses.) O'BRIEN: The secret is positioning the pea correctly on the hand.#
+O'BRIEN: Well, suit yourself.#
+O'BRIEN: The secret is positioning the pea correctly on the hand.#
 O'BRIEN: Relax. If something's up with the Klingons, Captain Sisko will find out about it.#
 O'BRIEN: Commander Worf.#
 O'BRIEN: Too long. Welcome aboard.#
@@ -2226,7 +2232,7 @@ O'BRIEN: About thirty minutes. I'm having trouble with the transtater interface.
 O'BRIEN:  The plasma charge should have an effective range of about fifteen metres.#
 O'BRIEN:  Well, it's enough to take care of the guard. Once he's down, I'll get his weapon and we run like hell for the runabout.#
 O'BRIEN: Thank you Lieutenant. Coming from you that means a lot to me.#
-O'BRIEN: That is something I put together to enhance the resolution on that scanner. (Arak'Taral flips the switch. A burst of energy hits Meso'Clan. Arak'Taral grabs O'Brien by the throat and throws him onto a table. Goran'Agar puts his weapon to Bashir's head.)#
+O'BRIEN: That is something I put together to enhance the resolution on that scanner.#
 O'BRIEN: Or maybe that's what he wants you to believe. Think about it, Julian. What did he say to you? Federation doctors are trained to feel compassion and sympathy. He's manipulating you. He wants you to work hard and stop trying to escape.#
 O'BRIEN: All right. Let's say you're right and he's turning into a nice guy. What are you getting at?#
 O'BRIEN: What?#
@@ -2292,7 +2298,7 @@ O'BRIEN: Give them a little slack. Ease up on the reins. Let them do what they'r
 O'BRIEN: Don't count on it.#
 O'BRIEN: Nothing within scanning range, sir.#
 O'BRIEN: I've got something, sir. It's the Jem'Hadar. They've locked onto the tetryon pulse.#
-O'BRIEN: What do you say we find the Karemma and get out of here? Defiant log, supplemental. Damage control teams are repairing the ship's systems and medics are tending to injured crewmembers. We have located the Karemma ship deep in the atmosphere and are moving to assist. It appears that it will have to be abandoned and its crew brought back to Deep Space Nine until transportation can be arranged to the Karemma homeworld.#
+O'BRIEN: What do you say we find the Karemma and get out of here?#
 O'BRIEN: Oh, you can do it in twelve.#
 O'BRIEN: See? You can give them a little of slack, but you can't take your hands off the reins.#
 O'BRIEN: I didn't expect to see you here, Mister Worf.#
@@ -2310,7 +2316,7 @@ O'BRIEN: Nice to see you, Mister Bashir. Now I think we have a little unfinished
 O'BRIEN: Surprised to see me, Mister Bashir?#
 O'BRIEN: Well, you should use something a little more lethal than a champagne cork. Something like this.#
 O'BRIEN: Why not? I've always been a romantic at heart.#
-O'BRIEN: All right, Bashir. That's enough. (Bashir tosses the earring at Falcon and it goes Bang! Bashir takes on one thug and Garak the other as Kira kicks Falcon out cold. )#
+O'BRIEN: All right, Bashir. That's enough.#
 O'BRIEN: It's working just as you planned. You've done it, Doctor.#
 O'BRIEN: What did you do to my ship?#
 O'BRIEN: Twenty-seven. It's unbelievable.#
@@ -2438,6 +2444,7 @@ O'BRIEN: Yeah.#
 O'BRIEN: Oh, cheers.#
 O'BRIEN: No. Nothing at all. Couldn't be happier.#
 O'BRIEN: No, seven months.#
+O'BRIEN:#
 O'BRIEN: The Enterprise was damaged. Keiko and he were trapped together when her time came.#
 O'BRIEN: The thing is, Julian, now that Molly's a little older, I was hoping to being able to spend some time with Keiko again. I thought we could, I don't know, go out at night. Don't get me wrong, I know once I'm hold my little baby in my arms I'll be the happiest man in the world, but I wasn't expecting it to happen so soon. How about a game of darts?#
 O'BRIEN: Yeah.#
@@ -2946,11 +2953,11 @@ O'BRIEN: Help yourself.#
 O'BRIEN: I wouldn't take it personally, Worf.#
 O'BRIEN: Yeah, sort of earthy, peaty aroma.#
 O'BRIEN: Trust me. Next time you see him, just sniff the air and go 'is that lilac?'#
-O'BRIEN: I'm picking up a massive surge in chronoton radiation around (Consoles flicker, the picture goes overexposed in gold then back to normal)#
+O'BRIEN: I'm picking up a massive surge in chronoton radiation around#
 O'BRIEN: Sensors are coming back online.#
 O'BRIEN: We're decloaking!#
 O'BRIEN: I'm picking up another ship dead ahead.#
-O'BRIEN: I think I've got it. (The static clears to reveal a starship with registration number NCC1701, no **** A B C or D)#
+O'BRIEN: I think I've got it.#
 O'BRIEN: Any idea why he brought us back to this point in time?#
 O'BRIEN: So he could be on the Enterprise or the station.#
 O'BRIEN:  Looks good on you, sir.#
@@ -3190,6 +3197,7 @@ O'BRIEN: Nearly ready.#
 O'BRIEN: Ready.#
 O'BRIEN: Someone sabotaged the emitter array.#
 O'BRIEN: Someone sabotaged the emitter array.#
+O'BRIEN: They're still not responding to our hails.#
 O'BRIEN: It's working. I don't believe it. The Dominion ships are turning away from the station. They're laying in a new course.#
 O'BRIEN: Straight for Cardassia.#
 O'BRIEN: I don't know who it was, but they did a pretty thorough job. The emitters had the exact opposite effect to what we'd intended. They were supposed to collapse the wormhole's spatial matrix and close it forever. Instead, they made the matrix even more stable. Not even trilithium explosives could destroy it now.#
@@ -3245,7 +3253,8 @@ O'BRIEN: What's that, five in a row?#
 O'BRIEN: Wait a minute. You haven't been letting me win, have you?#
 O'BRIEN: You said your hand-eye coordination had been genetically enhanced.#
 O'BRIEN: I don't believe it. I don't need you to patronise me. I can play at your level.#
-O'BRIEN: Well play then. Really play. (Bashir throws three quick bull's-eyes. O'Brien collects the darts and takes Bashir back to double the ockey distance.) O'BRIEN: All right. From now on you play from over here. I play from up here. And if that doesn't work, we'll try a blindfold.#
+O'BRIEN: Well play then. Really play.#
+O'BRIEN: All right. From now on you play from over here. I play from up here. And if that doesn't work, we'll try a blindfold.#
 O'BRIEN: Finally. That friend of yours promised to send it two months ago.#
 O'BRIEN: What about me?#
 O'BRIEN: Julian, we know who you play. What about me?#
@@ -3292,9 +3301,10 @@ O'BRIEN: Yes, sir.#
 O'BRIEN: Good afternoon, Commander.#
 O'BRIEN: I'm sorry, sir. The Captain thought I could use a few days leave so I decided to take him up on it.#
 O'BRIEN: Looking after a baby can be a full time job. Here, do me a favour. Just hold him for a minute. I have to get his bottle. He may cry for a bit, but it's okay, there's nothing wrong with him.#
-O'BRIEN: Just be a minute. (Worf holds Yoshi while O'Brien goes into the bedroom. O'Brien comes out with a bottle.)#
+O'BRIEN: Just be a minute.#
 O'BRIEN: The baby. He's not crying. He's not crying!#
 O'BRIEN: Here.#
+O'BRIEN: Message from Cardassia. It's from Gul Dukat.#
 O'BRIEN: He's demanding to speak to you.#
 O'BRIEN: They're hailing us.#
 O'BRIEN: They've locked weapons on the station.#
@@ -3326,7 +3336,7 @@ O'BRIEN: No. A vessel's decloaking fifteen kilometres off the station. It's the 
 O'BRIEN: Yes, sir. And there's an incoming transmission.#
 O'BRIEN: I'm making Molly a dollhouse for her birthday. Thank you. The house itself was easy, but the furniture? Even with a microlathe, I'm not sure I'm going to get it all finished in time.#
 O'BRIEN: Can't we check it out the next time we come this way?#
-O'BRIEN: Quantum fluctuations are intensifying. (Bang! Red Alert. Energy runs over all the consoles and enters Kira. For a moment there are two of her.)#
+O'BRIEN: Quantum fluctuations are intensifying.#
 O'BRIEN: The inertial dampers are offline, and the gyromagnetic stabilisers are depolarised. We're going to be here for a few days.#
 O'BRIEN: You mean Ensign Tannenbaum? From Engineering?#
 O'BRIEN: Molly?#
@@ -3373,7 +3383,7 @@ O'BRIEN: Well, if it makes you feel any better, I promise I will never have you 
 O'BRIEN: Don't mention it. Anything to return the favour. Disarming Cardassian booby traps is my least favourite kind of engineering.#
 O'BRIEN: Welcome aboard, Cadet.#
 O'BRIEN: You've earned it. But one more sir and I'll leave you behind.#
-O'BRIEN: Let's get going. Next stop, Empok Nor. (Later, en route. Garak and Nog are playing a board game. Boq'ta is at helm.)#
+O'BRIEN: Let's get going. Next stop, Empok Nor.#
 O'BRIEN: What is that supposed to mean?#
 O'BRIEN: I'm not a soldier anymore. I'm an engineer.#
 O'BRIEN: What's your point, Garak?#
@@ -3385,7 +3395,8 @@ O'BRIEN: Take us out of warp. Run a full scan. I'll take the helm.#
 O'BRIEN: I'll take us into transporter range.#
 O'BRIEN: That could be messy. We'll have to dock. Landing pads are sealed. We'll have to try an upper pylon.#
 O'BRIEN: Thanks for having us.#
-O'BRIEN: All right, listen up. We're going to break up into three teams. Nog and Stolzoff, you're with me. We're going to do the Must Haves. Pechetti and Amaro, you'll do Could Use. Boq'ta and Garak, Would Be Nice. O'BRIEN: Garak has disabled the central security net, but there could be booby-traps anywhere. Don't move into an area until you've scanned it. If you see something that isn't right, don't touch it. Call for help. All right, let's go.#
+O'BRIEN: All right, listen up. We're going to break up into three teams. Nog and Stolzoff, you're with me. We're going to do the Must Haves. Pechetti and Amaro, you'll do Could Use. Boq'ta and Garak, Would Be Nice.#
+O'BRIEN: Garak has disabled the central security net, but there could be booby-traps anywhere. Don't move into an area until you've scanned it. If you see something that isn't right, don't touch it. Call for help. All right, let's go.#
 O'BRIEN: Coil spanner. Flux-coupler.#
 O'BRIEN: Flux-coupler!#
 O'BRIEN: Go ahead.#
@@ -3438,7 +3449,8 @@ O'BRIEN: No weapons.#
 O'BRIEN: What's that in your hand?#
 O'BRIEN: You first.#
 O'BRIEN: Your turn.#
-O'BRIEN: You're right. I'm an engineer. (He taps his comm. badge, the tricorder triggers the phaser to overload and BOOM! Garak is knocked out by the blast.) O'BRIEN: Are you okay, Nog?#
+O'BRIEN: You're right. I'm an engineer.#
+O'BRIEN: Are you okay, Nog?#
 O'BRIEN: No. I didn't.#
 O'BRIEN: He looks so peaceful. It's hard to believe he's the same man who attacked us.#
 O'BRIEN: Can I talk to him?#
@@ -3483,6 +3495,7 @@ O'BRIEN: Take us to our final set of coordinates.#
 O'BRIEN: If you do, you risk setting off every mine on this ship.#
 O'BRIEN: As soon as you give the word, sir.#
 O'BRIEN: Do we go back for him?#
+O'BRIEN: More Jem'Hadar ships come through the wormhole every week.#
 O'BRIEN: How do we keep them out?#
 O'BRIEN: I guess they got tired of looking at our backs. Three months of bloody slaughter and what have we got to show for it? Not a damn thing. Engage, retreat, engage, retreat. Just once I would've liked to have gotten a look at their backs.#
 O'BRIEN: Sorry, sir. Nothing a little sleep won't cure.#
@@ -3514,7 +3527,7 @@ O'BRIEN: I never thought I'd miss Starfleet field rations. Give me some freeze-d
 O'BRIEN: Till all hours of the night.#
 O'BRIEN: Try it now. Re-route the damned gyrodyne to the damned thruster array.#
 O'BRIEN: Nog, did you re-route the damned gyrodyne?#
-O'BRIEN: Try the lateral impulse thrusters and watch your mouth. (to Dax) Access the auxiliary core through the starboard engineering console.#
+O'BRIEN: Try the lateral impulse thrusters and watch your mouth.  Access the auxiliary core through the starboard engineering console.#
 O'BRIEN: Helm control's gone.#
 O'BRIEN: Sensors are gone. Impulse engines offline. In fact, everything's offline. Emergency power's holding for now.#
 O'BRIEN: I don't know. We must have been hit by some kind of gravitational spike in the#
@@ -3561,7 +3574,7 @@ O'BRIEN: Target locked.#
 O'BRIEN: It's a large Dominion fleet. Twelve hundred and fifty four ships.#
 O'BRIEN: I have a feeling we're going to miss having them.#
 O'BRIEN: Cannon to the right of them, cannon to the left of them, cannon in front of them, volley'd and thunder'd.#
-O'BRIEN: Steady, Ensign. It's just a poem. (Here's the full text, if you need it.)#
+O'BRIEN: Steady, Ensign. It's just a poem.#
 O'BRIEN: Stop worrying about those ships. Focus on your work. That's what I do.#
 O'BRIEN: They're not taking the bait.#
 O'BRIEN: Captain, two squadrons of Cardassian attack ships are breaking formation. They're going after our fighters.#
@@ -3660,7 +3673,7 @@ O'BRIEN: I've locked onto them.#
 O'BRIEN: Transporter room to bridge. We have the survivors on board. Two women.#
 O'BRIEN: I'm sorry, Captain. There's some kind of subspace interference between us and the station. I'll keep trying.#
 O'BRIEN: No, I couldn't understand a word.#
-O'BRIEN: Captain. I'm picking up a signal. It's from Gul Dukat. Ship's log, stardate 51413.6. We have rescued Captain Sisko, but we did not have time to locate Gul Dukat's shuttle. We are now en route to our rendezvous with the troop convoy near the Badlands, and the Captain is recovering in sickbay.#
+O'BRIEN: Captain. I'm picking up a signal. It's from Gul Dukat.#
 O'BRIEN: Evening.#
 O'BRIEN: Was he rescued?#
 O'BRIEN: Huh?#
@@ -3693,7 +3706,7 @@ O'BRIEN: I thought you said we'd return to our normal size once we left the anom
 O'BRIEN: Are you telling me that I'm going to be this bloody tall for the rest of my life?#
 O'BRIEN: In theory.#
 O'BRIEN: Wait. If we're this big, that means the Rubicon is what, this big?#
-O'BRIEN: And the Defiant's aft plasma vent is this big? (double the Rubicon)#
+O'BRIEN: And the Defiant's aft plasma vent is this big?#
 O'BRIEN: Why not? Getting past the anti-backflow valve might be tricky, but once we're inside we've a better chance of attracting someone's attention than we do sitting out here.#
 O'BRIEN: We've just about reached the bi-polar flow junction, I think.#
 O'BRIEN: I'm not used to seeing things from this perspective. Once we reach the flow junction we should be able to go up into the secondary warp plasma feed and then exit via the diagnostic panel.#
@@ -3955,7 +3968,7 @@ O'BRIEN: Too clever.#
 O'BRIEN: What are you talking about?#
 O'BRIEN: Julian, are you telling me that you discussed your love life with a hologram?#
 O'BRIEN: Three things you know nothing about.#
-O'BRIEN: Well then, why are you asking for advice from a light bulb? (Odo watches them hand over the programme rod and take their drinks to a table.)#
+O'BRIEN: Well then, why are you asking for advice from a light bulb?#
 O'BRIEN: Time to get ready for what?#
 O'BRIEN: What picnic? Is that today?#
 O'BRIEN: Oh, well, we'd better get going then.#
@@ -3981,8 +3994,8 @@ O'BRIEN: I'll put in for a transfer. I never want us to be apart again.#
 O'BRIEN: Molly? Molly!#
 O'BRIEN: Molly! Molly!#
 O'BRIEN: Molly, I'm coming.#
-O'BRIEN: Hold on, Molly. Hold on. Daddy's coming. Come on. (O'Brien reaches down over the lip of an artificial hole in the ground. Molly is hanging on by her fingertips above a swirly purple thing.)#
-O'BRIEN: Take my hand. Come on, just take my hand. (Their fingers touch, then Molly falls into the purple, which then vanishes to reveal the empty floor beneath.)#
+O'BRIEN: Hold on, Molly. Hold on. Daddy's coming. Come on.#
+O'BRIEN: Take my hand. Come on, just take my hand.#
 O'BRIEN: Oh, bollocks!#
 O'BRIEN: Maybe you should take him up to the Defiant. It might be too cold in here for him.#
 O'BRIEN: It's going to be all right, Yoshi. It's going to be all right.#
@@ -4000,7 +4013,8 @@ O'BRIEN: We pulled her out ten years too late.#
 O'BRIEN: Yes, but we'll have our Molly back.#
 O'BRIEN: She was so scared I doubt she even got a good look at us.#
 O'BRIEN: It's all right, Molly. We're not going to hurt you.#
-O'BRIEN: Would you like something to eat? I bet you're hungry. Golana melon. Mmm, it's delicious. It's for you. (O'Brien puts the plate on the ground and backs away. Molly comes down and tries the fruit) O'BRIEN: It's good, isn't it?#
+O'BRIEN: Would you like something to eat? I bet you're hungry. Golana melon. Mmm, it's delicious. It's for you.#
+O'BRIEN: It's good, isn't it?#
 O'BRIEN: I think she's trying to figure out who we are. Maybe she remembers looking up at us when she was little.#
 O'BRIEN: That's right. Mommy and Daddy.#
 O'BRIEN: Show it to her.#
@@ -4039,7 +4053,8 @@ O'BRIEN: That's my girl!#
 O'BRIEN: I'll be right back.#
 O'BRIEN: I'll pay for their time if they can wait another half hour.#
 O'BRIEN: All right. Give me a minute.#
-O'BRIEN: Molly, honey, we've got to go. Molly. O'BRIEN: Computer, end programme. We'll come back tomorrow.#
+O'BRIEN: Molly, honey, we've got to go. Molly.#
+O'BRIEN: Computer, end programme. We'll come back tomorrow.#
 O'BRIEN: It's okay, it's okay.#
 O'BRIEN: Molly!#
 O'BRIEN: Molly!#
@@ -4049,7 +4064,8 @@ O'BRIEN: They're going to keep her there, aren't they?#
 O'BRIEN: Molly belongs with Keiko and me. If she's going to make a connection with anybody it's going to be us, not some therapist she doesn't even know.#
 O'BRIEN: Captain, please. Don't let them take her away.#
 O'BRIEN: Molly. Molly.#
-O'BRIEN: Molly, don't. (Molly walks into the forcefield and is thrown back onto the bed. She tries again.) O'BRIEN: No!#
+O'BRIEN: Molly, don't.#
+O'BRIEN: No!#
 O'BRIEN: Turn it off, damn it!#
 O'BRIEN: Molly, Molly.#
 O'BRIEN: She's not going to get that at a special care centre.#
@@ -4084,7 +4100,7 @@ O'BRIEN: Sure.#
 O'BRIEN: No. Why should I be?#
 O'BRIEN: We've had civilians aboard before. It doesn't bother me.#
 O'BRIEN: I'm sorry?#
-O'BRIEN: Hold on a minute. ;#
+O'BRIEN: Hold on a minute.#
 O'BRIEN: Yes! Yes, we can hear you!#
 O'BRIEN: When the fighting first broke out, I thought to myself, all right, O'Brien, you've done this before. Keep your head down, focus on the job, you'll get through this just like you did in the last war. But this war's different. Maybe I'm different. I have this growing sense of isolation. I see people, I talk to them, I laugh with them, and. But part of me is always saying they may not be here tomorrow. Don't get too close. I'm sorry. I'm sorry, I shouldn't be putting this all on your shoulders, Captain.#
 O'BRIEN: I'm sure it's the last thing you need to hear. I should be cheering you up.#
@@ -4142,7 +4158,7 @@ O'BRIEN: Good bye, Julian.#
 O'BRIEN: Can I come in?#
 O'BRIEN: Well, because it's been a long time since we shared one of these.#
 O'BRIEN: Got any glasses?#
-O'BRIEN: Oh well, who needs glasses, hey? Cheers. (swigs from the bottle) Mmm. Warm the cockles.#
+O'BRIEN: Oh well, who needs glasses, hey? Cheers.  Mmm. Warm the cockles.#
 O'BRIEN: Hold on. You call that a visit?#
 O'BRIEN: Come on, Worf. I came to talk.#
 O'BRIEN: Anything you want. Old friends, the Enterprise. Remember what's his name, Lieutenant Barclay?#
@@ -4209,7 +4225,7 @@ O'BRIEN: Gum. It's traditional. I had the replicator create me some.#
 O'BRIEN: No, they infused the gum with flavour.#
 O'BRIEN: Scotch. Here, try some.#
 O'BRIEN: And now he's trying to beat the Captain at his own game.#
-O'BRIEN: Now there's something worth fighting for. Right? (O'Brien puts his hand on the table. Kasidy puts hers on top, then Ezri and the rest.)#
+O'BRIEN: Now there's something worth fighting for. Right?#
 O'BRIEN: Okay, Niners, let's go, let's go, come on. Show these guys.#
 O'BRIEN: What?#
 O'BRIEN: You're right. What are you standing around for? You never seen a man thrown out of a game? Come on, get your gloves and get on that field. Let's go! Come on. Quark, wake up, you're in right. Julian, you're on second, Leeta, you're in left. Come on, let's go, let's go! We got a game to play. Come on, move it.#
@@ -4444,7 +4460,8 @@ O'BRIEN: What's that?#
 O'BRIEN: I didn't know you collected knick-knacks.#
 O'BRIEN: Oh.#
 O'BRIEN: I'm sure she'll like it. It's just I didn't get anything for Keiko.#
-O'BRIEN: You found time to get something. (Odo puts the glass teardrop on it's box. There's another box on the console too.) O'BRIEN: Not chocolates as well?#
+O'BRIEN: You found time to get something.#
+O'BRIEN: Not chocolates as well?#
 O'BRIEN: I'll buy them from you.#
 O'BRIEN: I'll buy them from you. Oh come on, Odo, you don't have to give her two presents. You've only been gone a day.#
 O'BRIEN: There's something behind us.#
@@ -4452,7 +4469,7 @@ O'BRIEN: You think it's friendly?#
 O'BRIEN: It's certainly taken an interest in us.#
 O'BRIEN: Uh oh.#
 O'BRIEN: What?#
-O'BRIEN: Where'd it go? (There's a noise inside the runabout, moving about, then something oozes from a vent.)#
+O'BRIEN: Where'd it go?#
 O'BRIEN: Stay where you are or I'll fire.#
 O'BRIEN: I told you to stay where you are. How do we know he's not a Founder?#
 O'BRIEN: I hate to interrupt, but shouldn't we get him in a containment field until we're sure he's telling the truth?#
@@ -4498,7 +4515,7 @@ O'BRIEN: That's what I was thinking.#
 O'BRIEN: Then the trick is not to get caught.#
 O'BRIEN: Then we're agreed?#
 O'BRIEN: Vic, you want your lounge back or not?#
-O'BRIEN: Better get this out of sight. (The blackboard with the plan of the casino on it goes onto the balcony.)#
+O'BRIEN: Better get this out of sight.#
 O'BRIEN: Otherwise the whole plan falls apart.#
 O'BRIEN: Robbing casinos isn't part of any Starfleet job description I've ever read.#
 O'BRIEN: That was fast.#
@@ -4511,7 +4528,7 @@ O'BRIEN: How come I've only got five bucks on me?#
 O'BRIEN: I'm telling you. This broad ain't playing with a full deck.#
 O'BRIEN: What do you think it means?#
 O'BRIEN: Can I go now?#
-O'BRIEN: Strip search? (O'Brien is led away as Odo and Nog come out of the countroom. Kasidy bursts into tears in the guard's arms to stop him turning around and seeing them.)#
+O'BRIEN: Strip search?#
 O'BRIEN: I don't want to talk about it.#
 O'BRIEN: Cheers.#
 O'BRIEN: Captain Boday?#
@@ -4553,7 +4570,7 @@ O'BRIEN: I can't get anything back online. Somehow they're draining all our powe
 O'BRIEN: Sir, the ablative armour is starting to buckle.#
 O'BRIEN: Without power for the emergency forcefields, there's no way to seal them.#
 O'BRIEN: Captain.#
-O'BRIEN: No one'll argue with that. But like you say, it's time to go. (The pods get away just before a final hit makes the Defiant goes KaBOOM.)#
+O'BRIEN: No one'll argue with that. But like you say, it's time to go.#
 O'BRIEN: Basically we stumbled onto it by accident. At Chin'toka, our entire fleet was disabled when the Breen engaged their energy dampening weapon. Three hundred and eleven ships, Federation, Romulan, and Klingon, all lost power.#
 O'BRIEN: We're not really sure. The only thing we can figure is that just prior to the engagement, their Chief Engineer adjusted the tritium intermix to compensate for a containment problem in the warp core.#
 O'BRIEN: I've sent everything we know about the Breen weapon to the Romulan Ministry of Science and to Starfleet Engineering, but realistically, it's going take be a while before they can figure out a way to protect our ships.#

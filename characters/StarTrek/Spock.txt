@@ -25,7 +25,7 @@ SPOCK: Your move, Captain.#
 SPOCK: I'll have you checkmated your next move.#
 SPOCK: Irritating? Ah, yes. One of your Earth emotions.#
 SPOCK: The fact one of my ancestors married a human female#
-SPOCK: Not large enough even for a lifeboat. KELSO  Small enough to bring it aboard, sir, if you want to risk it.#
+SPOCK: Not large enough even for a lifeboat.#
 SPOCK: More like destroyed the ship in this case. Look at it. Burnt, pitted.#
 SPOCK: He played most illogically. His next move should have been the rook.#
 SPOCK: The tapes are burnt out. Trying the memory banks.#
@@ -109,7 +109,7 @@ SPOCK: About two thousand metric tons.#
 SPOCK: Engine systems coming on, Captain.#
 SPOCK: Tractor beam again.#
 SPOCK: He's sneaked power down a bit.#
-SPOCK: We're superheating. Intermix temperature, seven thousand four hundred degrees. Seven five, seven six, eight thousand degrees. (everything is juddering, the little ship is getting brighter and brighter)#
+SPOCK: We're superheating. Intermix temperature, seven thousand four hundred degrees. Seven five, seven six, eight thousand degrees.#
 SPOCK: Two thousand degrees above maximum. Eight four, eight five, eight six. She'll blow soon!#
 SPOCK: That may not be wise. He got a signal through to the mother ship.#
 SPOCK: For it, Captain?#
@@ -132,7 +132,7 @@ SPOCK: The entire ship's power is feeding through one lithium crystal.#
 SPOCK: And that crystal won't hold up, not pulling all our power through it.#
 SPOCK: There's a lithium mining operation on Rigel 12. High-grade ore, I've heard.#
 SPOCK: Mister Farrell has the course. Less than two day's travel.#
-SPOCK: Rigel 12, Mister Farrell. You have the course. Captain's log, Stardate 1329.2. On board the U.S.S. Enterprise, a ship's hearing is being convened against the transport vessel's captain. I'm becoming concerned about the almost-hypnotic effect produced by the women.#
+SPOCK: Rigel 12, Mister Farrell. You have the course.#
 SPOCK: State your name for the record.#
 SPOCK: Your correct name.#
 SPOCK: State your correct name for the record.#
@@ -153,13 +153,13 @@ SPOCK: Well, our good doctor said that you were acting like a wild man, demanded
 SPOCK: Hmm. Well, in that case, if you'll excuse the intrusion Captain, I'll get back to my work.#
 SPOCK: Captain.#
 SPOCK: Doctor McCoy reports that you demanded this brandy in Sickbay and left with it. I found this bottle in Yeoman Rand's quarters.#
-SPOCK: You can go now, Yeoman.  There's only one logical answer. We have an impostor aboard. Captain's Log, stardate 1672.9. On the planet's surface, temperatures are beginning to drop, our landing party there in growing jeopardy. Due to the malfunction of the ship's transporter, an unexplained duplicate of myself definitely exists.#
+SPOCK: You can go now, Yeoman.  There's only one logical answer. We have an impostor aboard.#
 SPOCK: About your double, Captain.#
 SPOCK: We can't take a chance on killing it. We have no previous experience, no way of knowing what would happen to you.#
 SPOCK: How shall we explain it to them, Captain? The search parties are to capture you?#
 SPOCK: The search parties, Captain.#
 SPOCK: Captain, no disrespect intended, but you must surely realise you can't announce the full truth to the crew. You're the Captain of this ship. You haven't the right to be vulnerable in the eyes of the crew. You can't afford the luxury of being anything less than perfect. If you do, they lose faith, and you lose command.#
-SPOCK: Understood, Captain. Captain's Log, stardate 1673.1. Something has happened to me. Somehow, in being duplicated, I have lost my strength of will. Decisions are becoming more and more difficult.#
+SPOCK: Understood, Captain.#
 SPOCK: About the phaser weapons to be set for stunning force and locked.#
 SPOCK: Thermal heaters were transported down. They duplicated. They won't operate.#
 SPOCK: Spock here.#
@@ -175,7 +175,8 @@ SPOCK: If I seem insensitive to what you're going through, Captain, understand i
 SPOCK: This is Spock, Mister Sulu. You'll have to hold on a little longer. There's no other way. Survival procedures, Mister Sulu.#
 SPOCK: We've attached some bypass and leader circuits to compensate for the difference. Tied directly into the impulse engines, there shouldn't be more than a five point variation in the velocity balance. I suggest we send the animal through. Captain.#
 SPOCK: It's painless and quick. The animal will be unconscious for only a few minutes.#
-SPOCK: Energise. Reverse. SPOCK: The shock of putting him back together seems to have been too much for him.#
+SPOCK: Energise. Reverse.#
+SPOCK: The shock of putting him back together seems to have been too much for him.#
 SPOCK: For once, I agree with you.#
 SPOCK: No autopsy is necessary to know that the animal was terrified, confused. It was split into two halves and suddenly thrust back together again. Thus shock induced by blind terror.#
 SPOCK: It couldn't understand. You can. You have your intelligence controlling your fear.#
@@ -221,19 +222,21 @@ SPOCK: And now they're gone. Is that what you mean?#
 SPOCK: Always in the past tense.#
 SPOCK: Supplies of salt have been set out as bait at all decks and engineering levels, Captain. However, no one or nothing has approached them as yet.#
 SPOCK: Your attitude is laudable, Doctor, but your reasoning is reckless.#
-SPOCK: A very interesting hypothesis, Doctor. Briefing room. SULU  All the halls sealed off. All weapons accounted for and locked away. Security four in effect on every level. Still no lead on intruder.#
+SPOCK: A very interesting hypothesis, Doctor. Briefing room.#
 SPOCK: Recommend we use truth serum, Captain.#
 SPOCK: I'll accompany you, Doctor.#
 SPOCK:  It wasn't McCoy. It was the creature. It hit me. Crater grabbed my phaser. I wondered about McCoy. Doubt had crossed my mind.#
-SPOCK: Fortunately, my ancestors spawned in another ocean than yours did. My blood cells are quite different. [McCoy's quarters]#
+SPOCK: Fortunately, my ancestors spawned in another ocean than yours did. My blood cells are quite different.#
 SPOCK: It's killing the Captain. Shoot it, Doctor, quickly!#
 SPOCK: It's killing the captain! Shoot, quick!#
 SPOCK: This is not Nancy.  If she were Nancy, could she take this?#
 SPOCK: Is that Nancy, Doctor?#
 SPOCK: Something wrong, Captain?#
 SPOCK: Check out the life-support systems.#
-SPOCK: Someone strangled this woman. TORMOLEN The other four are back there. SPOCK: Dead?#
-SPOCK: Engineer at his post? TORMOLEN He's frozen there like he didn't care. SPOCK: The rest?#
+SPOCK: Someone strangled this woman.#
+SPOCK: Dead?#
+SPOCK: Engineer at his post?#
+SPOCK: The rest?#
 SPOCK: Be certain we expose ourselves to nothing. Spock here. Do you read, Enterprise?#
 SPOCK: All station personnel are dead.#
 SPOCK: Unknown, Captain. It's like nothing we've dealt with before.#
@@ -350,7 +353,7 @@ SPOCK: Sweeping the area of Outpost two. Sensor reading indefinite. Double-check
 SPOCK: And showing on my sensors, Captain. At least it's still there.#
 SPOCK: Outpost four disintegrated, Captain.#
 SPOCK: Disappeared. Interesting how they became visible for just a moment.#
-SPOCK: Invisibility is theoretically possible, Captain, with selective bending of light. But the power cost is enormous. They may have solved that problem.#
+SPOCK: Invisibility is theoretically possible, Captain, with selective bending of light. But the power cost is enormous.#
 SPOCK: Blip has changed its heading. And in a very leisurely manoeuvre. They may not be aware of us.#
 SPOCK: His heading is now one eleven mark fourteen. The exact heading a Romulan would take, Jim, for the Neutral Zone and home.#
 SPOCK: I have a fix on it, Captain. I believe I can lock on it, get a picture of their Bridge.#
@@ -362,7 +365,8 @@ SPOCK: Obviously, their weaponry is superior to ours, and they have a practical 
 SPOCK: Or on what this vessel fails to do, Doctor.#
 SPOCK: I agree. Attack.#
 SPOCK: Yes, indeed we do, Mister Stiles. And if Romulans are an offshoot of my Vulcan blood, and I think this likely, then attack becomes even more imperative.#
-SPOCK: It is for them, Doctor. Vulcan, like Earth, had its aggressive colonising period. Savage, even by Earth standards. And if Romulans retain this martial philosophy, then weakness is something we dare not show. SPOCK: Do you want a galactic war on your conscience?#
+SPOCK: It is for them, Doctor. Vulcan, like Earth, had its aggressive colonising period. Savage, even by Earth standards. And if Romulans retain this martial philosophy, then weakness is something we dare not show.#
+SPOCK: Do you want a galactic war on your conscience?#
 SPOCK: A comet, magnitude seven, dead ahead, and the intruder changing course toward it.#
 SPOCK: Quite ordinary. An ionised mass, a trail of frozen vapour particles.#
 SPOCK: It leaves a visible trail.#
@@ -380,7 +384,7 @@ SPOCK: Motion sensor signal stopped.#
 SPOCK: Vessel wreckage. Metal moulds, conduit, plastoform and a body, Captain. However.#
 SPOCK: Insufficient mass, sir.#
 SPOCK: Simple debris. Not a vessel, a trick.#
-SPOCK: Nothing, sir. No motion out there at all. We've lost them, Captain. Captain's log, Stardate 1709.6. We are at the Neutral Zone. Have lost contact with the intruder. No reaction on our motion sensors but believe the Romulan vessel to be somewhere close by; With all engines and systems shut down, the Enterprise is also playing the silent waiting game in hope of regaining contact.#
+SPOCK: Nothing, sir. No motion out there at all. We've lost them, Captain.#
 SPOCK: Captain, I must make further repairs on the transfer coil. It's giving out again.#
 SPOCK: Debris on our scanners.#
 SPOCK: Same type as before, sir, except, one metal-cased object!#
@@ -443,7 +447,7 @@ SPOCK: Empty.#
 SPOCK: Lonely.#
 SPOCK: Empty.#
 SPOCK: Emergency channel D.#
-SPOCK: Keep trying. (Noel hides as guards search for her, and when they go she pulls down the master high voltage switch. A guard grabs her)#
+SPOCK: Keep trying.#
 SPOCK:  Get some security people and follow me down. Energise.#
 SPOCK:  Enterprise, this is Spock. Force field has been eliminated.#
 SPOCK: It was from Van Gelder. He thought you'd like to know the treatment room had been dismantled and the equipment destroyed.#
@@ -483,7 +487,7 @@ SPOCK: The older the victim, the more rapid the progress of the disease.#
 SPOCK: I am a carrier. Whatever happens, I can't go back to the ship, and I do want to go back to the ship, Captain.#
 SPOCK: I presume my calculations are correct.#
 SPOCK: Spock here.#
-SPOCK: Verified, Captain. We have seven days. Captain's Log, supplement. This is the second day of the seven left to us. We've found nothing. Enterprise is standing by with labs and computers ready to assist us.#
+SPOCK: Verified, Captain. We have seven days.#
 SPOCK: Unfortunately, they weren't successful. We've seen the results.#
 SPOCK: No, nothing.#
 SPOCK: Communicators, Captain, they're gone.#
@@ -493,7 +497,7 @@ SPOCK: That's not all, Captain. We've got to find those communicators.#
 SPOCK: We've got to have those communicators, Jim.#
 SPOCK: Without them, it could be a beaker full of death.#
 SPOCK: We must. The vaccine could be fatal.#
-SPOCK: Bickering is pointless. I'll check on the Captain's progress. (Spock leaves. McCoy picks up the hypospray and injects himself, then collapses in agony)#
+SPOCK: Bickering is pointless. I'll check on the Captain's progress.#
 SPOCK: Not yet.#
 SPOCK: He injected himself with the vaccine. He was unconscious when I found him.#
 SPOCK: The blemishes are fading. They're fading. Who will understand the medical mind?#
@@ -523,7 +527,7 @@ SPOCK: Perhaps not. But he was certainly among the most ruthless, to decide arbi
 SPOCK: His history begins almost to the day where Kodos disappeared.#
 SPOCK: He'd better. There were nine eye witnesses who survived the massacre, who'd actually seen Kodos with their own eyes. Jim Kirk was one of them. With the exception of Riley and Captain Kirk, every other eye witness is dead. And my library computer shows that wherever they were, on Earth, on a colony, or aboard ship, the Karidian Company of Players was somewhere near when they died.#
 SPOCK: You've got to pull him through.#
-SPOCK: If he dies, the only one who'll be able to identify Kodos is the Captain. And he'll be the next target. Captain's log, stardate 2819.1. Ship's officer Riley's condition worsening. Doctor McCoy making lab analysis to determine cause and antidote. Entire crew deeply concerned.#
+SPOCK: If he dies, the only one who'll be able to identify Kodos is the Captain. And he'll be the next target.#
 SPOCK: Someone tried to poison him.#
 SPOCK: I don't believe that and neither do you. I want the Captain to see that report.#
 SPOCK: Now.#
@@ -539,7 +543,7 @@ SPOCK: Logic, Captain. Doctor Leighton was murdered while the Karidian Company w
 SPOCK: Shh. Listen. Do you hear it? That low hum.#
 SPOCK: On overload.#
 SPOCK: You can't stay.#
-SPOCK: Evacuate this section. Seal it off. Clear section C4 and C5. (In Kirk's quarters the noise gets louder, and finally he sees the phaser silhouetted against the Red Alert light high in a bulkhead. He gets it, dashes into the corridor and drops it into a convenient pressure waste disposal unit directly opposite. Spock returns in time for the bang that throws them against the opposite wall)#
+SPOCK: Evacuate this section. Seal it off. Clear section C4 and C5.#
 SPOCK: I believe we have a match, Captain.#
 SPOCK: Ready to leave Benecia orbit, Captain.#
 SPOCK: Power up. All instruments activated. All readings normal. All go.#
@@ -574,6 +578,7 @@ SPOCK: Come on, Boma.#
 SPOCK: What was it?#
 SPOCK:  Nothing there.#
 SPOCK: I don't doubt your word.#
+SPOCK:  Folsom Point.#
 SPOCK: There's a remarkable resemblance to the Folsom Point discovered in 1925, old world calendar, New Mexico, North America. A bit more crude about the shaft, I believe. Not very efficient.#
 SPOCK: Am I in error, Mister Boma?#
 SPOCK: Then what, Mister Boma?#
@@ -607,8 +612,8 @@ SPOCK: We'll fire to frighten, Mister Gaetano, not to kill.#
 SPOCK: I am in command, Mister Gaetano. The orders and the responsibility will be mine. Follow me.#
 SPOCK: I hear them. They're directly ahead of us. Several, I believe. Direct your phasers to two o'clock and to ten o'clock.#
 SPOCK: Yes, I know. But fortunately, I'm giving the orders. Take aim please, and fire when I give a signal.#
-SPOCK: Fire.  Cease fire. They should think twice before bothering us again.#
-SPOCK: It was not necessary. Fear will do for us what needs to be done. Mister Boma, you will return with me to the Galileo. Mister Gaetano, you remain on guard here. Keep in contact with the ship. (Boma says a silent goodbye to his colleague, and the noise starts up again)#
+SPOCK: Fire.  Cease fire.  They should think twice before bothering us again.#
+SPOCK: It was not necessary. Fear will do for us what needs to be done. Mister Boma, you will return with me to the Galileo. Mister Gaetano, you remain on guard here. Keep in contact with the ship.#
 SPOCK: Yes, we found them. They won't bother us again.#
 SPOCK: Go, Mister Scott.#
 SPOCK: That's all very well, but we don't have a substitute supply.#
@@ -623,15 +628,17 @@ SPOCK: Most illogical reaction. We demonstrated our superior weapons. They shoul
 SPOCK: Of course.#
 SPOCK: Doctor, I am not responsible for their unpredictability.#
 SPOCK: They're studying us, for the moment.#
-SPOCK: My opinion, Mister Boma. (The shuttlecraft shakes as one of the locals starts battering it with a rock) SPOCK: Seal the windows!#
+SPOCK: My opinion, Mister Boma.#
+SPOCK: Seal the windows!#
 SPOCK: Mister Boma, your tone is increasingly hostile.#
 SPOCK: Curious. Most illogical.#
 SPOCK: Strange. Step by step, I have made the correct and logical decisions. And yet two men have died.#
-SPOCK: I do seem to have miscalculated regarding them, and inculcated resentment on your parts. The sum of the parts cannot be greater than the whole. MCCOY A little less analysis and more action. That's what we need, Mister Spock. SPOCK: How much longer, Mister Scott?#
+SPOCK: I do seem to have miscalculated regarding them, and inculcated resentment on your parts. The sum of the parts cannot be greater than the whole.#
+SPOCK: How much longer, Mister Scott?#
 SPOCK: Mister Scott, how much power do we have left in the ship's batteries?#
 SPOCK: Will they electrify the exterior of this ship?#
 SPOCK: Get to the centre of the ship. Don't touch the plates. Be sure you're insulated. Stand by. Are you ready, Scott?#
-SPOCK: All right. Go. (Scott uses a spanner or something to short out the battery connections) Again! Again!#
+SPOCK: All right. Go.  Again! Again!#
 SPOCK: I believe we've used enough. Mister Scott. I suggest you continue draining the phasers.#
 SPOCK: For the moment.#
 SPOCK: The moment they discover they're not seriously hurt, they'll be back. Meanwhile, please check the aft compartment. See if there's anything you can unload to lighten the ship.#
@@ -644,7 +651,8 @@ SPOCK: And how long can we hold it?#
 SPOCK: To land here again? Not a very attractive possibility.#
 SPOCK: Doctor McCoy. Mister Boma. When can we lift off, Scott?#
 SPOCK: Gentlemen, The ship will lift off in exactly ten minutes. You have that long to bury Mister Gaetano. Now, it appears to be clear outside, at least for the moment. I'll assist you. Hurry.#
-SPOCK: Get into the ship! Immediate lift off! (He throws a spear back, then gets pinned against a rock outcrop by a thrown boulder) SPOCK: No! Go back! Lift off! Go back! No!#
+SPOCK: Get into the ship! Immediate lift off!#
+SPOCK: No! Go back! Lift off! Go back! No!#
 SPOCK: All right, All right! Go! Go! Go! Go!#
 SPOCK: Go, Scott!#
 SPOCK: I told you to lift off!#
@@ -652,7 +660,8 @@ SPOCK: Get us off, Scott!#
 SPOCK: Quite right, Mister Scott. There's somebody holding us down. All systems are go, but we're not moving.#
 SPOCK: Our boosters.#
 SPOCK: Would you rather stay here?#
-SPOCK: May I remind you we have yet to achieve orbit, nor can we maintain it long. An hour from now we may be right back where we started from. (The Galileo leaves the sickly yellow and green atmosphere of the planet) SPOCK: Gentlemen, by coming after me, you may well have destroyed what slim chance you had for survival. The logical thing for you to have done was to have left me behind.#
+SPOCK: May I remind you we have yet to achieve orbit, nor can we maintain it long. An hour from now we may be right back where we started from.#
+SPOCK: Gentlemen, by coming after me, you may well have destroyed what slim chance you had for survival. The logical thing for you to have done was to have left me behind.#
 SPOCK: That is a most illogical attitude. Orbit in one minute, Mister Scott. Fuel status?#
 SPOCK: It is the usual end of a decaying orbit.#
 SPOCK: Infinitely preferable to the kind of death we'd be granted on the planet's surface, I should think.#
@@ -697,7 +706,7 @@ SPOCK: Explain.#
 SPOCK: That is true.#
 SPOCK: Why, thank you, Doctor. I've just won my fourth game.#
 SPOCK: Observe for yourself. Rook to king's pawn four.#
-SPOCK: Now, this is the computer's move. And now mine. (takes the bishop) Checkmate. Mechanically, the computer's flawless. Therefore, logically, its report of the captain's guilt is infallible. I could not accept that, however.#
+SPOCK: Now, this is the computer's move. And now mine.  Checkmate. Mechanically, the computer's flawless. Therefore, logically, its report of the captain's guilt is infallible. I could not accept that, however.#
 SPOCK: Exactly. I programmed it myself for chess some months ago. The best I should have been able to attain was a draw.#
 SPOCK: Transporter room, stand by. We're beaming down.#
 SPOCK: Five in all.#
@@ -716,7 +725,7 @@ SPOCK: Very well, sir.#
 SPOCK: Activate port impulse engines. One third power.#
 SPOCK: Obviously.#
 SPOCK: Eleven years, four months, five days.#
-SPOCK: Captain Pike, may I remain for a moment? (flash, the others leave) You know why I've come, Captain. It's only six days away at maximum warp and I have it well-planned.  I have never disobeyed your orders before, Captain, but this time I must. (flash, flash) I know. I know it is treachery and it's mutiny. but I must do this. I have no choice.#
+SPOCK: Captain Pike, may I remain for a moment?  You know why I've come, Captain. It's only six days away at maximum warp and I have it well-planned.  I have never disobeyed your orders before, Captain, but this time I must.  I know. I know it is treachery and it's mutiny. but I must do this.  I have no choice.#
 SPOCK: I have security clearance, Chief.#
 SPOCK: This is Mister Spock.#
 SPOCK: You will not discuss this with ship's crew or starbase personnel. Do you read?#
@@ -759,7 +768,7 @@ SPOCK: Are coming from Talos Four, sir.#
 SPOCK: The Commodore must be aware that Captain Kirk knew nothing of this.#
 SPOCK: Sir, I respectfully decline.#
 SPOCK: Captain, Jim, please don't stop me. Don't let him stop me. It's your career and Captain Pike's life. You must see the rest of the transmission.#
-SPOCK: They should be sending up a report momentarily, Captain. (Kirk stretches and groans) Something wrong?#
+SPOCK: They should be sending up a report momentarily, Captain.  Something wrong?#
 SPOCK: Doctor McCoy is correct, Captain. After what this ship has been through in the last three months, there is not a crewman aboard who is not in need of rest. Myself excepted, of course.#
 SPOCK: Not necessary in my case, Captain. On my planet, to rest is to rest, to cease using energy. To me, it is quite illogical to run up and down on green grass using energy instead of saving it.#
 SPOCK: Very well, Captain. Something I did come to discuss.#
@@ -797,7 +806,7 @@ SPOCK: The precise meaning of the word desert is a waterless, barren wasteland. 
 SPOCK: Thank you, Doctor McCoy. Moving on schedule into quadrant nine oh four. Beta Six is eight days distant.#
 SPOCK: Unusual, Captain. I'm now getting a sizable space-displacement reading.#
 SPOCK: Inconceivable this body has gone unnoted on all our records.#
-SPOCK: Emergency! Full reverse power! Ship's log Stardate 2124.5. First Officer Spock reporting for Captain James Kirk. We are orbiting the lone unrecorded planet in the star desert. For four hours, we have made every possible instrument sweep, but Captain Kirk and Helmsman Sulu remain unaccounted for. I have placed the ship on red alert.#
+SPOCK: Emergency! Full reverse power!#
 SPOCK: Function is normal. Continuous sensor sweeps. Lieutenant Uhura, have you checked all wave bands?#
 SPOCK: The decision will be mine, Doctor. I have the responsibility for your safety.  Mister Jaeger, describe your geophysical findings for the surface below.#
 SPOCK: Estimate survival time of two unprotected individuals down there.#
@@ -825,8 +834,8 @@ SPOCK: Evidently.#
 SPOCK: Is it ego, or something else?#
 SPOCK: The mirror.#
 SPOCK: You noted yourself he never gets very far from it. I suppose it could be vanity.#
-SPOCK: A machine with the ability to turn energy into matter guided by thought waves. It would have a very complex memory bank, and would be extremely sophisticated. KIRK; Like a computer, only much more. Could the machine that maintains the environment in this immediate area be kept in this house? SPOCK: I think not. A device capable of keeping out this planet's natural atmosphere would be immense.#
-SPOCK: Free, Captain?#
+SPOCK: A machine with the ability to turn energy into matter guided by thought waves. It would have a very complex memory bank, and would be extremely sophisticated.#
+SPOCK: I think not. A device capable of keeping out this planet's natural atmosphere would be immense.#
 SPOCK: Captain.#
 SPOCK: The machine.#
 SPOCK: Can we know his range is, Captain?#
@@ -854,7 +863,8 @@ SPOCK: Sulu is an experienced combat officer.#
 SPOCK: Nor can they at us at the moment. Not unless they moved their original position. That intervening high ground.#
 SPOCK: About one hundred yards in that direction. But after an attack as thorough as this one#
 SPOCK: How is he, Doctor?#
-SPOCK: They're moving. I've got to get to the Captain. (He joins Kirk in the bomb crater, where a grenade launcher is being set up) SPOCK: Locked on to the enemy, Captain. They're moving toward the high ground.  They've locked on to my tricorder.#
+SPOCK: They're moving. I've got to get to the Captain.#
+SPOCK: Locked on to the enemy, Captain. They're moving toward the high ground.  They've locked on to my tricorder.#
 SPOCK: Very ingenious. They fed back my own impulses and built up an overload.#
 SPOCK: Any word from the Enterprise?#
 SPOCK: Very clever. As to the reason?#
@@ -872,8 +882,9 @@ SPOCK: Very clear, Captain.#
 SPOCK: It would appear someone is curious about us.#
 SPOCK: Computer lock ready, Captain. All systems standing by.#
 SPOCK: Same as the alien, Captain.#
-SPOCK: All systems report normal, Captain. No ascertainable damage. KIRK; Then what is it?#
-SPOCK: We're being held in place, Captain, apparently from that solar system. KIRK; This far out? That's impossible. SPOCK: We are being held.#
+SPOCK: All systems report normal, Captain. No ascertainable damage.#
+SPOCK: We're being held in place, Captain, apparently from that solar system.#
+SPOCK: We are being held.#
 SPOCK: No, sir. An unidentifiable power.#
 SPOCK: Have you tried overload?#
 SPOCK: How about bypassing the transformer banks? Feed the impulse engines directly.#
@@ -886,18 +897,20 @@ SPOCK: He's out there, Doctor. Out there somewhere in a thousand cubic parsecs o
 SPOCK: This is the U.S.S. Enterprise calling the Metrons. Our channels are open. Come in, please. We urgently desire a conference. Please answer.#
 SPOCK: But it has happened, Doctor.#
 SPOCK: Yes, indeed, Doctor, if only there were. Notice the substance encrusting that rock. Yes. Unless I'm mistaken, it's potassium nitrate.#
-SPOCK: Perhaps nothing, Doctor. (Kirk tastes the mineral and spits it out) Perhaps everything. (The bridge crew watch as enlightenment dawns and Kirk goes off in#
+SPOCK: Perhaps nothing, Doctor.  Perhaps everything.#
 SPOCK: It may well be possible, Doctor. We know very little about that section of the galaxy.#
 SPOCK: Perhaps. That is something best decided by diplomats.#
-SPOCK: Yes. (They watch as Kirk returns to the bamboo clump and picks out a short, wide stem.) SPOCK: Fascinating. Good. Good. (Kirk cuts vines to length against a rock) He knows, Doctor. He has reasoned it out.#
+SPOCK: Yes.#
+SPOCK: Fascinating. Good. Good.  He knows, Doctor. He has reasoned it out.#
 SPOCK: Yes. Yes.#
 SPOCK: Recall your basic chemistry, Doctor. Gunpowder.#
-SPOCK: If he has the time, Doctor. If he has the time. (The cannon is strengthened with the vine tied around it, and the gunpowder gets rammed home with a small branch. Finally the diamonds go in, and a piece of torn trouser will serve as a fuse, once he can raise a spark from a stone and the translating device. Fire is created as the Gorn approaches him from behind. Seeing the danger, he braces the cannon and fires it. The explosion blows the bamboo apart, and also incapacitates his opponent. Kirk picks up his fallen stone dagger and puts the point to the Gorn's windpipe, but cannot administer the coup de grace.)#
-SPOCK: After you touched off your primitive cannon, Captain, we lost the picture the Metron was sending us. KIRK; You saw what happened down there? SPOCK: Most of it. I would be interested in knowing what finally happened.#
+SPOCK: If he has the time, Doctor. If he has the time.#
+SPOCK: After you touched off your primitive cannon, Captain, we lost the picture the Metron was sending us.#
+SPOCK: Most of it. I would be interested in knowing what finally happened.#
 SPOCK: I've frequently had my doubts.#
-SPOCK: A thousand years, Captain? Well, that gives us a little time.#
+SPOCK: A thousand years, Captain?#
 SPOCK: Very typical, Captain. Iron-silicon base, oxygen-hydrogen atmosphere, largely arid, no discernible life. No surprises.#
-SPOCK: Captain. (Something suddenly rocks the ship. We see a shot of a nebula along with the crew.)#
+SPOCK: Captain.#
 SPOCK: Incredible, Captain.#
 SPOCK: What my instruments read is totally unbelievable, Captain. Twice, for a split second each time, everything within range of our instruments seemed on the verge of winking out.#
 SPOCK: I have given you the facts, Captain. The entire magnetic field in this solar system simply blinked. The planet below, the mass of which we're measuring, attained zero gravity.#
@@ -964,13 +977,13 @@ SPOCK: Whiplash propelled us into a time warp, Captain. Backward. Exact chronome
 SPOCK: Verified. Scanners report some type of craft approaching from below us. Under cloud cover and closing.#
 SPOCK: Positive identification, Captain. Aircraft is an interceptor, equipped with missiles, possibly armed with nuclear warheads. If he hits us with one, he might damage us severely, perhaps beyond our capacity to repair under current circumstances.#
 SPOCK: Captain, this type of aircraft might be too fragile to take our tractor beam.#
-SPOCK: Aircraft is breaking up, Captain. KIRK; Transporter room. Can you lock onto the cockpit of that aircraft?#
+SPOCK: Aircraft is breaking up, Captain.#
 SPOCK: Neither have I.#
 SPOCK: Captain.#
 SPOCK: We've achieved a stable orbit out of Earth's atmosphere. Our deflectors are operative, enough to prevent our being picked up again as a UFO. And Mister Scott wishes to speak to you about the engines.#
 SPOCK: Captain Christopher.#
 SPOCK: We cannot return him to Earth, Captain. He already knows too much about us and is learning more. I do not specifically refer to Captain Christopher, but suppose an unscrupulous man were to gain certain knowledge of man's future? Such a man could manipulate key industries, stocks, and even nations. and in so doing, change what must be. And if it is changed, Captain, you and I and all that we know might not even exist.#
-SPOCK: Yes, sir. {Captain's quarters]#
+SPOCK: Yes, sir.#
 SPOCK: I have investigated it, Captain. To correct the fault will require an overhaul of the entire computer system and a minimum of three weeks at a Starbase.#
 SPOCK: It also has an unfortunate tendency to giggle.#
 SPOCK: We put in at Cygnet Fourteen for general repair and maintenance. Cygnet Fourteen is a planet dominated by women. They seemed to feel the ship's computer system lacked a personality. They gave it one. Female, of course.#
@@ -992,7 +1005,8 @@ SPOCK: You may be correct, Doctor. Open communicator channel.#
 SPOCK: Beam up immediately.#
 SPOCK: We'll know in a moment, Doctor.#
 SPOCK: Spock here. Are you all right, Captain?#
-SPOCK: I don't believe there'll be trouble in that respect, Captain. (The Sergeant still hasn't hardly moved a muscle when McCoy gently takes the gun and communicator out of his hands.) SPOCK: Our guest seems quite satisfied to remain where he is.#
+SPOCK: I don't believe there'll be trouble in that respect, Captain.#
+SPOCK: Our guest seems quite satisfied to remain where he is.#
 SPOCK: Your decision to beam up was quite correct, Mister Sulu.#
 SPOCK: Spock here.#
 SPOCK: Do so now, engineer. We'll need all power to test our theory.#
@@ -1034,7 +1048,8 @@ SPOCK: An underground? How are you organised?#
 SPOCK: Powerful enough to destroy a starship? Affirmative.#
 SPOCK: Captain.#
 SPOCK: Sensor beams, very strong. We're being probed. In this direction.#
-SPOCK: Block them out. SPOCK: Too strong, Captain. Can't be blocked.#
+SPOCK: Block them out.#
+SPOCK: Too strong, Captain. Can't be blocked.#
 SPOCK: Projection, Captain. Unreal.#
 SPOCK: He doesn't hear you, Captain.#
 SPOCK: Where's Doctor McCoy?#
@@ -1043,7 +1058,7 @@ SPOCK: Evidently a maximum security establishment. Are you armed?#
 SPOCK: The natural result of being subjected to a hypersonic.#
 SPOCK: Sound waves. Stronger, they might have killed us. As it was, they merely rendered us unconscious.#
 SPOCK: We shouldn't depend on that happening again, Captain. In a society as well organised as this one seems to be, I cannot conceive of such an oversight going uncorrected. Interesting, however. Their reaction to your defiance was remarkably similar to the reaction of a computer when fed insufficient or contradictory data.#
-SPOCK: Quite human, Captain. It's simply that all the facts are not yet in. There are gaps. (The door opens, and a Lawgiver escorts McCoy and O'Neil in, then leaves them again.)#
+SPOCK: Quite human, Captain. It's simply that all the facts are not yet in. There are gaps.#
 SPOCK: Like Sulu.#
 SPOCK: You've been corrected, Captain. You'd better go.#
 SPOCK: Doctor McCoy, what will happen to him?#
@@ -1067,7 +1082,7 @@ SPOCK: Captain, our Prime Directive of non-interference.#
 SPOCK: Captain.#
 SPOCK: Spock to Enterprise. status report.#
 SPOCK: Report, Scott.#
-SPOCK: Captain. KIRK; All right. About Landru.#
+SPOCK: Captain.#
 SPOCK: Useless, Captain. A projection.#
 SPOCK: A machine. This whole society is a machine's concept of perfection. Peace, harmony.#
 SPOCK: The good of the Body, Captain. That's the key.#
@@ -1102,7 +1117,7 @@ SPOCK: My pleasure, Captain.#
 SPOCK: I understand.#
 SPOCK: An entrance, Captain, but no exit. They go in, but they do not come out.#
 SPOCK: So I would assume.#
-SPOCK: Sir, there's a multi-legged creature crawling on your shoulder. (He neck-pinches him, as the rest just stare. They now have two weapons. Spock rejoins Kirk.)#
+SPOCK: Sir, there's a multi-legged creature crawling on your shoulder.#
 SPOCK: We captured four of their disrupter-type weapons, two complete outfits of male clothing, and perhaps most important of all, one of their communication devices.#
 SPOCK: Not at this time. Its range is restricted in comparison with ours. I may be able to alter its components, but it will take time.#
 SPOCK: Spock to Enterprise, come in.#
@@ -1180,7 +1195,8 @@ SPOCK: Logically, you should all be dead.#
 SPOCK: Emotions are alien to me. I'm a scientist.#
 SPOCK: You've not yet explained the nature of this thing.#
 SPOCK: What you're describing was once known in the vernacular as a happiness pill. And you, as a scientist, should know that that's not possible.#
-SPOCK: Spores? (One of the pink flowers shoots things at him. Spock clutches his head and falls to the ground in pain.) SPOCK: No.#
+SPOCK: Spores?#
+SPOCK: No.#
 SPOCK: No, I can't. Please, don't!#
 SPOCK: I am not like you.#
 SPOCK: I love you. I can love you.#
@@ -1193,7 +1209,7 @@ SPOCK: No, I don't think so.#
 SPOCK: I don't think so, sir.#
 SPOCK: I didn't want to, Jim.#
 SPOCK: There'll be no evacuation, Jim, but perhaps we should go back and get you straightened out.#
-SPOCK: Very well. Come with me. (He takes Leila's hand and leads the group to a clump of the plants, where they all get sprayed with spores.)#
+SPOCK: Very well. Come with me.#
 SPOCK: Mister Sulu understands, don't you, Mister Sulu?#
 SPOCK: I can see the Captain is going to be difficult.#
 SPOCK: Almost the entire ship's complement has beamed down.#
@@ -1234,6 +1250,7 @@ SPOCK: They'll not hear this, of course. It'll be more a sensation of feeling it
 SPOCK: Precisely. It should begin to work on their nerves in a few minutes.#
 SPOCK: Enterprise. Spock here.#
 SPOCK: Just a moment. They're all beginning to call in, Captain. Rather contritely, I should say. Sandoval wishes to speak to you.#
+SPOCK: Poetry, Captain. Non-regulation.#
 SPOCK: I have little to say about it, Captain, except that for the first time in my life I was happy.#
 SPOCK: I'm sure there is an answer. It simply has not yet been discovered.#
 SPOCK: There is no current volcanic activity on this planet, Captain.#
@@ -1262,9 +1279,10 @@ SPOCK: Adjusting my tricorder to register for silicon, Captain. Interesting.#
 SPOCK: A life form, Captain. Bearing one hundred eleven degrees, elevation four degrees.#
 SPOCK: No, sir. Silicon.#
 SPOCK: He never even had a chance to fire, Captain.#
-SPOCK: Captain. KIRK What is it? SPOCK: This tunnel. My readings indicate it was made within the hour. Moments ago, in fact.#
+SPOCK: Captain.#
+SPOCK: This tunnel. My readings indicate it was made within the hour. Moments ago, in fact.#
 SPOCK: Positive.#
-SPOCK: Indeed, Captain. I'm quite at a loss. (Then they turn to see their adversary, and both fire their phasers at it. The shaggy creature shuffles off back into another of its nice circular tunnels and vanishes.)#
+SPOCK: Indeed, Captain. I'm quite at a loss.#
 SPOCK: Disappeared. Astonishing that anything of that bulk could move so rapidly.#
 SPOCK: Indeed. This tunnel was cut within the last two minutes.#
 SPOCK: Readings indicate a maze of tunnels of this general category in that direction.#
@@ -1300,11 +1318,13 @@ SPOCK: Where, Captain?#
 SPOCK: Kill it, Captain, quickly.#
 SPOCK: You don't dare take the chance, Captain.#
 SPOCK: Jim, your life is in danger. You can't take the risk.#
+SPOCK: I remind you it's a proven killer. I'm on my way. Spock out.#
 SPOCK: Fascinating. It's made no moves against you?#
 SPOCK: Yes, I see.#
 SPOCK: Possibly the answer, Captain, but I'm not certain. Captain, you are aware of the Vulcan technique of the joining of two minds.#
 SPOCK: It's possible.#
-SPOCK: I'll try. (He fastens his phaser to his belt and carefully approaches the worried creature. Without touching, he concentrates for a moment and then cries out.) SPOCK: Pain! Pain! Pain!  That's all I got, Captain. Waves and waves of searing pain. It's in agony.#
+SPOCK: I'll try.#
+SPOCK: Pain! Pain! Pain!  That's all I got, Captain. Waves and waves of searing pain. It's in agony.#
 SPOCK: I don't know, Captain. Evidently, it gained an immediate knowledge of us from its empathy with me. In my brief contact with the creature's mind, I discovered it is a highly intelligent, extremely sophisticated animal. In great pain, of course, because of its wound, but not reacting at all like a wounded creature. It calls itself a Horta.#
 SPOCK: Captain, it has no reason to give us the device, and apparently every reason for wishing us off this planet.#
 SPOCK: Jim, I remind you that this is a silicon-based form of life. Doctor McCoy's medical knowledge will be totally useless.#
@@ -1348,7 +1368,7 @@ SPOCK: Vulcan merchants are not uncommon, Captain. It is a practical approach.#
 SPOCK: I am Spock, a dealer in kevas and trillium.#
 SPOCK: Perfectly, Baroner. But it was an interesting experience.#
 SPOCK: Not necessary, Commander. I understand you very well.#
-SPOCK: It should not be underestimated, Captain. It reaches directly into the mind. We Vulcans have certain mental certain disciplines which enable me to maintain a shield. Without those disciplines, there would be no protection.#
+SPOCK: It should not be underestimated, Captain. It reaches directly into the mind. We Vulcans have certain mental  certain disciplines which enable me to maintain a shield. Without those disciplines, there would be no protection.#
 SPOCK: I'm sorry, sir. We did not notice you.#
 SPOCK: Captain, I strongly suggest we direct our energies toward the immediate problem. Accomplishing our mission here.#
 SPOCK: I thought you might.#
@@ -1357,7 +1377,8 @@ SPOCK: Verbal persuasion seems to be ineffective. Perhaps a more direct approach
 SPOCK: You did.#
 SPOCK: A very meritorious idea, Captain.#
 SPOCK: I'm certain the Klingons will provide whatever is necessary. It's a pleasure doing business with you, Mister Spock.#
-SPOCK: With a delayed action fuse. KIRK; Good. SPOCK: These crates contain chemical explosives. They should make a most satisfactory display.#
+SPOCK: With a delayed action fuse.#
+SPOCK: These crates contain chemical explosives. They should make a most satisfactory display.#
 SPOCK: Six, five, four three.#
 SPOCK: Our fleet will eventually arrive. In the meantime, the battle is ours. It can be a successful one.#
 SPOCK: It's no use, Jim. There's no way out.#
@@ -1384,7 +1405,7 @@ SPOCK: You've been most restrained since we left Organia.#
 SPOCK: Captain, it took millions of years for the Organians to evolve into what they are. Even the gods did not spring into being overnight. You and I have no reason to be embarrassed. We did, after all, beat the odds.#
 SPOCK: I believe we'll have them plotted in a few more orbits, Captain.#
 SPOCK: This is of great scientific importance, Captain. We're actually passing through ripples in time.#
-SPOCK: All plotted but one, Captain. Coming up on it now. Seems to be fairly heavy displacement. (And they hit it just as McCoy still has the hypo in his hand, and the jolt results in him injecting it into his own stomach.)#
+SPOCK: All plotted but one, Captain. Coming up on it now. Seems to be fairly heavy displacement.#
 SPOCK: The hypo, Captain.#
 SPOCK: Empty.#
 SPOCK: Confirmed by the library record tapes, Captain. Subjects failed to recognise acquaintances, became hysterically convinced that they were in mortal danger, and were seeking escape at any cost. Extremely dangerous to himself or to anyone else who might#
@@ -1404,14 +1425,14 @@ SPOCK: I was recording images at the time McCoy left. A rather barbaric period i
 SPOCK: There is no alternative.#
 SPOCK: Seconds now, sir. Stand by.#
 SPOCK: And now.#
-SPOCK: It was called Depression, circa 1930. Quite barbaric. (Two women give then curious looks, and Spock hides his ears with his hands.)#
+SPOCK: It was called Depression, circa 1930. Quite barbaric.#
 SPOCK: I'm afraid I'm going to be difficult to explain in any case, Captain.#
 SPOCK: That should prove interesting.#
 SPOCK: Fascinating.#
 SPOCK: Theft, Captain?#
 SPOCK: You were saying you'll have no trouble explaining it.#
 SPOCK: Perhaps the unfortunate accident I had as a child.#
-SPOCK: Oh, yes, it's quite untidy. Here, let me help you. (And a quick neck pinch in front of witnesses, then they grab the clothes and run off. With whistles blowing, they duck down the alley beside the 21st Street Mission and down the stairs to the cellar.)#
+SPOCK: Oh, yes, it's quite untidy. Here, let me help you.#
 SPOCK: Captain, I hardly believe that insults are within your prerogative as my commanding officer.#
 SPOCK: First, I believe we have about a week before McCoy arrives, but we can't be certain.#
 SPOCK: There is a theory. There could be some logic to the belief that time is fluid, like a river, with currents, eddies, backwash.#
@@ -1426,7 +1447,7 @@ SPOCK: Captain, I must have some platinum. A small block would be sufficient, fi
 SPOCK: Captain, you're asking me to work with equipment which hardly very far ahead of stone knives and bearskins.#
 SPOCK: Captain. Captain, in three weeks at this rate, possibly a month, I might reach the first mnemonic memory circuits.#
 SPOCK: I am endeavouring, ma'am, to construct a mnemonic memory circuit using stone knives and bearskins.#
-SPOCK: Captain. Tools for finely detailed work. (Later, a combination padlock is being opened by someone with very sensitive ears.)#
+SPOCK: Captain. Tools for finely detailed work.#
 SPOCK: I needed the fine tools for my radio work. They'd have been returned in the morning.#
 SPOCK: Interesting. Where would you estimate we belong, Miss Keeler?#
 SPOCK: I'll finish with the furnace.#
@@ -1437,7 +1458,7 @@ SPOCK: I've slowed down the recording we made from the time vortex.#
 SPOCK: Bad enough.#
 SPOCK: It would seem unlikely, Jim. A few moments ago, I read a 1930 newspaper article.#
 SPOCK: Or Captain, Edith Keeler will die this year. I saw her obituary. Some sort of traffic accident.#
-SPOCK: Captain, Edith Keeler is the focal point in time we've been looking for, the point that both we and Doctor McCoy have been drawn to.#
+SPOCK: Captain, Edith Keeler is the focal point in time we've been looking for, the point that both we and Doctor McCoy have been drawn to. KIRK: She has two possible futures then, and depending on whether she lives or dies, all of history will be changed. And McCoy#
 SPOCK: Is the random element.#
 SPOCK: Or perhaps he prevents her from being killed. We don't know which.#
 SPOCK: Captain, suppose we discover that in order to set things straight again, Edith Keeler must die?#
@@ -1478,9 +1499,11 @@ SPOCK: It is not life as we know or understand it. Yet t is obviously alive, it 
 SPOCK: Captain, I suggest we risk taking it aboard.#
 SPOCK: No! No!#
 SPOCK:  No, I won't.#
-SPOCK: I must take the ship. (Three of them wrestle him to the floor as Chapel enters and hands a hypo to McCoy.) SPOCK: Down! I must take it down.#
+SPOCK: I must take the ship.#
+SPOCK: Down! I must take it down.#
 SPOCK: Doctor McCoy. Captain.#
-SPOCK: These restraints will no longer be necessary. Nor will your sedatives, Doctor. I'll be able to return to duty. I apologise for my weakness earlier when I tried to take control of the ship. I simply did not understand. What is there to understand, Mister Spock? SPOCK: I am a Vulcan, Doctor. Pain is a thing of the mind. The mind can be controlled.#
+SPOCK: These restraints will no longer be necessary. Nor will your sedatives, Doctor. I'll be able to return to duty. I apologise for my weakness earlier when I tried to take control of the ship. I simply did not understand.#
+SPOCK: I am a Vulcan, Doctor. Pain is a thing of the mind. The mind can be controlled.#
 SPOCK: It is proving to be an inconvenience, but it is manageable. And the creature, with all of its thousands of parts, even now is pressuring me.  It wants this ship, but I am resisting.#
 SPOCK: I have my own will, Captain. Let me help.#
 SPOCK: I am a Vulcan. I am a Vulcan. There is no pain.#
@@ -1491,7 +1514,7 @@ SPOCK: Until the pain was gone, Captain. It has been discontinued by me.#
 SPOCK: One of the creatures will have to be captured and analysed, Captain. We did not have a clear opportunity to do so earlier when I was attacked. Since my nervous system is already affected, as you pointed out, Doctor, I don't believe they can do much more to me.#
 SPOCK: I am in complete control of myself, Doctor. The fact that I am here proves that I do not belong in bed.#
 SPOCK: Thank you, Captain.#
-SPOCK: Come in, gentlemen. I believe you'll find this interesting. Doctor, your medical skill and curiosity are quite admirable, but I assure you I'm all right.#
+SPOCK: Come in, gentlemen. I believe you'll find this interesting.  Doctor, your medical skill and curiosity are quite admirable, but I assure you I'm all right.#
 SPOCK: Unimportant at the moment, Doctor. Please observe. Interesting, gentlemen. A one-celled creature resembling, more than anything else, a huge, individual brain cell.#
 SPOCK: Do you understand what I'm suggesting, Captain?#
 SPOCK: And although it is not physically connected to the other cells, it is nevertheless part of the whole creature, guided by the whole, drawing its strength from the whole, which probably accounts for its unusual resistance to our phaser weapons.#
@@ -1538,7 +1561,8 @@ SPOCK: Demons in animal forms sent by Satan to serve the wizard.#
 SPOCK: I do not create the legend, Captain. I merely report it.#
 SPOCK: Ingenious.#
 SPOCK: Mind probing? Hypnosis?#
-SPOCK: Telepathy? SPOCK: Not entirely, no. Telepathy doesn't imply control and I assure you that I have full control over your friends.#
+SPOCK: Telepathy?#
+SPOCK: Not entirely, no. Telepathy doesn't imply control and I assure you that I have full control over your friends.#
 SPOCK: Twenty two minutes, seventeen seconds.#
 SPOCK: I'm sure we'll find out shortly. Jim, all of these things that we've seen. To an Earthman like yourself, they must seem quite familiar.#
 SPOCK: Precisely. I refer you to the psychological theory of the racial subconscious. The universal myths, symbols.#
@@ -1546,23 +1570,24 @@ SPOCK: And dungeons and castles and black cats. They all belong to the twilight 
 SPOCK: And they missed. They reached basically only the subconscious. Korob seemed puzzled by your reaction to the environment he'd provided.#
 SPOCK: And not to have a knowledge of our scientific methods is most unlikely for any life form we've met in this galaxy.#
 SPOCK: Evidently something totally alien in all respects.#
-SPOCK: I, too, am at a loss at this time to suggest a course of action. (The door opens and McCoy enters with Scott and Sulu. He has been zombified. Sulu unchains Kirk.)#
+SPOCK: I, too, am at a loss at this time to suggest a course of action.#
 SPOCK: You came in a ship?#
 SPOCK: Fascinating.#
 SPOCK: Racial memories. The cat is the most ruthless, most terrifying of animals, as far back as the sabre-toothed tiger.#
 SPOCK: Ready when you are, Captain.#
 SPOCK: Quickly, Captain.#
-SPOCK: Captain, a bit more alacrity, if you please. (Kirk uses a bed frame as a trampoline to help him reach the hole, and Spock pulls him the rest of the way.)#
-SPOCK: Captain. (McCoy arrives to take a swing at them with a morning-star. Kirk fights with him as Spock takes on Scott. Kirk knocks McCoy out.)#
+SPOCK: Captain, a bit more alacrity, if you please.#
+SPOCK: Captain.#
 SPOCK: Jim!#
-SPOCK: Fortuitous, Captain. And now that we have them all together? A most unpleasant situation, Captain. If only your phaser had some power.#
+SPOCK: Fortuitous, Captain. And now that we have them all together?  A most unpleasant situation, Captain. If only your phaser had some power.#
 SPOCK: Don't let her touch the wand, Captain.#
 SPOCK: Jim!#
 SPOCK: Fascinating. A life form totally alien to our galaxy. If we could preserve and study this#
 SPOCK: We have reached projected point three, Captain. Adjust to new course two oh one mark one five.#
 SPOCK: Captain.#
 SPOCK: Will you check your automatic scanner, please?#
-SPOCK: Nor have I. (They lower the central shutter to view the approaching swirly flashing thing.) SPOCK: Heading directly toward us at warp speed.#
+SPOCK: Nor have I.#
+SPOCK: Heading directly toward us at warp speed.#
 SPOCK: Vaguely like a cloud of ionised hydrogen, but with strong erratic electrical impulses.#
 SPOCK: Helm does not answer, Captain.#
 SPOCK: Cut, Captain.#
@@ -1579,7 +1604,7 @@ SPOCK: You say we'll be unable to get the ship to function again?#
 SPOCK: You don't mind if we continue to try?#
 SPOCK: You built this, Mister Cochrane?#
 SPOCK: Not bad.#
-SPOCK: Captain, Doctor. (From the doorway, the three see a swirly thing which then disappears. Cochrane comes in with a tray of drinks.)#
+SPOCK: Captain, Doctor.#
 SPOCK: We imagined nothing, Mister Cochrane. There was an entity out there and I suspect it was the same entity which brought us here. Please explain.#
 SPOCK: You were injured?#
 SPOCK: I prefer to reserve judgment on that part of your story, sir. Meanwhile, would you please explain exactly what this Companion of yours is?#
@@ -1626,7 +1651,7 @@ SPOCK: The walls get higher and narrower, but there is a way out.#
 SPOCK: There is enough loose rock and shale.#
 SPOCK: Only a very slight chance it would work.#
 SPOCK: Captain, I didn't say that exactly.#
-SPOCK: The sound beams should produce a sympathetic vibration on the weak area of that slide. (The party is led by Maab, who senses something is wrong but keeps coming forward until the rock face explodes. Kras hides but other Capellans are crushed by the falling boulders. When the dust starts to clear, Kras takes the Federation phasers from a wounded Capellan then kills him with his own knife. The remaining members of the posse move on.)#
+SPOCK: The sound beams should produce a sympathetic vibration on the weak area of that slide.#
 SPOCK: There would seem to be little weapon potential at hand.#
 SPOCK: Fortunately, this bark has suitable tensile cohesion.#
 SPOCK: I believe I said that.#
@@ -1634,14 +1659,14 @@ SPOCK: I would rather, I would rather not. Thank you.#
 SPOCK: That should prove very interesting.#
 SPOCK: The child?#
 SPOCK: Virtue is a relative term, Doctor. She'll head straight to the warriors.#
-SPOCK: Here, Captain. Over here, Captain. (into communicator as Kirk joins him.) Spock to Enterprise.#
+SPOCK: Here, Captain. Over here, Captain.  Spock to Enterprise.#
 SPOCK: If by that you mean we can't expect help from the Enterprise, I must agree.#
 SPOCK: The Klingon?#
 SPOCK: Revenge, Captain?#
 SPOCK: Oochy-woochy coochy-coo, Captain?#
 SPOCK: Well, at any rate, this should prove interesting.#
 SPOCK: When the woman starts explaining how the new high teer is actually Doctor McCoy's child.#
-SPOCK: Nor does Doctor McCoy. Oochy-woochy coochy-coo. Oochy-woochy coochy-coo.#
+SPOCK: Nor does Doctor McCoy.#
 SPOCK: The child's regent?#
 SPOCK: The child was named Leonard James Akaar?#
 SPOCK: I think you're both going to be insufferably pleased with yourselves for at least a month, sir.#
@@ -1690,7 +1715,7 @@ SPOCK: No. Nothing of that nature, Captain.#
 SPOCK: No! I must. I wish to take my leave on Vulcan.#
 SPOCK: I need rest. I'm asking you to accept that answer.#
 SPOCK: Thank you, Captain.#
-SPOCK: No.  We're not. Captain's log, stardate 3372.7. On course, on schedule, bound for Altair Six via Vulcan. First Officer Spock seems to be under stress. He has requested and been granted shore leave. Ship surgeon McCoy has him under medical surveillance.#
+SPOCK: No.  We're not.#
 SPOCK: I quite understand, Captain.#
 SPOCK: Changed the course?#
 SPOCK: No. No, by no means, Captain. It is quite possible.#
@@ -1723,7 +1748,7 @@ SPOCK: T'Pring, parted from me and never parted, never and always touching and t
 SPOCK: She is T'Pring. My wife.#
 SPOCK: This is the land of my family. It has been held by us for more than two thousand Earth years. This is our place of Koon-ut-kal-if-fee,#
 SPOCK: The marriage party approaches. I hear them.#
-SPOCK: By our parents' arrangement. A ceremony while we were but seven years of age. Less than a marriage but more than a betrothal. One touches the other in order to feel each other's thoughts. In this way our minds were locked together, so that at the proper time, we would both be drawn to Koon-ut-kal-if-fee. (A jingling sound gets louder, and Spock strikes the gong again. Two men enter shaking contraptions with lots of bells, followed by a woman carried on a chair. T'Pring and others come behind her.)#
+SPOCK: By our parents' arrangement. A ceremony while we were but seven years of age. Less than a marriage but more than a betrothal. One touches the other in order to feel each other's thoughts. In this way our minds were locked together, so that at the proper time, we would both be drawn to Koon-ut-kal-if-fee.#
 SPOCK: They are not outworlders. They are my friends. I am permitted this.#
 SPOCK: This is Kirk.#
 SPOCK: With my life, T'Pau.#
@@ -1731,7 +1756,7 @@ SPOCK: T'Pau.#
 SPOCK: My friend does not understand.#
 SPOCK: He does not know. I will do what I must, T'Pau, but not with him! His blood does not burn. He is my friend!#
 SPOCK: I burn, T'Pau. My eyes are flame. My heart is flame. Thee has the power, T'Pau. In the name of my fathers, forbid. Forbid! T'Pau. I plead with thee! I beg!#
-SPOCK: Yes. I'll follow you up in a few minutes. You will instruct Mister Chekov to plot a course for the nearest Starbase where I must surrender myself to the authorities. (the sound of a transporter off screen) T'Pring. Explain.#
+SPOCK: Yes. I'll follow you up in a few minutes. You will instruct Mister Chekov to plot a course for the nearest Starbase where I must surrender myself to the authorities.  T'Pring. Explain.#
 SPOCK: Why the challenge, and why you chose my captain as your champion.#
 SPOCK: I see no logic in preferring Stonn over me.#
 SPOCK: Logical. Flawlessly logical.#
@@ -1740,7 +1765,8 @@ SPOCK: I shall do neither. I have killed my captain and my friend. Energize.#
 SPOCK: Doctor, I shall be resigning my commission immediately, of course.#
 SPOCK: So I would appreciate your making the final arrangements.#
 SPOCK: Doctor, please, let me finish. There can be no excuse for the crime of which I'm guilty. I intend to offer no defence. Furthermore, I shall order Mister Scott to take immediate command of this vessel.#
-SPOCK: Captain! Jim! (There's a big, big grin across his face, which fades when McCoy and Chapel's own smiles are noticed) SPOCK: I'm pleased to see you, Captain. You seem uninjured. I am at something of a loss to understand it, however.#
+SPOCK: Captain! Jim!#
+SPOCK: I'm pleased to see you, Captain. You seem uninjured. I am at something of a loss to understand it, however.#
 SPOCK: Indeed.#
 SPOCK: Ah, yes, the girl. Most interesting. It must have been the combat. When I thought I had killed the captain, I found I had lost all interest in T'Pring. The madness was gone.#
 SPOCK: Merely my quite logical relief that Starfleet had not lost a highly proficient captain.#
@@ -1762,7 +1788,8 @@ SPOCK: She was attacked by what appears to be essentially a robot, an automated 
 SPOCK: Unknown, Captain. However, Mister Sulu has computed the path of the machine, using the destroyed solar systems as a base course. Projecting back on our star charts, we find that it came from outside, from another galaxy.#
 SPOCK: If it follows its present path, it will go through the most densely populated section of our galaxy.#
 SPOCK: It came up on us fast, Captain, but we seem able to maintain our distance.#
-SPOCK: It looks very much like Commodore Decker's planet killer. And it is pursuing us. (The viewscreen now shows it head-on. A round opening with a small sun partway down the gullet.) SPOCK: We are more manoeuvrable, but it is gaining on us. Sensors indicate some kind of total conversion drive.#
+SPOCK: It looks very much like Commodore Decker's planet killer. And it is pursuing us.#
+SPOCK: We are more manoeuvrable, but it is gaining on us. Sensors indicate some kind of total conversion drive.#
 SPOCK: I would say none, Captain. The energy generated by our power nacelles seems to attracts it. I doubt we could manoeuvre close enough without drawing a direct attack upon ourselves.#
 SPOCK: Closing, Captain.#
 SPOCK: Evasive action, Mister Sulu.#
@@ -1853,7 +1880,8 @@ SPOCK: Humans and humanoids make up only a small percentage of the life forms we
 SPOCK: In the strict scientific sense, Doctor, we all feed on death. Even vegetarians.#
 SPOCK: Which would tend to support the proposition that the murderer was not human. Deriving sustenance from emotion is not unknown in the galaxy, and fear is among the strongest and most violent of the emotions.#
 SPOCK: Computer, digest log recordings for past five solar minutes. Correlate hypotheses. Compare with life forms register. Question. Could such an entity within discussed limits exist in this galaxy?#
-SPOCK: Computer, extrapolate most likely composition of such entity. SPOCK: Working. To meet with specified requirements, entity would exist without form in conventional sense. Most probable mass of energy of highly cohesive electromagnetic field.#
+SPOCK: Computer, extrapolate most likely composition of such entity.#
+SPOCK: Working. To meet with specified requirements, entity would exist without form in conventional sense. Most probable mass of energy of highly cohesive electromagnetic field.#
 SPOCK: I point out that Jack the Ripper slew at will in the heart of the most populous city of old Earth and was never identified.#
 SPOCK: I suggest the possibility of a hypnotic screen, which blinds all but the victim to the presence of the killer.#
 SPOCK: And I suspect preys on women because women are more easily and more deeply terrified, generating more sheer horror than the male of the species.#
@@ -1889,7 +1917,7 @@ SPOCK: Temporarily, Captain. Our shields absorbed energy equivalent to ninety of
 SPOCK: I may add, the energy used repulsing this first attack reduced our shielding power twenty percent.#
 SPOCK: We can resist three more such attacks. The fourth will shatter our shields completely.#
 SPOCK: Approximately warp fifteen, Captain.#
-SPOCK: Unknown, Captain. Nothing within sensor range. (a third bolt approaching) Something now, Captain. Very small. Bearing one two three degrees, mark one eight. Range ninety thousand kilometres.#
+SPOCK: Unknown, Captain. Nothing within sensor range.  Something now, Captain. Very small. Bearing one two three degrees, mark one eight. Range ninety thousand kilometres.#
 SPOCK: No, sir. Holding steady.#
 SPOCK: No effect. Target absorbed full energy of our torpedo.#
 SPOCK: They are in good working order, Captain.#
@@ -1916,7 +1944,7 @@ SPOCK: True.#
 SPOCK: Presumed destroyed by a meteor collision. I submit that it was badly damaged and somehow managed to repair itself.#
 SPOCK: This is the creator of Nomad, perhaps the most brilliant though erratic scientist of his time. His dream was to build a perfect thinking machine, capable of independent logic. You recall his name.#
 SPOCK: Yes. Similar. Captain, I believe that Nomad thinks you are Roykirk. That may well be why the attack was broken off. It responded to your name as well as its damaged memory banks permitted.#
-SPOCK: Essentially it is, Doctor. I believe that more happened to it than just damage in the meteor collision. It mentioned the other. The unanswered question is, the other what? Nomad was a thinking machine, the best that could be engineered. It was a prototype.#
+SPOCK: Essentially it is, Doctor. I believe that more happened to it than just damage in the meteor collision. It mentioned the other. The unanswered question is, the other what?#
 SPOCK: Precisely, Doctor. And somehow that programming has been changed. It would seem that Nomad is now seeking out perfect life-forms, perfection being measured by its own relentless logic.#
 SPOCK: Captain, Mister Singh reports that Nomad is no longer in the auxiliary control room.#
 SPOCK: That unit is a woman.#
@@ -1938,13 +1966,13 @@ SPOCK: Fascinating, Captain. The knowledge. The depth.#
 SPOCK: It was, it was damaged in deep space. Undoubtedly, the meteor collision. Its memory banks were destroyed, or most of them. It wandered without purpose, and then it met the other. The other was an alien probe of great power. Somehow they merged, repaired each other, became one.#
 SPOCK: Not the Nomad we lost from Earth. It took from the other a new directive to replace its own. The other was originally programmed to secure and sterilise soil samples from other planets, probably as a prelude to colonisation.#
 SPOCK: I beg your pardon?#
-SPOCK: And that is the only thing that has saved us until now. Yes. (They leave. Nomad flies through the forcefield. The two guards fire their phasers at it but it's screens are back up. Nomad zaps them into oblivion.)#
+SPOCK: And that is the only thing that has saved us until now.#
 SPOCK: Captain. I've examined the brig. The forcefield door on the security cell is damaged and the guards have vanished. I must assume they are dead.#
 SPOCK: I suspect it is about to re-evaluate its creator. Captain, it may have been unwise to admit to Nomad that you are a biological unit. In Nomad's eyes, you must now undoubtedly appear imperfect.#
 SPOCK: Even worse. Nomad just now made a reference to its launch point, Earth.#
 SPOCK: I do not believe there is much beyond Nomad's capabilities.#
 SPOCK: It will find the Earth infested with imperfect biological units.#
-SPOCK: No response. (The doors open and Nomad comes out.#
+SPOCK: No response.#
 SPOCK: Since it specifically examined your history, I suggest it has completed its re-evaluation.#
 SPOCK: Undoubtedly.#
 SPOCK: Your logic was impeccable, Captain. We are in grave danger.#
@@ -1966,7 +1994,7 @@ SPOCK: Interesting. Extremely low specific gravity, some uraninite, hornblende, 
 SPOCK: Obviously highly unstable, Captain. This could be a find of some importance. In large quantities, it could be a considerable source of power.#
 SPOCK: If Scott is correct about the force from the surface, it may have to do with the vibrations I read earlier.#
 SPOCK: If so, an immense one. Probably subterranean.#
-SPOCK:  Jim! (He pushes the Captain and McCoy out of the way, but takes the thorns in his own chest.)#
+SPOCK:  Jim!#
 SPOCK: Doctor McCoy's potion is acting like all his potions, turning my stomach. Other than that, I am quite well.#
 SPOCK: I surmised you were unaware of that plant, so I#
 SPOCK: I assure you, Captain, I had no intention of doing that. It was merely my own clumsiness prevented me which prevented me from moving out of the way.#
@@ -2008,7 +2036,7 @@ SPOCK: Force field, Captain.#
 SPOCK: Variation in impulses, Captain. I believe it is reading us. A strong jump on all wavelengths.#
 SPOCK: Doctor, you have an unsurpassed talent for understatement.#
 SPOCK: The good doctor was concerned that the Vaalians achieved true human stature. I submit there is no cause for worry. They've taken the first step. They've learned to kill.#
-SPOCK: Readings are getting weaker, Captain. Wide variation in energy transmissions, as though Vaal were trying to draw on other sources.#
+SPOCK: Readings are getting weaker, Captain. Wide variation in energy transmissions, as though Vaal were trying to draw on other sources. KIRK: Tapping its energy cells.#
 SPOCK: I would assume so.#
 SPOCK: If it had to reinforce its energy field to ward off a phaser attack, it would have to draw more heavily on its reserves.#
 SPOCK: A tremendous upsurge in generated power, Captain. Obviously Vaal is trying to reinforce his energy field.#
@@ -2048,7 +2076,7 @@ SPOCK: Captain, I am pleased that you frustrated Mister Chekov's plan. I should 
 SPOCK: I do not desire the captaincy. I much prefer my scientific duties. I am frankly content to be a lesser target.#
 SPOCK: The agony booth is a most effective means of discipline. I presume you've ordered full duration.#
 SPOCK: Indeed. His act warrants death.#
-SPOCK: That is, of course, your affair. Captain, may I inquire if you intend to persist in your unusual course of action regarding the Halkans? (They continue walking. Farrell joins Spock's personal guard walking behind his master.)#
+SPOCK: That is, of course, your affair. Captain, may I inquire if you intend to persist in your unusual course of action regarding the Halkans?#
 SPOCK: They are, of course, in contradiction to standard Empire procedure. You cannot ignore the consequences.#
 SPOCK: I do not threaten, Captain. I merely state facts. I have found you to be an excellent officer. Our missions together have been both successful and profitable. However, I shall not permit your aberrations to jeopardise my position.#
 SPOCK: Terror must be maintained or the Empire is doomed. It is the logic of history.#
@@ -2057,7 +2085,7 @@ SPOCK: I'm aware of that, Captain. I trust that you are aware of the reverse.#
 SPOCK: Mister Spock, Captain.#
 SPOCK: I have received a private communication from Starfleet Command. I am committing a breach of regulations by informing you of its contents.#
 SPOCK: I am instructed to wait until planet dawn over principal target to permit you to carry out our mission.#
-SPOCK: In that event, I am ordered to kill you and to proceed against the Halkans as the new captain of the Enterprise. Captain's log, stardate unknown. We are trapped in a savage, parallel universe from which we must escape within four hours, or I will face a death sentence at Mister Spock's hands.#
+SPOCK: In that event, I am ordered to kill you and to proceed against the Halkans as the new captain of the Enterprise.#
 SPOCK: Computer?#
 SPOCK: Explain computer activity in the engineering section.#
 SPOCK: Who is conducting the research?#
@@ -2069,7 +2097,7 @@ SPOCK: Please restrict your movements, Captain.#
 SPOCK: I shall make that decision. Since your return from the planet, you've behaved in a most atypical and illogical manner. I want to know why.#
 SPOCK: I shall not waste time with you. You're too inflexible, too disciplined once you've made up your mind. But Doctor McCoy has a plenitude of human weaknesses, sentimental, soft. You may not tell me what I want to know, but he will.#
 SPOCK: I have the phaser, Captain, and I do not intend to simply disappear as so many of your opponents have in the past. If you please. Sickbay.#
-SPOCK: Yes, of course. The entire landing party. Captain, stand over there. Doctor, it is time for answers. (Kirk knocks the phaser out of Spock's hand, and he and Scott try to fight him. Even Uhura gets pushed around. Finally, she hands Kirk a skull and he smashes it over Spock's head. He falls, unconscious.)#
+SPOCK: Yes, of course. The entire landing party. Captain, stand over there. Doctor, it is time for answers.#
 SPOCK:  Why did the captain let me live?#
 SPOCK: Our minds are merging, Doctor. Our minds are one. I feel what you feel. I know what you know.#
 SPOCK: I cut the transporter power. It was necessary to delay your beam-out until I could arrive. Take him.#
@@ -2089,7 +2117,7 @@ SPOCK: Indeed, gentlemen. May I point out that I had an opportunity to observe y
 SPOCK: You've met her before, Captain?#
 SPOCK: Your reaction, One of recognition.#
 SPOCK: Our arrival was scheduled well in advance, Doctor. The annual check of every scientific expedition is routine.#
-SPOCK: Quite impossible, Doctor. I ran a personnel check on this expedition before we beamed down. I assure you that none of them were (He is interrupted by the entrance of an old man and woman.#
+SPOCK: Quite impossible, Doctor. I ran a personnel check on this expedition before we beamed down. I assure you that none of them were#
 SPOCK: Sensors reveal nothing which is inimical to human life. The atmosphere screens out the usual amount of harmful cosmic rays.#
 SPOCK: I have already begun investigation into that possibility, Captain.#
 SPOCK: I've rechecked the sensors, Captain. Gamma Hydra Four checks out as a Class M planet with a conventional oxygen-nitrogen atmosphere and normal mass. I can find nothing at all out of the ordinary.#
@@ -2235,7 +2263,7 @@ SPOCK: Misuse of the Priority One channels is a Federation offence.#
 SPOCK: It would seem a logical precaution, Captain. The Sherman's Planet affair is of extreme importance to the Federation.#
 SPOCK: Nevertheless Captain, the Klingons would not enjoy seeing us successfully develop Sherman's Planet.#
 SPOCK: But not totally unexpected.#
-SPOCK:  A most curious creature, Captain. Its trilling seems to have a tranquillising effect on the human nervous system. Fortunately, of course, I am immune to its effect. (Everyone stares, he suddenly realises what he is doing, and puts it down. Spock and Kirk leave.)#
+SPOCK:  A most curious creature, Captain. Its trilling seems to have a tranquillising effect on the human nervous system. Fortunately, of course, I am immune to its effect.#
 SPOCK: Captain, may I ask where you'll be?#
 SPOCK: There's something disquieting about these creatures.#
 SPOCK: Don't be insulting, Doctor. They remind me of the lilies of the field. They toil not, neither do they spin. But they seem to eat a great deal. I see no practical use for them.#
@@ -2279,8 +2307,8 @@ SPOCK: Fascinating. This atmosphere is remarkably similar to your twentieth cent
 SPOCK: Yes, I believe that was the term. I had no idea you were that much of a historian, Doctor.#
 SPOCK: Then the Prime Directive is in full force, Captain?#
 SPOCK: I fail to see the humour in that situation, Doctor.#
-SPOCK: Complete Earth parallel. The language here is English. (Kirk tries to go for his phaser, and another shot hits the ground near his feet.)#
-SPOCK: There would seem to be evidence to that effect. (Four men appear from behind rocks. They are wearing t-shirts with a short chain motif at the neck. The leader is barefoot and wearing shorts.)#
+SPOCK: Complete Earth parallel. The language here is English.#
+SPOCK: There would seem to be evidence to that effect.#
 SPOCK: I call them ears.#
 SPOCK: Never. Colloquial twentieth-century English. An amazing parallel.#
 SPOCK: Sir, we came here looking for some friends, forty seven of them who were stranded here some six years ago. They wore clothing similar to ours. Have you heard of such men?#
@@ -2298,7 +2326,7 @@ SPOCK: They do seem to have escaped the carnage of your first three world wars, 
 SPOCK: Situations quite familiar to the six million who died in your first world war, the eleven million who died in your second, the thirty seven million who died in your third. Shall I go on?#
 SPOCK: Quite correct.#
 SPOCK: I tell you I'm well able to defeat you.#
-SPOCK: I do not want to injure you. (The cat-calls and hisses are amplified. Flavius gets a taste of the whip.)#
+SPOCK: I do not want to injure you.#
 SPOCK: Need any help, Doctor?#
 SPOCK: Such emotions are foreign to me, Doctor. I'm merely testing the strength of the door.#
 SPOCK: Doctor, I am seeking a means of escape. Will you please be brief?#
@@ -2309,7 +2337,7 @@ SPOCK: What did they do to you?#
 SPOCK: I wish we could have examined that belief of his more closely. It seems illogical for a sun worshiper to develop a philosophy of total brotherhood. Sun worship is usually a primitive superstition religion.#
 SPOCK: It will replace their imperial Rome, but it will happen in their twentieth century.#
 SPOCK: Vulcan honours us with your presence. We come to serve.#
-SPOCK: Captain, Ambassador Sarek and his wife are my parents. Captain's log, Stardate 3842.3. We have departed Vulcan for the neutral planetoid code-named Babel. Since it is in our sector, the Enterprise has been assigned to transport ambassadors of Federation planets to this vitally important council. The issues of the council are politically complex, the passengers explosive.#
+SPOCK: Captain, Ambassador Sarek and his wife are my parents.#
 SPOCK: Humans smile with so little provocation.#
 SPOCK: The situation between my father and myself has not changed.#
 SPOCK: Yes, Captain?#
@@ -2380,8 +2408,8 @@ SPOCK: Large prints. The ape-like carnivore in the reports?#
 SPOCK: Aside from that, you say it's a Garden of Eden?#
 SPOCK: Class M in all respects. Quite Earth-like.#
 SPOCK: Bows and arrows, Captain?#
-SPOCK: Captain, look. (A group of blond hunters is approaching. They do have bows and arrows.)#
-SPOCK: Captain, use of our phasers is expressly forbidden. (So instead Kirk throws a rock which startles a villager into firing his weapon early.)#
+SPOCK: Captain, look.#
+SPOCK: Captain, use of our phasers is expressly forbidden.#
 SPOCK: No, Captain. I can travel.#
 SPOCK: Nurse.#
 SPOCK: Hit me. The pain will help me to consciousness. Hit me.#
@@ -2402,7 +2430,6 @@ SPOCK: Power surge?#
 SPOCK: Recheck your equipment, Mister Scott. I'll scan for them on the planet's surface. Spock out.#
 SPOCK: I'm beginning to believe that, Mister Scott. I've conducted two sweeps of the planet's surface. There is no sign of life.#
 SPOCK: No, Doctor. Even that would show up on our sensors.#
-SPOCK: The only answers are negative. No magnetic storms, no ionic interference, no breakdown in your equipment.#
 SPOCK: We shall continue sensor scans, Doctor. At the moment, that is all we can do, except hope for a rational explanation.#
 SPOCK: True, Doctor. Constant exposure does result in a certain degree of contamination.#
 SPOCK: They are not within the confines of this solar system.#
@@ -2410,7 +2437,7 @@ SPOCK: I have never heard of a study being done, but it would be a fascinating p
 SPOCK: Precisely.#
 SPOCK: No. I would say approximately four hundred#
 SPOCK: I would welcome a suggestion, Doctor, even an emotional one, as to where to look.#
-SPOCK: Captain's log, stardate 3259.2. First Officer Spock in command. The Captain, Lieutenant Uhura, and Ensign Chekov have been missing for nearly two hours. Computer probability projections are useless due to insufficient data.#
+SPOCK: Captain's log, stardate 3259.2. First Officer Spock in command. The Captain, Lieutenant Uhura, and Ensign Chekov have been missing for nearly two hours. Computer probability projections are useless due to insufficient data. HAINES:  Mister Spock, I'm getting a fluctuating energy reading on this hydrogen cloud. It's faint, sir, but it consistently reads an excess of predictable energy level.#
 SPOCK: Interesting. It seems to be an ionisation trail.#
 SPOCK: Exactly the question I have just fed to the computers, Doctor. And the answer is, nothing known to us would account for it.#
 SPOCK: Plot a follow course, Ensign Haines.#
@@ -2418,17 +2445,16 @@ SPOCK: Doctor, I am chasing the Captain, Lieutenant Uhura, and Ensign Chekov, no
 SPOCK: Initiate. Warp factor two.#
 SPOCK: Projecting back along the path of ionisation, the nearest system is M two four alpha.#
 SPOCK: Eleven point six three zero.#
-SPOCK: I'm suggesting nothing, Doctor. I am merely pursuing the only logical course available to us. {Training area] (The three are learning how to fight with the long poles with the curved hook on one end and grapple on the other. Galt enters with another thrall, his hands tied behind him.)#
+SPOCK: I'm suggesting nothing, Doctor. I am merely pursuing the only logical course available to us.#
 SPOCK: We searched the area.#
 SPOCK: Such as a failure in the transporter mechanism?#
 SPOCK: There was no sign of them in the area of Gamma Two.#
 SPOCK: In that case, Doctor, we have nothing to lose by pursuing our present course.#
 SPOCK: Mister Scott, can we manage anything faster than warp six?#
 SPOCK: Doctor, I do not respond to hunches. No transporter malfunction was responsible for the disappearance. They were not within the Gamma system. A focused beam of extremely high-intensity light was directed into the Gamma system from the trinary system we are now approaching. No known natural phenomena could have caused that beam. Does that clarify the situation?#
-SPOCK: I see.  Gentlemen, I am in command of this vessel, and we shall continue on our present course.  Unless it is your intention to declare a mutiny. SCOTT; Mister Spock!#
+SPOCK: I see.  Gentlemen, I am in command of this vessel, and we shall continue on our present course.  Unless it is your intention to declare a mutiny.#
 SPOCK: Agreed. Mister Scott, could you manage warp seven?#
 SPOCK: Ensign, warp seven.#
-SPOCK: Sensors indicate only one concentration of life forms on the planet, on the lower hemisphere. Humanoid readings.#
 SPOCK: There will be no landing force, Doctor. Assuming the captain and the others are still alive, it would be unwise to endanger them by beaming down a large contingent.#
 SPOCK: Interesting. No power source. It may be shielded.#
 SPOCK: I shall beam down, Doctor. If I am unable to communicate, a landing party may be necessary.#
@@ -2445,7 +2471,7 @@ SPOCK: Continuing scanning. Still no readings of life forms on the planet.#
 SPOCK: You mentioned dikironium, Captain.#
 SPOCK: I've scanned for that element, Captain. There's no trace of dikironium on the planet surface or in the atmosphere.#
 SPOCK: To hide from a sensor scan, it would have to be able to change its molecular structure, like gold changing itself to lead or wood changing itself to ivory.#
-SPOCK: Chekov, take over on scanner. (As Spock steps into the turbolift, Garrovick steps out onto the bridge.)#
+SPOCK: Chekov, take over on scanner.#
 SPOCK: What was the size of the thing you saw, Ensign?#
 SPOCK: Composition?#
 SPOCK: Captain, scientifically#
@@ -2472,7 +2498,7 @@ SPOCK: Impossible to tell, Captain, until I can make a closer survey of the crea
 SPOCK: Ensign, am I correct in my assumption that you've been disturbed by what you consider to be a failure on your part?  I would like you to consider that the hesitation for which you are blaming yourself is an hereditary trait of your species. When suddenly faced by the unknown or imminent danger, the human will experience a split second of indecision. He hesitates. Do I have your attention, Ensign?#
 SPOCK: I know you would prefer to wallow in emotion rather than#
 SPOCK: Kindness, Mr. Garrovick, is another human emotion, and I believe we have enough of that. I simply would like you to accept the fact that your reaction has its basis in physio.  Do you smell something?#
-SPOCK: Get out of here! I'll attempt to seal it off. (Spock literally throws Garrovick out into the corridor. He then goes to the vent, but the damaged switch breaks off in his hand.)#
+SPOCK: Get out of here! I'll attempt to seal it off.#
 SPOCK: Fortunately, neither of us is dead, Ensign. The reverse pressure worked. The vent is closed.#
 SPOCK: My haemoglobin is based on copper, not iron.#
 SPOCK: Colloquially expressed, but essentially correct.#
@@ -2485,7 +2511,8 @@ SPOCK: Precisely.#
 SPOCK: Doctor, evidence indicates the creature is here to spawn. If so, it will reproduce by fission, not just into two parts, but thousands.#
 SPOCK: An ounce should be sufficient. We can drain it from the ship's engines and transport it to the planet surface in a magnetic vacuum field.#
 SPOCK: There is still one problem, Captain.#
-SPOCK: Exactly. A matter-antimatter blast will rip away half the planet's atmosphere. If our vessel is in orbit and encounters those shock waves KIRK; A chance we'll have to take, Mister Spock. SPOCK: Also, we cannot be certain the transporter will operate under those conditions. If a man is beaming up when that hits, we may lose him.#
+SPOCK: Exactly. A matter-antimatter blast will rip away half the planet's atmosphere. If our vessel is in orbit and encounters those shock waves#
+SPOCK: Also, we cannot be certain the transporter will operate under those conditions. If a man is beaming up when that hits, we may lose him.#
 SPOCK: Captain, there is so little hemoglobin in my green blood, the creature could not harm me extensively. It therefore seems logical for me to be the one#
 SPOCK: It will require two men to transport the antimatter unit.#
 SPOCK: Reset. Energise.#
@@ -2534,7 +2561,7 @@ SPOCK: True. It is also true they never knew what was killing them. Their logic 
 SPOCK: Vulcan has not been conquered within its collective memory. The memory goes back so far that no Vulcan can conceive of a conqueror. I knew the ship was lost because I sensed it.#
 SPOCK: The touch of death.#
 SPOCK: Astonishment.#
-SPOCK: I cannot say what it is, Captain, but I would say it has found us. (The viewscreen is no longer black. It contains a multicoloured image rather like an abalone.)#
+SPOCK: I cannot say what it is, Captain, but I would say it has found us.#
 SPOCK: Getting very confused readings, Captain, but this is definitely the source of the energy drain.#
 SPOCK: Probe will impact in seven point three seconds.#
 SPOCK: Readings coming in now, Captain. Length, approximately eleven thousand miles. Width varying from two thousand to three thousand miles. Outer layer studded with space debris and waste. Interior consists of protoplasm, varying from a firmer gelatinous layer to a semi-fluid central mass. Condition, living.#
@@ -2552,7 +2579,7 @@ SPOCK: Captain, I#
 SPOCK: Do not suffer so, Doctor. This is not the first time superior capability has proven more valuable than professional credentials.#
 SPOCK: I am familiar with the equipment, Doctor. We're wasting time. The shuttlecraft is ready.#
 SPOCK: This is not a competition, Doctor. Whether you understand it or not, grant me my own kind of dignity.#
-SPOCK: Then employ one of your own superstitions. Wish me luck. (Silence and stares, then McCoy opens the hangar deck door. Spock walks across and into the Galileo. The doors shut.)#
+SPOCK: Then employ one of your own superstitions. Wish me luck.#
 SPOCK: Power drain is enormous and growing worse.#
 SPOCK: We discussed that possibility earlier. But you will need this information.#
 SPOCK: Slowing now. Contact in eighteen point three seconds. Brace yourselves. The area of penetration will no doubt be sensitive. Contact#
@@ -2586,7 +2613,7 @@ SPOCK: I have never computed them, Captain.#
 SPOCK: Surely, you're coming, Captain.#
 SPOCK: Very simple. Amplitude modulation transmission. I simply adjust the frequency, throw this switch, and the Enterprise should answer.#
 SPOCK: Fascinating.#
-SPOCK: Let me see. (throws a few more switches and picks up the microphone.) Enterprise, this is Mister Spock.#
+SPOCK: Let me see.  Enterprise, this is Mister Spock.#
 SPOCK: A very long and complicated story, Lieutenant. Notify the transporter room, Two to beam up, these co-ordinates.#
 SPOCK: Futile, Doctor. No specifics. There is no record of such a culture based on a moral inversion.#
 SPOCK: No, Doctor. I'm merely saying the computers can offer us no logical, rational, factual way out of our current dilemma.#
@@ -2635,7 +2662,7 @@ SPOCK: Captain. If the Iotians, who are very bright and imitative people, should
 SPOCK: The transtator is the basis for every important piece of equipment that we have.#
 SPOCK: No life form readings, Captain. Continuing scan.#
 SPOCK: I am getting readings on small metallic objects, Captain. It is possible the ship was destroyed in space and the survivors proceeded here in a shuttle craft.#
-SPOCK: Confirmed. (A male in an orange suit and a female in a blue outfit approach the party.)#
+SPOCK: Confirmed.#
 SPOCK: Interesting. A neural field?#
 SPOCK: What brings you here?#
 SPOCK: Why use our vessel? Why not transmit a message to your galaxy?#
@@ -2645,7 +2672,7 @@ SPOCK: The chances are very much against it.#
 SPOCK: Gentlemen, I'm constrained to point out we do not even know what this projector looks like.#
 SPOCK: Possible. I would have to have one to examine.#
 SPOCK: Yes, I recall, Captain. I led him to believe we had escaped.#
-SPOCK: I shall attempt it. (Kelinda seems to be getting nervous as Spock makes his attempt, then he is suddenly thrown across the cell. They go to his aid, Kelinda enters and Kirk grabs her and knocks her out. He takes the belt device.)#
+SPOCK: I shall attempt it.#
 SPOCK: Yes, I will be all right, Captain. We must hurry.#
 SPOCK: Yes, quite all right, Doctor.#
 SPOCK: I did not break it, Doctor. I was thrown away by something I've never experienced before.#
@@ -2719,7 +2746,7 @@ SPOCK: Doctor?#
 SPOCK: What is it you want of us?#
 SPOCK: When the struggle came which devastated your planet#
 SPOCK: Fascinating.#
-SPOCK: These others, they were stored differently than you, but it was#
+SPOCK: These others, they were stored differently than you, but it was your task to remain in the receptacle out there KIRK: and search the heavens with my mind, probing, waiting, probing. And then one day my mind touched your vessel and brought you here.#
 SPOCK: Our bodies, Sargon, for what purpose?#
 SPOCK: Then you intend to construct mechanical bodies, move your minds into them, and then return our bodies to us.#
 SPOCK: Captain, do you know what happened? Do you remember any part of it?#
@@ -2739,7 +2766,7 @@ SPOCK: This one you will administer to Captain Kirk while Sargon is in his body.
 SPOCK: No, that's correct. But since I will arrange for you to administer each of the injections, no one else will notice.#
 SPOCK: What were you saying?#
 SPOCK: Yes. Well, you were about to say that you watched me prepare the formula and fill each of the hypos.#
-SPOCK: Very good. You see, Sargon would not permit me to keep this body. It is therefore necessary for you to kill your captain so that Sargon will die with him. Enterprise Medical Log. Stardate 4769.1. Three alien minds now inhabit the bodies of Captain Kirk, Science Officer Spock, and Doctor Ann Mulhall.#
+SPOCK: Very good. You see, Sargon would not permit me to keep this body. It is therefore necessary for you to kill your captain so that Sargon will die with him.#
 SPOCK: In two days, you'll have your own hands, Thalassa. Mechanically efficient and quite human-looking. Android robot hands, of course. Hands without feeling. Enjoy the taste of life while you can.#
 SPOCK: It will have twice the strength and agility of your body, engineer, and will last a thousand years. That is, assuming you'll stop wasting your time and allow us to complete it.#
 SPOCK: A thousand-year prison, Thalassa. And when it wears out we'll build another one, and we'll lock ourselves into it for another thousand years. And another, and another. Sargon has closed his mind to a better way. With these bodies.#
@@ -2747,9 +2774,10 @@ SPOCK: When you awoke in this body, Thalassa, you said how good it was to breath
 SPOCK: This is your new home, Thalassa. Once occupied, I'll add female features and some texturing. You no doubt want the mechanism to at least appear to be a woman.  It is ready, Thalassa.#
 SPOCK: You have no excuse to keep the real body any longer. Sargon would've required that you enter the mechanism immediately.#
 SPOCK: Must I make an example of you, too, Helm?#
-SPOCK: Pain, Captain. And you, my dear? (As Kirk and Mulhall double over, McCoy dashes to Spock's side, ready to inject him.) SPOCK: Fortunately, Doctor, I know every thought of every mind around me. See?  Take the hypo from him. And inject him with it.#
+SPOCK: Pain, Captain. And you, my dear?#
+SPOCK: Fortunately, Doctor, I know every thought of every mind around me. See?  Take the hypo from him. And inject him with it.#
 SPOCK: Fools. I'll simply transfer to another place, another body.#
-SPOCK: Sargon! No, Sargon, please. Let me. Let me transfer. (He falls to the floor and his victims are freed from their pain.);#
+SPOCK: Sargon! No, Sargon, please. Let me. Let me transfer.#
 SPOCK: It seems, Doctor, the injection was only enough to cause unconsciousness.#
 SPOCK: The place Henoch would least suspect, Captain.#
 SPOCK: Passing outer planet, Zeon.#
@@ -2763,7 +2791,7 @@ SPOCK: According to our records, the Ekosians are a primitive, warlike people in
 SPOCK: Ready, Captain.#
 SPOCK: The Ekosians are humanoid, so there is apt to be a similarity in architecture. Interesting.#
 SPOCK: Captain, the non-interference Directive.#
-SPOCK: Mid-twentieth century Earth. The nation state called Nazi Germany. (A broadcast comes over a screen hung between two columns of a building in the street.)#
+SPOCK: Mid-twentieth century Earth. The nation state called Nazi Germany.#
 SPOCK: Virtually impossible, Captain, yet the evidence is quite clear.#
 SPOCK: Fascinating.#
 SPOCK: You propose we pass ourselves off as Nazis, Captain?#
@@ -2780,11 +2808,11 @@ SPOCK: It would seem the assumption was premature.#
 SPOCK: That would coincide with the time of John Gill's arrival.#
 SPOCK: Captain, the flaw in the plan is this locked door, and the guard beyond it. To the logical mind, the outlook is somewhat gloomy.#
 SPOCK: Yes.#
-SPOCK: Of course. The rubindium crystals in the transponders. (Kirk pulls a metal strip from the bed in the cell, and Spock uses it to cut into Kirk's arm.)#
+SPOCK: Of course. The rubindium crystals in the transponders.#
 SPOCK: Yes. We must hold the crystals rigidly at a specific distance, which I believe should be twenty seven point two millimetres.#
 SPOCK: Twenty seven point two millimetres would be, approximately, there. That is, of course, a crude estimation.#
 SPOCK: Yes. To reach that light, I shall require some sort of platform.#
-SPOCK: Now, the rubindium crystals should find enough power here to achieve the necessary stimulus. As I recall from the history of physics, the ancient lasers were able to achieve the necessary excitation, even using crude natural crystals. (Kirk squats down and Spock eventually stands on his thighs, leaning against the well-injured back.)#
+SPOCK: Now, the rubindium crystals should find enough power here to achieve the necessary stimulus. As I recall from the history of physics, the ancient lasers were able to achieve the necessary excitation, even using crude natural crystals.#
 SPOCK: Yes, of course, Captain. You realise that the aim will of course be very crude.#
 SPOCK: Captain, why should I aim at such a structure?#
 SPOCK: May I remind you, we did not intend to fight.#
@@ -2821,11 +2849,12 @@ SPOCK: Yes. Earthmen like Ramses, Alexander, Caesar, Napoleon, Hitler, Lee Kuan.
 SPOCK: Obviously, Doctor, you fail to accept#
 SPOCK: Commodore Wesley. How do you do, sir?#
 SPOCK: The most ambitious computer complex ever created. Its purpose is to correlate all computer activity aboard a starship, to provide the ultimate in vessel operation and control.#
-SPOCK: I hold an A-7 computer expert classification, Commodore. I'm well acquainted with Doctor Daystrom's theories and discoveries. The basic design of all our ship's computers are Doctor Daystrom's. KIRK; What has all this got to do with the Enterprise?#
+SPOCK: I hold an A-7 computer expert classification, Commodore. I'm well acquainted with Doctor Daystrom's theories and discoveries. The basic design of all our ship's computers are Doctor Daystrom's.#
 SPOCK: We are attempting to prove it can run this ship more efficiently than man.#
 SPOCK: The most unfortunate lack in current computer programming is that there is nothing available to immediately replace the starship surgeon.#
 SPOCK: I am honoured, Doctor.#
-SPOCK: Fascinating, Doctor. This computer has a potential beyond anything you've ever done. Even your breakthrough in duotronics did not have the promise of this. SPOCK: The M-5 has been perfected, Commander. Its potential is a fact.#
+SPOCK: Fascinating, Doctor. This computer has a potential beyond anything you've ever done. Even your breakthrough in duotronics did not have the promise of this.#
+SPOCK: The M-5 has been perfected, Commander. Its potential is a fact.#
 SPOCK: If I can be of assistance, Doctor.#
 SPOCK: M-5 has performed admirably so far.#
 SPOCK: Captain, I am forced to agree with Doctor Daystrom. With the course information plotted into it, his computer could have brought us here as easily as the navigator. In fact, it might have been a further demonstration of M-5's capability.#
@@ -2883,12 +2912,12 @@ SPOCK: No, Doctor. I simply maintain that computers are more efficient than huma
 SPOCK: I presume your question is meant to offer me a choice between machines and human beings, and I believe I have already answered that question.#
 SPOCK: It would be most interesting to impress your memory engrams on a computer, Doctor. The resulting torrential flood of illogic would be most entertaining.#
 SPOCK: We're locked onto the Exeter's engineering section, Captain.#
-SPOCK: Captain. (There's a red jacket draped across a console, with white crystals scattered in and around it.)#
+SPOCK: Captain.#
 SPOCK: As if they were in them when#
 SPOCK: Lieutenant Galloway and I are checking out the lower levels. There seems to be no one aboard. Only uniforms.#
 SPOCK: Fascinating.#
 SPOCK: Aye, sir.#
-SPOCK: I have their surgeon's log, Captain. Their last log entry, Captain, on screen. (A man in a blue shirt is struggling to try and sit up in the Captains chair and dictate the log.)#
+SPOCK: I have their surgeon's log, Captain. Their last log entry, Captain, on screen.#
 SPOCK: Interesting that the villagers know about phasers.#
 SPOCK: A Yang lance, Doctor.#
 SPOCK: Bruised only. We were approximately one hundred metres from the village when five of the savages ambushed us. We managed to escape without firing.#
@@ -2899,7 +2928,7 @@ SPOCK: Regulations are quite harsh, but they're also quite clear, Captain. If yo
 SPOCK: I agree that formal charges have little meaning now. However, you must at least confiscate his phaser.#
 SPOCK: Not that I have observed, Captain. Of course, should they wish to do so, one could always rest while the other keeps you occupied.#
 SPOCK: Good, Captain. Try to reason with them. Keep trying, Captain. Their behaviour is highly illogical.#
-SPOCK: I have tried, Captain. {Storeroom]#
+SPOCK: I have tried, Captain.#
 SPOCK: Captain, I have managed to loosen this grill somewhat. If the mortar on yours is as old.#
 SPOCK: Captain Tracey mentioned there was once a considerable civilisation here. The only reasonable explanation would be a war. Nuclear devastation or a bacteriological holocaust.#
 SPOCK: Yes, I heard, Captain.#
@@ -2912,8 +2941,8 @@ SPOCK: I'm weak, Captain, but not in difficulty.#
 SPOCK: My need for attention is vital, Doctor, but our need for departure is even more immediate.#
 SPOCK: Yes. I see, Captain. They would've learned to wear skins, adopted stoic mannerisms, learned the bow and the lance.#
 SPOCK: Kohms? Communists? The parallel is almost too close, Captain. It would mean they fought the war your Earth avoided, and in this case, the Asiatics won and took over this planet.#
-SPOCK: I am open to suggestions, Doctor. (Kirk hooks his feet around a table leg to stop Tracey reaching the knife. Spock directs his attention towards the woman.)#
-SPOCK: I'm making a suggestion. (The two protagonists have nearly reached the weapon. After a struggle, Tracey gets it. The woman picks up a communicator, walks over to Spock, then opens it. Kirk gets Tracey to drop the knife, and brings it down across his throat.)#
+SPOCK: I am open to suggestions, Doctor.#
+SPOCK: I'm making a suggestion.#
 SPOCK: There's no question about his guilt, Captain, but does our involvement here also constitute a violation of the Prime Directive?#
 SPOCK: It appears we have accidentally intercepted someone's transporter beam, Captain.#
 SPOCK: Captain, something is beaming aboard this vessel.#
@@ -2933,7 +2962,7 @@ SPOCK: I can try, Captain.#
 SPOCK: I can estimate some of this, Captain, but without more time#
 SPOCK: It is difficult to know which is best, Captain.#
 SPOCK: Without facts, the decision cannot be made logically. You must rely on your human intuition.#
-SPOCK: Correction, Mister Seven. It appears we did not interfere. The Enterprise was part of what was supposed to happen on this day in 1968. (Suddenly Isis has transformed from a black cat to a dark haired woman in a black outfit.)#
+SPOCK: Correction, Mister Seven. It appears we did not interfere. The Enterprise was part of what was supposed to happen on this day in 1968.#
 SPOCK: And you'll be pleased our records show that it resulted in a new and stronger international agreement against the use of such weapons.#
 SPOCK: Captain, we could say that Mister Seven and Miss Lincoln have some interesting experiences in store for them.#
 SPOCK: Live long and prosper, Mister Seven.#
@@ -2961,7 +2990,7 @@ SPOCK: Precisely, in terms of what the Melkots intend for us.#
 SPOCK: Are they really?#
 SPOCK: Captain, I pride myself on my knowledge of your Earth history. The names were known in the annals of the opening of the western sector of America. the United States of America, that is.#
 SPOCK: And the Clanton gang. On October 26th, they had it out.#
-SPOCK: History cannot be changed. (There's a brawl in the saloon and a window is broken. A man in black wearing a badge shoots another man. The group run over.)#
+SPOCK: History cannot be changed.#
 SPOCK: Is this a dead man, Doctor?#
 SPOCK: Captain, since we have seen that death is the one reality in this situation, I seriously suggest you reseat yourself immediately. Without moving a muscle of either hand. If I remember correctly, that would involve you in what was called the fast draw. It initiated unfortunate events.#
 SPOCK: I believe he was actually trying to provoke a dispute with Mister Chekov.#
@@ -3101,7 +3130,7 @@ SPOCK: Very astute, Doctor.#
 SPOCK: We'll fire in sequence and continue firing as long as Mister Scott can maintain power.#
 SPOCK: Fire phasers.#
 SPOCK: Rig for simultaneous firing, Mister Sulu. Commence simultaneous bombardment.#
-SPOCK: Estimated repair time? {Engineering]#
+SPOCK: Estimated repair time?#
 SPOCK: I've already surmised that. Thank you, Mister Scott.#
 SPOCK: I accept the responsibility, Doctor.#
 SPOCK: Mister Chekov, resume heading eight eight three mark four one.#
@@ -3189,17 +3218,17 @@ SPOCK: How rare, and how beautiful. But so incongruous when spoken by a soldier.
 SPOCK: Spock to Captain Kirk.#
 SPOCK: Captain#
 SPOCK: Yes, Captain. The cloaking device is in an area near the commander's quarters. It is closely guarded and off-limits to all but authorised personnel. What is your present location?#
-SPOCK: Unknown, Captain. At present, I am rather heavily (He quickly shuts and hides his communicator as the door opens, and the Commander enters. She is wearing a figure hugging dress.)#
+SPOCK: Unknown, Captain. At present, I am rather heavily#
 SPOCK: Commander, your attire is not only more appropriate, it should actually stimulate our conversation.#
 SPOCK: I must confess that I too am moved emotionally. I know it is illogical.#
 SPOCK: That will be profitless, Commander. I do not believe you will find it.#
 SPOCK: I assure you I am quite sane.#
-SPOCK: First officer of the Enterprise. (Broken-hearted, she slaps his face.) What is your present form of execution? Captain's log, stardate 5027.4. Commander Scott has less than fifteen minutes to install the Romulan's cloaking device and get it working. I hope Mister Spock can buy us the time we need.#
+SPOCK: First officer of the Enterprise.  What is your present form of execution?#
 SPOCK: I demand the Right of Statement first.#
 SPOCK: Thank you. I shall not require much time. No more than twenty minutes, I should say.#
-SPOCK: My crime is sabotage. I freely admit my guilt. (Scott is continuing to work) The oath I swore as a Starfleet officer is both specific and binding. As long as I wear the uniform, my duty is to protect the security of the Federation. Clearly, your new cloaking device is a threat to that security. I carried out my duty.#
+SPOCK: My crime is sabotage. I freely admit my guilt.  The oath I swore as a Starfleet officer is both specific and binding. As long as I wear the uniform, my duty is to protect the security of the Federation. Clearly, your new cloaking device is a threat to that security. I carried out my duty.#
 SPOCK: There is no regulation regarding the content of my statement. May I continue?#
-SPOCK: Beyond the historic tradition of Vulcan loyalty, there is also the combined Romulan-Vulcan history of obedience to duty. (She hears the transporter whine and runs around the desk to throw her arms around him.)#
+SPOCK: Beyond the historic tradition of Vulcan loyalty, there is also the combined Romulan-Vulcan history of obedience to duty.#
 SPOCK: One hundred and fifty thousand kilometres, Captain, and closing very rapidly.#
 SPOCK: One hundred thousand kilometres. They should commence firing at us within the next twelve point seven seconds.#
 SPOCK: The cloaking device is working perfectly, and the commander has informed me that even the Romulan sensors cannot track a vessel so equipped.#
@@ -3215,7 +3244,6 @@ SPOCK: I stand corrected, Captain. Induced would be a more precise term. Induced
 SPOCK: The release of bacteria. Or a helpless mental depression and a state of suicidal anxiety could have been chemically induced.#
 SPOCK: I do not know, but it is possible.#
 SPOCK: A valid assumption, I would say.#
-SPOCK: Or the promise of reward.#
 SPOCK: At present, yes.  Odd.#
 SPOCK: There seems to be some disturbance coming from that cave.#
 SPOCK: Definitely not humanoid, Captain. Impossible to make any specific identification. The readings do not correlate with any known information.#
@@ -3239,7 +3267,7 @@ SPOCK: Captain, we are no longer orbiting Triacus.#
 SPOCK: Captain, why are we bothering Starfleet?#
 SPOCK: This bridge is under complete control.#
 SPOCK: There is no need.#
-SPOCK: I cannot obey your order, Captain. (A vain communications officer who cannot ignore a reflection, a helmsman who thinks he is flying the ship through a tunnel of swords... Kirk goes to the security guard.)#
+SPOCK: I cannot obey your order, Captain.#
 SPOCK: Captain, we must get off this bridge.#
 SPOCK: Captain.#
 SPOCK: Jim.#
@@ -3257,7 +3285,7 @@ SPOCK: One. Humanoid or similar. Low level of activity. Life-support systems fun
 SPOCK: Directed at the Bridge of the Enterprise, Captain.#
 SPOCK:  Yes. Doctor McCoy.#
 SPOCK: If you will finish reconnecting my speech centre, I might be able to help.#
-SPOCK: Yes. That's correct. One thing at a time. Ah, ah, mmm. (normal voice) That's better. Now, Doctor. Try the sonic separator.#
+SPOCK: Yes. That's correct. One thing at a time. Ah, ah, mmm.  That's better. Now, Doctor. Try the sonic separator.#
 SPOCK: Yes, I believe I already have some sensation of feeling. Please stimulate the nerve endings and observe the physical reactions, one by one. In each case, I shall tell you when the probe is correct. You will then seal using the tri-laser connector.#
 SPOCK: Ready.#
 SPOCK:  Correct.#
@@ -3295,7 +3323,8 @@ SPOCK: Trying, Captain. Mister Chekov, your assistance, please.#
 SPOCK: We are evidently far outside our own galaxy, judging from the lack of traceable reference points. When we exceeded warp speed factor nine point five, we apparently entered a space-time continuum.#
 SPOCK: Impossible to calculate. We lack data to analyse. Our instruments appear to be functioning normally, but what they tell us makes no sense. Our records are clear up to the point at which we left our galaxy.#
 SPOCK: Unfortunately, we lack reference points on which to plot a return course. We experienced extreme sensory distortion, and we shall do so again if we attempt to use warp speed. And we cannot re-cross the barrier using sub light speed.#
-SPOCK: An entertaining suggestion, Mister Chekov, but not very helpful. KIRK; There is someone else aboard who might be able to help us navigate. The Medusans have developed interstellar navigation to a fine art. Could Kollos function despite the sensory distortion? SPOCK: Very possibly. The Medusan sensory system is radically different from ours. Perhaps for the purpose of this emergency I might become Kollos.#
+SPOCK: An entertaining suggestion, Mister Chekov, but not very helpful.#
+SPOCK: Very possibly. The Medusan sensory system is radically different from ours. Perhaps for the purpose of this emergency I might become Kollos.#
 SPOCK: A fusion. A mind-link to create a double entity. Each of us would enjoy the knowledge and sensory capabilities of both. We will function as one being.#
 SPOCK: If the link is successful there will be a tendency to lose separate identity. A necessary risk. Of course, Doctor Jones will not wish to give me permission to accomplish the mind-link.#
 SPOCK: Doctor Jones has shown reluctance every time I've asked to converse with Kollos. In some ways, she is still most human, Captain, particularly in the depth of her jealousy.#
@@ -3305,17 +3334,18 @@ SPOCK: This is not a duty that you can assume. I am aware of the fact that your 
 SPOCK: Fascinating.#
 SPOCK: Evidently a highly sophisticated sensor web. My compliments to you, and to your dressmaker.#
 SPOCK: An elegant solution. but I fail to understand why you apparently try to conceal your blindness, Doctor Jones.#
-SPOCK: This is delightful. I know you. All of you. James Kirk, Captain and friend for many years. And Leonard McCoy, also of long acquaintance. And Uhura, whose name means freedom. She walks in beauty, like the night.#
+SPOCK: This is delightful. I know you. All of you. James Kirk, Captain and friend for many years. And Leonard McCoy, also of long acquaintance. And Uhura, whose name means freedom.#
 SPOCK: Are you surprised to find that I've read Byron, Doctor?#
-SPOCK: In part. That is, part of us is known to you as Kollos. Ah, Miranda. There you are. O brave new world, that has such creatures in it.#
+SPOCK: In part. That is, part of us is known to you as Kollos. Ah, Miranda. There you are.#
 SPOCK: My world is next for us. Captain Kirk, I speak for all of us you call Medusans. I am sorry for the trouble I've brought to your ship.#
 SPOCK: And now to the business at hand. With your permission, Captain.#
 SPOCK: Co-ordination is completed.#
-SPOCK: Warp one in six seconds. Five, four, three, two, one, zero. (The engines come to life, and the Enterprise glides back through the barrier.) SPOCK: Position report, please, Mister Chekov.#
+SPOCK: Warp one in six seconds. Five, four, three, two, one, zero.#
+SPOCK: Position report, please, Mister Chekov.#
 SPOCK: Thank you, Mister Chekov. Manoeuvre completed, Captain.#
 SPOCK: How compact your bodies are. And what a variety of senses you have. This thing you call language though, most remarkable. You depend on it for so very much. But is any one of you really its master? But most of all, the aloneness. You are so alone. You live out your lives in this shell of flesh. Self-contained, separate. How lonely you are. How terribly lonely.#
 SPOCK: So soon?#
-SPOCK: You're a wise Captain. (Spock goes back behind the shield and the lid opens. Then Sulu notices the visor still on the helm console.)#
+SPOCK: You're a wise Captain.#
 SPOCK: I rejoice in your knowledge and in your achievement.#
 SPOCK: And the ways our differences combine to create meaning and beauty.#
 SPOCK: Live long and prosper, Miranda.#
@@ -3329,7 +3359,7 @@ SPOCK: Captain, picking up a life-form reading bearing four two mark seven.#
 SPOCK: Negative. Although humanoid, it is definitely not Homo Sapiens.#
 SPOCK: Impossible. I can make no exact identification other than it being humanoid.#
 SPOCK: Approaching the life-form, Captain.#
-SPOCK: Still undistinguishable. (A light reveals a young woman lying on what might be a bed, which is itself on a stepped platform. McCoy moves towards her.)#
+SPOCK: Still undistinguishable.#
 SPOCK: The sand-bats of Manark Four appear to be inanimate rock crystals, Doctor, until they attack.#
 SPOCK: From what we know of the specific gravity and other environmental factors of this planet, a life-form such as hers could not evolve here.#
 SPOCK: An unlikely possibility, Captain, since over ninety eight percent of the known telepathic species send thoughts as well as receive them. She's made no attempt to contact our minds.#
@@ -3338,13 +3368,13 @@ SPOCK: Correct, Captain.#
 SPOCK: Captain, in that direction, my tricorder is now picking up a substantial collection of objects.#
 SPOCK: Electronically sophisticated devices. I fail to understand why my tricorder previously gave no indication of them being out there.#
 SPOCK: Fascinating.#
-SPOCK: Readings indicate the passage to the surface lies in this direction. (As they head off, Lal wakes up and watches them go. He is joined by the other alien.)#
+SPOCK: Readings indicate the passage to the surface lies in this direction.#
 SPOCK: Research station six kilometres in that direction, Captain.#
 SPOCK: Just ahead.#
 SPOCK: I believe they were never actually present, Doctor. It was a mirage.#
 SPOCK: Captain, it was a mirage.#
 SPOCK: Captain, I request permission to be allowed#
-SPOCK: Doctor, I'm unable to lock in on the previous readings. I can find no exit out of here. (A flash, Gem and a clothed but unconscious Kirk appear, along with the forcefield to restrain McCoy and Spock.)#
+SPOCK: Doctor, I'm unable to lock in on the previous readings. I can find no exit out of here.#
 SPOCK: Her withdrawal seemed to suggest the fear of death, Doctor. Only your urging her on caused her to continue.#
 SPOCK: Can you recall what happened, Captain?#
 SPOCK: Captain, I noted that a light preceded you at the moment you were returned here from the Vian's laboratory.#
@@ -3358,7 +3388,8 @@ SPOCK: Possibly not, but you and the captain together will be able to do so.#
 SPOCK: How long will he be asleep, Doctor?#
 SPOCK: I'm not criticizing your action, Doctor. On the contrary, I'm quite grateful for it. The captain will be spared the strain of making so difficult a decision. You have simplified the situation considerably.#
 SPOCK: While the captain is asleep, I am in command. When the Vians return, I shall go with them.#
-SPOCK: Precisely. The choice would have been the captain's. Now it is mine. (McCoy turns away. Spock sits to carry on working. Gem puts her hand on Spock's shoulder, and smiles. McCoy comes up behind him and gives him an injection.) SPOCK: Your action is highly unethical. My decision stands.#
+SPOCK: Precisely. The choice would have been the captain's. Now it is mine.#
+SPOCK: Your action is highly unethical. My decision stands.#
 SPOCK: I was convinced in the same way you were, Captain. By the good doctor's hypo.#
 SPOCK: Hmm. A most unusual device. It is a control unit, but not a control mechanism. In fact, it is not a mechanical device.#
 SPOCK: This control is attuned to one electrical pattern of energy, the pattern produced by the mental impulses of the person who possesses it. It is activated solely by mental commands.#
@@ -3390,7 +3421,7 @@ SPOCK: Captain, we are registering very curious readings from all sensors.#
 SPOCK: I cannot. According to our instruments, space itself is literally breaking up. There is no known phenomenon which would account for these readings.#
 SPOCK: Negative. I have run a complete check on all systems.#
 SPOCK: Fascinating.#
-SPOCK: There is virtually no sensor contact. No mass analysis. No trace of radiation. We see it, but our sensors indicate it is not there. (As they close in, the bright fuzzy thing on the screen becomes recognizable.)#
+SPOCK: There is virtually no sensor contact. No mass analysis. No trace of radiation. We see it, but our sensors indicate it is not there.#
 SPOCK: Absolutely no record of such an occurrence, Ensign.#
 SPOCK: The ship is still functioning, Captain. It is logical to assume the mutineers are somewhere aboard.#
 SPOCK: Captain, there is no sign of life aboard this vessel.#
@@ -3443,7 +3474,6 @@ SPOCK: Distance, Mister Sulu.#
 SPOCK: Mister Sulu, I shall run an analysis on those filaments. Tie in all sensors to the ship's library computer console. Switch scanners.#
 SPOCK: There's no analogy to this structure in Federation technology. It is, however, an energy field, and if the Tholians are successful in completing this structure before we have completed our repairs, we shall not see home again.#
 SPOCK: Doctor, your last report on an antidote on the effects of this space was negative.#
-SPOCK: The urgency requires your personal attention in the laboratory.#
 SPOCK: A few hours ago, the Captain elected to remain on board the Defiant so that three members of this crew would have the best chance of returning safely to the Enterprise. His concern was not only for them, but for all the members of the crew of this ship. You all know the sequence of events. We were fired upon by the Tholian ship. At that time, Captain Kirk may have been alive. I deemed it necessary to return the Tholian fire for the safety of the Enterprise. The Tholian ship has been disabled. But as a result of the battle, we must accept the fact that Captain Kirk is no longer alive.#
 SPOCK: I shall not attempt to voice the quality of respect and admiration which Captain Kirk commanded. Each of you must evaluate the loss in the privacy of your own thoughts.#
 SPOCK: It can wait, Doctor. My duties require my immediate presence on the bridge.#
@@ -3470,7 +3500,8 @@ SPOCK: Please leave that to me, Doctor McCoy. I realise that the crew are your p
 SPOCK: I understand, Doctor. I'm sure the Captain would simply have said forget it, Bones.#
 SPOCK: Captain? Captain? Captain.#
 SPOCK: Exactly. But the Captain remained. Only the overlap time changed. The next interphase will occur here.#
-SPOCK: Can you be ready? SCOTT: That'll be about twenty minutes. Aye, she'll be back together. But we'll only have about eighty percent power built up. SPOCK: It will have to do, Mister Scott.  Come. (McCoy enters carrying a tray with a flask of orange liquid and three shot glasses.)#
+SPOCK: Can you be ready? SCOTT: That'll be about twenty minutes. Aye, she'll be back together. But we'll only have about eighty percent power built up.#
+SPOCK: It will have to do, Mister Scott.  Come.#
 SPOCK: You've found the antidote, Doctor.#
 SPOCK: Ensign Chekov was affected so early. Has he responded to it?#
 SPOCK: Theragen? A nerve gas used by the Klingons.#
@@ -3484,7 +3515,7 @@ SPOCK: Stand by with full power.#
 SPOCK: It will have to do.#
 SPOCK: Ready to transport on my order.#
 SPOCK: Try to maintain position Mister Sulu.#
-SPOCK: Engineering, bring ship's power up to full capability. (There's a massive jolt, then the Enterprise disappears from inside the web and reappears in open space.)#
+SPOCK: Engineering, bring ship's power up to full capability.#
 SPOCK: Negative, Ensign. Utilising ship's power has thrown us clear of it. Compute the distance from the original location.#
 SPOCK: We shall soon see, Lieutenant.#
 SPOCK: Good. Since the Captain was locked into our transporter beam when we were thrown clear of the interphase area, he should've been drawn here with us. Spock to transporter room.#
@@ -3511,7 +3542,7 @@ SPOCK: Interesting.#
 SPOCK: The course Ensign Chekov just gave for the asteroid would put it on a collision course with Daran Five.#
 SPOCK: Correct. Population approximately three billion and seven hundred twenty four million, if memory serves me correctly. Estimated time of impact three hundred ninety six days.#
 SPOCK: One fails to see the logic in making a ship look like a planet.#
-SPOCK: The asteroid ship is over ten thousand years old, Doctor. Still no sign of life forms, Captain. (Two tubes lift up to reveal openings and aggressive men in plaid suits leap out and attack them. A woman watches. McCoy sees her and gets knocked out. Kirk and Spock are overpowered. The phasers and communicators are handed to her.)#
+SPOCK: The asteroid ship is over ten thousand years old, Doctor. Still no sign of life forms, Captain.#
 SPOCK: The doctor must have received an excessively large electrical shock.#
 SPOCK: Nothing else could've caused this, Captain. At least nothing that has happened here.#
 SPOCK: May I ask precisely what is troubling the doctor?#
@@ -3530,7 +3561,7 @@ SPOCK: Yes. Towards the end, the Fabrini people lived underground, as these peop
 SPOCK: Captain. If I remember correctly, the oracle's reprehensible conduct was initiated when Natira knelt on that platform.#
 SPOCK: Nothing here which would indicate this is anything but a planet. There's no question but that the creators would be considered gods.#
 SPOCK: Eight planets, Captain. That is the number in the Fabrina solar system.#
-SPOCK: And no doubt they've been in flight on this asteroid ship for ten thousand years. (The door opens. They hide behind the obelisk as Natira enters and kneels on the platform.)#
+SPOCK: And no doubt they've been in flight on this asteroid ship for ten thousand years.#
 SPOCK: Your decision is most illogical, Doctor.#
 SPOCK: I believe it's time to move on.#
 SPOCK: She evidently understood something. There are no guards to detain us.#
@@ -3538,7 +3569,7 @@ SPOCK: Temperature one hundred eleven degrees and rising.#
 SPOCK: Temperature one hundred fifteen degrees.#
 SPOCK: One hundred twenty degrees.#
 SPOCK: Yes, it is.#
-SPOCK: It refers to the altar. Apply pressure to the centre until it opens. (The altar slides forward, revealing a small door to another room which is also shimmering in the heat. A room full of 1960's IBM-style computers. Spock gets to work flipping switches.);#
+SPOCK: It refers to the altar. Apply pressure to the centre until it opens.#
 SPOCK: I've neutralised the heating elements.#
 SPOCK: There seems to be a weakness in one of the eight tubes.#
 SPOCK: Yes. Let me check that engine. A very simple problem, easy to correct.#
@@ -3549,7 +3580,7 @@ SPOCK: Your haemoglobin count is back to normal, Doctor, which indicates that th
 SPOCK: And we never fired upon her.#
 SPOCK: Understood, Captain. Transporter room.#
 SPOCK: Our landing party is intact, Doctor.#
-SPOCK: First group from the Klingon vessel, Captain. (Six Klingons including two women materialise. They are hustled away except one.)#
+SPOCK: First group from the Klingon vessel, Captain.#
 SPOCK: At the moment we received the distress signal from the colony on Beta Twelve A, the Klingons were too far distant to have been the attackers. Moreover, they also were apparently attracted by a distress call.#
 SPOCK: Our log tapes will indicate our innocence in the present situation.#
 SPOCK: Sensor sweeps reveal no other ships within range, Captain.#
@@ -3622,7 +3653,7 @@ SPOCK: Yes. It's also obvious why Parmen kept this little utopia secret. Anyone 
 SPOCK: The point is well taken. However, the psychokinetic power is not additive. If it were, considering the Platonians' hostile propensities, two or three of them would have combined forces centuries ago and deposed Parmen.#
 SPOCK: The time factor concerns me. It may take days or even weeks before there's enough build up from the kironide to be of any benefit to us.#
 SPOCK: I have experienced a slight flush, Captain.#
-SPOCK:  Take care, young ladies, and value your wine. Be watchful of young men in their velvet prime. Deeply they'll swallow from your finest kegs. Then swiftly be gone leaving bitter dregs. Ah, bitter dregs. With smiling words and tender touch. Man offers little and asks for so much" He loves in the breathless excitement of night, then leaves with your treasure in cold morning light. Ah, in cold morning light"#
+SPOCK:  Take care, young ladies, and value your wine. Be watchful of young men in their velvet prime.#
 SPOCK: We have tried.#
 SPOCK: I haven't the power. I'm deeply sorry. We've failed you.#
 SPOCK: Quite possible and logical.#
@@ -3763,7 +3794,6 @@ SPOCK: You are certain, Doctor, that this pigmentation is the natural condition 
 SPOCK: Negative, Captain.#
 SPOCK: There is no theory, Captain, from the basic work of Mendel to recent nucleotide studies, which would explain our captive. All gradations of colour from black to brown, to yellow to white are genetically predictable. We must therefore conclude that this alien is that often unaccountable rarity, a mutation, one of a kind.#
 SPOCK: Yet you are pumping him full of your noxious potions as if he were a human.#
-SPOCK: With your permission, Captain, I shall do some further research and join you on the bridge. )Spock leaves.)#
 SPOCK: Negative, Captain.#
 SPOCK: There is a vessel out there, Captain.#
 SPOCK: Negative. This would not be a Romulan vessel. It is totally alien in configuration. Motive power unknown. Small size of the craft indicates a rapid scout vessel, one or two-man crew.#
@@ -3809,8 +3839,9 @@ SPOCK: She sounds rational enough, Captain.#
 SPOCK: Very well indeed, thank you, Captain.#
 SPOCK:  If you could create a diversion, I might be able to find the control room and open the force field.#
 SPOCK: I find it mildly interesting and somewhat nostalgic, if I understand the use of that word.#
-SPOCK: Yes. It is somewhat reminiscent of the dances that Vulcan children do in nursery school. Of course, the children are not so well co-ordinated. (Marta's dance brings her up close and personal with both Garth and Kirk.)#
+SPOCK: Yes. It is somewhat reminiscent of the dances that Vulcan children do in nursery school. Of course, the children are not so well co-ordinated.#
 SPOCK: On what, precisely, is our friendship to be based?#
+SPOCK: Why?#
 SPOCK: How could you, a Starship fleet Captain, believe that a Federation crew would blindly obey your order to destroy the entire Antos race, a people famous for their benevolence and peaceful pursuits?#
 SPOCK: Captain Kirk speaks somewhat figuratively and with undue emotion. However, what he says is logical and I do, in fact, agree with it.#
 SPOCK: Please forgive me, but exactly where is your fleet?#
@@ -3828,7 +3859,7 @@ SPOCK: Give him the countersign, Captain.#
 SPOCK: Queen to queen's level three.#
 SPOCK: Arranging to beam down a security team. Are there any objections?#
 SPOCK: Fascinating. What maneuver did we use to defeat the Romulan vessel near Tau Ceti?#
-SPOCK: Agreed, Captain. Captains. Gentlemen, whichever one of you is Captain Garth must at this moment be expending a great deal of energy to maintain the image of Captain Kirk. That energy level cannot be maintained indefinitely, and I have time. (Spock pulls a chair towards him to sit down, and Kirk 2 attacks him. Then the two Kirk's wrestle each other. Finally one is holding the chair over the other's head, ready to smash it down on his helpless victim.)#
+SPOCK: Agreed, Captain. Captains. Gentlemen, whichever one of you is Captain Garth must at this moment be expending a great deal of energy to maintain the image of Captain Kirk. That energy level cannot be maintained indefinitely, and I have time.#
 SPOCK: Captain Kirk, I presume.#
 SPOCK: Spock to Enterprise.#
 SPOCK: Queen to king's level one.#
@@ -3878,7 +3909,7 @@ SPOCK: Thank you, Your Excellency. Your proposal is accepted. Mister Scott.#
 SPOCK: Prepare to beam aboard a representative of the Gideon council.#
 SPOCK: Your Excellency, your assistant has arrived safely, and I am now ready to transport down to Gideon.#
 SPOCK: Sir, our captain is still missing, and I now demand that I be allowed to transport to Gideon as we agreed.#
-SPOCK: Mister Scott, beam down the gentleman from Gideon. SCOTT; Yes, Mister Spock. I'm sending him straight to the same co-ordinates.#
+SPOCK: Mister Scott, beam down the gentleman from Gideon.#
 SPOCK: Do not give up hope. Lieutenant Uhura, contact Starfleet Command. Demand an immediate reply to our request for permission to beam down to Gideon.#
 SPOCK: Admiral, the crew will not understand it.#
 SPOCK: We wish only to save the life of the captain.#
@@ -3900,7 +3931,7 @@ SPOCK: An exact duplicate of the Enterprise. But completely inoperative.  Spock 
 SPOCK: I am speaking to you from the bridge of the Enterprise.#
 SPOCK: And they were correct. I'm on board an exact duplicate of the Enterprise.#
 SPOCK: In orbit, Doctor. In a manner of speaking, Gideon is in orbit and the ship is on Gideon.#
-SPOCK: I'm sure he's on board somewhere. I'm picking up life readings. Spock out. Ship's log, stardate 5423.8. First Officer Spock reporting. Obviously the Gideon's have transported Captain Kirk onto this replica of the Enterprise to so confuse his mind as to make him susceptible to some extraordinary experiment. It is my intention to locate the captain and warn him before the experiment reaches its conclusion, which logic indicates means the end of the captain's life as he knows it.#
+SPOCK: I'm sure he's on board somewhere. I'm picking up life readings. Spock out.#
 SPOCK: Your Excellency. Captain, you're looking well. Evidently Starfleet's analysis was correct.#
 SPOCK: Spock to Enterprise. Spock to Enterprise.#
 SPOCK: Negative. Lock in on my communicator signal. Your Excellency, please do not interfere. I already have one serious problem to resolve with upper echelons.#
@@ -3960,7 +3991,7 @@ SPOCK: It is one of the most interesting metropolises in the galaxy. Have you ev
 SPOCK: I've never had the opportunity. However, I hear its art forms are incomparable.#
 SPOCK: It is a totally intellectual society. All forms of violence have been eliminated.#
 SPOCK: Perhaps there is another entrance, Captain.#
-SPOCK: It would seem the Troglytes have changed their minds about delivery. (Kirk and Spock are lassoed by three people in boiler suits and hard hats.)#
+SPOCK: It would seem the Troglytes have changed their minds about delivery.#
 SPOCK: Greetings, Mister Advisor.#
 SPOCK: The Disrupters? Who are they?#
 SPOCK: Remarkable. The finest example of sustained antigravity elevation I've ever seen.#
@@ -3972,7 +4003,7 @@ SPOCK: That would be most welcome, Mister Advisor.#
 SPOCK: Your movements awakened me.#
 SPOCK: Only Vulcan ears would find the noise discernible.#
 SPOCK: The same may be said of Stratos inhabitants.#
-SPOCK: We do pride ourselves on our logic. (Dressed in Stratos fashion, the female miner enters the rest room, armed with her mining tool. She leans over Kirk, but he grabs her, pulls her down onto the bed and disarms her.)#
+SPOCK: We do pride ourselves on our logic.#
 SPOCK: The seven-year cycle is biologically inherent in all Vulcan�s. At that time, the mating drive outweighs all other motivations.#
 SPOCK: Extreme feminine beauty is always disturbing, madam.#
 SPOCK: Am I intruding, Captain?#
@@ -4038,7 +4069,7 @@ SPOCK: Yes, that is true, Captain.#
 SPOCK: It is not sympathy so much as curiosity, Captain. A wish to understand. They regard themselves as aliens in their own worlds, a condition with which I am somewhat familiar.#
 SPOCK: It is somewhat uncomplimentary, Captain. Herbert was a minor official notorious for his rigid and limited patterns of thought.#
 SPOCK: I shall make an attempt, Captain.#
-SPOCK: Yes, sir. Captain's log, stardate 5832.5. The arrogance of Doctor Sevrin and his followers is creating an intolerable situation aboard the Enterprise. If it continues, I�ll be forced to use controls which might not agree with Starfleet's suggestion that they be handled with extreme tolerance.#
+SPOCK: Yes, sir.#
 SPOCK: They respect you. They will listen to your reasoning. For their sake, you must stop them. Doctor Sevrin, I'm in a position to help you and your group. I can use the resources of the Enterprise to determine whether or not Eden actually exists and to plot its exact location. I can present a case to Federation to allow you and your group to colonise that planet. Neither you nor your people are at present charged with a crime. However, incitement to disaffection is criminal. The Federation will never allow the colonisation of a planet by criminals. If they persist, they will be so charged and forever barred from Eden.#
 SPOCK: Then you knew you were a carrier.#
 SPOCK: What I fail to understand is why you disobey those orders.#
@@ -4064,7 +4095,7 @@ SPOCK: Ultrasonics. The panel.#
 SPOCK: Negative, Captain. However I am picking up the shuttlecraft.#
 SPOCK: It has landed. Except for those aboard the craft, I read no life at all, either humanoid nor animal.#
 SPOCK: The legends were true, Captain. Fantastically beautiful planet.#
-SPOCK: Captain. (Our young minstrel is spread out on the ground, a half-eaten fruit beside him)#
+SPOCK: Captain.#
 SPOCK: His name was Adam.#
 SPOCK: Spock to Enterprise.#
 SPOCK: Stand by to beam aboard injured parties. Medical team to the transporter room.#
@@ -4123,7 +4154,7 @@ SPOCK: I still read a suggestion of carbon cycle life forms on the planet surfac
 SPOCK: Agreed. Mister Sulu, switch to the planet area I have under observation.#
 SPOCK: Which would indicate a considerable civilisation there.#
 SPOCK: Our readings could be false, Captain, perhaps caused by some natural phenomena.#
-SPOCK: We're being scanned, Captain. A deep probe, incredibly swift. (The lights come back up, and the planet disappears from the viewscreen)#
+SPOCK: We're being scanned, Captain. A deep probe, incredibly swift.#
 SPOCK: Fascinating.#
 SPOCK: They did scan us and our vessel, Captain, and doubtless obtained sufficient information to present this illusion.#
 SPOCK: Small change occurring there, Captain.#
@@ -4187,7 +4218,7 @@ SPOCK: We may be in trouble ourselves. We must find shelter.#
 SPOCK: In this severe cold, we cannot survive much longer.#
 SPOCK: We go together or not at all.#
 SPOCK: We go together.#
-SPOCK: He's suffering from the severity of your weather. Unfortunately, he is the doctor, not I. I'll avoid giving him any medication at this time. Perhaps, if he's kept quiet and warm, he may recover naturally. It is agreeably warm here. (Their benefactor has pushed back the hood to reveal that it is a young woman)#
+SPOCK: He's suffering from the severity of your weather. Unfortunately, he is the doctor, not I. I'll avoid giving him any medication at this time. Perhaps, if he's kept quiet and warm, he may recover naturally. It is agreeably warm here.#
 SPOCK: I'm called Spock.#
 SPOCK: Prisoners?#
 SPOCK: Yes, we came through the time portal, but not as prisoners. We were sent here by mistake.#
@@ -4206,7 +4237,7 @@ SPOCK: You cannot go back?#
 SPOCK: Come, Doctor, back to bed.#
 SPOCK: It is impossible to look for him, Doctor. We cannot go back.#
 SPOCK: Zarabeth explained it to me. When we came through the time portal, it altered our physiological structure. If we attempt to return to the library, we shall die.#
-SPOCK: Yes, Doctor, we are trapped. Just as Jim is trapped wherever he is. Captain's log, stardate 5943.9. The people of this time believe in witches, and witchcraft is what I've been accused of. Five witnesses heard McCoy's voice speak to me and thought it was an evil spirit. From what I know of witchcraft trials, I don't have much chance unless I can get to the prosecutor.#
+SPOCK: Yes, Doctor, we are trapped. Just as Jim is trapped wherever he is.#
 SPOCK: Really?#
 SPOCK: Doctor McCoy is making excellent progress.#
 SPOCK: And known as the worst patient in the entire crew of the Enterprise.#
@@ -4267,8 +4298,8 @@ SPOCK: At this moment Doctor McCoy is examining the captain for psychological ch
 SPOCK: That is true. The captain did not. However, those events have been recorded. They could have become known to you.#
 SPOCK: I believe you. However, my belief is not acceptable evidence. Evidence must be factual. Doctor McCoy may be of help. Come with me.#
 SPOCK: He is not the captain.#
-SPOCK: Certainly, Lieutenant. We all must do our duty. (Spock walks past him and feints a neck pinch. It is parried so he gets him with the other hand)#
-SPOCK: It's quite all right, Ensign. Everything is under control. (Neck-pinches him as McCoy and Kirk arrive. Then two more security come out of the turbolift)#
+SPOCK: Certainly, Lieutenant. We all must do our duty.#
+SPOCK: It's quite all right, Ensign. Everything is under control.#
 SPOCK: A repetition of your physical violence is not called for, sir. No physical resistance will be offered.#
 SPOCK: I have stated my evidence. Telepathic communication with the mind of Captain James T. Kirk.#
 SPOCK: You've had great deal of evidence, except that of the chief witness. The one who should be the real subject of this investigation is kept locked away and in isolation. Why, Captain?#

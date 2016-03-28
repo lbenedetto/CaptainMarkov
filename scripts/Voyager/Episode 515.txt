@@ -1,66 +1,49 @@
 Episode Number: 515
 The Voyager Transcripts - Bliss
 Bliss
-Stardate:
-52542.3
+Stardate: 52542.3
 Original Airdate: 10 February 1999
-  [Qatai's ship]
-(A little ship is being hit by energy strikes. The pilot is humanoid, with white hair and beard, and a bumpy forehead.)QATAI:
-Ah! Surprised? What's wrong? Can't figure out why I'm still not
-running,;ha? Can't read my thoughts? Go ahead, attack, take my
-ship. Damn ship. Hold together. Hold! (Energy plays over the control surfaces as he heads into a nebula.)
+[Qatai's ship]
+(A little ship is being hit by energy strikes. The pilot is humanoid, with white hair and beard, and a bumpy forehead.)
+QATAI: Ah! Surprised? What's wrong? Can't figure out why I'm still not running,;ha? Can't read my thoughts? Go ahead, attack, take my ship. Damn ship. Hold together. Hold! 
+(Energy plays over the control surfaces as he heads into a nebula.) 
 [Bridge]
-JANEWAY:
-Wormhole? 
-TUVOK: Approximately four hundred million kilometres from our position.
+JANEWAY: Wormhole? 
+TUVOK: Approximately four hundred million kilometres from our position. 
 CHAKOTAY: Take a look at the transkinetic vector. 
 JANEWAY: It leads to sector zero zero one. 
-CHAKOTAY: It looks like a wormhole but we're detecting massive
-bioplasmic activity. 
+CHAKOTAY: It looks like a wormhole but we're detecting massive bioplasmic activity. 
 JANEWAY: That suggests a lifeform. Neutrino flux? 
 CHAKOTAY: Erratic. 
-JANEWAY: A direct route to Earth's doorstep, out of the blue. What's
-wrong with this picture? 
+JANEWAY: A direct route to Earth's doorstep, out of the blue. What's wrong with this picture? 
 CHAKOTAY: We should launch a probe. 
-JANEWAY: Go to yellow alert. Prepare a class five probe. Let's see
-what's really out there.
-Daily log, Seven of Nine. While we failed to locate a new source of deuterium,
-our mission had educational value for at least one member of the crew.
-[Delta
-Flyer]
-NAOMI:
-If you go looking for deuterium tomorrow, can I come? 
+JANEWAY: Go to yellow alert. Prepare a class five probe. Let's see what's really out there. 
+Daily log, Seven of Nine. While we failed to locate a new source of deuterium, our mission had educational value for at least one member of the crew. 
+[Delta Flyer]
+NAOMI: If you go looking for deuterium tomorrow, can I come? 
 PARIS: Well, that's up to the Captain. 
 SEVEN: It's likely you'll be replaced by a more experienced officer. 
-NAOMI: But this is my first away mission and I didn't get to do
-anything. 
+NAOMI: But this is my first away mission and I didn't get to do anything. 
 SEVEN: I disagree. You familiarised yourself with this vessel. 
-NAOMI: Well, can't we make first contact with somebody, or get in a
-space battle? 
+NAOMI: Well, can't we make first contact with somebody, or get in a space battle? 
 PARIS: Yeah, can't we? 
 SEVEN: Another time, perhaps. 
 PARIS: Hey, Naomi, you want to take the helm? 
 NAOMI: Can I? 
 SEVEN: Ensign. 
-PARIS: She'll be familiarising herself with the vessel. Here. Okay,
-first bring us up to one quarter impulse. Hit this control, then that
-one. 
+PARIS: She'll be familiarising herself with the vessel. Here. Okay, first bring us up to one quarter impulse. Hit this control, then that one. 
 NAOMI: One quarter impulse, aye. 
 PARIS: Now, you think you can chart a course back to Voyager? 
 NAOMI: Yes, sir. 
 [Corridor]
-(Paris is carrying a sleeping Naomi.)PARIS:
-They're in a hurry. 
-SEVEN: Crewmen Boylen and White. Frequently late for their duty shifts.
-PARIS: Speaking of late, I'll make a deal with you. I'll explain to Sam
-why her daughter's two hours late for bedtime, if you start on the
-survey report. 
+(Paris is carrying a sleeping Naomi.)
+PARIS: They're in a hurry. 
+SEVEN: Crewmen Boylen and White. Frequently late for their duty shifts. 
+PARIS: Speaking of late, I'll make a deal with you. I'll explain to Sam why her daughter's two hours late for bedtime, if you start on the survey report. 
 SEVEN: Acceptable. 
-PARIS: Have fun.
-[Astrometrics
-lab]
-JANEWAY:
-You're back. I was beginning to worry. 
+PARIS: Have fun. 
+[Astrometrics lab]
+JANEWAY: You're back. I was beginning to worry. 
 SEVEN: The survey took longer than expected. 
 CHAKOTAY: Lucky our deuterium shortage is no longer an issue. 
 SEVEN: A wormhole. 
@@ -70,158 +53,106 @@ JANEWAY: Never bet against the house.
 KIM: What are you doing? 
 SEVEN: Looking for anomalous readings. 
 TUVOK: You will find none. 
-CHAKOTAY: He's right. No subspatial contortions, no temporal
-variance.;
-JANEWAY: The probe we sent in has already picked up faint signals from
-the other side.;
-KIM: B'Elanna's still downloading them, but she's pretty sure they're
-from Starfleet. 
-SEVEN: This wormhole is only three hundred million kilometres away.
-Long range scans should have detected it days ago. 
+CHAKOTAY: He's right. No subspatial contortions, no temporal variance.;
+JANEWAY: The probe we sent in has already picked up faint signals from the other side.;
+KIM: B'Elanna's still downloading them, but she's pretty sure they're from Starfleet. 
+SEVEN: This wormhole is only three hundred million kilometres away. Long range scans should have detected it days ago. 
 TUVOK: Perhaps it was an oversight on your part. 
-JANEWAY: If it'll make you feel better, run a diagnostic. In the
-meantime, let's maintain course.
-[Ready
-room]
-JANEWAY:
-Come in. 
-SEVEN: I completed my diagnostic. Sensors are operating at peak
-efficiency. 
+JANEWAY: If it'll make you feel better, run a diagnostic. In the meantime, let's maintain course. 
+[Ready room]
+JANEWAY: Come in. 
+SEVEN: I completed my diagnostic. Sensors are operating at peak efficiency. 
 JANEWAY: Then there's nothing to worry about. 
-SEVEN: On the contrary. The wormhole's neutrino levels are extremely
-erratic. 
-JANEWAY: I thought so too, until I received this. It turns out those
-faint signals we detected were communiqu�s from Starfleet. They assure
-me the neutrino flux is nothing to worry about. 
+SEVEN: On the contrary. The wormhole's neutrino levels are extremely erratic. 
+JANEWAY: I thought so too, until I received this. It turns out those faint signals we detected were communiqu�s from Starfleet. They assure me the neutrino flux is nothing to worry about. 
 SEVEN: Starfleet may be in error. We should run further scans. 
 JANEWAY: No time. The wormhole might destabilise. 
-SEVEN: The Doctor often instructs me to look before I leap. It is an
-antiquated adage, but I believe it is relevant. 
+SEVEN: The Doctor often instructs me to look before I leap. It is an antiquated adage, but I believe it is relevant. 
 JANEWAY: I have another one for you. He who hesitates is lost. 
 SEVEN: Captain. 
-JANEWAY: I thin we're avoiding the real issue here, Seven. You're still
-feeling uncomfortable about returning to the Alpha Quadrant. It's
-nothing to be ashamed of. Trust me, you're going to thrive on Earth,
-just as you've thrived on Voyager. Yes? 
+JANEWAY: I thin we're avoiding the real issue here, Seven. You're still feeling uncomfortable about returning to the Alpha Quadrant. It's nothing to be ashamed of. Trust me, you're going to thrive on Earth, just as you've thrived on Voyager. Yes? 
 CHAKOTAY: Letter number two. I'm getting jealous. 
-JANEWAY: Mark. Apparently his engagement was broken off. What about
-you, any news? 
-CHAKOTAY: A full pardon and reinstatement to Starfleet. I've even been
-offered a professorship in anthropology at the Academy. 
+JANEWAY: Mark. Apparently his engagement was broken off. What about you, any news? 
+CHAKOTAY: A full pardon and reinstatement to Starfleet. I've even been offered a professorship in anthropology at the Academy. 
 JANEWAY: Oh, Chakotay, congratulations, but it's not fair. 
 CHAKOTAY: Don't worry, it's only part time. 
 JANEWAY: How can I be expected to manage the ship without you? 
 CHAKOTAY: You'll do fine. 
-[Cargo
-Bay two]
-SEVEN:
-Computer, access all logs entries recorded by Captain Janeway on
-Stardate 52542. 
-COMPUTER: Access to those files is restricted. (Seven opens an access panel and presses a couple of buttons.) COMPUTER: Access granted. 
+[Cargo Bay two]
+SEVEN: Computer, access all logs entries recorded by Captain Janeway on Stardate 52542. 
+COMPUTER: Access to those files is restricted. 
+(Seven opens an access panel and presses a couple of buttons.) 
+COMPUTER: Access granted. 
 SEVEN: Play first log entry. 
-JANEWAY [on monitor]: Captain's log, stardate 52542.3. Long range
-sensors have identified a wormhole leading to the Alpha quadrant.
-Unfortunately, secondary scans have revealed that it's some kind of
-elaborate deception. The question is, who's attempting to deceive us and
-why? 
+JANEWAY [on monitor]: Captain's log, stardate 52542.3. Long range sensors have identified a wormhole leading to the Alpha quadrant. Unfortunately, secondary scans have revealed that it's some kind of elaborate deception. The question is, who's attempting to deceive us and why? 
 SEVEN: Play next log entry. 
-JANEWAY [on monitor]: Captain's log, supplemental. We've begun to
-receive faint telemetry from our probe. I don't want to get the crew's
-hopes up but B'Elanna thinks it may be a message from Starfleet. I'm
-beginning to wonder if my earlier scepticism was justified. 
+JANEWAY [on monitor]: Captain's log, supplemental. We've begun to receive faint telemetry from our probe. I don't want to get the crew's hopes up but B'Elanna thinks it may be a message from Starfleet. I'm beginning to wonder if my earlier scepticism was justified. 
 SEVEN: Play next log entry. 
-JANEWAY [on monitor]: Captain's Log, supplemental. I've set a course
-for the wormhole. With any luck, we should be back in the Alpha Quadrant in a matter of days.
+JANEWAY [on monitor]: Captain's Log, supplemental. I've set a course for the wormhole. With any luck, we should be back in the Alpha Quadrant in a matter of days. 
 [Corridor]
-NEELIX:
-Annika? Annika Hansen. 
+NEELIX: Annika? Annika Hansen. 
 SEVEN: There is no one here by that name. 
-NEELIX: Are you sure, because I have a letter here addressed to her. I
-never realised you knew anyone from the Alpha Quadrant. 
+NEELIX: Are you sure, because I have a letter here addressed to her. I never realised you knew anyone from the Alpha Quadrant. 
 SEVEN: I don't. 
 NEELIX: Well, it looks like someone knows you. Who's it from? 
 SEVEN: Claudia Hansen. She claims to be a sister of my father. 
 NEELIX: Your aunt. 
 SEVEN: She is looking forward to meeting me. 
-NEELIX: That's great. Starfleet's appointed me Ambassador to the
-Lan'Tuana sector. 
+NEELIX: That's great. Starfleet's appointed me Ambassador to the Lan'Tuana sector. 
 SEVEN: Ambassador? 
-NEELIX: I guess they thought I'd have a flair for quadrupeds.
-[Mess
-hall]
-SEVEN:
-Ensign, I require a moment of your time. 
+NEELIX: I guess they thought I'd have a flair for quadrupeds. 
+[Mess hall]
+SEVEN: Ensign, I require a moment of your time. 
 PARIS: Sure. 
-SEVEN: Have you noticed anything unusual about the crew's behaviour
-since we returned? 
+SEVEN: Have you noticed anything unusual about the crew's behaviour since we returned? 
 PARIS: Like? 
-SEVEN: When I presented the Captain with evidence that the wormhole may
-not be what it appears to be, she seemed unconcerned. 
+SEVEN: When I presented the Captain with evidence that the wormhole may not be what it appears to be, she seemed unconcerned. 
 PARIS: Really? That doesn't sound like her. 
-SEVEN: I believe the crew is being deceived by false telemetry as well
-as overly-optimistic correspondence. 
+SEVEN: I believe the crew is being deceived by false telemetry as well as overly-optimistic correspondence. 
 PARIS: The letters from home? I got one, too. 
 SEVEN: No doubt containing good news. 
-PARIS: Oh, I'll say. An old buddy of mine offered me a spot at the new
-test flight centre in Australia. Beautiful beaches, a chance to pilot
-the latest experimental ships. I can't believe it. 
+PARIS: Oh, I'll say. An old buddy of mine offered me a spot at the new test flight centre in Australia. Beautiful beaches, a chance to pilot the latest experimental ships. I can't believe it. 
 SEVEN: Then you doubt the veracity of the letters as well. 
-PARIS: Are you kidding? I've already written back and accepted the job.
+PARIS: Are you kidding? I've already written back and accepted the job. 
 [Sickbay]
-SEVEN:
-Computer, activate the EMH. 
+SEVEN: Computer, activate the EMH. 
 EMH: Please state the nature of the medical emergency. 
-SEVEN: The wormhole is not what it appears to be. I believe that the
-crew is being
+SEVEN: The wormhole is not what it appears to be. I believe that the crew is being
 EMH: Hold on. Wormhole? 
 SEVEN: You weren't informed. 
 EMH: Not a peep. 
-SEVEN: Considering everyone's recent behaviour, that's not surprising.
-Since the discovery of this wormhole the crew has ignored obvious signs
-that it's a deception. You must determine if there is a physiological
-explanation. 
+SEVEN: Considering everyone's recent behaviour, that's not surprising. Since the discovery of this wormhole the crew has ignored obvious signs that it's a deception. You must determine if there is a physiological explanation. 
 CHAKOTAY [OC] Seven of Nine to the bridge. 
 SEVEN: On my way. 
-EMH: I'll call in a few crewmen for routine examinations. That should
-allow me to run the necessary diagnostics.
-[Bridge]
-CHAKOTAY:
-We've just entered visual range. I thought you'd like to take a look.
-We're starting to get images from the other side. 
+EMH: I'll call in a few crewmen for routine examinations. That should allow me to run the necessary diagnostics. 
+[Bridge] 
+CHAKOTAY: We've just entered visual range. I thought you'd like to take a look. We're starting to get images from the other side. 
 TUVOK: There is considerable interference. 
-KIM: I think I can help clear it up. Try it now. (A blue and white planet.)
+KIM: I think I can help clear it up. Try it now. 
+(A blue and white planet.)
 CHAKOTAY: How long until we reach the wormhole? 
 PARIS: Fifty three minutes. 
 JANEWAY: Maintain course. 
 CHAKOTAY: All hands, this is the bridge. Secure all systems. 
-JANEWAY: When we reach Earth's orbit, lay in a descent trajectory.
-North American continent. Starfleet Headquarters. 
-[Astrometrics
-lab]
-SEVEN:
-Computer, perform a gravimetric scan of the wormhole's interior. Look
-for inconsistencies in the spatial gradient. 
-COMPUTER: The anomaly is consistent with a Class one wormhole. No
-irregularities detected. 
+JANEWAY: When we reach Earth's orbit, lay in a descent trajectory. North American continent. Starfleet Headquarters. 
+[Astrometrics lab]
+SEVEN: Computer, perform a gravimetric scan of the wormhole's interior. Look for inconsistencies in the spatial gradient. 
+COMPUTER: The anomaly is consistent with a Class one wormhole. No irregularities detected. 
 SEVEN: Recalibrate sensors and try again. 
 COMPUTER: No irregularities detected. 
-SEVEN: Isolate grid nine two five and magnify. Computer, is that a
-vessel in grid ninety one? 
+SEVEN: Isolate grid nine two five and magnify. Computer, is that a vessel in grid ninety one? 
 COMPUTER: No vessel has been detected. 
 SEVEN: Open a comm. channel. 
 COMPUTER: Channel open. 
-SEVEN: Alien vessel, this is the starship Voyager. Respond. Alien
-vessel. 
+SEVEN: Alien vessel, this is the starship Voyager. Respond. Alien vessel. 
 QATAI [on screen]: Who are you? 
-SEVEN: Seven of Nine, Federation starship Voyager. Our ship is on an
-intercept course three point four light years from your position. 
+SEVEN: Seven of Nine, Federation starship Voyager. Our ship is on an intercept course three point four light years from your position. 
 QATAI [on screen]: Turn around, you're being deceived. 
 SEVEN: How. 
-QATAI [on screen]: He knows what you want. (The screen goes blank.)
+QATAI [on screen]: He knows what you want. 
+(The screen goes blank.)
 SEVEN: Computer, identify the cause of the power failure.;
-TUVOK: Captain's orders. Power from Astrometrics has been rerouted to
-the navigational array, at least until we've completed our journey
-through the wormhole. 
+TUVOK: Captain's orders. Power from Astrometrics has been rerouted to the navigational array, at least until we've completed our journey through the wormhole. 
 SEVEN: I've made contact with a vessel inside the anomaly. 
 TUVOK: Starfleet? 
 SEVEN: Alien. The pilot attempted to warn us away. 
@@ -230,403 +161,278 @@ SEVEN: The sensors are malfunctioning. He said we were being deceived. The wormh
 TUVOK: The preponderance of data suggests otherwise. 
 SEVEN: The data is flawed. 
 TUVOK: As is your reasoning. 
-SEVEN: May I ask you a personal question? Are you looking forward to
-seeing your wife and family? 
+SEVEN: May I ask you a personal question? Are you looking forward to seeing your wife and family? 
 TUVOK: Indeed. 
 SEVEN: And is that desire stronger than you expected it to be? 
 TUVOK: Your point. 
-SEVEN: I believe you are being manipulated. Someone or something is
-compromising your logic, otherwise you would be willing to listen to my
-concerns. 
-TUVOK: Access to the Astrometrics lab is restricted until further
-notice. Dismissed.
-[Cargo
-Bay two]
-(Seven investigates a noise.)SEVEN:
-Naomi Wildman. Your presence here is unauthorised. State your
-intentions. 
+SEVEN: I believe you are being manipulated. Someone or something is compromising your logic, otherwise you would be willing to listen to my concerns. 
+TUVOK: Access to the Astrometrics lab is restricted until further notice. Dismissed. 
+[Cargo Bay two]
+(Seven investigates a noise.)
+SEVEN: Naomi Wildman. Your presence here is unauthorised. State your intentions. 
 NAOMI: I'm hiding. 
 SEVEN: From whom? 
 NAOMI: Everyone. They're all acting strange. Even Mom. 
 SEVEN: Elaborate. 
-NAOMI: She keeps smiling all the time, talking about Earth like it's
-the greatest place in the universe. 
+NAOMI: She keeps smiling all the time, talking about Earth like it's the greatest place in the universe. 
 SEVEN: You do not share your mother's desire to return to Earth? 
-NAOMI: Voyager's my home. If we go to Earth, I'll have to leave the
-ship. I'd miss my room, Neelix. You and I wouldn't be able to play Kadis-kot anymore. 
+NAOMI: Voyager's my home. If we go to Earth, I'll have to leave the ship. I'd miss my room, Neelix. You and I wouldn't be able to play Kadis-kot anymore. 
 SEVEN: Curious. You and I appear to be the only ones not affected. 
 NAOMI: Affected by what? 
-SEVEN: I am not certain. Stay here until I return.
+SEVEN: I am not certain. Stay here until I return. 
 [Sickbay]
-SEVEN:
-Computer, activate EMH. 
+SEVEN: Computer, activate EMH. 
 PARIS: Please state the nature of the medical emergency. 
 SEVEN: Where's the Doctor? 
 PARIS: Offline. 
 SEVEN: Why? 
-PARIS: Starfleet orders. Something about the wormhole interfering with
-the holographic systems. They didn't want to damage his
-programme. 
+PARIS: Starfleet orders. Something about the wormhole interfering with the holographic systems. They didn't want to damage his programme. 
 SEVEN: He must be reactivated. 
 PARIS: No can do. Not until we're on the other side. 
 SEVEN: It's urgent. 
-PARIS: Believe it or not, I am capable of handling almost any medical
-problem you might have.
+PARIS: Believe it or not, I am capable of handling almost any medical problem you might have. 
 [Corridor]
-(Chakotay and two security guards step out of a turbolift.)CHAKOTAY:
-I was just coming to see you. 
+(Chakotay and two security guards step out of a turbolift.)
+CHAKOTAY: I was just coming to see you. 
 SEVEN: Why? 
-CHAKOTAY: I'm afraid I have some troubling news. Evidently, our
-wormhole passes through a layer of subspace monitored by the Borg.
-Starfleet's concerned that your neural transceiver might attract some
-unwanted attention. We need to deactivate your implants. 
-SEVEN: You should not attempt to do so without the Doctor's
-supervision. 
+CHAKOTAY: I'm afraid I have some troubling news. Evidently, our wormhole passes through a layer of subspace monitored by the Borg. Starfleet's concerned that your neural transceiver might attract some unwanted attention. We need to deactivate your implants. 
+SEVEN: You should not attempt to do so without the Doctor's supervision. 
 CHAKOTAY: Unfortunately, he's offline. 
 SEVEN: Then the procedure is inadvisable. 
-CHAKOTAY: Try to relax. We're only going to keep you in stasis until
-we've reached the Alpha Quadrant. I realize the prospect of returning
-to Earth is frightening to you. It's perfectly natural for you to
-resist the unknown. But you're in good hands. Resistance is futile.
+CHAKOTAY: Try to relax. We're only going to keep you in stasis until we've reached the Alpha Quadrant. I realize the prospect of returning to Earth is frightening to you. It's perfectly natural for you to resist the unknown. But you're in good hands. Resistance is futile. 
 [Bridge]
-JANEWAY:
-What's our distance, Tom? 
+JANEWAY: What's our distance, Tom? 
 PARIS: Two thousand kilometres and closing. Goodbye, Delta Quadrant. 
 KIM: No more Hirogen hunting parties, Malon garbage scows. 
 PARIS: By this time tomorrow it'll be Cardassians, Romulans, Ferengi. 
 CHAKOTAY [OC]: Chakotay to the bridge. 
 JANEWAY: Go ahead. 
-CHAKOTAY [OC]: I�ve spoken to Seven of Nine. We're putting her into
-stasis. 
-JANEWAY: Make it fast. We don't want the Borg to crash our welcome home
-party.
-[Cargo
-Bay two]
-SEVEN: I
-need to adjust my regeneration parameters. How long will I remain
-inactive? 
-CHAKOTAY: A couple of hours to be on the safe side. (Seven sets up a forcefield and walks through it.)CHAKOTAY: Security alert! 
+CHAKOTAY [OC]: I�ve spoken to Seven of Nine. We're putting her into stasis. 
+JANEWAY: Make it fast. We don't want the Borg to crash our welcome home party. 
+[Cargo Bay two]
+SEVEN: I need to adjust my regeneration parameters. How long will I remain inactive? 
+CHAKOTAY: A couple of hours to be on the safe side. 
+(Seven sets up a forcefield and walks through it.)
+CHAKOTAY: Security alert! 
 SEVEN: Naomi Wildman. 
 [Bridge]
-JANEWAY:
-Security's on their way, Chakotay. What happened? 
+JANEWAY: Security's on their way, Chakotay. What happened? 
 CHAKOTAY [OC]: Seven's trapped us behind some kind of Borg forcefield. 
 JANEWAY: Try to disable it. 
-[Cargo
-Bay two]
-CHAKOTAY:
-Naomi, go back to your quarters. 
-SEVEN: Pay attention to me. If this indicator begins to flash enter the
-following series of commands. Watch carefully. 
+[Cargo Bay two]
+CHAKOTAY: Naomi, go back to your quarters. 
+SEVEN: Pay attention to me. If this indicator begins to flash enter the following series of commands. Watch carefully. 
 CHAKOTAY: Naomi. 
 SEVEN: Do you understand? 
 NAOMI: Yes. 
-CHAKOTAY: Naomi, I'm giving you a direct order. Step away from the
-console.
+CHAKOTAY: Naomi, I'm giving you a direct order. Step away from the console. 
 [Bridge]
-KIM:
-She's blocking my commands. 
+KIM: She's blocking my commands. 
 JANEWAY: Keep trying. 
-[Cargo
-Bay two]
-(Seven arms herself with a phaser rifle.)SEVEN:
-Computer, lock onto my coordinates and initiate a site to site
-transport. Main Engineering.
+[Cargo Bay two]
+(Seven arms herself with a phaser rifle.)
+SEVEN: Computer, lock onto my coordinates and initiate a site to site transport. Main Engineering. 
 [Engineering]
-TORRES:
-Seven? 
-SEVEN: I'm sorry. (Seven shoots Torres, then the other crew.)
+TORRES: Seven? 
+SEVEN: I'm sorry. 
+(Seven shoots Torres, then the other crew.) 
 [Bridge]
-KIM:
-We've got phaser fire in Engineering. 
-JANEWAY: Janeway to Security.
+KIM: We've got phaser fire in Engineering. 
+JANEWAY: Janeway to Security. 
 [Engineering]
-SEVEN:
-Computer, erect a level ten forcefield around Engineering. Lock out the
-command controls of Borg encryption code two nine four.
+SEVEN: Computer, erect a level ten forcefield around Engineering. Lock out the command controls of Borg encryption code two nine four. 
 [Bridge]
-PARIS:
-Seven's tapping into the engine manifold. She's trying to shut down
-impulse drive.
+PARIS: Seven's tapping into the engine manifold. She's trying to shut down impulse drive. 
 [Engineering]
-TUVOK:
-Bridge, she has erected another forcefield. It'll require; 
+TUVOK: Bridge, she has erected another forcefield. It'll require; 
 [Bridge]
-TUVOK [OC]: Several
-minutes to deactivate it.JANEWAY:
-Where is she, exactly? 
+TUVOK [OC]: 
+Several minutes to deactivate it.
+JANEWAY: Where is she, exactly? 
 KIM: Engineering console sixteen beta. Captain? 
-JANEWAY: I�m sending an EM surge to that station. Seven's going into
-stasis whether she likes it or not.
+JANEWAY: I�m sending an EM surge to that station. Seven's going into stasis whether she likes it or not. 
 [Engineering]
-(The energy surge knocks Seven down.)TUVOK:
-She's down, Captain.
+(The energy surge knocks Seven down.)
+TUVOK: She's down, Captain. 
 [Bridge]
-PARIS:
-Captain, we're at the threshold. 
-JANEWAY: Take us in. (But they are entering the lightning nebula, not the tranquil blue wormhole that they can see. It is a rough ride.)JANEWAY: Report? 
+PARIS: Captain, we're at the threshold. 
+JANEWAY: Take us in. 
+(But they are entering the lightning nebula, not the tranquil blue wormhole that they can see. It is a rough ride.)
+JANEWAY: Report? 
 PARIS: It's just spatial turbulence. 
-JANEWAY: It's beautiful. Steady as she goes.(Neelix
-sees Starfleet Admirals in a corridor, smiling and waiting to shake
-hands with him. Janeway, Kim and Paris see Earth turning beneath the
-ship. In reality, there is nothing there except a giant tunnel with
-energy playing around it. Everyone is unconscious. Tuvok dreams that he
-is meeting his wife,;T'Pel, in a corridor
+JANEWAY: It's beautiful. Steady as she goes.
+(Neelix sees Starfleet Admirals in a corridor, smiling and waiting to shake hands with him. Janeway, Kim and Paris see Earth turning beneath the ship. In reality, there is nothing there except a giant tunnel with energy playing around it. Everyone is unconscious. Tuvok dreams that he is meeting his wife,;T'Pel, in a corridor 
 [Engineering]
-(Naomi carefully steps over unconscious
-crew in the corridors. She has a cut on her face, and walks straight
-into the forcefield in Engineering.)NAOMI:
-Seven, wake up. Seven of Nine, wake up! Forcefield? (Seven lets her through.)
+(Naomi carefully steps over unconscious crew in the corridors. She has a cut on her face, and walks straight into the forcefield in Engineering.)
+NAOMI: Seven, wake up. Seven of Nine, wake up! Forcefield? 
+(Seven lets her through.)
 SEVEN: You are damaged. 
 NAOMI: It's just a scrape.;
 SEVEN: The crew? 
 NAOMI: Unconscious, sort of. 
 SEVEN: Our hull is demolecularising. 
 NAOMI: Do wormholes do that? 
-SEVEN: No, they don't. Return to your quarters while I assess the
-situation. 
-NAOMI: But I can help. My mom says two heads are better than one. Isn't
-that the Borg philosophy too? 
+SEVEN: No, they don't. Return to your quarters while I assess the situation. 
+NAOMI: But I can help. My mom says two heads are better than one. Isn't that the Borg philosophy too? 
 SEVEN: Simplistic, but accurate. 
-NAOMI: Please, I don't want to be alone.
+NAOMI: Please, I don't want to be alone. 
 [Corridor]
-NAOMI:
-Neelix! Oh, Neelix. 
+NAOMI: Neelix! Oh, Neelix. 
 SEVEN: He will survive. 
 NAOMI: Neelix. 
-SEVEN: We must keep moving. Naomi Wildman. We will return for him. (Naomi reaches out her arms to Seven, who picks her up and carries her. They pass a row of windows.)NAOMI: I
-don't think that's Earth. 
+SEVEN: We must keep moving. Naomi Wildman. We will return for him. 
+(Naomi reaches out her arms to Seven, who picks her up and carries her. They pass a row of windows.)
+NAOMI: I don't think that's Earth. 
 SEVEN: No. 
-NAOMI: So where are we?
-[Astrometrics
-lab]
-SEVEN: I've restored partial systems. I'm reading organic compounds,
-bioplasmic discharges, a vast network of neural pathways. 
+NAOMI: So where are we? 
+[Astrometrics lab]
+SEVEN: I've restored partial systems. I'm reading organic compounds, bioplasmic discharges, a vast network of neural pathways. 
 NAOMI: Is it a lifeform? 
-SEVEN: If it is, it's the largest I've seen. Over two thousand
-kilometres in diameter. 
+SEVEN: If it is, it's the largest I've seen. Over two thousand kilometres in diameter. 
 NAOMI: What are you doing? 
-SEVEN: My earlier scans revealed a vessel. I'm trying to find it again.
+SEVEN: My earlier scans revealed a vessel. I'm trying to find it again. 
 NAOMI: Somebody else is stuck here? 
-SEVEN: Possibly. There. It's heavily damaged but still functioning.
-Alien vessel, respond. 
-[Qatai's
-ship]
-SEVEN
-[OC]: This is the starship Voyager. Please respond. 
+SEVEN: Possibly. There. It's heavily damaged but still functioning. Alien vessel, respond. 
+[Qatai's ship]
+SEVEN [OC]: This is the starship Voyager. Please respond. 
 QATAI: I told you to stay away. Why didn't you listen? 
-SEVEN [on monitor]: Our crew believed they were returning to their
-homes. 
-[Astrometrics
-lab]
-QATAI
-[on screen]: Everything they've always wanted, correct? 
+SEVEN [on monitor]: Our crew believed they were returning to their homes. 
+[Astrometrics lab]
+QATAI [on screen]: Everything they've always wanted, correct? 
 SEVEN: Yes. 
 QATAI [on screen]: He deceived them. 
 NAOMI: He? 
-SEVEN: I believe we should work together to escape this anomaly. Lower
-your shields and I'll beam you aboard. 
-QATAI [on screen]: Shields are the only things holding my ship
-together. I'd be destroyed. 
+SEVEN: I believe we should work together to escape this anomaly. Lower your shields and I'll beam you aboard. 
+QATAI [on screen]: Shields are the only things holding my ship together. I'd be destroyed. 
 SEVEN: I will enhance your shield emitters. 
 QATAI [on screen]: You won't fool me that easily.
 SEVEN: I assure you we are not a deception. 
-QATAI [on screen]: Oh, how convenient, an enormous starship comes to my
-rescue. You might try a more subtle approach. 
-SEVEN: My scans indicate that your shields will fail in approximately
-fifteen minutes. Join us, or you can remain on your vessel secure in the
-knowledge that you were not deceived. But that knowledge will do you
-little good when you are dead. Decide now. 
-QATAI [on screen]: All right. All right, I'm taking my shields down. (Seven beams Qatai into the astrometrics lab. He pinches Naomi's arm.)
+QATAI [on screen]: Oh, how convenient, an enormous starship comes to my rescue. You might try a more subtle approach. 
+SEVEN: My scans indicate that your shields will fail in approximately fifteen minutes. Join us, or you can remain on your vessel secure in the knowledge that you were not deceived. But that knowledge will do you little good when you are dead. Decide now. 
+QATAI [on screen]: All right. All right, I'm taking my shields down. 
+(Seven beams Qatai into the astrometrics lab. He pinches Naomi's arm.)
 NAOMI: Ow! 
-QATAI: You look real enough. But over the years, he's made me believe
-many things are real. A fortune at my fingertips, good friends risen
-from the dead. 
+QATAI: You look real enough. But over the years, he's made me believe many things are real. A fortune at my fingertips, good friends risen from the dead. 
 SEVEN: You're referring to the anomaly we've entered. 
 QATAI: Anomaly? It's a beast! Cunning, deadly. 
 SEVEN: What does it want? 
 QATAI: You. Your ship. Antimatter, biomatter. He consumes it. 
 SEVEN: Everyone believed it was a wormhole. 
-QATAI: Telepathy. Psychogenic manipulation. He senses your thoughts,
-your desires, and then he preys on them. 
+QATAI: Telepathy. Psychogenic manipulation. He senses your thoughts, your desires, and then he preys on them. 
 NAOMI: Like a pitcher plant. 
 QATAI: Pitcher plant? 
-NAOMI: The Doctor taught me about it in botany class. It catches
-insects by mimicking pheromones. 
-QATAI: Yes, you're right, but this one doesn't eat insects. He eats
-starships. 
+NAOMI: The Doctor taught me about it in botany class. It catches insects by mimicking pheromones. 
+QATAI: Yes, you're right, but this one doesn't eat insects. He eats starships. 
 SEVEN: You are familiar with this lifeform. 
 QATAI: Familiar? I�ve been hunting it for nearly forty years. 
 SEVEN: And have you become impervious to its telepathy? 
-QATAI: Almost, but there are days when he can still trick me. Like
-yesterday. I thought I had found a way to kill him once and for all.
-I'd allow him to begin consuming my ship and then I'd fly directly to
-his most vulnerable system, his primary neural plexus. Boom! I'd
-destroy him from the inside out. But he knew. He showed me what I
-wanted to see. I was nowhere near his neural plexus. I was flying
-directly into his digestion chamber. And speaking of digestion. 
+QATAI: Almost, but there are days when he can still trick me. Like yesterday. I thought I had found a way to kill him once and for all. I'd allow him to begin consuming my ship and then I'd fly directly to his most vulnerable system, his primary neural plexus. Boom! I'd destroy him from the inside out. But he knew. He showed me what I wanted to see. I was nowhere near his neural plexus. I was flying directly into his digestion chamber. And speaking of digestion. 
 NAOMI: How do we get out of the monster? 
-SEVEN: It's not a monster, it's a bioplasmic organism, and we will find
-a way out. 
-QATAI: No, the girl's right. He's a monster, and the only way out is to
-destroy him.
+SEVEN: It's not a monster, it's a bioplasmic organism, and we will find a way out. 
+QATAI: No, the girl's right. He's a monster, and the only way out is to destroy him. 
 [Sickbay]
-EMH:
-Please state the nature of the medical emergency. 
+EMH: Please state the nature of the medical emergency. 
 QATAI: Your ship is being devoured. I'd say that's an emergency. 
 NAOMI: The monster ate his ship, too. 
 EMH: Monster?
 QATAI: I want to see your weapons manifest. 
 EMH: Weapons? This is a Sickbay, not an arsenal. What's going on? 
-SEVEN: Voyager has been lured into the digestive chamber of a
-bioplasmic organism. We require your assistance in charting an escape
-route. 
-EMH: Slow down. The last thing I remember I was speaking to Mister
-Paris. He said the wormhole posed a threat to my programme. 
-QATAI: The beast has been manipulating your crew. The moment he
-realised you were beginning to suspect something, he made sure you were
-deactivated. 
+SEVEN: Voyager has been lured into the digestive chamber of a bioplasmic organism. We require your assistance in charting an escape route. 
+EMH: Slow down. The last thing I remember I was speaking to Mister Paris. He said the wormhole posed a threat to my programme. 
+QATAI: The beast has been manipulating your crew. The moment he realised you were beginning to suspect something, he made sure you were deactivated. 
 EMH: And who might you be, the local monster expert? 
-QATAI: As a matter of fact I am. He's been fooling you for days,
-creating false sensor readings, and he's been altering your crew's
-thought patterns. A little neurogenic telepathy to make them lower
-their guard. 
-EMH: That might explain the heightened dopamine levels I found during
-my routine examinations of the crew. Have you informed the Captain? 
+QATAI: As a matter of fact I am. He's been fooling you for days, creating false sensor readings, and he's been altering your crew's thought patterns. A little neurogenic telepathy to make them lower their guard. 
+EMH: That might explain the heightened dopamine levels I found during my routine examinations of the crew. Have you informed the Captain? 
 NAOMI: She's asleep. 
 EMH: Asleep? 
-SEVEN: It's our proximity to the creature. The neurogenic field is
-stronger here. It's already rendered most of the crew unconscious. Does
-your vessel's database contain information on the creature's anatomy? 
+SEVEN: It's our proximity to the creature. The neurogenic field is stronger here. It's already rendered most of the crew unconscious. Does your vessel's database contain information on the creature's anatomy? 
 QATAI: Of course. 
 SEVEN: Retrieve it. 
-EMH: In the meantime, let's work on a wake-up call for the crew. (Torres is on a biobed with a cortical inhibitor on her neck.)EMH:
-Computer, increase neurotransmitter levels by twenty nine
-percent.;
+EMH: In the meantime, let's work on a wake-up call for the crew. 
+(Torres is on a biobed with a cortical inhibitor on her neck.)
+EMH: Computer, increase neurotransmitter levels by twenty nine percent.;
 QATAI: A cortical inhibitor? 
 EMH: I thought it might disrupt the organism's hold on her. 
 QATAI: It won't. I already tried a similar procedure. 
-EMH: I don't remember asking for a second opinion. It's working. She's
-regaining consciousness. 
+EMH: I don't remember asking for a second opinion. It's working. She's regaining consciousness. 
 TORRES: Doctor? 
-EMH: You're being exposed to a powerful neurogenic field. You've been
-unconscious for several hours. 
+EMH: You're being exposed to a powerful neurogenic field. You've been unconscious for several hours. 
 TORRES: They're here. 
 EMH: Who?
 TORRES: The Maquis, they're alive! 
 EMH: B'Elanna, you're still on Voyager. You're hallucinating. 
 TORRES: Starfleet thinks you've all been killed. 
-EMH: Computer, increase neurotransmitter levels by another ten percent.
-B'Elanna, focus on my voice.;
-QATAI: She doesn't want to. (The EMH knocks Torres out again.)QATAI: They never want to.
+EMH: Computer, increase neurotransmitter levels by another ten percent. B'Elanna, focus on my voice.;
+QATAI: She doesn't want to. 
+(The EMH knocks Torres out again.)
+QATAI: They never want to. 
 [Medical lab]
-QATAI:
-It's the silence I hate. The way he takes you without a fight. It was
-the same way with the Nokaro. A crew of nearly three thousand. Families
-mostly, mine included, looking for a New World to settle. But they came
-across our friend here and he showed them what they wanted to see. A
-glistening green paradise. By the time I responded to their distress
-call, all that was left of them was some fading engine emissions. That
-was thirty nine years ago. Thirty nine years, two weeks, four days. 
+QATAI: It's the silence I hate. The way he takes you without a fight. It was the same way with the Nokaro. A crew of nearly three thousand. Families mostly, mine included, looking for a New World to settle. But they came across our friend here and he showed them what they wanted to see. A glistening green paradise. By the time I responded to their distress call, all that was left of them was some fading engine emissions. That was thirty nine years ago. Thirty nine years, two weeks, four days. 
 EMH: Do you mind? The situation is dismal enough. 
 QATAI: I�m just trying to explain who we're up against. 
-EMH: Well, I�m getting a pretty good idea on my own. Judging by these
-bioscans, the organism's been devouring life forms for a bit longer
-than thirty nine years. I'd estimate it's at least two hundred thousand
-years old. 
+EMH: Well, I�m getting a pretty good idea on my own. Judging by these bioscans, the organism's been devouring life forms for a bit longer than thirty nine years. I'd estimate it's at least two hundred thousand years old. 
 QATAI: The intelligent always survive. 
-EMH: I wouldn't go that far. It appears to operate on highly evolved
-instinct. I haven't detected any signs of sentience. 
-QATAI: Oh he's intelligent, all right. Smart enough to fool your crew
-into taking you offline. 
-EMH: No need to get personal.
+EMH: I wouldn't go that far. It appears to operate on highly evolved instinct. I haven't detected any signs of sentience. 
+QATAI: Oh he's intelligent, all right. Smart enough to fool your crew into taking you offline. 
+EMH: No need to get personal. 
 [Sickbay]
-(Another shudder wakes Naomi.)NAOMI:
-Seven? 
+(Another shudder wakes Naomi.)
+NAOMI: Seven? 
 SEVEN: I�m here. 
 NAOMI: Are we still inside the monster? 
 SEVEN: Yes, but we are going to find a way out. 
-QATAI [OC]: There. This is it. Exactly what we need. [Medical lab]QATATI: These class nine
-torpedoes in your weapons manifest. If we can bring your vessel deeper
-into the creature's digestive tract and detonate one of these charges,
-we might be able to destroy it. 
+QATAI [OC]: There. This is it. Exactly what we need. 
+[Medical lab]
+QATATI: These class nine torpedoes in your weapons manifest. If we can bring your vessel deeper into the creature's digestive tract and detonate one of these charges, we might be able to destroy it. 
 EMH: Starfleet's not in the habit of killing lifeforms. 
 QATAI: Even if that lifeform is about to kill you? 
-EMH: If I could take a few hours to examine the creature more
-thoroughly
+EMH: If I could take a few hours to examine the creature more thoroughly
 SEVEN: There is no time. 
 QATAI: We kill him! 
 EMH: Maybe there's another way. 
 SEVEN: Explain. 
-EMH: Any living organism, no matter how large, will attempt to expel a
-foreign body. If we could just make Voyager a little less tasty? 
-SEVEN: My scans indicate that your weapons are tetryon based. If you
-were to fire one at a pocket of antimatter released from our warp core,
-it would produce an electrolytic reaction. 
+EMH: Any living organism, no matter how large, will attempt to expel a foreign body. If we could just make Voyager a little less tasty? 
+SEVEN: My scans indicate that your weapons are tetryon based. If you were to fire one at a pocket of antimatter released from our warp core, it would produce an electrolytic reaction. 
 NAOMI: Would that make Voyager taste bad? 
-QATAI: It might at that.
-[Transporter
-room]
-EMH:
-Once I�ve beamed you back to your ship, try adjusting your shields to
-this frequency. You'll find them more resistant to the bioplasmic
-discharges. 
-QATAI: You seem to know a little about everything. Medicine,
-exobiology, shield harmonics. 
+QATAI: It might at that. 
+[Transporter room]
+EMH: Once I�ve beamed you back to your ship, try adjusting your shields to this frequency. You'll find them more resistant to the bioplasmic discharges. 
+QATAI: You seem to know a little about everything. Medicine, exobiology, shield harmonics. 
 EMH: I�m something of a renaissance EMH. 
-QATAI: I could use a crewmate like you. The beast would have a
-difficult time manipulating a hologram's desires. 
+QATAI: I could use a crewmate like you. The beast would have a difficult time manipulating a hologram's desires. 
 EMH: An Ishmael to your Ahab? No, thank you. 
 QATAI: You're turning down the hunt of a lifetime? 
-EMH: As appealing as that sounds, I�m a Doctor, not a dragon slayer. My
-programme requires that I do no harm. 
-QATAI: Shame.
+EMH: As appealing as that sounds, I�m a Doctor, not a dragon slayer. My programme requires that I do no harm. 
+QATAI: Shame. 
 [Engineering]
-SEVEN:
-Qatai's vessel is ready. 
-EMH: I�ve rerouted bridge controls to Engineering. Ops, tactical, helm,
-all integrated into one station. 
+SEVEN: Qatai's vessel is ready. 
+EMH: I�ve rerouted bridge controls to Engineering. Ops, tactical, helm, all integrated into one station. 
 SEVEN: Efficient. 
 EMH: I thought you'd like it. 
-SEVEN: I�m plotting a course for the organism's oesophageal aperture.
-Prepare to release the antimatter. Hull integrity's dropped another
-thirteen percent. Doctor? 
+SEVEN: I�m plotting a course for the organism's oesophageal aperture. Prepare to release the antimatter. Hull integrity's dropped another thirteen percent. Doctor? 
 EMH: Ready on my end. 
 SEVEN: Voyager to Qatai. Prepare to fire. 
-[Qatai's
-ship]
-QATAI:
-Wait, wait. No, no, no, no, no. 
+[Qatai's ship]
+QATAI: Wait, wait. No, no, no, no, no. 
 [Engineering]
-SEVEN:
-What's wrong? 
+SEVEN: What's wrong? 
 QATAI [OC: That last jolt 
-[Qatai's
-ship]
+[Qatai's ship]
 QATAI: Must have destabilised my targeting sensor. 
 [Engineering]
-SEVEN: I
-could establish an interface to Voyager's targeting array. 
+SEVEN: I could establish an interface to Voyager's targeting array. 
 QATAI [OC]: Don't bother. I know my ship. It's just being stubborn. 
-[Qatai's
-ship]
-QATAI:
-Ready. 
+[Qatai's ship]
+QATAI: Ready. 
 [Engineering]
-SEVEN:
-Initiate the burst on my mark. Now. 
-[Qatai's
-ship]
-(Voyager releases its gas, and Qatai shoots at it. The gas ignites.)QATAI:
-Like the taste of that? 
+SEVEN: Initiate the burst on my mark. Now. 
+[Qatai's ship]
+(Voyager releases its gas, and Qatai shoots at it. The gas ignites.)
+QATAI: Like the taste of that? 
 [Engineering]
-EMH: I�m
-reading violent contractions throughout the digestive chamber. It's
-working. We're moving back through the oesophageal aperture! 
-SEVEN: Voyager has been expelled. We're three point nine kilometres
-from the organism. 
-EMH: After just one burst? For a big fellow he certainly has a low
-tolerance for tummy ache. 
+EMH: I�m reading violent contractions throughout the digestive chamber. It's working. We're moving back through the oesophageal aperture! 
+SEVEN: Voyager has been expelled. We're three point nine kilometres from the organism. 
+EMH: After just one burst? For a big fellow he certainly has a low tolerance for tummy ache. 
 SEVEN: Qatai's vessel was also released. 
 EMH: Hail him. 
 QATAI [on monitor]: Why haven't you ejected a second burst? 
@@ -634,58 +440,44 @@ SEVEN: We've cleared the organism.
 QATAI [on monitor]: You've been deceived. We're both still inside it. 
 EMH: He's right. I'm reading bioplasmic energy. 
 SEVEN: I am impervious to the creature's influence. 
-EMH: You were impervious, when it was creating the illusion of Voyager
-getting home, because you didn't share that desire. But now we're
-trying to escape, which is what you want. 
-QATAI [on monitor]: Think about it. He's showing you exactly what you
-want to see. 
+EMH: You were impervious, when it was creating the illusion of Voyager getting home, because you didn't share that desire. But now we're trying to escape, which is what you want. 
+QATAI [on monitor]: Think about it. He's showing you exactly what you want to see. 
 EMH: Seven! 
-SEVEN: Initiate another antimatter burst. Now. Fire. (The creature's mouth opens and the two spaceships come hurtling out.)
+SEVEN: Initiate another antimatter burst. Now. Fire. 
+(The creature's mouth opens and the two spaceships come hurtling out.)
 QATAI [on monitor]: We're out. 
 SEVEN: Are we certain? 
 EMH: No sign of bioplasmic energy. We've escaped. 
 SEVEN: I�m taking us out of range. Maximum warp. 
 EMH: I'd better see to the crew. 
 QATAI [on monitor]: Well, I'll be on my way. Thanks for your help. 
-SEVEN: Your engines have taken heavy damage. You require our
-assistance. 
-QATAI [on monitor]: No time. The beast is already altering course. I�ll
-handle repairs myself. 
+SEVEN: Your engines have taken heavy damage. You require our assistance. 
+QATAI [on monitor]: No time. The beast is already altering course. I�ll handle repairs myself. 
 SEVEN: The procedure would take several days. 
-QATAI [on monitor]: Don't worry about me. Just get your ship home. And
-watch out for pitcher plants.
+QATAI [on monitor]: Don't worry about me. Just get your ship home. And watch out for pitcher plants. 
 [Bridge]
-(The crew are waking up on their own.)JANEWAY:
-Location? 
+(The crew are waking up on their own.)
+JANEWAY: Location? 
 PARIS: We're still in the Delta Quadrant. 
 JANEWAY: Scan the wormhole. Find out what went wrong. 
 PARIS: It's gone. I can't find it on sensors. 
-KIM: Captain, bridge controls have been routed to Engineering. Ops,
-tactical, helm, all of it. 
+KIM: Captain, bridge controls have been routed to Engineering. Ops, tactical, helm, all of it. 
 JANEWAY: Bridge to Engineering. 
 SEVEN [OC]: Yes, Captain. 
 JANEWAY: Seven? What's going on? 
 [Engineering]
-SEVEN:
-The Doctor will explain. I will file a complete report in the morning,
-after I have regenerated.
-Captain's
-log, 52542.3. we've deployed a series of beacons to warn other vessels
-about the bioplasmic creature and resumed a course for home. Our real
-home.
-[Astrometrics
-lab]
-(Seven enters to find Naomi at the console.)SEVEN:
-Naomi Wildman. 
+SEVEN: The Doctor will explain. I will file a complete report in the morning, after I have regenerated. 
+Captain's log, 52542.3. we've deployed a series of beacons to warn other vessels about the bioplasmic creature and resumed a course for home. Our real home. 
+[Astrometrics lab]
+(Seven enters to find Naomi at the console.)
+SEVEN: Naomi Wildman. 
 NAOMI: Don't worry. My presence here is authorised. 
 SEVEN: By whom? 
 NAOMI: Mom. She thinks I need to learn more about Earth. 
-SEVEN: I see. And does studying this image increase your desire to go
-there? 
+SEVEN: I see. And does studying this image increase your desire to go there? 
 NAOMI: Not really. 
 SEVEN: I concur. It is unremarkable. 
-NAOMI: But my mom likes it, and even Neelix can't wait to get there, so
-I guess it can't be that bad. 
-SEVEN: Given this crew's determination to return home, I have no doubt
-we will see it for ourselves someday. (Once more, Qatai flies towards his nemesis, his white whale.)  
+NAOMI: But my mom likes it, and even Neelix can't wait to get there, so I guess it can't be that bad. 
+SEVEN: Given this crew's determination to return home, I have no doubt we will see it for ourselves someday. 
+(Once more, Qatai flies towards his nemesis, his white whale.) 
 

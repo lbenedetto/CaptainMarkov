@@ -1,38 +1,26 @@
 Episode Number: 239
 The Next Generation Transcripts - Aquiel
 Aquiel
-Stardate:
-46461.3
+Stardate: 46461.3
 Original Airdate: 1 Feb, 1993
- 
-Captain's log, stardate 46461.3. We have arrived at a communication
-relay station near the Klingon border, where we are scheduled to
-deliver supplies. However, the station has not responded to repeated
-hails. 
+Captain's log, stardate 46461.3. We have arrived at a communication relay station near the Klingon border, where we are scheduled to deliver supplies. However, the station has not responded to repeated hails. 
 [Relay Station ops]
 (an away team arrives to investigate) 
 CRUSHER: What's that noise? 
-LAFORGE: They must've left an audio monitoring system on. We're hearing
-a few thousand subspace messages. I'll try and shut it off. Got it. 
+LAFORGE: They must've left an audio monitoring system on. We're hearing a few thousand subspace messages. I'll try and shut it off. Got it. 
 (peace descends, revealing a banging sound) 
 RIKER: Geordi, what's that? 
-LAFORGE: I don't know. Sounds like a loose panel or something. I think
-it's coming from this service duct over here. 
+LAFORGE: I don't know. Sounds like a loose panel or something. I think it's coming from this service duct over here. 
 (he pulls a piece of equipment away from the wall to reveal) 
 RIKER: Here's your loose panel. 
 (the sound is of a wagging tail hitting the metal. woof!) 
-LAFORGE: Hey, pooch. hey, pooch, come on out of there. Come on. Come
-on. Hey, pooch, what are you doing in there?
+LAFORGE: Hey, pooch. hey, pooch, come on out of there. Come on. Come on. Hey, pooch, what are you doing in there?
 WORF: Commander, the shuttlecraft is gone. There is no one on board. 
 CRUSHER: Commander? 
 RIKER: What is it? 
-CRUSHER: Cellular residue. I believe these are the remains of one of
-our lieutenants. 
+CRUSHER: Cellular residue. I believe these are the remains of one of our lieutenants. 
 (Worf is cutting the deck plate out with his phaser) 
-CRUSHER: All of the blood traces I found match those of Lieutenant
-Aquiel Uhnari. I'll assume those are her remains but I'll need to take
-the
-deck plate back to Sickbay just to be sure. 
+CRUSHER: All of the blood traces I found match those of Lieutenant Aquiel Uhnari. I'll assume those are her remains but I'll need to take the deck plate back to Sickbay just to be sure. 
 RIKER: It would take a powerful weapon to do that. 
 CRUSHER: I'll have a better idea once I've analysed the deck plate. 
 RIKER: If that is Uhnari, where's Rocha? 
@@ -40,247 +28,128 @@ CRUSHER: The station's shuttle's gone. Maybe he took it.
 RIKER: Before Uhnari died or after? 
 WORF: We're ready, Commander. 
 RIKER: Did you have any luck downloading the station logs? 
-LAFORGE: Not yet. I can't get past these security lock-outs, and I
-think I know why. All encrypted subspace messages are sent through this
-channel. Take a look at this signal notation. 
+LAFORGE: Not yet. I can't get past these security lock-outs, and I think I know why. All encrypted subspace messages are sent through this channel. Take a look at this signal notation. 
 RIKER: It's out of sequence. 
-LAFORGE: Looks like somebody tried to by pass the access protocols and
-break into the coded messages. It caused the security lockouts to
-freeze right up. 
+LAFORGE: Looks like somebody tried to by pass the access protocols and break into the coded messages. It caused the security lockouts to freeze right up. 
 RIKER: Are there any messages missing? 
 LAFORGE: I won't know until I get into the files. 
 RIKER: Looks like you've made a friend. 
 LAFORGE: Yeah. 
-RIKER: We're going to back to the ship. Let me know as soon as you have
-something. 
+RIKER: We're going to back to the ship. Let me know as soon as you have something. 
 LAFORGE: I'm going to try accessing the logs from another console. 
-(he and the dog go into an adjoining room where a monitor is displaying
-static)
+(he and the dog go into an adjoining room where a monitor is displaying static) 
 [Aquiel's quarters]
 (the monitor screen is all static) 
-LAFORGE: What's going on here? Well, we can start with repolarising the
-interface. 
-(woof! The dog is on a bed. There is a display stand with a few items
-on it) 
-LAFORGE: What is it, pup? What's the matter? Something over here? (a
-curved gold thing with blue stones) This doesn't look like it belongs
-to you. Ah, This what you want, huh? (a bone-shaped chew) There you go.
-Computer, run station logs in sequence. 
-AQUIEL [OC]: Station log, stardate 46458.3. Today we configured the
-relay controller grid. It was the last primary system we had to
-overhaul. We are scheduled to recalibrate and align the antennae
-systems in the next three days. 
+LAFORGE: What's going on here? Well, we can start with repolarising the interface. 
+(woof! The dog is on a bed. There is a display stand with a few items on it) 
+LAFORGE: What is it, pup? What's the matter? Something over here? (a curved gold thing with blue stones) This doesn't look like it belongs to you. Ah, This what you want, huh? (a bone-shaped chew) There you go. Computer, run station logs in sequence. 
+AQUIEL [OC]: Station log, stardate 46458.3. Today we configured the relay controller grid. It was the last primary system we had to overhaul. We are scheduled to recalibrate and align the antennae systems in the next three days. 
 LAFORGE: Computer, access visual output. 
-AQUIEL [OC]: Sent in my third request for a message delay buffer. Until
-it arrives, Lieutenant Rocha and I have rigged a memory module to
-compensate. It better work, or about a half million subspace messages
-are going to end up drifting through space. Computer, open Uhnari
-correspondence file. 
-LAFORGE: Computer, access correspondence files, Lieutenant Aquiel
-Uhnari. 
-AQUIEL [OC]: Hello, Shiana. Sorry I haven't talked to you in a while
-but I've been dealing with the new Lieutenant, Rocha. So far he's been
-rude, arrogant and condescending, and he's only been here two days.
-This might be a long year. 
+AQUIEL [OC]: Sent in my third request for a message delay buffer. Until it arrives, Lieutenant Rocha and I have rigged a memory module to compensate. It better work, or about a half million subspace messages are going to end up drifting through space. Computer, open Uhnari correspondence file. 
+LAFORGE: Computer, access correspondence files, Lieutenant Aquiel Uhnari. 
+AQUIEL [OC]: Hello, Shiana. Sorry I haven't talked to you in a while but I've been dealing with the new Lieutenant, Rocha. So far he's been rude, arrogant and condescending, and he's only been here two days. This might be a long year. 
 LAFORGE: Come on, Lieutenant. Stick with me. 
-AQUIEL [OC]: I had the dream again. Mother's calling out my name. She's
-somewhere in the house. I get to the top of the hill all right, but
-then the house is slanted. I'm still walking uphill. I can't find her.
-Doors everywhere and they all look the same.
+AQUIEL [OC]: I had the dream again. Mother's calling out my name. She's somewhere in the house. I get to the top of the hill all right, but then the house is slanted. I'm still walking uphill. I can't find her. Doors everywhere and they all look the same. 
 [Sickbay]
-CRUSHER: The cellular residue is completely fused
-with to metal of the deck plate. We're trying to micro-vaporise the
-metal in order to get a clear DNA sample. 
+CRUSHER: The cellular residue is completely fused with to metal of the deck plate. We're trying to micro-vaporise the metal in order to get a clear DNA sample. 
 PICARD: Do you have any idea what killed her? 
-CRUSHER: Well this is just a guess, but from the molecular deposition
-on the plating I'd say it was a high-level phaser blast. 
+CRUSHER: Well this is just a guess, but from the molecular deposition on the plating I'd say it was a high-level phaser blast. 
 RIKER: Could it have been a Klingon disruptor? 
 CRUSHER: Possibly. 
-RIKER: Geordi's found evidence that the encrypted messages have been
-tampered with, and we are close to Klingon space. 
-PICARD: There hasn't been a Klingon raid against the Federation for
-more than seven years. We can't risk a diplomatic incident until we
-have more evidence. 
-CRUSHER: And there's still the question of what happened to Lieutenant
-Rocha. 
-PICARD: Get Rocha's personnel file from Starfleet Command, and ask
-Starbase two twelve to help us find that shuttle. 
+RIKER: Geordi's found evidence that the encrypted messages have been tampered with, and we are close to Klingon space. 
+PICARD: There hasn't been a Klingon raid against the Federation for more than seven years. We can't risk a diplomatic incident until we have more evidence. 
+CRUSHER: And there's still the question of what happened to Lieutenant Rocha. 
+PICARD: Get Rocha's personnel file from Starfleet Command, and ask Starbase two twelve to help us find that shuttle. 
 RIKER: Aye, sir. 
-PICARD: Keep me apprised, Doctor.
+PICARD: Keep me apprised, Doctor. 
 [Aquiel's quarters]
-(the monitor screen is still stubbornly displaying
-static) 
-LAFORGE: All right, let's try this again. Come on, this should be
-working. The phase inducters are aligned. Come on, Lieutenant, I know
-you're in here somewhere. Computer me run a subsystem diagnostic, with
-a frequency range of ten to one hundred megahertz. 
+(the monitor screen is still stubbornly displaying static) 
+LAFORGE: All right, let's try this again. Come on, this should be working. The phase inducters are aligned. Come on, Lieutenant, I know you're in here somewhere. Computer me run a subsystem diagnostic, with a frequency range of ten to one hundred megahertz. 
 COMPUTER: Diagnostic cycle will be complete in twenty seconds. 
 LAFORGE: Iced coffee? 
 (the replicator produces his drink and the dog barks) 
 LAFORGE: What is it, girl? 
 (he's finally got an image - of a young dark-skinned alien woman) 
-AQUIEL [on monitor]: Hello, Shiana. By the time you get this the
-Batarael will be over. This is the first time I haven't been there.
-I've been wondering, who's singing the Horath in my place. (sings)
-Jomiael hahnalia ma marou nitalia. Rumael tavariel fatra di va Jomiael.
-(next letter) I had that dream again. The one where Mother is
-screaming. I climb the hill to our house but I can't get to her.
-Shiana, this time I ran away. I was so scared I ran back down the hill.
-I think I know why I've been having the dreams about danger. It's
-because of what's been happening with that Klingon. He's getting more
-aggressive all the time. Not just the usual threat. 
+AQUIEL [on monitor]: Hello, Shiana. By the time you get this the Batarael will be over. This is the first time I haven't been there. I've been wondering, who's singing the Horath in my place. (sings) Jomiael hahnalia ma marou nitalia. Rumael tavariel fatra di va Jomiael. (next letter) I had that dream again. The one where Mother is screaming. I climb the hill to our house but I can't get to her. Shiana, this time I ran away. I was so scared I ran back down the hill. I think I know why I've been having the dreams about danger. It's because of what's been happening with that Klingon. He's getting more aggressive all the time. Not just the usual threat. 
 (Geordi rewinds the message) 
-AQUIEL [on monitor]: It's because of what's been happening with that
-Klingon. He's getting more aggressive all the time. Not just the usual
-threat. Morag actually locked his disruptors to the station this time.
-I don't think there'll be any trouble. It just brings up those feelings
-of panic, of wanting to run, wanting to get away from danger. Shiana, I
-couldn't say this to anyone but you, but the panic? It's the same thing
-I used to feel whenever Father got angry, when I knew he was going to
-punish me. Only now, I'm out here in space, and there's no place to
-run.
+AQUIEL [on monitor]: It's because of what's been happening with that Klingon. He's getting more aggressive all the time. Not just the usual threat. Morag actually locked his disruptors to the station this time. I don't think there'll be any trouble. It just brings up those feelings of panic, of wanting to run, wanting to get away from danger. Shiana, I couldn't say this to anyone but you, but the panic? It's the same thing I used to feel whenever Father got angry, when I knew he was going to punish me. Only now, I'm out here in space, and there's no place to run. 
 [Ready room]
-LAFORGE: There are three references to a Commander
-Morag, a Klingon officer who patrols this section of the border.
-Apparently he would pass the station every few days and harass them. 
-PICARD: Perhaps this Morag was the one who was interested in obtaining
-the encrypted messages. 
-LAFORGE: Could be. She didn't say. But I do have several more days of
-logs left to watch. I'm hoping to learn more. 
-PICARD: Very well. In the meantime, I'll speak with the Klingon
-Governor about Commander Morag.
+LAFORGE: There are three references to a Commander Morag, a Klingon officer who patrols this section of the border. Apparently he would pass the station every few days and harass them. 
+PICARD: Perhaps this Morag was the one who was interested in obtaining the encrypted messages. 
+LAFORGE: Could be. She didn't say. But I do have several more days of logs left to watch. I'm hoping to learn more. 
+PICARD: Very well. In the meantime, I'll speak with the Klingon Governor about Commander Morag. 
 [Bridge]
-TORAK [on viewscreen]: Are you saying we attacked
-your outpost? 
-PICARD: I'm merely saying that I'm following up on evidence that my
-officers discovered on board. 
-TORAK [on viewscreen]: Evidence. So you are making an accusation. The
-Klingon Empire will not stand for these kinds of lies. 
-PICARD: Governor Torak, I apologise. I can see that you honestly didn't
-know what happened aboard the station. I will just have to take this
-matter up with Gowron. I'm really sorry that we bothered you. 
+TORAK [on viewscreen]: Are you saying we attacked your outpost? 
+PICARD: I'm merely saying that I'm following up on evidence that my officers discovered on board. 
+TORAK [on viewscreen]: Evidence. So you are making an accusation. The Klingon Empire will not stand for these kinds of lies. 
+PICARD: Governor Torak, I apologise. I can see that you honestly didn't know what happened aboard the station. I will just have to take this matter up with Gowron. I'm really sorry that we bothered you. 
 TORAK [on viewscreen]: Gowron won't bother with such a minor incident. 
-PICARD: Well, ordinarily he wouldn't, but of course I was his Arbiter
-of Succession. I'm sure that he will be happy to come here and
-investigate this matter. You needn't worry about it any longer. 
+PICARD: Well, ordinarily he wouldn't, but of course I was his Arbiter of Succession. I'm sure that he will be happy to come here and investigate this matter. You needn't worry about it any longer. 
 TORAK [on viewscreen]: Gowron will come here? 
-PICARD: Oh, yes. So once again, thank you for your help. Oh, I will be
-sure to mention your name to Gowron when I speak to him. 
-TORAK [on viewscreen]: I will investigate this further, Picard. You
-need not bother Gowron with this matter. 
+PICARD: Oh, yes. So once again, thank you for your help. Oh, I will be sure to mention your name to Gowron when I speak to him. 
+TORAK [on viewscreen]: I will investigate this further, Picard. You need not bother Gowron with this matter. 
 PICARD: That's very kind. Qapla'! 
 TORAK [on viewscreen]: Qapla'! 
 [La Forge's quarters]
-LAFORGE: Computer access the personal logs of
-Aquiel Uhnari. 
+LAFORGE: Computer access the personal logs of Aquiel Uhnari. 
 COMPUTER: Logs accessed. 
 LAFORGE: Begin playback. 
-AQUIEL [on monitor]: Shiana, you always said I'd look great with a wig,
-so here it is. What do you think? 
+AQUIEL [on monitor]: Shiana, you always said I'd look great with a wig, so here it is. What do you think? 
 LAFORGE: Definitely not you. 
-AQUIEL [on monitor]: (taking the huge construction off) Okay, maybe I'm
-getting a little crazy. You would too, if you were stuck on a relay
-station in the middle of nowhere with no one for company except an
-egomaniac like Keith Rocha. I took a big risk today. I countermanded an
-order he gave. I agreed to handle the comm. traffic for Relay Station
-one nine four while they shut down for maintenance. Rocha said we
-couldn't handle the additional signal load, but I think he's wrong.
-When he finds out he'll be furious. It's days like this I wish I was
-home. You know what I miss most? Muskan seed punch. Real Muskan seed
-punch. You can get it from the replicator, but it's not the same. I'd
-give anything for some of the punch Mother used to make with chunks of
-the seeds still in it. (noises off) Keith, is that you? Keith?
-(recording ends)
+AQUIEL [on monitor]: (taking the huge construction off) Okay, maybe I'm getting a little crazy. You would too, if you were stuck on a relay station in the middle of nowhere with no one for company except an egomaniac like Keith Rocha. I took a big risk today. I countermanded an order he gave. I agreed to handle the comm. traffic for Relay Station one nine four while they shut down for maintenance. Rocha said we couldn't handle the additional signal load, but I think he's wrong. When he finds out he'll be furious. It's days like this I wish I was home. You know what I miss most? Muskan seed punch. Real Muskan seed punch. You can get it from the replicator, but it's not the same. I'd give anything for some of the punch Mother used to make with chunks of the seeds still in it. (noises off) Keith, is that you? Keith? (recording ends) 
 [Relay Station ops]
-WORF: Commander, there are DNA traces here.
-Klingon. 
+WORF: Commander, there are DNA traces here. Klingon. 
 RIKER: So Klingons did board the station? 
-WORF: Yes, but I only found DNA from one Klingon so far. I will
-continue to scan.
+WORF: Yes, but I only found DNA from one Klingon so far. I will continue to scan. 
 [Aquiel's quarters]
 (Geordi is looking at Aquiel's novel) 
 LAFORGE: How could she read this stuff? 
 RIKER: How's it going? 
-LAFORGE: I've managed to access all of Lieutenant Uhnari's logs. I'm
-still looking for Lieutenant Rocha's. Whatever happened to the
-encrypted messages had a cascade effect on the whole storage system. I
-can't find his files anywhere. I'm running a level three diagnostic
-now. 
-RIKER: Maybe Rocha didn't make the official logs. Uhnari could have
-been responsible for them. 
+LAFORGE: I've managed to access all of Lieutenant Uhnari's logs. I'm still looking for Lieutenant Rocha's. Whatever happened to the encrypted messages had a cascade effect on the whole storage system. I can't find his files anywhere. I'm running a level three diagnostic now. 
+RIKER: Maybe Rocha didn't make the official logs. Uhnari could have been responsible for them. 
 LAFORGE: I don't think so. Aquiel was the junior officer here. 
 RIKER: Aquiel? 
-LAFORGE: Lieutenant Uhnari. I've been up all night watching her
-personal logs. I guess I'm starting to feel like I know her. 
+LAFORGE: Lieutenant Uhnari. I've been up all night watching her personal logs. I guess I'm starting to feel like I know her. 
 RIKER: What was she like? 
-LAFORGE: Well she was Hahliian. She had one sister named Shiana, she
-drank muskan seed punch. She had a quirky sense of humour. She liked to
-sing. She had questionable taste in literature. 
+LAFORGE: Well she was Hahliian. She had one sister named Shiana, she drank muskan seed punch. She had a quirky sense of humour. She liked to sing. She had questionable taste in literature. 
 PICARD [OC]: Enterprise to Commander Riker. 
 RIKER: Riker here. 
-PICARD: The Klingon ship Qu'Vat has arrived with Governor Torak. Please
-report to the Observation lounge. 
-RIKER: We're on our way.
+PICARD: The Klingon ship Qu'Vat has arrived with Governor Torak. Please report to the Observation lounge. 
+RIKER: We're on our way. 
 [Observation lounge]
 WORF: Governor Torak, sir. 
 PICARD: Governor. Welcome aboard. 
-TORAK: Do not bore me with your human pleasantries. I told you we did
-not kill the woman. Now I will prove it to you. ghoS! 
+TORAK: Do not bore me with your human pleasantries. I told you we did not kill the woman. Now I will prove it to you. ghoS! 
 (a Klingon escorts a woman into the room) 
 TORAK: This is Lieutenant Aquiel Uhnari. 
 (soon after) 
-AQUIEL: We were running a level two diagnostic of the message buffer,
-Nothing special. Rocha had been on edge all morning, but he'd been
-irritable ever since he got there, so I didn't think anything of it. We
-were halfway through the procedure when suddenly he attacked me. He
-grabbed me, threw me against a bulkhead. I yelled at him to stop but he
-wouldn't listen. He took me by the throat. I broke free and tried to
-get to the weapons locker. I'm not sure what happened next but somehow
-I got aboard the shuttle and left. 
-TORAK: We found her on our side of the border heading toward Sector two
-five two zero. She is lucky my patrol ship did not destroy her vessel
-on sight. 
-PICARD: Lieutenant, why didn't you contact Starfleet? Let them know
-what happened on board the station? 
-AQUIEL: I don't know, sir. Maybe I passed out. I'm not even sure how
-long I was in the shuttle before the Klingons picked me up. 
+AQUIEL: We were running a level two diagnostic of the message buffer, Nothing special. Rocha had been on edge all morning, but he'd been irritable ever since he got there, so I didn't think anything of it. We were halfway through the procedure when suddenly he attacked me. He grabbed me, threw me against a bulkhead. I yelled at him to stop but he wouldn't listen. He took me by the throat. I broke free and tried to get to the weapons locker. I'm not sure what happened next but somehow I got aboard the shuttle and left. 
+TORAK: We found her on our side of the border heading toward Sector two five two zero. She is lucky my patrol ship did not destroy her vessel on sight. 
+PICARD: Lieutenant, why didn't you contact Starfleet? Let them know what happened on board the station? 
+AQUIEL: I don't know, sir. Maybe I passed out. I'm not even sure how long I was in the shuttle before the Klingons picked me up. 
 LAFORGE: Forty six hours. You've been gone forty six hours. 
-CRUSHER: We presumed you were dead. Your blood stains were found at the
-murder scene. 
-AQUIEL: I must have cut my head when he pushed me against the bulkhead.
+CRUSHER: We presumed you were dead. Your blood stains were found at the murder scene. 
+AQUIEL: I must have cut my head when he pushed me against the bulkhead. 
 WORF: Then the remains we found must be those of Lieutenant Rocha. 
-CRUSHER: I can't confirm that. Until we're able to separate the
-cellular residue from the
-deck plate, I won't be able to do a clear DNA scan. 
-RIKER: You said you were trying to get to the weapons locker. Is there
-a possibility
-that you did? 
+CRUSHER: I can't confirm that. Until we're able to separate the cellular residue from the deck plate, I won't be able to do a clear DNA scan. 
+RIKER: You said you were trying to get to the weapons locker. Is there a possibility that you did? 
 AQUIEL: No, I didn't. 
 RIKER: You're sure? 
-AQUIEL: I don't remember exactly what happened to me after I was
-attacked. I'm sorry. It's as if all my memories were drained out of me.
-LAFORGE: Your logs said that a Commander Morag had been harassing you.
-Did you let him or any other Klingon aboard the station? 
+AQUIEL: I don't remember exactly what happened to me after I was attacked. I'm sorry. It's as if all my memories were drained out of me. 
+LAFORGE: Your logs said that a Commander Morag had been harassing you. Did you let him or any other Klingon aboard the station? 
 AQUIEL: Absolutely not. 
-WORF: If that is true, then Morag or some other Klingon must have
-boarded the station after she left. We found traces of Klingon DNA on
-the station. 
+WORF: If that is true, then Morag or some other Klingon must have boarded the station after she left. We found traces of Klingon DNA on the station. 
 TORAK: You still try to blame us. 
 WORF: Have the courage to admit your mistakes. Or are you a lo'Be Vos? 
 TORAK: At least I do not wear the uniform of the P'tak! 
-PICARD: Governor, we are merely exploring all the possibilities.
-Lieutenant Uhnari's logs reported that Commander Morag had been
-harassing the station. 
+PICARD: Governor, we are merely exploring all the possibilities. Lieutenant Uhnari's logs reported that Commander Morag had been harassing the station. 
 TORAK: He was doing his job. 
-PICARD: If he was only doing his job, then I'm sure you won't mind if
-we spoke with him. 
-TORAK: Very well. In the interests of diplomacy, I will allow you to
-speak to Morag. But my patience has limits. 
+PICARD: If he was only doing his job, then I'm sure you won't mind if we spoke with him. 
+TORAK: Very well. In the interests of diplomacy, I will allow you to speak to Morag. But my patience has limits. 
 (Torak and his aide storm out) 
-LAFORGE: Lieutenant, I know a friend of yours who's very eager to see
-you. 
+LAFORGE: Lieutenant, I know a friend of yours who's very eager to see you. 
 AQUIEL: Who? 
-LAFORGE: Come with me.
+LAFORGE: Come with me. 
 [La Forge's quarters]
 AQUIEL: Maura! Come here, girl. Come on, Maura.
 LAFORGE: Maura. That's the name. 
@@ -289,12 +158,9 @@ LAFORGE: I'm not much for gothic fiction.
 AQUIEL: Not many people are nowadays. Oh, your shoe. 
 LAFORGE: Yeah, Maura got a little restless. 
 AQUIEL: Maura, shame on you. That's not like you. What a naughty dog. 
-LAFORGE: It's all right, don't worry about it. At least she's chewing
-them up in pairs. I'll arrange quarters for you. I'm sure you want some
-time alone. 
-AQUIEL: Actually I've been stuck on that station for over nine months.
-I wouldn't mind going someplace with some activity. 
-LAFORGE: I know just the place.
+LAFORGE: It's all right, don't worry about it. At least she's chewing them up in pairs. I'll arrange quarters for you. I'm sure you want some time alone. 
+AQUIEL: Actually I've been stuck on that station for over nine months. I wouldn't mind going someplace with some activity. 
+LAFORGE: I know just the place. 
 [Ten Forward]
 BARMAN: Here you are, sir. 
 (Geordi takes two glasses to a table) 
@@ -302,333 +168,207 @@ AQUIEL: Thank you.
 LAFORGE: You're welcome. 
 AQUIEL: Mmmm. Have you ever tried Muskan seed punch? 
 LAFORGE: Yeah. It nearly made me sick. 
-AQUIEL: You have to be raised on it. It's very nutritious. The taste
-grows on you. 
+AQUIEL: You have to be raised on it. It's very nutritious. The taste grows on you. 
 LAFORGE: Batar al nalia. 
 AQUIEL: You speak Hahliian. 
-LAFORGE: We travelled around quite a bit when I was growing up. I
-picked up a couple of languages along the way. 
-AQUIEL: We never travelled. My family lived in the same house for five
-generations. 
+LAFORGE: We travelled around quite a bit when I was growing up. I picked up a couple of languages along the way. 
+AQUIEL: We never travelled. My family lived in the same house for five generations. 
 LAFORGE: The one on the hill. 
 AQUIEL: How do you know about that? 
-LAFORGE: Well, to be honest, when we thought you were dead I needed to
-review your logs and personal correspondence for any possible clues
-about what happened. 
+LAFORGE: Well, to be honest, when we thought you were dead I needed to review your logs and personal correspondence for any possible clues about what happened. 
 AQUIEL: All of it? 
-LAFORGE: Most of it, yeah. You need to understand that we thought you'd
-been murdered. We needed information. 
-AQUIEL: I'm sorry. It's just that I tell my sister things I wouldn't
-tell anyone else. I guess I was feeling a little exposed. 
+LAFORGE: Most of it, yeah. You need to understand that we thought you'd been murdered. We needed information. 
+AQUIEL: I'm sorry. It's just that I tell my sister things I wouldn't tell anyone else. I guess I was feeling a little exposed. 
 LAFORGE: I'd feel the same way. 
 AQUIEL: Especially if I had seen you in that wig. 
 LAFORGE: It really wasn't you. 
 AQUIEL: I'm curious. Now that you've met me, am I what you expected? 
-LAFORGE: Actually, I'm not sure. The woman I saw in those logs is very
-complicated. I think there's more to you than meets the eye,
-Lieutenant. 
+LAFORGE: Actually, I'm not sure. The woman I saw in those logs is very complicated. I think there's more to you than meets the eye, Lieutenant. 
 AQUIEL: In what way? 
-LAFORGE: Well, your relationship with Lieutenant Rocha, for example. He
-was only there for five days and yet there was evidence of plenty of
-friction. You seemed to delight in doing things that you knew would
-upset him. Why take on extra comm. traffic when you knew it was going
-to make him angry? 
+LAFORGE: Well, your relationship with Lieutenant Rocha, for example. He was only there for five days and yet there was evidence of plenty of friction. You seemed to delight in doing things that you knew would upset him. Why take on extra comm. traffic when you knew it was going to make him angry? 
 AQUIEL: Is that a personal question or part of a murder investigation? 
 LAFORGE: I don't know. Maybe both. 
-AQUIEL: Keith Rocha was obnoxious from the minute he reported to duty.
-He treated me as though I was beneath contempt. I felt like I had to
-battle him to hold my own. But I didn't want to see him dead. 
+AQUIEL: Keith Rocha was obnoxious from the minute he reported to duty. He treated me as though I was beneath contempt. I felt like I had to battle him to hold my own. But I didn't want to see him dead. 
 LAFORGE: Why do you think he attacked you? 
-AQUIEL: I don't know.
+AQUIEL: I don't know. 
 [Ready room]
-RIKER: Rocha's file is spotless. Two decorations
-for valour, three outstanding evaluations from his previous commanders.
-Doesn't sound like the same man that Lieutenant Uhnari described. 
+RIKER: Rocha's file is spotless. Two decorations for valour, three outstanding evaluations from his previous commanders. Doesn't sound like the same man that Lieutenant Uhnari described. 
 PICARD: What did you found out about Uhnari? 
-RIKER: I checked into her record, too. Her last posting was on Deriben
-Five. I spoke to her commanding officer there. He said she was
-argumentative, quick to take offence. He also told me he transferred
-her to that relay station because she was hampering their efforts. To
-be honest, I'm having trouble believing her story, sir. 
+RIKER: I checked into her record, too. Her last posting was on Deriben Five. I spoke to her commanding officer there. He said she was argumentative, quick to take offence. He also told me he transferred her to that relay station because she was hampering their efforts. To be honest, I'm having trouble believing her story, sir. 
 PICARD: Why? 
-RIKER: I sent Worf to check the weapons locker on the relay station.
-There's a phaser missing. 
+RIKER: I sent Worf to check the weapons locker on the relay station. There's a phaser missing. 
 PICARD: You think that she lied? 
-RIKER: Lied, conveniently forgot, I'm not sure. I think it's something
-we have to consider. 
-PICARD: As of now, we don't have sufficient evidence one way or the
-other. I want you to examine her shuttle. You might find something
-there which will shed some light on her story. 
-RIKER: Aye, sir.
+RIKER: Lied, conveniently forgot, I'm not sure. I think it's something we have to consider. 
+PICARD: As of now, we don't have sufficient evidence one way or the other. I want you to examine her shuttle. You might find something there which will shed some light on her story. 
+RIKER: Aye, sir. 
 [Corridor]
-AQUIEL: How much longer do you think the
-investigation will take? 
+AQUIEL: How much longer do you think the investigation will take? 
 LAFORGE: Three, maybe four days. It's tough to tell. 
-AQUIEL: I know I'm a suspect in the murder, but let me ask you
-something. You've watched my logs. You know me better than anyone here.
-Do I seem like the kind of person who could murder someone? 
+AQUIEL: I know I'm a suspect in the murder, but let me ask you something. You've watched my logs. You know me better than anyone here. Do I seem like the kind of person who could murder someone? 
 LAFORGE: No, you don't. 
 AQUIEL: I don't think I realised how much I needed to hear that. 
-LAFORGE: Look, Aquiel, it's been a rough couple of days. I think you
-need some sleep. 
-AQUIEL: You called me complicated. You're right. I don't make friends
-easily. Oumriel. 
+LAFORGE: Look, Aquiel, it's been a rough couple of days. I think you need some sleep. 
+AQUIEL: You called me complicated. You're right. I don't make friends easily. Oumriel. 
 (she strokes his face and goes into her quarters) 
 LAFORGE: Oumriel. 
 [Aquiel's shuttlecraft]
 (Worf finds a phaser) 
-WORF: Commander. It is set to kill.
+WORF: Commander. It is set to kill. 
 [Guest quarters]
-RIKER: We found this type two phaser in your
-shuttlecraft. It was taken from the weapons locker on the station. 
-AQUIEL: I told you I don't remember what happened. Maybe I did make to
-the weapons locker. 
-RIKER: It was set to level ten. Standard procedure requires that all
-phasers are set on level one when they're in storage. 
-WORF: That means that someone deliberately changed the setting. And
-then there is the matter of your conflict with Lieutenant Rocha. 
-AQUIEL: Rocha and I had our disagreements but that does not mean I
-would kill him. 
-RIKER: Have you been able to remember anything that happened after he
-attacked you? 
+RIKER: We found this type two phaser in your shuttlecraft. It was taken from the weapons locker on the station. 
+AQUIEL: I told you I don't remember what happened. Maybe I did make to the weapons locker. 
+RIKER: It was set to level ten. Standard procedure requires that all phasers are set on level one when they're in storage. 
+WORF: That means that someone deliberately changed the setting. And then there is the matter of your conflict with Lieutenant Rocha. 
+AQUIEL: Rocha and I had our disagreements but that does not mean I would kill him. 
+RIKER: Have you been able to remember anything that happened after he attacked you? 
 AQUIEL: No. Nothing. I suppose maybe in self-defence I 
-RIKER: Doctor Crusher tells me that in order to inflict the kind of
-molecular damage found in Rocha's remains, it would take a sustained
-phaser discharge of at least thirty to forty seconds. That doesn't
-sound like self-defence to me. 
-LAFORGE: Now wait a minute. We haven't even established this phaser is
-the murder weapon yet. And even at level ten I don't see how it could
-have done the damage the medical evidence says it did. A phase
-disruptor like a Klingon weapon, maybe. 
-RIKER: Look, we're not here to make accusations. We're trying to find
-out what happened. Commander Morag is due here in two hours. Let's see
-what he has to say. 
-LAFORGE: Fine. In the meantime I'd like to go back to the station and
-see if I can access Rocha's personal logs again. 
-RIKER: Good idea.
+RIKER: Doctor Crusher tells me that in order to inflict the kind of molecular damage found in Rocha's remains, it would take a sustained phaser discharge of at least thirty to forty seconds. That doesn't sound like self-defence to me. 
+LAFORGE: Now wait a minute. We haven't even established this phaser is the murder weapon yet. And even at level ten I don't see how it could have done the damage the medical evidence says it did. A phase disruptor like a Klingon weapon, maybe. 
+RIKER: Look, we're not here to make accusations. We're trying to find out what happened. Commander Morag is due here in two hours. Let's see what he has to say. 
+LAFORGE: Fine. In the meantime I'd like to go back to the station and see if I can access Rocha's personal logs again. 
+RIKER: Good idea. 
 [Corridor]
-RIKER: Geordi, wait a second. Thank you, Mister
-Worf. 
+RIKER: Geordi, wait a second. Thank you, Mister Worf. 
 WORF: Aye, sir. 
-RIKER: This is off the record. I'm saying this as a friend, not your
-superior officer. I think it would be best if you weren't so personally
-involved with Aquiel right now. There's a lot about her we don't know. 
-LAFORGE: And there's a lot about her that I do know, and if she's
-innocent I want to help her prove it. 
+RIKER: This is off the record. I'm saying this as a friend, not your superior officer. I think it would be best if you weren't so personally involved with Aquiel right now. There's a lot about her we don't know. 
+LAFORGE: And there's a lot about her that I do know, and if she's innocent I want to help her prove it. 
 RIKER: I think you've let your personal feelings cloud your judgement. 
-LAFORGE: I'm not the one making judgements.
+LAFORGE: I'm not the one making judgements. 
 [Relay Station ops]
-LAFORGE: Got it. Computer, display the personal
-records of Lieutenant Rocha from stardates 46455 to 46460. 
+LAFORGE: Got it. Computer, display the personal records of Lieutenant Rocha from stardates 46455 to 46460. 
 (the logs for station 047 scroll through the monitor) 
-LAFORGE: Computer, what happened to the log entries for stardate 46459?
+LAFORGE: Computer, what happened to the log entries for stardate 46459? 
 COMPUTER: The logs have been deleted. 
 LAFORGE: Who deleted them? 
 COMPUTER: Unknown. 
-Captain's log, supplemental. The Qu'Vat has arrived
-with Commander Morag. We are preparing to question him regarding his
-involvement in the murder of Lieutenant Rocha.
+Captain's log, supplemental. The Qu'Vat has arrived with Commander Morag. We are preparing to question him regarding his involvement in the murder of Lieutenant Rocha. 
 [Observation lounge]
 MORAG: I killed no one! 
-RIKER: We found your DNA on the bulkheads and the console. We know you
-were there. 
+RIKER: We found your DNA on the bulkheads and the console. We know you were there. 
 TORAK: Answer their questions. 
-MORAG: Yes. Yes, I was there. My patrol route takes me near the station
-every six days. Three days ago, I hailed them. There was no response. I
-was concerned. 
+MORAG: Yes. Yes, I was there. My patrol route takes me near the station every six days. Three days ago, I hailed them. There was no response. I was concerned. 
 TROI: Concerned? 
-MORAG: Yes. I went aboard to see what had happened. There was no one
-was there, so I left. 
+MORAG: Yes. I went aboard to see what had happened. There was no one was there, so I left. 
 RIKER: Is that all? 
 MORAG: That's all. 
-DATA: Commander Morag, we have discovered that the encrypted message
-bank on the station has been tampered with. Our analysis indicates that
-twenty seven priority Starfleet messages are missing. 
+DATA: Commander Morag, we have discovered that the encrypted message bank on the station has been tampered with. Our analysis indicates that twenty seven priority Starfleet messages are missing. 
 MORAG: What of it? 
 DATA: Your DNA was also found on the message control module. 
-MORAG: This is outrageous! We will not tolerate these ridiculous
-accusations! 
-TORAK: This is a diplomatic matter, Morag! Do not make me search your
-ship. 
+MORAG: This is outrageous! We will not tolerate these ridiculous accusations! 
+TORAK: This is a diplomatic matter, Morag! Do not make me search your ship. 
 MORAG: Yes, I did take the messages. 
 PICARD: Did you kill Lieutenant Rocha? 
-MORAG: No. I killed no one. There was no one there. I took the codes,
-but I killed no one. 
-PICARD: Governor, we would like Commander Morag to remain on board the
-Enterprise until this investigation is complete. 
+MORAG: No. I killed no one. There was no one there. I took the codes, but I killed no one. 
+PICARD: Governor, we would like Commander Morag to remain on board the Enterprise until this investigation is complete. 
 TORAK: Take him. 
-WORF: This way.
+WORF: This way. 
 [Relay Station ops]
-LAFORGE: Last night, after I dropped you off at
-your quarters you established a subspace link with this console.
-You deleted some of Rocha's personal files, didn't you? 
+LAFORGE: Last night, after I dropped you off at your quarters you established a subspace link with this console. You deleted some of Rocha's personal files, didn't you? 
 AQUIEL: Yes, I did. 
 LAFORGE: Why? 
-AQUIEL: I found a letter Rocha was planning to send to Starfleet
-Command about me. The letter said I had become belligerent and
-insubordinate. He was going to ask for a formal hearing. Geordi, I know
-how this looks. 
-LAFORGE: Yeah, it looks bad. I find out that you've erased a letter
-that contained a possible motivation for murder? 
+AQUIEL: I found a letter Rocha was planning to send to Starfleet Command about me. The letter said I had become belligerent and insubordinate. He was going to ask for a formal hearing. Geordi, I know how this looks. 
+LAFORGE: Yeah, it looks bad. I find out that you've erased a letter that contained a possible motivation for murder? 
 AQUIEL: I didn't kill him. 
 LAFORGE: Then explain this. 
-AQUIEL: I was afraid if they found the letter they'd blame me for the
-murder. I'm not a model officer. I realise that. Sometimes I act on
-impulse instead of thinking things through. 
+AQUIEL: I was afraid if they found the letter they'd blame me for the murder. I'm not a model officer. I realise that. Sometimes I act on impulse instead of thinking things through. 
 LAFORGE: Aquiel, this really complicates things. 
-[Aquiel's quarters] 
+[Aquiel's quarters]
 (she grabs a case and starts packing) 
 LAFORGE: What are you doing? 
 AQUIEL: Getting out of here. 
-LAFORGE: Aquiel, running away isn't going to prove your innocence.
-Facing the situation will. 
+LAFORGE: Aquiel, running away isn't going to prove your innocence. Facing the situation will. 
 AQUIEL: I'm scared, Geordi. 
 LAFORGE: Look, we'll get through this. I promise you, okay? 
 AQUIEL: Then you believe me? 
 LAFORGE: Yes, I do. 
-(Geordi kisses and hugs her)
-Medical Officer's log, supplemental. I've isolated
-the cellular residue from the
-deck plate, but the DNA has destabilised. I'm attempting to reform it. 
+(Geordi kisses and hugs her) 
+Medical Officer's log, supplemental. I've isolated the cellular residue from the deck plate, but the DNA has destabilised. I'm attempting to reform it. 
 [Sickbay]
-CRUSHER: All right. Initiate the resonance
-frequency burst. 
+CRUSHER: All right. Initiate the resonance frequency burst. 
 (Beverly runs a device over some orange gloop in a bowl) 
 ;
-CRUSHER: I'm starting to get a stable DNA scan. This is odd. The
-nucleotide sequences are starting to fluctuate. The DNA is becoming
-mobile. Let's try another frequency burst, but increase the resonance
-level by twenty percent. 
-(the orange gloop reaches out and touches Beverly's hand, then turns
-into a copy of that hand)
+CRUSHER: I'm starting to get a stable DNA scan. This is odd. The nucleotide sequences are starting to fluctuate. The DNA is becoming mobile. Let's try another frequency burst, but increase the resonance level by twenty percent. 
+(the orange gloop reaches out and touches Beverly's hand, then turns into a copy of that hand) 
 [Aquiel's quarters]
-AQUIEL: I haven't been this close to someone in a
-long time. I don't want to let go of it. 
+AQUIEL: I haven't been this close to someone in a long time. I don't want to let go of it. 
 LAFORGE: Neither do I, but I've got six hundred logs to go through. 
-AQUIEL: All right, but first there's something I want to share with
-you. A way that we can become more intimate. My people are partially
-telepathic. We use something called the Canar to help focus our
-thoughts. We also use the Canar for a stronger emotional link during
-love. 
+AQUIEL: All right, but first there's something I want to share with you. A way that we can become more intimate. My people are partially telepathic. We use something called the Canar to help focus our thoughts. We also use the Canar for a stronger emotional link during love. 
 (Aquiel picks up a crystal from her display stand) 
-LAFORGE: I was wondering what that was for. Do both of us have to be
-telepathic for it to work? 
+LAFORGE: I was wondering what that was for. Do both of us have to be telepathic for it to work? 
 AQUIEL: Let's find out. 
-(they kneel either side of the bed, with the Canar in the middle.
-Aquiel reaches for Geordi's visor. He takes her hands and guides them) 
+(they kneel either side of the bed, with the Canar in the middle. Aquiel reaches for Geordi's visor. He takes her hands and guides them) 
 LAFORGE: Like this. 
 (she puts their hands on the Canar) 
-AQUIEL: Think of me.
+AQUIEL: Think of me. 
 [Sickbay]
-CRUSHER: It's an exact reproduction of my hand,
-right down to the DNA structure. 
-PICARD: Doctor, you said that this was formed from the organic matter
-found in the
-deck plates. 
-CRUSHER: When I infused the matter with a resonance frequency burst, it
-activated its DNA. Then it touched my hand and it began to mimic my
-cellular structure. 
+CRUSHER: It's an exact reproduction of my hand, right down to the DNA structure. 
+PICARD: Doctor, you said that this was formed from the organic matter found in the deck plates. 
+CRUSHER: When I infused the matter with a resonance frequency burst, it activated its DNA. Then it touched my hand and it began to mimic my cellular structure. 
 PICARD: Doctor, what exactly is this? 
-CRUSHER: This is going to sound very farfetched, but have you ever
-heard of a coalescent organism? 
+CRUSHER: This is going to sound very farfetched, but have you ever heard of a coalescent organism? 
 PICARD: No. 
-CRUSHER: They're rare microscopic lifeforms which need to absorb other
-organisms in order to survive. Now, that in itself isn't so unusual,
-but coalescents become the organisms they've absorbed, right down to
-the cellular level. 
+CRUSHER: They're rare microscopic lifeforms which need to absorb other organisms in order to survive. Now, that in itself isn't so unusual, but coalescents become the organisms they've absorbed, right down to the cellular level. 
 WORF: Do you think this is what happened with your hand? 
-CRUSHER: There've been reports that these organisms can exist on a
-larger scale. Certainly, what happened to my hand seems to support that
-theory. 
+CRUSHER: There've been reports that these organisms can exist on a larger scale. Certainly, what happened to my hand seems to support that theory. 
 RIKER: So you think that Rocha was killed by one of these organisms? 
-CRUSHER: It's possible that something happened to him before he
-reported for duty on the relay station. 
+CRUSHER: It's possible that something happened to him before he reported for duty on the relay station. 
 WORF: I do not understand. 
-CRUSHER: I've checked the records. Before he was posted to the relay
-station, Rocha served on an outpost in the Triona System. That is a
-remote sector. Maybe he was absorbed by a coalescent during that
-mission. 
-RIKER: So what boarded the station could have been an organism that
-looked and acted like Lieutenant Rocha? 
+CRUSHER: I've checked the records. Before he was posted to the relay station, Rocha served on an outpost in the Triona System. That is a remote sector. Maybe he was absorbed by a coalescent during that mission. 
+RIKER: So what boarded the station could have been an organism that looked and acted like Lieutenant Rocha? 
 WORF: How often do they have to change bodies? 
-CRUSHER: The microscopic organisms have a cycle of no more than five to
-ten seconds. We can only assume a larger, more complex coalescent would
-have a cycle of days, even weeks. 
-PICARD: Doctor, if what you're saying is true, then Rocha attacked
-Lieutenant Uhnari to find a new body. 
+CRUSHER: The microscopic organisms have a cycle of no more than five to ten seconds. We can only assume a larger, more complex coalescent would have a cycle of days, even weeks. 
+PICARD: Doctor, if what you're saying is true, then Rocha attacked Lieutenant Uhnari to find a new body. 
 CRUSHER: Right. 
 RIKER: That means Uhnari is a coalescent. 
-WORF: There was one other person on the station. Morag. It is possible
-he was the one who was absorbed. 
+WORF: There was one other person on the station. Morag. It is possible he was the one who was absorbed. 
 PICARD: Computer, locate Commander Morag and Lieutenant Uhnari. 
-COMPUTER: Commander Morag is in his quarters. Lieutenant Uhnari is not
-aboard the Enterprise. 
+COMPUTER: Commander Morag is in his quarters. Lieutenant Uhnari is not aboard the Enterprise. 
 WORF: Where did she go? 
-COMPUTER: Lieutenant Uhnari transported to Relay Station forty seven at
-eighteen thirty hours. 
+COMPUTER: Lieutenant Uhnari transported to Relay Station forty seven at eighteen thirty hours. 
 RIKER: You get Morag. I'm going to the station. 
-WORF: Aye, sir.
+WORF: Aye, sir. 
 [Aquiel's quarters]
-(the Canar is glowing, changing colour, and La
-Forge is grinning) 
+(the Canar is glowing, changing colour, and La Forge is grinning) 
 AQUIEL: Geordi? 
 LAFORGE: I can see you. Oh. And I can feel you. 
 [Morag's quarters]
 (Worf enters, phaser drawn) 
 WORF: Do not move. 
 MORAG: What is this? 
-WORF: You will come with me.
+WORF: You will come with me. 
 [Aquiel's quarters]
-AQUIEL: You've never been as close to someone as
-you're about to be. Think of me. 
-(the door opens. Geordi grabs for his visor as Riker gestures with his
-phaser) 
+AQUIEL: You've never been as close to someone as you're about to be. Think of me. 
+(the door opens. Geordi grabs for his visor as Riker gestures with his phaser) 
 RIKER: Step away from him, Lieutenant. 
 LAFORGE: What are you doing, Commander? 
 RIKER: That may not be Lieutenant Uhnari. 
 LAFORGE: What? 
 AQUIEL: What are you saying? 
-RIKER: Step away now.
-Medical Officer's Log, supplemental. Commander
-Morag and Lieutenant Uhnari are being kept under close observation. So
-far, no sign of coalescent behaviour has surfaced.
+RIKER: Step away now. 
+Medical Officer's Log, supplemental. Commander Morag and Lieutenant Uhnari are being kept under close observation. So far, no sign of coalescent behaviour has surfaced. 
 [La Forge's quarters]
-RIKER: Aquiel and Morag will be transferred to a
-secure medical facility at Starbase twelve. Maybe we'll know more by
-the time we get there. 
+RIKER: Aquiel and Morag will be transferred to a secure medical facility at Starbase twelve. Maybe we'll know more by the time we get there. 
 LAFORGE: Yeah, right. 
 RIKER: It could be Morag. We don't know for sure. 
 LAFORGE: Sure. 
 RIKER: Get some rest. You've had a rough couple of days. 
 LAFORGE: Thanks. 
 (Riker leaves) 
-LAFORGE: Computer, display the Engineering duty roster for the next
-three days. 
+LAFORGE: Computer, display the Engineering duty roster for the next three days. 
 (Maura sits and watches then starts worrying at his trousers) 
-LAFORGE: Maura, come on, not now. Maura, I said not now. Come on, give
-me a break here. Go lay down! 
+LAFORGE: Maura, come on, not now. Maura, I said not now. Come on, give me a break here. Go lay down! 
 (the dog does, then there's a strange sound) 
 LAFORGE: Maura? 
-(the dog is turning into orange gloop. Geordi scrambles across the room
-and gets a phaser from a drawer. He fires, then ups the power and fires
-again. Eventually the gloop is destroyed)
+(the dog is turning into orange gloop. Geordi scrambles across the room and gets a phaser from a drawer. He fires, then ups the power and fires again. Eventually the gloop is destroyed) 
 [Ten Forward]
-LAFORGE: Maybe the reason you don't remember
-anything that happened after Rocha attacked you is that the coalescing
-process had begun. (drinks arrive) Thank you. Remember when you said
-you felt like the memories had been drained right out of you? That's
-probably exactly what was going on. 
+LAFORGE: Maybe the reason you don't remember anything that happened after Rocha attacked you is that the coalescing process had begun. (drinks arrive) Thank you. Remember when you said you felt like the memories had been drained right out of you? That's probably exactly what was going on. 
 AQUIEL: Then maybe I did take the phaser. 
-LAFORGE: Whatever happened, at least you got away before the process
-took hold. 
+LAFORGE: Whatever happened, at least you got away before the process took hold. 
 AQUIEL: So he turned on Maura. 
 LAFORGE: Right. Well, what now? 
-AQUIEL: I guess I'll be going to Starbase two twelve for re assignment.
-LAFORGE: You know, I had a talk with Chief Pendleton in Communications.
-There's an opening for a level two specialist. 
-AQUIEL: Really? I'm sure the waiting list so long I'd be grey before I
-got here. 
+AQUIEL: I guess I'll be going to Starbase two twelve for re assignment. 
+LAFORGE: You know, I had a talk with Chief Pendleton in Communications. There's an opening for a level two specialist. 
+AQUIEL: Really? I'm sure the waiting list so long I'd be grey before I got here. 
 LAFORGE: I could put in a good word. 
-AQUIEL: It's an appealing offer, but I think I'd rather get here on my
-own merits. Don't be surprised if you see my name on that list. 
+AQUIEL: It's an appealing offer, but I think I'd rather get here on my own merits. Don't be surprised if you see my name on that list. 
 

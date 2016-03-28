@@ -1,32 +1,24 @@
 Episode Number: 40
 The Enterprise Transcripts - Stigma
 Stigma
- Original Airdate: 5 Feb, 2003
-  [Sickbay]
- PHLOX: Your neurolytic enzymes are considerably
-higher than last month. 
+Original Airdate: 5 Feb, 2003
+[Sickbay]
+PHLOX: Your neurolytic enzymes are considerably higher than last month. 
 T'POL: The treatment's no longer effective?
-PHLOX: I told you it was just a matter of time before we'd need
-supplemental medications. This conference is a perfect opportunity.
-Some of your finest physicians will be there. It's essential that I
-speak with them.
+PHLOX: I told you it was just a matter of time before we'd need supplemental medications. This conference is a perfect opportunity. Some of your finest physicians will be there. It's essential that I speak with them.
 T'POL: It's too great a risk. I'd be taken off Enterprise.
-PHLOX: I think I can question them without revealing that you're
-infected.
+PHLOX: I think I can question them without revealing that you're infected.
 T'POL: It's too great a risk.
-PHLOX: I'm afraid we have no choice. Without further treatment, you
-could very possibly die. 
- Captain's Starlog Supplemental: We've entered
-orbit of Dekendi Three where the Interspecies Medical Exchange is
-hosting a conference. We'll be picking up a neutron microscope, but
-more importantly, we'll get a chance to meet one of Phlox's wives. 
- [Corridor] 
- ARCHER: How long's it been, Doc?
+PHLOX: I'm afraid we have no choice. Without further treatment, you could very possibly die. 
+Captain's Starlog Supplemental: We've entered orbit of Dekendi Three where the Interspecies Medical Exchange is hosting a conference. We'll be picking up a neutron microscope, but more importantly, we'll get a chance to meet one of Phlox's wives. 
+[Corridor]
+ARCHER: How long's it been, Doc?
 PHLOX: Oh, I haven't seen Feezal for nearly four years.
-TUCKER: What's the point of having three wives if you never get to see
-them?
-PHLOX: Denobulans are renowned for their patience. (The air lock door opens
-to reveal a petite blonde in a bright pink outfit.) PHLOX: Welcome, my beloved!(They embrace by almost but not quite touching.)
+TUCKER: What's the point of having three wives if you never get to see them?
+PHLOX: Denobulans are renowned for their patience. 
+(The air lock door opens to reveal a petite blonde in a bright pink outfit.) 
+PHLOX: Welcome, my beloved!
+(They embrace by almost but not quite touching.)
 FEEZAL: My beloved.
 PHLOX: Captain Archer, I'd like you to meet my second wife, Feezal. 
 ARCHER: It's a pleasure to have you aboard. 
@@ -34,165 +26,110 @@ FEEZAL: Thank you.
 PHLOX: And this is our Chief Engineer, Commander Tucker.
 TUCKER: Ma'am.
 FEEZAL: I look forward to helping you install the microscope.
-ARCHER: We can hold that off till later. I'm sure the two of you are
-eager to spend some time together.
-PHLOX: Nonsense, Captain. We've been apart for four years. Another
-hour, another day. As I said, we're very patient.
-ARCHER: Well in that case, why don't we have some lunch while the
-microscope's being unloaded?
-FEEZAL: I'd be honoured. (Phlox leads the way.) FEEZAL: Won't you be joining us,
-Commander?
-TUCKER: I'd love to, but I think I should make sure your equipment gets
-up to Sickbay in one piece.
+ARCHER: We can hold that off till later. I'm sure the two of you are eager to spend some time together.
+PHLOX: Nonsense, Captain. We've been apart for four years. Another hour, another day. As I said, we're very patient.
+ARCHER: Well in that case, why don't we have some lunch while the microscope's being unloaded?
+FEEZAL: I'd be honoured. 
+(Phlox leads the way.) 
+FEEZAL: Won't you be joining us, Commander?
+TUCKER: I'd love to, but I think I should make sure your equipment gets up to Sickbay in one piece.
 FEEZAL: Then I'll see you after lunch?
 TUCKER: You bet. 
- [Conference centre] 
- YURIS: It seems odd, doesn't it, that a Denobulan
-physician would be interested in a Vulcan disease.
-PHLOX: One of my colleagues on Denobula has been studying Pa'nar
-Syndrome for some time. Its pathology is quite similar to thymic
-sclerosis. 
+[Conference centre]
+YURIS: It seems odd, doesn't it, that a Denobulan physician would be interested in a Vulcan disease.
+PHLOX: One of my colleagues on Denobula has been studying Pa'nar Syndrome for some time. Its pathology is quite similar to thymic sclerosis. 
 STROMM: Thymic sclerosis?
-PHLOX: It's a nonfatal illness which we've had very little success
-treating. I promised him, my colleague back home, that I'd inquire about
-any recent advances in its treatment. 
-ORATT: We're hesitant to discuss Pa'nar Syndrome, Doctor. This illness
-is unique to a subculture, a small percentage of our population. Their
-behaviour is neither tolerated nor sanctioned.
-PHLOX: My friend is well aware of that. Unfortunately, thymic sclerosis
-is found in all strata of Denobulan society. Developing a cure is of
-paramount importance. 
+PHLOX: It's a nonfatal illness which we've had very little success treating. I promised him, my colleague back home, that I'd inquire about any recent advances in its treatment. 
+ORATT: We're hesitant to discuss Pa'nar Syndrome, Doctor. This illness is unique to a subculture, a small percentage of our population. Their behaviour is neither tolerated nor sanctioned.
+PHLOX: My friend is well aware of that. Unfortunately, thymic sclerosis is found in all strata of Denobulan society. Developing a cure is of paramount importance. 
 YURIS: Do you have any literature on this disease?
-PHLOX: As I told you, I'm currently serving on a Starfleet vessel.
-Humans are not susceptible to it. I could contact my colleague but it
-would take at least five days before we'd receive a response.
+PHLOX: As I told you, I'm currently serving on a Starfleet vessel. Humans are not susceptible to it. I could contact my colleague but it would take at least five days before we'd receive a response.
 STROMM: I'm afraid we'll have returned to Vulcan by then.
-PHLOX: Anything you could provide me with would be instrumental in
-helping the Denobulan people.
-ORATT: We'll have to discuss your request, Doctor. When we've reached a
-decision, we'll contact you aboard your ship.
+PHLOX: Anything you could provide me with would be instrumental in helping the Denobulan people.
+ORATT: We'll have to discuss your request, Doctor. When we've reached a decision, we'll contact you aboard your ship.
 PHLOX: Thank you for your time. 
- [Sickbay] 
- TUCKER: If the reflectometer is supposed to
-amplify the neutron stream, shouldn't it be installed before the
-emitters?
-FEEZAL: It's collimating the neutrons, not amplifying them. If you read
-the instructions, you'll find it's all very clear.
-TUCKER: Oh, I've tried to read the instructions, and they are anything
-but clear. I don't want to brag, but I can take apart and put back
-together just about any piece of equipment I've ever met. It's one of
-the reasons Captain Archer picked me for this mission, because I'm
-really good at following instructions. But these are in 
-FEEZAL: Denobulan. I understand. That's why I'm here. So let's go
-through it slowly. Do you see the threads on the aperture ring?
+[Sickbay]
+TUCKER: If the reflectometer is supposed to amplify the neutron stream, shouldn't it be installed before the emitters?
+FEEZAL: It's collimating the neutrons, not amplifying them. If you read the instructions, you'll find it's all very clear.
+TUCKER: Oh, I've tried to read the instructions, and they are anything but clear. I don't want to brag, but I can take apart and put back together just about any piece of equipment I've ever met. It's one of the reasons Captain Archer picked me for this mission, because I'm really good at following instructions. But these are in 
+FEEZAL: Denobulan. I understand. That's why I'm here. So let's go through it slowly. Do you see the threads on the aperture ring?
 TUCKER: Here.
-FEEZAL: Exactly. Take the smaller condenser lens and screw it on. Now
-remodulate the emitter frequency. That'll initiate the neutron stream.
-TUCKER: Which one? (She is right up close against him as she leans
-across to pick up a piece of equipment.) TUCKER: You're going to have to help me
-with this one.
-FEEZAL: It's very simple. Insert the thick end into this opening. It'll
-automatically programme the frequency. You can pull it out now. The
-stream should be initiated.
-TUCKER: I think I'm getting the hang of it. Maybe if you explain the
-next few steps, I could try and get through some of this on my own.
+FEEZAL: Exactly. Take the smaller condenser lens and screw it on. Now remodulate the emitter frequency. That'll initiate the neutron stream.
+TUCKER: Which one? 
+(She is right up close against him as she leans across to pick up a piece of equipment.) 
+TUCKER: You're going to have to help me with this one.
+FEEZAL: It's very simple. Insert the thick end into this opening. It'll automatically programme the frequency. You can pull it out now. The stream should be initiated.
+TUCKER: I think I'm getting the hang of it. Maybe if you explain the next few steps, I could try and get through some of this on my own. 
 (He makes a little distance between them.) 
 FEEZAL: By all means. You're a very confident young man, aren't you?
 TUCKER: I try to be.
 FEEZAL: You're going to need to come a little closer to see this. 
- [Captain's mess] 
- ARCHER: Have you spoken to Phlox since he got back?
+[Captain's mess]
+ARCHER: Have you spoken to Phlox since he got back?
 T'POL: I wasn't aware he was gone.
-ARCHER: You must've not seen him yesterday morning. He was champing at
-the bit to get down to that conference. Brought back a wish list of
-medical instruments. 
+ARCHER: You must've not seen him yesterday morning. He was champing at the bit to get down to that conference. Brought back a wish list of medical instruments. 
 T'POL: It is the first I.M.E. conference he's attended in over a year.
-ARCHER: He said there was a Vulcan contingent. You might want to go
-down for a visit. You may know one of them.
+ARCHER: He said there was a Vulcan contingent. You might want to go down for a visit. You may know one of them.
 T'POL: There are over one million physicians on Vulcan.
-ARCHER: I would think you'd enjoy spending time with members of your
-own species. (comm. beep) Archer.
-HOSHI [OC]: A Vulcan transport has requested permission to dock, sir.
-They've already left the surface.
-ARCHER: Speak of the devil. Looks like you won't have to go anywhere.
-I'll meet them at Docking port two.
-HOSHI [OC]: They've asked that the doctor join you, and Sub-Commander
-T'Pol.
+ARCHER: I would think you'd enjoy spending time with members of your own species. (comm. beep) Archer.
+HOSHI [OC]: A Vulcan transport has requested permission to dock, sir. They've already left the surface.
+ARCHER: Speak of the devil. Looks like you won't have to go anywhere. I'll meet them at Docking port two.
+HOSHI [OC]: They've asked that the doctor join you, and Sub-Commander T'Pol.
 ARCHER: Let him know, okay?
 HOSHI [OC]: Right away, sir. 
- [Corridor] 
- ARCHER: You have any idea what this is about?
+[Corridor]
+ARCHER: You have any idea what this is about?
 T'POL: I haven't spoken to anyone on the surface.
 ARCHER: You can bet they're not coming up for coffee and doughnuts. 
- [Conference room] 
- (The three Vulcan doctors sit down along one side
-of a table.) 
-ARCHER: Can I get you something? Thanks to Sub-Commander T'Pol, our
-chef has learned to make some pretty decent Plomeek soup.
-ORATT: We appreciate your hospitality, Captain, but we've come to speak
-to your doctor, with your permission.
-ARCHER: Absolutely. If you need anything, just let me know. (He turns to
-leave.) 
+[Conference room]
+(The three Vulcan doctors sit down along one side of a table.) 
+ARCHER: Can I get you something? Thanks to Sub-Commander T'Pol, our chef has learned to make some pretty decent Plomeek soup.
+ORATT: We appreciate your hospitality, Captain, but we've come to speak to your doctor, with your permission.
+ARCHER: Absolutely. If you need anything, just let me know. 
+(He turns to leave.) 
 ORATT: We would appreciate it if T'Pol would remain.
 ARCHER: Sub-Commander. 
 (Phlox and T'Pol sit opposite the Vulcans, as Archer leaves.) 
-ORATT: We've discussed your request. Unfortunately, we are still
-hesitant to share data regarding Pa'nar Syndrome.
-PHLOX: Sub-Commander T'Pol is not aware of my request. I'm curious why
-you asked her to stay.YURIS: You're requesting information about a Vulcan disease, and you
-didn't discuss it with your Vulcan Science Officer?
-PHLOX: That's correct. As far as I know, her expertise does not include
-medicine.
+ORATT: We've discussed your request. Unfortunately, we are still hesitant to share data regarding Pa'nar Syndrome.
+PHLOX: Sub-Commander T'Pol is not aware of my request. I'm curious why you asked her to stay.
+YURIS: You're requesting information about a Vulcan disease, and you didn't discuss it with your Vulcan Science Officer?
+PHLOX: That's correct. As far as I know, her expertise does not include medicine.
 ORATT: Are you familiar with Pa'nar Syndrome, Sub-Commander?
 T'POL: Of course.
 ORATT: Would you mind describing it?
 T'POL: You are physicians. Why would you need me to define an illness?
 ORATT: Please, indulge us.
-T'POL: It's an incurable degradation of the synaptic pathways. It also
-affects the endocrine and immune systems.
-STROMM: An impressive definition. Could you tell us how the disease is
-transmitted?
+T'POL: It's an incurable degradation of the synaptic pathways. It also affects the endocrine and immune systems.
+STROMM: An impressive definition. Could you tell us how the disease is transmitted?
 T'POL: Through a telepathic practice.
 ORATT: And what practice would that be?
-T'POL: Mind-melds. They cause a disruption of neuroelectric impulses in
-the mid-brain, which can lead to the early stages of the syndrome. 
+T'POL: Mind-melds. They cause a disruption of neuroelectric impulses in the mid-brain, which can lead to the early stages of the syndrome. 
 STROMM: Do you condone these acts, Sub-Commander? These mind-melds?
 T'POL: I'd appreciate it if you'd tell me why you asked me here. 
 PHLOX: As would I. Your questions to T'Pol seem inappropriate.
-ORATT: Doctor Phlox has asked for data regarding the treatment of
-Pa'nar Syndrome. Did you have anything to do with that request?
+ORATT: Doctor Phlox has asked for data regarding the treatment of Pa'nar Syndrome. Did you have anything to do with that request?
 PHLOX: I believe I was very clear about that.
-STROMM: Yes, your colleague on Denobula. Forgive us Doctor, but since
-there's a Vulcan serving on your ship, a fact that you neglected to
-mention to us, we had to consider other possible motives for you
-inquiry.
-PHLOX: What motive are you suggesting?(Stromm hands a PADD to T'Pol.) 
-STROMM: Are you familiar with any of these
-names? 
+STROMM: Yes, your colleague on Denobula. Forgive us Doctor, but since there's a Vulcan serving on your ship, a fact that you neglected to mention to us, we had to consider other possible motives for you inquiry.
+PHLOX: What motive are you suggesting?
+(Stromm hands a PADD to T'Pol.) 
+STROMM: Are you familiar with any of these names? 
 T'POL: They're Vulcan. I'm not familiar with any of them.
-STROMM: They're melders. Vulcans with the ability to transfer thoughts
-and memories to each other. Do you know any melders, Sub-Commander?
+STROMM: They're melders. Vulcans with the ability to transfer thoughts and memories to each other. Do you know any melders, Sub-Commander?
 T'POL: Not well, but I've met a number of them.
 STROMM: Then I'll ask you again. Do you condone their behaviour?
-T'POL: I don't understand what your questions have to do with the
-Doctor's request.
-ORATT: We find their behaviour unacceptable, and since Pa'nar Syndrome
-is transmitted by these people, its cure is not a priority.
+T'POL: I don't understand what your questions have to do with the Doctor's request.
+ORATT: We find their behaviour unacceptable, and since Pa'nar Syndrome is transmitted by these people, its cure is not a priority.
 PHLOX: Are you saying there is no additional research?
 ORATT: None that we'd care to disseminate. I'm sorry.
-T'POL: You travelled up from the surface to tell Doctor Phlox you
-wouldn't help him?
+T'POL: You travelled up from the surface to tell Doctor Phlox you wouldn't help him?
 ORATT: If you'll please show us to the airlock. 
- [Vulcan medical area] 
- (The PADD T'Pol handled is scanned, and the
-results of her DNA analysis studied on a monitor.) 
+[Vulcan medical area]
+(The PADD T'Pol handled is scanned, and the results of her DNA analysis studied on a monitor.) 
 YURIS: Is it definitive?
 STROMM: Unmistakably. She's suffering from the syndrome. 
- [Sickbay] 
- (The neutron microscope is up and running. Phlox
-is working in the background.) 
-FEEZAL: Now watch. A simple strand of protein molecules can be enlarged
-and enhanced to where we can clearly see a single nucleotide.
+[Sickbay]
+(The neutron microscope is up and running. Phlox is working in the background.) 
+FEEZAL: Now watch. A simple strand of protein molecules can be enlarged and enhanced to where we can clearly see a single nucleotide.
 TUCKER: Amazing. Look at that. Are those?
 FEEZAL: Carbon atoms. Now you try it.
 TUCKER: First I reinitialise the neutron stream.
@@ -201,483 +138,336 @@ TUCKER: This is a bitch.
 FEEZAL: Excuse me?
 TUCKER: Oh, not you. The microscope.
 PHLOX: Has Vesna forgiven Groznik yet?
-FEEZAL: Absolutely not. Groznik has only apologised twice. I doubt
-he'll be forgiven for another two years.
+FEEZAL: Absolutely not. Groznik has only apologised twice. I doubt he'll be forgiven for another two years.
 PHLOX: Well, at least he has his other wives.
-FEEZAL: Not wives, wife. Kessil moved to Teerza Prime to be with her
-third husband.
+FEEZAL: Not wives, wife. Kessil moved to Teerza Prime to be with her third husband.
 TUCKER: Did I do this right? Why is there no image?
 FEEZAL: You forgot to enter the frequency parameters.
 PHLOX: Which one was her third husband? Oh, was that Klaban?
-FEEZAL: Bogga. Klaban was Forlisa's husband. Her first, I think.(Tucker gets an image on the monitor.) 
+FEEZAL: Bogga. Klaban was Forlisa's husband. Her first, I think.
+(Tucker gets an image on the monitor.) 
 TUCKER: There you go. Why isn't it sharp?
-FEEZAL: You forgot to stabilise the aperture. That's just a reflection
-of the imaging filament. That's all right. (She puts a reassuring hand on
-his shoulder.) FEEZAL: We'll reinitialise the neutron stream and start again.
-PHLOX: Forlisa. Forlisa. Oh, my, my. (He joins them.) PHLOX: I thought about
-asking Forlisa to be my second wife. Turned out she already had three
-husbands.
+FEEZAL: You forgot to stabilise the aperture. That's just a reflection of the imaging filament. That's all right. 
+(She puts a reassuring hand on his shoulder.) 
+FEEZAL: We'll reinitialise the neutron stream and start again.
+PHLOX: Forlisa. Forlisa. Oh, my, my. 
+(He joins them.) 
+PHLOX: I thought about asking Forlisa to be my second wife. Turned out she already had three husbands.
 ARCHER [OC]: Archer to Doctor Phlox.
 PHLOX: Yes, Captain.
 ARCHER [OC]: Could you report to my ready room?
 PHLOX: Certainly. I'll be back as soon as I can, my beloved. Commander.
 (Feezal still has her hand on Tucker's shoulder, and is smiling at him.) 
- [Ready room] 
- ARCHER: Come in.
+[Ready room]
+ARCHER: Come in.
 (Phlox and T'Pol enter.) 
 PHLOX: Yes, Captain. 
-ARCHER: I wanted to see both of you. It's been a while since I was
-embarrassed by a Vulcan dignitary.
+ARCHER: I wanted to see both of you. It's been a while since I was embarrassed by a Vulcan dignitary.
 PHLOX: Sir?
-ARCHER: I just spoke to Doctor Oratt. It seems you requested some
-medical data regarding a Vulcan illness for a colleague on Denobula.
+ARCHER: I just spoke to Doctor Oratt. It seems you requested some medical data regarding a Vulcan illness for a colleague on Denobula.
 PHLOX: Yes, sir.
-ARCHER: And both of you said that T'Pol had nothing to do with that
-request. Are you both going to lie to me like you lied to them?
+ARCHER: And both of you said that T'Pol had nothing to do with that request. Are you both going to lie to me like you lied to them?
 PHLOX: I have no intention of lying to you, Captain.
-ARCHER: And when were you going to tell me that you've contracted a
-serious illness?
+ARCHER: And when were you going to tell me that you've contracted a serious illness?
 T'POL: Sir?
-ARCHER: They handed you something. A PADD, I think. Does that ring a
-bell? You left a fingerprint. It was enough for them to run tests. Why
-did you lie to them?
+ARCHER: They handed you something. A PADD, I think. Does that ring a bell? You left a fingerprint. It was enough for them to run tests. Why did you lie to them?
 T'POL: It's none of their concern.
-ARCHER: It sure as hell is if they can help you. (to Phlox) How long
-have you known about this?
+ARCHER: It sure as hell is if they can help you. (to Phlox) How long have you known about this?
 PHLOX: Nearly a year.
-ARCHER: And you never thought that maybe you should come to me and let
-me know that one of my officers has a potentially fatal disease?
-PHLOX: I believe your culture embraces the concept of doctor-patient
-confidentiality. 
-T'POL: The disease is not contagious. If we had told you there's
-nothing you could have done.
-ARCHER: You still haven't explained to me why you lied to the Vulcans.
-And why would you think they would be more apt to help you if you said
-it was for a Denobulan colleague?
+ARCHER: And you never thought that maybe you should come to me and let me know that one of my officers has a potentially fatal disease?
+PHLOX: I believe your culture embraces the concept of doctor-patient confidentiality. 
+T'POL: The disease is not contagious. If we had told you there's nothing you could have done.
+ARCHER: You still haven't explained to me why you lied to the Vulcans. And why would you think they would be more apt to help you if you said it was for a Denobulan colleague?
 PHLOX: Pa'nar syndrome is an illness that carries a stigma on Vulcan. 
-T'POL: If the High Command was to learn that I was infected, I would
-most likely lose my commission.
+T'POL: If the High Command was to learn that I was infected, I would most likely lose my commission.
 ARCHER: For having a disease?
-T'POL: It's not about the disease. It's about the people who are
-capable of transmitting it.
+T'POL: It's not about the disease. It's about the people who are capable of transmitting it.
 ARCHER: Go on.
-T'POL: There are certain Vulcans, a small minority, who are born with
-the ability to perform a very intimate form of telepathy.
+T'POL: There are certain Vulcans, a small minority, who are born with the ability to perform a very intimate form of telepathy.
 ARCHER: Intimate?
 T'POL: A melding of minds.
 ARCHER: That ship of Vulcans who were experimenting with emotions. 
-T'POL: They are part of the telepathic minority. One of the reasons why
-they left Vulcan was to escape prejudice. Their behaviour is considered
-unnatural. They're seen as a threat. 
+T'POL: They are part of the telepathic minority. One of the reasons why they left Vulcan was to escape prejudice. Their behaviour is considered unnatural. They're seen as a threat. 
 ARCHER: You belong to that minority? 
 T'POL: No.
 ARCHER: Then?
-PHLOX: Only members of the minority can initiate a mind-meld, but any
-Vulcan can be the recipient.
+PHLOX: Only members of the minority can initiate a mind-meld, but any Vulcan can be the recipient.
 ARCHER: Why would you take that risk?
 T'POL: It wasn't by choice. One of the men on that ship.
-ARCHER: You were attacked. I remember. I'm sure the High Command will
-understand.
+ARCHER: You were attacked. I remember. I'm sure the High Command will understand.
 T'POL: I have no intention of telling them.
 ARCHER: Why not?
 T'POL: I have my reasons.
 ARCHER: How serious is it?
-PHLOX: I've kept it in check, but the symptoms have progressed. That's
-why I requested the most current research.
-ARCHER: Well, your request was accompanied by a lie, and whatever your
-reasons might have been, you're no longer welcome at the conference.
-The Vulcans have seen to that.
+PHLOX: I've kept it in check, but the symptoms have progressed. That's why I requested the most current research.
+ARCHER: Well, your request was accompanied by a lie, and whatever your reasons might have been, you're no longer welcome at the conference. The Vulcans have seen to that.
 PHLOX: I understand.
-ARCHER: My number one priority here is the health of my first officer.
-If these doctors have data that can help her, I plan to get it. 
+ARCHER: My number one priority here is the health of my first officer. If these doctors have data that can help her, I plan to get it. 
 (A shuttlepod launches.) 
- [Vulcan medical area] 
- (Archer is getting impatient in the waiting room
-when Yuris and Stromm arrive.) 
+[Vulcan medical area]
+(Archer is getting impatient in the waiting room when Yuris and Stromm arrive.) 
 STROMM: I'm sorry, did we keep you waiting?
 ARCHER: Actually, you did.
 STROMM: What can we do for you, Captain?
-ARCHER: Sub-Commander T'Pol and my doctor have explained the situation
-to me.
+ARCHER: Sub-Commander T'Pol and my doctor have explained the situation to me.
 STROMM: It's unfortunate that T'Pol is ill.
-ARCHER: Doctor Phlox assures me that he was only trying to protect her
-privacy. He doesn't make a habit of lying. 
+ARCHER: Doctor Phlox assures me that he was only trying to protect her privacy. He doesn't make a habit of lying. 
 STROMM: I certainly hope not.
-ARCHER: I'm having a little difficulty understanding why you won't
-share your research, especially now that you know it could help T'Pol's
-condition. I can't believe you're withholding it to punish Doctor Phlox.
+ARCHER: I'm having a little difficulty understanding why you won't share your research, especially now that you know it could help T'Pol's condition. I can't believe you're withholding it to punish Doctor Phlox.
 STROMM: Our decision has nothing to do with that.
 ARCHER: Then what does it have to do with?
-STROMM: Pa'nar syndrome is a disease that's unique to an undesirable
-segment of our population. Thankfully, there are very few of them.
-ARCHER: And because you find them undesirable they're not entitled to
-medical care?
-STROMM: We don't condone the intimate acts that these people engage in.
-They defy everything our society stands for.
+STROMM: Pa'nar syndrome is a disease that's unique to an undesirable segment of our population. Thankfully, there are very few of them.
+ARCHER: And because you find them undesirable they're not entitled to medical care?
+STROMM: We don't condone the intimate acts that these people engage in. They defy everything our society stands for.
 ARCHER: Intimate acts? You're talking about mind-melds.
-STROMM: We take great pride in our ability to contain emotions. Sharing
-them is offensive. Now if you'll excuse me, we have a great deal of
-work to do before the conference ends.
-ARCHER: If you're not going to help her the least you could do is show
-a little discretion. The High Command doesn't need to know about this.
+STROMM: We take great pride in our ability to contain emotions. Sharing them is offensive. Now if you'll excuse me, we have a great deal of work to do before the conference ends.
+ARCHER: If you're not going to help her the least you could do is show a little discretion. The High Command doesn't need to know about this.
 STROMM: It's not for us to decide what the High Command needs to know.
-ARCHER: You have her genetic profile. You must realise she's not a
-member of this minority.
-STROMM: Nonetheless, there's only one way to contract Pa'nar syndrome.
-Good day. 
- [T'Pol's quarters] 
- (She is meditating with a candle when the comm.
-beeps,) 
+ARCHER: You have her genetic profile. You must realise she's not a member of this minority.
+STROMM: Nonetheless, there's only one way to contract Pa'nar syndrome. Good day. 
+[T'Pol's quarters]
+(She is meditating with a candle when the comm. beeps,) 
 T'POL: Yes.
 HOSHI [OC]: There's a message for you coming from the surface. 
 T'POL: Transfer it here.
 HOSHI [OC]: Right away. 
- [Ready room] 
- ARCHER: Come in. (T'Pol enters.) ARCHER: I was just about
-to call you. Sit down. I'm sorry. I didn't have much luck down there.
-They seemed pretty pig-headed when it comes to Pa'nar syndrome, and I
-got the distinct feeling they're not going to keep this to themselves.
+[Ready room]
+ARCHER: Come in. 
+(T'Pol enters.) 
+ARCHER: I was just about to call you. Sit down. I'm sorry. I didn't have much luck down there. They seemed pretty pig-headed when it comes to Pa'nar syndrome, and I got the distinct feeling they're not going to keep this to themselves.
 T'POL: I just received a message from Doctor Yuris.
 ARCHER: Which one was he?
-T'POL: The youngest. He asked me to meet him in a northern section of
-the city. I believe he wants to help.
+T'POL: The youngest. He asked me to meet him in a northern section of the city. I believe he wants to help.
 ARCHER: Help? That seems like the last thing these doctors want to do.
 T'POL: He asked me to come alone. 
- [Deleted scene - Shuttlepod]
-ARCHER: (piloting) You know, it never dawned on me that it was
-contagious. 
+[Deleted scene - Shuttlepod]
+ARCHER: (piloting) You know, it never dawned on me that it was contagious. 
 T'POL: I beg your pardon? 
-ARCHER: You said it wasn't contagious, that there was nothing I could
-have done. 
+ARCHER: You said it wasn't contagious, that there was nothing I could have done. 
 T'POL: That's correct.
 ARCHER: That doesn't mean you shouldn't have told me. 
-T'POL: There's a landing port about a kilometre south of the meeting
-place. You worry about your crew. 
-ARCHER: You're damn straight I do. Every last one of them. You find
-that strange? I guess all Vulcans find worrying strange. 
-T'POL: I didn't want you to worry about me.  
- [City - evening] 
-(Yuris is hiding behind a column.)  YURIS: Sub-Commander.
-This may be of use to you. (He offers a container.) 
+T'POL: There's a landing port about a kilometre south of the meeting place. You worry about your crew. 
+ARCHER: You're damn straight I do. Every last one of them. You find that strange? I guess all Vulcans find worrying strange. 
+T'POL: I didn't want you to worry about me. 
+[City - evening]
+(Yuris is hiding behind a column.) 
+YURIS: Sub-Commander. This may be of use to you. 
+(He offers a container.) 
 T'POL: What is it?
 YURIS: The research your doctor asked for.
 (She opens the container to reveal six vials.) 
 T'POL: You've taken a great risk by bringing this to me.
 YURIS: One that I'm more than willing to take.
 T'POL: Why?
-YURIS: There's more intolerance today than there was a thousand years
-ago. It has to stop.
+YURIS: There's more intolerance today than there was a thousand years ago. It has to stop.
 T'POL: Why jeopardise your career to help someone you despise?
-YURIS: If I despised you, I'd be despising myself. I'm part of the
-minority.
+YURIS: If I despised you, I'd be despising myself. I'm part of the minority.
 (They sit on a bench.) 
 T'POL: You know I'm not a member of the minority.
-YURIS: As far as my colleagues are concerned, you might as well be.
-Anyone who chooses to perform a mind-meld is worthy of contempt.
+YURIS: As far as my colleagues are concerned, you might as well be. Anyone who chooses to perform a mind-meld is worthy of contempt.
 T'POL: What if I didn't choose?
-YURIS: You were coerced. You should tell them. They'll be far more
-sympathetic.
+YURIS: You were coerced. You should tell them. They'll be far more sympathetic.
 T'POL: Are you infected?
-YURIS: No. Only a small percentage are. If they ask my opinion, I won't
-be able to condone what you did. I hope you understand.
+YURIS: No. Only a small percentage are. If they ask my opinion, I won't be able to condone what you did. I hope you understand.
 T'POL: You can't jeopardise your position.
-YURIS: I have to return. Tell them what happened. Tell them before they
-contact the High Command.
+YURIS: I have to return. Tell them what happened. Tell them before they contact the High Command.
 T'POL: Thank you for this. 
- [Mess hall] 
- HOSHI: It doesn't make any sense.
+[Mess hall]
+HOSHI: It doesn't make any sense.
 TUCKER: Why not?
-HOSHI: We're orbiting an alien world, and most of the crew are free to
-go down and visit. Why would anyone want to stay on board and watch a
-movie?
-TUCKER: Are you kidding? They're showing The Black Cat. Boris Karloff
-and Bela Lugosi.
+HOSHI: We're orbiting an alien world, and most of the crew are free to go down and visit. Why would anyone want to stay on board and watch a movie?
+TUCKER: Are you kidding? They're showing The Black Cat. Boris Karloff and Bela Lugosi.
 HOSHI: It sounds like you're the one picking the movies.
 TUCKER: Me?
-HOSHI: Who else would choose an obscure horror film? Why not something
-a little more, I don't know, romantic? I'm going down to the surface. 
+HOSHI: Who else would choose an obscure horror film? Why not something a little more, I don't know, romantic? I'm going down to the surface. 
 (Feezal enters and selects a meal.) 
 TUCKER: What's the rush? You haven't even finished your dinner.
 HOSHI: There's a shuttle leaving at eighteen hundred hours.
-TUCKER: You've got plenty of time. (He is keeping an eye on Feezal's
-progress.) TUCKER: Try the cobbler. Chef outdid himself. 
+TUCKER: You've got plenty of time. 
+(He is keeping an eye on Feezal's progress.) 
+TUCKER: Try the cobbler. Chef outdid himself. 
 HOSHI: Okay, but I have to leave in a few minutes.
 FEEZAL: May I join you?
 HOSHI: Please. I'm Hoshi Sato. I've been meaning to introduce myself.
-FEEZAL: Feezal Phlox. You're the language wizard. My husband speaks
-very fondly of you.
+FEEZAL: Feezal Phlox. You're the language wizard. My husband speaks very fondly of you.
 HOSHI: (in Denobulan) Doctor Phlox has been teaching me Denobulan. 
 FEEZAL: (in Denobulan) I'm impressed. 
-HOSHI: (in Denobulan) I'm still having trouble with the transitive
-verbs. 
-TUCKER: I'm getting a little paranoid here. You're not talking about
-me, are you?
-HOSHI: Matter of fact, we were.(Feezal rubs her foot against Tucker's leg.) 
-FEEZAL: Ensign Sato barely has an
-accent. She was telling me how attractive she thinks you are.
+HOSHI: (in Denobulan) I'm still having trouble with the transitive verbs. 
+TUCKER: I'm getting a little paranoid here. You're not talking about me, are you?
+HOSHI: Matter of fact, we were.
+(Feezal rubs her foot against Tucker's leg.) 
+FEEZAL: Ensign Sato barely has an accent. She was telling me how attractive she thinks you are.
 HOSHI: She's pulling your leg, sir. I was only talking about grammar.
 TUCKER: It's okay, Hoshi.
-HOSHI: I've got to go. It was very nice to meet you. (Hoshi leaves.)
+HOSHI: I've got to go. It was very nice to meet you. 
+(Hoshi leaves.)
 FEEZAL: I wasn't exactly pulling your leg, was I?
-TUCKER: No, not exactly. Look, I'm very flattered, but aren't you a
-married woman?
+TUCKER: No, not exactly. Look, I'm very flattered, but aren't you a married woman?
 FEEZAL: I'm a woman. That's all that matters, isn't it?
-TUCKER: I'm afraid I've got to go, too. Captain asked me to write a
-synopsis of tonight's movie.
+TUCKER: I'm afraid I've got to go, too. Captain asked me to write a synopsis of tonight's movie.
 FEEZAL: Save me a seat.
-TUCKER: You probably wouldn't like it. It's very scary, and you've got
-to. You've got to be human to appreciate horror films. I'll see you in
-the morning.
+TUCKER: You probably wouldn't like it. It's very scary, and you've got to. You've got to be human to appreciate horror films. I'll see you in the morning.
 (Tucker leaves rapidly, and Feezal admires the sight of his departing figure.) 
- [Gymnasium] 
- (Reed is on a static bicycle.) 
+[Gymnasium]
+(Reed is on a static bicycle.) 
 TUCKER: She's at it again. 
-REED: I don't know about you, but I find her quite attractive. (Tucker gets on the other bicycle.) 
-TUCKER: Come on, Malcolm, this is serious.
-What if Phlox finds out? 
+REED: I don't know about you, but I find her quite attractive. 
+(Tucker gets on the other bicycle.) 
+TUCKER: Come on, Malcolm, this is serious. What if Phlox finds out? 
 REED: You haven't done anything to make her think that you 
 TUCKER: Of course not. Maybe I should tell the Doc.
-REED: Tell him what? That his wife is trying to seduce you? Not a good
-idea.
-TUCKER: I've got to spend the next two days with her working on the
-microscope. I really think I should speak to Phlox.
-REED: It might be a lot easier to avoid her advances than to get Phlox
-angry. I once saw him lose his temper when one of his creatures bit
-him. It wasn't a pretty sight. 
- [Sickbay] 
-(Phlox looks at a monitor.) PHLOX: This is far from a
-cure, but it should slow down the progression of the disease. It's
-surprising. I assumed your Science Directorate would've made more
-progress than this.
+REED: Tell him what? That his wife is trying to seduce you? Not a good idea.
+TUCKER: I've got to spend the next two days with her working on the microscope. I really think I should speak to Phlox.
+REED: It might be a lot easier to avoid her advances than to get Phlox angry. I once saw him lose his temper when one of his creatures bit him. It wasn't a pretty sight. 
+[Sickbay]
+(Phlox looks at a monitor.)
+PHLOX: This is far from a cure, but it should slow down the progression of the disease. It's surprising. I assumed your Science Directorate would've made more progress than this.
 T'POL: As we've seen, they're not very motivated to develop a cure.
-PHLOX: With this research, I should be able to get closer than they
-have.
+PHLOX: With this research, I should be able to get closer than they have.
 ARCHER: (entering) How useful is it?
-PHLOX: Very. It will allow me to improve my course of treatment long
-before her symptoms get worse.
+PHLOX: Very. It will allow me to improve my course of treatment long before her symptoms get worse.
 ARCHER: Have you figured out why Doctor Yuris gave it to you?
 T'POL: No, I haven't. You spoke with them.
 ARCHER: A few minutes ago. They've decided to recall you.
 PHLOX: Do they have the authority to do that?
-ARCHER: Doctor Oratt does. He's a ranking member of the Council of
-Physicians. They plan on taking you back to Vulcan when the conference
-is over.
+ARCHER: Doctor Oratt does. He's a ranking member of the Council of Physicians. They plan on taking you back to Vulcan when the conference is over.
 T'POL: Have they notified the High Command?
-ARCHER: Not till you reach Vulcan. You've got to tell them, T'Pol. Tell
-them what happened. They won't do a thing to you once they know it
-wasn't voluntary, that he did it against your will.
+ARCHER: Not till you reach Vulcan. You've got to tell them, T'Pol. Tell them what happened. They won't do a thing to you once they know it wasn't voluntary, that he did it against your will.
 T'POL: I won't do that.
 ARCHER: Why the hell not? 
-T'POL: I have Pa'nar Syndrome. It doesn't make a difference how I
-contracted it.
-ARCHER: It makes a lot of difference. You're not a member of this
-minority. He forced himself on you. You said it yourself. 
+T'POL: I have Pa'nar Syndrome. It doesn't make a difference how I contracted it.
+ARCHER: It makes a lot of difference. You're not a member of this minority. He forced himself on you. You said it yourself. 
 PHLOX: He's right, T'Pol. You should tell them.
-T'POL: He is not right. If I use that as a defence as a way to keep
-from being taken off Enterprise, I'd be condoning their prejudice, and
-in the process, indicting every member of the minority. I won't do
-that. 
- [Vulcan medical area] 
- ARCHER: (bursting in) Where's Oratt?
+T'POL: He is not right. If I use that as a defence as a way to keep from being taken off Enterprise, I'd be condoning their prejudice, and in the process, indicting every member of the minority. I won't do that. 
+[Vulcan medical area]
+ARCHER: (bursting in) Where's Oratt?
 VULCAN: Doctor Oratt isn't available. Perhaps I can help you? 
-ARCHER: Perhaps you can't. (He knocks on the glass partition between him
-and the trio.) 
+ARCHER: Perhaps you can't. 
+(He knocks on the glass partition between him and the trio.) 
 VULCAN: You're going to have to leave.
 ARCHER: (pointing at Oratt) I need to talk to you!
 VULCAN: I told him you were busy.
-ORATT: What can I do for you, Captain? (Oratt glares at the Vulcan, who leaves
-them.) 
+ORATT: What can I do for you, Captain? 
+(Oratt glares at the Vulcan, who leaves them.) 
 ARCHER: You have no right to take my Science Officer.
 ORATT: You're mistaken. I have every right.
-ARCHER: You can't dismiss someone just because you don't agree with the
-way they conduct their personal lives. 
-ORATT: I am not dismissing T'Pol. I'm simply returning her to Vulcan.
-The High Command will decide whether she is fit for duty.
-ARCHER: Fit? You're saying a single mind-meld is enough to destroy her
-career? Or is it that she contracted the disease? That's why you're so
-hesitant to find a cure, isn't it? Why bother to help people you don't
-approve of? 
-ORATT: I'm sorry you don't understand the complexities of our culture,
-Captain. Please have the Sub-Commander ready to depart in thirty six
-hours.
-ARCHER: Not so fast. You know what this is, Doctor? My Communications
-Officer got it from the Vulcan database. It's the protocols of the
-Council of Physicians. It says that anyone accused of ethical
-misconduct is entitled to a hearing before the ranking medical officer
-in the province or territory where the accusation was first made. If
-I'm not mistaken, that would be you.
+ARCHER: You can't dismiss someone just because you don't agree with the way they conduct their personal lives. 
+ORATT: I am not dismissing T'Pol. I'm simply returning her to Vulcan. The High Command will decide whether she is fit for duty.
+ARCHER: Fit? You're saying a single mind-meld is enough to destroy her career? Or is it that she contracted the disease? That's why you're so hesitant to find a cure, isn't it? Why bother to help people you don't approve of? 
+ORATT: I'm sorry you don't understand the complexities of our culture, Captain. Please have the Sub-Commander ready to depart in thirty six hours.
+ARCHER: Not so fast. You know what this is, Doctor? My Communications Officer got it from the Vulcan database. It's the protocols of the Council of Physicians. It says that anyone accused of ethical misconduct is entitled to a hearing before the ranking medical officer in the province or territory where the accusation was first made. If I'm not mistaken, that would be you.
 ORATT: The accusation against T'Pol stands. It's not open for debate.
-ARCHER: Where I come from, everything's open for debate. And if I read
-these protocols correctly, so is the accusation you made against my
-Science Officer.
+ARCHER: Where I come from, everything's open for debate. And if I read these protocols correctly, so is the accusation you made against my Science Officer.
 ORATT: You're wasting your time.
 ARCHER: It's mine to waste.
-ORATT: Very well. But I will not delay our departure. The hearing will
-take place tomorrow afternoon.
+ORATT: Very well. But I will not delay our departure. The hearing will take place tomorrow afternoon.
 ARCHER: Tomorrow afternoon. Fine. 
- [Sickbay] 
-(Travis displays a magnificent bruise on his
-ribs.)  TRAVIS: It's the Dekendi's favourite sport.
-PHLOX: Just because they asked you to participate, doesn't mean you had
-to.
+[Sickbay]
+(Travis displays a magnificent bruise on his ribs.) 
+TRAVIS: It's the Dekendi's favourite sport.
+PHLOX: Just because they asked you to participate, doesn't mean you had to.
 TRAVIS: They said it was an honour. It looked easy enough.
-PHLOX: You're lucky this creature didn't strike a bit lower. If I may
-ask, what is the purpose of this sport?
-TRAVIS: They've got these fargans. They're kind of like cows with
-humps, and they love melons. I think they're melons. So, four guys get
-into this big circle filled with fargans and they throw these melons
-back and forth. They use sticks with metal baskets at the end. Do you
-play monkey-in-the-middle on Denobula?
+PHLOX: You're lucky this creature didn't strike a bit lower. If I may ask, what is the purpose of this sport?
+TRAVIS: They've got these fargans. They're kind of like cows with humps, and they love melons. I think they're melons. So, four guys get into this big circle filled with fargans and they throw these melons back and forth. They use sticks with metal baskets at the end. Do you play monkey-in-the-middle on Denobula?
 PHLOX: I don't believe so.
-TRAVIS: Anyway, after a while, the fargans start figuring out what's
-going on, and
+TRAVIS: Anyway, after a while, the fargans start figuring out what's going on, and
 TUCKER: (interrupting) You got a minute, Doc?
 PHLOX: Are you not feeling well, Commander?
 TUCKER: No, I'm fine. I just, er, I need to talk to you for a minute.
 PHLOX: By all means. What's on your mind?
 TUCKER: Actually, I was kind of hoping to talk to you alone.
-PHLOX: I think we're about done here. It would be best if you avoided
-fargans for a few days.
-TRAVIS: Thanks, Doc. Commander. (Travis leaves.) 
-TUCKER: See you, Travis. Malcolm said this was a bad idea, but I, I
-think it's the right thing to do.
+PHLOX: I think we're about done here. It would be best if you avoided fargans for a few days.
+TRAVIS: Thanks, Doc. Commander. 
+(Travis leaves.) 
+TUCKER: See you, Travis. Malcolm said this was a bad idea, but I, I think it's the right thing to do.
 PHLOX: What's that?
-TUCKER: Feezal, I mean, Mrs. Phlox, is a lovely woman, and she's very
-smart. She knows more about quantum optics than anyone I've ever met.
+TUCKER: Feezal, I mean, Mrs. Phlox, is a lovely woman, and she's very smart. She knows more about quantum optics than anyone I've ever met.
 PHLOX: She is remarkable.
 TUCKER: Remarkable, yeah, she sure is.
 PHLOX: Was there something else?
-TUCKER: Yeah, there is. You got to understand, I've been a perfect
-gentleman. Absolutely nothing's happened. She's trying to. She's,
-she's, er, making advances, if you know what I mean? 
+TUCKER: Yeah, there is. You got to understand, I've been a perfect gentleman. Absolutely nothing's happened. She's trying to. She's, she's, er, making advances, if you know what I mean? 
 PHLOX: Sexual advances?
 TUCKER: I'm afraid so.
 PHLOX: (grinning) Has she offered to give you a rose petal bath?
 TUCKER: No, no, no. Nothing like that.
-PHLOX: Oh, any man would be a fool to ignore the romantic overtures of
-a healthy Denobulan woman. Don't you find her attractive?
+PHLOX: Oh, any man would be a fool to ignore the romantic overtures of a healthy Denobulan woman. Don't you find her attractive?
 TUCKER: Sure. I mean, no, she's your wife.
 PHLOX: What does that have to do with it?
 TUCKER: She's your wife? 
-PHLOX: Oh, nonsense. Nonsense. You're too concerned with human
-morality. I thought you wanted to learn about new cultures. Isn't that
-why you joined Starfleet?
-TUCKER: Why, of course it is. But I was brought up believing you don't
-play around with another man's wife. I don't think I'm ever going to
-change my mind about that.
+PHLOX: Oh, nonsense. Nonsense. You're too concerned with human morality. I thought you wanted to learn about new cultures. Isn't that why you joined Starfleet?
+TUCKER: Why, of course it is. But I was brought up believing you don't play around with another man's wife. I don't think I'm ever going to change my mind about that.
 PHLOX: As you wish. Your loss. 
- [T'Pol's quarters] 
- (T'Pol is packing her ornaments when the door
-chimes.) 
-T'POL: Come in. (Archer comes in and sits down.) T'POL: Lieutenant Reed told me
-you went to the surface.
-ARCHER: I spoke to Doctor Oratt. I didn't tell you because I didn't
-want you to try and talk me out of it.
+[T'Pol's quarters]
+(T'Pol is packing her ornaments when the door chimes.) 
+T'POL: Come in. 
+(Archer comes in and sits down.) 
+T'POL: Lieutenant Reed told me you went to the surface.
+ARCHER: I spoke to Doctor Oratt. I didn't tell you because I didn't want you to try and talk me out of it.
 T'POL: I assume you were unsuccessful.
-ARCHER: Not exactly. Before I left, I got the medical protocols from
-Hoshi. It seems they owe you a hearing.
+ARCHER: Not exactly. Before I left, I got the medical protocols from Hoshi. It seems they owe you a hearing.
 T'POL: They'll never agree.
 ARCHER: They already did.
 T'POL: I have no interest in challenging their decision.
-ARCHER: If you're not going to defend yourself, the least you can do is
-speak for this minority you're so eager to protect. You said you didn't
-want to condone the attitude of these doctors. Your silence would do
-just that.
+ARCHER: If you're not going to defend yourself, the least you can do is speak for this minority you're so eager to protect. You said you didn't want to condone the attitude of these doctors. Your silence would do just that.
 T'POL: You need to understand. I won't tell them how I got the disease.
-ARCHER: I'll go along with that. I promise. But you've got to
-understand, I'm not going to give you up without a fight. 
- [Vulcan medical area] 
- (Yuris, Oratt and Stromm are sitting at a long
-table, with Archer and T'Pol on chairs opposite.) 
-STROMM: The fact that she has Pa'nar Syndrome is not the reason she's
-being recalled.
-ARCHER: No. It has to do with how she got infected. A mind meld over a
-year ago.
+ARCHER: I'll go along with that. I promise. But you've got to understand, I'm not going to give you up without a fight. 
+[Vulcan medical area]
+(Yuris, Oratt and Stromm are sitting at a long table, with Archer and T'Pol on chairs opposite.) 
+STROMM: The fact that she has Pa'nar Syndrome is not the reason she's being recalled.
+ARCHER: No. It has to do with how she got infected. A mind meld over a year ago.
 STROMM: When it took place is not pertinent.
-ARCHER: So what you're saying is that if a Vulcan, even an officer in
-the Science Directorate, engages in this exchange of thoughts and
-memories, they're condemned for it?
-ORATT: As you've been told, Captain, mind melds are practiced by a
-subculture. Vulcans who have elected to conduct themselves in an
-unacceptable manner.
-T'POL: They haven't elected to do anything. They're born with this
-ability.
-STROMM: Exactly. They're genetic aberrations who prey on people like
-you. People foolish enough to experiment with abhorrent behaviour.
-ARCHER: You humans are too volatile, too irrational, too narrow-minded.
-That's what I heard for years, from every Vulcan I met. But we don't
-hold a candle to you when it comes to narrow-minded. We got rid of
-bigotry nearly a century ago. We're not afraid of diversity. We don't
-persecute it, we embrace it. If you call yourselves enlightened, you
-have to accept people who are different than you are.
-STROMM: This is pointless. Our culture is governed by rules. We're not
-about to ignore them.
+ARCHER: So what you're saying is that if a Vulcan, even an officer in the Science Directorate, engages in this exchange of thoughts and memories, they're condemned for it?
+ORATT: As you've been told, Captain, mind melds are practiced by a subculture. Vulcans who have elected to conduct themselves in an unacceptable manner.
+T'POL: They haven't elected to do anything. They're born with this ability.
+STROMM: Exactly. They're genetic aberrations who prey on people like you. People foolish enough to experiment with abhorrent behaviour.
+ARCHER: You humans are too volatile, too irrational, too narrow-minded. That's what I heard for years, from every Vulcan I met. But we don't hold a candle to you when it comes to narrow-minded. We got rid of bigotry nearly a century ago. We're not afraid of diversity. We don't persecute it, we embrace it. If you call yourselves enlightened, you have to accept people who are different than you are.
+STROMM: This is pointless. Our culture is governed by rules. We're not about to ignore them.
 T'POL: There are no rules telling you to oppress minorities.
-STROMM: You'd rather let them spread their infections. That's exactly
-why you're being recalled.
-T'POL: No, I'm being recalled because you're afraid of anything that
-doesn't conform to your idea of acceptable behaviour.
-STROMM: Unfortunately, you don't know what you're talking about. The
-decision's been made. We should end this inquiry. 
+STROMM: You'd rather let them spread their infections. That's exactly why you're being recalled.
+T'POL: No, I'm being recalled because you're afraid of anything that doesn't conform to your idea of acceptable behaviour.
+STROMM: Unfortunately, you don't know what you're talking about. The decision's been made. We should end this inquiry. 
 YURIS: She knows exactly what she's talking about. 
 ORATT: Are you questioning our judgement? 
 YURIS: There is nothing abhorrent about the way we lead our lives. 
 STROMM: We? 
-YURIS: There is no simple definition of intimacy. Those of us capable
-of mind-melds are no different than you are. 
-ORATT: You realise that you are jeopardising your reputation, your
-career? 
-YURIS: We share our thoughts differently. We shouldn't be punished for
-that. 
-ORATT: The High Command will determine whether you should be punished.
-Both of you. (stands to leave) 
+YURIS: There is no simple definition of intimacy. Those of us capable of mind-melds are no different than you are. 
+ORATT: You realise that you are jeopardising your reputation, your career? 
+YURIS: We share our thoughts differently. We shouldn't be punished for that. 
+ORATT: The High Command will determine whether you should be punished. Both of you. (stands to leave) 
 YURIS: She's not guilty of anything. She was violated. 
 T'POL: You gave me your word. 
 YURIS: The mind-meld was performed against her will. 
 ORATT: Can you verify this? 
-T'POL: Why? So you can perpetuate your double standard? Condemn the
-infected when they meld by choice and sympathise with them when they
-don't? 
+T'POL: Why? So you can perpetuate your double standard? Condemn the infected when they meld by choice and sympathise with them when they don't? 
 ORATT: What do you know of this, Captain? 
-ARCHER: Seems my Science Officer doesn't want to discuss it. That's
-good enough for me. 
-YURIS: She told me herself. She made me promise to stay silent. I'm
-sorry. I had to tell them the truth. You should do the same. 
+ARCHER: Seems my Science Officer doesn't want to discuss it. That's good enough for me. 
+YURIS: She told me herself. She made me promise to stay silent. I'm sorry. I had to tell them the truth. You should do the same. 
 T'POL: I have nothing to say to them. 
- [Sickbay] 
- (In front of the new neutron microscope.) 
+[Sickbay]
+(In front of the new neutron microscope.) 
 PHLOX: Feezal tells me it can be quite temperamental. 
-TUCKER: I think I've got it figured out. Just let me know when it
-starts acting up. Have you got the activation sequence down? 
-PHLOX: (as Feezal enters) My beloved. I certainly hope it's not another
-four years until I see you again. 
-FEEZAL: So do I. But remember, your other wives are anxious to see you
-too. 
-PHLOX: Commander Tucker assures me he'll keep your beautiful microscope
-in perfect running order. 
-FEEZAL: As his doctor, I hope you'll keep Commander Tucker in perfect
-running order. Perhaps that'll motivate me to visit more often. 
+TUCKER: I think I've got it figured out. Just let me know when it starts acting up. Have you got the activation sequence down? 
+PHLOX: (as Feezal enters) My beloved. I certainly hope it's not another four years until I see you again. 
+FEEZAL: So do I. But remember, your other wives are anxious to see you too. 
+PHLOX: Commander Tucker assures me he'll keep your beautiful microscope in perfect running order. 
+FEEZAL: As his doctor, I hope you'll keep Commander Tucker in perfect running order. Perhaps that'll motivate me to visit more often. 
 PHLOX: It's a shame you two didn't get to know each other better. 
-TUCKER: Well, I've got to get back to my warp engine. The plasma's
-running a little hot. 
+TUCKER: Well, I've got to get back to my warp engine. The plasma's running a little hot. 
 FEEZAL: I know how it feels. 
-TUCKER: Pleasure meeting you. (Tucker leaves.) 
-PHLOX: Humans. (They both laugh.) 
- [Ready room] 
- ARCHER: Come in. (T'Pol enters.) ARCHER: Doctor Yuris has
-been suspended. 
+TUCKER: Pleasure meeting you. 
+(Tucker leaves.) 
+PHLOX: Humans. 
+(They both laugh.) 
+[Ready room]
+ARCHER: Come in. 
+(T'Pol enters.) 
+ARCHER: Doctor Yuris has been suspended. 
 T'POL: That was to be expected. 
-ARCHER: They offered him a hearing, but he refused. Oratt said he'll
-lose his standing with the Medical Exchange when they get back to
-Vulcan. 
+ARCHER: They offered him a hearing, but he refused. Oratt said he'll lose his standing with the Medical Exchange when they get back to Vulcan. 
 T'POL: Also to be expected. 
-ARCHER: One good thing did come out of this. They believed him when he
-said you were forced. You're not going to be recalled. 
-T'POL: With your permission, I'll be contacting the High Command. I
-don't intend to let Yuris be dismissed without a fight. 
-ARCHER: Permission granted. I know you must be very disappointed that
-he broke his promise to you, but on a selfish note, I'm glad he did. I
-didn't want to lose you. 
+ARCHER: One good thing did come out of this. They believed him when he said you were forced. You're not going to be recalled. 
+T'POL: With your permission, I'll be contacting the High Command. I don't intend to let Yuris be dismissed without a fight. 
+ARCHER: Permission granted. I know you must be very disappointed that he broke his promise to you, but on a selfish note, I'm glad he did. I didn't want to lose you. 
 T'POL: Maybe this incident will encourage others to speak out. 
-ARCHER: Let's hope so.  
+ARCHER: Let's hope so. 
 

@@ -1,19 +1,9 @@
 Episode Number: 107
 The Next Generation Transcripts - The Last Outpost
-The
-Last Outpost
-Stardate:
-41386.4
+The Last Outpost
+Stardate: 41386.4
 Original Airdate: 19 Oct, 1987
- 
-Captain's log, stardate 41386.4. We are in pursuit of a starship of
-Ferengi design. Our mission is to intercept and recover a T9 energy
-converter which the Ferengi stole from an unmanned monitor post on
-Gamma Tauri Four. A theft which automatic scanners recorded, providing
-us with the long awaited opportunity to make close contact with a
-Ferengi vessel. If we succeed in this chase, it will be Starfleet's
-first look at a life form which, discounting rumour, we know almost
-nothing about.
+Captain's log, stardate 41386.4. We are in pursuit of a starship of Ferengi design. Our mission is to intercept and recover a T9 energy converter which the Ferengi stole from an unmanned monitor post on Gamma Tauri Four. A theft which automatic scanners recorded, providing us with the long awaited opportunity to make close contact with a Ferengi vessel. If we succeed in this chase, it will be Starfleet's first look at a life form which, discounting rumour, we know almost nothing about. 
 [Bridge]
 RIKER: There she is. 
 PICARD: Enlarge. What is their course?
@@ -25,8 +15,7 @@ LAFORGE: Aye, sir.
 TASHA: Sensors read a power surge from their last manoeuvre, Captain.
 LAFORGE: They are dropping to subwarp speed.
 PICARD: Reduce to impulse power.
-TASHA: Sensor record fluctuations in the energy readings from it,
-Captain.
+TASHA: Sensor record fluctuations in the energy readings from it, Captain.
 DATA: Possibility, a malfunction in their engines, sir. 
 LAFORGE: Breaks my heart.
 WORF: In visual range, Captain.
@@ -35,176 +24,118 @@ PICARD: Fully enlarge.
 LAFORGE: Hello, stranger.
 PICARD: Very impressive design.
 RIKER: Anything on that design, Data?
-DATA: Nothing specific, sir. As you know, Ferengi technology is
-estimated to be generally equal to our own. 
+DATA: Nothing specific, sir. As you know, Ferengi technology is estimated to be generally equal to our own. 
 PICARD: But that does not mean identical, however. 
-DATA: Correct, sir. We are no doubt advanced in some areas, they in
-others. 
+DATA: Correct, sir. We are no doubt advanced in some areas, they in others. 
 LAFORGE: Showing another power surge, sir. 
 WORF: They are firing on us. 
 PICARD: Damage report? 
 TASHA: Shields holding. 
-DATA: Mostly electromagnetic, sir. Fusion generator and batteries down
-by thirty percent. 
+DATA: Mostly electromagnetic, sir. Fusion generator and batteries down by thirty percent. 
 LAFORGE: Our impulse engines are surging now. 
 WORF: They're firing again. 
 (A bright, bright flash on the viewscreen) 
-TASHA: Deflector shield power weakening, Captain. Phasers ready. Photon
-torpedoes ready. 
+TASHA: Deflector shield power weakening, Captain. Phasers ready. Photon torpedoes ready. 
 RIKER: Do we return their fire, sir? 
-PICARD: Negative, Number One. They're just reacting to our close
-pursuit. Fall back a bit but stay with them. 
+PICARD: Negative, Number One. They're just reacting to our close pursuit. Fall back a bit but stay with them. 
 DATA: They are slowing too, sir.
 TASHA: They may be turning to fight. 
-PICARD: Open hailing freq. (puzzled) Why are we gaining on them? Don't
-anticipate. 
+PICARD: Open hailing freq. (puzzled) Why are we gaining on them? Don't anticipate. 
 LAFORGE: I'm not, sir. Something's wrong.
 DATA: Sir, something is dragging us forward. 
 PICARD: I read that, too. Lieutenant Yar, what do your sensors show? 
 TASHA: Not certain, sir. I'm getting very confusing readings. 
-DATA: Captain, this shouldn't be. Our ship's power systems are failing.
+DATA: Captain, this shouldn't be. Our ship's power systems are failing. 
 TASHA: Deflector shield failing. Phasers going inoperative, Captain. 
 LAFORGE: Captain, something is completely immobilising us. 
 WORF: Immobilised by the damn Ferengi. 
 PICARD: We need more information. What the hell are they are using? 
 RIKER: Obviously we've underestimated their technology, Captain.
-PICARD: Considerably. It appears the Ferengi have us right where they
-want us. In their sights. Are you searching all frequencies? Any sign
-of any kind of messages? 
+PICARD: Considerably. It appears the Ferengi have us right where they want us. In their sights. Are you searching all frequencies? Any sign of any kind of messages? 
 WORF: Negative, sir. 
 PICARD: Weapons report, Lieutenant. 
-TASHA: I have phasers and torpedoes armed, but I show insufficient
-power to fire them. 
-PICARD: Engineering, give me status on power recovery. Engineering,
-come in. Why aren't they answering? La Forge. 
+TASHA: I have phasers and torpedoes armed, but I show insufficient power to fire them. 
+PICARD: Engineering, give me status on power recovery. Engineering, come in. Why aren't they answering? La Forge. 
 LAFORGE: Sir. 
 PICARD: Get me a full report from Engineering. 
 LAFORGE: Aye, sir. 
 (La Forge leaves) 
-RIKER: It's impossible they could be draining all power from all
-systems. 
+RIKER: It's impossible they could be draining all power from all systems. 
 PICARD: Counsellor? 
-TROI: I'm sensing nothing from them Captain. Which could mean they can
-shield their thoughts and emotions from others. 
+TROI: I'm sensing nothing from them Captain. Which could mean they can shield their thoughts and emotions from others. 
 PICARD: It still makes it our move. 
 TROI: Sir, they may know as little about us as we do about them. 
 RIKER: Except that they know they've got us in deep trouble. 
-PICARD: If so, the question becomes how will they use that knowledge?
-Data, do you have any information touching this on any file? 
-DATA: None, sir. Only hearsay and third hand reports, most of which
-conflict. 
+PICARD: If so, the question becomes how will they use that knowledge? Data, do you have any information touching this on any file? 
+DATA: None, sir. Only hearsay and third hand reports, most of which conflict. 
 RIKER: Which reports do not conflict? 
 DATA: That the Ferengi are, well, the best description may be traders. 
 PICARD: What kind of traders? 
-DATA: A comparison modern scholars have drawn from Earth history likens
-the Ferengi to the ocean-going Yankee traders of eighteenth and
-nineteenth century America, sir. 
+DATA: A comparison modern scholars have drawn from Earth history likens the Ferengi to the ocean-going Yankee traders of eighteenth and nineteenth century America, sir. 
 RIKER: From the history of my forebears. Yankee traders. 
-DATA: Who in this case sail the galaxy in search of mercantile and
-territorial opportunity. 
+DATA: Who in this case sail the galaxy in search of mercantile and territorial opportunity. 
 RIKER: And are those scholars saying the Ferengi may not unlike us? 
-DATA: Hardly, sir. I believe this analogy refers to the worst quality
-of capitalists. The Ferengi are believed to conduct their affairs of
-commerce on the ancient principle caveat emptor. Let the buyer beware. 
+DATA: Hardly, sir. I believe this analogy refers to the worst quality of capitalists. The Ferengi are believed to conduct their affairs of commerce on the ancient principle caveat emptor. Let the buyer beware. 
 RIKER: Yankee traders. I like the sound of that. 
-DATA: Well, sir, I doubt they wear red, white and blue, or look
-anything like Uncle Sam. 
-PICARD: Engineering? Join La Forge down below in Engineering, Number
-One. 
+DATA: Well, sir, I doubt they wear red, white and blue, or look anything like Uncle Sam. 
+PICARD: Engineering? Join La Forge down below in Engineering, Number One. 
 RIKER: Aye, sir. 
 PICARD: Without warp capacity, we're just a floating target. 
 WORF: Uncle who? 
 TASHA: What have bright, primary colours got to do with it? 
-PICARD: I understand the allusion. Colours representing countries at a
-time when they competed with each other. Red, white and blue for the
-United States. Whereas the French more properly used the
-same colours in the order of blue, white and red. 
-DATA: And the German nation red, black and gold. The Italians green,
-white and red. The British 
+PICARD: I understand the allusion. Colours representing countries at a time when they competed with each other. Red, white and blue for the United States. Whereas the French more properly used the same colours in the order of blue, white and red. 
+DATA: And the German nation red, black and gold. The Italians green, white and red. The British 
 PICARD: That's enough, Data. 
 DATA: It was you who 
-PICARD: We're discussing the Ferengi. I wish I had some clue as to what
-they will do next. 
-DATA: Given what is now happening to our ship, sir, their weapons could
-be vastly superior to ours. 
-PICARD: Yes, Data, that is a natural assumption. Engineering?
+PICARD: We're discussing the Ferengi. I wish I had some clue as to what they will do next. 
+DATA: Given what is now happening to our ship, sir, their weapons could be vastly superior to ours. 
+PICARD: Yes, Data, that is a natural assumption. Engineering? 
 [Engineering]
 RIKER: Bottom line, La Forge. 
-LAFORGE: It's not good, sir. The Ferengi forcefield that holds this
-ship compensates almost as fast as we can increase power. 
+LAFORGE: It's not good, sir. The Ferengi forcefield that holds this ship compensates almost as fast as we can increase power. 
 RIKER: Almost? 
-LAFORGE: Well, there's a point three hundred seventy two millisecond
-delay between use of our power and the
-neutralising counter force of the Ferengi. See, we push and they push
-back in equal force, sir. 
-RIKER: What's our acceleration delay between slow-reverse impulse and
-top warp speed? 
-LAFORGE: That's point three-hundred milliseconds. There's (realisation)
-Ah, I see where you're going. We shift down and then kick hard into
-warp nine. Yeah! Come back fighting! whooey! 
+LAFORGE: Well, there's a point three hundred seventy two millisecond delay between use of our power and the neutralising counter force of the Ferengi. See, we push and they push back in equal force, sir. 
+RIKER: What's our acceleration delay between slow-reverse impulse and top warp speed? 
+LAFORGE: That's point three-hundred milliseconds. There's (realisation) Ah, I see where you're going. We shift down and then kick hard into warp nine. Yeah! Come back fighting! whooey! 
 RIKER: Can we do it, Geordi? 
-LAFORGE: Ask me after it's done, sir. (to engineer) I want a slow
-reverse into drop off over five minutes. We'll show them what this baby
-can do, sir. 
+LAFORGE: Ask me after it's done, sir. (to engineer) I want a slow reverse into drop off over five minutes. We'll show them what this baby can do, sir. 
 RIKER: Give me everything you've got. 
-LAFORGE: Aye, aye, sir.
+LAFORGE: Aye, aye, sir. 
 [Bridge[
-RIKER: In a sudden, abrupt power surge to high warp
-speed, Captain, we may be able to break loose from that Ferengi
-forcefield. 
+RIKER: In a sudden, abrupt power surge to high warp speed, Captain, we may be able to break loose from that Ferengi forcefield. 
 PICARD: I wonder what they're thinking over there. 
 RIKER: They're wondering what we're going to do next. 
-WORF: I say fight, sir. There's nothing shameful in falling before a
-superior enemy. 
+WORF: I say fight, sir. There's nothing shameful in falling before a superior enemy. 
 (La Forge enters) 
 PICARD: And nothing shameful in a strategic retreat, either. 
-LAFORGE: All systems ready, Captain. And communication now restored to
-Engineering. 
-PICARD: Excellent, La Forge. Now let's, er, let's throw them off guard.
-Lieutenant Yar. Open hailing frequencies. 
+LAFORGE: All systems ready, Captain. And communication now restored to Engineering. 
+PICARD: Excellent, La Forge. Now let's, er, let's throw them off guard. Lieutenant Yar. Open hailing frequencies. 
 TASHA: Hailing frequencies open, sir. 
-PICARD: At least we won't begin with weakness. Attention Ferengi
-starship! This is Captain Jean-Luc Picard of the USS Enterprise. In the
-name of the United Federation of Planets, I demand you return the T9
-energy converter you removed from Gamma Tauri Four. Send that in all
-language forms. 
+PICARD: At least we won't begin with weakness. Attention Ferengi starship! This is Captain Jean-Luc Picard of the USS Enterprise. In the name of the United Federation of Planets, I demand you return the T9 energy converter you removed from Gamma Tauri Four. Send that in all language forms. 
 TASHA: All language forms, sir. 
-PICARD: Sometimes, Riker, the best way to win a fight is not to be
-there. 
-RIKER: Yes, sir. He will triumph who knows when to fight and when not
-to fight. 
-PICARD: Glad the Academy's still teaches the strategies of Sun Tzu.
-This delay had better prove out, LaForge. 
+PICARD: Sometimes, Riker, the best way to win a fight is not to be there. 
+RIKER: Yes, sir. He will triumph who knows when to fight and when not to fight. 
+PICARD: Glad the Academy's still teaches the strategies of Sun Tzu. This delay had better prove out, LaForge. 
 LAFORGE: Point three hundred milliseconds, sir. 
 PICARD: Let's blast full power into warp nine. Ready? 
 LAFORGE: On your command, Captain. 
-PICARD: On a count of three. Stand by on phasers. One, set warp to
-nine. Two, divert shield power to the main engines. Three. 
+PICARD: On a count of three. Stand by on phasers. One, set warp to nine. Two, divert shield power to the main engines. Three. 
 (Everything vibrates, but they don't leave) 
 PICARD: Merde. Shields up. 
 DATA: Captain, I think you had better see this. 
 PICARD: What's wrong? 
-DATA: Someone is reading every file, every bit of information stored in
-the Enterprise memory banks. 
+DATA: Someone is reading every file, every bit of information stored in the Enterprise memory banks. 
 LAFORGE: They can do that? 
 DATA: And more, perhaps. 
-TROI: Captain, if I may recommend? With our attention on the Ferengi
-vessel, we have ignored the planet. 
-PICARD: Data, consult the charts on this planet. See what we've got on
-it. Conference evaluation.
+TROI: Captain, if I may recommend? With our attention on the Ferengi vessel, we have ignored the planet. 
+PICARD: Data, consult the charts on this planet. See what we've got on it. Conference evaluation. 
 [Observation lounge]
-PICARD: So, while we still have some power left, it
-is time for difficult decisions. Opinions please. 
-TASHA: I say put all available power into a full-out combined phaser
-and photon torpedo salvo. Destroy their ability to sustain this
-forcefield, sir. 
+PICARD: So, while we still have some power left, it is time for difficult decisions. Opinions please. 
+TASHA: I say put all available power into a full-out combined phaser and photon torpedo salvo. Destroy their ability to sustain this forcefield, sir. 
 WORF: Yes! Hit them hard and hit them fast. 
-PICARD: Impractical and provocative. Even assuming that we have the
-power to sustain such a tactic. 
+PICARD: Impractical and provocative. Even assuming that we have the power to sustain such a tactic. 
 TASHA: But Captain, isn't firing on us an act of war? 
-TROI: The facts are the Ferengis did fire at us, but we were chasing
-them. Since then, all they've done is searched our computers, trying to
-learn who and what we are. 
+TROI: The facts are the Ferengis did fire at us, but we were chasing them. Since then, all they've done is searched our computers, trying to learn who and what we are. 
 PICARD: Your point, Counsellor? 
 TROI: Let's talk to them. 
 PICARD: It's been tried. No response. 
@@ -212,24 +143,15 @@ TROI: But did we tell them anything they wanted to hear?
 PICARD: La Forge? Other opinions? Thank you for your advice. 
 (The staff start to leave);
 PICARD: Will? I haven't had your assessment. 
-RIKER: I believe we've covered every available alternatives, Captain.
-Are there other options that you want to analyse? 
-PICARD: The only one remaining is the one that needs no conversation.
-The only one we must avoid. 
+RIKER: I believe we've covered every available alternatives, Captain. Are there other options that you want to analyse? 
+PICARD: The only one remaining is the one that needs no conversation. The only one we must avoid. 
 RIKER: Sir? 
 PICARD: The one that leads to total annihilation. 
 [Bridge]
 PICARD: Open hailing frequencies. 
 DATA: Open, sir. 
-PICARD: Attention, Ferengi starship. This is Captain Picard. It is
-obvious that we are in a situation here which needs resolving, and we
-are willing to do whatever is required, whatever is necessary. I would
-like, I would request, that you present your terms to us.
-Captain's log, stardate 41386.5. It is with a heavy
-heart that I have offered to meet whatever reasonable and
-necessary terms are demanded by the Ferengi. I fear for my people and
-my vessel in the event the unknown Ferengi ask the unreasonable. How
-can I oppose even unreasonable demands?
+PICARD: Attention, Ferengi starship. This is Captain Picard. It is obvious that we are in a situation here which needs resolving, and we are willing to do whatever is required, whatever is necessary. I would like, I would request, that you present your terms to us. 
+Captain's log, stardate 41386.5. It is with a heavy heart that I have offered to meet whatever reasonable and necessary terms are demanded by the Ferengi. I fear for my people and my vessel in the event the unknown Ferengi ask the unreasonable. How can I oppose even unreasonable demands? 
 [Bridge]
 RIKER: It's moving, sir. 
 WORF: We ask to surrender and now they fire on us? 
@@ -237,208 +159,129 @@ TASHA: Ready torpedoes, sir? We have enough power for a few of them.
 PICARD: Ready, but hold on ready. Open hailing frequencies. 
 DATA: Hailing frequencies open, sir. 
 PICARD: Ferengi vessel, we are awaiting your response. 
-TASHA: Suggest first strike, sir. Our shields now only have sixty three
-seconds of power left before lowering. 
-WORF: If the Ferengi ship's sensors can read us, sir, they will be
-waiting until we are most vulnerable. 
+TASHA: Suggest first strike, sir. Our shields now only have sixty three seconds of power left before lowering. 
+WORF: If the Ferengi ship's sensors can read us, sir, they will be waiting until we are most vulnerable. 
 RIKER: I'm afraid I agree, Captain. They have not responded. 
 PICARD: We'll wait a bit more, Number One. 
 TASHA: Fifty seconds. 
 PICARD: Patience. Patience. 
 TARR [OC]: The quicker we can come to terms, the better, NCC 1701-D. 
 PICARD: Who is speaking? 
-TARR: I am Tarr. DaiMon of the Ferengi. You wish to discuss surrender,
-Captain Picard? 
+TARR: I am Tarr. DaiMon of the Ferengi. You wish to discuss surrender, Captain Picard? 
 PICARD: What I said, DaiMon Tarr, is 
-TARR [OC]: Unconditional surrender, I warn you, is totally
-unacceptable! We will die to the last one of us before such dishonour! 
+TARR [OC]: Unconditional surrender, I warn you, is totally unacceptable! We will die to the last one of us before such dishonour! 
 TASHA: Hailing frequencies closed, sir. 
-PICARD: Something has seized their ship too. They're in the same
-predicament as us. (to Geordi) Launch a sensor probe. Set it to search
-for the source of whatever this something is that is holding both
-ships. Go back to hailing
-frequency, fast. And I regret, DaiMon Tarr, that I can no longer negotiate unless it is
-conducted visually. 
-TARR [OC]: Your complete message not received, Enterprise, but visual
-communication is against our custom. 
-PICARD: And it is against Starfleet orders to accept a surrender
-otherwise. Do you withdraw your surrender? 
-TARR [OC]: You give us no choice, Enterprise. May we have a visual on
-you as well? 
-PICARD: Agreed, DaiMon Tarr. You should be able to view us now. Are we
-on your screen? 
-(The face of a humanoid with enormous ears fills the viewscreen. He
-even has crooked pointed teeth) 
-TARR [on viewscreen]: Yes. The ugliness of the human was not an
-exaggeration. I do not know how your twisted alien culture has
-paralysed our vessel, but I concede your Enterprise is superior. We
-will return your worthless T9 device and we offer the life of our
-second officers as required
-by the Ferengi code. 
-DATA: (sotto voce to Geordi) Fortunately, Starfleet has no such rules
-involving our second officers. 
+PICARD: Something has seized their ship too. They're in the same predicament as us. (to Geordi) Launch a sensor probe. Set it to search for the source of whatever this something is that is holding both ships. Go back to hailing frequency, fast. And I regret, DaiMon Tarr, that I can no longer negotiate unless it is conducted visually. 
+TARR [OC]: Your complete message not received, Enterprise, but visual communication is against our custom. 
+PICARD: And it is against Starfleet orders to accept a surrender otherwise. Do you withdraw your surrender? 
+TARR [OC]: You give us no choice, Enterprise. May we have a visual on you as well? 
+PICARD: Agreed, DaiMon Tarr. You should be able to view us now. Are we on your screen? 
+(The face of a humanoid with enormous ears fills the viewscreen. He even has crooked pointed teeth) 
+TARR [on viewscreen]: Yes. The ugliness of the human was not an exaggeration. I do not know how your twisted alien culture has paralysed our vessel, but I concede your Enterprise is superior. We will return your worthless T9 device and we offer the life of our second officers as required by the Ferengi code. 
+DATA: (sotto voce to Geordi) Fortunately, Starfleet has no such rules involving our second officers. 
 TARR: Is this to your satisfaction, Picard Captain? 
-PICARD: Your offer may be inadequate, but I will discuss it with my
-staff. Stand by for further communications. 
+PICARD: Your offer may be inadequate, but I will discuss it with my staff. Stand by for further communications. 
 [Observation lounge]
-(A couple of kids are playing by the Enterprise
-tableau) 
-RIKER: Matthew! Pola! You know this area is off limits. Come on, come
-on. (they scurry out as Picard enters) Boys will be boys, Captain. 
+(A couple of kids are playing by the Enterprise tableau) 
+RIKER: Matthew! Pola! You know this area is off limits. Come on, come on. (they scurry out as Picard enters) Boys will be boys, Captain. 
 PICARD: Lieutenant, have you launched the probe? 
 LAFORGE: Aye, sir. We should getting those readings soon. 
-PICARD: Well, if we're not holding the Ferengi and they're not holding
-us, who the hell is? 
+PICARD: Well, if we're not holding the Ferengi and they're not holding us, who the hell is? 
 LAFORGE: The probe will give us some of those answers, sir. 
-(Data has found a Chinese finger puzzle that the children have left
-behind) 
+(Data has found a Chinese finger puzzle that the children have left behind) 
 PICARD: Data, you were going to show us something. 
-DATA: As requested, Captain, library computer information on this
-planet. It has been charted only from long range scans. It is Class M,
-but shows no indications of life forms, sentient or otherwise. However,
-you may find this of interest. Resolving it into our language. 
+DATA: As requested, Captain, library computer information on this planet. It has been charted only from long range scans. It is Class M, but shows no indications of life forms, sentient or otherwise. However, you may find this of interest. Resolving it into our language. 
 (a holographic display over the table of the Tkon Empire data entry) 
-DATA: The centre of a huge space federation, a population of trillions.
+DATA: The centre of a huge space federation, a population of trillions. 
 PICARD: Trillions? I've never heard the word Tkon before. 
-DATA: Understandable. It has been extinct six hundred thousand of our
-(his forefingers are stuck in the puzzle) of our years. These
-planets were once outposts of that empire. 
+DATA: Understandable. It has been extinct six hundred thousand of our (his forefingers are stuck in the puzzle) of our years. These planets were once outposts of that empire. 
 PICARD: Data, what are you doing? 
-DATA: Apologies, Captain. I seem to have reached an odd functional
-impasse. I am stuck. 
+DATA: Apologies, Captain. I seem to have reached an odd functional impasse. I am stuck. 
 PICARD: Then get unstuck and continue with the briefing. 
-DATA: Yes, sir. That is what I am trying to do, sir, but the solution
-eludes me. 
+DATA: Yes, sir. That is what I am trying to do, sir, but the solution eludes me. 
 LAFORGE: My hero. 
-(Picard reaches across, pushes his fingers together and removes the
-puzzle) 
+(Picard reaches across, pushes his fingers together and removes the puzzle) 
 PICARD: Continue, Commander. 
-DATA: Intriguing. It describes the Empire as being highly advanced and
-powerful, and capable of actually moving stars. 
+DATA: Intriguing. It describes the Empire as being highly advanced and powerful, and capable of actually moving stars. 
 RIKER: Stars whose planets are their defence system? 
-DATA: Correct, sir. Outposts. The planet below was possibly one of
-them. 
-TASHA [OC]: Excuse the interruption, Captain, but this may be worth it.
-We're now receiving a signal from the probe. 
+DATA: Correct, sir. Outposts. The planet below was possibly one of them. 
+TASHA [OC]: Excuse the interruption, Captain, but this may be worth it. We're now receiving a signal from the probe. 
 PICARD: We'll take it here. 
-(The display changes to the planet with streams of energy heading out
-to both ships) 
+(The display changes to the planet with streams of energy heading out to both ships) 
 LAFORGE: Incredible! 
-RIKER: There's our mysterious something, Captain. It is a forcefield of
-some kind. 
-PICARD: Reaching up from the planet surface. Amazing power. Data, what
-does the legend say about the end of the Tkon Empire? 
+RIKER: There's our mysterious something, Captain. It is a forcefield of some kind. 
+PICARD: Reaching up from the planet surface. Amazing power. Data, what does the legend say about the end of the Tkon Empire? 
 DATA: Their sun went supernova, sir. 
 PICARD: Could this planet have escaped that? 
-DATA: This planet may have been the most distant outpost, sir, but it
-shows no life form readings. 
-PICARD: We should take a look at it, Number One. Stand by with an away
-team. 
-RIKER: And if the Ferengi also realise the forcefield emanates from the
-planet, sir? 
-PICARD: That's a complication. Maybe we should ask them to join us in
-this. 
+DATA: This planet may have been the most distant outpost, sir, but it shows no life form readings. 
+PICARD: We should take a look at it, Number One. Stand by with an away team. 
+RIKER: And if the Ferengi also realise the forcefield emanates from the planet, sir? 
+PICARD: That's a complication. Maybe we should ask them to join us in this. 
 LAFORGE: Team up with the Ferengi, sir? 
-PICARD: We've been ordered to learn all we can about them. Do you know
-a better way? 
+PICARD: We've been ordered to learn all we can about them. Do you know a better way? 
 LAFORGE: Data. 
-(Geordi throws the finger puzzle to him)
-Captain's log, supplemental. In orbit of a
-mysterious planet, whose unexplained forcefield has seized us with a
-power almost beyond imagination. If there is a solution to this, it
-almost certainly will involve cooperation from the Ferengi. 
-[Bridge] 
-TASHA: Ship's power drain is critical, Captain. I
-must now shut down our shields to maintain life support systems. 
+(Geordi throws the finger puzzle to him) 
+Captain's log, supplemental. In orbit of a mysterious planet, whose unexplained forcefield has seized us with a power almost beyond imagination. If there is a solution to this, it almost certainly will involve cooperation from the Ferengi. 
+[Bridge]
+TASHA: Ship's power drain is critical, Captain. I must now shut down our shields to maintain life support systems. 
 PICARD: Understood. Open hailing frequencies. 
 TASHA: Hailing frequencies open, sir. 
 PICARD: Ferengi vessel from Enterprise, come in. 
 TARR [on viewscreen]: Your alien images again shock us. 
-PICARD: With regard to the surrender, DaiMon Tarr. The facts are
-somewhat different. 
-TARR [on viewscreen]: Our own probe has already shown us your trickery,
-human. We withdraw our surrender. 
-PICARD: Agreed. Perhaps you would agree to a more productive
-relationship? 
+PICARD: With regard to the surrender, DaiMon Tarr. The facts are somewhat different. 
+TARR [on viewscreen]: Our own probe has already shown us your trickery, human. We withdraw our surrender. 
+PICARD: Agreed. Perhaps you would agree to a more productive relationship? 
 TARR [on viewscreen]: I prefer a more profitable one, human. 
 DATA: Yankee trader. 
 TARR [on viewscreen]: Explain what means yankee traders? 
 LAFORGE: He heard that. 
-PICARD: He recognises your interest in profit. Or is that an incorrect
-assumption? 
-TARR [on viewscreen]: We seek only what is equitable. What do you seek?
-Why did you begin by attacking us? 
-PICARD: We did not attack you. We gave chase in order to recover a
-Federation-owned energy device which 
-TARR [on viewscreen]: Which we know is ours. Your barbarous Federation
-placed it on one of our planets! 
-PICARD: On the contrary, Gamma Tauri Four is recognised by all
-civilised members of 
-TARR [on viewscreen]: The Ferengi are not uncivilised, human! Are you
-suggesting otherwise? 
-PICARD: All I'm saying is that you removed something which clearly did
-not belong to you. 
+PICARD: He recognises your interest in profit. Or is that an incorrect assumption? 
+TARR [on viewscreen]: We seek only what is equitable. What do you seek? Why did you begin by attacking us? 
+PICARD: We did not attack you. We gave chase in order to recover a Federation-owned energy device which 
+TARR [on viewscreen]: Which we know is ours. Your barbarous Federation placed it on one of our planets! 
+PICARD: On the contrary, Gamma Tauri Four is recognised by all civilised members of 
+TARR [on viewscreen]: The Ferengi are not uncivilised, human! Are you suggesting otherwise? 
+PICARD: All I'm saying is that you removed something which clearly did not belong to you. 
 TARR [on viewscreen]: Are you now calling us thieves?! 
-PICARD: On the contrary, I have no wish to discuss issues of property
-or of territory, when our mutual problem remains. Like it or not, we
-are both trapped by this energy draining forcefield from the planet. 
+PICARD: On the contrary, I have no wish to discuss issues of property or of territory, when our mutual problem remains. Like it or not, we are both trapped by this energy draining forcefield from the planet. 
 TARR [on viewscreen: On that matter there can be no argument. 
 PICARD: I would like to propose a swap. 
 TARR [on viewscreen]: And what is a swap? 
 PICARD: It's a trade, an exchange. 
 TARR [on viewscreen]: Yes, trade, human. What do you offer? 
-PICARD: We will tell you what we know about the planet, and in trade,
-you will give us your information. 
-TARR [on viewscreen]: Ridiculous. How will we know you will not
-withhold information? 
+PICARD: We will tell you what we know about the planet, and in trade, you will give us your information. 
+TARR [on viewscreen]: Ridiculous. How will we know you will not withhold information? 
 PICARD: We must trust each other, Tarr. 
 TARR [on viewscreen]: Amusing, human. Trust each other? 
-PICARD: I propose that we test this relationship by cooperating in a
-joint exploration of the planet surface. 
+PICARD: I propose that we test this relationship by cooperating in a joint exploration of the planet surface. 
 TARR [on viewscreen]: And what profit is in this, Picard Captain? 
 PICARD: The profit, DaiMon Tarr, of saving all our lives. 
-TARR [on viewscreen]: We will agree, no doubt foolishly. But you are
-warned that any further trickery on your part will be met with no
-mercy. 
-PICARD: Agreed. If you care to join us, we have a well-proven
-transporter device 
-TARR [on viewscreen]: We have a matter-energy device of our own. We
-will beam a science team of three to whatever
-co-ordinates you propose. 
-PICARD: Excellent. We will transmit the information shortly. Enterprise
-out. 
+TARR [on viewscreen]: We will agree, no doubt foolishly. But you are warned that any further trickery on your part will be met with no mercy. 
+PICARD: Agreed. If you care to join us, we have a well-proven transporter device 
+TARR [on viewscreen]: We have a matter-energy device of our own. We will beam a science team of three to whatever co-ordinates you propose. 
+PICARD: Excellent. We will transmit the information shortly. Enterprise out. 
 TASHA: Hailing frequencies off. 
 PICARD: I would log that agreement as promising, at least. 
-RIKER: I wonder, Captain. I'm not usually one for distrust at first
-sight, but this may be an exception. 
-DATA: Especially in view of the fact the image he transmitted, sir, was
-somehow distorted. 
+RIKER: I wonder, Captain. I'm not usually one for distrust at first sight, but this may be an exception. 
+DATA: Especially in view of the fact the image he transmitted, sir, was somehow distorted. 
 TROI: I sensed the same thing, Captain. He's hiding something. 
-RIKER: With this power drain we can't delay. Now, I'd like some
-additional help in case we run into trouble. Can you spare Worf? 
-PICARD: Take him. And be careful, Number One.
+RIKER: With this power drain we can't delay. Now, I'd like some additional help in case we run into trouble. Can you spare Worf? 
+PICARD: Take him. And be careful, Number One. 
 [Transporter room]
-DATA: With this power drain, we may have trouble
-communicating with the Enterprise, sir. 
+DATA: With this power drain, we may have trouble communicating with the Enterprise, sir. 
 RIKER: Understood. Anything else? 
-DATA: Due to this forcefield, there is presently no way to beam us
-back, sir. 
+DATA: Due to this forcefield, there is presently no way to beam us back, sir. 
 LAFORGE: You had to ask. 
-RIKER: Understood. Energise.
+RIKER: Understood. Energise. 
 [Planet surface]
-(It's a barren place with interesting crystalline
-structures here and there, and lightning flashes almost continuously.
-Riker appears alone) 
+(It's a barren place with interesting crystalline structures here and there, and lightning flashes almost continuously. Riker appears alone) 
 RIKER: Tasha? Data? Geordi? Worf? Anybody?! 
 (He goes searching for the others) 
 RIKER: Data? 
 (He finds him standing on one of the crystalline outcrops) 
 RIKER: What are you doing up there? 
-DATA: Most intriguing, sir. I assume a problem of inaccurately
-transmitted programme
-coordinates due to the force field around the ship, sir. Are we alone,
-sir? 
-RIKER: Unfortunately. Let's find the others. What do you make of these?
+DATA: Most intriguing, sir. I assume a problem of inaccurately transmitted programme coordinates due to the force field around the ship, sir. Are we alone, sir? 
+RIKER: Unfortunately. Let's find the others. What do you make of these? 
 DATA: Crystalline. Mostly inert. Nothing to write home about. 
 RIKER: Excuse me? 
 DATA: Slang, sir. I did use it correctly, did I not? 
@@ -451,55 +294,33 @@ RIKER: That! Geordi!
 RIKER: Are you conscious? 
 LAFORGE: Do I look conscious? 
 RIKER: What are you doing? 
-LAFORGE: I'm resting, sir. My foot's stuck. Up there. I materialized
-upside down above the planet surface. 
-DATA: Tricorder's useless, sir. Communication's gone too. Fortunately
-you did not break any 
+LAFORGE: I'm resting, sir. My foot's stuck. Up there. I materialized upside down above the planet surface. 
+DATA: Tricorder's useless, sir. Communication's gone too. Fortunately you did not break any 
 LAFORGE: Data, who's that? 
-(The Ferengis are watching them. Little crouching men with whips in
-their hands) 
+(The Ferengis are watching them. Little crouching men with whips in their hands) 
 RIKER: Who are you? 
-(The Ferengi let fly energy bolts from their whips, knocking the three
-men out. Actually, it takes two jolts to knock out Riker)
-Captain's log, supplemental. It is now six hours
-since our away team beamed down to the planet surface. On the
-Enterprise, our condition is rapidly worsening. Ordinarily, with
-reserve power alone, we could maintain life support for several months.
-But the force holding has closed down all engines and is draining our
-reserve power too.
+(The Ferengi let fly energy bolts from their whips, knocking the three men out. Actually, it takes two jolts to knock out Riker) 
+Captain's log, supplemental. It is now six hours since our away team beamed down to the planet surface. On the Enterprise, our condition is rapidly worsening. Ordinarily, with reserve power alone, we could maintain life support for several months. But the force holding has closed down all engines and is draining our reserve power too. 
 [Recreation lounge]
 (Blankets are being handed out) 
-TROI: It's getting much, much colder, sir. How far down is it likely to
-go? 
-PICARD: A lot. Even in orbital space it'll get below minus two hundred
-degrees. 
+TROI: It's getting much, much colder, sir. How far down is it likely to go? 
+PICARD: A lot. Even in orbital space it'll get below minus two hundred degrees. 
 CRUSHER: We won't have to worry much past minus seventy or so. 
-PICARD: Feels like that right now. Good. Thank you.
+PICARD: Feels like that right now. Good. Thank you. 
 [Planet surface]
-(Inquisitive fingers remove Geordi's comm. badge.
-Worf is dragged in to join his
-colleagues) 
+(Inquisitive fingers remove Geordi's comm. badge. Worf is dragged in to join his colleagues) 
 LETEK: If he moves, kill him. 
-MORDOC: Letek, has what we've done broken our agreement with their
-captain? 
-LETEK: We will accuse the humans of preparing to ambush us. It will be
-our word against theirs and who is more trustworthy, Mordoc? (the comm.
-badge) It looks like gold. Tastes like gold. 
+MORDOC: Letek, has what we've done broken our agreement with their captain? 
+LETEK: We will accuse the humans of preparing to ambush us. It will be our word against theirs and who is more trustworthy, Mordoc? (the comm. badge) It looks like gold. Tastes like gold. 
 RIKER: It is gold. 
-(Renewed thunder and lightning makes the Ferengi try to cover their
-ears) 
+(Renewed thunder and lightning makes the Ferengi try to cover their ears) 
 LETEK: Accursed planet! 
-RIKER: It's nothing compared to what our Captain will do when he finds
-out you've broken our landing party agreement. 
-LETEK: What part of the agreement? You appeared and attacked us. Are
-you one of their assassins? 
-RIKER: I'm Commander William Riker, First Officer of the USS
-Enterprise. You have a lot to learn. 
-(Work pounces on two of the Ferengi, Data and Riker join in the melee.
-The little aliens fight dirty) 
+RIKER: It's nothing compared to what our Captain will do when he finds out you've broken our landing party agreement. 
+LETEK: What part of the agreement? You appeared and attacked us. Are you one of their assassins? 
+RIKER: I'm Commander William Riker, First Officer of the USS Enterprise. You have a lot to learn. 
+(Work pounces on two of the Ferengi, Data and Riker join in the melee. The little aliens fight dirty) 
 RIKER: I've got this one! 
-DATA: (holding one aloft) Careful, Commander, they're much stronger
-than 
+DATA: (holding one aloft) Careful, Commander, they're much stronger than 
 (Riker gets thumped, hard) 
 WORF: Pygmy cretins! 
 LETEK: Kill them. 
@@ -507,163 +328,110 @@ MORDOC: Hideous monsters!
 TASHA: No! (they stop) Good, you've heard of phasers. Now, over there. 
 MORDOC: Is this a female? 
 KAYRON: A human female, Letek? 
-LETEK: Yes, it is true. You work with females, arm them, and force them
-to wear clothing. 
-MORDOC: Sickening.
+LETEK: Yes, it is true. You work with females, arm them, and force them to wear clothing. 
+MORDOC: Sickening. 
 [Recreation lounge]
-PICARD: I've diverted the reserve power to the
-family decks. They'll last longest. Is there anything else we can do,
-Doctor? Where's Wesley? 
+PICARD: I've diverted the reserve power to the family decks. They'll last longest. Is there anything else we can do, Doctor? Where's Wesley? 
 CRUSHER: He's in our quarters. I was tempted to give him a sedative. 
 PICARD: You shouldn't. 
 CRUSHER: I know, but he's my son. I love him. 
 PICARD: He has the right to meet death awake. 
 CRUSHER: Is that a male perspective? 
-PICARD: Rubbish
+PICARD: Rubbish 
 [Planet surface]
-(The Ferengi are dodging about like a live 'find
-the lady' game) 
+(The Ferengi are dodging about like a live 'find the lady' game) 
 TASHA: Hold it right there! Stop. Stop! 
 RIKER: Phasers on stun. 
 TASHA: Already set. 
 (She fires, but the beam is deflected into a crystalline structure) 
 TASHA: What's going on? 
-(Letek fires his whip, and that whirls around before being sucked into
-the crystals. His whip does not coil again) 
+(Letek fires his whip, and that whirls around before being sucked into the crystals. His whip does not coil again) 
 LETEK: What is this? 
-DATA: I believe we can deduce that these crystalline tree shapes are
-actually energy collectors. 
-RIKER: Along the same principle as that which is draining energy from
-our ships. 
+DATA: I believe we can deduce that these crystalline tree shapes are actually energy collectors. 
+RIKER: Along the same principle as that which is draining energy from our ships. 
 LAFORGE: But the Ferengi weapons were working when we first arrived. 
 TASHA: Which means something new has happened. 
-LAFORGE: I'm finally beginning to understand what my eyes have been
-showing me. It's patterns of force everywhere. This entire planet has
-been turned into a power accumulator. 
+LAFORGE: I'm finally beginning to understand what my eyes have been showing me. It's patterns of force everywhere. This entire planet has been turned into a power accumulator. 
 RIKER: And these? 
-LAFORGE: It's the whole point of this place. I can see the planet's
-power emanating from. Commander. 
-(There's an impressive display of controlled energy, which resolves to
-a vague face) 
+LAFORGE: It's the whole point of this place. I can see the planet's power emanating from. Commander. 
+(There's an impressive display of controlled energy, which resolves to a vague face) 
 PORTAL: Be you barbarians? Speak! 
 (The Ferengi clutch their heads in pain) 
 PORTAL: Who meets the challenge? Who will it be? 
 LETEK: (points at Riker) Him. 
-PORTAL: You have awakened Portal six three. Do you petition to enter
-the Empire? 
+PORTAL: You have awakened Portal six three. Do you petition to enter the Empire? 
 RIKER: Who asks the question? 
 PORTAL: A guardian of the Tkon Empire. 
-(The energy turns into a humanoid figure in a long hooded cloak,
-leaning on a staff) 
+(The energy turns into a humanoid figure in a long hooded cloak, leaning on a staff) 
 PORTAL: Biped. Excellent. 
-RIKER: Why should we petition to entry to an empire that no longer
-exists? 
+RIKER: Why should we petition to entry to an empire that no longer exists? 
 PORTAL: Why do you attempt deception? The Empire is forever. 
 RIKER: Your empire fell prey to a supernova. 
 PORTAL: We are forever. 
 RIKER: Data, Please repeat the file. 
-DATA: It is a matter of record, Portal. In the Age of Makto, the
-central star of the Tkon Empire destabilised and 
+DATA: It is a matter of record, Portal. In the Age of Makto, the central star of the Tkon Empire destabilised and 
 PORTAL: There has never been an Age of Makto. 
-DATA: In fact, there have been many ages which have come and passed
-since Makto. 
+DATA: In fact, there have been many ages which have come and passed since Makto. 
 PORTAL: This is the Age of Bastu! 
-DATA: I'm afraid not. According to the Tkon use of galactic motionary
-startime charts, after Bastu came Cimi, Xora, Makto 
+DATA: I'm afraid not. According to the Tkon use of galactic motionary startime charts, after Bastu came Cimi, Xora, Makto 
 PORTAL: Enough! Absurdities! 
-RIKER: You must have been asleep, Portal, for hundreds of thousands of
-our years. 
-LETEK: Deception is the way of the human. We Ferengi will gladly make a
-petition. 
+RIKER: You must have been asleep, Portal, for hundreds of thousands of our years. 
+LETEK: Deception is the way of the human. We Ferengi will gladly make a petition. 
 RIKER: We invite your petition. 
 PORTAL: Speak. 
-LETEK: We wish to offer our services to serve the Tkon Empire at no
-profit. Return control
-of our starship to us and we will happily destroy the human criminals
-and their vessel which attacked us without provocation. They came to
-loot your empire, but we intercepted them. 
-PORTAL: You are accused of deceit and treachery. Do you give yourself
-up for judgement? 
-RIKER: Yes. If you believe those accusations, then you certainly should
-act on them. 
-LETEK: And there is even more. We can prove that the humans are
-destroyers of legal commerce, and that they selfishly withhold vital
-technology from backward worlds. 
-MORDOC: And necessary defensive weapons, too. We Ferengi now challenge
-this human madness. 
+LETEK: We wish to offer our services to serve the Tkon Empire at no profit. Return control of our starship to us and we will happily destroy the human criminals and their vessel which attacked us without provocation. They came to loot your empire, but we intercepted them. 
+PORTAL: You are accused of deceit and treachery. Do you give yourself up for judgement? 
+RIKER: Yes. If you believe those accusations, then you certainly should act on them. 
+LETEK: And there is even more. We can prove that the humans are destroyers of legal commerce, and that they selfishly withhold vital technology from backward worlds. 
+MORDOC: And necessary defensive weapons, too. We Ferengi now challenge this human madness. 
 RIKER: I admit we withheld modern technology from some worlds. 
-KAYRON: You see? They are demented. Their values are insane. You cannot
-believe the business opportunities they have destroyed. 
-LETEK: Proof of their barbarism. They adorn themselves with gold, a
-despicable use of a valuable metal. And they shamelessly clothe their
-females. 
-MORDOC: Inviting others to unclothe them. The very depth of perversion.
+KAYRON: You see? They are demented. Their values are insane. You cannot believe the business opportunities they have destroyed. 
+LETEK: Proof of their barbarism. They adorn themselves with gold, a despicable use of a valuable metal. And they shamelessly clothe their females. 
+MORDOC: Inviting others to unclothe them. The very depth of perversion. 
 TASHA: Paws off, Ferengi. 
 MORDOC: No female, human or Ferengi, can order Mordoc around! Submit! 
 TASHA: Just try it, shorty. 
 RIKER: At ease, Lieutenant! 
 RIKER: And we still have more faults 
-DATA: They should add that Starfleet has permitted several
-civilisations to fall. We have at times allowed the strong and violent
-to overcome the weak. 
-LETEK: They admit their crimes! Hear them! They admit the evil that
-they do! 
+DATA: They should add that Starfleet has permitted several civilisations to fall. We have at times allowed the strong and violent to overcome the weak. 
+LETEK: They admit their crimes! Hear them! They admit the evil that they do! 
 PORTAL: Barbarian! 
 LETEK: Yes, you show wisdom. 
-PORTAL: Barbarians all! But this one first, in the fashion the Empire
-has always challenged savages. 
+PORTAL: Barbarians all! But this one first, in the fashion the Empire has always challenged savages. 
 WORF: No! For battle, come to me! 
 RIKER: No! That's an order. 
-PORTAL: You have a single chance for life. One only. What is the answer
-to my challenge? I offer a thought. He will triumph who knows when to
-fight and when not to fight. You are being tested, Riker! What is the
-answer? 
+PORTAL: You have a single chance for life. One only. What is the answer to my challenge? I offer a thought. He will triumph who knows when to fight and when not to fight. You are being tested, Riker! What is the answer? 
 RIKER: How do you know my name? 
-(Portal whirls his staff, bringing it to a sudden stop by Riker's right
-ear. He doesn't flinch) 
-PORTAL: Ahhh. You are facing fate with composure. But what is the
-answer to my challenge? 
+(Portal whirls his staff, bringing it to a sudden stop by Riker's right ear. He doesn't flinch) 
+PORTAL: Ahhh. You are facing fate with composure. But what is the answer to my challenge? 
 RIKER: Fear is the true enemy, the only enemy. 
 (Portal lowers his staff, and becomes friendly and chatty) 
-PORTAL: Unlike these little ones who close their minds, your mind holds
-interesting thoughts. Know your enemy and know yourself, and you will
-always be victorious. Why that thought? And who is this Sun Tzu you
-revere? 
+PORTAL: Unlike these little ones who close their minds, your mind holds interesting thoughts. Know your enemy and know yourself, and you will always be victorious. Why that thought? And who is this Sun Tzu you revere? 
 RIKER: An old Chinese philosopher from ancient Earth history. 
 PORTAL: You must tell me more of this wisdom, so much like our own. 
 RIKER: Gladly. But first our starship. Can you release it? 
-PORTAL: It is released. All power is restored.
+PORTAL: It is released. All power is restored. 
 [Bridge]
-(The ship whirrs back into life, and people start
-to open their eyes) 
-CRUSHER: Not a moment too soon, Jean. I mean, Captain.
+(The ship whirrs back into life, and people start to open their eyes) 
+CRUSHER: Not a moment too soon, Jean. I mean, Captain. 
 [Planet surface]
-PORTAL: I admit I had my doubts as your ships
-battled each other in overt acts of
-belligerence. Normally, I would have destroyed all of you and your
-ships, but something confused me. 
+PORTAL: I admit I had my doubts as your ships battled each other in overt acts of belligerence. Normally, I would have destroyed all of you and your ships, but something confused me. 
 RIKER: Which was? 
-PORTAL: First, you wanted to murder each other. Then you were willing
-to help each other. 
+PORTAL: First, you wanted to murder each other. Then you were willing to help each other. 
 LETEK: What of our vessel? We knew the same answer. 
 MORDOC: The truth is, I gave those words to this human. 
 PORTAL: What of them? Shall I destroy them? 
 RIKER: Then they would learn nothing. 
-PORTAL: A most interesting conclusion. But what if they will never
-learn, Riker? 
+PORTAL: A most interesting conclusion. But what if they will never learn, Riker? 
 RIKER: Is this a test also? 
 PORTAL: In life, one is always tested. 
-RIKER: I find them very much as we were a several hundred years ago,
-but possessing the technology they have now, they're very dangerous . 
+RIKER: I find them very much as we were a several hundred years ago, but possessing the technology they have now, they're very dangerous . 
 KAYRON: Untrue. We seek friendship with you. 
-RIKER: But we can hardly hate what we once were. They may grow and
-learn. 
+RIKER: But we can hardly hate what we once were. They may grow and learn. 
 PORTAL: And learn ways to destroy you. 
-RIKER: Our values require us to face that possibility. What of you,
-with your empire gone? 
-PORTAL: The universe exists to me to create life. I shall sleep, until
-needed again. 
-(He walks away, becomes more stooped, then vanishes)
+RIKER: Our values require us to face that possibility. What of you, with your empire gone? 
+PORTAL: The universe exists to me to create life. I shall sleep, until needed again. 
+(He walks away, becomes more stooped, then vanishes) 
 [Bridge]
 PICARD: Compliments, Lieutenant. 
 TASHA: Thank you. 
@@ -672,12 +440,8 @@ PICARD: Lieutenant Worf.
 PICARD: You've done well. 
 DATA: Something to write home about. 
 LAFORGE: Something to write home about? Data, that's very human. 
-RIKER: The T9 energy converter has been beamed aboard and secured, sir.
-The Ferengi complained bitterly, but one final roar from Portal
-convinced them. 
+RIKER: The T9 energy converter has been beamed aboard and secured, sir. The Ferengi complained bitterly, but one final roar from Portal convinced them. 
 PICARD: I commend your performance, Number One. 
-RIKER: One final request, sir. Permission to beam a box of Data's
-Chinese finger puzzles over to the Ferengi. A thank you for all they
-tried to do. 
-PICARD: Make it so.  
+RIKER: One final request, sir. Permission to beam a box of Data's Chinese finger puzzles over to the Ferengi. A thank you for all they tried to do. 
+PICARD: Make it so. 
 

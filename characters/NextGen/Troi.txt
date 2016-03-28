@@ -1,5 +1,5 @@
 TROI: Farpoint Station. Even the name sounds mysterious.#
-TROI: Captain, I'm sensing a powerful mind. ;#
+TROI: Captain, I'm sensing a powerful mind.#
 TROI: Or an incredibly powerful forcefield. But if we collide with either it could be very#
 TROI: He's frozen.#
 TROI: Its mind is much too powerful. Recommend we avoid contact.#
@@ -8,7 +8,7 @@ TROI: It it felt like something beyond what we'd consider a life form.#
 TROI: Very, very advanced, sir, or certainly very, very different.#
 TROI: All decks acknowledging, sir.#
 TROI: That will bring them here in just minutes, sir.#
-TROI: Aye, sir. All language forms and frequencies. (The ball reaches them and surrounds them with it's barrier. The ship shakes)#
+TROI: Aye, sir. All language forms and frequencies.#
 TROI: Careful, sir. This is not an illusion or a dream.#
 TROI: I don't understand either, but this is real.#
 TROI: You barbarian! This woman#
@@ -48,7 +48,7 @@ TROI: It's not for you. Tasha, I feel you're very uncertain. Yhat you're fightin
 TROI: Tasha? Tasha, wait.#
 TROI: Sir, I think Tasha's been infected too.#
 TROI: Yes, sir. It's more like an intoxication. Nut whatever it is, she's got it.#
-TROI: Bill.#
+TROI: Bill. RIKER: Deanna, what?#
 TROI: So many minds on this ship, all free. Released,#
 TROI: I can feel them all. What they want, what they feel. It's a side of humans I've never felt before.#
 TROI: Wouldn't you rather be alone with me? With me in your mind?#
@@ -122,7 +122,7 @@ TROI: All I did was lose my temper.#
 TROI: And we'll take our clothes half off?#
 TROI: Captain Picard will be very relieved. How did you manage it?#
 TROI: Yes, I want to.#
-TROI: It's the woman in Wyatt's drawings. Captain's log, stardate 41294.6. Orbiting Haven with the Tarellian vessel locked in our tractor beam. Question. What strange of circumstances has caused a woman out of someone's imagination to appear on the plague ship?#
+TROI: It's the woman in Wyatt's drawings.#
 TROI: He can never come back, Mrs. Miller.#
 TROI: Wyatt, I'm happy for you, and for Ariana too.#
 TROI: Mother.#
@@ -170,7 +170,7 @@ TROI: But confused. This Picard pattern was formed before he went out there.#
 TROI: He's very enthusiastic.#
 TROI: The Doctor has something very important to tell you, Captain.#
 TROI: They certainly are.#
-TROI: Healthy sensuality, sir. I feel mainly friendship, and (looking at Tasha) happiness.#
+TROI: Healthy sensuality, sir. I feel mainly friendship, and  happiness.#
 TROI: Is there a problem?#
 TROI: It's nothing these people have done. I'm certain of that. Their minds are so open.#
 TROI: Unnecessary, sir. These people are honest, almost to a fault. And they have great pride in their ways.#
@@ -237,7 +237,7 @@ TROI: If you'll deliver these men to us, we'll have them off your planet immedia
 TROI: Using the technology of the Enterprise, we might be able to find these men.#
 TROI: This was delivered for you.#
 TROI: You're not going to wear that.#
-TROI: Tasha. (Riker emerges in full local costume, left breast and chest hair to the waist fully on show. The women find it highly amusing)#
+TROI: Tasha.#
 TROI: I wish they weren't necessary.#
 TROI: Tasha!#
 TROI: Seven years on an alien planet, and I sense no anticipation, no excitement at being rescued.#
@@ -461,13 +461,13 @@ TROI: Perhaps we're looking in the wrong place.#
 TROI: Well, if Data's physical health is unimpaired, perhaps his mental health needs to be addressed.#
 TROI: With your permission, Captain, there is one way to find out.#
 TROI: Now, Data, you remember the psychotronic stability examination. We all had to take it before graduating from the Academy.#
-TROI: It will just gauge your psychological reactions to the images it projects. Watch the screen and let your mind go blank. The device will do the rest. (She puts cortical monitors on his forehead and a series of images flashes on a screen, including a waterfall, Kareen, fire, Graves, Tasha, Kareen again, Picard and other crew members. They get faster and he gets more tense)#
+TROI: It will just gauge your psychological reactions to the images it projects. Watch the screen and let your mind go blank. The device will do the rest.#
 TROI: I have the results of the tests. I ran them several times to be sure.#
 TROI: There are two disparate personalities within Lieutenant Commander Data. Each distinctly different. A dominant and a recessive.#
 TROI: It must be. The dominant personality is unstable. Brilliant but vain, sensitive yet paranoid. And I believe it is prone to irrationality.#
 TROI: Sir?#
 TROI: It seems to have an especially strong hatred of you, Captain, or to a lesser degree, any authority figure. And worst part is, it's growing.#
-TROI: The alien persona is getting stronger and gobbling up what is left of the weaker ego, the Data we know. If something isn't done to stop it immediately, we will lose our Data forever. Captain's personal log. We have arrived at Starbase Six where Miss Brianon will await transport back to Earth. I am greatly troubled by the unusual behaviour of Commander Data and fear that somehow it is directly related to the experiments of Ira Graves.#
+TROI: The alien persona is getting stronger and gobbling up what is left of the weaker ego, the Data we know. If something isn't done to stop it immediately, we will lose our Data forever.#
 TROI: He should be in his quarters. You ordered him not to leave.#
 TROI: Yes. Always.#
 TROI: Yes.#
@@ -476,7 +476,7 @@ TROI: Have your sensors indicated any problem down there, Lieutenant?;#
 TROI: But you're feeling a certain confusion about this mission.#
 TROI: Yes. I've never known you to have such strong emotions, except when you're expecting to do battle.#
 TROI: Captain.#
-TROI: Riva. (He goes and stands on his dais. Picard steps forward but is gestured to stop. Two men and a woman in white enter and stand in front of Riva)#
+TROI: Riva.#
 TROI: Yes.#
 TROI: I am flattered. I too am look forward to learning more about you.#
 TROI: Your method of communication is most elegant and quite beautiful.#
@@ -554,7 +554,7 @@ TROI: With your permission, sir.#
 TROI: I have never felt anything quite like this before, so it's difficult to put into words. That person is you.#
 TROI: He is as much Jean-Luc Picard as the person I am standing next to. Beyond that, there is very little I can be sure of. I will have to wait until he regains consciousness before knowing more.#
 TROI: I'm able to feel much more from him now, Captain. His emotions are still a jumble, but#
-TROI: He desperately wants to leave this ship. Captain's log, supplemental. We continue on course to Endicor. We are now less than two hours away from our rendezvous with ourselves.#
+TROI: He desperately wants to leave this ship.#
 TROI: Captain, he doesn't understand you.#
 TROI: Yes, but in a nightmare of disjointed images and half-heard voices. He's in another dimension, looking at us across a great chasm. And he's feeling remorse at what he has witnessed. He's afraid.#
 TROI: It's no use, Captain. He can't answer you.#
@@ -635,7 +635,7 @@ TROI: It's not our help they want.#
 TROI: You think they're weak.#
 TROI: They have what they want. For now.#
 TROI: It's all deception. Nothing the Pakleds have said or done has been sincere.#
-TROI: For the sole purpose of making Lieutenant La Forge their prisoner. Captain's personal log, stardate 42779.5. We have arrived at Starbase Five One Five. I'm still quite uneasy, despite assurances that this medical procedure poses little risk.#
+TROI: For the sole purpose of making Lieutenant La Forge their prisoner.#
 TROI: And now they have become militant.#
 TROI: They are unwilling to wait for the timely evolution of their species' intellectual capacity. They want instant knowledge, instant power and gratification.#
 TROI: Would you be suggesting a ruse of some sort?#
@@ -760,7 +760,7 @@ TROI: Oh yes we would.#
 TROI: Captain, when the treaty was first negotiated the Federation sent three hundred and seventy two legal experts. What do we have?#
 TROI: In our dealings with other non-humanoid races there has been some point of reference. Not so with the Sheliak.#
 TROI: Barely. They have learned several Federation languages, but theirs continues to elude us.#
-TROI: Attempted and failed. Actually, the fact that any alien race communicates with another is quite remarkable. We are stranded on a planet. We have no language in common, but I want to teach you mine. S'smarith. What did I just say?#
+TROI: Attempted and failed. Actually, the fact that any alien race communicates with another is quite remarkable. We are stranded on a planet. We have no language in common, but I want to teach you mine.  S'smarith. What did I just say?#
 TROI: Are you sure? I may have meant liquid, clear, brown, hot. We conceptualise the universe in relatively the same way.#
 TROI: In your talks, you must be extremely accurate. The treaty is five hundred thousand words. The length was to accommodate the Sheliak. They consider our language irrational, and demanded this level of complexity to avoid any future misunderstandings.#
 TROI: The temporary presence of these humans should not interfere with your plans.#
@@ -925,7 +925,7 @@ TROI: I agree, entirely. Mister Ral asked me not to tell anyone he has empathic 
 TROI: Come in. When do you leave?#
 TROI: I'm sorry.#
 TROI: You must have known I couldn't allow you to do that#
-TROI: I already have a job as Counsellor. If you want to know what happens to Arridor and Kol in the Delta Quadrant,  here is the tale.#
+TROI: I already have a job as Counsellor.#
 TROI: When was the last attempt made?#
 TROI: After a century of wandering, they may be ready to come home.#
 TROI: Brull's ready to negotiate. He just wants privacy so that he won't appear weak in front of the other Gatherers.#
@@ -1157,7 +1157,7 @@ TROI: I believe so. Sunad's hatred for John was evident but there's something el
 TROI: Sunad thinks so. He feels personally threatened by John.#
 TROI: The Zalkonians truly don't understand our indecision about returning John. In their eyes, we shouldn't even be involved.#
 TROI: No help there.#
-TROI: Three jacks looking back for the handsome young ensign. Pair of deuces stands.  Flush, possible straight flush. Your bet, Mister Crusher.#
+TROI: Three jacks looking back for the handsome young ensign.  Pair of deuces stands.  Flush, possible straight flush. Your bet, Mister Crusher.#
 TROI: What do you think?#
 TROI: I don't think so.#
 TROI: You mean you're older, more experienced. A little more seasoned.#
@@ -1167,7 +1167,8 @@ TROI: Commander Riker. It is inappropriate for you to lead the away team. Until 
 TROI: I'll see to that.#
 TROI: In two or three weeks, nanites may be all that's left of the Federation.#
 TROI: Data!#
-TROI: No, it's not. It's him. It's Picard. (Picard reaches out with his organic arm and takes hold of Data, gently) TROI: Troi to Bridge.#
+TROI: No, it's not. It's him. It's Picard.#
+TROI: Troi to Bridge.#
 TROI: It is Captain Picard speaking, not Locutus.#
 TROI: How do you feel?#
 TROI: There is life on board, but it's fading.#
@@ -1200,7 +1201,7 @@ TROI: Those you can see in the mirror.#
 TROI: I agree. In fact, I'm delighted you're going. It's just that the choice of where you're going could stand some scrutiny.#
 TROI: Is that what you believe?#
 TROI: Captain, you do need time. You cannot achieve complete recovery so quickly. And it's perfectly normal, after what you've been through, to spend a great deal of time trying to find yourself again.#
-TROI: Interesting. Have a good trip, Captain. (She kisses his cheek and leaves him to his packing. He decides against some books, takes a final look around and walks out)#
+TROI: Interesting. Have a good trip, Captain.#
 TROI: Maybe. Will and I have been talking about going back to Angel Falls.#
 TROI: Something from home?#
 TROI:  How to Advance Your Career through Marriage?#
@@ -1231,14 +1232,13 @@ TROI: It's overwhelming to have so much of your life missing.#
 TROI: You saved them, Will, you and the Enterprise.#
 TROI: Where you will complete the negotiations and sign the treaty.#
 TROI: Let me take you to your quarters.#
-TROI: Anything familiar? (a young boy is trying to play 'Three Blind Mice' on the trombone);#
+TROI: Anything familiar?#
 TROI: I need to talk to your father, Jean-Luc. Would you mind leaving us alone for a moment?#
 TROI: Beverly hoped that meeting him like this might make an impact. Help you remember.#
 TROI: Give it time.#
 TROI: Yes. The Admiral was very pleased when you chose that name. He is a wonderful boy.#
 TROI: She died two years ago. A shuttle accident. I'm sorry, Will.#
 TROI: Min was beautiful, of course, strong, intelligent, patient.#
-TROI: She was an excellent Captain's wife, and a very good ship's counsellor. She took over after I left.#
 TROI: Admiral Picard offered me a position at Starfleet Command. It was a tremendous opportunity. I couldn't refuse. But, what's important right now, today, is that you have a son who needs you. Spend time with him. You may find part of what you've lost.#
 TROI: We did our best to prepare him.#
 TROI: That was a long time ago. Many things have changed, including Tomalak.#
@@ -1292,7 +1292,7 @@ TROI: Inconclusive. What does that mean?#
 TROI: How do you people live like this?#
 TROI: You have no idea. No idea what this is like. How can you know what it's like to lose something you never had?#
 TROI: And yet you're telling me I'm supposed to get used to it.#
-TROI: If our positions were reversed, I wouldn't have been in here treating skinned elbows while you were lying passed out on your office floor. I'd have been there a lot sooner. Perhaps in time to prevent this from ever happening! (Deanna storms off to her own quarters and marches in, fists clenched. There is a defenceless glass table expecting to get smashed, but instead she sinks to her knees)#
+TROI: If our positions were reversed, I wouldn't have been in here treating skinned elbows while you were lying passed out on your office floor. I'd have been there a lot sooner. Perhaps in time to prevent this from ever happening!#
 TROI: I've been working with Ensign Brooks since the death of her husband. She's avoided the reality of what happened, denied it to herself, and I realise I've been doing the same thing about my condition.#
 TROI: It's time I accept the truth, Captain, and resign as ship's counsellor.#
 TROI: I can no longer fulfill my obligations. What other option is there?#
@@ -1372,7 +1372,7 @@ TROI: Just a moment. Yes. Yes, I'm fine.#
 TROI: I suddenly became dizzy. I'd think I'd better go to my quarters.#
 TROI: No. No, really, I'm all right.#
 TROI: Thank you for coming with me, Mister Worf.#
-TROI: I just need some rest. Thanks. (she goes inside her quarters. Worf is walking away when he hears a scream)#
+TROI: I just need some rest. Thanks.#
 TROI: The mirror. I came in here. I looked into the mirror. It wasn't me, Worf! It wasn't me! It was my face, but it wasn't me inside.#
 TROI: I feel fine, now.#
 TROI: It wasn't what I saw, it was more what I felt. I looked into the mirror, and it seemed a stranger was staring back at me from behind my own eyes. As if my face was a mask.#
@@ -1425,7 +1425,7 @@ TROI: What? What do you feel?#
 TROI: To admit that you're afraid gives you strength.#
 TROI: No, Worf. It's just an illusion. It's not real. Please, put down the knife.#
 TROI: It's all right. Everything's fine, thank you.#
-TROI: Let me take you to Sickbay. Acting Captain's log, stardate 44642.1. I have assumed command of the Enterprise at the request of Captain Picard. Our situation is deteriorating. Many of the crew are unable to function and our life support systems are beginning to falter.#
+TROI: Let me take you to Sickbay.#
 TROI: Eyes in the dark. That's what the voice said in my dream. Is that where you heard it? In a dream? Over and over? Beverly, I know what it is. I know what's happening.#
 TROI: My nightmare. It's not a dream. It's not a dream at all. It's a message.#
 TROI: REM sleep occurs at a different frequency for Betazoids than other humanoids. I believe the beings are using that frequency to communicate telepathically.#
@@ -1458,7 +1458,7 @@ TROI: I'm proud of you, Reg. I'm glad for you, too. Well, I'd better be going.#
 TROI: I think so.#
 TROI: Reg, as your former counsellor, I don't think it would be appropriate.#
 TROI: Goodnight, Mister Barclay.#
-TROI: Well, he did make a pass at me last night. (Riker and La Forge stare) A good one.#
+TROI: Well, he did make a pass at me last night.  A good one.#
 TROI: No, but it's certainly unusual behaviour for Barclay.#
 TROI: Captain, let me go to the holodeck and try and talk to him.#
 TROI: Reg.#
@@ -1532,7 +1532,7 @@ TROI: May I join you?#
 TROI: What do your feelings tell you?#
 TROI: Don't wish that, Beverly. You can't be open to love if you don't risk pain.#
 TROI: Look at him.#
-TROI: The first man I ever loved was my father. He was strong and tall. He carried me when the ground was muddy. He chased away the monsters that hid under my bed at night. And he sang to me, and kept me safe. And he went away. What I wouldn't give to hear those songs again. To feel his arms protect me. I never will, but I can still feel his warmth and his love as though he were here with me. If you can feel those things from the man we know as Will Riker, accept them. Accept the love. Captain's log, stardate 44823.8. Representatives of the two moons of Peliar Zel have agreed to come on board to meet the new Ambassador Odan.#
+TROI: The first man I ever loved was my father. He was strong and tall. He carried me when the ground was muddy. He chased away the monsters that hid under my bed at night. And he sang to me, and kept me safe. And he went away. What I wouldn't give to hear those songs again. To feel his arms protect me. I never will, but I can still feel his warmth and his love as though he were here with me. If you can feel those things from the man we know as Will Riker, accept them. Accept the love.#
 TROI: You had a good time.#
 TROI: You're more relaxed than I've ever seen you.#
 TROI: Geordi, I get the feeling that something special happened on this vacation, and I'm not talking about computers.#
@@ -1665,7 +1665,8 @@ TROI: I'm very worried about his behaviour and what I've just heard doesn't make
 TROI: It's a possibility.#
 TROI: Just be with him. You're a presence he trusts, and that's what he needs most right now.#
 TROI: No, but I do have an appointment with him in less than half an hour.#
-TROI: Hello, Timothy. Are you ready to go? TIMOTHY Yes, Counsellor. I am ready. TROI: How are you feeling?#
+TROI: Hello, Timothy. Are you ready to go?#
+TROI: How are you feeling?#
 TROI: Established parameters? You sound like Data.#
 TROI: I see. Well, let's go for our walk, shall we?#
 TROI: So, what would you like?#
@@ -1696,7 +1697,8 @@ TROI: Deck eight.#
 TROI: I've learned to remind myself that my mother and I are two separate individuals.#
 TROI: No. But I do keep reminding myself.#
 TROI: Goodnight.#
-TROI: Hot chocolate. (she sees herself lying down on the floor, with Will. She sits on the corner of her bed to sip her chocolate, and she's back at the end of a poker game, packing up the chips then dropping them) TROI: Imzadi, we can't. Not when we're serving on the same ship.#
+TROI: Hot chocolate.#
+TROI: Imzadi, we can't. Not when we're serving on the same ship.#
 TROI: Will, don't.#
 TROI: We mustn't do this. Will, don't. Will, no!#
 TROI: No! No! No! Don't!#
@@ -1722,7 +1724,7 @@ TROI: I want him to stop. It's not Will. Somebody's taken his place.#
 TROI: No! He shouldn't be here. Why is he here? Stop! You're hurting me.#
 TROI: Yes.#
 TROI: No! Stop! You're hurting me.#
-TROI: It's Tarmin. It's your father. Captain's log, stardate 45433.2. We have set a course for Starbase four forty, where the Ullians will disembark and return home.#
+TROI: It's Tarmin. It's your father.#
 TROI: Come in.#
 TROI: Hello, Jev.#
 TROI: There's no need. You're not responsible for what he did.#
@@ -1732,7 +1734,8 @@ TROI: You'd feel better if you did.#
 TROI: What? What's happening? It's happening again.#
 TROI: It was you. It was always you.#
 TROI: No!#
-TROI: Don't. Don't. I won't let you! (Deanna slaps Jev's face. They struggle. She kicks and hits him with anything to hand) TROI: No! No!#
+TROI: Don't. Don't. I won't let you!#
+TROI: No! No!#
 TROI: Yes.#
 TROI: Why are you here? How did you know?#
 TROI: It's lovely I can understand why you are reluctant to leave, Mister Conor.#
@@ -1822,8 +1825,8 @@ TROI: Data, how many people on that station?#
 TROI: Captain, this isn't right.#
 TROI: Please, sit down.#
 TROI: It's psychologically valid.#
-TROI: Well, if you're still confused tomorrow, you know where my office is. (Deanna leaves Will to worry over exactly what the women were talking about)#
-TROI: I'm not sure we have. Someone's down there. Alive. First officer's log, supplemental. The electromagnetic interference on the surface has been judged too dangerous for anyone to transport down, so we have taken a shuttle to investigate.#
+TROI: Well, if you're still confused tomorrow, you know where my office is.#
+TROI: I'm not sure we have. Someone's down there. Alive.#
 TROI: Maybe they've been living underground.#
 TROI: Your arm.#
 TROI: What is that?#
@@ -1842,7 +1845,7 @@ TROI: What deck is this?#
 TROI: Can you move us again?#
 TROI: Do you know how to deactivate this?#
 TROI: Everyone get down on the floor.#
-TROI: Yes, Bridge. He can hear you. Captain's log, supplemental. Following an aborted attempt to take control of the Bridge, Counsellor Troi, Mister Data, and Chief O'Brien have seized Ten Forward.#
+TROI: Yes, Bridge. He can hear you.#
 TROI: What are you doing now?#
 TROI: Good.#
 TROI: They will now attempt to negotiate for the safety and release of their people. Interesting. Under normal circumstances, I would be counselling the Captain at a time like this.#
@@ -1983,14 +1986,15 @@ TROI: Yes?#
 TROI: Why, thank you, Isabella.#
 TROI: I can understand your concern, Ensign Sutter, but really you have nothing to worry about. It's a normal, healthy activity for children to engage in imaginary play.#
 TROI: You've been moving from starship to starship since Clara was two years old. Maybe Isabella provides a constant companion. She knows this is one friend she won't have to leave behind.#
-TROI: Give Clara a chance. As she learns to make friends on the Enterprise, you'll probably find that she'll leave her imaginary world behind. Captain's log, stardate 45852.1. The Enterprise has arrived at FGC four seven, a nebula which has formed around a neutron star. We are eager to investigate this unique formation.#
+TROI: Give Clara a chance. As she learns to make friends on the Enterprise, you'll probably find that she'll leave her imaginary world behind.#
 TROI: Hello, Clara.#
 TROI: Would you and Isabella like to come for a walk with me?#
 TROI: Clara, you haven't been on this she very long, so maybe you don't know, but Ten Forward is usually for grown-ups.#
 TROI: If Isabella is making you do things you know are wrong, then you must tell her it's not acceptable.#
 TROI: Deck thirty two. Clara, do you want me to talk to Isabella?#
 TROI: Isabella, it's not very nice to get Clara to do things that she isn't supposed to.#
-TROI: From now on I want you to ask a grown-up before you go to any place that is off-limits. TROI: What does she say?#
+TROI: From now on I want you to ask a grown-up before you go to any place that is off-limits.#
+TROI: What does she say?#
 TROI: Clara, please tell me what Isabella said.#
 TROI: I'm a little concerned at the turn this is taking. It seems Clara is beginning to do inappropriate things and blaming them on Isabella.#
 TROI: I don't think it's too serious yet, but we should make more of an effort to get her involved with real friends her own age. The children's centre's having a ceramics class this afternoon. Why don't I take Clara?#
@@ -2001,7 +2005,7 @@ TROI: No. Let's do something with Isabella another day.#
 TROI: Alexander, I thought you might like a partner. This is Clara Sutter. She's new on the Enterprise. Clara, meet Alexander Rozhenko.#
 TROI: Go ahead.#
 TROI: Clara, would you like some clay of your own?#
-TROI: Hot chocolate. Computer, I need my appointment schedule for next week. (the cup of chocolate falls over on its own. She picks it up, gets a cloth and when she comes back, the cup is on its side again)#
+TROI: Hot chocolate. Computer, I need my appointment schedule for next week.#
 TROI: Excuse me?#
 TROI: I'm sure the cake is fine. I've just been thinking.#
 TROI: I'm wondering if I'm doing the right thing.#
@@ -2018,15 +2022,16 @@ TROI: You can see her?#
 TROI: If I go with you and hold your hand, will you go into your room?#
 TROI: We'll make sure Isabella isn't anywhere around, okay? Come on.#
 TROI: Do you see anybody?#
-TROI: Let's look under the bed. Is she there? Okay, where else? TROI: Is she behind here?#
+TROI: Let's look under the bed. Is she there? Okay, where else?#
+TROI: Is she behind here?#
 TROI: Maybe Isabella's gone home.#
 TROI: Let's see. Anything here? Maybe Isabella knows that you've got new friends now. In fact, I'll bet she won't be coming around as much anymore.#
-TROI: Okay. Anybody in here? Looks pretty empty to me. (and Isabella appears, fires a red bolt that knocks Troi out, and Clara screams)#
+TROI: Okay. Anybody in here? Looks pretty empty to me.#
 TROI: She was eleven, maybe twelve, with blonde hair. Clara.#
 TROI: It's beautiful, but frightening at the same time.#
 TROI: Captain, I just wondered if there's anything you wanted to talk about.#
 TROI: I would have thought having a Borg on the ship would stir some feelings.#
-TROI: Sometimes even when a victim has dealt with his assault there are residual effects of the event that linger. You were treated violently by the Borg. Kidnapped, assaulted, mutilated.#
+TROI: Sometimes even when a victim has dealt with his assault there are residual effects of the event that linger. You were treated violently by the Borg.#
 TROI: I see. Well, if at any point you want to talk more.#
 TROI: Not from us, but certainly from them. They've attacked us in every encounter.#
 TROI: I heard about Data.#
@@ -2044,8 +2049,8 @@ TROI: There's life here. A child. An old woman. Dozens more. Hundreds. Terrified
 TROI: My God, Will. They're human.#
 TROI: Data!#
 TROI: Look at what we have so far. Evidence that these aliens have been travelling back in time to Earth.#
-TROI: No. There is no life here. What I have sensed is more like an imprint. An echo of the last moment of life. Human life. They all died in terror (A bright light and wind, then two figures appear with a case which puts more strands into the feeding station);#
-TROI: Look at what he's carrying. (one of the figures holds a snake. The bright light portal opens, the figures go back through, and Picard leads the away team to follow them) To Be Continued...#
+TROI: No. There is no life here. What I have sensed is more like an imprint. An echo of the last moment of life. Human life. They all died in terror#
+TROI: Look at what he's carrying.#
 TROI: If the aliens have been killing people there, well, someone might have noticed something unusual.#
 TROI: This man was complaining about a strange doctor and nurse who visited that patient. Perhaps they're still in the hospital.#
 TROI: The ophidian the aliens were carrying.#
@@ -2103,11 +2108,11 @@ TROI: It might.#
 TROI: I've just had a disturbing encounter with Alkar's mother. She frightens me, Will. The feelings I sense from her are malevolent. They're out of proportion. They're evil.#
 TROI: You're right. Okay, let's get through these evaluations, and when they're done I'm going to reward myself with two ice cream sundaes.#
 TROI: Alkar, is there anything I can do?#
-TROI: I'll be glad to help. (later - the room is darkened, and Alkar takes a pair of crystals from a box)#
+TROI: I'll be glad to help.#
 TROI: An end to grief.#
 TROI: An end to pain.#
 TROI: Strength comes from love.#
-TROI: And courage from wisdom. (Alkar moves his crystal towards Troi's, and it glows. When they touch, both crystals glow, then just Troi's. Her eyes snap open in horror.)#
+TROI: And courage from wisdom.#
 TROI: Computer today's appointment calendar.#
 TROI: Cancel them. Cancel everything till after lunch.#
 TROI: Hello.#
@@ -2126,7 +2131,7 @@ TROI: Are you bothered by his being here?#
 TROI: Good. Because it's really none of your business.#
 TROI: Why do I think you're upset?#
 TROI: Will, remember who you're talking to. You are bothered, I can tell.#
-TROI: I will. Captain's log, stardate 46073.6. We have arrived without incident at Rekag-Seronia, where two members of Ambassador Alkar's delegation have been waiting. They have joined us to report on the situation in the capital city.#
+TROI: I will.#
 TROI: What makes you think that?#
 TROI: Give me an example of what you mean.#
 TROI: Do you know of any reason why he might do that?#
@@ -2150,9 +2155,9 @@ TROI: You said you'd take me with you.#
 TROI: You told me I'd be helpful. You needed me.#
 TROI: Then take me. Don't leave me here. Is Liva going with you?#
 TROI: She wants to take you away from me.#
-TROI: I won't let her have you! I'll stop her! (she follows him into the corridor) I will go with you. Take me with you. Please, Alkar. Don't leave me. Don't do this! No!#
+TROI: I won't let her have you! I'll stop her!  I will go with you. Take me with you. Please, Alkar. Don't leave me. Don't do this! No!#
 TROI: Will you take me with you?#
-TROI: I won't let her have you (Troi produces a knife, and Picard wrestles her for it, getting cut in the process. The transporter chief and Jarth pull her off him)#
+TROI: I won't let her have you#
 TROI: Don't try and stop me! No, no, let go!#
 TROI: Will.#
 TROI: Then the flow of negative emotions and feelings were reversed back to him somehow.#
@@ -2176,7 +2181,8 @@ TROI: Computer, lower the surrounding light level.#
 TROI: You said you were uneasy when you sat down at the conn. position.#
 TROI: A restraint of some kind?#
 TROI: It was holding you down?#
-TROI: Computer, create a restraining arm attached to the right side of the table, at the mid-point. TROI: Was it like that?#
+TROI: Computer, create a restraining arm attached to the right side of the table, at the mid-point.#
+TROI: Was it like that?#
 TROI: All right, you were lying on the table. You had a bright light shining in your eyes. Were there any smells in the room? Were there any sounds?#
 TROI: If they send him back. Ensign Rager still hasn't been returned.#
 TROI: Amanda's a Q?#
@@ -2202,17 +2208,18 @@ TROI: For a price. Five hundred dollars.#
 TROI: My father used to read me stories from the Ancient West when I was a little girl. I must admit, I always wanted to play the part of the mysterious stranger.#
 TROI: Sounds delicious.#
 TROI: I'll watch him for you, Sheriff. You two go have a good time.#
+TROI: What's wrong?#
 TROI: My God, you've been shot! Computer, end programme. Troi to Captain Picard. Troi to Security.#
 TROI: Data?#
 TROI: Data?#
 TROI: Why is the computer creating characters that look like Data?#
 TROI: Worf, wait. We have to remember, even though the holodeck safeguards may be off, this is still a programme. If we can just get to the end of this story the way it was designed to play out, the programme will automatically terminate.#
-TROI: Worf, we've got another problem. I saw Eli playing cards. He was shuffling the way Data does when he plays poker. He doesn't just look like Data, he has Data's abilities. Which means his father probably does also. (another knock at the door. Troi gets her Winchester and Worf his pistol, then lets in)#
+TROI: Worf, we've got another problem. I saw Eli playing cards. He was shuffling the way Data does when he plays poker. He doesn't just look like Data, he has Data's abilities. Which means his father probably does also.#
 TROI: In every Western I've ever read, the villains always break their word. he can't be trusted.#
 TROI: They're not concerned with honour, Worf. This is the Ancient West. There's a gunfighter out there who has the speed and accuracy of an android. And in two hours, he's going to try to kill you.#
 TROI: Understood. What about Alexander?#
 TROI: How long will the field last?#
-TROI: Let's hope it's enough. Deadwood street] (Eli and Worf walk out onto the street. The shopkeeper closes up and pulls down his blinds. The sun in on their right. Frank and Alexander appear at the other end of the street. Alexander is sent forward. then Eli. The Mexican and the outlaw now look like Data as well, and come out of their hiding places. Eli and Alexander cross in the middle of the street, then - )#
+TROI: Let's hope it's enough.#
 TROI: Don't even think about it.#
 TROI: I don't understand this. The story should be over. What's left?#
 TROI: Doctor, why is it so difficult for you to accept the fact that the exocomp could be alive? After all, you're talking to a living machine right now.#
@@ -2238,7 +2245,7 @@ TROI: I understand his frustration. We created him and we created her to be the 
 TROI: You mean he never knew he hadn't left the holodeck?#
 TROI: In a sense, you did give Moriarty what he wanted.#
 TROI: Concerned?#
-TROI: Computer, lights. Computer, turn on the lights. (nothing happens. Troi gets up, finds a wash bowl and mirror. It's lights come on and she gasps - she is Romulan! A man enters after the opening titles.)#
+TROI: Computer, lights. Computer, turn on the lights.#
 TROI: Who are you?#
 TROI: Where am I?#
 TROI: Warbird? I was at the neuropsychology seminar at Bokara Six. The last thing I remember was returning to my quarters. I was attacked. I felt a hypospray.#
@@ -2379,7 +2386,7 @@ TROI: And that was disturbing to you.#
 TROI: Frame of Mind?#
 TROI: You're probably drawing on feelings that you're not used to expressing.#
 TROI: Sometimes it's healthy to explore the darker sides of the psyche. Jung called it owning your own shadow. This could be a sign that you're a real actor. This is becoming more than just a role to you.#
-TROI: Don't be afraid of your darker side. Have fun with it. (Riker rubs his sore temple and sees the crewman he bumped into at the turbolift)#
+TROI: Don't be afraid of your darker side. Have fun with it.#
 TROI: I'm not sure. Do you want me to check the personnel logs?#
 TROI: I'm looking forward to it. Break a leg.#
 TROI: A little shaken but all right.#
@@ -2478,7 +2485,7 @@ TROI: What is it?#
 TROI: What happened?#
 TROI: The cells are metabolising at an incredible speed. Almost fifty times normal.#
 TROI: Your metabolism's stabilising.#
-TROI: My God. (Enterprise is hanging nose to nose with a Romulan warbird. An orange line and a green dotted line link the two ships.)#
+TROI: My God.#
 TROI: It looks like the Enterprise has been damaged. There, on the port nacelle.#
 TROI: The Romulans could've decloaked before the Enterprise had a chance to respond.#
 TROI: How long will the fields last?#
@@ -2530,7 +2537,7 @@ TROI: Data, all I'm sensing from you is anger and hatred. Have you felt any othe
 TROI: But the only emotions Data seems to feel are negative.#
 TROI: I think it's worth a try.#
 TROI: Help me!#
-TROI: He tried to escape. The force field sent him into neural shock. If he dies, Lore will blame you. (the innocent Borg takes down the force field and enters. He leans over Picard and gets one of his tubes pulled out, rendering him unconscious)#
+TROI: He tried to escape. The force field sent him into neural shock. If he dies, Lore will blame you.#
 TROI: Geordi, are you in pain?#
 TROI: I'll watch the door.#
 TROI: How are we going to know whether the pulse reboots Data's ethical programme?#
@@ -2542,11 +2549,11 @@ TROI: Oh, well, actually, I was waiting until we got to the desserts.#
 TROI: It's something we eat after the main course. It's usually very sweet, it's usually very bad for you. We eat it purely for pleasure. If you ask me, it's the best part of any meal.#
 TROI: Oh, well, let me introduce you to some of my favourites. This is peach cobbler with whipped cream. Tarvokian powder cake. And this is my favourite. Ktarian chocolate puff. I don't know exactly what's inside, but I think it's made with seventeen varieties of chocolate.#
 TROI: Delicious?#
-TROI: Ambassador, I think we're going to get along very well. Shall we? (Loquel takes his loaded plate and a tray of small desserts with him to a table)#
+TROI: Ambassador, I think we're going to get along very well. Shall we?#
 TROI: This deck is devoted mainly to stellar cartography, biological research, and astrophysics. We have over a thousand people on board#
 TROI: No, thank you. I'm still recovering from all those desserts last night.#
 TROI: I'm sure.#
-TROI: Yum. Next we're going to go to deck eight, which is interesting because it's not really finished. It's sort of a multi-purpose deck. Sometimes when we need an extra lab or. Ambassador? (Troi discovers Loquel is not with her, and goes back to find him examining a young boy)#
+TROI: Yum. Next we're going to go to deck eight, which is interesting because it's not really finished. It's sort of a multi-purpose deck. Sometimes when we need an extra lab or. Ambassador?#
 TROI: It's a child.#
 TROI: Children are our offspring. They're our young. They grow into adults over a period of many years. They grow into beings like us.#
 TROI: Ambassador, I'm curious. Now does your species procreate?#
@@ -2569,7 +2576,7 @@ TROI: We had business dealings. He owes me money.#
 TROI: Maybe we can discuss that possibility. But first, I have to find him, collect the money I'm owed.#
 TROI: If I don't find him, I'm going to have to move on. Are you sure you haven't seen him?#
 TROI: You're lying.#
-TROI: He's telling the truth. Acting Captain's log, stardate 47135.2. Doctor Crusher has positively identified Captain Picard's DNA. There's no doubt now that he's dead.#
+TROI: He's telling the truth.#
 TROI: How are you doing?#
 TROI: The crew's pretty shaken up. I'm arranging a memorial. I think you should be the one to deliver the eulogy.#
 TROI: I know it's not going to be easy, but I think it's important that we face up to what's happened. You're in command now. The crew's looking to you for guidance.#
@@ -2657,7 +2664,8 @@ TROI: Poetry is an art form that uses words, put together in new and unexpected 
 TROI: Oh. Er, Heaven is. Well, it's, how can I put it?#
 TROI: Mother, you're supposed to be avoiding telepathy.#
 TROI: You don't look well.#
-TROI: Don't worry she'll be fine. This is something I think you'll find interesting. It's a jewel plant from Folnar Three. The plant secretes a resin which is collected within the blossom. By the time the bloom has faded, the resin has hardened into a rare and beautiful gem. (Hedril is walking on the stones around the pond. She falls into the water, and stands up giggling. It's about 6 inches deep.) TROI: Mother!#
+TROI: Don't worry she'll be fine. This is something I think you'll find interesting. It's a jewel plant from Folnar Three. The plant secretes a resin which is collected within the blossom. By the time the bloom has faded, the resin has hardened into a rare and beautiful gem.#
+TROI: Mother!#
 TROI: Mother? Troi to Sickbay. Medical emergency in the arboretum.#
 TROI: I don't understand. She was fine just yesterday.#
 TROI: The paracortex is the Betazoid telepathic lobe. She communicated with Maques telepathically just before she fell.#
@@ -2671,7 +2679,8 @@ TROI: It's a part of the Betazoid psyche. It's a kind of filtering mechanism tha
 TROI: He feels that whatever is wrong with her is centred there. If he's right it may mean that she's suffered some kind of trauma that her metaconscious just can't tolerate.#
 TROI: No. Nothing.#
 TROI: I'd like to stay here with her. I'm going to try to contact her telepathically.#
-TROI: Tell me, mother. Please. (later, Deanna is sleeping on another biobed when someone comes in. She wakes) TROI: Computer, lights!#
+TROI: Tell me, mother. Please.#
+TROI: Computer, lights!#
 TROI: What are you doing?#
 TROI: How? What were you trying to do?#
 TROI: Yes?#
@@ -2688,7 +2697,7 @@ TROI: Captain?#
 TROI: Are you talking to me from Sickbay?#
 TROI: Why don't you ask Maques to do it?#
 TROI: You're not Captain Picard.#
-TROI: This isn't real. None of this is real. (but when it snarls, she turns and runs, and the wolf follows. Troi gets into a room just before it catches her)#
+TROI: This isn't real. None of this is real.#
 TROI: Daddy?#
 TROI: Don't do this.#
 TROI: You're not my father. You're part of my mother's mind. What is this place?#
@@ -2738,7 +2747,8 @@ TROI: Kestra?#
 TROI: What happened, Mother. What happened next?#
 TROI: You have to. You can't hold it back. It's killing you.#
 TROI: You have to forgive yourself, Mother. You have to let go.#
-TROI: It was a terrible tragedy. The worst thing that can happen to any parent. I know you feel responsible but it was an accident. And what you're doing isn't fair to Kestra. TROI: I saw a little girl who was sweet and happy. She must have brought a great deal of joy to your lives.#
+TROI: It was a terrible tragedy. The worst thing that can happen to any parent. I know you feel responsible but it was an accident. And what you're doing isn't fair to Kestra.#
+TROI: I saw a little girl who was sweet and happy. She must have brought a great deal of joy to your lives.#
 TROI: Isn't it better to remember her like that? I just found out I had a sister I never knew. I'd like to learn what was good and joyous about her. To celebrate her life, not mourn it.#
 TROI: Kestra was here a few moments ago. Talk to her.#
 TROI: Do it, mother. Tell her how you feel. I'll be here with you. I'll help you.#
@@ -2775,7 +2785,7 @@ TROI: I heard what happened on the Bridge. Are you all right?#
 TROI: Do you want to talk about it?#
 TROI: Very well, Lieutenant. Hot chocolate.#
 TROI: Actually, there is.#
-TROI: Come and sit down. I just want you to relax for a minute. (she unties his ponytail) There.  You are so tense. Now, I know you don't want to talk about what happened on the Bridge, but there are times when it's just best to let things out. Come on. If you can't talk to me, who can you talk to?#
+TROI: Come and sit down. I just want you to relax for a minute.  There.  You are so tense. Now, I know you don't want to talk about what happened on the Bridge, but there are times when it's just best to let things out. Come on. If you can't talk to me, who can you talk to?#
 TROI: Even for your wife?#
 TROI: Worf, what's wrong?#
 TROI: What's changed?#
@@ -2792,7 +2802,7 @@ TROI: You didn't know?#
 TROI: We have a little girl, Shannara, she's two years old, and a three year old boy, Eric Christopher.#
 TROI: Alexander?#
 TROI: Ever since the Bajorans overpowered the Cardassian Empire, they've become more and more aggressive.#
-TROI:  Welcome home, Worf. (he nearly has a heart attack) I hope you don't mind, I let myself in. I promised Alexander I'd feed his Dalvin hissing beetle while you were both away.#
+TROI:  Welcome home, Worf.  I hope you don't mind, I let myself in. I promised Alexander I'd feed his Dalvin hissing beetle while you were both away.#
 TROI: What's that supposed to mean?#
 TROI: Happy birthday, Worf. Will wanted to give you a surprise party, but I knew you'd hate it so I talked him out of it.#
 TROI: I know Klingons like to be alone on their birthdays. I'm sure you have to meditate, or hit yourself with a pain stick or something.#
@@ -2902,7 +2912,7 @@ TROI: More like falling techniques. Last time we did that I was sore for a week.
 TROI: I have no idea. I've never seen it before.#
 TROI: It's not quite his style.#
 TROI: That's an interesting thought#
-TROI:  That's nice. Data, this is amazing. How did you come up with this? (Data has made a half-face mask with a compass rose motif on the forehead)#
+TROI:  That's nice. Data, this is amazing. How did you come up with this?#
 TROI: That's an understatement.#
 TROI: Data, have you been in my quarters?#
 TROI: Somebody left an object in my room. Some kind of artefact, and it has something very similar to this. And you don't know anything about it?#
@@ -2959,7 +2969,8 @@ TROI: Oh, it's all right.#
 TROI: Could you open this door for me?#
 TROI: I just want to take a quick look.#
 TROI: I'm not sure.#
-TROI: Worf? (a toolbox is present labelled Utopia Planetia - and the nacelle is not completed) TROI: Worf? (Troi goes back down the ladder and hears laughter from the junction room. She opens the door to see another man and the woman kissing. They laugh at her)#
+TROI: Worf?#
+TROI: Worf?#
 TROI: Let's get out of here.#
 TROI: Yes, I think I do. There was a tool crate on the floor. It was labeled Utopia Planitia.#
 TROI: Everyone was looking directly at me, but it was as though I was seeing through someone else's eyes.#
@@ -2969,7 +2980,8 @@ TROI: I don't know, but something terrible happened in there. I felt it.#
 TROI: If only I could go back to the control room without being overwhelmed by the experience. It might help me remember some detail that might be relevant.#
 TROI: I'd like to try that.#
 TROI: No. There were literally thousands of people involved in building the Enterprise.#
-TROI: I think I have. The man who looked familiar to me may have served on board the Enterprise in the last seven years, so I've asked the computer to limit its search to personnel who served at Utopia Planitia and on the Enterprise. TROI: Ensign Salvatore. He transferred over a year ago. Lieutenant Ziff. She's in Quantum mechanics. That's him.#
+TROI: I think I have. The man who looked familiar to me may have served on board the Enterprise in the last seven years, so I've asked the computer to limit its search to personnel who served at Utopia Planitia and on the Enterprise.#
+TROI: Ensign Salvatore. He transferred over a year ago. Lieutenant Ziff. She's in Quantum mechanics. That's him.#
 TROI: I remember now. He came on board about six months ago. I think he's in Engineering.#
 TROI: Did you ever spend time in the nacelle control room while it was under construction?#
 TROI: Were you ever in the nacelle room at the same time as Lieutenant Kwan?#
@@ -3077,7 +3089,7 @@ TROI: Why? What's at Keystone City?#
 TROI: Wait. What happens at Keystone City? Why are you taking the brick there?#
 TROI: I think we should follow that man. That brick may be an important clue.#
 TROI: Where did he go?#
-TROI: There he is. I'm going after him. (Worf goes with her, leaving Data alone. Sunshine taxi registration H20638 hurtles round the corner and drives straight at him. Data rolls out of the way and carries on his work)#
+TROI: There he is. I'm going after him.#
 TROI: What are you doing here?#
 TROI: That man said he was laying a foundation.#
 TROI: Troi to Data#

@@ -1,35 +1,21 @@
 Episode Number: 535
 The Deep Space Nine Transcripts - Waltz
 Waltz
-Stardate:
-51408.6
+Stardate: 51408.6
 Original Airdate: 5 Jan, 1998
- 
-Captain's log, stardate 51408.6. I've been aboard the Honshu for two
-days now and I still haven't spoken to him, although the doctors have
-assured me that he's made a full recovery. Maybe that's what I'm afraid
-of. Maybe I prefer to think of him as a crazy man, a broken man. He'd
-be less dangerous that way. As terrible as it sounds, there's a part of
-me that wishes he were dead. But that's a thought unworthy of a
-Starfleet officer. He lost an empire, he lost his daughter, and he
-nearly lost his mind. Whatever his crimes isn't that enough punishment
-for one lifetime?
- [Honshu Brig] 
-(Sisko enters and the security guard leaves. Dukat
-is kneeling in his cell, apparently meditating or praying.) 
-DUKAT: I heard you were aboard. (he looks up) I was wondering if you'd
-make an appearance. 
+Captain's log, stardate 51408.6. I've been aboard the Honshu for two days now and I still haven't spoken to him, although the doctors have assured me that he's made a full recovery. Maybe that's what I'm afraid of. Maybe I prefer to think of him as a crazy man, a broken man. He'd be less dangerous that way. As terrible as it sounds, there's a part of me that wishes he were dead. But that's a thought unworthy of a Starfleet officer. He lost an empire, he lost his daughter, and he nearly lost his mind. Whatever his crimes isn't that enough punishment for one lifetime? 
+[Honshu Brig]
+(Sisko enters and the security guard leaves. Dukat is kneeling in his cell, apparently meditating or praying.) 
+DUKAT: I heard you were aboard. (he looks up) I was wondering if you'd make an appearance. 
 SISKO: How are you? 
 DUKAT: Better. The doctors tell me I've made a remarkable recovery. 
 SISKO: They told me the same thing. 
-DUKAT: Good. I'd hate to think they were patronising me. So I'm a war
-criminal. 
+DUKAT: Good. I'd hate to think they were patronising me. So I'm a war criminal. 
 SISKO: In the Federation, you're innocent till proven guilty. 
 DUKAT: So I'm told. Do you believe I'm guilty, Benjamin? 
 SISKO: I haven't seen all the charges. 
 DUKAT: It's not like you to equivocate. 
-SISKO: I'm trying to be fair. You won't be tried until the war is over.
-Your appearance before the special jury is just a formality. 
+SISKO: I'm trying to be fair. You won't be tried until the war is over. Your appearance before the special jury is just a formality. 
 DUKAT: And you'll be testifying for the prosecution. 
 SISKO: I will tell them what I know. 
 DUKAT: Care to elaborate? 
@@ -38,233 +24,140 @@ DUKAT: I see.
 SISKO: I never got a chance to tell you how sorry I am about Ziyal. 
 DUKAT: Do I detect the fine hand of Doctor Cox at work once again? 
 SISKO: I told him I wanted to offer my condolences. 
-DUKAT: I'm sorry. The good doctor encourages me to talk about Ziyal
-whenever possible, since it was her (big pause) death that brought on
-my momentary instability. I shouldn't be so suspicious. 
-SISKO: It's all right. Well, we should be arriving at Starbase six two
-one by noon tomorrow. I'll see you at the arraignment. 
-DUKAT: Benjamin. About my daughter. You and Major Kira took care of her
-for almost a year. I wanted to thank you for that. It was very
-generous. 
-SISKO: Ziyal was a very special young woman. It was a pleasure to have
-her with us, even if it was only a short time. 
+DUKAT: I'm sorry. The good doctor encourages me to talk about Ziyal whenever possible, since it was her (big pause) death that brought on my momentary instability. I shouldn't be so suspicious. 
+SISKO: It's all right. Well, we should be arriving at Starbase six two one by noon tomorrow. I'll see you at the arraignment. 
+DUKAT: Benjamin. About my daughter. You and Major Kira took care of her for almost a year. I wanted to thank you for that. It was very generous. 
+SISKO: Ziyal was a very special young woman. It was a pleasure to have her with us, even if it was only a short time. 
 DUKAT: A short time is all she ever had. 
 SISKO: Is there anything I can get for you? 
 DUKAT: A bottle of kanar and an Orion slave girl would be nice. 
 SISKO: I'll see what I can do. 
 (Boom. Red alert.) 
-CREWMAN [OC]: Battle stations! Damage control teams report to level
-five J. 
- [Ops]
-(Kira and Odo come out of the Captain's office to
-make an announcement.) 
-KIRA: It's confirmed. USS Honshu was destroyed this morning at ten
-thirty hours by an attack wing of Cardassian destroyers. Starfleet has
-picked up the distress beacons from three escape pods and one
-shuttlecraft, so there are survivors. 
-ODO: The signals are coming from this area. The last reported position
-of the Honshu was here, which means there could be survivors in any of
-these adjacent star systems. 
-O'BRIEN: That's a pretty large area. How many ships are in the search
-party? 
+CREWMAN [OC]: Battle stations! Damage control teams report to level five J. 
+[Ops]
+(Kira and Odo come out of the Captain's office to make an announcement.) 
+KIRA: It's confirmed. USS Honshu was destroyed this morning at ten thirty hours by an attack wing of Cardassian destroyers. Starfleet has picked up the distress beacons from three escape pods and one shuttlecraft, so there are survivors. 
+ODO: The signals are coming from this area. The last reported position of the Honshu was here, which means there could be survivors in any of these adjacent star systems. 
+O'BRIEN: That's a pretty large area. How many ships are in the search party? 
 ODO: Two. The Constellation and the Defiant. 
 DAX: Two? It could take days. 
-KIRA: With all the Dominion activity along the border, it's all
-Starfleet can spare at the moment. And the Defiant has another
-appointment. In fifty two hours you need to be at this rendezvous point
-outside the Badlands. You are the escort for a Federation troop convoy.
-WORF: It will take twelve hours just to arrive at the coordinates where
-the Honshu was destroyed. 
-KIRA: And twelve more to reach the Badlands, I know. But this convoy is
-completely unprotected. They've been using the plasma fields in the
-Badlands to hide their movements, and when they emerge they're helpless
-without the Defiant. 
-BASHIR: Can't they delay the convoy? I mean, if Captain Sisko is still
-alive, we have to give him every chance to 
-KIRA: I raised the same objection myself and the orders still stand.
-Now, every minute spent arguing here is one less minute spent searching
-for the captain. 
+KIRA: With all the Dominion activity along the border, it's all Starfleet can spare at the moment. And the Defiant has another appointment. In fifty two hours you need to be at this rendezvous point outside the Badlands. You are the escort for a Federation troop convoy. 
+WORF: It will take twelve hours just to arrive at the coordinates where the Honshu was destroyed. 
+KIRA: And twelve more to reach the Badlands, I know. But this convoy is completely unprotected. They've been using the plasma fields in the Badlands to hide their movements, and when they emerge they're helpless without the Defiant. 
+BASHIR: Can't they delay the convoy? I mean, if Captain Sisko is still alive, we have to give him every chance to 
+KIRA: I raised the same objection myself and the orders still stand. Now, every minute spent arguing here is one less minute spent searching for the captain. 
 WORF: Prepare for immediate departure. 
-KIRA: Worf, there are over thirty thousand Federation troops in that
-convoy. You have fifty two hours, not one second longer. Understood? 
-WORF: Understood. Defiant.
- [Cavern]
+KIRA: Worf, there are over thirty thousand Federation troops in that convoy. You have fifty two hours, not one second longer. Understood? 
+WORF: Understood. Defiant. 
+[Cavern]
 (There's a camp fire. Dukat hypo's Sisko awake.) 
 DUKAT: Benjamin, can you hear me? 
 SISKO: Dukat? 
-DUKAT: Yes. Everything's all right, but don't try to move too quickly.
-The left side of your body is covered with plasma burns. 
+DUKAT: Yes. Everything's all right, but don't try to move too quickly. The left side of your body is covered with plasma burns. 
 (Sisko's left arm is in a metallic splint.) 
 SISKO: We were in the brig and the ship went to Red Alert. 
 DUKAT: We were attacked by a wing of Cardassian ships, ironically. 
 SISKO: I was heading to Engineering. 
-DUKAT: You didn't get very far. A plasma conduit exploded before you
-got fifteen metres down the corridor. That's where Lieutenant McConnell
-and I found you when the order came to abandon ship. 
+DUKAT: You didn't get very far. A plasma conduit exploded before you got fifteen metres down the corridor. That's where Lieutenant McConnell and I found you when the order came to abandon ship. 
 SISKO: Where's McConnell? 
-DUKAT: Dead. A piece of shrapnel hit him in the head just as we were
-carrying you into the shuttle. 
+DUKAT: Dead. A piece of shrapnel hit him in the head just as we were carrying you into the shuttle. 
 SISKO: Any other survivors? 
-DUKAT: I saw a few escape pods leaving the ship just before it
-exploded, but I had my hands full just trying to keep us in one piece.
-The engines were damaged from the shockwaves and I set us down here,
-wherever here is. But that shuttle's never going to reach orbit again.
-The shuttle's distress beacon was damaged, but I think I managed to
-repair it. 
+DUKAT: I saw a few escape pods leaving the ship just before it exploded, but I had my hands full just trying to keep us in one piece. The engines were damaged from the shockwaves and I set us down here, wherever here is. But that shuttle's never going to reach orbit again. The shuttle's distress beacon was damaged, but I think I managed to repair it. 
 (Lights are blinking and the small screen says System On-Line.) 
 DUKAT: So now we have to do is wait for someone to pick up our signal. 
 SISKO: Whose signal are you transmitting? Starfleet or the Dominion? 
-DUKAT: It's a general distress call, Benjamin. Whoever gets here first
-will find one comrade in arms and one prisoner. That's fair, isn't it? 
+DUKAT: It's a general distress call, Benjamin. Whoever gets here first will find one comrade in arms and one prisoner. That's fair, isn't it? 
 SISKO: Fair enough. Did you do this? 
-DUKAT: You shattered most of the bones in your arm. There was a bone
-regenerator in the medkit, but I'm afraid I'm not much of a doctor, so
-I just put on the cast. 
+DUKAT: You shattered most of the bones in your arm. There was a bone regenerator in the medkit, but I'm afraid I'm not much of a doctor, so I just put on the cast. 
 SISKO: You did plenty. Thank you. 
-DUKAT: We have enough field rations to last us a few weeks, but I'd
-feel better if I could locate another source of food and water. The
-surface is inhospitable to say the least, but I did manage to find some
-firewood and kindling, so there's a good chance there's edible
-vegetation out there. I just have to find it. 
+DUKAT: We have enough field rations to last us a few weeks, but I'd feel better if I could locate another source of food and water. The surface is inhospitable to say the least, but I did manage to find some firewood and kindling, so there's a good chance there's edible vegetation out there. I just have to find it. 
 SISKO: You could have left me behind. Why didn't you? 
-DUKAT: I didn't want to. I'll be back within the hour.
- [Tunnel]
+DUKAT: I didn't want to. I'll be back within the hour. 
+[Tunnel]
 WEYOUN: What are you planning to do with him? 
 DUKAT: The Captain and I have a lot to talk about. 
 WEYOUN: Such as? 
 DUKAT: It's of a personal nature. 
-WEYOUN: I see. You're going to share your feelings of loneliness and
-sorrow with your longtime adversary. Doctor Cox'd be so proud. 
+WEYOUN: I see. You're going to share your feelings of loneliness and sorrow with your longtime adversary. Doctor Cox'd be so proud. 
 DUKAT: Go away. 
 WEYOUN: You should kill him now, while you still can. 
-DUKAT: That won't be necessary. He's in no condition to challenge me. I
-can afford to be patient. 
+DUKAT: That won't be necessary. He's in no condition to challenge me. I can afford to be patient. 
 WEYOUN: You should kill him. 
 DUKAT: I don't care for your tone. 
-WEYOUN: Spare me your endless posturing. You're lucky I speak to you at
-all after that pathetic display back at the hospital. 
+WEYOUN: Spare me your endless posturing. You're lucky I speak to you at all after that pathetic display back at the hospital. 
 DUKAT: That's enough. 
-WEYOUN: Oh, I see. It's a sensitive topic. I wonder what Captain Sisko
-would think if he'd seen you curled up in a ball, crying yourself to
-sleep every night? 
+WEYOUN: Oh, I see. It's a sensitive topic. I wonder what Captain Sisko would think if he'd seen you curled up in a ball, crying yourself to sleep every night? 
 DUKAT: Stop it! 
-WEYOUN: I doubt held still have the same respect for you if he'd heard
-you screaming and screaming and screaming like a madman till the nurses
-came and the doctors had to sedate you! 
+WEYOUN: I doubt held still have the same respect for you if he'd heard you screaming and screaming and screaming like a madman till the nurses came and the doctors had to sedate you! 
 DUKAT: No! 
-(Dukat shoots at Weyoun but only blows a hole in the rock wall.)
- [Cavern] 
-(Dukat samples some liquid from a pan over a
-camping stove, and spits it out.) 
+(Dukat shoots at Weyoun but only blows a hole in the rock wall.) 
+[Cavern]
+(Dukat samples some liquid from a pan over a camping stove, and spits it out.) 
 SISKO: Is that breakfast? 
 DUKAT: Possibly. Good morning. 
 SISKO: Morning. What's it like outside? 
-DUKAT: The wind has died down and the temperature's gone up twenty
-degrees. I rather like it, but I think you'll be more comfortable in
-here where it's cooler. 
+DUKAT: The wind has died down and the temperature's gone up twenty degrees. I rather like it, but I think you'll be more comfortable in here where it's cooler. 
 (Dukat shreds some leaves into the liquid.) 
 SISKO: Too much. 
 DUKAT: I'm doing the cooking here, thank you. 
 SISKO: Pardon me. 
-DUKAT: You're not the only officer who learned how to cook. How are you
-feeling? 
+DUKAT: You're not the only officer who learned how to cook. How are you feeling? 
 SISKO: A little better. 
 DUKAT: Good. After last night, I was beginning to get worried. 
 SISKO: Last night? 
 DUKAT: You don't remember? 
-SISKO: Now that you mention it I remember waking up and I was feeling a
-little dizzy. 
+SISKO: Now that you mention it I remember waking up and I was feeling a little dizzy. 
 DUKAT: You had a bout of nausea. Not exactly a little bout. 
 SISKO: Oh, I'm sorry. 
-DUKAT: That's all right. I've had to clean up a lot worse in my time.
-Once, when I was a newly minted glinn on the Kornaire, I had to help
-clean up a compartment where three men had gone through an explosive
-decompression. I didn't sleep for a week after that. 
+DUKAT: That's all right. I've had to clean up a lot worse in my time. Once, when I was a newly minted glinn on the Kornaire, I had to help clean up a compartment where three men had gone through an explosive decompression. I didn't sleep for a week after that. 
 SISKO: Let's change the subject. 
-DUKAT: The Emissary has spoken. Oh, come on, Benjamin. Have a sense of
-humour about all this. 
+DUKAT: The Emissary has spoken. Oh, come on, Benjamin. Have a sense of humour about all this. 
 SISKO: I'm not in much of a joking mood. 
-DUKAT: Well that's a shame, because there's so much to laugh about. You
-don't see it, do you? Benjamin, just a few hours ago I was a prisoner
-on my way to trial and you were my old friend come to visit me in my
-cell. Now look at us. I'm free and you're a prisoner of your own
-battered body, and there's a good chance we'll be rescued by the
-Dominion. You've got to laugh at a universe that allows such radical
-shifts in fortune, Benjamin. 
-SISKO: I will laugh when a Federation starship arrives and puts you
-back in a cell. 
+DUKAT: Well that's a shame, because there's so much to laugh about. You don't see it, do you? Benjamin, just a few hours ago I was a prisoner on my way to trial and you were my old friend come to visit me in my cell. Now look at us. I'm free and you're a prisoner of your own battered body, and there's a good chance we'll be rescued by the Dominion. You've got to laugh at a universe that allows such radical shifts in fortune, Benjamin. 
+SISKO: I will laugh when a Federation starship arrives and puts you back in a cell. 
 DUKAT: Whatever you say. 
-(Dukat starts to hand over a bowl then suddenly looks across the
-cavern.) 
+(Dukat starts to hand over a bowl then suddenly looks across the cavern.) 
 SISKO: What? 
 DUKAT: Nothing. it's probably just the wind. 
 (He gives Sisko a bowl of liquid. Sisko takes a sip.) 
 DUKAT: How is it? 
 SISKO: Needs salt. There's probably some in one of the ration packs. 
-DUKAT: You know, we didn't get much of a chance to catch up before the
-attack. How is everyone on what I'm sure you're once again calling Deep
-Space Nine? Odo, Kira, Quark? 
+DUKAT: You know, we didn't get much of a chance to catch up before the attack. How is everyone on what I'm sure you're once again calling Deep Space Nine? Odo, Kira, Quark? 
 SISKO: They're all fine. And no, they don't miss you. 
-DUKAT: Perhaps not. They never really did give me much of a chance.
-They were too busy plotting my downfall. 
-SISKO: Pepper. If you only want me to tell you what you want to hear,
-just say so. 
-DUKAT: Well I hope they at least told you that my policies toward the
-Bajorans were most generous this time. 
+DUKAT: Perhaps not. They never really did give me much of a chance. They were too busy plotting my downfall. 
+SISKO: Pepper. If you only want me to tell you what you want to hear, just say so. 
+DUKAT: Well I hope they at least told you that my policies toward the Bajorans were most generous this time. 
 SISKO: They told me Weyoun didn't give you much of a choice. 
-DUKAT: Major Kira knows full well I made every effort to heal the
-wounds between Cardassia and Bajor. Since the very beginning it was my
-intention to rectify the mistakes of the past and begin a new chapter
-in our relations. 
+DUKAT: Major Kira knows full well I made every effort to heal the wounds between Cardassia and Bajor. Since the very beginning it was my intention to rectify the mistakes of the past and begin a new chapter in our relations. 
 SISKO: Are you going to put that in my soup? 
 DUKAT: Well? 
 SISKO: Better. 
-DUKAT: You're not going to give me the benefit of the doubt, are you,
-Benjamin? 
+DUKAT: You're not going to give me the benefit of the doubt, are you, Benjamin? 
 SISKO: Do you really care what I think? 
 DUKAT: Don't you care what your old friends think of you? 
-SISKO: Dukat, we're not old friends. You saved my life and I'm
-grateful, but that's as far as it goes. 
+SISKO: Dukat, we're not old friends. You saved my life and I'm grateful, but that's as far as it goes. 
 (Dukat suddenly looks across the cavern again.) 
-SISKO: You keep hearing something. Are you sure there's nothing out
-there? 
-DUKAT: It's just the wind, I'm certain, but I'm going to double check
-just to make sure. 
- [Tunnel] 
+SISKO: You keep hearing something. Are you sure there's nothing out there? 
+DUKAT: It's just the wind, I'm certain, but I'm going to double check just to make sure. 
+[Tunnel]
 DUKAT: No. I won't do it. Not yet. 
 DAMAR: You're wasting time. 
 DUKAT: It's my time to waste, Damar. Remember your place. 
-DAMAR: I mean no disrespect, you know that. But without you the war
-will be lost and Cardassia will lie in ruins. Don't let this one man
-stand in the way of your final triumph. 
+DAMAR: I mean no disrespect, you know that. But without you the war will be lost and Cardassia will lie in ruins. Don't let this one man stand in the way of your final triumph. 
 DUKAT: I have to know that he respects me. I think I've earned it. 
-DAMAR: Of course you have. He's just trying to deny you the
-satisfaction of hearing him say it. You know in your heart he secretly
-admires you. Isn't that enough? Kill him and be done with it.
- [Cavern] 
-(Sisko leans on the comm. unit to get himself a
-drink of water. A panel at the back falls open and a display on the
-inside says System Off Line.)
- [Tunnel] 
-DAMAR: Think of it. The leader of Cardassia
-bringing the dead body of the Emissary back to the Bajoran people.
-They'll take it as a sign that the Prophets have abandoned them. The
-Shakaar government will be overthrown and the Federation position on
-Terok Nor will become untenable. 
+DAMAR: Of course you have. He's just trying to deny you the satisfaction of hearing him say it. You know in your heart he secretly admires you. Isn't that enough? Kill him and be done with it. 
+[Cavern]
+(Sisko leans on the comm. unit to get himself a drink of water. A panel at the back falls open and a display on the inside says System Off Line.) 
+[Tunnel]
+DAMAR: Think of it. The leader of Cardassia bringing the dead body of the Emissary back to the Bajoran people. They'll take it as a sign that the Prophets have abandoned them. The Shakaar government will be overthrown and the Federation position on Terok Nor will become untenable. 
 DUKAT: Very tempting thought. 
- [Cavern] 
-(Sisko puts the water bottle into a case then
-notices the display in the comm. unit. He checks that the main one on
-the front says online then closes the panel and goes back to his rock
-to rest and think.)
- [Tunnel] 
+[Cavern]
+(Sisko puts the water bottle into a case then notices the display in the comm. unit. He checks that the main one on the front says online then closes the panel and goes back to his rock to rest and think.) 
+[Tunnel]
 (Dukat is talking to the empty air.) 
-DUKAT: You've make some good points, Damar, but there will be time for
-all of that later. It's all right. I know you have my best interests at
-heart.
- [Cavern] 
-(Dukat returns to find Sisko lying on the floor
-reaching for the case fastening.) 
+DUKAT: You've make some good points, Damar, but there will be time for all of that later. It's all right. I know you have my best interests at heart. 
+[Cavern]
+(Dukat returns to find Sisko lying on the floor reaching for the case fastening.) 
 SISKO: I wanted to get some water out of the kit. 
 DUKAT: Ah. Here. 
 SISKO: Thanks. Anything out there? 
@@ -273,302 +166,154 @@ SISKO: I think something's wrong with the comm. system.
 DUKAT: Oh? 
 SISKO: It was beeping a second ago. It might need recalibrating. 
 DUKAT: I'll check. Everything's fine. The unit's still online. 
-SISKO: If you open up the casing, you'll be able to run a full
-diagnostic. Better safe than sorry. 
+SISKO: If you open up the casing, you'll be able to run a full diagnostic. Better safe than sorry. 
 DUKAT: You're right. 
-(Dukat opens up the back panel and presses buttons. It's still saying
-Offline. He closes it back up.) 
+(Dukat opens up the back panel and presses buttons. It's still saying Offline. He closes it back up.) 
 DUKAT: Nothing to worry about. It's working fine. 
-SISKO: That's all I wanted to know.
-Ship's log, supplemental. We have picked up a total
-of twelve Honshu survivors so far, but there is still no sign of
-Captain Sisko. We have less than twelve hours before we must abandon
-the search.
- [Cavern] 
-(Sisko is working on the comm. unit while Dukat is
-away. He uses pieces of bent metal to get at a chip, then it switches
-off completely.) 
-SISKO: Damn. 
-(He taps it, and it comes back on again, System online. Transmitting
-distress signal.)
- [Bridge]
-O'BRIEN: Commander, I'm picking up a distress
-signal.
+SISKO: That's all I wanted to know. 
+Ship's log, supplemental. We have picked up a total of twelve Honshu survivors so far, but there is still no sign of Captain Sisko. We have less than twelve hours before we must abandon the search. 
 [Cavern]
-(Sisko hears a noise so he closes the unit up and
-turns it around to it's former position then lies down. Dukat enters
-carrying two foam pads.) 
+(Sisko is working on the comm. unit while Dukat is away. He uses pieces of bent metal to get at a chip, then it switches off completely.) 
+SISKO: Damn. 
+(He taps it, and it comes back on again, System online. Transmitting distress signal.) 
+[Bridge]
+O'BRIEN: Commander, I'm picking up a distress signal. 
+[Cavern]
+(Sisko hears a noise so he closes the unit up and turns it around to it's former position then lies down. Dukat enters carrying two foam pads.) 
 DUKAT: Good evening. Pleasant dreams, I hope. 
 SISKO: I don't remember. Is it still dark out? 
-DUKAT: I do apologise for bringing you to such a gloomy latitude. The
-nights seem to last eighteen hours, the days less than five. Sit up. 
-(He puts one of the pads between Sisko and the rock he uses to lean
-against.) 
+DUKAT: I do apologise for bringing you to such a gloomy latitude. The nights seem to last eighteen hours, the days less than five. Sit up. 
+(He puts one of the pads between Sisko and the rock he uses to lean against.) 
 SISKO: Looks like you're planning on a long stay. 
-DUKAT: No, not at all. Someone's bound to pick up our signal any time
-now. But I see no reason why we shouldn't be comfortable in the
-meantime. How's that? 
+DUKAT: No, not at all. Someone's bound to pick up our signal any time now. But I see no reason why we shouldn't be comfortable in the meantime. How's that? 
 SISKO: Just fine, thank you. 
-DUKAT: Good. (sits on the other one) Ah, much better. You know, when I
-was out there in the shuttle just now, it occurred to me that the
-Bajorans would be very confused if they could see us here, sharing the
-same food, the same hardships. What do you think they would say if they
-knew the Emissary of the Prophets and the evil Gul Dukat were sitting
-here together, getting along like the two old friends that they really
-are? Oh, I forgot. You don't think of me as your old friend, do you,
-Benjamin. It's all right. There's no one here. Just the two of us. No
-one to impress, no one to judge what you say. We can be honest with one
-another. So tell me. What you really think of me? 
-KIRA: I'll tell you what I think. You're an evil, sadistic man who
-should've been tried as a war criminal years ago, put up against a wall
-and shot. 
-DUKAT: You probably agree with Major Kira, don't you, Benjamin? I am
-the former Prefect of Bajor. An evil man who sent thousands of Bajorans
-to their deaths to satisfy his own sadistic desires. 
+DUKAT: Good. (sits on the other one) Ah, much better. You know, when I was out there in the shuttle just now, it occurred to me that the Bajorans would be very confused if they could see us here, sharing the same food, the same hardships. What do you think they would say if they knew the Emissary of the Prophets and the evil Gul Dukat were sitting here together, getting along like the two old friends that they really are? Oh, I forgot. You don't think of me as your old friend, do you, Benjamin. It's all right. There's no one here. Just the two of us. No one to impress, no one to judge what you say. We can be honest with one another. So tell me. What you really think of me? 
+KIRA: I'll tell you what I think. You're an evil, sadistic man who should've been tried as a war criminal years ago, put up against a wall and shot. 
+DUKAT: You probably agree with Major Kira, don't you, Benjamin? I am the former Prefect of Bajor. An evil man who sent thousands of Bajorans to their deaths to satisfy his own sadistic desires. 
 KIRA: Of course he agrees with me. And it was millions. 
 SISKO: I don't think there's any point in discussing this. 
-DUKAT: I do. My name and reputation have been slandered and twisted
-ever since the end of the occupation of Bajor. I have been vilified by
-ignorant, small minded people throughout the quadrant for the past six
-years. I just want to know if you're one of them, Benjamin. 
-SISKO: I wasn't there during the occupation. I didn't see all the
-things you had to struggle with day after day. I don't think I can pass
-judgement. 
-KIRA: He's just doesn't want to anger you. He really thinks you're a
-vicious, cold blooded killer, Dukat, and so do I. 
-DUKAT: I don't care what you think so I suggest you keep your opinions
-to yourself. (to Sisko) I don't think you're being entirely honest with
-me, Benjamin. You're not a man who hesitates to make snap judgements
-when the situation calls for it. It's one of the signs of a good
-commander. Now I'm asking for your opinion of me and I find it hard to
-believe you don't have one. 
-SISKO: All right. I think you're right. You have been judged unfairly.
-I've judged you unfairly. But I think you probably had good reasons for
-everything you did on Bajor. 
-DUKAT: Yes. Yes, that's it exactly. I had good reasons. Some of the
-harsher actions I took were forced on me by Central Command. I wanted
-to use entirely different tactics with the Bajorans. I wanted to rule
-with a softer hand, but my superiors didn't see it that way. 
+DUKAT: I do. My name and reputation have been slandered and twisted ever since the end of the occupation of Bajor. I have been vilified by ignorant, small minded people throughout the quadrant for the past six years. I just want to know if you're one of them, Benjamin. 
+SISKO: I wasn't there during the occupation. I didn't see all the things you had to struggle with day after day. I don't think I can pass judgement. 
+KIRA: He's just doesn't want to anger you. He really thinks you're a vicious, cold blooded killer, Dukat, and so do I. 
+DUKAT: I don't care what you think so I suggest you keep your opinions to yourself. (to Sisko) I don't think you're being entirely honest with me, Benjamin. You're not a man who hesitates to make snap judgements when the situation calls for it. It's one of the signs of a good commander. Now I'm asking for your opinion of me and I find it hard to believe you don't have one. 
+SISKO: All right. I think you're right. You have been judged unfairly. I've judged you unfairly. But I think you probably had good reasons for everything you did on Bajor. 
+DUKAT: Yes. Yes, that's it exactly. I had good reasons. Some of the harsher actions I took were forced on me by Central Command. I wanted to use entirely different tactics with the Bajorans. I wanted to rule with a softer hand, but my superiors didn't see it that way. 
 SISKO: You were a soldier and you had to carry out your orders. 
 DUKAT: Precisely. 
 (Kira nearly falls over in hysterical laughter.) 
 KIRA: You are such a fool. 
 DUKAT: Leave us alone! This doesn't concern you! 
-KIRA: He's patronising you. You were a soldier and you had to carry out
-your orders. He doesn't believe that lame excuse any more than I do. 
+KIRA: He's patronising you. You were a soldier and you had to carry out your orders. He doesn't believe that lame excuse any more than I do. 
 DUKAT: This is growing tiresome. 
 SISKO: Dukat. Dukat! I thought you wanted to talk to me. 
-DUKAT: Yes, but Nerys won't leave well enough alone. She's always
-interfering, always trying to upset me. 
-SISKO: Maybe we should just ignore her. Let's pretend that the Major's
-not even here.
- [Bridge]
-DAX: I'm picking up two humanoid lifeforms on the
-surface. 
+DUKAT: Yes, but Nerys won't leave well enough alone. She's always interfering, always trying to upset me. 
+SISKO: Maybe we should just ignore her. Let's pretend that the Major's not even here. 
+[Bridge]
+DAX: I'm picking up two humanoid lifeforms on the surface. 
 WORF: Bridge to transporter room. 
- [Cavern] 
-SISKO: There's no reason to get upset. We're just
-talking. Two old soldiers talking around a campfire. 
-KIRA: I'm going to enjoy watching this. He's going to beat you, Dukat.
-He's going to escape and go back to DS Nine and his friends and we're
-all going to have a good, long laugh at your expense. 
+[Cavern]
+SISKO: There's no reason to get upset. We're just talking. Two old soldiers talking around a campfire. 
+KIRA: I'm going to enjoy watching this. He's going to beat you, Dukat. He's going to escape and go back to DS Nine and his friends and we're all going to have a good, long laugh at your expense. 
 DUKAT: Enough! 
-(Dukat shoots at Kira, aka the edge of Sisko's rock, then the wall, and
-down the tunnel.)
- [Transporter bay] 
+(Dukat shoots at Kira, aka the edge of Sisko's rock, then the wall, and down the tunnel.) 
+[Transporter bay]
 O'BRIEN: I've locked onto them. 
 (They beam up two women, one with her left arm in a sling.) 
-O'BRIEN: Transporter room to bridge. We have the survivors on board.
-Two women.
- [Bridge]
-O'BRIEN [OC]: An Ensign and a Lieutenant. Doctor
-Bashir is checking them now.
- [Cavern] 
-(Dukat spots Sisko's fork sticking out from under
-the blanket. He picks it up.) 
-DUKAT: That must have been very uncomfortable, Benjamin. Look at that.
-One of the tines is missing. Now did that happened? Did you break it
-off? But why would you want a small thin piece of metal? Unless you
-needed a tool. 
+O'BRIEN: Transporter room to bridge. We have the survivors on board. Two women. 
+[Bridge]
+O'BRIEN [OC]: An Ensign and a Lieutenant. Doctor Bashir is checking them now. 
+[Cavern]
+(Dukat spots Sisko's fork sticking out from under the blanket. He picks it up.) 
+DUKAT: That must have been very uncomfortable, Benjamin. Look at that. One of the tines is missing. Now did that happened? Did you break it off? But why would you want a small thin piece of metal? Unless you needed a tool. 
 (Dukat checks the back of the comm. unit.) 
-DUKAT: I see you've been busy. A little repair work while I was gone.
-Very thoughtful. 
-(He phasers the unit.)
- [Bridge]
-(Dax is triangulating another signal when her panel
-goes blank.) 
+DUKAT: I see you've been busy. A little repair work while I was gone. Very thoughtful. 
+(He phasers the unit.) 
+[Bridge]
+(Dax is triangulating another signal when her panel goes blank.) 
 DAX: Worf. 
 WORF: What is it? 
-DAX: I thought I picked up another distress signal but now it's gone.
- [Cavern] 
+DAX: I thought I picked up another distress signal but now it's gone. 
+[Cavern]
 (Dukat gets a piece of metal piping.) 
-DUKAT: You know, Benjamin, I thought we had established a level of
-trust between us, but I was wrong. If there's one thing I can't abide,
-it's betrayal. 
-(We hear the sound of metal on metal.)
- [Bridge] 
+DUKAT: You know, Benjamin, I thought we had established a level of trust between us, but I was wrong. If there's one thing I can't abide, it's betrayal. 
+(We hear the sound of metal on metal.) 
+[Bridge]
 (In orbit of a dull brown planet.) 
-WORF: Our rescue effort has been delayed. If we could just have a few
-more hours? 
+WORF: Our rescue effort has been delayed. If we could just have a few more hours? 
 (It's a bad connection to DS9.) 
-KIRA: The troop convoy will be completely unprotected when they emerge
-from the plasma fields. They're under strict radio silence. No way they
-can acknowledge our signal even if. Sorry, Worf, but you're going to
-have to 
+KIRA: The troop convoy will be completely unprotected when they emerge from the plasma fields. They're under strict radio silence. No way they can acknowledge our signal even if. Sorry, Worf, but you're going to have to 
 (Transmission drops out.) 
-O'BRIEN: I'm sorry, Captain. There's some kind of subspace interference
-between us and the station. I'll keep trying. 
-BASHIR: I couldn't understand a word Kira said. Too much interference.
-Looks to me like we're on our own. 
+O'BRIEN: I'm sorry, Captain. There's some kind of subspace interference between us and the station. I'll keep trying. 
+BASHIR: I couldn't understand a word Kira said. Too much interference. Looks to me like we're on our own. 
 DAX: I could understood what she was trying to say. 
 BASHIR: What about you, Chief? Did you understand? 
 O'BRIEN: No, I couldn't understand a word. 
-DAX: Well it doesn't really matter what we think. Commander Worf is
-captain here. 
-WORF: We all know what Major Kira's orders were. It would be
-dishonourable to ignore them. 
-BASHIR: You will forgive me if I don't consider your honour to be worth
-Captain Sisko's life. 
+DAX: Well it doesn't really matter what we think. Commander Worf is captain here. 
+WORF: We all know what Major Kira's orders were. It would be dishonourable to ignore them. 
+BASHIR: You will forgive me if I don't consider your honour to be worth Captain Sisko's life. 
 WORF: You may leave the bridge, Doctor. 
 (Bashir leaves.) 
 WORF: Helm, lay in a course for the third planet. 
-DAX: Aye, Captain.
- [Cavern] 
-(Sisko has been beaten up. Dukat is cleaning blood
-from the metal pipe.) 
+DAX: Aye, Captain. 
+[Cavern]
+(Sisko has been beaten up. Dukat is cleaning blood from the metal pipe.) 
 DUKAT: You brought it on yourself, you know. 
 SISKO: Just like all your victims. 
-DUKAT: All my victims. It always comes back to that, doesn't it? All my
-crimes. I'm such a monster, such an evil man. Behold Benjamin Sisko,
-supreme arbiter of right and wrong in the universe. A man of such high
-moral calibre that he can sit in judgement on all the rest of us. 
-SISKO: What the hell do you want from me? My approval? Is that what
-this is all about? You want me to give you my permission to cause more
-suffering and death? Well, if that's what you're after, you might as
-well pull out that phaser and end this right now because I will never
-give it to you! 
-DUKAT: Good! Good, I like this. No more pretence, no games. Just you,
-me and the truth. 
-SISKO: What do you know about the truth? You bend the truth into
-whatever shape suits you. 
-DUKAT: Judge Sisko hands down another ruling. But where's his evidence?
+DUKAT: All my victims. It always comes back to that, doesn't it? All my crimes. I'm such a monster, such an evil man. Behold Benjamin Sisko, supreme arbiter of right and wrong in the universe. A man of such high moral calibre that he can sit in judgement on all the rest of us. 
+SISKO: What the hell do you want from me? My approval? Is that what this is all about? You want me to give you my permission to cause more suffering and death? Well, if that's what you're after, you might as well pull out that phaser and end this right now because I will never give it to you! 
+DUKAT: Good! Good, I like this. No more pretence, no games. Just you, me and the truth. 
+SISKO: What do you know about the truth? You bend the truth into whatever shape suits you. 
+DUKAT: Judge Sisko hands down another ruling. But where's his evidence? 
 SISKO: All right. You really want to do this? Here? Now? 
 DUKAT: Yes. 
-SISKO: Okay. Okay, let's do it. You were Prefect of Bajor during the
-occupation. True or false? 
+SISKO: Okay. Okay, let's do it. You were Prefect of Bajor during the occupation. True or false? 
 DUKAT: True. 
-SISKO: And you were responsible for everything that happened under your
-command. True or false? 
+SISKO: And you were responsible for everything that happened under your command. True or false? 
 DUKAT: True. 
-SISKO: So that means that you are responsible for the murder of over
-five million Bajorans on your watch. True or false! 
+SISKO: So that means that you are responsible for the murder of over five million Bajorans on your watch. True or false! 
 DUKAT: False. I tried to save lives during my administration. 
 SISKO: Evidence? 
-DUKAT: Evidence? He wants evidence. By the time I became Prefect, the
-occupation had been going on for almost forty years, but the planet
-still wasn't ready for full scale colonisation. Central Command wanted
-the situation resolved and they didn't care how it was done. I was
-convinced that a gentler hand was required to deal with the Bajorans. 
+DUKAT: Evidence? He wants evidence. By the time I became Prefect, the occupation had been going on for almost forty years, but the planet still wasn't ready for full scale colonisation. Central Command wanted the situation resolved and they didn't care how it was done. I was convinced that a gentler hand was required to deal with the Bajorans. 
 DAMAR: It was a noble, if misguided, vision. 
-DUKAT: So in my first official act as Prefect, I ordered all labour
-camp commanders to reduce their output quotas by fifty percent fifty
-percent. Then I reorganised the camps themselves. Child labour was
-abolished. Medical care was improved. Food rations were increased. At
-the end of one month of my administration, the death rate had dropped
-by twenty percent. Now how did the Bajorans react to all this? On my
-one month anniversary they blew up an orbital dry-dock, killing over
-two hundred Cardassian soldiers and workers. 
+DUKAT: So in my first official act as Prefect, I ordered all labour camp commanders to reduce their output quotas by fifty percent fifty percent. Then I reorganised the camps themselves. Child labour was abolished. Medical care was improved. Food rations were increased. At the end of one month of my administration, the death rate had dropped by twenty percent. Now how did the Bajorans react to all this? On my one month anniversary they blew up an orbital dry-dock, killing over two hundred Cardassian soldiers and workers. 
 KIRA: We didn't want a reconciliation. We wanted to destroy you. 
-DUKAT: So I had to order a response. But even then it was a carefully
-tempered one. I ordered two hundred suspected members of the Resistance
-rounded up and executed. Two hundred lives for two hundred lives.
-That's justice, not malevolence. Justice. 
+DUKAT: So I had to order a response. But even then it was a carefully tempered one. I ordered two hundred suspected members of the Resistance rounded up and executed. Two hundred lives for two hundred lives. That's justice, not malevolence. Justice. 
 WEYOUN: The Dominion would never have been so generous. 
-DUKAT: But did I give up my efforts to reach out to the Bajorans? No. I
-tried again. And what did I get for my troubles? An assassination
-attempt on my own space station! Another round of executions followed
-once again, courtesy of the Bajoran resistance. 
+DUKAT: But did I give up my efforts to reach out to the Bajorans? No. I tried again. And what did I get for my troubles? An assassination attempt on my own space station! Another round of executions followed once again, courtesy of the Bajoran resistance. 
 KIRA: We never wanted peace. We hated you. We hated all of you. 
-DUKAT: On and on it went, year after blood-soaked year. Time and again
-I would reach out with the open hand of friendship, and time and again
-they would slap it away. 
+DUKAT: On and on it went, year after blood-soaked year. Time and again I would reach out with the open hand of friendship, and time and again they would slap it away. 
 DAMAR: The Bajorans understand a clenched fist, not an open hand. 
 KIRA: Being reasonable only made us bolder. 
-WEYOUN: The Dominion would have killed every man, woman and child on
-Bajor long ago. 
+WEYOUN: The Dominion would have killed every man, woman and child on Bajor long ago. 
 DUKAT: I hope you're listening to all this. 
-SISKO: Oh believe me, you have my undivided attention. Now let me get
-this straight. You're not responsible for what happened during the
-occupation, the Bajorans are. 
+SISKO: Oh believe me, you have my undivided attention. Now let me get this straight. You're not responsible for what happened during the occupation, the Bajorans are. 
 DUKAT: Yes, yes, exactly. 
-SISKO: So, why do you think they didn't appreciate this rare
-opportunity you were offering them? 
-DUKAT: Because they were blind, ignorant fools. If only they had
-cooperated with us, we could have turned their world into a paradise.
-From the moment we arrived on Bajor, it was clear that we were the
-superior race. But they couldn't accept that. They wanted to be treated
-as equals when they most certainly were not. Militarily,
-technologically, culturally, we were almost a century ahead of them in
-every way. We did not choose to be the superior race. Fate handed us
-our role. And it would've been so much easier on everyone if the
-Bajorans had simply accepted their role. But no, day after day they
-clustered in their temples and prayed for deliverance, and night after
-night they planted bombs outside of our homes. Pride. Stubborn,
-unyielding pride. From the servant girl that cleaned my quarters to the
-condemned man toiling in a labour camp to the terrorist skulking
-through the hills of Dahkur Province. They all wore their pride like
-some twisted badge of honour. 
+SISKO: So, why do you think they didn't appreciate this rare opportunity you were offering them? 
+DUKAT: Because they were blind, ignorant fools. If only they had cooperated with us, we could have turned their world into a paradise. From the moment we arrived on Bajor, it was clear that we were the superior race. But they couldn't accept that. They wanted to be treated as equals when they most certainly were not. Militarily, technologically, culturally, we were almost a century ahead of them in every way. We did not choose to be the superior race. Fate handed us our role. And it would've been so much easier on everyone if the Bajorans had simply accepted their role. But no, day after day they clustered in their temples and prayed for deliverance, and night after night they planted bombs outside of our homes. Pride. Stubborn, unyielding pride. From the servant girl that cleaned my quarters to the condemned man toiling in a labour camp to the terrorist skulking through the hills of Dahkur Province. They all wore their pride like some twisted badge of honour. 
 SISKO: And you hated them for it. 
-DUKAT: Of course I hated them! I hated everything about them! Their
-superstitions and their cries for sympathy, their treachery and their
-lies, their smug superiority and their stiff necked obstinacy, their
-earrings and their broken wrinkled noses. 
+DUKAT: Of course I hated them! I hated everything about them! Their superstitions and their cries for sympathy, their treachery and their lies, their smug superiority and their stiff necked obstinacy, their earrings and their broken wrinkled noses. 
 SISKO: You should have killed them all. 
-DUKAT: Yes! Yes! That's right, isn't it? (his companions nod) I knew
-it! I've always known it! I should have killed every last one of them.
-I should have turned their planet into a graveyard the likes of which
-the galaxy had never seen! I should have killed them all. 
+DUKAT: Yes! Yes! That's right, isn't it? (his companions nod) I knew it! I've always known it! I should have killed every last one of them. I should have turned their planet into a graveyard the likes of which the galaxy had never seen! I should have killed them all. 
 (A metal bar crashes down on his head, and Dukat falls.) 
 SISKO: And that is why you're not an evil man. 
 [Planet surface]
-(Sisko totters out of the cavern and into the
-violent winds. An electrical storm reveals the shuttlecraft and Sisko
-heads for it.)
- [Shuttle] 
-(Sisko closes the ramp but Dukat leaps on board
-just in time. Sisko tries to fight one-handed but loses. Dukat opens
-the ramp again and points the phaser at Sisko.) 
+(Sisko totters out of the cavern and into the violent winds. An electrical storm reveals the shuttlecraft and Sisko heads for it.) 
+[Shuttle]
+(Sisko closes the ramp but Dukat leaps on board just in time. Sisko tries to fight one-handed but loses. Dukat opens the ramp again and points the phaser at Sisko.) 
 SISKO: Do it! 
-(Instead, Dukat throws him outside.)
+(Instead, Dukat throws him outside.) 
 [Planet surface]
-DUKAT: I'm so glad we had this time together,
-Benjamin, because we won't be seeing each other for a while. I have
-unfinished business on Bajor. They thought I was their enemy? They
-don't know what it is to be my enemy, but they will. From this day
-forward, Bajor is dead. All of Bajor. And this time, even their
-Emissary won't be able to save them. 
-(Sisko kicks Dukat's knee, so Dukat punches him and crawls back into
-the shuttle. As the ramp closes we see Kira, Damar and Weyoun with him
-again.)
- [Bridge]
+DUKAT: I'm so glad we had this time together, Benjamin, because we won't be seeing each other for a while. I have unfinished business on Bajor. They thought I was their enemy? They don't know what it is to be my enemy, but they will. From this day forward, Bajor is dead. All of Bajor. And this time, even their Emissary won't be able to save them. 
+(Sisko kicks Dukat's knee, so Dukat punches him and crawls back into the shuttle. As the ramp closes we see Kira, Damar and Weyoun with him again.) 
+[Bridge]
 DAX: It's time. 
-WORF: Plot a course out of the system, full impulse. Once we've cleared
-the outer planets, head for the rendezvous coordinates, maximum warp. 
+WORF: Plot a course out of the system, full impulse. Once we've cleared the outer planets, head for the rendezvous coordinates, maximum warp. 
 DAX: Course laid in. Engaging impulse engines. 
-O'BRIEN: Captain. I'm picking up a signal. It's from Gul Dukat.
-Ship's log, stardate 51413.6. We have rescued
-Captain Sisko, but we did not have time to locate Gul Dukat's shuttle.
-We are now en route to our rendezvous with the troop convoy near the
-Badlands, and the Captain is recovering in sickbay.
+O'BRIEN: Captain. I'm picking up a signal. It's from Gul Dukat. 
+Ship's log, stardate 51413.6. We have rescued Captain Sisko, but we did not have time to locate Gul Dukat's shuttle. We are now en route to our rendezvous with the troop convoy near the Badlands, and the Captain is recovering in sickbay. 
 [Medical bay]
-DAX: Benjamin? I've notified Starfleet of Dukat's
-last known position. They'll find him. 
-SISKO: No, they won't. You know, old man, sometimes life seems so
-complicated. Nothing is truly good or truly evil. Everything seems to
-be a shade of grey. And then you spend some time with a man like Dukat
-and you realise that there is really such a thing as truly evil. 
-DAX: To realise that is one thing. To do something about it is another.
-So what are you going to do? 
-SISKO: I'll tell you what I'm not going to do. I'm not going to let him
-destroy Bajor. I fear no evil. From now on, it's him or me. 
+DAX: Benjamin? I've notified Starfleet of Dukat's last known position. They'll find him. 
+SISKO: No, they won't. You know, old man, sometimes life seems so complicated. Nothing is truly good or truly evil. Everything seems to be a shade of grey. And then you spend some time with a man like Dukat and you realise that there is really such a thing as truly evil. 
+DAX: To realise that is one thing. To do something about it is another. So what are you going to do? 
+SISKO: I'll tell you what I'm not going to do. I'm not going to let him destroy Bajor. I fear no evil. From now on, it's him or me. 
 

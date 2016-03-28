@@ -1,171 +1,97 @@
 Episode Number: 104
 The Voyager Transcripts - Phage
 Phage
-Stardate:
-48532.4
+Stardate: 48532.4
 Original Airdate: February 6 1995
- Captain's log, stardate
-48532.4. We're on our way to a rogue planetoid which Mister Neelix
-tells us is an extremely rich source of raw dilithium. If he's right,
-this could go a long way toward easing our power shortage. 
- [Corridor]
-JANEWAY: Assuming we do find dilithium on this planetoid, we're going
-to need a refining facility on the ship to process it.
-CHAKOTAY: Lieutenant Torres has already asked permission to start
-modifications to the auxiliary impulse reactor. It could be converted
-into a crude dilithium refinery.
-JANEWAY: The impulse reactor? Sometimes I think B'Elanna goes out of
-her way to find solutions that ignore Starfleet procedures.
-CHAKOTAY: Her arguments are quite convincing. She thinks it can be done
-safely.
-JANEWAY: I'm sure it can. Tell her I want regular reports on her
-progress every step of the way. Are you sure you won't join me for
-breakfast? I was thinking of having eggs Benedict with asparagus,
-strawberries and cream. 
+Captain's log, stardate 48532.4. We're on our way to a rogue planetoid which Mister Neelix tells us is an extremely rich source of raw dilithium. If he's right, this could go a long way toward easing our power shortage. 
+[Corridor]
+JANEWAY: Assuming we do find dilithium on this planetoid, we're going to need a refining facility on the ship to process it.
+CHAKOTAY: Lieutenant Torres has already asked permission to start modifications to the auxiliary impulse reactor. It could be converted into a crude dilithium refinery.
+JANEWAY: The impulse reactor? Sometimes I think B'Elanna goes out of her way to find solutions that ignore Starfleet procedures.
+CHAKOTAY: Her arguments are quite convincing. She thinks it can be done safely.
+JANEWAY: I'm sure it can. Tell her I want regular reports on her progress every step of the way. Are you sure you won't join me for breakfast? I was thinking of having eggs Benedict with asparagus, strawberries and cream. 
 CHAKOTAY: Ah. 
-JANEWAY: I said I was thinking about it. I'm actually having ration
-pack number five. Stewed tomatoes with dehydrated eggs.
-CHAKOTAY: Mmm. Sounds delicious, but I've already had my vacuum-packed
-oatmeal this morning.
+JANEWAY: I said I was thinking about it. I'm actually having ration pack number five. Stewed tomatoes with dehydrated eggs.
+CHAKOTAY: Mmm. Sounds delicious, but I've already had my vacuum-packed oatmeal this morning.
 JANEWAY: I'll see you on the bridge. 
- [Mess
-hall - kitchen] 
-(Captain Janeway walks through the door into a steam-filled room, and
-her jaw drops open. Neelix has a pair of large pans sizzling away on
-blazing braziers. He seasons them, then puts some food onto a metal
-tray and hands it to a crewman across a serving counter.) 
+[Mess hall - kitchen]
+(Captain Janeway walks through the door into a steam-filled room, and her jaw drops open. Neelix has a pair of large pans sizzling away on blazing braziers. He seasons them, then puts some food onto a metal tray and hands it to a crewman across a serving counter.) 
 NEELIX: Hope you enjoy it.
 JANEWAY: What is going on here?
 NEELIX: Captain, you caught me by surprise.
 JANEWAY: I could say the same thing. What are you doing?
-NEELIX: Well, I know how you and the other senior officers have been,
-excuse me, disappointed with the rations lately, so I thought I'd use a
-few of the vegetables from the hydroponics bay and whip up a little
-breakfast.
+NEELIX: Well, I know how you and the other senior officers have been, excuse me, disappointed with the rations lately, so I thought I'd use a few of the vegetables from the hydroponics bay and whip up a little breakfast.
 JANEWAY: You have turned this into a galley?
-NEELIX: It wasn't easy. I had to completely re-route the mess hall
-power conduits and scrounge a lot of supplies from all over the ship,
-but that's my specialty, making something out of nothing. I know it
-doesn't look like much now, but in a few days you'll swear there'd been
-a galley here for years. Be careful, that one is a little spicy.
+NEELIX: It wasn't easy. I had to completely re-route the mess hall power conduits and scrounge a lot of supplies from all over the ship, but that's my specialty, making something out of nothing. I know it doesn't look like much now, but in a few days you'll swear there'd been a galley here for years. Be careful, that one is a little spicy.
 JANEWAY: Neelix, who approved this?
 NEELIX: Ah, well, no one.
-JANEWAY: Well, you might have asked me first. This used to be my
-private dining room.
+JANEWAY: Well, you might have asked me first. This used to be my private dining room.
 NEELIX: Your? Your dining room?
-JANEWAY: If you had checked the ship's directory, you would have
-noticed that cabin one two five alpha deck two is designated as the
-Captain's private dining room.
-NEELIX: Oh! Then I guess that you'll be wanting me to move all of this
-stuff out of your way. 
+JANEWAY: If you had checked the ship's directory, you would have noticed that cabin one two five alpha deck two is designated as the Captain's private dining room.
+NEELIX: Oh! Then I guess that you'll be wanting me to move all of this stuff out of your way. 
 CHAKOTAY [OC]: Bridge to Captain Janeway.
 JANEWAY: Go ahead.
 CHAKOTAY [OC]: We're approaching the rogue planetoid, Captain.
-JANEWAY: On my way. I want you to come with me. We will deal with this
-later.
-NEELIX: Ensign Parsons, would you mind keeping an eye on things until I
-get back and er, rotate the darvot fritters every ten minutes until
-they turn a deep chartreuse. And remember one, one to a customer. 
- [Bridge]
- 
+JANEWAY: On my way. I want you to come with me. We will deal with this later.
+NEELIX: Ensign Parsons, would you mind keeping an eye on things until I get back and er, rotate the darvot fritters every ten minutes until they turn a deep chartreuse. And remember one, one to a customer. 
+[Bridge] 
 JANEWAY: What have you found?
-KIM: We're picking up definite dilithium signatures, Captain. The
-strongest readings are originating from ten to twenty kilometres inside
-the planetoid.
-TORRES: It also looks like there's a series of subterranean caves with
-an oxygen-nitrogen atmosphere.
-CHAKOTAY: Class M. It'll make mining a lot easier if we can go in there
-without environmental suits.
+KIM: We're picking up definite dilithium signatures, Captain. The strongest readings are originating from ten to twenty kilometres inside the planetoid.
+TORRES: It also looks like there's a series of subterranean caves with an oxygen-nitrogen atmosphere.
+CHAKOTAY: Class M. It'll make mining a lot easier if we can go in there without environmental suits.
 JANEWAY: How much dilithium are we talking about?
-TORRES: It's hard to get a precise reading. It could be anywhere from
-five hundred to one thousand metric tonnes.
-NEELIX: Just as I said. I bet there are a few Yallitaian engineers
-who'd give all three of their spinal columns to know where this planet
-is.
-JANEWAY: Commander, take an away team down into those caves and do a
-preliminary geological analysis. Lieutenant, you'd better get your
-dilithium refinery on-line.
+TORRES: It's hard to get a precise reading. It could be anywhere from five hundred to one thousand metric tonnes.
+NEELIX: Just as I said. I bet there are a few Yallitaian engineers who'd give all three of their spinal columns to know where this planet is.
+JANEWAY: Commander, take an away team down into those caves and do a preliminary geological analysis. Lieutenant, you'd better get your dilithium refinery on-line.
 TORRES: It'll be ready to go in three days.
 CHAKOTAY: Ensign Kim. 
 (Neelix moves to join Chakotay and Kim.)
 CHAKOTAY: Where are you going?
-NEELIX: With you. I've been studying my tricorder operations manual.
-Lieutenant Torres has brought me up to date on dilithium geophysics.
-I've been preparing for this mission all week.
+NEELIX: With you. I've been studying my tricorder operations manual. Lieutenant Torres has brought me up to date on dilithium geophysics. I've been preparing for this mission all week.
 JANEWAY: Very well, Mister Neelix.
 (Neelix joins Chakotay and Kim in the turbolift.) 
-NEELIX: I think you'll find me extremely helpful, Commander. I remember
-the first time I flew past this planet, it was about three years ago 
+NEELIX: I think you'll find me extremely helpful, Commander. I remember the first time I flew past this planet, it was about three years ago 
 KIM: Deck four. 
-[Planetoid] 
-CHAKOTAY: It looks like there are several large deposits in this
-general vicinity. Let's split up and begin taking geological scans.
-Keep your comm. channels open at all times and don't wander too far.
-Stay within a fifty metre radius of this position. 
-(The three take different tunnels. They don't notice their beam in site
-transform into a constructed tunnel with pipes along the wall, and a
-humanoid step into it.)
+[Planetoid]
+CHAKOTAY: It looks like there are several large deposits in this general vicinity. Let's split up and begin taking geological scans. Keep your comm. channels open at all times and don't wander too far. Stay within a fifty metre radius of this position. 
+(The three take different tunnels. They don't notice their beam in site transform into a constructed tunnel with pipes along the wall, and a humanoid step into it.)
 CHAKOTAY: Chakotay to Kim.
 KIM [OC]: Go ahead.
-CHAKOTAY: I'm still picking up dilithium signatures but there are no
-dilithium formations here. Have you found anything yet? 
- [Tunnel
-2] 
- KIM:
-I'm running a geo-strato analysis of the rock in this vicinity. So far
-there's no indication of any dilithium.
+CHAKOTAY: I'm still picking up dilithium signatures but there are no dilithium formations here. Have you found anything yet? 
+[Tunnel 2]
+KIM: I'm running a geo-strato analysis of the rock in this vicinity. So far there's no indication of any dilithium.
 CHAKOTAY [OC]: Keep looking. 
- [Tunnel
-3] 
- NEELIX:
-Neelix to Commander Chakotay.
+[Tunnel 3]
+NEELIX: Neelix to Commander Chakotay.
 CHAKOTAY [OC]: Go ahead.
-NEELIX: I think I've found something. A large cavern approximately
-twenty metres from my position. I'm reading a huge dilithium formation
-there.
+NEELIX: I think I've found something. A large cavern approximately twenty metres from my position. I'm reading a huge dilithium formation there.
 CHAKOTAY [OC]: Don't go any further 
- [Tunnel]
-CHAKOTAY: Neelix. Stay within the search radius. I'll be with you in a
-minute. 
- [Cavern]
- NEELIX:
-But it's right here. I'm in the cavern now, Commander, but I don't
-understand this.
+[Tunnel]
+CHAKOTAY: Neelix. Stay within the search radius. I'll be with you in a minute. 
+[Cavern]
+NEELIX: But it's right here. I'm in the cavern now, Commander, but I don't understand this.
 CHAKOTAY [OC]: Let me guess, nothing there.
-NEELIX: Not so much as a sliver of dilithium, and yet according to my
-readings I should be surrounded by it.
+NEELIX: Not so much as a sliver of dilithium, and yet according to my readings I should be surrounded by it.
 CHAKOTAY: All right, I've had enough 
- [Tunnel]
+[Tunnel]
 CHAKOTAY: Of this. Kim, Neelix, we're heading back to the ship. 
- [Cavern]
+[Cavern]
 CHAKOTAY [OC]: Rendezvous at the
-NEELIX: Wait a minute. I'm getting unusual readings from this rock
-face. Traces of organic energy. Looks like a bio-electrical signature.
-I think there's something alive down here. It's about two metres into
-this rock face.
-CHAKOTAY [OC]: Neelix, I said get back here! Neelix, did you hear what
-I said?
+NEELIX: Wait a minute. I'm getting unusual readings from this rock face. Traces of organic energy. Looks like a bio-electrical signature. I think there's something alive down here. It's about two metres into this rock face.
+CHAKOTAY [OC]: Neelix, I said get back here! Neelix, did you hear what I said?
 NEELIX: Just one minute, Commander. 
-(The rock face behind Neelix transforms into a tunnel. A figure sees
-Neelix and hides. Neelix turns and sees the constructed tunnel.) 
+(The rock face behind Neelix transforms into a tunnel. A figure sees Neelix and hides. Neelix turns and sees the constructed tunnel.) 
 NEELIX: Hello? Is there someone there? Hello? I know there's somebody.
 (The somebody zaps Neelix with an energy weapon.) 
- [Tunnel
-3] 
+[Tunnel 3]
 CHAKOTAY: Neelix, what's wrong? Neelix! Kim! 
- [Tunnel
-2] 
- KIM:
-I'm on my way sir. 
- [Cavern]
- (They
-find Neelix writhing on the floor.) 
-CHAKOTAY: I can't be certain, but I think he's going into shock.
-Chakotay to Voyager, medical emergency. Beam us directly to sickbay. 
-[Sickbay] 
- (Kim
-and Chakotay hold Neelix down on the biobed while the EMH scans
-him.);
+[Tunnel 2]
+KIM: I'm on my way sir. 
+[Cavern]
+(They find Neelix writhing on the floor.) 
+CHAKOTAY: I can't be certain, but I think he's going into shock. Chakotay to Voyager, medical emergency. Beam us directly to sickbay. 
+[Sickbay]
+(Kim and Chakotay hold Neelix down on the biobed while the EMH scans him.);
 EMH: Get the blood-gas infuser.
 CHAKOTAY: The what?
 EMH: Equipment storage unit two, second shelf on the left. Now! 
@@ -175,244 +101,145 @@ EMH: Hold him still.
 KIM: What's happening, Doctor?
 EMH: He's going into a coma. 
 (Chakotay returns with the small device.) 
-EMH: The infuser will keep his oxygen levels stable for the next hour
-or so, but after that he'll die. His lungs have been removed.
-(A little later, Paris is moving equipment around and Janeway is being
-brought up to date.) 
+EMH: The infuser will keep his oxygen levels stable for the next hour or so, but after that he'll die. His lungs have been removed.
+(A little later, Paris is moving equipment around and Janeway is being brought up to date.) 
 CHAKOTAY: By the time we got to him he was unconscious.
 JANEWAY: How could anyone remove his organs so quickly?
-CHAKOTAY: The Doctor says whoever did this used some kind of
-transporter to beam the lungs directly out of his body.
+CHAKOTAY: The Doctor says whoever did this used some kind of transporter to beam the lungs directly out of his body.
 (Kes enters.) 
 KES: What happened?
-JANEWAY: It appears that Neelix was attacked. We don't know how it
-happened, but someone has surgically removed his lungs. 
+JANEWAY: It appears that Neelix was attacked. We don't know how it happened, but someone has surgically removed his lungs. 
 (Kes goes to Neelix's bedside.) 
-JANEWAY: Did you find any evidence of the life sign that Neelix
-reported?
+JANEWAY: Did you find any evidence of the life sign that Neelix reported?
 CHAKOTAY: No.
-KIM: Captain, I've analysed the sensor logs from Neelix's tricorder.
-The bio-scanner picked up a single class three humanoid organism.
-EMH: The blood gas infuser will keep him alive for another forty seven
-minutes. The only chance for his survival I see at the moment is to get
-his own lungs back.
+KIM: Captain, I've analysed the sensor logs from Neelix's tricorder. The bio-scanner picked up a single class three humanoid organism.
+EMH: The blood gas infuser will keep him alive for another forty seven minutes. The only chance for his survival I see at the moment is to get his own lungs back.
 JANEWAY: Can't we fit him with a pair of artificial lungs?
-EMH: His respiratory system is directly linked to multiple points along
-his spinal column. It's too complex to replicate. I may be able to
-surgically reattach the organs if we get them back. In the meantime
-I'll have to search for other options.
-JANEWAY: Commander, I'm taking an away team back to the planet. You're
-in charge until we return. Inform Mister Tuvok I want three armed
-security detachments to accompany us. Issue type three phasers.
+EMH: His respiratory system is directly linked to multiple points along his spinal column. It's too complex to replicate. I may be able to surgically reattach the organs if we get them back. In the meantime I'll have to search for other options.
+JANEWAY: Commander, I'm taking an away team back to the planet. You're in charge until we return. Inform Mister Tuvok I want three armed security detachments to accompany us. Issue type three phasers.
 (Janeway, Chakotay and Kim leave.) 
-EMH: Mister Paris, did they teach you how to run a respiratory series
-in your bio-chemistry classes at the Academy?
+EMH: Mister Paris, did they teach you how to run a respiratory series in your bio-chemistry classes at the Academy?
 PARIS: No, I'm afraid they didn't.
-EMH: Fine, I'll run it myself. Get me a pulmonary scanner. (to Kes) I'm
-going to have to ask you to leave.
+EMH: Fine, I'll run it myself. Get me a pulmonary scanner. (to Kes) I'm going to have to ask you to leave.
 KES: I'm not leaving.
 EMH: All right, just keep out of the way. 
- [Cavern]
- KIM:
-Here it is. This is where Neelix was standing when he was attacked.
-According to his tricorder log he was scanning this rock face when he
-detected the life sign.
-JANEWAY: Neelix said there was a life sign two metres behind this wall,
-but my tricorder says there's nothing but solid rock for another
-fifteen metres.
-KIM: Sounds like our tricorders aren't giving us the real picture
-behind what's going on here.
+[Cavern]
+KIM: Here it is. This is where Neelix was standing when he was attacked. According to his tricorder log he was scanning this rock face when he detected the life sign.
+JANEWAY: Neelix said there was a life sign two metres behind this wall, but my tricorder says there's nothing but solid rock for another fifteen metres.
+KIM: Sounds like our tricorders aren't giving us the real picture behind what's going on here.
 JANEWAY: Wait a minute. The rock is warmer here.
-KIM: You're right, Captain. There's a two degree differential in this
-section of the wall.
-TUVOK: There are no natural geological phenomena that could be creating
-this heat source.
+KIM: You're right, Captain. There's a two degree differential in this section of the wall.
+TUVOK: There are no natural geological phenomena that could be creating this heat source.
 JANEWAY: Let's make a little heat of our own.
-(The four line up in the cavern entrance and fire phasers at the rock
-face. The tunnel appears.) 
+(The four line up in the cavern entrance and fire phasers at the rock face. The tunnel appears.) 
 TUVOK: There was a highly sophisticated forcefield in place.
 JANEWAY: There's a chamber down this corridor. 
- [Sickbay]
- 
- PARIS:
-Doc, I think his cellular toxicity level is rising.
-EMH: It's up to thirty two percent. Lets see if we can stabilise those
-levels. Get me a cytoplasmic stimulator.
+[Sickbay] 
+PARIS: Doc, I think his cellular toxicity level is rising.
+EMH: It's up to thirty two percent. Lets see if we can stabilise those levels. Get me a cytoplasmic stimulator.
 PARIS: We don't have one.
-EMH: Then replicate one. (Paris hesitates) The design schematics are in
-the ship's medical database. 
+EMH: Then replicate one. (Paris hesitates) The design schematics are in the ship's medical database. 
 PARIS: Right. 
 (Paris leaves.) 
-EMH: The man drives a seven hundred thousand ton starship so somebody
-thinks he'd make a good medic.
-KES: I can survive with one lung, can't I? What if I donated a lung to
-Neelix?
-EMH: A transplant is not an option. No one on board is a compatible
-match for a Talaxian. 
-(The EMH walks past his office to where Paris is using the replicator.)
-EMH: We're going to need a completely new way to oxygenate his blood
-supply and relay neuro-electrical impulses. Our replicators can't
-produce compatible artificial organs for him, but maybe there's a way
-to mimic their functions and give us direct control of his respiratory
-system. Computer, is there an identification matrix on Mister Neelix
-from the last time he used the transporter?
+EMH: The man drives a seven hundred thousand ton starship so somebody thinks he'd make a good medic.
+KES: I can survive with one lung, can't I? What if I donated a lung to Neelix?
+EMH: A transplant is not an option. No one on board is a compatible match for a Talaxian. 
+(The EMH walks past his office to where Paris is using the replicator.) 
+EMH: We're going to need a completely new way to oxygenate his blood supply and relay neuro-electrical impulses. Our replicators can't produce compatible artificial organs for him, but maybe there's a way to mimic their functions and give us direct control of his respiratory system. Computer, is there an identification matrix on Mister Neelix from the last time he used the transporter?
 COMPUTER: Affirmative.
 EMH: Transfer it to console four.
 (Paris and the EMH return to the ward.) 
 PARIS: What are you doing?
-EMH: I'm using the transporter matrix to get exact specifications for
-Neelix's lungs.
+EMH: I'm using the transporter matrix to get exact specifications for Neelix's lungs.
 PARIS: I thought you just said we can't replicate his lungs.
-EMH: We can't. But if I can reconfigure my emitter array I might be
-able to create a pair of holographic lungs for Mister Neelix.
+EMH: We can't. But if I can reconfigure my emitter array I might be able to create a pair of holographic lungs for Mister Neelix.
 PARIS: Holographic lungs?
-EMH: If it's successful, we can precisely control his pulmonary
-functions to allow normal breathing.
-PARIS: But a hologram is just a projection of light held in a magnetic
-containment field. There's no real matter involved.
+EMH: If it's successful, we can precisely control his pulmonary functions to allow normal breathing.
+PARIS: But a hologram is just a projection of light held in a magnetic containment field. There's no real matter involved.
 (The EMH slaps Paris.) 
 EMH: Now, you hit me. 
 (Paris's hand passes through the EMH's head.) 
-EMH: The magnetic containment field that creates the illusion of my
-body can be modulated to allow matter to pass through it or be stopped.
-I might be able to modulate the holographic lungs in the same way,
-allowing oxygen and carbon dioxide to pass from the lungs to the blood
-stream.
+EMH: The magnetic containment field that creates the illusion of my body can be modulated to allow matter to pass through it or be stopped. I might be able to modulate the holographic lungs in the same way, allowing oxygen and carbon dioxide to pass from the lungs to the blood stream.
 KES: I want to know what this means. What are you going to do to him?
 EMH: There's no time to explain the exact procedure to you right now.
-KES: Oh, you'll make the time, because I'm not going to let you perform
-any experimental surgery on Neelix until I know exactly what you're
-doing and what the risks are.
-EMH: The risk is that it won't work, and if it doesn't he'll die. But
-it is his only immediate chance for survival. If he does survive, he'll
-have to be held motionless in an isotropic restraint. The lungs need to
-be perfectly aligned to his internal physiology. The computer won't be
-able to compensate for any body movement whatsoever.
+KES: Oh, you'll make the time, because I'm not going to let you perform any experimental surgery on Neelix until I know exactly what you're doing and what the risks are.
+EMH: The risk is that it won't work, and if it doesn't he'll die. But it is his only immediate chance for survival. If he does survive, he'll have to be held motionless in an isotropic restraint. The lungs need to be perfectly aligned to his internal physiology. The computer won't be able to compensate for any body movement whatsoever.
 KES: How long will he have to stay like that?
-EMH: For the rest of his life, unless the holo-lungs can be replaced by
-his original organs. And he will never be able to leave the holographic
-environment of this room. The holo-lungs would disappear the moment he
-went out the door.
-PARIS: Kes, I know it sounds pretty grim, but it's better than losing
-him completely. This way, he'll still be alive, and maybe we can find a
-better solution somewhere down the road. What do you think Neelix would
-want?
+EMH: For the rest of his life, unless the holo-lungs can be replaced by his original organs. And he will never be able to leave the holographic environment of this room. The holo-lungs would disappear the moment he went out the door.
+PARIS: Kes, I know it sounds pretty grim, but it's better than losing him completely. This way, he'll still be alive, and maybe we can find a better solution somewhere down the road. What do you think Neelix would want?
 KES: I'm not sure. But I do know that I want him to live. 
- [Chamber]
- (Tuvok
-leads the away team down the tunnel. Kim opens the door at the end and
-they enter a version of sickbay with a metal operating bed and large
-jars holding tissue samples.) 
-TUVOK: This room is the source of the dilithium signature we detected
-earlier. The power systems here are running on an unusual dilithium
-matrix.
+[Chamber]
+(Tuvok leads the away team down the tunnel. Kim opens the door at the end and they enter a version of sickbay with a metal operating bed and large jars holding tissue samples.) 
+TUVOK: This room is the source of the dilithium signature we detected earlier. The power systems here are running on an unusual dilithium matrix.
 KIM: So there are actually no dilithium deposits on this planet.
 TUVOK: It would appear not.
 KIM: Are these organs?
 JANEWAY: This looks like some sort of storage facility.
-TUVOK: I would say you are correct, Captain. This appears to be a
-biological repository.
+TUVOK: I would say you are correct, Captain. This appears to be a biological repository.
 JANEWAY: Any sign of Neelix's lungs?
-TUVOK: Negative. There is however a Kazon liver, and although I cannot
-identify the other organs on display here I would say they bear a
-striking similarity to pulmonary organs, epidermal tissue, ocular nerve
-fibre 
-JANEWAY: Save the cataloguing for later, Tuvok, according to my
-tricorder there was a lifeform in this room less than ten minutes ago.
+TUVOK: Negative. There is however a Kazon liver, and although I cannot identify the other organs on display here I would say they bear a striking similarity to pulmonary organs, epidermal tissue, ocular nerve fibre 
+JANEWAY: Save the cataloguing for later, Tuvok, according to my tricorder there was a lifeform in this room less than ten minutes ago.
 KIM: Captain.
 (He has found another door.) 
 JANEWAY: Open it. One life sign twenty metres ahead. Let's go. 
- [Tunnel]
- (Kim
-spots someone and shoots, forcing him to drop his weapon. Janeway picks
-it up. It is a curious two-pronged design. Their way is blocked by a
-rockface.) 
-TUVOK: They have erected a forcefield with a rotating phase modulation.
-We will not be able to disrupt it.
+[Tunnel]
+(Kim spots someone and shoots, forcing him to drop his weapon. Janeway picks it up. It is a curious two-pronged design. Their way is blocked by a rockface.) 
+TUVOK: They have erected a forcefield with a rotating phase modulation. We will not be able to disrupt it.
 CHAKOTAY [OC]: Voyager to Captain Janeway.
 JANEWAY: Go ahead. 
 CHAKOTAY [OC]: We've just picked 
-[Bridge] 
+[Bridge]
 CHAKOTAY: Up an alien ship leaving the planet. 
 JANEWAY: Tractor them 
- [Tunnel]
+[Tunnel]
 JANEWAY: Commander.
 CHAKOTAY [OC]: Sorry, Captain. They went into warp too quickly.
-JANEWAY: Beam us back. As soon as we're aboard lay in a course for
-pursuit. 
- 
-[Bridge] 
- JANEWAY
-[OC]: Maximum warp.
+JANEWAY: Beam us back. As soon as we're aboard lay in a course for pursuit. 
+[Bridge]
+JANEWAY [OC]: Maximum warp.
 CHAKOTAY: Aye Captain. 
- [Sickbay]
- (Only
-Neelix's head is visible sticking out of the long metal tube over his
-body and bed.) 
-PARIS: Okay. The isotropic restraint is activated. He won't be able to
-move more than two microns in any direction.
-EMH: One micron would be preferable, but I suppose it'll have to do.
-Initiating the holographic emitter array.
-PARIS: His cellular toxicity is rising. Eight two percent. Eighty six
-percent.
+[Sickbay]
+(Only Neelix's head is visible sticking out of the long metal tube over his body and bed.) 
+PARIS: Okay. The isotropic restraint is activated. He won't be able to move more than two microns in any direction.
+EMH: One micron would be preferable, but I suppose it'll have to do. Initiating the holographic emitter array.
+PARIS: His cellular toxicity is rising. Eight two percent. Eighty six percent.
 EMH: Computer, activate programme Neelix One. Deactivate the infuser.
 PARIS: It's offline.
 EMH: Here we go.
 PARIS: Ninety percent. Ninety five percent. 
 (Neelix takes a breath.) 
 PARIS: Toxicity returning to normal. 
-Captain's log, supplemental. We are pursuing the alien ship from the
-moon. They are not responding to hails and it appears that our two
-ships are evenly matched for speed. 
- [Sickbay]
- NEELIX:
-Holographic lungs?
-EMH: Yes, and they're working perfectly, if I do say so myself. Try to
-breath normally.
+Captain's log, supplemental. We are pursuing the alien ship from the moon. They are not responding to hails and it appears that our two ships are evenly matched for speed. 
+[Sickbay]
+NEELIX: Holographic lungs?
+EMH: Yes, and they're working perfectly, if I do say so myself. Try to breath normally.
 NEELIX: How long can I live like this?
-EMH: I don't know. This is an unprecedented medical procedure. We will
-be closely monitoring your condition.
+EMH: I don't know. This is an unprecedented medical procedure. We will be closely monitoring your condition.
 NEELIX: When do I get out of this restraint?
-EMH: Unless Captain Janeway is successful in retrieving your original
-lungs, you'll have to stay in the isotropic restraint indefinitely.
+EMH: Unless Captain Janeway is successful in retrieving your original lungs, you'll have to stay in the isotropic restraint indefinitely.
 NEELIX: Indefinitely? You mean I could be in here the rest of my life.
 EMH: Yes.
-KES: But we're trying to find the aliens that did this to you. The
-Captain is doing everything she can.
-NEELIX: Well, if I'm going to be in here a while, now's as good a time
-as any to tell you. Your ceiling is hideous.
+KES: But we're trying to find the aliens that did this to you. The Captain is doing everything she can.
+NEELIX: Well, if I'm going to be in here a while, now's as good a time as any to tell you. Your ceiling is hideous.
 EMH: I didn't design the room, I just work here.
-NEELIX: Something with a bit of colour would help. Maybe a nice
-tapestry or a painting. Could you dim the lights a little?
-EMH: I'm a doctor, Mister Neelix, not a decorator. (to Kes) Perhaps you
-would be willing to accommodate his aesthetic needs.
-NEELIX: And some music would be nice. Or better yet, are you programmed
-to sing?
+NEELIX: Something with a bit of colour would help. Maybe a nice tapestry or a painting. Could you dim the lights a little?
+EMH: I'm a doctor, Mister Neelix, not a decorator. (to Kes) Perhaps you would be willing to accommodate his aesthetic needs.
+NEELIX: And some music would be nice. Or better yet, are you programmed to sing?
 JANEWAY [OC]: Janeway to Paris. Please report to the bridge.
 PARIS: I'm on my way, Captain. You know where I am if you need me.
 KES: Thanks for everything.
 (Paris leaves.) 
-NEELIX: Oh, fine. I have a little accident, I lose a pair of lungs, and
-the next thing I know Paris is swooping in like a Rectillian vulture.
+NEELIX: Oh, fine. I have a little accident, I lose a pair of lungs, and the next thing I know Paris is swooping in like a Rectillian vulture.
 KES: What are you talking about?
-NEELIX: Didn't you hear the way that he said that? I'll be on the
-bridge if you need me. If you need me.
+NEELIX: Didn't you hear the way that he said that? I'll be on the bridge if you need me. If you need me.
 KES: Neelix
-NEELIX: Why doesn't he just pull the plug on the holographic emitter
-and get it over with. Get me out of the way so he can have you all to
-himself.
+NEELIX: Why doesn't he just pull the plug on the holographic emitter and get it over with. Get me out of the way so he can have you all to himself.
 KES: Neelix, you're over-reacting. Tom's been very supportive.
 NEELIX: Ah, so it's Tom now, is it?
 KES: You really have nothing to worry about. We're friends, that's all.
-NEELIX: It's not you I'm worried about. It's him. He's just one big
-hormone walking around the ship. Don't you see the way that he looks at
-you?
-KES: This is ridiculous. I'm not going to argue with you about
-something that exists only in your imagination. I know you, Neelix, and
-I know you're afraid. I just want you to know that no matter what
-happens, I'll be here with you.
-NEELIX: Kes, I could be in here a very long time. You need to go on
-with your life. Don't worry about me.
+NEELIX: It's not you I'm worried about. It's him. He's just one big hormone walking around the ship. Don't you see the way that he looks at you?
+KES: This is ridiculous. I'm not going to argue with you about something that exists only in your imagination. I know you, Neelix, and I know you're afraid. I just want you to know that no matter what happens, I'll be here with you.
+NEELIX: Kes, I could be in here a very long time. You need to go on with your life. Don't worry about me.
 KES: Neelix 
 NEELIX: You should just let me die.
 KES: Stop that. We're going to get through this together.
@@ -421,67 +248,41 @@ KES: When can I come back?
 EMH: Seventeen hundred hours. Not a minute before.
 KES: I'll see you then.
 (Kes kisses Neelix and leaves. The EMH reaches across Neelix's head.) 
-EMH: Don't worry, I'm not going to kiss you, I'm only adjusting the
-restraint.
+EMH: Don't worry, I'm not going to kiss you, I'm only adjusting the restraint.
 NEELIX: I'll try to contain my disappointment. 
- [Bridge]
- TORRES:
-Captain! We've completed our diagnostic on the alien device. It appears
-to be more than a weapon. It's also a very sophisticated medical
-scanner and surgical instrument.
-TUVOK: From what we can tell, it uses a neural resonator to stun the
-victim, while a quantum imaging begins a microcellular analysis of the
-entire body.
-TORRES: The amount of information this thing can gather puts a
-tricorder to shame. You fire this at someone, you learn everything
-about their anatomy, right down to their DNA sequencing.
-JANEWAY: So it sounds like we're dealing with aliens who've developed a
-technology specifically designed to locate and extract organs from
-other beings. Why?
-CHAKOTAY: Captain! The alien ship has dropped out of warp. It's
-approaching a large asteroid.
+[Bridge]
+TORRES: Captain! We've completed our diagnostic on the alien device. It appears to be more than a weapon. It's also a very sophisticated medical scanner and surgical instrument.
+TUVOK: From what we can tell, it uses a neural resonator to stun the victim, while a quantum imaging begins a microcellular analysis of the entire body.
+TORRES: The amount of information this thing can gather puts a tricorder to shame. You fire this at someone, you learn everything about their anatomy, right down to their DNA sequencing.
+JANEWAY: So it sounds like we're dealing with aliens who've developed a technology specifically designed to locate and extract organs from other beings. Why?
+CHAKOTAY: Captain! The alien ship has dropped out of warp. It's approaching a large asteroid.
 JANEWAY: On screen.
 PARIS: It's entered the asteroid, Captain.
 JANEWAY: Hold position here. Mister Kim?
-KIM: I can't scan the interior. The surface stratum is made up of some
-sort of neutronium alloy. It doesn't look like a natural formation.
+KIM: I can't scan the interior. The surface stratum is made up of some sort of neutronium alloy. It doesn't look like a natural formation.
 CHAKOTAY: Are you saying some one built this asteroid?
 KIM: It's possible.
 JANEWAY: Any sign of weapons or defence systems?
 TUVOK: Negative.
-PARIS: I think I've located where the alien ship entered. There's an
-open crater on the limb of the asteroid.
+PARIS: I think I've located where the alien ship entered. There's an open crater on the limb of the asteroid.
 CHAKOTAY: Let's see it.
 PARIS: The ion trail from the alien ship leads directly inside.
 JANEWAY: How large is that crater?
 PARIS: Two hundred metres in diameter.
-TUVOK: Captain, may I suggest you consider carefully what you are about
-to do.
+TUVOK: Captain, may I suggest you consider carefully what you are about to do.
 JANEWAY: How do you know what I'm about to do?
-TUVOK: I could describe to you in detail the psychological observations
-I have made about you over the past four years which lead me to
-conclude you are about to take this ship inside the asteroid. But
-suffice it to say, I know you quite well.
-JANEWAY: One of these days I'm going to surprise you, Tuvok, but not
-today. I've already considered other options. If Neelix has any chance
-of surviving, we have to act fast. Red alert. Mister Paris, lay in a
-course.
+TUVOK: I could describe to you in detail the psychological observations I have made about you over the past four years which lead me to conclude you are about to take this ship inside the asteroid. But suffice it to say, I know you quite well.
+JANEWAY: One of these days I'm going to surprise you, Tuvok, but not today. I've already considered other options. If Neelix has any chance of surviving, we have to act fast. Red alert. Mister Paris, lay in a course.
 PARIS: Aye, Captain.
 JANEWAY: Mister Tuvok, maximum shields. Phasers at the ready.
 (Voyager heads into the crack in the asteroid.) 
-PARIS: Captain, I'm reducing power to the aft thrusters only. This
-passageway is getting a little too narrow for my taste.
-JANEWAY: Use your discretion, Mister Paris. Any sign of the vessel,
-Lieutenant?
-TUVOK: We are still following the ion trail, but electro-magnetic
-interference is limiting our sensor range. I am only able to scan five
-hundred metres ahead of us.
-CHAKOTAY: Are there any indications we're being scanned or probed,
-Mister Kim?
+PARIS: Captain, I'm reducing power to the aft thrusters only. This passageway is getting a little too narrow for my taste.
+JANEWAY: Use your discretion, Mister Paris. Any sign of the vessel, Lieutenant?
+TUVOK: We are still following the ion trail, but electro-magnetic interference is limiting our sensor range. I am only able to scan five hundred metres ahead of us.
+CHAKOTAY: Are there any indications we're being scanned or probed, Mister Kim?
 KIM: Not yet. 
- [Sickbay]
- (The
-area above Neelix has been decorated, and the lights dimmed.) 
+[Sickbay]
+(The area above Neelix has been decorated, and the lights dimmed.) 
 NEELIX: Doctor? Doctor, I require your assistance.
 EMH: What is it, Mister Neelix?
 NEELIX: Please, it's urgent.
@@ -495,129 +296,78 @@ EMH: You're quite welcome.
 NEELIX: Doctor, wait, don't leave.
 EMH: I'm not leaving, Mister Neelix, I'm simply going back to work.
 NEELIX: I can't see you over there. I feel like I'm all alone.
-EMH: You are all alone. I'm a holographic projection. A projection with
-a lot of work to do, I might add.
-NEELIX: That's very amusing, Doctor. But, I'm really starting to feel a
-little trapped in here. A little claustrophobic, maybe. I'm not sure
-what to do.
+EMH: You are all alone. I'm a holographic projection. A projection with a lot of work to do, I might add.
+NEELIX: That's very amusing, Doctor. But, I'm really starting to feel a little trapped in here. A little claustrophobic, maybe. I'm not sure what to do.
 EMH: There's nothing you can do except lie there and be quiet.
-NEELIX: I'm going to lie here for the rest of my life, aren't I? Just
-staring up at the ceiling. I'm not sure I can take that. I really need
-to get out of this restraint. Doctor, I want you to let me out of this
-thing right now.
+NEELIX: I'm going to lie here for the rest of my life, aren't I? Just staring up at the ceiling. I'm not sure I can take that. I really need to get out of this restraint. Doctor, I want you to let me out of this thing right now.
 EMH: You know that's impossible.
-NEELIX: I'm the patient, I know what my rights are. I want to be
-released from this restraint immediately. Immediately!
-EMH: Mister Neelix, you are alive. You are breathing and for the moment
-your condition is stable. That is more than most people can say in your
-situation. Now it is critical to your recovery that you not subject
-yourself to any additional stress. Try to calm down.
-NEELIX: Don't tell me to calm down! You're not the one trapped in a
-restraining field with holo, holo-lungs. I don't think they're working.
-I can't, can't get enough oxygen. There's something wrong.
+NEELIX: I'm the patient, I know what my rights are. I want to be released from this restraint immediately. Immediately!
+EMH: Mister Neelix, you are alive. You are breathing and for the moment your condition is stable. That is more than most people can say in your situation. Now it is critical to your recovery that you not subject yourself to any additional stress. Try to calm down.
+NEELIX: Don't tell me to calm down! You're not the one trapped in a restraining field with holo, holo-lungs. I don't think they're working. I can't, can't get enough oxygen. There's something wrong.
 EMH: You're hyperventilating. Try to take slow, natural breaths.
 NEELIX: I can't. I'm dying. Let me out of here. Help me. Help me. 
 (The EMH hypos Neelix into unconsciousness.) 
- [Bridge]
+[Bridge]
 JANEWAY: You're doing fine, Mister Paris. Just fine.
 PARIS: Thanks, Captain.
 TUVOK: Sensors detect a large chamber ahead.
 (The chamber seems to be full of ships.) 
 CHAKOTAY: What the hell?
-KIM: We appear to be seeing Voyager and the alien ship reflecting off
-the walls of the chamber.
+KIM: We appear to be seeing Voyager and the alien ship reflecting off the walls of the chamber.
 JANEWAY: Can you determine which ship is the real one?
-TUVOK: No, Captain. The walls are emanating severe electro-magnetic
-interference. I cannot scan them directly.
-JANEWAY: It's like trying to move through a hall of mirrors. You never
-know when you're going to walk into the glass.
-PARIS: I'm still picking up the alien's ion trail. Maybe we should
-follow that.
-CHAKOTAY: He might have left a fake ion trail to lure us in here. It
-could lead us right into one of those walls.
-JANEWAY: That's a chance we're going to have to take. Tuvok, extend the
-deflectors to maximum range. If we do run into something, it'll give us
-an extra margin of error. Follow the ion trail, Mister Paris, slowly.
-Mister Kim, continuous scans.
+TUVOK: No, Captain. The walls are emanating severe electro-magnetic interference. I cannot scan them directly.
+JANEWAY: It's like trying to move through a hall of mirrors. You never know when you're going to walk into the glass.
+PARIS: I'm still picking up the alien's ion trail. Maybe we should follow that.
+CHAKOTAY: He might have left a fake ion trail to lure us in here. It could lead us right into one of those walls.
+JANEWAY: That's a chance we're going to have to take. Tuvok, extend the deflectors to maximum range. If we do run into something, it'll give us an extra margin of error. Follow the ion trail, Mister Paris, slowly. Mister Kim, continuous scans.
 KIM: Aye, Captain. 
- [Doctor's
-office] 
- KES:
-I'll do what I can to reassure him, Doctor.
-EMH: Good. If you don't mind I'd like you to remain in sickbay so
-you're here when he wakes up.
+[Doctor's office]
+KES: I'll do what I can to reassure him, Doctor.
+EMH: Good. If you don't mind I'd like you to remain in sickbay so you're here when he wakes up.
 KES: Of course. Are you all right?
 EMH: Me?
 KES: You seem agitated about something.
-EMH: Of course I'm agitated. This entire situation is getting out of
-control.
+EMH: Of course I'm agitated. This entire situation is getting out of control.
 KES: You mean Neelix.
-EMH: First they tell me there's no doctor, so I have to be on call
-twenty four hours a day. And then they tell me there are no nurses so I
-have no one to assist me.
+EMH: First they tell me there's no doctor, so I have to be on call twenty four hours a day. And then they tell me there are no nurses so I have no one to assist me.
 KES: I thought Tom Paris was assigned to you.
-EMH: Like I said, no one to assist me. And now I have a patient with
-severe and possibly long term emotional problems and there's no
-counsellor on board. I am an emergency medical supplement. A
-supplement, that's all. I wasn't programmed for any of this. It's just
-unacceptable.
-KES: I don't know anything about holographic engineering, but if you
-want my opinion, you haven't been acceptable, you've been remarkable.
+EMH: Like I said, no one to assist me. And now I have a patient with severe and possibly long term emotional problems and there's no counsellor on board. I am an emergency medical supplement. A supplement, that's all. I wasn't programmed for any of this. It's just unacceptable.
+KES: I don't know anything about holographic engineering, but if you want my opinion, you haven't been acceptable, you've been remarkable.
 EMH: I've only done what the programme allows me to.
-KES: Give yourself some credit. You saved his life. You did, not some
-programme.
+KES: Give yourself some credit. You saved his life. You did, not some programme.
 EMH: It may seem that way to you.
 KES: That's exactly how it seems.
 EMH: You're very kind.
-KES: How does a real doctor learn to deal with patient's emotional
-problems anyway?
+KES: How does a real doctor learn to deal with patient's emotional problems anyway?
 EMH: They learn from experience.
 KES: Aren't you capable of learning?
 EMH: I have the capacity to accumulate and process data, yes.
 KES: Then I guess you'll just have to learn like the rest of us.
-EMH: Have you ever considered a career in medicine? (beep) Neelix is
-starting to regain consciousness. 
- [Engineering]
- SESKA:
-Lieutenant, I'm picking up a minor power fluctuation in the warp core.
+EMH: Have you ever considered a career in medicine? (beep) Neelix is starting to regain consciousness. 
+[Engineering]
+SESKA: Lieutenant, I'm picking up a minor power fluctuation in the warp core.
 TORRES: Compensate with the KLS stabiliser.
 SESKA: No effect. In fact, the power loss is starting to accelerate.
 JANEWAY [OC]: Janeway to Torres, what's going on down there?
-TORRES: Some kind of power drain. I can't localise it but we're losing
-power at the rate of 
- 
-[Bridge] 
- TORRES
-[OC]: Seven percent per minute. 
-KIM: The power drain is coming from somewhere in this chamber, Captain.
-It's some kind of dampening field. It's bleeding energy directly from
-the warp nacelles.
+TORRES: Some kind of power drain. I can't localise it but we're losing power at the rate of 
+[Bridge]
+TORRES [OC]: Seven percent per minute. 
+KIM: The power drain is coming from somewhere in this chamber, Captain. It's some kind of dampening field. It's bleeding energy directly from the warp nacelles.
 JANEWAY: B'Elanna, shut down the warp core. 
- 
-[Engineering] 
- JANEWAY
-[OC]: Go to emergency power. 
+[Engineering]
+JANEWAY [OC]: Go to emergency power. 
 TORRES: No effect, Captain.
 JANEWAY [OC]: Keep me informed. 
- [Bridge]
+[Bridge]
 JANEWAY: Bridge out. Can you pinpoint the source of the dampening field?
-KIM: It appears to be coming from two one seven mark zero one five.
-Distance, five hundred and forty seven metres.
-JANEWAY: Tuvok, what would happen if we locked phasers and fired at the
-source.
-TUVOK: The walls of this chamber reflect directed energy. The phaser
-beam would ricochet along an unpredictable path, possibly impacting our
-ship in the process.
+KIM: It appears to be coming from two one seven mark zero one five. Distance, five hundred and forty seven metres.
+JANEWAY: Tuvok, what would happen if we locked phasers and fired at the source.
+TUVOK: The walls of this chamber reflect directed energy. The phaser beam would ricochet along an unpredictable path, possibly impacting our ship in the process.
 JANEWAY: All right, we won't try that.
-CHAKOTAY: Well, maybe we should. Tuvok, what would happen if we reduced
-the phaser power level to a minimum setting and sent out a continuous
-beam.
-TUVOK: The phaser would continue to reflect off the bulkheads until it
-encountered a non-reflective material.
-CHAKOTAY: Until it encountered a non-reflective material, like the real
-alien ship.
-JANEWAY: So we could use the phasers like a searchlight, scan the
-interior of the station until we find the ship.
+CHAKOTAY: Well, maybe we should. Tuvok, what would happen if we reduced the phaser power level to a minimum setting and sent out a continuous beam.
+TUVOK: The phaser would continue to reflect off the bulkheads until it encountered a non-reflective material.
+CHAKOTAY: Until it encountered a non-reflective material, like the real alien ship.
+JANEWAY: So we could use the phasers like a searchlight, scan the interior of the station until we find the ship.
 CHAKOTAY: Exactly.
 JANEWAY: Do it.
 (Lots of orange lines criss-cross the chamber.) 
@@ -629,120 +379,63 @@ JANEWAY: Mister Paris, bring us within transporter range of that ship.
 PARIS: Aye, Captain.
 KIM: Picking up two life signs.
 TUVOK: They are powering engines.
-JANEWAY: Bridge to transporter room three. Lock onto those two life
-signs and beam them aboard.
+JANEWAY: Bridge to transporter room three. Lock onto those two life signs and beam them aboard.
 TUVOK: Security, meet me in transporter room three.
 CREWMAN [OC]: Aye sir. 
- [Transporter
-room 3] 
- (The
-transport completes. The aliens look like they are constructed from
-bits and pieces, like Frankenstein's poor monster.) 
-JANEWAY: You're on the Starship Voyager. I'm Captain Kathryn Janeway of
-the United Federation of Planets.
+[Transporter room 3]
+(The transport completes. The aliens look like they are constructed from bits and pieces, like Frankenstein's poor monster.) 
+JANEWAY: You're on the Starship Voyager. I'm Captain Kathryn Janeway of the United Federation of Planets.
 DERETH: I'm Dereth, of the Vidiian Sodality.
-JANEWAY: You attacked one of our crewmembers and you have lured us into
-this asteroid. Why?
-DERETH: We are gathering replacement organs and suitable bio-matter. It
-is the only way we have to fight the phage.
+JANEWAY: You attacked one of our crewmembers and you have lured us into this asteroid. Why?
+DERETH: We are gathering replacement organs and suitable bio-matter. It is the only way we have to fight the phage.
 JANEWAY: A virus? Some kind of disease?
-MOTURA: Yes, it attacked our people over two millennia ago. It consumes
-our bodies, destroys our genetic codes and cellular structures.
-JANEWAY: So you harvest the bodies of other beings to replace your own
-tissues as they're consumed by this phage?
-MOTURA: Our immuno-technology cannot keep up. The phage adapts. It
-resists all attempts to destroy it. Our society has been ravaged.
-Thousands die each day. There is no other way for us to survive.
-JANEWAY: I have a great sympathy for what your race has endured, but I
-cannot allow you to keep the organs you removed from one of our crew
-members. We need them back immediately.
-DERETH: I'm afraid that isn't possible. I have already bio-chemically
-altered the air-breathing organs and grafted them into Motura's body.
-They are a part of him now.
-MOTURA: He is my honatta. His task is to find the organs I need for
-survival. We, we try to extract them from the dead 
-DERETH: But sometimes, when the need is immediate, more aggressive
-actions are required.
-JANEWAY: So now I am left with the same choice you made. Whether to
-commit murder to save a life, or to allow my own crewman to die while
-you breath air through his lungs.
-MOTURA: It must be impossible for you to understand how any civilised
-people could come to this. Before the phage began, we were known as
-educators and explorers, a people whose greatest achievements were
-artistic. I myself am a sculptor of note on my world. All I can say is
-that when your entire existence is at stake 
+MOTURA: Yes, it attacked our people over two millennia ago. It consumes our bodies, destroys our genetic codes and cellular structures.
+JANEWAY: So you harvest the bodies of other beings to replace your own tissues as they're consumed by this phage?
+MOTURA: Our immuno-technology cannot keep up. The phage adapts. It resists all attempts to destroy it. Our society has been ravaged. Thousands die each day. There is no other way for us to survive.
+JANEWAY: I have a great sympathy for what your race has endured, but I cannot allow you to keep the organs you removed from one of our crew members. We need them back immediately.
+DERETH: I'm afraid that isn't possible. I have already bio-chemically altered the air-breathing organs and grafted them into Motura's body. They are a part of him now.
+MOTURA: He is my honatta. His task is to find the organs I need for survival. We, we try to extract them from the dead 
+DERETH: But sometimes, when the need is immediate, more aggressive actions are required.
+JANEWAY: So now I am left with the same choice you made. Whether to commit murder to save a life, or to allow my own crewman to die while you breath air through his lungs.
+MOTURA: It must be impossible for you to understand how any civilised people could come to this. Before the phage began, we were known as educators and explorers, a people whose greatest achievements were artistic. I myself am a sculptor of note on my world. All I can say is that when your entire existence is at stake 
 DERETH: You don't have to explain yourself, Motura.
-MOTURA: If the consequence of this act is a death sentence, so be it.
-At least it will put an end to my suffering.
-JANEWAY: I can't begin to understand what your people have gone
-through. They may have found a way to ignore the moral implications of
-what you are doing, but I have no such luxury. I don't have the freedom
-to kill you to save another. My culture finds that to be a
-reprehensible and entirely unacceptable act. If we were closer to home
-I would lock you up and turn you over to my authorities for trial, but
-I don't even have that ability here, and I am not prepared to carry you
-forever in our brig. So I see no other alternative but to let you go.
-Take a message to your people. If I ever encounter your kind again, I
-will do whatever is necessary to protect my people from this harvesting
-of yours. Any aggressive actions against this ship or it's crew will be
-met by the deadliest force. Is that clear? 
+MOTURA: If the consequence of this act is a death sentence, so be it. At least it will put an end to my suffering.
+JANEWAY: I can't begin to understand what your people have gone through. They may have found a way to ignore the moral implications of what you are doing, but I have no such luxury. I don't have the freedom to kill you to save another. My culture finds that to be a reprehensible and entirely unacceptable act. If we were closer to home I would lock you up and turn you over to my authorities for trial, but I don't even have that ability here, and I am not prepared to carry you forever in our brig. So I see no other alternative but to let you go. Take a message to your people. If I ever encounter your kind again, I will do whatever is necessary to protect my people from this harvesting of yours. Any aggressive actions against this ship or it's crew will be met by the deadliest force. Is that clear? 
 DERETH: Quite.
 MOTURA: Wait. I want to see this crewman of yours.
 DERETH: That can serve no useful purpose.
-MOTURA: Maybe it can. Our medical technologies may be superior to
-theirs.
-JANEWAY: I can tell you, from what we've observed of them, that they
-are considerably superior.
-MOTURA: She spared my life. Our lives. We owe it to them to see if
-there's anything we can do to help him.
+MOTURA: Maybe it can. Our medical technologies may be superior to theirs.
+JANEWAY: I can tell you, from what we've observed of them, that they are considerably superior.
+MOTURA: She spared my life. Our lives. We owe it to them to see if there's anything we can do to help him.
 JANEWAY: I'll take you to him. 
- [Sickbay]
- (Dereth
-uses his scanner on Neelix.) 
-DERETH: His simulated organs are primitive. It's amazing he is still
-alive. 
-(Dereth points it at Tuvok, who is very fast on the draw with his
-phaser.) 
+[Sickbay]
+(Dereth uses his scanner on Neelix.) 
+DERETH: His simulated organs are primitive. It's amazing he is still alive. 
+(Dereth points it at Tuvok, who is very fast on the draw with his phaser.) 
 DERETH: This is set to scan only.
 TUVOK: Proceed, carefully.
-(Dereth scans Tuvok, then Kes, Janeway, a security guard, then the
-EMH.) 
+(Dereth scans Tuvok, then Kes, Janeway, a security guard, then the EMH.) 
 DERETH: Strange. According to my readings, you are not here. 
 EMH: Believe me, I wish I weren't. 
-DERETH: The rest of you are healthy. You are compatible for organ
-transplant.
-EMH: Wait a minute. We've already considered this. Talaxian physiology
-is different from that of anyone else on this ship. His immune system
-would reject their lungs immediately.
-DERETH: Your surgical knowledge is inferior. We will simply adapt his
-immunogenicity. It won't be a problem. Which of you will donate a lung?
+DERETH: The rest of you are healthy. You are compatible for organ transplant.
+EMH: Wait a minute. We've already considered this. Talaxian physiology is different from that of anyone else on this ship. His immune system would reject their lungs immediately.
+DERETH: Your surgical knowledge is inferior. We will simply adapt his immunogenicity. It won't be a problem. Which of you will donate a lung?
 KES: Me.
 NEELIX: No, absolutely not. It's too dangerous. Let someone else do it.
-KES: No, I want to do it, Neelix. I'm willing to take the risk.
-Besides, you've done so much for me, let me give you something this
-once. Just for once
+KES: No, I want to do it, Neelix. I'm willing to take the risk. Besides, you've done so much for me, let me give you something this once. Just for once
 NEELIX: All right.
 JANEWAY: I look forward to sampling your cooking, Mister Neelix.
 NEELIX: You mean I can keep my kitchen?
 JANEWAY: Well, at least until we get the replicators back online.
 NEELIX: Thank you, Captain. And Captain? I'll see you at breakfast. 
-Captain's log, supplemental. The aliens have successfully transplanted
-one of Kes' lungs into Neelix. The dampening field has been
-deactivated, and I have allowed them to beam back to their vessel. We
-are resuming a course home. 
- [Sickbay]
- (Neelix
-and Kes are in blue sickbay gowns on biobeds. Kes wakes up first.) 
-EMH: It's all right. The operation was a success. Neelix is asleep and
-breathing on his own now. With your lung.
+Captain's log, supplemental. The aliens have successfully transplanted one of Kes' lungs into Neelix. The dampening field has been deactivated, and I have allowed them to beam back to their vessel. We are resuming a course home. 
+[Sickbay]
+(Neelix and Kes are in blue sickbay gowns on biobeds. Kes wakes up first.) 
+EMH: It's all right. The operation was a success. Neelix is asleep and breathing on his own now. With your lung.
 KES: I feel a little light-headed.
-EMH: That will pass. You'll soon adapt to diminished lung capacity. I
-spoke to the Captain about you. She's given me permission to begin
-training you as a medical assistant. You'll be a back-up for Mister
-Paris, or possibly a replacement. That is, assuming you're interested.
+EMH: That will pass. You'll soon adapt to diminished lung capacity. I spoke to the Captain about you. She's given me permission to begin training you as a medical assistant. You'll be a back-up for Mister Paris, or possibly a replacement. That is, assuming you're interested.
 KES: Of course I'm interested. When do we start?
 EMH: We'll begin your lessons as soon as you've fully recovered.
 KES: Thank you, Doctor.
 EMH: Thank you. You've given me a lot to think about.
- 
 

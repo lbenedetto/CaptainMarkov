@@ -169,7 +169,7 @@ ROM: I still don't think it's fair. You investing my money without asking.#
 ROM: You promised me one quarter of the profits, but then you gave her everything we earned.#
 ROM: Expenses? What expenses?#
 ROM: That does it.#
-ROM: Back to Quark. At least then I'll get cheated by family. (to the girl) Let's get out of here.#
+ROM: Back to Quark. At least then I'll get cheated by family.  Let's get out of here.#
 ROM: Why, brother?#
 ROM: There is no such rule.#
 ROM: I know business is bad, but that's no reason#
@@ -301,7 +301,7 @@ ROM: It's more than possible. It's true. But I can tell you how to get your hand
 ROM: I gave him the night off.#
 ROM: He's studying for his Starfleet exams. He's a very dedicated student.#
 ROM: He doesn't want to be human, brother. He just wants to join Starfleet.#
-ROM: Relax, brother. Nog isn't going to destroy the Ferengi way of life. He just wants a job with better hours. (A well-dressed Ferengi enters. Everyone say Hi! to  Jeffrey Combs again.)#
+ROM: Relax, brother. Nog isn't going to destroy the Ferengi way of life. He just wants a job with better hours.#
 ROM: The Ferengi Commerce Authority.#
 ROM: We're in trouble. All right, everyone. The bar is closed. Everybody out. Go, go, go. Now, everybody. This way. Out. Everybody out.#
 ROM: So, how do you get to be an FCA liquidator anyway?#
@@ -366,7 +366,7 @@ ROM: No. I'm not going to let you hurt Mother.#
 ROM: Why? Because of what she said about Father? Did it ever occur to you that she might be right?#
 ROM: Oh, don't tell me about Father. I knew him a lot better than you did. You went off as soon as you reached the Age of Ascension, but I stayed here for ten more years. And you know what I learned in those ten years? I learned that Father was no financial genius.#
 ROM: It's the truth. He went from one bad deal to the next, one failure after another. He couldn't hold onto latinum if you sewed it into his pants.#
-ROM: No! (They try to strangle each other, knocking over the furniture and nearly braining the cameraman with flying fruit - nice one Rene.)#
+ROM: No!#
 ROM: But Moogie#
 ROM: But you'll get in trouble.#
 ROM: Brother. Wait. I have to sit down.#
@@ -424,15 +424,15 @@ ROM: The ship could continue accelerating until it tears itself apart and scatte
 ROM: Jettison the warp core. No, I tried that already. Emergency overrides are frozen.#
 ROM: The kemacite! If we vent plasma from the warp core into the cargo hold, we may be able to start a cascade reaction in the kemacite. Then we can modulate the reaction to create an inversion wave in the warp field and force the ship back into normal space! If I time it just right, I should be able to get us close enough to Earth to make an emergency landing.#
 ROM: You think so?#
-ROM: Hold on. (The little shuttle shakes violently, Quark starts screaming, and then the ship disappears)#
-ROM: Yop im too, yoba. Yop sko ta yop ma. (Quark goes to a door and hits a tile on the wall next to the knob. Then he tries pulling the knob sideways.)#
+ROM: Hold on.#
+ROM: Yop im too, yoba. Yop sko ta yop ma.#
 ROM: I wish you'd stop asking that. I told you I don't know.#
 ROM: I wonder what happened to the ship?#
 ROM: Don't blame my son. It was your idea to use Gaila's shuttle.#
 ROM: Maybe we are dead.#
 ROM: Maybe this is the Divine Treasury.#
 ROM: You don't think we're in the other place?#
-ROM: Our universal translators must be malfunctioning. (Rom begins hitting his head behind his right ear. Quark and Nog follow suit.)#
+ROM: Our universal translators must be malfunctioning.#
 ROM: Maybe their universal translators are broken too.#
 ROM: The twentieth century? You mean we travelled back through time?#
 ROM: So if they don't have universal translators, then why are they banging their heads?#
@@ -749,6 +749,7 @@ ROM: I, I, I#
 ROM: You're welcome.#
 ROM: I should have told her how I felt.#
 ROM: Leeta is not Prinadora.#
+ROM: Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiiiiiiiiiiiiiiiiiiit! Wait.#
 ROM: Leeta, don't go.#
 ROM: Because I love you, and I want you to stay.#
 ROM: Hello, brother.#
@@ -841,7 +842,7 @@ ROM: There he is.#
 ROM: My brother tells the truth. He hasn't seen it.#
 ROM: I'm good with my hands. Here we go. They've seen him.#
 ROM: They say they found it outside their quarters, right where I left it.#
-ROM: Ow. (A deadly bar room brawl breaks out, including knives and disruptors, and backs being broken with appropriate sounds. Kira disappears into the shadows.)#
+ROM: Ow.#
 ROM: But it worked so well.#
 ROM: Who could that be?#
 ROM: Right.#
@@ -973,7 +974,7 @@ ROM: And the dampness.#
 ROM: I can't believe it. We're actually going to get the reward money. Fifty bars of gold pressed latinum.#
 ROM: I thought you said you didn't care about latinum?#
 ROM: I, I, no, not really.#
-ROM: Look out! (Everyone dives to the side as Gaila shoots and Keevan gets a hole in his chest.)#
+ROM: Look out!#
 ROM: What are we going to do? We can't have a prisoner exchange without a prisoner.#
 ROM: It's a big station, easy to get lost in. If we hide, maybe they won't find us.#
 ROM: Who could forget the most important battle in Ferengi history?#
@@ -1028,7 +1029,7 @@ ROM: Doctor Bashir certainly did a wonderful job on you. I'd call the operation 
 ROM: Very nice.#
 ROM: You see, brother? You look lovely.#
 ROM: You mean, her hormones.#
-ROM: Don't cry, Brother. Here, let me show you. Watch carefully. (does a ladylike walk) You see? It's more of a glide.#
+ROM: Don't cry, Brother. Here, let me show you. Watch carefully.  You see? It's more of a glide.#
 ROM: And when you sit, make sure your knees are touching. And don't forget to relax your shoulders, but keep your bottom tight.#
 ROM: What?#
 ROM: Why me?#
@@ -1062,8 +1063,8 @@ ROM: Right. Please?#
 ROM: All right!#
 ROM: No. Tag the next one.#
 ROM: It looks like a lot of fun.#
-ROM: Where're we going? (9th innings, Logicians 10 runs, 14 hits, 0 errors. Niners 0 runs, 6 hits, 4 errors).#
-ROM: What? What? ;#
+ROM: Where're we going?#
+ROM: What? What?#
 ROM: No. Unless you really want to.#
 ROM: Apology accepted.#
 ROM: Sure.  What's a bunt?#

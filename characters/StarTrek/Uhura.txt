@@ -20,11 +20,12 @@ UHURA: No, you have an answer. I'm an illogical woman who's beginning to feel to
 UHURA: I'm not surprised, Mister Spock.#
 UHURA: I don't believe it.#
 UHURA: You explain. That means that somebody is dead and you just sit there. It could be Captain Kirk. He's the closest thing you have to a friend.#
-UHURA: Message, Captain. Starship base on Caran 4 requesting explanation of our delay here, sir. Space Commander Dominguez says we have supplies he urgently needs. Tell Jose he'll get his chili peppers when we get there. Tell him they're prime Mexican reds. I handpicked them myself, but he won't die if he goes a few more days without them. Got it? UHURA: Got it, Captain.#
+UHURA: Message, Captain. Starship base on Caran 4 requesting explanation of our delay here, sir. Space Commander Dominguez says we have supplies he urgently needs.#
+UHURA: Got it, Captain.#
 UHURA: I see. So naturally, when I'm lonely I think of you.#
 UHURA: Una kafeeri Hur. You're Swahili?#
-UHURA: Lieutenant Uhura. On my way, sir. [McCoy's quarters]#
-UHURA: Yes, Captain. [McCoy's quarters]#
+UHURA: Lieutenant Uhura. On my way, sir.#
+UHURA: Yes, Captain.#
 UHURA: He's not in supply and maintenance.#
 UHURA: Check.#
 UHURA: He must have been it. You know, I would have remembered a crewman like him.#
@@ -49,7 +50,8 @@ UHURA: Yes, sir. I'll keep trying.#
 UHURA: Mister Spock is not on the Bridge, Captain.#
 UHURA: Yes, sir. Three and a half minutes left, Captain.#
 UHURA: Excuse me, Captain. Status report.#
-UHURA: I'm sorry. I did it again, didn't I.; ; UHURA:  Oh, on the starship Enterprise There's someone who's in Satan's guise Whose devil ears and devil eyes Could rip your heart from you. At first, his look could hypnotise And then his touch would barbarise His alien love could victimise And rip your heart from you. And that's why female astronauts, Oh, very female astronauts Wait terrified and overwrought To find what he will do. Oh, girls in space, be wary, be wary, be wary, Girls in space, be wary. We know not what he'll do.#
+UHURA: I'm sorry. I did it again, didn't I.;#
+UHURA:  Oh, on the starship Enterprise There's someone who's in Satan's guise Whose devil ears and devil eyes Could rip your heart from you. At first, his look could hypnotise And then his touch would barbarise His alien love could victimise And rip your heart from you. And that's why female astronauts, Oh, very female astronauts Wait terrified and overwrought To find what he will do. Oh, girls in space, be wary, be wary, be wary, Girls in space, be wary. We know not what he'll do.#
 UHURA:  Now from a planet out in space, there comes a lad, not commonplace. A-seeking out his first embrace. He's saving it for you. Oh, Charlie's our new darling, our darling, our darling. Charlie's our new darling. We know not what he'll do.;#
 UHURA: Can you boost your power, Antares. We're barely reading your transmission.#
 UHURA: They're not transmitting.#
@@ -65,7 +67,7 @@ UHURA: Yes, Captain, then Outpost three an hour later.#
 UHURA: Yes, sir.#
 UHURA: Sir, regaining contact with Outpost four. Switching to speakers.#
 UHURA: Tied in, sir.#
-UHURA: Trying to, sir. They don't acknowledge. (The alien ship fires a big red plasma ball, and the viewscreen switches to Hansen as the outpost is hit, then just bright light. Back to the attacking ship, which then vanishes.)#
+UHURA: Trying to, sir. They don't acknowledge.#
 UHURA: Continuing to challenge, sir. Still no response.#
 UHURA: Yes, sir.#
 UHURA: Picking up communication. It's from their ship.#
@@ -73,7 +75,7 @@ UHURA: Sounds like code, sir.#
 UHURA: Cryptography is working on it, sir.#
 UHURA: Transmission has been cut off.  I made a tape of it, sir.#
 UHURA: Yes, Captain.#
-UHURA:  Hailing frequencies open, sir. (The viewscreen shows a wrecked room and just the Commander still on his feet)#
+UHURA:  Hailing frequencies open, sir.#
 UHURA: Beginning signals to surface, sir.#
 UHURA: I've tried all frequencies, sir. No return signal.#
 UHURA: I've run all frequencies a second time. There's no#
@@ -87,8 +89,8 @@ UHURA: Hailing frequency's open, sir.#
 UHURA: Oh, Captain, there was a message from Tantalus colony, sir.#
 UHURA: Captain? A Miss Karidian has been transported aboard ship. She requests permission to see you.#
 UHURA: What can I do for you, Riley?#
-UHURA: Well, you're not, and I'll prove it to you. The skies are green and glowing#
-UHURA: I'll be back, though it takes forever Forever is just a day Forever is just another journey {Engineering]#
+UHURA: Well, you're not, and I'll prove it to you.#
+UHURA: I'll be back, though it takes forever#
 UHURA: Where my heart is#
 UHURA: How'd you like that, Riley?#
 UHURA: All channels clear, sir.#
@@ -110,7 +112,7 @@ UHURA: Captain, the sensor section says the beams are working again.#
 UHURA: No, sir. Too much interference.#
 UHURA: Twenty three minutes, sir.#
 UHURA: The Columbus is aboard, sir. The flight hatch is closed. Transporter room reports last of the landing parties have beamed safely up. All systems report secured for warp factors.#
-UHURA: Yes, sir. {Shuttlecraft] (From our viewpoint inside, we see the three men standing by two mounds of soil when giant spears start landing near them)#
+UHURA: Yes, sir.#
 UHURA: Transporters locked in, sir.#
 UHURA: Captain, transporter room just beamed up five persons. Alive and well.#
 UHURA: He should have been there ten minutes ago, sir.#
@@ -128,7 +130,7 @@ UHURA: Negative, Captain. They're just about to start.#
 UHURA: Aye, aye, sir.#
 UHURA: Strong interference on subspace, Captain. The planet must be a natural radio source.#
 UHURA: All of them, Mister Spock. No response.#
-UHURA: Mister Spock. Look. (Words are appearing on the monitor above her head, in gothic script. Spock reads them out loud)#
+UHURA: Mister Spock. Look.#
 UHURA: Doctor, what was it? What was down there?#
 UHURA: I don't know how to play this.#
 UHURA: Shall I make a full report to Spacefleet Command, sir?#
@@ -150,7 +152,7 @@ UHURA: Message ready, Captain. Main screen, coming up.#
 UHURA: Aye aye, sir.#
 UHURA: Doctor McCoy asking to see you in sickbay, Captain.#
 UHURA: Screen on, sir.#
-UHURA: Captain, Security reports Lazarus missing. Captain's log, stardate 3088.7. We are no closer to finding an answer to the strange phenomenon than we were at the beginning. Not only have two of my crewmen been attacked, two of our dilithium crystals are missing, and without them the Enterprise cannot operate at full power. They must be found.#
+UHURA: Captain, Security reports Lazarus missing.#
 UHURA: Fire, Captain. Engineering. Situation critical.#
 UHURA: Yes, sir.#
 UHURA: Captain, normal Starfleet channel has nothing but static. I'm getting something on another frequency, but it's not Starfleet.#
@@ -165,7 +167,7 @@ UHURA: Mister Scott, message coming in from the Captain.#
 UHURA: A channel is open, Mister Ambassador. You will be speaking to Anan Seven, head of the High Council of the Eminian Union.#
 UHURA: Mister Scott, it's Mister Spock.#
 UHURA: Message from Eminiar Seven, Captain. Ambassador Fox reports negotiations underway with Vendikar. Outlook hopeful.#
-UHURA: I'm picking up a signal, sir. (a series of beeps comes over the speakers) Captain, that's the old Morse code call signal.#
+UHURA: I'm picking up a signal, sir.  Captain, that's the old Morse code call signal.#
 UHURA: CQ. CQ.#
 UHURA: All decks acknowledging, sir.#
 UHURA: Go ahead, boarding party. We read you.#
@@ -177,12 +179,12 @@ UHURA: I've been transmitting a contact signal every five minutes. All I get is 
 UHURA: Aye, aye, sir.#
 UHURA: Oh, I'm sorry, Captain. I can't do that.#
 UHURA: Oh, I know it is, Captain, but you see, all communications are out.#
-UHURA: I short-circuited them, except ship to surface. We'll need that for a while. It's really for the best, Captain. (She leaves the Bridge. Kirk finds a plant and throws it angrily across the helm console before storming out himself.)#
+UHURA: I short-circuited them, except ship to surface. We'll need that for a while. It's really for the best, Captain.#
 UHURA: Automatic all-points relay from Starfleet Command, Captain, code one.#
 UHURA: Captain. Unit XY-75847 report a fleet of Klingon ships in their sector, sir.#
 UHURA: Unable to ascertain, sir.#
 UHURA: Recording, sir.#
-UHURA: Landing party to Enterprise. No sign of Doctor McCoy. Search progressing. (And he pops up from behind a rock after she and her security guard have passed by.)#
+UHURA: Landing party to Enterprise. No sign of Doctor McCoy. Search progressing.#
 UHURA: Captain, I've lost contact with the ship. I was talking to them. Suddenly, it went dead. No static, just nothing.#
 UHURA: Captain, I'm frightened.#
 UHURA: Captain, it seems impossible. Even if you were able to find the right date#
@@ -241,7 +243,7 @@ UHURA: All cartographic standards full automatic.#
 UHURA: It's almost as if it means to grab us.#
 UHURA: Aye, aye, sir.#
 UHURA: Damage report coming in, Captain. Situation under control. Minor damage, stations three, seven, and nineteen.#
-UHURA: Activity on hailing channel three, sir. KIRK; Put it on audio, Lieutenant.#
+UHURA: Activity on hailing channel three, sir.#
 UHURA: Calculated. Channel open, sir.#
 UHURA: Mister Spock, I can't contact the landing party. All frequencies are jammed.#
 UHURA: Aye, sir.#
@@ -295,7 +297,7 @@ UHURA: Yes, sir.#
 UHURA: Captain, I'm#
 UHURA: Yes, sir.#
 UHURA: You are away from your post, Mister.#
-UHURA: No storm damage, sir. All stations report normal. You're ordered to annihilate the Halkans unless they comply. No alternative.#
+UHURA: No storm damage, sir. All stations report normal.  You're ordered to annihilate the Halkans unless they comply. No alternative.#
 UHURA: Yes, sir.#
 UHURA: Captain, I have the leader on the Halkan Council waiting on channel B.#
 UHURA: You aren't very persistent, Mister Sulu. The game has rules. You're ignoring them. I protest and you come back. You didn't come back.#
@@ -318,7 +320,7 @@ UHURA: The Romulans are notorious for not listening to explanations.#
 UHURA: Sir, I've tried all known hailing frequencies. They simply ignore us.#
 UHURA: But, Captain, Code#
 UHURA: Yes, Captain. Code two.#
-UHURA: Aye, sir. KIRK; What's the imposed course, Mister Sulu?#
+UHURA: Aye, sir.#
 UHURA: I should say so.#
 UHURA: How long does a body like that last?#
 UHURA: Five hundred thousand years?#
@@ -327,7 +329,7 @@ UHURA: Oh, nothing really important. Just immortality.#
 UHURA: No, they're lying. It's a trick. Doctor McCoy injected something into Harry Mudd to make him look sick. It's a trick to get back on board and sabotage the ship.#
 UHURA: Because I want an android body. I want immortality. I'll live forever, Captain. I'll be young and beautiful.#
 UHURA: Thank you.#
-UHURA: I half believed it myself. SCOTT; Well, the androids were expecting an attempt, and now we've made it.#
+UHURA: I half believed it myself.#
 UHURA: Thank you, kind sir.#
 UHURA: Aye, sir. The channel's open, sir.#
 UHURA: Aye, sir. Transporter room, stand by.#
@@ -342,7 +344,7 @@ UHURA: All right, what are you selling them for?#
 UHURA: Oh, I couldn't. Could I?#
 UHURA: Captain, I have Mister Lurry.#
 UHURA: Aye, sir.#
-UHURA: Security, cancel Red Alert. Captain's log, stardate 4524.2. A Klingon warship is hovering only a hundred kilometres from Deep Space Station K7 while its captain waits in the station manager's office. Their intentions are unknown.#
+UHURA: Security, cancel Red Alert.#
 UHURA: Since yesterday, Doctor. This morning, I found out that he, I mean she, had had babies.#
 UHURA: Oh, Captain. Well, I hadn't intended to, sir, but the tribble had other plans.#
 UHURA: Yes, sir.#
@@ -355,10 +357,10 @@ UHURA: Aye, aye.#
 UHURA: Aye.#
 UHURA: Aye, aye, Captain.#
 UHURA: Captain, both amplitude and frequency modulation being used. I think I can pick up something visual. It's a news broadcast using a system I think they once called video.#
-UHURA: Aye. (A black and white image of people watching as police in crash helmets arrest someone. There is a car in the foreground. Very 1950s or 60s.)#
+UHURA: Aye.#
 UHURA: Transmission lost, sir. Shall I try to get it back?#
 UHURA: I'm afraid you have it all wrong, Mister Spock, all of you. I've been monitoring some of their old-style radio waves, the empire spokesman trying to ridicule their religion. But he couldn't. Don't you understand? It's not the sun up in the sky. It's the Son of God.#
-UHURA: I've tried all frequencies and hooked in the universal translator. No response, sir. KIRK; Maintain translator broadcast. Check records for authorised ships.#
+UHURA: I've tried all frequencies and hooked in the universal translator. No response, sir.#
 UHURA: Captain, Starfleet acknowledges report on our situation and confirms no authorised Federation vessel in this quadrant.#
 UHURA: Captain? I picked up the last part of a transmission. Just like that other one. I put the recorder and the directional locator on it immediately.#
 UHURA: Sir, the directional locator indicates reception point somewhere within the body of this ship.#
@@ -379,7 +381,7 @@ UHURA: Or old-style hand lasers?#
 UHURA: Aye, sir.#
 UHURA: Yes, sir.#
 UHURA: This is the craziest landing pad I've ever seen.#
-UHURA: Captain. Look. (People are approaching them. One big guy in a fur, with teeth that hold his mouth open, another male with a knife, a female in pink carrying a lance-like weapon, and another in silver with green hair.)#
+UHURA: Captain. Look.#
 UHURA: I don't think so, Captain.#
 UHURA: They'll try, but where do they look? We're here, and we don't know where it is.#
 UHURA: No!#
@@ -459,10 +461,11 @@ UHURA: I gave up my quarters because I#
 UHURA: Captain Kirk. May I speak with you, sir?#
 UHURA: A message just came from Starfleet Command. It was class-A security and scrambled. I put it through the decoder.#
 UHURA: The Federation High Commissioner is on his way to Troyius to attend the royal wedding.#
-UHURA: Aye, sir. (Meanwhile, Kryton is sneaking around in Engineering, and messing with the dilithium crystals.) UHURA: Captain, no response from the Klingon vessel on any channel.#
+UHURA: Aye, sir.#
+UHURA: Captain, no response from the Klingon vessel on any channel.#
 UHURA: Bridge to Captain Kirk. Mister Spock, I'm getting#
 UHURA: Bridge to Captain Kirk. Come in, please. Captain Kirk, please answer.#
-UHURA: Oh, Captain, I'm picking up a transmission from inside the Enterprise. It's on a tight beam aimed at the Klingon vessel. {Elaan's quarters]#
+UHURA: Oh, Captain, I'm picking up a transmission from inside the Enterprise. It's on a tight beam aimed at the Klingon vessel.#
 UHURA: Captain, message from the Klingon ship. They're ordering us to stand by for boarding or be destroyed.#
 UHURA: Frequency open, sir.#
 UHURA: Captain. Message coming in.#
@@ -486,7 +489,7 @@ UHURA: Aye, sir.#
 UHURA: Aye, sir. I have Sub-commander Tal, sir.#
 UHURA: Everything is quiet, sir.#
 UHURA:  Mister Sulu, the screen. We're out of orbit.#
-UHURA: Aye, aye, sir. (For some strange reason there is a mirror in front of her, and Tommy changes what she can see in it.)#
+UHURA: Aye, aye, sir.#
 UHURA: I see my death. A long death. Disease and pain. I see my death.#
 UHURA: Oh, God. Captain, don't let it be.#
 UHURA: Hailing on all frequencies, sir. All languages have been attempted. No response. Now using standard interstellar symbols.#
@@ -517,7 +520,7 @@ UHURA: Mister Spock, damage control report. Minor structural damage to sections 
 UHURA: Mister Spock!#
 UHURA: There's no response on any frequency, sir.#
 UHURA: They're refusing reception. I can't#
-UHURA: What is that? (The two Tholian ships have joined stern to stern, and are now moving apart, drawing a thread of some sort out between them. Then they come back across the viewscreen creating two more lines.)#
+UHURA: What is that?#
 UHURA: Captain! Captain Kirk, we thought you were#
 UHURA: Spock! Mister. Oh, Doctor I've just seen the Captain.#
 UHURA: He's alive. He's alive, Doctor.#
@@ -542,8 +545,8 @@ UHURA: Sickbay calling, Doctor. There are more wounded men requiring your attent
 UHURA: We were forced in the transporter and beamed down. It was like becoming someone's puppet.#
 UHURA:  I'm so frightened, Captain. I'm so very frightened.#
 UHURA: I know it, but I wish I could stop trembling.#
-UHURA: I'm thinking. I'm thinking of all the times on the Enterprise when I was scared to death and I would see you so busy at your commands. And I would hear your voice from all the parts of the ship and my fears would fade. And now they are making me tremble. But I'm not afraid. I am not afraid. (As the camera closes in, Uhura's head is turned to obscure our view - and the lips don't quite touch.)#
-UHURA: Yes, sir. I am still receiving visual contact. I can see them, but I can't see you. (The viewscreen has five people standing in an area with the same architecture behind them.)#
+UHURA: I'm thinking. I'm thinking of all the times on the Enterprise when I was scared to death and I would see you so busy at your commands. And I would hear your voice from all the parts of the ship and my fears would fade. And now they are making me tremble. But I'm not afraid. I am not afraid.#
+UHURA: Yes, sir. I am still receiving visual contact. I can see them, but I can't see you.#
 UHURA: Co-ordinates correspond, Captain.#
 UHURA: Malfunction, sir.#
 UHURA: Captain. It corrected itself.#
@@ -560,7 +563,7 @@ UHURA: Aye, aye, sir.#
 UHURA: Mister Spock! Are you all right?#
 UHURA: What happened?#
 UHURA: No, Mister Spock. I meant what happened to us?#
-UHURA: Damage control report. Ship functioning normally. Many bumps and bruises. One casualty, Mister Spock. The transporter officer, he's dead. SPOCK; Dead? Spock to Sickbay.#
+UHURA: Damage control report. Ship functioning normally. Many bumps and bruises. One casualty, Mister Spock. The transporter officer, he's dead.#
 UHURA: Security sweeps of all decks are negative, Mister Spock. No evidence of intruder.#
 UHURA: Aye, sir. All decks, cancel Red Alert. Maintain increased security.#
 UHURA: How did she get off the ship, sir?#
@@ -594,7 +597,7 @@ UHURA:  Life continues to exist on the planet.#
 UHURA: Yes, Mister Spock.#
 UHURA: Yes, Mister Spock. They have provided us with the co-ordinates for beam down.#
 UHURA: Gideon is contacting us, Mister Spock.#
-UHURA: Aye, sir. (Five men sitting behind a slightly curved table. The central one speaks.)#
+UHURA: Aye, sir.#
 UHURA: Yes, Mister Spock.#
 UHURA: At once, sir.#
 UHURA: There has been no response as yet, sir.#

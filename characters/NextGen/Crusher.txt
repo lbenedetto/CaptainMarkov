@@ -94,7 +94,7 @@ CRUSHER: Wyatt? Are you feeling all right?#
 CRUSHER: I'll notify the Captain they're ready.#
 CRUSHER: I'm not certain yet.#
 CRUSHER: He's dying.#
-CRUSHER: Realistically, it does not seem possible. Captain's log, supplemental. Our position is unknown, and our only chance of returning to the known universe is a dying alien who is generally humanoid but with a physiology sufficiently different from our own to create medical problems in caring for him.#
+CRUSHER: Realistically, it does not seem possible.#
 CRUSHER: I don't know. My equipment doesn't register his kind of life signs. I would have to guess exhaustion, fatigue.#
 CRUSHER: I'm not sure.#
 CRUSHER: I recommend we let him come around in his own time.#
@@ -133,7 +133,7 @@ CRUSHER: I feel someone else. There's someone else who's there. Not alone. Get o
 CRUSHER: It seems the only possible conclusion.#
 CRUSHER: Exactly what do you believe you're sensing from him?#
 CRUSHER: I'd need a medical log citing clear evidence of incapacity. You could do it without that problem.#
-CRUSHER: As second in command, it's still in your corner. I'll order medical and psychiatric exams. You'll have to back me up somehow. First Officer's log, supplemental. After meeting with the senior officers, Doctor Crusher and I decided to approach the Captain regarding his recent behaviour.#
+CRUSHER: As second in command, it's still in your corner. I'll order medical and psychiatric exams. You'll have to back me up somehow.#
 CRUSHER: I'd like you to come to Sickbay for some examinations, Captain.#
 CRUSHER: I'd like to conduct them now, sir.#
 CRUSHER: I'm concerned that you've suddenly turned the ship away from it's course.#
@@ -142,7 +142,7 @@ CRUSHER: Here are the results from the exams you ordered, sir. You don't care to
 CRUSHER: The Jean-Luc I know?#
 CRUSHER: The more frightens me.#
 CRUSHER: You and?#
-CRUSHER: Captain Picard, you are now relieved from duty. I judge you to be disabled and mentally incapacitated. (Picard sends blue energy into the ship's systems and through all the Bridge crew)#
+CRUSHER: Captain Picard, you are now relieved from duty. I judge you to be disabled and mentally incapacitated.#
 CRUSHER: Captain? Sorry, Troi.#
 CRUSHER: Establishing that colony has been exhausting for the entire crew, Captain. We're not a supply vessel. Settling all those people has been a strain on everyone. I'm tired myself.#
 CRUSHER: It sounds wonderful for the children. The holodecks are marvellous, of course, but there's nothing like open spaces and fresh air.#
@@ -175,7 +175,7 @@ CRUSHER: With your head. I see nothing physically wrong, but I want to run some 
 CRUSHER: Is an order to report to Sickbay. From the one person aboard this ship who can give you an order.#
 CRUSHER: Only when my way makes sense, Captain. There are still forty minutes before the Ferengi beam over. I'll have these scans done in ten.#
 CRUSHER: As simple? You should not have a headache unless there's something wrong, sir. It may be true that headaches were once quite common, but that was in the days before the brain was charted, before we understood the nature of pain. When we were suffering from such things as the common cold.#
-CRUSHER: I haven't the slightest idea. (she puts something against his temple) Feel better.#
+CRUSHER: I haven't the slightest idea.  Feel better.#
 CRUSHER: Medical fakery. The pain is actually still there. It's just cloaked. I'll want further exams.#
 CRUSHER: When the Ferengi matter is settled.#
 CRUSHER: Like before?#
@@ -230,6 +230,7 @@ CRUSHER: I think you'd better see for yourself, Captain.#
 CRUSHER: I can't allow him out of my care, Captain.#
 CRUSHER: Captain, I think Mrs. Jameson should beam down now.#
 CRUSHER: The compound he took is forcing his cells and organs to go further, younger, and they can't take the stress. It's like they're imploding. And I can't give him anything to stop it.#
+CRUSHER: You make it sound so real.#
 CRUSHER: Incredible.#
 CRUSHER: Yes, I'd like that.#
 CRUSHER: Who? Whalen?#
@@ -238,7 +239,7 @@ CRUSHER: You know I had some trouble getting through. Where's Captain Picard?#
 CRUSHER: Pardon?#
 CRUSHER: What is he, a fish?#
 CRUSHER: Why aren't we all being interrogated? Maybe I should go and help him.#
-CRUSHER: Well, why should he have all the fun? (She sits down and copies the woman next to here by crossing her legs and pulling up her skirt slightly)#
+CRUSHER: Well, why should he have all the fun?#
 CRUSHER: Something on your mind?#
 CRUSHER: Is that good?#
 CRUSHER: Have a good time?#
@@ -249,7 +250,7 @@ CRUSHER: There's massive internal bleeding. We have to get him to Sickbay.#
 CRUSHER: If we don't get him to sickbay, he will die!#
 CRUSHER: I'm losing his pulse!#
 CRUSHER: It's no use. It's just not there.#
-CRUSHER: I could use some light. (Data carries a standard lamp over, and is baffled when it goes out because the plug has come out of the wall. Picard plugs it in nearer the patient)#
+CRUSHER: I could use some light.#
 CRUSHER: I wish you'd quit asking, since it's obvious you're going to do it anyway. It's just a waste of time.#
 CRUSHER: He's not dead.#
 CRUSHER: You've already done that. This man is dying. This whole thing is senseless.#
@@ -289,7 +290,7 @@ CRUSHER: I knew you'd like it. Are you wearing cologne? Like something I smelled
 CRUSHER: It's that smell. That's how the virus travels. An airborne particle whose sweet scent inspires deep inhalation. And once inside the body, it becomes that damned virus. I have work to do.#
 CRUSHER: He's right here, but he's in bad shape.#
 CRUSHER: I can't allow it.#
-CRUSHER: They might be facing the same thing up here. Until I have a better idea of what I'm dealing with, no one can beam up. I'm sorry, Will, but you must wait. {Holding area]#
+CRUSHER: They might be facing the same thing up here. Until I have a better idea of what I'm dealing with, no one can beam up. I'm sorry, Will, but you must wait.#
 CRUSHER: : Sickbay to Bridge.#
 CRUSHER: It's also a reference to success, Data. I've got the inoculants.#
 CRUSHER: Welcome home.#
@@ -317,7 +318,7 @@ CRUSHER: Disregard incongruity and theorise as to source.#
 CRUSHER: Geordi observed movement.#
 CRUSHER: The hum is back.#
 CRUSHER: Two of them!#
-CRUSHER: Activate quarantine field. (but something is pushing against it) Quarantine field full. Full shield backup!#
+CRUSHER: Activate quarantine field.  Quarantine field full. Full shield backup!#
 CRUSHER: Evacuating lab.#
 CRUSHER: Evacuate.#
 CRUSHER: I wouldn't.#
@@ -330,7 +331,7 @@ CRUSHER: Captain, they haven't been through decontamination.#
 CRUSHER: And your medical community can do nothing?#
 CRUSHER: Perhaps we can help.#
 CRUSHER: Our children are not for sale at any price.#
-CRUSHER: Wesley! They've taken my son. (all over the ship, children are disappearing. Alexandra while playing at her mother's feet, Katie while playing a musical instrument)#
+CRUSHER: Wesley! They've taken my son.#
 CRUSHER: Toya, sit down. Don't give in to fear. Now, we all knew what the risks were when we signed on, and that's the choice we made. Now, Captain Picard will do everything possible to bring our children back.#
 CRUSHER: But how can you be so sure that they can have children? You can't.#
 CRUSHER: Wes.#
@@ -355,9 +356,10 @@ CRUSHER: We're Starfleet officers who've known each other for many years.#
 CRUSHER: About what?#
 CRUSHER: My personal feelings about Captain Picard are irrelevant to this investigation, and none of your business.#
 CRUSHER: His injuries are very critical.#
-CRUSHER: Not good. I'll keep you posted. Guest Quarters]#
+CRUSHER: Not good. I'll keep you posted.#
 CRUSHER: He's convulsing. Get the hypospray.#
-CRUSHER: He's dying. (Korris, Konmel and Worf stand over the bed. As the young man breaths his last, Korris holds his eyelids open. Then they all start a deep throaty growl, which becomes a roar as they are sure he is dead. Konmel removes a hook from the boot) CRUSHER: Is there any special arrangement you would like for the body?#
+CRUSHER: He's dying.#
+CRUSHER: Is there any special arrangement you would like for the body?#
 CRUSHER: Is it just Riker?#
 CRUSHER: Are you getting any life signs?#
 CRUSHER: Clever.#
@@ -402,7 +404,7 @@ CRUSHER: No. I've got her on full support. There is no independent brain functio
 CRUSHER: Inject norep.#
 CRUSHER: Let's go for direct reticular stimulation.#
 CRUSHER: Do it!  Increase to seventy microvolts.#
-CRUSHER: Eighty five microvolts.  Again. Ninety. Again. Again. She's gone.#
+CRUSHER: Eighty five microvolts.  Again.  Ninety. Again. Again. She's gone.#
 CRUSHER: There was too much synaptic damage. That thing just sucked the life right out of her. There's nothing I can do.#
 CRUSHER: She didn't do anything. Her phaser was lowered.#
 CRUSHER: She was killed in a brutal, senseless act.#
@@ -505,7 +507,7 @@ CRUSHER: Right now, they are all sleeping. Each of them needed minor medical att
 CRUSHER: Cryonics. It was a kind of fad in the late twentieth century. People feared dying. It terrified them. At the moment of death, they would be frozen, so that later, some time in the future, when presumably medical science had a cure for whatever killed them, they could be thawed back to life, healed, and sent on about their business.#
 CRUSHER: Alive and well and ready to be awakened.#
 CRUSHER: I have them sedated now, but they should be up and about as soon as possible.#
-CRUSHER: None that I can see. (Worf enters, and Beverly puts a hypo to the woman's neck. She wakes, sees Picard, then Beverly, and smiles. Then she starts to sit up, sees Worf, and faints)#
+CRUSHER: None that I can see.#
 CRUSHER: She died of an embolism. It probably happened very suddenly, otherwise her physical condition was excellent.#
 CRUSHER: Advanced cardiomyopathy. Inoperable at the time, but easily correctable now. He must have known his condition was terminal for quite some time.#
 CRUSHER: There was marked deterioration of every system in his body. Probably from massive chemical abuse. Unbelievable.#
@@ -589,7 +591,8 @@ CRUSHER: You had the power to stop them but you didn't?#
 CRUSHER: Why did you try to hide this from all of us? Was it out of guilt for not helping Rishon and the others when they were alive?#
 CRUSHER: It's all right. It's all right.#
 CRUSHER: Enterprise, beam Martinez and his patient directly to Sickbay.#
-CRUSHER: I've got to get down there. (Oji hides and watches as Crusher runs down to Liko, scans him then makes her decision) CRUSHER: Crusher to Enterprise. Medical emergency. Two to beam directly to Sickbay.#
+CRUSHER: I've got to get down there.#
+CRUSHER: Crusher to Enterprise. Medical emergency. Two to beam directly to Sickbay.#
 CRUSHER:  You increased the levels of tricordrazine?  Let me see his chart, please.#
 CRUSHER: Before you start quoting me the Prime Directive, he'd already seen us. The damage was done. It was either bring him aboard or let him die.#
 CRUSHER: Because we were responsible for his injuries.#
@@ -667,8 +670,9 @@ CRUSHER: They're very bad burns. I hardly think#
 CRUSHER: He ingested a Felodesine chip. He must have brought it with him. I'm sorry, Captain. There was no antidote.#
 CRUSHER: At Troi's request I examined him. His cell structure has been significantly altered. They used a combination of cryptobiolin, triclenidil, macrospentol and a few things I can't even recognise.#
 CRUSHER: One of the new substances in his cellular structure even shields electrical impulses.#
-CRUSHER: It's all right. We're finished. Waiter? (Big explosion in the plaza. Screams, injured passers by, alarms going off. Beverly rushes to help)#
-CRUSHER: Put that away. I'm a doctor.  Just lie still. Try not to move. CRUSHER: Lieutenant Worf, I need some bandages, disinfectant, something with alcohol in it.#
+CRUSHER: It's all right. We're finished. Waiter?#
+CRUSHER: Put that away. I'm a doctor.  Just lie still. Try not to move.#
+CRUSHER: Lieutenant Worf, I need some bandages, disinfectant, something with alcohol in it.#
 CRUSHER: That's an order, Lieutenant.#
 CRUSHER: Don't be afraid. There's a lot of bleeding, but it's not as bad as it looks.#
 CRUSHER: Who are not here. I am.#
@@ -816,7 +820,7 @@ CRUSHER: The more unusual a life form is, the better he likes it. His personnel 
 CRUSHER: Your brain activity suggests that you're coming out of a sort of fugue, or seizure. Your blood pressure and glucose are indicative of general systemic stress.#
 CRUSHER: No doubt about it.#
 CRUSHER: Good morning, my lord. Manners, my son. Manners. You embarrass me before our guest. Master Barclay will spank you if you misbehave.#
-CRUSHER: The boys got into another little scrap, I'm afraid. But boys will be boys. (A swordfight enters, with much clashing of swords. three musketeers versus Barclay)#
+CRUSHER: The boys got into another little scrap, I'm afraid. But boys will be boys.#
 CRUSHER: Shh!#
 CRUSHER: The contamination's been neutralised. The water's clean.#
 CRUSHER: With tricyanate? That's hard to believe. It's slow to assimilate, difficult to replicate, and hard to transport. There are a lot easier ways to poison a water supply. More effective ways too.#
@@ -844,7 +848,7 @@ CRUSHER: I don't suppose I could talk you out of it?#
 CRUSHER: It will pass, all of it. Just another hour or so. You're doing fine. Just hold on.#
 CRUSHER: Jean-Luc!#
 CRUSHER: I'm here, Jean-Luc. I'm not going anywhere.#
-CRUSHER: Don't even try. First Officer's log, Stardate 43920.7. Ambassador Sarek has successfully concluded the negotiations with the Legarans. The USS Merrimac has arrived and will transport the Ambassador and his party back to Vulcan.#
+CRUSHER: Don't even try.#
 CRUSHER: Wesley?#
 CRUSHER: Take care.#
 CRUSHER: Something the matter?#
@@ -852,7 +856,8 @@ CRUSHER: Something in the message?#
 CRUSHER: Where are you going?#
 CRUSHER: We're picked up life-signs, humanoid, very faint and fading.#
 CRUSHER: He's not stable enough for transport. There's damage to his brain stem, autonomic functions are failing. His heart needs active neurofeedback. It can't regulate itself. I need a volunteer.#
-CRUSHER: I'm going to hook your nervous systems to the tricorder. Your brain will regulate both systems. That should stabilise him long enough to get him up to the ship. CRUSHER: Take deep, regular breaths. If anything goes wrong I'll break the connection.#
+CRUSHER: I'm going to hook your nervous systems to the tricorder. Your brain will regulate both systems. That should stabilise him long enough to get him up to the ship.#
+CRUSHER: Take deep, regular breaths. If anything goes wrong I'll break the connection.#
 CRUSHER: Geordi!#
 CRUSHER: Transporter room, three to beam directly to Sickbay.#
 CRUSHER: Autonomic responses are still low. Begin cardiostimulation. Sixty cc's of inaprovaline. Massive infection is setting in. Use the protodynoplaser to stabilize his immune system. We need to design a virus that can infiltrate his cell structure and boost his ATP production.#
@@ -862,7 +867,7 @@ CRUSHER: Ah, Geordi.#
 CRUSHER: No need to keep you here. Your bioscan came out negative.#
 CRUSHER: I never thought he'd make it this far. There was major trauma to his head and chest cavity, massive plasma loss, and severe damage to most of his organs.#
 CRUSHER: I believe he's going to live. I'm afraid I can't take the credit for it, though. His body seems to have amazing recuperative powers. The damaged tissue seems to be repairing itself at a phenomenal rate. There's one thing that troubles me though.#
-CRUSHER: Take a look at this. (She pulls up a large wall display of green things running through blood vessels)#
+CRUSHER: Take a look at this.#
 CRUSHER: Yes. The thing is, it has nothing to do with the injuries. These are undamaged cells that seem to be mutating.#
 CRUSHER: No. I've never seen anything like it in my life. There is a possibility that it's part of his natural healing process. I hope it is, because there's nothing I can do to stop it.#
 CRUSHER: You certainly are.#
@@ -903,7 +908,8 @@ CRUSHER: Security.#
 CRUSHER: John!#
 CRUSHER: John, listen to me. You must come down. I'll try to help you.#
 CRUSHER: His neck is broken. No life signs. Sickbay, form a resuscitation team. I have a code seven in shuttlebay two. Transporter room, stand by.#
-CRUSHER: No, don't. (John has come down. He sends a glow through Worf, who comes back to life) CRUSHER: Hold still.#
+CRUSHER: No, don't.#
+CRUSHER: Hold still.#
 CRUSHER: I can't believe it. There's no trace of injury.#
 CRUSHER: And healed him.#
 CRUSHER: The rate of metamorphosis is accelerating. It's almost as if your body were generating an electrical field that's warping the tissue.#
@@ -946,9 +952,10 @@ CRUSHER: They're nothing more than children.#
 CRUSHER: Enterprise, prepping five Talarian males for transport directly to Sickbay. Trauma team, stand by to receive injured. We have radiation burns and possible respiratory distress.#
 CRUSHER: Stand by for my orders.#
 CRUSHER: Commander, quickly.#
-CRUSHER: This boy. He's human. Captain's log, supplemental. We have completed emergency evacuation of four Talarians and one human. How this young man found himself in the company of these aliens remains a mystery.#
+CRUSHER: This boy. He's human.#
 CRUSHER: It's Jono, right? Is that what I heard them call you? I'm Doctor Crusher. I'm just examining you for radiation injuries. It won't hurt. I have a son not much older than you. Perhaps you'd like to meet him. Well, Jono, you seem to have escaped radiation damage. Pretty lucky.#
-CRUSHER: Now how did this happen? (All the boys suddenly start making a keening noise and rocking back and forth) CRUSHER: What is it?#
+CRUSHER: Now how did this happen?#
+CRUSHER: What is it?#
 CRUSHER: They all just started up.#
 CRUSHER: He managed to escape radiation trauma but the scan shows something else.#
 CRUSHER: Two previously fractured ribs, a broken arm, and a low grade concussion. There might be neurological impairment. I'd like to examine him further. Jean-Luc, the Talarians have been known to be ruthless to their enemies. I think there's a real possibility they may have brutalised the child.#
@@ -985,7 +992,7 @@ CRUSHER: They're brothers, Data. Brothers forgive.#
 CRUSHER: So, you'll have a chance to visit the surface?#
 CRUSHER: Oh, Venezuela's beautiful.#
 CRUSHER: Come in.#
-CRUSHER: Great. Thank you. (When she opens it we see the label - Lt Cmdr Jack R Crusher, USS Stargazer NCC 2893)#
+CRUSHER: Great. Thank you.#
 CRUSHER: I left it here in storage a long time ago after Jack died. Odds and ends, mostly.#
 CRUSHER: It was a joke. Jack sent it to me while I was still in medical school. It was his way of proposing to me.#
 CRUSHER: It's for Wesley, from Jack. I'd forgotten it. Maybe I was just trying to forget it.#
@@ -1079,7 +1086,7 @@ CRUSHER: I'd like to use the ship's computer to monitor your life functions.#
 CRUSHER: It will happen.#
 CRUSHER: I promise you I will continue to do whatever I can to find out what's happening, and to bring you all back. I'm sorry I lost my temper. You do remember that?#
 CRUSHER: For quite some time I've been meaning to say something to you. I might not have another chance.  Jean Luc, you and I#
-CRUSHER: I won't forget. I won't forget any of you. (A vortex forms by the viewscreen and she is dragged towards it. She grabs hold of Data's chair as the force of the vacuum has her hanging parallel to the floor for a few moments until the intensity drops)#
+CRUSHER: I won't forget. I won't forget any of you.#
 CRUSHER: Computer, we are going to apply precise diagnostic methodology. Once we've cataloged the symptoms, we will proceed to determine the illness, and find the cure. We will start with the assumption that I am not crazy. If I am, it won't matter one way or the other. Computer, read the entire crew roster for the Enterprise.#
 CRUSHER: Have I always been the only member of the crew of the Starship Enterprise?#
 CRUSHER: If this was a bad dream, would you tell me?#
@@ -1109,11 +1116,12 @@ CRUSHER: Superimpose previous image over this one, same scale, and continue to m
 CRUSHER: It's collapsing!#
 CRUSHER: Computer, how long can life support be maintained?#
 CRUSHER: The Traveller used his thoughts to alter warp fields. Thoughts became reality. Now I'm in a warp field. Could my thoughts have changed this reality? Come on, Beverly! What's the next step? What was I thinking at the moment Wesley's bubble formed? Dalen Quaice. He said all the people he'd known were gone. I thought of Jack, I went to see Wesley, the flash in Engineering. That's when it started. That's when I started losing everybody. My thoughts created this universe. Can they get me out of it again?#
-CRUSHER: I'm not talking to you. Click my heels together three times and I'm back in Kansas. Can it be that simple? (Picard arrives in Engineering to watch the Traveller do his phasing thing)#
+CRUSHER: I'm not talking to you. Click my heels together three times and I'm back in Kansas. Can it be that simple?#
 CRUSHER: Computer, hypothetical situation. A person is trapped inside of a static warp bubble. Determine a means of escape.#
 CRUSHER: Describe this threshold.#
 CRUSHER: Extrapolate from theoretical database. How would it manifest itself?#
-CRUSHER: Disturbance? The vortex. They must have been trying to reach me! But how do I find it? Wesley, where do I go? Help me. CRUSHER: Stable threshold. They've been trying to create a stable threshold. Where are they trying to do it? Where did they do it the first time? Engineering!#
+CRUSHER: Disturbance? The vortex. They must have been trying to reach me! But how do I find it? Wesley, where do I go? Help me.#
+CRUSHER: Stable threshold. They've been trying to create a stable threshold. Where are they trying to do it? Where did they do it the first time? Engineering!#
 CRUSHER: Engineering.#
 CRUSHER: Just take me anywhere on deck thirty six!#
 CRUSHER: Jean-Luc.  You. Do I have you to thank for getting me back?#
@@ -1219,7 +1227,8 @@ CRUSHER: I'd say you've picked up the basics.#
 CRUSHER: Wedding?#
 CRUSHER: Data, you never told me this was for the wedding.#
 CRUSHER: Well yes. They don't do a lot of tap dancing at weddings.#
-CRUSHER: Well, Data, because, I don't really know why, Look, why don't I just teach you a style of dancing that they will do at the wedding? Computer, run 'Isn't It Romantic'. (The slow music starts, and Beverly gets Data into a close ballroom hold) CRUSHER: Compared to what we've just doing, this will be simple. Just look up and follow me. One, two, ready, and#
+CRUSHER: Well, Data, because, I don't really know why, Look, why don't I just teach you a style of dancing that they will do at the wedding? Computer, run 'Isn't It Romantic'.#
+CRUSHER: Compared to what we've just doing, this will be simple. Just look up and follow me. One, two, ready, and#
 CRUSHER: No, Data, wait a minute. Ow! No, no, you're just. Ow! Move slowly. Ow! Ow! Stop music.#
 CRUSHER: I don't understand, Data. You picked up the tap dancing so quickly.#
 CRUSHER: All right, let's try it again. And this time, watch my feet. Computer, start music. And.#
@@ -1253,7 +1262,7 @@ CRUSHER: It's a hobby.#
 CRUSHER: That's just it. I started these spores right before we were all knocked unconscious by the wormhole. You said we were unconscious for thirty seconds?#
 CRUSHER: Then why do these show a full day's growth?#
 CRUSHER: Each of these incubators was set with spores from completely different sources in the Diomedian system. I have a dozen more in the lab. Perhaps something extraordinary happened to one of them, but not to all of them.#
-CRUSHER: Jean-Luc, I'm telling you this is over twenty four hours of growth. Captain's log, supplemental. Commander Data continues to maintain that we were unconscious for only thirty seconds, despite Doctor Crusher's evidence to the contrary.#
+CRUSHER: Jean-Luc, I'm telling you this is over twenty four hours of growth.#
 CRUSHER: Captain.#
 CRUSHER: If we never went through that wormhole, then what happened to us during that day?#
 CRUSHER: A transporter trace analysis might give us another indication of how much time has actually passed.#
@@ -1329,7 +1338,7 @@ CRUSHER: The parameters are pretty broad, Data. Any match we make is going to be
 CRUSHER: You're worried about Geordi, aren't you?#
 CRUSHER: for you to feel anxiety.#
 CRUSHER: Her blood pressure's still falling. Apply the T-cell stimulator. We have got to stabilise her immune system.#
-CRUSHER: She has developed an extreme sensitivity to light. We're trying to make her as comfortable as we can. (Picard and Crusher leave Geordi to approach Susanna, who is covered in protruding blue veins on purple skin. Her eyes are green vertical slits on yellow)#
+CRUSHER: She has developed an extreme sensitivity to light. We're trying to make her as comfortable as we can.#
 CRUSHER: This is one of Susanna's altered skin cells, and this is one of the alien cells Data found.#
 CRUSHER: Jean-Luc, I think the people from Tarchannen Three who disappeared weren't abducted. I think they were transformed into another species.#
 CRUSHER: The T-cell stimulator will slow the rate of change, but until I find the cause.#
@@ -1454,7 +1463,8 @@ CRUSHER: No, Data. The relationship requires a biological being.#
 CRUSHER: I believe so. From Odan's description of the process it should be possible. But I don't have#
 CRUSHER: There's been no precedent for a human host. I couldn't guarantee what might happen.#
 CRUSHER: I've given you a local anaesthetic. You must be conscious during the implantation. Drugs might damage the symbiont.#
-CRUSHER: Laser scalpel. (She cuts up from his navel, then gets the creature from it's jar and places it on his belly. It finds its own way inside him) CRUSHER: How do you feel? Is there pain?#
+CRUSHER: Laser scalpel.#
+CRUSHER: How do you feel? Is there pain?#
 CRUSHER: Vital signs?#
 CRUSHER: I can't close yet, The assimilation's not complete.#
 CRUSHER: He's going to start fibrillating. Two hundred milligrams of metrazene.#
@@ -1489,7 +1499,7 @@ CRUSHER: That's good.#
 CRUSHER: I'll check your vital signs in the morning before the representatives get here.#
 CRUSHER: Maybe you could schedule a series of breaks.#
 CRUSHER: Yes.#
-CRUSHER: I'm not leaving. Captain's log, stardate 44824.4. Governor Leka and the representatives of the two moons are ready to transport on board. We have learned that they each have troops massed and are ready for combat if this final effort at peace is not successful.#
+CRUSHER: I'm not leaving.#
 CRUSHER: White count is back up, temperature is elevated. The effects of the medication are wearing off faster every time. I'll administer one now and hope that it will hold for an hour or two.#
 CRUSHER: Are the injections damaging to the host's body, Riker's body?#
 CRUSHER: But how can you function, conduct the meeting?#
@@ -1520,7 +1530,7 @@ CRUSHER: Is there something on your mind?#
 CRUSHER: Well, everybody goes through these occasional bouts of insomnia. There's probably nothing to worry about. Let's just make sure there's nothing physically wrong. There's a minor vascular irregularity in the visual cortex. A slight dilation of the blood vessels. It's nothing serious. What about your visor? Has it been giving you any problems lately?#
 CRUSHER: All the same, it might be a good idea to have it examined when we get to Starbase thirty six next month.#
 CRUSHER: In the meantime, I will get you a somnetic inducer to put by your bed. It'll help you to sleep.#
-CRUSHER: Let's increase the flow rate and see if that helps. (she picks up an instrument that fell to the floor as she passed the table)#
+CRUSHER: Let's increase the flow rate and see if that helps.#
 CRUSHER: Regardless of what she believes, Sela can't be her daughter. I've reviewed all of Tasha's medical records, and there is no indication that she was ever pregnant.#
 CRUSHER: Or had her appearance surgically altered.#
 CRUSHER: Captain Picard's bioscan readings are stable. The Tamarian's are not.#
@@ -1578,7 +1588,7 @@ CRUSHER: Wesley? Wesley?#
 CRUSHER: It's okay, Wesley.#
 CRUSHER: It's okay, Wesley. It won't hurt.#
 CRUSHER: You'll like it.#
-CRUSHER: That's right, Wesley. just let it go. Yes, just let yourself go. Relax. (the Bridge lights dim and Data enters. He shines a strobing flashlight into everyone's faces and they 'wake up')#
+CRUSHER: That's right, Wesley. just let it go. Yes, just let yourself go. Relax.#
 CRUSHER: We've just received a priority one distress call from the colony on Dulisian Four. A massive failure of the environmental support systems. They're going to require evacuation.#
 CRUSHER: I'm sure it's not equipped to handle something of this scale, Will.#
 CRUSHER: They're not removable, are they, Data?#
@@ -1681,7 +1691,7 @@ CRUSHER: They have the same anionic signature we saw on the biofilter scans.#
 CRUSHER: How do you feel?#
 CRUSHER: That's a good sign. Go home.#
 CRUSHER: Worf, there is no restraining field.#
-CRUSHER: I know. You can't move because one of the containers shattered seven of your vertebrae and crushed your spinal cord. I'm afraid there's no way we can repair this kind of injury. Captain's log, stardate 45587.3. Lieutenant Worf has been removed from active duty following a severe injury. Although a neuro-specialist has arrived, Doctor Crusher believes his paralysis may be permanent.#
+CRUSHER: I know. You can't move because one of the containers shattered seven of your vertebrae and crushed your spinal cord. I'm afraid there's no way we can repair this kind of injury.#
 CRUSHER: Welcome to the Enterprise, Doctor Russell. I'm Beverly Crusher.#
 CRUSHER: Of course. Send it to medlab four.#
 CRUSHER: Really? You're the first person to mention it.#
@@ -1824,7 +1834,7 @@ CRUSHER: There have been similar incidents reported all over the ship. Feelings 
 CRUSHER: I ran a scan to see if I could detect what he was seeing. I picked up miniscule distortions in the surrounding dekyon field. Somehow, his visor is translating those distortions into visual impulses.#
 CRUSHER: Crusher to Commander La Forge.#
 CRUSHER: Geordi, I just heard what sounded like voices in my room, but no one else is here.#
-CRUSHER: I'm on my way. (She grabs her lab coat and it knocks the glass of the table. Some things just have to happen.)#
+CRUSHER: I'm on my way.#
 CRUSHER: Then I wasn't just hearing things?#
 CRUSHER: Then where did the sound come from?#
 CRUSHER: Can we isolate the voices? Find out what they're saying?#
@@ -1892,7 +1902,7 @@ CRUSHER: After Paris?#
 CRUSHER: No problem. Nurse McClukidge can cover for you.#
 CRUSHER: Try to talk him into Tavena Minor. They have a cruise down the Jokri River. The iridescent currents are beautiful.#
 CRUSHER: Clara's sleeping. She's going to be fine. Her bioelectrical processes were severely disrupted. It's as if the energy were pulled right out of her body.#
-CRUSHER: I'm reading one life form, very weak signs. (they go to the square-shaped wreckage and lift a piece of metal off a body with pale skin and lots of cybernetic implants)#
+CRUSHER: I'm reading one life form, very weak signs.#
 CRUSHER: Leave him here. He won't survive.#
 CRUSHER: I don't.#
 CRUSHER: He's not dead.#
@@ -1965,7 +1975,8 @@ CRUSHER: I would travel back to a time when there were plagues and epidemics, so
 CRUSHER: Over half the victims whose neural energy had been drained came from the Sisters of Hope Infirmary.#
 CRUSHER: I'll try to manage.#
 CRUSHER: That's the bed where the man died last night.#
-CRUSHER:  Here. This'll make you more comfortable. (Picard's gas lamp detector starts flashing and Crusher's tricorder beeps. She keys her comm. badge then goes over to the slim man and woman.) CRUSHER: Do you need any help, Doctor? Doctor Apollinaire felt he had entered the algid stage. He was cyanotic, pulse unobservable. That's an interesting cane. (The 'nurse' points her bag at Crusher as Riker, La Forge and Picard rush in)#
+CRUSHER:  Here. This'll make you more comfortable.#
+CRUSHER: Do you need any help, Doctor? Doctor Apollinaire felt he had entered the algid stage. He was cyanotic, pulse unobservable. That's an interesting cane.#
 CRUSHER: Maybe they have something, a mechanism that focuses it.#
 CRUSHER: Over hill, over dale, thorough bush, thorough brier,#
 CRUSHER: My mistress would that he be gone.#
@@ -2033,7 +2044,7 @@ CRUSHER: You have a hairline fracture of the humorous. It will ache for a few da
 CRUSHER: Other than a couple of bumps and bruises, I'd say you feel fine for a man of a hundred and forty seven.#
 CRUSHER: Captain, the first thing you need to get is some rest. Now this has been a shock to your system, and I want you to not push yourself.#
 CRUSHER: I'll have someone show you your quarters.#
-CRUSHER:  Bye. Be well. (just a wary look at Worf, then Scott and Geordi go to the shuttle's rear door)#
+CRUSHER:  Bye. Be well.#
 CRUSHER: How long has this been going on?#
 CRUSHER: Well. other than some muscle tension in your neck, I don't see anything physically wrong with you. Have you been having bad dreams?#
 CRUSHER: This could be the result of lack of REM sleep.#
@@ -2055,7 +2066,8 @@ CRUSHER: This should be enough to ward off their neuro-sedative for about twelve
 CRUSHER: It's going to have to be. I can't risk giving you a higher dosage.#
 CRUSHER: Your transcript is very impressive. She's done honours work in neurobiology, plasma dynamics, and eco-regeneration. I'd say that's pretty well rounded.#
 CRUSHER: I've arranged to have you work in all the major departments while you're here, and I'm willing to bet that by the time it's over you'll have a pretty good idea what field you're interested in.#
-CRUSHER: See all these readouts? That's your heart rate, your blood pressure all your vital signs. You're in good shape. You might just live to be my age. CRUSHER: Now, all these tricorders need to be tested before they get put in the supply containers that we're taking to Tagra.#
+CRUSHER: See all these readouts? That's your heart rate, your blood pressure all your vital signs. You're in good shape. You might just live to be my age.#
+CRUSHER: Now, all these tricorders need to be tested before they get put in the supply containers that we're taking to Tagra.#
 CRUSHER: Any unit that doesn't, put it aside and we'll do a diagnostic on it later.#
 CRUSHER: I hear you've been accepted to the Academy. I have a son there.#
 CRUSHER: No, not as often as I'd like.#
@@ -2092,7 +2104,8 @@ CRUSHER: That explains this data. I needed to know the rates of mitosis. By arti
 CRUSHER: Why did you interfere with what she was doing?#
 CRUSHER: She has asked not to be treated differently.#
 CRUSHER: I don't interfere with what you're teaching her.#
-CRUSHER: I don't think it's too much to ask for you to do the same. (Beverly is suddenly turned into a red setter dog. Amanda restores her to human) CRUSHER: And you stay out of mine.#
+CRUSHER: I don't think it's too much to ask for you to do the same.#
+CRUSHER: And you stay out of mine.#
 CRUSHER: Hello, Amanda. Are you ready?#
 CRUSHER: So, how are your lessons going? Is Q being patient with you? Amanda?#
 CRUSHER: I don't know if we should. It almost seems cruel.#
@@ -2169,7 +2182,7 @@ CRUSHER: I distracted you. I'm sorry.#
 CRUSHER: What?#
 CRUSHER: I thought this was just a simulation.#
 CRUSHER: And then replicated the correct tool to eliminate the false overload signal.#
-CRUSHER: The exocomp didn't fail the test, it saw right through it. Captain's log, stardate 46317.8. At Doctor Farallon's request, I have agreed to tour the station and assess the situation personally. I must decide soon whether it is in Starfleet's best interest to recommend the particle fountain as a reliable technology.#
+CRUSHER: The exocomp didn't fail the test, it saw right through it.#
 CRUSHER: Which is where exactly?#
 CRUSHER: Sorry. I was concentrating on getting away from the last Cardassian. Or maybe it was the falling rocks.#
 CRUSHER: All right, let's do it again.#
@@ -2180,7 +2193,7 @@ CRUSHER: That's why metagenics and other biological weapons were outlawed years 
 CRUSHER: So they could activate the toxins after the launch, thereby preventing any accidental exposure.#
 CRUSHER: And if they are?#
 CRUSHER: You know, I heard that Solok was quite a man.#
-CRUSHER: That's why we came here, because only Solok could help us. I guess there's some things even Solok can't do. It's too bad. (stroking Solok's lob) Because if he could, I would be very, very#
+CRUSHER: That's why we came here, because only Solok could help us. I guess there's some things even Solok can't do. It's too bad.  Because if he could, I would be very, very#
 CRUSHER: Grateful.#
 CRUSHER: Right. I'm picking up some subspace signals, but I can't seem to get a lock on them.#
 CRUSHER: You're not afraid of bats, are you, Worf?#
@@ -2192,8 +2205,9 @@ CRUSHER: I don't suppose we'll be able to find another way to get back up there.
 CRUSHER: That's what I thought.#
 CRUSHER: I think so. Next time, you try bring up the rear.#
 CRUSHER: I can't get a scan from the other side of the hatch. It's been shielded.#
-CRUSHER: There's no one here. There's no lab. PICARD: It's a trap. Come on. (there is weapons fire, then the door starts to close. Worf blocks it with his body. Beverly squeezes through but Picard is in hand-to-hand combat)#
-CRUSHER: Let's go. WORF: The Captain. CRUSHER: No. There are five more of them heading this way from another tunnel. Come on. Now!#
+CRUSHER: There's no one here. There's no lab.#
+CRUSHER: Let's go.#
+CRUSHER: No. There are five more of them heading this way from another tunnel. Come on. Now!#
 CRUSHER: Let's go.#
 CRUSHER: No! There are five more of them heading this way from another tunnel.#
 CRUSHER: There was no chance to go back for the Captain. We barely made it back to the Ferengi cargo ship ourselves.#
@@ -2217,7 +2231,7 @@ CRUSHER: And there's still the question of what happened to Lieutenant Rocha.#
 CRUSHER: We presumed you were dead. Your blood stains were found at the murder scene.#
 CRUSHER: I can't confirm that. Until we're able to separate the cellular residue from the deck plate, I won't be able to do a clear DNA scan.#
 CRUSHER: All right. Initiate the resonance frequency burst.#
-CRUSHER: I'm starting to get a stable DNA scan. This is odd. The nucleotide sequences are starting to fluctuate. The DNA is becoming mobile. Let's try another frequency burst, but increase the resonance level by twenty percent. (the orange gloop reaches out and touches Beverly's hand, then turns into a copy of that hand)#
+CRUSHER: I'm starting to get a stable DNA scan. This is odd. The nucleotide sequences are starting to fluctuate. The DNA is becoming mobile. Let's try another frequency burst, but increase the resonance level by twenty percent.#
 CRUSHER: It's an exact reproduction of my hand, right down to the DNA structure.#
 CRUSHER: When I infused the matter with a resonance frequency burst, it activated its DNA. Then it touched my hand and it began to mimic my cellular structure.#
 CRUSHER: This is going to sound very farfetched, but have you ever heard of a coalescent organism?#
@@ -2232,7 +2246,7 @@ CRUSHER: Well, maybe he finally realised he made a mistake.#
 CRUSHER: That about does it. How does it feel to have your own face back?#
 CRUSHER: Bring the stasis units in here, and have them online.#
 CRUSHER: Tell Doctor Selar she can use ward three for the ambulatory cases, and I'll stay here.#
-CRUSHER: Acknowledged. Stand clear and be ready. (Worf is carrying Picard, Riker and a security man have their phasers out, and a security woman is supporting an injured colleague)#
+CRUSHER: Acknowledged. Stand clear and be ready.#
 CRUSHER: What happened?#
 CRUSHER: He's in cardiac arrest. Connect the pulmonary support units. He's got internal haemorrhaging. The bioregulator of his artificial heart's been fused. He's got liver and spleen damage. What kind of weapon caused this?#
 CRUSHER: Forty cc's inaprovaline. The activity in the isocortex is falling. Cortical stimulators. Now.  Again. His respiratory system is shutting down. The levels in the isocortex are still falling. Damn. Prepare a four percent series#
@@ -2246,8 +2260,9 @@ CRUSHER: Of course.#
 CRUSHER: There's no permanent damage. I've adjusted the optical transducer in his visor to block some of the pain receptors in his brain. It's only partially effective. I need to get him to a medical facility.#
 CRUSHER: A hypersonic pulse would overload the audio receptors of everyone in the room. It would cause immediate unconsciousness.#
 CRUSHER: I'll try. I might need Geordi to help me through some of it.#
-CRUSHER: He's in a lot of pain, but I think he should be fine. He needs some water. Is that all right? (She goes slowly to the water fountain, where Troi can hear but not Orton or the waiter) CRUSHER:  We're almost ready. When we set the visor to emit the hypersonic pulse, there'll be a short burst of light. We need a distraction.#
-CRUSHER: Now. (an ear-splitting noise fills the room, and all the people drop. Data takes the weapons and starts work on the computer)#
+CRUSHER: He's in a lot of pain, but I think he should be fine. He needs some water. Is that all right?#
+CRUSHER:  We're almost ready. When we set the visor to emit the hypersonic pulse, there'll be a short burst of light. We need a distraction.#
+CRUSHER: Now.#
 CRUSHER: Hold still. You have got a nasty little cut here.#
 CRUSHER: Hold still. I can't heal this cleanly if you don't stop fidgeting.#
 CRUSHER: There.#
@@ -2294,9 +2309,10 @@ CRUSHER: No. There is no Loren Three sample from the data downloaded from the Pr
 CRUSHER: There's still one missing piece.#
 CRUSHER: The computer might be able to find that pattern.#
 CRUSHER: That's going to take several hours to set up and to process. If you'll excuse me.#
-CRUSHER: The computer was able to extrapolate this geometric pattern based on the distribution of the fragments. (it is a zigzag or helix with one line missing, that overlays a star chart) CRUSHER: Computer, highlight the section of the missing pattern. The missing DNA fragment should be in this system.#
+CRUSHER: The computer was able to extrapolate this geometric pattern based on the distribution of the fragments.#
+CRUSHER: Computer, highlight the section of the missing pattern. The missing DNA fragment should be in this system.#
 CRUSHER: There. Over there.#
-CRUSHER: Which would still contain the DNA. NU'DAQ: I will not be eliminated now.#
+CRUSHER: Which would still contain the DNA.#
 CRUSHER: It's a shame Professor Galen didn't live to see the end result of his search.#
 CRUSHER: If it hadn't been for you, his dream to solve that puzzle would never have been realised. You left him a wonderful legacy.#
 CRUSHER: You never know. Well, I have to get this day started.#
@@ -2326,7 +2342,7 @@ CRUSHER: Commander, do you know who I am? Do you know where you are? If you can'
 CRUSHER: There's damage to the parietal lobe. It's as if someone's trying to access his long-term memory. He's in a severe state of neural shock. It's going to take him a while to recover.#
 CRUSHER: It's minor. Don't worry about it.#
 CRUSHER: Will, try to calm down.#
-CRUSHER: Will, don't do it! (Riker fires, and the Sickbay shatters. Picard, Worf and Crusher are replaced by)#
+CRUSHER: Will, don't do it!#
 CRUSHER: Are you sure you want to do this by yourself? The stage crew and I were going to do it tomorrow morning.#
 CRUSHER: All right, come in.#
 CRUSHER: Guinan? What's wrong?#
@@ -2449,7 +2465,8 @@ CRUSHER: Let's do it again. Use the enhanced resolution mode to boost the sensit
 CRUSHER: Narrow the scan field. Tetryon traces. Someone did sabotage the shield.#
 CRUSHER: There's only one way to know for certain.#
 CRUSHER: Crusher to Enterprise. I've lost you. Come in. Justman to Enterprise. Come in.#
-CRUSHER: Enterprise, do you hear me? Come in. JO'BRIL: They cannot hear you. I have severed communications. CRUSHER: How can you be alive?#
+CRUSHER: Enterprise, do you hear me? Come in.#
+CRUSHER: How can you be alive?#
 CRUSHER: The slow rate of cellular decay.#
 CRUSHER: In the morgue, you were conscious the whole time. You heard everything we said. You knew everything we were going to do.#
 CRUSHER: What are you doing?#
@@ -2584,7 +2601,7 @@ CRUSHER: If we take him off too abruptly, he'll go into neural shock.#
 CRUSHER: We could disconnect the interface and still maintain the input levels.#
 CRUSHER: Almost.#
 CRUSHER: Switching inputs.#
-CRUSHER: His vital signs are stabilising. He's going to make it. Captain's log, supplemental. We have succeeded in disengaging Mister La Forge from the interface and are en route to Starbase four nine five.#
+CRUSHER: His vital signs are stabilising. He's going to make it.#
 CRUSHER: I'm sorry, but I think he wants to stay. Sit down.#
 CRUSHER: I'm picking up some Starfleet fibre traces and human cellular debris.#
 CRUSHER: There's something strange here. The cell structures are badly distorted. It's as if they've been exposed to some kind of high-energy field.#
@@ -2598,11 +2615,12 @@ CRUSHER: Worf, we're on pretty shaky ground as it is. We can't just#
 CRUSHER: You could say that.#
 CRUSHER: In the Observation lounge with Data and Troi.#
 CRUSHER: Deanna, you're in Sickbay. It's all right.#
-CRUSHER: He's not here. Just try to relax. This vascular pad has healed the wound, but you've lost a lot of blood so I would like you to lie still for a while. (Crusher removes the device from Troi's shoulder, and there's a mark underneath) CRUSHER: That's odd. There shouldn't be any discoloration after the treatment. This looks like some sort of rash.#
+CRUSHER: He's not here. Just try to relax. This vascular pad has healed the wound, but you've lost a lot of blood so I would like you to lie still for a while.#
+CRUSHER: That's odd. There shouldn't be any discoloration after the treatment. This looks like some sort of rash.#
 CRUSHER: I'm picking up cellular degradation. But it doesn't appear to be related to the lacerations. There's also some kind of residual interphasic signature. Nurse, bring me an interphasic scanner. I want to take a closer look at this.#
 CRUSHER: Captain, we have a problem. Take a look at this. Her tissue is breaking down on a cellular level and it's spreading. At first I thought it was a rash from the coil brace she was stabbed with, but when I used the interphasic scanner, I found this.#
 CRUSHER: The question is, what are they?#
-CRUSHER: I've tested all the medical staff and I've found them on almost everyone so far. The cellular decay is accelerating in all cases. I haven't found a way to stop it or even slow it down. (there's one on Riker's temple) Looks like you're infected too. The organisms appear to be attached to our epidermal layers with osmotic tendrils. They're tapping directly into the bloodstream. (Picard has one on his throat) And from what I can tell, they're spreading.#
+CRUSHER: I've tested all the medical staff and I've found them on almost everyone so far. The cellular decay is accelerating in all cases. I haven't found a way to stop it or even slow it down.  Looks like you're infected too. The organisms appear to be attached to our epidermal layers with osmotic tendrils. They're tapping directly into the bloodstream.  And from what I can tell, they're spreading.#
 CRUSHER: Yes, in a very particular way. They appear to be extracting our cellular peptides. It's roughly analogous to the way terran leeches consume haemoglobin. If they're not removed soon, our bodies are going to lose all their cellular cohesion. We'll collapse into nothing but a few pounds of chemicals.#
 CRUSHER: No. I scanned him, but I found nothing.#
 CRUSHER: Do you want some? It's delicious.#
@@ -2686,7 +2704,8 @@ CRUSHER: I'm sorry. I'm sorry. I just couldn't resist.#
 CRUSHER: Well at least I've trained myself not to say it anymore. When I was a little girl, my mouth was always landing me in trouble with my parents, my teachers.#
 CRUSHER: That's right. I had one date with him which I brought to an abrupt halt with the words, is that a beard or#
 CRUSHER: Yes. I thought I was being cute but I really hurt him. That was a long time ago. I learned a valuable lesson.#
-CRUSHER: Very. We'd better get going. (they slither down a loose rock slope then duck behind cover when they see a Prytt soldier on the next ridge) CRUSHER: I don't think so, either. Maybe we can find another way to reach the village.#
+CRUSHER: Very. We'd better get going.#
+CRUSHER: I don't think so, either. Maybe we can find another way to reach the village.#
 CRUSHER: I'm beginning to think there's not a single thing on this planet we can eat.#
 CRUSHER: Remember that Vulcan dish I promised you for breakfast? I was just. You hate having breakfast with me.#
 CRUSHER: Yes, it is. When I said breakfast, I heard you say, I hate that.#
@@ -2704,13 +2723,14 @@ CRUSHER: Well, we still have a lot of ground to cover tomorrow. We should get so
 CRUSHER: Let's go.#
 CRUSHER: I think I can use the tricorder to set up a multiphase pulse. That should weaken the field enough to let us through.#
 CRUSHER: Right.#
-CRUSHER: I'm working as fast as I can. (a hole appears and Beverly pushes Picard through, then it closes and the soldiers arrive)#
+CRUSHER: I'm working as fast as I can.#
 CRUSHER: That was wonderful.#
 CRUSHER: Don't get me wrong, Jean-Luc, but I'm glad we're not joined at the hip anymore.#
 CRUSHER: Just tired of bumping into you every thirty seconds. I was beginning to feel as if you were part of my uniform.#
 CRUSHER: Freedom. Penny for your thoughts?#
 CRUSHER: So do I. It was very intimate. You know, last night I couldn't sleep.#
 CRUSHER: I was awake for several hours. And thanks to the implants, I got to hear some very interesting dreams of yours.#
+CRUSHER: What about when he's awake?#
 CRUSHER: What do you mean?#
 CRUSHER: No, I don't. The implant's been removed, remember?#
 CRUSHER: Or perhaps we should be afraid. I think I should be going now.#
@@ -2775,7 +2795,7 @@ CRUSHER: Very well. I loved her very much. I can remember her face smiling down 
 CRUSHER: It's a family heirloom. It's been in the Howard clan for generations. It's supposed to symbolise the enduring Howard spirit. Wherever they may go, the shining light to guide them through their fortune. Nana always kept it lit. I remember sitting here listening to ghost stories with only the candle burning.#
 CRUSHER: I think I will.#
 CRUSHER: You don't have to leave.#
-CRUSHER: Thanks. (Troi leaves. Beverly wraps herself in a blanked and goes upstairs reading Felicia's journal)#
+CRUSHER: Thanks.#
 CRUSHER: What the hell are you doing? Get out of my house.#
 CRUSHER: How do you know who I am?#
 CRUSHER: Nana never mentioned you.#
@@ -2799,7 +2819,8 @@ CRUSHER: Haunted?#
 CRUSHER: Why not?#
 CRUSHER: Ned, the weather systems control is malfunctioning. The Enterprise is trying to repair it.#
 CRUSHER: I think your imagination is#
-CRUSHER: Who's there? Ned? Is that you? Hello? I know somebody's here, so I suggest you (a mirror bounced against the wall. She removes it and is about to put it back when she sees the reflection of a man behind her. She drops the mirror, but there is no one there) CRUSHER: All right now, that's it. If you don't show yourself right now I am calling the Enterprise and there will be ten security guards here within thirty seconds.#
+CRUSHER: Who's there? Ned? Is that you? Hello? I know somebody's here, so I suggest you#
+CRUSHER: All right now, that's it. If you don't show yourself right now I am calling the Enterprise and there will be ten security guards here within thirty seconds.#
 CRUSHER: Who are you?#
 CRUSHER: No, that was a dream. I'm calling the Enterprise.#
 CRUSHER: Yes. What's, what's happening to me? Right now I feel so strange.#
@@ -2830,7 +2851,8 @@ CRUSHER: No. I have some things I need to attend to.#
 CRUSHER: Ronin, I've got to talk to you. Are you here?#
 CRUSHER: Yes. But I must talk to you. There's been an accident.#
 CRUSHER: Why did it happen? What was he doing?#
-CRUSHER: Ronin, I've got to know. Quint's dead. (a hand reaches round and cups her face. His touch sends her all unnecessary, and he maintains the contact all the time) CRUSHER: Ronin?#
+CRUSHER: Ronin, I've got to know. Quint's dead.#
+CRUSHER: Ronin?#
 CRUSHER: Help you?#
 CRUSHER: Quint said you lived in the candle. Is that true?#
 CRUSHER: The candle's on the ship. I'll go get it.#
@@ -2924,6 +2946,7 @@ CRUSHER: Three, maybe four hours.#
 CRUSHER: Maybe you were seeing it through his eyes?#
 CRUSHER: What does it all mean?#
 CRUSHER: I could give you an inhibitor that would slow the brain's production of psilosynine. That might be able to suppress your empathic abilities and make the experience more manageable. It would take about sixteen hours to synthesise the inhibitor.#
+CRUSHER: I've synthesised the inhibitor. Please come to Sickbay whenever you're ready.#
 CRUSHER: This should take effect immediately.#
 CRUSHER: It's hard to say for sure, but I can always increase the dosage if it's not enough.#
 CRUSHER: This dosage should prevent any further empathic flashes.#
@@ -2950,7 +2973,7 @@ CRUSHER: Alyssa?#
 CRUSHER: Oh, Alyssa, that's wonderful! How did Andrew take the news?#
 CRUSHER: Your temperature has dropped almost eight degrees. I want to run a hypothalamic series right away.#
 CRUSHER: Call Doctor Selar and Doctor Hacopian. It looks like we've got some sort of viral infection going on around here. I want to check on Lieutenant Worf.#
-CRUSHER: Worf, have you had any unusual symptoms lately? Headaches, nausea, dizziness? Worf? Worf, do you hear me? I going to run a full bioscan. I want you to lie down.  Okay, we can do this sitting up. What is this? (a growth on his jaw line) Worf, how long have you had this on your neck? It looks like it's full of some bioacidic compound, almost like a venom sac. Worf, open your mouth. (Worf opens his mouth and sprays venom into Beverly's face. She collapses, screaming in pain and Worf escapes)#
+CRUSHER: Worf, have you had any unusual symptoms lately? Headaches, nausea, dizziness? Worf? Worf, do you hear me? I going to run a full bioscan. I want you to lie down.  Okay, we can do this sitting up. What is this?  Worf, how long have you had this on your neck? It looks like it's full of some bioacidic compound, almost like a venom sac. Worf, open your mouth.#
 CRUSHER: No. In a way it's mine. I didn't realise it at the time, but there's an anomaly in your genetic chemistry that caused the synthetic T-cell to mutate. Instead of activating one dormant gene, it started activating all of them, including your introns.#
 CRUSHER: You and every other member of the crew. The T-cell became airborne and started to spread like a virus. You know, Reg, this is a completely new disease, and it's traditional to classify a new disease with the name of the first diagnosed patient.#
 CRUSHER: That's right. How about Barclay's Protomorphosis Syndrome?#
@@ -2959,7 +2982,7 @@ CRUSHER: Here you are, your very own quarters. They're as far away from mine as 
 CRUSHER: You don't have to explain. There comes a time in a young man's life when he doesn't want to stay with his poor senile mother. I understand.#
 CRUSHER: Well, I think we'd better let you settle in.#
 CRUSHER: It's good to have you home, son.#
-CRUSHER: Really. (Beverly leaves, Wesley sighs and sits on his bed, obviously unhappy about something)#
+CRUSHER: Really.#
 CRUSHER: Ever since you've come on board you've been moody, sullen and rude. What's going on?#
 CRUSHER: That incident in Engineering was inexcusable.#
 CRUSHER: I shouldn't have to. You're a fourth year Starfleet cadet. You should have a certain level of maturity.#
@@ -3002,7 +3025,7 @@ CRUSHER: Yes. It's about Jason. I've finished the microcellular scan I was runni
 CRUSHER: It isn't really the train itself that I'm interested in.#
 CRUSHER: It's the experience. The Orient Express is romantic, mysterious, an elegant way to see exotic places and meet fascinating people. Do you know that one time, on one trip, both Sigmund Freud and Gertrude Stein just happened to be in the same car? They ended up having dinner together every night.#
 CRUSHER: Why don't you take a trip yourself and find out?#
-CRUSHER: Don't forget the trip, Jean-Luc. Think about it. You never know who you'll meet on the Orient Express. Captain's log, stardate 47869.2. After weathering an unexpected magnascopic storm in the Mekorda Sector, we are continuing our search for new Federation colony sites.#
+CRUSHER: Don't forget the trip, Jean-Luc. Think about it. You never know who you'll meet on the Orient Express.#
 CRUSHER: How does that explain what's happening to the Enterprise?#
 CRUSHER: In a sense, it almost reproduces with the replicators.#
 CRUSHER: The characters you spoke to, do they have any significance?#
@@ -3045,7 +3068,7 @@ CRUSHER: But didn't Q say you already had caused it?#
 CRUSHER: Hello, Worf. It's been a long time.#
 CRUSHER: Have you had a chance to read our request?#
 CRUSHER: Inform transporter room two to beam the Governor aboard. I must make one thing very clear, Jean-Luc. If we run into any serious opposition, I'm taking us back into Federation territory. We aren't well armed and wouldn't last long in a fight.#
-CRUSHER: All right. Set course for the Devron system, warp thirteen. Once more, for old time's sake?#
+CRUSHER: All right. Set course for the Devron system, warp thirteen.  Once more, for old time's sake?#
 CRUSHER: There's nothing here, Jean-Luc.#
 CRUSHER: We should head back to Federation territory.#
 CRUSHER: Wait a minute. Data, how long would this take?#

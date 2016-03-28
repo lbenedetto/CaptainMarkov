@@ -1,54 +1,31 @@
 Episode Number: 202
 The Next Generation Transcripts - Darmok
 Darmok
-Stardate:
-45047.2
+Stardate: 45047.2
 Original Airdate: 30 Sep, 1991
- 
-Captain's log, stardate 45047.2. The Enterprise is en route to the
-uninhabited El-Adrel system, its location is near the territory
-occupied by an enigmatic race known as The Children of Tama.
+Captain's log, stardate 45047.2. The Enterprise is en route to the uninhabited El-Adrel system, its location is near the territory occupied by an enigmatic race known as The Children of Tama. 
 [Observation lounge]
-PICARD: Apparently the Tamarians apparently at
-El-Adrel Four nearly three weeks ago. They have been transmitting a
-subspace signal towards Federation space ever since. 
-DATA: The signal is a standard mathematical progression. It does not
-carry a specific message. 
+PICARD: Apparently the Tamarians apparently at El-Adrel Four nearly three weeks ago. They have been transmitting a subspace signal towards Federation space ever since. 
+DATA: The signal is a standard mathematical progression. It does not carry a specific message. 
 RIKER: But they wanted us to know they were there. 
-PICARD: Apparently so, Number One. Starfleet believes that their
-presence is an attempt at communication. Commander. 
-DATA: Federation vessels have encountered Tamarian ships seven times
-over the past one hundred years. Each meeting went without incident,
-however formal relations were not established because communication was
-not possible. 
+PICARD: Apparently so, Number One. Starfleet believes that their presence is an attempt at communication. Commander. 
+DATA: Federation vessels have encountered Tamarian ships seven times over the past one hundred years. Each meeting went without incident, however formal relations were not established because communication was not possible. 
 RIKER: Why? 
-DATA: The Children of Tama were called incomprehensible by Captain
-Silvestri of the Shiku Maru. Other accounts were comparable. 
-WORF: A cause for concern. For all we know, they could be threatening
-our border. 
-TROI: Everything in the previous encounters suggests a peaceable race.
-We have to start from there. 
-PICARD: Agreed. I appreciate your prudence, Mister Worf, but Starfleet
-believes that the Tamarians have extended a hand. We must do the same. 
+DATA: The Children of Tama were called incomprehensible by Captain Silvestri of the Shiku Maru. Other accounts were comparable. 
+WORF: A cause for concern. For all we know, they could be threatening our border. 
+TROI: Everything in the previous encounters suggests a peaceable race. We have to start from there. 
+PICARD: Agreed. I appreciate your prudence, Mister Worf, but Starfleet believes that the Tamarians have extended a hand. We must do the same. 
 RIKER: The Children of Tama. I've heard rumours about them for years. 
-PICARD: Indeed. Are they truly incomprehensible? In my experience,
-communication is a matter of patience, imagination. I would like to
-believe these are qualities we have in sufficient measure.
+PICARD: Indeed. Are they truly incomprehensible? In my experience, communication is a matter of patience, imagination. I would like to believe these are qualities we have in sufficient measure. 
 [Bridge]
-DATHON [on viewscreen]: Rai and Jiri at Lungha. Rai
-of Lowani. Lowani under two moons. Jiri of Ubaya. Ubaya of crossed
-roads at Lungha. Lungha, her sky grey. Rai and Jiri at Lungha. 
+DATHON [on viewscreen]: Rai and Jiri at Lungha. Rai of Lowani. Lowani under two moons. Jiri of Ubaya. Ubaya of crossed roads at Lungha. Lungha, her sky grey. Rai and Jiri at Lungha. 
 PICARD: Counsellor? 
 TROI: I'm sense nothing but good intentions from them, Captain. 
 PICARD: Mister Data? 
-DATA: The Tamarian seems to be stating the proper names of individuals
-and locations. 
+DATA: The Tamarian seems to be stating the proper names of individuals and locations. 
 PICARD: Yes, but what does it all mean? 
 DATA: I am at a loss, sir. 
-PICARD: Captain, would you be prepared to consider the creation of a
-mutual non-aggression pact between our two peoples, possibly leading to
-a trade agreement and cultural interchange. Does this sound like a
-reasonable course of action to you? 
+PICARD: Captain, would you be prepared to consider the creation of a mutual non-aggression pact between our two peoples, possibly leading to a trade agreement and cultural interchange. Does this sound like a reasonable course of action to you? 
 (the Tamarian crew find this funny) 
 TAMARIAN [on viewscreen]: Kadir beneath Mo Moteh. 
 DATHON [on viewscreen]: The river Temarc! In winter. 
@@ -56,8 +33,7 @@ DATHON [on viewscreen]: The river Temarc! In winter.
 PICARD: Impressions, Number One? 
 RIKER: It appears they're trying their best. 
 PICARD: As are we. For what it's worth. 
-DATHON [on viewscreen]: Shaka, when the walls fell. (to his officer)
-Darmok. 
+DATHON [on viewscreen]: Shaka, when the walls fell. (to his officer) Darmok. 
 TAMARIAN [on viewscreen]: (aghast) Darmok? Rai and Jiri at Lungha! 
 DATHON [on viewscreen]: Shaka. When the walls fell. 
 TAMARIAN [on viewscreen]: Zima at Anzo. Zima and Bakor. 
@@ -66,204 +42,141 @@ TAMARIAN [on viewscreen]: Shaka! Mirab, his sails unfurled.
 DATHON [on viewscreen]: Darmok. 
 TAMARIAN [on viewscreen]: Mirab. 
 DATHON [on viewscreen]: Temarc! The river Temarc. 
-(Dathon takes his aides dagger, and his own, and holds them
-out);
+(Dathon takes his aides dagger, and his own, and holds them out);
 DATHON [on viewscreen]: Darmok and Jalad at Tanagra. 
 (Dathon beams away, then Picard) 
-RIKER: Block their transporter with the shields! Extend to maximum
-range! 
+RIKER: Block their transporter with the shields! Extend to maximum range! 
 WORF: Not enough time. 
 RIKER: Where is he? 
-DATA: The Tamarians have transported Captain Picard to the planet
-surface along with their own captain. 
+DATA: The Tamarians have transported Captain Picard to the planet surface along with their own captain. 
 RIKER: Riker to O'Brien. 
-DATA: It will not be possible to transport, sir. The Tamarian ship has
-created a particle scattering field on the planet's ionosphere. 
-RIKER: Riker to Captain Picard. Captain, do you read me? Can we
-compensate? 
-DATA: No, sir. The Tamarians are projecting a particle sustaining beam
-into the upper atmosphere. The result is a hyperionisation that
-virtually disrupts all EM and subspace carriers. 
-RIKER: Then they can't communicate with their man either. They won't be
-able to beam anyone through the field. 
-DATA: That is correct. However, they have left sensor frequencies
-clear. 
-RIKER: Then they'll be able to tell what's going on. Analysis, Mister
-Worf. What the hell is going on? 
-WORF: A contest, perhaps. Between champions. Our captain against
-theirs. 
-RIKER: Theirs was armed.
+DATA: It will not be possible to transport, sir. The Tamarian ship has created a particle scattering field on the planet's ionosphere. 
+RIKER: Riker to Captain Picard. Captain, do you read me? Can we compensate? 
+DATA: No, sir. The Tamarians are projecting a particle sustaining beam into the upper atmosphere. The result is a hyperionisation that virtually disrupts all EM and subspace carriers. 
+RIKER: Then they can't communicate with their man either. They won't be able to beam anyone through the field. 
+DATA: That is correct. However, they have left sensor frequencies clear. 
+RIKER: Then they'll be able to tell what's going on. Analysis, Mister Worf. What the hell is going on? 
+WORF: A contest, perhaps. Between champions. Our captain against theirs. 
+RIKER: Theirs was armed. 
 [Planet surface]
-(birds are twittering, the meadow flowers are tall.
-Dathon is holding the two daggers at arms length) 
+(birds are twittering, the meadow flowers are tall. Dathon is holding the two daggers at arms length) 
 DATHON: Darmok and Jalad. 
 PICARD: You want to fight with me? Is that it? A challenge? 
 DATHON: Darmok and Jalad. 
-PICARD: I don't know who or what Darmok and Jalad are, but I certainly
-didn't come here to start a war. 
+PICARD: I don't know who or what Darmok and Jalad are, but I certainly didn't come here to start a war. 
 DATHON: Darmok and Jalad at Tanagra. 
-(Dathon throws a dagger towards Picard's feet. Picard picks it up and
-throws it back) 
+(Dathon throws a dagger towards Picard's feet. Picard picks it up and throws it back) 
 PICARD: Sorry, Captain. 
 DATHON: Shaka. When the walls fell. 
-(he picks up the dagger and backs away)
+(he picks up the dagger and backs away) 
 [Bridge]
-DATA: Sensors show Captain Picard and the Tamarian
-in apparent good health, approximately twenty metres from each other. 
+DATA: Sensors show Captain Picard and the Tamarian in apparent good health, approximately twenty metres from each other. 
 RIKER: Hail the Tamarian ship. 
 WORF: On screen. 
 RIKER: You are holding our captain. I want him released. 
 TAMARIAN [on viewscreen]: Darmok at Tanagra. 
 RIKER: Your action could be interpreted as an act of war. 
-TAMARIAN [on viewscreen]: Kiteo. His eyes closed. Chenza at court. The
-court of silence. Chenza! 
+TAMARIAN [on viewscreen]: Kiteo. His eyes closed. Chenza at court. The court of silence. Chenza! 
 RIKER: Is there any way to get through to them? 
 DATA: Not without further study. 
 RIKER: Close the channel, Mister Worf. 
 WORF: Gladly, sir. 
-RIKER: Worf, I want you to assemble a security team, take a shuttle
-down to the planet, bring back the captain. 
+RIKER: Worf, I want you to assemble a security team, take a shuttle down to the planet, bring back the captain. 
 WORF: Aye, Commander. 
 DATA: Sir, the Tamarians are fully capable of stopping a shuttle. 
-RIKER: I'm aware of that. But disrupting our transporter beam and
-firing on a shuttle are two entirely different things. I'm betting
-they're not going to push it that far.
+RIKER: I'm aware of that. But disrupting our transporter beam and firing on a shuttle are two entirely different things. I'm betting they're not going to push it that far. 
 [Planet surface]
-(it is night. Dathon has lit a cozy fire while
-Picard is only just getting his started when it goes out) 
+(it is night. Dathon has lit a cozy fire while Picard is only just getting his started when it goes out) 
 DATHON: Shaka. When the walls fell. 
-PICARD: Shaka indeed. What now, Captain? Will you attack me in my
-sleep? If I don't freeze to death first. 
+PICARD: Shaka indeed. What now, Captain? Will you attack me in my sleep? If I don't freeze to death first. 
 DATHON: Darmok of Kanza. Jalad of the Kituay. 
-PICARD: Picard of the Federation. Of the starship Enterprise. Of the
-planet Earth. 
+PICARD: Picard of the Federation. Of the starship Enterprise. Of the planet Earth. 
 DATHON: Kadir beneath Mo Moteh. 
-(he casts some runes to make his mind up then lies down to sleep with
-his dagger. But Picard is pacing. Dathon gets up and throws a flaming
-brand towards him) 
+(he casts some runes to make his mind up then lies down to sleep with his dagger. But Picard is pacing. Dathon gets up and throws a flaming brand towards him) 
 DATHON: Temba. 
 PICARD: Temba? What does that mean? Fire? Does Temba mean fire? 
 DATHON: Temba. His arms wide. 
-PICARD: Temba is a person? His arms wide. Because he's holding them
-apart in, in generosity. In giving. In taking. 
+PICARD: Temba is a person? His arms wide. Because he's holding them apart in, in generosity. In giving. In taking. 
 DATHON: Temba. His arms wide. 
 (Picard accepts the gift of fire, and Dathon smiles) 
-PICARD: Thank you. Thank you.
-First Officer's log, supplemental. I am sending a
-shuttlecraft to find Captain Picard, gambling that the Tamarians will
-sit tight rather than risk an exchange of phaser fire. 
+PICARD: Thank you. Thank you. 
+First Officer's log, supplemental. I am sending a shuttlecraft to find Captain Picard, gambling that the Tamarians will sit tight rather than risk an exchange of phaser fire. 
 [Shuttlecraft]
-WORF: The positron density is point zero one three.
+WORF: The positron density is point zero one three. 
 [Bridge]
-WORF [OC]: Electron concentration seven point nine
-five. Particle gradient, four over seven. We are two hundred and fifty
-kilometres from the planet's surface. 
-DATA: Commander, the shuttle has reached the E region of the planet's
-ionosphere. 
+WORF [OC]: Electron concentration seven point nine five. Particle gradient, four over seven. We are two hundred and fifty kilometres from the planet's surface. 
+DATA: Commander, the shuttle has reached the E region of the planet's ionosphere. 
 RIKER: How long can we maintain communication? 
-DATA: The scattering layer induced by the Tamarians is concentrated in
-the upper D region. The shuttle will reach that area in approximately
-two minutes. 
+DATA: The scattering layer induced by the Tamarians is concentrated in the upper D region. The shuttle will reach that area in approximately two minutes. 
 RIKER: The Tamarian ship? 
 DATA: Unchanged, sir. They appear to be making no attempt to stop us. 
 RIKER: Maybe we called their bluff. Status, Mister Worf. 
 WORF [OC]: Navigational, life-support, propulsion normal. 
 [Shuttlecraft]
-WORF: Onboard systems do not appear to be disrupted
-by the field, but I can barely read you, Commander. 
+WORF: Onboard systems do not appear to be disrupted by the field, but I can barely read you, Commander. 
 RIKER [OC]: Acknowledged. Maintain 
 [Bridge]
-RIKER: Communications as long as conditions permit.
-DATA: Commander. I am reading a power surge in the Tamarian plasma
-reactor. 
+RIKER: Communications as long as conditions permit. 
+DATA: Commander. I am reading a power surge in the Tamarian plasma reactor. 
 RIKER: Lieutenant Worf! Evasive manoeuvre sequence delta! 
 [Shuttlecraft]
-RIKER [OC]: Manoeuvre sequence delta.
+RIKER [OC]: Manoeuvre sequence delta. 
 [Bridge]
 DATA: Commander, the shuttle has been hit. 
 RIKER: Damage? 
 DATA: The starboard nacelle has been rendered inoperable. 
-RIKER: That's all? Riker to Worf.
+RIKER: That's all? Riker to Worf. 
 [Shuttlecraft]
 RIKER [OC]: Report. 
-WORF: Starboard thrusters destroyed. I may be able to land but I will
-not be able to take off.
-RIKER [OC]: Understood. Return to the Enterprise, Mister Worf. 
-WORF: Aye, sir.
+WORF: Starboard thrusters destroyed. I may be able to land but I will not be able to take off. RIKER [OC]: Understood. Return to the Enterprise, Mister Worf. 
+WORF: Aye, sir. 
 [Bridge]
-RIKER: Enough to turn them back, but not enough to
-hurt them. 
-DATA: Yes, sir. The phaser pulse appears to have been carefully
-attenuated for just that effect. 
-RIKER: Nice shooting.
+RIKER: Enough to turn them back, but not enough to hurt them. 
+DATA: Yes, sir. The phaser pulse appears to have been carefully attenuated for just that effect. 
+RIKER: Nice shooting. 
 [Observation lounge]
-(Atmospheric ionisation scan 927 is on the wall
-monitor) 
-LAFORGE: I'm pretty sure I can punch up the annular confinement beam
-enough to transport the captain through the field, but it's going to
-take me at least a full day to do it. 
+(Atmospheric ionisation scan 927 is on the wall monitor) 
+LAFORGE: I'm pretty sure I can punch up the annular confinement beam enough to transport the captain through the field, but it's going to take me at least a full day to do it. 
 TROI: Captain Picard could be dead by then. 
-WORF: I do not believe so. I have confidence in his ability as a
-warrior. He will be victorious. 
-TROI: You're still assuming this is some sort of a challenge ritual. We
-can't be certain of that. 
-RIKER: Agreed. We're only making educated guesses about their
-motivations, no more than that. 
-WORF: Then why do we wait? If we attack the ship now, they will not be
-able to maintain their scattering field. 
-RIKER: Which might start a shooting match, and for all we know, a war,
-and we still might not be able to save the captain. 
+WORF: I do not believe so. I have confidence in his ability as a warrior. He will be victorious. 
+TROI: You're still assuming this is some sort of a challenge ritual. We can't be certain of that. 
+RIKER: Agreed. We're only making educated guesses about their motivations, no more than that. 
+WORF: Then why do we wait? If we attack the ship now, they will not be able to maintain their scattering field. 
+RIKER: Which might start a shooting match, and for all we know, a war, and we still might not be able to save the captain. 
 WORF: It would end this stalemate. 
-RIKER: It's too much of a risk. I'll take that course when it's the
-last one left. Who the hell are these people?
-There's got to be some way to get through to them. 
+RIKER: It's too much of a risk. I'll take that course when it's the last one left. Who the hell are these people? There's got to be some way to get through to them. 
 DATA: As I have said, with further study it may be possible 
-RIKER: Then do it. Deanna, help him. I want something by oh nine
-hundred hours.
+RIKER: Then do it. Deanna, help him. I want something by oh nine hundred hours. 
 [Planet surface]
 (Daytime, and the birds are singing again) 
 PICARD: Now, where have you gone to, my friend? 
 (Picard strolls over to Dathon's camp site) 
 PICARD: Forgive the intrusion, Captain, but I need some answers. 
-(he finds what looks like a journal, and sits down to read)
+(he finds what looks like a journal, and sits down to read) 
 [Data's quarters]
 DATHON [on monitor]: Darmok at Tanagra. 
 TAMARIAN [on monitor]: Shaka! Mirab, his sails unfurled. 
 DATHON [on monitor]: Darmok. 
 TAMARIAN [on monitor]: Mirab. 
 DATA: Freeze. Darmok. 
-TROI: Darmok. Well, it seems to be a point of contention between them.
-Perhaps something the Tamarian captain proposed that the First Officer
-didn't like. 
-DATA: The apparent emotional dynamic does seem to support that
-assumption. As with the other terms used by the Tamarian, this appears
-to be a proper noun. The name clearly carries a meaning for them. 
-TROI: Computer, search for the term Darmok in all linguistic databases
-for this sector. 
-COMPUTER: Searching. Darmok is the name of a seventh dynasty emperor on
-Kanda Four. A mytho-historical hunter on Shantil Three. A colony on
-Malindi Seven. A frozen dessert on Tazna Five. A 
+TROI: Darmok. Well, it seems to be a point of contention between them. Perhaps something the Tamarian captain proposed that the First Officer didn't like. 
+DATA: The apparent emotional dynamic does seem to support that assumption. As with the other terms used by the Tamarian, this appears to be a proper noun. The name clearly carries a meaning for them. 
+TROI: Computer, search for the term Darmok in all linguistic databases for this sector. 
+COMPUTER: Searching. Darmok is the name of a seventh dynasty emperor on Kanda Four. A mytho-historical hunter on Shantil Three. A colony on Malindi Seven. A frozen dessert on Tazna Five. A 
 TROI: Stop search. Computer, how many entries are there for Darmok? 
 COMPUTER: Forty seven. 
-TROI: All our technology and experience, our universal translator, our
-years in space, contacts with more alien cultures than I can even
-remember. 
-DATA: I have encountered one thousand, seven hundred fifty four
-non-human races during my tenure with Starfleet. 
+TROI: All our technology and experience, our universal translator, our years in space, contacts with more alien cultures than I can even remember. 
+DATA: I have encountered one thousand, seven hundred fifty four non-human races during my tenure with Starfleet. 
 TROI: And we still can't even say hello to these people. 
 DATA: Correct. 
-TROI: A single word can lead to tragedy. One word misspoken or
-misunderstood. And that could happen here, Data, if we fail. 
+TROI: A single word can lead to tragedy. One word misspoken or misunderstood. And that could happen here, Data, if we fail. 
 DATA: Replay at time index one four four. 
 DATHON [on monitor]: Darmok at Tanagra. 
 DATA: Freeze. Computer, search for the term Tanagra. All databases. 
-COMPUTER: Searching. Tanagra. The ruling family on Gallos Two. A
-ceremonial drink on Lerishi Four. An island-continent on Shantil Three 
-TROI: Stop. Shantil Three. Computer, cross-reference the last entry
-with the previous search index. 
-COMPUTER: Darmok is the name of a mytho-historical hunter on Shantil
-Three. 
-TROI: I think we've got something.
+COMPUTER: Searching. Tanagra. The ruling family on Gallos Two. A ceremonial drink on Lerishi Four. An island-continent on Shantil Three 
+TROI: Stop. Shantil Three. Computer, cross-reference the last entry with the previous search index. 
+COMPUTER: Darmok is the name of a mytho-historical hunter on Shantil Three. 
+TROI: I think we've got something. 
 [Planet surface]
 PICARD: A captain's log? 
 DATHON: Darmok! 
@@ -276,20 +189,17 @@ DATHON: Shaka! Temba! His arms wide. Temba.
 PICARD: Enough! I'm not going to fight you. You'll just have to 
 (something big roars nearby) 
 DATHON: Darmok and Jalad at Tanagra. 
-(they look around, and rocks tumble down a hillside. Dathon offers the
-dagger again) 
+(they look around, and rocks tumble down a hillside. Dathon offers the dagger again) 
 DATHON: Temba. His arms wide. 
 (Picard takes the dagger) 
-PICARD: I'll go along with that.
+PICARD: I'll go along with that. 
 [Bridge]
-WORF: Commander, sensors are picking up an
-electromagnetic disturbance approaching the Captain's position. 
+WORF: Commander, sensors are picking up an electromagnetic disturbance approaching the Captain's position. 
 RIKER: Analysis? 
 WORF: A variable induction field. Possibly a life form. 
 RIKER: How close is it to the Captain? 
-WORF: The field is erratic, appearing and disappearing, but it appears
-to be moving toward him. 
-RIKER: Attacking?
+WORF: The field is erratic, appearing and disappearing, but it appears to be moving toward him. 
+RIKER: Attacking? 
 [Engineering]
 RIKER [OC]: Riker to La Forge. 
 LAFORGE: La Forge here. 
@@ -302,21 +212,18 @@ RIKER: I don't want to hear that, Commander.
 [Engineering]
 LAFORGE: Lefler, what's the resonance frequency? 
 LEFLER: Point three four over standard. 
-LAFORGE: I want a resolution of point five three at the very least.
-Commander, I'll need about two more minutes. 
+LAFORGE: I want a resolution of point five three at the very least. Commander, I'll need about two more minutes. 
 [Bridge]
-LAFORGE [OC]: But there's a good chance this isn't
-going to work. 
+LAFORGE [OC]: But there's a good chance this isn't going to work. 
 WORF: If it fails 
-RIKER: I know. We will have tipped our hand to the Tamarians. But it's
-a chance we have to take. 
+RIKER: I know. We will have tipped our hand to the Tamarians. But it's a chance we have to take. 
 WORF: Agreed. 
 RIKER: La Forge. Proceed. 
 LAFORGE [OC}: We're on it. La Forge out. 
-RIKER: Riker to transporter room one.
+RIKER: Riker to transporter room one. 
 [Transporter room]
 O'BRIEN: O'Brien here, Commander. 
-RIKER [OC]: Stand by, Mister O'Brien.
+RIKER [OC]: Stand by, Mister O'Brien. 
 [Planet surface]
 (a big something appears and disappears near them) 
 DATHON: Mirab, his sails unfurled? 
@@ -324,211 +231,131 @@ PICARD: Come on.
 DATHON: Shaka. When the walls fell. 
 (then the creature is behind them, and vanishes again) 
 DATHON: Shaka, when the walls fell. 
-PICARD: Shaka. You said that before. When I couldn't build a fire. Is
-that a failure? An inability to do something? 
+PICARD: Shaka. You said that before. When I couldn't build a fire. Is that a failure? An inability to do something? 
 DATHON: Darmok and Jalad 
-PICARD: At Tanagra. I remember the words but I don't understand.
+PICARD: At Tanagra. I remember the words but I don't understand. 
 [Engineering]
 LAFORGE: Matrix levels? 
-LEFLER: Annular convergence four three nine point two oh five.
-Confinement resolution point five two seven. 
-LAFORGE: That isn't going do it. Increase thermal input coefficient to
-one hundred fifty percent. 
+LEFLER: Annular convergence four three nine point two oh five. Confinement resolution point five two seven. 
+LAFORGE: That isn't going do it. Increase thermal input coefficient to one hundred fifty percent. 
 LEFLER: Increasing now. 
 RIKER [OC]: Status, La Forge. 
-LAFORGE: We're almost there, Commander. Lefler, shunt the overload to
-the phase transition sequencers in transporter one. 
+LAFORGE: We're almost there, Commander. Lefler, shunt the overload to the phase transition sequencers in transporter one. 
 LEFLER: Yes, sir. 
-LAFORGE: La Forge to O'Brien.
+LAFORGE: La Forge to O'Brien. 
 [Transporter room]
 O'BRIEN: Go ahead, Commander. 
 LAFORGE [OC]: Confirm phase sequencer linkage. 
-O'BRIEN: Link confirmed. Ready whenever you are, sir.
+O'BRIEN: Link confirmed. Ready whenever you are, sir. 
 [Planet surface]
-DATHON: (pushing Picard back) Uzani, his army at
-Lashmir. 
-PICARD: At Lashmir? Was it like this at Lashmir? A similar situation to
-the one we're facing here? 
+DATHON: (pushing Picard back) Uzani, his army at Lashmir. 
+PICARD: At Lashmir? Was it like this at Lashmir? A similar situation to the one we're facing here? 
 DATHON: Uzani. His army with fist open. 
 PICARD: A strategy, with fist open. With fist open. 
 DATHON: His army, with fist closed. 
-PICARD: With fist closed. An army with fist open to lure the enemy.
-With fist closed to attack? That's how you communicate, isn't it? By
-citing example. By metaphor. Uzani's army with fist open. 
+PICARD: With fist closed. An army with fist open to lure the enemy. With fist closed to attack? That's how you communicate, isn't it? By citing example. By metaphor. Uzani's army with fist open. 
 (and Picard opens the distance between them) 
 DATHON: Sokath. His eyes uncovered! 
-(Picard gets a stab at the creature, but he gets a jolt through the
-dagger and drops it. Dathon then attacks, Picard rejoins and is thrown
-down again. Dathon takes the full brunt of the creature's fury and
-Picard gets beamed away) 
+(Picard gets a stab at the creature, but he gets a jolt through the dagger and drops it. Dathon then attacks, Picard rejoins and is thrown down again. Dathon takes the full brunt of the creature's fury and Picard gets beamed away) 
 PICARD: No! 
 [Transporter room]
-O'BRIEN: I've got a piece of him, Commander, but
-that's all.
+O'BRIEN: I've got a piece of him, Commander, but that's all. 
 [Bridge]
-RIKER: Boost the confinement beam.
+RIKER: Boost the confinement beam. 
 [Engineering]
 LEFLER: One fifty seven over standard. 
-LAFORGE: It's as solid as it'll go, Commander.
+LAFORGE: It's as solid as it'll go, Commander. 
 [Planet surface]
-(Dathon is being thrown around and battered to a
-pulp while Picard flickers) 
+(Dathon is being thrown around and battered to a pulp while Picard flickers) 
 [Bridge]
-WORF: The Tamarian and the entity are in close
-proximity. The Tamarian's lifesigns are fluctuating. 
-RIKER: The scattering field is still in full force. What the hell is
-wrong with them? Their sensors can read what's going on as well as ours
-can. Riker to O'Brien. Report.
+WORF: The Tamarian and the entity are in close proximity. The Tamarian's lifesigns are fluctuating. 
+RIKER: The scattering field is still in full force. What the hell is wrong with them? Their sensors can read what's going on as well as ours can. Riker to O'Brien. Report. 
 [Transporter room]
-O'BRIEN: The field's still deflecting the signal.
-There just isn't enough of him, sir.
+O'BRIEN: The field's still deflecting the signal. There just isn't enough of him, sir. 
 [Bridge]
 RIKER: Open a channel to the Tamarian ship. 
 WORF: Aye, sir. 
 RIKER: Your captain is under attack. Drop your particle field. 
 TAMARIAN [on viewscreen]: Kailash. When it rises. 
 WORF: They have closed the channel. 
-O'BRIEN [OC]: O'Brien to Bridge.
+O'BRIEN [OC]: O'Brien to Bridge. 
 [Transporter room]
-O'BRIEN: I can't hold him, Commander.
+O'BRIEN: I can't hold him, Commander. 
 [Planet surface]
-(the creature leaves and Picard runs over to
-Dathon) 
+(the creature leaves and Picard runs over to Dathon) 
 DATHON: Shaka. 
-PICARD: when the walls fell.
-First Officer's log, stardate 45048.8. Our attempt
-to transport Captain Picard back to the ship has failed. My options are
-narrowing and my patience is all but gone.
+PICARD: when the walls fell. 
+First Officer's log, stardate 45048.8. Our attempt to transport Captain Picard back to the ship has failed. My options are narrowing and my patience is all but gone. 
 [Observation lounge]
-RIKER: Here's the situation on El-Adrel. The entity
-has moved off several hundred metres. 
-CRUSHER: Captain Picard's bioscan readings are stable. The Tamarian's
-are not. 
+RIKER: Here's the situation on El-Adrel. The entity has moved off several hundred metres. 
+CRUSHER: Captain Picard's bioscan readings are stable. The Tamarian's are not. 
 TROI: He may be injured. 
-RIKER: If the entity decides to attack again, the Captain may be facing
-it alone. 
-LAFORGE: The transporter's out of the question. The Tamarian ship has
-deepened the scattering field to the D region of the ionosphere.
-There's no getting through. 
+RIKER: If the entity decides to attack again, the Captain may be facing it alone. 
+LAFORGE: The transporter's out of the question. The Tamarian ship has deepened the scattering field to the D region of the ionosphere. There's no getting through. 
 WORF: Unless we attack the ship itself. 
 RIKER: Are you able to pinpoint the source of their particle beam? 
-LAFORGE: They're using a polarity coil generator located aft of their
-warp drive. It's pretty heavily shielded. 
+LAFORGE: They're using a polarity coil generator located aft of their warp drive. It's pretty heavily shielded. 
 RIKER: Could we get through with our phasers? 
 LAFORGE: Not with the first spread. It'd take a couple of hits. 
-RIKER: That's not good enough. We need to knock out the scattering
-field in one shot and have the Captain back on the Enterprise before
-they know what happened. 
-LAFORGE: If we selectively target the amplification pathways around the
-generator, it should be just as effective. And we can do it in one
-burst. 
+RIKER: That's not good enough. We need to knock out the scattering field in one shot and have the Captain back on the Enterprise before they know what happened. 
+LAFORGE: If we selectively target the amplification pathways around the generator, it should be just as effective. And we can do it in one burst. 
 RIKER: How long will it take to set up? 
-LAFORGE: Worf and I would have to adjust the pre-fire chamber. That'll
-give us the focus we need. A few hours? 
+LAFORGE: Worf and I would have to adjust the pre-fire chamber. That'll give us the focus we need. A few hours? 
 RIKER: Make it so. 
 (Geordi and Worf leave) 
-RIKER: I would prefer to find a peaceful solution. If we could talk our
-way out of this one, that much the better. 
+RIKER: I would prefer to find a peaceful solution. If we could talk our way out of this one, that much the better. 
 TROI: Unfortunately, it may not be that simple. 
 RIKER: What did you find out? 
-DATA: The Tamarian ego structure does not seem to allow what we
-normally think of as self-identity. Their ability to abstract is highly
-unusual. They seem to communicate through narrative imagery by
-reference to the individuals and places which appear in their
-mytho-historical accounts. 
+DATA: The Tamarian ego structure does not seem to allow what we normally think of as self-identity. Their ability to abstract is highly unusual. They seem to communicate through narrative imagery by reference to the individuals and places which appear in their mytho-historical accounts. 
 TROI: It's as if I were to say to you, Juliet on her balcony. 
 CRUSHER: An image of romance. 
-TROI: Exactly. Imagery is everything to the Tamarians. It embodies
-their emotional states, their very thought processes. It's how they
-communicate, and it's how they think. 
-RIKER: If we know how they think, shouldn't we be able to get something
-across to them? 
-DATA: No, sir. The situation is analogous to understanding the grammar
-of a language but none of the vocabulary. 
-CRUSHER: If I didn't know who Juliet was or what she was doing on that
-balcony, the image alone wouldn't have any meaning. 
-TROI: That's correct. For instance, we know that Darmok was a great
-hero, a hunter, and that Tanagra was an island, but that's it. Without
-the details, there's no understanding. 
-DATA: It is necessary for us to learn the narrative from which the
-Tamarians drawing their imagery. Given our current relations, that does
-not appear likely.
+TROI: Exactly. Imagery is everything to the Tamarians. It embodies their emotional states, their very thought processes. It's how they communicate, and it's how they think. 
+RIKER: If we know how they think, shouldn't we be able to get something across to them? 
+DATA: No, sir. The situation is analogous to understanding the grammar of a language but none of the vocabulary. 
+CRUSHER: If I didn't know who Juliet was or what she was doing on that balcony, the image alone wouldn't have any meaning. 
+TROI: That's correct. For instance, we know that Darmok was a great hero, a hunter, and that Tanagra was an island, but that's it. Without the details, there's no understanding. 
+DATA: It is necessary for us to learn the narrative from which the Tamarians drawing their imagery. Given our current relations, that does not appear likely. 
 [Planet surface]
-(night has fallen, a fire is lit and Dathon is
-lying down) 
+(night has fallen, a fire is lit and Dathon is lying down) 
 DATHON: Darmok and Jalad at Tanagra. 
-PICARD: Our situation is similar to theirs. I understand that. But I
-need to know more. You must tell me more about Darmok and Jalad. Tell
-me. You used the words, 'Temba, his arms wide' when you gave me the
-knife and the fire. Could that mean give? Temba, his arms wide. Darmok.
-Give me more about Darmok. 
+PICARD: Our situation is similar to theirs. I understand that. But I need to know more. You must tell me more about Darmok and Jalad. Tell me. You used the words, 'Temba, his arms wide' when you gave me the knife and the fire. Could that mean give? Temba, his arms wide. Darmok. Give me more about Darmok. 
 DATHON: Darmok on the ocean. 
-PICARD: Darmok. (draws on the soil) The ocean. Darmok on the ocean. A
-metaphor? For being alone? Isolated? Darmok on the ocean. 
+PICARD: Darmok. (draws on the soil) The ocean. Darmok on the ocean. A metaphor? For being alone? Isolated? Darmok on the ocean. 
 (Dathon writhes in pain) 
 PICARD: Are you alright? 
 DATHON: Kiazi's children, their faces wet. 
 PICARD: Temba, his arms open. Give me more about Darmok on the ocean. 
 DATHON: Tanagra on the ocean. Darmok at Tanagra. 
-PICARD: At Tanagra. A country? Tanagra on the ocean. An island. Temba,
-his arms wide. 
+PICARD: At Tanagra. A country? Tanagra on the ocean. An island. Temba, his arms wide. 
 DATHON: Jalad on the ocean. Jalad at Tanagra. 
-PICARD: Jalad at Tanagra. He went to the same island as Darmok. Darmok
-and Jalad Tanagra. 
+PICARD: Jalad at Tanagra. He went to the same island as Darmok. Darmok and Jalad Tanagra. 
 DATHON: The beast at Tanagra. 
-PICARD: The beast? There was a creature at Tanagra? Darmok and Jalad,
-the beast of Tanagra. They arrived separately. They struggled together
-against a common foe, the beast at Tanagra. Darmok and Jalad at
-Tanagra. 
+PICARD: The beast? There was a creature at Tanagra? Darmok and Jalad, the beast of Tanagra. They arrived separately. They struggled together against a common foe, the beast at Tanagra. Darmok and Jalad at Tanagra. 
 DATHON: Darmok and Jalad on the ocean. 
 PICARD: They left together. Darmok and Jalad on the ocean. 
-DATHON: The ocean. (another spasm) Zinda! His face black, his eyes red.
-Callimas at Bahar. 
-PICARD: You hoped this would happen, didn't you? You knew there was a
-dangerous creature on this planet and you knew from the tale of Darmok
-that a danger shared might sometimes bring two people together. Darmok
-and Jalad at Tanagra. You and me, here, at El-Adrel. 
+DATHON: The ocean. (another spasm) Zinda! His face black, his eyes red. Callimas at Bahar. 
+PICARD: You hoped this would happen, didn't you? You knew there was a dangerous creature on this planet and you knew from the tale of Darmok that a danger shared might sometimes bring two people together. Darmok and Jalad at Tanagra. You and me, here, at El-Adrel. 
 DATHON: Kira at Bashi. Temba, his arms wide. 
-PICARD: My turn? No, I'm not much of a story teller. Besides, you
-wouldn't understand. Shaka. when the walls fell. Perhaps that doesn't
-matter. You want to hear it anyway. There's a story, a very ancient
-one, from Earth. I'll try and remember it. Gilgamesh, a king.
-Gilgamesh, a king, at Uruk. He tormented his subjects. He made them
-angry. They cried out aloud, send us a companion for our king. Spare us
-from his madness. Enkidu, a wild man from the forest, entered the city.
-They fought in the temple. They fought in the street. Gilgamesh
-defeated Enkidu. They became great friends. Gilgamesh and Enkidu at
-Uruk. 
+PICARD: My turn? No, I'm not much of a story teller. Besides, you wouldn't understand. Shaka. when the walls fell. Perhaps that doesn't matter. You want to hear it anyway. There's a story, a very ancient one, from Earth. I'll try and remember it. Gilgamesh, a king. Gilgamesh, a king, at Uruk. He tormented his subjects. He made them angry. They cried out aloud, send us a companion for our king. Spare us from his madness. Enkidu, a wild man from the forest, entered the city. They fought in the temple. They fought in the street. Gilgamesh defeated Enkidu. They became great friends. Gilgamesh and Enkidu at Uruk. 
 DATHON: At Uruk. 
-PICARD: The new friends went out into the desert together, where the
-great bull of heaven was killing men by the hundreds. Enkidu caught the
-bull by the tail. Gilgamesh struck it with his sword. 
+PICARD: The new friends went out into the desert together, where the great bull of heaven was killing men by the hundreds. Enkidu caught the bull by the tail. Gilgamesh struck it with his sword. 
 DATHON: Gilgamesh. 
-PICARD: They were victorious. But Enkidu fell to the ground, struck
-down by the gods. And Gilgamesh wept bitter tears, saying, 'he who was
-my companion through adventure and hardship, is gone forever. 
-(and so Dathon dies)
-First Officer's log, supplemental. Despite the risk
-of war, I have no choice but to break the stalemate. 
+PICARD: They were victorious. But Enkidu fell to the ground, struck down by the gods. And Gilgamesh wept bitter tears, saying, 'he who was my companion through adventure and hardship, is gone forever. 
+(and so Dathon dies) 
+First Officer's log, supplemental. Despite the risk of war, I have no choice but to break the stalemate. 
 [Bridge]
 WORF: Phasers nearly ready, sir. 
 RIKER: Stand by to fire, Mister Worf. 
-DATA: Commander. The Tamarian's bioscan is becoming unreadable. He may
-be dead, sir. 
+DATA: Commander. The Tamarian's bioscan is becoming unreadable. He may be dead, sir. 
 RIKER: If we know that, so do the Tamarians. Riker to La Forge. 
 LAFORGE [OC]: La Forge here. 
 RIKER: I need those phasers. 
-DATA: Sir, sensors are tracking the entity. It is approaching Captain
-Picard's position.
+DATA: Sir, sensors are tracking the entity. It is approaching Captain Picard's position. 
 [Planet surface]
-(Picard has laid out Dathon, with his dagger, when
-he hears the beast roar) 
-PICARD: I understand your sacrifice, Captain. Unfortunately, if our
-friend out there has its way, no one will ever know what you tried to
-do.
+(Picard has laid out Dathon, with his dagger, when he hears the beast roar) 
+PICARD: I understand your sacrifice, Captain. Unfortunately, if our friend out there has its way, no one will ever know what you tried to do. 
 [Bridge]
-DATA: Nine metres and closing. The energy output of
-the entity has doubled, Commander. Six metres. 
+DATA: Nine metres and closing. The energy output of the entity has doubled, Commander. Six metres. 
 LAFORGE [OC]: La Forge to Bridge. You have phasers. 
 RIKER: Fire! 
 WORF: Their particle beam emitters are inoperative, sir. 
@@ -542,17 +369,14 @@ RIKER: Maximum shields.
 WORF: Aye, sir. 
 (The Tamarians return fire) 
 RIKER: Red alert! 
-WORF: Starboard shields holding at fifty two percent. Forward shields
-are gone. 
+WORF: Starboard shields holding at fifty two percent. Forward shields are gone. 
 RIKER: Let's get out of here. 
-DATA: That may not be possible, sir. The starboard nacelle sustained a
-direct hit. Warp engines are offline. 
+DATA: That may not be possible, sir. The starboard nacelle sustained a direct hit. Warp engines are offline. 
 RIKER: Go to impulse. Back us off. 
 WORF: They are matching our manoeuvres, sir, and firing. 
 RIKER: Return fire, Mister Worf. Full phasers. 
 WORF: Firing, sir. 
-WORF: Their shields are holding. They are firing again. (Boom!) Our
-shields have failed. 
+WORF: Their shields are holding. They are firing again. (Boom!) Our shields have failed. 
 DATA: Commander, we cannot survive another hit. 
 (Picard enters) 
 PICARD: Hail the Tamarian ship. 
@@ -562,18 +386,16 @@ PICARD: Temarc! The river Temarc in winter.
 TAMARIAN [on viewscreen]: Darmok? 
 PICARD: And Jalad. At Tanagra. Darmok and Jalad on the ocean. 
 TAMARIAN [on viewscreen]: Sokath, his eyes open! 
-PICARD: The beast at Tanagra. Uzani, his army. Shaka when the walls
-fell. 
+PICARD: The beast at Tanagra. Uzani, his army. Shaka when the walls fell. 
 (Picard holds up Dathon's journal, and the Tamarians beam it away) 
-TAMARIAN [on viewscreen]: Picard and Dathon at El-Adrel. Mirab, with
-sails unfurled. 
+TAMARIAN [on viewscreen]: Picard and Dathon at El-Adrel. Mirab, with sails unfurled. 
 PICARD: (holds out the dagger) Temba, his arms open. 
 TAMARIAN [on viewscreen]: Temba at rest. 
 PICARD: Thank you. 
 DATA: Power has been restored, sir.
 (transmission ends) 
 RIKER: New friends, Captain? 
-PICARD: I can't say, Number One. But at least they're not new enemies.
+PICARD: I can't say, Number One. But at least they're not new enemies. 
 [Ready room]
 (Picard is reading a book when Riker enters) 
 RIKER: I hope I'm not intruding, Captain. 
@@ -581,12 +403,7 @@ PICARD: No, of course not, Number One. Please.
 RIKER: Damage reports ready for your review. 
 PICARD: Thank you. 
 RIKER: Greek, sir? 
-PICARD: Oh, the Homeric Hymns. One of the root metaphors of our own
-culture. 
+PICARD: Oh, the Homeric Hymns. One of the root metaphors of our own culture. 
 RIKER: For the next time we encounter the Tamarians? 
-PICARD: More familiarity with our own mythology might help us to relate
-to theirs. The Tamarian was willing to risk all of us just for the hope
-of communication, connection. Now the door is open between our peoples.
-That commitment meant more to him than his own life. Thank you, Number
-One.  
+PICARD: More familiarity with our own mythology might help us to relate to theirs. The Tamarian was willing to risk all of us just for the hope of communication, connection. Now the door is open between our peoples. That commitment meant more to him than his own life. Thank you, Number One. 
 

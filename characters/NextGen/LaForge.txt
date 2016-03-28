@@ -2,7 +2,7 @@ LAFORGE: Sir, the Enterprise is arriving#
 LAFORGE: Sorry, Commander. Sir, Lieutenant La Forge reporting. The Enterprise arriving, but without the saucer section, sir.#
 LAFORGE: I don't know, sir. Captain Picard has signalled for you to beam up immediately.#
 LAFORGE: Aye, sir.#
-LAFORGE: Is a remarkable piece of bio-electronic engineering by which I quote see much of the EM spectrum ranging from simple heat and infrared through radio waves et cetera, et cetera, and forgive me if I've said and listened to this a thousand times before. (Without the Visor, Geordi La Forge's eyes are white sightless orbs, and he has flashing red lights at his temples)#
+LAFORGE: Is a remarkable piece of bio-electronic engineering by which I quote see much of the EM spectrum ranging from simple heat and infrared through radio waves et cetera, et cetera, and forgive me if I've said and listened to this a thousand times before.#
 LAFORGE: I was born this way.#
 LAFORGE: They say it's because I use my natural sensors in different ways.#
 LAFORGE: Which would affect how this works. No. Choice number two?#
@@ -12,7 +12,7 @@ LAFORGE: But these tunnel walls are something I've never seen before, sir.#
 LAFORGE: Microscopically, thermally, electromagnetically. None of it is familiar.;#
 LAFORGE: Well, it's of no material I recognise, sir, or have even heard of.#
 LAFORGE: At this point, it becomes ordinary stone, sir. Matching what's above.#
-LAFORGE: Sir, Lieutenant La Forge in the crew quarters. Something in here. (He finds a door which is trying to close. He opens it and a corpse falls out into his arms.#
+LAFORGE: Sir, Lieutenant La Forge in the crew quarters. Something in here.#
 LAFORGE: I suppose because you have it too hot in here. What else would it be?#
 LAFORGE: Well, maybe it's not. Maybe she threw her voice. Hey, it was a joke.#
 LAFORGE: So that's your science project, huh? Wes, you're really something.#
@@ -64,11 +64,11 @@ LAFORGE: Captain! Someone's transporting over to the Tarellian ship.#
 LAFORGE: I can't sir. It's too late.#
 LAFORGE: Warp two, heading five seven mark three one nine.#
 LAFORGE: Warp one point five, sir.#
-LAFORGE: Captain, we're passing warp ten! (The viewscreen looks like the opening credits to Doctor Who. There's a jolt which throws the Traveller off his stool. Kosinski is clueless)#
+LAFORGE: Captain, we're passing warp ten!#
 LAFORGE: Reading all stop, sir.#
 LAFORGE: Calculating it, sir. Data, what do you read there?#
 LAFORGE: Well, sir, according to these calculations, we've not only left our own galaxy, but passed through two others, ending up on the far side of Triangulum. The galaxy known as M Thirty Three.#
-LAFORGE: And I calculate that at maximum warp, sir it would take over three hundred years to get home. Captain's log, stardate 41263.2. This will be a rather unusual log entry, assuming Starfleet ever receives it. As I have already informed my crew, a phenomenal surge of power during a warp speed experiment has sent our starship hurtling out of our own galaxy, past another, taking us over two million seven hundred thousand light years in a few minutes.#
+LAFORGE: And I calculate that at maximum warp, sir it would take over three hundred years to get home.#
 LAFORGE: Message on this has been transmitted to Starfleet, sir.#
 LAFORGE: Captain, what are our options really? I mean, if this guy can't get us back, who will?#
 LAFORGE: I've laid in the reciprocal course back, Captain.#
@@ -76,7 +76,7 @@ LAFORGE: Warp one point five, sir.#
 LAFORGE: Answering all stop, Captain.#
 LAFORGE: All stopped, sir.#
 LAFORGE: Tasha, what's wrong? You look scared to death.#
-LAFORGE: Are you all right? Well, you're safe now. (Elsewhere on board - a group in period costume is playing Mozart Eine Kliene Nachtmusik, except for one Starfleet violinist) Corridor (Picard encounters a man and woman running from something)#
+LAFORGE: Are you all right? Well, you're safe now.#
 LAFORGE: Warp one point five, retroactive two six one mark three one, sir.#
 LAFORGE: And our position reads exactly what it was before this sleigh ride began, sir.#
 LAFORGE: Or whatever you want to call it, Data. I don't have a proper name for it.#
@@ -94,16 +94,16 @@ LAFORGE: Sir.#
 LAFORGE: Aye, sir.#
 LAFORGE: It's not good, sir. The Ferengi forcefield that holds this ship compensates almost as fast as we can increase power.#
 LAFORGE: Well, there's a point three hundred seventy two millisecond delay between use of our power and the neutralising counter force of the Ferengi. See, we push and they push back in equal force, sir.#
-LAFORGE: That's point three-hundred milliseconds. There's Ah, I see where you're going. We shift down and then kick hard into warp nine. Yeah! Come back fighting! whooey!#
+LAFORGE: That's point three-hundred milliseconds. There's  Ah, I see where you're going. We shift down and then kick hard into warp nine. Yeah! Come back fighting! whooey!#
 LAFORGE: Ask me after it's done, sir.  I want a slow reverse into drop off over five minutes. We'll show them what this baby can do, sir.#
-LAFORGE: Aye, aye, sir. [Bridge[#
+LAFORGE: Aye, aye, sir.#
 LAFORGE: All systems ready, Captain. And communication now restored to Engineering.#
 LAFORGE: Point three hundred milliseconds, sir.#
 LAFORGE: On your command, Captain.#
 LAFORGE: They can do that?#
 LAFORGE: Aye, sir. We should getting those readings soon.#
-LAFORGE: The probe will give us some of those answers, sir. (Data has found a Chinese finger puzzle that the children have left behind)#
-LAFORGE: My hero. (Picard reaches across, pushes his fingers together and removes the puzzle)#
+LAFORGE: The probe will give us some of those answers, sir.#
+LAFORGE: My hero.#
 LAFORGE: Incredible!#
 LAFORGE: Team up with the Ferengi, sir?#
 LAFORGE: Data.#
@@ -111,16 +111,17 @@ LAFORGE: He heard that.#
 LAFORGE: You had to ask.#
 LAFORGE: Do I look conscious?#
 LAFORGE: I'm resting, sir. My foot's stuck. Up there. I materialized upside down above the planet surface.#
-LAFORGE: Data, who's that? (The Ferengis are watching them. Little crouching men with whips in their hands)#
+LAFORGE: Data, who's that?#
 LAFORGE: But the Ferengi weapons were working when we first arrived.#
 LAFORGE: I'm finally beginning to understand what my eyes have been showing me. It's patterns of force everywhere. This entire planet has been turned into a power accumulator.#
-LAFORGE: It's the whole point of this place. I can see the planet's power emanating from. Commander. (There's an impressive display of controlled energy, which resolves to a vague face)#
+LAFORGE: It's the whole point of this place. I can see the planet's power emanating from. Commander.#
 LAFORGE: Something to write home about? Data, that's very human.#
 LAFORGE: So, Worf, why the interest in this? It's just routine maintenance on the sensor assemblies.#
 LAFORGE: Not just the junior ones. Okay, you hold this relay offline while I adjust these sensor circuits.#
 LAFORGE: Lieutenant La Forge here.#
 LAFORGE: Worf! La Forge to Sickbay. We havd a medical emergency in sensor maintenance. I repeat, this is a medical emergency.#
-LAFORGE: I don't know. He got hit by some sensor feedback, maybe. (Worf suddenly wakes up and starts fighting the medic. Geordi lies across him so Crusher can inject him) LAFORGE: You got it, Doc?#
+LAFORGE: I don't know. He got hit by some sensor feedback, maybe.#
+LAFORGE: You got it, Doc?#
 LAFORGE: He was just monitoring the sensor console when he jerked as though something hit him. What my sensors showed was a glow, just for a second. I can't explain it.#
 LAFORGE: I doubt it, sir. It seemed what I was seeing was something real.#
 LAFORGE: Warp eight, sir.#
@@ -146,7 +147,7 @@ LAFORGE: We're really leaving him?#
 LAFORGE: Moving in, sir, but where?#
 LAFORGE: Sensors monitoring the perimeter, ship's circuitry, sir. Nothing.#
 LAFORGE: Aye, sir.#
-LAFORGE: Something crazy on my panel. Commander Riker. Static?#
+LAFORGE: Something crazy on my panel. Commander Riker.  Static?#
 LAFORGE: They're wild in some ways, actually puritanical in others. Neat as pins, ultra-lawful, and make love at the drop of a hat.#
 LAFORGE: Confirmed by my readings, Captain. It's a shadow something.#
 LAFORGE: Shields and deflectors up full, sir. Main phaser banks ready.#
@@ -176,13 +177,13 @@ LAFORGE: It seems to be a network of miniature circuitry, sir. Incredibly comple
 LAFORGE: When he put up the shields, sir.#
 LAFORGE: The Battle of Maxia, sir. That's what it is.#
 LAFORGE: Captain, we are now at warp nine point one, sir.#
-LAFORGE: Captain, I'm picking up a forcefield out there of some kind. It's almost (The chain-link that envelopes the Enterprise is straight out of  Encounter At Farpoint)#
+LAFORGE: Captain, I'm picking up a forcefield out there of some kind. It's almost#
 LAFORGE: Reversing power, sir.#
-LAFORGE: Now reading full stop, sir. (There's a flash, and something similar to Prince of Wales' feathers hovers)#
+LAFORGE: Now reading full stop, sir.#
 LAFORGE: Twin moons. Where are we?#
 LAFORGE: And where does she go?#
 LAFORGE: I'd see the freckles on his nose if he had them, sir. He's at the third ridge.#
-LAFORGE: Moving well too. Oh, oh. Good, he sees them. (Them being soldiers in an camp. And they grunt like pigs. Worf runs back)#
+LAFORGE: Moving well too. Oh, oh. Good, he sees them.#
 LAFORGE: Those soldiers have formed a skirmishing line, I think you'd call it, and they're headed this way.#
 LAFORGE: That's what their weapons look like, sir.#
 LAFORGE: Yeah, but against phasers? Just one of our hand phasers could finish off an entire regiment.#
@@ -192,7 +193,7 @@ LAFORGE: He must still be on the planet. We were under attack by these, these an
 LAFORGE: Well, maybe Data could explain better, sir.#
 LAFORGE: Come on, not again!#
 LAFORGE: Commander.  There's someone under here.#
-LAFORGE: You're getting close, Data. (Data uncovers a little girl, and lifts her out. Check the number on the pipe on the wall)#
+LAFORGE: You're getting close, Data.#
 LAFORGE: Or fear.#
 LAFORGE: Hey, Wes. Not bad.#
 LAFORGE:  You're as beautiful as I imagined, and more.#
@@ -215,7 +216,7 @@ LAFORGE: Aye, sir.#
 LAFORGE: LaForge to Bridge.#
 LAFORGE: I can't find the Captain, sir.#
 LAFORGE: I'm at the holodeck. Something's gone wrong.;#
-LAFORGE: I can't communicate with him, I can't access the programme, and I can't open the doors. Enterprise log, supplemental. First Officer reporting. Due to an unknown breakdown in the holodeck, we are unable to contact the Captain.#
+LAFORGE: I can't communicate with him, I can't access the programme, and I can't open the doors.#
 LAFORGE: Yes.#
 LAFORGE: Not a thing. We have to go through this millimetre by millimetre.#
 LAFORGE: Easy, Wes. Slow it down. If there's an anomaly, you could go right past it, okay?#
@@ -234,10 +235,10 @@ LAFORGE: Agreed, sir. The soil appears almost completely lifeless.#
 LAFORGE: This once was rich farmland. I'd say something like twenty to thirty years ago.#
 LAFORGE: Commander, I'd say that everything on this planet was either dead or dying at the time Data was found.#
 LAFORGE: Commander, I think I've got this place figured out here. This was really very cleverly done to make this look like a natural hollow in the terrain here. There are signs of it being constructed in a hurry as if to hide something here.#
-LAFORGE: Yeah, thought so. (He has found the catch to the secret door. The back of the cave swings open to reveal a passageway into)#
+LAFORGE: Yeah, thought so.#
 LAFORGE: Doctor Noonien Soong, my friend, happens to have been Earth's foremost robotics scientist.#
 LAFORGE: Data, it's you.#
-LAFORGE: Commander Riker, looks like some sort of storage area. (Data opens the new door and dry ice pours out before revealing another android, in pieces)#
+LAFORGE: Commander Riker, looks like some sort of storage area.#
 LAFORGE: Looks like just these two. I mean, that and the real Data.#
 LAFORGE: Will we know how to turn it on?#
 LAFORGE: Agreed, Captain.#
@@ -308,7 +309,7 @@ LAFORGE: Are you suggesting that someone was controlling the aiming and firing s
 LAFORGE: And not by much, from what I saw.#
 LAFORGE: That would have required the talents of a master programmer.#
 LAFORGE: Shall I have them brought in, sir?#
-LAFORGE: Not much left of this drill. (Data scans something in one of the tunnels, and a little light flashes in his face)#
+LAFORGE: Not much left of this drill.#
 LAFORGE: Whoa. What is it? Nothing but basic elements. Inorganic. No carbon. Sandy texture. Those flashes are almost musical. I see colour variations and rhythms in complex harmonies.#
 LAFORGE: How could it be alive? It's inorganic.#
 LAFORGE: Not movement exactly, but a definite shift in the energy pattern.#
@@ -541,15 +542,17 @@ LAFORGE: All of this might have been in vain?#
 LAFORGE: Good luck.#
 LAFORGE: Data, you can lock on to the first group and begin transporting on my mark.#
 LAFORGE: Yes, Captain. Wherever we are, it seems to have no effect on Engineering.#
+LAFORGE: Is everything all right up there, Captain?#
 LAFORGE: Yes, sir. Everything looks fine down here.#
 LAFORGE: Aye, sir.#
 LAFORGE: Engineering, transfer to Bridge. What's happening, sir? we should be clear.#
 LAFORGE: All systems functioning normally, sir.#
 LAFORGE: Like the rat said, 'Keep the cheese, I just want out of the trap.'#
-LAFORGE: Engineering section, report. What is our situation? Engineering? Captain, request permission to leave the Bridge.#
+LAFORGE: Engineering section, report. What is our situation?  Engineering? Captain, request permission to leave the Bridge.#
 LAFORGE: Sure is a damned ugly nothing.#
 LAFORGE: Speaks right up for something your sensors say isn't there, Data.#
-LAFORGE: She believes it has already arrived? Not the starship, my friend. The original. (in a side alcove is a wonderful replica of HMS Victory, bunting and all) LAFORGE: This is my gift to the Victory's Captain Zimbata.#
+LAFORGE: She believes it has already arrived? Not the starship, my friend. The original.#
+LAFORGE: This is my gift to the Victory's Captain Zimbata.#
 LAFORGE: I served with him an ensign. Sure wish he'd been in command of this Victory. Wind and sail, that's the proper way to move a ship.#
 LAFORGE: That's exactly why this fascinates me, Data. You see, it's human nature to love what we don't have. Simpler days, huh? Anyway, stringing this rigging has made me dream of handling sails.#
 LAFORGE: Data, the whole point in doing something like this is to make it by hand.#
@@ -609,7 +612,8 @@ LAFORGE: How do you know that?#
 LAFORGE: Data, what does he mean? How does he know we're not who we appear to be?#
 LAFORGE: Data.#
 LAFORGE: Data, this isn't right. A holographic image should not be able to call for the arch.#
-LAFORGE: Data. Data, wait. ]Warehouse] LAFORGE: Data, wait! Data!#
+LAFORGE: Data. Data, wait.#
+LAFORGE: Data, wait! Data!#
 LAFORGE: Data. Data, will you please tell me what's going on?#
 LAFORGE: It's still running. The programme didn't shut down.#
 LAFORGE: Data, wait. What is it? What's on that paper? And why can't we shut down the holodeck? Data.#
@@ -681,7 +685,7 @@ LAFORGE: I don't think it's ever been tried quite that way before, but theoretic
 LAFORGE: Good to see you, Doctor.#
 LAFORGE: There's more to this than just the cards, Data.#
 LAFORGE: I'm in.#
-LAFORGE: Yeah, me too. I'm out. (Another deal. Riker is showing the ten, Jack and five of hearts. Data has two Queens and an Ace)#
+LAFORGE: Yeah, me too. I'm out.#
 LAFORGE: He bluffed you, Data.#
 LAFORGE: Of course there is. You're going away.#
 LAFORGE: Sure, I understand. I just don't like your being forced out. It's not fair.#
@@ -714,7 +718,7 @@ LAFORGE: La Forge to bridge.#
 LAFORGE: I've just completed my final adjustments. Thanks for the time. You now have warp engines available.#
 LAFORGE: Sensor recordings reveal that what we witnessed was an uncontrolled and catastrophic matter-antimatter mix. The magnetic seals between the chambers collapsed and#
 LAFORGE: Yes, sir, it is, but a highly improbable series of events has to take place for such a result to occur.#
-LAFORGE: Okay. In the event of a breach of seal integrity there's an emergency release system which dumps the antimatter.#
+LAFORGE: Okay. In the event of a breach of seal integrity there's an emergency release system which dumps the antimatter. DATA: Apparently such a dump began, was then halted, and the containment seals were dropped. There was still sufficient antimatter present to lead to an explosion.#
 LAFORGE: However it happened, the Yamato did it to herself.#
 LAFORGE: I think Captain Varley may have been right. There may be a design flaw.#
 LAFORGE: Yes, sir. It's the most sophisticated piece of machinery ever built. Something could have been overlooked.#
@@ -727,11 +731,11 @@ LAFORGE: I've been reviewing the Yamato's log, and I think maybe that alien prob
 LAFORGE: I need to see the thing.#
 LAFORGE: I can't.#
 LAFORGE: If you're asking for speculation, I'd say yes, sir, they are. I need time.#
-LAFORGE: No, sir, wait! Captain! Captain! (But the comm. system has gone down, so Geordi has to run to the Bridge instead. The door refuses to open so he heads off another way)#
+LAFORGE: No, sir, wait! Captain! Captain!#
 LAFORGE: Coming through!#
 LAFORGE: Bridge!#
 LAFORGE: Emergency stop!#
-LAFORGE: Stop! Damn it! (Now he's up against the ceiling, then the floor and his visor falls off. Heck of a roller coaster ride, this one)#
+LAFORGE: Stop! Damn it!#
 LAFORGE: Destroy the probe, sir. Quickly!#
 LAFORGE: Thank you, sir. If that thing had managed to scan us, we never would have had any chance of saving the Enterprise.#
 LAFORGE: That probe was a transmitter sending an alien computer programme. The same programme that is currently aboard the Enterprise trying to rewrite our software in its own image. We have two completely incompatible computer systems trying to interact.#
@@ -741,7 +745,8 @@ LAFORGE: Yes, but only in as much as it was the probe that transmitted the progr
 LAFORGE: The programme affected all of the Yamato's systems simultaneously. But with us, it was deposited within a specific section of our mainframe, so it's having to work its way out from that location. That gives us a little breathing space.#
 LAFORGE: Captain, the Enterprise computer system is a lot like our own bodies with voluntary and involuntary system. Now, probably ninety percent of what happens on this ship is done automatically. Completely out of our control. We're sitting on a bomb that could go off any second, or maybe never.#
 LAFORGE: Damn!#
-LAFORGE: No go. Let me see if I can directly access the master programme. (Electricity leaps into Geordi when he touches the panel. Data throws him clear - across the room) LAFORGE: Data?#
+LAFORGE: No go. Let me see if I can directly access the master programme.#
+LAFORGE: Data?#
 LAFORGE: What happened?#
 LAFORGE: Thanks, Data. I noticed.#
 LAFORGE: I don't know how to help him. But comparing recorded norms for Data to the current readings, it's clear that all his functions are just going crazy. If we had an expert, a Maddox, somebody, I#
@@ -783,7 +788,7 @@ LAFORGE: I don't understand. I can't think of anything that would cause the circ
 LAFORGE: Okay. Two percent negative. That's it. It shouldn't work, but it does. Hey, Data. Take a look at the stardate. 42679.5. Captain.#
 LAFORGE: Captain, we've been able to reactivate the shuttle, and the on-board clock indicates that the shuttle is#
 LAFORGE: Captain, we've retrieved all we are going to get from the shuttle logs, including the last visual records. Everything before that is just a jumble.#
-LAFORGE: The distortion is because we had to use a phase inverter to retrieve the logs. The quality will improve slightly. (We see Riker standing in the shuttlebay as the craft takes off. There is a wormhole effect, and a bolt of energy hits Enterprise, knocking her against the tunnel side, and she blows up)#
+LAFORGE: The distortion is because we had to use a phase inverter to retrieve the logs. The quality will improve slightly.#
 LAFORGE: Captain, we have a portion of the last log entry. It's audio only.#
 LAFORGE: All attempts to obtain further information from the shuttle have failed.#
 LAFORGE: I just don't understand how you could have ended up in a shuttlecraft while the Enterprise was being destroyed.#
@@ -867,7 +872,7 @@ LAFORGE: Okay.#
 LAFORGE: Guinan?#
 LAFORGE: We're fine. Is everything all right?#
 LAFORGE: I think I'll go check out Engineering.#
-LAFORGE: Security, report to main Engineering. We have an intruder. (The intruder is studying wall panels and consoles while the tiny Enterprise hangs nose to whatever with the huge cube)#
+LAFORGE: Security, report to main Engineering. We have an intruder.#
 LAFORGE: It seemed to make a visual survey of the engine core, sir, then it moved in here.#
 LAFORGE: Divert power from anywhere you need it. Anywhere except for life support.#
 LAFORGE: If you can't reprogram, then reroute.#
@@ -892,7 +897,7 @@ LAFORGE: Fellas, why don't you show me where your guidance system is, okay? Excu
 LAFORGE: The power needs to be rerouted through this venturi chamber before it can be channelled to the engine's coils.#
 LAFORGE: Yeah, but not for long. See, we are going to reconfigure these separators, here and over here.#
 LAFORGE: Yes, Commander. Go ahead.#
-LAFORGE: You see? Like that. (Geordi puts the circuit boards back) There. Your guidance is now up and running.#
+LAFORGE: You see? Like that.  There. Your guidance is now up and running.#
 LAFORGE: Main power failure?#
 LAFORGE: Your guidance is operational, but you're not going anywhere, not with a main power failure.#
 LAFORGE: Commander Riker?#
@@ -928,6 +933,7 @@ LAFORGE: No, the crimson force field has disarmed us.#
 LAFORGE: Blowing that hydrogen exhaust through the Bussard collectors sure put on a nice light show.#
 LAFORGE: Just in time. That's why you're still here.#
 LAFORGE: Looks like things are back to normal.#
+LAFORGE: Excuse me, sir, I was looking for Commander Riker.#
 LAFORGE: Doctor Pulaski?#
 LAFORGE: Well, I guess I'll just have to hunt for them. Sorry to disturb you.#
 LAFORGE: Hey. So what happened to you two down on Mariposa? Is everything all right?#
@@ -947,30 +953,33 @@ LAFORGE: Wait a minute, let me write this down.#
 LAFORGE: Fifty? You were bluffing.#
 LAFORGE: Yeah, right.#
 LAFORGE: Transporter ready, Captain.#
-LAFORGE: All yours, Commander. (La Forge leaves. The probe case unlocks, and Riker helps O'Brien lift off the top. The inside is filled with a person. Pulaski scans and shakes her head)#
+LAFORGE: All yours, Commander.#
 LAFORGE: We can beam an away team onto the T'Ong and override the cryogenic controls, sure.#
 LAFORGE: They realise they're in Federation territory and attack the nearest outpost.#
 LAFORGE: We could probably knock out their warp drive engines without damaging the rest of their ship.#
 LAFORGE: Transferring Engineering to the Bridge.#
 LAFORGE: I think so. Those old shields weren't particularly efficient at blocking gamma ray output. If I can tune the sensors to a particular band of. There. Got them. Transferring coordinates to helm.#
+LAFORGE: Another millimetre. That's it. A little more. There. That's excellent.#
 LAFORGE: Yes, Commander.#
 LAFORGE: Yes, sir, and the best of luck to you. I've researched the old Avidyne engines. They're archaic by our standards, very touchy.#
-LAFORGE: I've already taken the liberty of putting together a few necessities. f[Worf's quarters] (He seems to be building matchstick ship, The door chime makes him break a#
-LAFORGE: So you're going#
+LAFORGE: I've already taken the liberty of putting together a few necessities.#
+LAFORGE: So you're going to beat him?#
 LAFORGE: Well, then it's going to be a close one.#
 LAFORGE: But you have got a chance?#
 LAFORGE: Are you going to bother to show up?#
 LAFORGE: Other aside from your being privileged, is there anything else I can look forward to?#
-LAFORGE: This is going to be exciting. [Ten Forward] (Troi putting the finger controls on Kolrami, while Worf is Riker's second. They are staring at each other across a board which will project a#
+LAFORGE: This is going to be exciting.#
 LAFORGE: I wouldn't bet on us being here that long.#
 LAFORGE: Yeah, Data, I'd like to see your neural flex tear him down a peg.#
 LAFORGE: Come on, Commander, come on now.#
 LAFORGE: You can do it. You can get him. Come on, Commander. Come on, you got him, you got him, watch out. Here you go.#
-LAFORGE: Besides, Worf, if Engineering's anything like the Bridge, I'm going to have my hands full. (Riker sits and activates ship wide broadcast. We here the Original Series bosun whistle)#
+LAFORGE: There should be some emergency Bridge lighting here.#
+LAFORGE: Besides, Worf, if Engineering's anything like the Bridge, I'm going to have my hands full.#
+LAFORGE: Not good. There are only a few dilithium fragments left in the holding clamps. Even if we had crystals that were intact, there's no anti-matter to fuel the drive.#
 LAFORGE: No, sir.#
 LAFORGE: Sure, the system is functional. But without antimatter, what difference does it make?#
 LAFORGE: Wes, we've only got thirty two hours.#
-LAFORGE: And this isn't? [Hathaway Bridge]#
+LAFORGE: And this isn't?#
 LAFORGE: Easy now. Is that it?#
 LAFORGE: Good. Good work. All right, Hand me the connector on that kit.#
 LAFORGE: The hard part's going to be calibrating the thermal curve necessary to start a controlled reaction.#
@@ -980,8 +989,9 @@ LAFORGE: We'll have warp one for about#
 LAFORGE: Sir, all of this is theoretical.#
 LAFORGE: Ever driven a Grenthemen Water Hopper?#
 LAFORGE: Ever popped the clutch?#
+LAFORGE: Kumeh manoeuvre? Why would they start out with such a recognisable ploy?#
 LAFORGE: There are no guarantees here, sir.#
-LAFORGE: I think I hate this plan. Data, we're not even sure our warp jump [Observation lounge]#
+LAFORGE: I think I hate this plan. Data, we're not even sure our warp jump#
 LAFORGE: Data, that's the one part of this plan that we're all absolutely sure about.#
 LAFORGE: What did you do?#
 LAFORGE: There you are. What's wrong?#
@@ -1017,6 +1027,7 @@ LAFORGE: Dampeners not responding.#
 LAFORGE: Initiating reverse sequence, now.#
 LAFORGE: We're analysing the engineering systems data, Captain. So far we're showing nothing unusual#
 LAFORGE: Manual override is jammed. It's not going to work this time. We don't have the shields, Captain.#
+LAFORGE: Impulse engines are down.#
 LAFORGE: No. Sorry, Commander. I'd better get back to Engineering#
 LAFORGE: Call up the cross-section of computer core processor four five one. I want to see elements zero two hundred through zero three hundred.#
 LAFORGE: In order to get some power, I had to by-pass the computer core. Essentially hotwire the connection. Whoa, whoa, right there. Look at that lesion. No wonder we're coming apart at the seams. It's definitely some kind of continuing disintegration, but from what I can't tell you. And I haven't the slightest idea how to stop it.#
@@ -1024,7 +1035,7 @@ LAFORGE: Increase magnification, factor fifty. I don't know, Wes, but looking at
 LAFORGE: Manual restart successful. Impulse engine functions all appear normal.#
 LAFORGE: I'll try, Captain. I don't want to overload the engines.#
 LAFORGE: The house is a typical settlement structure with adaptations. Its thermal properties all seem to conform to known materials.#
-LAFORGE: Commander, wait. There's something concealed under the surface (too late. Riker has triggered an booby trap and is now hanging upside down from a pole. An elderly man challenges them)#
+LAFORGE: Commander, wait. There's something concealed under the surface#
 LAFORGE: Maybe they're being held hostage in some fashion?#
 LAFORGE: I'll get you to nine point three seven in fifteen seconds.#
 LAFORGE: Bridge to Captain Picard. You had better come see this.#
@@ -1034,7 +1045,7 @@ LAFORGE: We've finished replicating the parts they'll need, but what I don't und
 LAFORGE: A hologram generator. Oh, a duck blind. Right. They're anthropologists.#
 LAFORGE: The framework's still charged, so watch it.#
 LAFORGE: Almost there.#
-LAFORGE: That should do it. (It does. Oji sees the window disappear and be replaced by the cliff face. Curious, she investigates)#
+LAFORGE: That should do it.#
 LAFORGE: There are five more just like them. All identical to the one that killed Lieutenant Aster.#
 LAFORGE: Yeah, but, well, it seemed like they were left there to be found.#
 LAFORGE: I don't know, Captain, but it was pretty obvious that they'd been recently pulled out of the ground and defused.#
@@ -1047,7 +1058,7 @@ LAFORGE: Understood, Commander.#
 LAFORGE: It's looking over everything, Commander, going to school. Let's just hope it doesn't blow us to kingdom come while it's figuring out how to blow us to kingdom come.#
 LAFORGE: Bypassing the manual override. Shutting it down.#
 LAFORGE: Another Coco-no-no?#
-LAFORGE: Yeah. Yeah, me too. Oh, I almost forgot. (He snaps his fingers, and a gypsy violinist appears and plays while Geordi makes a very bad attempt at putting his arm around her shoulder)#
+LAFORGE: Yeah. Yeah, me too. Oh, I almost forgot.#
 LAFORGE: Too chilly? I can turn down the breeze.#
 LAFORGE: Yeah.#
 LAFORGE: Yeah.#
@@ -1066,7 +1077,7 @@ LAFORGE: You're different.#
 LAFORGE: But I'm not trying now.#
 LAFORGE: Matter-anti matter mixture ratio settings at optimum balance Reaction sequence corresponding to specified norms. Magnetic plasma transfer to warp field generators per programme specs. Commander, we should be going like a bat out of hell.#
 LAFORGE: With the engines idling, the energy loss has been limited, but our reserves will be depleted in less than three hours. We won't be able to hold our shields in place.#
-LAFORGE: No, sir. ;#
+LAFORGE: No, sir.#
 LAFORGE: They didn't have much success with this problem, Commander.#
 LAFORGE: Won't do much for our energy conservation, Captain.#
 LAFORGE: So why can't we move? Computer. As we increased our power levels, was there any counter-reaction?#
@@ -1084,7 +1095,8 @@ LAFORGE: Ready, computer?#
 LAFORGE: Damn. Right back where it all started. Whoa, this is incredible. Leah, did you design this?#
 LAFORGE: That's the visiting dignitary talk. What's the inside story? Off the record.#
 LAFORGE: Great. Another woman who won't get personal with me in the holodeck. Leah, I want to find a way to supplement the energy supply to the ship and to the engines. Could we alter the matter-antimatter paths?#
-LAFORGE: Well, this is your baby. Show me which ones. (A hand on his shoulder makes him look round. There she is, a brunette in seriously padded shoulders) LAFORGE: Computer, did I ask for a simulation?#
+LAFORGE: Well, this is your baby. Show me which ones.#
+LAFORGE: Computer, did I ask for a simulation?#
 LAFORGE: I did do that, didn't I? Okay, well, it's good to see you, Leah. Continue your analysis.#
 LAFORGE: Then, if we use multiple injector streams, hitting more than one crystal facet, we could do it, we could hold our own. Leah, you're beautiful. La Forge to Picard.#
 LAFORGE: Captain, we've found a way to extend the matter-antimatter energy supplies.#
@@ -1095,7 +1107,7 @@ LAFORGE: Impact analysis, computer.#
 LAFORGE: Yes! All right! Computer, do you have any, you know, personality on file for Doctor Brahms?#
 LAFORGE: Did she ever debate at the intergalactic caucuses on Chaya Seven?#
 LAFORGE: Never mind the dates. Computer, if you add data from all these sources, could you synthesise a true representation of Doctor Brahms?#
-LAFORGE: I can live with that. Do it. (Leah takes a breath, then smiles) Doctor Brahms?#
+LAFORGE: I can live with that. Do it.  Doctor Brahms?#
 LAFORGE: Right.#
 LAFORGE: Yeah. Yeah! Yeah!.#
 LAFORGE: No, no, no!#
@@ -1152,14 +1164,14 @@ LAFORGE: Commander! Picking up something on the positron scan. Over here. Some e
 LAFORGE: Picking up traces of ultritium residue. An explosive device must've been used to destroy the craft after it crashed.#
 LAFORGE: Worf! Worf! Commander Riker!#
 LAFORGE: Worf! Commander Riker!#
-LAFORGE: Worf! Captain's log, Stardate 43349.2. An unidentified distress signal has led to the discovery of a crashed Romulan vessel on the surface of Galorndon Core, a Federation planet. We have recovered one survivor, but Lieutenant Commander La Forge did not report back with the away team and is still missing.#
-LAFORGE: A stationary neutrino source. Wesley Crusher. Thank you, Wesley. (So he heads off towards it, and someone comes up behind him and knocks him out. Another Romulan. When Geordi wakes up, his own phaser is being pointed at him)#
+LAFORGE: Worf!#
+LAFORGE: A stationary neutrino source. Wesley Crusher. Thank you, Wesley.#
 LAFORGE: Right. Congratulations. Surely a strategic triumph for the Romulan Empire.#
 LAFORGE: My shoes are getting full of sand. I just hate that, don't you?#
 LAFORGE: Lieutenant Commander Geordi La Forge. I don't think I got yours?#
 LAFORGE: I don't think so. You see, we heard your message too and well, the fleet's in, Commodore. Sky's full of Federation ships.#
 LAFORGE: I never lie when I've got sand in my shoes, Commodore.#
-LAFORGE: Seriously, the only one way out of here is for you to put that thing down and soon as there's a window in the storm (There's a rock fall, and Bochra gets hit badly. Geordi helps him up and carries him into the nearest cave)#
+LAFORGE: Seriously, the only one way out of here is for you to put that thing down and soon as there's a window in the storm#
 LAFORGE: Are you okay?#
 LAFORGE: You gotta be kidding.#
 LAFORGE: Welcome to Galorndon Core, where no good deed goes unpunished.#
@@ -1243,7 +1255,8 @@ LAFORGE: We've tried. It's probably Romulan but we can't be sure. We've also pic
 LAFORGE: Reading nothing but barren rock. I don't know. They might be able to hide a base from our probe. Its capabilities are limited. The only way we'll know for sure is if we go and take a look for ourselves.#
 LAFORGE: Any edge'll help, Captain.#
 LAFORGE: Power transfer fields may be pinched off.#
-LAFORGE: Vessel's speed increasing to point oh two impulse. He's seen us, Data. (The little transport slips behind an asteroid, but only part emerges on the other side) LAFORGE: That's the ship's drive section#
+LAFORGE: Vessel's speed increasing to point oh two impulse. He's seen us, Data.#
+LAFORGE: That's the ship's drive section#
 LAFORGE: Sensors indicate wreckage on the asteroid's surface, Data.#
 LAFORGE: Without warp drive, there's no way he could be out of our range by now.#
 LAFORGE: Could it be the magnetic interference, Data?#
@@ -1285,7 +1298,7 @@ LAFORGE: The moon has reached its minimum orbital distance. It's time, Captain.#
 LAFORGE: Q, everybody already knows what they're going to do, except for you, Now here's what I need.#
 LAFORGE: Q, your experience will be most valuable to me if you can manually control the field integrity.#
 LAFORGE: Q, get to the controls or get the hell out of here. Data, you're my liaison to the Bridge. I'll need you with me.#
-LAFORGE: Engage field coils. Tractor beam to stand by. Field output? Field output?#
+LAFORGE: Engage field coils. Tractor beam to stand by. Field output?  Field output?#
 LAFORGE: Impulse engines to full. Ready to engage tractor beam.#
 LAFORGE: Extending warp field forward.#
 LAFORGE: Stand by, Captain. I can adjust the field symmetry to compensate.#
@@ -1294,8 +1307,9 @@ LAFORGE: Shut up, Q.#
 LAFORGE: Data.#
 LAFORGE: It's working. We can move it. Firing impulse engines.#
 LAFORGE: We need all the power we have to get out of the atmosphere, Commander.#
-LAFORGE: Try activating the structural integrity field. (Q is pulled into the air. Data grabs his legs and the light wraps around him, too) LAFORGE: It's not working. Structural field harmonics on manual.#
-LAFORGE: Diverting power to forward sections now. (Q falls back to the deck, Data also falls over, with residual electricity running over his body)#
+LAFORGE: Try activating the structural integrity field.#
+LAFORGE: It's not working. Structural field harmonics on manual.#
+LAFORGE: Diverting power to forward sections now.#
 LAFORGE: That charge nearly knocked out his positronic net.#
 LAFORGE: We can try to discharge and reset the motor pathways, recouple the autonomic nodes.#
 LAFORGE: Osmotic pressure still rising. Maybe we can by-pass the flow regulator.#
@@ -1397,7 +1411,7 @@ LAFORGE: It fits.#
 LAFORGE: You'd better destroy it. Those samples'll be tainted.#
 LAFORGE: Hey! Is it a problem for you to report to duty on time, Lieutenant?#
 LAFORGE: I don't want to hear it. Now, we're having an intermittent problem with this anti-grav unit. I want you to see what you can do.#
-LAFORGE: Computer, activate anti-grav unit. (It rises smoothly, then starts to wobble, throwing a canister off, before returning to the ground)#
+LAFORGE: Computer, activate anti-grav unit.#
 LAFORGE: La Forge to Engineering. I'll need more people in Cargo Bay Five. Anyone you can spare. La Forge out. We could use a hand, Mister Barclay.#
 LAFORGE: I hate to say it but, I always thought I could work with anybody. But I just don't understand this guy. Broccoli makes me nervous, Captain. He makes everybody nervous.#
 LAFORGE: Captain, it's not like I haven't tried.#
@@ -1419,7 +1433,7 @@ LAFORGE: But we shouldn't ignore the possibilities, Wes.#
 LAFORGE: Good. Okay, then let's go over the realignment procedure. Gentlemen.#
 LAFORGE: It's not that you did anything wrong, Wes. It's just that Barclay's, well, he's my new project.#
 LAFORGE: I just need to draw him out some more.#
-LAFORGE: Data's absolutely right. The nickname stops here and now. Captain's orders. (Duffy picks up his glass, which has an impression of his fingers on it and promptly leaks from the bottom)#
+LAFORGE: Data's absolutely right. The nickname stops here and now. Captain's orders.#
 LAFORGE: A problem with the replicator?#
 LAFORGE: I can't detect any residual radiation or unusual chemical compounds that would have caused this.#
 LAFORGE: That means a complete diagnostic check of the Enterprise power systems. All four thousand of them. Do I have the perfect man for this job. Hey, Reg. Busy?#
@@ -1440,7 +1454,8 @@ LAFORGE: Did you?#
 LAFORGE: Maybe I'm not make myself clear, Guinan. Barclay, well, he's always late. The man's nervous. Nobody wants to be around this guy.#
 LAFORGE: Guinan, that's not the point.#
 LAFORGE: Computer, where is Lieutenant Barclay?#
-LAFORGE: Reg? (He comes upon a Gainsborough tableau - Beverly on a floral swing and Wesley in blue, eating cake. There's a white parakeet in a cane cage too) LAFORGE: Beverly?#
+LAFORGE: Reg?#
+LAFORGE: Beverly?#
 LAFORGE: Wesley ?#
 LAFORGE: Well, I guess I want Master Barclay.#
 LAFORGE: You cannot withstand our assault forever, Barclay.#
@@ -1455,7 +1470,7 @@ LAFORGE: Go ahead.#
 LAFORGE: On my way, Chief. Listen, Reg. I really do want you to talk to Counselor Troi.#
 LAFORGE: I mean it. As your friend and as your commanding officer.#
 LAFORGE: Seems normal enough to me.#
-LAFORGE: I'm glad I don't have anywhere to go. Chief Engineer's log, stardate 43808.2. A systems analysis of transporter room three has yielded no suggestion of a cause for the latest malfunction aboard the Enterprise.#
+LAFORGE: I'm glad I don't have anywhere to go.#
 LAFORGE: We don't know, sir. And we don't know why only transporter room three is affected. None of the other transporter rooms are malfunctioning.#
 LAFORGE: Could we make that fourteen hundred hours, sir? I've got him working on something.#
 LAFORGE: Barclay? Yes, I can imagine. Were you able to do anything for him?#
@@ -1496,7 +1511,7 @@ LAFORGE: Wait a minute, wasn't invidium used in medical containment fields?#
 LAFORGE: La Forge to Bridge. We have a working theory, Captain. There's a good possibility we picked up some Invidium from a broken canister in the cargo bay#
 LAFORGE: Understood, Commander. We're on our way to cargo bay five for confirmation.#
 LAFORGE: Nothing on the tricorder.#
-LAFORGE: If it's in there it should show up on one of the polarity channels. (Barclay puts his gloved hand into a container. They detect sparkles on it)#
+LAFORGE: If it's in there it should show up on one of the polarity channels.#
 LAFORGE: Duffy and O'Brien picked up the broken canister and became contaminated.#
 LAFORGE: La Forge to Bridge. Invidium has been confirmed.#
 LAFORGE: Mister Barclay and I thank you, sir.#
@@ -1573,7 +1588,7 @@ LAFORGE: Fine. They, they've been fine.#
 LAFORGE: What's this all about, Commander?#
 LAFORGE: We can beam him out from under there, get him right up to Sickbay.#
 LAFORGE: Right here.#
-LAFORGE: Okay. (Something golden leaps from the injured man into Geordi's head via the neural thingummyjig)#
+LAFORGE: Okay.#
 LAFORGE: I'm fine. No problem.#
 LAFORGE: Can I go now, Doc?#
 LAFORGE: Could've told you that. I feel great.#
@@ -1599,7 +1614,7 @@ LAFORGE: I'm not giving up yet. Not after coming so close to cracking this thing
 LAFORGE: Which means that this might be a rotational time reference.#
 LAFORGE: Bingo! Now, Computer, overlay navigational chart using referenced pulsars and project a flight path back to it's origin.#
 LAFORGE: That's it, Captain. That's where John Doe came from.#
-LAFORGE: Okay, let's realign the magnetic inducer on the starboard nacelle. (John appears in the control gallery. Beverly, Worf and two guards enter the main bay)#
+LAFORGE: Okay, let's realign the magnetic inducer on the starboard nacelle.#
 LAFORGE: Doc.#
 LAFORGE: John, I really want to thank you.#
 LAFORGE: I don't know how, or even why, but down on the planet you gave me something. A new confidence.#
@@ -1671,7 +1686,7 @@ LAFORGE: We'd have to access the transport controller, reset it to a testing mod
 LAFORGE: Yes, sir.#
 LAFORGE: Down here.#
 LAFORGE: This, this is Doctor Noonian Soong.#
-LAFORGE: No, I'm telling you. Look at this stuff. It's Soong, all right. (Worf carries in Data from the living room. He is dressed in Lore's clothes. Riker goes over)#
+LAFORGE: No, I'm telling you. Look at this stuff. It's Soong, all right.#
 LAFORGE: Commander.#
 LAFORGE: No, no, no, we're way ahead of schedule here.#
 LAFORGE: I'd be delighted. Mrs. Rozhenko?#
@@ -1685,7 +1700,8 @@ LAFORGE: Wesley, talk to me.#
 LAFORGE: Are you done?#
 LAFORGE: Aft thrusters, aye. Impulse power to the helm.#
 LAFORGE: We did a test run while we were still at the starbase. Here's what the computer recorded.#
-LAFORGE: As you'll see in a moment, we couldn't. LAFORGE: There was a momentary flash of light. It was all over the spectrum.#
+LAFORGE: As you'll see in a moment, we couldn't.#
+LAFORGE: There was a momentary flash of light. It was all over the spectrum.#
 LAFORGE: Who knows. He could even end up outside of our space time continuum.#
 LAFORGE: No, sir.#
 LAFORGE: There are others missing?#
@@ -1697,7 +1713,7 @@ LAFORGE: Damn. I'm sorry, Wesley.#
 LAFORGE: Acknowledged. Readying thrusters.#
 LAFORGE: Fifteen metres per second. We're going to lose it in about four minutes.#
 LAFORGE: We're ready, Commander.#
-LAFORGE: We're losing the bubble! (Beverly pauses, then launches herself through the middle of the vortex, landing with a grunt on the hard, real floor. Wesley collapses as the vortex does)#
+LAFORGE: We're losing the bubble!#
 LAFORGE: Is there something wrong with that count, Doctor?#
 LAFORGE: Tasha left you in the middle of all that?#
 LAFORGE: Captain, if I could get to the myographic scanner.#
@@ -1831,7 +1847,7 @@ LAFORGE: Well, I mean, I've studied her schematics for years. She was responsibl
 LAFORGE: I would love to, Captain. Thank you.#
 LAFORGE: I guess I am a little nervous. It's not every day a man comes face to face with his dream.#
 LAFORGE: You remember about a year ago when we were caught in that booby trap the Menthars set? Okay. While we were trying to get out of it, I went down to the holodeck to study an engine prototype that was made when the Enterprise was first designed. And the computer, well, it gave me an image of the engine but it also created this hologram of the designer. Doctor Leah Brahms.#
-LAFORGE: Yeah, but not an ordinary computer-simulated female. I mean, she was brilliant, of course, but warm, you know? Friendly. It' was like we worked as one. I would start a sentences, she'd finish it. What I didn't think of, she did. It was just so comfortable. Okay, I know it was just a holographic image but the computer was able to incorporate personality traits from her Starfleet record.#
+LAFORGE: Yeah, but not an ordinary computer-simulated female. I mean, she was brilliant, of course, but warm, you know? Friendly. It' was like we worked as one. I would start a sentences, she'd finish it. What I didn't think of, she did. It was just so comfortable.#
 LAFORGE: No, no, Guinan, see, you've got it all wrong. I'm not necessarily expecting anything romantic here. It's just I know whatever, Leah Brahms and I are going to be good friends.#
 LAFORGE: Okay, bring her over.#
 LAFORGE: Hi. I mean, welcome aboard, Doctor Brahms. I'm Lieutenant Commander Geordi La Forge, Chief Engineer.#
@@ -1997,18 +2013,20 @@ LAFORGE: It's not.#
 LAFORGE: Yes, Data. And a spectrographic analysis, and a screen for ionising radiation. I even ran an enhancement for micro-seismic disturbances. I've tried it all, okay? I'm sorry, Data.#
 LAFORGE: Yeah, you're probably right, Data, but I've got to keep scanning these records while I can.#
 LAFORGE: If I knew what I was looking for. Rally, Data, I think it's just a matter of me going over it, maybe finding something I forgot. I'll let you know if I come across anything, all right? All right, computer, one more time.#
-LAFORGE: Computer, delete the audio. LAFORGE: Wait a minute. Freeze visual. Whose shadow is that?#
+LAFORGE: Computer, delete the audio.#
+LAFORGE: Wait a minute. Freeze visual. Whose shadow is that?#
 LAFORGE: Computer, the shadow currently displayed in section B three, what is its source?#
-LAFORGE: Come on, it's got to belong to somebody. Computer, replay a visual of the last time index. No audio, and slow to fifty percent. Okay, Brevelle's behind the camera ,Susanna and I head off in that direction. Mendez moves off that way. Freeze visual. Now, magnify four times, and spectrally enhance those shadows. (there's the other shadow in the background) Computer, do you have sufficient data to compile a holographic simulation of this visual record?#
+LAFORGE: Come on, it's got to belong to somebody. Computer, replay a visual of the last time index. No audio, and slow to fifty percent. Okay, Brevelle's behind the camera ,Susanna and I head off in that direction. Mendez moves off that way. Freeze visual. Now, magnify four times, and spectrally enhance those shadows.  Computer, do you have sufficient data to compile a holographic simulation of this visual record?#
 LAFORGE: Good, fine. Scan the entire record and then recreate it on holodeck three.#
 LAFORGE: Computer, is the Tarchannen simulation ready?#
 LAFORGE: Computer, scan Starfleet records and create a simulation of Brevelle. Place him where he was while recording this. Okay, good. Computer, based on their speed and direction, can you extrapolate each officer's movements as they walk out of the recording device's field of view?#
 LAFORGE: Understood. Run simulation.#
 LAFORGE: Computer, freeze. It's all happening too fast. Computer, reverse simulation. Run it back to time index fourteen seven two.#
-LAFORGE: Freeze programme. Computer, remove La Forge. And now remove Leitjen. And now remove Mendez. (and we clearly see the shadow of a half-crouching person against the building) LAFORGE: Computer, using vector analysis, identify the source of this shadow.#
+LAFORGE: Freeze programme. Computer, remove La Forge. And now remove Leitjen. And now remove Mendez.#
+LAFORGE: Computer, using vector analysis, identify the source of this shadow.#
 LAFORGE: There has to be something between the camera light and this wall. Computer, given the distance between the light and the wall, can you determine the most likely shape and position of the object causing this shadow?#
 LAFORGE: All right, let's say that my friend and I here are about the same size, say one pint seven metres. Now, can you extrapolate its shape and its position?#
-LAFORGE: Do it. (Then Geordi gets pains in his chest, and falls to his knees. The transformation is starting)#
+LAFORGE: Do it.#
 LAFORGE: Susanna.#
 LAFORGE: Lieutenant Commander La Forge reporting for duty, Captain.#
 LAFORGE: No. They act on instinct alone. In another few minutes, I wouldn't have responded to you, Susanna.#
@@ -2029,9 +2047,10 @@ LAFORGE: What was that? Computer's down, Reg. Reg?#
 LAFORGE: My visor must have filtered it out.#
 LAFORGE: Attempting to now, Commander. Isolate phasers eighty to one twenty. Shunt all the plasma#
 LAFORGE: Phasers are as hot as we can make them, Captain.#
-LAFORGE: Yeah, but by whom? (Reg wanders over and presses a control next to La Forge, then returns to his own panel) LAFORGE: Barclay, what are you doing?#
+LAFORGE: Yeah, but by whom?#
+LAFORGE: Barclay, what are you doing?#
 LAFORGE: I don't know how he did it, but shield strength has been increased by three hundred percent.#
-LAFORGE:  Don't mention it. Captain's log, stardate 44705.3. The Enterprise has destroyed the alien probe, but now we are left with the difficult task of repairing the Argus Telescope. Failure to do so would represent an incalculable scientific loss.#
+LAFORGE:  Don't mention it.#
 LAFORGE: Each of the telescope's subspace antenna clusters is powered by its own fusion reactor, but a single computer controls them all.#
 LAFORGE: That's right. They're starting to overload, and could eventually go critical. The explosion would destroy the Array, and I wouldn't want to be next door when that happens.#
 LAFORGE: I agree. We'll cut off each reactor from the damaged control system and repair them one by one.#
@@ -2083,14 +2102,15 @@ LAFORGE: He robs from the rich and gives to the poor.#
 LAFORGE: There are too many of them.#
 LAFORGE: Admiral. We still can't get in there, Captain. The radiation levels are dropping, but they're too high to raise the isolation door.#
 LAFORGE: Maybe the Admiral would like to see the visual log of the explosion.#
-LAFORGE: This was logged four days ago at oh three hundred hours. (a picture on the monitor of the warp core, labelled sensor log playback 44765.3 03.00.59.941. Part of the core goes bang) LAFORGE: At that point the emergency confinement field was activated and the isolation doors came down. No one was killed, but I have two people in Sickbay with radiation burns.#
+LAFORGE: This was logged four days ago at oh three hundred hours.#
+LAFORGE: At that point the emergency confinement field was activated and the isolation doors came down. No one was killed, but I have two people in Sickbay with radiation burns.#
 LAFORGE: We haven't found anything that suggests there was a malfunction anywhere along the line.#
 LAFORGE: Captain, we finally got in here about six hours ago. We've been going over it inch by inch ever since.#
 LAFORGE: We did mass spectrometer readings of the residue for chemical content, sifted through the debris for bomb fragments.#
 LAFORGE: This is the frame for the hatch. It ruptured right along here. When we take a reading of that spot. See?#
 LAFORGE: That's right. A breakdown of the atomic cohesive structure.#
 LAFORGE: That's the way I see it. This wasn't sabotage at all. It was nothing more than an accident.#
-LAFORGE: That man is in a lot of trouble. Captain's Log. Stardate 44805.7. For generations, the people of Kaelon Two have been working to revitalise their dying sun. The Federation has offered to assist in testing what may be a solution to this problem.#
+LAFORGE: That man is in a lot of trouble.#
 LAFORGE: This mess, Mrs Troi#
 LAFORGE: How can he?#
 LAFORGE: All right, all right. Don't you start.#
@@ -2118,7 +2138,7 @@ LAFORGE: Begin.#
 LAFORGE: That's easy.#
 LAFORGE: Er, well, asymmetrical, inverted, phased, stable.#
 LAFORGE: I knew that. Okay, give me another one.#
-LAFORGE: Oh, there's the aft nacelle associative, the forward (sees the ship) Whoa! Computer, sequence zero one zero. Maximum power to the shields. Kill the music. Enterprise, this is shuttle seven. I've encountered a Romulan Warbird. Coordinates at three#
+LAFORGE: Oh, there's the aft nacelle associative, the forward  Whoa! Computer, sequence zero one zero. Maximum power to the shields. Kill the music. Enterprise, this is shuttle seven. I've encountered a Romulan Warbird. Coordinates at three#
 LAFORGE: Damn. Risa Control. Anybody.#
 LAFORGE: Hey! Hey! Hey! Hey, take it easy!  Hey.#
 LAFORGE: I can tell you've gone to a lot of trouble.#
@@ -2152,7 +2172,8 @@ LAFORGE: Yeah. Well, there was this#
 LAFORGE: Her name is Jonek. But you wouldn't want to hear about that. Better get ready for duty. Nice talking to you, Counsellor.#
 LAFORGE: Intercooler flux down to five percent. Plasma deviation steady at point seven two.#
 LAFORGE: Well, if you guys keep running at this efficiency, I might as well go back to Risa for another week. Just run through a level four series, and then call it a night, huh? I'd help you, but there's something I've got to take care of.#
-LAFORGE: Red Torian, please. Thank you. (O'Brien is sitting alone with his back to the bar. Geordi goes quietly over then deliberately spills his drink over Miles' shoulder) LAFORGE: Oh! I'm sorry.#
+LAFORGE: Red Torian, please.  Thank you.#
+LAFORGE: Oh! I'm sorry.#
 LAFORGE: My glass, it just slipped.#
 LAFORGE: Yeah, but you're all soaked here.#
 LAFORGE: Let me get you something to wipe that off with.#
@@ -2204,7 +2225,7 @@ LAFORGE: Well, I was just trying to get in the mood. I played some music, I talk
 LAFORGE: No, the first thing I did. Wait a minute, that's. But that's#
 LAFORGE: I'm just not sure about anything.#
 LAFORGE: Data. Missing someone? I found Spot wandering through the corridor two sections away.#
-LAFORGE: Forget to secure the door when you left? DATA The door sensor is programmed to recognise only humanoid forms for entry and egress. Spot could not have triggered the mechanism.#
+LAFORGE: Forget to secure the door when you left?#
 LAFORGE: Maybe someone came in while you were away, let him out by accident. Has anything been disturbed?#
 LAFORGE: That's really strange. You know, to be on the safe side maybe I should report a possible unauthorised entry to Security.#
 LAFORGE: Sure, Data.#
@@ -2214,7 +2235,7 @@ LAFORGE: We're showing damage between decks. We haven't localised it yet.#
 LAFORGE: Thorne, are you all right?#
 LAFORGE: La Forge to Bridge. A cryogenic control conduit just blew out on us.#
 LAFORGE: I think we have some structural damage between decks thirty six and thirty seven. I'd better go check it out.#
-LAFORGE: Van Mayter, you take access tube twenty three M and look at the bridge connectors. Thorne, I'll cover the aft section. You go down (Van Mayter, who had turned off down a corridor, screams. The men rush back to see just her upper torso sticking out of the decking) Captain's log, supplemental. This series of unexplained events has now resulted in the death of a crewmember, but it appears that Mister Data may have an explanation.#
+LAFORGE: Van Mayter, you take access tube twenty three M and look at the bridge connectors. Thorne, I'll cover the aft section. You go down#
 LAFORGE: So every time we hit one, part of the ship momentarily phases out of normal space.#
 LAFORGE: We could give the shuttle control of our navigational systems. That way, the corresponding manoeuvres would be virtually instantaneous.#
 LAFORGE: Damage to the shuttle's starboard impulse nacelle, Captain.#
@@ -2266,7 +2287,8 @@ LAFORGE: Okay. Clear the power shunt.#
 LAFORGE: Right. And bypass the flow current, and . The computer still won't release the doors.#
 LAFORGE: Yes, we can try. There's an emergency hand actuator.#
 LAFORGE: Yes?#
-LAFORGE: Where? (then something blows out where he had removed a panel, knocking him off his feet) LAFORGE: I'm all right, but I think we've got a new problem. One of the energy conduits must've ruptured and ignited the polyduranide inside the bulkhead. That's a plasma fire.#
+LAFORGE: Where?#
+LAFORGE: I'm all right, but I think we've got a new problem. One of the energy conduits must've ruptured and ignited the polyduranide inside the bulkhead. That's a plasma fire.#
 LAFORGE: We've got a bigger problem than that. The quaratum in these containers is used in emergency thruster packs. It's normally pretty stable stuff but when you expose quaratum to radiation, it has a way of exploding.#
 LAFORGE: What are the radiation levels in the quaratum?#
 LAFORGE: That stuff gets unstable at around three hundred and fifty rads. I still haven't been able to get any power to this transporter.#
@@ -2277,7 +2299,7 @@ LAFORGE: We just need to find something in here to hold onto while the air is ev
 LAFORGE: Yeah, that ought to do it.#
 LAFORGE: Sounds like fun.#
 LAFORGE: Okay. Once the air is evacuated, one of us is going to need to get to that panel to repressurise the bay.#
-LAFORGE: We're ready. Are you okay? (one touch of a button, up goes the outer door, some hyperventilating, another command and out goes the air, the barrels and the green fire. Geordi closes the doors and they set off across the bay, but he collapses halfway. Beverly just makes it and air rushes back in)#
+LAFORGE: We're ready. Are you okay?#
 LAFORGE: I'm up to my neck in observation schedules right now. Our biggest hurdle is sensor availability.#
 LAFORGE: Fifteen science teams, only two weeks, and one long-range array don't make for a great combination.#
 LAFORGE: They're booked solid for planetary observation.#
@@ -2447,7 +2469,7 @@ LAFORGE: What's that?#
 LAFORGE: A multiphase tractor beam?#
 LAFORGE: We'd need Hannah on the ship.#
 LAFORGE: It won't affect her DNA at all. There's been over a century of evidence to prove that.#
-LAFORGE: Enterprise, three to beam up. Energise. Captain's log, supplemental. Commander La Forge and Hannah Bates have spent three days trying to find a way to adjust the path of the core fragment. If they do not succeed in the next forty eight hours, we will need to begin evacuation.#
+LAFORGE: Enterprise, three to beam up. Energise.#
 LAFORGE: It's just going to blow the emitters again.#
 LAFORGE: Yeah. I haven't had any sleep in so long, my eyelids feel like they have lead weights attached.#
 LAFORGE: Hmm?#
@@ -2469,7 +2491,7 @@ LAFORGE: But if we also fortify the biosphere's structural integrity at the same
 LAFORGE: Of course, we'll have to lend them some of our engineering support crews.#
 LAFORGE: We'll need to bring down engineering crews from the Enterprise to work with your people for the next forty eight hours.#
 LAFORGE: They have to install five new shield generators and power supplies.#
-LAFORGE: Enterprise, you may begin transport when ready. (the first five plus equipment arrive immediately. There's another tremor) Captain's log, supplemental. The Enterprise has moved to a parallel course with the core fragment. We must adjust its trajectory by a minimum of one point two degrees to ensure the colony's safety.#
+LAFORGE: Enterprise, you may begin transport when ready.#
 LAFORGE: Yes, sir. Good luck.#
 LAFORGE: Engage tractor beam. Okay, let's give it a try. Shutting down non-critical systems.#
 LAFORGE: Transferring warp power to tractor beam generator.#
@@ -2540,7 +2562,7 @@ LAFORGE: I might be able to interrupt the forcefield for a few seconds, but I'll
 LAFORGE: A micro-optic drill through the ceiling. They'll never detect it.#
 LAFORGE: Section two B, A, section one.#
 LAFORGE: I hear you. This is what starship designers call easy access. Yeah, yeah, this is it. I thought we might have a problem with conduit number two twenty seven but it looks like we're going to be able to get by it.#
-LAFORGE: Good. Let's hook up the scanner and see what we've got. (She places the big device over her tiny hole and looks at the scene below on a monitor)#
+LAFORGE: Good. Let's hook up the scanner and see what we've got.#
 LAFORGE: We're halfway home. La Forge to Crusher. How're you doing?#
 LAFORGE: You should be able to do that by flooding Ten Forward with ionogenic particles.#
 LAFORGE: We still have to calibrate the plasma inverter, Commander. My guess is forty five minutes to an hour.#
@@ -2555,10 +2577,11 @@ LAFORGE: I've got a good excuse for you. The transporters aren't going to work a
 LAFORGE: Yes, sir.#
 LAFORGE: I've isolated cargo bay four with a neutrino field, sir, but it'll only take Data and O'Brien a couple of minutes to override it, once they discover that it's there.#
 LAFORGE: No question about it. She was bluffing, Worf.#
-LAFORGE: I'm still reading some chlorinide leakage, but I can't pin it down. LAFORGE: Maybe up here.#
+LAFORGE: I'm still reading some chlorinide leakage, but I can't pin it down.#
+LAFORGE: Maybe up here.#
 LAFORGE: You had jacks and eights, she bluffed you with a pair of sixes.#
 LAFORGE: Let's just say I had a special insight into the cards. Maybe next time you should bring a deck that's not transparent to infrared light. Not to worry, Worf. I only peek after the hand is over. Still nothing. I'll get a dynoscan. We'll try again.#
-LAFORGE: Yes. If anything changes, you let me know. Ensign, run a dynoscan. (Worf carries on scanning with the tricorder, as a barrel stacked on top of the leaking one starts to topple forward until)#
+LAFORGE: Yes. If anything changes, you let me know. Ensign, run a dynoscan.#
 LAFORGE: Worf!#
 LAFORGE: La Forge to Sickbay! Medical emergency in cargo bay three!#
 LAFORGE: That's it, Commander, everything checks out. The energy buffer is installed and functioning. I estimate it should reduce the power drain to your systems by about forty percent.#
@@ -2654,7 +2677,7 @@ LAFORGE: It's the first step in purging the plasma exhaust.#
 LAFORGE: Yeah, the engine would probably ignite the plasma.#
 LAFORGE: That may be, but we've still got over two hundred reports of malfunctioning replicators.#
 LAFORGE: Well, we'd better look into it, whatever it is, before the captain decides to order dinner.#
-LAFORGE: Yeah, dash six four. Here we are. Some kind of intermittent EM field pattern. Give me a hand with that, will you, Data? There's no plasma leakage, just a little negative ion charging. (and a large dollop of orange gloop which falls from the exposed circuitry)#
+LAFORGE: Yeah, dash six four. Here we are. Some kind of intermittent EM field pattern. Give me a hand with that, will you, Data? There's no plasma leakage, just a little negative ion charging.#
 LAFORGE: When we opened the panel, we discovered that the interface had been transformed into a gelatinous material that we haven't been able to identify.#
 LAFORGE: Coming online now.#
 LAFORGE: We're almost there.#
@@ -2665,7 +2688,7 @@ LAFORGE: Well, it looks like the only alloy common to both the replicator and th
 LAFORGE: According to the mass spectrometer, the elements in the residue have been broken down into simpler molecular structures.#
 LAFORGE: Maybe that's it, Data. If a living organism ingested the nitrium.#
 LAFORGE: If that's true, if something's eating away at the nitrium on the ship. That means the dilithium chamber is vulnerable, as well as the power transfer conduits. We'd better get to Engineering.#
-LAFORGE: So far, these transfer conduits are clean, too. Hold on, I'm getting something here. There's a severe energy fluctuation in this access panel. (La Forge removes the cover and the silver stuff floats up the wall to the ceiling, then gloop starts to dribble down)#
+LAFORGE: So far, these transfer conduits are clean, too. Hold on, I'm getting something here. There's a severe energy fluctuation in this access panel.#
 LAFORGE: Once we saw that photonic trail moving through the wall, we realised we must be dealing with a metal parasite of some kind.#
 LAFORGE: No, sir, not that we can tell. But we've got nitrium everywhere. The computers, the life support, the ventilation, the engines, even the dilithium chamber.#
 LAFORGE: We should think about going back there. The parasites could possibly be lured back to the asteroids for a meal that's more appealing than we are.#
@@ -2735,8 +2758,10 @@ LAFORGE: That's gratitude for you.#
 LAFORGE: I've been rationing his portions of energy. I think he understands. When he cooperates, he gets fed. If not.#
 LAFORGE: Look, if I'm going to figure out his command pathways, I need to learn how he processes information, and the only way I know to do that is by giving him perceptual tests. And for that, I need his cooperation.#
 LAFORGE: Doctor.#
-LAFORGE: Okay, I think we're ready to transport him. If he gives us any trouble, we can access the force field through that console. Are you ready? LAFORGE: La Forge to transporter room three. We're ready here.#
-LAFORGE: Energise. (the Borg and a security man beam in. The Borg is inside the apparatus and plugs himself into a power conduit) LAFORGE: Third of Five, this is Doctor Crusher. Doctor Crusher, this is Third of Five.#
+LAFORGE: Okay, I think we're ready to transport him. If he gives us any trouble, we can access the force field through that console. Are you ready?#
+LAFORGE: La Forge to transporter room three. We're ready here.#
+LAFORGE: Energise.#
+LAFORGE: Third of Five, this is Doctor Crusher. Doctor Crusher, this is Third of Five.#
 LAFORGE: Yeah.#
 LAFORGE: Yeah, that's right. Listen, Third of Five, Doctor Crusher here has repaired a lot of the damage to your biochip implants. We want to run a few tests, make sure everything's working okay.#
 LAFORGE: Yes, but before that happens, could we ask you a few questions?#
@@ -2806,7 +2831,7 @@ LAFORGE: Fine. You go make peace with yourself, all right? I'm going to transpor
 LAFORGE: Really?#
 LAFORGE: A chroniton field?#
 LAFORGE: The transporter beam.#
-LAFORGE: La Forge to Ensign Ro. (then realises the comm. system doesn't work for them)#
+LAFORGE: La Forge to Ensign Ro.#
 LAFORGE: Hey, there you are. Excuse me, Captain. Listen, Data's taking the next shuttle over to the Romulan vessel and we need to be on it.#
 LAFORGE: because I think what happened to us, the answers are over there.#
 LAFORGE: Look, if you're right then we're dead and this doesn't make any difference. But if I'm right, then we're still alive and I'm going to need your help.#
@@ -2819,7 +2844,7 @@ LAFORGE: And us.#
 LAFORGE: Not just cloaked, phased. Our entire molecular structure altered so that we don't have any substance.#
 LAFORGE: Yes. It would also mean that there's probably a way to de-phase us.#
 LAFORGE: We've got to get to the Enterprise and warn them.#
-LAFORGE: I don't know, but we have to find a way. Come on. (A Romulan who had been sitting in a chair gets up, walks through a console and follows them. He gets to the Enterprise on a shuttle, too)#
+LAFORGE: I don't know, but we have to find a way. Come on.#
 LAFORGE: The Romulans must be hiding it in a sensor return signal. Unless someone runs a level three diagnostic, they'd never detect it. There must be a way to warn them before the ship goes to warp.#
 LAFORGE: There's no reason why the interphase device would be producing new fields aboard this ship.#
 LAFORGE: Ro, look at this.#
@@ -2847,14 +2872,16 @@ LAFORGE: We're right here, Worf. Damn.#
 LAFORGE: Yeah, I know.#
 LAFORGE: We've got to do something now, before they go into warp.#
 LAFORGE: Do it.#
-LAFORGE: Okay, hang on. (Ro and Geordi are right next to Picard and Data when they sparkle and are faintly visible) LAFORGE: Data, can you see us?#
+LAFORGE: Okay, hang on.#
+LAFORGE: Data, can you see us?#
 LAFORGE: We're right here! We're right here!#
 LAFORGE: Come on, Data. Put it all together now.#
 LAFORGE: Data, please be right.#
 LAFORGE: Data, do you see us?#
 LAFORGE: La Forge to Engineering. Take the warp engines off line until further notice. There's a muon wave build up in the dilithium chamber.#
 LAFORGE: It looks like a great party. Do you mind if we join you?#
-LAFORGE: Thanks, Data. I've never been to a better funeral. (later, the party is over and Ro and Geordi are alone. Geordi is eating) LAFORGE: Could you pass the rolls?#
+LAFORGE: Thanks, Data. I've never been to a better funeral.#
+LAFORGE: Could you pass the rolls?#
 LAFORGE: Come on. We didn't eat for almost two days. I'm hungry. What's wrong?#
 LAFORGE: Come on.#
 LAFORGE: Maybe we should develop our own interphase device. If it can teach Ro Laren humility, it can do anything.#
@@ -2901,11 +2928,12 @@ LAFORGE: Sir.#
 LAFORGE: We're ready now, Captain. The subspace field is established.#
 LAFORGE: I've modified this tricorder to interface with the subspace generator. It should allow me to control the phase discrimination, assuming this is going to work at all. I need everyone within the field. Adjusting synchronic distortion. Point zero zero one. Point zero zero two.  Point zero zero three. Point zero zero four.#
 LAFORGE: The phase displacement might not bring us far enough into their perceptual range.#
+LAFORGE: They found Data's head a mile beneath San Francisco. Been down there about five centuries.#
 LAFORGE: You know, we might even be able to rig some kind of alien alarm system.#
 LAFORGE: None. The tricorder's broadcasting random emissions on all frequencies his sub-processors might pick up, but the range is limited. Almost anything could interfere.#
 LAFORGE: She's back.#
 LAFORGE: There, by that bed. I can see an afterimage of triolic waves. They've been here recently. I'd say within the last twenty four hours.#
-LAFORGE: Doctor! (Geordi gets the snake cane off the male and Riker stuns him to no effect. The couple vanish)#
+LAFORGE: Doctor!#
 LAFORGE: Boy, are we glad to see you.#
 LAFORGE: If we tune a phaser to the approximate frequency of triolic waves and lay down a field burst, it might respond.#
 LAFORGE: These look like minute distortions in the space-time continuum, like the one we saw on Devidia Two.#
@@ -2988,7 +3016,7 @@ LAFORGE: Starting biofilter scan.#
 LAFORGE: His signal resolution's dropped to fifty five percent.#
 LAFORGE: I know, I know. Just give me one more second. We need more dispersion. Increase phase transition frequency#
 LAFORGE: Got it. Pattern acquisition Positive.#
-LAFORGE: Don't worry, Reg. This won't hurt a bit. (now there are three 'microbes' with Barclay. He grabs the first one and clutches it to his chest)#
+LAFORGE: Don't worry, Reg. This won't hurt a bit.#
 LAFORGE: There's something in the beam with him. Security to Transporter room three.#
 LAFORGE: Reg, what happened?#
 LAFORGE: It looks like he pushed molecular dispersion past the integrity point. Your patterns got caught in the beam.#
@@ -3000,7 +3028,7 @@ LAFORGE: Commander. The transporter is still online. It's being fed power from t
 LAFORGE: That's not all. The phase inducers are connected to the emitter array. The override is completely gone and the pattern buffer's been locked into a continuous diagnostic cycle.#
 LAFORGE: There's a pattern in the buffer still.#
 LAFORGE: I don't know. I've never seen a transporter jury-rigged like this.#
-LAFORGE: I know a way to find out. (The portly, silver-haired, late middle-aged figure of a certain starship chief engineer materialises. He is wearing a TOS movie era uniform and his left arm in a sling)#
+LAFORGE: I know a way to find out.#
 LAFORGE: Someone else's pattern is still in the buffer?#
 LAFORGE: Not to worry, Commander. I'll take care of him, sir.#
 LAFORGE: Those were replaced with isolinear chips about forty years ago. It's a lot more efficient now. That's an EPS power tap.#
@@ -3063,11 +3091,12 @@ LAFORGE: You can't be serious. That hatch is huge. It'll crush this ship like an
 LAFORGE: Scotty, it's crazy.#
 LAFORGE: All right. Let's do it.#
 LAFORGE: We're at five hundred thousand kilometres.#
-LAFORGE: Okay. Here we go. (the four beams shoot out and start searching for something to lock on to as the spacedoors open) LAFORGE: Come on. There's nothing out here. Give it up.#
-LAFORGE: That's it. Let's go! Full impulse. (the Jenolen parks in the doorway, shields glistening as the spacedoors press against them)#
+LAFORGE: Okay. Here we go.#
+LAFORGE: Come on. There's nothing out here. Give it up.#
+LAFORGE: That's it. Let's go! Full impulse.#
 LAFORGE: We're using the Jenolen to hold open the hatch that you came through, but our shields aren't going to hold out much longer.#
 LAFORGE: I've lost helm control. La Forge to Enterprise. Captain, we're not going to be able to move this ship out of the way when you get here.#
-LAFORGE: So, this alien space baby, which was about the size of a four story building, really thought the Enterprise was its mother.#
+LAFORGE: So, this#
 LAFORGE: No, really. It was suckling power directly from the ship's fusion reactors, so Doctor Brahms and I changed the power frequency from twenty one centimetres to point oh two centimetres.#
 LAFORGE: That's right.#
 LAFORGE: Actually, I had a better idea.#
@@ -3098,6 +3127,7 @@ LAFORGE: That's my guess.#
 LAFORGE: Aye, sir.#
 LAFORGE: Sure, Commander. Goodnight.#
 LAFORGE: Gordon.#
+LAFORGE: Good morning.#
 LAFORGE: Commander, it's oh seven hundred hours.#
 LAFORGE: Just before the grid alarm sounded, we were running warp power through this junction. Somehow, it must've tripped the internal scanners.#
 LAFORGE: Yes, but the question is, why? I've made modifications to the sensors before but nothing like this has ever happened.#
@@ -3159,13 +3189,14 @@ LAFORGE: Well, because we can't use the transporters for all of the ionisation i
 LAFORGE: How did you know that?#
 LAFORGE: Well then, you know that a thousand barystatic filters puts out quite a bit of ionisation.#
 LAFORGE: Yeah, they've managed to pollute their atmosphere pretty badly.#
-LAFORGE: You're right. Actually, the only thing the filters can do is keep things from getting worse. (Amanda looks over to Riker, and sees a container fall from the level above him. With a gesture, she diverts its fall so it misses him) LAFORGE: They shoot the air full of#
+LAFORGE: You're right. Actually, the only thing the filters can do is keep things from getting worse.#
+LAFORGE: They shoot the air full of#
 LAFORGE: Commander, are you all right? You okay?#
 LAFORGE: this is the main control area. We can access any of the primary circuits from all of these panels. Over here is a Jeffries tube.#
 LAFORGE: You've been doing your homework.#
 LAFORGE: Injector couplings are frozen. I can't slow down the reaction.#
 LAFORGE: La Forge to Bridge! We're looking at a core breach! We're going to have to try and vent the plasma!#
-LAFORGE: We're going to lose containment. All right, everybody out of here now. Let's go! Let's move it! Data, bring down the isolation door. We're going to have to eject the warp core. (the chamber explodes, but Amanda holds out her hands and pushes the reaction back inside and seals it again)#
+LAFORGE: We're going to lose containment. All right, everybody out of here now. Let's go! Let's move it! Data, bring down the isolation door. We're going to have to eject the warp core.#
 LAFORGE: No, sir. Everything was normal and then suddenly it's like the laws of physics went right out the window.#
 LAFORGE: Are you saying that you created a core breach just to test this girl?#
 LAFORGE: Commander, we're all loaded here. We can head for the surface whenever you're ready.#
@@ -3189,7 +3220,7 @@ LAFORGE: Forward sensor array coming online. We're getting a clear scan.#
 LAFORGE: Dampers online. Maintenance check in progress. Data, I think we're on to something here. Let's see what you can do with secondary systems. Try gravitational control.#
 LAFORGE: What's wrong?#
 LAFORGE: You all right?#
-LAFORGE:  Maybe the interface coding isn't as stable than we thought. Looks like we've got a couple of hours of systems analysis before we can try this again. Let's check the interface programming. (Data picks up a tricorder, flips it over, then pushes it down into his 'holster')#
+LAFORGE:  Maybe the interface coding isn't as stable than we thought. Looks like we've got a couple of hours of systems analysis before we can try this again. Let's check the interface programming.#
 LAFORGE: Well, the PADDs are functioning normally. It seems to be a problem with the information retrieval net. Somehow when you tried to call up your play, the computer accessed Data's literary files.#
 LAFORGE: We'd better run a level two diagnostic on the computer. See if this problem has spread to any other systems.#
 LAFORGE: That's a good idea.#
@@ -3198,7 +3229,7 @@ LAFORGE: We think our interface experiment may have caused one of the computer's
 LAFORGE: Library computer access, replicator selection, recreational programming. No critical systems.#
 LAFORGE: It's the same with Doctor Crusher's play, and with the food replicators.#
 LAFORGE: There, Data, you did it again.#
-LAFORGE: Aye, sir. (Data walks with a cowhand's roll, and spits in the plant in the corner)#
+LAFORGE: Aye, sir.#
 LAFORGE: Specifically, the files relating to the nineteenth century American West.#
 LAFORGE: I'm afraid so. But we've initiated a progressive memory purge to restore Data's programming to its original state. He should be back to normal in a couple of hours.#
 LAFORGE: We started a memory purge there as well. It'll take another hour, maybe two.#
@@ -3224,7 +3255,7 @@ LAFORGE: What is this?#
 LAFORGE: The confinement field is at full strength. Particle flux steady. All power levels are back to normal.#
 LAFORGE: We're fine, Data. The power grid is fully restored.#
 LAFORGE: The malfunction seems to have been repaired and operations over here at the station are all back to normal.#
-LAFORGE: You know, I'm not exactly sure. Captain's log, stardate 46315.2. Repairs to the particle fountain seem to have succeeded and it is now functioning smoothly. Doctor Farallon is coming aboard to demonstrate the device that carried out the repairs.#
+LAFORGE: You know, I'm not exactly sure.#
 LAFORGE: Why don't we set up in Engineering.#
 LAFORGE: Doctor, this way please.#
 LAFORGE: Boridium power converter. Axionic chip network. It's very impressive. In terms of sheer computational speed, this little guy might be able to compete with you, Data.#
@@ -3256,7 +3287,7 @@ LAFORGE: Then why don't we just threaten its survival again and see what happens
 LAFORGE: Doctor, we're pretty much ready here. You can begin programming it. What we've done, Captain, is to recreate a situation similar to the one the exocomp encountered in the plasma conduit.#
 LAFORGE: Yes, sir. We're running a transient overload signal that will simulate a failure in exactly one minute.#
 LAFORGE: Okay. Beginning test programme now. One minute.#
-LAFORGE: Fifty seconds.  Thirty seconds. (it stops and hesitates, then continues) Ten seconds. Five, four, three, two, one. That's it. If this had been for real, that conduit would've exploded with the exocomp inside. Go ahead, Doctor, bring it back in.#
+LAFORGE: Fifty seconds.  Thirty seconds.  Ten seconds. Five, four, three, two, one. That's it. If this had been for real, that conduit would've exploded with the exocomp inside. Go ahead, Doctor, bring it back in.#
 LAFORGE: It looks like there's still some difficulty with the phase selectors.#
 LAFORGE: Maybe it's another power grid malfunction?#
 LAFORGE: Captain, a radiation field is going to flood this chamber. We've got to get everybody out of here immediately.#
@@ -3333,8 +3364,9 @@ LAFORGE: Not yet. I can't get past these security lock-outs, and I think I know 
 LAFORGE: Looks like somebody tried to by pass the access protocols and break into the coded messages. It caused the security lockouts to freeze right up.#
 LAFORGE: I won't know until I get into the files.#
 LAFORGE: Yeah.#
-LAFORGE: I'm going to try accessing the logs from another console. (he and the dog go into an adjoining room where a monitor is displaying static)#
-LAFORGE: What's going on here? Well, we can start with repolarising the interface. (woof! The dog is on a bed. There is a display stand with a few items on it) LAFORGE: What is it, pup? What's the matter? Something over here? (a curved gold thing with blue stones) This doesn't look like it belongs to you. Ah, This what you want, huh?  There you go. Computer, run station logs in sequence.#
+LAFORGE: I'm going to try accessing the logs from another console.#
+LAFORGE: What's going on here? Well, we can start with repolarising the interface.#
+LAFORGE: What is it, pup? What's the matter? Something over here?  This doesn't look like it belongs to you. Ah, This what you want, huh?  There you go. Computer, run station logs in sequence.#
 LAFORGE: Computer, access visual output.#
 LAFORGE: Computer, access correspondence files, Lieutenant Aquiel Uhnari.#
 LAFORGE: Come on, Lieutenant. Stick with me.#
@@ -3404,7 +3436,7 @@ LAFORGE: Sure.#
 LAFORGE: Thanks.#
 LAFORGE: Computer, display the Engineering duty roster for the next three days.#
 LAFORGE: Maura, come on, not now. Maura, I said not now. Come on, give me a break here. Go lay down!#
-LAFORGE: Maura? (the dog is turning into orange gloop. Geordi scrambles across the room and gets a phaser from a drawer. He fires, then ups the power and fires again. Eventually the gloop is destroyed)#
+LAFORGE: Maura?#
 LAFORGE: Maybe the reason you don't remember anything that happened after Rocha attacked you is that the coalescing process had begun.  Thank you. Remember when you said you felt like the memories had been drained right out of you? That's probably exactly what was going on.#
 LAFORGE: Whatever happened, at least you got away before the process took hold.#
 LAFORGE: Right. Well, what now?#
@@ -3424,7 +3456,8 @@ LAFORGE: A plasma shock overloaded your positronic net. You were down a good thi
 LAFORGE: Data, I can't find anything wrong with your positronic subprocessors or your circuit controllers. No sign of any residual energy fluctuation, cascade overload.#
 LAFORGE: There's no doubt about it, Data. You were completely shut down. Maybe you had some kind of random power fluctuation, caused you to access one of your memory files.#
 LAFORGE: I'll take another look at the diagnostic log. In the meantime, you'd better disconnect that device.#
-LAFORGE: Data, what are you doing? We were supposed to meet at (There are lots of paintings stacked around the walls. Corridor, hammer striking metal, hand. Data is working on two more at the same time.) LAFORGE: Data, what are you doing?#
+LAFORGE: Data, what are you doing? We were supposed to meet at#
+LAFORGE: Data, what are you doing?#
 LAFORGE: I can see that. How long have you been at this?#
 LAFORGE: I'll say.#
 LAFORGE: Has it helped?#
@@ -3536,7 +3569,7 @@ LAFORGE: Let's take a closer look.#
 LAFORGE: I think we've found the problem.#
 LAFORGE: Organic?#
 LAFORGE: Yes, Captain. It looks to me like they were trying to stop whatever was happening here.#
-LAFORGE: I think so, Captain. Wait. Something's not right here. Data, was this man always standing right here. (the Romulan grabs Geordi, there's an energy flash and they both fall. Geordi is convulsing)#
+LAFORGE: I think so, Captain. Wait. Something's not right here. Data, was this man always standing right here.#
 LAFORGE: Shields down to eighty percent. Compensating with auxiliary power.#
 LAFORGE: Captain, the alien ship is breaking orbit.#
 LAFORGE: They're gone, sir. Our sensors indicate there was some kind of subspace distortion just before they disappeared. I'll have to study these readings before I can get more specific than that.#
@@ -3547,7 +3580,7 @@ LAFORGE: Well, okay. When I feel angry, first I feel hostile.#
 LAFORGE: It's like feeling belligerent, combative.#
 LAFORGE: No, I guess I can't. I just feel angry.#
 LAFORGE: Well, let's say you're right and this is a real emotion. How is that possible?#
-LAFORGE: Well, I hope you're right. I'd hate to think that anger is all you're capable of feeling. Captain's log, stardate 46984.6. No additional Borg attacks have been reported in the past two days. However, Starfleet has dispatched Admiral Nechayev to take command in this sector in preparation for a possible Borg invasion.#
+LAFORGE: Well, I hope you're right. I'd hate to think that anger is all you're capable of feeling.#
 LAFORGE: Data, am I interrupting something?#
 LAFORGE: I wanted to see if you were ready to return to duty. I need some help with an analysis of the ship the Borg were using.#
 LAFORGE: Data, exactly what is it that are you're doing here?#
@@ -3569,7 +3602,7 @@ LAFORGE: Compensating with auxiliary power.#
 LAFORGE: Captain.#
 LAFORGE: I've scanned three different star systems within sensor range. There is evidence of at least two advanced civilisations but I'm reading no life signs. But there are indications that plasma weapons have been fired in those systems recently.#
 LAFORGE: It looks more like a natural phenomenon. There's an unusually high amount of EM interference in the planet's magnetosphere.#
-LAFORGE: We could, but there could be fifty Borg down there waiting for us and we'd never even know it.#
+LAFORGE: We could, but there could be fifty Borg down there waiting for us and we'd never even know it. RIKER: I think we have to take the risk.#
 LAFORGE: Well, Data can move pretty fast even over rough terrain, but based on what we know about the Borg, I don't think they should be able to move any faster than you or I. They might have been able to get fifteen or twenty kilometres from the shuttle by now.#
 LAFORGE: Aye, sir.#
 LAFORGE: Who'll be in command of the Enterprise?#
@@ -3620,7 +3653,7 @@ LAFORGE: Will do. Wait a minute.#
 LAFORGE: Something's wrong. Can't get my left leg to work.#
 LAFORGE: There it goes. I'm on my way down.#
 LAFORGE: Nothing. I'm seeing my reflection in a panel.#
-LAFORGE: I forgot what a handsome guy I am. Captain's log, stardate 47215.5. We are responding to a distress call from the science vessel Raman, which is apparently trapped inside the turbulent atmosphere of an unusual gas giant planet. We will use an experimental interface probe in our attempt to rescue it.#
+LAFORGE: I forgot what a handsome guy I am.#
 LAFORGE: Something must have happened down there. Maybe the shields failed, or they had some kind of inversion reaction in the nacelles.#
 LAFORGE: Our biosensors are useless. There's too much interference in the atmosphere.#
 LAFORGE: But we may have to operate the probe at close to tolerance levels.#
@@ -3754,7 +3787,7 @@ LAFORGE: Yes, Captain?#
 LAFORGE: Sorry, Captain, but I can't do that.#
 LAFORGE: If I come back now, my mother and her entire crew will die.#
 LAFORGE: I'm scanning for your ship. I'm not getting anything.#
-LAFORGE: No, not really. I should be picking something up by now. I'm not finding anything. There's no warp funnel, no ship. There's nothing there. (Silva is behind Geordi, moving her hands to the side of his head. Red energy passes from her fingers to Geordi)#
+LAFORGE: No, not really. I should be picking something up by now. I'm not finding anything. There's no warp funnel, no ship. There's nothing there.#
 LAFORGE: Reverse tractor beam.#
 LAFORGE: What are you?#
 LAFORGE: You're, you're trapped?#
@@ -3792,7 +3825,7 @@ LAFORGE: Commander, I think I've got something. I've been studying the comm. lin
 LAFORGE: So you think this is their flight plan?#
 LAFORGE: We could be there in five.#
 LAFORGE: Data, there you are. We need to install that plasma conduit right away. We're bringing the new warp core on line in less than three hours.#
-LAFORGE: Great. I'll meet you in Engineering as soon as you're finished there. This ought to be a lot of fun. (Data walks on, until he reaches an intersection. There is the sound of an old telephone ringing, then he sees three nineteenth century style workmen hacking a hole the bulkhead with picks)#
+LAFORGE: Great. I'll meet you in Engineering as soon as you're finished there. This ought to be a lot of fun.#
 LAFORGE: Yeah, sure, Data. Everybody does from time to time.#
 LAFORGE: Nightmares are part of dreaming, Data. Maybe you've just discovered another new level to your programme.#
 LAFORGE: Well, it's perfectly normal, Data. Sometimes when I have a nightmare, I can't shake that weird feeling for a couple of days.#
@@ -3814,7 +3847,8 @@ LAFORGE: You know, Data, there's an awful lot we don't know about your dream pro
 LAFORGE: You know, I'm curious. What were you dreaming about when we woke you up?#
 LAFORGE: Sounds like it must have been pretty strange.#
 LAFORGE: We've just started it up, Captain. All systems are holding steady.#
-LAFORGE: It looks like we've blown the entire power converter, Captain. Impulse engines are down too. We're not going anywhere. But I know just how to fix this. Give me two, three hours, tops. LAFORGE: Now what?#
+LAFORGE: It looks like we've blown the entire power converter, Captain. Impulse engines are down too. We're not going anywhere. But I know just how to fix this. Give me two, three hours, tops.#
+LAFORGE: Now what?#
 LAFORGE: Tyler, how're you coming with that relay diagnostic?#
 LAFORGE: No, Data, I haven't had the time. Listen, I want you to take this brace coil and run a metallurgical scan on it for me. See if there are any microfractures.#
 LAFORGE: Something wrong, Data?#
@@ -3854,7 +3888,7 @@ LAFORGE: Necessary? Data, the cat is out of control. Half the time I wasn't sure
 LAFORGE: She needs training.#
 LAFORGE: Right, we have to get her out of here. I'll scare her. You grab her when she comes out, okay?#
 LAFORGE: Ready? Ow!#
-LAFORGE: Training. Definitely. Captain's log, Stardate 47310.2. We're investigating the disappearance of the Medical Transport Fleming somewhere in the Hekaras Corridor. Our search is complicated by the unique properties of this particular region of space.#
+LAFORGE: Training. Definitely.#
 LAFORGE: They won't be very effective. The interference will make it difficult to maintain contact with the probes. The best we can do is to increase sensor efficiency. We've installed multiphase buffers on all the sensor modules, Captain. It should help a little.#
 LAFORGE: No problem, Data. I'll be right with you. Okay, Hansen, transfer EPS conduit thirteen to the stabiliser matrix.#
 LAFORGE: No.#
@@ -3895,7 +3929,7 @@ LAFORGE: I know, but it could be just enough.#
 LAFORGE: I just received this from Commander Kaplan, subspace.#
 LAFORGE: Can you believe the nerve of that guy?#
 LAFORGE: I know. He's just trying to get me angry. There. That should do it. Computer, what are the current power conversion levels?#
-LAFORGE: Too bad, Mister Kaplan. Captain's log, supplemental. We have traced the Fleming's most likely course. It now appears that the vessel may have come to an unfortunate end.#
+LAFORGE: Too bad, Mister Kaplan.#
 LAFORGE: We have intruders in main Engineering. I need a security team down here immediately.#
 LAFORGE: What do you want?#
 LAFORGE: Captain, I've heard this theory before. Their research was evaluated by the Federation Science Council a few years ago. Quite frankly, it didn't hold up.#
@@ -4090,7 +4124,8 @@ LAFORGE: I'm not sure. But bit by bit, this ship is being transformed.#
 LAFORGE: I'm not sure I want to find out.#
 LAFORGE: Okay, I've locked in the targeting parameters. What's the phase alignment now?#
 LAFORGE: Good, that'll do it. I'm setting the yield at maximum.#
-LAFORGE: Let's see what's going on here? (the torpedo is full of snakes, Masaka is on the wall monitor and there are vines) LAFORGE: Something tells me we'd better get out of here.#
+LAFORGE: Let's see what's going on here?#
+LAFORGE: Something tells me we'd better get out of here.#
 LAFORGE: Well, so far the archive has transformed about twenty percent of the ship. We've lost main propulsion and weapons systems in the process.#
 LAFORGE: We have communications, and limited sensor control. Life support seems to be unaffected.#
 LAFORGE: The stone, the artefacts, are made in much the same way, extrapolating from the ship's own alloys.#
@@ -4139,7 +4174,7 @@ LAFORGE: Thanks, Ensign. Hey, Wes! There you are. Come here for a second. I've g
 LAFORGE: Hey, I ran these diagnostics myself. This little baby will withstand over five hundred Cochranes of warp field stress.#
 LAFORGE: Well, that may be your opinion, Cadet, but I stand by my work.#
 LAFORGE: I don't know what's gotten into you, Wes.#
-LAFORGE: With this kind of an attitude, absolutely not. You're dismissed. Captain's log, supplemental. The Enterprise has arrived at Dorvan Five and I have spoken to the Leader of the Tribal Council. He has agreed to meet with us this afternoon to discuss the situation.#
+LAFORGE: With this kind of an attitude, absolutely not. You're dismissed.#
 LAFORGE: Who's that?#
 LAFORGE: Who are you?#
 LAFORGE: Actually we were hoping that you did.#
@@ -4219,7 +4254,7 @@ LAFORGE: I say go with the nebula.#
 LAFORGE: Yes, Captain, we are.#
 LAFORGE: Aye, sir.#
 LAFORGE: It's working, Captain. The reaction is producing vertion particles.#
-LAFORGE: Captain. (the bizarre thing lifts off the floor, becomes bright light and flies out through the hull)#
+LAFORGE: Captain.#
 LAFORGE: Ro!#
 LAFORGE: Say, I understand that Advanced Tactical Training is a real picnic.#
 LAFORGE: It wasn't easy to find.#

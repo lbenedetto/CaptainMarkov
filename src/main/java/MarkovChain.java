@@ -73,7 +73,10 @@ class MarkovChain {
 				add = true;
 			}
 		}
-		return out + words[words.length - 1];
+		if (words.length % 2 == 0)
+			return out + words[words.length - 1];
+		return out;
+
 	}
 
 	/**
@@ -82,7 +85,7 @@ class MarkovChain {
 	 * @param phrase String
 	 */
 
-	private void addWords(String phrase) {
+	void addWords(String phrase) {
 		if (phrase.equals("#") || phrase.equals("")) return;
 		// put each word into an array
 		String[] words = spliterator(phrase);
@@ -134,24 +137,38 @@ class MarkovChain {
 	 * Generate and show a sentence from the Markov Chain
 	 */
 	private void generateSentence() {
-		// Vector to hold the phrase
-		Vector<String> newPhrase = new Vector<>();
 		// String for the next word
 		String nextWord = "";
 		// Select the first word
 		Vector<String> startWords = markovChain.get("_start");
 		int startWordsLen = startWords.size();
-
 		while (nextWord.isEmpty()) {
 			nextWord = startWords.get(rnd.nextInt(startWordsLen));
 		}
-		newPhrase.add(nextWord);
+		String out = generateSentenceWithSeed(nextWord);
+		System.out.println(out + "\n");
+	}
 
+	String generateSentenceWithSeed(String seed) {
+
+		// Vector to hold the phrase
+		Vector<String> newPhrase = new Vector<>();
+		newPhrase.add(seed);
+		String nextWord = seed;
 		// Keep looping through the words until we've reached the end
 		while (nextWord.charAt(nextWord.length() - 1) != '#') {
 			Vector<String> wordSelection = markovChain.get(nextWord);
-			int wordSelectionLen = wordSelection.size();
-			String wordCandidate = wordSelection.get(rnd.nextInt(wordSelectionLen));
+			String wordCandidate = null;
+			int attempts = 0;
+			while (wordCandidate == null && attempts <= 10) {
+				int ix = rnd.nextInt(wordSelection.size());
+				wordCandidate = wordSelection.get(ix);
+				attempts++;
+			}
+			if (wordCandidate == null) {
+				System.out.println("Couldn't find next word candidate");
+				break;
+			}
 			if (!wordCandidate.isEmpty()) {
 				nextWord = wordCandidate;
 				newPhrase.add(nextWord);
@@ -162,6 +179,6 @@ class MarkovChain {
 			out += s + " ";
 		out = out.replace("#", "");
 		out = removeDuplicateWords(out);
-		System.out.println(out + "\n");
+		return out;
 	}
 }

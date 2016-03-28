@@ -1,44 +1,30 @@
 Episode Number: 419
 The Deep Space Nine Transcripts - Duet
 Duet
-Stardate:
-Unknown
+Stardate: Unknown
 Original Airdate: 14 Jun, 1993
-  [Ops]
-KIRA: We never cared what we did, as long as it
-annoyed the grown-ups. All inner deflector shield sub-systems are
-showing equal intensity. 
-DAX: Power balance levels are reading normal. I was a champion window
-breaker. On a dark night with a few rocks, I was deadly. 
+[Ops]
+KIRA: We never cared what we did, as long as it annoyed the grown-ups. All inner deflector shield sub-systems are showing equal intensity. 
+DAX: Power balance levels are reading normal. I was a champion window breaker. On a dark night with a few rocks, I was deadly. 
 KIRA: Er, which you are you talking about? 
 DAX: We're being hailed by an incoming freighter. 
-KIRA: Open a channel. On screen. Welcome to DS Nine. I'm Major Kira
-Nerys. 
-CAPTAIN [on viewscreen]: This is the Kobheerian freighter Rak-Miunis,
-requesting permission to dock. 
+KIRA: Open a channel. On screen. Welcome to DS Nine. I'm Major Kira Nerys. 
+CAPTAIN [on viewscreen]: This is the Kobheerian freighter Rak-Miunis, requesting permission to dock. 
 KIRA: Docking port six is clear for approach. 
-CAPTAIN [on viewscreen]: Thank you. We have a passenger on board
-requiring medical assistance. 
+CAPTAIN [on viewscreen]: Thank you. We have a passenger on board requiring medical assistance. 
 SISKO: Can you tell us what's wrong with your passenger? 
-CAPTAIN [on viewscreen]: He says it's a condition called Kalla-Nohra.
-It's apparently chronic, but he doesn't have his medication. 
-SISKO: Beam him directly to our Infirmary. we'll have our doctor
-standing by. 
+CAPTAIN [on viewscreen]: He says it's a condition called Kalla-Nohra. It's apparently chronic, but he doesn't have his medication. 
+SISKO: Beam him directly to our Infirmary. we'll have our doctor standing by. 
 CAPTAIN [on viewscreen]: Thank you, Commander. Rak-Miunis out. 
 DAX: Dax to Infirmary. 
 BASHIR [OC]: This is Bashir. Go ahead. 
-DAX: A Kobheerian transport's about to beam a patient to you. He's
-suffering from something called Kalla-Nohra. 
+DAX: A Kobheerian transport's about to beam a patient to you. He's suffering from something called Kalla-Nohra. 
 BASHIR [OC]: I'm not aware of it. I'll check the computer. 
-KIRA: Commander, I'd like to go down to the Infirmary and meet that
-patient. 
+KIRA: Commander, I'd like to go down to the Infirmary and meet that patient. 
 SISKO: Of course. Why? 
-KIRA: The only cases of Kalla-Nohra I know of were the result of a
-mining accident at a Bajoran forced labour camp I helped liberate. The
-survivors of Gallitep have always been a symbol to us of strength and
-courage. 
-SISKO: By all means, Major. Take as much time as you want.
- [Infirmary] 
+KIRA: The only cases of Kalla-Nohra I know of were the result of a mining accident at a Bajoran forced labour camp I helped liberate. The survivors of Gallitep have always been a symbol to us of strength and courage. 
+SISKO: By all means, Major. Take as much time as you want. 
+[Infirmary]
 BASHIR: Ah, Major. I'll be right with you. 
 (The patient is a Cardassian) 
 KIRA: Kira to Odo. 
@@ -47,193 +33,132 @@ KIRA: I'm in the Infirmary. I need security here on the double.
 ODO [OC]: I'm on my way, Major. 
 BASHIR: What's the matter, Major. 
 KIRA: Your patient is a criminal. 
-(The Cardassian make a run for it)
- [Promenade] 
+(The Cardassian make a run for it) 
+[Promenade]
 (Straight into the arms of Bajoran security) 
 ODO: Good afternoon. I assume this is the problem? 
 MARRITZA: Problem? 
 KIRA: Lock him up. 
 MARRITZA: This is outrageous. On what charge? 
-BASHIR: Will someone tell me what's going on? This man needs medical
-care. 
+BASHIR: Will someone tell me what's going on? This man needs medical care. 
 KIRA: Then give it to him in his cell. 
 MARRITZA: I haven't done anything. 
 ODO: Then why did you run? 
-MARRITZA: I'm trying to get away from this Bajoran fanatic. Look at the
-hate in her eyes. She'd like to kill me. 
+MARRITZA: I'm trying to get away from this Bajoran fanatic. Look at the hate in her eyes. She'd like to kill me. 
 ODO: Oh? And why would that be? 
 MARRITZA: Well, it's obvious. I'm a Cardassian. 
-KIRA: He's not just any Cardassian. He's a war criminal.
- [Security office] 
+KIRA: He's not just any Cardassian. He's a war criminal. 
+[Security office]
 SISKO: You're saying this man, what's his name? 
 ODO: Marritza. Aamin Marritza. 
-SISKO: You're saying Marritza's on the Bajoran's list of Cardassians
-wanted for war crimes? 
+SISKO: You're saying Marritza's on the Bajoran's list of Cardassians wanted for war crimes? 
 ODO: He's not on any list I've seen, Commander, and I've got them all. 
 KIRA: I don't care if he's listed or not. 
-SISKO: Hold on, Major. Marritza's travelling on a Federation ship. He
-comes here for a medical emergency, and we throw him into a security
-cell. I, for one, hope he's listed. 
-KIRA: Commander, I know what I've done isn't exactly policy. It may not
-even be legal. But it's right. 
+SISKO: Hold on, Major. Marritza's travelling on a Federation ship. He comes here for a medical emergency, and we throw him into a security cell. I, for one, hope he's listed. 
+KIRA: Commander, I know what I've done isn't exactly policy. It may not even be legal. But it's right. 
 SISKO: All right, Major, what do we charge him with? 
 KIRA: I'm charging him with having contracted Kalla-Nohra. 
 SISKO: Do you want to explain that to me? 
-KIRA: The only way he could have contracted that condition was to have
-served at the Gallitep labour camp at the time of the mining accident. 
+KIRA: The only way he could have contracted that condition was to have served at the Gallitep labour camp at the time of the mining accident. 
 SISKO: So that makes him a war criminal, just being there? 
-KIRA: Commander, if you'd been there twelve years ago when we liberated
-that camp, if you'd seen the things I saw. All those Bajoran bodies
-starved, brutalised. Do you know what Cardassian policy was? Oh, I'm
-not even talking about the murder. Murder was just the end of the fun
-for them. First came the humiliation, mothers raped in front of their
-children, husbands beaten till their wives couldn't recognise them, old
-people buried alive because they couldn't work anymore. 
+KIRA: Commander, if you'd been there twelve years ago when we liberated that camp, if you'd seen the things I saw. All those Bajoran bodies starved, brutalised. Do you know what Cardassian policy was? Oh, I'm not even talking about the murder. Murder was just the end of the fun for them. First came the humiliation, mothers raped in front of their children, husbands beaten till their wives couldn't recognise them, old people buried alive because they couldn't work anymore. 
 SISKO: I think I'll have a talk with our guest. 
 KIRA: I'll come with you. 
-SISKO: No, Major. It'd be better if I spoke to him alone.
-[Holding cell] 
+SISKO: No, Major. It'd be better if I spoke to him alone. 
+[Holding cell]
 SISKO: How do you feel? 
 MARRITZA: Better, thank you. 
 SISKO: I'm Benjamin Sisko. I'm in charge of this station. 
-MARRITZA: Oh, finally, the Federation to the rescue. Are you going to
-let me out of here? 
+MARRITZA: Oh, finally, the Federation to the rescue. Are you going to let me out of here? 
 SISKO: I hope so. Tell me, how did you contract Kalla-Nohra syndrome? 
 MARRITZA: I don't have Kalla-Nohra. I have Pottrik Syndrome. 
 SISKO: The freighter captain said it was Kalla-Nohra. 
-MARRITZA: A very similar condition. Take the same medication, as a
-matter of fact. 
+MARRITZA: A very similar condition. Take the same medication, as a matter of fact. 
 SISKO: Then you didn't serve at the Gallitep labour camp? 
-MARRITZA: Labour camp? I've never been to Bajor. I was a military file
-clerk. I now reside on Kora Two, where I boarded the freighter, which,
-unfortunately for me, came here. Now, Commander, if you have no more
-questions, I'd like to be on my way. 
-KAINON: (in the next cell) Am I still drunk, or am I in jail with a
-Cardassian? Odo! You're not keeping me in here with one of those! Odo!
-Odo! 
-MARRITZA: I put myself in your hands, Commander.
- [Commander's office] 
-SISKO: Let me get this straight. You're saying that
-Marritza does have Kalla-Nohra? 
-BASHIR: There's no doubt about it. He has all the symptoms. And when I
-ran a lower pulmonary bio-probe, it read positive. 
+MARRITZA: Labour camp? I've never been to Bajor. I was a military file clerk. I now reside on Kora Two, where I boarded the freighter, which, unfortunately for me, came here. Now, Commander, if you have no more questions, I'd like to be on my way. 
+KAINON: (in the next cell) Am I still drunk, or am I in jail with a Cardassian? Odo! You're not keeping me in here with one of those! Odo! Odo! 
+MARRITZA: I put myself in your hands, Commander. 
+[Commander's office]
+SISKO: Let me get this straight. You're saying that Marritza does have Kalla-Nohra? 
+BASHIR: There's no doubt about it. He has all the symptoms. And when I ran a lower pulmonary bio-probe, it read positive. 
 SISKO: And you're sure he doesn't have Pottrik Syndrome. 
-BASHIR: Yes, absolutely. If he had Pottrik's, the bio-probe would've
-been negative. 
+BASHIR: Yes, absolutely. If he had Pottrik's, the bio-probe would've been negative. 
 SISKO: Then he was at the Gallitep labour camp. 
-BASHIR: Definitely. I've cross-checked all Bajoran and Federation
-medical records, and there's simply no other way he could've gotten
-this condition. 
+BASHIR: Definitely. I've cross-checked all Bajoran and Federation medical records, and there's simply no other way he could've gotten this condition. 
 KIRA [OC]: Kira to Sisko. 
 SISKO: Yes, Major. 
-KIRA [OC]: Commander, there's an incoming transmission for you from
-Bajor. It's the Minister of State. 
+KIRA [OC]: Commander, there's an incoming transmission for you from Bajor. It's the Minister of State. 
 SISKO: Thank you. If you'll excuse me, Doctor. 
 (Bashir leaves) 
 SISKO: Minister Kaval. Good day, Sir. 
-KAVAL [on monitor]: And to you, Commander. I trust you're in good
-health. Things are going well on the station? 
+KAVAL [on monitor]: And to you, Commander. I trust you're in good health. Things are going well on the station? 
 SISKO: Quite well, thank you. 
-KAVAL [on monitor]: That's wonderful. I'm told you've performed a
-special service for Bajor today. Congratulations to you. 
+KAVAL [on monitor]: That's wonderful. I'm told you've performed a special service for Bajor today. Congratulations to you. 
 SISKO: I don't quite follow. 
 KAVAL [on monitor]: You're not holding a certain Cardassian for us? 
 SISKO: We are holding a Cardassian, temporarily. 
-KAVAL [on monitor]: By temporarily, you mean until you're satisfied
-that a verified identification has been made. 
-SISKO: Minister, I'm not sure we have the grounds to hold him that
-long. 
-KAVAL [on monitor]: I fully understand your concerns, Commander, but
-since our Major Kira's accepted responsibility in this matter, the
-burden is off your shoulders. 
+KAVAL [on monitor]: By temporarily, you mean until you're satisfied that a verified identification has been made. 
+SISKO: Minister, I'm not sure we have the grounds to hold him that long. 
+KAVAL [on monitor]: I fully understand your concerns, Commander, but since our Major Kira's accepted responsibility in this matter, the burden is off your shoulders. 
 SISKO: I don't agree. 
-KAVAL [on monitor]: Commander, if this Marritza was at Gallitep, we
-want him, and we will have him. Is that clear? 
+KAVAL [on monitor]: Commander, if this Marritza was at Gallitep, we want him, and we will have him. Is that clear? 
 SISKO: It is. 
-KAVAL [on monitor]: Good. We'll chat again soon. Good day, Commander.
- [Replimat] 
+KAVAL [on monitor]: Good. We'll chat again soon. Good day, Commander. 
+[Replimat]
 SISKO: May I join you? 
-KIRA: Actually, I was just about to pay a visit to our friend Marritza.
-SISKO: That's what I wanted to talk to you about, Major. I'd like Odo
-to handle this investigation. 
+KIRA: Actually, I was just about to pay a visit to our friend Marritza. 
+SISKO: That's what I wanted to talk to you about, Major. I'd like Odo to handle this investigation. 
 KIRA: Why? 
 SISKO: He's our Chief of Security. 
 KIRA: Minister Kaval put me in charge. 
 SISKO: Minister Kaval doesn't run this station. 
-KIRA: And the Federation has no right telling us how to deal with our
-criminals. 
-SISKO: If it turns out that he is a criminal, then he'll be yours and
-you're welcome to him. Until then, he's just a traveller under
-suspicion. 
-KIRA: You think this is all some personal vendetta on my part, don't
-you? 
+KIRA: And the Federation has no right telling us how to deal with our criminals. 
+SISKO: If it turns out that he is a criminal, then he'll be yours and you're welcome to him. Until then, he's just a traveller under suspicion. 
+KIRA: You think this is all some personal vendetta on my part, don't you? 
 SISKO: I think you're too close to be objective, yes. 
-KIRA: You're right, I'm not objective. But I'm your first officer, and
-I give you my word I will conduct myself accordingly. You once said we
-were friends. I'm asking you now as a friend, please, let me conduct
-this investigation. I owe it to them. 
+KIRA: You're right, I'm not objective. But I'm your first officer, and I give you my word I will conduct myself accordingly. You once said we were friends. I'm asking you now as a friend, please, let me conduct this investigation. I owe it to them. 
 SISKO: You mean the victims. 
-KIRA: That's right. The ones who moved too slowly and never moved
-again. I'm asking for all the Bajorans who can't ask. Let a Bajoran do
-this. 
+KIRA: That's right. The ones who moved too slowly and never moved again. I'm asking for all the Bajorans who can't ask. Let a Bajoran do this. 
 SISKO: Sisko to Odo. 
 ODO [OC]: Go ahead. 
-SISKO: Constable, Major Kira will be in charge of the Marritza
-investigation. 
+SISKO: Constable, Major Kira will be in charge of the Marritza investigation. 
 ODO [OC]: I understand. 
-KIRA: Thank you.
- [Security office] 
+KIRA: Thank you. 
+[Security office]
 KIRA: Constable. 
 KAINON: It's about time you let me out. 
 ODO: Try to stay out of trouble for a day or two, will you? 
-KAINON: I'll do my best. Oh, and Odo let me know when you hang the
-Cardassian. 
+KAINON: I'll do my best. Oh, and Odo let me know when you hang the Cardassian. 
 (Kainon leaves) 
-ODO: I've begun a background check on Marritza. So far he is what he
-says he is. He boarded that Kobheerian freighter at Kora Two, where
-he's worked as an instructor at a military academy for the past five
-years. 
+ODO: I've begun a background check on Marritza. So far he is what he says he is. He boarded that Kobheerian freighter at Kora Two, where he's worked as an instructor at a military academy for the past five years. 
 KIRA: Keep looking. 
 ODO: Don't worry, Major, I intend to. 
-KIRA: I'll be with the prisoner if you need me.
- [Holding cell] 
-MARRITZA: My compliments on your replicators,
-Major, But this sem'hal stew could use a little yamok sauce. 
+KIRA: I'll be with the prisoner if you need me. 
+[Holding cell]
+MARRITZA: My compliments on your replicators, Major, But this sem'hal stew could use a little yamok sauce. 
 KIRA: I'm glad you're enjoying it. 
 MARRITZA: I doubt that, Major. I doubt it very much. 
-KIRA: I hope it won't disturb your dinner if I ask you a few questions.
+KIRA: I hope it won't disturb your dinner if I ask you a few questions. 
 MARRITZA: And if I refuse to answer? 
 KIRA: I'll ask them anyway. 
 MARRITZA: Of course. 
 KIRA: This is my job. 
-MARRITZA: Persecuting Cardassian goes far beyond your job, Major, it's
-your passion. 
+MARRITZA: Persecuting Cardassian goes far beyond your job, Major, it's your passion. 
 KIRA: You claim you were never at Gallitep. 
 MARRITZA: I missed that honour. 
 KIRA: And that your illness is not Kalla-Nohra. 
 MARRITZA: Again, true. 
-KIRA: Again false. Our doctor confirmed you do have Kalla-Nohra, which
-means you were at Gallitep. If your lies are going to be this
-transparent, it's going to be a very short interrogation. 
+KIRA: Again false. Our doctor confirmed you do have Kalla-Nohra, which means you were at Gallitep. If your lies are going to be this transparent, it's going to be a very short interrogation. 
 MARRITZA: In that case, I'll try to make my lies more opaque. 
 KIRA: What was your rank at Gallitep? What were your duties? 
 MARRITZA: You don't want to know. 
 KIRA: Just answer the question. 
 MARRITZA: You'll be disappointed. 
 KIRA: I'll risk it. 
-MARRITZA: I had the distinction of serving in the exalted position of
-filing clerk. 
+MARRITZA: I had the distinction of serving in the exalted position of filing clerk. 
 KIRA: Filing clerk? 
-MARRITZA: I told you you'd be disappointed. Actually, I would have
-preferred to avoid military service altogether, but I had the good
-fortune to be posted to the records office at Gallitep, and I turned
-out to be an exemplary file clerk. In fourteen units of service, I
-never misplaced or lost a record. I received numerous commendations.
-Gul Darhe'el himself called my computer filing system a masterpiece of
-meticulous exactitude. Well, there you are. My secret's out. My crimes
-laid bare. I await execution. 
-KIRA: I hope we don't keep you waiting long. I never heard of a filing
-clerk becoming an instructor at a military academy. 
+MARRITZA: I told you you'd be disappointed. Actually, I would have preferred to avoid military service altogether, but I had the good fortune to be posted to the records office at Gallitep, and I turned out to be an exemplary file clerk. In fourteen units of service, I never misplaced or lost a record. I received numerous commendations. Gul Darhe'el himself called my computer filing system a masterpiece of meticulous exactitude. Well, there you are. My secret's out. My crimes laid bare. I await execution. 
+KIRA: I hope we don't keep you waiting long. I never heard of a filing clerk becoming an instructor at a military academy. 
 MARRITZA: Until now. 
 KIRA: And what did you teach? 
 MARRITZA: Believe it or not, filing. 
@@ -244,111 +169,66 @@ MARRITZA: So much for our search for the truth. Now we trade insults.
 KIRA: You admit you worked under Gul Darhe'el. 
 MARRITZA: We all did. 
 KIRA: I take it then you witnessed the atrocities. 
-MARRITZA: Atrocities? What atrocities? Oh, I do vaguely recall hearing
-a scream from time to time. Atrocities? No. 
-KIRA: You expect me to believe you knew nothing of the murders, the
-tortures? You never saw the bodies? 
-MARRITZA: Of course I saw bodies. People died all the time at Gallitep.
-Mining accidents, illnesses, feuds among the workers. 
+MARRITZA: Atrocities? What atrocities? Oh, I do vaguely recall hearing a scream from time to time. Atrocities? No. 
+KIRA: You expect me to believe you knew nothing of the murders, the tortures? You never saw the bodies? 
+MARRITZA: Of course I saw bodies. People died all the time at Gallitep. Mining accidents, illnesses, feuds among the workers. 
 KIRA: You're saying Bajorans killed each other? 
-MARRITZA: At times. Over food, a blanket, a woman. The conditions were
-harsh. It was a labour camp, Major. 
-KIRA: I helped liberate that camp. I saw the bodies. I know how they
-died. 
-MARRITZA: You saw what we wanted you to see. Who do you think started
-the rumours about brutality at Gallitep? It was Gul Darhe'el himself.
-Now there was a leader. Brilliant, extraordinary man. He knew that to
-rule by fear was to rule completely. Why bother with actual mass
-murders, when the mere reports of such incidents had the same effect. 
+MARRITZA: At times. Over food, a blanket, a woman. The conditions were harsh. It was a labour camp, Major. 
+KIRA: I helped liberate that camp. I saw the bodies. I know how they died. 
+MARRITZA: You saw what we wanted you to see. Who do you think started the rumours about brutality at Gallitep? It was Gul Darhe'el himself. Now there was a leader. Brilliant, extraordinary man. He knew that to rule by fear was to rule completely. Why bother with actual mass murders, when the mere reports of such incidents had the same effect. 
 KIRA: Which was? 
-MARRITZA: You know as well as I do, Major. To keep you Bajorans
-thinking of yourselves as victims. To keep you afraid and helpless. 
+MARRITZA: You know as well as I do, Major. To keep you Bajorans thinking of yourselves as victims. To keep you afraid and helpless. 
 KIRA: Turned out we weren't so helpless. We did get rid of you. 
-MARRITZA: Leaving was a political decision, Major. I've enjoyed
-reminiscing with you. Now I think it's time you let me out of here. 
+MARRITZA: Leaving was a political decision, Major. I've enjoyed reminiscing with you. Now I think it's time you let me out of here. 
 KIRA: I can't do that. 
-MARRITZA: Oh, no, no, no, no, of course not. No, you see you're the one
-who's lying now, Major. it's not the truth you're interested in. All
-you want is vengeance. 
- [Commander's office]
-DUKAT [on monitor]: Commander, I was led to believe
-the Federation guarantees the safe and unrestricted passage of all
-travellers visiting your station. 
+MARRITZA: Oh, no, no, no, no, of course not. No, you see you're the one who's lying now, Major. it's not the truth you're interested in. All you want is vengeance. 
+[Commander's office]
+DUKAT [on monitor]: Commander, I was led to believe the Federation guarantees the safe and unrestricted passage of all travellers visiting your station. 
 SISKO: That's correct. 
-DUKAT [on monitor]: Then how do you explain the detention of a
-Cardassian citizen? 
-SISKO: Marritza came here seeking medical attention. Right now, he's
-under our doctor's care. All we're trying to do is to verify his
-identity. A simple matter, if you'll give us some assistance. 
-DUKAT [on monitor]: I assure you, Commander, you don't require our
-assistance. If this patient says his name is Marritza, then that's who
-he is. I hope you're not suggesting you don't trust him simply because
-he's Cardassian. 
-SISKO: I don't trust him because he's already lied about being at
-Gallitep. 
-DUKAT [on monitor]: Is that what you're charging him with, Commander?
-Lying? 
+DUKAT [on monitor]: Then how do you explain the detention of a Cardassian citizen? 
+SISKO: Marritza came here seeking medical attention. Right now, he's under our doctor's care. All we're trying to do is to verify his identity. A simple matter, if you'll give us some assistance. 
+DUKAT [on monitor]: I assure you, Commander, you don't require our assistance. If this patient says his name is Marritza, then that's who he is. I hope you're not suggesting you don't trust him simply because he's Cardassian. 
+SISKO: I don't trust him because he's already lied about being at Gallitep. 
+DUKAT [on monitor]: Is that what you're charging him with, Commander? Lying? 
 SISKO: So far, we haven't charged him with anything. 
 DUKAT [on monitor]: Then let him go. 
-SISKO: I'd like nothing better. But first I need to know who it is I'm
-letting go. 
-DUKAT [on monitor]: I do appreciate the awkwardness of your position
-here, Commander. This Bajoran obsession with alleged Cardassian
-improprieties during the occupation is really quite distasteful. 
+SISKO: I'd like nothing better. But first I need to know who it is I'm letting go. 
+DUKAT [on monitor]: I do appreciate the awkwardness of your position here, Commander. This Bajoran obsession with alleged Cardassian improprieties during the occupation is really quite distasteful. 
 SISKO: I suppose if you're a Bajoran, so was the occupation. 
-DUKAT [on monitor]: I might remind you that neither one of us is
-Bajoran, and I would hate their bitterness to cause conflict between
-Cardassia and the Federation. 
+DUKAT [on monitor]: I might remind you that neither one of us is Bajoran, and I would hate their bitterness to cause conflict between Cardassia and the Federation. 
 SISKO: I hope to avoid that too, with your help. 
-DUKAT [on monitor]: You don't need my help to safeguard one Cardassian
-on your own station. If any of these Bajoran hate-mongers get their
-hands on him, I'll holding you personally responsible.
- [Promenade - upper level] 
+DUKAT [on monitor]: You don't need my help to safeguard one Cardassian on your own station. If any of these Bajoran hate-mongers get their hands on him, I'll holding you personally responsible. 
+[Promenade - upper level]
 (Kira is staring out of a window) 
 DAX: What are you looking for? 
 KIRA: Answers. 
 DAX: Found any yet? 
-KIRA: Marritza says I don't care about the truth. That all I want is
-vengeance. 
+KIRA: Marritza says I don't care about the truth. That all I want is vengeance. 
 DAX: Are you worried that maybe he's right? 
 KIRA: All I want is to see him punished. 
 DAX: Even if he is just a file clerk? 
-KIRA: That's just it. I don't want him to be a file clerk. I want him
-to be, I don't know, something worse. 
+KIRA: That's just it. I don't want him to be a file clerk. I want him to be, I don't know, something worse. 
 DAX: You want him to be guilty. 
-KIRA: As far as I'm concerned, if he was at Gallitep, he is guilty.
-They're all guilty. His punishment will let Bajor feel some
-satisfaction. 
-DAX: It sounds like you're trying too hard to believe what you're
-saying. You already know if you punish him without reason, it won't
-mean anything. And you already know vengeance isn't enough.
- [Ops] 
-O'BRIEN: Re-route the signal enhancement module to
-the main sensor array. 
+KIRA: As far as I'm concerned, if he was at Gallitep, he is guilty. They're all guilty. His punishment will let Bajor feel some satisfaction. 
+DAX: It sounds like you're trying too hard to believe what you're saying. You already know if you punish him without reason, it won't mean anything. And you already know vengeance isn't enough. 
+[Ops]
+O'BRIEN: Re-route the signal enhancement module to the main sensor array. 
 NEELA: Aye, sir. 
 O'BRIEN: How's it look? 
 NEELA: Just give me a second. I'll run a diagnostic. 
-ODO: I've checked with the Bajoran archives, and they do have a
-Marritza on record as being a filing clerk at Gallitep. I also checked
-with the military academy on Kora Two. Marritza has been teaching
-filing there just as he claims. 
+ODO: I've checked with the Bajoran archives, and they do have a Marritza on record as being a filing clerk at Gallitep. I also checked with the military academy on Kora Two. Marritza has been teaching filing there just as he claims. 
 O'BRIEN: All set, Commander. 
 SISKO: Major, how many images were sent from the Bajoran archives? 
-KIRA: Only one. It's the only picture they could find of Gallitep that
-had Marritza in it. The Cardassians destroyed almost all records of the
-occupation. 
-O'BRIEN: The image enhancement and transformation functions are patched
-directly into your console. 
-SISKO: Major, what if this image confirms that Marritza was a filing
-clerk? What do you expect us to do, then? 
+KIRA: Only one. It's the only picture they could find of Gallitep that had Marritza in it. The Cardassians destroyed almost all records of the occupation. 
+O'BRIEN: The image enhancement and transformation functions are patched directly into your console. 
+SISKO: Major, what if this image confirms that Marritza was a filing clerk? What do you expect us to do, then? 
 KIRA: I suppose you'll let him go. 
 SISKO: I'm glad we understand each other. 
 DAX: I've got it. 
 SISKO: On screen. 
 (A picture of three Cardassians amongst workers) 
 SISKO: Which one is Marritza? 
-DAX: Let's see. According to the caption, he's the one in the
-background on the far right. 
+DAX: Let's see. According to the caption, he's the one in the background on the far right. 
 SISKO: Isolate and magnify. 
 (It's fuzzy) 
 SISKO: We're going to have to do better than that. 
@@ -357,290 +237,162 @@ KIRA: It's not him.
 SISKO: Are you sure we're looking at the right man? 
 DAX: Background, far right, Aamin Marritza. 
 KIRA: It can't be. 
-SISKO: If that's Marritza, then who are we holding? Lieutenant, isolate
-the Cardassians in the foreground. The one in profile on the left. What
-can you give us? 
-(The image is turned and filled in as our view comes around the
-obscuring Bajoran) 
+SISKO: If that's Marritza, then who are we holding? Lieutenant, isolate the Cardassians in the foreground. The one in profile on the left. What can you give us? 
+(The image is turned and filled in as our view comes around the obscuring Bajoran) 
 KIRA: That's him. That's Marritza. 
 DAX: Not according to the caption. 
 KIRA: What do you mean? 
-DAX: According to this, it's Gul Darhe'el.
- [Holding cell] 
-(in the interests of consistency, I'll keep the
-original character name, also just in case there's a double bluff
-later) 
-MARRITZA: Let me guess. You've come back to learn the secret of my
-filing system. 
+DAX: According to this, it's Gul Darhe'el. 
+[Holding cell]
+(in the interests of consistency, I'll keep the original character name, also just in case there's a double bluff later) 
+MARRITZA: Let me guess. You've come back to learn the secret of my filing system. 
 KIRA: I know all your secrets now. 
 MARRITZA: Is that so. 
-KIRA: What did you do? Did you kill the real Marritza so you could take
-his place? Well, you'll pay for that death and all the others you're
-responsible for. 
-MARRITZA: I don't think I could pay for all of them, Major. There were
-so many, and you can only execute me once. 
-KIRA: That's my only regret. But I'll settle for knowing that Bajor
-will finally have the satisfaction of punishing The Butcher of
-Gallitep. 
-MARRITZA: Tell me, Major, did you figure it all out by yourself, or did
-you have help from your Federation masters? 
-KIRA: I'll let you wonder about that. It'll keep you occupied while
-we're waiting for the provisional government to prepare your war crimes
-tribunal. 
-MARRITZA: War crimes? How could there be war crimes when there hasn't
-been a war? Oh, I can understand your wish there had been a war. Your
-need to indulge some pathetic fantasy of brave Bajoran soldiers
-marching to honourable defeat. But in fact, Major, you and I know there
-was no war, no glory. Bajor didn't resist, it surrendered. 
-KIRA: The Bajorans were a peaceful people before you came. We offered
-no threat to you. We could never understand why you had to be so
-brutal. 
-MARRITZA: Well, we can't have that, Major, I want no more secrets
-between us. Anything you don't understand, I'll explain to you. 
+KIRA: What did you do? Did you kill the real Marritza so you could take his place? Well, you'll pay for that death and all the others you're responsible for. 
+MARRITZA: I don't think I could pay for all of them, Major. There were so many, and you can only execute me once. 
+KIRA: That's my only regret. But I'll settle for knowing that Bajor will finally have the satisfaction of punishing The Butcher of Gallitep. 
+MARRITZA: Tell me, Major, did you figure it all out by yourself, or did you have help from your Federation masters? 
+KIRA: I'll let you wonder about that. It'll keep you occupied while we're waiting for the provisional government to prepare your war crimes tribunal. 
+MARRITZA: War crimes? How could there be war crimes when there hasn't been a war? Oh, I can understand your wish there had been a war. Your need to indulge some pathetic fantasy of brave Bajoran soldiers marching to honourable defeat. But in fact, Major, you and I know there was no war, no glory. Bajor didn't resist, it surrendered. 
+KIRA: The Bajorans were a peaceful people before you came. We offered no threat to you. We could never understand why you had to be so brutal. 
+MARRITZA: Well, we can't have that, Major, I want no more secrets between us. Anything you don't understand, I'll explain to you. 
 KIRA: Thank you, but I think I've heard enough of your lies. 
-MARRITZA: What lies? You mean my failure to divulge my true identity?
-Believe me, Major, I yearned to tell you but I knew how much more
-satisfaction you would have if find out for yourself. And that was my
-only deception. Marritza was a magnificent file clerk. And I, Gul
-Darhe'el, I hope you'll not think it immodest of me to say so, but I
-was a magnificent leader. You never saw Gallitep at its height. For a
-labour camp, it was the very model of order and efficiency. And why?
-For that, you have to look to the top. To me! My word, my every glance,
-was law and the verdict was always the same, guilty. 
+MARRITZA: What lies? You mean my failure to divulge my true identity? Believe me, Major, I yearned to tell you but I knew how much more satisfaction you would have if find out for yourself. And that was my only deception. Marritza was a magnificent file clerk. And I, Gul Darhe'el, I hope you'll not think it immodest of me to say so, but I was a magnificent leader. You never saw Gallitep at its height. For a labour camp, it was the very model of order and efficiency. And why? For that, you have to look to the top. To me! My word, my every glance, was law and the verdict was always the same, guilty. 
 KIRA: You're insane. 
-MARRITZA: Oh, no, no, Major. You can't dismiss me that easily. I did
-what had to be done. My men understood that, and that's why they loved
-me. I would order them to go out and kill Bajoran scum, and they'd do
-it. They'd murder them and they'd come back covered in blood, but they
-felt clean. Now why did they feel that way, Major? Because they were
-clean. 
+MARRITZA: Oh, no, no, Major. You can't dismiss me that easily. I did what had to be done. My men understood that, and that's why they loved me. I would order them to go out and kill Bajoran scum, and they'd do it. They'd murder them and they'd come back covered in blood, but they felt clean. Now why did they feel that way, Major? Because they were clean. 
 KIRA: You admit your atrocities. 
-MARRITZA: I admit everything. Why not? I was the best at what I did. My
-accomplishments speak for themselves. Can you say the same? You and
-that little Shakaar resistance cell that you belonged to. All you did
-was annoy Cardassians, while I was out exterminating Bajorans. 
+MARRITZA: I admit everything. Why not? I was the best at what I did. My accomplishments speak for themselves. Can you say the same? You and that little Shakaar resistance cell that you belonged to. All you did was annoy Cardassians, while I was out exterminating Bajorans. 
 KIRA: Make sure you tell that to the tribunal. 
 MARRITZA: Oh, I will. 
 KIRA: Then they'll sentence you to death. 
-MARRITZA: Let them. Don't you see? It doesn't change anything. Kill me,
-torture me, it doesn't matter. You've already lost, Major. You can
-never undo what I've accomplished. The dead will still be dead. What
-will you do now, Major? Withhold my medicine?
- [Security office] 
+MARRITZA: Let them. Don't you see? It doesn't change anything. Kill me, torture me, it doesn't matter. You've already lost, Major. You can never undo what I've accomplished. The dead will still be dead. What will you do now, Major? Withhold my medicine? 
+[Security office]
 (Odo enters with a small glass of blue liquid) 
 ODO: Here, this will help. 
 KIRA: What is it? 
 ODO: Maraltian seev-ale from Quark's private stock. Better? 
-KIRA: You know, Odo, I wonder how many others like Darhe'el are still
-out there, still free, unpunished. 
-ODO: Quite a few, no doubt. But thanks to you, there's one less out
-there now. 
-KIRA: You should've heard him. He bragged about what happened at
-Gallitep. The torture, the murders, the humiliation. He's proud of
-about what he did to us. 
-ODO: Why don't you go to your quarters, and lie down for a while. We'll
-leave him alone with his Cardassian pride. 
-KIRA: I don't want to lie down. That's what he'd like. Another Bajoran
-hiding in a corner. He's probably in there laughing at me right now. 
+KIRA: You know, Odo, I wonder how many others like Darhe'el are still out there, still free, unpunished. 
+ODO: Quite a few, no doubt. But thanks to you, there's one less out there now. 
+KIRA: You should've heard him. He bragged about what happened at Gallitep. The torture, the murders, the humiliation. He's proud of about what he did to us. 
+ODO: Why don't you go to your quarters, and lie down for a while. We'll leave him alone with his Cardassian pride. 
+KIRA: I don't want to lie down. That's what he'd like. Another Bajoran hiding in a corner. He's probably in there laughing at me right now. 
 ODO: He won't be laughing very long. 
-KIRA: I hate him, Odo. I hate his smirking, superior Cardassian face.
-When I was fighting with the resistance, we used to lie awake at night
-plotting the assassination of men like Darhe'el. Now I have to stand
-there and listen to him belittle the Shakaar and everything it stood
-for. 
-ODO: Perhaps you should avoid discussing your personal history with a
-creature like that. 
+KIRA: I hate him, Odo. I hate his smirking, superior Cardassian face. When I was fighting with the resistance, we used to lie awake at night plotting the assassination of men like Darhe'el. Now I have to stand there and listen to him belittle the Shakaar and everything it stood for. 
+ODO: Perhaps you should avoid discussing your personal history with a creature like that. 
 KIRA: I didn't. 
 ODO: Then how did he know you were with the Shakaar? 
 KIRA: I don't know, he was an important military leader. 
-ODO: That doesn't explain it. If he'd been in charge of quelling
-Bajoran resistance, then he might have had your name on file. But he
-commanded a forced labour camp. Something's not right here. Where are
-you going? 
+ODO: That doesn't explain it. If he'd been in charge of quelling Bajoran resistance, then he might have had your name on file. But he commanded a forced labour camp. Something's not right here. Where are you going? 
 KIRA: To have another little chat with Gul Darhe'el. 
 (Kira leaves) 
-ODO: Computer. Review all off-station requests for information
-regarding Major Kira Nerys within the last eight months. 
+ODO: Computer. Review all off-station requests for information regarding Major Kira Nerys within the last eight months. 
 COMPUTER: Working. 
- [Holding cell] 
-MARRITZA: Oh, back to see the Butcher. Am I really
-so fascinating? 
+[Holding cell]
+MARRITZA: Oh, back to see the Butcher. Am I really so fascinating? 
 KIRA: How did you know I was with the Shakaar? 
-MARRITZA: This provisional government of yours certainly moves slowly.
-They should've dragged me away in chains by now. 
+MARRITZA: This provisional government of yours certainly moves slowly. They should've dragged me away in chains by now. 
 KIRA: Just answer the question. 
-MARRITZA: My, my, you are a strutting little egotist. You forget the
-brilliance of Marritza's filing system. He made sure that I was
-provided with information on all your little terrorist bands. What I
-particularly enjoyed were the termination reports. Yes, life in a
-forced labour camp can be so isolating. At times I felt that I alone
-bore the burden of cleansing Bajor of its rabble, but those reports
-reassured me I was not alone. 
-KIRA: And I'm supposed to believe you remembered my name from some
-report you read years ago? 
-MARRITZA: At the risk of bruising your vanity even further, Major, I
-didn't remember you at all until I heard your name here. I can see that
-disturbs you. 
+MARRITZA: My, my, you are a strutting little egotist. You forget the brilliance of Marritza's filing system. He made sure that I was provided with information on all your little terrorist bands. What I particularly enjoyed were the termination reports. Yes, life in a forced labour camp can be so isolating. At times I felt that I alone bore the burden of cleansing Bajor of its rabble, but those reports reassured me I was not alone. 
+KIRA: And I'm supposed to believe you remembered my name from some report you read years ago? 
+MARRITZA: At the risk of bruising your vanity even further, Major, I didn't remember you at all until I heard your name here. I can see that disturbs you. 
 KIRA: Hardly. 
-MARRITZA: You know, Major, they will be coming for me soon, so before
-we say goodbye, there are a few little questions I should like to ask
-you. 
+MARRITZA: You know, Major, they will be coming for me soon, so before we say goodbye, there are a few little questions I should like to ask you. 
 KIRA: Your questions don't interest me. 
-MARRITZA: How can you be so sure? Or are you just afraid to hear them?
- [Promenade] 
-(A bunch of Bajorans dressed in labour camp garb
-are keeping a vigil outside Odo's office) 
+MARRITZA: How can you be so sure? Or are you just afraid to hear them? 
+[Promenade]
+(A bunch of Bajorans dressed in labour camp garb are keeping a vigil outside Odo's office) 
 QUARK: Who're they? 
-ODO: Survivors of Gallitep. They arrived early this morning. I suppose
-they're waiting for justice. 
-QUARK: Gallitep. Imagine living through that hellhole. The pain, the
-sorrow. Do you think they like to gamble?
- [Infirmary] 
+ODO: Survivors of Gallitep. They arrived early this morning. I suppose they're waiting for justice. 
+QUARK: Gallitep. Imagine living through that hellhole. The pain, the sorrow. Do you think they like to gamble? 
+[Infirmary]
 ODO: Doctor, I need your help. 
 BASHIR: Of course. 
-ODO: Three months ago, a request came from Kora Two for information
-concerning Kira Nerys. 
+ODO: Three months ago, a request came from Kora Two for information concerning Kira Nerys. 
 BASHIR: To what purpose? 
-ODO: I'm not sure, but the name on the request was Aamin Marritza. I've
-established a subspace link with Kora Two and I'd like you to access
-his medical history there. 
-DAX [OC]: Dax to Odo. Gul Dukat is responding to your subspace
-transmission. 
+ODO: I'm not sure, but the name on the request was Aamin Marritza. I've established a subspace link with Kora Two and I'd like you to access his medical history there. 
+DAX [OC]: Dax to Odo. Gul Dukat is responding to your subspace transmission. 
 ODO: Could you route it to my office. 
-DAX [OC]: Aye, sir.
- [Security office] 
-DUKAT [on monitor]: I do miss working with you,
-Odo. I've miss our games of kalevian montar. 
+DAX [OC]: Aye, sir. 
+[Security office]
+DUKAT [on monitor]: I do miss working with you, Odo. I've miss our games of kalevian montar. 
 ODO: As I recall, Gul Dukat, we played one game and you cheated. 
-DUKAT [on monitor]: The same old Odo. Like a blunt instrument. But no
-to your question I regret that I cannot give you access to any of the
-files pertaining to Gul Darhe'el, but I assure you the files would only
-tell you what I'm telling you. Gul Darhe'el is dead. 
+DUKAT [on monitor]: The same old Odo. Like a blunt instrument. But no to your question I regret that I cannot give you access to any of the files pertaining to Gul Darhe'el, but I assure you the files would only tell you what I'm telling you. Gul Darhe'el is dead. 
 ODO: That's not possible. 
-DUKAT [on monitor]: I attended his funeral myself. As a matter of fact,
-he's buried under one of the largest military monuments on Cardassia. 
+DUKAT [on monitor]: I attended his funeral myself. As a matter of fact, he's buried under one of the largest military monuments on Cardassia. 
 ODO: Then who are we holding here? 
-DUKAT [on monitor]: Some innocent Cardassian citizen, just as I
-explained to your Commander Sisko. And we want him released. 
+DUKAT [on monitor]: Some innocent Cardassian citizen, just as I explained to your Commander Sisko. And we want him released. 
 ODO: That innocent citizen has admitted he is Gul Darhe'el. 
 DUKAT [on monitor]: What are you saying? 
 ODO: He says his name is Gul Darhe'el. 
 DUKAT [on monitor]: Then he's lying! 
-ODO: Well if he is, it's the most foolish lie he could have invented.
-It's likely to get him executed. Why would anyone do such a thing? 
-DUKAT [on monitor]: I don't know. But I tell you I attended Darhe'el's
-funeral. 
+ODO: Well if he is, it's the most foolish lie he could have invented. It's likely to get him executed. Why would anyone do such a thing? 
+DUKAT [on monitor]: I don't know. But I tell you I attended Darhe'el's funeral. 
 ODO: You're sure the man you saw buried was Gul Darhe'el? 
 DUKAT [on monitor]: Half of Cardassia viewed his body, 
-ODO: I saw a photograph of Darhe'el taken at the Gallitep labour camp.
-It certainly appears to be the man we're holding. 
+ODO: I saw a photograph of Darhe'el taken at the Gallitep labour camp. It certainly appears to be the man we're holding. 
 DUKAT [on monitor]: You're mistaken. 
 ODO: Am I? 
-DUKAT [on monitor]: This is obviously some plot to embarrass the
-Cardassian Empire. 
-ODO: It's possible. Give me access to your files and perhaps I can find
-some proof to support your claim that Gul Darhe'el is dead. 
-DUKAT [on monitor]: I suppose I could grant you limited access to the
-files. 
-ODO: I think that's wise.
- [Holding cell] 
-KIRA: I was twelve when I started fighting but I've
-heard of some who were even younger than that. 
-MARRITZA: Yes, yes, let's get to the real issue. How many Cardassians
-did you kill? I mean personally. 
+DUKAT [on monitor]: This is obviously some plot to embarrass the Cardassian Empire. 
+ODO: It's possible. Give me access to your files and perhaps I can find some proof to support your claim that Gul Darhe'el is dead. 
+DUKAT [on monitor]: I suppose I could grant you limited access to the files. 
+ODO: I think that's wise. 
+[Holding cell]
+KIRA: I was twelve when I started fighting but I've heard of some who were even younger than that. 
+MARRITZA: Yes, yes, let's get to the real issue. How many Cardassians did you kill? I mean personally. 
 KIRA: I didn't keep count. 
-MARRITZA: Oh, I think you did. And I'm sure your total wasn't limited
-to military personnel. After all, the most effective terrorist weapon
-was random violence. Don't leave now, Major, it's just getting good.
-How many Cardassian civilians did you kill? 
+MARRITZA: Oh, I think you did. And I'm sure your total wasn't limited to military personnel. After all, the most effective terrorist weapon was random violence. Don't leave now, Major, it's just getting good. How many Cardassian civilians did you kill? 
 KIRA: Look, I regret a lot of what I had to do. 
 MARRITZA: How convenient of you. 
 KIRA: We had no choice! We were fighting for survival! 
-MARRITZA: So were we! We had an empire to protect. We needed your
-resources. Everything I did was for the greater glory of Cardassia! And
-if you spineless scum had to be ground under, so much the better. All
-that mattered was Cardassia. I loved my homeland. That's what justified
-my actions, that's what gave me my strength. 
+MARRITZA: So were we! We had an empire to protect. We needed your resources. Everything I did was for the greater glory of Cardassia! And if you spineless scum had to be ground under, so much the better. All that mattered was Cardassia. I loved my homeland. That's what justified my actions, that's what gave me my strength. 
 KIRA: Nothing justifies genocide. 
 MARRITZA: What you call genocide, I call a day's work. 
-ODO: Major? Could I have a word with you?
- [Security office] 
-ODO: Doctor Bashir and I have done some checking. I
-don't know why yet, but the man in that cell wanted to be caught.
- [Commander's office] 
-ODO: This certificate of death was in the file sent
-to me by Gul Dukat. 
-SISKO: According to this, Gul Darhe'el died in his sleep six years ago.
-Cause of death, massive coleibric haemorrhage. 
-KIRA: Commander, I guarantee you that's a forged document. I think it's
-pretty clear what's going on here. The Cardassians are trying trick us
-into letting him go. 
+ODO: Major? Could I have a word with you? 
+[Security office]
+ODO: Doctor Bashir and I have done some checking. I don't know why yet, but the man in that cell wanted to be caught. 
+[Commander's office]
+ODO: This certificate of death was in the file sent to me by Gul Dukat. 
+SISKO: According to this, Gul Darhe'el died in his sleep six years ago. Cause of death, massive coleibric haemorrhage. 
+KIRA: Commander, I guarantee you that's a forged document. I think it's pretty clear what's going on here. The Cardassians are trying trick us into letting him go. 
 SISKO: I wouldn't put it past our friend Gul Dukat. 
 ODO: Nor would I. However 
 KIRA: The man in there confessed he is Gul Darhe'el. 
 ODO: Major, the man in there has Kalla-Nohra Syndrome. 
 KIRA: Of course he does. 
-ODO: According to the evidence I've been sent, Gul Darhe'el never
-contracted that condition. 
+ODO: According to the evidence I've been sent, Gul Darhe'el never contracted that condition. 
 KIRA: More evidence from our trustworthy Gul Dukat. 
 SISKO: What've you got, Constable? 
-ODO: Darhe'el's progress reports from Gallitep show that when the
-mining accident occurred, he was back on Cardassia being awarded the
-Proficient Service Medallion. 
-SISKO: If he wasn't at Gallitep on the day of the accident, then he
-couldn't have contracted Kalla-Nohra. 
+ODO: Darhe'el's progress reports from Gallitep show that when the mining accident occurred, he was back on Cardassia being awarded the Proficient Service Medallion. 
+SISKO: If he wasn't at Gallitep on the day of the accident, then he couldn't have contracted Kalla-Nohra. 
 ODO: Correct. But the man we're holding does have it. 
 KIRA: I can't believe I'm listening to this. 
-ODO: I'm afraid there's more, Major. I inquired about his last two
-weeks on Kora Two. He resigned his position at the military academy,
-put all his affairs in order, and even provided handsomely for his
-housekeeper, I understand 
-KIRA: All right, all right. So like any criminals, he wanted to move on
-before somebody traced his whereabouts. 
-ODO: He specifically requested passage on a vessel that was scheduled
-to stop here, at a Bajoran station. A rather unusual request for a
-Cardassian war criminal. 
+ODO: I'm afraid there's more, Major. I inquired about his last two weeks on Kora Two. He resigned his position at the military academy, put all his affairs in order, and even provided handsomely for his housekeeper, I understand 
+KIRA: All right, all right. So like any criminals, he wanted to move on before somebody traced his whereabouts. 
+ODO: He specifically requested passage on a vessel that was scheduled to stop here, at a Bajoran station. A rather unusual request for a Cardassian war criminal. 
 SISKO: Unless he wanted to be captured. 
-KIRA: Wait a minute. Let's be clear about one thing. This evidence may
-raise some interesting questions. Nevertheless, Darhe'el is going to be
-sent back to Bajor to stand trial for the atrocities he committed. 
+KIRA: Wait a minute. Let's be clear about one thing. This evidence may raise some interesting questions. Nevertheless, Darhe'el is going to be sent back to Bajor to stand trial for the atrocities he committed. 
 SISKO: Major, that is still to be determined. 
-KIRA: Then go talk to him. If you still have any doubts, just listen to
-what he has to say. He was there. He did it. He'll tell you about it. 
+KIRA: Then go talk to him. If you still have any doubts, just listen to what he has to say. He was there. He did it. He'll tell you about it. 
 (Bashir enters) 
 BASHIR: Constable, I've checked on Marritza's medical record. 
 SISKO: What have we got? 
-BASHIR: He's been under treatment for Kalla-Nohra Syndrome, of course,
-and a few other minor ailments, most relating to his age. It's all
-pretty standard, actually, except for one thing. 
+BASHIR: He's been under treatment for Kalla-Nohra Syndrome, of course, and a few other minor ailments, most relating to his age. It's all pretty standard, actually, except for one thing. 
 ODO: Which is? 
-BASHIR: Five years ago, after arriving on Kora Two, he started taking
-massive doses of a dermatiraelian plastiscine, which is a dermal
-regenerative agent used to maintain skin resilience after cosmetic
-alteration. 
+BASHIR: Five years ago, after arriving on Kora Two, he started taking massive doses of a dermatiraelian plastiscine, which is a dermal regenerative agent used to maintain skin resilience after cosmetic alteration. 
 KIRA: You're saying he changed his face to look like Gul Darhe'el. 
-BASHIR: It certainly appears that way.
- [Holding cell] 
+BASHIR: It certainly appears that way. 
+[Holding cell]
 KIRA: How are you feeling? 
-MARRITZA: I was starting to get a little bored, but seeing you again
-brightens my day. 
-KIRA: I was referring to your Kalla-Nohra Syndrome. Would you like see
-Doctor Bashir? 
-MARRITZA: Oh, so that's it. You want to see me writhe around on the
-floor in pain. A Cardassian would never put on such a deplorable
-display in front of a Bajoran. You just don't understand us at all. 
-KIRA: I'm beginning to understand a great deal about you. One thing
-does puzzle me. 
+MARRITZA: I was starting to get a little bored, but seeing you again brightens my day. 
+KIRA: I was referring to your Kalla-Nohra Syndrome. Would you like see Doctor Bashir? 
+MARRITZA: Oh, so that's it. You want to see me writhe around on the floor in pain. A Cardassian would never put on such a deplorable display in front of a Bajoran. You just don't understand us at all. 
+KIRA: I'm beginning to understand a great deal about you. One thing does puzzle me. 
 MARRITZA: And what would that be? 
 KIRA: How you contracted Kalla-Nohra syndrome. 
-MARRITZA: Did you think that the mining accident only affected the
-Bajoran labourers, and not their Cardassian masters? That would be very
-nice. 
-KIRA: So you're saying you were at Gallitep when that mining accident
-occurred? 
+MARRITZA: Did you think that the mining accident only affected the Bajoran labourers, and not their Cardassian masters? That would be very nice. 
+KIRA: So you're saying you were at Gallitep when that mining accident occurred? 
 MARRITZA: Of course. Why are we going over this again? 
-KIRA: Because your own progress reports shows that you were back on
-Cardassia at the time of the accident. 
+KIRA: Because your own progress reports shows that you were back on Cardassia at the time of the accident. 
 MARRITZA: That's ridiculous. 
 KIRA: Receiving your Proficient Service Medallion. 
 MARRITZA: The reports are wrong. 
@@ -648,68 +400,38 @@ KIRA: I can show them to you.
 MARRITZA: That won't be necessary. I know where I was. 
 KIRA: Why were you taking a dermal regenerative? 
 MARRITZA: I don't know what you're talking about. 
-KIRA: Then let me help you. Five years ago when you first got to Kora
-Two 
-MARRITZA: All right, that's enough. Your presence no longer amuses me.
-Get out. 
+KIRA: Then let me help you. Five years ago when you first got to Kora Two 
+MARRITZA: All right, that's enough. Your presence no longer amuses me. Get out. 
 KIRA: Why did you have your face altered? 
 MARRITZA: Security, get this woman out of here! 
 KIRA: Why are you pretending to be Gul Darhe'el? 
-MARRITZA: Why don't you ask me something intelligent, as for instance
-how I did I feel when we were withdrawing from Bajor? The answer is, I
-was furious! The thought of leaving any survivors behind was repulsive
-to me. So while our useless office clerks were packing their precious
-files, I ordered my overseers to begin slaughtering the labourers. 
-KIRA: If you felt that way about your filing clerks, why did you take
-Marritza's name? 
-MARRITZA: My plan was to do nothing less than kill every Bajoran in the
-camp! And to this day, my one regret is that I was not able to
-accomplish this honourable goal. 
+MARRITZA: Why don't you ask me something intelligent, as for instance how I did I feel when we were withdrawing from Bajor? The answer is, I was furious! The thought of leaving any survivors behind was repulsive to me. So while our useless office clerks were packing their precious files, I ordered my overseers to begin slaughtering the labourers. 
+KIRA: If you felt that way about your filing clerks, why did you take Marritza's name? 
+MARRITZA: My plan was to do nothing less than kill every Bajoran in the camp! And to this day, my one regret is that I was not able to accomplish this honourable goal. 
 KIRA: You're Marritza, aren't you? 
-MARRITZA: You mistake me for that bug? That whimpering nothing? Oh, you
-stupid Bajoran girl, don't you know who I am? I'm your nemesis, I'm
-your nightmare. I'm the Butcher of Gallitep. 
-KIRA: The Butcher of Gallitep died six years ago. You're Aamin
-Marritza, his filing clerk. 
-MARRITZA: That's not true. I am alive. I'll always be alive. It's
-Marritza who's dead. Marritza, who was only good for cowering under his
-bunk and weeping like a woman. Who, every night, covered his ears
-because he couldn't bear to hear the screaming for mercy of the
-Bajorans. 
+MARRITZA: You mistake me for that bug? That whimpering nothing? Oh, you stupid Bajoran girl, don't you know who I am? I'm your nemesis, I'm your nightmare. I'm the Butcher of Gallitep. 
+KIRA: The Butcher of Gallitep died six years ago. You're Aamin Marritza, his filing clerk. 
+MARRITZA: That's not true. I am alive. I'll always be alive. It's Marritza who's dead. Marritza, who was only good for cowering under his bunk and weeping like a woman. Who, every night, covered his ears because he couldn't bear to hear the screaming for mercy of the Bajorans. 
 (He breaks down in tears) 
-MARRITZA: I covered my ears every night. I couldn't bear to hear those
-horrible screams. You have no idea what it's like to be a coward, to
-see these horrors and do nothing. Marritza's dead. He deserves to be
-dead. 
+MARRITZA: I covered my ears every night. I couldn't bear to hear those horrible screams. You have no idea what it's like to be a coward, to see these horrors and do nothing. Marritza's dead. He deserves to be dead. 
 (Kira releases the cell forcefield) 
 MARRITZA: What are you doing? 
 KIRA: I'm letting you go. 
 MARRITZA: Security? Get in here! 
-KIRA: You didn't commit those crimes, and you couldn't stop them. You
-were only one man. 
-MARRITZA: No, don't you see? I have to be punished. We all have to be
-punished. Major, you have to go out and tell them I'm Gul Darhe'el.
-It's the only way. 
+KIRA: You didn't commit those crimes, and you couldn't stop them. You were only one man. 
+MARRITZA: No, don't you see? I have to be punished. We all have to be punished. Major, you have to go out and tell them I'm Gul Darhe'el. It's the only way. 
 KIRA: Why are you doing this? 
-MARRITZA: For Cardassia. Cardassia will only survive if it stands in
-front of Bajor and admits the truth. My trial will force Cardassia to
-acknowledge its guilt. And we're guilty, all of us. My death is
-necessary. 
-KIRA: What you're asking for is another murder. Enough good people have
-already died. I won't help kill another.
- [Promenade] 
+MARRITZA: For Cardassia. Cardassia will only survive if it stands in front of Bajor and admits the truth. My trial will force Cardassia to acknowledge its guilt. And we're guilty, all of us. My death is necessary. 
+KIRA: What you're asking for is another murder. Enough good people have already died. I won't help kill another. 
+[Promenade]
 (Odo is following, keeping guard) 
 KIRA: You should be back on Kora Two in three days. 
 MARRITZA: There's nothing for me to go back to. 
 KIRA: We've contacted officials there. They'll be waiting to help you. 
-MARRITZA: If they believed that I was Gul Darhe'el, then my trial might
-have helped bring about a new Cardassia. Now you've told them I was
-just a file clerk. 
-KIRA: What you tried to do was very honourable. If Cardassia is going
-to change, it's going to need people like you. 
-(Kainon runs up behind Marritza and stabs him in the back. Odo grabs
-Kainon. Marritza dies in Kira' arms.) 
+MARRITZA: If they believed that I was Gul Darhe'el, then my trial might have helped bring about a new Cardassia. Now you've told them I was just a file clerk. 
+KIRA: What you tried to do was very honourable. If Cardassia is going to change, it's going to need people like you. 
+(Kainon runs up behind Marritza and stabs him in the back. Odo grabs Kainon. Marritza dies in Kira' arms.) 
 KIRA: Why? He wasn't Darhe'el! Why? 
 KAINON: He's a Cardassian. That's reason enough. 
-KIRA: No! It's not.  
+KIRA: No! It's not. 
 

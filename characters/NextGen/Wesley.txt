@@ -4,7 +4,7 @@ WESLEY: If you're wondering about Mom, Commander Riker, she's not unfriendly. Sh
 WESLEY: Mom, that gold pattern wasn't there.#
 WESLEY: When I was little, he brought my father's body home to us.#
 WESLEY: Sir?#
-WESLEY: Yes, sir. (Crusher and Wesley leave Riker, and another uniformed man arrives, wearing a device across his eyes)#
+WESLEY: Yes, sir.#
 WESLEY:  Commander Riker, isn't this great? This is one of the simpler patterns. They've got thousands more. Some you just can't believe.#
 WESLEY: Wow!#
 WESLEY: Sir, maybe I should get something to wipe this water up.#
@@ -23,7 +23,8 @@ WESLEY: It's pieced together from words he's used on the intercom. With this, I 
 WESLEY: What do you think?#
 WESLEY: But he still won't let me on the Bridge. And there's nothing there I don't understand.#
 WESLEY: Are you okay?#
-WESLEY: Hey, Mom, look what I can do. (She dashes into Sickbay to see him playing with his tractor beam device) WESLEY: I've been able to widen and strengthen the beam, just like I told you last night.#
+WESLEY: Hey, Mom, look what I can do.#
+WESLEY: I've been able to widen and strengthen the beam, just like I told you last night.#
 WESLEY: Sure, Mom, sure. Your wish is my command.#
 WESLEY: Okay, but you could be stunting my emotional growth, you realise that. Why is it so hot in here, anyway?#
 WESLEY: Hi, Jim. Was that the Captain sending you to Medical?#
@@ -54,7 +55,7 @@ WESLEY: Excuse me, Commander Riker. I don't think he did this. I think#
 WESLEY: But sir, when this all happened, I was watching his assistant#
 WESLEY: He's too tired. Why don't you do it by yourself?#
 WESLEY: He phased, sir.#
-WESLEY: Parts of him disappeared and then came back. Nobody else was paying attention to him the first time.#
+WESLEY: Parts of him disappeared and then came back. Nobody else was paying attention to him the first time. RIKER: When we saw it this time, he seemed to be struggling, fighting it.#
 WESLEY: Is he going to be all right?#
 WESLEY: Mom, he's my friend.#
 WESLEY: My name is Wesley, Commander Riker.#
@@ -62,7 +63,7 @@ WESLEY: He isn't, Captain. I know he isn't.#
 WESLEY: No! He's very weak. TRAVELLER: The Captain's right. We must hurry. But first, I request a moment with the Captain. Alone.#
 WESLEY: It's quite all right, sir, I understand.#
 WESLEY: I'm sorry, sir.#
-WESLEY: If you don't mind, sir, I'd like to sit here awhile. I'll tell her later. (Sorry folks, but Eugene Wesley Roddenberry has dumped his Mary-Sue character on us for the duration....)#
+WESLEY: If you don't mind, sir, I'd like to sit here awhile. I'll tell her later.#
 WESLEY: Him Mom. You're back early.#
 WESLEY: Physical sciences class. We're studying Doctor Channing's theory on dilithium crystals.#
 WESLEY: Really? You never seemed that interested in warp theory before. Doctor Channing thinks it's possible to force dilithium into even more useful crystals. If as shown here, matter and antimatter could be aligned even more efficiently#
@@ -88,7 +89,7 @@ WESLEY: Watch this.#
 WESLEY: Er. What?#
 WESLEY: Er. Well, actually, there are some games I don't quite know yet#
 WESLEY: Oh, sure! If you have a bat for the ball, I can show you my favourite. A bat? A stick or branch, about this thick, this long.#
-WESLEY: At home we play a lot of it. Here, toss the ball ahead of me. (A boy does, and Wesley runs back to catch it, not watching where he is going)#
+WESLEY: At home we play a lot of it. Here, toss the ball ahead of me.#
 WESLEY: It's okay. I'm fine.#
 WESLEY: I said I was fine.#
 WESLEY: I was chasing a ball and I fell into that. I'm really sorry!#
@@ -129,7 +130,7 @@ WESLEY: You will find that there are many rules on starships that must be learnt
 WESLEY: Yes sir!#
 WESLEY: Why did he do that, Data?#
 WESLEY: I'd suggest you forget imitating him. If you'd said we've been using the sensors, instead of we have, I might have suspected you were Lore.#
-WESLEY: Aye, sir. (Wesley leaves, and Lore uses a laser to recreate his tic on Data, and cure his own)#
+WESLEY: Aye, sir.#
 WESLEY: He told me he just turned him off, Mom, er, Doctor.#
 WESLEY: Captain, recommend that you do not let him roam the ship freely.#
 WESLEY: Not if I have a choice.#
@@ -184,10 +185,11 @@ WESLEY: What is its power source?#
 WESLEY: If you don't know how it works, then how can you repair it?#
 WESLEY: From time to time, every computer, I mean Custodian, requires maintenance.#
 WESLEY: Custodian, can you show me where Harry is?#
-WESLEY: Custodian, show me Harry. (on the little screen, Harry is having his first go with the sculpting laser on a block of wood. Sawdust flies everywhere)#
+WESLEY: Custodian, show me Harry.#
 WESLEY: You are going to make him into a sculptor?#
 WESLEY: It will take him years to learn to do that.#
-WESLEY: Custodian, show me Alexandra. (She and Rashella are playing with a 3d hologram controlled by a joystick) WESLEY: Custodian, show me Mason.#
+WESLEY: Custodian, show me Alexandra.#
+WESLEY: Custodian, show me Mason.#
 WESLEY: What's in there? The power source?#
 WESLEY: Mom!#
 WESLEY: I knew Captain Picard would get us home.#
@@ -200,7 +202,7 @@ WESLEY: Duana, I feel badly for you that you have no children, but I have to tel
 WESLEY: Custodian's room.#
 WESLEY: Custodian, this is Wesley Crusher.#
 WESLEY: Show me where the Enterprise children are in relation to this room. Thank you. Goodnight.#
-WESLEY: I think I know a way to get us home. I need your help. Chief Medical Officer's log, stardate 41512.9. I've begun to suspect that whatever is killing the Aldeans is related to a danger faced by Earth in the twenty first century. Can it be that Aldea's ozone layer has been weakened?#
+WESLEY: I think I know a way to get us home. I need your help.#
 WESLEY: It's called passive resistance. We don't do what they want us to do and then they won't want us.#
 WESLEY: They won't hurt us.#
 WESLEY: So do I, but I don't want to stay here forever. Do you?#
@@ -217,7 +219,7 @@ WESLEY: Jake! Jake! Jake, wait a second. How're you doing?#
 WESLEY: Jake, I'm sorry.#
 WESLEY: Yeah, I know. I wish both of us were going.#
 WESLEY: I'm on my way, Doctor. I've got to go.#
-WESLEY: All right. Captain's log, stardate 41416.2. We're orbiting Relva Seven, where Wesley Crusher is about to be tested for entrance into Starfleet Academy. And to my great surprise, I have just learned that my old friend Admiral Gregory Quinn is on Relva Seven, and has requested to be beamed aboard the Enterprise immediately.#
+WESLEY: All right.#
 WESLEY: What?#
 WESLEY: It's a flux coordinating sensor.#
 WESLEY: Yeah. Do you know me?#
@@ -241,7 +243,8 @@ WESLEY: You? I thought there was nothing that could frighten a Klingon warrior.#
 WESLEY: I'm sorry, Lieutenant. I'm asking too many personal questions.#
 WESLEY: But on the Enterprise you do that every day. Everyone depends on everyone else to protect them.#
 WESLEY: So you overcame it?#
-WESLEY: End of the corridor, room on your right. One oh four. (The seven foot tall man bumps Wesley as he walks between him and Mordock) WESLEY: Excuse me.#
+WESLEY: End of the corridor, room on your right. One oh four.#
+WESLEY: Excuse me.#
 WESLEY: I'm sorry, it was an honest mistake. I apologise.#
 WESLEY: No, sir, I#
 WESLEY: Who do you think you're bullying? You bumped into me. It was your mistake. You were at fault. Do you want this to become violent?#
@@ -401,7 +404,7 @@ WESLEY: They're different. But that's what this exchange programme is all about.
 WESLEY: Captain, our bearings show that we should be in contact with the Klingon vessel now.#
 WESLEY: Aye, sir. Impulse speed.#
 WESLEY: Data, you're supposed to rip the wrapping off.#
-WESLEY: Data, you're missing the point. (Now that he has carefully removed it, Data rips the paper in half, then reads the book title)#
+WESLEY: Data, you're missing the point.#
 WESLEY: Right away.#
 WESLEY: Yes It's an SCM model. How did you know that?#
 WESLEY: Commander, who is she?#
@@ -512,7 +515,7 @@ WESLEY: Sir, the shields are back down.#
 WESLEY: Shields are back up.#
 WESLEY: Sir, another probe launched from the planet, heading toward the Romulans.#
 WESLEY: Why would the Romulans be experiencing problems? They weren't probed.#
-WESLEY: Commander, what about the away team? With the shields up, we can't beam them back. Captain's log, supplemental. While there is little left on the surface of Iconia, we have found what appears to be a control centre which seems to have remained intact.#
+WESLEY: Commander, what about the away team? With the shields up, we can't beam them back.#
 WESLEY: It's a building of some sort, situated on a plain of frozen methane, smack in the middle of a tremendous storm belt.#
 WESLEY: When they went through that antique doorway, the signal just disappeared, sir.;#
 WESLEY: We're attempting to employ alternate encoding schemes.#
@@ -564,7 +567,7 @@ WESLEY: Well, I've broken down the task and picked the best people in those disc
 WESLEY: I've got Prixus in mineralogy and metallurgy, Alans and Hildebrandt for volcanology and geomechanics. I want Davies for geochemistry, but#
 WESLEY: Right, and it makes me feel strange. What do I do about personality conflicts?#
 WESLEY: So you not only have to understand the job, you also have to be a ship's Counsellor.#
-WESLEY: Well, thank you. Captain's log, Stardate 42696.3. We are entering the second Selcundi star system, where acting Ensign Crusher will begin his planetary mineral survey. The results of which may help unlock the geological puzzle.#
+WESLEY: Well, thank you.#
 WESLEY: Ensign Davies?#
 WESLEY: Wesley Crusher. I've been put in charge of the planetary geological surveys, and I'd like to have you on the team.#
 WESLEY: I have Prixus and Alans and Hildebrandt.#
@@ -666,24 +669,25 @@ WESLEY: Not until we reach Pacifica, ma'am.#
 WESLEY: What was that all about?#
 WESLEY: Married?#
 WESLEY: Thank you, Captain.#
-WESLEY: We haven't got a prayer. [Hathaway Bridge]#
-WESLEY: No, sir. [Hathaway Bridge]#
+WESLEY: We haven't got a prayer.#
+WESLEY: No, sir.#
 WESLEY: The lining's still smooth. We should to be able to do something with these dilithium fragments we scavenged.#
 WESLEY: Geordi, I have to return to the Enterprise.#
 WESLEY: This is important.#
 WESLEY: Captain? I left an experiment running back on the Enterprise. May I go back and shut it down?#
 WESLEY: It has to be monitored. And it is my final grade in plasma physics.#
+WESLEY: I can't believe I forgot about this. It's a good lesson not to let excitement cloud your thinking.#
 WESLEY: It's very dull. I spent six weeks setting this up.#
 WESLEY: Oh, no. This is ruined.#
 WESLEY: I'm going to have to dispose of this safely It's very volatile. I'll beam it off the Enterprise and leave it particalised.#
-WESLEY: I'll transfer the coordinates to the transporter room. [Hathaway Engineering] (Wesley's experiment apparatus beams in.) [Ten Forward] (The two contestants are being set up like before.)#
+WESLEY: I'll transfer the coordinates to the transporter room.#
 WESLEY: Yeah.#
 WESLEY: My experiment from the Enterprise.#
 WESLEY: It deals with high energy plasma reactions with anti-matter.#
 WESLEY: No, sir. You told me to improvise.#
 WESLEY: There's just enough crystal to do it. We plan to channel the reaction through the chips.#
 WESLEY: Just under two seconds.#
-WESLEY: And the Enterprise will waltz right over and pulverise us. [Ready room]#
+WESLEY: And the Enterprise will waltz right over and pulverise us.#
 WESLEY: They're moving off, sir. Why not go after them?#
 WESLEY: You didn't.#
 WESLEY: What should I say? How do I act? What do I do?#
@@ -691,7 +695,7 @@ WESLEY: Commander?#
 WESLEY: I don't think this is my style.#
 WESLEY: He wants the impossible.#
 WESLEY: Go ahead.#
-WESLEY: I'm very sorry. I'll be right there. this. Captain's log, Stardate 43125.8. We have entered a spectacular binary star system in the Kavis Alpha sector on a most critical mission of astro-physical research. Our eminent guest, Doctor Paul Stubbs, will attempt to study the decay of neutronium expelled at relativistic speeds by a massive stellar explosion which will occur here in a matter of hours.#
+WESLEY: I'm very sorry. I'll be right there. this.#
 WESLEY: Approaching one million kilometres from the neutron star, sir.#
 WESLEY: Yes sir.#
 WESLEY: The ship isn't responding, sir.#
@@ -713,7 +717,7 @@ WESLEY: They're really harmless. I mean, they're equipped with only the most bas
 WESLEY: Go ahead.#
 WESLEY: I know. I just I had some things to do#
 WESLEY: On my way. You won't tell anybody, will you? I know. I will. If it's true.#
-WESLEY: I always get an A. ;#
+WESLEY: I always get an A.#
 WESLEY: No one will say that.#
 WESLEY: Yes, my father taught it to me when I was young.#
 WESLEY: Do you recreate them on a holodeck?#
@@ -809,7 +813,7 @@ WESLEY: Yes. Computer, call up the files on the Elway Theorem. What if they're u
 WESLEY: But Data, look, the nuclear vibrations are the same, and Elway used a model similar to this.#
 WESLEY: Another subspace reflection. Dimensional shift, sir.#
 WESLEY: More dimensional shifts, sir.#
-WESLEY: No, sir, the readings are (Finn and another terrorist jump onto the Bridge. Finn fires at the navigation console. Picard punches him and knocks him down. The woman terrorist shoots Worf in the leg as he shoots her)#
+WESLEY: No, sir, the readings are#
 WESLEY: Sir, the next time the Ansata use their dimensional jump we should be able to get a fix on the power source.#
 WESLEY: Got it. We've pinpointed the Ansata base to some three hundred kilometres from the city, on the southern tip of the continent.#
 WESLEY: Commander? Good luck.#
@@ -930,7 +934,7 @@ WESLEY: I never thought of that, either. I never thought I'd feel this way about
 WESLEY: I suppose so, but.#
 WESLEY: I hope you're right, Geordi.#
 WESLEY: Soon as I'm sure this works.#
-WESLEY: Thank you, sir. (Wesley takes a look around as everyone carries on with their duties, then leaves)#
+WESLEY: Thank you, sir.#
 WESLEY: Deck six.#
 WESLEY: You too, Mom.#
 WESLEY: We've been scanning Ferengi transmissions, trying to find the Krayton. One of the signals was, I don't know, familiar somehow.#
@@ -1085,7 +1089,7 @@ WESLEY: When the sun went down, the temperature really dropped. This should help
 WESLEY: Sir, Dirgo is dead. I should've tried harder to stop him, but he. Captain! Captain Picard! Sir, stay with me.#
 WESLEY: Sir, do you remember when we took the shuttlecraft to Starbase five one five? I was dreading it. Six hours alone with you. But it didn't turn out the way that I thought. You opened up to me. I kind of got to know you.#
 WESLEY: Sir, I'm honoured you wanted me along.#
-WESLEY: Sir, in the past three years I've lived more than most people do in a lifetime. I think I'm very lucky. no matter what happens. How many people get to serve with Jean-Luc Picard? Sir, you don't know this. No one knows this, because I never told anyone. All of the things I've worked for, school, my science projects, getting into the Academy, I've done it all because I want you to be proud of me. If there is one thing that I've learned from you, it's that you don't quit. And I'm not going to quit now. I've seen you think yourself out of worse problems than this, and I'm going to think us out of this. You're not going to die. I'm not going to let you die. I'll get to the water and I'll keep you alive until they find us. I promise. First Officer's log, supplemental. The Enterprise is returning to the last known location of the missing shuttlecraft.#
+WESLEY: Sir, in the past three years I've lived more than most people do in a lifetime. I think I'm very lucky. no matter what happens. How many people get to serve with Jean-Luc Picard? Sir, you don't know this. No one knows this, because I never told anyone. All of the things I've worked for, school, my science projects, getting into the Academy, I've done it all because I want you to be proud of me. If there is one thing that I've learned from you, it's that you don't quit. And I'm not going to quit now. I've seen you think yourself out of worse problems than this, and I'm going to think us out of this. You're not going to die. I'm not going to let you die. I'll get to the water and I'll keep you alive until they find us. I promise.#
 WESLEY: We crashed, sir. We're in a cave.#
 WESLEY: Sir, we don't have any water. Don't you remember? We tried to get to the fountain and Captain Dirgo#
 WESLEY: I think I'm on to something. I've analysed the sentry's energy patterns.#
@@ -1283,7 +1287,7 @@ WESLEY: We could scan the quantum fissure using a subspace differential pulse. M
 WESLEY: I've used a differential pulse to analyze over ten million quantum states within the fissure, but I still haven't found one with your signature. This may take some time, sir.#
 WESLEY: They're charging their weapons, sir.#
 WESLEY: They've damaged our power systems, sir. It's caused an energy surge within the subspace pulse. The quantum fissure is beginning to destabilise.#
-WESLEY: Too late, sir. (the fissure goes rainbow, then more Enterprises pop into this existence)#
+WESLEY: Too late, sir.#
 WESLEY: The Bajoran ship is disengaging, sir.#
 WESLEY: Captain, we're receiving two hundred eighty five thousand hails.#
 WESLEY: Aye, sir.#
@@ -1350,7 +1354,8 @@ WESLEY: I don't blame you at all. It is my decision. It always has been.#
 WESLEY: The Traveller.#
 WESLEY: I love you too, Mom.#
 WESLEY: Why?#
-WESLEY: No! (and everything stops, including the Cardassian falling after being shot in the chest. Lakanta walks over to Wesley, the only two still moving) WESLEY: What happened? Did you do this?#
+WESLEY: No!#
+WESLEY: What happened? Did you do this?#
 WESLEY: I did?#
 WESLEY: My first step to where?#
 WESLEY: I don't understand.#

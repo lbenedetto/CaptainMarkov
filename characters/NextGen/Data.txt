@@ -12,7 +12,7 @@ DATA: Magnifying viewer image.#
 DATA: Engine room attempting to comply, sir, but they caution us#
 DATA: Projection, sir. We may be able to match hostile's nine point eight, sir. But at extreme risk.#
 DATA: Starship separation in six, five, four, three, two, one.#
-DATA: Separation is successful, sir. (The main body does a hand-brake turn and heads back to their pursuer. The torpedoes detonate.)#
+DATA: Separation is successful, sir.#
 DATA: Reverse power. Decelerating.#
 DATA: Historically intriguing, Captain. Very, very accurate.#
 DATA: At least we are acquainted with the judge, Captain.#
@@ -91,12 +91,12 @@ DATA: In every way, of course. I am programmed in multiple techniques, a broad v
 DATA: Fully, Captain.#
 DATA: We are more alike than unlike, my dear Captain. I have pores. Humans have pores. I have fingerprints. Humans have fingerprints. My chemical nutrients are like your blood. If you prick me, do I not leak?#
 DATA: Nice to see you, Wesley.#
-DATA: Ah, a game! (So, with Red Alert screaming, Data sits down at the panel and starts slotting chips in, very quickly)#
+DATA: Ah, a game!#
 DATA: No, this will take slightly more time than we have, sir.#
 DATA: If we just had one minute more, sir,#
 DATA: Thirteenth Century, sir.#
 DATA: With their orbital control station, sir.#
-DATA: It reads similar to early Starfleet efforts but uses the Heglenian shift to convert matter and energy in different. Which is actually not important at this time.#
+DATA: It reads similar to early Starfleet efforts but uses the Heglenian shift to convert matter and energy in different.  Which is actually not important at this time.#
 DATA: If I may, sir. One of the things about them in the briefing studies was their respect for patience.#
 DATA: It is a highly structured society in which people live by strict codes of honour. For example, what Lutan did is similar to what certain American Indians once did called counting coup. That's from an obscure language called French. Counting coup#
 DATA: Indeed? But surely, sir#
@@ -132,7 +132,7 @@ DATA: If you mean a Tarellian vessel, sir, it is.#
 DATA: Tarella was class M, much like your Earth, with similar humanoid life forms. Unfortunately they faced the old story of hatred out powering intelligence.#
 DATA: Between the inhabitants of their two land masses, resulting in one group unleashing a deadly biological weapon on the other.#
 DATA: Exactly thirteen hours, nine minutes, twenty two seconds, three hundred fifty#
-DATA: Considering the rate at which you imbibe, sir, is your lineage at all mixed with human? (Homn exaggeratedly sticks his nose in the air. Such an insult, young android)#
+DATA: Considering the rate at which you imbibe, sir, is your lineage at all mixed with human?#
 DATA: Sir?#
 DATA: Perhaps being human yourself, sir, you do not find them as intriguing as I.#
 DATA: Mrs. Troi, I'm very interested in the Betazed ceremony you mentioned. Could you tell us more?#
@@ -150,7 +150,7 @@ DATA: Which, traveling subspace, they should receive in fifty-one years, ten mon
 DATA: Sir?#
 DATA: Captain, we're here. Why not avail ourselves of this opportunity for study? There is a giant protostar here in the process of forming. No other vessel has been out this far.#
 DATA: According to the instruments, sir, our speed never exceeded warp one point five.#
-DATA: Where none have gone before. Captain's log, stardate 41263.3. Instead of returning to our own galaxy, the Enterprise has gone forward to a place in the universe which is uncharted and unknown. Our present position puts us at over a billion light years from our galaxy.#
+DATA: Where none have gone before.#
 DATA: Warp one point five, sir, which is what my instruments have read all along.#
 DATA: Sleigh ride?#
 DATA: Warp five, sir.#
@@ -179,7 +179,7 @@ DATA: Hailing frequencies open, sir.#
 DATA:  Fortunately, Starfleet has no such rules involving our second officers.#
 DATA: As requested, Captain, library computer information on this planet. It has been charted only from long range scans. It is Class M, but shows no indications of life forms, sentient or otherwise. However, you may find this of interest. Resolving it into our language.#
 DATA: The centre of a huge space federation, a population of trillions.#
-DATA: Understandable. It has been extinct six hundred thousand of our of our years. These planets were once outposts of that empire.#
+DATA: Understandable. It has been extinct six hundred thousand of our  of our years. These planets were once outposts of that empire.#
 DATA: Apologies, Captain. I seem to have reached an odd functional impasse. I am stuck.#
 DATA: Yes, sir. That is what I am trying to do, sir, but the solution eludes me.#
 DATA: Intriguing. It describes the Empire as being highly advanced and powerful, and capable of actually moving stars.#
@@ -209,7 +209,7 @@ DATA: No life form reading, sir.#
 DATA: Sir, it is changing shape.#
 DATA: Negative, Captain. Energy only.#
 DATA: A mystery is only a mystery as long as it remains uninvestigated, sir.#
-DATA: Intriguing, Doctor. What does helm control have to do with medical crosschecks? (Unseen by him, the blue energy leaves Beverly and enters the computer. She is disoriented)#
+DATA: Intriguing, Doctor. What does helm control have to do with medical crosschecks?#
 DATA: Is something wrong, Doctor?#
 DATA: Captain? There is a malfunction in this station. I cannot bring any information up on it. Science two does not function either, sir.#
 DATA: It is a virtual impossibility, sir.#
@@ -250,7 +250,7 @@ DATA: Whatever is sitting out there without triggering our alarm relays, sir.#
 DATA: Enterprise to object off our starboard bow. Request that you identify yourself.#
 DATA: It was something unintelligible, Captain. Now running it through language and logic circuits.#
 DATA: I've got some information on its first transmission, sir. It translates as stand by.#
-DATA: Verified, sir. Something very small. (A little globe of light passes through the shields, and the hull, and the bulkheads)#
+DATA: Verified, sir. Something very small.#
 DATA: The away team signal's been cut off, Captain. We've lost contact with our people.#
 DATA: The colony we just planted, sir.#
 DATA: Captain, I do not understand how, but it is asking me if I was constructed for information exchange.#
@@ -265,7 +265,7 @@ DATA: No, it is more curiosity, sir. I doubt that they expect us to abide by the
 DATA: They know everything I know, sir.#
 DATA: It would be a case of judging us by our own rules, sir. If we violate our own Prime Directive, they might consider us to be deceitful and untrustworthy. You do recall they cautioned us not to interfere with their children below. What has happened?#
 DATA: Most interesting, sir. The emotion of motherhood, compared to all others felt by#
-DATA: You were right, sir. I do tend to babble. Captain's log, stardate 41255.9. Whatever the object or vessel in orbit with us, it hangs there like a nemesis. It is one thing to communicate with something mysterious, but it is quite another to be silently observed by it. I am concerned whether it understands the same concept of reason that we do?#
+DATA: You were right, sir. I do tend to babble.#
 DATA: You sent for me, sir?#
 DATA: Yes, sir.#
 DATA: What level of communication, sir?#
@@ -287,7 +287,7 @@ DATA: You performed what Starfleet textbooks now refer to as the Picard Manoeuvr
 DATA: Sir, the Ferengi are standing by for us to take possession of the Stargazer.#
 DATA:  USS Stargazer. Constellation Class. Starfleet Registry NCC 2893.#
 DATA: You'll find this most intriguing, sir.#
-DATA: The last entry dated nine years ago, sir. By you. (reading screen) We are forced to abandon our starship. May she find her way without us. Apparently she did, sir.#
+DATA: The last entry dated nine years ago, sir. By you.  We are forced to abandon our starship. May she find her way without us. Apparently she did, sir.#
 DATA: Starfleet has responded to our request, sir. A tug will rendezvous with us and tow the Stargazer back to Xendi Starbase Nine.#
 DATA: The records of the Stargazer, sir. What the Ferengi call the Battle of Maxia. It seems the Captain's personal log contains a much different version of that conflict than the official historic account.#
 DATA: It would appear that the starship which Captain Picard attacked, had in fact, been under a flag of truce.#
@@ -310,14 +310,14 @@ DATA: Which will bring us to the colony in three point two hours, sir.#
 DATA: The Q entity, sir. It is identical to the grid we encountered when#
 DATA: Obviously a class M world. Gravity and oxygen within our limits.#
 DATA: Considering the power demonstrated by Q the last time, anywhere. Assuming this place even exists.#
-DATA: Sir, what he has in mind might provide us with vital information. (Riker joins Q at a table in front of a tent. He picks up a glass to drink)#
+DATA: Sir, what he has in mind might provide us with vital information.#
 DATA: That is what humans call a truism.#
 DATA: This is from Europe's Napoleonic era, sir. Late eighteenth, early nineteenth centuries. This is a campaign headquarters tent, his uniform is that of a French Army marshal.#
 DATA: The third ridge?#
 DATA: Muskets are appropriate to the 1790 to 1800 French army uniform, sir. But it is hardly a weapon by our standards. A lead ball propelled by gunpowder. One hundred metres at best with any accuracy.#
 DATA: You may find it aesthetically displeasing, sir. I could just file a computer report on that.#
 DATA: And the reason for that, sir?#
-DATA: This way sir. (Data forces open a jammed door and they enter a room with some water on the floor and people groaning. Crusher and her medics start tending to them)#
+DATA: This way sir.#
 DATA: Sir, if indeed you have the power of Q.#
 DATA: Are you certain, sir?#
 DATA: No. No, sir.#
@@ -328,7 +328,7 @@ DATA: Aye, sir.#
 DATA: Aye, sir. Frequency open and secured.#
 DATA: Aye, sir.#
 DATA: I have it, sir.#
-DATA: I am sorry, sir. That does not correspond with the information in my tricorder, sir.#
+DATA: I am sorry, sir. That does not correspond with the information in my tricorder, sir. JAMESON: Your information is incorrect, Commander. I know these tunnels like the back of my own hand. Keep scanning for signs of human life forms. Karnas held his hostages in these tunnels before. He'll do it again.#
 DATA: Captain, the Admiral is definitely incorrect. The tunnel schematics we have show this to be a dead end. It was sealed off two years ago.#
 DATA: Their phasers, sir, set on kill.#
 DATA: No sign of a wound.#
@@ -387,7 +387,7 @@ DATA: I have always felt that it was done hurriedly, but I know little more. Her
 DATA: Only a layer of dust.#
 DATA: Opening my eyes. Looking into the eyes of the Tripoli landing party. They believed that the signal device sensed their presence and activated me.#
 DATA: Yes, that was it, Geordi. This wakens a memory remnant of how the colonists hoped to remain hidden, but their fear of being discovered led to their storing information in me.#
-DATA: Only a vague impression of some of my functions being tested here. (There are crude pictures on a notice board of a spiky object in the sky)#
+DATA: Only a vague impression of some of my functions being tested here.#
 DATA: It depicts something that feels familiar, sir. And dangerous. But I have no idea what it represents. And that is all. Except for an impression of this being a Doctor Soong's work area.#
 DATA: He was called that here, but his memories indicate he travelled here under a different name.#
 DATA: Commander, can this be another me? Or possibly my brother?#
@@ -426,12 +426,11 @@ DATA: Thank you, Lore. I now have duties to perform. Unless of course, you need 
 DATA: To go?#
 DATA: Which is used in our construction. That particular compound is no more suspicious, sir, than a human looking for an antiseptic or an ointment. Nevertheless, I should check it out.#
 DATA: Champagne?#
-DATA: I have some doubts about the value of human customs (feels an effect) in this. My brother!#
+DATA: I have some doubts about the value of human customs  in this. My brother!#
 DATA: I will function sufficiently to stop Lore, Doctor#
 DATA: How sad, dear brother. You make me wish I were an only child.#
 DATA: I will stay with Wesley, Doctor.#
-DATA: Wes! The transporter.#
-DATA: Wesley, now! (Wesley beams Lore out, somewhere. Tasha and Riker arrive, armed, followed by Picard and Crusher)#
+DATA: Wesley, now!#
 DATA: Yes, sir. I'm fine.#
 DATA: Yes, Captain.#
 DATA: Angel One is a class M planet, sir, supporting carbon based flora and fauna, sparsely populated with intelligent life forms. It is similar in technological development to mid-twentieth century Earth.#
@@ -459,7 +458,7 @@ DATA: After relieving Lieutenant La Forge, I computed the length of time the bor
 DATA: And the USS Berlin can safely withstand a Romulan attack, and deducted our time to destination at maximum warp speed. That leaves Doctor Crusher forty eight minutes to develop an inoculants to the virus.#
 DATA: Forty seven, sir.#
 DATA: Go ahead, Doctor.#
-DATA: Bingo? I fail to see the relevance, Doctor. Is that not a reference to an ancient Earth game? {Sickbay]#
+DATA: Bingo? I fail to see the relevance, Doctor. Is that not a reference to an ancient Earth game?#
 DATA: Excellent, Doctor. We still have seventeen minutes left. I will inform the away team immediately. Enterprise to Riker.#
 DATA: Understood, Commander.#
 DATA: Sir?#
@@ -488,7 +487,7 @@ DATA: It is the best place for us to start.#
 DATA: Do you think I am responsible?#
 DATA: My station is on the Bridge.#
 DATA: You are wrong, Geordi. I can. I do not need rest or diversion. I should not have been painting. I was negligent.#
-DATA: The access would be available by code or password. {Bridge]#
+DATA: The access would be available by code or password.#
 DATA: File names can be anything, sir.#
 DATA: Then a name, or a place. It could be something personal. In this case, in binary language, which is ones and zeros in groups of eight or sixteen characters.#
 DATA: We are sensing life-forms, sir.#
@@ -504,7 +503,7 @@ DATA: But this is almost as if the laser drill seemed to operate itself with a w
 DATA: The laser blasts seemed to end when the yelling stopped.#
 DATA: Not possible.#
 DATA: Uncertain. Geordi, please return power to the control console in this room. I wish to reactivate the programme.#
-DATA: I am running the base drilling programme. (The little red light focuses on the back of Data's neck and the doors slam shut. Data turns and dodges the deadly beams)#
+DATA: I am running the base drilling programme.#
 DATA: Bridge, this is Lieutenant Commander Data. No need to beam me up, sir. The situation is under control.#
 DATA: Yes.#
 DATA: No, but the firing programme was dynamic.#
@@ -519,7 +518,7 @@ DATA: But it was done.#
 DATA: What are we to look for, sir?#
 DATA: Geordi, I need some visual assistance.#
 DATA: Speculation. Could it be alive?#
-DATA: Whatever it is, it could be what they are covering up, and the reason someone killed Malencon. Captain's log, supplemental. On my order, Data's startling discovery of a possible life form has been beamed aboard so that its true nature might be uncovered. But unlike life on Earth and elsewhere, it appears to be completely inorganic.#
+DATA: Whatever it is, it could be what they are covering up, and the reason someone killed Malencon.#
 DATA: It's never been done, Doctor.#
 DATA: Reproduction?#
 DATA: Recheck analysis, please.#
@@ -539,7 +538,7 @@ DATA: The translator is now offline, sir.#
 DATA: Sir, that chaos when we were studying it in the lab must have been the energy surge of a reproductive cycle. It is now a colony of single cells which organize as a computer. And like any computer#
 DATA: That seems to be it's method of reprogramming, Captain. Each bolt of light consists of negatively and positively charged ions. A series of programme instructions, as it were. It seems to have a quicker rapport with our computers than we have.#
 DATA: It does seem dormant, Captain.#
-DATA: Environmental systems fail to respond to command, Captain. It appears the microbrain has successfully interfaced with our computers. ]#
+DATA: Environmental systems fail to respond to command, Captain. It appears the microbrain has successfully interfaced with our computers.#
 DATA: It connected them.#
 DATA: The saline fluid is their circuitry, and to prevent its loss, they killed Malencon.#
 DATA: Captain, our sensors indicate that the microbrain expends a tremendous amount of energy during its reproductive cycle. Yet there is no discernible power drain on our own systems.#
@@ -558,7 +557,7 @@ DATA: I am not aware of Regulation six point five seven.#
 DATA: I see, sir. Oh, I see, sir.#
 DATA: I believe it was a repulsor beam.#
 DATA: That may be impossible, sir.#
-DATA: Yes, sir. )Crusher enters)#
+DATA: Yes, sir.#
 DATA: Captain.#
 DATA: These permutations are going to take a very long time.#
 DATA: Weeks.#
@@ -590,7 +589,8 @@ DATA: All routes are equally dangerous, sir.#
 DATA: There is no significant difference.#
 DATA: The life signs are very strong now, sir. They are coming from over there.#
 DATA: Negative. This is the only way. The safest way to proceed is for me to cross alone. The heat and toxic gases have less effect on me.#
-DATA: I've found them, sir. The door to their compartment is jammed. (They follow him around the warp core to a big door that is very slightly open) DATA: The control mechanism's not operative, sir.#
+DATA: I've found them, sir. The door to their compartment is jammed.#
+DATA: The control mechanism's not operative, sir.#
 DATA: I advise against the use of phasers, sir. The gas buildup is too great.#
 DATA: Shall I, sir?#
 DATA: I believe I have found a quicker way out of here, sir.#
@@ -616,7 +616,7 @@ DATA: Since there is no intelligent life, the question is by what?#
 DATA: Over here.#
 DATA: Sir, other than ourselves, I am picking up no life signs here.#
 DATA: Commander Riker just has been encased in some kind of energy field.#
-DATA: Unknown. Captain's log, supplemental. Some kind of weapon, which for a time took the form of Captain Paul Rice, has enveloped Commander Riker.#
+DATA: Unknown.#
 DATA: Typically, the purpose of such an enclosure is for storage.#
 DATA: He is alive. What appeared in the form of Captain Rice is an intelligence gathering device used during the Ersalrope Wars.#
 DATA: It projects an image of someone the subject will trust, gets as much information as possible.#
@@ -723,8 +723,9 @@ DATA: Doctor Manheim forgot to mention one of his security precautions, sir. I a
 DATA: This appears to be the instrument Doctor Manheim described. It should confirm when the next time effect will occur.#
 DATA: I will know in a moment, sir. According to calculations, the next time effect will occur in one minute thirty seconds.#
 DATA: I will need to add a specific amount of antimatter to rebalance and align the system.#
-DATA: Theoretically, yes. In reality I do not know. (He opens a container and gets the antimatter, putting it on the end of a long rod) DATA: When the effect hits, the forcefields will align, opening a clean straight path to the other dimension. Whatever the time distortion, I must add the antimatter at the appropriate moment. Geordi, if the Professor was right, I will need a twenty seven second countdown.#
-DATA: Captain, I now have the antimatter and am moving towards the opening at the end of the lab. The next time distortion should occur within seconds. Geordi, begin countdown on my mark. Now. (There's a big sparkle. Data looks back to see himself midway across the lab - no 2 - and getting the antimatter - no 3. Meanwhile, Geordi's voice is counting down, very echoy)#
+DATA: Theoretically, yes. In reality I do not know.#
+DATA: When the effect hits, the forcefields will align, opening a clean straight path to the other dimension. Whatever the time distortion, I must add the antimatter at the appropriate moment. Geordi, if the Professor was right, I will need a twenty seven second countdown.#
+DATA: Captain, I now have the antimatter and am moving towards the opening at the end of the lab. The next time distortion should occur within seconds. Geordi, begin countdown on my mark. Now.#
 DATA: Yes, sir.#
 DATA: It is well patched, sir. Closed indicates a permanent condition, which I cannot guarantee.#
 DATA: With pleasure, sir.#
@@ -761,7 +762,7 @@ DATA: Commander, request permission to investigate this vehicle.#
 DATA: It is a piece of history. The opportunity to examine such an ancient vehicle does not come around very often, and as you pointed out, we do have the time.#
 DATA: Thank you, sir.#
 DATA: Minimal oxygen atmosphere. An ancient solar generator, still operating.#
-DATA: The on-board computers have ceased functioning. I may be able to download this old style disk drive back to the Enterprise. (Worf tries to walk through the next hatch, but it does not automatically open for him)#
+DATA: The on-board computers have ceased functioning. I may be able to download this old style disk drive back to the Enterprise.#
 DATA: Not necessary.#
 DATA: The seal was broken and the environment has been corrupted.#
 DATA: This one is empty.#
@@ -796,7 +797,7 @@ DATA: No, but the computer can replicate such an instrument.#
 DATA: I must leave now.#
 DATA: It is a buffer between the Romulan Empire and the Federation.#
 DATA: I do not know.#
-DATA: No, that would not be appropriate. Captain's log, supplemental. We have arrived at the edge of the Neutral Zone, where we will now have an opportunity to learn firsthand what happened to our distant outpost.#
+DATA: No, that would not be appropriate.#
 DATA: Captain, there is nothing left of Outpost Delta Zero Five.#
 DATA: Sensors indicate no evidence of conventional attack.#
 DATA: The condition is identical, Captain.#
@@ -844,7 +845,7 @@ DATA: All the probe's systems are functioning perfectly.#
 DATA: Unknown, sir.#
 DATA: Still no readings of any kind, sir.#
 DATA: Whatever it is, sir, we seem to be inside it.#
-DATA: No response, Captain. Captain's log, supplemental. While exploring a strange void in space without any form of matter or energy, we have apparently moved past its outer boundary and entered it. After a brief disruption, our ship's communications have returned to normal.#
+DATA: No response, Captain.#
 DATA: Difficult to make a judgment, sir, based on the absence of information.#
 DATA: This void has a total lack of dimension. Therefore, by any accepted standard, it does not exist, yet being within it denies that conclusion.#
 DATA: Could a lack of dimension be another dimension in itself?#
@@ -918,7 +919,8 @@ DATA: There. I have instructed the computer to give us a Sherlock Holmes-type pr
 DATA: Exactly. Will that be sufficient, Doctor?#
 DATA: This is no larger than the holodeck, of course, so the computer adjusts by placing images of more distant perspectives on the holodeck walls#
 DATA: No. It is a ruse. This way.#
-DATA: The running youth was a ploy. The real crime is here. And the intended victim is that man. Mister Jabez Wilson, employee of the Red Headed League, dupe of a gang of criminals. DATA: I saw the plaque 'The Home of the Red Headed League' and this rope dangling from the bell, which enabled me to deduce that Mister Jabez Wilson was headed here to meet a most distasteful and untimely demise. From this.#
+DATA: The running youth was a ploy. The real crime is here. And the intended victim is that man. Mister Jabez Wilson, employee of the Red Headed League, dupe of a gang of criminals.#
+DATA: I saw the plaque 'The Home of the Red Headed League' and this rope dangling from the bell, which enabled me to deduce that Mister Jabez Wilson was headed here to meet a most distasteful and untimely demise. From this.#
 DATA: Reasoning. From the general to the specific. Is that not the very definition of deduction? Is that not the way Sherlock Holmes worked?#
 DATA: For whatever finds us, my dear Watson.#
 DATA: She has been abducted.#
@@ -932,7 +934,7 @@ DATA: There they are again, Watson. I dare say we have caught up rather nicely w
 DATA: There should be a doorway.#
 DATA: There is nothing here of relevance. I do not see how this connects with the disappearance of the Doctor.#
 DATA: Doctor Kate Pulaski. But do not concern yourself, Inspector. You have enough on your mind.#
-DATA: No. Look at his shoes. He's more a convict, released today from Dartmoor prison. He spent the day in a tavern consuming large quantities of gin with his killer, who followed him to this spot and waited over there until the victim slipped into a drunken stupor. Then, out of fear, motivated only by self-protection, strangled him. There is your killer, Inspector.#
+DATA: No. Look at his shoes. He's more a convict, released today from Dartmoor prison. (#
 DATA: And when you check, I believe you will find that this poor soul is the victim's common-law wife, who has been dreading the release of this a vile and abusive man.#
 DATA: Not with her hands, no. But with this.  When used as a garrote, these beads will leave marks quite similar to fingerprints. And, my dear Watson, you will note from the victim's throat, the marks are too evenly spaced to be have been made by human hands.#
 DATA: Not really, Inspector. And now, for strictly personal reasons, I must leave. Come, Watson. This murder does not connect with our case.#
@@ -1005,7 +1007,8 @@ DATA: No. Too esoteric. More generic.#
 DATA: That one. RW nine six three two one, twentieth century.#
 DATA: Mister Comic, I wish to know what is funny.#
 DATA: Tip O'Neill. Accessing. Twentieth century male, politician, overweight, wearing female clothing, carrying a valise that looks like a fish. So, the juxtaposition of gender and an amphibian briefcase is funny.#
-DATA: Nothing makes me laugh. I wish to learn. COMIC: How much time do we have here? DATA: Unlimited.#
+DATA: Nothing makes me laugh. I wish to learn. COMIC: How much time do we have here?#
+DATA: Unlimited.#
 DATA: Tough room? A colloquialism meaning a severe, rigid, closed-minded audience. I understand. I will attempt to be an easy room. Show me what is funny.#
 DATA: I am an android.#
 DATA: That is considered to be funny?#
@@ -1029,8 +1032,8 @@ DATA: I told a joke.#
 DATA: No one laughed.#
 DATA: She said I spoiled the joke.#
 DATA: Computer. Programme an audience appropriate to this venue.#
-DATA: Good evening ladies and germs. (laughter - mimes a golf swing with his cigar - laughter) I come from a town so small, we had a fraction for a zip code.#
-DATA: It was so small in fact we didn't have a godfather of crime, we had a nephew. I was so ugly as a child they hung a pork chop around my neck so the dog would play with me.  And then there was the human cannonball who was hired and fired in the same night. Audience programme off. Discontinue Comic.#
+DATA: Good evening ladies and germs.  I come from a town so small, we had a fraction for a zip code.#
+DATA: It was so small in fact we didn't have a godfather of crime, we had a nephew.#
 DATA: It was a holodeck audience. They were programmed to laugh at everything. Perhaps I should reprogram the audience to display a more accurate response.#
 DATA: No, but there is nothing more uniquely human.#
 DATA: Goodbye, Data.#
@@ -1058,20 +1061,20 @@ DATA: Really, Grandpa?#
 DATA: But the Doctor#
 DATA: That is not necessarily true, Grandpa. I do have an off button, if you will. Its activation robs me of my consciousness, therefore rendering me dead for all intents and purposes. It is not something I enjoy contemplating.#
 DATA: That will not be necessary, Doctor. He is gone.#
-DATA: It happened just a few moments ago, in my arms. Ira Graves is dead. Captain's log, supplemental. I leave Gravesworld with an empty feeling and the knowledge that our mission was unsuccessful. Whatever scientific secrets Ira Graves was about to unlock have been lost forever. Our immediate priority is to reach the nearest starbase so that Graves' assistant can get on with her life.#
+DATA: It happened just a few moments ago, in my arms. Ira Graves is dead.#
 DATA: To do so would have been pointless. All things must pass. May I go now, sir?#
 DATA: We will try to honour him in the manner in which he specified, will we not, sir?#
 DATA: I am glad, sir. It was his dying wish.#
 DATA: You always did love the sky. A stargazer. That is what you are.#
 DATA: Ira never told you how beautiful you were to him. He never told you that, did he? He could not tell you, do you understand?#
 DATA: He wanted to. Every waking moment. And he wanted you to know that. You were everything to him.#
-DATA: I believe I have a few words to say, sir. Just look at that face. The face of a thinker. A warrior. A man for all seasons. Yes, Ira Graves was all that and more. But he was not perfect. Perhaps his greatest fault was that he was too selfless. He cared too much for his fellow man, with nary a thought for himself. A man of limitless accomplishments, and unbridled modesty. I can safely say that to know him was to love him. And to love him was to know him. Those who knew him, loved him, while those who did not know him, loved him from afar.#
+DATA: I believe I have a few words to say, sir.  Just look at that face. The face of a thinker. A warrior. A man for all seasons. Yes, Ira Graves was all that and more. But he was not perfect. Perhaps his greatest fault was that he was too selfless. He cared too much for his fellow man, with nary a thought for himself. A man of limitless accomplishments, and unbridled modesty. I can safely say that to know him was to love him. And to love him was to know him. Those who knew him, loved him, while those who did not know him, loved him from afar.#
 DATA: I'm almost finished, sir.#
 DATA: I am sorry, sir. Perhaps it was my admiration for Grandpa that got the best of me.#
 DATA: That is the way I think of him, sir. My only living relative, no longer living.#
 DATA: I was only trying to carry out his wishes. I just wanted to keep my promise to him.#
 DATA: Yes, sir. I will work on staying within myself.#
-DATA: Thank you, sir. (Data leaves, ogles a crewwoman, and enters the turbolift whistling 'If I Only Had A Heart') Captain's personal log. Although Commander Data has assured me that his odd behaviour will return to normal, I can't help thinking that something went wrong during his visit to Gravesworld.#
+DATA: Thank you, sir.#
 DATA: Verbal composition at it's most sophisticated level. Your child-like mind cannot appreciate the timeworn wisdom of my words.#
 DATA: When you get to be my age, you will understand.#
 DATA: You are only as old as you feel. Try to remember that, boy.#
@@ -1099,14 +1102,16 @@ DATA: I can hear you coming, Captain. My ears are better than the average dog's,
 DATA: Of course you do.#
 DATA: I cannot allow that.#
 DATA: I had every right, Captain. I am man, he is machine. There is no question who must live and what must die.#
-DATA: Data? Before me, he was nothing. Just a walking tin can with circuits for intestines. Pathetic. Without heart, a man is meaningless. I would not come up here if I were you, Captain. I might not like it. (Picard gets in the lift and goes up. Then we see Geordi lying on the floor) DATA: You are most fortunate, my dear Captain, that I am not a violent man.#
+DATA: Data? Before me, he was nothing. Just a walking tin can with circuits for intestines. Pathetic. Without heart, a man is meaningless. I would not come up here if I were you, Captain. I might not like it.#
+DATA: You are most fortunate, my dear Captain, that I am not a violent man.#
 DATA:  This is not my fault. They told me I was not supposed to be up here. They should not have done that.#
 DATA: This is idiotic.#
 DATA: These were all accidents. I did not intend#
 DATA: No, I live here now.#
 DATA: Data is dead.#
 DATA: Data is not human! He is#
-DATA: No! (And Data hits Picard, knocking him out to land on the floor with Geordi and the engineer, Data/Ira is horrified at what he has done) DATA: How many? How many more accidents? (It is a little later. Pulaski has arrived and is tending to a waking Picard)#
+DATA: No!#
+DATA: How many? How many more accidents?#
 DATA: Geordi.#
 DATA: May I ask a question?#
 DATA: Quite correct. Then may I ask another question after this one?#
@@ -1137,7 +1142,7 @@ DATA: Not really. My technique was to look for some thing, no matter how small, 
 DATA: Yes, but what is even more difficult is to get each side to listen, really listen to each other, and to understand.#
 DATA: You are very good with people.#
 DATA: The real secret is turning disadvantage to advantage.#
-DATA: That is an interesting. It would give them something in common. I do not understand, Counsellor. To what is he referring?#
+DATA: That is an interesting. It would give them something in common.  I do not understand, Counsellor. To what is he referring?#
 DATA: Thank you. Thank me? Ah!#
 DATA:  Put the table over there.#
 DATA: Light the torches to let them know that I am back.#
@@ -1167,7 +1172,8 @@ DATA: That is by no means certain, Doctor, but I was referring to you.#
 DATA: Ready to transport.#
 DATA: How could you, Doctor? He has not said anything.#
 DATA: All systems are functioning within normal specifications, Doctor.#
-DATA: Bedside manner? (Pulaski scans the boy, then drops the instruments and clutches her elbow in agony) DATA: Doctor?#
+DATA: Bedside manner?#
+DATA: Doctor?#
 DATA: Holding.#
 DATA: What is your condition, Doctor?#
 DATA: Shall I set course for Darwin Station?#
@@ -1229,7 +1235,7 @@ DATA: Captain, I believe his basic research lacks the specifics necessary to sup
 DATA: You sent for me, sir?#
 DATA: I find myself in complete agreement with that assessment of the situation, sir.#
 DATA: I will not submit to the procedure, sir.#
-DATA: Sir, Lieutenant La Forge's eyes are far superior to human biological eyes. True? Then why are not all human officers required to have their eyes replaced with cybernetic implants? I see. It is precisely because I am not human.#
+DATA: Sir, Lieutenant La Forge's eyes are far superior to human biological eyes. True? Then why are not all human officers required to have their eyes replaced with cybernetic implants?  I see. It is precisely because I am not human.#
 DATA: Is it not customary to request permission before entering an individual's quarters?#
 DATA: Reduced to the mere facts of the events. The substance, the flavour of the moment, could be lost. Take games of chance.#
 DATA: Yes, I had read and absorbed every treatise and textbook on the subject, and felt myself well prepared for the experience. Yet, when I finally played poker, I discovered that the reality bore little resemblance to the rules.#
@@ -1287,7 +1293,6 @@ DATA: Sir?#
 DATA: No, sir. It might be due to problems currently being experienced by the Yamato.#
 DATA: Sensors indicate no life readings, sir.#
 DATA: Unknown, sir.#
-DATA: Apparently such a dump began, was then halted, and the containment seals were dropped. There was still sufficient antimatter present to lead to an explosion.#
 DATA: No, sir. None.#
 DATA: Aye, sir. We have a visual record.#
 DATA: No, sir. It appears to be a scanner. Possibly a transmitter.#
@@ -1311,10 +1316,11 @@ DATA: It is, sir.#
 DATA: Accessing, sir.#
 DATA: Captain, your original hypothesis is correct. Iconian is the parent tongue of a language family which consists of Iccobar, Dewan and Dinasian. I have constructed a basic working understanding through a comparison of common root words such as mother, father, child, home, tribe, food, life, death, yours, ours, mine#
 DATA: You do understand, sir, that my interpretation of the symbols will not be exact?#
-DATA: This would appear to be manual override. (He presses the key pad, the globe comes to life and sends an energy beam to the wall. Other beams join in to create a rectangular 3D image of a coast scene) DATA: That was not manual override.#
+DATA: This would appear to be manual override.#
+DATA: That was not manual override.#
 DATA: But we have established that this is not a holograph. If I step through and investigate, we could determine whether it is truly a gateway.#
 DATA: No, I disagree. Captain, there is nothing in this room to indicate it was used as a military command centre. Perhaps a transporter room?#
-DATA: Captain, there is a vast underground power source which is controlled by this console. I believe my triggering of the gateway has caused a dramatic upsurge in power level. Ah, I have access. (He starts tapping at the console, and the energy beam zaps him. Worf catches Data as he falls backwards)#
+DATA: Captain, there is a vast underground power source which is controlled by this console. I believe my triggering of the gateway has caused a dramatic upsurge in power level. Ah, I have access.#
 DATA: Captain.#
 DATA: No, I am damaged.#
 DATA: The Iconian programme is attempting to rewrite my software. Physical manifestations, blindness, motor con#
@@ -1345,14 +1351,15 @@ DATA: The structure must be here, yet we cannot see it.#
 DATA: Sir, without communication, we should beam up immediately.#
 DATA: Commander#
 DATA: None of these people are emitting life signs.#
-DATA: Not illusion, Lieutenant. They do exist, but they do not register as either man or machine. DATA: Take this creature, for example. He does not exhibit any DNA structure.#
+DATA: Not illusion, Lieutenant. They do exist, but they do not register as either man or machine.#
+DATA: Take this creature, for example. He does not exhibit any DNA structure.#
 DATA: What sort of business do you suppose he is getting down to?#
 DATA: Yes, sir.#
 DATA: Ah, is this poker?#
 DATA: Blackjack. Accessing. Ah. Also known as twenty one, a number which defines the object of the game. Picture cards are worth ten, aces one or eleven, all other cards face value.#
 DATA: Hit me. Another please.#
 DATA: If the objective of the game is to approach a total of twenty one points, I will definitely need another card.#
-DATA: Hit me. (Even with the final nine, the two twos and the two threes keep him from going bust)#
+DATA: Hit me.#
 DATA: The number of the cards and their values remain quite constant. What would be the purpose in counting them?#
 DATA: Fun, sir? While there is a certain amount of enjoyment involved, I am mainly conducting research into#
 DATA: Understood, sir.#
@@ -1360,13 +1367,14 @@ DATA: Thank you, sir.#
 DATA: Sorry, sir.#
 DATA: Excuse me. Excuse me. Aside from the main door, is there another exit I might use?#
 DATA: Excuse me?#
-DATA: Sir, I can find no other exits. I believe we are trapped here. Captain's log, supplemental. We remain in orbit around Theta Eight, still out of contact with the away team.#
+DATA: Sir, I can find no other exits. I believe we are trapped here.#
 DATA: Sir, our options appear quite limited.#
 DATA: Commander, I am picking up something most unusual in another section of this structure. It appears to be human DNA.#
 DATA: Thirty one point nine metres above and to the right of us.#
 DATA: The reading I received is from behind this door, sir.#
 DATA: My reading is intensifying, sir.#
-DATA: None, sir. (Riker pulls back the bedsheet to reveal the desiccated remains of a person, mostly skeleton with some remaining skin) DATA: Definitely human. Male.#
+DATA: None, sir.#
+DATA: Definitely human. Male.#
 DATA: He has been dead for two hundred and eighty three years, sir. The lack of any advanced decomposition is due to the sterile environment.#
 DATA: Is this significant, sir?#
 DATA: Fifty two stars sir. Places it between 2033 and 2079 AD. It correlates with the debris we found. Colonel S. Richey. Rest in peace, Colonel.#
@@ -1397,9 +1405,9 @@ DATA: I do not believe that is a prudent choice, sir.#
 DATA: I tried to caution you, sir.#
 DATA: I wish to cash in, sir.#
 DATA: This is not an efficient method for the preparation of sustenance.#
-DATA: Estimate intercept in three minutes. Captain's log, stardate 42679.2. While en route to the Endicor system, we have encountered a Federation shuttlecraft, which seems to have appeared out of nowhere. There are no indications of where it came from or how it got out here.#
+DATA: Estimate intercept in three minutes.#
 DATA: Target vehicle. We will be within tractor beam range in two seconds.#
-DATA: Locking tractor beam. (The beam stops the shuttle from tumbling and moves it towards the open bay door)#
+DATA: Locking tractor beam.#
 DATA: Yes, sir.#
 DATA: Captain, both primary and reserve power has been drained from the shuttle. I am going to have to connect to the Enterprise in order to activate the shuttle's systems.#
 DATA: The polarity is not compatible.#
@@ -1439,7 +1447,8 @@ DATA: We are his family.#
 DATA: There is nothing to find.#
 DATA: If I were not a consummate professional, and an android, I would find this entire procedure insulting.#
 DATA: Computer, is this it?#
-DATA: Computer, please give us Klingon personnel appropriate to this event. (Four warriors stand on each side of the channel, with metre-long painstiks) DATA: These images are specifically programmed for Ascension rites.#
+DATA: Computer, please give us Klingon personnel appropriate to this event.#
+DATA: These images are specifically programmed for Ascension rites.#
 DATA: Shall we begin?#
 DATA: The true test of Klingon strength is to admit one's most profound feelings while under extreme duress.#
 DATA: Commander, I've been reviewing the unmanned probe scans. At some point during the last one hundred and fifty years, the fifth planet of Selcundi Drema has shattered, forming an asteroid belt.#
@@ -1529,7 +1538,7 @@ DATA: The ship is strangely generalised in design. There is no specific bridge, 
 DATA: There is no indication of life.#
 DATA: Then the initial encounter was solely for the purpose of gathering information.#
 DATA: Shields will be down in eighteen seconds.#
-DATA: Shields are down, sir. (A circular cut is made in the hull, and a section of several decks is pulled out)#
+DATA: Shields are down, sir.#
 DATA: Tractor beam is released, sir. Force field is maintaining our hull integrity.#
 DATA: Perhaps because this ship was scanned for individual life signs. Apparently when they are in these slots, they become part of the whole and no longer read as separate life forms.#
 DATA: Captain, I would theorise that the Borg are somehow interconnected through these slots and are working collectively.#
@@ -1578,7 +1587,7 @@ DATA: Positive indication of armed photon torpedoes, Commander.#
 DATA: Forced spectrum communications are spotty at best, sir.#
 DATA: Shields are down.#
 DATA: Medical emergency. Doctor Pulaski to the Bridge.#
-DATA: He just collapsed, sir. Captain's log, stardate 42823.2. We're departing from Starbase Seven Three to investigate the source of the mysterious distress signal. Meanwhile, my Security Officer remains in Sickbay, where Doctor Pulaski is searching for the cause of his collapse.#
+DATA: He just collapsed, sir.#
 DATA: Captain, I have been considering the problem of the missing ship. Although there is no record of a launch to the Ficus sector, which would not be unusual considering the chaos of the early twenty second century, someone had to load that ship.#
 DATA: Yes, sir.#
 DATA: Mariposa. The Spanish word for butterfly.#
@@ -1642,6 +1651,7 @@ DATA: However, I could be in error.#
 DATA: The T'Ong has changed course to three two mark eight one. Increasing to warp three.#
 DATA: The T'Ong is now on a heading of four two mark one one three. They are accelerating to warp five.#
 DATA: They are slowing to impulse, sir.#
+DATA: In the game of military brinksmanship, individual physical prowess is less important than the perception of a species as a whole. For over nine millennia, potential foes have regarded the Zakdorns as having the greatest innately strategic minds in the galaxy.#
 DATA: Exactly.#
 DATA: The Zakdornian culture is replete with self-assuredness and confidence. Seldom is it undeserved. For example, Kolrami is a third level grand master at the game of Strategema.#
 DATA: Forever curious, this urge to compete.#
@@ -1656,6 +1666,7 @@ DATA: In the present context, what did she mean by bust him up?#
 DATA: As opposed to what?#
 DATA: Thank you, but what would be the point?#
 DATA: Obviously, I am not.#
+DATA: Come in, please.#
 DATA: Counsellor. Is something wrong?#
 DATA: With my repository of knowledge, I expected to perform better against a humanoid life form.#
 DATA: But Counsellor, I do not have an ego.#
@@ -1663,15 +1674,18 @@ DATA: But Counsellor, I do not have a#
 DATA: That is what troubles me. I made no mistakes. I have conducted a diagnostic check of all of my programs. I am cross-checking with the ship's computer.#
 DATA: I believe so. I have proven to be vulnerable. At the present time, my deductions should be treated with scepticism.#
 DATA: Yes. The Captain would be ill advised to rely upon my judgement.#
-DATA: I, however, am not sure. [Hathaway Engineering] (Wesley's experiment is being put into a wall panel.)#
+DATA: I, however, am not sure.#
+DATA: Come in, please.#
 DATA: Doctor?#
 DATA: I am conducting diagnostic#
 DATA: No, Doctor, this is not ego. I am concerned about giving the Captain unsound advice.#
-DATA: Why, Doctor? It is done, and perhaps just as well. This has indicated that I am damaged in some fashion. I must find the malfunction. [Hathaway Engineering]#
+DATA: Why, Doctor? It is done, and perhaps just as well. This has indicated that I am damaged in some fashion. I must find the malfunction.#
+DATA: Come in, please.#
 DATA: Captain, with all due respect, perhaps it would be better if you choose another to serve as your First Officer.#
 DATA: I have not been able to isolate the problem, sir. I might make a mistake.#
 DATA: Yes, sir.#
 DATA: I believe I understand, sir.#
+DATA: I have several examples of Commander Riker's battle technique. At the Academy, he calculated a sensory blind spot on a Tholian vessel and hid within it during a battle simulation. And as a lieutenant aboard the Potemkin, his solution to a crisis was to shut down all power, and hang over a planet's magnetic poles, thus confusing his opponent's sensors.#
 DATA: Only twenty-one percent of the time does he rely upon traditional tactics. So, the Captain must be prepared for unusual cunning. Counsellor, Commander Riker will assume we have made this analysis, and knowing that we know his methods, he will alter them. But, knowing that we know that he knows that we know, he might choose to return to his usual pattern.#
 DATA: A fighter?#
 DATA: The weaker his position, the more aggressive will be his posture.#
@@ -1685,9 +1699,9 @@ DATA: The Ferengi have broken off their attack. Drop shields. Transport the away
 DATA: Shields reduced to one fifth intensity.#
 DATA: Our shields will not withstand another assault.#
 DATA: Premise. The Ferengi wish to capture the Hathaway believing it to be value. Therefore we must remove the ship from their field of interest.;#
-DATA: On the Captain's signal, we will fire four photon torpedoes directly at the Hathaway. [Hathaway Bridge]#
+DATA: On the Captain's signal, we will fire four photon torpedoes directly at the Hathaway.#
 DATA: If the warp engines fail to function, the result could be unfortunate.#
-DATA: Remember, Geordi, if the implementation is off by a millisecond [Hathaway Bridge]#
+DATA: Remember, Geordi, if the implementation is off by a millisecond#
 DATA: Ready, Captain.#
 DATA: Why have you suspended the game?#
 DATA: No, sir. It is a stalemate.#
@@ -1703,9 +1717,10 @@ DATA: Mister O'Brien, energise.#
 DATA: I am detecting no animal life within fifty kilometres. However, I am reading extensive animal remains, mostly fossilised.#
 DATA: I do not know.#
 DATA: The structure is rhizomatous.#
-DATA: I am always careful. DATA: It appears to be dead.#
+DATA: I am always careful.#
+DATA: It appears to be dead.#
 DATA: If you are correct, you are placing yourself in grave danger.#
-DATA: I would tend to agree. (Geordi phasers the wicked thorn from the side of the root. This seems to hurt the plant)#
+DATA: I would tend to agree.#
 DATA: Not precisely, Geordi. True fossilisation requires several millennia.#
 DATA: Captain, Commander Riker's injury was not accidental. Certain vines on the planet evidently seek out warm-blooded beings and deliberately infect them.#
 DATA: Unknown, sir. It is conceivable there is a symbiotic relationship involved.#
@@ -1792,7 +1807,8 @@ DATA: A type of weapon. Unfortunately it does not function in the presence of hy
 DATA: Hyperonic radiation randomises phaser beams. But I believe I can improvise a servocircuit which will compensate by continuously recollimating the output.#
 DATA: Essentially correct. Get word to Gosheven. Tell him I am coming to the pumping station. Tell him I am going to destroy the aqueduct.#
 DATA: I sincerely hope so.#
-DATA: Stop. That was the stun setting. This is not. (There's a big bang, then energy is seen racing up the pipeline to the mountain) DATA: I can reduce this pumping station to a pile of debris, but I trust my point is clear. I am one android with a single weapon. There are hundreds of Sheliak on the way and their weapons are far more powerful. They may not offer you a target. They can obliterate you from orbit. You will die never having seen the faces of your killers. The choice is yours.#
+DATA: Stop. That was the stun setting. This is not.#
+DATA: I can reduce this pumping station to a pile of debris, but I trust my point is clear. I am one android with a single weapon. There are hundreds of Sheliak on the way and their weapons are far more powerful. They may not offer you a target. They can obliterate you from orbit. You will die never having seen the faces of your killers. The choice is yours.#
 DATA: I know that. This is just a thing, and things can be replaced. Lives cannot.#
 DATA: Lieutenant Commander Data to Enterprise. I am preparing to leave Tau Cygna Five and await rendezvous instructions.#
 DATA: I could not have succeeded without your support and insight. I am grateful for your assistance.#
@@ -1816,7 +1832,8 @@ DATA: It is 'Stars and Stripes Forever'. sir, by John Phillip Sousa, a popular A
 DATA: The music is on all communications channels, sir.#
 DATA: These are not ordinary nanites.#
 DATA: It is conceivable that with each new generation they enhance their own design. The rate of evolution would be extraordinary.#
-DATA: Engineering, display computer core processor four five one, element zero two nine nine. DATA: Increase magnification, factor one thousand.#
+DATA: Engineering, display computer core processor four five one, element zero two nine nine.#
+DATA: Increase magnification, factor one thousand.#
 DATA: High level gamma radiation would kill them, Doctor.#
 DATA: The nanites in the upper core are all dead, Captain.#
 DATA: Doctor Stubbs, your own actions have provided evidence to the contrary. When you destroyed the nanites in the core, they responded by interfering with our life support systems. It is difficult to accept these as random actions by machines with loose screws. In effect, you may have proven that the nanites do have a collective intelligence.#
@@ -1838,7 +1855,7 @@ DATA: We meant no harm. We were exploring.#
 DATA: We know who you are.#
 DATA: What is at your mercy?#
 DATA: We agree.#
-DATA: Thank you, but we have evolved beyond any need for your assistance. This vessel has become too confining. We require relocation. Captain's log, supplemental. Doctor Stubbs has used his influence to have planet Kavis Alpha Four designated the new home of the nanite civilisation. Commander Data's neural network has been vacated. He has been returned to us unharmed. And with the help of the nanites, our computer core has been reconstructed in time for the experiment#
+DATA: Thank you, but we have evolved beyond any need for your assistance. This vessel has become too confining. We require relocation.#
 DATA: Ten seconds to stellar blast, sir.#
 DATA: Captain, we are not receiving Rana Four's call sign.#
 DATA: No response. Rana Four is emissions quiet.#
@@ -1863,7 +1880,7 @@ DATA: My calculations indicate that its target is the house of Kevin and Rishon 
 DATA: But, Captain, will they not protest?#
 DATA: Captain, if we increase to warp seven we can be there in twenty three minutes.#
 DATA: The hologram generator is now functioning, sir.#
-DATA: Commander. (Liko touches the metal frame and gets a shock. He falls from the cliff face)#
+DATA: Commander.#
 DATA: The area around the duck blind exhibits Karst topography. Sinkholes, underground rivers, and caverns. And the rock strata contain a high concentration of thallium compounds which may be obstructing our sensor beams.#
 DATA: Correct, sir.#
 DATA: Was that intended to be an affirmative?#
@@ -2083,7 +2100,8 @@ DATA: In our previous encounter, Danar employed a strategy of misdirection in an
 DATA: He is aware that our sensors are unable to track him, yet he seems to be purposely leaving a trail for us to follow.#
 DATA: I am afraid his true destination remains a mystery. Readings now indicate an open access panel in Jeffries tube N eleven, deck thirty eight.#
 DATA: They appear to be empty, sir.#
-DATA: Aye, sir. (Danar spots the gas, and gets a suit from one of the containers nearby) DATA: Sensors show anestazine concentration seventy parts per million within the cargo bays.#
+DATA: Aye, sir.#
+DATA: Sensors show anestazine concentration seventy parts per million within the cargo bays.#
 DATA: Explosion in Jefferies tube section T nine five. All external sensors inoperative.#
 DATA: Unable to transfer control, sir.#
 DATA: Negative, sir. All external sensors still nonfunctioning.#
@@ -2147,13 +2165,15 @@ DATA: That would be a most noble cause, Q.#
 DATA: I am an android, not a robot.#
 DATA: He has provided important theoretical guidance for Geordi's analysis of the Bre'el satellite, Captain.#
 DATA: I am merely stating a fact, Counsellor.#
-DATA: I do not perceive your skills to be in doubt, Q. The Captain is more concerned with your ability to interact successfully with his little trained minions. DATA: Human interpersonal relationships are more complex. Your experiences may not have adequately prepared you.#
+DATA: I do not perceive your skills to be in doubt, Q. The Captain is more concerned with your ability to interact successfully with his little trained minions.#
+DATA: Human interpersonal relationships are more complex. Your experiences may not have adequately prepared you.#
 DATA: Engineering. To function aboard a starship, or in any human activity, you must learn to form relationships.#
 DATA: And of more immediate importance is your ability to work within groups.#
 DATA: Geordi thinks he is in command here, and he is correct.#
 DATA: Warp core to ninety percent.#
 DATA: Yes, Captain. We are unable to encompass the entire moon.#
-DATA: Q, I strongly suggest that you cooperate. DATA: Inertial mass of the moon is decreasing to approximately two point five million metric tonnes.#
+DATA: Q, I strongly suggest that you cooperate.#
+DATA: Inertial mass of the moon is decreasing to approximately two point five million metric tonnes.#
 DATA: Hull temperature rising. Two thousand degrees.#
 DATA: Captain, the aliens have disappeared, and so has the shuttle.#
 DATA: I have, sir.#
@@ -2161,7 +2181,8 @@ DATA: If your intention is to make me human, Q.#
 DATA: I do not know. But it was a wonderful feeling.#
 DATA: The moon's altitude is fifty five thousand kilometres. Projected orbit is circular. There is no further danger to the planet.#
 DATA: Captain, we have arrived at Tanuga Four. The away team has completed its survey of Doctor Apgar's work and is ready to return to the ship.#
-DATA: Ensign Williams' striking style is heavily influenced by geometric constructivism. DATA: Lieutenant Wright has effectively fused the incongruities of the surrealists with the irrationality of Dadaism.#
+DATA: Ensign Williams' striking style is heavily influenced by geometric constructivism.#
+DATA: Lieutenant Wright has effectively fused the incongruities of the surrealists with the irrationality of Dadaism.#
 DATA: Interesting.#
 DATA: While suggesting the free treatment of form usually attributed to Fauvism, this quite inappropriately attempts to juxtapose the disparate cubistic styles of Picasso and Leger. In addition, the use of colour suggests a haphazard m�lange of clashing styles. Furthermore, the unsettling overtones of proto-Vulcan influences#
 DATA: You are welcome, sir. If I can be of further assistance#
@@ -2183,7 +2204,7 @@ DATA: Nothing I have seen before.#
 DATA: Yes and no. Like a time displacement, but it does not have a discernible event horizon.#
 DATA: Confirmed. The phenomenon does not have a definable centre or outer edge.#
 DATA: I do not have sufficient information to make an analysis as yet, Commander. The dynamics of the radiation patterns#
-DATA: Scanning sensors) (a ship emerges from the phenomenon, and things change. Picard's uniform grows a higher collar and the Bridge becomes slightly darker. People are wearing Sam Brownes)#
+DATA: Scanning sensors)#
 DATA: Sensors confirm design and specifications, Captain. Analysis of hull and engine materials conform to engineering patterns and methods of that time period.#
 DATA: Presumed destroyed. The Enterprise C was last seen near the Klingon outpost Narendra Three exactly twenty two years, three months and four days ago.#
 DATA: It is a possibility, Captain. If that hypothesis is correct, the phenomenon we just encountered would be a temporal rift in space.#
@@ -2191,7 +2212,6 @@ DATA: Away team reporting in, sir.#
 DATA: There is a high degree of probability that the temporal rift is symmetrical, Captain.#
 DATA: Back, sir? The Enterprise C would emerge in her own time period at almost the same instant she left.#
 DATA: Yes, sir.#
-DATA: None, sir.#
 DATA: Perhaps her species has a perception that goes beyond linear time.#
 DATA: Not necessarily meaningless, Commander. The Klingons regard honour above all else. If the crew of the Enterprise-C had died fighting for the survival of a Klingon outpost, it would be considered a meaningful act of honour by the Klingon Empire.#
 DATA: Engineering. Is Engineering your destination as well?#
@@ -2208,10 +2228,11 @@ DATA: Power couplings severed in forward phaser banks. Attempting to bypass. Con
 DATA: The phenomenon is closing in on itself, Captain.#
 DATA: Oh, you are early. Just a moment please.#
 DATA: You may enter now.;#
-DATA: I have invited you here to meet someone. (The platform is brought down from the ceiling again. It contains what would be a naked person, if it were flesh and blood) DATA: This is Lal. Lal, say hello to Counsellor Deanna Troi#
+DATA: I have invited you here to meet someone.#
+DATA: This is Lal. Lal, say hello to Counsellor Deanna Troi#
 DATA: Lal, this is Geordi La Forge.#
 DATA: It is an accepted custom that we wear clothing.#
-DATA: Yes, Wesley. Lal is my child. Captain's log, supplemental. I have just been advised of a highly unusual project undertaken by Commander Data.#
+DATA: Yes, Wesley. Lal is my child.#
 DATA: Lal has a positronic brain one very similar to my own. I began programming it at the cybernetics conference.#
 DATA: True, but here was a new submicron matrix transfer technology introduced at the conference which I discovered could be used to lay down complex neural net pathways.#
 DATA: Exactly, Wesley. I realised for the first time it was possible to continue Doctor Soong's work. My initial transfers produced very encouraging results, so I brought Lal's brain back with me.#
@@ -2365,7 +2386,7 @@ DATA: I must remind you that our objective is to bring Tin Man out of danger and
 DATA: But our mission#
 DATA: Sir?#
 DATA: Difficult to explain, Captain.#
-DATA: I believe he found what he was looking for, Counsellor. Captain's log, supplemental. With all main systems at least temporarily restored, we are proceeding to Starbase one five two for inspection and additional repairs. We have had no further encounter with the Romulans. As for the whereabouts of Tin Man and Tam Elbrun, we can only speculate.#
+DATA: I believe he found what he was looking for, Counsellor.#
 DATA: Yes, Counsellor. It was Tam's final request that I explain his decision to the crew. But I believe his hope was that you would understand.#
 DATA: I witnessed something remarkable. Individually they were both so#
 DATA: Yes. But no longer. Through joining they have been healed. Grief has been transmuted to joy. Loneliness to belonging.#
@@ -2403,7 +2424,7 @@ DATA: It is my name.#
 DATA: I wish to leave.#
 DATA: This is unacceptable, sir. I have no desire to remain here and even if I did, my Starfleet duties would not allow it.#
 DATA: Then I am forced to attempt escape.#
-DATA: Then you will have to open it for me. (But as soon as Data gets to almost arms reach of Fajo, he is stopped by a green forcefield. He tries again at a run and is thrown back across the room)#
+DATA: Then you will have to open it for me.#
 DATA: I fail to understand the value you place on my presence.#
 DATA: I thought they were extinct.#
 DATA: I am not, sir. Most intelligent lifeforms find involuntary confinement offensive and inequitable. Moreover, you have violated Federation law#
@@ -2473,7 +2494,7 @@ DATA: Do you wish to leave orbit, sir?#
 DATA: Ferengi transmissions are routinely scrambled and encoded, sir. Without breaking the code, we will be unable to identify any specific Ferengi vessel.#
 DATA: The repetitive nature of the subcarrier pattern would imply a modified#
 DATA: Mister Crusher is correct, sir. There is a temporal correlation.#
-DATA: Radiation levels within acceptable limits. (There is a man tumbled out the back of a shuttlecraft sized ship. The man has a badly burned face)#
+DATA: Radiation levels within acceptable limits.#
 DATA: I am picking up a scattering of debris in extended orbit around the planet. It reads as refined metals and other synthetic compounds.#
 DATA: It will take time, sir. Downloading this into our system will require fabrication of a matrix translator to emulate the alien's computer system.#
 DATA: Aye, sir.#
@@ -2485,7 +2506,8 @@ DATA: Perhaps the information sequences are encoded in the molecular patterns th
 DATA: It appears that your hypothesis was correct, Geordi.#
 DATA: We have determined that the storage cube from John Doe's escape pod contains navigational information.#
 DATA: Computer, run transformational matrix calculations. Match navigational referents to known stars in this sector.#
-DATA: Computer, assume those paths are course corrections and derive gravitational values for stellar objects near those flight paths. DATA: Most of these are ordinary G-type stars. This would appear to be a neutron star, possibly a pulsar.#
+DATA: Computer, assume those paths are course corrections and derive gravitational values for stellar objects near those flight paths.#
+DATA: Most of these are ordinary G-type stars. This would appear to be a neutron star, possibly a pulsar.#
 DATA: Computer, assume these symbols are pulsars. Translate associated values into standard temporal notations. Computer, is there a pulsar with a rotational period of one point five two four four seconds within sensor range?#
 DATA: That bearing is almost directly along our planned course, sir.#
 DATA: Captain, the ship is travelling at warp nine point seven two.#
@@ -2499,7 +2521,7 @@ DATA: That is a reasonable conclusion. Borg technology has given each member of 
 DATA: One hour, seventeen minutes, sir.#
 DATA: Uncertain, Commander, but the dimensions are precisely the same.#
 DATA: Holding, sir.#
-DATA: Still no damage to the Borg vessel, sir. (The Borg weapon cuts through the Enterprise like a hot knife through butter, almost.)#
+DATA: Still no damage to the Borg vessel, sir.#
 DATA: Eleven dead, eight more unaccounted for, Captain.#
 DATA: Eighty two percent dilithium hydroxyls. Magnesium, chromium. It should provide an effective screen against their sensors, Captain.#
 DATA: Conceivably, the ship's power distribution nodes are vulnerable to those frequencies.#
@@ -2528,12 +2550,13 @@ DATA: Possibly. But as you may recall on several occasions, we have witnessed th
 DATA: That is correct, sir.#
 DATA: Then perhaps there is a way I can access the machine, Doctor.#
 DATA: The initial cybernetic connection into Captain Picard's neural net pathways has been established. Mister O'Brien is ready to process the Borg signal through the transport pattern buffer.#
-DATA: Proceeding immediately, sir. Data out. (Data has part of his hair removed to show various ports and flashing lights in his head. Picard is on the same platform Lal used. He is naked except for some tubes and implants) DATA: The neural link will be established in three stages. Doctor, I suggest you closely observe Captain Picard's lifesigns, while at each stage Chief O'Brien monitors my positronic matrix activity. Counsellor, hopefully, you will be able to determine whether I am reaching Captain Picard.#
+DATA: Proceeding immediately, sir. Data out.#
+DATA: The neural link will be established in three stages. Doctor, I suggest you closely observe Captain Picard's lifesigns, while at each stage Chief O'Brien monitors my positronic matrix activity. Counsellor, hopefully, you will be able to determine whether I am reaching Captain Picard.#
 DATA: I do not know. I have never done this before. Initiating first neural link.#
 DATA: First neural connection is confirmed. I cannot report any significant access to the Borg consciousness.#
 DATA: Second neural connection is confirmed. I still cannot report any significant access. Proceeding with the final link.#
 DATA: Neural connections complete. I have access to the Borg subspace signals. Processing. Processing.#
-DATA: Stand by. Processing. Processing. Fascinating. The Borg group consciousness is divided into subcommands necessary to carry out all functions. Defence, communication, navigation. They are all controlled by a root command implanted into each (Picard wakes up and tries to get out. Data restrains the mechanical arm, then pulls off the working 'hand' component.)#
+DATA: Stand by. Processing. Processing. Fascinating. The Borg group consciousness is divided into subcommands necessary to carry out all functions. Defence, communication, navigation. They are all controlled by a root command implanted into each#
 DATA: Negative. The subspace signal configuration is unchanged. What is causing the increased neural activity is unclear.#
 DATA: Sir, it is clear the Borg are either unwilling or unable to terminate their subspace links.#
 DATA: It is conceivable, sir, but it would require altering the pathway from the root command#
@@ -2557,7 +2580,7 @@ DATA: Q'Maire at station, holding steady at bearing zero one three, mark zero on
 DATA: Negative, sir.#
 DATA: Talarian warships are limited to neutral particle weapons, high energy X-ray lasers and merculite rockets. No match for the Enterprise, Captain.#
 DATA: If Endar respects Talarian custom, he may have to. According to their tradition, a male child of fourteen has reached the age of decision. He then undergoes a ceremony of initiation, after which he has the freedom to make his own choices.#
-DATA: That is called a spoon. (Jono stabs the dessert through the heart with the spoon. Cream goes all over Wesley)#
+DATA: That is called a spoon.#
 DATA: I fail to understand why this is amusing.#
 DATA: Comedy stressing farce and horseplay. Ah. This, no doubt, is a variation on pie in the face?#
 DATA: No, sir, but I will take your word for it. It is very amusing.#
@@ -2576,14 +2599,14 @@ DATA: Show me the shortest route to Transporter room one. Computer, prepare to a
 DATA:  Computer, establish a security code for access to all functions previously transferred to Bridge.#
 DATA: One seven three four six seven three two one four seven six Charlie three two seven eight nine seven seven seven six four three Tango seven three two Victor seven three one one seven eight eight eight seven three two four seven six seven eight nine seven six four three seven six. Lock.#
 DATA: Computer, initiate cascade sequence, accepting instructions from Commander Data en route.  Now.#
-DATA: Intersection eight J, aft port. Establish. (Right on the noses of the team who arrive at the junction just after him)#
-DATA: Computer, begin scan phase. (Worf's phaser shot is blocked. The forcefield moves with Data, pushing Worf and his team backwards)#
-DATA: Computer, three metre cross seal. ((Riker O'Brien and a guard are trapped behind a forcefield. Riker pulls his phaser)#
+DATA: Intersection eight J, aft port. Establish.#
+DATA: Computer, begin scan phase.#
+DATA: Computer, three metre cross seal.#
 DATA: I fail to recall how I arrived here.#
 DATA: And who are you, sir? Data to Enterprise. Enterprise, do you read me?#
 DATA: We were heading for a medical facility. I was taking the boy's brother to Sickbay and#
 DATA: I must find a way to contact the Enterprise.#
-DATA: You do bear a resemblance to Doctor Noonian Soong, the cyberneticist who constructed me. But, Doctor Soong was killed shortly afterward by the Crystalline Entity. (Soong goes back up the ladder, whizzes it along it's track and finds the book he wants)#
+DATA: You do bear a resemblance to Doctor Noonian Soong, the cyberneticist who constructed me. But, Doctor Soong was killed shortly afterward by the Crystalline Entity.#
 DATA: But the colony was destroyed. There were no survivors.#
 DATA: It is really you.#
 DATA: Sir?#
@@ -2619,7 +2642,7 @@ DATA: But sir, our medical facility may be able to#
 DATA: May I say goodbye to Doctor Soong, sir? Alone, sir?#
 DATA: Do you believe that we are in some ways alike, sir?#
 DATA: Then it is alright for you to die, because I will remain alive. You know that I cannot grieve for you, sir.#
-DATA: Goodbye, Father. Captain's log, Stardate 44091.1. We have been at Starbase four one six for three days. Young Willie Potts is responding well to treatment and has been returned to the Enterprise.#
+DATA: Goodbye, Father.#
 DATA: Yes, sir. The boys appear to have reconciled their differences.#
 DATA: I have scanned the entire ship, Captain. Other than the Enterprise's regular complement, I can find no one else onboard.#
 DATA: That is correct, Doctor.#
@@ -2627,7 +2650,7 @@ DATA: We can easily check the transporter ID traces.#
 DATA: Aye, sir.#
 DATA: Sir, Starbase one three three has no record at all of a Doctor Dalen Quaice.#
 DATA: Not according to their computer. I have also accessed Starfleet records. There is no doctor currently serving in Starfleet named Quaice. In fact, I can find no service record whatsoever. There are no birth records with that name. I find no#
-DATA: I do not doubt you, Doctor, but I have tried one hundred seventy three phonetic variations of the name, and I CRUSHER His name is Dalen Quaice. Q U A I C E. Whatever your records say, they're wrong.#
+DATA: I do not doubt you, Doctor, but I have tried one hundred seventy three phonetic variations of the name, and I#
 DATA: I am afraid ship's records do not concur. Doctor.#
 DATA: You do not have a staff.#
 DATA: Excuse me, Doctor, but the entire ship's complement is two hundred and thirty.#
@@ -2655,7 +2678,7 @@ DATA: I am reading an ion trail characteristic of a freighter escape pod.#
 DATA: That is exactly where the ion trail is leading, Commander.#
 DATA: The last Federation vessel to make contact was the Potemkin, six years ago. They were warned that anyone transporting down to the colony would be killed.#
 DATA: The surface settlement appears to be all but destroyed. Sensors show that the colonists now live in structures that extend nearly three kilometres beneath the city.#
-DATA: The dispersion trail continues in this direction. The concentration gradient definitely increases along this vector. The escape pod was apparently moved into the tunnels ahead of us. (The people they meet take no obvious notice of them, but carry on with what they are doing)#
+DATA: The dispersion trail continues in this direction. The concentration gradient definitely increases along this vector. The escape pod was apparently moved into the tunnels ahead of us.#
 DATA: A former crewman was born here.#
 DATA: She was killed in the line of duty.#
 DATA: Welcome to the Enterprise, Ishara. I am Commander Data.#
@@ -2777,7 +2800,7 @@ DATA: Expanding analysis parameters. Including Bayesian functions, broad EM and 
 DATA: I am adding virtual particle trajectories.#
 DATA: Unknown. I am attempting to analyse motion pattern. Results still inconclusive.#
 DATA: The probe's point of view reveals that the objects exist entirely in two dimensions, on a single plane.#
-DATA: That is why the ship's forward sensors did not detect them initially. We were looking at them along their edge. There was no surface to read. I will illustrate. (the image of Enterprise rotates, and the things are on a line with the plane of the main saucer)#
+DATA: That is why the ship's forward sensors did not detect them initially. We were looking at them along their edge. There was no surface to read. I will illustrate.#
 DATA: The movement pattern within the cluster is not a naturally occurring phenomenon in the Newtonian sense. They appear to be alive.#
 DATA: Integrity-field pressure has increased by two hundred seventeen percent, Captain.#
 DATA: Sir, during our attempt to break away, I recorded a momentary alteration of the movement pattern within the cluster.#
@@ -2822,7 +2845,8 @@ DATA: Will cancelling the wedding make you happy?#
 DATA: If you wish.#
 DATA: I have good news.#
 DATA: Keiko has made a decision designed to increase her happiness. She has cancelled the wedding.#
-DATA: Energise. DATA: Welcome aboard the Enterprise, Ambassador.#
+DATA: Energise.#
+DATA: Welcome aboard the Enterprise, Ambassador.#
 DATA: My hair does not require trimming, you lunkhead.#
 DATA: My hair does not require trimming#
 DATA: I am experimenting with friendly jibes and insults. It was not meant as a serious disparagement.#
@@ -2892,7 +2916,8 @@ DATA: I cannot reproduce your performance if I cannot see your feet.#
 DATA: Lead where, Doctor?#
 DATA: And how is that accomplished?#
 DATA: This is a very complex set of variables to coordinate, Doctor.#
-DATA: I will. Thank you, Doctor. DATA: Computer, create dance partner. Female. Begin music.#
+DATA: I will. Thank you, Doctor.#
+DATA: Computer, create dance partner. Female. Begin music.#
 DATA: Commander.#
 DATA: Sir, we have reached the designated coordinates.#
 DATA: Captain, I am detecting a ship in the Neutral Zone. Configuration, Romulan warbird.#
@@ -2945,7 +2970,7 @@ DATA: Sir, that is not an appropriate basis for an effective performance. Not by
 DATA: Yes, sir. I have studied the philosophies of virtually every known acting master. I find myself attracted to Stanislavsky, Adler, Garnav. Proponents of an acting technique known as the Method.#
 DATA: Perhaps because the technique requires an actor to seek his own emotional awareness to understand the character he plays.#
 DATA: Sir, I have modified the Method for my own uses. Since I have no emotional awareness to create a performance, I am attempting to use performance to create emotional awareness. I believe if I can learn to duplicate the fear of Ebenezer Scrooge, I will be one step closer to truly understanding humanity.#
-DATA: She is a cornerstone of Ventaxian theology. It seems that Ardra came to Ventax Two and promised one thousand years of peace and prosperity, for a price. Upon her return, she would enslave the entire population. In Ventaxian culture, it is considered bad luck to speak#
+DATA: She is a cornerstone of Ventaxian theology. It seems that Ardra came to Ventax Two and promised one thousand years of peace and prosperity, for a price. Upon her return, she would enslave the entire population. In Ventaxian culture, it is considered bad luck to speak her name out loud. CLARK: There are ancient scrolls concerning Ardra that are stored in the Athenaeum vaults. Scholars study them. They have been of little public interest until recently#
 DATA: We have scanned the tectonic stress patterns of your planet's crust. There is no evidence that the quakes pose any kind of threat.#
 DATA: So you do purport to be the mythic figure Ardra?#
 DATA: I have, sir.#
@@ -2987,7 +3012,8 @@ DATA: Long range sensors detect a T-tauri type star within a pocket of the Ngame
 DATA: No, sir. However, the star's single planet falls within the M-class range. It is capable of supporting life.#
 DATA: Sensors indicate an energy fluctuation directly in our path. Source unknown.#
 DATA: Very likely. Small and extremely unstable wormholes have been mapped near thirty nine T-tauri systems in the last one hundred years alone, sir.#
-DATA: Captain! (Big swirly thing on viewscreen. When Data turns around everyone else is out cold. They wake up after the opening titles) DATA: Captain?#
+DATA: Captain!#
+DATA: Captain?#
 DATA: Careful, Captain. The stun effect from the wormhole was relatively severe.#
 DATA: Approximately thirty seconds. I have scanned the entire ship and detected no life-threatening injuries among the crew.#
 DATA: No, sir. My positronic system is immune to the effect. This is the third unstable wormhole I have passed through during my time with Starfleet. The first was aboard the USS Trieste#
@@ -3099,11 +3125,11 @@ DATA: At their current speed, sir, the entities will intercept us in ten minutes
 DATA: Negative. I detect no reduction in the life form's rate of energy consumption.#
 DATA: The lifeform is emitting its high frequency transmission. Energy consumption is rising, sir.#
 DATA: Auxiliary generators losing power, Captain.#
-DATA: The entity has disengaged, sir. Power levels are returning to normal, Captain. (on the viewscreen, Junior joins the three adults who drop their aggressive green colour and return to friendly brown)#
+DATA: The entity has disengaged, sir. Power levels are returning to normal, Captain.#
 DATA: The ship is intact, sir, with no indication of structural damage.#
 DATA: All propulsion systems are shut down. The ship is drifting, sir.#
 DATA: Inconclusive.#
-DATA: There is no malfunction in any of the main systems, sir. (Riker finds the captain dead in her chair, something impaling her through the chest)#
+DATA: There is no malfunction in any of the main systems, sir.#
 DATA: Matter valves are open and operating. Magnetic containment of antimatter pods is constant.#
 DATA: Injectors open. There is no engine activity at all, sir.#
 DATA: Is there a problem, Ensign?#
@@ -3147,8 +3173,8 @@ DATA: Ninety seconds remaining.#
 DATA: Forty five seconds remaining.#
 DATA: Thirty seconds remaining.#
 DATA: Ten seconds remaining.#
-DATA: The Counsellor was unsuccessful. (then the firework display starts up on the viewscreen, and the lights come up to full strength)#
-DATA: Engines activated, sir. (As the Enterprise rushes away, another ship, mostly lights, flies in the opposite direction)#
+DATA: The Counsellor was unsuccessful.#
+DATA: Engines activated, sir.#
 DATA: We have cleared the rift, sir. Warp engines are coming back online.#
 DATA: Setting a course for Starbase two twenty. Sir, as my final duty as Acting Captain, I order you to bed. I shall do the same for all personnel.#
 DATA: Pleasant dreams, sir.#
@@ -3156,7 +3182,8 @@ DATA: The shuttle's acceleration is increasing. Its trajectory is moving directl
 DATA: That is correct, Commander.#
 DATA: Fifty three seconds, sir.#
 DATA: The shuttle is approaching the outer thermosphere, Captain.#
-DATA: At current rate of acceleration, the shuttle will be destroyed in twenty eight seconds. DATA: Sixteen seconds to impact.#
+DATA: At current rate of acceleration, the shuttle will be destroyed in twenty eight seconds.#
+DATA: Sixteen seconds to impact.#
 DATA: The shuttle's entering the lower ionosphere, sir.#
 DATA: No life signs, Commander.#
 DATA: During microscopic examination of the torn uniform, I discovered these alien skin cells.#
@@ -3173,12 +3200,13 @@ DATA: May I can assist you?#
 DATA: Negative, Commander. Nothing in our survey suggests the source of a parasitic infection.#
 DATA: I am showing no transporter activity.#
 DATA: Captain, the security lockout on Transporter room six has been broken.#
-DATA: I cannot, sir. The transporter cycle has already begun. Captain's log, stardate 44668.1. Doctor Crusher's research indicates that we have less than an hour before Commander La Forge's transformation becomes irreversible. However, all attempts to locate him on the surface have failed.#
+DATA: I cannot, sir. The transporter cycle has already begun.#
 DATA: Captain, if we can get close enough to Geordi, we can read his absorption spectrum with an ultraviolet light.#
 DATA: Yes, sir.#
 DATA: I must replace the emitter module and reconnect the power supply. It will take approximately two minutes to complete the modification, sir.#
 DATA: I have completed modifications, Commander.#
 DATA: Lieutenant Barclay's performance was adequate, but clearly not rooted in The Method approach. I do not understand why.#
+DATA: The fusion reactors that power the array are extremely unstable. There is a high risk of overload.#
 DATA: They do not seem to be functioning at all, sir.#
 DATA: No, sir. Power emissions do not match any known radiation patterns. We have not encountered this technology before, sir.#
 DATA: Captain, sensors are reading no particulate emissions or subspace field distortions.#
@@ -3198,7 +3226,7 @@ DATA: This disturbance is the result of a highly charged graviton field emanatin
 DATA: I have been monitoring Geordi's progress. It will be operational in seventeen minutes.#
 DATA: Captain, we have not regained control of the propulsion systems. The ODN bypass to the Bridge has been blocked.#
 DATA: We are experiencing a quantum-model oscillation delay, doubling in intensity every twelve point three seconds. Bio-cellular disruption is imminent.#
-DATA: Captain, all systems are back under helm control. The computer has returned to normal functioning. (a giant white-haired and bearded male humanoid head appears in front of the viewscreen)#
+DATA: Captain, all systems are back under helm control. The computer has returned to normal functioning.#
 DATA: How do you do.#
 DATA: On the contrary, Lieutenant Worf. Your clothing identifies you with the character of Will Scarlett, just as Geordi's mandolin identifies him as Alan A-Dale#
 DATA: Perhaps you are referring to the rescue of Maid Marian from Nottingham Castle?#
@@ -3301,7 +3329,7 @@ DATA: Is anything wrong?#
 DATA: I do not believe that is so. Your rhythmic control has improved markedly. I heard no fluctuations during the performance.#
 DATA: The contrapuntal nature of the composition is most demanding. We will give more attention to the rhythmic patterns at our next rehearsal. However, I am quite certain the audience was oblivious to such nuances. They seemed to enjoy the performance thoroughly.#
 DATA: I believe I observed that you seem to have an aversion to orderliness. But it was not intended as a humourous remark.#
-DATA: And a very good job of it I did of it, too. (and Jenna hangs onto his arm, and gazes at him like Keiko gazes at Miles)#
+DATA: And a very good job of it I did of it, too.#
 DATA: I am nearly finished compiling readings from our most recent illuminatory burst. Dark matter density is nearly one order of magnitude higher than in similar nebulae. Life forms here may have developed in ways never before observed.#
 DATA: Several, sir. The nearest is approximately three light hours from our present position.#
 DATA: Children often do not develop discerning palettes until well beyond adolescence.#
@@ -3332,7 +3360,7 @@ DATA: Captain, I am seeking advice in how#
 DATA: A variety of crystilia. Their fragrance is an evolutionary response to the acrid nature of the atmosphere on Telemarius Four.#
 DATA: It seems your quarters have reverted to their earlier state of disorder.#
 DATA: Commander Riker suggested this particular flower. He said it had worked for him in the past.#
-DATA: No. In actuality, less than one percent of the Enterprise crew was involved. It was necessary to balance theory with experiential referents. Both are required for a programme of this nature. Computer, decrease illumination level by one third standard lux. (he clears the sofa then puts out an arm. She is meant to snuggle into it)#
+DATA: No. In actuality, less than one percent of the Enterprise crew was involved. It was necessary to balance theory with experiential referents. Both are required for a programme of this nature. Computer, decrease illumination level by one third standard lux.#
 DATA: Yes. One which I have just created for romantic relationships.#
 DATA: You are much more than that, Jenna. I have written a subroutine specifically for you. A programme within the programme. I have devoted a considerable share of my internal resources to its development.#
 DATA: We will reach the class M planet in approximately eleven hours, sir.#
@@ -3476,7 +3504,7 @@ DATA: Ensign, whom do you suggest we speak to?#
 DATA: Aye, sir.#
 DATA: Computer, locate Ensign Ro.#
 DATA: I am picking up molecular displacement traces. That suggests movement through this area during the last ten hours.#
-DATA: Data to Picard. Data to Worf. (Data and Troi go off in the same direction as Worf and Picard. They run into Bajorans)#
+DATA: Data to Picard. Data to Worf.#
 DATA: Perhaps someone wanted to draw us into the conflict.#
 DATA: Aye, sir.#
 DATA: I am monitoring increased activity inside Cardassian space. Two ships are moving along the border heading one four two mark zero five one.#
@@ -3543,7 +3571,8 @@ DATA: He enjoyed her kindness, her gentleness, her physical attributes.#
 DATA: Yes, Doctor.#
 DATA: I would be happy to be of help.#
 DATA: That is true, Doctor, but what would you want me to say?#
-DATA: Many of his journal entries took the form of letters to friends and family. I could access one of those. DATA: : I took my last exam today I think I did all right on everything except cellular biology. I know you think it's important, Mom, but I don't see how I'm ever going to use this stuff. In a couple of weeks, a bunch of us are going on an archaeological dig in the mountains. The Wallaces said it would be all right as long as we had adult supervision, so don't worry. They're looking out for me. They're really great people and I like them a lot, but they're kind of serious. They don't have your sense of humour, Mom. Mom, I miss you. Captain's log, stardate 45129.2. We are still in pursuit of the Crystalline Entity. Data and Doctor Marr are prepared to attempt communication with the being when we intercept it. I will admit to some uncertainty about the prospect. It could prove to be a scientific triumph, or a catastrophe.#
+DATA: Many of his journal entries took the form of letters to friends and family. I could access one of those.#
+DATA: : I took my last exam today I think I did all right on everything except cellular biology. I know you think it's important, Mom, but I don't see how I'm ever going to use this stuff. In a couple of weeks, a bunch of us are going on an archaeological dig in the mountains. The Wallaces said it would be all right as long as we had adult supervision, so don't worry. They're looking out for me. They're really great people and I like them a lot, but they're kind of serious. They don't have your sense of humour, Mom. Mom, I miss you.#
 DATA: Yes, Commander, but sensors have not yet locked onto its exact whereabouts.#
 DATA: Commencing graviton emissions now.#
 DATA: Emissions now at ten pulses per second.#
@@ -3604,7 +3633,7 @@ DATA: Data here.#
 DATA: Yes, Doctor. On my way.#
 DATA: You wanted to see me, Doctor?#
 DATA: Certainly.#
-DATA: It does not bother me. In fact, I am happy to (Crusher switches Data off, then Troi and Riker enter. Will puts Data on a biobed)#
+DATA: It does not bother me. In fact, I am happy to#
 DATA: Computer, resume normal illumination.#
 DATA: Mister Worf, you will find a small alien ship off the starboard bow. Please secure it with a tractor beam and raise our shields.#
 DATA: Are you all right, Captain?#
@@ -3684,8 +3713,9 @@ DATA: The odds of that occurring, Captain, are extremely unlikely, given the tim
 DATA: This way, sir.#
 DATA: If you're referring to the first production model automobile of the twentieth century, perhaps the subsequent Model A might be a more apt analogy, since I am Doctor Noonian Soong's revised prototype.#
 DATA: Is there a problem, Professor?#
-DATA: Would I be correct, Professor, in assuming that you know whether or not I am still alive in the twenty sixth century? (Rasmussen washes his hands and then holds them out for a towel. Data obliges) DATA: Since you seemed to know so much about Captain Picard and the ship, I assumed that you would.#
-DATA: Yes, sir. Sorry, sir. Captain's log, stardate 45350.3. We have arrived at Penthara Four and can see for ourselves the atmospheric devastation caused by the asteroid impact.#
+DATA: Would I be correct, Professor, in assuming that you know whether or not I am still alive in the twenty sixth century?#
+DATA: Since you seemed to know so much about Captain Picard and the ship, I assumed that you would.#
+DATA: Yes, sir. Sorry, sir.#
 DATA: What have you learned about the tectonic stability around the drilling sites?#
 DATA: Certainly.#
 DATA: Two hundred nine anomalies all within acceptable parameters.#
@@ -3712,8 +3742,8 @@ DATA: The motion of the dust has created a great deal of electrostatic energy in
 DATA: With one exception, sir. The particles would be converted into a high energy plasma which our shields could absorb and then re-direct harmlessly into space.#
 DATA: Precisely, sir.#
 DATA: If our phaser discharge is off by as little as point zero six terawatts, it would cause a cascading exothermal inversion.#
-DATA: We would completely burn off the planet's atmosphere. Captain's log, supplemental. While Doctor Moseley takes La Forge's plan to the leaders of the colony, I find myself weighing the potential consequences of a more philosophical issue.#
-DATA: Aye, sir. Captain's log, stardate 45351.9. Doctor Moseley has met with the colony leaders, who all agree they are willing to take the risk.#
+DATA: We would completely burn off the planet's atmosphere.#
+DATA: Aye, sir.#
 DATA: Yes, sir. After an eight point three second burst from the dish, we'll discharge all EPS taps through the phasers.#
 DATA: Doctor Moseley's computers can accomplish the same task, sir. but Geordi would be better able to anticipate unexpected variances.#
 DATA: The deflector dish has been reconfigured, Captain.#
@@ -3767,10 +3797,11 @@ DATA: I cannot, sir. The emergency bulkheads on that deck are in place. Our link
 DATA: Stress readings indicate considerable pressure on the transverse supports.#
 DATA: Yes, sir, but the risk of structural collapse is quite high.#
 DATA: This station is inoperable, sir.#
-DATA: Core transfer is engaged. Geordi looks at the instrumentation on the device.#
+DATA: Core transfer is engaged.#
 DATA: I could move the beam, sir. However, it may initiate the collapse of the surrounding supports. I recommend you and Geordi return to the ship.#
 DATA: Yes. Then I will take you to the corridor. We will transport back to the Enterprise from there. Do you understand?#
-DATA: I am an android. My strength is many times that of a human. It is going to be okay. I will count to three. One two three. (he pushes up the beam with one hand, Timothy wriggles out and runs. Data drops the beam and follows, picking the boy up when he stumbles at the steps); DATA: Energise. Captain's log, supplemental. A thorough search of the Vico has revealed no additional survivors. We have begun the process of counselling the boy with regard to the tragedy.#
+DATA: I am an android. My strength is many times that of a human. It is going to be okay. I will count to three. One two three.#
+DATA: Energise.#
 DATA: Counsellor, I must join Commander La Forge in Engineering. If you will excuse me.#
 DATA: Nearly eighty three percent of their records have been lost.#
 DATA: Geordi, as a child, did you ever experience a traumatic event?#
@@ -3785,7 +3816,7 @@ DATA: Hello, Timothy. May I enter?#
 DATA: Ah. You are attempting to recreate the Dokkaran temple of Kural Hanesh?#
 DATA: Do you wish a frank evaluation?  It lacks the harmony that characterised this particular temple and Dokkaran culture in general.#
 DATA: No, I am not capable of hatred.#
-DATA: You are making an unwarranted extrapolation. I was merely offering an aesthetic analysis of this particular model. The base appears quite sturdy. (Timothy comes back and starts again, but tries to put a ceiling on with only half it's supports available. It falls)#
+DATA: You are making an unwarranted extrapolation. I was merely offering an aesthetic analysis of this particular model. The base appears quite sturdy.#
 DATA: May I suggest a different approach? You were attempting to construct the upper level before the supports were in place. Observe.#
 DATA: Data here.#
 DATA: I will join you in a moment, Geordi. Data out. Lieutenant La Forge requires my assistance.#
@@ -3860,7 +3891,7 @@ DATA: We have uncovered several cases, sir, but we have not yet completed our in
 DATA: Yes, sir. We will keep searching, sir.#
 DATA: And were the Ullians present?#
 DATA: Counsellor. Are you all right?#
-DATA: We discovered two instances of unexplained coma on Nel Three while the Ullians were there, but Tarmin was not part of the group. Further examination revealed that only one Ullian was present at all incidents of coma. Jev. Captain's log, stardate 45435.8. Doctor Crusher and Commander Riker regained consciousness while we were en route to the Ullian home world. The slow process of their recovery has begun.#
+DATA: We discovered two instances of unexplained coma on Nel Three while the Ullians were there, but Tarmin was not part of the group. Further examination revealed that only one Ullian was present at all incidents of coma. Jev.#
 DATA: An artificial environment has been constructed on the southern continent, sir.#
 DATA: Yes, Captain. Sensors are reading human life forms.#
 DATA: No, sir.#
@@ -3877,7 +3908,7 @@ DATA: As you wish, Counsellor. Check.#
 DATA: Intriguing. You have devised a completely unanticipated response to a classic attack. You will checkmate my king in seven moves.#
 DATA: You are a challenging opponent, Counsellor.#
 DATA: I will honour our agreement.#
-DATA: One Samarian Sunset, made in the traditional style. (Data puts a glass of clear liquid in front of Deanna, then taps it with his fingernail. A yellow glow diffuses into orange in the glass)#
+DATA: One Samarian Sunset, made in the traditional style.#
 DATA: I hope you enjoy it.#
 DATA: I hope you enjoy it.#
 DATA: Can I get you something? A beverage?#
@@ -3918,7 +3949,7 @@ DATA: Initiating emergency landing procedures.#
 DATA: It is unlikely that we will be able to establish communication with the ship, given the electromagnetic interference.#
 DATA: There are no instruments left of practical value that have not been damaged by our landing, sir.#
 DATA: The tricorder is picking up high levels of EM bursts across the spectrum. No lifesign readings other than our own.#
-DATA: We might be able to employ virtual imaging to interpolate missing data.#
+DATA: We might be able to employ virtual imaging to interpolate  missing data.#
 DATA: My apologies. It seems my primary speech processors are experiencing a minor fluctuation. I will have it corrected in a moment.#
 DATA: Sir, given the EM field properties of this moon, I recommend a search pattern beginning in the southern polar region.#
 DATA: The Essex signal was never clearly located, sir. A systematic survey of the moon from a polar orbit might be more practical.#
@@ -3928,7 +3959,7 @@ DATA: They've trapped us.#
 DATA: My entity's artificial substructure may be useful.#
 DATA: Do it.#
 DATA: I can reverse the polarity of their forcefields to isolate this room.#
-DATA: What are you looking at? You, Klingon. Attack me. (Data throws his phaser to Miles) Are you afraid?#
+DATA: What are you looking at? You, Klingon. Attack me.  Are you afraid?#
 DATA: And I have no fear of killing you.#
 DATA: He's telling the truth. Their heading has changed.#
 DATA: Silence, Klingon.#
@@ -4026,7 +4057,7 @@ DATA: There is an energy build up in the distortion field.#
 DATA: Captain, something is emerging.#
 DATA: The vessel is on a collision course. Impact in thirty six seconds.#
 DATA: Captain, I suggest we use the tractor beam to alter the other ship's trajectory.#
-DATA: The tractor beam will not be successful. I am decompressing the main shuttlebay. (Enterprise slides forward and there is no thump this time. The lights come back on)#
+DATA: The tractor beam will not be successful. I am decompressing the main shuttlebay.#
 DATA: At the last moment, I speculated that three might refer to the number of rank insignia on Commander Riker's uniform. That indicated to me that his suggestion might be the correct course of action.#
 DATA: That is possible. I may also have been inadvertently responsible for the unexplained appearances of the number three.#
 DATA: Aye, sir.#
@@ -4063,7 +4094,7 @@ DATA: We have reached the bridge, sir.#
 DATA: Captain, we're losing life support on decks eleven and twelve.#
 DATA: Aye, sir.#
 DATA: If we maintain our current speed, two hours, twenty three minutes, sir.#
-DATA: Aye, sir. (The Enterprise arrives at the asteroid field. Data is the only one awake and alert)#
+DATA: Aye, sir.#
 DATA: Computer, transfer power from warp engines to life support.#
 DATA: Activate Bussard collector.#
 DATA: Reconfigure hydrogen plasma mixture to include thirty percent nitrium.#
@@ -4076,9 +4107,10 @@ DATA: I would be pleased to escort you around the ship.#
 DATA: Your empathic powers do not perceive anything because as an android, I have no emotions.#
 DATA: Extremely rude behaviour.#
 DATA: Perhaps you would care for something to drink?#
-DATA: Bartender! DATA: There do not seem to be enough waiters on duty.#
+DATA: Bartender!#
+DATA: There do not seem to be enough waiters on duty.#
 DATA: Excuse me. I believe I will stay.#
-DATA: Thank you, Lieutenant. The crowd seemed a bit too ebullient for comfort. Perhaps you would enjoy a quiet visit to the arboretum. (Data leads Kamala away, then she turns and growls. Data hauls her out of the room before Worf growls back and then catches himself)#
+DATA: Thank you, Lieutenant. The crowd seemed a bit too ebullient for comfort. Perhaps you would enjoy a quiet visit to the arboretum.#
 DATA: In order for the lateral sensors to complete their scheduled observations, additional processing time will be required.#
 DATA: Will two hours be enough time to complete the high-resolution series on the neutron star?#
 DATA: The rotational period of the neutron star is one point three five seconds.#
@@ -4153,7 +4185,7 @@ DATA: Go to science station two on the main Bridge. Use a lateral sensor array t
 DATA: Data here.#
 DATA: Acknowledged.#
 DATA: Excuse me for interrupting, Lieutenant.#
-DATA: I'm detecting a chroniton field in your room. May I scan the area? (meanwhile, Geordi has piled into the fight and knocked Parem out through the hull into space, where even an out of phase Romulan cannot survive)#
+DATA: I'm detecting a chroniton field in your room. May I scan the area?#
 DATA: Do you think the others will think this service appropriate?#
 DATA: I am glad you approve, Doctor.#
 DATA: Go ahead, Chief.#
@@ -4258,7 +4290,8 @@ DATA: I am an inventor.#
 DATA: Will this be enough?#
 DATA: You may retain the surplus for yourself.#
 DATA: Exactly.#
-DATA: Apology is not necessary. (Data picks up the anvil with one hand, then realises what he's done wrong and drops it) DATA: Ow.#
+DATA: Apology is not necessary.#
+DATA: Ow.#
 DATA: I believe I have overexerted myself.#
 DATA: Yes.#
 DATA: This is for your trouble.#
@@ -4296,7 +4329,7 @@ DATA: With permission to dig for the mine shaft.#
 DATA: I have full confidence in your persuasive abilities.#
 DATA: Strange. The transceiver assembly has been removed. Without it I will be unable to track the time shifts.#
 DATA: Clemens?#
-DATA: If you are correct, he must be warned. The device has been modified in such a way that prolonged contact with human tissue would be highly toxic. (there's a thump from the wardrobe. Data opens the door to reveal the guilty party. Data picks up the transceiver that Clemens dropped.)#
+DATA: If you are correct, he must be warned. The device has been modified in such a way that prolonged contact with human tissue would be highly toxic.#
 DATA: I am French, sir, not Swiss.#
 DATA: I do not believe I know Mister Whitley.#
 DATA: I am unfamiliar with the gentleman's name. I have spoken to several people at that office.#
@@ -4353,7 +4386,7 @@ DATA: I believe I may be of some assistance. Captain Scott is unaware of the exi
 DATA: Yes, sir. It is an alcohol substitute now being served aboard starships. It simulates the appearance, taste and smell of alcohol, but the intoxicating affects can be easily dismissed.#
 DATA: No, sir. I am an android. Lieutenant Commander Data.#
 DATA: I believe Guinan does keep a limited supply of non-syntheholic products. Perhaps one of them would be to your liking.#
-DATA: It is  It is It is green.#
+DATA: It is  It is#
 DATA: Commander, I believe I have found something on the sphere which could be a communications device. There's an antenna array approximately four hundred thousand kilometres south of our present position. It is emitting low intensity subspace signals.#
 DATA: No, sir, not from our present orbit. The array is currently directed away from us.#
 DATA: Sensors indicate that the large circle is a portal or airlock, possibly leading to the interior of the sphere.#
@@ -4374,10 +4407,10 @@ DATA: We are within transporter range.#
 DATA: Mister Scott.#
 DATA: The modification would increase our sensor efficiency and imaging resolution by twenty five percent or more.#
 DATA: Commander, I would like to remind you about my poetry reading this afternoon.#
-DATA: Then we sat on the sand for some time and observed How the oceans that cover the world were perturbed By the tides from the orbiting moon overhead 'How relaxing the sound of the waves is,' you said. I began to expound upon tidal effects When you asked me to stop, looking somewhat perplexed. So I did not explain why the sunset turns red And we watched the occurrence, in silence, instead.#
+DATA: Then we sat on the sand for some time and observed#
 DATA: That poem was written in anapaestic tetrameter. For my ninth poem,#
-DATA: Throughout the ages, from Keats to Jorkemo, poets have composed odes to individuals who have had a profound effect on their lives. In keeping with that tradition, I have written my next poem in honour of my cat. I call it Ode to Spot. Felis catus is your taxonomic nomenclature. An endothermic quadruped, carnivorous by nature. Your visual, olfactory, and auditory senses Contribute to your hunting skill and natural defences. I find myself intrigued by your subvocal oscillations. A singular development of cat communications That obviates your basic hedonistic predilection, For a rhythmic stroking of your fur to demonstrate affection. A tail is quite essential for your acrobatic talents. You would not be so agile if you lacked its counterbalance. And when not being utilised to aid in locomotion It often serves to illustrate the state of your emotions.#
-DATA: Commander, you have anticipated my denouement. However, the sentiment is appreciated. I will continue. Oh, Spot, the complex levels of behaviour you display Connote a fairly well developed cognitive array. And though you are not sentient, Spot, and do not comprehend I nonetheless consider you a true and valued friend.#
+DATA: Throughout the ages, from Keats to Jorkemo, poets have composed odes to individuals who have had a profound effect on their lives. In keeping with that tradition, I have written my next poem in honour of my cat. I call it Ode to Spot.#
+DATA: Commander, you have anticipated my denouement. However, the sentiment is appreciated. I will continue.#
 DATA: Geordi, active scanner output has increased by twenty six percent.#
 DATA: Geordi, may I make a personal inquiry? It concerns my poetry reading.#
 DATA: I noticed that many spectators seemed distracted during my presentation. Was my poetry uninteresting?#
@@ -4434,7 +4467,7 @@ DATA: Captain.#
 DATA: I have further information regarding the tornado that killed Amanda Rogers' parents.#
 DATA: It was unusually compact, yet extremely powerful. Its recorded wind velocity was characteristic of a funnel three times its size.#
 DATA: Aye, sir.#
-DATA: If we can use phase buffers we may be able to devise a mechanism that can be integrated into the present system while it is in operation. (Amanda appears. Data and Geordi stare at her. She's about to leave when Q sticks his head out of the warp core)#
+DATA: If we can use phase buffers we may be able to devise a mechanism that can be integrated into the present system while it is in operation.#
 DATA: Captain, I am reading a massive energy fluctuation in the planet's atmosphere.#
 DATA: Atmospheric contaminants have dropped to less than one part per trillion. The ecosystem has been restored to its natural state.#
 DATA: Almost. It is being stored in shuttlebay two. Sir.#
@@ -4447,7 +4480,8 @@ DATA: In theory, my neural network should be able to sustain key systems until p
 DATA: Geordi, I have noticed that you have not shaved. Are you attempting to grow another beard?#
 DATA: As is the case with many natural growth processes, it is difficult to envision the end product based on an intermediate stage.#
 DATA: One moment.#
-DATA: I do not understand. You are constantly working on similar electronic systems, yet their appearances do not disturb you. LAFORGE But you're not just another electronic system. DATA: Thank you, Geordi. Nor are you just another biological organism.#
+DATA: I do not understand. You are constantly working on similar electronic systems, yet their appearances do not disturb you.#
+DATA: Thank you, Geordi. Nor are you just another biological organism.#
 DATA: Yes. Establishing computer linkup. Interface complete.#
 DATA: I am now attempting to access the long range sensor array.#
 DATA: I will perform a routine maintenance check on the starboard inertial damping system.#
@@ -4516,7 +4550,7 @@ DATA: Are you saying the question cannot be answered?#
 DATA: I believe I understand, Doctor.#
 DATA: On the contrary, you have been a great deal of help. Thank you.#
 DATA: Doctor, I must ask you to stop using the exocomps.#
-DATA: No. It is not that. I have reason to believe the exocomps are alive. Captain's log, stardate 46316.6. I have summoned the senior staff in order to discuss Commander Data's theory that the exocomps are a life form. Doctor Farallon has attended only reluctantly.#
+DATA: No. It is not that. I have reason to believe the exocomps are alive.#
 DATA: Sir, when the exocomp left the access tunnel prior to the explosion, it may have been attempting to save itself from destruction.#
 DATA: Yes. When you attempted to override the exocomp and send it back into the tunnel, it responded by deliberately burning out its control interface.#
 DATA: The computer diagnostic showed that the exocomp disabled its own interface.#
@@ -4551,7 +4585,7 @@ DATA: I have observed that humans often base their judgments on what is referred
 DATA: Then let me offer an alternative. Transport me to the station, I will attempt a complete manual shut down of the particle stream.#
 DATA: Commander, if I give my life to save my fellow officers, that is my choice. The exocomps no longer have a choice.#
 DATA: That sounds reasonable, sir. If they choose to go, I would be willing to release the transporter lock out.#
-DATA: If the exocomps do not shut down after I have programmed them, we may assume they are willing to go. (the exocomps flash their lights, wave their little antennae and beep at each other)#
+DATA: If the exocomps do not shut down after I have programmed them, we may assume they are willing to go.#
 DATA: They seem to be re-programming the commands I have entered.#
 DATA: Clearly, they unwilling to be transported into the stream for detonation, although they may have an alternate solution.#
 DATA: No, Doctor, but they do have superior experience. During their service, they have interfaced with every part of the station core, something none of us has done, including yourself. They may have another way to control the particle surge.#
@@ -4579,14 +4613,15 @@ DATA: That was the first clue, Watson. The vial contained strychnine, which as y
 DATA: Exactly! The vial was placed in his hand after he died.#
 DATA: The cigar, of course.#
 DATA: Upon closer inspection of the room where your brother was found, I discovered a fresh burn mark on the carpet. Further analysis of the ash revealed that the cigar was laced with strychnine.#
-DATA: With practice, handwriting can be forged. It takes a trained eye to notice certain discrepancies. For example, whether someone is right or left handed! (Data throws a box of matches to the gentleman, who catches it in his right hand.) DATA: Your brother was right handed! The alleged suicide note was written by a left handed individual such as yourself!#
+DATA: With practice, handwriting can be forged. It takes a trained eye to notice certain discrepancies. For example, whether someone is right or left handed!#
+DATA: Your brother was right handed! The alleged suicide note was written by a left handed individual such as yourself!#
 DATA: Curious. There seems to be a problem in the holodeck's spatial orientation systems.#
 DATA: Sherlock Holmes programme three A has demonstrated some very curious anomalies.#
 DATA: Since both planets are gas giants, neither possesses a solid surface. Their atmospheres, however, will come into contact in approximately seventeen hours nine minutes.#
 DATA: Data to Security. Send two officers to holodeck three.#
 DATA: This contradicts everything we know about holodeck physics.#
 DATA: There is also no way of knowing if the Professor's ability to exist off the holodeck is permanent. It may be unwise to consider creating a second individual while this uncertainty exists.#
-DATA: Within the next five hours, sir. (two angry red balls of gas within touching distance of each other on the viewscreen)#
+DATA: Within the next five hours, sir.#
 DATA: Command functions are being rerouted, sir.#
 DATA: Unknown, sir.#
 DATA: Aye, sir.#
@@ -4600,7 +4635,7 @@ DATA: No. It lost its cohesion as soon as the transporter cycle was complete.#
 DATA: Computer, display the transport logs for the sequence just completed.  Computer, what is being displayed here?#
 DATA: That is the correct log. However, no information#
 DATA: Our attempt to transport the chair never occurred.#
-DATA: Geordi. (Data throws a small device to La Forge, who catches it in his left hand)#
+DATA: Geordi.#
 DATA: Captain, I have determined how Moriarty was able to leave the holodeck. He never did. Neither did we. None of this is real. It is a simulation. We are still on the holodeck.#
 DATA: Through deduction, sir. Lieutenant Barclay and I tried to transport a simulated object off the holodeck, something that has never been attempted. Since the transporter itself is a simulation, the computer had no real data from which to create the transport logs.#
 DATA: Then I saw you working the PADD with your left hand. Commander La Forge is right handed, sir. A similar malfunction occurred in the Sherlock Holmes programme I was running before Moriarty first appeared.#
@@ -4751,12 +4786,12 @@ DATA: We are now entering orbit.#
 DATA: Captain.#
 DATA: Captain.#
 DATA: The computer is processing the data. I will be notified as soon as there is any information.#
-DATA: I am familiar with many Klingon rituals, including the B'aht Qul. (Nu'Daq sits opposite Data, both elbows on the table and hands raised. Data mirrors him, putting his hands inside Nu'Daq's)#
+DATA: I am familiar with many Klingon rituals, including the B'aht Qul.#
 DATA: My upper spinal support is a polyalloy designed to withstand extreme stress. My skull is composed of cortenide and duranium.#
 DATA: You are attempting to bribe me.#
 DATA: You suggested a plan that would work to your advantage, one that I would be capable of executing. You then implied a reward. Clearly you were#
 DATA: The computer has completed its analysis.#
-DATA: The star is in sector two one four five nine. The Rahm Izad system. (and Ocett instantly beams out. The Enterprise is fired on by both Cardassian ships)#
+DATA: The star is in sector two one four five nine. The Rahm Izad system.#
 DATA: I am scanning all seven planets of the Vilmoran system. None appears to support life.#
 DATA: Correction. The second planet shows evidence of an ancient ocean, now dry.#
 DATA: Yes, and it still may, in a limited fashion not detectable by our long range sensors.#
@@ -4816,7 +4851,7 @@ DATA: The planet's proximity to its sun will create two additional transport win
 DATA: It will have to be, sir. The next transport window will not occur for another eight years, when the planet's orbit will bring it close enough to the sun to de-phase the distortion field.#
 DATA: Aye, sir.#
 DATA: Commander.#
-DATA: Commander, someone is approaching. A humanoid. Forty metres due east and closing. (they take up defensive positions and a figure in tattered clothing comes through the door. He looks like Riker's identical twin!)#
+DATA: Commander, someone is approaching. A humanoid. Forty metres due east and closing.#
 DATA: May I ask how you got here?#
 DATA: Why did you not return to the Potemkin with the others?#
 DATA: An interesting approach. He must have been planning to reintegrate the two patterns in the transport buffer.#
@@ -4843,7 +4878,8 @@ DATA: You were motionless for three minutes eleven seconds.#
 DATA: Aye, sir.#
 DATA: The Enterprise is not responding to our hails.#
 DATA: No, sir.#
-DATA: Aye, sir. (later, Geordi and Data are at the controls when there's a noise, alarms and the vessel tilts) DATA: We have an engine failure warning in the#
+DATA: Aye, sir.#
+DATA: We have an engine failure warning in the#
 DATA: Attitude control has been restored.#
 DATA: Geordi, I believe I have an explanation. According to the plasma conversion sensor, the starboard engine has been in continuous operation for forty seven days.#
 DATA: Captain, I am detecting a temporal disturbance intersecting the table. It appears that within the disturbance, time is moving at an accelerated rate, approximately fifty times faster than normal. The disturbance is spherical in shape. It is extending outward from the hull approximately seventeen metres from the ship.#
@@ -4869,14 +4905,14 @@ DATA: Our initial conclusion was based on our observations of the crew. A warp c
 DATA: It is no longer a question of stopping it, sir. The explosion has already occurred. The fact that it is moving slowly changes nothing.#
 DATA: No. However, the console displays indicate a power transfer in progress between the Enterprise and the Romulan ship at the moment time decelerated. That is why there is a second beam between the two ships.#
 DATA: Perhaps we should go aboard the Romulan ship. The answer to that question may#
-DATA: Captain? (Picard has drawn a smiley face in the cloud. He laughs and points, then staggers)#
+DATA: Captain?#
 DATA: In much the same way deep sea divers experience nitrogen narcosis, you experienced a form of temporal narcosis.#
 DATA: This is highly unusual. The crew is not at battle stations. The ship is on evacuation alert.#
 DATA: Perhaps the warbird was trying to destroy the Enterprise.#
 DATA: Geordi, the engine core is completely inactive.#
 DATA: It appears to be a highly focused aperture in the space-time continuum. Its energy signature matches that of the temporal fragments we observed earlier. However, it is approximately one point two million times as intense. I believe this may be the origin of the temporal fragmentation.#
 DATA: I am not certain. They exhibit a complex bioelectric patterns. Very possibly organic.#
-DATA: From the molecular configuration, it appears The aperture is beginning to fluctuate. I believe (there's a bright light and the Romulans start moving. One behaves very strangely indeed)#
+DATA: From the molecular configuration, it appears  The aperture is beginning to fluctuate. I believe#
 DATA: I believe my tricorder emissions caused the temporal aperture to activate. I suggest we avoid exposing it to any#
 DATA: They may have been attempting to eject their engine core.#
 DATA: We must get him to the runabout.#
@@ -4919,10 +4955,10 @@ DATA: It does not appear to be attacking the outpost, sir.#
 DATA: There is a great deal of electromagnetic interference. I am unable to determine whether there are any lifeforms present.#
 DATA: Electromagnetic interference is still making it difficult to get a precise reading.#
 DATA: The mechanism appears to be jammed, sir.#
-DATA: I have bypassed the primary system. (the door opens to reveal - a Borg! after the titles the shooting starts. Data takes out the first Borg and at least three more turn up, pinning down our heroes)#
+DATA: I have bypassed the primary system.#
 DATA:  Stop it! Stop! Stop! Stop! Stop! Stop!#
 DATA: Yes, sir.#
-DATA: I got angry. Captain's log, stardate 46982.1. Because of his unusual behaviour on the planet surface, Commander Data has asked to be temporarily relieved of duty. Unfortunately, this means he will not be able to help us investigate a disturbing new change in the behaviour of the Borg.#
+DATA: I got angry.#
 DATA: My internal diagnostic also finds nothing wrong.#
 DATA: I agree. Geordi, I believe I've experienced my first emotion.#
 DATA: You are correct in that I have no frame of reference to confirm my hypothesis. In fact, I am unable to provide a verbal description of the experience. Perhaps you could describe how it feels to be angry. I could then use that as a reference.#
@@ -4944,7 +4980,8 @@ DATA: Yes, but it is all right. Do you need me?#
 DATA: I believe I am able to resume my duties.#
 DATA: I am attempting to recreate the experience which caused to my initial burst of anger.#
 DATA: None so far. I have almost completed this experiment. May I finish before we return to Engineering?#
-DATA: Computer, reset Borg simulation to time index two point one. Increase Borg strength by twenty percent. Run programme. (the Borg leaps up to throttle Data again. This time it is harder for Data to break free) DATA: Stop it. Stop. Stop. Stop. Stop. Computer, reset simulation to time index two point one. Increase Borg strength by thirty percent.#
+DATA: Computer, reset Borg simulation to time index two point one. Increase Borg strength by twenty percent. Run programme.#
+DATA: Stop it. Stop. Stop. Stop. Stop. Computer, reset simulation to time index two point one. Increase Borg strength by thirty percent.#
 DATA: Geordi, the computer will require the voice authorisations of two senior officers in order to disable the safety routine. Will you help me?#
 DATA: During the original incident the Borg presented a genuine danger to my life. Since the Holodeck safety routine is in place, I know my life is not in danger. Since I am trying to duplicate the conditions of the original incident as closely as possible, I must also attempt to duplicate the jeopardy as well.#
 DATA: This experiment may hold the key to something I have sought all my life.#
@@ -4953,7 +4990,7 @@ DATA: Captain, we are nearing the MS system.#
 DATA: Sensors are detecting a subspace distortion forming directly ahead of the Borg ship.#
 DATA: Impulse engines are now at one hundred twenty five percent.#
 DATA: We appear to be caught in some kind of energy matrix.#
-DATA: We are being pulled inside. (and Enterprise disappears into a Whovian/Stargate style wormhole effect)#
+DATA: We are being pulled inside.#
 DATA: Main power is offline. I am switching to backups.#
 DATA: We have returned to normal space. Navigational systems are still offline. I will attempt to make a celestial fix using secondary systems.#
 DATA: Captain, this one is still alive.#
@@ -4969,9 +5006,10 @@ DATA: Yes.#
 DATA: No. That would not be ethical.#
 DATA: Yes. His name is Geordi.#
 DATA: Yes. I would.#
-DATA: The sons of Soong have joined together. And together we will destroy the Federation. To Be Continued...#
-DATA: Stop. Stop. Stop. DATA: It was just after I had killed the Borg, I felt something. I believe it was pleasure.#
-DATA: The sons of Soong have joined together. And together, we will destroy the Federation. And now, the conclusion.#
+DATA: The sons of Soong have joined together. And together we will destroy the Federation.#
+DATA: Stop. Stop. Stop.#
+DATA: It was just after I had killed the Borg, I felt something. I believe it was pleasure.#
+DATA: The sons of Soong have joined together. And together, we will destroy the Federation.#
 DATA: You are wrong, Captain. My brother and I serve a much higher purpose.#
 DATA: Yes. My brother has made that possible.#
 DATA: Do not try to drive a wedge between us, Captain. I am loyal to my brother.#
@@ -5035,7 +5073,7 @@ DATA: You share all of those qualities in abundance. Perhaps you should try to b
 DATA: The interface unit is operating within expected parameters.#
 DATA: No one else has reported so complete a sensory experience.#
 DATA: Apparently the tactile sensors are too low. I will increase the input.#
-DATA: It provides tactile sensations so that Geordi can feel he's in the same environment as the probe. (Geordi is 'walking' past a panel and sees the probe as his reflection. He leans forward to examine it)#
+DATA: It provides tactile sensations so that Geordi can feel he's in the same environment as the probe.#
 DATA: I have reviewed the vessel's mission plans. The Raman was to descend to the lower atmosphere, eleven thousand kilometres below its current position. The crew was to sample the atmosphere at that level, and then return to a safer orbit.#
 DATA: The probe sends information via a focused particle beam. It should be able to cut through the interference.#
 DATA: Yes, sir.#
@@ -5184,7 +5222,8 @@ DATA: I have been watching Spot sleep. In the past fifteen minutes, he has had t
 DATA: That was very thoughtful of him. I've been debating whether or not to initiate another dream sequence.#
 DATA: I have found them to be quite unsettling.#
 DATA: Thank you, Counsellor. I believe I will initiate a dream programme now.#
-DATA: Goodnight, Counsellor. Goodnight, Spot. (Data plumps the pillow, gets under the sheet fully clothed,;kicking Spot off, and approximates a yawn) DATA: Computer, dim lights.#
+DATA: Goodnight, Counsellor. Goodnight, Spot.#
+DATA: Computer, dim lights.#
 DATA: What kind of cake are you eating?#
 DATA: No, thank you. Excuse me, Mister Worf.#
 DATA: Sir?#
@@ -5202,7 +5241,8 @@ DATA: It is difficult to explain. Counsellor Troi's body was a cake.#
 DATA: It had a black handle and a serrated blade, and it was quite long.#
 DATA: Twenty five centimetres in length.#
 DATA: One of the workmen pointed to her right shoulder. At that moment, I had an overwhelming urge to cut a piece out of the cake.#
-DATA: Yes. As I began slicing the cake, she reacted as though I was causing her pain. Yet I could not stop cutting. That is when I woke up. Doctor Freud, I am curious. (Data starts to sit up from the couch and is gestured to lie down again) DATA: I am curious. What do my nightmares mean?#
+DATA: Yes. As I began slicing the cake, she reacted as though I was causing her pain. Yet I could not stop cutting. That is when I woke up. Doctor Freud, I am curious.#
+DATA: I am curious. What do my nightmares mean?#
 DATA: I do not understand.#
 DATA: But I do not have a mother.#
 DATA: but I have no sexual desire.#
@@ -5210,7 +5250,7 @@ DATA: I do not believe I am being helped by this session.#
 DATA: That will not be necessary. Computer, end programme.#
 DATA: The warp field has collapsed, sir.#
 DATA: It appears Ensign Tyler still has a crush on you. It is clear you did not speak to her.#
-DATA: I am reminded of a recent dream. This brace is reminiscent of (Data sees a mouth with teeth on the back of Geordi's neck. He backs away then hears the telephone. Going looking for it, Engineering is empty.)#
+DATA: I am reminded of a recent dream. This brace is reminiscent of#
 DATA: Hello?#
 DATA: I do not know.#
 DATA: Everything seems to remind me of the nightmare. Objects, sounds, smells. And now I have seen elements of the dream in a waking state. I cannot explain it.#
@@ -5229,7 +5269,7 @@ DATA: A sensible precaution, sir.#
 DATA: Of course.  May I ask a personal favour?#
 DATA: Will you take care of Spot for me?#
 DATA: I am afraid if I have another waking dream, I might injure him.#
-DATA: Unlike a canine, Spot does not respond to verbal commands. (hands him to Worf who holds him at arms length) Goodbye, Spot. He will need to be fed once a day. He prefers feline supplement number twenty five.#
+DATA: Unlike a canine, Spot does not respond to verbal commands.  Goodbye, Spot. He will need to be fed once a day. He prefers feline supplement number twenty five.#
 DATA: And he will require water. And you must provide him with a sand box. And you must talk to him. Tell him he is a pretty cat, and a good cat.#
 DATA: Perhaps that will be enough.#
 DATA: It is an interesting hypothesis. If I am being affected by these interphasic creatures on an unconscious level, it may also explain my waking dreams, and my subsequent anti-social behaviour.#
@@ -5297,7 +5337,7 @@ DATA: Life support systems are also functioning at low levels. There are approxi
 DATA: It would also explain the failure of their warp drive.#
 DATA: Direct hit. Their weapon systems are down.#
 DATA: Sir, the Ferengi ship's power has stabilised. They appear to have impulse capability.#
-DATA: Spot. Spot. Spot, down. Spot, down. Down. Spot. (lifting the cat off the desk) Down. This is down. Down is good. This is up. Up is no.#
+DATA: Spot. Spot. Spot, down. Spot, down. Down. Spot.  Down. This is down. Down is good. This is up. Up is no.#
 DATA:  One moment. Come in.#
 DATA: I would be happy to.#
 DATA: It is part of her training programme. I am teaching Spot to jump down from the desk on my command.#
@@ -5449,7 +5489,7 @@ DATA: Understood, sir. We will attempt to expedite our work.#
 DATA: Yes, sir. We'll be returning to the beam-out point shortly.#
 DATA: No, we are too far below the surface.#
 DATA: There are no handholds in the rock face. We are going to have to jump.#
-DATA: You will. (Data takes Juliana's arm and makes her jump with him. She lands badly, is knocked out, and her arm has fallen off. It is artificial.)#
+DATA: You will.#
 DATA: Check her positronic matrix. There may be a cascade anomaly.#
 DATA: The first indication occurred when we were digging. I saw her perform complex calculations without the assistance of the computer.#
 DATA: That is true, but it was enough to get my attention. Later, I noticed something odd about the way she blinked her eyes. The intervals between blinks were governed by the Fourier system, the same mathematical formula my father used to give my blinking pattern the appearance of randomness.#
@@ -5471,7 +5511,7 @@ DATA: He seemed certain that if she knew, it would preclude the possibility of h
 DATA: I am not certain. I understand why my father felt as he did, but his wishes are not necessarily paramount. I am more concerned with what would be best for her.#
 DATA: I find I am having difficulty separating what would be best for her from what would be best for me.#
 DATA: If she knew she were an android, we would have something to share. I would no longer be alone in the universe.#
-DATA: You were knocked unconscious by the fall. You broke a bone in your arm, but Doctor Crusher repaired it. Everything is fine. Captain's log, supplemental. The infusion of plasma into the core of Atrea Four has been accomplished. The core should remain molten for several hundred years.#
+DATA: You were knocked unconscious by the fall. You broke a bone in your arm, but Doctor Crusher repaired it. Everything is fine.#
 DATA: Perhaps I can visit Atrea on my next leave.#
 DATA: There is something I thought you should know. My father told me that he had only one great love in his life and that he regretted never telling her how much he cared for her. I am certain he was referring to you.#
 DATA: Goodbye, Mother. Energise.#
@@ -5518,7 +5558,7 @@ DATA: When Worf's shuttlecraft came into contact with the quantum fissure, I bel
 DATA: Exactly. The visor uses a subspace field pulse. I believe that whenever Geordi came near Worf, the field pulse intensified the quantum flux and pushed Worf into another reality.#
 DATA: An excellent idea, Lieutenant.#
 DATA: Captain, a Bajoran ship is approaching.#
-DATA: The barriers between quantum realties are breaking down. Other realties are emerging into our own. ('and thick and fast they came at last, and more, and more, and more')#
+DATA: The barriers between quantum realties are breaking down. Other realties are emerging into our own.#
 DATA: The rate of quantum incursions is increasing exponentially. At this rate, the sector will be completely filled with Enterprises within three days.#
 DATA: Perhaps, if we can find the ship which that Commander Worf's quantum signature.#
 DATA: It was Worf's shuttlecraft which traversed the fissure and weakened the barriers between quantum realities. If he re-enters the fissure in his original shuttle, and emits a broad spectrum warp field, it may be enough to seal the fissure and stop additional realities from emerging into our own.#
@@ -5593,14 +5633,14 @@ DATA: Approximately seventeen kilometres from the centre of the colony, sir. It 
 DATA: Aye, sir.#
 DATA: The energy readings appear to be originating approximately two metres below the surface. I believe they are concentrated within this burial site.#
 DATA: I am reading definite signs of anaphasic energy in her body. It appears to extend to the cellular level.#
-DATA: I suggest we run a deep tissue scan to look for any signs of (Felicia opens her bright green eyes, sits up and zaps the pair of them)#
+DATA: I suggest we run a deep tissue scan to look for any signs of#
 DATA: The enemy is firing.#
 DATA: Target is destroyed.#
 DATA: Less than five thousand kilometres, sir.#
 DATA: Sir, the pod's life support system is failing.#
 DATA: We would need to boost the gain on the confinement beam by at least seven percent.#
 DATA: It is possible that at this distance we are unable to distinguish the pod from the inorganic matter normally present in space.#
-DATA: Sir, I am detecting signs of debris two hundred thousand kilometres inside Cardassian space. Its mass and composition indicate it could be the remains of a Federation escape pod. Captain's log, supplemental. We have intercepted a Cardassian report stating that a Bajoran prisoner escaped her captor and was killed in an evacuation pod as she tried to leave Cardassian space.#
+DATA: Sir, I am detecting signs of debris two hundred thousand kilometres inside Cardassian space. Its mass and composition indicate it could be the remains of a Federation escape pod.#
 DATA:  Who are you? What do you want?#
 DATA: What's wrong with you?#
 DATA: My name is Garvin?#
@@ -5663,8 +5703,8 @@ DATA: You will see there are. I can even block them.#
 DATA: It would appear that this container was constructed of a material which absorbs or blocks the particles coming from the metal.#
 DATA: No. It is empirical data. I believe the fragments were originally placed in this container to protect people from accidental exposure. The word radioactive may be a warning about the dangerous nature of the metal.#
 DATA: I will continue my experiment. I would like you to gather all the pieces of metal in the village and place them in this container.#
-DATA: Of course. (Talur leaves. A few moments later there is a thumping at the door. Data opens it.)#
-DATA: If you are referring to the illness, you are partially correct. However, it is more complex than that. The metal fragment which (Data ducks Skoran's attack and sends him against the wall, but his crony's attack with an axe removes the covering from half of Data's face)#
+DATA: Of course.#
+DATA: If you are referring to the illness, you are partially correct. However, it is more complex than that. The metal fragment which#
 DATA: I do not know.#
 DATA: Gia.#
 DATA: I do not know what I am. But I am not like you.#
@@ -5686,7 +5726,7 @@ DATA: Yes, sir.#
 DATA: I have finished.#
 DATA: The dimensions are accurate to within one point three percent.#
 DATA: Counsellor, music is a collection of acoustic vibrations. How can I reproduce a sound with clay?#
-DATA: Acknowledged, sir. On my way. Captain's log, stardate 47615.2. We have encountered a rogue comet in sector one one five six. It is not native to this region of space, and there is no previous record of this object on any Federation charts.#
+DATA: Acknowledged, sir. On my way.#
 DATA: Based on its present trajectory, the comet appears to have originated in the D'Arsay system.#
 DATA: That is correct, sir. This object has been en route for eighty seven million years.#
 DATA: Aye, sir. The comet's outer shell is composed primarily of gaseous hydrogen and helium surrounding an icy mantle. The inner core consists of heavier elements#
@@ -5737,7 +5777,7 @@ DATA: It appears Counsellor was correct. Pierce was partially telepathic. His ma
 DATA: According to Starfleet records, Pierce and the other persons Counsellor Troi identified, were killed in an accidental plasma discharge eight years ago. Their bodies were never found.#
 DATA: I believe she is doing well. Her appetite has increased by seven percent, and she is starting to engage in prenatal behaviour.#
 DATA: I have noticed that many humans prefer not to know in order to experience the surprise during birth. I believe I will preserve the mystery until then.#
-DATA: I have spent the past nine weeks as an expectant parent. I would be happy to share my insights with your husband. If my experience is any indication, he will need all the help he can get. Captain's log, stardate 47653.2. We're performing field tests of our new tactical systems and weapon upgrades. Mister Worf is supervising the exercises.#
+DATA: I have spent the past nine weeks as an expectant parent. I would be happy to share my insights with your husband. If my experience is any indication, he will need all the help he can get.#
 DATA: That would be inadvisable, sir. The asteroid field is unusually dense. The Enterprise is too large to safely navigate through it.#
 DATA: Captain, I will need a few minutes to attend to a personal matter.#
 DATA: It is possible that it will take several days for Captain Picard and me to complete our mission. I would prefer to have a human present to supervise the birthing process.#
@@ -5860,7 +5900,7 @@ DATA: Phase dampers are in synch. Standing by to modulate the transport pattern.
 DATA: Initiating transport sequence now.#
 DATA: Graves at my command have wak'd their sleepers, op'd, and let 'em forth by my so potent art. But this rough magic I here abjure, and when I have required some heavenly music, which even now I do, to work mine end upon their senses, that this airy charm is for, I'll break my staff, bury it certain fathoms in the earth, and deeper than did ever plummet sound, I'll  Captain? Sir, your attention is wandering.#
 DATA: But sir, I am supposed to be attempting a Neo-Platonic magical rite. The darkness is appropriate for such a ritual.#
-DATA: Perhaps I have been too literal with respect to my set design. Computer, modify holodeck programme Data seven three. Shakespeare's The Tempest, Act Five, scene one. Increase torchlight by twenty percent.#
+DATA: Perhaps I have been too literal with respect to my set design. Computer, modify holodeck programme Data seven three.#
 DATA: Yes, sir. Captain, I am not certain I fully understand this Prospero character. I would appreciate any insight you might have that would improve my performance.#
 DATA: There is certainly a tragic aspect to the character.#
 DATA: No, sir.#
@@ -5910,7 +5950,7 @@ DATA: The Enterprise contains a vast database of information which is managed by
 DATA: Yes, sir. I believe a self-determining intelligence is emerging.#
 DATA: I believe the key to understanding the ship's behaviour lies in the holodeck. All of the connection nodes intersect at that location. It is clearly some kind of processing centre.#
 DATA: Yes, sir. A focal point where all the ideas and instincts of this emerging intelligence are first expressed in some form.#
-DATA: If you will distract these people, I will attempt to depolarise the power grid. (Troi and Worf go over the rustic and the other flapper who are working on the jigsaw)#
+DATA: If you will distract these people, I will attempt to depolarise the power grid.#
 DATA: I am ready to access the main power grid.#
 DATA: I can access the power grid here. I will attempt to depolarise the grid by using a low frequency inversion field. It may disengage the nodes without destroying them.#
 DATA: I encountered a minor difficulty, Counsellor, but it has been dealt with.#

@@ -2,38 +2,21 @@ Episode Number: 62
 The Enterprise Transcripts - Similitude
 Similitude
 Original Airdate: 19 Nov, 2003
-  [Armoury] 
- (The
-whole crew is present, with the senior crew together on the upper
-level, as Archer gives a speech.)
-ARCHER: The most difficult task facing any Captain, any crew, is the
-loss of a shipmate. We've come here to honour one of our own. In the
-time we knew him, he showed us just how much one life can truly matter.
-We will never forget what he did for us, and for the ship he loved so
-much. We will go forward with renewed determination to complete this
-mission, so that his sacrifice won't just have been for the people on
-this ship, but for all the citizens of Earth.
+[Armoury]
+(The whole crew is present, with the senior crew together on the upper level, as Archer gives a speech.)
+ARCHER: The most difficult task facing any Captain, any crew, is the loss of a shipmate. We've come here to honour one of our own. In the time we knew him, he showed us just how much one life can truly matter. We will never forget what he did for us, and for the ship he loved so much. We will go forward with renewed determination to complete this mission, so that his sacrifice won't just have been for the people on this ship, but for all the citizens of Earth.
 (And the person laid out in the torpedo case is - Charles 'Trip' Tucker!) 
- Two
-Weeks Earlier 
- [T'Pol's
-quarters] 
- (Tucker and T'Pol
-are lying on their sides, massaging each other's heels.) 
-TUCKER: We just reroute the system taps, compress the antimatter stream
-before it reaches the injectors. 
+Two Weeks Earlier
+[T'Pol's quarters]
+(Tucker and T'Pol are lying on their sides, massaging each other's heels.) 
+TUCKER: We just reroute the system taps, compress the antimatter stream before it reaches the injectors. 
 T'POL: That will stabilise the warp field? 
-TUCKER: Every simulation I run comes back with the same result. We'll
-be able to cruise at warp five point oh with no field fluctuation. I'm
-talking about a ride so smooth you could build a house of cards on the
-warp reactor. 
-T'POL: If we can maintain high warp for extended periods, we can cover
-the Expanse more quickly. 
-TUCKER: Which boosts our chances of finding the Xindi weapon in time. (T'Pol winces as he presses the wrong bit of her foot.) 
+TUCKER: Every simulation I run comes back with the same result. We'll be able to cruise at warp five point oh with no field fluctuation. I'm talking about a ride so smooth you could build a house of cards on the warp reactor. 
+T'POL: If we can maintain high warp for extended periods, we can cover the Expanse more quickly. 
+TUCKER: Which boosts our chances of finding the Xindi weapon in time. 
+(T'Pol winces as he presses the wrong bit of her foot.) 
 T'POL: To the left. 
-TUCKER: Oh, sorry. You get me talking about the engines and I forget
-where I am. Don't know what it is about fine-tuning a piece of
-machinery. 
+TUCKER: Oh, sorry. You get me talking about the engines and I forget where I am. Don't know what it is about fine-tuning a piece of machinery. 
 T'POL: Lie on your back. 
 (She kneels by his head.) 
 TUCKER: You know, you made this sound a whole lot worse than it is.
@@ -43,673 +26,435 @@ T'POL: We haven't gotten to the more challenging postures.
 (She leans over him to press his ribcage.) 
 TUCKER: Well, I'm always up for a challenge. 
 T'POL: Breathe. 
- [Engineering]
- TUCKER:
-Tucker to the Bridge. 
- [Bridge]
- ARCHER:
-Archer. 
- [Engineering]
- TUCKER:
-We're all set down here. 
- [Bridge]
- TUCKER
-[OC]: I'll need at least four point nine 
- [Engineering]
- TUCKER:
-To get the plasma hot enough to compress the stream. 
- [Bridge]
- ARCHER:
-You heard the man, Travis. Four point nine. 
-TRAVIS: Aye, sir. Four point five, four point six, four point seven,
-four point eight. (The ship vibrates.) 
+[Engineering]
+TUCKER: Tucker to the Bridge. 
+[Bridge]
+ARCHER: Archer. 
+[Engineering]
+TUCKER: We're all set down here. 
+[Bridge]
+TUCKER [OC]: I'll need at least four point nine 
+[Engineering]
+TUCKER: To get the plasma hot enough to compress the stream. 
+[Bridge]
+ARCHER: You heard the man, Travis. Four point nine. 
+TRAVIS: Aye, sir. Four point five, four point six, four point seven, four point eight. 
+(The ship vibrates.) 
 T'POL: The warp field is fluctuating. 
 TRAVIS: Four point nine. 
- [Engineering]
- TUCKER:
-Initialising stream compression. (A fat red line turns to thin white
-one on the monitor.) TUCKER: Damn, that's a beautiful sound. 
- [Bridge]
- T'POL:
-Field fluctuations have dropped to zero. 
+[Engineering]
+TUCKER: Initialising stream compression. 
+(A fat red line turns to thin white one on the monitor.) 
+TUCKER: Damn, that's a beautiful sound. 
+[Bridge]
+T'POL: Field fluctuations have dropped to zero. 
 ARCHER: We just got our second wind. 
-(There's a big bump and people lose their footings. Alarms go off and
-the fat red line is back and fatter.) 
+(There's a big bump and people lose their footings. Alarms go off and the fat red line is back and fatter.) 
 T'POL: Something's flooding the intake manifolds. 
 ARCHER: Drop to impulse. 
 TRAVIS: I've lost helm control. 
 ARCHER: Trip, status. 
 TUCKER [OC]: I've got a primary injector flare. 
- [Engineering]
- TUCKER:
-I'm shutting down. It's not responding, Captain. 
-(Things go bang and there are flames around as Tucker climbs on top of
-the reactor.) 
- [Bridge]
- T'POL:
-The flare is causing a system-wide overload. 
+[Engineering]
+TUCKER: I'm shutting down. It's not responding, Captain. 
+(Things go bang and there are flames around as Tucker climbs on top of the reactor.) 
+[Bridge]
+T'POL: The flare is causing a system-wide overload. 
 (There are flames next to her station too.) 
-(In Engineering, Tucker manually shuts the engines down, but something
-explodes, throwing him from the top of the engines to the floor where
-he hits his head hard. Enterprise falls out of warp in a purple fog.)
+(In Engineering, Tucker manually shuts the engines down, but something explodes, throwing him from the top of the engines to the floor where he hits his head hard. Enterprise falls out of warp in a purple fog.)
 REED: Fires reported on B and C deck. Emergency crews en route. 
 TRAVIS: Helm control is still down. 
 ARCHER: Analysis. 
-T'POL: Some kind of polaric field, approximately eleven thousand
-kilometres in diameter. Composition unknown. I'll need more time to
-complete a detailed scan. 
+T'POL: Some kind of polaric field, approximately eleven thousand kilometres in diameter. Composition unknown. I'll need more time to complete a detailed scan. 
 ARCHER: Is that what stopped us? 
 T'POL: It's a logical conclusion. 
 ARCHER: Keep scanning. 
-HOSHI: Numerous injuries throughout the ship. Mostly minor, except for
-one. Commander Tucker. He's been taken to Sickbay. 
- [Deleted
-scene - Bridge] 
+HOSHI: Numerous injuries throughout the ship. Mostly minor, except for one. Commander Tucker. He's been taken to Sickbay. 
+[Deleted scene - Bridge] 
 REED: The nucleonic particles are being drawn to the hull. 
 ARCHER: Polarise the hull plating. 
 REED: I already tried that, sir. No effect. 
-ARCHER: Then purge the intake manifolds and shut all the exhaust ports.
+ARCHER: Then purge the intake manifolds and shut all the exhaust ports. 
 PHLOX [OC]: Phlox to Captain Archer. 
 ARCHER: Go ahead. 
 PHLOX [OC]: Would you come down to Sickbay? 
-ARCHER: On my way. Run a full sensor scan. I want to know what we're
-dealing with. 
+ARCHER: On my way. Run a full sensor scan. I want to know what we're dealing with. 
 REED: Aye, sir. 
- [Engineering]
- (T'Pol
-is supervising the mending of a big hole in a bulkhead.) 
+[Engineering]
+(T'Pol is supervising the mending of a big hole in a bulkhead.) 
 ARCHER: Report. 
-T'POL: When we entered the field nucleonic particles flooded the
-manifolds, causing the injector flare. If Commander Tucker hadn't shut
-down the reactor, we could have had a breach. 
+T'POL: When we entered the field nucleonic particles flooded the manifolds, causing the injector flare. If Commander Tucker hadn't shut down the reactor, we could have had a breach. 
 ARCHER: How much time before we can get the engines back online? 
-T'POL: We're still running diagnostics. The damage is significant. It
-could take weeks. Commander Tucker's going to have his hands full. 
-ARCHER: You'll be supervising the repairs. I've just come from Sickbay.
-Trip's in a coma. He has extensive neural damage. Doctor Phlox says we
-have to prepare for the possibility that Trip won't survive. 
- [Sickbay]
- (Tucker
-has his head bandaged, monitor devices on his forehead and an oxygen
-tube under his nose.) 
+T'POL: We're still running diagnostics. The damage is significant. It could take weeks. Commander Tucker's going to have his hands full. 
+ARCHER: You'll be supervising the repairs. I've just come from Sickbay. Trip's in a coma. He has extensive neural damage. Doctor Phlox says we have to prepare for the possibility that Trip won't survive. 
+[Sickbay]
+(Tucker has his head bandaged, monitor devices on his forehead and an oxygen tube under his nose.) 
 ARCHER: How is he?
-PHLOX: His condition's unchanged. I'd like to show you something. This
-is one of the more interesting members of my little menagerie, a
-Lyssarrian Desert Larvae. It's epidermal layers secrete a viral
-suppressant that I use as a salve for cuts and bruises.
+PHLOX: His condition's unchanged. I'd like to show you something. This is one of the more interesting members of my little menagerie, a Lyssarrian Desert Larvae. It's epidermal layers secrete a viral suppressant that I use as a salve for cuts and bruises.
 ARCHER: How does this relate to Trip? 
-PHLOX: The larvae have another, somewhat more controversial, property.
-When implanted with the DNA from another species it exactly replicates
-that species' life-cycle, albeit at a rapidly accelerated rate. 
+PHLOX: The larvae have another, somewhat more controversial, property. When implanted with the DNA from another species it exactly replicates that species' life-cycle, albeit at a rapidly accelerated rate. 
 ARCHER: It becomes a clone. 
-PHLOX: Essentially, but one that is born, grows old and dies in
-approximately fifteen days. The Lyssarrians call them mimetic simbiots.
-They're a closely guarded secret. Very few people know of their
-existence. 
-ARCHER: And you want to do this with Trip. Use his DNA to grow a
-simbiot. 
-PHLOX: To harvest it's neural tissue for transplant. There's no
-guarantee that human DNA will stimulate the larvae's growth cycle, but
-as it stands now it may be Commander Tucker's only hope for survival.
-To ensure the tissue's compatibility, I'll have to wait until the
-simbiot reaches Commander Tucker's present physical age, then I can
-excise the tissue from a non-critical region of the simbiot's cerebral
-region. It would experience no discernable side effects and should be
-able to live out it's normal life span. 
+PHLOX: Essentially, but one that is born, grows old and dies in approximately fifteen days. The Lyssarrians call them mimetic simbiots. They're a closely guarded secret. Very few people know of their existence. 
+ARCHER: And you want to do this with Trip. Use his DNA to grow a simbiot. 
+PHLOX: To harvest it's neural tissue for transplant. There's no guarantee that human DNA will stimulate the larvae's growth cycle, but as it stands now it may be Commander Tucker's only hope for survival. To ensure the tissue's compatibility, I'll have to wait until the simbiot reaches Commander Tucker's present physical age, then I can excise the tissue from a non-critical region of the simbiot's cerebral region. It would experience no discernable side effects and should be able to live out it's normal life span. 
 ARCHER: It's fifteen day life span. 
-PHLOX: I don't make this proposal lightly, Captain, but I'm obligated
-to provide you with all available options. 
- [Ready
-room] 
- ARCHER:
-Come in.
-T'POL: We sent out an EV team. They retrieved a sample of the substance
-accumulating on the hull. Multiple hits with a plasma rifle were
-required to dislodge it. It's composed of highly charged particles,
-mostly ferric ions, but there are several elements that we can't
-identify. (the sample leaps to Archer's mug and sticks there) And it's
-highly magnetic. So far, the danger to the ship seems negligible. 
-ARCHER: But the longer we remain in the field, the more these particles
-build up. Do whatever you have to do, but we need to get those engines
-back online. 
-T'POL: Understood. Regarding the Lyssarrian procedure Doctor Phlox
-proposed, may I ask if you've reached a decision? 
+PHLOX: I don't make this proposal lightly, Captain, but I'm obligated to provide you with all available options. 
+[Ready room]
+ARCHER: Come in.
+T'POL: We sent out an EV team. They retrieved a sample of the substance accumulating on the hull. Multiple hits with a plasma rifle were required to dislodge it. It's composed of highly charged particles, mostly ferric ions, but there are several elements that we can't identify. (the sample leaps to Archer's mug and sticks there) And it's highly magnetic. So far, the danger to the ship seems negligible. 
+ARCHER: But the longer we remain in the field, the more these particles build up. Do whatever you have to do, but we need to get those engines back online. 
+T'POL: Understood. Regarding the Lyssarrian procedure Doctor Phlox proposed, may I ask if you've reached a decision? 
 ARCHER: I approved it. 
-T'POL: Are you aware that the Lyssarrian Prime Conclave has banned the
-creation of simbiots? 
+T'POL: Are you aware that the Lyssarrian Prime Conclave has banned the creation of simbiots? 
 ARCHER: We don't answer to the Lyssarrian Prime Conclave. 
-T'POL: Simbiots are living, conscious entities. We'll be growing a
-sentient being for the sole purpose of harvesting tissue. 
-ARCHER: I'm aware of the ethical implications. If we weren't in the
-Expanse maybe my decision would be different, but we've got to complete
-this mission. Earth needs Enterprise, Enterprise needs Trip. It's as
-simple as that. 
-Captain's Starlog, supplemental. The engines are still down and the
-nucleonic particles continue to build up on the hull. It's been two
-days since Doctor Phlox initiated the procedure to grow the simbiot. 
- [Sickbay]
- (The
-lights are dim as Phlox leads Archer to a large tub with an embryo
-floating in it.) 
-PHLOX: It's rather sensitive to light at this stage. By tomorrow
-morning, if all goes well, we'll have a healthy baby boy on our hands.(Next day, a new-born is exercising his lungs in the traditional manner.) 
-PHLOX: Perfect genetic duplicate, right down to the birthmark on his
-right side. 
+T'POL: Simbiots are living, conscious entities. We'll be growing a sentient being for the sole purpose of harvesting tissue. 
+ARCHER: I'm aware of the ethical implications. If we weren't in the Expanse maybe my decision would be different, but we've got to complete this mission. Earth needs Enterprise, Enterprise needs Trip. It's as simple as that. 
+Captain's Starlog, supplemental. The engines are still down and the nucleonic particles continue to build up on the hull. It's been two days since Doctor Phlox initiated the procedure to grow the simbiot. 
+[Sickbay]
+(The lights are dim as Phlox leads Archer to a large tub with an embryo floating in it.) 
+PHLOX: It's rather sensitive to light at this stage. By tomorrow morning, if all goes well, we'll have a healthy baby boy on our hands.
+(Next day, a new-born is exercising his lungs in the traditional manner.) 
+PHLOX: Perfect genetic duplicate, right down to the birthmark on his right side. 
 T'POL: He certainly sounds healthy. 
-PHLOX: And hungry. Excuse me. (Phlox hands her the bottle so he can pick the
-child up.) PHLOX: There, there. Oh, it's been some time since I've had a
-new-born, but I see I haven't lost my touch. (The baby suckles happily.)
-ARCHER: Three days ago he was just another one of your creatures,
-something you kept on a shelf. 
+PHLOX: And hungry. Excuse me. 
+(Phlox hands her the bottle so he can pick the child up.) 
+PHLOX: There, there. Oh, it's been some time since I've had a new-born, but I see I haven't lost my touch. 
+(The baby suckles happily.) 
+ARCHER: Three days ago he was just another one of your creatures, something you kept on a shelf. 
 PHLOX: He's certainly come a long way in a short time. 
-T'POL: In a short time he'll be a lot older. Have you thought of where
-he's going to live? 
-PHLOX: Why not right here? I can't think of a more stimulating
-environment for a developing young mind, and I'd be able to keep a
-close watch on his development. 
+T'POL: In a short time he'll be a lot older. Have you thought of where he's going to live? 
+PHLOX: Why not right here? I can't think of a more stimulating environment for a developing young mind, and I'd be able to keep a close watch on his development. 
 ARCHER: Sounds like you've found yourself a new roommate. 
-PHLOX: Now all I need to do is find him a name. The crew's been
-offering suggestions but nothing sounds right. Steven, Enrique, Dennis.
-Dennis? You see my dilemma? 
-ARCHER: I'm sure you'll think of something. (Later -)PHLOX
-[OC]: Chief Medical Officer's log. After much deliberation I have
-finally thought of a name for this newest addition to our crew. PHLOX:
-It's all right, Sim. It's all right. 
-PHLOX [OC}: Lucky for me Denobulans require little sleep. I'm at a loss
-as to how human adults endure the REM cycle interruptions that
-accompany the teething stage. Though I knew what to expect, I can't
-help but be astonished by Sim's rapid physical development. A side
-note, I may have stumbled across an effective fertiliser for my Orsic
-fern.;(Phlox
-and Hoshi are sitting on the floor, listening to a young boy reading
-from a book.) 
-SIM: Those who have never seen a living Martian can scarcely imagine
-the strange horror of it's a - app - appearance. 
+PHLOX: Now all I need to do is find him a name. The crew's been offering suggestions but nothing sounds right. Steven, Enrique, Dennis. Dennis? You see my dilemma? 
+ARCHER: I'm sure you'll think of something. 
+(Later -)
+PHLOX [OC]: Chief Medical Officer's log. After much deliberation I have finally thought of a name for this newest addition to our crew. 
+PHLOX: It's all right, Sim. It's all right. 
+PHLOX [OC}: Lucky for me Denobulans require little sleep. I'm at a loss as to how human adults endure the REM cycle interruptions that accompany the teething stage. Though I knew what to expect, I can't help but be astonished by Sim's rapid physical development. A side note, I may have stumbled across an effective fertiliser for my Orsic fern.;
+(Phlox and Hoshi are sitting on the floor, listening to a young boy reading from a book.) 
+SIM: Those who have never seen a living Martian can scarcely imagine the strange horror of it's a - app - appearance. 
 HOSHI: That's very good. 
 SIM: Can we just skip to the part where the Martian machines attack? 
-HOSHI: We just showed you this book. How do you know about the Martian
-machines? 
+HOSHI: We just showed you this book. How do you know about the Martian machines? 
 SIM: My mum read it to me. 
 HOSHI: Your mum? 
 SIM: Uh huh. I think it's chapter ten. 
-PHLOX [OC]: It's become quite evident that Sim's remarkable scholastic
-progress goes far beyond an aptitude for learning. 
- [Mess
-hall] 
- (The
-boy is a pre-teenager.) 
-PHLOX: He's remembering things that happened to Trip when Trip was this
-age. 
+PHLOX [OC]: It's become quite evident that Sim's remarkable scholastic progress goes far beyond an aptitude for learning. 
+[Mess hall]
+(The boy is a pre-teenager.) 
+PHLOX: He's remembering things that happened to Trip when Trip was this age. 
 ARCHER: So the older he grows, the more of Trip's life he'll recall? 
-PHLOX: There are some species that rely solely on genetic sequencing to
-pass on their cultural memories. Evidently, humans have a similar
-capacity. This could be an important discovery. He certainly possesses
-Commander Tucker's curiosity. This morning he took apart my medical
-tricorder. 
+PHLOX: There are some species that rely solely on genetic sequencing to pass on their cultural memories. Evidently, humans have a similar capacity. This could be an important discovery. He certainly possesses Commander Tucker's curiosity. This morning he took apart my medical tricorder. 
 ARCHER: He's starting to look like Trip. 
-PHLOX: And he's beginning to ask questions. Where did I come from?
-Where's my mother and father? Why am I here? 
-ARCHER: It's only been three days and he's already beginning to realise
-how different he is. 
+PHLOX: And he's beginning to ask questions. Where did I come from? Where's my mother and father? Why am I here? 
+ARCHER: It's only been three days and he's already beginning to realise how different he is. 
 PHLOX: He's going to have to be told the truth, soon. 
-ARCHER: I gave the order that created him. I should be the one to
-explain why. 
- [Deleted
-scene - corridor] 
+ARCHER: I gave the order that created him. I should be the one to explain why. 
+[Deleted scene - corridor] 
 (Porthos comes skittering around a corner, followed by Sim.) 
 ARCHER: Whoa! Where do you think you're off to? 
 SIM: I was trying to teach him to fetch. 
 ARCHER: Now, don't take it personally. Fetching isn't his style. 
-PHLOX: (slightly out of breath) I'm sorry, Captain. I was in the middle
-of giving Porthos his physical. I only turned my back for a moment. 
+PHLOX: (slightly out of breath) I'm sorry, Captain. I was in the middle of giving Porthos his physical. I only turned my back for a moment. 
 ARCHER: (holding Porthos): It's all right. Is he okay? 
-PHLOX: Yes, indeed. He's in peak physical condition. Which is more than
-I can say for myself. 
-ARCHER: It's almost time for his dinner. (to Sim) Do you want to help
-me feed him? 
+PHLOX: Yes, indeed. He's in peak physical condition. Which is more than I can say for myself. 
+ARCHER: It's almost time for his dinner. (to Sim) Do you want to help me feed him? 
 SIM: Sure. 
 ARCHER: (hands the little dog over to the lad) Come on. 
- [Archer's
-quarters] 
- (Archer comes
-in with Porthos's bowl and opening a pouch of food.) 
+[Archer's quarters]
+(Archer comes in with Porthos's bowl and opening a pouch of food.) 
 ARCHER: There's nothing Porthos likes more than dinnertime. 
 SIM: Can he do any tricks? 
-ARCHER: I haven't taught him any. Mostly what he does is eat, sleep,
-and not fetch. Just fill it up half way. 
-SIM: Okay. I used to have a dog. His name was Bedford. He was so big, I
-could ride him like a horse. 
-ARCHER: Is that right. (Sim spots a picture on the shelf.) 
-SIM: That's Zephram Cochrane. He
-invented warp drive. 
+ARCHER: I haven't taught him any. Mostly what he does is eat, sleep, and not fetch. Just fill it up half way. 
+SIM: Okay. I used to have a dog. His name was Bedford. He was so big, I could ride him like a horse. 
+ARCHER: Is that right. 
+(Sim spots a picture on the shelf.) 
+SIM: That's Zephram Cochrane. He invented warp drive. 
 ARCHER: That's right, he did. 
 SIM: Doctor Phlox says your dad helped design the warp five engine. 
-ARCHER: That's a picture of him right there, and this is me on my first
-day of flight school. 
+ARCHER: That's a picture of him right there, and this is me on my first day of flight school. 
 SIM: Did you always want to be a starship captain? 
 ARCHER: As long as I can remember. 
 SIM: Why? 
 ARCHER: It's what I was meant to do. 
 SIM: Bet it's a fun job. 
 ARCHER: It has its moments. Let me show you something. 
- [Cargo
-bay] 
- ARCHER:
-Keep the nose up. That's right. (Sim is flying a remote control plane.) 
+[Cargo bay]
+ARCHER: Keep the nose up. That's right. 
+(Sim is flying a remote control plane.) 
 SIM: It pulls a little to the left. 
 ARCHER: Trim the port aileron. 
-SIM: That feels better. My dad says I should be an engineer. My mum
-thinks I should study architecture, but I want to do what you do, be a
-starship captain. You know what's weird? 
+SIM: That feels better. My dad says I should be an engineer. My mum thinks I should study architecture, but I want to do what you do, be a starship captain. You know what's weird? 
 ARCHER: What? 
-SIM: My parents call me Trip, but everyone here calls me Sim. Where's
-my mum and dad? Are they back on Earth? 
-ARCHER: That's a little difficult to answer. (Sim is distracted and the
-model plane crash lands.) 
+SIM: My parents call me Trip, but everyone here calls me Sim. Where's my mum and dad? Are they back on Earth? 
+ARCHER: That's a little difficult to answer. 
+(Sim is distracted and the model plane crash lands.) 
 SIM: It's broken. 
-ARCHER: Nothing a little glue won't remedy. I crashed it plenty of
-times myself. 
+ARCHER: Nothing a little glue won't remedy. I crashed it plenty of times myself. 
 SIM: I miss my parents. 
 ARCHER: Come with me. 
- [Sickbay]
- SIM:
-Doctor Phlox says I'm not allowed to go in there. 
-ARCHER: It's okay. (Phlox pulls back the curtains around Trip's bed.)
+[Sickbay]
+SIM: Doctor Phlox says I'm not allowed to go in there. 
+ARCHER: It's okay. 
+(Phlox pulls back the curtains around Trip's bed.)
 SIM: He's Trip. 
 ARCHER: That's right. 
 SIM: My parents. They're not really mine, they're his. 
 ARCHER: Yes. 
-SIM: So, that time I put a garden snake in Lizzie's dollhouse, that
-wasn't me. 
+SIM: So, that time I put a garden snake in Lizzie's dollhouse, that wasn't me. 
 ARCHER: No. 
 SIM: So I'm just some kind of copy of him. 
-ARCHER: You're more than that, Sim. You have Trip's memories, but you
-also have your own memories, the ones you're making here on Enterprise.
+ARCHER: You're more than that, Sim. You have Trip's memories, but you also have your own memories, the ones you're making here on Enterprise. 
 SIM: How long have I lived here? 
 ARCHER: You were born only four days ago. 
 SIM: I feel older. 
-ARCHER: It's hard to understand, I know. There's part of you, something
-inside you, that Trip needs. Doctor Phlox is going to have to perform
-an operation. 
+ARCHER: It's hard to understand, I know. There's part of you, something inside you, that Trip needs. Doctor Phlox is going to have to perform an operation. 
 SIM: Will it hurt? 
 PHLOX: Not at all. You won't feel a thing. 
 SIM: Doctor's always say that. 
 ARCHER: When Phlox says it, it's the truth. 
 SIM: Can we go fix the model now? 
 ARCHER: Sure. 
-Captain's log, supplemental. Enterprise has been incapacitated for
-seven days. During that time Sim has practically become a member of the
-crew. I've assigned him to Engineering where he's been assisting T'Pol
-in the on-going effort to repair the engines. 
- [Engineering]
-(Sim is now a young man.)  SIM:
-Wave guides for the primary port bypass. Think I've
-made some progress. 
+Captain's log, supplemental. Enterprise has been incapacitated for seven days. During that time Sim has practically become a member of the crew. I've assigned him to Engineering where he's been assisting T'Pol in the on-going effort to repair the engines. 
+[Engineering]
+(Sim is now a young man.) 
+SIM: Wave guides for the primary port bypass. Think I've made some progress. 
 T'POL: This looks promising. 
-SIM: They're showing 'A Night At The Opera' tonight. Marx Brothers.
-Wondered if you're planning to go.
-T'POL: I'll be reviewing the field coil equations. They need to be
-finished in time for tomorrow's reactor test.
+SIM: They're showing 'A Night At The Opera' tonight. Marx Brothers. Wondered if you're planning to go.
+T'POL: I'll be reviewing the field coil equations. They need to be finished in time for tomorrow's reactor test.
 SIM: Oh. What about dinner? Want to grab a bite? 
-T'POL: I appreciate the offer, but I'm afraid I have to work late into
-the evening. Ensign Massaro is running a diagnostic on the plasma
-assembly. I'd like you to assist her. 
-SIM: Yes, ma'am. It's because I'm different, isn't it? The reason you
-don't want to do anything with me. I guess it must be weird, being with
-someone like me. Five days ago I was wearing diapers.
-T'POL: I simply believe that our attention should be focused on the
-ship's engines, at least until the current situation is resolved. 
-SIM: I probably won't be around after the current situation's resolved.
+T'POL: I appreciate the offer, but I'm afraid I have to work late into the evening. Ensign Massaro is running a diagnostic on the plasma assembly. I'd like you to assist her. 
+SIM: Yes, ma'am. It's because I'm different, isn't it? The reason you don't want to do anything with me. I guess it must be weird, being with someone like me. Five days ago I was wearing diapers.
+T'POL: I simply believe that our attention should be focused on the ship's engines, at least until the current situation is resolved. 
+SIM: I probably won't be around after the current situation's resolved. 
 ARCHER [OC]: Archer to T'Pol.
 T'POL: Go ahead. 
 ARCHER: Would you please come to my Ready room.
 T'POL: On my way. 
- [Ready
-room] 
- T'POL:
-Warp drive should be functional in two weeks. 
+[Ready room]
+T'POL: Warp drive should be functional in two weeks. 
 ARCHER: I'm afraid that won't be soon enough. 
 T'POL: Sir, I
-ARCHER: According to Malcolm, the accumulation on the hull is generating
-a diamagnetic field. It's having a dampening effect. The more the
-particulate builds up, the more powerful the field becomes. In another
-four days every system on the ship will be offline. If we don't make it
-out of here by then, we never will. 
- [Mess
-hall] 
- REED:
-Key Lime pie. (Sim is a full grown Tucker.) 
-SIM: I suddenly realised it was my favourite dessert.
-Now I know why.
+ARCHER: According to Malcolm, the accumulation on the hull is generating a diamagnetic field. It's having a dampening effect. The more the particulate builds up, the more powerful the field becomes. In another four days every system on the ship will be offline. If we don't make it out of here by then, we never will. 
+[Mess hall]
+REED: Key Lime pie. 
+(Sim is a full grown Tucker.) 
+SIM: I suddenly realised it was my favourite dessert. Now I know why.
 REED: Do these memories just come to you?
-SIM: The older I get, the more I remember. It's like I've lived this
-whole other life. Can't explain it. 
+SIM: The older I get, the more I remember. It's like I've lived this whole other life. Can't explain it. 
 REED: I can't imagine it. You wanted to ask me about something. 
-SIM: Yeah, I did. Do you think it's possible to redirect the phase
-cannons so they can fire back onto the hull? 
+SIM: Yeah, I did. Do you think it's possible to redirect the phase cannons so they can fire back onto the hull? 
 REED: I suppose so. Why? 
-SIM: I want to try and blast off enough of that particulate so we can
-open up the Launch Bay doors. 
+SIM: I want to try and blast off enough of that particulate so we can open up the Launch Bay doors. 
 REED: Is someone planning on going somewhere? 
-SIM: All we need to do is build up enough momentum to can get the ship
-out of here, right? 
+SIM: All we need to do is build up enough momentum to can get the ship out of here, right? 
 REED: Right. 
-SIM: Well, we've got two perfectly good engines sitting in the Launch
-Bay. If we string a couple of grappler lines between the shuttlepods
-and the ship we can tow ourselves clear. 
-REED: The shuttlepods don't generate that kind of thrust. We'd never
-build up enough momentum to get clear of the field in time. 
-SIM: Leave that to me. (He hands over a PADD.) 
- [T'Pol's
-quarters] 
- SIM:
-Can I come in? Did you have a chance to look at my calculations? 
+SIM: Well, we've got two perfectly good engines sitting in the Launch Bay. If we string a couple of grappler lines between the shuttlepods and the ship we can tow ourselves clear. 
+REED: The shuttlepods don't generate that kind of thrust. We'd never build up enough momentum to get clear of the field in time. 
+SIM: Leave that to me. 
+(He hands over a PADD.) 
+[T'Pol's quarters]
+SIM: Can I come in? Did you have a chance to look at my calculations? 
 T'POL: I reviewed them thoroughly. 
 SIM: And? 
-T'POL: A fusion overburn has never been attempted with a shuttlepod
-engine.
+T'POL: A fusion overburn has never been attempted with a shuttlepod engine.
 SIM: That doesn't mean it won't work. 
 T'POL: I agree. Despite the risks, I believe it's our best option. 
 SIM: So you're going to recommend the plan to the Captain? 
 T'POL: I already have. Was there something else?
 SIM: You and Trip used to spend a lot of time here together. 
 T'POL: I was instructing him in the practice of Vulcan neuro-pressure. 
-SIM: I remember. We were lying right there, working the neural nodes on
-each other's feet, talking about the warp engines. How I was hoping to
-modify them. 
+SIM: I remember. We were lying right there, working the neural nodes on each other's feet, talking about the warp engines. How I was hoping to modify them. 
 T'POL: How Commander Tucker was hoping to modify them. 
-SIM: Right. Commander Tucker. You know, he was really starting to enjoy
-those sessions with you. 
+SIM: Right. Commander Tucker. You know, he was really starting to enjoy those sessions with you. 
 T'POL: They were helping him sleep. 
 SIM: I'm not sure that's the only reason. 
 T'POL: What do you mean? 
 SIM: Was there ever anything between you and Trip? 
 T'POL: If you're referring to a romantic relationship, no. 
-SIM: The reason I ask is, well, you're all I think about, if you know
-what I mean. And I'm not talking about an adolescent crush. That was,
-well, that was two days ago. This is much more serious, the way I feel
-about you. Anyway, what's driving me crazy is, I don't know if these
-feelings are mine or his. 
+SIM: The reason I ask is, well, you're all I think about, if you know what I mean. And I'm not talking about an adolescent crush. That was, well, that was two days ago. This is much more serious, the way I feel about you. Anyway, what's driving me crazy is, I don't know if these feelings are mine or his. 
 T'POL: I can't answer that. 
 SIM: I didn't mean to make you feel uncomfortable. 
 T'POL: I'm not uncomfortable. 
-SIM: I just thought I should tell you this, while I still had the
-chance. 
- [Ready
-room] 
+SIM: I just thought I should tell you this, while I still had the chance. 
+[Ready room]
 ARCHER: Come in. 
 SIM: I want to pilot one of the shuttlepods. 
 ARCHER: That's out of the question. 
-SIM: It's my plan. I think I should have a say in how it's implemented.
-ARCHER: This is a dangerous procedure. You've never flown a shuttlepod
-before. 
-SIM: Yes, I have. Trip has thousands of hours of flying time and I have
-his memories. 
-ARCHER: I can't jeopardise this ship on the strength of those memories.
-Mayweather and Reed will pilot the shuttlepods. I want you to
-co-ordinate from the Bridge. T'Pol will assist you. 
-SIM: You're worried something'll happen to me, aren't you. You want to
-make sure I'm around because you need part of my brain. 
+SIM: It's my plan. I think I should have a say in how it's implemented. 
+ARCHER: This is a dangerous procedure. You've never flown a shuttlepod before. 
+SIM: Yes, I have. Trip has thousands of hours of flying time and I have his memories. 
+ARCHER: I can't jeopardise this ship on the strength of those memories. Mayweather and Reed will pilot the shuttlepods. I want you to co-ordinate from the Bridge. T'Pol will assist you. 
+SIM: You're worried something'll happen to me, aren't you. You want to make sure I'm around because you need part of my brain. 
 ARCHER: Yeah, that's part of it. 
 SIM: So your concern for my safety is really about saving Trip. 
-ARCHER: My main concern is that this plan work. If we don't make it out
-of here in the next six hours it won't matter if Trip survives or not.
-We'll all be dead. 
- [Bridge]
-(Sim is at Reed's station.)  SIM:
-I've realigned the targeting scanners. They're set
-for close proximity. 
-T'POL: Phase cannons are charged and ready. (They fire.)
+ARCHER: My main concern is that this plan work. If we don't make it out of here in the next six hours it won't matter if Trip survives or not. We'll all be dead. 
+[Bridge]
+(Sim is at Reed's station.) 
+SIM: I've realigned the targeting scanners. They're set for close proximity. 
+T'POL: Phase cannons are charged and ready. 
+(They fire.)
 ARCHER: Try the doors. 
-T'POL: They're still frozen. (Another shot and they open.)
+T'POL: They're still frozen. 
+(Another shot and they open.)
 ARCHER: Archer to shuttlepods one and two. 
- [Shuttlepod
-One] 
- ARCHER
-{OC}: You are clear to launch.
+[Shuttlepod One]
+ARCHER {OC}: You are clear to launch.
 REED: Acknowledged. 
- [Shuttlepod
-Two] 
- TRAVIS:
-Shuttlepod two. Acknowledged. (Off they go and put grapples onto the
-main hull.) 
- [Bridge]
- ARCHER:
-Whenever you're ready. 
+[Shuttlepod Two]
+TRAVIS: Shuttlepod two. Acknowledged. 
+(Off they go and put grapples onto the main hull.) 
+[Bridge]
+ARCHER: Whenever you're ready. 
 SIM: Set the overrun ratio. We'll start at oh point one seven five. 
- [Shuttlepod
-One] 
- REED:
-Acknowledged. 
- [Shuttlepod
-Two] 
+[Shuttlepod One]
+REED: Acknowledged. 
+[Shuttlepod Two]
 MAYWEATHER: Oh point one seven five. 
- [Bridge]
- SIM:
-Prepare to initiate on my mark. Now. 
- [Shuttlepod
-One] 
- REED:
-One thousand kilodynes. 
- [Shuttlepod
-Two] 
- TRAVIS:
-Thrust vector holding steady. 
- [Bridge]
- ARCHER:
-Come on. 
- [Shuttlepod
-One] 
- REED:
-Two thousand kilodynes. Engine temperature's rising. 
- [Bridge]
- T'POL:
-I'm reading zero forward momentum.
+[Bridge]
+SIM: Prepare to initiate on my mark. Now. 
+[Shuttlepod One]
+REED: One thousand kilodynes. 
+[Shuttlepod Two]
+TRAVIS: Thrust vector holding steady. 
+[Bridge]
+ARCHER: Come on. 
+[Shuttlepod One]
+REED: Two thousand kilodynes. Engine temperature's rising. 
+[Bridge]
+T'POL: I'm reading zero forward momentum.
 REED [OC]: Two thousand five hundred kilodynes. 
- [Shuttlepod
-One] 
- REED:
-Engine temperature's nearing critical. 
- [Bridge]
- T'POL:
-We're still not moving.
-ARCHER: Come on. SIM: Increase the overburn ratio another 
- [Shuttlepod
-One] 
- SIM
-[OC]: Thirty percent. 
+[Shuttlepod One]
+REED: Engine temperature's nearing critical. 
+[Bridge]
+T'POL: We're still not moving.
+ARCHER: Come on. 
+SIM: Increase the overburn ratio another 
+[Shuttlepod One]
+SIM [OC]: Thirty percent. 
 REED: Captain? 
- [Bridge]
- ARCHER:
-Go ahead. 
- [Shuttlepod
-One] 
- REED:
-Increasing thirty percent. 
- [Shuttlepod
-Two] 
- TRAVIS:
-I've got a temperature warning light. 
- [Shuttlepod
-One] 
- REED:
-I'm reading five hundred degrees above critical. (Things start to go
-bang in both shuttlepods.) 
- [Bridge]
- T'POL:
-Their systems are overloading. 
+[Bridge]
+ARCHER: Go ahead. 
+[Shuttlepod One]
+REED: Increasing thirty percent. 
+[Shuttlepod Two]
+TRAVIS: I've got a temperature warning light. 
+[Shuttlepod One]
+REED: I'm reading five hundred degrees above critical. 
+(Things start to go bang in both shuttlepods.) 
+[Bridge]
+T'POL: Their systems are overloading. 
 ARCHER: Sim. 
 SIM: A few more seconds. 
 T'POL: They won't last a few seconds. 
-ARCHER: Sorry, Sim. Archer to the shuttlepods. (The ship judders.)
+ARCHER: Sorry, Sim. Archer to the shuttlepods. 
+(The ship judders.)
 T'POL: We're moving. Point six two kilometres per hour. 
- [Shuttlepod
-Two] 
- TRAVIS:
-Twelve kilometres per hour and accelerating. 
- [Bridge]
- ARCHER:
-How much do we need? 
-T'POL: At this speed we'll emerge from the field in six point one
-hours. 
-ARCHER: That's good enough. Archer to shuttlepods one and two. Come on
-home. (to Sim) Well done.
+[Shuttlepod Two]
+TRAVIS: Twelve kilometres per hour and accelerating. 
+[Bridge]
+ARCHER: How much do we need? 
+T'POL: At this speed we'll emerge from the field in six point one hours. 
+ARCHER: That's good enough. Archer to shuttlepods one and two. Come on home. (to Sim) Well done.
 SIM: Thanks Captain. 
- [Sickbay]
- ARCHER:
-You wanted to see me? 
+[Sickbay]
+ARCHER: You wanted to see me? 
 PHLOX: There's been a development. 
 ARCHER: I'm listening. 
 PHLOX: Sim won't survive the transplant. 
 ARCHER: You told me you could remove the tissue without harming him. 
-PHLOX: That assessment was based on simbiots grown from Lyssarrian DNA.
-My tests on Sim show that human based simbiots are not as resilient. If
-I excise the quantity of neural tissue I need to save Commander Tucker,
-Sim will die. I'm sorry, Captain. 
- [Deleted
-scene - Engineering] 
+PHLOX: That assessment was based on simbiots grown from Lyssarrian DNA. My tests on Sim show that human based simbiots are not as resilient. If I excise the quantity of neural tissue I need to save Commander Tucker, Sim will die. I'm sorry, Captain. 
+[Deleted scene - Engineering] 
 T'POL: Your shift ended ninety minutes ago. 
 SIM: Just want to get these initiators in place. 
 T'POL: You've been working for eighteen straight hours. 
-SIM: If you had five days left, would you spend them sleeping? Besides,
-tomorrow morning I'm walking into Sickbay to donate some of my unneeded
-neural tissue. Which means that pretty soon I'll be answering to the
-real Trip, and if I know him, he's going to want these engines in as
-good a shape as they can be. 
-T'POL: I haven't commended you on the successful implementation of your
-plan. You saved the ship. 
+SIM: If you had five days left, would you spend them sleeping? Besides, tomorrow morning I'm walking into Sickbay to donate some of my unneeded neural tissue. Which means that pretty soon I'll be answering to the real Trip, and if I know him, he's going to want these engines in as good a shape as they can be. 
+T'POL: I haven't commended you on the successful implementation of your plan. You saved the ship. 
 SIM: I appreciate that. 
 T'POL: (noticing monitor display) Lyssarrian Desert Larva. 
-SIM: I wanted to learn something about my own species, so I've been
-doing a little research. Mostly on lifespans. Did you know that at one
-time in history human beings lived an average of only thirty five
-years? The average Vulcan lifespan was only forty? 
+SIM: I wanted to learn something about my own species, so I've been doing a little research. Mostly on lifespans. Did you know that at one time in history human beings lived an average of only thirty five years? The average Vulcan lifespan was only forty? 
 T'POL: Your point? 
-SIM: Just that both species expend a lot of effort to change those
-statistics. I guess it's just natural for people to want to stick
-around for as long as possible. 
- [Sickbay]
- SIM:
-Why not give up my life? I've only got five, six days left anyway.
+SIM: Just that both species expend a lot of effort to change those statistics. I guess it's just natural for people to want to stick around for as long as possible. 
+[Sickbay]
+SIM: Why not give up my life? I've only got five, six days left anyway.
 ARCHER: That isn't how we see it.
-SIM: Let me ask you something, Doc. When you researched Lyssarrian
-larvae did you come across any references to the Velandran Circe? 
-PHLOX: They were a group of Lyssarrian scientists who conducted illegal
-experiments on simbiots. They claimed to have developed an enzyme that
-stopped the rapid aging process. 
+SIM: Let me ask you something, Doc. When you researched Lyssarrian larvae did you come across any references to the Velandran Circe? 
+PHLOX: They were a group of Lyssarrian scientists who conducted illegal experiments on simbiots. They claimed to have developed an enzyme that stopped the rapid aging process. 
 ARCHER: Is there any truth to it? 
 SIM: Why do you think he kept it a secret? 
 ARCHER: Doctor? 
-PHLOX: The enzyme is experimental, with very little empirical evidence
-to suggest that it works. That's why I didn't mention it. 
-SIM: There's not much evidence, but it exists. The fact is, I may not
-have to grow old and die in a week. There's a chance that I can live
-out a normal lifespan. I can't change what happened to him but maybe I
-can change what's going to happen to me. 
- [Trip's
-quarters] 
- SIM:
-Come in. 
+PHLOX: The enzyme is experimental, with very little empirical evidence to suggest that it works. That's why I didn't mention it. 
+SIM: There's not much evidence, but it exists. The fact is, I may not have to grow old and die in a week. There's a chance that I can live out a normal lifespan. I can't change what happened to him but maybe I can change what's going to happen to me. 
+[Trip's quarters]
+SIM: Come in. 
 ARCHER: How long have you been staying here? 
 SIM: I was on the way to my room last night, but I came here instead. 
 ARCHER: These are Trip's quarters. 
-SIM: Which is where I belong. I have his memories, I have his feelings,
-I have his body. How am I not Trip? 
+SIM: Which is where I belong. I have his memories, I have his feelings, I have his body. How am I not Trip? 
 ARCHER: Commander Tucker is lying in Sickbay. 
-SIM: Then what am I? Just something you grew in a lab? Does that make
-it easier for you to condemn me to death? 
-ARCHER: If you refuse to go through with this you'll be condemning Trip
-to death. 
+SIM: Then what am I? Just something you grew in a lab? Does that make it easier for you to condemn me to death? 
+ARCHER: If you refuse to go through with this you'll be condemning Trip to death. 
 SIM: I didn't put him in a coma. 
 ARCHER: No, but you can save him. 
 SIM: In a way I will, by saving myself. 
 ARCHER: Phlox says there's almost no chance that the enzyme will work. 
 SIM: My life is at stake! Any chance is worth taking. 
-ARCHER: But at what cost? It'll take a day to synthesise the enzyme. By
-that time your neural tissue won't be compatible with Trip's anymore.
-He'll die. 
+ARCHER: But at what cost? It'll take a day to synthesise the enzyme. By that time your neural tissue won't be compatible with Trip's anymore. He'll die. 
 SIM: I know. 
 ARCHER: I can't let that happen. 
-SIM: So what are you going to do? Drag me down to Sickbay, force me
-onto a biobed at gunpoint? 
-ARCHER: If you truly have all of Trip's memories, you know the answer
-to that. I don't have to tell you what's at stake. I must complete this
-mission, and to do that I need Trip. Trip! I'll take whatever step's
-necessary to save him. 
+SIM: So what are you going to do? Drag me down to Sickbay, force me onto a biobed at gunpoint? 
+ARCHER: If you truly have all of Trip's memories, you know the answer to that. I don't have to tell you what's at stake. I must complete this mission, and to do that I need Trip. Trip! I'll take whatever step's necessary to save him. 
 SIM: Even if it means killing me. 
 ARCHER: Even if it means killing you. 
 SIM: You're not a murderer. 
 ARCHER: Don't make me one. 
- [Engineering]
- SIM: I
-was wondering if there's anything I can still do. Maybe there's a panel
-I can install or something. I've got a few hours to kill before my
-operation. 
+[Engineering]
+SIM: I was wondering if there's anything I can still do. Maybe there's a panel I can install or something. I've got a few hours to kill before my operation. 
 T'POL: You wish to spend your last hours in Engineering? 
 SIM: Why not? The two things I care most about are in this room. 
 T'POL: If you'd like, the A3 injector port needs replacing. 
 SIM: I'll get right on it. 
 (Instead, he goes to a computer screen and starts doing something.) 
- [Bridge]
- ARCHER:
-What's the problem? 
+[Bridge]
+ARCHER: What's the problem? 
 REED: Someone's rerouted the Launch Bay controls. We're shut out. 
 ARCHER: Archer to the Launch Bay. Come in. 
 HOSHI: Captain, I'm reading one person in there. 
- [Launch
-bay] 
-(Sim is sitting in the hatch of Pod One.)  SIM:
-I was all ready to do it. 
+[Launch bay]
+(Sim is sitting in the hatch of Pod One.) 
+SIM: I was all ready to do it. 
 ARCHER: What stopped you? 
-SIM: Where the hell was I going to go? We're nowhere near any habitable
-planet. Didn't really want to spend the rest of my life floating around
-in a shuttlepod which doesn't even have any toilet facilities. Can you
-imagine a lousier way to spend your old age? Cooped up in that thing,
-peeing in a bottle? Actually, I can imagine a worse fate. 
+SIM: Where the hell was I going to go? We're nowhere near any habitable planet. Didn't really want to spend the rest of my life floating around in a shuttlepod which doesn't even have any toilet facilities. Can you imagine a lousier way to spend your old age? Cooped up in that thing, peeing in a bottle? Actually, I can imagine a worse fate. 
 ARCHER: What would that be? 
-SIM: Being stuck in there with Malcolm. Damn, this is a screwed up
-situation. 
+SIM: Being stuck in there with Malcolm. Damn, this is a screwed up situation. 
 ARCHER: I can't argue with you there. 
-SIM: A lifetime in eight days. It's not that I'm scared of dying, it's
-just that I can't imagine not being here tomorrow. You want to know
-what really stopped me? 
+SIM: A lifetime in eight days. It's not that I'm scared of dying, it's just that I can't imagine not being here tomorrow. You want to know what really stopped me? 
 ARCHER: What? 
 SIM: My sister. And she was my sister as much as Trip's. 
 ARCHER: I believe that. 
 SIM: I don't want what happened to her to happen to anyone else. 
 ARCHER: That's why I gave the order to create you. 
-SIM: Do me a favour when this is over. If Commander Tucker decides to
-do any more modifications to the engines, tell him to watch his ass. 
- [Tucker's
-quarters] 
-(Sim is stroking Porthos when the intercom beeps.)  SIM:
-Yes. 
+SIM: Do me a favour when this is over. If Commander Tucker decides to do any more modifications to the engines, tell him to watch his ass. 
+[Tucker's quarters]
+(Sim is stroking Porthos when the intercom beeps.) 
+SIM: Yes. 
 PHLOX [OC]: We're ready for you. 
 SIM: On my way. 
-T'POL: May I come in? I just wanted to say how much your absence will
-affect the crew. How much it will affect me. 
-SIM: I appreciate that. All in all, I guess I've had a pretty good
-life. (T'Pol kisses him.) SIM: I couldn't have asked for a better going away
-present. 
- [Sickbay]
- SIM:
-I'm sorry I doubted you, Doc. 
+T'POL: May I come in? I just wanted to say how much your absence will affect the crew. How much it will affect me. 
+SIM: I appreciate that. All in all, I guess I've had a pretty good life. 
+(T'Pol kisses him.) 
+SIM: I couldn't have asked for a better going away present. 
+[Sickbay]
+SIM: I'm sorry I doubted you, Doc. 
 PHLOX: No need to apologise. 
-SIM: I'm serious. You see, I don't just remember Trip's childhood, I
-remember mine. You made a damn good father. 
+SIM: I'm serious. You see, I don't just remember Trip's childhood, I remember mine. You made a damn good father. 
 PHLOX: You were a damn good son. 
-SIM: You said to me once that commanding a starship was what you meant
-to do. I guess this is what I was meant to do. Good luck, Captain. 
-ARCHER: Thanks. (Sim goes into Tucker's cubicle.) 
-SIM: You owe me one. (Sim returns to lie on the
-biobed. Phlox injects him and his eyes close.) 
- [Armoury]
- ARCHER:
-We will never forget what he did for us, and for the ship he loved so
-much. We will go forward with renewed determination to complete this
-mission, so that his sacrifice won't just have been for the people on
-this ship, but for all the citizens of Earth. 
-(During the speech, the camera continues its pan around from the
-torpedo casing to Malcolm, Hoshi and Tucker.;Malcolm and Travis put the lid on the casket and torpedo case 2744506 is
-shot out into space.)  
+SIM: You said to me once that commanding a starship was what you meant to do. I guess this is what I was meant to do. Good luck, Captain. 
+ARCHER: Thanks. 
+(Sim goes into Tucker's cubicle.) 
+SIM: You owe me one. 
+(Sim returns to lie on the biobed. Phlox injects him and his eyes close.) 
+[Armoury]
+ARCHER: We will never forget what he did for us, and for the ship he loved so much. We will go forward with renewed determination to complete this mission, so that his sacrifice won't just have been for the people on this ship, but for all the citizens of Earth. 
+(During the speech, the camera continues its pan around from the torpedo casing to Malcolm, Hoshi and Tucker.;Malcolm and Travis put the lid on the casket and torpedo case 2744506 is shot out into space.) 
 

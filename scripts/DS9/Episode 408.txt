@@ -1,25 +1,17 @@
 Episode Number: 408
 The Deep Space Nine Transcripts - Dax
 Dax
-Stardate:
-46910.1
+Stardate: 46910.1
 Original Airdate: 15 Feb, 1993
-  Station
-log. stardate 46910.1. Chief O'Brien has escorted his wife back to
-Earth to celebrate her mother's hundredth birthday. In the meantime,
-the rest of us are trying to keep the station up and running.
+Station log. stardate 46910.1. Chief O'Brien has escorted his wife back to Earth to celebrate her mother's hundredth birthday. In the meantime, the rest of us are trying to keep the station up and running. 
 [Replimat]
-BASHIR: It's almost as though the re-filtration
-processors were waiting for Chief O'Brien to leave before breaking
-down. 
-DAX: The technology looks like something the Cardassians must have
-taken from the Romulans. Is that an RCL type one matrix field? 
+BASHIR: It's almost as though the re-filtration processors were waiting for Chief O'Brien to leave before breaking down. 
+DAX: The technology looks like something the Cardassians must have taken from the Romulans. Is that an RCL type one matrix field? 
 BASHIR: Perhaps we ought to call in a Romulan repair service. 
 DAX: Or an RCL type two? 
 BASHIR: Another raktajino? 
 DAX: It'll keep me up all night. 
-BASHIR: I can think of better ways of keeping you up. And they're more
-fun than drinking Klingon coffee 
+BASHIR: I can think of better ways of keeping you up. And they're more fun than drinking Klingon coffee 
 DAX: Definitely type one. 
 (A man is watching through the grating. He is joined by another.) 
 PEERS: Dax. 
@@ -27,40 +19,33 @@ DAX: I really should be getting to bed.
 BASHIR: May I escort you to your quarters? 
 DAX: That's not necessary, Julian. 
 BASHIR: Oh, well, good night then. 
-(Dax leaves, and the men come out of their hiding place to follow her.)
-BASHIR: Not necessary, Julian. But not forbidden, either.
-[Corridor] 
+(Dax leaves, and the men come out of their hiding place to follow her.) 
+BASHIR: Not necessary, Julian. But not forbidden, either. 
+[Corridor]
 TANDRO: Dax. 
 DAX: Yes? 
 TANDRO: You are Dax. 
 DAX: What do you want? 
 (They grab her just as Bashir comes round the corner) 
 BASHIR: Dax! 
-(Bashir hits Tandro then bumps his head against the bulkhead. An alien
-woman takes out Bashir while Dax fights the male. Her comm. badge is
-removed and she's knocked out. The aliens drag her away)
- [Ops]
+(Bashir hits Tandro then bumps his head against the bulkhead. An alien woman takes out Bashir while Dax fights the male. Her comm. badge is removed and she's knocked out. The aliens drag her away) 
+[Ops]
 SISKO: Yes, Major. 
 KIRA: I'm just not sure, Commander. What does it look like to you? 
-SISKO: It looks like a residual charge in the graviton generator. If
-that's what it is, it'll bleed off. Let's run a quick level three
-diagnostic, just to be sure.
- [Corridor] 
+SISKO: It looks like a residual charge in the graviton generator. If that's what it is, it'll bleed off. Let's run a quick level three diagnostic, just to be sure. 
+[Corridor]
 (Bashir recovers consciousness) 
 BASHIR: Bashir to Ops. 
- [Ops]
+[Ops]
 KIRA: Ops. 
-BASHIR [OC]: Three people
- [Corridor] 
+BASHIR [OC]: Three people 
+[Corridor]
 BASHIR: I think they just took Jadzia. 
 [Ops]
-BASHIR [OC]: She tried to struggle with them, and I
-tried to help
-SISKO: Full station security alert. Secure all turbolifts, seal off
-airlocks for levels four through twelve. Computer, locate Lieutenant
-Dax. 
+BASHIR [OC]: She tried to struggle with them, and I tried to help
+SISKO: Full station security alert. Secure all turbolifts, seal off airlocks for levels four through twelve. Computer, locate Lieutenant Dax. 
 COMPUTER: Lieutenant Dax is on level six, corridor one. 
-BASHIR [OC]: No, that's where I am.
+BASHIR [OC]: No, that's where I am. 
 [Corridor]
 BASHIR: They just left her comm. badge. 
 [Ops]
@@ -70,118 +55,81 @@ BASHIR: Oh, not sure, really.
 (Meanwhile, in another corridor) 
 DAX: What are you doing? 
 TANDRO: We turn right at the next corridor. Come on. 
- [Ops] 
+[Ops]
 (Odo is flicking through the CCTV cameras) 
-ODO: They're managing to avoid the security tracking grid. They seem to
-know a lot about the station. 
-KIRA: Then they may know the speed of our runabouts. If they do, they
-probably have a faster ship to make their escape. 
-SISKO: Major, survey all ships in dock with a high warp capability.
-Damn! 
+ODO: They're managing to avoid the security tracking grid. They seem to know a lot about the station. 
+KIRA: Then they may know the speed of our runabouts. If they do, they probably have a faster ship to make their escape. 
+SISKO: Major, survey all ships in dock with a high warp capability. Damn! 
 ODO: What? 
-SISKO: That's why we've got a residual charge in the graviton
-generator. They've disabled the tractor beam. 
-KIRA: We've got eight ships in dock capable of warp five or more. Three
-on docking pylons, five smaller ones in the ports. 
+SISKO: That's why we've got a residual charge in the graviton generator. They've disabled the tractor beam. 
+KIRA: We've got eight ships in dock capable of warp five or more. Three on docking pylons, five smaller ones in the ports. 
 SISKO: Seal off all docking ring airlocks. 
-ODO: Security. All duty squads to the docking ring. Commence immediate
-inward sweep, levels sixteen through twenty one.
- [Corridor]
-(Our bad guys override an airlock control)
- [Ops] 
+ODO: Security. All duty squads to the docking ring. Commence immediate inward sweep, levels sixteen through twenty one. 
+[Corridor]
+(Our bad guys override an airlock control) 
+[Ops]
 KIRA: I've got them. Airlock five. 
-ODO: I'm on my way. Security report to airlock corridor five. We have a
-hostage situation. 
+ODO: I'm on my way. Security report to airlock corridor five. We have a hostage situation. 
 KIRA: Isolating with cadderon force fields. 
- [Airlock] 
+[Airlock]
 DAX: Will you just tell me what you want? 
-(The forcefield stops them so Tandro gets to work with his gizmo and
-brings it down again) 
-TANDRO: Move.
- [Ops]
-KIRA: Force field is down. They know the security
-override codes. They're boarding a ship. 
-SISKO: I'm trying to speed up the bleed-off process in the graviton
-generator. 
+(The forcefield stops them so Tandro gets to work with his gizmo and brings it down again) 
+TANDRO: Move. 
+[Ops]
+KIRA: Force field is down. They know the security override codes. They're boarding a ship. 
+SISKO: I'm trying to speed up the bleed-off process in the graviton generator. 
 (The ship undocks.) 
 KIRA: We lost them. 
 SISKO: It's working. I'm increasing the flow to the EPS wave guides. 
 KIRA: The excess charge is neutralising. 
 SISKO: Engage tractor beam. 
 KIRA: Gotcha. 
-SISKO: Bring it in to docking port six, Major.
+SISKO: Bring it in to docking port six, Major. 
 [Airlock]
 ODO: Slowly. Extremities where I can see them. 
 TANDRO: You're the Chief of Security? 
 ODO: Are you all right? 
-TANDRO: My name is Ilon Tandro, special envoy from Klaestron Four in
-charge of this extradition procedure. 
+TANDRO: My name is Ilon Tandro, special envoy from Klaestron Four in charge of this extradition procedure. 
 SISKO: Extradition? I call this kidnapping and assault. 
-TANDRO: You'll find that to be a valid warrant for her arrest. The
-relevant treaty between Klaestron Four and your Federation allows for
-unilateral extradition. 
+TANDRO: You'll find that to be a valid warrant for her arrest. The relevant treaty between Klaestron Four and your Federation allows for unilateral extradition. 
 SISKO: And the charge? 
-TANDRO: The fugitive Dax is charged with treason and the murder of my
-father.
+TANDRO: The fugitive Dax is charged with treason and the murder of my father. 
 [Security office]
-ODO: The warrant says Dax was responsible for the
-death of General Ardelon Tandro thirty years ago. 
+ODO: The warrant says Dax was responsible for the death of General Ardelon Tandro thirty years ago. 
 SISKO: Thirty years ago? That would've been Curzon Dax. 
-ODO: when he was on Klaestron Four as a Federation mediator during
-their civil war. 
+ODO: when he was on Klaestron Four as a Federation mediator during their civil war. 
 SISKO: He never mentioned he'd even been to Klaestron Four. Strange. 
 ODO: Not so strange considering these charges. 
-SISKO: Odo, let me tell you something. Curzon Dax tended to be a little
-cavalier about life, even about his personal responsibilities from time
-to time. I think that was part of the reason I liked him so much. He
-had more faults than the usual socially acceptable Trill. He was not a
-murderer. 
-ODO: How about a traitor? It says Dax betrayed the Klaestron government
-to the rebels. 
+SISKO: Odo, let me tell you something. Curzon Dax tended to be a little cavalier about life, even about his personal responsibilities from time to time. I think that was part of the reason I liked him so much. He had more faults than the usual socially acceptable Trill. He was not a murderer. 
+ODO: How about a traitor? It says Dax betrayed the Klaestron government to the rebels. 
 SISKO: It's all nonsense, Constable. I'm telling you, I knew the man. 
-ODO: But did you know the symbiont inside the man?
+ODO: But did you know the symbiont inside the man? 
 [Dax's quarters]
 DAX: Come in. 
-SISKO: I've sent a subspace message to Klaestron Four requesting
-confirmation of the warrant. That's the only stall I could think of.
-Now, what the hell's going on, Dax? Dax, if I'm going to help you,
-you've got to help me. 
+SISKO: I've sent a subspace message to Klaestron Four requesting confirmation of the warrant. That's the only stall I could think of. Now, what the hell's going on, Dax? Dax, if I'm going to help you, you've got to help me. 
 DAX: I don't expect any help, Benjamin. Thank you, though. 
-SISKO: Are you crazy? Treason and murder. On Klaestron Four, either of
-those gets you the death penalty. What's the matter with you? Talk to
-me before I have to let these people take you. 
+SISKO: Are you crazy? Treason and murder. On Klaestron Four, either of those gets you the death penalty. What's the matter with you? Talk to me before I have to let these people take you. 
 DAX: No. I'm sorry, Benjamin, but no. 
 SISKO: We've got eighteen, twenty years of friendship behind us. 
-DAX: I'm Jadzia Dax now. That was Curzon Dax you knew for twenty years.
-SISKO: So when the Dax part of you survived from one host to the next,
-it really didn't take our friendship along. 
+DAX: I'm Jadzia Dax now. That was Curzon Dax you knew for twenty years. 
+SISKO: So when the Dax part of you survived from one host to the next, it really didn't take our friendship along. 
 DAX: Benjamin, you know you're still my very dear friend. I'm sorry. 
 [Commander's office]
-TANDRO: You've received your confirmation,
-Commander. Now we'd like to be on our way with the prisoner. 
-SISKO: You know, Mister Tandro, I kept wondering why you tried to
-kidnap Lieutenant Dax, rather than just present your warrant to me in
-the proper way. I couldn't figure that out at first. 
-TANDRO: I trust you have figured out, Commander, that our extradition
-treaty with your Federation is current and valid. 
+TANDRO: You've received your confirmation, Commander. Now we'd like to be on our way with the prisoner. 
+SISKO: You know, Mister Tandro, I kept wondering why you tried to kidnap Lieutenant Dax, rather than just present your warrant to me in the proper way. I couldn't figure that out at first. 
+TANDRO: I trust you have figured out, Commander, that our extradition treaty with your Federation is current and valid. 
 SISKO: This station is technically Bajoran. 
 TANDRO: What does that mean to us? 
-SISKO: You don't have an extradition treaty with Bajor. I think that's
-why you tried to abduct Lieutenant Dax. You were afraid the Bajorans
-would refuse extradition. 
+SISKO: You don't have an extradition treaty with Bajor. I think that's why you tried to abduct Lieutenant Dax. You were afraid the Bajorans would refuse extradition. 
 TANDRO: That's absurd. No Bajoran interests are even involved here. 
 KIRA: How did you know your way around the station so well? 
 TANDRO: My conversation is with the Commander. 
 SISKO: No, your conversation is with my First Officer now. 
-KIRA: You Klaestrons are allies of the Cardassians. Your knowledge of
-this station confirms that. They must have given you the layout, which
-not only compromises Bajoran security, but also annoys us. 
-SISKO: I'm afraid Bajoran interests are involved, and Bajor is adamant
-that. At least I believe it's adamant. 
+KIRA: You Klaestrons are allies of the Cardassians. Your knowledge of this station confirms that. They must have given you the layout, which not only compromises Bajoran security, but also annoys us. 
+SISKO: I'm afraid Bajoran interests are involved, and Bajor is adamant that. At least I believe it's adamant. 
 KIRA: Oh, yes. 
-SISKO: You see. There will have to be an extradition hearing before I
-can lawfully release Lieutenant Dax.
- [Quark's]
+SISKO: You see. There will have to be an extradition hearing before I can lawfully release Lieutenant Dax. 
+[Quark's]
 QUARK: For how long? 
 ODO: As long as it takes. 
 QUARK: That could be for days! 
@@ -191,445 +139,253 @@ ODO: I'm sure Lieutenant Dax would appreciate it.
 QUARK: Business is business. 
 ODO: You know, that wall's going to have to come in about five metres. 
 QUARK: What are you talking about? 
-ODO: Of course, after you move the wall that'll mean your second level
-holosuites'll have to come down. 
+ODO: Of course, after you move the wall that'll mean your second level holosuites'll have to come down. 
 QUARK: Come down? Why? 
 ODO: New restrictions. 
 QUARK: Restrictions? 
-ODO: Building codes. Since the provisional government took over,
-they've got their hands into everything and of course, I'm the one
-who's expected to enforce their rules here. You know, I think the bar
-is just a little too near the exit. 
+ODO: Building codes. Since the provisional government took over, they've got their hands into everything and of course, I'm the one who's expected to enforce their rules here. You know, I think the bar is just a little too near the exit. 
 QUARK: This is blackmail. 
 ODO: No, it's just business. And business is business. 
-[Promenade] 
-SISKO: I was just coming to see you. We still
-haven't found a place for the hearing. Holding it on Bajor would
-involve Dax leaving the station and I don't want to risk that. 
-ODO: Well, now that's a coincidence. Our good friend Quark just donated
-the use of his facility for the hearing. 
+[Promenade]
+SISKO: I was just coming to see you. We still haven't found a place for the hearing. Holding it on Bajor would involve Dax leaving the station and I don't want to risk that. 
+ODO: Well, now that's a coincidence. Our good friend Quark just donated the use of his facility for the hearing. 
 SISKO: Nice gesture. 
 ODO: I thought so. 
-SISKO: You know, I haven't been able to get a word out of Dax about any
-of this. So I thought someone might go do some investigating on
-Klaestron Four itself. What do you think? 
-ODO: This case has thirty years of dust covering it. The extradition
-hearing'll take about thirty minutes. 
+SISKO: You know, I haven't been able to get a word out of Dax about any of this. So I thought someone might go do some investigating on Klaestron Four itself. What do you think? 
+ODO: This case has thirty years of dust covering it. The extradition hearing'll take about thirty minutes. 
 SISKO: I'm hoping to make it a little longer than that. 
-ODO: Good luck.
- [Quark's] 
+ODO: Good luck. 
+[Quark's]
 (The lady Judge opens proceedings) 
-RENORA: This will be an informal hearing, so I'm going to start with
-some informal advice. I am one hundred years old. I do not have time to
-squander listening to superfluous language. In short, I intend being
-here until supper, not senility. Understood? 
+RENORA: This will be an informal hearing, so I'm going to start with some informal advice. I am one hundred years old. I do not have time to squander listening to superfluous language. In short, I intend being here until supper, not senility. Understood? 
 TANDRO: Understood, Madame Arbiter. 
 RENORA: You seek the extradition. Make your case. 
-TANDRO: The accused Trill, whatever its present appearance may be, was
-and is a Federation officer who committed capital crimes on our planet.
-Since there is no time limit on the prosecution of such crimes 
-RENORA: Thank you, I've already read the warrant and charges. The
-crimes described are thirty years old. What took you so long? 
-TANDRO: The evidence was contained in military files which were
-officially sealed until recently. 
-RENORA: Fine. Sit. Commander, the warrant is in order. On what grounds
-do you ask that I deny extradition? 
-SISKO: You say the warrant's in order. But the name on the warrant is
-Dax. Certainly that doesn't refer to Jadzia Dax, a female, but to the
-now deceased Curzon Dax, a male. This young woman wasn't even born
-thirty years ago. 
-TANDRO: You are arguing semantics. This creature is a Trill. The
-symbiont known as Dax has progressed from one host to the next. 
-SISKO: Exactly. From one host to the next. A different host, a
-different person. So I submit that the person he wants to extradite no
-longer exists, and I challenge him to prove otherwise. 
+TANDRO: The accused Trill, whatever its present appearance may be, was and is a Federation officer who committed capital crimes on our planet. Since there is no time limit on the prosecution of such crimes 
+RENORA: Thank you, I've already read the warrant and charges. The crimes described are thirty years old. What took you so long? 
+TANDRO: The evidence was contained in military files which were officially sealed until recently. 
+RENORA: Fine. Sit. Commander, the warrant is in order. On what grounds do you ask that I deny extradition? 
+SISKO: You say the warrant's in order. But the name on the warrant is Dax. Certainly that doesn't refer to Jadzia Dax, a female, but to the now deceased Curzon Dax, a male. This young woman wasn't even born thirty years ago. 
+TANDRO: You are arguing semantics. This creature is a Trill. The symbiont known as Dax has progressed from one host to the next. 
+SISKO: Exactly. From one host to the next. A different host, a different person. So I submit that the person he wants to extradite no longer exists, and I challenge him to prove otherwise. 
 TANDRO: That's ridiculous. 
-RENORA: It would have been easier on me, Commander, had you not raised
-that particular point. But the penalty for these crimes on your planet
-is death, and that is rather permanent. So before I grant extradition,
-you will convince me please, that the person named in your warrant is
-the person who is standing here now.
- [Commander's office]
-KIRA: She doesn't seem to care whether she gets out
-of this or not. 
-SISKO: I care. Doctor, we've given the opposition access to our
-computers and station library, so let's utilize them ourselves. I want
-you to find all the medical evidence you can to support the theory that
-Jadzia Dax and Curzon Dax are two entirely separate people. Major 
-BASHIR: Excuse me, sir. I don't know that there is any medical evidence
-on that. 
-SISKO: Assume there is, then find it. Major, I'm not asking you to be
-an attorney here, but if you could check the Federation computers for
-any precedents, legal decisions involving Trills. 
-KIRA: Is a Trill responsible for the conduct, for the acts of it's
-antecedent selves. 
+RENORA: It would have been easier on me, Commander, had you not raised that particular point. But the penalty for these crimes on your planet is death, and that is rather permanent. So before I grant extradition, you will convince me please, that the person named in your warrant is the person who is standing here now. 
+[Commander's office]
+KIRA: She doesn't seem to care whether she gets out of this or not. 
+SISKO: I care. Doctor, we've given the opposition access to our computers and station library, so let's utilize them ourselves. I want you to find all the medical evidence you can to support the theory that Jadzia Dax and Curzon Dax are two entirely separate people. Major 
+BASHIR: Excuse me, sir. I don't know that there is any medical evidence on that. 
+SISKO: Assume there is, then find it. Major, I'm not asking you to be an attorney here, but if you could check the Federation computers for any precedents, legal decisions involving Trills. 
+KIRA: Is a Trill responsible for the conduct, for the acts of it's antecedent selves. 
 SISKO: Right. That kind of thing. 
 KIRA: What if I find the answer's yes? 
-SISKO: Then that answer is wrong. From this minute on, our answer is
-no. But if you do find a wrong answer, I want to see it. I can't fight
-what I don't know about. 
-CREWMAN [OC]: Commander Sisko, there's a subspace communication from
-Odo on Klaestron Four. 
+SISKO: Then that answer is wrong. From this minute on, our answer is no. But if you do find a wrong answer, I want to see it. I can't fight what I don't know about. 
+CREWMAN [OC]: Commander Sisko, there's a subspace communication from Odo on Klaestron Four. 
 SISKO: We only have a few hours, people. 
 (Kira and Bashir leave) 
 SISKO: Constable What've you got for us? 
-ODO [on monitor]: Well, I know two things so far. Whoever did murder
-that General Ardelon Tandro, it got his troops so mad they went out and
-won their civil war. They made the General a national hero. There are
-statues of him all over the place. Second, everyone that's old enough
-to remember says the General and Curzon Dax were the closest of
-friends. Comrades, inseparable. 
+ODO [on monitor]: Well, I know two things so far. Whoever did murder that General Ardelon Tandro, it got his troops so mad they went out and won their civil war. They made the General a national hero. There are statues of him all over the place. Second, everyone that's old enough to remember says the General and Curzon Dax were the closest of friends. Comrades, inseparable. 
 SISKO: Now that sounds like the Curzon Dax I knew. 
-ODO [on monitor]: But treason, plus the murder of his own best friend?
-Strange business. If those charges are true, I'd want to hang Curzon
-Dax up by his heels myself. 
+ODO [on monitor]: But treason, plus the murder of his own best friend? Strange business. If those charges are true, I'd want to hang Curzon Dax up by his heels myself. 
 SISKO: Thanks for the confidence. 
-ODO [on monitor]: Don't worry, I'll do my job. The General left a
-widow. If the two men were that close, she has to remember something
-about Curzon Dax that's not in the record. You'll hear from me.
-[Enina Tandro's home] 
-ENINA: Curzon Dax was not responsible for the death
-of my husband. 
-(Enina is played by Fionulla Flanagan, who will be Data's
-'mother' later in the year.) 
+ODO [on monitor]: Don't worry, I'll do my job. The General left a widow. If the two men were that close, she has to remember something about Curzon Dax that's not in the record. You'll hear from me. 
+[Enina Tandro's home]
+ENINA: Curzon Dax was not responsible for the death of my husband. 
+(Enina is played by Fionulla Flanagan, who will be 
+Data's 'mother
+' later in the year.) 
 ODO: You're certain of that? 
 ENINA: Without a doubt. 
 ODO: But your own son 
-ENINA: My son is obsessed with the death of a father he never knew. Ohm
-I tried to persuade him not to reopen the case. He wouldn't listen to
-anyone, least of all to me. You have to understand. Curzon Dax was
-closer to the General than other any man on this planet. He was a dear
-friend to this family. Curzon would have died himself sooner than
-conspire against my husband. 
-ODO: Is that a personal opinion or are there any facts that would
-support this. 
-ENINA: The only facts I know are in my son's hands and he intends to
-use them against Dax. 
+ENINA: My son is obsessed with the death of a father he never knew. Ohm I tried to persuade him not to reopen the case. He wouldn't listen to anyone, least of all to me. You have to understand. Curzon Dax was closer to the General than other any man on this planet. He was a dear friend to this family. Curzon would have died himself sooner than conspire against my husband. 
+ODO: Is that a personal opinion or are there any facts that would support this. 
+ENINA: The only facts I know are in my son's hands and he intends to use them against Dax. 
 ODO: It might help my people to know what they are. 
-ENINA: There is proof of a secret transmission that was made from out
-military headquarters to the enemy camp. It identifies exactly the
-route my husband was taking on his way back from the capital to the
-front. It was at that time that he was ambushed and kidnapped. A short
-time later, he was killed. 
+ENINA: There is proof of a secret transmission that was made from out military headquarters to the enemy camp. It identifies exactly the route my husband was taking on his way back from the capital to the front. It was at that time that he was ambushed and kidnapped. A short time later, he was killed. 
 ODO: Then your son must believe that Dax made the transmission. 
-ENINA: There were only five people including my husband who knew that
-route. My son has established the whereabouts of all of them at the
-time of the transmission. All of them, except Curzon. 
+ENINA: There were only five people including my husband who knew that route. My son has established the whereabouts of all of them at the time of the transmission. All of them, except Curzon. 
 ODO: So Dax has no alibi. 
 ENINA: That cannot possibly be enough to convict him, can it? 
 ODO: I don't know. Thank you. You've been helpful. 
 ENINA: How is he? 
 ODO: Ma'am? 
 ENINA: Curzon Dax. 
-ODO: He's gone. The Dax your son is trying to extradite is Jadzia Dax,
-a twenty eight year old woman. Curzon Dax died two years ago. Jadzia is
-the new host. 
-ENINA: What? I'm sorry. I didn't know.
- [Quark's] 
-TANDRO: Madame Arbiter, I call on the expert
-knowledge of another Trill, Selin Peers. Minister Peers, we're
-fortunate to have you with us. 
-RENORA: Excuse me. It also seems rather convenient to have you with us.
-How do you come here? 
-PEERS: Because another Trill is involved, the Trillian government
-requested that I be present during the extradition. 
+ODO: He's gone. The Dax your son is trying to extradite is Jadzia Dax, a twenty eight year old woman. Curzon Dax died two years ago. Jadzia is the new host. 
+ENINA: What? I'm sorry. I didn't know. 
+[Quark's]
+TANDRO: Madame Arbiter, I call on the expert knowledge of another Trill, Selin Peers. Minister Peers, we're fortunate to have you with us. 
+RENORA: Excuse me. It also seems rather convenient to have you with us. How do you come here? 
+PEERS: Because another Trill is involved, the Trillian government requested that I be present during the extradition. 
 RENORA: And do you know the accused personally? 
 PEERS: I do not. 
 RENORA: We accept you as an expert on Trills. Proceed. 
 TANDRO: Minister, through how many hosts have you survived? 
-PEERS: The symbiont within me has survived through the adult lifetimes
-of seven hosts. 
+PEERS: The symbiont within me has survived through the adult lifetimes of seven hosts. 
 TANDRO: Do you remember your very first host? 
 PEERS: Of course. It was a woman, as a matter of fact. 
-TANDRO: Do you remember what you thought and felt when you were joined
-with your first host? 
-PEERS: Yes. The symbiont does carry memories of times shared with
-previous hosts. 
-TANDRO: So if a crime is committed by a Trill, then the symbiont's next
-host would remain aware of it, would recall that crime? 
+TANDRO: Do you remember what you thought and felt when you were joined with your first host? 
+PEERS: Yes. The symbiont does carry memories of times shared with previous hosts. 
+TANDRO: So if a crime is committed by a Trill, then the symbiont's next host would remain aware of it, would recall that crime? 
 PEERS: Yes, absolutely. 
 TANDRO: Would recall the details of it. 
 PEERS: Yes, absolutely. 
 TANDRO: And would still feel the guilt of it. 
 PEERS: Oh, yes. 
-SISKO: Madame Arbiter, this is not a trial and Mister Tandro is not the
-prosecutor. 
+SISKO: Madame Arbiter, this is not a trial and Mister Tandro is not the prosecutor. 
 RENORA: Mister Tandro, you have made your point. 
-TANDRO: I don't believe that I have, Madame Arbiter. The real point is
-that Commander Sisko would have you endorse his idea of a perfect Trill
-crime. To commit it, all one has to do is elude capture long enough to
-change hosts, and then he or she can go free. 
-SISKO: Minister Peers, you said you were with your first host
-throughout her adult life. 
+TANDRO: I don't believe that I have, Madame Arbiter. The real point is that Commander Sisko would have you endorse his idea of a perfect Trill crime. To commit it, all one has to do is elude capture long enough to change hosts, and then he or she can go free. 
+SISKO: Minister Peers, you said you were with your first host throughout her adult life. 
 PEERS: Yes. 
-SISKO: So, before a symbiont is joined with any host, that host has
-already lived a significant portion of his or her life from birth to
-what age, sir? 
+SISKO: So, before a symbiont is joined with any host, that host has already lived a significant portion of his or her life from birth to what age, sir? 
 PEERS: Early to mid-twenties. 
 SISKO: Why not younger? 
-PEERS: To give the prospective host the chance to develop, mature. They
-have to be old enough to make an informed judgement as to whether or
-not they really want to be joined. 
-SISKO: And once they are joined, this host's personality is completely
-suppressed by the symbiont? 
-PEERS: Oh, no. No, it's a joining. It's a total sharing, a blending, of
-both host and symbiont. Neither is suppressed by the other. 
-SISKO: So with each new host there does come in fact, a new
-personality, a new combined person. A different person. 
+PEERS: To give the prospective host the chance to develop, mature. They have to be old enough to make an informed judgement as to whether or not they really want to be joined. 
+SISKO: And once they are joined, this host's personality is completely suppressed by the symbiont? 
+PEERS: Oh, no. No, it's a joining. It's a total sharing, a blending, of both host and symbiont. Neither is suppressed by the other. 
+SISKO: So with each new host there does come in fact, a new personality, a new combined person. A different person. 
 PEERS: From that standpoint, yes. 
-SISKO: Well I for one don't know from what other standpoint we could be
-talking about. Thank you, Minister. 
-TANDRO: Just to return us to what's important here, Madame Arbiter, the
-accused can remember any crimes she committed as Curzon Dax and nothing
-can be truthfully asserted in this hearing that can alter that fact. 
-SISKO: Yes, the memories were passed to an entirely new host, to an
-entirely different person. 
+SISKO: Well I for one don't know from what other standpoint we could be talking about. Thank you, Minister. 
+TANDRO: Just to return us to what's important here, Madame Arbiter, the accused can remember any crimes she committed as Curzon Dax and nothing can be truthfully asserted in this hearing that can alter that fact. 
+SISKO: Yes, the memories were passed to an entirely new host, to an entirely different person. 
 TANDRO: This is outrageous. You can't let Dax get away with murder. 
-RENORA: Gentlemen, I said this would be an informal hearing, not
-riotous. We will take a two hour recess. 
+RENORA: Gentlemen, I said this would be an informal hearing, not riotous. We will take a two hour recess. 
 (Later) 
-RENORA: The answer seems simple enough to me. Split her down the
-middle. Send the symbiont back to stand trial and keep the host here. 
+RENORA: The answer seems simple enough to me. Split her down the middle. Send the symbiont back to stand trial and keep the host here. 
 BASHIR: I'm afraid it's a bit more complicated than that. 
 RENORA: Oh, what a surprise. Please enlighten me. 
-BASHIR: The symbiont and the host are biologically interdependent.
-Ninety three hours after they've joined, neither can survive without
-the other. 
+BASHIR: The symbiont and the host are biologically interdependent. Ninety three hours after they've joined, neither can survive without the other. 
 RENORA: I see. Proceed, Commander. 
-SISKO: Doctor, you've heard the arguments. From a medical viewpoint,
-are Curzon Dax and Jadzia Dax the same person. 
-BASHIR: Certainly not. Aside from the gender change, there's a marked
-difference in blood types, metabolisms, nervous system, height, weight.
+SISKO: Doctor, you've heard the arguments. From a medical viewpoint, are Curzon Dax and Jadzia Dax the same person. 
+BASHIR: Certainly not. Aside from the gender change, there's a marked difference in blood types, metabolisms, nervous system, height, weight. 
 TANDRO: This is not at all relevant. 
-BASHIR: What is relevant, sir, is my analysis of the brain waves of
-Curzon and Jadzia Dax. 
+BASHIR: What is relevant, sir, is my analysis of the brain waves of Curzon and Jadzia Dax. 
 SISKO: Madame Arbiter. 
 (Sisko gives her a PADD) 
-BASHIR: As you can see, they are distinctly different, which clearly
-illustrates that Curzon and Jadzia are two unique individuals. 
+BASHIR: As you can see, they are distinctly different, which clearly illustrates that Curzon and Jadzia are two unique individuals. 
 SISKO: Thank you, Doctor. 
-TANDRO: Doctor, I've looked through your research myself. It's quite
-impressive for such a young man. 
+TANDRO: Doctor, I've looked through your research myself. It's quite impressive for such a young man. 
 BASHIR: Thank you. 
-TANDRO: As a layman, there are obviously things I don't fully
-understand. 
+TANDRO: As a layman, there are obviously things I don't fully understand. 
 BASHIR: I'd be happy to explain anything you wish. 
 TANDRO: Yes? Well, exactly how does the Trill brain work? 
-BASHIR: It's quite complicated, actually. First of all, there are two
-cerebral nuclei. 
+BASHIR: It's quite complicated, actually. First of all, there are two cerebral nuclei. 
 TANDRO: Two? 
 BASHIR: One in the symbiont and one in the host. 
 TANDRO: Two brains. And these two brains talk to each other? 
 BASHIR: Like two computers linked together. 
-TANDRO: That's very clear, Doctor. Thank you. Now, in your
-investigations, were you able to analyse the separate wave patterns
-from each of these brains? 
+TANDRO: That's very clear, Doctor. Thank you. Now, in your investigations, were you able to analyse the separate wave patterns from each of these brains? 
 BASHIR: They don't function separately. 
-TANDRO: I didn't ask you how they function, Doctor Bashir. I asked if
-you could analyse the two distinct patterns. 
+TANDRO: I didn't ask you how they function, Doctor Bashir. I asked if you could analyse the two distinct patterns. 
 BASHIR: I just don't see the relevance of 
 TANDRO: Could you? 
 BASHIR: Yes. 
-TANDRO: And have the brainwave patterns of the symbiont changed since
-it joined with its new host? 
+TANDRO: And have the brainwave patterns of the symbiont changed since it joined with its new host? 
 BASHIR: With the available evidence, there's no way of telling. 
 TANDRO: What's your best guess? 
 BASHIR: I wouldn't care to guess. 
-TANDRO: In fact, is there evidence of any change at all in the symbiont
-since it joined with this new host? Yes or no. 
+TANDRO: In fact, is there evidence of any change at all in the symbiont since it joined with this new host? Yes or no. 
 BASHIR: (big pause) No. 
 TANDRO: Thank you, Doctor Bashir. You've been very helpful. 
 RENORA: Any more witnesses, Commander Sisko? 
-SISKO: Yes, Madame Arbiter. I'd like to call the one person in this
-courtroom who knew Curzon Dax. Me. 
+SISKO: Yes, Madame Arbiter. I'd like to call the one person in this courtroom who knew Curzon Dax. Me. 
 RENORA: You know where the witness stand is. 
-SISKO: With your permission, I'd like Major Kira will direct the
-questions. 
+SISKO: With your permission, I'd like Major Kira will direct the questions. 
 KIRA: Tell us a little about Curzon Dax, Commander. 
-SISKO: He probably wasn't the ideal Trill. He drank a little too much.
-He could be more interested in women than maybe he should've been. 
+SISKO: He probably wasn't the ideal Trill. He drank a little too much. He could be more interested in women than maybe he should've been. 
 KIRA: I thought he was your friend. 
-SISKO: I'm simply pointing out that he was not at all like the young
-woman in this courtroom. 
+SISKO: I'm simply pointing out that he was not at all like the young woman in this courtroom. 
 KIRA: What was, exactly, your relationship with Curzon Dax? 
-SISKO: He took a raw young Ensign under his wing and taught me to
-appreciate life in ways I'd never thought about before. He taught me
-about art and science and diplomacy. Whatever sense of honour I might
-have today, he nurtured. Treason, murder. He was not capable of those
-things. 
+SISKO: He took a raw young Ensign under his wing and taught me to appreciate life in ways I'd never thought about before. He taught me about art and science and diplomacy. Whatever sense of honour I might have today, he nurtured. Treason, murder. He was not capable of those things. 
 TANDRO: As you've already said, Commander, this is not a trial. 
-SISKO: I'm describing my friend, Curzon Dax. A man I knew very well. On
-the other hand, I can't tell you too much about my new friend there.
-We're really just getting to know each other. 
-TANDRO: Commander, Starfleet officers do have the reputation of being
-honourable and I judge you to be an honourable man. As an honourable
-man, do you think this crime should go unpunished? 
+SISKO: I'm describing my friend, Curzon Dax. A man I knew very well. On the other hand, I can't tell you too much about my new friend there. We're really just getting to know each other. 
+TANDRO: Commander, Starfleet officers do have the reputation of being honourable and I judge you to be an honourable man. As an honourable man, do you think this crime should go unpunished? 
 SISKO: I prefer no crime to go unpunished. 
-TANDRO: Then, if it were possible, even you would not argue with
-punishing the symbiont part of Dax. 
-SISKO: How can you be so sure that the symbiont was the criminal
-influence? What if it were the Curzon host that was responsible? Then
-the surviving symbiont would be completely innocent. 
-TANDRO: No. They'd both be guilty. You yourself have argued that the
-two personalities, once joined, function as one. Your own Doctor Bashir
-confirmed it. When you put salt in water, the two become
-indistinguishable and inseparable. 
-SISKO: I think you've just made my point for me. When the water boils
-off, the salt returns to its original state. Pour that same salt into
-another liquid, and you have something completely different. Jadzia Dax
-is an entirely new entity. 
-RENORA: Following a one hour recess, Lieutenant Dax will take the
-witness chair. One hour. 
+TANDRO: Then, if it were possible, even you would not argue with punishing the symbiont part of Dax. 
+SISKO: How can you be so sure that the symbiont was the criminal influence? What if it were the Curzon host that was responsible? Then the surviving symbiont would be completely innocent. 
+TANDRO: No. They'd both be guilty. You yourself have argued that the two personalities, once joined, function as one. Your own Doctor Bashir confirmed it. When you put salt in water, the two become indistinguishable and inseparable. 
+SISKO: I think you've just made my point for me. When the water boils off, the salt returns to its original state. Pour that same salt into another liquid, and you have something completely different. Jadzia Dax is an entirely new entity. 
+RENORA: Following a one hour recess, Lieutenant Dax will take the witness chair. One hour. 
 (Renora leaves) 
 SISKO: If you won't defend yourself, you're not going to testify. 
 KIRA: It's a hearing, not a trial. She has no choice. 
 (A crewman hands Kira a PADD) 
-KIRA: Odo's on subspace. It's urgent.
- [Commander's office] 
+KIRA: Odo's on subspace. It's urgent. 
+[Commander's office]
 ODO [on monitor]: I've made some progress. 
 SISKO: Good. 
-ODO [on monitor]: Not good. Since the transmission to the enemy is the
-key evidence, I thought it might be a good idea to go through all the
-communications logs from headquarters during that period. I even found
-Curzon Dax's records. 
-SISKO: You can't tell me Curzon would log in a communiqu� to the enemy.
-ODO [on monitor]: No. Nothing like that. But the log shows a number of
-conversations between Dax's office and General Tandro's home. 
+ODO [on monitor]: Not good. Since the transmission to the enemy is the key evidence, I thought it might be a good idea to go through all the communications logs from headquarters during that period. I even found Curzon Dax's records. 
+SISKO: You can't tell me Curzon would log in a communiqu� to the enemy. 
+ODO [on monitor]: No. Nothing like that. But the log shows a number of conversations between Dax's office and General Tandro's home. 
 SISKO: They were close friends. 
-ODO [on monitor]: A number of the conversations took place when the
-General was away at the front. 
+ODO [on monitor]: A number of the conversations took place when the General was away at the front. 
 SISKO: The wife? 
 ODO [on monitor]: The wife. 
 SISKO: Curzon Dax and Enina Tandro. 
-ODO [on monitor]: Maybe it was innocent. Maybe he was just providing a
-little emotional support during tough times. Or maybe they were taking
-advantage of the General's absence to get a little closer. If they were
-having an affair, that translates into a pretty solid motive for
-murder.
+ODO [on monitor]: Maybe it was innocent. Maybe he was just providing a little emotional support during tough times. Or maybe they were taking advantage of the General's absence to get a little closer. If they were having an affair, that translates into a pretty solid motive for murder. 
 [Enina Tandro's home]
-ODO: The conversations were just the beginning.
-I've also found records of gifts, of holidays spent at an inn outside
-the capital. 
+ODO: The conversations were just the beginning. I've also found records of gifts, of holidays spent at an inn outside the capital. 
 ENINA: What purpose does this serve? 
 ODO: It serves the truth. 
 ENINA: The truth. 
-ODO: If there's more to this than meets the eye, I hope you'll explain,
-because as it stands, this will severely hurt Dax's defence. 
-ENINA: My husband was not the hero in life that he was in death, Mister
-Odo. In death he became a legend, and I became a legend's wife. There
-are people who did not even know my husband who still contact me.
-Decades after his death, they still mourn him. 
+ODO: If there's more to this than meets the eye, I hope you'll explain, because as it stands, this will severely hurt Dax's defence. 
+ENINA: My husband was not the hero in life that he was in death, Mister Odo. In death he became a legend, and I became a legend's wife. There are people who did not even know my husband who still contact me. Decades after his death, they still mourn him. 
 ODO: But you don't. 
-ENINA: No, because I knew the man before he became a legend. But I also
-knew my place in history. My place is to carry on bravely, never to
-remarry, to represent my husband at the banquets given in his name. But
-never, never to talk about who he really was, because nobody wants to
-hear that. 
+ENINA: No, because I knew the man before he became a legend. But I also knew my place in history. My place is to carry on bravely, never to remarry, to represent my husband at the banquets given in his name. But never, never to talk about who he really was, because nobody wants to hear that. 
 ODO: They may have to hear it now. 
-ENINA: No matter what is said, they will still embrace his memory, for
-he was and will always be, the hero who died for his people. But
-perhaps it's time for my place in history to change.
- [Dax's quarters]
-SISKO: You've been protecting her reputation.
-That's it, isn't it? That's why you won't even defend yourself. There
-are worse things than an illicit love affair. Curzon didn't murder
-anybody. He didn't commit treason. Are you really willing to commit
-suicide over something done in another lifetime? That is what you're
-doing, you know. My God, Dax. Young Tandro, that wouldn't be your son? 
+ENINA: No matter what is said, they will still embrace his memory, for he was and will always be, the hero who died for his people. But perhaps it's time for my place in history to change. 
+[Dax's quarters]
+SISKO: You've been protecting her reputation. That's it, isn't it? That's why you won't even defend yourself. There are worse things than an illicit love affair. Curzon didn't murder anybody. He didn't commit treason. Are you really willing to commit suicide over something done in another lifetime? That is what you're doing, you know. My God, Dax. Young Tandro, that wouldn't be your son? 
 DAX: You have an overactive imagination, Benjamin. 
-SISKO: Then what is it that's holding you back? Help me. Damn it, if
-you were still a man. 
+SISKO: Then what is it that's holding you back? Help me. Damn it, if you were still a man. 
 (Sisko hits a support pillar instead) 
 DAX: I see your temper hasn't improved. 
 SISKO: Don't talk to me about my temper. 
 DAX: Curzon always warned you about it. 
 SISKO: You're not going to get me off track here. 
-DAX: Do you remember that Argosian lieutenant who threw a drink in your
-face? 
-SISKO: And you knocked me down with a right cross before I could kill
-him. I still have a little scar here from your ring finger. 
-DAX: I tried on that ring on after Curzon died. It just slipped off my
-finger. 
-SISKO: If you don't help me, old man, they're going to take you because
-I don't know any more arguments. 
+DAX: Do you remember that Argosian lieutenant who threw a drink in your face? 
+SISKO: And you knocked me down with a right cross before I could kill him. I still have a little scar here from your ring finger. 
+DAX: I tried on that ring on after Curzon died. It just slipped off my finger. 
+SISKO: If you don't help me, old man, they're going to take you because I don't know any more arguments. 
 DAX: Then allow it to happen. 
-SISKO: It is my an obligation to protect the lives of those in my
-command. You ought to know that. You taught it to me. 
+SISKO: It is my an obligation to protect the lives of those in my command. You ought to know that. You taught it to me. 
 DAX: That was Curzon. 
-SISKO: I'll stop trying to protect you the minute you tell me Curzon
-was guilty of these charges. 
-DAX: I won't discuss it with you. As for Enina Tandro, yes, I feel the
-shame of Curzon's indiscretions. When one of my kind stumbles,
-Benjamin, it is a mistake that's there forever. I can't tell you which
-part of Curzon Dax couldn't stop himself from acting shamefully with
-another man's wife. I can tell you that he did love her, for whatever
-that's worth. 
+SISKO: I'll stop trying to protect you the minute you tell me Curzon was guilty of these charges. 
+DAX: I won't discuss it with you. As for Enina Tandro, yes, I feel the shame of Curzon's indiscretions. When one of my kind stumbles, Benjamin, it is a mistake that's there forever. I can't tell you which part of Curzon Dax couldn't stop himself from acting shamefully with another man's wife. I can tell you that he did love her, for whatever that's worth. 
 SISKO: Enough to kill her husband? 
 DAX: So you are questioning? 
 SISKO: What else can I do? 
 DAX: Nothing, Benjamin. Nothing at all. 
- [Quark's]
-RENORA: Lieutenant Dax, you're either two hundred
-years older than I am or you're about the same age as my great
-granddaughter. At first I wondered which of those you were. Now I am
-bothered by the likelihood that you may be both. Let's finish this,
-Commander. 
-SISKO: At what age did the host, Jadzia, first want to be joined as a
-Trill? 
+[Quark's]
+RENORA: Lieutenant Dax, you're either two hundred years older than I am or you're about the same age as my great granddaughter. At first I wondered which of those you were. Now I am bothered by the likelihood that you may be both. Let's finish this, Commander. 
+SISKO: At what age did the host, Jadzia, first want to be joined as a Trill? 
 DAX: I wanted it since I was a child. I worked very hard for it. 
-SISKO: The competition to become a Trill is very strong, then, among
-potential hosts. 
+SISKO: The competition to become a Trill is very strong, then, among potential hosts. 
 DAX: Yes. It's considered a great honour. 
 SISKO: How did young Jadzia finally become a host candidate? 
-DAX: By winning scholarships, competing against other young people.
-You're tested in countless ways. 
-SISKO: Including psychological tests, to determine the strength of
-character of the prospective host. Is that true? 
+DAX: By winning scholarships, competing against other young people. You're tested in countless ways. 
+SISKO: Including psychological tests, to determine the strength of character of the prospective host. Is that true? 
 DAX: Yes. 
-SISKO: And the young Jadzia excelled in those tests of academics and
-character, of psychological stability. 
+SISKO: And the young Jadzia excelled in those tests of academics and character, of psychological stability. 
 DAX: Yes. 
-SISKO: If you can remember other things, remember that as well. What
-academic degrees do you hold, Lieutenant? 
-DAX: I hold Premier Distinctions in exobiology, zoology, astrophysics
-and exoarchaeology. 
-SISKO: How many of those degrees did you earn before you being joined
-with the symbiont Dax? 
+SISKO: If you can remember other things, remember that as well. What academic degrees do you hold, Lieutenant? 
+DAX: I hold Premier Distinctions in exobiology, zoology, astrophysics and exoarchaeology. 
+SISKO: How many of those degrees did you earn before you being joined with the symbiont Dax? 
 DAX: All of them. 
-SISKO: All of them. As Jadzia. Alone. This brilliant and independent
-young woman has done nothing in her life but contribute to her society.
-Madame Arbiter, how can anyone justify trying her for a crime allegedly
-committed by another entity before she was even born? 
-TANDRO: This will only take a minute. Lieutenant, as a Trill candidate,
-did Jadzia fully understand the responsibilities to be assumed upon
-becoming a Trill, and did you willingly accept those responsibilities,
-and whatever consequences they might entail? 
+SISKO: All of them. As Jadzia. Alone. This brilliant and independent young woman has done nothing in her life but contribute to her society. Madame Arbiter, how can anyone justify trying her for a crime allegedly committed by another entity before she was even born? 
+TANDRO: This will only take a minute. Lieutenant, as a Trill candidate, did Jadzia fully understand the responsibilities to be assumed upon becoming a Trill, and did you willingly accept those responsibilities, and whatever consequences they might entail? 
 DAX: Yes. 
-TANDRO: And would that not obviously include the consequences of
-criminal acts committed by Curzon Dax? 
+TANDRO: And would that not obviously include the consequences of criminal acts committed by Curzon Dax? 
 (Enina enters with Odo) 
 ENINA: May I speak? 
 RENORA: And you are? 
-ENINA: I am Enina Tandro, widow of General Ardelon Tandro. This hearing
-is unnecessary. The accusations are erroneous. 
+ENINA: I am Enina Tandro, widow of General Ardelon Tandro. This hearing is unnecessary. The accusations are erroneous. 
 TANDRO: Mother, what are you talking about? 
-ENINA: Madame Arbiter, Curzon Dax is accused of sending a transmission
-to the enemy that betrayed my husband. But I know where Curzon was at
-the exact time that transmission was sent. He was in my bed. 
-RENORA: Mister Tandro, you will want to re-examine your extradition
-request. Until then this hearing is adjourned. 
- [Promenade - upper level] 
-ENINA: You were kind to try and protect me. Someone
-you'd never even met. 
-DAX: There's much of Curzon that's still a part of me, that still
-remembers what you had together. 
-ENINA: But it was Curzon Dax who swore himself to silence to preserve
-the memory of General Tandro. Not Jadzia. 
-DAX: I felt it was important to keep that promise. The General's memory
-is cherished by your people. 
-ENINA: And it will continue to be. No one will ever know that he was
-the one who tried to betray us, and that the rebels killed him for the
-favour. As for you, there is one favour I would ask. 
+ENINA: Madame Arbiter, Curzon Dax is accused of sending a transmission to the enemy that betrayed my husband. But I know where Curzon was at the exact time that transmission was sent. He was in my bed. 
+RENORA: Mister Tandro, you will want to re-examine your extradition request. Until then this hearing is adjourned. 
+[Promenade - upper level]
+ENINA: You were kind to try and protect me. Someone you'd never even met. 
+DAX: There's much of Curzon that's still a part of me, that still remembers what you had together. 
+ENINA: But it was Curzon Dax who swore himself to silence to preserve the memory of General Tandro. Not Jadzia. 
+DAX: I felt it was important to keep that promise. The General's memory is cherished by your people. 
+ENINA: And it will continue to be. No one will ever know that he was the one who tried to betray us, and that the rebels killed him for the favour. As for you, there is one favour I would ask. 
 DAX: Of course. 
 ENINA: Live, Jadzia Dax. Live a long, fresh and wonderful life. 
 

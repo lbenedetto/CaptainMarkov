@@ -1,101 +1,55 @@
 Episode Number: 106
-The Next Generation Transcripts - Where No One Has Gone
-Before
-Where
-No One Has Gone Before
-Stardate:
-41263.1
+The Next Generation Transcripts - Where No One Has Gone Before
+Where No One Has Gone Before
+Stardate: 41263.1
 Original Airdate: 26 Oct, 1987
- 
-Captain's log, Stardate 41263.1. We have rendezvoused with the USS
-Fearless, from which a Starfleet propulsion expert and his assistant
-are beaming over to conduct tests on the Enterprise's warp drive
-engines. They have completed similar adjustments on two other Starfleet
-vessels.
+Captain's log, Stardate 41263.1. We have rendezvoused with the USS Fearless, from which a Starfleet propulsion expert and his assistant are beaming over to conduct tests on the Enterprise's warp drive engines. They have completed similar adjustments on two other Starfleet vessels. 
 [Bridge]
-PICARD: I don't understand your concern, Number
-One. They're not authorised to make any alterations in our engines, and
-according to Starfleet's report, they will simply test different ways
-of entering warp speed and different intermix formulas. What's the harm
-in that? 
-RIKER: It's the specs that Kosinski sent us. In my opinion, sir,
-they're gibberish. 
+PICARD: I don't understand your concern, Number One. They're not authorised to make any alterations in our engines, and according to Starfleet's report, they will simply test different ways of entering warp speed and different intermix formulas. What's the harm in that? 
+RIKER: It's the specs that Kosinski sent us. In my opinion, sir, they're gibberish. 
 PICARD: Gibberish? 
 RIKER: Mister Data, would you explain? 
-DATA: Sir, we put Mister Kosinski's specs into the computer and ran a
-controlled test on them. There was no improvement in engine
-performance. 
-PICARD: Then how do you explain Starfleet's report that the same tests
-on the USS Ajax and on the Fearless over there, resulted in a
-measurable increase in propulsion. 
-RIKER: Our engines are new, sir. Top condition. The tests on those
-older ships may have simply been to straighten out some engine
-inefficiency. 
-CHIEF [OC]: Bridge from Transporter Chief. Two from USS Fearless are
-ready to beam over. 
+DATA: Sir, we put Mister Kosinski's specs into the computer and ran a controlled test on them. There was no improvement in engine performance. 
+PICARD: Then how do you explain Starfleet's report that the same tests on the USS Ajax and on the Fearless over there, resulted in a measurable increase in propulsion. 
+RIKER: Our engines are new, sir. Top condition. The tests on those older ships may have simply been to straighten out some engine inefficiency. 
+CHIEF [OC]: Bridge from Transporter Chief. Two from USS Fearless are ready to beam over. 
 PICARD: Stand by for Commander Riker, Chief. He's on his way. 
 CHIEF [OC]: Aye, sir, 
 PICARD: Since you're concerned about these tests. 
-RIKER: Yes, sir. Captain, if I may, I'll ask Counsellor Troi to look
-these visitors over. 
+RIKER: Yes, sir. Captain, if I may, I'll ask Counsellor Troi to look these visitors over. 
 PICARD: Very good. 
 [Transporter room]
-RIKER: Welcome aboard, Mister Kosinski. I'm the
-First Officer, Commander William Riker, and this is 
+RIKER: Welcome aboard, Mister Kosinski. I'm the First Officer, Commander William Riker, and this is 
 KOSINSKI: Where is the Captain, please? 
 RIKER: He is engaged in other duties, sir. 
 KOSINSKI: A ship's engines should be a concern of the ship's Captain. 
-RIKER: They are, sir. Which is why they have made the First Officer
-directly responsible for an engine's condition
-and performance. Guided, of course, by one of our Chief Engineers,
-Lieutenant Commander Argyle in this case. 
+RIKER: They are, sir. Which is why they have made the First Officer directly responsible for an engine's condition and performance. Guided, of course, by one of our Chief Engineers, Lieutenant Commander Argyle in this case. 
 ARGYLE: A pleasure, sir. I appreciated receiving the specs. 
 KOSINSKI: To which you have no end of questions? 
 ARGYLE: Aye, I have. 
 RIKER: And you, sir, are listed as 
-TRAVELLER: As Mister Kosinski's assistant. My actual name is
-unpronounceable by humans. 
+TRAVELLER: As Mister Kosinski's assistant. My actual name is unpronounceable by humans. 
 RIKER: You're from Tau Alpha C. That's very distant. 
-KOSINSKI: All approved and described in the Starfleet communications.
-Now, I would like to set up in the Engine Room immediately. 
+KOSINSKI: All approved and described in the Starfleet communications. Now, I would like to set up in the Engine Room immediately. 
 RIKER: I'll have our Chief Engineer show you to his Engine Room. 
 KOSINSKI: No need. I know my way around starships. 
-(He barges between Riker and Argyle and out into the corridor, followed
-by his assistant, then Argyle) 
+(He barges between Riker and Argyle and out into the corridor, followed by his assistant, then Argyle) 
 RIKER: One thing that Kosinski isn't hiding, his bad disposition. 
-TROI: Agreed. Also, he's arrogant, overbearing, self-important, and
-very sure of himself and his ability. 
+TROI: Agreed. Also, he's arrogant, overbearing, self-important, and very sure of himself and his ability. 
 RIKER: And the other one, his assistant? 
-TROI: He's the puzzle. With most life forms I can usually feel
-something. I may not be able to understand or interpret it, but I feel
-something, if only a presence. With him, nothing. Empty space. It's as
-though he isn't even here. Something about this concerns me. I don't
-know what, I can't point out a reason yet. 
-RIKER: Stay concerned, please. The safety of the Enterprise may be
-entrusted to these two.
+TROI: He's the puzzle. With most life forms I can usually feel something. I may not be able to understand or interpret it, but I feel something, if only a presence. With him, nothing. Empty space. It's as though he isn't even here. Something about this concerns me. I don't know what, I can't point out a reason yet. 
+RIKER: Stay concerned, please. The safety of the Enterprise may be entrusted to these two. 
 [Engineering]
-(Kosinski sweeps into Engineering as if he owns it,
-entourage in tow) 
-KOSINSKI: Inform the Bridge I shall begin the first test in precisely
-fifteen minutes. Why is that child here? 
+(Kosinski sweeps into Engineering as if he owns it, entourage in tow) 
+KOSINSKI: Inform the Bridge I shall begin the first test in precisely fifteen minutes. Why is that child here? 
 (Wesley is at an ancillary station) 
-ARGYLE: He's working on a school project. Before you begin, there are
-some questions. First, tell us how you arrived 
-KOSINSKI: In order to save myself time, let me ask those questions for
-you. You received the information which Starfleet provided, you fed it
-into your computer as precisely as humanly possible, then you did a
-controlled test. And then, to your astonishment, nothing happened. So
-you said, what's going on? This doesn't work. Kosinski's a fraud. You
-see, I have had this conversation on other Starfleet vessels before.
-They didn't understand it. why should you? 
-(Meanwhile, the Traveller is interested in what Wesley is doing,
-looking over his shoulder) 
+ARGYLE: He's working on a school project. Before you begin, there are some questions. First, tell us how you arrived 
+KOSINSKI: In order to save myself time, let me ask those questions for you. You received the information which Starfleet provided, you fed it into your computer as precisely as humanly possible, then you did a controlled test. And then, to your astonishment, nothing happened. So you said, what's going on? This doesn't work. Kosinski's a fraud. You see, I have had this conversation on other Starfleet vessels before. They didn't understand it. why should you? 
+(Meanwhile, the Traveller is interested in what Wesley is doing, looking over his shoulder) 
 ARGYLE: Surely you're not saying it's unexplainable? 
-KOSINSKI: I'm saying I'm not a teacher, nor do I wish to become one. I
-have neither the inclination nor the time. 
+KOSINSKI: I'm saying I'm not a teacher, nor do I wish to become one. I have neither the inclination nor the time. 
 RIKER: You have all the time you need. 
-KOSINSKI: I don't think you understand. This has already been approved
-by Starfleet Command. 
+KOSINSKI: I don't think you understand. This has already been approved by Starfleet Command. 
 RIKER: But it hasn't been approved by the Chief Engineer or by me. 
 KOSINSKI: I didn't know that was necessary. 
 RIKER: Now you do. 
@@ -103,70 +57,45 @@ KOSINSKI: Perhaps I should speak to Captain Picard.
 RIKER: If you like. It won't change anything. 
 KOSINSKI: How basic shall I be? 
 RIKER: I'll leave that to you. 
-(They go over to the big multi-station console in the middle of the
-room) 
+(They go over to the big multi-station console in the middle of the room) 
 KOSINSKI: Would you get onto the auxiliary panel, please? 
 (Wesley gives up his console to the Traveller) 
-KOSINSKI: In order to save time, my assistant is going to lay in my
-base formulas more rapidly than any human being possibly could,
-including even myself. So, here then, in the simplest possible terms,
-what I do. Now, this warp drive system was tuned only in the grossest
-possible sense, at least according to my standards. What I do is
-specific. Thank you. Well, sufficient to say for now, these symbols
-(continues under Wesley and Traveller's whispered conversation) 
-TRAVELLER: Something troubles you with the way this is configured? How
-about it now? 
+KOSINSKI: In order to save time, my assistant is going to lay in my base formulas more rapidly than any human being possibly could, including even myself. So, here then, in the simplest possible terms, what I do. Now, this warp drive system was tuned only in the grossest possible sense, at least according to my standards. What I do is specific. Thank you. Well, sufficient to say for now, these symbols (continues under Wesley and Traveller's whispered conversation) 
+TRAVELLER: Something troubles you with the way this is configured? How about it now? 
 WESLEY: Yes. But shouldn't these be connected? Here and here. 
 TRAVELLER: Now will it do what Kosinski says it will? 
 WESLEY: It has a chance. It might work better this way. Yes. 
 (The Traveller is impressed with Wesley) 
-KOSINSKI: View with me if you will this screen as we consider the
-following. Now, is this merely mechanics or is it nature that we deal
-with in all of this? And what else than nature are the elementals of
-space and time? You are trained in the system. You go in a straight
-line, competent, yes, and perhaps even innovative in a minimalist way,
-but what I do here is not the end of the process, it is the beginning.
-So, what do I do? Go back to the Fearless, which I left with a more
-efficient warp drive than I found? Or do you cast off your ignorance
-and allow me to continue? 
+KOSINSKI: View with me if you will this screen as we consider the following. Now, is this merely mechanics or is it nature that we deal with in all of this? And what else than nature are the elementals of space and time? You are trained in the system. You go in a straight line, competent, yes, and perhaps even innovative in a minimalist way, but what I do here is not the end of the process, it is the beginning. So, what do I do? Go back to the Fearless, which I left with a more efficient warp drive than I found? Or do you cast off your ignorance and allow me to continue? 
 RIKER: Could anything he's proposing damage our system? 
 ARGYLE: How could it? It's meaningless. 
 RIKER: Then we should let him try it? 
-KOSINSKI: What do you mean, let he him try it? Don't talk about me in
-the third person like I'm not standing right here! 
+KOSINSKI: What do you mean, let he him try it? Don't talk about me in the third person like I'm not standing right here! 
 ARGYLE: Yes, we might as well let him try it. 
-KOSINSKI: Oh yes, we might as well let him try it. You are too
-generous. Boy! Boy, don't play with that.
+KOSINSKI: Oh yes, we might as well let him try it. You are too generous. Boy! Boy, don't play with that. 
 [Bridge]
 (Picard enters) 
 WORF: Captain, main Engineering is ready to proceed 
-.
-PICARD: Engineering, this is the Bridge. It's your call.
+. PICARD: Engineering, this is the Bridge. It's your call. 
 [Engineering]
-KOSINSKI: Do this one just like the last time.
-Nothing changes. Commander, I'll make my preliminary adjustments at
-warp one point five, and complete them as we achieve warp four. 
-RIKER: Engineering to bridge, did you copy that?
+KOSINSKI: Do this one just like the last time. Nothing changes. Commander, I'll make my preliminary adjustments at warp one point five, and complete them as we achieve warp four. 
+RIKER: Engineering to bridge, did you copy that? 
 [Bridge]
 PICARD: Affirmative, Number One. Are you ready? 
 [Engineering]
-RIKER: We are.
-PICARD [OC]: La Forge, set in warp one point five.
+RIKER: We are. 
+PICARD [OC]: La Forge, set in warp one point five. 
 [Bridge]
 LAFORGE: Warp one point five, sir. 
-PICARD: Engage.
+PICARD: Engage. 
 [Engineering]
 KOSINSKI: All right, here we go. 
-(Wesley watches the Traveller make adjustments on his console, while
-Kosinski taps at him. The Traveller turns to smile at Wesley) 
+(Wesley watches the Traveller make adjustments on his console, while Kosinski taps at him. The Traveller turns to smile at Wesley) 
 KOSINSKI: What are you doing? 
-(Consternation. The warp core appears to be racing. The Traveller puts
-his hands on the console and partially vanishes. The Enterprise takes
-off at ridiculous speed)
+(Consternation. The warp core appears to be racing. The Traveller puts his hands on the console and partially vanishes. The Enterprise takes off at ridiculous speed) 
 [Bridge]
 LAFORGE: Captain, we're passing warp ten! 
-(The viewscreen looks like the opening credits to Doctor Who. There's a
-jolt which throws the Traveller off his stool. Kosinski is clueless) 
+(The viewscreen looks like the opening credits to Doctor Who. There's a jolt which throws the Traveller off his stool. Kosinski is clueless) 
 PICARD: What is our velocity? 
 DATA: It's off the scale, sir. 
 PICARD: Reverse engines. 
@@ -179,215 +108,145 @@ PICARD: Position?
 LAFORGE: Calculating it, sir. Data, what do you read there? 
 DATA: Malfunction, I trust. 
 PICARD: Position, Mister La Forge. 
-LAFORGE: Well, sir, according to these calculations, we've not only
-left our own galaxy, but passed through
-two others, ending up on the far side of Triangulum. The galaxy known
-as M Thirty Three. 
+LAFORGE: Well, sir, according to these calculations, we've not only left our own galaxy, but passed through two others, ending up on the far side of Triangulum. The galaxy known as M Thirty Three. 
 PICARD: That's not possible. Data, what distance have we travelled? 
 DATA: Two million seven hundred thousand light years. 
 PICARD: I can't accept that. 
-DATA: You must, sir. Our comparisons show it to be completely accurate.
-LAFORGE: And I calculate that at maximum warp, sir it would take over
-three hundred years to get home. 
-Captain's log, stardate 41263.2. This will be a
-rather unusual log entry, assuming Starfleet ever receives it. As I
-have already informed my crew, a phenomenal surge of power during a
-warp speed experiment has sent our starship hurtling out of our own
-galaxy, past another, taking us over two million seven hundred thousand
-light years in a few minutes.
+DATA: You must, sir. Our comparisons show it to be completely accurate. 
+LAFORGE: And I calculate that at maximum warp, sir it would take over three hundred years to get home. 
+Captain's log, stardate 41263.2. This will be a rather unusual log entry, assuming Starfleet ever receives it. As I have already informed my crew, a phenomenal surge of power during a warp speed experiment has sent our starship hurtling out of our own galaxy, past another, taking us over two million seven hundred thousand light years in a few minutes. 
 [Bridge]
-LAFORGE: Message on this has been transmitted to
-Starfleet, sir. 
-DATA: Which, traveling subspace, they should receive in fifty-one
-years, ten months nine weeks, sixteen days 
+LAFORGE: Message on this has been transmitted to Starfleet, sir. 
+DATA: Which, traveling subspace, they should receive in fifty-one years, ten months nine weeks, sixteen days 
 PICARD: Mister Data! 
 DATA: Sir? 
 (Kosinski, Riker and Argyle enter) 
 KOSINSKI: Captain Picard, I presume? 
 RIKER: We're still trying to determine what happened, sir. 
-KOSINSKI: The truth is, Captain, I made a mistake. A wonderful,
-incredible mistake. 
+KOSINSKI: The truth is, Captain, I made a mistake. A wonderful, incredible mistake. 
 PICARD: Just explain what brought us here. 
-KOSINSKI: As the power grew, I applied the energy asymptomatically. I
-anticipated some tilling, but it didn't occur. Now that was my error,
-using the Bessel functions at the beginning. 
+KOSINSKI: As the power grew, I applied the energy asymptomatically. I anticipated some tilling, but it didn't occur. Now that was my error, using the Bessel functions at the beginning. 
 PICARD: What is he saying, Number One? 
-RIKER: To tell the truth, sir, it sounds to me like nonsense to me. But
-considering 
-PICARD: Considering where we are, we must assume it isn't.
+RIKER: To tell the truth, sir, it sounds to me like nonsense to me. But considering 
+PICARD: Considering where we are, we must assume it isn't. 
 [Engineering]
-WESLEY: Can I do something to help? I can call my
-mother. She's a doctor. 
-TRAVELLER: No, there's nothing she can do. I need to rest. I've been
-away too long. 
+WESLEY: Can I do something to help? I can call my mother. She's a doctor. 
+TRAVELLER: No, there's nothing she can do. I need to rest. I've been away too long. 
 WESLEY: What happened to you, is it part of what happened to the ship? 
-TRAVELLER: Please believe me, I mean no harm to this vessel or those in
-it. 
+TRAVELLER: Please believe me, I mean no harm to this vessel or those in it. 
 WESLEY: Is Mister Kosinski like he sounds? A joke? 
 TRAVELLER: No, that's too cruel. He has sensed some small part of it 
-WESLEY: That space and time and thought aren't the separate things they
-appear to be? I just thought the formula you were using said something
-like that. 
-TRAVELLER: Boy, don't ever say that again. And especially not at your
-age in a world that's not ready for such, such dangerous nonsense.
+WESLEY: That space and time and thought aren't the separate things they appear to be? I just thought the formula you were using said something like that. 
+TRAVELLER: Boy, don't ever say that again. And especially not at your age in a world that's not ready for such, such dangerous nonsense. 
 [Bridge]
-KOSINSKI: I've always suspected this rate of speed
-was possible, of course, but at this level? No, never.
-We're going to need new definitions. New parameters. 
+KOSINSKI: I've always suspected this rate of speed was possible, of course, but at this level? No, never. We're going to need new definitions. New parameters. 
 ARGYLE: Perhaps you could call it the Kosinski scale. 
-KOSINSKI: Why not? Yes, of course. Since I'm the one who has made the
-so-called warp barrier meaningless. And, Captain, this must be a
-special thrill for you. 
+KOSINSKI: Why not? Yes, of course. Since I'm the one who has made the so-called warp barrier meaningless. And, Captain, this must be a special thrill for you. 
 PICARD: Thrill? 
-KOSINSKI: As an explorer. In three centuries of space flight, we've
-charted just eleven percent of our galaxy. And then we accomplish this.
-PICARD: Yes, but isn't the real point, can you do it again? Can you get
-us home? 
-KOSINSKI: Of course I can. I'll just do what I did before. Coming,
-Riker? 
+KOSINSKI: As an explorer. In three centuries of space flight, we've charted just eleven percent of our galaxy. And then we accomplish this. 
+PICARD: Yes, but isn't the real point, can you do it again? Can you get us home? 
+KOSINSKI: Of course I can. I'll just do what I did before. Coming, Riker? 
 PICARD: Commander Riker will join you in a moment. 
 (Kosinski leaves) 
 PICARD: Comment is invited. Counsellor? 
 TROI: He's convinced he's right. I have no doubt of that. 
-WORF: Captain, can you allow a man who has made one mistake back into a
-position where he may make another? 
-LAFORGE: Captain, what are our options really? I mean, if this guy
-can't get us back, who will? 
-DATA: Captain, we're here. Why not avail ourselves of this opportunity
-for study? There is a giant protostar here in the process of forming.
-No other vessel has been out this far. 
-PICARD: Spoken like a true Starfleet graduate. It is tempting, eh,
-Number One? 
+WORF: Captain, can you allow a man who has made one mistake back into a position where he may make another? 
+LAFORGE: Captain, what are our options really? I mean, if this guy can't get us back, who will? 
+DATA: Captain, we're here. Why not avail ourselves of this opportunity for study? There is a giant protostar here in the process of forming. No other vessel has been out this far. 
+PICARD: Spoken like a true Starfleet graduate. It is tempting, eh, Number One? 
 RIKER: Aye, sir, it is. But as they say, sir, you're the Captain. 
-PICARD: I know that if Kosinski can get us home, Starfleet can use his
-technique to bring back a pure science vessel to do even more. Number
-One, tell Kosinski prepare to get us out of here. 
-RIKER: Aye, sir.
+PICARD: I know that if Kosinski can get us home, Starfleet can use his technique to bring back a pure science vessel to do even more. Number One, tell Kosinski prepare to get us out of here. 
+RIKER: Aye, sir. 
 [Engineering]
-KOSINSKI: Do you realise how many great
-advancements of mankind have been tied to speed? This is a moment in
-history. Right here, right now. And your names will be forever linked
-with mine. 
+KOSINSKI: Do you realise how many great advancements of mankind have been tied to speed? This is a moment in history. Right here, right now. And your names will be forever linked with mine. 
 WESLEY: Excuse me, Commander Riker. I don't think he did this. I think 
 RIKER: Not now, Wes. 
 PICARD [OC]: Standing by, Number One. 
 WESLEY: But sir, when this all happened, I was watching his assistant 
-RIKER: I'm sure it was fascinating, Wesley. I am looking forward to
-hearing about it. But not right now. 
+RIKER: I'm sure it was fascinating, Wesley. I am looking forward to hearing about it. But not right now. 
 RIKER: Aye, sir. 
 KOSINSKI: (to the Traveller) Come on. 
 WESLEY: He's too tired. Why don't you do it by yourself? 
 KOSINSKI: Yes, why not? 
 TRAVELLER: No, I will help. 
-KOSINSKI: As you wish.
+KOSINSKI: As you wish. 
 [Bridge]
-LAFORGE: I've laid in the reciprocal course back,
-Captain.
+LAFORGE: I've laid in the reciprocal course back, Captain. 
 [Engineering]
-KOSINSKI: Tell the captain I am ready, First
-Officer. 
+KOSINSKI: Tell the captain I am ready, First Officer. 
 RIKER: We're ready for you to engage, Captain. 
-PICARD [OC]: As before
+PICARD [OC]: As before 
 [Bridge]
 PICARD: Begin at warp one point five. 
-LAFORGE: Warp one point five, sir.
+LAFORGE: Warp one point five, sir. 
 [Engineering]
 KOSINSKI: This isn't working. 
-(Seen only by Wesley, the Traveller vanishes and reappears again. Then
-Riker notices as Enterprise head off at totally ridiculous speed down a
-StarGate wormhole effect)
+(Seen only by Wesley, the Traveller vanishes and reappears again. Then Riker notices as Enterprise head off at totally ridiculous speed down a StarGate wormhole effect) 
 [Bridge]
 PICARD: All stop. 
 LAFORGE: Answering all stop, Captain. 
-DATA: According to the instruments, sir, our speed never exceeded warp
-one point five. 
+DATA: According to the instruments, sir, our speed never exceeded warp one point five. 
 LAFORGE: All stopped, sir. 
 PICARD: Yes, but where is this place? 
 (Lights are dancing in a blue scene) 
-DATA: Where none have gone before.
-Captain's log, stardate 41263.3. Instead of
-returning to our own galaxy, the Enterprise has gone forward
-to a place in the universe which is uncharted and unknown. Our present
-position puts us at over a billion light years from our galaxy.
+DATA: Where none have gone before. 
+Captain's log, stardate 41263.3. Instead of returning to our own galaxy, the Enterprise has gone forward to a place in the universe which is uncharted and unknown. Our present position puts us at over a billion light years from our galaxy. 
 [Bridge]
-PICARD: Data, you have the helm. I'll be in
-Engineering. 
+PICARD: Data, you have the helm. I'll be in Engineering. 
 (Picard leaves) 
-(There is a grunting sound, and Worf turns to see what looks like a
-hairy pig with a horn and wicked looking spines) 
+(There is a grunting sound, and Worf turns to see what looks like a hairy pig with a horn and wicked looking spines) 
 TASHA: What is it? 
 WORF: A Klingon Targ! My pet. From home, but when I was a child. 
 TASHA: You're telling me that's a kitty-cat? 
 WORF: Yes, I suppose you could call it that. 
-(The Targ vanishes, and a ginger cat lands on Tasha's console)
+(The Targ vanishes, and a ginger cat lands on Tasha's console) 
 [Turbolift]
-(The turbolift doors open, and Picard nearly steps
-out - into space rushing by at warp speed. He pulls himself back in,
-the doors close then open again into an ordinary corridor. He steps out
-carefully)
+(The turbolift doors open, and Picard nearly steps out - into space rushing by at warp speed. He pulls himself back in, the doors close then open again into an ordinary corridor. He steps out carefully) 
 [Bridge]
 (Tasha is fondling the cat) 
-TASHA: You darling, what are you doing here?
+TASHA: You darling, what are you doing here? 
 [Tunnel]
-(Then she's back on her home planet, and a rape
-gang is after her) 
+(Then she's back on her home planet, and a rape gang is after her) 
 TASHA: Now, run. This isn't a safe place at all. 
-(Someone puts a hand on her shoulder)
+(Someone puts a hand on her shoulder) 
 [Bridge]
 (Tasha jumps) 
 LAFORGE: Tasha, what's wrong? You look scared to death. 
-TASHA: I was, I was. This is crazy. I was at the colony where I grew
-up, being chased by a rape gang 
+TASHA: I was, I was. This is crazy. I was at the colony where I grew up, being chased by a rape gang 
 LAFORGE: Are you all right? Well, you're safe now. 
-(Elsewhere on board - a group in period costume is playing Mozart Eine
-Kliene Nachtmusik, except for one Starfleet violinist)
+(Elsewhere on board - a group in period costume is playing Mozart Eine Kliene Nachtmusik, except for one Starfleet violinist) 
 Corridor
-(Picard encounters a man and woman running from
-something) 
+(Picard encounters a man and woman running from something) 
 CREWMAN: Captain! Captain, we need help. 
 PICARD: What's wrong? 
 CREWMAN: Don't you see what's following us? 
 (They carry on running) 
-(Picard passes an open door and sees a ballerina in a golden tutu
-pirouetting) 
+(Picard passes an open door and sees a ballerina in a golden tutu pirouetting) 
 PICARD: Ensign, what are you doing? 
 (Her tutu becomes her uniform again) 
 (The violinist is sitting at a table, having a meal) 
-(Picard turns a corner and meets an elderly woman sitting at a tea
-table) 
-MAMAN: (french accent) You look tense, Jean-Luc. Come and have a cup of
-tea. 
+(Picard turns a corner and meets an elderly woman sitting at a tea table) 
+MAMAN: (french accent) You look tense, Jean-Luc. Come and have a cup of tea. 
 PICARD: Maman? 
-MAMAN: I'll make it good and strong, the way you like it. We will have
-a nice long talk. 
+MAMAN: I'll make it good and strong, the way you like it. We will have a nice long talk. 
 PICARD: This can't be. You've been 
 MAMAN: Dead? But I'm always with you, you know that. 
 PICARD: Yes, I've felt that. But why now, suddenly. 
-MAMAN: You mean out here? At what you say us the end of the universe?
-Or do you see this as the beginning of it? 
-PICARD: We believe it the outer rim. Maman, do you understand these
-things? Can you tell me where my ship is? What is this place? 
+MAMAN: You mean out here? At what you say us the end of the universe? Or do you see this as the beginning of it? 
+PICARD: We believe it the outer rim. Maman, do you understand these things? Can you tell me where my ship is? What is this place? 
 RIKER: Captain? You were reported headed for 
 PICARD: Just a moment, Number One! 
 (But the corridor is empty now) 
 RIKER: Can I help you, sir? 
-PICARD: No. No, let's help all of us. (goes to comm. panel) General
-quarters. Red Alert.
+PICARD: No. No, let's help all of us. (goes to comm. panel) General quarters. Red Alert. 
 [Engineering]
-(Crusher is examining the Traveller, who is lying
-on a padded bench) 
+(Crusher is examining the Traveller, who is lying on a padded bench) 
 ARGYLE: What is it Captain? Why are we at General quarters? 
-PICARD: I had to get everyone's attention. It was the quickest way.
-This is the Captain. This is not a drill. It seems that in this place,
-the world of the physical universe and the world of ideas is somehow
-intermixed. What we think 
+PICARD: I had to get everyone's attention. It was the quickest way. This is the Captain. This is not a drill. It seems that in this place, the world of the physical universe and the world of ideas is somehow intermixed. What we think 
 [Bridge]
-PICARD [OC]: Also becomes a reality. We must,
-therefore, I repeat, must begin controlling our thoughts.
+PICARD [OC]: Also becomes a reality. We must, therefore, I repeat, must begin controlling our thoughts. 
 [Corridor]
-PICARD [OC]: We will give you more on this as our
-understanding increases. The Enterprise will stay at full alert until
-the crisis is over.
+PICARD [OC]: We will give you more on this as our understanding increases. The Enterprise will stay at full alert until the crisis is over. 
 [Engineering]
 PICARD: (to Kosinski) What did you do? 
 RIKER: It wasn't him. It never was. It was his assistant. 
@@ -395,10 +254,8 @@ PICARD: What are you talking about?
 RIKER: Kosinski wasn't the one controlling the warp experiments. 
 KOSINSKI: It was me! 
 RIKER: The equations he punched in were nonsense, just as we thought. 
-KOSINSKI: I honestly thought it was me. I thought somehow, somehow I
-was operating on his level. 
-ARGYLE: It's also my fault, Captain. I should have realised it wasn't
-Kosinski. 
+KOSINSKI: I honestly thought it was me. I thought somehow, somehow I was operating on his level. 
+ARGYLE: It's also my fault, Captain. I should have realised it wasn't Kosinski. 
 PICARD: How could you? How could any of us? 
 RIKER: Wesley did. 
 PICARD: If you knew something, why didn't you say so? 
@@ -407,28 +264,19 @@ PICARD: He's unconscious. Why?
 CRUSHER: I'm not certain yet. 
 WESLEY: He phased, sir. 
 PICARD: What does that mean? 
-WESLEY: Parts of him disappeared and then came back. Nobody else was
-paying attention to him the first time.
-RIKER: When we saw it this time, he seemed to be struggling, fighting
-it. 
+WESLEY: Parts of him disappeared and then came back. Nobody else was paying attention to him the first time. RIKER: When we saw it this time, he seemed to be struggling, fighting it. 
 CRUSHER: He's dying. 
 PICARD: He mustn't. He's the only one who can get us back. 
-CRUSHER: Realistically, it does not seem possible.
-Captain's log, supplemental. Our position is
-unknown, and our only chance of returning to the known universe is a
-dying alien who is generally humanoid but with a physiology
-sufficiently different from our own to create medical problems in
-caring for him.
+CRUSHER: Realistically, it does not seem possible. 
+Captain's log, supplemental. Our position is unknown, and our only chance of returning to the known universe is a dying alien who is generally humanoid but with a physiology sufficiently different from our own to create medical problems in caring for him. 
 [Sickbay]
 (Crusher is tending the Traveller) 
 PICARD: Cause? 
-CRUSHER: I don't know. My equipment doesn't register his kind of life
-signs. I would have to guess exhaustion, fatigue. 
+CRUSHER: I don't know. My equipment doesn't register his kind of life signs. I would have to guess exhaustion, fatigue. 
 WESLEY: Is he going to be all right? 
 PICARD: What is the boy doing here? 
 WESLEY: Mom, he's my friend. 
-RIKER: You may want him here before we're done, sir. He seems to have
-developed some sort of special attachment to the boy. 
+RIKER: You may want him here before we're done, sir. He seems to have developed some sort of special attachment to the boy. 
 WESLEY: My name is Wesley, Commander Riker. 
 PICARD: He knows. We all know. Will he live? 
 CRUSHER: I'm not sure. 
@@ -436,10 +284,7 @@ PICARD: Wake him.
 CRUSHER: I recommend we let him come around in his own time. 
 PICARD: We don't have that luxury. Wake him. 
 CRUSHER: He could die, and with him any chance we have. 
-PICARD: Doctor. Wes. We all have other friends aboard this ship, too.
-If we stay here much longer we may lose the ability to distinguish
-between thought and reality. Now, regardless of the risk, wake him.
-Now. 
+PICARD: Doctor. Wes. We all have other friends aboard this ship, too. If we stay here much longer we may lose the ability to distinguish between thought and reality. Now, regardless of the risk, wake him. Now. 
 (Crusher gives the Traveller an injection) 
 PICARD: Do you recognise me? I'm the Captain and I need answers. 
 TRAVELLER: I'll do my best to provide 
@@ -452,105 +297,65 @@ TRAVELLER: Ah, place. No. There is no specific place I wish to go.
 PICARD: Then what is the purpose of your journey? 
 TRAVELLER: Curiosity. 
 PICARD: That's not an answer. 
-TRAVELLER: I have certain abilities. They give me an understanding of
-propulsion. I've been trading this for passage on Starfleet vessels. 
+TRAVELLER: I have certain abilities. They give me an understanding of propulsion. I've been trading this for passage on Starfleet vessels. 
 RIKER: And allowing Kosinski to take credit for what you did. 
 TRAVELLER: It seemed the sensible way. 
 PICARD: Until now. 
-TRAVELLER: Captain, I seek only transportation in order to see and
-experience your reality. I am no a threat to you, your ship or your
-crew. 
+TRAVELLER: Captain, I seek only transportation in order to see and experience your reality. I am no a threat to you, your ship or your crew. 
 WESLEY: He isn't, Captain. I know he isn't. 
-PICARD: Our reality? And in order to satisfy this curiosity, you have
-brought my ship and my crew into great risk. 
+PICARD: Our reality? And in order to satisfy this curiosity, you have brought my ship and my crew into great risk. 
 TRAVELLER: I have made some mistakes. 
-PICARD: Some mistakes? What mistakes could possibly explain these
-incredible explosions of velocity? 
+PICARD: Some mistakes? What mistakes could possibly explain these incredible explosions of velocity? 
 TRAVELLER: I don't know if I can put this in terms you'll understand. 
-PICARD: I believe there may be a warp speed that can get us beyond
-Galaxy M Thirty Three, but there is no velocity of any magnitude that
-can possibly bring us wherever this is. Is it true what our navigation
-sensors are telling us? Are we millions of light years away from where
-we were? 
+PICARD: I believe there may be a warp speed that can get us beyond Galaxy M Thirty Three, but there is no velocity of any magnitude that can possibly bring us wherever this is. Is it true what our navigation sensors are telling us? Are we millions of light years away from where we were? 
 TRAVELLER: Well, yes. 
 PICARD: Well, what got us here? 
 TRAVELLER: Thought. 
 PICARD: Thought? 
-TRAVELLER: You do understand, don't you that thought is the basis of
-all reality? The energy of thought, to put it in your terms, is very
-powerful. 
+TRAVELLER: You do understand, don't you that thought is the basis of all reality? The energy of thought, to put it in your terms, is very powerful. 
 KOSINSKI: That's not an explanation. 
-TRAVELLER: I have the ability to act like a lens which focuses thought.
-KOSINSKI: That's just so much nonsense. You're asking us to believe in
-magic. 
+TRAVELLER: I have the ability to act like a lens which focuses thought. 
+KOSINSKI: That's just so much nonsense. You're asking us to believe in magic. 
 TRAVELLER: Well yes, this could seem like magic to you. 
-PICARD: No. No, it actually makes sense to me. Only the power of
-thought could explain what has been happening. Especially out here. 
-TRAVELLER: Thought is the essence of where you are now. You do
-understand the danger, don't you? 
+PICARD: No. No, it actually makes sense to me. Only the power of thought could explain what has been happening. Especially out here. 
+TRAVELLER: Thought is the essence of where you are now. You do understand the danger, don't you? 
 PICARD: Chaos. What we think is what happens. 
-TRAVELLER: It pains me I was so careless, Captain. My intent was only
-to observe, not to cause this. You should not be here until your far,
-far distant future. Certainly not until you have learned control. 
+TRAVELLER: It pains me I was so careless, Captain. My intent was only to observe, not to cause this. You should not be here until your far, far distant future. Certainly not until you have learned control. 
 RIKER: You are from a different time, aren't you? 
-TRAVELLER: Well, no, not exactly from another time. Although as you
-understand the concept, yes, perhaps that term fits as well as any. 
+TRAVELLER: Well, no, not exactly from another time. Although as you understand the concept, yes, perhaps that term fits as well as any. 
 RIKER: And you have this ability to travel. 
 TRAVELLER: Yes. 
 RIKER: And others of your kind have the same ability? 
 TRAVELLER: Yes. 
-RIKER: Then why, in all of our history, is there no record of you or
-someone like you ever having visited us? 
-TRAVELLER: What wonderful arrogance. There is no record because we have
-not visited you before. 
+RIKER: Then why, in all of our history, is there no record of you or someone like you ever having visited us? 
+TRAVELLER: What wonderful arrogance. There is no record because we have not visited you before. 
 RIKER: Why not? 
-TRAVELLER: Well, up until now, if you'll forgive this, you've been
-uninteresting. It's only now that your life form merits serious
-attention. I'm sorry. 
+TRAVELLER: Well, up until now, if you'll forgive this, you've been uninteresting. It's only now that your life form merits serious attention. I'm sorry. 
 PICARD: What's happening? 
 CRUSHER: He's unconscious again. 
 PICARD: Revive him. 
 CRUSHER: Whatever you need from him, you'd better get it soon. 
-RIKER: If I may suggest, sir, that first leap out of our galaxy was, as
-he said, a mistake. 
+RIKER: If I may suggest, sir, that first leap out of our galaxy was, as he said, a mistake. 
 PICARD: Unless he was distracted by something. 
-RIKER: And it weakened him, in some way leading to the incredible leap
-out here. 
+RIKER: And it weakened him, in some way leading to the incredible leap out here. 
 KOSINSKI: Theory! 
 PICARD: Do you have any facts that fit this? Can you get us back? 
-KOSINSKI: Wait, Captain, not so fast. We have an opportunity here for
-scientific discovery. 
-PICARD: And we report our observations how? To whom? (to the Traveller)
-Can you get us back? 
+KOSINSKI: Wait, Captain, not so fast. We have an opportunity here for scientific discovery. 
+PICARD: And we report our observations how? To whom? (to the Traveller) Can you get us back? 
 TRAVELLER: I will try. 
-PICARD: Number One, take him down to main Engineering. I'll be on the
-Bridge. 
-WESLEY: No! He's very weak. TRAVELLER: The Captain's right. We must
-hurry. But first, I request a moment with the Captain. Alone. 
+PICARD: Number One, take him down to main Engineering. I'll be on the Bridge. 
+WESLEY: No! He's very weak. TRAVELLER: The Captain's right. We must hurry. But first, I request a moment with the Captain. Alone. 
 (Riker, Kosinski, Crusher and Wesley leave) 
 PICARD: Strange how he seems to care for you. 
-TRAVELLER: He will forget me in time, which is as it should be. It's
-Wesley I wanted to speak to you about. 
+TRAVELLER: He will forget me in time, which is as it should be. It's Wesley I wanted to speak to you about. 
 PICARD: The boy? 
-TRAVELLER: It's best you do not repeat this to the others, especially
-not to the mother. Whatever may happen, it is imperative that it
-proceed naturally. 
+TRAVELLER: It's best you do not repeat this to the others, especially not to the mother. Whatever may happen, it is imperative that it proceed naturally. 
 PICARD: I must get my ship back. Do we have time for this? 
-TRAVELLER: Oh, yes. He and a few like him are why I travel. You have it
-in your power to encourage him without interfering. 
+TRAVELLER: Oh, yes. He and a few like him are why I travel. You have it in your power to encourage him without interfering. 
 PICARD: Encourage him in what? 
-TRAVELLER: How shall I explain? Are you familiar with the intricacies
-of what is called here music? 
+TRAVELLER: How shall I explain? Are you familiar with the intricacies of what is called here music? 
 PICARD: Somewhat. 
-TRAVELLER: Such musical genius I saw in one of your ship's libraries.
-One called Mozart, who as a small child wrote astonishing symphonies. A
-genius who made music not only to be heard, but seen and felt beyond
-the understanding, the ability of others. Wesley is such a person. Not
-with music, but with the equally lovely intricacies of time, energy,
-propulsion. and the instruments of this vessel which allow all that to
-be played. You're right, I must hurry now. But you're right in
-something else. He is just a boy for now. He should be encouraged, but
-told none of this. 
+TRAVELLER: Such musical genius I saw in one of your ship's libraries. One called Mozart, who as a small child wrote astonishing symphonies. A genius who made music not only to be heard, but seen and felt beyond the understanding, the ability of others. Wesley is such a person. Not with music, but with the equally lovely intricacies of time, energy, propulsion. and the instruments of this vessel which allow all that to be played. You're right, I must hurry now. But you're right in something else. He is just a boy for now. He should be encouraged, but told none of this. 
 [Corridor]
 (Riker is waiting) 
 PICARD: We're going to get back home. Take him to Engineering. 
@@ -563,113 +368,69 @@ CREWMAN: How?
 PICARD: Think! Put the flame out in your thoughts. 
 (He eventually does so) 
 PICARD: Now, Get to your station and concentrate on your assignment. 
-CREWMAN: Yes, sir.
-Captain's log. Any time entry is meaningless. We
-have no choice but to repeat the same warp experiment. but wish one
-variation. A principal part of this warp formula will be the thoughts
-of everyone aboard the Enterprise. We have no idea exactly how this
-works. We understand only that the Traveller makes use of this somehow.
-It will be most important that those aboard avoid random thoughts that
-might change
-the reality of what we're attempting to do.
+CREWMAN: Yes, sir. 
+Captain's log. Any time entry is meaningless. We have no choice but to repeat the same warp experiment. but wish one variation. A principal part of this warp formula will be the thoughts of everyone aboard the Enterprise. We have no idea exactly how this works. We understand only that the Traveller makes use of this somehow. It will be most important that those aboard avoid random thoughts that might change the reality of what we're attempting to do. 
 [Bridge]
-PICARD: Do you have any further advice, Counsellor?
-TROI: When you begin the attempt, there will be stress, and it's only
-natural the crew's concentration will shift.
-TASHA: Plus some genuine fear, Captain. You can't notice what's
-happening outside without feeling some of that.
+PICARD: Do you have any further advice, Counsellor? 
+TROI: When you begin the attempt, there will be stress, and it's only natural the crew's concentration will shift.
+TASHA: Plus some genuine fear, Captain. You can't notice what's happening outside without feeling some of that.
 PICARD: All decks, all stations. 
 [Various parts of the ship]
-PICARD [OC]: This is the Captain speaking. All
-decks, I must have your full attention. In a few moments, as we attempt
-to warp back home, it is vital, absolutely vital, that you centre your
-thoughts on your duty or on the welfare of the one called the
-Traveller. 
+PICARD [OC]: This is the Captain speaking. All decks, I must have your full attention. In a few moments, as we attempt to warp back home, it is vital, absolutely vital, that you centre your thoughts on your duty or on the welfare of the one called the Traveller. 
 [Engineering]
-PICARD [OC]: Think of giving him some of your
-strength. Now, this is an order. You must try to do this. 
+PICARD [OC]: Think of giving him some of your strength. Now, this is an order. You must try to do this. 
 [Bridge]
-PICARD: And now, attempt to concentrate completely
-on your duty of the moment. Or on the Traveller, on his
-well being.
+PICARD: And now, attempt to concentrate completely on your duty of the moment. Or on the Traveller, on his well being. 
 [Engineering]
-PICARD [OC]: Think of him as someone you care
-deeply about. 
+PICARD [OC]: Think of him as someone you care deeply about. 
 [Bridge]
 PICARD: All decks, all stations. Battle stations. 
 [Engineering]
-TRAVELLER: I will need Kosinski back on the main
-computer.
+TRAVELLER: I will need Kosinski back on the main computer.
 KOSINSKI: You need me?
-TRAVELLER: Yes.
+TRAVELLER: Yes. 
 [Bridge]
-PICARD: Helm, set in warp one point five,
-retroactive course.
-LAFORGE: Warp one point five, retroactive two six one mark three one,
-sir.
+PICARD: Helm, set in warp one point five, retroactive course. 
+LAFORGE: Warp one point five, retroactive two six one mark three one, sir.
 PICARD: Bridge to Engineering. Stand by.
-TROI: I feel such an abundance of well being on the ship. It feels
-like, quite wonderful.
+TROI: I feel such an abundance of well being on the ship. It feels like, quite wonderful.
 RIKER [OC]: Engineering to Bridge, we're ready.
 PICARD: On my order, Mister Data, Mister La Forge. Engage.
 (The Enterprise whooshes off into streaks of light)
 PICARD: It's not happening. It's not enough.
-(Down in Engineering, Wesley senses something is wrong, and squeezes
-the Traveller's hand. Then the Traveller has a go at phasing.
-Enterprise disappears in a crack of light, and the Traveller does not
-rematerialise. The ship is back in what looks like normal space)
-DATA: Warp one point five, sir, which is what my instruments have read
-all along.
-LAFORGE: And our position reads exactly what it was before this sleigh
-ride began, sir.
+(Down in Engineering, Wesley senses something is wrong, and squeezes the Traveller's hand. Then the Traveller has a go at phasing. Enterprise disappears in a crack of light, and the Traveller does not rematerialise. The ship is back in what looks like normal space)
+DATA: Warp one point five, sir, which is what my instruments have read all along.
+LAFORGE: And our position reads exactly what it was before this sleigh ride began, sir.
 PICARD: Cease Red Alert. 
 DATA: Sleigh ride?
-LAFORGE: Or whatever you want to call it, Data. I don't have a proper
-name for it. 
+LAFORGE: Or whatever you want to call it, Data. I don't have a proper name for it. 
 (Riker enters) 
 RIKER: The Traveller's gone, sir. 
 PICARD: Gone? 
-RIKER: He's phased completely out of existence. At least, out of our
-existence. 
-PICARD: Attention all decks. This is to inform you that with your
-support the Traveller has returned us to our galaxy. However, he has
-now left us. Wherever he has gone, we wish him well. Have the boy sent
-to the Bridge, Number One. 
+RIKER: He's phased completely out of existence. At least, out of our existence. 
+PICARD: Attention all decks. This is to inform you that with your support the Traveller has returned us to our galaxy. However, he has now left us. Wherever he has gone, we wish him well. Have the boy sent to the Bridge, Number One. 
 RIKER: Wesley Crusher, report to the Bridge, on the double. 
 PICARD: Our next assignment is on this heading? 
 RIKER: Yes, sir. 
-PICARD: Mister Data, Mister La Forge, increase to warp five. Same
-heading. 
+PICARD: Mister Data, Mister La Forge, increase to warp five. Same heading. 
 DATA: Warp five, sir. 
 LAFORGE: On that same heading, sir. 
 (The turbolift doors open) 
 PICARD: Ah, Wesley. Come on the Bridge. Move! 
-PICARD: Commander Riker has told me how supportive you were in
-Engineering. Well done. At ease. Sit here in Command. 
+PICARD: Commander Riker has told me how supportive you were in Engineering. Well done. At ease. Sit here in Command. 
 RIKER: Captain, it's not allowed. Your orders. 
-PICARD: Oh, that's true. Well, I can't waive them again. Only
-commissioned officers. 
+PICARD: Oh, that's true. Well, I can't waive them again. Only commissioned officers. 
 WESLEY: It's quite all right, sir, I understand. 
 PICARD: Please don't interrupt me, Wesley. 
 WESLEY: I'm sorry, sir. 
 PICARD: Any commissioned rank? Even ensign? 
 RIKER: That would give him authorised access to the Bridge. 
-PICARD: Well, then, I'll have to make him an acting ensign. Captain's
-log, stardate 41263.4. For outstanding performance in the best of
-Starfleet tradition, Wesley Crusher is made Acting Ensign, with the
-duties and privileges of that rank. And whether that rank becomes
-permanent, Mister Crusher, depends on you. At the earliest opportunity,
-your entrance application for Starfleet Academy will be tendered. Until
-then, you will learn this ship. Every operation, every function.
-Commander Riker, a duty schedule for Mister Crusher, heavy on study. 
+PICARD: Well, then, I'll have to make him an acting ensign. Captain's log, stardate 41263.4. For outstanding performance in the best of Starfleet tradition, Wesley Crusher is made Acting Ensign, with the duties and privileges of that rank. And whether that rank becomes permanent, Mister Crusher, depends on you. At the earliest opportunity, your entrance application for Starfleet Academy will be tendered. Until then, you will learn this ship. Every operation, every function. Commander Riker, a duty schedule for Mister Crusher, heavy on study. 
 RIKER: Aye, sir. 
 PICARD: Meanwhile, you can sit here and learn something. 
 (Wesley perches on the end of the arch supporting the command seats) 
 RIKER: Sir, shall I send for Doctor Crusher? 
-PICARD: Why? Is someone ill? Or would you rather tell her about this,
-Wes? 
-WESLEY: If you don't mind, sir, I'd like to sit here awhile. I'll tell
-her later. 
-(Sorry folks, but Eugene Wesley Roddenberry has
-dumped his Mary-Sue character on us for the duration....) 
+PICARD: Why? Is someone ill? Or would you rather tell her about this, Wes? 
+WESLEY: If you don't mind, sir, I'd like to sit here awhile. I'll tell her later. 
+(Sorry folks, but Eugene Wesley Roddenberry has dumped his Mary-Sue character on us for the duration....)
 

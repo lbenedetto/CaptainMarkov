@@ -1,37 +1,28 @@
 Episode Number: 136
 The Next Generation Transcripts - The Dauphin
-The
-Dauphin
-Stardate:
-42568.8
+The Dauphin
+Stardate: 42568.8
 Original Airdate: 20 Feb, 1989
-  [Bridge]
+[Bridge]
 DATA: Sir, we are approaching Klavdia Three. 
 PICARD: Take us to impulse power. 
-GIBSON: (a young lady in Wesley's seat) Aye, sir. Impulse power.
+GIBSON: (a young lady in Wesley's seat) Aye, sir. Impulse power. 
 [Engineering]
 LAFORGE: Bridge, this is Engineering. 
 PICARD [OC]: Yes, Lieutenant. 
-LAFORGE: Now that we're out of warp, I'd like to use this time to make
-some routine adjustments on the deuterium control conduit. We're
-overdue.
+LAFORGE: Now that we're out of warp, I'd like to use this time to make some routine adjustments on the deuterium control conduit. We're overdue. 
 [Bridge]
-PICARD: How much time will these adjustments
-require, Lieutenant? 
+PICARD: How much time will these adjustments require, Lieutenant? 
 LAFORGE [OC]: A couple of hours, sir. 
-RIKER: Proceed, Lieutenant La Forge. Standard orbit, Ensign.
+RIKER: Proceed, Lieutenant La Forge. Standard orbit, Ensign. 
 [Engineering]
-LAFORGE: Wes, I'm going to need an SCM model three,
-from ship's stores. Can you handle that? 
+LAFORGE: Wes, I'm going to need an SCM model three, from ship's stores. Can you handle that? 
 WESLEY: Right away. 
 LAFORGE: All right. 
 [Bridge]
-(The planet on the viewscreen is a pale mustard
-colour) 
-PICARD: Magnify, Mister Worf. Hardly an inviting planet, even for a
-research establishment. 
-TROI: I would have thought the inhabitants of Daled Four would send a
-future leader to a more hospitable environment. 
+(The planet on the viewscreen is a pale mustard colour) 
+PICARD: Magnify, Mister Worf. Hardly an inviting planet, even for a research establishment. 
+TROI: I would have thought the inhabitants of Daled Four would send a future leader to a more hospitable environment. 
 WORF: For some, security is more important than comfort. 
 TROI: Yes, but sixteen years. 
 WORF: Captain, we're being hailed. 
@@ -42,65 +33,48 @@ ANYA [OC]: (very faint and static-ridden) I am Anya of
 DATA: Sir, the planet's troposphere is distorting our signal. 
 PICARD: Can you clean that up, Mister Worf? 
 WORF: I'll try. Now. 
-PICARD: This is Picard of the Enterprise. Please will you repeat your
-message? 
+PICARD: This is Picard of the Enterprise. Please will you repeat your message? 
 ANYA [OC]: I am Anya. Have you come for Salia of Daled Four? 
 PICARD: That is correct. 
 ANYA [OC]: What species are you? 
 PICARD: Human. 
 ANYA [OC]: Excellent. Bring us aboard. That is all. 
 RIKER: Friendly, isn't she? 
-PICARD: Friendly or not, Salia has the rank of head of state, so we
-will treat her and Anya accordingly. Number One, Mister Worf, let's go
-greet our visitors. You have the Bridge, Mister Data. 
-DATA: Aye, sir.
+PICARD: Friendly or not, Salia has the rank of head of state, so we will treat her and Anya accordingly. Number One, Mister Worf, let's go greet our visitors. You have the Bridge, Mister Data. 
+DATA: Aye, sir. 
 [Transporter room]
-(O'Brien beams a young woman and her older
-chaperone aboard. No luggage) 
+(O'Brien beams a young woman and her older chaperone aboard. No luggage) 
 PICARD: Welcome to the Enterprise. I'm Captain Picard. 
 ANYA: This is Salia of Daled Four. 
-SALIA: I didn't feel a thing. Is that normal when one is transported,
-Captain? 
+SALIA: I didn't feel a thing. Is that normal when one is transported, Captain? 
 PICARD: Oh, yes, it is. 
-SALIA: Those must be the matter energy conversion controls. May I take
-a look? 
+SALIA: Those must be the matter energy conversion controls. May I take a look? 
 PICARD: Yes, of course. 
 RIKER: I can arrange for a tour of the ship, if you'd like. 
 SALIA: Oh, I'd love that. 
-ANYA: No, that will not be necessary. Just show us to our quarters,
-Captain Picard. 
-PICARD: Very well.
+ANYA: No, that will not be necessary. Just show us to our quarters, Captain Picard. 
+PICARD: Very well. 
 [Corridor]
-PICARD: We're accommodating you in quarters
-normally reserved for Starfleet admiralty. I'm sure you'll find them
-quite comfortable. 
-(Wesley exits a turbolift as the party passes. The universe stands
-still as Salia smiles at him, then turns back to speak) 
+PICARD: We're accommodating you in quarters normally reserved for Starfleet admiralty. I'm sure you'll find them quite comfortable. 
+(Wesley exits a turbolift as the party passes. The universe stands still as Salia smiles at him, then turns back to speak) 
 SALIA: That's a superconducting magnet, isn't it? 
 WESLEY: Yes It's an SCM model. How did you know that? 
 SALIA: Study, for the last sixteen years it is all I could 
 ANYA: Please, Salia, walk ahead with me. 
-SALIA: Better be careful. Those can rip the iron right out of your
-blood cells. 
+SALIA: Better be careful. Those can rip the iron right out of your blood cells. 
 (The party moves on, minus Riker) 
 WESLEY: Commander, who is she? 
 RIKER: I think she's a governess. 
 WESLEY: No! The girl. 
-RIKER: I don't know if she'll have time for you, Wes. She's destined to
-rule an entire world.
+RIKER: I don't know if she'll have time for you, Wes. She's destined to rule an entire world. 
 [Wesley's quarters]
-(Wesley is preening in front of a full length
-mirror) 
+(Wesley is preening in front of a full length mirror) 
 WESLEY: Come in. 
 DATA: You wanted to see me? 
 WESLEY: Yes. Data, the girl who came on board. 
 DATA: Salia of Daled Four. 
 WESLEY: Who is she? 
-DATA: Little is known. She was born on Daled Four. Her parents were
-from opposite sides in a civil war which has lasted for centuries. They
-both died shortly after her birth. A Federation ship brought her and
-her governess to Klavdia Three so that she could be raised in a neutral
-environment. 
+DATA: Little is known. She was born on Daled Four. Her parents were from opposite sides in a civil war which has lasted for centuries. They both died shortly after her birth. A Federation ship brought her and her governess to Klavdia Three so that she could be raised in a neutral environment. 
 WESLEY: And now she's returning? 
 DATA: It is hoped she will unite the factions and bring peace. 
 LAFORGE [OC]: Ensign Crusher, report. Are you all right? 
@@ -108,14 +82,10 @@ WESLEY: Geordi? Yeah, I'm fine. I just
 LAFORGE [OC]: Wes, we're waiting for that magnet. 
 WESLEY: I'm on my way. 
 [Bridge]
-RIKER: Captain, we've broken orbit and laid in a
-course for Daled Four. We will remain on impulse power until Lieutenant
-La Forge completes his adjustments. 
-PICARD: Mister Worf, have our passenger's accommodations met with their
-approval? 
+RIKER: Captain, we've broken orbit and laid in a course for Daled Four. We will remain on impulse power until Lieutenant La Forge completes his adjustments. 
+PICARD: Mister Worf, have our passenger's accommodations met with their approval? 
 WORF: I doubt if anything ever meets with that woman's approval, sir. 
-TROI: Captain, I'm concerned our new passengers. Their emotions do not
-fit who they are and what they're doing. 
+TROI: Captain, I'm concerned our new passengers. Their emotions do not fit who they are and what they're doing. 
 PICARD: Are you suggesting they're not who they say they are? 
 TROI: Actually no, it's more like they're not what they say they are. 
 PICARD: Picard to Salia's quarters. 
@@ -123,56 +93,38 @@ SALIA [OC]: Yes?
 PICARD: May we turn on the viewer? 
 SALIA [OC]: Yes, of course.;
 PICARD: Are your quarters satisfactory? 
-SALIA [on viewscreen]: Yes, very. Tell me, Captain, who was the young
-man I met before? 
+SALIA [on viewscreen]: Yes, very. Tell me, Captain, who was the young man I met before? 
 [Salia's quarters]
-PICARD [on monitor]: That was Ensign Wesley
-Crusher. 
+PICARD [on monitor]: That was Ensign Wesley Crusher. 
 (Anya enters) 
-SALIA: Thank you for checking on us, Captain. I only hope our quarters
-on Daled Four will be this luxurious. 
-PICARD [on monitor]: Please feel free to contact me at any time. Picard
-out.
+SALIA: Thank you for checking on us, Captain. I only hope our quarters on Daled Four will be this luxurious. 
+PICARD [on monitor]: Please feel free to contact me at any time. Picard out. 
 [Bridge]
 TROI: What I sensed before hasn't changed. 
-DATA: What puzzles me, Captain, is how she is expected to bring peace
-to Daled Four. Its inhabitants have been fighting throughout their
-recorded history. 
+DATA: What puzzles me, Captain, is how she is expected to bring peace to Daled Four. Its inhabitants have been fighting throughout their recorded history. 
 PICARD: What do we know about the cause of these wars? 
 DATA: Only that it is the difference between night and day. 
 RIKER: Data, you used a colloquialism. 
-DATA: Did I? What I meant, sir, is that Daled Four rotates only once
-per revolution. Therefore one side is constantly dark, and the other
-side constantly light. One might surmise that the two hemispheres have
-developed disparate cultures, which is a major cause of most wars. 
+DATA: Did I? What I meant, sir, is that Daled Four rotates only once per revolution. Therefore one side is constantly dark, and the other side constantly light. One might surmise that the two hemispheres have developed disparate cultures, which is a major cause of most wars. 
 PICARD: This child is supposed to bring them together. 
 RIKER: She seems too delicate for such a task. 
-WORF: Do not be fooled by her looks. The body is just a shell.
+WORF: Do not be fooled by her looks. The body is just a shell. 
 [Salia's quarters]
-(Salia is talking to another teenaged girl. Where
-did she come from?) 
+(Salia is talking to another teenaged girl. Where did she come from?) 
 SALIA: How can I be a leader if I don't know anything about my people? 
-GIRL: You will lead because you are accepted by both sides. And because
-it is in your blood. 
+GIRL: You will lead because you are accepted by both sides. And because it is in your blood. 
 SALIA: What is expected of me once I'm there? 
 GIRL: You will know. 
 SALIA: How? 
-GIRL: You just will. Salia, you must arrive with an open mind, without
-preconceived ideas of the worlds
-you will find or the people on either side. 
+GIRL: You just will. Salia, you must arrive with an open mind, without preconceived ideas of the worlds you will find or the people on either side. 
 SALIA: It's very frustrating. 
-GIRL: You feel the weight of so much responsibility, you're not sure
-you'll live up to everyone's expectations. 
-SALIA: It's not only that. Nobody's even asked me if this is something
-I want. 
+GIRL: You feel the weight of so much responsibility, you're not sure you'll live up to everyone's expectations. 
+SALIA: It's not only that. Nobody's even asked me if this is something I want. 
 GIRL: It is your duty. 
 SALIA: And I have no choice. 
-GIRL: It won't be as bad as you think. In fact, it could be quite
-wonderful. Besides, you are the last and only chance. 
-(The girl changes into a short, big-eyed, hairy creature that chatters
-at her in alien) 
-SALIA: Don't you think I'm going to need more than instinct to do
-whatever is expected of me on Daled Four?
+GIRL: It won't be as bad as you think. In fact, it could be quite wonderful. Besides, you are the last and only chance. 
+(The girl changes into a short, big-eyed, hairy creature that chatters at her in alien) 
+SALIA: Don't you think I'm going to need more than instinct to do whatever is expected of me on Daled Four? 
 [Engineering]
 LAFORGE: Energy depletion level? 
 COMPUTER: (male) Point oh four percent and increasing. 
@@ -180,49 +132,38 @@ LAFORGE: Wesley? Wesley, you haven't found that defocused area yet?
 (Wesley is on the upper catwalk) 
 WESLEY: I'm looking. 
 LAFORGE: Yeah, I see the way you're looking. Wesley! 
-WESLEY: What? (drops the equipment) Sorry. I've got my mind on
-something. 
+WESLEY: What? (drops the equipment) Sorry. I've got my mind on something. 
 LAFORGE: I can see that. 
-WESLEY: It's this girl they beamed up, Geordi. She's perfect.
-Absolutely perfect. 
+WESLEY: It's this girl they beamed up, Geordi. She's perfect. Absolutely perfect. 
 LAFORGE: Now I understand why you can't concentrate. 
 WESLEY: I'll do better. 
 LAFORGE: Okay. 
 COMPUTER: Warning, resonant field applied. 
 LAFORGE: What is it? What happened? 
 WESLEY: Nothing. I had it on the wrong setting. 
-LAFORGE: I suppose it had to happen to you. It usually does at about
-this age. 
+LAFORGE: I suppose it had to happen to you. It usually does at about this age. 
 WESLEY: What usually does? 
 LAFORGE: Glands erupting with hormones. It happens to all of us. 
 WESLEY: Just because I said that I think she's interesting 
-LAFORGE: You said she was perfect. Come on down. You're no use around
-here for now. Come on down. Go talk to her. Use the ladder. 
+LAFORGE: You said she was perfect. Come on down. You're no use around here for now. Come on down. Go talk to her. Use the ladder. 
 (Wesley comes down to Geordi) 
-WESLEY: That's silly, Geordi. But since you recommended it, how should
-I approach her? If she'll talk to me, what should I say? 
+WESLEY: That's silly, Geordi. But since you recommended it, how should I approach her? If she'll talk to me, what should I say? 
 LAFORGE: Just say, 'Hi, I'm Wesley Crusher. I'd like to talk to you'. 
 WESLEY: And then what? 
 LAFORGE: Whatever occurs to you. 
 WESLEY: What if nothing occurs to me? 
-LAFORGE: Look, Wes, I don't have time for this. You're going to have to
-ask somebody else. 
-WESLEY: Okay.
+LAFORGE: Look, Wes, I don't have time for this. You're going to have to ask somebody else. 
+WESLEY: Okay. 
 [Bridge]
 (Worf is roaring) 
 WORF: That is how the Klingon lures a mate. 
 WESLEY: Are you telling me to go yell at Salia? 
-WORF: No. Men do not roar. Women roar. Then they hurl heavy objects.
-And claw at you. 
+WORF: No. Men do not roar. Women roar. Then they hurl heavy objects. And claw at you. 
 WESLEY: What does the man do? 
 WORF: He reads love poetry. He ducks a lot. 
-WESLEY: Worf, sounds like it works great for the Klingons, but I think
-I need to try something a little less dangerous. 
+WESLEY: Worf, sounds like it works great for the Klingons, but I think I need to try something a little less dangerous. 
 WORF: Then go to her door. Beg like a human. 
-DATA: It should be that simple, Wesley. Judging by her appearance it is
-likely you and Salia are biologically compatible. Of course, there
-could be a difference in the histocompatibility complex in the cell
-membrane, but. 
+DATA: It should be that simple, Wesley. Judging by her appearance it is likely you and Salia are biologically compatible. Of course, there could be a difference in the histocompatibility complex in the cell membrane, but. 
 WESLEY: Data, I want to meet her, not dissect her. 
 (Wesley leaves as Picard enters) 
 PICARD: Picard to Salia's quarters. 
@@ -232,33 +173,25 @@ PICARD: May I activate the viewer?
 SALIA: Hurry, go, go. 
 (The little furry creature runs out of the room) 
 SALIA: Certainly. 
-PICARD: (on monitor) We've invited Anya to take a tour of the ship.
-Maybe you would like to join her? 
+PICARD: (on monitor) We've invited Anya to take a tour of the ship. Maybe you would like to join her? 
 SALIA: Very much. 
 PICARD: (on monitor) Your escort will with you shortly. Picard out. 
 SALIA: I think I'll go on the tour. 
 (The creature runs back in, chattering) 
-SALIA: Why can't I? This is the only chance I'll ever have to see a
-vessel like this. 
+SALIA: Why can't I? This is the only chance I'll ever have to see a vessel like this. 
 (The little creature morphs into Anya) 
-ANYA: No. You must remain here where it is safe. Salia, do an old woman
-a favour and obey me for the rest of this trip. 
+ANYA: No. You must remain here where it is safe. Salia, do an old woman a favour and obey me for the rest of this trip. 
 SALIA: You are no more an old woman than I am a leader. 
 (Doorbell) 
 SALIA: Yes. Come in. 
 WORF: I'm here to escort you on a tour of the Enterprise. 
-ANYA: Salia will remain behind. I will be right there. You are a
-leader. And I am older than you could ever imagine.
+ANYA: Salia will remain behind. I will be right there. You are a leader. And I am older than you could ever imagine. 
 [Ten forward]
-WESLEY: What should I say? How do I act? What do I
-do? 
+WESLEY: What should I say? How do I act? What do I do? 
 RIKER: Guinan, I need your help. Could you step over here a minute? 
 GUINAN: Sounds simple enough. 
 (They sit at a table) 
-RIKER: (to Wesley) Now, the first words out of your mouth are the most
-important. You may want to start with something like this. (Riker sits
-opposite Guinan) You are the most beautiful woman in the galaxy. But
-that might not work. 
+RIKER: (to Wesley) Now, the first words out of your mouth are the most important. You may want to start with something like this. (Riker sits opposite Guinan) You are the most beautiful woman in the galaxy. But that might not work. 
 GUINAN: Yes. Yes, it would. 
 RIKER: You don't know how long I've longed to tell you that. 
 GUINAN: But you were afraid? 
@@ -269,37 +202,28 @@ WESLEY: Commander?
 RIKER: or that you might think that was a line. 
 GUINAN: Maybe I do think it's a line. 
 RIKER: Then you think I'm not sincere? 
-GUINAN: I didn't say that. There's nothing wrong with a line. It's like
-a knock at the door. 
+GUINAN: I didn't say that. There's nothing wrong with a line. It's like a knock at the door. 
 RIKER: Then you're inviting me in? 
 GUINAN: I'm not sending you away. 
 RIKER: That's more than I expected. 
 GUINAN: Is it as much as you hoped? 
 RIKER: To hope is to recognise the possibility. I had only dreams. 
 GUINAN: Dreams can be dangerous. 
-RIKER: Not these dreams. I dream of a galaxy where your eyes are stars,
-and the universe worships the night. 
-GUINAN: Careful. Putting me on a pedestal so high, you may not be able
-to reach me. 
-RIKER: Then I'll learn how to fly. You are the heart in my day and the
-soul in my night. 
+RIKER: Not these dreams. I dream of a galaxy where your eyes are stars, and the universe worships the night. 
+GUINAN: Careful. Putting me on a pedestal so high, you may not be able to reach me. 
+RIKER: Then I'll learn how to fly. You are the heart in my day and the soul in my night. 
 WESLEY: I don't think this is my style. 
-GUINAN: Shut up, kid. Tell me more about my eyes.
+GUINAN: Shut up, kid. Tell me more about my eyes. 
 [Engineering]
-(Geordi is doing what Wesley should have been
-doing, when Anya and Worf enter) 
-WORF: This is the dilithium crystal chamber. Our Chief Engineer, Geordi
-La Forge.
+(Geordi is doing what Wesley should have been doing, when Anya and Worf enter) 
+WORF: This is the dilithium crystal chamber. Our Chief Engineer, Geordi La Forge. 
 ANYA: What is that? What are you doing? 
-LAFORGE: Nothing to be concerned about. Just performing some routine
-adjustments. 
-ANYA: I wasn't aware that the deuterium control conduit required
-routine adjustments. 
+LAFORGE: Nothing to be concerned about. Just performing some routine adjustments. 
+ANYA: I wasn't aware that the deuterium control conduit required routine adjustments. 
 (She goes up in the lift to join Geordi) 
 LAFORGE: I perform periodic inspections on all engineering systems. 
 ANYA: In this case you seem to have found a malfunction. 
-LAFORGE: It's not a malfunction. It's simply that a minute defocused
-area has developed. It lowers our operating efficiency. 
+LAFORGE: It's not a malfunction. It's simply that a minute defocused area has developed. It lowers our operating efficiency. 
 ANYA: It could also lead to excess prion production. 
 LAFORGE: Our computer would detect that. 
 ANYA: Unless, of course, it too is malfunctioning. 
@@ -307,18 +231,16 @@ LAFORGE: Look, I really have to get this finished.
 WORF: Anya. Please come with me. 
 ANYA: I will be back to check your progress. 
 [Corridor]
-(Outside Salia's quarters, Wesley is stopped by the
-security guard) 
+(Outside Salia's quarters, Wesley is stopped by the security guard) 
 GUARD: Ensign Crusher, what can I do for you? 
 WESLEY: Nothing. 
 (The door opens, eyes meet, a jaw drops) 
 GUARD: Is there a problem? 
 WESLEY: No. 
 SALIA: Could you show me how to work the food dispenser? 
-WESLEY: Sure.
+WESLEY: Sure. 
 [Salia's quarters]
-WESLEY: Really, it's quite simple. You just tell
-the computer what you want and it prepares it for you. 
+WESLEY: Really, it's quite simple. You just tell the computer what you want and it prepares it for you. 
 SALIA: Oh. What should I order? 
 WESLEY: I don't know. what do you like? 
 SALIA: I'd like something sweet. 
@@ -330,14 +252,12 @@ SALIA: You've been there?
 WESLEY: It's one of my favourite places. 
 SALIA: It must be fun to visit a planet like that. 
 WESLEY: It's the best part of being on the Enterprise. 
-SALIA: I've studied about some of them, but to see them, that would be
-wonderful. Tell me about some of the other
-places you've been. 
+SALIA: I've studied about some of them, but to see them, that would be wonderful. Tell me about some of the other places you've been. 
 WESLEY: Oh, there's too many. 
 SALIA: The only world I've known is Klavdia Three. 
 WESLEY: It's about time we changed that. 
 SALIA: How? 
-WESLEY: Come with me.
+WESLEY: Come with me. 
 [Sickbay]
 (Worf and Anya enter) 
 PULASKI: I'll be with you in a moment. 
@@ -352,11 +272,9 @@ PULASKI: What?
 ANYA: Destroy the patient. Immediately! 
 PULASKI: Now, you calm down. 
 ANYA: If you won't take action, then I will! 
-(She morphs into a big nasty version of the furry creature she was with
-Salia) 
+(She morphs into a big nasty version of the furry creature she was with Salia) 
 PULASKI: Security to Sickbay! Hurry! 
-(Worf wrestles with the creature which is larger than himself, as
-Picard and guards arrive) 
+(Worf wrestles with the creature which is larger than himself, as Picard and guards arrive) 
 PICARD: Wait! Hold your fire. 
 (Anya returns to humanoid shape) 
 PICARD: Worf! 
@@ -369,90 +287,69 @@ PICARD: The situation is under control.
 ANYA: That's not good enough! 
 PICARD: Well, it will have to be. 
 ANYA: Your powers are infinitesimal compared to mine. 
-PICARD: Yes, that may be, but you will obey my orders. You are to
-remain in your quarters and in your present form for the rest of this
-voyage. Is that clear? 
+PICARD: Yes, that may be, but you will obey my orders. You are to remain in your quarters and in your present form for the rest of this voyage. Is that clear? 
 ANYA: Very. 
 PICARD: Keep her under guard. 
 WORF: Aye, sir. 
 (Anya stalks out) 
 WORF: Wait for me. What kind of creature is she? 
 PICARD: I've never seen anything like her. 
-PULASKI: There is mention in the galactic zoological catalogue of a
-species called allasomorph, which is supposed to possess the power to
-alter their molecular structure into other life forms. 
+PULASKI: There is mention in the galactic zoological catalogue of a species called allasomorph, which is supposed to possess the power to alter their molecular structure into other life forms. 
 WORF: Such a creature would make a perfect protector. 
 PICARD: I want a Security team stationed outside Sickbay, Mister Worf. 
 WORF: Aye, sir. Captain, what if Anya transforms? 
-PICARD: Improvise.
+PICARD: Improvise. 
 [Holodeck]
-(Wesley and Salia are on a planetoid orbiting a
-ringed planet) 
+(Wesley and Salia are on a planetoid orbiting a ringed planet) 
 SALIA: Can a place so remarkable truly exist? 
 WESLEY: Yes. There are many more. All of them are different. 
-SALIA: I've learned about them. That's all I did on Klavdia Three, was
-learn. I know so much, but I've seen so little. 
-WESLEY: Think of what you have to look forward to. This is a great time
-to be alive. 
+SALIA: I've learned about them. That's all I did on Klavdia Three, was learn. I know so much, but I've seen so little. 
+WESLEY: Think of what you have to look forward to. This is a great time to be alive. 
 SALIA: For you. 
-WESLEY: For both of us. This is all just beginning. We've only charted
-nineteen percent of our galaxy. The rest is out there, just waiting.
-Look what we've already discovered. 
+WESLEY: For both of us. This is all just beginning. We've only charted nineteen percent of our galaxy. The rest is out there, just waiting. Look what we've already discovered. 
 SALIA: I have never seen anything so wondrous. 
 WESLEY: Wait. Computer, Rosseau Five. 
 (They are standing on a fragment of rock drifting in a purple haze) 
 SALIA: It's breathtaking! 
 WESLEY: Yes. 
 SALIA: And you've been to this place? 
-WESLEY: Someday, you'll visit Rosseau Five, and many other places, all
-more spectacular. 
+WESLEY: Someday, you'll visit Rosseau Five, and many other places, all more spectacular. 
 SALIA: If only it were possible. 
 WESLEY: Listen. 
 SALIA: What is it? 
-WESLEY: In a moment, the harmonic resonance from the neutrino clouds
-will become synchronous. 
+WESLEY: In a moment, the harmonic resonance from the neutrino clouds will become synchronous. 
 (Musical notes sound) 
-SALIA: It's so beautiful! It's like this place has a voice and is
-trying to speak to us. Thank you for sharing all of this with me. 
+SALIA: It's so beautiful! It's like this place has a voice and is trying to speak to us. Thank you for sharing all of this with me. 
 WESLEY: Someday, you'll see it all for yourself. Look over there. 
 [Corridor]
 (Anya is escorted to Salia's quarters) 
-WORF: Remain here. You are restricted to these quarters for the
-remainder of this voyage. 
+WORF: Remain here. You are restricted to these quarters for the remainder of this voyage. 
 ANYA: You are the protector of this ship, are you not? 
 WORF: I am in charge of Security. 
-ANYA: You must understand my duties as well. If you confine me to this
-cell, I cannot protect Salia. 
+ANYA: You must understand my duties as well. If you confine me to this cell, I cannot protect Salia. 
 WORF: There is no need for concern. She is safe on this ship. 
 ANYA: You must understand that I cannot make such an assumption. 
-WORF: You no longer have the choice. You have to trust me to protect
-her. 
-ANYA: No. A true protector cannot have two charges. Your responsibility
-is to the ship. My duty is to Salia. 
+WORF: You no longer have the choice. You have to trust me to protect her. 
+ANYA: No. A true protector cannot have two charges. Your responsibility is to the ship. My duty is to Salia. 
 WORF: My responsibility to the ship includes protecting Salia. 
 ANYA: You know I'm stronger than you. 
 WORF: I was unprepared. 
 ANYA: You underestimated me in your Sickbay. That is usually fatal. 
 WORF: Still, you are here, confined to your room. 
-ANYA: I ceased my struggle by choice, not because of you or your
-Captain. 
+ANYA: I ceased my struggle by choice, not because of you or your Captain. 
 WORF: I would have stopped you. If not me, someone else. 
 ANYA: No, you cannot control me. 
 WORF: We will see. 
 [Ready room]
-PICARD: We've obviously brought a very dangerous
-life form aboard this ship. I want to minimize the chances of any
-incident. 
-TROI: Whatever kind of life form Anya is, emotionally she's Salia's
-mother. 
+PICARD: We've obviously brought a very dangerous life form aboard this ship. I want to minimize the chances of any incident. 
+TROI: Whatever kind of life form Anya is, emotionally she's Salia's mother. 
 PICARD: The most dangerous animal is a mother protecting her young. 
 TROI: Exactly. 
 ANYA [OC]: Captain, this is Anya. 
 PICARD: Yes? 
-ANYA [OC]: Salia is gone. Where is she?
+ANYA [OC]: Salia is gone. Where is she? 
 [Ten forward]
-SALIA: This has all been so wonderful. I'm not even
-sure it's real. 
+SALIA: This has all been so wonderful. I'm not even sure it's real. 
 WESLEY: Believe me, Ten Forward isn't an illusion. 
 SALIA: Not that. I mean the way I feel. 
 GUINAN: You won't find a better dish of chocolate anywhere. 
@@ -460,96 +357,73 @@ SALIA: I'm sure I won't.
 WESLEY: Is something wrong? 
 SALIA: I've had a great time being with you, Wesley. 
 WESLEY: And that makes you sad? 
-SALIA: When I was on Klavdia Three, all I could think of was leaving
-that isolation. What makes me sad is having to face it again after
-seeing what else is possible. 
+SALIA: When I was on Klavdia Three, all I could think of was leaving that isolation. What makes me sad is having to face it again after seeing what else is possible. 
 WESLEY: Is that what awaits you on Daled Four? Isolation? 
 SALIA: Yes. 
 WESLEY: I thought you were going there to reunite two warring parties. 
 SALIA: What else do you know? 
-WESLEY: Very little. The ship's computer doesn't have that much on
-Daled Four. How will you stop the fighting? 
-SALIA: I'm not certain. I only know I will have many responsibilities
-when I get there. Your language has no word for the position
-I'll hold. In many ways I'll have even less freedom than I did on
-Klavdia Three. 
+WESLEY: Very little. The ship's computer doesn't have that much on Daled Four. How will you stop the fighting? 
+SALIA: I'm not certain. I only know I will have many responsibilities when I get there. Your language has no word for the position I'll hold. In many ways I'll have even less freedom than I did on Klavdia Three. 
 WESLEY: You could stay. 
 SALIA: On the Enterprise? 
 WESLEY: Why not? 
 SALIA: Because I can't. 
 (Salia leaves) 
-GUINAN: Just because a girl runs out, doesn't mean she doesn't wish you
-to follow.
+GUINAN: Just because a girl runs out, doesn't mean she doesn't wish you to follow. 
 [Corridor]
 WESLEY: What is it? What happened? Salia! 
 SALIA: Stay away from me! I'm sorry. 
 WESLEY: I don't understand. 
-SALIA: I can't stay here! I can't have this life! I want it more than
-anything, but I can't have it! 
+SALIA: I can't stay here! I can't have this life! I want it more than anything, but I can't have it! 
 WESLEY: Salia, nothing is impossible. 
 SALIA: Not for you. 
 WESLEY: There's a way. I know there is! 
 (Picard, Anya and a guard come round the corner) 
 ANYA: Leave her alone! 
 PICARD: Ensign, step away from her. 
-ANYA: (to Salia) Come with me.
+ANYA: (to Salia) Come with me. 
 [Engineering]
 LAFORGE: Energy depletion level? 
 COMPUTER: Zero. 
 LAFORGE: La Forge to bridge. 
 PICARD [OC]: Yes, Lieutenant? 
-LAFORGE: I've just completed my final adjustments. Thanks for the time.
-You now have warp engines available. 
-PICARD [OC]: Very good.
+LAFORGE: I've just completed my final adjustments. Thanks for the time. You now have warp engines available. 
+PICARD [OC]: Very good. 
 [Bridge]
-PICARD: Number One, get us to Daled as quickly as
-possible. 
+PICARD: Number One, get us to Daled as quickly as possible. 
 RIKER: Ensign Gibson, take us to warp eight point eight. 
 GIBSON: (a strawberry blonde) Warp eight point eight, sir. 
 RIKER: Estimated time? 
 GIBSON: Three hours, nine minutes. 
-PICARD: Ensign Crusher, when you're finished with your duties in
-Engineering, report to my Ready Room. 
+PICARD: Ensign Crusher, when you're finished with your duties in Engineering, report to my Ready Room. 
 WESLEY [OC]: Yes, sir. 
 PICARD: You have the Bridge, Number One. 
 RIKER: Aye, sir. 
 [Ready room]
-PICARD: The woman, Anya, is not what she appears to
-be. She is an allasomorph. 
+PICARD: The woman, Anya, is not what she appears to be. She is an allasomorph. 
 WESLEY: A shape shifter? 
-PICARD: Yes. She's not only a governess, she's also the girl's
-protector. Now, I don't care to interfere in the personal
-relationships of those under my command, but in this case. 
+PICARD: Yes. She's not only a governess, she's also the girl's protector. Now, I don't care to interfere in the personal relationships of those under my command, but in this case. 
 WESLEY: You want me to stay away from Salia? 
-PICARD: Yes, I do. For the good of the ship and the safety of everyone
-on board. 
-WESLEY: I will do as you ask.
+PICARD: Yes, I do. For the good of the ship and the safety of everyone on board. 
+WESLEY: I will do as you ask. 
 [Salia's quarters]
 SALIA: Why won't you let me have a friend? 
 ANYA: It is my duty to protect you from danger. 
 SALIA: There's no danger here. 
-ANYA: There is always danger from one who is not your kind. Salia, he's
-confusing you. You're forgetting you responsibilities. 
+ANYA: There is always danger from one who is not your kind. Salia, he's confusing you. You're forgetting you responsibilities. 
 SALIA: Whether or not I see Wesley is for me to decide. 
-ANYA: It is not! I raised you, I protected you and I intend to deliver
-you to Daled Four! 
+ANYA: It is not! I raised you, I protected you and I intend to deliver you to Daled Four! 
 SALIA: Maybe what you want doesn't matter any more. 
-ANYA: Salia, please. I know it's difficult for you. But you must do
-what you are destined to do.
+ANYA: Salia, please. I know it's difficult for you. But you must do what you are destined to do. 
 [Bridge]
 PICARD: Standard orbit. 
 GIBSON: Aye, sir. 
 PICARD: Hailing frequencies, Mister Worf. 
-WORF: Captain, I am encountering the same interference we experienced
-on Klavdia Three. 
-DATA: The troposphere appears to be distorting our signals. It is
-fascinating, Captain. Klavdia Three and Daled Four have almost
-identical atmospheres. 
+WORF: Captain, I am encountering the same interference we experienced on Klavdia Three. 
+DATA: The troposphere appears to be distorting our signals. It is fascinating, Captain. Klavdia Three and Daled Four have almost identical atmospheres. 
 PICARD: Magnify. Times twenty. 
-RIKER: How could anyone exist in an environment so totally hostile
-toward human life? 
-PICARD: Mister Data, do whatever is necessary to override the
-interference. Let's complete our mission. 
+RIKER: How could anyone exist in an environment so totally hostile toward human life? 
+PICARD: Mister Data, do whatever is necessary to override the interference. Let's complete our mission. 
 [Wesley's quarters]
 WESLEY: Come in. Salia! You shouldn't have come. 
 SALIA: Do you want me to leave? 
@@ -557,45 +431,36 @@ WESLEY: I didn't say that.
 SALIA: Then you want me to stay. 
 WESLEY: Does Anya know you're here? 
 SALIA: That doesn't matter. 
-WESLEY: I'm glad you came. I thought Anya would have kept you with her.
+WESLEY: I'm glad you came. I thought Anya would have kept you with her. 
 SALIA: I have certain rights. 
 WESLEY: So in other words, you slipped out. 
-SALIA: While she was asleep. I hope you didn't get in trouble from your
-Captain. 
+SALIA: While she was asleep. I hope you didn't get in trouble from your Captain. 
 WESLEY: Oh, I haven't got in trouble yet. 
 SALIA: Anya thought you would corrupt me. 
 WESLEY: With my wild way of life? 
-SALIA: Maybe. With the normal things people do when they like each
-other. 
+SALIA: Maybe. With the normal things people do when they like each other. 
 (Young love's first kiss, then Anya the monster is there, screeching) 
 SALIA: Wesley, get out of here now. 
 WESLEY: What's going on? 
 SALIA: Just go, please. 
 WESLEY: Security, crew quarters! 
 SALIA: No! Anya, No! 
-(Salia morphs into something bigger, and Wesley goes to safety. The two
-women return to humanoid form) 
+(Salia morphs into something bigger, and Wesley goes to safety. The two women return to humanoid form) 
 ANYA: You should not have disobeyed me. 
 SALIA: I had to. 
 ANYA: I warned you to leave her alone. 
-Captain's log, stardate 42568.8. Since Anya's powers of transformation
-apparently gave her the ability to escape her
-guards unnoticed, we have sealed her quarters with a forcefield that
-will contain her no matter how small a form she may take. 
+Captain's log, stardate 42568.8. Since Anya's powers of transformation apparently gave her the ability to escape her guards unnoticed, we have sealed her quarters with a forcefield that will contain her no matter how small a form she may take. 
 [Bridge]
 WORF: Captain, I'm receiving an audio signal. 
 PICARD: Audio on. 
-VOICE [OC]: Come in Enterprise. This is Command Headquarters of Daled
-Four. We have been expecting you. 
-DATA: Sir, sensors indicate the communication originated from a
-terawatt source on the planet. 
+VOICE [OC]: Come in Enterprise. This is Command Headquarters of Daled Four. We have been expecting you. 
+DATA: Sir, sensors indicate the communication originated from a terawatt source on the planet. 
 RIKER: That's more power than our entire ship can generate. 
 DATA: It is what is needed to penetrate the atmosphere. 
 RIKER: Which means we lack the ability to respond, sir. 
-WORF: Sir, there are beam-down coordinates encoded within the carrier
-signal. 
+WORF: Sir, there are beam-down coordinates encoded within the carrier signal. 
 PICARD: Splendid. 
-RIKER: I'll arrange for our guests to beam down.
+RIKER: I'll arrange for our guests to beam down. 
 [Corridor]
 WORF: Forcefield off. 
 [Salia's quarters]
@@ -604,21 +469,17 @@ WORF: We have arrived.
 ANYA: Salia will be with you in just a moment. 
 (Worf leaves) 
 SALIA: You're not going? 
-ANYA: No. My duties have been completed. I have done all that I could.
-I hope it was enough. 
+ANYA: No. My duties have been completed. I have done all that I could. I hope it was enough. 
 SALIA: You've raised me well, and I thank you for that. 
 ANYA: I would not have harmed the boy, I only wanted to frighten him. 
 SALIA: I know. 
-ANYA: You are ready for what awaits you and you will do well. I know
-that I have been hard on you, but I wanted to prepare you for anything
-you might be required to do. 
+ANYA: You are ready for what awaits you and you will do well. I know that I have been hard on you, but I wanted to prepare you for anything you might be required to do. 
 SALIA: Will I ever be able to leave Daled Four? 
 ANYA: Probably not. But anything is possible. 
 SALIA: That's what Wes said. 
 ANYA: I hope he's right. 
 SALIA: Where will you go? 
-ANYA: The third moon is within range of this ship's transporter, I
-shall go there. It was my home before we went away. 
+ANYA: The third moon is within range of this ship's transporter, I shall go there. It was my home before we went away. 
 SALIA: I'm going to miss you. 
 ANYA: I know. 
 (Salia goes to the door, and it opens) 
@@ -637,31 +498,25 @@ SALIA: Wesley, I have to go now.
 WESLEY: Was it fun? 
 SALIA: What do you mean? 
 WESLEY: Playing humanoid. Was it fun? 
-SALIA: Wesley, look at me. Right now, this minute, this is what I am. A
-humanoid girl. 
+SALIA: Wesley, look at me. Right now, this minute, this is what I am. A humanoid girl. 
 WESLEY: What are you really? 
 SALIA: Does it matter? 
 WESLEY: Yes. 
 SALIA: Our natural state is one unlike anything you can imagine. 
-WESLEY: So you took this form for our benefit? That's why you wanted to
-know what species we are. 
+WESLEY: So you took this form for our benefit? That's why you wanted to know what species we are. 
 SALIA: I'm sorry I hurt you. I didn't mean to. 
 WESLEY: I loved you. 
 SALIA: I love you, too. 
 WESLEY: Can you? 
-SALIA: Yes, oh yes. I have the same feelings, the same emotions as you.
-You must believe me. 
+SALIA: Yes, oh yes. I have the same feelings, the same emotions as you. You must believe me. 
 WESLEY: Please go. 
 SALIA: Wesley, let's not say goodbye like this. 
-(No reply, so she leaves him to nurse his broken heart)
+(No reply, so she leaves him to nurse his broken heart) 
 [Transporter room]
-RIKER: Prepare to beam Salia to the specified
-coordinates. 
+RIKER: Prepare to beam Salia to the specified coordinates. 
 O'BRIEN: Aye, sir. 
-SALIA: Our world is grateful for the courtesy which you have extended
-us. 
-RIKER: I hope some day that the Federation and Daled Four will have
-formal contact. 
+SALIA: Our world is grateful for the courtesy which you have extended us. 
+RIKER: I hope some day that the Federation and Daled Four will have formal contact. 
 SALIA: That is my wish as well. 
 O'BRIEN: Coordinates have been input, sir. 
 RIKER: Proceed. 
@@ -672,23 +527,18 @@ WESLEY: You already have.
 SALIA: I'm glad you came to say goodbye. Thank you, for everything. 
 SALIA: I want you to leave now. 
 WESLEY: Why? 
-SALIA: I cannot arrive on my planet in this form, and I want you to
-remember me as I am now. 
+SALIA: I cannot arrive on my planet in this form, and I want you to remember me as I am now. 
 WESLEY: Don't' worry, I will. 
 (She turns into a shimmering column of light) 
 WESLEY: Energise. 
 [Ten forward]
-(Wesley is sitting alone, gazing at the bubbles in
-his glass of whatever. Guinan goes over) 
-WESLEY: Seeing her on the transporter pad, it was like seeing pure
-light. I miss her. I feel empty. 
-GUINAN: I know that sensation. But there'll come a time when all you
-remember is the love. 
+(Wesley is sitting alone, gazing at the bubbles in his glass of whatever. Guinan goes over) 
+WESLEY: Seeing her on the transporter pad, it was like seeing pure light. I miss her. I feel empty. 
+GUINAN: I know that sensation. But there'll come a time when all you remember is the love. 
 WESLEY: I'm never going to feel this way about anyone else. 
 GUINAN: You're right. 
 WESLEY: I didn't expect you to say that. 
-GUINAN: There'll be others, but every time you feel love it'll will be
-different. Every time, it's different. 
+GUINAN: There'll be others, but every time you feel love it'll will be different. Every time, it's different. 
 WESLEY: Knowing that doesn't make it any easier. 
-GUINAN: It's not supposed to.  
+GUINAN: It's not supposed to. 
 

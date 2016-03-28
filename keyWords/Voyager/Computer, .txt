@@ -43,6 +43,7 @@ Computer, how long has Doctor Zimmerman served on Voyager?#
 Computer, display all Starfleet records on Doctor Lewis Zimmerman.#
 Computer, is this me?#
 Computer, discontinue Emergency Medical Holographic system.#
+Computer, shut down all holographic systems throughout the ship.#
 Computer, what happened to Captain Janeway, Lieutenant Torres, Mister Neelix and the Kazon?#
 Computer, I'm talking about real people. Locate Captain Janeway.#
 Computer, are you saying that the crew is nothing more than a collection of holographic programmes?#
@@ -58,13 +59,13 @@ Computer, open a channel to the Kazon vessel. This is Commander Chakotay of the 
 Computer, are there any life signs inside the Kazon vessel?#
 Computer, establish a transporter lock on the lifeform.#
 Computer, damage report.#
-Computer, open a channel. Kazon vessel, I have a young man on board you might know. He goes by the name of Kar. I'd say he's about thirteen. I'd like to arrange for his transfer before I return to my Computer, confirm channel is open.#
+Computer, open a channel. Kazon vessel, I have a young man on board you might know. He goes by the name of Kar. I'd say he's about thirteen. I'd like to arrange for his transfer before I return to my ship. Computer, confirm channel is open.#
 Computer, prepare to go to warp.#
 Computer, damage report.#
 Computer, scan for an M-class atmosphere.#
 Computer, lay in a course to the moon. Evasive pattern omega one. Maximum impulse.#
 Computer, prepare for long-range transport. Two to beam to the surface.#
-Computer, display my service record. Graduated Starfleet Academy stardate 47918. Requested duty on USS Voyager. Request denied. Requested transfer to Starfleet Engineering Corps. Transfer approved. Starship design specialist. Awarded the Cochrane Medal of Excellence for outstanding advances in Computer, access Starfleet Science Academy database. Have there been any temporal anomalies in the space-time continuum reported in the last forty eight hours?#
+Computer, display my service record.  Graduated Starfleet Academy stardate 47918. Requested duty on USS Voyager. Request denied. Requested transfer to Starfleet Engineering Corps. Transfer approved. Starship design specialist. Awarded the Cochrane Medal of Excellence for outstanding advances in warp theory. Computer, access Starfleet Science Academy database. Have there been any temporal anomalies in the space-time continuum reported in the last forty eight hours?#
 Computer, has there been any contact with the starship Voyager since it was lost in the Badlands?#
 Computer, access service record of Starfleet officer Thomas Eugene Paris.  Convicted of treason. Sentenced to eighteen months at the New Zealand Penal Settlement. Paroled on stardate 48702. Last reported whereabouts, Marseilles, France.#
 Computer, evasive manoeuvres.#
@@ -82,12 +83,13 @@ Computer, launch the automated message beacon.#
 Computer, activate Emergency Medical Holographic Programme.#
 Computer, I need a wider angle.#
 Computer, hold turbolift. Commander, if you have a specific suggestion, please feel free to make it.#
-Computer, erect an isolation field around the surgical Computer, remove all the air from within the forcefield and replace it with eighty percent nitrogen and twenty percent acidichloride. He can breath, for now.#
+Computer, erect an isolation field around the surgical bay. Computer, remove all the air from within the forcefield and replace it with eighty percent nitrogen and twenty percent acidichloride. He can breath, for now.#
 Computer, remove the acidichloride gas from the isolation field and deactivate the field. It will be necessary for us to perform an autopsy on the Lieutenant's body in the morning. Until then, I suggest you get some rest.#
 Computer, are you positive?#
 Computer, end holodeck programme.#
 Computer, place level one security seals on this room.#
 Computer, lift the security seal from Lieutenant Tuvok's quarters.  Wait here.#
+Computer, remove the forcefield.#
 Computer, identify the Cardassian file on screen.#
 Computer, when was this file created?#
 Computer, initiate the self-destruct sequence. Authorisation Janeway pi one one zero. Set it at twenty minutes.#
@@ -96,7 +98,7 @@ Computer, terminate self destruct sequence. Authorisation Janeway pi one one zer
 Computer, initiate plasma venting!#
 Computer, run a signal modulation analysis of this file.#
 Computer, activate monitor.#
-Computer, project the patient's skeletal structure. Now add internal Computer, use transporter records to recreate the patient's clothing.#
+Computer, project the patient's skeletal structure. Now add internal organs. Add musculature. Now apply epidermal layers. Computer, use transporter records to recreate the patient's clothing.#
 Computer, deactivate Vidiian Programme Alpha.#
 Computer, play music programme Doctor Alpha.#
 Computer, initiate the self-destruct sequence. Authorisation Janeway pi one one zero. Set at five minutes and mute voice warnings. Enable.#
@@ -111,7 +113,7 @@ Computer, run a level one scan for intruders.#
 Computer, access Culluh Zero One. Disregard all voice commands from Starfleet personnel. Security lockout.#
 Computer, locate Jora Mirell.#
 Computer, pause playback. Excuse me but your entrance was early. You're rushing the tempo.#
-Computer, start playback.  O soave fanciulla, O... Stop playback.#
+Computer, start playback.#
 Computer, delete#
 Computer, delete the diva.#
 Computer, transfer the programme for the Emergency Medical Hologram to Holodeck two.#
@@ -120,13 +122,16 @@ Computer, initiate the Jupiter Station diagnostic programme.#
 Computer, initiate programme Zimmerman alpha one.#
 Computer, activate Emergency Medical Holographic Programme.#
 Computer, reactivate forcefield. Chronowerx' stock is about to crash.#
-Computer, give the waiter a more casual look. And have him serve Rekarri starbursts all around. Now, what we need around here are some more people. Computer, add characters from Kim Sports Programme Theta Two.#
+Computer, give the waiter a more casual look. And have him serve Rekarri starbursts all around. Now, what we need around here are some more people.#
+Computer, add characters from Kim Sports Programme Theta Two.#
 Computer, access the cultural database and create musicians from Earth's Caribbean region.#
 Computer, locate Kes.#
 Computer, erect a level three forcefield around the microscope station.#
 Computer, deactivate force field.#
-Computer, standard illumination. I'm getting tired of this anyway. Computer, one Hawaiian shirt.#
-Computer, end resort programme. Captain's log, supplemental. We've completed sensor scans and confirmed our discovery of an unusual dampening field responsible for keeping this unstable nebula from going up in flames. The field's origin is still a mystery.#
+Computer, standard illumination. I'm getting tired of this anyway.#
+Computer, one Hawaiian shirt.#
+Computer, open parameter adjustment file.#
+Computer, end resort programme.#
 Computer, belay that order. Holodeck one.#
 Computer, activate Neelix resort programme.#
 Computer, delete the Marayna subroutine.#
@@ -136,6 +141,7 @@ Computer, halt turbolift. Look, this is ridiculous. We are going to be together 
 Computer, resume.#
 Computer, delete Emergency Medical Hologram.#
 Computer, confirm Janeway voice pattern.  Kes, you're a telepath. You've been able to sense things others can't. Kes, can you sense me?#
+Computer, isolate the recent additions to my programme and hold them for review.#
 Computer, deactivate Emergency Medical Holographic programme.#
 Computer, what is the time.#
 Computer, activate the Emergency Medical Holographic programme.#
@@ -150,6 +156,7 @@ Computer, initiate Doctor's Family Programme Beta-Rho and transfer the EMH to ho
 Computer, initiate Doctor's Family Programme Beta-Rho and transfer the EMH to Holodeck two.#
 Computer, end programme!#
 Computer, continue Doctor's Family Programme Beta-Rho, from the last point of deactivation.#
+Computer, analyse the genetic markers and search Earth's fossil record. Identify any ancestors common to both humans and the alien in sickbay.#
 Computer, what's the most highly evolved cold-blooded organism to develop from the Eryops?#
 Computer, run a genome projection algorithm. If the Hadrosaur had continued to evolve over the last sixty five million years, extrapolate the most probable appearance.#
 Computer, locate Kes.#
@@ -161,18 +168,19 @@ Computer, resume turbolift.#
 Computer, resume programme.#
 Computer, identify the author of holographic programme entitled Insurrection Alpha.#
 Computer, override the EMH program's autonomous controls and transfer him back to Sickbay.#
+Computer, reinitiate the holographic programme entitled Insurrection Alpha, security clearance Tuvok four seven seven four.#
 Computer, end programme.#
 Computer, initiate sixty seconds self-destruct sequence, authorisation zeta one.#
 Computer, belay that order, authorisation Tuvok four seven seven four.#
 Computer, terminate self-destruct sequence, authorisation zeta one.#
 Computer, prepare to eject the warp core. Authorisation Torres omega phi nine three#
 Computer, eject the warp core. Torres to Janeway.#
-Computer, send a distress call to Voyager. Give them our Computer, respond.#
+Computer, send a distress call to Voyager. Give them our coordinates. Computer, respond.#
 Computer, lock onto these coordinates. I need a site to site transport. No, wait. Access the central replicator files first. Ah, perfect.#
 Computer, halt turbolift. Let's figure out how we can handle this.#
 Computer, resume.#
-Computer, hot coffee, black.(As he drinks it, we are 'treated' to a view of his skeleton and internal organs. He is suddenly struck with pain in his hands, and drops the cup. He puts them in cold water and bathes his face. As he runs his fingers through his hair, it falls out.)#
-Computer, give me a type four micro-inducer. (The item appears in a bucket hanging from a hook on the side of the lecturn. The EMH waves it over Seven's cortical implant and her vision#
+Computer, hot coffee, black.#
+Computer, give me a type four micro-inducer.#
 Computer, frequency epsilon two. Doctor, the aliens are here on the ship. I can see them everywhere.#
 Computer, activate tactile interface.#
 Computer, tell us your technical specifications.#
@@ -180,6 +188,7 @@ Computer, do you recognise my voice?#
 Computer, display shuttle crew excluding myself and begin programme.#
 Computer, freeze programme. Looks like there was a problem with the pattern buffer. It might have created a feedback loop along the transporter beam.#
 Computer, resume programme.#
+Computer, freeze programme.#
 Computer, delete characters.#
 Computer, music.#
 Computer, lights off.#
@@ -191,10 +200,12 @@ Computer, display the design schematic of this ship and list general specificati
 Computer, what's happening? Computer?#
 Computer, is there any way for me to gain access to the communication system to send a message to another ship?#
 Computer, can I access this ship's EMH programme or do I need some kind of clearance for that, too?#
-Computer, deactivate EMH. Computer, activate EMH.#
+Computer, deactivate EMH.#
+Computer, activate EMH.#
 Computer, deactivate#
-Computer, activate the Emergency Medical Hologram Replacement#
+Computer, activate the Emergency Medical Hologram Replacement Programme.#
 Computer, transfer medical library master file to Emergency Medical Replacement Hologram.#
+Computer, lights on.#
 Computer, activate lights.#
 Computer, locate Ensign Kim.#
 Computer, open door one zero five dash two. Security clearance Tuvok zeta nine.#
@@ -205,6 +216,8 @@ Computer, exit holodeck. We'll take them to the medical bay.#
 Computer, run a DNA stability analysis. How long before my genome reverts to it's previous form?#
 Computer, access Paris programme alpha one, Grease Monkey.#
 Computer, access all files pertaining to Lieutenant Tom Paris. Download into memory core alpha.#
+Computer, wh#
+Computer, where are we?#
 Computer, lock in Voyager's last known coordinates and activate differential induction drive.#
 Computer, seal the doors to this room. No entry without my authorisation.#
 Computer, initiate the Borg activation sequence.#
@@ -218,7 +231,7 @@ Computer, freeze programme. Would you care to explain what you're doing?#
 Computer, adjust heading by point three four seven degrees starboard.#
 Computer, freeze programme. You're completely missing the point of this exercise. You're supposed to be mixing and mingling, not working on engineering problems.#
 Computer, what is the nature of the emergency?#
-Computer, trim heading by point three one degrees port. Computer, Computer, trim heading by point three one degrees port.#
+Computer, trim heading by point three one degrees port. Computer, respond. Computer, trim heading by point three one degrees port.#
 Computer, initiate a level four diagnostic of your command processors.#
 Computer, seal the bridge with a level three forcefield.#
 Computer, access the EPS conduits.#
@@ -235,16 +248,19 @@ Computer, run programme.#
 Computer, disengage safety protocols!#
 Computer, run diagnostic routine alpha three six.#
 Computer, activate sonic shower.#
+Computer, activate regeneration cycle. Alcoves beta and gamma.#
 Computer, disengage safety protocols.#
 Computer, end programme.#
-Computer, add dynametric tail fins to the nacelles. Computer, delete dynametric tail fins.#
+Computer, add dynametric tail fins to the nacelles.#
+Computer, delete dynametric tail fins.#
 Computer, activate holodeck programme Torres two one six.#
 Computer, one stack of banana pancakes. Smells delicious.#
 Computer, activate immersion shielding.#
 Computer, locate Lieutenant Torres.#
 Computer, freeze programme! B'Elanna. Chakotay to Sickbay. Medical emergency.#
 Computer, activate holo-programme Torres zeta one.#
-Computer, freeze programme. Computer, belay that command.#
+Computer, freeze programme.#
+Computer, belay that command.#
 Computer, seal the doors.#
 Computer, one stack of banana pancakes with maple syrup.#
 Computer, return to time index 4228. That's Boothby.#
@@ -259,6 +275,7 @@ Computer, locate Naomi Wildman.#
 Computer, resume programme, Flotter, Trevis and the Ogre of Fire.#
 Computer, begin recording. Encode message for delivery to Naomi Wildman.#
 Computer, delete characters.#
+Computer, display a holographic simulation of Crell Moset.#
 Computer, transfer all reference medical files to the simulation.#
 Computer, install a recursive algorithm.#
 Computer, create a holographic re-creation of the alien in Sickbay.#
@@ -267,9 +284,10 @@ Computer, reactivate Medical Consultant programme beta one.#
 Computer, transfer Medical Consultant programme to holodeck two.#
 Computer, delete Medical Consultant Programme and all related files.#
 Computer, freeze programme!#
-Computer, restart simulation at time index Computer, belay that order. It's no use, Harry.#
+Computer, restart simulation at time index#
+Computer, belay that order. It's no use, Harry.#
 Computer, file letter in my personal database, and transmit when we're within range of Earth.#
-Computer, deactivate forcefield. Give me the phaser. (She does, and he deactivates it before handing it to his colleague. Seven hears the voices again. She stands.)#
+Computer, deactivate forcefield. Give me the phaser.#
 Computer, activate forcefield.#
 Computer, deactivate forcefield.#
 Computer, increase power to the cortical inhibitors.#
@@ -282,7 +300,7 @@ Computer, locate the holoscans I took of Ensign Kim this morning. Any operation 
 Computer, display all holo-images taken on Stardate 50979#
 Computer, transfer my programme from the mobile emitter to the Sickbay systems.#
 Computer, duplicate all of my memory files recorded within the last forty eight hours.;#
-Computer, deactivate EMH. (Later, someone enters Sickbay and accesses the EMH memory core. The holo-imager activates as files are deleted. The person leaves and the#
+Computer, deactivate EMH.#
 Computer, engage autonavigation. Lay in a course for Voyager, full impulse.;#
 Computer, deactivate the EMH.#
 Computer, begin Chapter Eighteen.#
@@ -305,18 +323,20 @@ Computer, freeze programme, both holodecks. What happened?#
 Computer, end programme.#
 Computer, isolate the sensor readings for time index one one four point six. Identify source.#
 Computer, run a transpectral analysis on all subspace fluctuations.  Yes?#
-Computer, begin Chief Engineer's Log, supplemental. I've spent the last four hours analysing the warp field schematics, but I'm still no closer Computer, did it just get colder in here?#
-Computer, reset environmental controls#
+Computer, begin Chief Engineer's Log, supplemental. I've spent the last four hours analysing the warp field schematics, but I'm still no closer to finding out what's going wrong. Computer, did it just get colder in here?#
+Computer, reset environmental controls to standard. B'Elanna!#
+Computer, hull status.#
 Computer, erect a level ten force field around the bridge.#
 Computer, prepare to eject the warp core. Authorisation Seven of Nine, omega phi nine three.#
 Computer, how long until we're within hailing range of that ship?#
 Computer, activate sonic shower.#
 Computer, initiate holo-programme Paris three.#
 Computer, add instrumental accompaniment. On to the chorus. Together now.#
-Computer, play Someone To Watch Over Me, instrumental only. We'll begin with some simple steps. Place your left hand on my shoulder and your right hand in my left. Now, follow me, one step at a time. Don't worry. I don't have any ligaments to tear. (He gently pulls her closer and closer. Later that night, a drunken Tomin#
+Computer, play Someone To Watch Over Me, instrumental only. We'll begin with some simple steps. Place your left hand on my shoulder and your right hand in my left. Now, follow me, one step at a time. Don't worry. I don't have any ligaments to tear.#
 Computer, end programme.#
 Computer, activate holoprogramme Paris three.#
 Computer, expand record search for subject Shannon O'Donnel to include non-Federation databases. Er, personal archives and photographic indexes, as well.#
+Computer, activate EMH.#
 Computer, deactivate EMH.#
 Computer, begin multi-polar analysis.#
 Computer, end programme.#
@@ -355,6 +375,7 @@ Computer, redirect the wormhole's trajectory to Delta Quadrant, grid ten, sector
 Computer, establish a forcefield around the science station.#
 Computer, display Fair Haven character Michael Sullivan. Adjust his parameters to the following specifications. Give him the education of a nineteenth century third year student at Trinity College.#
 Computer, remove all characters except for Michael Sullivan.#
+Computer, recycle.#
 Computer, is Fair Haven character Michael Sullivan still intact?#
 Computer, stand down Red alert. This isn't sabotage, Seven. This is fan mail.#
 Computer, deactivate Emergency Medical Hologram.#
@@ -375,23 +396,28 @@ Computer, maintain a continuous proximity scan of Lieutenant Tuvok. Ten metre ra
 Computer, display proximity scan of Lieutenant Tuvok at fourteen hundred twenty two hours. Oh.#
 Computer, initiate site-to site transport programme Kes beta six.#
 Computer, deactivate EMH. What I'm about to tell you stays between the three of us. Understood?#
+Computer, activate the sonic shower.#
+Computer, deactivate the sonic shower!#
 Computer, is the download complete?#
 Computer, deactivate iguana.#
 Computer, transfer EMH to the living quarters.#
 Computer, advance to time index one twenty one point four.#
 Computer, realign Voyager's EMH. You!#
-Computer, resume recording. Last Will and Testament, Doctor Lewis Zimmerman. Let's see. Where were we? Subsection eight, the Trojan Horse project. I hereby bequeath my latest research in holographic infiltration technology to the only engineer I trust to complete the work, Lieutenant Reginald Barclay. Subsection nine, holographic art. I hereby bequeath my entire collection, including the twenty first century masterpiece, Woman in Four Dimensions, to the person who has appreciated it the most. I guess that would be Reg Barclay, too. Subsection ten, Haley. I realise she's only a hologram, but she's been a loyal assistant for many years. I'd like to request that Starfleet keep her programme running for as long as this research facility exists. She's been as real to me as anyone I've ever known. Not that#
+Computer, resume recording. Last Will and Testament, Doctor Lewis Zimmerman. Let's see. Where were we? Subsection eight, the Trojan Horse project. I hereby bequeath my latest research in holographic infiltration technology to the only engineer I trust to complete the work, Lieutenant Reginald Barclay. Subsection nine, holographic art. I hereby bequeath my entire collection, including the twenty first century masterpiece, Woman in Four Dimensions, to the person who has appreciated it the most. I guess that would be Reg Barclay, too. Subsection ten, Haley. I realise she's only a hologram, but she's been a loyal assistant for many years. I'd like to request that Starfleet keep her programme running for as long as this research facility exists. She's been as real to me as anyone I've ever known. Not that I've known many people. I've created most of my friends.#
 Computer, activate Voyager's EMH.#
+Computer, deactivate EMH.#
 Computer, bring the subspace transmitter online.#
 Computer, bring subspace transmitter online.#
+Computer, deactivate mess hall lights.#
 Computer, deactivate EMH.#
-Computer, another cup of coffee,#
+Computer, another cup of coffee, black.#
 Computer, locate B'Elanna Torres.#
 Computer, deactivate this forcefield. We'll have to cut power to the field generators.#
 Computer, initiate regeneration cycle.#
 Computer, end simulation.#
 Computer, locate the Doctor.#
 Computer, locate Seven of Nine.#
+Computer, delete audience.#
 Computer, seal hatch six one three beta.#
 Computer, locate Crewman Jor.#
 Computer, locate Lieutenant Torres.#
@@ -411,6 +437,8 @@ Computer, deactivate EMH.#
 Computer, deactivate forcefield. Can you tell us what happened?#
 Computer, one slice of New York cheesecake. This is an old Earth delicacy.#
 Computer, another slice of cheesecake. Here.#
+Computer, champagne, two glasses. To new beginnings.#
+Computer, dim the lights. Play EMH music file gamma twelve.#
 Computer, deactivate programme.#
 Computer, dim the lights.#
 Computer, dim lights.#
@@ -421,6 +449,7 @@ Computer, open Sickbay doors.#
 Computer, deactivate EMH.#
 Computer, open the transporter room doors. Security override, Tuvok pi alpha.#
 Computer, open this door.#
+Computer, security override. Authorisation: Tuvok pi#
 Computer, replicate a portion of nutritional supplements from my daily allotment.#
 Computer, transfer the EMH to the mobile emitter. Sickbay to bridge. Sickbay to Engineering, please respond.#
 Computer, activate the Emergency Command Hologram. Authorisation Janeway omega three.#
@@ -428,28 +457,37 @@ Computer, report.#
 Computer, target the vessel's tractor emitter and fire.#
 Computer, end programme.#
 Computer, make the following modifications to holodeck file Seven of Nine alpha three, personal quarters.#
+Computer, activate Chakotay simulation.#
 Computer, locate Seven of Nine.#
 Computer, end programme.#
 Computer, run Diplomacy scenario twelve alpha.#
 Computer, freeze programme. I assume you're familiar with these species?#
 Computer, resume programme.#
-Computer, save revisions and open chapter one. Captain's log, stardate 54732.3. It's been three weeks since we received Starfleet's instructions in the last datastream and we're finally ready to begin Operation Watson. We're all holding our breath.#
+Computer, save revisions and open chapter one.#
 Computer, freeze programme. How much longer is this introduction?#
 Computer, lights.#
 Computer, run EMH programme Photons Be Free.#
 Computer, freeze programme.#
-Computer, locate Captain Janeway. Computer, belay that. My quarters, now.#
+Computer, pause music. I didn't wake you, did I?#
+Computer, locate Captain Janeway.#
+Computer, belay that. My quarters, now.#
 Computer, secure the doors and establish a level five dampening field around the morgue.#
 Computer, access the holodeck database and locate Commander Chakotay's holographic template. Download the physical parameters into my programme.#
-Computer, access Lieutenant Torres' holographic template and download the physical parameters into my programme. Computer, access medical file Torres Three and update her holographic template. ;#
+Computer, access Lieutenant Torres' holographic template and download the physical parameters into my programme.#
+Computer, access medical file Torres Three and update her holographic template.#
 Computer, deactivate the EMH.#
 Computer, transfer the EMH to the mobile emitter.#
 Computer, open the holodeck doors.#
 Computer, end programme.#
 Computer, activate Emergency Command Hologram.#
+Computer, eject the core.#
+Computer, lock on to my mobile emitter and transport me to the Delta Flyer.#
 Computer, pause music.#
 Computer, transfer the EMH back into the holodeck buffer.#
 Computer, end display.#
+Computer, deploy armour.#
+Computer, warp six.#
+Computer, activate the chrono-deflector.#
 Computer, activate the tachyon pulse and direct it to these spatial and temporal coordinates.#
 Computer, begin regeneration cycle.#
 Computer, deactivate the interface. Deploy armour.#

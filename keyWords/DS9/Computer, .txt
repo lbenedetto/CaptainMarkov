@@ -42,6 +42,7 @@ Computer, set a course for the wormhole.#
 Computer, scan all data files for comparable wave intensity patterns.#
 Computer, run a level one personnel sweep of all pylons#
 Computer, is the diagnostic on the fusion power plant finished yet?#
+Computer, increase deuterium flow by five percent to reaction chamber two.#
 Computer, analyse reactor two failure.#
 Computer, run standard code translations on probe data. Isolate syntax results.#
 Computer, analyze Ops O2 sensor readings.#
@@ -64,7 +65,8 @@ Computer, access subprogram ANA. code four one zero zero R L X.#
 Computer, run a level three sensor sweep through the Promenade. Report any anomalous reading.#
 Computer, is the subspace device integrated into the isolinear coprocessor?#
 Computer, when's the next Kressari vessel due here?#
-Computer, set up a data bank, cross-referencing age groups, sex and year of adopt. Computer, disregard that request and shut down all engines.#
+Computer, set up a data bank, cross-referencing age groups, sex and year of adopt.#
+Computer, disregard that request and shut down all engines.#
 Computer, level one security access.#
 Computer, locate Ensign Melora Pazlar.#
 Computer, any Vulcan etudes on file?#
@@ -95,6 +97,7 @@ Computer, respond.#
 Computer, ready transporter.#
 Computer, send a tractor beam to the Orinoco. Prepare for a warp tow. With a little luck, we'll be able to find the warp signature the engines left when they were fired up.#
 Computer, respond.#
+Computer, one to beam up.#
 Computer, two to beam up.#
 Computer, locate Lieutenant Dax.#
 Computer, Black Hole.#
@@ -119,11 +122,13 @@ Computer, scan the region around our base camp for human and Ferengi lifesigns.#
 Computer, lock onto the two lifeforms and beam them up.#
 Computer, fly us back to the station.#
 Computer, disengage autopilot and lay in a course back to the wormhole.#
-Computer, evasive manoeuver! Fire phasers! Launch torpedoes and escape pods! Computer, display the approaching ship on the monitor.#
+Computer, evasive manoeuver! Fire phasers! Launch torpedoes and escape pods!#
+Computer, display the approaching ship on the monitor.#
 Computer, where'd the ship go?#
 Computer, intruder in Ops. Activate a level three containment field.#
 Computer, what's the status on the autopilot?#
 Computer, transmit a subspace signal using a narrow theta band frequency shifted into a background radiation domain.#
+Computer, display Bridge Security log USS Defiant, stardate 48214.5, time index three one zero.#
 Computer, run programme Odo One.#
 Computer, increase difficulty to level two.#
 Computer, increase to level three.#
@@ -146,6 +151,7 @@ Computer, are there any messages for me?#
 Computer, end programme.#
 Computer, run programme delta five nine.#
 Computer, this is Captain Benjamin Sisko. Initiate auto-destruct sequence. Authorisation Sisko alpha one alpha.#
+Computer, end auto-destruct sequence. Authorisation Sisko omega one seven abort.#
 Computer, elapsed time?#
 Computer, bat'leth. I thought you might be tired of fighting holograms.#
 Computer, lights.  Bridge to Engine Room.#
@@ -205,6 +211,7 @@ Computer, locate Cardassian occupation file, Singha refugee centre. Find and dis
 Computer, download file to PADD F seven. Come on.#
 Computer, confirm time.#
 Computer, what day is it?#
+Computer, erase that entire personal log.#
 Computer, end transmission.#
 Computer, end programme. We'll come back tomorrow.#
 Computer, eliminate the spectators.#
@@ -220,3 +227,4 @@ Computer, take us to the coordinates where it would have entered the Badlands.#
 Computer, cut all engines.#
 Computer, hold position. Activate a tractor beam and lock onto that pod.#
 Computer, begin a morphogenic enzyme analysis.#
+Computer, transfer all command codes to Captain Sisko.#

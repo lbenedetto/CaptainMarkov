@@ -23,7 +23,7 @@ QUARK: I can so think about it.#
 QUARK: Not at all. I know for a fact, when she was a he, you know, before she got this new body, they were old friends.#
 QUARK: He came in on a transport last night.#
 QUARK: Nobody knows him like I know him. Let me tell you something. He's an ill-tempered, over-bearing crosspatch. But he was no Cardassian collaborator and he's no killer.#
-QUARK: Guess that's the closest thing he has in this world to a friend. (A grey-bearded Bajoran in a cloak and hood watches the men talking.#
+QUARK: Guess that's the closest thing he has in this world to a friend.#
 QUARK: I can find out who did it for you.#
 QUARK: Well now, there's a piece of good news to brighten my day.#
 QUARK: Oh, I will, I will. Count on it. I'll have every confidence man in the sector on board by tomorrow.#
@@ -68,7 +68,7 @@ QUARK: Who said anything about volunteering? We can haggle over price later. Now
 QUARK: I'll beam you over.#
 QUARK: Relax. I served on a Ferengi freighter for eight years.#
 QUARK: I must have witnessed the procedure hundreds of times.#
-QUARK: Energising. (Odo is beamed away to a smoke-filled docking port as the runabout approaches the station)#
+QUARK: Energising.#
 QUARK: That ship's going to explode in one minute.#
 QUARK: Thirty seconds. Hurry.#
 QUARK: Twenty seconds!#
@@ -163,7 +163,7 @@ QUARK: You're pathetic. You think everyone in the galaxy should be as lonely and
 QUARK: It's good to want things.#
 QUARK: Especially things I can't have.#
 QUARK: Deuridium shipment? Is there a deuridium shipment coming here?#
-QUARK: And I'm watching you, Jadzia. (Dax and Quark's eyes meet, and she smiles so Quark goes over to her table)#
+QUARK: And I'm watching you, Jadzia.#
 QUARK: You call this clean? I've already found three coins on the floor up here. Who knows what else there might be? Somebody may have lost some valuable jewellry or something. Fine, never mind. I'll do it myself and I'll keep it myself. Leave!#
 QUARK: You just can't find good help any more.#
 QUARK: Preparations? What preparations?#
@@ -175,7 +175,7 @@ QUARK: A normal risk in your line of work.#
 QUARK: When he decides it's appropriate.#
 QUARK: When the job is completed of course.#
 QUARK: Durg, wake up. This is Quark you're talking to, remember.#
-QUARK: They'll never be settled. You'd still be rotting in a Cardassian jail if I hadn't (There's a scream. Kajada is dangling by one hand from a third floor railing, then she falls.)#
+QUARK: They'll never be settled. You'd still be rotting in a Cardassian jail if I hadn't#
 QUARK: I just heard the scream and looked up. she fell from the balcony. What was she doing up there anyway?#
 QUARK: I resent the inference.#
 QUARK: Anyone else?#
@@ -189,17 +189,17 @@ QUARK: Oh, er, er, I'm terribly sorry. We seem to have made a wrong turn. We did
 QUARK: Do they have money?#
 QUARK: It may not be your point, but it's mine.#
 QUARK: Commander, I'm a host. A host is an ambassador of good will. The more good will that I can generate, the longer they'll stay, the greater my profits. I think we're talking the same language here.#
-QUARK: Allow me to put your concerns to rest. So, do you fellows do a lot of gambling where you come from?#
+QUARK: Allow me to put your concerns to rest.  So, do you fellows do a lot of gambling where you come from?#
 QUARK: Doesn't everybody? Doesn't everybody? You know, those virgin territories in the Gamma Quadrant are ripe for dabo franchising. You and I might want to talk about an investment opportunity at some point.#
 QUARK: So, have you figured out the essentials of the game yet?#
 QUARK: Give her a spin, One time, on the house.#
 QUARK: Ah, two pinch showing. Too bad. Nothing ventured, nothing gained, I always say. What would you care to wager?#
-QUARK: Oh, what a handsome container. There's an old Ferengi expression. Good things come in small packages. Sticks?#
+QUARK: Oh, what a handsome container. There's an old Ferengi expression. Good things come in small packages.  Sticks?#
 QUARK: I'm sorry, but I have enough sticks right now.#
 QUARK: What's this?#
 QUARK: One man's priceless is another man's worthless.#
 QUARK: Sorry, not interested.#
-QUARK: Get these folks some drinks (Later, the Wadi are still at the dabo wheel and most customers have gone home.)#
+QUARK: Get these folks some drinks#
 QUARK: McCoullough?#
 QUARK: Good Lord, they've won again.#
 QUARK: That right?#
@@ -215,7 +215,7 @@ QUARK: Very unusual. I don't think I know this game. What's it called?#
 QUARK: What are the rules?#
 QUARK: Second shap? Can't we start at the beginning?#
 QUARK: It is?#
-QUARK: Is there a minimum wager? (Falow offer Quark three pyramid die, with colours on the chopped off points )#
+QUARK: Is there a minimum wager?#
 QUARK: Roll? Roll? But you haven't even told me the rules yet.#
 QUARK: Did I win?#
 QUARK: The Chandra? What does that mean? Is it good or bad?#
@@ -311,7 +311,7 @@ QUARK:  You? Run my bar?#
 QUARK: This is a private funeral service.#
 QUARK: It means that from now on if you wish to speak to me, you must first make an appointment with Rom.#
 QUARK: It's also customary to show respect by kissing my sceptre.#
-QUARK: I suppose I could make an exception in your case. (Quark puts his foot on a dropped coin, then bends down to pick it up, just as a small missile whooshes in and explodes against the wall.)#
+QUARK: I suppose I could make an exception in your case.#
 QUARK: You're trying to interfere in Ferengi affairs of state, which are none of your concern.#
 QUARK: The Grand Nagus does not ask for help from outsiders.#
 QUARK: I'm suspicious of everybody.#
@@ -322,7 +322,7 @@ QUARK: What about him?#
 QUARK: Now that you mention it, no, I don't.#
 QUARK: You wish to find profit elsewhere.#
 QUARK: And where would that be?#
-QUARK: A very lucrative opportunity. Tell me Nava, when Zek announced I was to succeed him, were you pleased? (We see Quark is sitting in a chair, stroking a gilvos, and doing his Blomfeld impression)#
+QUARK: A very lucrative opportunity. Tell me Nava, when Zek announced I was to succeed him, were you pleased?#
 QUARK: Did you come to me and offer your support?#
 QUARK: Yet, now you call me Nagus. But is it out of true friendship? No. You only pretend to show me respect so I will grant you this immense opportunity.#
 QUARK: Well, in that case, let's hope the Gamma Quadrant develops a taste for synthehol.#
@@ -360,7 +360,7 @@ QUARK: Croden? He's harmless.#
 QUARK: A man comes in for a drink, he wants to talk#
 QUARK: Who would? All those Starfleet officers greeting him at the airlock. It would scare me too. The Federation could learn a few things from the Ferengi about hospitality.#
 QUARK: Of course.#
-QUARK: I'm the man behind the bar. Obviously, they want to use a holosuite. You think the whole galaxy is plotting around you, don't you. Paranoia must run in your species, Odo. Maybe that's why no one has ever seen another shape-shifter. They're all hiding. I won't have you come in here harassing my customers. Order a drink, play the tables, or vacate the premises.  Rom, bring a flask of my special langour. (Quark goes upstairs, Croden leaves, Rom puts four glasses on a tray then goes to get a bottle. When he returns, the tray has five glasses on it.)#
+QUARK: I'm the man behind the bar. Obviously, they want to use a holosuite. You think the whole galaxy is plotting around you, don't you. Paranoia must run in your species, Odo. Maybe that's why no one has ever seen another shape-shifter. They're all hiding. I won't have you come in here harassing my customers. Order a drink, play the tables, or vacate the premises.  Rom, bring a flask of my special langour.#
 QUARK: Very nice. Unfortunately, there's a problem.#
 QUARK: The buyer has backed out.#
 QUARK: A question has been raised about the origin of this bauble. A similar one was taken during a raid on a Vanoben transport just two light years from here. If you had a bill of sale#
@@ -387,7 +387,8 @@ QUARK: No.#
 QUARK: No.#
 QUARK: Croden? He's in security.#
 QUARK: Ah-Kel, no. This is Odo's doing. Don't you see? He wants to turn us against each other.#
-QUARK: I don't know where he is. But maybe I can find out if you'll just release me.  Get me the security chips. Level four clearance. (Quark takes a panel off the console behind the bar and inserts the rods.) QUARK: It isn't at all clear.#
+QUARK: I don't know where he is. But maybe I can find out if you'll just release me.  Get me the security chips. Level four clearance.#
+QUARK: It isn't at all clear.#
 QUARK: Unless Odo is sensible and gives up his prisoner.#
 QUARK: Be quiet. Odo would never give up his prisoner. He'll just get himself killed.#
 QUARK: Oh, get out of here, you fool!#
@@ -421,7 +422,7 @@ QUARK: Ah. No imagination, huh?#
 QUARK: I could create a shape-shifter playmate for you. The two of you could intermingle.#
 QUARK: It's a living.#
 QUARK: It's not what you think.#
-QUARK: You see that thing on his hand? It's a baseball mitten. Every afternoon, the boy goes up to play. His father brought a programme with famous players. You ever hear of  Tris Speaker or Ted Williams or Buck Bokai?#
+QUARK: You see that thing on his hand? It's a baseball mitten. Every afternoon, the boy goes up to play. His father brought a programme with famous players. You ever hear of#
 QUARK: Neither had I until I made it my business to find out. With all these humans coming now, the true entrepreneur knows how to sniff the wind. Try it. Go ahead.#
 QUARK: You don't need one to detect the scent of opportunity.#
 QUARK: Family entertainment. That's the future, Odo. There's a fortune to be made. Little holo-creatures running around, rides and games for the kiddies, Ferengis in every doorway selling useless souvenirs.#
@@ -444,7 +445,7 @@ QUARK: I'm sorry, but as the sign says, the establishment is not responsible for
 QUARK: The one above the door.#
 QUARK: House rules. I'm very sorry. Have a nice day.#
 QUARK: Not my ear, please!#
-QUARK: Thank you. (Odo looks around and spots a little alien in a corner, who tries to scuttle away. Odo stops him.)#
+QUARK: Thank you.#
 QUARK: Spare me from beings who think pain is pleasure. In small doses, perhaps, but the Klingons? They're hard on the holosuites, they wreck the furniture. I'm still fixing the walls of holosuite six. I'm not saying they don't spend big. I'm just saying by the time you figure in the damage, I'm lucky to break even.#
 QUARK: This crew was worse than the last. Our glorious mission. I said, what's so glorious about a gamma quadrant bio-survey?#
 QUARK: Crafty tonight, Odo, aren't we? Looking for clues about the fate of the Klingons. If I tell you what I heard, what do I get in return?#
@@ -488,7 +489,7 @@ QUARK: Why would you say that?#
 QUARK: I can see this is going to take time, but eventually you'll learn to trust me.#
 QUARK: I don't think I can remember Odo looking quite so perplexed.#
 QUARK: Must I quote you the seventy-sixth Rule of Acquisition?#
-QUARK: Every once in a while, declare peace. It confuses the hell out of your enemies. (On the stairs, Quark is stopped by a purple haired lady alien in a closefitting catsuit.)#
+QUARK: Every once in a while, declare peace. It confuses the hell out of your enemies.#
 QUARK: Tingling at the sight of you. What'll it be? Another Black Hole?#
 QUARK: Ships go back and forth from there all the time. Why?#
 QUARK: It's an earring.#
@@ -513,7 +514,7 @@ QUARK: You're right.#
 QUARK: Yes. It's not fair.#
 QUARK: Absolutely not. One for you, and seven for me. One for you, and seven for me. Is that better? And where are you going?#
 QUARK: Dream on.#
-QUARK: One for you, seven for me. What is it now? (Three masked figures grab Quark, gag him and we hear someone use something that sizzles on his flesh) (Later, medical help has arrived and we see the Circle brand on Quark's head.)#
+QUARK: One for you, seven for me. What is it now?#
 QUARK: Doctor, will there be a scar?#
 QUARK: Does that mean yes?#
 QUARK: They were wearing masks.#
@@ -580,7 +581,7 @@ QUARK: I know, I know. He couldn't find a cup of water if you dropped him in a l
 QUARK: That doesn't mean I don't love him. Chief, do you have any brothers?#
 QUARK: And did you ever have to say goodbye to them?#
 QUARK: And did it bring a tear to your eye?#
-QUARK: Try explaining that to him. (Quark leaves, Odo closes the airlock door and we get a look at a device flashing away to itself.)#
+QUARK: Try explaining that to him.#
 QUARK: Ah, Yeto. It's such a pleasure doing business with Klingons. You're so punctual. I see that your ship was rescued according to plan. I've got your merchandise right here but I don't see any latinum.#
 QUARK: Now, now. There's no need for name calling. If you don't want these liquid data chains, I'm sure I can line up dozens of other buyers.#
 QUARK: Yeto, you expect me to believe you've come all this way, braved the storm, just to tell me that the deal is off?#
@@ -598,13 +599,15 @@ QUARK: What are you doing?#
 QUARK: He is?#
 QUARK: Are you sure?#
 QUARK: Allow me.#
-QUARK: Standard Delgorian locking mechanism. Sophisticated, but vulnerable if you know its weaknesses. Hand me that laser scalpel. (Quark cuts off a piece of one side, fiddles with the innards and the box opens) QUARK: It's a gift.#
+QUARK: Standard Delgorian locking mechanism. Sophisticated, but vulnerable if you know its weaknesses. Hand me that laser scalpel.#
+QUARK: It's a gift.#
 QUARK: There's nothing quite so depressing as a winning streak that won't stop streaking.#
 QUARK: And I've come into possession of forty-two.#
 QUARK: Honour my name all you want as long as your honour is accompanied by a hundred and ninety nine bars of gold-pressed latinum#
 QUARK: Shall we celebrate our closing the deal with another drink?#
 QUARK: Excuse me, I'm sorry but we're not open yet if you'll come back in#
-QUARK: Have another drink on me. (Returns to his new visitor. How does a species evolve with a mouth trapped behind a piece of bone or cartilage?) QUARK: Fallit Kot, is it really you? How long has it been?#
+QUARK: Have another drink on me.#
+QUARK: Fallit Kot, is it really you? How long has it been?#
 QUARK: It can't be. I must say, you look terrific. Tanned, toned up, all of that baby fat has disappeared from your face.#
 QUARK: Just passing through, are you? I'll bet you have business in the Gamma Quadrant. You always had a sharp eye for fresh territories.#
 QUARK: With me?#
@@ -631,11 +634,11 @@ QUARK: How does a hundred and ninety nine bars of gold-pressed latinum sound to 
 QUARK: Ashrock. Right on time. May I present my longtime business partner, Fallit Kot.#
 QUARK: For your inspection.#
 QUARK: Then our transaction is complete.#
-QUARK: Not true. A deal is a deal. Rule of Acquisition number sixteen. Kot, you got what you came for. Now let's be reasonable. (Ashrock draws his weapon and Kot shoots him. The bag of rings flies into Quark's hand.)#
+QUARK: Not true. A deal is a deal. Rule of Acquisition number sixteen. Kot, you got what you came for. Now let's be reasonable.#
 QUARK: He's already shot a man. Do as he says. I'll just wait in the back.#
 QUARK: We've been friends for years, not counting today.#
 QUARK: That's true, Fallit. You don't know these Starfleet types.#
-QUARK: Great. We escape and he's got something special planned for me. We don't escape, I just die with everyone else. Am I missing a choice, Fallit? (Melora touches a control and the gravity switches off. Dax switches off the engines. Melora flies and takes out Kot easily)#
+QUARK: Great. We escape and he's got something special planned for me. We don't escape, I just die with everyone else. Am I missing a choice, Fallit?#
 QUARK: I think we have the situation in hand, Commander.#
 QUARK: The risk is to you, Lieutenant.#
 QUARK: Now, how did that get there? So what's it going to be? Confront? Evade? Acquire? Retreat?#
@@ -681,7 +684,7 @@ QUARK: Done.#
 QUARK: You want to help? Table six is waiting.#
 QUARK: How do I look?#
 QUARK: Who, me? What have I got to be nervous about?#
-QUARK: Here they come. (An alien is thrown out and against the wall, then a large male with red skin and white decoration comes out.)#
+QUARK: Here they come.#
 QUARK: So, er, can I get anyone something to eat? All right, in that case, let's go over our offer. As you know, the Ferengi are interested in purchasing ten thousand vats of tulaberry wine. In exchange, the Dosi will receive what I consider to be a very fair trade package.#
 QUARK: I'm afraid that won't be enough. We're looking to establish a vast distribution network in the Gamma Quadrant. We'll need at least ten thousand vats.#
 QUARK: What?#
@@ -773,7 +776,7 @@ QUARK: What would such information be worth to you?#
 QUARK: What if I told you I can arrange a meeting between you and a powerful member of the Dominion?#
 QUARK: That's a lot of latinum.#
 QUARK: The Karemma.#
-QUARK: All right. But make it quick. (Rom hauls Quark out of earshot and speaks to him. Then he drags Pel over. Pel says something in his ear and Quark faints.)#
+QUARK: All right. But make it quick.#
 QUARK: Where's Rom?#
 QUARK: If you don't mind, I'd like to rest here for a few minutes.#
 QUARK: Thank you, Doctor.#
@@ -1054,7 +1057,8 @@ QUARK: I told you, you have nothing to worry about.#
 QUARK: Excuse me. Excuse me. Out of my way. Excuse me.#
 QUARK: Natima!#
 QUARK: I knew you'd come b#
-QUARK: All right? This is the happiest day of my life. (After the opening titles, Quark catches up to them at the spiral staircase.) QUARK: Natima, wait. At least let me buy you and your friends a drink. I can make you a Samarian Sunset.#
+QUARK: All right? This is the happiest day of my life.#
+QUARK: Natima, wait. At least let me buy you and your friends a drink. I can make you a Samarian Sunset.#
 QUARK: Why not?#
 QUARK: This Ferengi happens to be Natima's old and cherished friend. Who are you?#
 QUARK: Students. You don't say. I'd love to sit in on one of your classes. What do you teach?#
@@ -1064,7 +1068,7 @@ QUARK: You're right. It'll be better. I'll be right back with refreshments.#
 QUARK: She used to work here on the station. She was a correspondent for the Cardassian information service. It was before your time.#
 QUARK: It's none of your business, but if you have to know, I was the love of her life.#
 QUARK: If you want a drink, the bar's right over there.#
-QUARK: Your Samarian Sunset. (He pings the glass to get the clear liquid to turn into a yellow-orange sunset effect)#
+QUARK: Your Samarian Sunset.#
 QUARK: Because they remind you of me. But since I'm here anyway, you may as well enjoy yourself. Besides, it's on the house. You know, you're as beautiful as ever.#
 QUARK: You see, just like old times. I've missed you, Natima. That's no lie.#
 QUARK: Oh, yes, I'm very successful. But as the two hundred and twenty third Rule of Acquisition says#
@@ -1130,7 +1134,7 @@ QUARK: I heard that.#
 QUARK: You hesitated. Admit it, you still care.#
 QUARK: I can't. I won't let you go.#
 QUARK: Or what? You'll shoot me?#
-QUARK: Then go ahead and shoot. (Just as he reaches for the weapon, she fires and he falls. The cloaking device rolls from his hand. After the break.)#
+QUARK: Then go ahead and shoot.#
 QUARK: You shot me.#
 QUARK: Careful. Owww.#
 QUARK: She wants to know if it hurts? Of course it hurts. It's supposed to hurt. It's a phaser.#
@@ -1154,7 +1158,7 @@ QUARK: The best. And we can have them back again. I'll give the cloaking device 
 QUARK: I need you. Listen to me, Natima. You've done enough for the movement. You lit the match. Let them carry the torch. Or are you saying that the movement won't survive without you?#
 QUARK: Then let it. And let us have the happiness we deserve.#
 QUARK: With all that I am, Natima. Forever. Will you stay?#
-QUARK: You don't know how I've waited to hear you say that. (The doorbell interrupts their passion. Quark hides the cloaking device under the table.)#
+QUARK: You don't know how I've waited to hear you say that.#
 QUARK: Not now, Odo. Can't you see we're busy?#
 QUARK: On what charge?#
 QUARK: Now hold on.#
@@ -1172,7 +1176,7 @@ QUARK: That's right. For all the years we've known each other. For everything we
 QUARK: Odo, look at me.#
 QUARK: Look at me. I'm on my knees. I'm begging you. I don't care why you do it. Pick any reason you want. But please, let Natima and the others go.#
 QUARK: You will?#
-QUARK: Justice. That was going to be my next suggestion. So, you're not really doing this for me?#
+QUARK: Justice. That was going to be my next suggestion.  So, you're not really doing this for me?#
 QUARK: Then I don't owe you a thing. Thank you.#
 QUARK: You'll never know how much this means to me.#
 QUARK: Sorry. Now let's hurry before you change your mind.#
@@ -1209,7 +1213,8 @@ QUARK: Oh. When you recognised me, I assumed#
 QUARK: You're very observant. What can I do for you?#
 QUARK: With me? Er, perhaps I should explain about that slip of the tongue.#
 QUARK: I'm delighted to hear you say that. Because nothing would please me more than to make a fresh start with the Vulcans, Miz#
-QUARK: Sakonna. Such a handsome name for such a handsome young woman. What'll you have to drink? Wait a minute, I have just the thing. QUARK: Vulcan port. Three centuries old. Very rare, very expensive. Shall I pour you a glass?#
+QUARK: Sakonna. Such a handsome name for such a handsome young woman. What'll you have to drink? Wait a minute, I have just the thing.#
+QUARK: Vulcan port. Three centuries old. Very rare, very expensive. Shall I pour you a glass?#
 QUARK: Not even a taste? It's exquisite.#
 QUARK: Well, it'll be right here should you develop a thirst. Now, you mentioned a business proposition?#
 QUARK: Then we can discuss it over dinner. That is, we can plan the business meeting to coincide with when you think you might get hungry.#
@@ -1298,7 +1303,7 @@ QUARK: That's not important.#
 QUARK: Mister Garak, what can I get you today? Drinks are always on the house for you.#
 QUARK: Is there a problem?#
 QUARK: Me? I'm a simple barkeep, and a coward. I assure you I don't stick my neck out for anyone.#
-QUARK: This is all a misunderstanding. I assure you (Quark grabs a rifle but Garak knocks it out of his hands, deflecting the shot. Quark tries to run and is caught by the Klingons and hauled away.)#
+QUARK: This is all a misunderstanding. I assure you#
 QUARK: I have nothing but respect for you, Intendant. I am so sorry.#
 QUARK: Yes, Intendant.#
 QUARK: No, Intendant, please. I made a mistake. Have mercy. Please. No.#
@@ -1349,16 +1354,17 @@ QUARK: Collectibles. Andorian jewellry, Vulcan IDIC pins, Bolian crystalsteel. A
 QUARK: Did I mention I was going to donate two percent of my net profits to the Bajoran Fund for Orphans? Three percent?#
 QUARK: I still say there's some dirt in the sauce. And these bugs. Look at this. They get into everything. It's disgusting.#
 QUARK: Only certain bugs. Ferengi bugs. Nog, get some more ointment for the back of my neck.#
-QUARK: I'm on fire! I'm on fire! (He is leaping about with his right cuff ablaze. Sisko wraps a blanket over it.)#
+QUARK: I'm on fire! I'm on fire!#
 QUARK: No, I'm not all right! My ears itch, my nose is running, I'm eating foreign bugs. Now look at me. One minute I'm trying to pick out a couple of bugs out of that jumbawhatsit pot, next thing I know, whoosh!#
 QUARK: What did I do?#
 QUARK: Now see what you've done.#
 QUARK: The boy couldn't stand seeing his favourite Uncle insulted. I guess Rom was right after all. You don't like Ferengis, do you?#
 QUARK: All right, name me one Ferengi you do like. Ah ha. You see? I was right. You Federation types are all alike. You talk about tolerance and understanding but you only practice it toward people who remind you of yourselves. Because you disapprove of Ferengi values, you scorn us, distrust us, insult us every chance you get.#
 QUARK: Tell me, Commander, would you allow your son to marry a Ferengi female?#
-QUARK: Exactly my point. (An alien woman runs into the camp and summons an energy pulse from her chest which knocks Sisko down.) QUARK: Don't hurt me.#
+QUARK: Exactly my point.#
+QUARK: Don't hurt me.#
 QUARK: There's just the two of us.#
-QUARK: This has not been a good day. (Later, Nog and Jake return to the deserted camp and smoking fire. Jake uses his comm. badge.)#
+QUARK: This has not been a good day.#
 QUARK: Hey! Is anybody there? Hello! We're humanoids! We require food and water. Hello?#
 QUARK:  This is your fault. They were after you, not us. Why don't you say something to them? Tell them you've never seen us before. We have nothing to do with her! This is a misunderstanding!#
 QUARK: I have the right to express my opinion.#
@@ -1394,7 +1400,8 @@ QUARK: You can't be. I'm not a diplomat, or an explorer, or a tactical officer, 
 QUARK: A minor part, a very minor part.#
 QUARK: Actually, my brother Rom did most of the talking. I think he'd be better suited for this mission.#
 QUARK: But why? Rom only has a son to think about. I have a business.#
-QUARK: I'm sorry, Commander, but I must refuse. My last experience with the Jem'Hadar was not a pleasant one and I have no intention of repeating it. Now, there's no way you can legally force me to do this. (Sisko produces a staff. A staff with a golden Ferengi head for decoration.) QUARK: The sceptre of the Grand Nagus.#
+QUARK: I'm sorry, Commander, but I must refuse. My last experience with the Jem'Hadar was not a pleasant one and I have no intention of repeating it. Now, there's no way you can legally force me to do this.#
+QUARK: The sceptre of the Grand Nagus.#
 QUARK: I don't believe it.#
 QUARK: No, no, of course not. I'm happy to serve the Nagus any way that I can.#
 QUARK: Odo!#
@@ -1455,7 +1462,7 @@ QUARK: I see.#
 QUARK: So what you're saying is if I killed him in personal combat, that's good?#
 QUARK: I wish you had been there. You would have been proud of your brother. He fought a brave and valiant battle right up to the end. It was an honour to kill him.#
 QUARK: You can count on it.#
-QUARK: Meh-ha. 13.24 (O'Brien is setting a romantic dinner for two when Keiko enters.)#
+QUARK: Meh-ha.#
 QUARK: Who's there? We're closed.#
 QUARK: That depends on who's asking.#
 QUARK: Oh, er, well, er, come in. Can I get you a drink or something to eat?#
@@ -1525,7 +1532,8 @@ QUARK: I'm not looking for junk right now, but I'm more in the market for entert
 QUARK: You're still going to the Gamma Quadrant? I love bold women. How much?#
 QUARK: What kind of ship is it?#
 QUARK: Can I see it first?#
-QUARK: Three bars of latinum? It was worth it. (There's a crying noise. Quark clears the top of a gently steaming container and opens it.) QUARK: No. No. No.#
+QUARK: Three bars of latinum? It was worth it.#
+QUARK: No. No. No.#
 QUARK: I just thought that I was buying some wreckage. How was I supposed to know there was a baby in there?#
 QUARK: There is and I do, usually.#
 QUARK: Now wait a minute. I paid good money for that wreckage and#
@@ -1605,7 +1613,7 @@ QUARK: You mean you didn't like the programme?#
 QUARK: Wait. What about my money?#
 QUARK: Karvino juice, Lorvan crackers, a holosuite programme, a jumja stick and gambling tokens.#
 QUARK: I'll be giving you a full report of her activities, Doctor.#
-QUARK: That's right genuine latinum-plated Renewal Scroll inscription pens. Blessed by Vedek Redab himself shortly before he passed away. Each pen is engraved with the words Deep Space Nine's Third Annual Gratitude Festival, today's date, and a lovely portrait of the station by Ermat Zimm. So get them while you can. They're sure to become collector's items. (Ermat Zimm will be Herman Zimmerman, I presume. Odo and Lwaxana are sitting at a table. She is entranced by the jugglers and acrobats. Upstairs - )#
+QUARK: That's right genuine latinum-plated Renewal Scroll inscription pens. Blessed by Vedek Redab himself shortly before he passed away. Each pen is engraved with the words Deep Space Nine's Third Annual Gratitude Festival, today's date, and a lovely portrait of the station by Ermat Zimm. So get them while you can. They're sure to become collector's items.#
 QUARK: Peldor joi, Chief. You look terrible.#
 QUARK: Here, have a free pen.#
 QUARK: To write down your problems on a Renewal Scroll.#
@@ -1664,7 +1672,7 @@ QUARK: Grand Nagus Zek.#
 QUARK:  Go. Go!#
 QUARK: What does Zek want with me?#
 QUARK: A cup of millipede juice, hold the shells.#
-QUARK: Rom! Rom! Rom! (Rom comes out of the bathroom, using an electric toothbrush device but for his ear.)#
+QUARK: Rom! Rom! Rom!#
 QUARK: Would it be too much trouble for you to put these empty bottles in the replicator?#
 QUARK: Except Nog is on the Homeworld visiting his grandmother.#
 QUARK: No it won't. Until the Nagus gives me back my own quarters this is my home too, and I've had enough of this mess. Clean it up. Now.#
@@ -1760,14 +1768,14 @@ QUARK: Not really.#
 QUARK: Wait. I have to be sure that he's all right. Grand Nagus, can you hear me? Are you okay?#
 QUARK: You hear that? We have to help him.#
 QUARK: Go on. Get out of here before you have me crying too. Get out of here.#
-QUARK: Don't worry. Everything's going to be okay. (WHOOSH. Inside the wormhole, Quark lets Zek out of the sack. The shuttle is shaking.)#
+QUARK: Don't worry. Everything's going to be okay.#
 QUARK: Are you?#
 QUARK: Into the wormhole. What's going on?#
 QUARK: So you did meet them. How did you make contact?#
 QUARK: Sounds simple enough.#
-QUARK: Hello? (Rom and Quark studying the new Rules of Acquisition in Quark's barren quarters)#
+QUARK: Hello?#
 QUARK: Hello? Anyone there?#
-QUARK: Doctor? What are you doing in here?#
+QUARK: Doctor? What are you doing in here? DAX:  A physical entity#
 QUARK: I get it. You're the wormhole aliens. Or would you rather be called the Prophets? I never could figure that one out.#
 QUARK: What? Sisko? What does he have to do with anything?#
 QUARK: I know all about it. He's quite a guy. But I'm not here to talk about Sisko.;#
@@ -1807,7 +1815,7 @@ QUARK: Chief? Chief!#
 QUARK: Chief O'Brien.#
 QUARK: The Klingons just destroyed two of my holosuites. I need a maintenance crew immediately.#
 QUARK: I think my holosuites can wait. It looks like you have bigger problems.#
-QUARK: I didn't. They were in the holosuites. Besides, now they're paying me triple. (The Klingons go over to a table where the Romulan security are sitting.)#
+QUARK: I didn't. They were in the holosuites. Besides, now they're paying me triple.#
 QUARK:  Here you are, gentlemen. And how is DS Nine's most famous fortune teller?#
 QUARK: Just a figure of speech. On the other hand, if you should find yourself in the future again and you find yourself passing by the dabo table, would it really hurt to take a look at the numbers coming up on the wheel? I could make it worth your while.#
 QUARK: Just a thought.#
@@ -1872,7 +1880,8 @@ QUARK: Yes, I mean Moogie. Stop calling her by that infantile nickname.#
 QUARK: Well, I don't.#
 QUARK: You see? You always take her side.#
 QUARK: All right. Fine. Come if you want. Just remember one thing. This is between Moogie, I mean Mother, and me. So if you know what's good for you, you'll stay out of the way.#
-QUARK: Welcome to our home. (Brunt hands over a slip of latinum, which Quark finally remembers to put in a money box by the door.) QUARK: Please place your imprint on the legal waivers and deposit your admission fee in the box by the door. Remember, my house is my house.#
+QUARK: Welcome to our home.#
+QUARK: Please place your imprint on the legal waivers and deposit your admission fee in the box by the door. Remember, my house is my house.#
 QUARK: Now that you mention it, no.#
 QUARK: And if I had my way, I would have been gone another twenty.#
 QUARK: All I had was a cheap wooden chewstick.#
@@ -1906,7 +1915,7 @@ QUARK: I understand perfectly. You're a selfish female who never cared about thi
 QUARK: Mother's been busy.#
 QUARK: I mean she's been busy. I've been doing some checking. This isn't about three bars of latinum.#
 QUARK: A lot more. So much that I haven't been able to track it all down. She's been operating under dozens of different aliases, conducting transactions all over the Ferengi Alliance. Do you know what this means?#
-QUARK: Even if I sold everything I have, I couldn't come close to paying back what she's earned. I'm ruined.; (Later, Quark is sitting, staring straight ahead, when Rom brings him a drink.)#
+QUARK: Even if I sold everything I have, I couldn't come close to paying back what she's earned. I'm ruined.;#
 QUARK: I already have.#
 QUARK: I'm going to kill her.#
 QUARK: A-ha. Caught you. Give me that.#
@@ -1928,7 +1937,7 @@ QUARK: She's no mother of mine.#
 QUARK: How dare you take her side against Father's?#
 QUARK: Take that back.#
 QUARK: Take that back!#
-QUARK: That's the steepest forty flights of stairs I've ever climbed. Seven slips of latinum to use the elevator. Talk about inflation. Refined dilithium down ten percent?#
+QUARK: That's the steepest forty flights of stairs I've ever climbed. Seven slips of latinum to use the elevator. Talk about inflation.  Refined dilithium down ten percent?#
 QUARK: The name's Quark. I'm here to see Liquidator Brunt.#
 QUARK: Of course.#
 QUARK: How much?#
@@ -2053,7 +2062,7 @@ QUARK: I will kill him.#
 QUARK: That is the worst mugshot I've ever seen. I've never understood why law enforcement agencies don't keep better visual records. You'd think they'd be concerned about little things like making an accurate identification.#
 QUARK: Really? Well, everyone is welcome at Quark's. I don't discriminate. Just like Starfleet. They have a non-discrimination policy too, don't they, Commander? I guess we have something in common.#
 QUARK: Major. Always a delight to see you here. What can I get for you?#
-QUARK: Come in. Do you have it? Of course. (Quark examines the contents of a small pouch with an eye piece. Worf leaves.)#
+QUARK: Come in. Do you have it?#
 QUARK: I've been saving this for a special occasion. Tonight certainly qualifies. How did you manage to get these out of the Tallonian system?#
 QUARK: A hundred percent pure.#
 QUARK: I don't know if I'd go that far.#
@@ -2132,7 +2141,7 @@ QUARK: You mean it'll actually fly?#
 QUARK: You don't say? And it's all mine. I can go any place I want.#
 QUARK: Don't get your hopes up. The first thing we need to do is take this thing for a test flight. Someplace reasonably far away, but safe. Someplace like#
 QUARK: Exactly. If the boy wants to go to Starfleet Academy, he might as well do it in style.#
-QUARK: Not to mention profitable. All I ask is a tall ship and a load of contraband to fill her with.#
+QUARK: Not to mention profitable.#
 QUARK: Here are the codes to operate the holosuites. Now remember, don't extend any lines of credit, don't touch the dabo girls, and make sure you keep your eyes on him.  Because he'll be keeping his eyes on you.#
 QUARK: Better him than one of my Ferengi waiters. They'd rob me blind.#
 QUARK: I'm a generous person.#
@@ -2165,12 +2174,13 @@ QUARK: I knew Earth was a bad idea. Ferengis and humans have no business being t
 QUARK: And you were the one who said it was safe.#
 QUARK: What are you talking about?#
 QUARK: Oh, don't be ridiculous. The Divine Treasury is made of pure latinum. Besides, where's the Blessed Exchequer? Where are the Celestial Auctioneers? And why aren't we bidding for our new lives?#
-QUARK: Don't be ridiculous. The bar was showing a profit. (Enter two MPs followed by Wainwright, Nurse Garland and Professor Carlson.)#
+QUARK: Don't be ridiculous. The bar was showing a profit.#
 QUARK: Did you understand a word of that?#
 QUARK: What are they doing?#
-QUARK: They're just mimicking us. (Quark walks forward and tweaks his nose. Wainwright copies him. QUARK: Brik yop tal hopdrew, ki los hoem bog?#
+QUARK: They're just mimicking us.#
+QUARK: Brik yop tal hopdrew, ki los hoem bog?#
 QUARK: I'd always heard primitive humans lacked intelligence but I had no idea they were this stupid.#
-QUARK: The three of us and millions of primitive humans. I like those odds. (And later, Quark is sitting on one of the examination tables while Nurse Garland takes his blood pressure.)#
+QUARK: The three of us and millions of primitive humans. I like those odds.#
 QUARK: Gran fat ari oo-mox? Ya ta fa.#
 QUARK: Gren fa hoe loth pex pil.#
 QUARK: What kind of interference?#
@@ -2291,7 +2301,7 @@ QUARK: I'm not talking about the noise, I'm talking about business. I'm losing m
 QUARK: Anytime there's an unusual crime committed on the station, I run a pool so that people can bet on how long it'll take for you to catch the perpetrator. It's very popular. Frankly, I don't care whether you and Major Kira end up living happily ever after or not. I just want to see the situation resolved. The way I see it, you've either got to tell her how you feel, or forget about her and get on with your life. Concentrate on the essentials. Because you can't keep going like this. It's interfering with your job. And my profits.#
 QUARK: Unless you do something about the situation, I'm going to have to stop running the pool.#
 QUARK: You should be. The fact that that pool exists says something about you, about who you are. People see you as the guy who always gets his man. Now you're becoming the guy who tears up his quarters and sits alone in the rubble. And no one's going to want to place bets on how long someone's going to sit around in the dark. Well, I've said my piece. Sorry for butting in. But I'm just looking out for my business.#
-QUARK:  Nah. {Kira's quarters] (Kira is working at her computer console when the doorbell rings.)#
+QUARK:  Nah.#
 QUARK: They're upstairs.#
 QUARK: Kira and Shakaar. They're in holosuite three, practicing the speech he's going to give tomorrow before he leaves. I hear he's going to announce that the Federation has agreed to cut the timetable on Bajor's admittance.#
 QUARK: Just a rumour.#
@@ -2305,7 +2315,7 @@ QUARK: No, this was more than his standard rudeness. He came in here, ordered so
 QUARK: Something called adanji.#
 QUARK: Why? Is there something special about adanji?#
 QUARK: That's it. I'm going to stop talking to the customers.#
-QUARK: I know exactly how you feel. The Bajoran Time of Cleansing. Could someone explain to me why the Bajorans need to abstain from worldly pleasures for an entire month? I mean, it's not like they're a bunch of hedonistic holosuite-obsessed drunkards to begin with. (Rom groans) No use moaning about it.#
+QUARK: I know exactly how you feel. The Bajoran Time of Cleansing. Could someone explain to me why the Bajorans need to abstain from worldly pleasures for an entire month? I mean, it's not like they're a bunch of hedonistic holosuite-obsessed drunkards to begin with.  No use moaning about it.#
 QUARK: Who's that for?#
 QUARK: Your ear? Again?#
 QUARK: That's disgusting! You want to drive away all the rest of my customers?#
@@ -2332,7 +2342,9 @@ QUARK: Increased pay. Shorter hours. Paid sick leave.#
 QUARK: Yes, it is. And the fact that you don't know that is what makes it so funny. Now get back to work before I fire the lot of you.#
 QUARK: Why not?#
 QUARK: May I take you're order, sir?#
-QUARK: There seems to be an opening at the dabo table. Or perhaps I might interest you in some time in the holosuites? (Quark vanishes and the tray hangs for a moment then drops with a crash.) QUARK: Not again. (There's another Quark with a Pakled at the dabo table too. A Quark comes downstairs.) QUARK: Are you carrying a tricorder or anything with a portable energy source?#
+QUARK: There seems to be an opening at the dabo table. Or perhaps I might interest you in some time in the holosuites?#
+QUARK: Not again.#
+QUARK: Are you carrying a tricorder or anything with a portable energy source?#
 QUARK: I'm still working out the bugs in these holographic waiters. The Lissepian who sold me the programme neglected to mention that certain energy sources can interfere with the imaging system.#
 QUARK: I can take care of the Lissepian. I need you to get those traitors away from my front door. They're blocking access to my place of business, causing a disturbance on the Promenade, and they're probably a fire hazard. They belong in a holding cell, every last one of them.#
 QUARK: Good. Then you'll haul them away.#
@@ -2423,7 +2435,7 @@ QUARK: That's one Black Hole straight up, right?#
 QUARK: Be right with you, Chief.#
 QUARK: Just another minute.#
 QUARK: Look, Chief, I'm a little busy right now.#
-QUARK: Chief, just because your life's in shambles right now. Ow! One synthale coming right up. (O'Brien lets him go. Quark pours him the drink and O'Brien heads for a table in a quiet corner.)#
+QUARK: Chief, just because your life's in shambles right now. Ow! One synthale coming right up.#
 QUARK: A little? There isn't a day goes by that I don't see him standing here, pining away for that no-good nephew of mine.#
 QUARK: No, just four or five times a week. If you ask me, Nog should never have gone off to the Academy. You lost a friend, and I lost a good waiter.#
 QUARK: Remember that the next time you try to play dom-jot by yourself.#
@@ -2472,7 +2484,8 @@ QUARK: Bashir? How good can he be? He doesn't even charge. Besides what could a 
 QUARK: I have six days to take care of everything. My will, Moogie's pension, I have to make funeral arrangements, pay off my debts.#
 QUARK: Yeah, but half are to humans, Bajorans, a couple of Klingons.#
 QUARK: Exactly. But you're right. It's still a lot of debt.#
-QUARK: Who'd want to buy a disk of desiccated Quark? I'm nobody. Just some bartender with a domineering mother and an idiot brother. QUARK: I won't get any cheers for that.#
+QUARK: Who'd want to buy a disk of desiccated Quark? I'm nobody. Just some bartender with a domineering mother and an idiot brother.#
+QUARK: I won't get any cheers for that.#
 QUARK: For a week. If I'm lucky, I'll be a footnote in some Ferengi financial almanac.#
 QUARK: And as a reward I'm inextricably linked to the Federation. I'm a joke on Ferenginar. Starfleet's favourite bartender. The Synthehol King. What a legacy.#
 QUARK: Friends? Community? You sound like some sniveling human. The only opinions I care about are those of my peers. Ferengi businessmen. In their eyes, I'm a second-rate, small-time operator.#
@@ -2607,7 +2620,7 @@ QUARK: Forget it. To the House of Grilka. May it continue to be as strong and pr
 QUARK: I know of no greater compliment. So, what brings you to my humble establishment? Business or pleasure?#
 QUARK: War. What is it good for? If you ask me, absolutely nothing.#
 QUARK: I have got an idea. Why don't I take a look at your financial records? I know that's not why you're here. I'm sure it's simply a social visit, but maybe I could help.#
-QUARK: Thank you. (Grilka and Tumek leave, then Thopok puts his hands on Quark's shoulders.)#
+QUARK: Thank you.#
 QUARK: I want to talk to Dax if that's all right with you. I need help. Grilka invited me to dinner and I need to brush up on Klingon manners and protocol and all that.#
 QUARK: In her quarters. A private dinner. A very private dinner.#
 QUARK: What's wrong with him?#
@@ -2654,7 +2667,8 @@ QUARK: About you!#
 QUARK: To this end my blade soars through the aquarium of my soul, seeking the kelp of discontent which must be cut so that the rocky bottom of love lie in waiting with fertile sand for the coming seed of Grilka's affection. And yet, does this explain my need for her? No. It is like a giant cave of emptiness waiting for the bats of love to hang by#
 QUARK: Well, I guess that's enough talking . Now back to the fighting.#
 QUARK: If you insist.#
-QUARK: Maybe not. Maybe I'll pick up your sword. (He kneels in front of Grilka, puts down his own bat'leth and Thopok's to Grilka.) QUARK: And give it to you I guess.#
+QUARK: Maybe not. Maybe I'll pick up your sword.#
+QUARK: And give it to you I guess.#
 QUARK: You mean, what have we been doing?#
 QUARK: The Chief asked me to come up with a decaffeinated raktajino for Kira. I'm thinking of marketing it.#
 QUARK: I did the best I could. The removal of caffeine from beverages has plagued bartenders and restauranteurs for centuries. You can't expect me to solve it overnight.#
@@ -2740,7 +2754,7 @@ QUARK: Odo, I have no idea what this is all about.#
 QUARK: We?#
 QUARK: What?#
 QUARK: So, how much longer till we reach Inferna Prime?#
-QUARK: In that case, we'd better find something to occupy our time. Care for a game of fizzbin?#
+QUARK: In that case, we'd better find something to occupy our time. Care for a game of#
 QUARK: I'll teach you. It's a very simple game.#
 QUARK: Afraid you'd lose? You know, Odo, I used to think all your problems stemmed from the fact that you were a changeling, isolated from your own kind, forced to live among strangers who didn't understand you. You couldn't eat, you couldn't drink, you couldn't sleep, you couldn't make love. Was it any wonder you had such a bad disposition? But you're not a changeling anymore. You're one of us. Life is yours for the taking. All you have to do is reach out and grab it. But do you? No. Because solid or changeling, you're still a miserable, self-hating misanthrope. That's who you are and that's who you'll always be.#
 QUARK: Fine. Then we'll just sit here for a week in silence. What are you reading?#
@@ -2763,7 +2777,8 @@ QUARK: Shhh.#
 QUARK: I said be quiet! It's coming from here.#
 QUARK: Defective anodyne circuits make a hissing sound. This is a buzz. We'd better open up this hatch.#
 QUARK: Stop being so suspicious. That's odd. The buzzing's changed pitch.#
-QUARK: Let's find out. (Odo unlocks the floor emergency access panel at a console. There's something alien blinking in the circuitry.) QUARK: Don't tell me. Let me guess.#
+QUARK: Let's find out.#
+QUARK: Don't tell me. Let me guess.#
 QUARK: Next time I tell you I hear something, maybe you'll listen.#
 QUARK: What if it's set to go off if someone tries to transport it?#
 QUARK: Fine. Beam it out. But at least try and channel the explosion through the transporter buffer.#
@@ -2776,7 +2791,8 @@ QUARK: Believe me, you don't want to get anywhere near the Orion Syndicate.#
 QUARK: I thought you knew.#
 QUARK: Let me guess. You pretended to know more than you did so I'd think I had nothing to hide and say something to incriminate myself.#
 QUARK: This is all your fault.#
-QUARK: I'm not a member. I just know people who know people who know some other people. And besides (They hit the tree canopy. Blackout, then a little later we see the runabout is perched on a rocky outcrop.) QUARK: Will someone adjust the temperature. It's freezing in here.#
+QUARK: I'm not a member. I just know people who know people who know some other people. And besides#
+QUARK: Will someone adjust the temperature. It's freezing in here.#
 QUARK: Out there? Oh, yeah. Now I remember. You were apologising for almost getting us both killed.#
 QUARK: I guess there's nothing we can do now except send out a distress signal and wait to be rescued.#
 QUARK: That's not good.#
@@ -2786,7 +2802,8 @@ QUARK: You want to help? Here.#
 QUARK: I was.#
 QUARK: The signal booster's completely shot. Which means there's no way we can transmit a distress signal through a planetary atmosphere.#
 QUARK: Actually, I came up with a way to save our lives. All we have to do is haul this transmitter up to higher ground. More altitude, less atmosphere. Go high enough, and we might be able to get a signal out.#
-QUARK: Er, carry the seven, take the square root, times pi. I'd say that high. (The local Everest looms ahead of them. Later, Odo is trying to make a poncho out of a blanket when Quark enters wearing thermals way too big for him.) QUARK: I'm ready when you are.#
+QUARK: Er, carry the seven, take the square root, times pi. I'd say that high.#
+QUARK: I'm ready when you are.#
 QUARK: In the back. It's pretty cozy.#
 QUARK: Don't bother. This is the only one that wasn't destroyed in the explosion.#
 QUARK: Finders keepers. Besides, carrying this transmitter up the mountain should keep you warm.#
@@ -2823,7 +2840,8 @@ QUARK: You don't understand. A one-eared Ferengi is only half a man. We've got t
 QUARK: These aren't rations. These are crumbs. You can't climb a mountain on crumbs.#
 QUARK: You're going to leave me?#
 QUARK: Whose turn is it to carry the transmitter?#
-QUARK: Figures. Figures? Figures! (And further on, it is Odo doing the carrying. And nearly falling backwards under the weight too.) QUARK: I hate this transmitter and I hate this mountain and most of all I hate the Orion Syndicate for stranding us here.#
+QUARK: Figures. Figures? Figures!#
+QUARK: I hate this transmitter and I hate this mountain and most of all I hate the Orion Syndicate for stranding us here.#
 QUARK: Don't try and blame this on me, Constable. It was your job to get me to Inferna Prime safely.#
 QUARK: You never asked.#
 QUARK: Have I ever told you how much I hate that smug, superior attitude of yours?#
@@ -2840,15 +2858,16 @@ QUARK: Speaking of pain, this is probably going to hurt.#
 QUARK: Just watch me.#
 QUARK: Don't you get it? I'm not trying to rescue you. I'm taking you along as emergency rations. If you die, I'm going to eat you.#
 QUARK: Waste not, want not. Comfortable?#
-QUARK: Join the club. (Quark struggles on, over rocks, one step at a time, getting closer to the tree line. Quark tries the transmitter.) QUARK: Higher.#
-QUARK: Hold on, Odo, hold on. Hold on. (The tree line is still above them, mainly because they are filming in a very small area. Eventually Quark collapses.)#
+QUARK: Join the club.#
+QUARK: Higher.#
+QUARK: Hold on, Odo, hold on. Hold on.#
 QUARK: It's over.#
 QUARK: I can't move. We'll have to set up the transmitter here.#
 QUARK: Don't you understand? I can't do it. I'm half frozen. I haven't eaten for days. My muscles won't work anymore. Odo? Say something.#
 QUARK: I can't go any further.#
 QUARK: They're not here.#
 QUARK: What for?#
-QUARK: What are you doing? (Odo has crawled off the travois and is pushing the transmitter along the ground.)#
+QUARK: What are you doing?#
 QUARK: You'll never make it.#
 QUARK: You're trying to embarrass me, aren't you? You're trying to shame me into carrying that thing the rest of the way on my own. Well it's not going to work. You might as well accept the inevitable and die with dignity. That's what I'm going to do. I'm just going to lie here and die.#
 QUARK: My brother will get the bar. My nephew will be completely corrupted by the Federation and become a Starfleet captain. And my bones will lie here and freeze unsold and unmourned.#
@@ -3086,7 +3105,8 @@ QUARK: Then you'll remove all that unnecessary clothing?#
 QUARK: To my room. I'm exhausted.#
 QUARK: I never liked your tube grubs.#
 QUARK: Maybe later.#
-QUARK: Hello, room. Where's all my stuff? If she's thrown out my Marauder Mo action figures. (Quark opens the wardrobe. Zek and Maihar'du are in there. Quark hands over his bag and shuts the door. Then his brain registers what his eyes saw and opens it again.) QUARK: Grand Nagus?#
+QUARK: Hello, room. Where's all my stuff? If she's thrown out my Marauder Mo action figures.#
+QUARK: Grand Nagus?#
 QUARK: I'm visiting my mother.#
 QUARK: Got to go. The Nagus, he knows I'm here. Wait a minute. What's the Nagus doing in my closet?#
 QUARK: Moogie?#
@@ -3240,11 +3260,12 @@ QUARK: One bar, three strips. One bar four strips, and it's all yours. An honour
 QUARK: Lot forty-eight. An Andorian chest containing a pre-Surak Vulcan bracelet, a sixth century Bajoran mandala, a twenty-third century ion transtator, a Willie Mays baseball card from Earth dated nineteen fifty one. Who'll start the bidding with one bar of gold-pressed latinum?#
 QUARK: One bar. Do I hear one bar, five strips?#
 QUARK: One bar, five strips. Do I hear one bar, ten?#
-QUARK: One bar, ten. One, fifteen?  One, fifteen. One, twenty? One, twenty. One, twenty-five?#
+QUARK: One bar, ten. One, fifteen?  One, fifteen. One, twenty?  One, twenty. One, twenty-five?#
 QUARK: The bid is two bars. Do I hear two bars five? Vedek, are you in?#
 QUARK: Two bars, five.#
 QUARK: The bid is ten bars of gold-pressed latinum. Is there another bid?#
-QUARK: Jake? Do you want to make another bid? Sold to the gentleman sitting in the aisle. QUARK: Lot forty nine. A rare example of a twentieth century human art form, acrylic on black velvet. This image was the inspiration for the flag of the Martian colonies in the twenty second#
+QUARK: Jake? Do you want to make another bid? Sold to the gentleman sitting in the aisle.#
+QUARK: Lot forty nine. A rare example of a twentieth century human art form, acrylic on black velvet. This image was the inspiration for the flag of the Martian colonies in the twenty second#
 QUARK: Leeta, that fifteen minute break you asked for was up an hour ago.#
 QUARK: I don't want to think about it. All I know is that any marriage where the female is allowed to speak and wear clothing is doomed to failure. Your dabo table awaits.#
 QUARK: Well, that was the most pathetic excuse for a wedding ceremony I've ever seen. No bridal auction, no latinum dances, and the bride? The bride was severely overdressed.#
@@ -3285,7 +3306,8 @@ QUARK: Yes. He said something about the station's defector.#
 QUARK: Defector. That doesn't sound right. Maybe it was deflector? Yeah, that's it. He said something about using the station's deflector array.#
 QUARK: Why didn't you think of that when you set up the minefield?#
 QUARK: He doesn't know.#
-QUARK: Unbelievable. Amazing. What nerve. Morn, you do have a problem, but lucky for you the solution is simple. You're a grown man. If you don't want to attend your mother's birthday party, you don't have to. And if she keeps whining about it, just remind her there's a war on and you have things to do. Another ale? (But Quark spots Kira walking past and gives Morn his empty glass back.) QUARK: Here, it's on the house.#
+QUARK: Unbelievable. Amazing. What nerve. Morn, you do have a problem, but lucky for you the solution is simple. You're a grown man. If you don't want to attend your mother's birthday party, you don't have to. And if she keeps whining about it, just remind her there's a war on and you have things to do. Another ale?#
+QUARK: Here, it's on the house.#
 QUARK: Major, you ready?#
 QUARK: Right now.#
 QUARK: I keep telling myself that Odo never meant to have Rom to get arrested. It was all a mistake. Bad timing, bad luck.#
@@ -3334,10 +3356,11 @@ QUARK: Do you know how to make hasperat souffl�?#
 QUARK: Lunch for Major Kira.#
 QUARK: And I can only imagine the slop you served her. What I have here is hasperat souffl�, just the way the Major likes it.#
 QUARK: Er, is that really necessary?#
-QUARK: If you insist. You see? Hasperat souffl�, just as I said. Stop poking it. It's very delicate. (The Cardassian leans in closer and continues spearing the food. Ziyal gives him a hypospray and he lands face down in it.) QUARK: Now you've ruined it.#
+QUARK: If you insist. You see? Hasperat souffl�, just as I said. Stop poking it. It's very delicate.#
+QUARK: Now you've ruined it.#
 QUARK: All right, no one move!#
 QUARK: It's a surprise to me. Now, just keep calm and stay where you are. Understand? Don't move. You, open the holding cells. I said, open the holding cells.#
-QUARK: Right. Nobody moves except you. Now open the cells. (The Jem'Hadar look at each other then tense up. Quark kills them both in total surprise.)#
+QUARK: Right. Nobody moves except you. Now open the cells.#
 QUARK: Yes?#
 QUARK: Forcefields?#
 QUARK: Ready and waiting, Chief.#
@@ -3441,7 +3464,7 @@ QUARK: Exactly like Commander Worf. Think of it, Nog. You'll devise the tactics,
 QUARK: Turn us into soldiers.#
 QUARK: That's why we need you.#
 QUARK: Right now?#
-QUARK: Now remember, Leck is not your typical Ferengi. His priorities are different than ours.#
+QUARK: Now remember,#
 QUARK: No you don't, but you will.#
 QUARK: I followed your instructions to the letter.#
 QUARK: It's not that kind of job.#
@@ -3466,7 +3489,7 @@ QUARK: What?#
 QUARK: You think if you help save my mother, the Nagus will give you your old job back.#
 QUARK: We're not leaving. Not with you.#
 QUARK: The team has spoken.#
-QUARK: Don't move! You're surrounded. (The Jem'Hadar fire. Quark is shot in the leg, Gaila drops his weapon and runs, Rom walks into a wall.)#
+QUARK: Don't move! You're surrounded.#
 QUARK: That's enough! Get out of here, all of you. You heard me. Go.#
 QUARK: We're wasting our time, Rom. We couldn't get anywhere near Moogie, let alone rescue her.#
 QUARK: And to think, just a few short days ago I was sitting on top of the world. The king of squill. You should've been there, brother. It was a very delicate negotiation. It could've gone either way. But I took my time, picked my moment, then went in for the kill. It was beautiful to behold.#
@@ -3540,16 +3563,16 @@ QUARK: The prisoner exchange. I'd like for it to take place outside airlock thre
 QUARK: Nothing, except my ship is docked at airlock three. You understand.#
 QUARK: Ah, well, a sign of the times.#
 QUARK: Nog, you've got five minutes.#
-QUARK: Yelgrun, you ready? (Quark and Keevan stand at the end of the corridor. Keevan's head is tilted to the right.)#
+QUARK: Yelgrun, you ready?#
 QUARK: On a count of three, we release our prisoners. Agreed?#
-QUARK: One, two three. (Ishka gets the nod and starts walking. Keevan needs a little shove to stagger forward, stiff-legged, under Nog's remote control.)#
+QUARK: One, two three.#
 QUARK: Straighten him out, straighten him out.#
 QUARK: Would you please turn him off?#
 QUARK: We'll take him with us. He'll be our gift to Starfleet. They gave us a Vorta, we'll give them one.#
 QUARK: I know, I know. You hate us.#
 QUARK: You'll be the first one I call.  If I even think about doing something like this again, shoot me.#
 QUARK: You tell me.#
-QUARK: You bet it does. (Quark and Rom follow the others into the airlock, leaving the dead Jem'Hadar and Keevan behind, still bumping into the bulkhead.)#
+QUARK: You bet it does.#
 QUARK: It's a hologram. Morn's been away on business for the last two weeks. You're slipping, Odo. You should've caught on a lot sooner.#
 QUARK: That's why. People love him. He's like a mascot. Everyone who comes in here expects to see him, and if they don't, it doesn't feel like home to them.#
 QUARK: The last time he went away, my sales dropped almost five percent.#
@@ -3564,7 +3587,8 @@ QUARK: I'll have you know that Morn died without paying this month's tab.#
 QUARK: We're talking about a lot of money. The man had quite an appetite. You know he had two stomachs to fill. Ever watch him eat? It was a beautiful thing.#
 QUARK: It's nice to know you're so worried about my welfare.#
 QUARK: We'll see. You might be surprised.#
-QUARK: Everyone. Thank you all for coming. It means a great deal to me to see so many people cared about Morn as much as I did. I'll never forget the first time he walked in here and sat down on that very stool. It must have been almost ten years ago. He still had his hair then. I thought he was just another customer passing through. Little did I know he'd become such an important figure in my life, in all our lives. Morn was always someone we could count on for a cheerful smile and an entertaining story. Some of you might be thinking this place won't be the same without him. And it won't. But this was his home. And wherever he is, I'm sure he'd want to know that his favourite bar still echoed with the laughter of his dear friends. This was his chair and I think the greatest tribute we could ever pay him would be to make sure that it's never empty. (Quark gets Mark Allen Shepherd to sit on the chair.) QUARK: Keep it warm. For Morn.#
+QUARK: Everyone. Thank you all for coming. It means a great deal to me to see so many people cared about Morn as much as I did. I'll never forget the first time he walked in here and sat down on that very stool. It must have been almost ten years ago. He still had his hair then. I thought he was just another customer passing through. Little did I know he'd become such an important figure in my life, in all our lives. Morn was always someone we could count on for a cheerful smile and an entertaining story. Some of you might be thinking this place won't be the same without him. And it won't. But this was his home. And wherever he is, I'm sure he'd want to know that his favourite bar still echoed with the laughter of his dear friends. This was his chair and I think the greatest tribute we could ever pay him would be to make sure that it's never empty.#
+QUARK: Keep it warm. For Morn.#
 QUARK: Not now.#
 QUARK: Me? He left everything to me?#
 QUARK: Morn. Dear, sweet Morn.#
@@ -3632,7 +3656,8 @@ QUARK: Sorry.#
 QUARK: Fifty it is.#
 QUARK: Me too.#
 QUARK: Me? Don't be ridiculous.#
-QUARK: What do we have here? QUARK: Computer, what is this?#
+QUARK: What do we have here?#
+QUARK: Computer, what is this?#
 QUARK: A storage locker! Thank you, computer. You've been very helpful. Morn, wherever you are, I love you!#
 QUARK: What do you mean I have to open it in here?#
 QUARK: There's no such regulation. You just want to know what's inside. You are so transparent. I can't wait to see your face when your deputies wheel in my thousand bricks of latinum.#
@@ -3720,19 +3745,22 @@ QUARK: Friends of Morn. We're commiserating.#
 QUARK: Oh, until about sixteen hundred hours tomorrow. We have a lot to commiserate about.#
 QUARK: Where were we?#
 QUARK: There it is, right on time. I believe that's for me.#
-QUARK: I'll count it (Behind him, Larell and Hain pull weapons on Krit and Nahsk, and vice versa. Quark backs out until his head is between all four weapons.) QUARK: All right, somebody else count it.#
+QUARK: I'll count it#
+QUARK: All right, somebody else count it.#
 QUARK: Go ahead, kill each other.#
 QUARK: Are they gone?#
 QUARK: For how long?#
 QUARK: Then it's mine, all mine.#
-QUARK: What you're about to hear is the most beautiful sound in the galaxy. (Quark taps the bricks together. They clunk. Quark smashes the bricks and they crumble to dust.) QUARK: That can't be! There's no latinum in these bricks!#
+QUARK: What you're about to hear is the most beautiful sound in the galaxy.#
+QUARK: That can't be! There's no latinum in these bricks!#
 QUARK: Someone's extracted all the latinum. There's nothing here but worthless gold.#
 QUARK: No! No! No!#
 QUARK: What? What do you want?#
 QUARK: I thought you said they were all going to prison.#
 QUARK: Morn?#
 QUARK: Well? No! I don't want to hear it. Not one word. You set me up. You left the latinum to me because you knew I would do whatever it would take to get my hands on it. You figured I could keep the four of them off balance long enough for them to turn on themselves. This whole thing was a scam to get them off your back, wasn't it.#
-QUARK: I could have been killed, you know. And I thought we were friends. I have to admit, I didn't suspect for a minute. To tell you the truth, I didn't think you had it in you to pull off something like this. I just have one question for you. What happened to the latinum? (Morn looks around, picks up a glass and regurgitates a drop of glistening mercury-like liquid.) QUARK: Of course. Your second stomach. You've been keeping it in your second stomach all these years? That's a lot of latinum. No wonder your hair fell out.#
+QUARK: I could have been killed, you know. And I thought we were friends. I have to admit, I didn't suspect for a minute. To tell you the truth, I didn't think you had it in you to pull off something like this. I just have one question for you. What happened to the latinum?#
+QUARK: Of course. Your second stomach. You've been keeping it in your second stomach all these years? That's a lot of latinum. No wonder your hair fell out.#
 QUARK: For me? That must be a hundred bricks worth. I don't know what to say. Thanks. Not that I didn't earn it after all you put me through. If you ever want to set me up again, feel free. You know, you and I should consider doing business together. Two enterprising gentlemen like us could do all right for ourselves. Take that gold dust of yours. It doesn't have to be a total loss. I hear there're some primitive cultures who consider it quite valuable.#
 QUARK: I didn't want to say anything, but you do look a little on the petite side.#
 QUARK: And they say you don't have a sense of humour.#
@@ -3957,14 +3985,15 @@ QUARK: I'm trying.#
 QUARK: Do I look like a man?#
 QUARK: Don't listen to him, hot lobes. I'm as female as they come and I'll prove it to you.#
 QUARK: Well?#
-QUARK: Oh, all right. (With his back to us, Quark opens his dress to show Nilva his full monty.) QUARK: Now are you sure?#
+QUARK: Oh, all right.#
+QUARK: Now are you sure?#
 QUARK: It was a gift. Poor Nilva. Such a lovely man, but so lonely.#
 QUARK: There was a sweetness to him, and also a strength. Sometimes he'd get this little glint in his eye. You know what I mean.#
 QUARK: You're mocking me, aren't you?#
 QUARK: I've only been a male again for six hours. My hormones must still be out of balance. My emotions are raging out of control.#
 QUARK: Would you mind giving me a hug?#
 QUARK: Just a small one.#
-QUARK: Thank you. (Odo spots Morn watching and breaks it up. Zek, Ishka, Rom and Maihar'du enter.)#
+QUARK: Thank you.#
 QUARK: Will you forgive me, Moogie?#
 QUARK: It made me more compassionate, more empathetic, more nurturing. I feel like I'm trapped in my worst nightmare.#
 QUARK: Aluura.#
@@ -3986,7 +4015,7 @@ QUARK: Nonsense. His body weight is perfectly distributed across the seat. He's 
 QUARK: This isn't going to give anybody vertigo.#
 QUARK: Did you notice how he changed the minute she walked in the room?#
 QUARK: And what's love?#
-QUARK: Love's a distraction. And a distracted policeman is an opportunity. Captain's log, stardate 51948.3. With the safe arrival of convoy PQ One in the Vegan System, our escort duties are now complete and I've set course for home.#
+QUARK: Love's a distraction. And a distracted policeman is an opportunity.#
 QUARK: I hope you're satisfied. I'm sure nothing gives you more pleasure than stifling my creativity.#
 QUARK: Oh yeah? Let's see how creative you are. Have you picked out the Major's gift yet?#
 QUARK: For this Saturday. You do know what Saturday is, right?#
@@ -4002,7 +4031,7 @@ QUARK: But nothing you see or hear turns up in print. And none of it, none of it
 QUARK: Excuse me, coming through. Excuse me. Excuse me. Odo?#
 QUARK: Can I see it?#
 QUARK: Oh, very nice. The Major's going to love it. How are going to give it to her? What sort of evening do you have planned?#
-QUARK: Fortunately for you, there's still time. (pulls out the box of holosuite rods) Pick one.#
+QUARK: Fortunately for you, there's still time.  Pick one.#
 QUARK: It's your anniversary. You have to do something special.#
 QUARK: Have it your way, but if it was me and I had found true love after a lifetime of searching, every month would be worth celebrating.#
 QUARK: Looks like the Constable's going to be busy Saturday night. I guess that means he won't be following me around the station, or watching the airlocks for wanted criminals, or monitoring the cargo bays for illegal transactions.#
@@ -4022,7 +4051,7 @@ QUARK: Beautiful, aren't they?#
 QUARK: Do you know how much I was going to get for these? Almost two hundred bars.#
 QUARK: No kidding that's a lot. Now, they're just a crate full of junk.#
 QUARK: No, he'll find out. Odo would love nothing more than to see me in jail. And after all I did for him.#
-QUARK: Like helping him find true love. That's right. If it wasn't for me, he and Major Kira would've never gotten together in the first place. I was there for him during all the heartache and lonely nights when he was wallowing in misery because she was still seeing Shakaar. I told him to make his move. I told him not to give up. I was there for him. And what did I get out of it? Nothing. He still spies on me, he still bothers me about minor infractions of the law, and he still can't wait for the opportunity to send me to prison. I should have remembered the two hundred and eighty fifth Rule of Acquisition. No good deed ever goes unpunished. (Quark puts the case into a crate, and they leave. A pair of barrels morph into Odo.)#
+QUARK: Like helping him find true love. That's right. If it wasn't for me, he and Major Kira would've never gotten together in the first place. I was there for him during all the heartache and lonely nights when he was wallowing in misery because she was still seeing Shakaar. I told him to make his move. I told him not to give up. I was there for him. And what did I get out of it? Nothing. He still spies on me, he still bothers me about minor infractions of the law, and he still can't wait for the opportunity to send me to prison. I should have remembered the two hundred and eighty fifth Rule of Acquisition. No good deed ever goes unpunished.#
 QUARK: To failure.#
 QUARK: Jake, in ten minutes my business partner's ship will dock. In fifteen minutes, Odo will arrest him. In twenty minutes, my name will come up, and in twenty five minutes Odo will walk in here with a warrant. I think you should humour me on this one.#
 QUARK: You would?#
@@ -4408,7 +4437,7 @@ QUARK: What's wrong with me?#
 QUARK: I've been infected, too. I haven't raised prices in months. I've even been considering letting the dabo girls keep most of their tips. I've gone soft!#
 QUARK: I don't. And I'm going to do something about it. This disease has got to be stopped before it destroys everything Ferenginar stands for. If Zek wants me to be Nagus, he's going to have to let me do things my way. Or else, I'll turn down the job!#
 QUARK: You bet I am.#
-QUARK: I don't care. I won't preside over the demise of Ferengi civilisation. Not me. The line has to be drawn here. This far and no further! (Cardassian street] (Kira and Damar are hiding in the shadows from the passers-by.)#
+QUARK: I don't care. I won't preside over the demise of Ferengi civilisation. Not me. The line has to be drawn here. This far and no further!#
 QUARK: Just wait and see. It's going to be more historic than you think.#
 QUARK: Not so fast, Zek. We need to talk.#
 QUARK: I won't have anything to do with you're doing to our once proud civilisation. A man can only be pushed so far. If you want me to be Nagus, you're going to have to let me do things my way.#

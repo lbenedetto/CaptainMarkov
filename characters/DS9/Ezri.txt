@@ -2,7 +2,7 @@ EZRI: That's all right, Mister Sisko, I'm not hungry. I'm here to see Ben.#
 EZRI: Hello, Benjamin.#
 EZRI: It's me. Dax.#
 EZRI: Hello, Benjamin.#
-EZRI: It's me. Dax. And now, the continuation.#
+EZRI: It's me. Dax.#
 EZRI: I can hardly believe it myself. But I'm Dax. I mean, I'm not Jadzia Dax. I'm Ezri Dax. But I have all of Jadzia's memories. Not to mention Lela's, Tobin's, Emony's, Audrid's, Joran's, Curzon's. Am I forgetting anyone?#
 EZRI: Right. You're probably asking yourself who is this person? How did she get the symbiont? Do I even want another Dax in my life? Does she always talk this much? These are all very good questions and I wish I had good answers for you.#
 EZRI: Really? That is so nice of you to say. I'm not usually this emotional. It must be the Emony in me. At least I think it's Emony Hi, Jake.#
@@ -39,7 +39,7 @@ EZRI: We've been keeping a pretty fast pace. It might be a good idea to give you
 EZRI: I think we should stick together.#
 EZRI: Benjamin? Benjamin. Is this it?#
 EZRI: You're not sure? Ben, that's not good enough. Ben.#
-EZRI: Are you listening to me? (Sisko remembers seeing the ball rolling off the piano in the restaurant.)#
+EZRI: Are you listening to me?#
 EZRI: Where?#
 EZRI: Why there? I wasn't even aiming at anything. Ben, maybe my memories are playing tricks on me but have you gotten stranger?#
 EZRI: Here.#
@@ -209,7 +209,7 @@ EZRI: Right, except it's bases loaded. Now, what's a Fancy Dan?#
 EZRI: I most certainly am not.#
 EZRI: You should come watch.#
 EZRI: That is so sweet.#
-EZRI: You almost had it. (Worf catches easily. Leeta looks scared but does okay. Rom stands then turns and watches the ball bouncing behind him. Nog catches okay.)#
+EZRI: You almost had it.#
 EZRI:  I can't believe this. I used to be an athlete. At least I remember being an athlete. My third host Emony was an Olympic gymnast. I keep expecting my legs to react like hers did, but I fell all over myself. It's like I don't know my own body anymore.#
 EZRI: If you believe Julian. Personally, I'm not sure I'm going to make it.#
 EZRI: Benjamin was way out of line today, Rom.#
@@ -528,7 +528,7 @@ EZRI: I should get going. Make sure you get some sleep.#
 EZRI: And you're very drunk.#
 EZRI: Good night, Ilario.#
 EZRI: Yeah, yeah. I'm up.#
-EZRI: Fanalian tea. Hot. (There is a commotion outside. She looks outside to see armed security running past.)#
+EZRI: Fanalian tea. Hot.#
 EZRI: What happened?#
 EZRI: Killed? How?#
 EZRI: What was the time of death?#
@@ -552,7 +552,7 @@ EZRI: You're right. Even if it does mean lying in my bed, staring at the ceiling
 EZRI: Is this the one we've been looking for?#
 EZRI: Why? Why did you do it?#
 EZRI: But you're dead.#
-EZRI: What? (Ezri's hands are covered in blood. Suddenly she is in -#
+EZRI: What?#
 EZRI: Dax to Security. Odo? Kira? Anyone there? Security, please answer me. Joran!#
 EZRI: What do you want?#
 EZRI: Joran.#
@@ -609,7 +609,6 @@ EZRI: Then why did you tell me to pull the trigger?#
 EZRI: I'm not a murderer. I'm not you.#
 EZRI: That has nothing to do with me. You're the killer.#
 EZRI: I'm just thinking out loud.#
-EZRI: No, thanks. I'm not hungry, really.#
 EZRI: I have a better idea. Let's get back to work. The sooner we find our killer, the sooner you and I can part company.#
 EZRI: Think again.#
 EZRI: What are we looking for?#
@@ -814,7 +813,8 @@ EZRI: And it was Julian.#
 EZRI: Isn't that strange? I wonder what it meant?#
 EZRI: Very funny. The cave could symbolise the womb. Maybe my subconscious is trying to tell me that I need to confront emotions that I've repressed since birth. But which one? I've been born nine times.#
 EZRI: I'm a counsellor. Analysing dreams is part of my job.#
-EZRI: Well, I'm not Jadzia, am I? (Three Breen enter. Once keeps Ezri back and the other two go for Worf. He refuses to move so they jab him with their electric shock weapons and he collapses. Ezri gets jabbed as well. They drag Worf away.) EZRI: Where are you taking him?#
+EZRI: Well, I'm not Jadzia, am I?#
+EZRI: Where are you taking him?#
 EZRI: Worf.#
 EZRI: What have they done to you?#
 EZRI: Worf, wake up. Please.#
@@ -873,7 +873,8 @@ EZRI: Answer the question. Do you love me?#
 EZRI: What is it, Worf? Could it be that you're feeling just a little guilty because you don't have the same feelings for me that you did for Jadzia? If that's true, maybe we both made a mistake back on Goralis. So maybe we both should be forgiven.#
 EZRI: What?#
 EZRI: There's no crime in that.#
-EZRI: Go on. From the first moment you came on the station, I knew you were not Jadzia, and yet I knew that there was a part of Jadzia still alive within you. On Goralis, I allowed myself to see her instead of you. EZRI: I felt the same way. A part of me, the part that was your wife, wanted very much to be close to you.#
+EZRI: Go on. From the first moment you came on the station, I knew you were not Jadzia, and yet I knew that there was a part of Jadzia still alive within you. On Goralis, I allowed myself to see her instead of you.#
+EZRI: I felt the same way. A part of me, the part that was your wife, wanted very much to be close to you.#
 EZRI: Worf, we're not gods or prophets. We're people. We make mistakes. There is one other thing I want you to know. I honestly didn't realise how I felt about Julian. I would have never hidden something like that from you.#
 EZRI: That's good to know. Friends?#
 EZRI: And more.#
@@ -890,7 +891,7 @@ EZRI: I'm not certain about anything. But he is handsome.#
 EZRI: He knows how to have a good time. Besides, it's not exactly a toy. You heard the Chief. He spent hours making that.#
 EZRI: I know. Maybe I am in love with him. Do you think I should tell him how I feel?#
 EZRI: You're a good friend, Worf.#
-EZRI: You know, if you want to go down there and help them. (gets a Look) Just a thought.#
+EZRI: You know, if you want to go down there and help them.  Just a thought.#
 EZRI: Autonomous guidance system initialised and active.;#
 EZRI: It's a model.#
 EZRI: The comm's out.#
@@ -944,7 +945,8 @@ EZRI: We've figured it out. You know, it takes a certain maturity to not be swep
 EZRI: Chemistry isn't everything.#
 EZRI: I think we should be proud of ourselves.#
 EZRI: Friends.#
-EZRI: Good morning. EZRI: What are you smiling at?#
+EZRI: Good morning.#
+EZRI: What are you smiling at?#
 EZRI: Not a chance. I'd have turned and walked the other way as soon as I saw you.#
 EZRI: Me too.#
 EZRI: Julian.#

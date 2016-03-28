@@ -1,17 +1,11 @@
 Episode Number: 211
 The Next Generation Transcripts - Hero Worship
-Hero
-Worship
-Stardate:
-45397.3
+Hero Worship
+Stardate: 45397.3
 Original Airdate: 27 Jan, 1992
- 
-Captain's log, stardate 45397.3. Two days ago, Starbase five one four
-lost contact with the research vessel Vico, which
-was sent to explore the interior of a Black Cluster. We are en route to
-investigate.
+Captain's log, stardate 45397.3. Two days ago, Starbase five one four lost contact with the research vessel Vico, which was sent to explore the interior of a Black Cluster. We are en route to investigate. 
 [Bridge]
-FELTON: Captain, we are entering sector nine seven.
+FELTON: Captain, we are entering sector nine seven. 
 DATA: I am picking up massive gravitational fluctuations, sir. 
 PICARD: Take us out of warp, Ensign. 
 FELTON: Yes, sir. 
@@ -27,26 +21,19 @@ DATA: I have located the Vico, sir. The vessel appears to be adrift.
 RIKER: Let's see it. Life signs? 
 WORF: Nothing, Commander. 
 RIKER: Damage report, Mister Data. 
-DATA: Outer and inner hulls have been breached. Decks seven through
-twelve are exposed to space. 
-RIKER: Set up a translink to their computer core. Let's see what
-happened. 
-DATA: I cannot, sir. The emergency bulkheads on that deck are in place.
-Our linkup signal cannot penetrate them. 
+DATA: Outer and inner hulls have been breached. Decks seven through twelve are exposed to space. 
+RIKER: Set up a translink to their computer core. Let's see what happened. 
+DATA: I cannot, sir. The emergency bulkheads on that deck are in place. Our linkup signal cannot penetrate them. 
 PICARD: Structural status, Commander? 
-DATA: Stress readings indicate considerable pressure on the transverse
-supports. 
+DATA: Stress readings indicate considerable pressure on the transverse supports. 
 PICARD: Is it stable enough for an away team? 
 DATA: Yes, sir, but the risk of structural collapse is quite high. 
-PICARD: Have transporter room one maintain a lock on each member of
-your away team. I want you out of there at the first sign of trouble. 
+PICARD: Have transporter room one maintain a lock on each member of your away team. I want you out of there at the first sign of trouble. 
 RIKER: Take us to fifteen thousand metres, Ensign. 
 FELTON: Yes, sir. 
-RIKER: Data, you're with me.
+RIKER: Data, you're with me. 
 [Vico]
-(flickering lights, escaping steam, debris, bodies.
-A falling girder nearly catches the away team as they start to move
-through the ship) 
+(flickering lights, escaping steam, debris, bodies. A falling girder nearly catches the away team as they start to move through the ship) 
 DATA: This station is inoperable, sir. 
 LAFORGE: This one seems to be stuck in a feedback loop. 
 RIKER: Let's see if we can tap directly into the computer core. 
@@ -56,24 +43,17 @@ LAFORGE: Data?
 (puts the spare CPU down and sets up the laser link) 
 DATA: Core transfer is engaged. 
 Geordi looks at the instrumentation on the device. 
-LAFORGE: Exchange protocol verified. The files are intact. At least
-some of them, anyway. 
+LAFORGE: Exchange protocol verified. The files are intact. At least some of them, anyway. 
 (a high pitched voice is heard) 
 RIKER: Stay here, Geordi. Data. 
-(a little further along, they find a young boy trapped under
-debris);
-TIMOTHY: Are my parents alright?
-Captain's log, supplemental. A young boy, shielded
-from our initial sensor scans, has been discovered pinned beneath a
-fallen beam. The degree of damage to the Vico is making our rescue
-attempt difficult. 
+(a little further along, they find a young boy trapped under debris);
+TIMOTHY: Are my parents alright? 
+Captain's log, supplemental. A young boy, shielded from our initial sensor scans, has been discovered pinned beneath a fallen beam. The degree of damage to the Vico is making our rescue attempt difficult. 
 [Bridge]
-PICARD: Transporter room one, can you lock on
+PICARD: Transporter room one, can you lock on 
 [Transporter room]
-PICARD [OC]: To him and transport directly to
-Sickbay? 
-HUTCHINSON: I'll try, Captain, but there's a lot of shielding to pull
-him through.
+PICARD [OC]: To him and transport directly to Sickbay? 
+HUTCHINSON: I'll try, Captain, but there's a lot of shielding to pull him through. 
 [Bridge]
 PICARD: Acknowledged. Picard to Crusher. 
 [Sickbay]
@@ -82,245 +62,151 @@ PICARD [OC]: Prepare for emergency transport.
 CRUSHER: Yes, sir. 
 [Bridge]
 CRUSHER [OC]: Crusher out. 
-PICARD: Picard to Commander Riker.
+PICARD: Picard to Commander Riker. 
 [Vico]
 PICARD [OC]: Is the boy ready, Number One? 
 RIKER: Ready, sir. 
 PICARD [OC]: It's your signal. 
-RIKER: Aye, Captain. It's going to be okay. Here we go. Energise.
+RIKER: Aye, Captain. It's going to be okay. Here we go. Energise. 
 [Transporter room]
 PICARD [OC]: Ensign, do we have him? 
-HUTCHINSON: The lock is holding. I just can't resolve the matter
-stream, not with all that victurium alloy in the way.
+HUTCHINSON: The lock is holding. I just can't resolve the matter stream, not with all that victurium alloy in the way. 
 [Vico]
-HUTCHINSON [OC]: Commander Riker. You'll have to
-get him out into the corridor. 
-DATA: I could move the beam, sir. However, it may initiate the collapse
-of the surrounding supports. I recommend you and Geordi return to the
-ship. 
+HUTCHINSON [OC]: Commander Riker. You'll have to get him out into the corridor. 
+DATA: I could move the beam, sir. However, it may initiate the collapse of the surrounding supports. I recommend you and Geordi return to the ship. 
 RIKER: Agreed. La Forge. 
 [Transporter room]
 (Riker and La Forge are beamed in) 
-HUTCHINSON: I'm locked onto Commander Data and the boy, sir. I'll
-energise as soon as they've cleared the bulkheads. 
+HUTCHINSON: I'm locked onto Commander Data and the boy, sir. I'll energise as soon as they've cleared the bulkheads. 
 RIKER: Whenever you're ready, Data. 
 DATA [OC]: Yes, sir. 
 [Vico]
 TIMOTHY: Are you're going to lift that? 
-DATA: Yes. Then I will take you to the corridor. We will transport back
-to the Enterprise from there. Do you understand? 
+DATA: Yes. Then I will take you to the corridor. We will transport back to the Enterprise from there. Do you understand? 
 TIMOTHY: How come you can pick up something so heavy? 
-DATA: I am an android. My strength is many times that of a human. It is
-going to be okay. I will count to three. One two three. 
-(he pushes up the beam with one hand, Timothy wriggles out and runs.
-Data drops the beam and follows, picking the boy up when he stumbles at
-the steps);
-DATA: Energise.
-Captain's log, supplemental. A thorough search of
-the Vico has revealed no additional survivors. We have begun the
-process of counselling the boy with regard to the tragedy.
+DATA: I am an android. My strength is many times that of a human. It is going to be okay. I will count to three. One two three. 
+(he pushes up the beam with one hand, Timothy wriggles out and runs. Data drops the beam and follows, picking the boy up when he stumbles at the steps);
+DATA: Energise. 
+Captain's log, supplemental. A thorough search of the Vico has revealed no additional survivors. We have begun the process of counselling the boy with regard to the tragedy. 
 [Sickbay]
 CRUSHER: Don't be afraid. 
 (a little while later) 
-TIMOTHY: We were in the Black Cluster. I don't know where they came
-from. They had a big ship and they kept shooting at us. Then they
-beamed over. They had purple helmets on and phaser rifles. I saw them.
-They didn't see me. 
-CRUSHER: You're safe now, Timothy. I'm sorry for what happened. It's
-going to be all right. I bet you're hungry. Would you like me to get
-you something to eat? 
+TIMOTHY: We were in the Black Cluster. I don't know where they came from. They had a big ship and they kept shooting at us. Then they beamed over. They had purple helmets on and phaser rifles. I saw them. They didn't see me. 
+CRUSHER: You're safe now, Timothy. I'm sorry for what happened. It's going to be all right. I bet you're hungry. Would you like me to get you something to eat? 
 (Timothy nods and Crusher leaves) 
-DATA: Counsellor, I must join Commander La Forge in Engineering. If you
-will excuse me. 
+DATA: Counsellor, I must join Commander La Forge in Engineering. If you will excuse me. 
 (but Timothy is holding onto Data's hand) 
-TROI: Timothy, would you like Data to stay with you a little bit
-longer?
-(a little nod)
+TROI: Timothy, would you like Data to stay with you a little bit longer? (a little nod) 
 [Engineering]
-(looking at a schematic of the Vico on a wall
-monitor) 
-LAFORGE: Sections of the primary and secondary hull were torn right
-off. The shearing planes are here, here, and here. 
+(looking at a schematic of the Vico on a wall monitor) 
+LAFORGE: Sections of the primary and secondary hull were torn right off. The shearing planes are here, here, and here. 
 PICARD: How much longer till we can access their logs? 
 LAFORGE: Almost an hour. 
 PICARD: The boy was here. 
-LAFORGE: The hallway outside the computer core. His mother was the
-ship's systems engineer. The second away team found her
-body here inside the core. 
+LAFORGE: The hallway outside the computer core. His mother was the ship's systems engineer. The second away team found her body here inside the core. 
 PICARD: And his father? 
-LAFORGE: Ship's second officer. He was most likely on the bridge when
-it was exposed to space. 
+LAFORGE: Ship's second officer. He was most likely on the bridge when it was exposed to space. 
 PICARD: Most likely. 
 [Sickbay]
-(Timothy falls asleep and Data is freed from his
-grip) 
-CRUSHER: He'll sleep for a few hours at least. I don't need to keep him
-here but I will need to see him again tomorrow.
-You've got some work cut out for you. 
-TROI: His world is gone, Data. We're going to have to help him build a
-new one.
+(Timothy falls asleep and Data is freed from his grip) 
+CRUSHER: He'll sleep for a few hours at least. I don't need to keep him here but I will need to see him again tomorrow. You've got some work cut out for you. 
+TROI: His world is gone, Data. We're going to have to help him build a new one. 
 [Engineering]
-LAFORGE: This is not good. Whatever hit the Vico
-must have set up an EM pulse that flashed through their computer banks.
+LAFORGE: This is not good. Whatever hit the Vico must have set up an EM pulse that flashed through their computer banks. 
 DATA: Nearly eighty three percent of their records have been lost. 
-LAFORGE: And all of their sensor logs. Let's use what we got from our
-own sensors. I'll call up the structural analysis and the surface
-scans. 
+LAFORGE: And all of their sensor logs. Let's use what we got from our own sensors. I'll call up the structural analysis and the surface scans. 
 DATA: Geordi, as a child, did you ever experience a traumatic event? 
 LAFORGE: You're wondering about Timothy? 
 DATA: Yes. 
-LAFORGE: I was caught in a fire once. I must have been, I don't know,
-about five, I guess. It was before I got the first visor. And it was
-only a couple of minutes before my parents found me and pulled me out.
-And nobody got hurt, but I tell you that was the longest couple of
-minutes of my life. It was a while after that before I could even let
-my parents get out of earshot. It was like I absolutely needed to know
-that they were there, you know? 
+LAFORGE: I was caught in a fire once. I must have been, I don't know, about five, I guess. It was before I got the first visor. And it was only a couple of minutes before my parents found me and pulled me out. And nobody got hurt, but I tell you that was the longest couple of minutes of my life. It was a while after that before I could even let my parents get out of earshot. It was like I absolutely needed to know that they were there, you know? 
 DATA: Timothy no longer has that kind of support. 
 LAFORGE: Yeah. 
 [Classroom]
-(the male teacher is reading aloud to the quiet and
-attentive pupils, who are following on their PADDS, except one) 
-TEACHER: Dara and her brother found themselves in the land of Tagas
-where the ruler, Elamos the Magnificent, had proclaimed as law. 'No
-children will be tolerated within the Great Kingdom'. When Dara saw the
-proclamation, she just laughed, and said, 'How magnificent a ruler, to
-be frightened by the likes of us.' Timothy, we're done with sculpture
-for now. 
+(the male teacher is reading aloud to the quiet and attentive pupils, who are following on their PADDS, except one) 
+TEACHER: Dara and her brother found themselves in the land of Tagas where the ruler, Elamos the Magnificent, had proclaimed as law. 'No children will be tolerated within the Great Kingdom'. When Dara saw the proclamation, she just laughed, and said, 'How magnificent a ruler, to be frightened by the likes of us.' Timothy, we're done with sculpture for now. 
 TIMOTHY: It's not finished. 
 (putting a portico on a model building) 
-TEACHER: We'll come back to it next period. Why don't you pick up your
-mythology book and follow along? 
+TEACHER: We'll come back to it next period. Why don't you pick up your mythology book and follow along? 
 TIMOTHY: But it's not finished. 
-(the worried teacher casts a glance towards Troi watching through the
-window)
+(the worried teacher casts a glance towards Troi watching through the window) 
 [Bridge]
 (at the science station) 
-LAFORGE: Magnetic residual analysis confirms that the Vico was attacked
-inside the Black Cluster. The graviton wave fronts pushed the ship to
-where we found it. 
+LAFORGE: Magnetic residual analysis confirms that the Vico was attacked inside the Black Cluster. The graviton wave fronts pushed the ship to where we found it. 
 PICARD: No signs of phaser burns on the hull. 
-LAFORGE: No, sir. Torsional stress levels point to a disrupter-style
-weapon. 
-DATA: Fracture points indicate that the energy burst came from a range
-of less than three thousand metres. 
-PICARD: But that's a strategy consistent with a cloaked vessel.
-Romulan. Or Klingon. But we're quite a distance from either of their
-territories. 
-DATA: The Breen have outposts in this sector. The attack on the Vico is
-consistent with their battle tactics and their level of technology. 
-PICARD: Thank you, Data. But what would the Breen be doing inside the
-Black Cluster? The boy described a boarding party with helmets and
-phaser rifles. 
+LAFORGE: No, sir. Torsional stress levels point to a disrupter-style weapon. 
+DATA: Fracture points indicate that the energy burst came from a range of less than three thousand metres. 
+PICARD: But that's a strategy consistent with a cloaked vessel. Romulan. Or Klingon. But we're quite a distance from either of their territories. 
+DATA: The Breen have outposts in this sector. The attack on the Vico is consistent with their battle tactics and their level of technology. 
+PICARD: Thank you, Data. But what would the Breen be doing inside the Black Cluster? The boy described a boarding party with helmets and phaser rifles. 
 LAFORGE: Boarding party? I don't think that's likely, sir. 
 (Troi enters) 
 PICARD: Counsellor. 
-LAFORGE: There was absolutely no evidence of anybody coming on board
-the Vico. We would have found a transporter field trace. Or if somebody
-had used the entry ports, we would have found an electrostatic
-differential in the docking latches, and we didn't. Could Timothy have
-imagined that, Counsellor? 
+LAFORGE: There was absolutely no evidence of anybody coming on board the Vico. We would have found a transporter field trace. Or if somebody had used the entry ports, we would have found an electrostatic differential in the docking latches, and we didn't. Could Timothy have imagined that, Counsellor? 
 PICARD: Or could he be lying? 
-TROI: If he's lying, I haven't been able to sense it. Perhaps his
-emotional trauma level is too high. 
+TROI: If he's lying, I haven't been able to sense it. Perhaps his emotional trauma level is too high. 
 PICARD: Why wouldn't he tell us the truth? 
-TROI: He's still in shock. it's hard to know what's going on in his
-mind right now. 
-LAFORGE: Well, I'll go back and check the sensor readings again but I
-don't think we're going to find anything. 
+TROI: He's still in shock. it's hard to know what's going on in his mind right now. 
+LAFORGE: Well, I'll go back and check the sensor readings again but I don't think we're going to find anything. 
 PICARD: Thank you, Geordi. 
 (La Forge leaves) 
-TROI: Data. Captain, I think we should ask Data to spend some time with
-him. 
+TROI: Data. Captain, I think we should ask Data to spend some time with him. 
 DATA: I do not understand. 
-TROI: I'm very worried about his behaviour and what I've just heard
-doesn't make me feel any better. Data, you're the only
-one he's reached out to, because you rescued him. We can use your
-relationship with him to help his recovery. 
-PICARD: Would Timothy also be more inclined to tell Data the truth
-about what happened? 
+TROI: I'm very worried about his behaviour and what I've just heard doesn't make me feel any better. Data, you're the only one he's reached out to, because you rescued him. We can use your relationship with him to help his recovery. 
+PICARD: Would Timothy also be more inclined to tell Data the truth about what happened? 
 TROI: It's a possibility. 
 PICARD: Commander, proceed with Timothy as the Counsellor suggests. 
 DATA: Aye, sir. 
 (Picard leaves) 
 DATA: Counsellor, exactly how shall I proceed? 
-TROI: Just be with him. You're a presence he trusts, and that's what he
-needs most right now. 
+TROI: Just be with him. You're a presence he trusts, and that's what he needs most right now. 
 [Timothy's quarters]
-(Timothy is working on the temple sculpture he was
-doing in class earlier when the doorbell rings) 
+(Timothy is working on the temple sculpture he was doing in class earlier when the doorbell rings) 
 TIMOTHY: What? 
 (Data enters) 
 TIMOTHY: Data. 
 DATA: Hello, Timothy. May I enter? 
 TIMOTHY: Yeah. 
-DATA: Ah. You are attempting to recreate the Dokkaran temple of Kural
-Hanesh? 
-TIMOTHY: Isn't it great?! See, there's the big hallway the teacher told
-us about. That's where everybody came in. That's where they stood. And
-that's where the altar was. What do you think? 
-DATA: Do you wish a frank evaluation? (nod) It lacks the harmony that
-characterised this particular temple and Dokkaran culture in general. 
+DATA: Ah. You are attempting to recreate the Dokkaran temple of Kural Hanesh? 
+TIMOTHY: Isn't it great?! See, there's the big hallway the teacher told us about. That's where everybody came in. That's where they stood. And that's where the altar was. What do you think? 
+DATA: Do you wish a frank evaluation? (nod) It lacks the harmony that characterised this particular temple and Dokkaran culture in general. 
 (Timothy flops onto a chair) 
 TIMOTHY: You hate it. 
 DATA: No, I am not capable of hatred. 
 TIMOTHY: I can't do anything right. 
-DATA: You are making an unwarranted extrapolation. I was merely
-offering an aesthetic analysis of this particular model. The base
-appears quite sturdy. 
-(Timothy comes back and starts again, but tries to put a ceiling on
-with only half it's supports available. It falls) 
+DATA: You are making an unwarranted extrapolation. I was merely offering an aesthetic analysis of this particular model. The base appears quite sturdy. 
+(Timothy comes back and starts again, but tries to put a ceiling on with only half it's supports available. It falls) 
 TIMOTHY: I told you. 
-DATA: May I suggest a different approach? You were attempting to
-construct the upper level before the supports were in place. Observe. 
+DATA: May I suggest a different approach? You were attempting to construct the upper level before the supports were in place. Observe. 
 LAFORGE [OC]: La Forge to Data. 
 DATA: Data here. 
 LAFORGE [OC]: I need your help with the shield modulators. 
-DATA: I will join you in a moment, Geordi. Data out. Lieutenant La
-Forge requires my assistance. 
+DATA: I will join you in a moment, Geordi. Data out. Lieutenant La Forge requires my assistance. 
 (Data turns to go, then goes back and builds the temple very quickly) 
 TIMOTHY: Incredible. Data, how come you can do that? 
-DATA: I am designed to exceed human capacity, both mentally and
-physically. 
+DATA: I am designed to exceed human capacity, both mentally and physically. 
 TIMOTHY: Androids are better than humans? 
-DATA: Better is a highly subjective term. I do not, for example,
-possess the ability to experience emotion as humans do. 
+DATA: Better is a highly subjective term. I do not, for example, possess the ability to experience emotion as humans do. 
 TIMOTHY: No emotions? You mean you can't be happy or sad? 
 DATA: That is correct. 
 TIMOTHY: Why not? 
-DATA: My positronic brain is not capable of generating those
-conditions. Goodbye. 
+DATA: My positronic brain is not capable of generating those conditions. Goodbye. 
 [Corridor]
 TIMOTHY: Data! Can we build something else later? 
 DATA: That would be acceptable. 
 TIMOTHY: Bye. 
 [Timothy's quarters]
 (looking in the mirror) 
-TIMOTHY: I am designed to exceed human capacity. tilts head) That is
-correct. 
+TIMOTHY: I am designed to exceed human capacity. tilts head) That is correct. 
 [Observation lounge]
-DATA: The Black Cluster was formed almost nine
-billion years ago when hundreds of protostars collapsed in close
-proximity. The resulting gravitational forces are both violent and
-highly unpredictable. 
-LAFORGE: To get anywhere near the centre, we're going to have to push
-through the gravitational wavefronts like the science vessel was
-designed to do. I've already adjusted our shields accordingly. 
-WORF: The gravitational forces will affect sensor accuracy. Detecting
-an enemy vessel will be difficult. 
-RIKER: Maybe that's what happened to the Vico. They didn't see anything
-coming until it was too late. 
+DATA: The Black Cluster was formed almost nine billion years ago when hundreds of protostars collapsed in close proximity. The resulting gravitational forces are both violent and highly unpredictable. 
+LAFORGE: To get anywhere near the centre, we're going to have to push through the gravitational wavefronts like the science vessel was designed to do. I've already adjusted our shields accordingly. 
+WORF: The gravitational forces will affect sensor accuracy. Detecting an enemy vessel will be difficult. 
+RIKER: Maybe that's what happened to the Vico. They didn't see anything coming until it was too late. 
 PICARD: Counsellor, has the boy volunteered any further information? 
-TROI: No, but I do have an appointment with him in less than half an
-hour. 
-PICARD: If there's a possibility of getting more from him, I'd like you
-to pursue it. But we need to continue our investigation. We'll enter
-the Black Cluster at oh seven hundred hours tomorrow morning.
-Dismissed.
+TROI: No, but I do have an appointment with him in less than half an hour. 
+PICARD: If there's a possibility of getting more from him, I'd like you to pursue it. But we need to continue our investigation. We'll enter the Black Cluster at oh seven hundred hours tomorrow morning. Dismissed. 
 [Corridor]
-(Troi rings the bell of 08-1402 and Timothy opens
-the door. He's wearing a jumper with a gold body section like a
-starfleet uniform) 
+(Troi rings the bell of 08-1402 and Timothy opens the door. He's wearing a jumper with a gold body section like a starfleet uniform) 
 TROI: Hello, Timothy. Are you ready to go? 
 TIMOTHY Yes, Counsellor. I am ready. 
 TROI: How are you feeling? 
@@ -328,13 +214,10 @@ TIMOTHY: I am functioning within established parameters.
 TROI: Established parameters? You sound like Data. 
 TIMOTHY: I am an android. 
 TROI: I see. Well, let's go for our walk, shall we? 
-TIMOTHY: That would be acceptable.
+TIMOTHY: That would be acceptable. 
 [Ten Forward]
 TROI: So, what would you like? 
-TIMOTHY: Androids do not need to eat or drink. (spots a dessert being
-carried by a waiter) However, sometimes we like to taste things. A
-Tamarin frost, please.
-Would you like anything, Counsellor? 
+TIMOTHY: Androids do not need to eat or drink. (spots a dessert being carried by a waiter) However, sometimes we like to taste things. A Tamarin frost, please. Would you like anything, Counsellor? 
 TROI: No, I'm fine, thank you. 
 TIMOTHY: As you wish. 
 TROI: So you're no longer a human? 
@@ -342,38 +225,23 @@ TIMOTHY: I'm an android.
 TROI: When did this happen? 
 TIMOTHY: I've always been an android. 
 TROI: What's it like being an android? 
-TIMOTHY: I am designed to exceed human capacity, both mentally and
-physically. But I do not experience emotions. 
+TIMOTHY: I am designed to exceed human capacity, both mentally and physically. But I do not experience emotions. 
 TROI: You don't? No emotion at all? 
-TIMOTHY: That is correct.
+TIMOTHY: That is correct. 
 [Ready room]
 (Data is included in the meeting) 
 PICARD: An android? 
-TROI: I know it sounds unusual, but it is understandable. Technically,
-it's called enantiodromia. Conversion into
-the opposite. Timothy went from human to machine, from being emotional
-to being emotionless. But the underlying trauma is still there. He's
-just found a new way to suppress it. 
+TROI: I know it sounds unusual, but it is understandable. Technically, it's called enantiodromia. Conversion into the opposite. Timothy went from human to machine, from being emotional to being emotionless. But the underlying trauma is still there. He's just found a new way to suppress it. 
 PICARD: Counsellor, how long will this behaviour last? 
-TROI: As long as he needs it to. Timothy is rebuilding his identity as
-best he can. The android persona is just one step along the way. As
-soon as he feels stronger and more sure of himself, it should drop away
-naturally. 
-PICARD: I assume this is not a time to confront him about what happened
-to his ship. 
-TROI: Not yet. The best thing we can do right now is to let Timothy
-take us where he wants to go. We should support the process and even
-encourage it. 
-PICARD: Data, I would like you to make Timothy the best android he can
-possibly be.
+TROI: As long as he needs it to. Timothy is rebuilding his identity as best he can. The android persona is just one step along the way. As soon as he feels stronger and more sure of himself, it should drop away naturally. 
+PICARD: I assume this is not a time to confront him about what happened to his ship. 
+TROI: Not yet. The best thing we can do right now is to let Timothy take us where he wants to go. We should support the process and even encourage it. 
+PICARD: Data, I would like you to make Timothy the best android he can possibly be. 
 [Timothy's quarters]
-(Data checks his appearance in the mirror, then
-tries to brush Timothy's hair to match his own) 
-DATA: Timothy, your head movements are counterproductive. Can you be
-still? 
+(Data checks his appearance in the mirror, then tries to brush Timothy's hair to match his own) 
+DATA: Timothy, your head movements are counterproductive. Can you be still? 
 TIMOTHY: But you do it. 
-DATA: The servo mechanisms in my neck are designed to approximate human
-movements. I did not realize the effect was so distracting. 
+DATA: The servo mechanisms in my neck are designed to approximate human movements. I did not realize the effect was so distracting. 
 TIMOTHY: I like it. Data, are there any other androids in Starfleet? 
 DATA: No. I am the only one. 
 TIMOTHY: How come you're not Captain? 
@@ -383,186 +251,131 @@ DATA: Fear is a quality that I do not possess.
 TIMOTHY: Because it's an emotion? 
 DATA: Correct. 
 TIMOTHY: But what if you had a nightmare? 
-DATA: I have never had a nightmare. I do not require sleep. Timothy,
-are you having disturbing dreams? 
+DATA: I have never had a nightmare. I do not require sleep. Timothy, are you having disturbing dreams? 
 TIMOTHY: I do not require sleep. 
 DATA: Is that satisfactory? (the hair) 
-TIMOTHY: It's perfect.
+TIMOTHY: It's perfect. 
 [Sickbay]
-CRUSHER: Transfer circuits are functioning
-properly. 
+CRUSHER: Transfer circuits are functioning properly. 
 TIMOTHY: Within established parameters? 
-CRUSHER: Absolutely. Input processing, pattern recognition, all within
-established parameters. 
-DATA + TIMOTHY: Thank you, Doctor.
+CRUSHER: Absolutely. Input processing, pattern recognition, all within established parameters. 
+DATA + TIMOTHY: Thank you, Doctor. 
 [Data's quarters]
-(They are both painting - Data is doing a
-traditional pastoral landscape whilst Timothy's image is, well, angry) 
+(They are both painting - Data is doing a traditional pastoral landscape whilst Timothy's image is, well, angry) 
 TIMOTHY: I ran out of red ochre. 
 DATA: You may use mine. 
 TIMOTHY: Thank you. (yawns) 
 DATA: Perhaps you should return to your quarters. 
-TIMOTHY: I'm fine. The servo mechanisms in my mouth are designed to
-approximate human movements. 
+TIMOTHY: I'm fine. The servo mechanisms in my mouth are designed to approximate human movements. 
 (Data tries a yawn) 
 TIMOTHY: That is not bad. 
 DATA: Thank you. (re painting) It is very expressive. 
 TIMOTHY: Thank you. 
 DATA: Is your painting representative of something? 
 TIMOTHY: It's just a painting. 
-DATA: Timothy, you understand that you may speak with me about anything
-you wish? Any subject? 
+DATA: Timothy, you understand that you may speak with me about anything you wish? Any subject? 
 TIMOTHY: I understand. 
-DATA: At times, I too find it difficult to share my thoughts with
-others. I am not always confident that I am expressing myself in a
-manner which humans can comprehend. But do I know that 
-(Data sees that Timothy has fallen asleep and carries him to the couch)
+DATA: At times, I too find it difficult to share my thoughts with others. I am not always confident that I am expressing myself in a manner which humans can comprehend. But do I know that 
+(Data sees that Timothy has fallen asleep and carries him to the couch) 
 [Bridge]
-WORF: We are approaching the perimeter. I'm picking
-up the gravitational wavefronts. 
+WORF: We are approaching the perimeter. I'm picking up the gravitational wavefronts. 
 RIKER: Engage forward shields thirty five percent. 
 WORF: Shields up. 
 (the ship rocks in the waves) 
 PICARD: Drop to one quarter impulse, Ensign. 
 FELTON: Yes, sir. 
-RIKER: Bridge to Engineering.
+RIKER: Bridge to Engineering. 
 [Engineering]
-LAFORGE: Adjusting shield frequencies now,
-Commander. We'll have this smoothed out in just a second. 
+LAFORGE: Adjusting shield frequencies now, Commander. We'll have this smoothed out in just a second. 
 [Bridge]
 RIKER: Ensign, adjust course for any deviations. 
 FELTON: Yes, sir. 
 RIKER: Resume one third impulse. 
-WORF: Captain, I am reading something at four hundred thousand
-kilometres off the starboard bow. Possibly a ship. 
+WORF: Captain, I am reading something at four hundred thousand kilometres off the starboard bow. Possibly a ship. 
 RIKER: Red alert. 
 PICARD: Take us to visual range, Ensign. 
 FELTON: Adjusting course. 
-WORF: Sensor readings have disappeared. Wait, I am picking up another
-reading at four hundred thousand kilometres off the port bow.
-It's gone. No, it is back to starboard. 
-RIKER: Captain, the Black Cluster is distorting the sensors. We're
-picking up echoes of the Enterprise reflecting off the wavefronts. 
-PICARD: Cancel Red alert. Mister Worf, adjust the sensors to compensate
-for the distortion. 
+WORF: Sensor readings have disappeared. Wait, I am picking up another reading at four hundred thousand kilometres off the port bow. It's gone. No, it is back to starboard. 
+RIKER: Captain, the Black Cluster is distorting the sensors. We're picking up echoes of the Enterprise reflecting off the wavefronts. 
+PICARD: Cancel Red alert. Mister Worf, adjust the sensors to compensate for the distortion. 
 WORF: Aye. 
-PICARD: Sensor difficulties have been reported by ships travelling
-through black clusters, but never this extreme. 
-WORF: Captain, that formation is seven times more massive than any
-explored previously. That could explain the difference. 
+PICARD: Sensor difficulties have been reported by ships travelling through black clusters, but never this extreme. 
+WORF: Captain, that formation is seven times more massive than any explored previously. That could explain the difference. 
 PICARD: Resume previous course, Ensign. 
-FELTON: Yes, sir.
+FELTON: Yes, sir. 
 [Classroom observation area]
-(Data and Troi are watching Timothy with two other
-children) 
+(Data and Troi are watching Timothy with two other children) 
 DATA: He laughed. 
 TROI: Yes. It's nice to see, isn't it? 
 DATA: It is certainly not consistent with his android persona. 
-TROI: I'd say he's beginning the process of letting go of that fantasy.
+TROI: I'd say he's beginning the process of letting go of that fantasy. 
 DATA: Then my work with him is done. 
-TROI: No, I don't think it is, Data. A laugh is one step in the right
-direction. We need to help him take a few more steps. 
+TROI: No, I don't think it is, Data. A laugh is one step in the right direction. We need to help him take a few more steps. 
 DATA: How, Counsellor? 
-TROI: I'd like you to talk to him about your own fascination with
-humanity. If you can explain to Timothy the appeal that humanity has
-for you, he might find it easier to become a boy again.
+TROI: I'd like you to talk to him about your own fascination with humanity. If you can explain to Timothy the appeal that humanity has for you, he might find it easier to become a boy again. 
 [Ten Forward]
-(Data and Timothy are solemnly sucking tall drinks
-through long straws) 
+(Data and Timothy are solemnly sucking tall drinks through long straws) 
 TIMOTHY: This is great. How is yours? 
-DATA: The complex polysaccharides, in reaction with the carbon dioxide,
-produces an unusual combination of texture and
-effervescence. 
+DATA: The complex polysaccharides, in reaction with the carbon dioxide, produces an unusual combination of texture and effervescence. 
 TIMOTHY: But how does it taste? Is it good? 
-DATA: I am not capable of tasting in the manner you suggest. However, I
-can analyse the composition of a dessert and make comparative
-conclusions about its possible effect on the human palate. But I
-neither like it nor dislike it. 
+DATA: I am not capable of tasting in the manner you suggest. However, I can analyse the composition of a dessert and make comparative conclusions about its possible effect on the human palate. But I neither like it nor dislike it. 
 TIMOTHY: Oh. I didn't realise that. 
-DATA: I have often wondered what it must be like to have one's mouth
-water in anticipation of the arrival of a confection, or to feel the
-pleasure I have observed in humans as they consume it. 
+DATA: I have often wondered what it must be like to have one's mouth water in anticipation of the arrival of a confection, or to feel the pleasure I have observed in humans as they consume it. 
 TIMOTHY: You sound like you don't want to be an android. 
 DATA: I am an android. That will never change. 
 TIMOTHY: But if you could change, would you? 
-DATA: I have often wished to be human. I study people carefully in
-order to more closely approximate human behaviour. 
-TIMOTHY: Why? We're stronger and smarter than humans. We can do more
-than they can. 
-DATA: But I cannot take pride in my abilities. I cannot take pleasure
-in my accomplishments. 
+DATA: I have often wished to be human. I study people carefully in order to more closely approximate human behaviour. 
+TIMOTHY: Why? We're stronger and smarter than humans. We can do more than they can. 
+DATA: But I cannot take pride in my abilities. I cannot take pleasure in my accomplishments. 
 TIMOTHY: But we never have to feel bad, either. 
-DATA: I would gladly risk feeling bad at times if it also meant that I
-could also taste my dessert.
+DATA: I would gladly risk feeling bad at times if it also meant that I could also taste my dessert. 
 [Bridge]
-WORF: Captain, gravitational wavefront intensity is
-increasing steadily. Eleven hundred standard G units and rising. 
-PICARD: Let's see if anyone's out there. Mister Worf, attempt a wide
-range sensor sweep. 
-WORF: Aye, sir. Gravitational distortion is too great, Captain. The
-scanning signal is again being reflected off the wavefronts. I am
-unable to compensate. The sensors are useless. 
+WORF: Captain, gravitational wavefront intensity is increasing steadily. Eleven hundred standard G units and rising. 
+PICARD: Let's see if anyone's out there. Mister Worf, attempt a wide range sensor sweep. 
+WORF: Aye, sir. Gravitational distortion is too great, Captain. The scanning signal is again being reflected off the wavefronts. I am unable to compensate. The sensors are useless. 
 PICARD: Mister Data to the Bridge, please. 
 DATA [OC]: Acknowledged. 
-PICARD: Adjust sensors to short range. Attempt a limited positron scan.
+PICARD: Adjust sensors to short range. Attempt a limited positron scan. 
 WORF: The distortion is still in effect. 
 RIKER: Better jacket the scanning beam. 
 WORF: The secondary beam is being distorted as well. 
 (Data enters) 
-PICARD: Mister Data, our sensors have been rendered ineffective by the
-field distortion. I want your analysis. Mister Worf, fire phasers,
-maximum intensity, limited spectrum. Zero zero one mark zero four five.
+PICARD: Mister Data, our sensors have been rendered ineffective by the field distortion. I want your analysis. Mister Worf, fire phasers, maximum intensity, limited spectrum. Zero zero one mark zero four five. 
 RIKER: An experiment, Captain? 
 PICARD: Exactly, Number One. 
 WORF: Firing phasers. 
 (the single shot branches off in several directions) 
 PICARD: Explanation, Mister Data. 
-DATA: Phaser energy was reflected by the gravitational wavefronts. It
-is similar to the phenomenon distorting our sensor signals. 
-PICARD: Phasers and sensors both useless? Mister Data, this reflection
-phenomenon, would it have the same effect on a disruptor-style weapon? 
+DATA: Phaser energy was reflected by the gravitational wavefronts. It is similar to the phenomenon distorting our sensor signals. 
+PICARD: Phasers and sensors both useless? Mister Data, this reflection phenomenon, would it have the same effect on a disruptor-style weapon? 
 DATA: Yes, sir. Disruptors would be ineffectual. 
 PICARD: And a ship's cloaking field? 
 DATA: It would be extremely difficult to maintain. 
-PICARD: Mister Data, is it at all likely that the Vico could have been
-attacked inside the cluster? 
-DATA: Given the effects we have observed, the probability is
-exceedingly remote, sir. 
+PICARD: Mister Data, is it at all likely that the Vico could have been attacked inside the cluster? 
+DATA: Given the effects we have observed, the probability is exceedingly remote, sir. 
 PICARD: Picard to Counsellor Troi. 
 TROI [OC]: Yes, Captain? 
-PICARD: Counsellor, will you bring Timothy to my Ready room?
+PICARD: Counsellor, will you bring Timothy to my Ready room? 
 [Ready room]
-PICARD: Timothy, can you tell us what happened to
-your ship? 
+PICARD: Timothy, can you tell us what happened to your ship? 
 TIMOTHY: I did tell you. 
 TROI: Tell us again. 
 TIMOTHY: We were attacked. 
-DATA: That is highly unlikely. Our investigations have clearly
-demonstrated 
+DATA: That is highly unlikely. Our investigations have clearly demonstrated 
 TIMOTHY: We were attacked! We were attacked! 
 DATA: Timothy, androids do not lie. 
 TIMOTHY: It was me. 
 DATA: Please explain. 
-TIMOTHY: It was me. I did it. I killed them all. Everything was
-shaking. I lost my balance. I was just trying to hold on to something.
-I didn't mean to do it. 
+TIMOTHY: It was me. I did it. I killed them all. Everything was shaking. I lost my balance. I was just trying to hold on to something. I didn't mean to do it. 
 PICARD: What was it that didn't you mean to do, Timothy? 
-TIMOTHY: My arm hit the computer panel. That's what destroyed the ship.
-TROI: The ship was damaged when your arm hit the computer panel?
-Timothy, listen to me. The damage to your ship might have occurred at
-the same time your arm touched the panel, but it was only a
-coincidence. This wasn't your fault. 
+TIMOTHY: My arm hit the computer panel. That's what destroyed the ship. 
+TROI: The ship was damaged when your arm hit the computer panel? Timothy, listen to me. The damage to your ship might have occurred at the same time your arm touched the panel, but it was only a coincidence. This wasn't your fault. 
 TIMOTHY: Yes it was. 
-DATA: It is not possible. The onboard control systems for every
-starship require a user code clearance. You could not have
-inadvertently affected any of the Vico's systems. 
-PICARD: Your computer had safety precautions. There is nothing you
-could have touched that would have damaged your ship. 
-TROI: You're not responsible for what happened to your parents,
-Timothy. 
+DATA: It is not possible. The onboard control systems for every starship require a user code clearance. You could not have inadvertently affected any of the Vico's systems. 
+PICARD: Your computer had safety precautions. There is nothing you could have touched that would have damaged your ship. 
+TROI: You're not responsible for what happened to your parents, Timothy. 
 TIMOTHY: But if it wasn't me 
-PICARD: We're trying to determine what happened right now, and if there
-is anything you can remember that may assist 
+PICARD: We're trying to determine what happened right now, and if there is anything you can remember that may assist 
 (they shake from a wavefront) 
 TIMOTHY: That's just how it was when it started on the Vico. 
 [Bridge]
@@ -574,53 +387,40 @@ RIKER: Damage, Mister Worf.
 WORF: Minimal, sir. Shields are holding. 
 Picard, Timothy and Troi enter) 
 PICARD: Ensign, full about. Go to warp two. 
-FELTON: The gravitational distortion is too high. We can't maintain a
-warp field. 
+FELTON: The gravitational distortion is too high. We can't maintain a warp field. 
 PICARD: Full shields. 
 WORF: Aye. 
-FELTON: Captain, impulse power has been disrupted. The helm won't
-respond. 
+FELTON: Captain, impulse power has been disrupted. The helm won't respond. 
 TIMOTHY: We couldn't get out either. 
-TROI: Timothy, perhaps you and I should go below and get out of
-everyone's way. 
+TROI: Timothy, perhaps you and I should go below and get out of everyone's way. 
 TIMOTHY: No. 
 RIKER: Riker to La Forge. Can you give me more power to the shields? 
 LAFORGE [OC]: Stand by. 
 TIMOTHY: That's what they kept saying. More shields, more shields. 
-DATA: Timothy, accompany me, please. (go to science station) I want you
-to recall everything you heard people say aboard the Vico before it was
-destroyed. 
+DATA: Timothy, accompany me, please. (go to science station) I want you to recall everything you heard people say aboard the Vico before it was destroyed. 
 TIMOTHY: I don't know. Just that. Just more shields. 
 LAFORGE [OC]: Captain, I've transferred 
 [Engineering]
-LAFORGE: Fusion reactors four through nine into the
-shield array. That should double the shield strength.
+LAFORGE: Fusion reactors four through nine into the shield array. That should double the shield strength. 
 [Bridge]
-WORF: Wavefront intensity has increased by an order
-of magnitude. Impact in three, two, one. 
+WORF: Wavefront intensity has increased by an order of magnitude. Impact in three, two, one. 
 (very big hit) 
-WORF: Wave front intensity is continuing to increase. Structural
-over-pressure now exceeding one hundred eighty percent. 
+WORF: Wave front intensity is continuing to increase. Structural over-pressure now exceeding one hundred eighty percent. 
 PICARD: La Forge? 
-LAFORGE OC]: I don't understand. That should have been enough.
+LAFORGE OC]: I don't understand. That should have been enough. 
 [Engineering]
-LAFORGE: We could run the shield grid directly off
-the warp drive.
+LAFORGE: We could run the shield grid directly off the warp drive. 
 [Bridge]
 PICARD: Go ahead, Commander. 
 WORF: Initiating warp-transfer pathways now. 
 LAFORGE [OC]: Diverting warp power to the shields. 
-TIMOTHY: Warp power to the shields. They said that too, Data. I'm
-positive. 
-WORF: Wavefront intensity has increased by a factor of ten. Contact in
-thirty one seconds. Without additional power to the shields, the outer
-hull will not hold. 
+TIMOTHY: Warp power to the shields. They said that too, Data. I'm positive. 
+WORF: Wavefront intensity has increased by a factor of ten. Contact in thirty one seconds. Without additional power to the shields, the outer hull will not hold. 
 RIKER: La Forge? 
 [Engineering]
 LAFORGE: Warp transfer to the shields complete. 
 [Bridge]
-LAFORGE [OC]: That's as strong as they're going to
-get. 
+LAFORGE [OC]: That's as strong as they're going to get. 
 WORF: Impact in fifteen seconds. 
 (Data finishes running his analysis) 
 DATA: Sir, drop the shields. 
@@ -629,22 +429,16 @@ DATA: Captain, drop the shields.
 PICARD: Make it so. 
 WORF: Aye. 
 (a very gently ripple rocks the ship) 
-DATA: Our own shields caused the increases in the wavefronts, sir. We
-have been experiencing a harmonic amplification effect. 
-RIKER: The more energy we dumped into the shield grid, the worse the
-impact. 
-DATA: Precisely. That is also what destroyed the Vico. When Timothy
-remembered similar procedures on his ship, I initiated an analysis of
-shield output to wavefront amplitude and discovered a correlation. 
-PICARD: If we had transferred all that warp power to the shields, it
-would have torn the ship apart. 
+DATA: Our own shields caused the increases in the wavefronts, sir. We have been experiencing a harmonic amplification effect. 
+RIKER: The more energy we dumped into the shield grid, the worse the impact. 
+DATA: Precisely. That is also what destroyed the Vico. When Timothy remembered similar procedures on his ship, I initiated an analysis of shield output to wavefront amplitude and discovered a correlation. 
+PICARD: If we had transferred all that warp power to the shields, it would have torn the ship apart. 
 RIKER: Status, Ensign? 
 FELTON: Navigation is coming back online. 
-PICARD: Full about, one quarter impulse. Take us out of here.
+PICARD: Full about, one quarter impulse. Take us out of here. 
 [Classroom observation area]
 (the class is singing 'Row your boat') 
-TROI: Timothy's a boy feeling a great deal of pain. But he is a boy
-again. Is this difficult for you, Data? 
+TROI: Timothy's a boy feeling a great deal of pain. But he is a boy again. Is this difficult for you, Data? 
 DATA: Difficult? 
 TROI: To watch him moving away from being like you. 
 DATA: That would require an emotional context which I cannot provide. 
@@ -654,12 +448,9 @@ TEACHER: Okay, everybody, let's go. Come on.
 DATA: Hello, Timothy. 
 TIMOTHY: Hi, Data. How are you? 
 DATA: I am operating within established parameters. How are you? 
-TIMOTHY: I miss my parents. But I'm okay. I guess you thought I was
-pretty silly when I had my hair like yours and everything. 
+TIMOTHY: I miss my parents. But I'm okay. I guess you thought I was pretty silly when I had my hair like yours and everything. 
 DATA: I have been told that imitation is the highest form of flattery. 
-TIMOTHY: Can we still do things together, even if I'm not really an
-android? 
-DATA: I have many human friends. I would be pleased to count you among
-them. 
-TIMOTHY: That would be acceptable.  
+TIMOTHY: Can we still do things together, even if I'm not really an android? 
+DATA: I have many human friends. I would be pleased to count you among them. 
+TIMOTHY: That would be acceptable. 
 

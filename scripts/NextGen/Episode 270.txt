@@ -1,42 +1,34 @@
 Episode Number: 270
 The Next Generation Transcripts - Eye Of The Beholder
-Eye
-Of The Beholder
-Stardate:
-47622.1
+Eye Of The Beholder
+Stardate: 47622.1
 Original Airdate: 28 Feb, 1994
-  [Bridge]
-DATA: We are losing containment in the starboard
-nacelle tube. 
+[Bridge]
+DATA: We are losing containment in the starboard nacelle tube. 
 PICARD: Try to get more power to the field coils. 
 DATA: Aye, sir. 
-PICARD: Mister La Forge.
+PICARD: Mister La Forge. 
 [Engineering]
 PICARD [OC]: Report. 
-LAFORGE: I can't shut down the plasma injectors. Somebody's locked out
-the controls.
+LAFORGE: I can't shut down the plasma injectors. Somebody's locked out the controls. 
 [Bridge]
-DATA: The plasma venting system has engaged.
+DATA: The plasma venting system has engaged. 
 [Jefferies tube]
 (climbing ladders) 
 WORF: Two more decks. 
 RIKER: Riker to Bridge. We've almost reached the nacelle tube. 
-PICARD [OC]: Acknowledged.
+PICARD [OC]: Acknowledged. 
 [Bridge]
-PICARD: Release the exterior hull plate. We may
-have to jettison the core. 
+PICARD: Release the exterior hull plate. We may have to jettison the core. 
 DATA: Aye, sir. 
 [Nacelle control]
 (there is a man poised to jump into the plasma) 
 RIKER: What happened? 
-NARA: (alien woman) He locked out the controls. Before we knew what was
-happening, he stepped up onto the walkway. 
+NARA: (alien woman) He locked out the controls. Before we knew what was happening, he stepped up onto the walkway. 
 RIKER: (to Worf) See if you can help shut down the plasma flow. 
-NARA: I'm afraid if we try to get any closer, he will jump through the
-forcefield. 
+NARA: I'm afraid if we try to get any closer, he will jump through the forcefield. 
 RIKER: Dan, it's me. It's Will Riker. I was here yesterday, remember? 
-KWAN: (alien man) I didn't want to do it. But I saw them. And they
-laughed at me. They laughed. 
+KWAN: (alien man) I didn't want to do it. But I saw them. And they laughed at me. They laughed. 
 (Riker is on the walkway) 
 RIKER: Whatever happened, we can talk about it. I want to help. 
 KWAN: Stay away! 
@@ -45,225 +37,140 @@ KWAN: I know what I have to do.
 RIKER: Dan, no! 
 WORF: I have unlocked the controls. 
 COMPUTER: Shutdown procedure initiated. 
-NARA: There's still plasma in the injector. It'll take time to vent
-off. 
+NARA: There's still plasma in the injector. It'll take time to vent off. 
 RIKER: Tell me what happened. Maybe I can help. 
 KWAN: I know what I have to do. 
-(and he jumps into the plasma stream. Riker hits the bulkhead in anger
-and frustration and despair)
+(and he jumps into the plasma stream. Riker hits the bulkhead in anger and frustration and despair) 
 [Ready room]
-RIKER: A few more seconds I could've saved his life
+RIKER: A few more seconds I could've saved his life 
 WORF: Commander, you did everything you could. It was not your fault. 
-RIKER: It was strange. I felt as if he didn't even recognise me,
-although I was with him just the other day when I supervised the tube
-refit. 
+RIKER: It was strange. I felt as if he didn't even recognise me, although I was with him just the other day when I supervised the tube refit. 
 PICARD: How did he seem then? 
-RIKER: Fine. I complimented him on getting the refit done faster than
-expected. He was pleased that I'd noticed. 
-TROI: I met with him about six weeks ago, during the crew evaluations.
-He was very positive. He was looking forward to being posted to the
-nacelle tube. 
-RIKER: He was a good officer with a fine career ahead of him. I don't
-understand why he wanted 
-PICARD: In my years as a Starship Captain, I've had to notify many
-parents of the loss of loved ones, but never before a suicide. I would
-like to be able to offer Lieutenant Kwan's parents some explanation of
-what happened, to try to help them make sense of this. 
+RIKER: Fine. I complimented him on getting the refit done faster than expected. He was pleased that I'd noticed. 
+TROI: I met with him about six weeks ago, during the crew evaluations. He was very positive. He was looking forward to being posted to the nacelle tube. 
+RIKER: He was a good officer with a fine career ahead of him. I don't understand why he wanted 
+PICARD: In my years as a Starship Captain, I've had to notify many parents of the loss of loved ones, but never before a suicide. I would like to be able to offer Lieutenant Kwan's parents some explanation of what happened, to try to help them make sense of this. 
 WORF: Maybe he left a message of some kind, explaining why he did it. 
-PICARD: I would like the two of you to piece together a picture of his
-last few days. 
-TROI: If he made any personal logs, it might be helpful to look through
-them. 
+PICARD: I would like the two of you to piece together a picture of his last few days. 
+TROI: If he made any personal logs, it might be helpful to look through them. 
 PICARD: You're authorised to do so. 
 (Troi and Worf leave) 
 LAFORGE [OC]: La Forge to Captain. 
-PICARD: Go ahead.
+PICARD: Go ahead. 
 [Engineering]
-LAFORGE: I've just finished my damage assessment.
-We should be able to get underway I'd say within the hour. 
-PICARD [OC]: Mister La Forge
+LAFORGE: I've just finished my damage assessment. We should be able to get underway I'd say within the hour. 
+PICARD [OC]: Mister La Forge 
 [Ready room]
-PICARD: The medical situation on Barson Two has
-worsened. Starfleet has given us permission to exceed warp speed
-limitations so as to get back on schedule.
+PICARD: The medical situation on Barson Two has worsened. Starfleet has given us permission to exceed warp speed limitations so as to get back on schedule. 
 [Engineering]
-LAFORGE: We'll be able to give you warp eight if
-you need it. 
+LAFORGE: We'll be able to give you warp eight if you need it. 
 PICARD [OC]: Acknowledged. 
-DATA: Geordi, would you agree that the instinct for self-preservation
-is shared by most life forms? 
+DATA: Geordi, would you agree that the instinct for self-preservation is shared by most life forms? 
 LAFORGE: I'd say it's probably the most basic instinct, Data. 
-DATA: That being the case, I find it difficult to understand why
-someone would deliberately terminate their own existence. 
-LAFORGE: I don't know, Data. All I can think is that maybe Lieutenant
-Kwan felt that there was something wrong in his life, something he felt
-powerless to fix. 
+DATA: That being the case, I find it difficult to understand why someone would deliberately terminate their own existence. 
+LAFORGE: I don't know, Data. All I can think is that maybe Lieutenant Kwan felt that there was something wrong in his life, something he felt powerless to fix. 
 DATA: I believe I understand. I have been in a similar situation. 
 LAFORGE: Really? 
-DATA: The first months following my activation were a difficult period
-for me. There were many problems associated with my becoming sentient. 
+DATA: The first months following my activation were a difficult period for me. There were many problems associated with my becoming sentient. 
 LAFORGE: Because your neural net was still forming. 
-DATA: As I acquired new skills, neural pathways would form replacing
-other less complex pathways. It was very disorienting. 
+DATA: As I acquired new skills, neural pathways would form replacing other less complex pathways. It was very disorienting. 
 LAFORGE: I bet. 
-DATA: As my systems grew in complexity, it became increasingly
-difficult to integrate new pathways into my existing neural net. The
-probability of cascade failure grew with each additional pathway. I
-came to the conclusion it would be safer and easier to shut myself down
-and start again. 
-LAFORGE: Yeah, but if you had done that, you wouldn't have remembered
-any of the things that had happened to you. 
+DATA: As my systems grew in complexity, it became increasingly difficult to integrate new pathways into my existing neural net. The probability of cascade failure grew with each additional pathway. I came to the conclusion it would be safer and easier to shut myself down and start again. 
+LAFORGE: Yeah, but if you had done that, you wouldn't have remembered any of the things that had happened to you. 
 DATA: In a way, it would have been like committing suicide. 
 LAFORGE: So what did you do? 
-DATA: I decided against the procedure. I chose instead to treat the
-problems I was having with my systems as challenges to overcome, rather
-than obstacles to be avoided. 
-LAFORGE: Great way of looking at it, Data. I wish Lieutenant Kwan had
-been able to look at his problems the same way.
+DATA: I decided against the procedure. I chose instead to treat the problems I was having with my systems as challenges to overcome, rather than obstacles to be avoided. 
+LAFORGE: Great way of looking at it, Data. I wish Lieutenant Kwan had been able to look at his problems the same way. 
 [Kwan's quarters]
 WORF: This is a Napean design. 
-TROI: His mother's Napean, his father's human. It all looks so normal.
-For some reason I half expected the place to be a mess. 
-WORF: Yes. It is strange to think that someone could have considered
-ending his life and yet give no outward sign. Just before he jumped, he
-seemed almost calm. 
-TROI: Well, he must have been in a lot of pain to do what he did. It
-could be that the prospect of ending the pain felt like a great relief.
+TROI: His mother's Napean, his father's human. It all looks so normal. For some reason I half expected the place to be a mess. 
+WORF: Yes. It is strange to think that someone could have considered ending his life and yet give no outward sign. Just before he jumped, he seemed almost calm. 
+TROI: Well, he must have been in a lot of pain to do what he did. It could be that the prospect of ending the pain felt like a great relief. 
 (Troi picks up a photograph on the bedside table) 
 TROI: This is Ensign Calloway, isn't it? 
 WORF: Yes, she is a medical technician in Sickbay. 
-TROI: It's always hard to lose someone you care about, but to lose them
-like this? 
+TROI: It's always hard to lose someone you care about, but to lose them like this? 
 WORF: We should check his personal logs. 
-TROI: This is his last entry. He made it before going on duty this
-morning. 
-KWAN [on monitor]: Personal log, stardate 47622.1. We finally finished
-the nacelle tube refit last night. After pulling two double shifts in a
-row, I'm really looking forward to spending some time with Maddy. 
-TROI: Ensign Calloway. That doesn't sound like a man who's planning on
-taking his own life. 
+TROI: This is his last entry. He made it before going on duty this morning. 
+KWAN [on monitor]: Personal log, stardate 47622.1. We finally finished the nacelle tube refit last night. After pulling two double shifts in a row, I'm really looking forward to spending some time with Maddy. 
+TROI: Ensign Calloway. That doesn't sound like a man who's planning on taking his own life. 
 WORF: No. No, it does not. 
 [Crusher's office]
-CALLOWAY: I can't believe he's really gone. I keep
-thinking he's going to show up and tell me there's been some kind of
-terrible misunderstanding. 
-TROI: I thought you might like to know that in his personal logs, Dan
-talked about you a great deal. He loved you very much. 
+CALLOWAY: I can't believe he's really gone. I keep thinking he's going to show up and tell me there's been some kind of terrible misunderstanding. 
+TROI: I thought you might like to know that in his personal logs, Dan talked about you a great deal. He loved you very much. 
 CALLOWAY: If that's true, then how could he leave me like this? 
-TROI: That's what I'm trying to find out. I know it's hard to talk
-right now, but it would be very helpful if you could tell me a few
-things about him. When was the last time you saw him? 
-CALLOWAY: Two nights ago. We were planning our next shore leave
-together. 
-TROI: Did he mention anything that had happened recently, anything that
-might have upset him? 
-CALLOWAY: No, not really. He did say something about work, about
-Lieutenant Nara, but it wasn't anything serious. 
+TROI: That's what I'm trying to find out. I know it's hard to talk right now, but it would be very helpful if you could tell me a few things about him. When was the last time you saw him? 
+CALLOWAY: Two nights ago. We were planning our next shore leave together. 
+TROI: Did he mention anything that had happened recently, anything that might have upset him? 
+CALLOWAY: No, not really. He did say something about work, about Lieutenant Nara, but it wasn't anything serious. 
 TROI: Nara. She's his superior officer in the nacelle tube? 
-CALLOWAY: Yes. Dan sensed that she, well, that she felt threatened by
-him. That she thought he was after her position. 
+CALLOWAY: Yes. Dan sensed that she, well, that she felt threatened by him. That she thought he was after her position. 
 TROI: Was he prone to mood swings or depression? 
-CALLOWAY: No, but he was very sensitive to other people's moods. He
-used to look at me and know exactly what I was feeling. I always loved
-that about him. 
-TROI: Well, Napeans are partially empathic. He may have inherited some
-of his mother's abilities. 
-CALLOWAY: He used to tease me that when I met her, I wouldn't be able
-to get away with anything. Dan and I knew each other for over two
-years, but we didn't get together until a few months ago. We took it
-slow. We thought we had all the time in the world. Something must have
-happened to him, Counsellor. Something terrible, because it's not like
-Dan to take his own life. 
+CALLOWAY: No, but he was very sensitive to other people's moods. He used to look at me and know exactly what I was feeling. I always loved that about him. 
+TROI: Well, Napeans are partially empathic. He may have inherited some of his mother's abilities. 
+CALLOWAY: He used to tease me that when I met her, I wouldn't be able to get away with anything. Dan and I knew each other for over two years, but we didn't get together until a few months ago. We took it slow. We thought we had all the time in the world. Something must have happened to him, Counsellor. Something terrible, because it's not like Dan to take his own life. 
 TROI: I understand. 
-CALLOWAY: Please, find out what it was.
+CALLOWAY: Please, find out what it was. 
 [Nacelle control]
 NARA: Can I help you? 
 TROI: Oh, I didn't see you there. You're Lieutenant Nara, aren't you? 
 NARA: Can I do something for you, Counsellor? 
-TROI: I'm investigating Lieutenant Kwan's death, and I just wanted to
-look around. 
+TROI: I'm investigating Lieutenant Kwan's death, and I just wanted to look around. 
 NARA: It's such a shame. He was a good man. 
 TROI: Did you notice any change in his behaviour recently? 
-NARA: No. I've been going over the last few days in my mind, trying to
-see if I, if I missed any warning signs. It's as if something in him
-just snapped. 
+NARA: No. I've been going over the last few days in my mind, trying to see if I, if I missed any warning signs. It's as if something in him just snapped. 
 TROI: How was his job performance? 
-NARA: Excellent. He knew this ship better than most people, probably
-because he helped build it back at Utopia Planitia. 
+NARA: Excellent. He knew this ship better than most people, probably because he helped build it back at Utopia Planitia. 
 TROI: Did he get along with his coworkers? 
-NARA: He was ambitious. He came in here with all sorts of new ideas
-about how to do things. Some of them very good ideas. 
+NARA: He was ambitious. He came in here with all sorts of new ideas about how to do things. Some of them very good ideas. 
 TROI: But not all? 
 NARA: No. But after he settled in, we got along fine. 
 (a crewman enters) 
 NARA: Excuse me a minute. Feel free to look around. 
 TROI: Where was Lieutenant Kwan's station? 
 NARA: Right there. 
-(Nara leaves with the crewman. Troi goes up the ladder to the walkway
-and gets a sense of terror by the hatch. She hurries back down again.) 
+(Nara leaves with the crewman. Troi goes up the ladder to the walkway and gets a sense of terror by the hatch. She hurries back down again.) 
 NARA: Are you all right? 
 TROI: I don't know. 
 [Sickbay]
-TROI: I don't know how to describe it. I was
-suddenly overwhelmed by a flood of emotions. Fear, rage, panic. And the
-sensations didn't seem to be coming from any person. They were just
-there, in the room. 
+TROI: I don't know how to describe it. I was suddenly overwhelmed by a flood of emotions. Fear, rage, panic. And the sensations didn't seem to be coming from any person. They were just there, in the room. 
 RIKER: Whose emotions were they? I thought you said were alone. 
 TROI: I was. 
 WORF: I scanned the area. I found no anomalous readings. 
 RIKER: How could you get an empathic impression from an empty room? 
 TROI: I don't know. 
-CRUSHER: Could the fact that Lieutenant Kwan was partially empathic
-have anything to do with it? 
+CRUSHER: Could the fact that Lieutenant Kwan was partially empathic have anything to do with it? 
 RIKER: What do you mean? 
-CRUSHER: I'm not sure, but certainly the feelings Troi described are
-consistent with suicide. 
+CRUSHER: I'm not sure, but certainly the feelings Troi described are consistent with suicide. 
 RIKER: Could his death have left some sort of empathic echo? 
-TROI: I don't see how. But if I went back to the nacelle tube, I might
-get a better sense of what I experienced. 
-CRUSHER: I don't think I'd recommend that right now. You're showing
-elevated levels of psilosynine. 
+TROI: I don't see how. But if I went back to the nacelle tube, I might get a better sense of what I experienced. 
+CRUSHER: I don't think I'd recommend that right now. You're showing elevated levels of psilosynine. 
 WORF: Psilosynine? 
-CRUSHER: It's a neurotransmitter involved in telepathy. The experience
-overwhelmed you the first time. I think you should wait until your
-levels return to normal. 
+CRUSHER: It's a neurotransmitter involved in telepathy. The experience overwhelmed you the first time. I think you should wait until your levels return to normal. 
 RIKER: How long? 
 CRUSHER: Three, maybe four hours. 
 RIKER: This time I want someone with you. 
-WORF: I shall accompany you, Counsellor.
-Captain's log, stardate 47623.2. We've arrived at
-Starbase three twenty eight on schedule. After taking aboard medical
-supplies, we will depart for Barson Two.
+WORF: I shall accompany you, Counsellor. 
+Captain's log, stardate 47623.2. We've arrived at Starbase three twenty eight on schedule. After taking aboard medical supplies, we will depart for Barson Two. 
 [Troi's quarters]
 TROI: Come in. Hello, Worf. 
 WORF: Counsellor. Have you found anything in Lieutenant Kwan's logs? 
-TROI: Everything I've read suggests that he was well-adjusted and
-optimistic. It just doesn't make any sense. Can I get you anything? 
+TROI: Everything I've read suggests that he was well-adjusted and optimistic. It just doesn't make any sense. Can I get you anything? 
 WORF: No. No, nothing. 
-TROI: Yridian tea. I've been thinking about what happened to me in the
-nacelle tube. Whether it was an empathic echo left by Kwan's death. 
-WORF: In the past, have your empathic experiences always involved the
-physical presence of another person? 
+TROI: Yridian tea. I've been thinking about what happened to me in the nacelle tube. Whether it was an empathic echo left by Kwan's death. 
+WORF: In the past, have your empathic experiences always involved the physical presence of another person? 
 TROI: All the ones I'm sure of, yes. 
 WORF: What do you mean, sure of? 
-TROI: Well, when I was a young girl, my grandfather used to tell me
-stories by the fire. I would close my eyes and listen to his mind for
-hours on end. 
+TROI: Well, when I was a young girl, my grandfather used to tell me stories by the fire. I would close my eyes and listen to his mind for hours on end. 
 WORF: He would tell you these stories telepathically? 
-TROI: My grandfather rarely spoke. He said that was for off-worlders
-and people who didn't know any better. Now the only time I can remember
-his stories is when I go home and sit by the fireplace. Sometimes when
-I'm alone there, it's almost as if I can hear his voice inside my head.
+TROI: My grandfather rarely spoke. He said that was for off-worlders and people who didn't know any better. Now the only time I can remember his stories is when I go home and sit by the fireplace. Sometimes when I'm alone there, it's almost as if I can hear his voice inside my head. 
 WORF: Yes. Yes, I too have sought visions in fire. 
-TROI: I can't explain it, but it feels real to me. Just like what
-happened in the nacelle tube. 
-WORF: There are things we do not understand, yet they exist
-nonetheless. Perhaps I should let you get some rest. 
+TROI: I can't explain it, but it feels real to me. Just like what happened in the nacelle tube. 
+WORF: There are things we do not understand, yet they exist nonetheless. Perhaps I should let you get some rest. 
 TROI: Oh, it's all right. 
-WORF: If you will excuse me, Counsellor.
+WORF: If you will excuse me, Counsellor. 
 [Ten Forward]
-(Riker is in casual clothes with a woman. He comes
-to the bar where Worf is standing) 
+(Riker is in casual clothes with a woman. He comes to the bar where Worf is standing) 
 RIKER: Mister Worf. 
 WORF: Commander. 
 RIKER: Two Til'amin froths, please. 
@@ -272,146 +179,94 @@ WORF: Lieutenant Corell seems to be enjoying your company.
 RIKER: I'd like to think so. 
 WORF: Are you involved with her? 
 RIKER: I'm not sure yet. Why, are you interested? 
-WORF: No. But if I were, I would of course discuss the situation with
-you before proceeding further. 
+WORF: No. But if I were, I would of course discuss the situation with you before proceeding further. 
 RIKER: I appreciate it, but that really wouldn't be necessary. 
-WORF: I mean I would never want to come between you and someone you are
-involved with, or had ever been involved with. 
+WORF: I mean I would never want to come between you and someone you are involved with, or had ever been involved with. 
 RIKER: Is there someone in particular that you're talking about? 
-WORF: No. Is there someone in particular you would rather I not be
-involved with? 
-RIKER: Mister Worf, you sound like a man who's asking his friend if he
-can start dating his sister. 
-WORF: No, no, I was merely. Never mind. Excuse me, sir.
+WORF: No. Is there someone in particular you would rather I not be involved with? 
+RIKER: Mister Worf, you sound like a man who's asking his friend if he can start dating his sister. 
+WORF: No, no, I was merely. Never mind. Excuse me, sir. 
 [Nacelle control]
 (Troi goes up to the hatch again) 
 TROI: Could you open this door for me? 
-WORF: Yes, but only for a short time. After ninety seconds the plasma
-venting system will engage to prevent degradation of the forcefield. 
+WORF: Yes, but only for a short time. After ninety seconds the plasma venting system will engage to prevent degradation of the forcefield. 
 TROI: I just want to take a quick look. 
 WORF: May I ask what you're looking for? 
 TROI: I'm not sure. 
 (the hatch rises and the stream of energy is visible) 
 COMPUTER: Warning plasma venting system will engage in ninety seconds. 
 WOMAN: No! No, no, please. Please, please. No! Don't! No! 
-COMPUTER: Warning. Plasma venting system will engage in eighty seconds.
+COMPUTER: Warning. Plasma venting system will engage in eighty seconds. 
 (a man is staring at her) 
 TROI: Worf? 
-(a toolbox is present labelled Utopia Planetia - and the nacelle is not
-completed) 
+(a toolbox is present labelled Utopia Planetia - and the nacelle is not completed) 
 TROI: Worf? 
-(Troi goes back down the ladder and hears laughter from the junction
-room. She opens the door to see another man and the woman kissing. They
-laugh at her) 
+(Troi goes back down the ladder and hears laughter from the junction room. She opens the door to see another man and the woman kissing. They laugh at her) 
 WORF: Counsellor, are you all right? 
 (the room is back as it should be) 
 TROI: Let's get out of here. 
 [Observation lounge]
 PICARD: Do you remember anything else? 
-TROI: Yes, I think I do. There was a tool crate on the floor. It was
-labeled Utopia Planitia. 
+TROI: Yes, I think I do. There was a tool crate on the floor. It was labeled Utopia Planitia. 
 DATA: The shipyard where the Enterprise was built. 
-PICARD: Clearly this was much more than an empathic echo. It seems that
-you were actually seeing something that happened in the control room
-eight years ago. 
-TROI: Everyone was looking directly at me, but it was as though I was
-seeing through someone else's eyes. 
+PICARD: Clearly this was much more than an empathic echo. It seems that you were actually seeing something that happened in the control room eight years ago. 
+TROI: Everyone was looking directly at me, but it was as though I was seeing through someone else's eyes. 
 DATA: Lieutenant Kwan was partially empathic. 
 CRUSHER: Maybe you were seeing it through his eyes? 
 TROI: It's possible, but I don't see how it could have happened. 
-PICARD: Well, putting that on one side for the moment, let's assume
-that by some unexplained phenomenon, you witnessed an event that
-occurred to Lieutenant Kwan. Those faces that you saw. Did you
-recognise any of them? 
-TROI: I've never seen the woman before, or the man who was with her.
-But there was someone else there. A man. He was staring at me in the
-most peculiar way. I think he had reddish hair. And he did seem
-familiar to me. But it's all so hazy. It's like trying to remember a
-dream. 
-PICARD: There was a woman who was frightened. And then you saw her
-again, laughing, presumably at Lieutenant Kwan. 
+PICARD: Well, putting that on one side for the moment, let's assume that by some unexplained phenomenon, you witnessed an event that occurred to Lieutenant Kwan. Those faces that you saw. Did you recognise any of them? 
+TROI: I've never seen the woman before, or the man who was with her. But there was someone else there. A man. He was staring at me in the most peculiar way. I think he had reddish hair. And he did seem familiar to me. But it's all so hazy. It's like trying to remember a dream. 
+PICARD: There was a woman who was frightened. And then you saw her again, laughing, presumably at Lieutenant Kwan. 
 CRUSHER: What does it all mean? 
-TROI: I don't know, but something terrible happened in there. I felt
-it. 
-PICARD: Counsellor, I want you to look through the personnel files of
-Utopia Planitia. See if you can recognise any of those faces. 
-TROI: If only I could go back to the control room without being
-overwhelmed by the experience. It might help me remember some detail
-that might be relevant. 
-CRUSHER: I could give you an inhibitor that would slow the brain's
-production of psilosynine. That might be able to suppress your empathic
-abilities and make the experience more manageable. It would take about
-sixteen hours to synthesise the inhibitor. 
+TROI: I don't know, but something terrible happened in there. I felt it. 
+PICARD: Counsellor, I want you to look through the personnel files of Utopia Planitia. See if you can recognise any of those faces. 
+TROI: If only I could go back to the control room without being overwhelmed by the experience. It might help me remember some detail that might be relevant. 
+CRUSHER: I could give you an inhibitor that would slow the brain's production of psilosynine. That might be able to suppress your empathic abilities and make the experience more manageable. It would take about sixteen hours to synthesise the inhibitor. 
 TROI: I'd like to try that. 
 PICARD: Very well, Counsellor. 
 [Bridge]
-(Troi is ploughing through personnel files on the
-science station - Guy Vardeman is masquerading as Darien Wallace) 
-WORF: I apologise for being late. The viral medicines we are
-transporting to Barson Two require special security measures to insure
-they are properly contained. Have you found anything? 
-TROI: No. There were literally thousands of people involved in building
-the Enterprise. 
+(Troi is ploughing through personnel files on the science station - Guy Vardeman is masquerading as Darien Wallace) 
+WORF: I apologise for being late. The viral medicines we are transporting to Barson Two require special security measures to insure they are properly contained. Have you found anything? 
+TROI: No. There were literally thousands of people involved in building the Enterprise. 
 WORF: Perhaps if you should try to narrow the search parameters. 
-TROI: I think I have. The man who looked familiar to me may have served
-on board the Enterprise in the last seven years, so I've asked the
-computer to limit its search to personnel who served at Utopia Planitia
-and on the Enterprise. 
-TROI: Ensign Salvatore. He transferred over a year ago. Lieutenant
-Ziff. She's in Quantum mechanics. That's him. 
+TROI: I think I have. The man who looked familiar to me may have served on board the Enterprise in the last seven years, so I've asked the computer to limit its search to personnel who served at Utopia Planitia and on the Enterprise. 
+TROI: Ensign Salvatore. He transferred over a year ago. Lieutenant Ziff. She's in Quantum mechanics. That's him. 
 WORF: Lieutenant Walter Pierce. 
-TROI: I remember now. He came on board about six months ago. I think
-he's in Engineering. 
+TROI: I remember now. He came on board about six months ago. I think he's in Engineering. 
 [Engineering]
-WORF: You were Lieutenant Kwan's supervisor at
-Utopia Planitia? 
+WORF: You were Lieutenant Kwan's supervisor at Utopia Planitia? 
 PIERCE: That's right. I was sorry to hear what happened. 
-TROI: Did you ever spend time in the nacelle control room while it was
-under construction? 
-PIERCE: I worked all over the ship. In fact, I remember running a power
-conduit right behind this wall here. 
-TROI: Were you ever in the nacelle room at the same time as Lieutenant
-Kwan? 
-PIERCE: It was a long time ago. People were working all over the place.
+TROI: Did you ever spend time in the nacelle control room while it was under construction? 
+PIERCE: I worked all over the ship. In fact, I remember running a power conduit right behind this wall here. 
+TROI: Were you ever in the nacelle room at the same time as Lieutenant Kwan? 
+PIERCE: It was a long time ago. People were working all over the place. 
 WORF: So you do not remember? 
 PIERCE: I'm sorry, I don't. 
 TROI: Do you recall if anything unusual happened there? 
 PIERCE: How do you mean? 
 TROI: An altercation, perhaps. Possibly involving Lieutenant Kwan. 
-PIERCE: No, nothing like that. The way I remember it, things went
-pretty smoothly. What's this all about, if you don't mind my asking? 
-TROI: Not at all. When I was in the nacelle room I had an empathic
-experience. 
-WORF: We believe the Counsellor may have been seeing an event that
-occurred eight years ago. 
+PIERCE: No, nothing like that. The way I remember it, things went pretty smoothly. What's this all about, if you don't mind my asking? 
+TROI: Not at all. When I was in the nacelle room I had an empathic experience. 
+WORF: We believe the Counsellor may have been seeing an event that occurred eight years ago. 
 TROI: And I saw you there. Do you have any idea why that might be? 
 PIERCE: I'm afraid I don't. 
-TROI: Lieutenant, are you aware that I can sense when someone's telling
-the truth? 
+TROI: Lieutenant, are you aware that I can sense when someone's telling the truth? 
 PIERCE: I've heard that. 
-TROI: Then I'm sure that if you remember anything that might be
-relevant to our investigation, you'll contact me. 
+TROI: Then I'm sure that if you remember anything that might be relevant to our investigation, you'll contact me. 
 PIERCE: Of course. 
 TROI: Thank you, Lieutenant. 
 PIERCE: Counsellor. 
 [Corridor]
-TROI: The strange thing is I couldn't read him at
-all. 
-WORF: But you implied that? We have played poker together many times.
-I've never known you to bluff. 
-TROI: Well it wouldn't be much of a bluff if you knew, would it? The
-fact that I couldn't read him suggests that he has at least some
-telepathic ability. 
+TROI: The strange thing is I couldn't read him at all. 
+WORF: But you implied that? We have played poker together many times. I've never known you to bluff. 
+TROI: Well it wouldn't be much of a bluff if you knew, would it? The fact that I couldn't read him suggests that he has at least some telepathic ability. 
 WORF: But Pierce is human. 
-TROI: That's what I don't understand. Even though I couldn't read his
-emotions, I did feel that he was holding something back. 
+TROI: That's what I don't understand. Even though I couldn't read his emotions, I did feel that he was holding something back. 
 WORF: I thought so as well. 
-TROI: Maybe we should try to access the Engineering logs from Utopia
-Planitia. We might find out more about him. 
-WORF: There may be something in them about Lieutenant Kwan as well.
+TROI: Maybe we should try to access the Engineering logs from Utopia Planitia. We might find out more about him. 
+WORF: There may be something in them about Lieutenant Kwan as well. 
 [Troi's quarters]
-TROI: It going to take about half an hour for the
-transmission to be completed. 
+TROI: It going to take about half an hour for the transmission to be completed. 
 WORF: Perhaps we should continue this in the morning. 
 TROI: It is late. 
 WORF: Yes, and you must be tired. 
@@ -421,32 +276,26 @@ TROI: Goodnight.
 WORF: We should get an early start tomorrow. 
 TROI: I think we should. I'll see you in the morning. 
 WORF: Yes. 
-(finally, Worf takes her hand and nuzzles her neck, then they kiss
-passionately) 
-(next morning, Troi is still in bed and Worf is already dressed. He
-kisses her awake. I thought non-Klingon females were too fragile??) 
+(finally, Worf takes her hand and nuzzles her neck, then they kiss passionately) 
+(next morning, Troi is still in bed and Worf is already dressed. He kisses her awake. I thought non-Klingon females were too fragile??) 
 TROI: Hello. 
 WORF: Breakfast is ready. 
-TROI: That sounds nice. But it can wait. Why didn't we do this a long
-time ago? 
+TROI: That sounds nice. But it can wait. Why didn't we do this a long time ago? 
 CRUSHER [OC]: Crusher to Counsellor Troi. 
 TROI: Yes, Doctor. 
 [Sickbay]
- CRUSHER: I've synthesised the inhibitor. Please
-come to Sickbay whenever you're ready. 
+CRUSHER: I've synthesised the inhibitor. Please come to Sickbay whenever you're ready. 
 [Troi's quarters]
 TROI: Acknowledged. 
 CRUSHER [OC]: Crusher to Lieutenant Worf. 
 WORF: Worf, here. 
-CRUSHER [OC]: Medical supplies are ready to be taken to cargo bay for
-transport. 
+CRUSHER [OC]: Medical supplies are ready to be taken to cargo bay for transport. 
 WORF: I will be there shortly. 
 [Sickbay]
 (Deanna gets her shot) 
 CRUSHER: This should take effect immediately. 
 TROI: Will it completely suppress my empathic abilities? 
-CRUSHER: It's hard to say for sure, but I can always increase the
-dosage if it's not enough. 
+CRUSHER: It's hard to say for sure, but I can always increase the dosage if it's not enough. 
 (Worf enters with Calloway) 
 WORF: The cargo bay will be off limits to all but medical personnel. 
 CALLOWAY: Thanks for your help, sir. 
@@ -455,8 +304,7 @@ TROI: Good morning.
 WORF: Counsellor. 
 TROI: Data and Geordi are already in the nacelle tube. Are you ready? 
 WORF: Yes. 
-CALLOWAY: Excuse me, sir. About the quarantine field in the cargo bay?
-It looks like we'll need a second field generator. 
+CALLOWAY: Excuse me, sir. About the quarantine field in the cargo bay? It looks like we'll need a second field generator. 
 WORF: I am needed here. I will join you as soon as I can. 
 TROI: All right. 
 WORF: Apparently my help was not so good after all. 
@@ -464,166 +312,118 @@ CALLOWAY: Yes, it was. You were wonderful.
 WORF: I think I know what's wrong. 
 [Nacelle control]
 LAFORGE: Counsellor, you okay? 
-TROI: I'm fine. The inhibitor seems to be working. Have you found
-anything? 
+TROI: I'm fine. The inhibitor seems to be working. Have you found anything? 
 LAFORGE: No, nothing unusual. 
-TROI: I don't remember seeing these during my empathic experience. Have
-they been here since the ship was built? 
+TROI: I don't remember seeing these during my empathic experience. Have they been here since the ship was built? 
 DATA: No, they were installed two years ago. 
 (Troi goes up the ladder to the nacelle proper) 
 TROI: Geordi, I remember seeing a plasma conduit right there. 
-LAFORGE: The main ODN line runs right behind that panel. It lifts out
-so you can get to it. 
+LAFORGE: The main ODN line runs right behind that panel. It lifts out so you can get to it. 
 NARA: Kwan was working on that conduit the day before he died. 
 TROI: Can you open it? 
 LAFORGE: Sure. It'll take just a minute. 
 (he goes downstairs.) 
 LAFORGE: Data. 
-TROI: Lieutenant Nara, may I ask you something? The work Lieutenant
-Kwan was doing, was it unusual in any way? 
-NARA: He was refitting a field coil, but it was probably the first time
-that particular panel's been opened since the ship was built. 
+TROI: Lieutenant Nara, may I ask you something? The work Lieutenant Kwan was doing, was it unusual in any way? 
+NARA: He was refitting a field coil, but it was probably the first time that particular panel's been opened since the ship was built. 
 TROI: Thank you. 
 [Injector room]
 (Geordi removes the panel) 
 WOMAN: No! 
 (Troi sees Pierce in his UP coverall) 
 LAFORGE: Counsellor, are you all right? 
-TROI: Something happened when you removed the panel. There's something
-in there. 
-DATA: I am getting readings that indicate organic material embedded in
-this wall. 
-LAFORGE: Organic? You're right. Let me reconfigure the emitter beam. We
-might be able to see what it is. There. 
-(skull, ribcage, spine)
+TROI: Something happened when you removed the panel. There's something in there. 
+DATA: I am getting readings that indicate organic material embedded in this wall. 
+LAFORGE: Organic? You're right. Let me reconfigure the emitter beam. We might be able to see what it is. There. 
+(skull, ribcage, spine) 
 [Sickbay]
-CRUSHER: This dosage should prevent any further
-empathic flashes. 
-CALLOWAY: The bone fragments are definitely human. I sequenced a DNA
-sample. I'll see if I can match it to Starfleet records. 
+CRUSHER: This dosage should prevent any further empathic flashes. 
+CALLOWAY: The bone fragments are definitely human. I sequenced a DNA sample. I'll see if I can match it to Starfleet records. 
 (Worf goes to stand over Calloway at the console) 
 CALLOWAY: Accessing Starfleet personnel records. 
-(Worf and Calloway talk under the dialogue, and Troi keeps looking at
-them) 
-CRUSHER: I'd say these fragments had been in the wall about seven or
-eight years. You said something happened when the panel was opened. 
+(Worf and Calloway talk under the dialogue, and Troi keeps looking at them) 
+CRUSHER: I'd say these fragments had been in the wall about seven or eight years. You said something happened when the panel was opened. 
 TROI: Yes. 
-CRUSHER: I wonder if the fragments themselves could have somehow
-triggered your experience. I'll run a resonance scan, see if anything
-turns up. 
+CRUSHER: I wonder if the fragments themselves could have somehow triggered your experience. I'll run a resonance scan, see if anything turns up. 
 CALLOWAY: Sir, I think we've found a match. 
 WORF: Apparently the remains are those of an Ensign Marla Finn. 
 CALLOWAY: I'm trying to find a picture of her in the records. 
 TROI: That's her. That's the woman I saw. 
-CRUSHER: It says she was reported missing from Utopia Planitia on
-stardate 40987.2. Eight years ago. But how did her body become embedded
-in a bulkhead? 
+CRUSHER: It says she was reported missing from Utopia Planitia on stardate 40987.2. Eight years ago. But how did her body become embedded in a bulkhead? 
 CALLOWAY: Maybe there was some kind of an accident. 
 WORF: Or she was killed and the murderer hid her remains. 
-TROI: Something's not right. Pull up Lieutenant Kwan's service record.
-I thought so. He didn't arrive at the shipyard until six months after
-Finn's death. I couldn't have been seeing through his eyes. 
+TROI: Something's not right. Pull up Lieutenant Kwan's service record. I thought so. He didn't arrive at the shipyard until six months after Finn's death. I couldn't have been seeing through his eyes. 
 CRUSHER: Then whose? 
 TROI: Well it had to be someone who was at least partially telepathic. 
 WORF: Pierce? 
 CRUSHER: But you saw him there. 
-TROI: Yes, but not as clearly as I could see everything else. His face
-looked like that. 
+TROI: Yes, but not as clearly as I could see everything else. His face looked like that. 
 CRUSHER: A reflection. 
-TROI: So I was seeing through his eyes. And Finn was trying to get away
-from him. She was afraid of him. 
-WORF: I think it is time we had another conversation with Lieutenant
-Pierce. Ensign Calloway, thank you for your help.
+TROI: So I was seeing through his eyes. And Finn was trying to get away from him. She was afraid of him. 
+WORF: I think it is time we had another conversation with Lieutenant Pierce. Ensign Calloway, thank you for your help. 
 [Turbolift]
 WORF: Deck ten. 
-TROI: Worf, can I ask you something? Do you regret what happened last
-night? 
+TROI: Worf, can I ask you something? Do you regret what happened last night? 
 WORF: No, of course not. 
-TROI: Are you sure? Because I don't want anything to jeopardise our
-friendship. 
+TROI: Are you sure? Because I don't want anything to jeopardise our friendship. 
 WORF: Deanna, I do not regret being with you. What is wrong? 
-TROI: I'm not feeling myself. Maybe it's the inhibitor. I'm so used to
-sensing what people are feeling, and now I can't. 
+TROI: I'm not feeling myself. Maybe it's the inhibitor. I'm so used to sensing what people are feeling, and now I can't. 
 WORF: Perhaps I should talk to Lieutenant Pierce alone. 
 TROI: That might be a good idea. 
 WORF: I will meet you in your quarters later. 
 TROI: I'll be waiting for you. 
 (Worf leaves) 
-TROI: Deck eight.
+TROI: Deck eight. 
 [Troi's quarters]
 TROI: Come in. 
 (it's Pierce) 
 TROI: Security to Counsellor Troi's quarters. 
 SECURITY [OC]: Acknowledged. 
-PIERCE: I don't understand. Lieutenant Worf said you wanted to talk to
-me about something. 
+PIERCE: I don't understand. Lieutenant Worf said you wanted to talk to me about something. 
 TROI: Where is he? 
 PIERCE: He said he had to go somewhere. 
 TROI: Troi to Worf. Computer, where is Lieutenant Worf? 
 COMPUTER [OC]: Lieutenant Worf is in Ensign Calloway's quarters. 
 (Security arrive) 
 CREWWOMAN: Counsellor? 
-TROI: Take Lieutenant Pierce to his quarters and hold him there.
+TROI: Take Lieutenant Pierce to his quarters and hold him there. 
 [Corridor]
-(Troi gets to Calloway's quarters and decides
-against ringing the bell) 
-TROI: Security override, authorisation Troi Delta two nine.
+(Troi gets to Calloway's quarters and decides against ringing the bell) 
+TROI: Security override, authorisation Troi Delta two nine. 
 [Calloway's quarters]
-(Worf and Calloway are embracing as Troi enters.
-Calloway starts laughing, then Worf.) 
+(Worf and Calloway are embracing as Troi enters. Calloway starts laughing, then Worf.) 
 TROI: Stop it. Stop it! Stop it! 
 (Deanna grabs a convenient phaser and shoots Worf) 
 CALLOWAY: He's dead! You killed him! 
-TROI: No! No!
+TROI: No! No! 
 [Corridor]
 PIERCE: You know what you have to do. 
 [Jefferies tube]
 (Troi climbs the ladder) 
 [Nacelle control]
-(Troi runs up the ladder to the walkway. The hatch
-opens and the plasma stream is in full flow) 
+(Troi runs up the ladder to the walkway. The hatch opens and the plasma stream is in full flow) 
 TROI: I know what I have to do. 
 (Troi step up to the edge and Worf pulls her back) 
 WORF: What are you doing? 
-COMPUTER: Warning. Plasma venting system will engage in seventy
-seconds. 
+COMPUTER: Warning. Plasma venting system will engage in seventy seconds. 
 TROI: You're alive! You're all right! 
 (Troi hugs Worf with relief and joy) 
 [Observation lounge]
-WORF: I opened the maintenance door at Counsellor
-Troi's request, then turned to see her standing too close to the force
-field. 
-TROI: It all seemed so real to me. I can't believe that everything I
-experienced happened in just those few seconds. 
-DATA: It appears Counsellor was correct. Pierce was partially
-telepathic. His maternal grandmother was born on Betazed. 
+WORF: I opened the maintenance door at Counsellor Troi's request, then turned to see her standing too close to the force field. 
+TROI: It all seemed so real to me. I can't believe that everything I experienced happened in just those few seconds. 
+DATA: It appears Counsellor was correct. Pierce was partially telepathic. His maternal grandmother was born on Betazed. 
 PICARD: What else have you found out? 
-DATA: According to Starfleet records, Pierce and the other persons
-Counsellor Troi identified, were killed in an accidental plasma
-discharge eight years ago. Their bodies were never found. 
-TROI: I don't believe it was an accident. I think Lieutenant Pierce
-found out the other two were having an affair. He lost control and he
-killed them both. Afterwards, he probably activated the plasma stream
-and then threw himself into it. 
-WORF: The plasma discharge would have obliterated any evidence that it
-was murder. 
+DATA: According to Starfleet records, Pierce and the other persons Counsellor Troi identified, were killed in an accidental plasma discharge eight years ago. Their bodies were never found. 
+TROI: I don't believe it was an accident. I think Lieutenant Pierce found out the other two were having an affair. He lost control and he killed them both. Afterwards, he probably activated the plasma stream and then threw himself into it. 
+WORF: The plasma discharge would have obliterated any evidence that it was murder. 
 (La Forge enters) 
-LAFORGE: I scanned behind the panel Counsellor Troi asked me to. I
-didn't find any bone fragments but I did find some traces of cellular
-residue showing some kind of psionic signature. 
-TROI: It may be that when Lieutenant Pierce was struck by the plasma
-stream, the subspace energy present there imprinted his empathic
-pattern into the residue. 
+LAFORGE: I scanned behind the panel Counsellor Troi asked me to. I didn't find any bone fragments but I did find some traces of cellular residue showing some kind of psionic signature. 
+TROI: It may be that when Lieutenant Pierce was struck by the plasma stream, the subspace energy present there imprinted his empathic pattern into the residue. 
 LAFORGE: Kind of like a psychic photograph. 
-TROI: That's what triggered my hallucination. My mind must have taken
-elements from my own life and then created a situation that in many
-ways mirrored what happened to Pierce. If you hadn't been there, I
-would have jumped just like he did.
+TROI: That's what triggered my hallucination. My mind must have taken elements from my own life and then created a situation that in many ways mirrored what happened to Pierce. If you hadn't been there, I would have jumped just like he did. 
 [Bridge]
-WORF: Counsellor. When I pulled you from the plasma
-stream, you seemed surprised I was alive. 
+WORF: Counsellor. When I pulled you from the plasma stream, you seemed surprised I was alive. 
 TROI: Well, actually, in my hallucination, you were killed. 
 WORF: May I ask by whom? 
-TROI: Well, you know what they say, Mister Worf. Hell hath no fury like
-a woman scorned.  
+TROI: Well, you know what they say, Mister Worf. Hell hath no fury like a woman scorned. 
 

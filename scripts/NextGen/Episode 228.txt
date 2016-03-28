@@ -1,127 +1,88 @@
 Episode Number: 228
 The Next Generation Transcripts - Realm of Fear
-Realm
-of Fear
-Stardate:
-46041.1
+Realm of Fear
+Stardate: 46041.1
 Original Airdate: 28 Sep, 1992
- 
-Captain's Log, Stardate 46041.1. We have located the USS Yosemite, a
-Starfleet science vessel sent to the Igo sector to observe a remote
-plasma streamer. The ship has not been heard from in several days.
+Captain's Log, Stardate 46041.1. We have located the USS Yosemite, a Starfleet science vessel sent to the Igo sector to observe a remote plasma streamer. The ship has not been heard from in several days. 
 [Bridge]
 PICARD: Magnify. 
 (the ship is inside the pink plasma streamer) 
-RIKER: The last report we have says they were observing the streamer at
-medium range. Maybe they went in for a closer look, got more than they
-bargained for. 
+RIKER: The last report we have says they were observing the streamer at medium range. Maybe they went in for a closer look, got more than they bargained for. 
 PICARD: Hail them. 
 WORF: No response. 
 PICARD: Life signs? 
-DATA: Our scanners cannot penetrate the plasma streamer's distortion
-field. 
+DATA: Our scanners cannot penetrate the plasma streamer's distortion field. 
 PICARD: Can we tractor them out? 
 DATA: No, sir. Ionic interference is too heavy. 
 RIKER: I'll take a shuttle in. 
 PICARD: Too risky. You could be pulled in too. Bridge to Engineering. 
 [Engineering]
-PICARD [OC]: Mister La Forge, can we beam an away
-team onto the science ship?
-LAFORGE: We can beam them over there, Captain, but with all this
-interference, we might not get a positive lock to bring them back. 
-BARCLAY: Commander, if we bridged our transporter system with theirs we
-might be able to cut through the ionic field. 
-LAFORGE: That's a good idea, Barclay. Captain, I think we can do it.
-We're going to bridge the two transporter systems. 
-PICARD [OC]: Acknowledged. Meet Commander Riker in Transporter room
-three. 
-LAFORGE: Aye sir. Barclay, I'm going to need a systems engineer on this
-Away Team. 
+PICARD [OC]: Mister La Forge, can we beam an away team onto the science ship? 
+LAFORGE: We can beam them over there, Captain, but with all this interference, we might not get a positive lock to bring them back. 
+BARCLAY: Commander, if we bridged our transporter system with theirs we might be able to cut through the ionic field. 
+LAFORGE: That's a good idea, Barclay. Captain, I think we can do it. We're going to bridge the two transporter systems. 
+PICARD [OC]: Acknowledged. Meet Commander Riker in Transporter room three. 
+LAFORGE: Aye sir. Barclay, I'm going to need a systems engineer on this Away Team. 
 BARCLAY: I'll ask Ensign Dern to join you. 
 LAFORGE: I meant you, Barclay. 
 BARCLAY: Shouldn't I stay here and set up the remote link? 
-LAFORGE: Dern can do that. Come on, let's go.
+LAFORGE: Dern can do that. Come on, let's go. 
 [Transporter room]
 RIKER: Status, Mister O'Brien? 
-O'BRIEN: I'll have to send you over one at a time, Commander, because
-of band width limitations, and the transport cycle will take a little
-longer. 
+O'BRIEN: I'll have to send you over one at a time, Commander, because of band width limitations, and the transport cycle will take a little longer. 
 RIKER: How much longer? 
-O'BRIEN: Four, five seconds. About twice the normal time. I'm afraid
-you're in for a bumpy ride, Commander.
+O'BRIEN: Four, five seconds. About twice the normal time. I'm afraid you're in for a bumpy ride, Commander.
 BARCLAY: What do you? What exactly do you mean by a bumpy ride? 
-O'BRIEN: There may be a small amount of static charge accumulation.
-You'll feel a bit of tingling. It's nothing to worry about. 
+O'BRIEN: There may be a small amount of static charge accumulation. You'll feel a bit of tingling. It's nothing to worry about. 
 RIKER: Let's do it. Mister Worf. 
 (Worf gets onto the pad) 
-O'BRIEN: Engaging system interlock. Pattern buffers synchronised. Phase
-transition coils at stand by. Energising. He's there. 
+O'BRIEN: Engaging system interlock. Pattern buffers synchronised. Phase transition coils at stand by. Energising. He's there. 
 RIKER: I'll go next. 
 (Barclay's panic levels are steadily mounting) 
 O'BRIEN: Engaging interlock. Buffers synched. Energising. 
 CRUSHER: I'm ready. 
-O'BRIEN: Engaging interlock. Buffers synched. Oh, wait a minute. I'm
-reading an ionic fluctuation in the matter stream. Oh, no problem.
-Okay. Energising. 
+O'BRIEN: Engaging interlock. Buffers synched. Oh, wait a minute. I'm reading an ionic fluctuation in the matter stream. Oh, no problem. Okay. Energising. 
 LAFORGE: Reg, you're up. Reg. 
 BARCLAY: Aye, sir. 
 O'BRIEN: Engaging interlock. Buffers in synch. Phase coils 
 BARCLAY: I'm sorry, I just can't do this. 
-(and Reg leaves the transporter room)
+(and Reg leaves the transporter room) 
 [Troi's office]
 (Barclay is pacing, upset) 
-TROI: Reg, you were faced with a difficult transport. Anyone would have
-been apprehensive in that situation. 
-BARCLAY: Tell that to Commander La Forge and the rest of the away team.
-TROI: I'm sure they understand. As soon as you feel up to it, you can
-probably still join them. 
+TROI: Reg, you were faced with a difficult transport. Anyone would have been apprehensive in that situation. 
+BARCLAY: Tell that to Commander La Forge and the rest of the away team. 
+TROI: I'm sure they understand. As soon as you feel up to it, you can probably still join them. 
 BARCLAY: No! 
 TROI: Reg, is there something you're not telling me? 
-BARCLAY: Actually, this isn't the first time I've been apprehensive.
-Every single time that I tried to do it, I had a certain feeling. I
-guess you could call it mortal terror. 
+BARCLAY: Actually, this isn't the first time I've been apprehensive. Every single time that I tried to do it, I had a certain feeling. I guess you could call it mortal terror. 
 TROI: Why have you kept it a secret? 
-BARCLAY: Why? Because my career in Starfleet would be over, that's why.
+BARCLAY: Why? Because my career in Starfleet would be over, that's why. 
 TROI: I doubt that. 
-BARCLAY: I've always managed to avoid it somehow. You wouldn't believe
-how many hours that I've logged in shuttlecraft. I mean, The idea of
-being deconstructed, molecule by molecule. It's more than I can stand.
-Even when I was a child, I always had a dreadful fear that if ever I
-was dematerialised that I would never come back again whole. I know it
-sounds crazy, but 
-TROI: It's not crazy about it. You are being taken apart molecule by
-molecule. Reg, you're not the first person to have anxiety about
-transporting. We can desensitise you to this type of fear. It's a slow
-and gradual process, but it works. 
+BARCLAY: I've always managed to avoid it somehow. You wouldn't believe how many hours that I've logged in shuttlecraft. I mean, The idea of being deconstructed, molecule by molecule. It's more than I can stand. Even when I was a child, I always had a dreadful fear that if ever I was dematerialised that I would never come back again whole. I know it sounds crazy, but 
+TROI: It's not crazy about it. You are being taken apart molecule by molecule. Reg, you're not the first person to have anxiety about transporting. We can desensitise you to this type of fear. It's a slow and gradual process, but it works. 
 BARCLAY: It does? How? 
 TROI: Well, you might first try a relaxation technique, like plexing. 
 BARCLAY: Plexing? 
-TROI: Yes, it's a Betazoid method. The next time you feel nervous about
-transporting, you stimulate a neural pressure point, like this. 
+TROI: Yes, it's a Betazoid method. The next time you feel nervous about transporting, you stimulate a neural pressure point, like this. 
 (Troi taps behind her right ear) 
-TROI: There's a nerve cluster just behind the carotid artery. It
-stimulates the part of the brain that releases natural endorphins. 
+TROI: There's a nerve cluster just behind the carotid artery. It stimulates the part of the brain that releases natural endorphins. 
 BARCLAY: Plexing. Sounds easy enough. 
 (Troi guides Barclay's fingers to the right place) 
 TROI: Here. There. 
 BARCLAY: You know, I feel better already. I think I can do this. 
 TROI: There's no need to rush. 
-BARCLAY: No, no. We talked about confronting my fears. The best way out
-is through. You said that once, remember? 
+BARCLAY: No, no. We talked about confronting my fears. The best way out is through. You said that once, remember? 
 TROI: I suppose I did. 
-BARCLAY: I'm going to beam over there. I can do it.
+BARCLAY: I'm going to beam over there. I can do it. 
 [USS Yosemite Bridge]
-(a compact design, including transporter pad on the
-'bridge') 
+(a compact design, including transporter pad on the 'bridge') 
 RIKER: There's no sign of any survivors. No sign of anyone. 
 LAFORGE: Maybe they abandoned ship. 
 WORF: Unlikely. The escape pods are still on board. 
 LAFORGE: There was an explosion. That much we do know. 
 RIKER: Any idea what caused it? 
-LAFORGE: I've ruled out a reactor core failure and there's no sign of a
-systems overload. 
-WORF: Blast analysis indicates the explosion originated here, in the
-centre of the transport chamber. 
+LAFORGE: I've ruled out a reactor core failure and there's no sign of a systems overload. 
+WORF: Blast analysis indicates the explosion originated here, in the centre of the transport chamber. 
 LAFORGE: How is that possible? The transporter is still functioning. 
 RIKER: Could they have beamed an explosive device aboard? 
 CRUSHER: Commander Riker? Could you come here, please. 
@@ -130,9 +91,7 @@ RIKER: Excuse me.
 (just down the corridor) 
 CRUSHER: Lieutenant Joshua Kelly. He was the ship's engineer. 
 RIKER: How did he die? 
-CRUSHER: He has second and third degree burns over most of his body,
-but I don't think they were the cause of his death. I'm like to take
-him back to do an autopsy.
+CRUSHER: He has second and third degree burns over most of his body, but I don't think they were the cause of his death. I'm like to take him back to do an autopsy. 
 [Transporter room]
 O'BRIEN: You're sure about this, sir? 
 BARCLAY: Sure. Please proceed. 
@@ -140,214 +99,133 @@ O'BRIEN: It'll only take a minute. It should be a smooth ride over.
 BARCLAY: Good. Good. 
 O'BRIEN: I know how you feel about this, sir. 
 BARCLAY: You're afraid of transporting, too? 
-O'BRIEN: No. Arachnids. Sickening, crawly little things, don't you
-think? All those legs. 
+O'BRIEN: No. Arachnids. Sickening, crawly little things, don't you think? All those legs. 
 BARCLAY: Spiders? They've never bothered me. 
-O'BRIEN: A few years back, I was called in to re-route an emitter array
-at a Starbase on Zayra Four. Turns out the entire system was infested
-with Talarian hook spiders. You ever seen a Talarian hook spider? Their
-legs are half a metre long. Well, I had a choice. Do I walk away and
-let the emitter blow itself to hell, or do I crawl in the Jeffries tube
-with twenty hook spiders? 
+O'BRIEN: A few years back, I was called in to re-route an emitter array at a Starbase on Zayra Four. Turns out the entire system was infested with Talarian hook spiders. You ever seen a Talarian hook spider? Their legs are half a metre long. Well, I had a choice. Do I walk away and let the emitter blow itself to hell, or do I crawl in the Jeffries tube with twenty hook spiders? 
 BARCLAY: What happened? 
-O'BRIEN: It was the hardest thing I ever did, but I got through it.
-After that, I was never quite as afraid of spiders. 
+O'BRIEN: It was the hardest thing I ever did, but I got through it. After that, I was never quite as afraid of spiders. 
 BARCLAY: Thanks. 
-O'BRIEN: Energising.
+O'BRIEN: Energising. 
 [USS Yosemite Bridge]
 LAFORGE: Reg. Welcome aboard. You ready to work? 
 BARCLAY: Yes, sir. 
-LAFORGE: Good. Why don't you start by downloading the ship's science
-logs over there. 
+LAFORGE: Good. Why don't you start by downloading the ship's science logs over there. 
 BARCLAY: Aye, sir. 
-RIKER: Still four members of the crew unaccounted for. Did you come up
-with anything? 
-LAFORGE: I don't know how these fit in, but I found them all around the
-transporter platform. 
+RIKER: Still four members of the crew unaccounted for. Did you come up with anything? 
+LAFORGE: I don't know how these fit in, but I found them all around the transporter platform. 
 RIKER: What are they? 
 LAFORGE: They look like pieces of a standard sample container. 
-RIKER: Take them back to the ship, analyze them there. Mister Barclay.
-Glad you could join us. 
-BARCLAY: Me too, sir.
+RIKER: Take them back to the ship, analyze them there. Mister Barclay. Glad you could join us. 
+BARCLAY: Me too, sir. 
 [Ready room]
-HAYES [on monitor]: The Ferengi are claiming two of
-their freighters were destroyed by a Cardassian warship in your sector.
+HAYES [on monitor]: The Ferengi are claiming two of their freighters were destroyed by a Cardassian warship in your sector. 
 PICARD: Is there any evidence to support this? 
-HAYES [on monitor]: Although I'm loathe to believe the Ferengi about
-anything, there was evidence of Cardassian weapons. If the Cardassians
-also attacked the Yosemite, it could indicate a large scale movement
-into this sector. 
-PICARD: I have an away team on board the ship. The initial report
-indicates there was an explosion on board, but we're not sure if it was
-from an attack. 
+HAYES [on monitor]: Although I'm loathe to believe the Ferengi about anything, there was evidence of Cardassian weapons. If the Cardassians also attacked the Yosemite, it could indicate a large scale movement into this sector. 
+PICARD: I have an away team on board the ship. The initial report indicates there was an explosion on board, but we're not sure if it was from an attack. 
 HAYES [on monitor]: How soon until you know? 
-PICARD: A few hours. If it looks like Cardassians, I'll contact you
-immediately. 
+PICARD: A few hours. If it looks like Cardassians, I'll contact you immediately. 
 HAYES [on monitor]: Very well. 
 (transmission ends) 
 DATA [OC]: Bridge to Captain Picard. 
 PICARD: Go ahead, Mister Data. 
 DATA [OC]: The away team is returning to the Enterprise, sir. 
-PICARD: Acknowledged. Have Commander Riker come to my Ready room as
-soon as he's on board. 
-DATA [OC]: Aye, sir.
+PICARD: Acknowledged. Have Commander Riker come to my Ready room as soon as he's on board. 
+DATA [OC]: Aye, sir. 
 [Transporter room]
 (Riker leaves) 
 LAFORGE [OC]: La Forge to Transporter room three. I'm ready to go. 
-O'BRIEN: Stand by, Commander.
+O'BRIEN: Stand by, Commander. 
 [USS Yosemite]
 (Geordi is beamed away) 
 BARCLAY: Barclay to Enterprise. One to beam back. 
 O'BRIEN [OC]: Stand by, sir. 
-(We join Reg in the transporter experience, including a maggot thing
-that bites his arm)
+(We join Reg in the transporter experience, including a maggot thing that bites his arm) 
 [Transporter room]
-O'BRIEN: You see, sir? That wasn't so bad, was it.
+O'BRIEN: You see, sir? That wasn't so bad, was it. 
 [Engineering]
-LAFORGE: Mission logs, science logs, medical logs,
-they're all scrambled. Looks like the blast wiped out the ship's core
-memory. 
+LAFORGE: Mission logs, science logs, medical logs, they're all scrambled. Looks like the blast wiped out the ship's core memory. 
 BARCLAY: We could try to reconstitute the data stream. 
 LAFORGE: It's worth a try. 
-BARCLAY: Commander, has anything strange ever happened to you during
-transport? 
+BARCLAY: Commander, has anything strange ever happened to you during transport? 
 LAFORGE: Like what? 
 BARCLAY: I don't know. Anything out of the ordinary. 
-LAFORGE: No, not really. This looks hopeless. We're not going to get
-anything out of these logs. You know, maybe this broken sample
-container I found can tell us something. Let's try to get this thing
-back into one piece. 
+LAFORGE: No, not really. This looks hopeless. We're not going to get anything out of these logs. You know, maybe this broken sample container I found can tell us something. Let's try to get this thing back into one piece. 
 BARCLAY: I mean, have you ever seen anything? 
 LAFORGE: Where? 
 BARCLAY: In the, during transport. 
-LAFORGE: Sometimes my visor picks up resonance patterns from the matter
-energy conversion. It's actually kind of pretty. Why? 
+LAFORGE: Sometimes my visor picks up resonance patterns from the matter energy conversion. It's actually kind of pretty. Why? 
 BARCLAY: Just wondering. 
-LAFORGE: Reg, what are you getting at? Did you saw something during
-transport? 
-BARCLAY: When I was returning to the Enterprise I could've sworn I saw
-something in the matter stream. 
+LAFORGE: Reg, what are you getting at? Did you saw something during transport? 
+BARCLAY: When I was returning to the Enterprise I could've sworn I saw something in the matter stream. 
 LAFORGE: Something? 
-BARCLAY: There was phased matter all around. At first I thought it was
-some kind of energy discharge, but then it flew toward me and it
-touched my arm. How could something be in there? Molecules flying
-apart, half phased? I mean, it's impossible, isn't it? 
-LAFORGE: We'd better check it out. When we're done here, we'll run a
-full diagnostic on the transporter, all right? 
-BARCLAY: All right.
+BARCLAY: There was phased matter all around. At first I thought it was some kind of energy discharge, but then it flew toward me and it touched my arm. How could something be in there? Molecules flying apart, half phased? I mean, it's impossible, isn't it? 
+LAFORGE: We'd better check it out. When we're done here, we'll run a full diagnostic on the transporter, all right? 
+BARCLAY: All right. 
 [Transporter room]
-O'BRIEN: The confinement beam subsystems check out.
-So do the phase transition coils. 
+O'BRIEN: The confinement beam subsystems check out. So do the phase transition coils. 
 LAFORGE: The pattern buffer is fine. 
-O'BRIEN: Emitter pads, targeting scanners, they're all working fine.
-This system's clean. So is the science vessel's. 
-LAFORGE: Reg, there's a lot of energy floating around in the beam.
-Maybe you saw a surge in the matter stream. 
+O'BRIEN: Emitter pads, targeting scanners, they're all working fine. This system's clean. So is the science vessel's. 
+LAFORGE: Reg, there's a lot of energy floating around in the beam. Maybe you saw a surge in the matter stream. 
 BARCLAY: Yeah. 
 O'BRIEN: I'll run a scan on the Heisenberg compensators. 
 BARCLAY: No, Chief, you've done enough already. 
 O'BRIEN: It's no problem. Why don't you give me a hand? 
 BARCLAY: You know, maybe ignorance really is bliss. 
 O'BRIEN: Sir? 
-BARCLAY: Well, if I didn't know so much about these things, maybe they
-wouldn't scare me so much. I can still remember the day in Doctor
-Olafson's Transporter Theory class when he was talking about the body
-being converted into billions of kiloquads of data, zipping through
-subspace, and I realised there's no margin for error. One atom out of
-place and poof! You never come back. It's amazing people aren't lost
-all the time. 
-O'BRIEN: With all due respect, sir, I've been doing this for twenty two
-years and I haven't lost anybody yet. 
-BARCLAY: Yes, but you realise if these imaging scanners are off even a
-thousandth of a percent. 
-O'BRIEN: That's why each pad has four redundant scanners. If any one
-scanner fails, the other three take over. 
-LAFORGE: Reg, how many transporter accidents have there been in the
-last ten years? Two? Three? There are millions of people who transport
-safely every day without a problem. 
+BARCLAY: Well, if I didn't know so much about these things, maybe they wouldn't scare me so much. I can still remember the day in Doctor Olafson's Transporter Theory class when he was talking about the body being converted into billions of kiloquads of data, zipping through subspace, and I realised there's no margin for error. One atom out of place and poof! You never come back. It's amazing people aren't lost all the time. 
+O'BRIEN: With all due respect, sir, I've been doing this for twenty two years and I haven't lost anybody yet. 
+BARCLAY: Yes, but you realise if these imaging scanners are off even a thousandth of a percent. 
+O'BRIEN: That's why each pad has four redundant scanners. If any one scanner fails, the other three take over. 
+LAFORGE: Reg, how many transporter accidents have there been in the last ten years? Two? Three? There are millions of people who transport safely every day without a problem. 
 BARCLAY: I've heard of problems. What about transporter psychosis? 
-O'BRIEN: Transporter Psychosis? There hasn't been a case of that in
-over fifty years. Not since they perfected the multiplex pattern
-buffers. 
-LAFORGE: Reg, transporting really is the safest way to travel.
+O'BRIEN: Transporter Psychosis? There hasn't been a case of that in over fifty years. Not since they perfected the multiplex pattern buffers. 
+LAFORGE: Reg, transporting really is the safest way to travel. 
 [Sickbay]
 (the autopsy is underway) 
-CRUSHER: I'd like to take a closer look at those burns. Take a tissue
-sample, please. 
+CRUSHER: I'd like to take a closer look at those burns. Take a tissue sample, please. 
 OGAWA: Yes, Doctor. 
 CRUSHER: Damage to the epidermis only. Initiate a circulatory probe. 
 OGAWA: Doctor Crusher! 
 CRUSHER: His heart's beating! Cardio-stimulator. Now. It's gone. 
 OGAWA: Neuro-electrical activity in the cerebral cortex. Nothing. 
-CRUSHER: Now the respiratory system's active. What the hell is going
-on? 
+CRUSHER: Now the respiratory system's active. What the hell is going on? 
 [Ten Forward]
-(Barclay goes to a table with a glass of water,
-then clutches his arm. He pulls up the sleeve to reveal that his skin
-is glowing purple, then it returns to normal.)
+(Barclay goes to a table with a glass of water, then clutches his arm. He pulls up the sleeve to reveal that his skin is glowing purple, then it returns to normal.) 
 [Barclay's quarters]
-BARCLAY: Water, ten degrees Celsius. Computer,
-access Starfleet Medical Database. Tell me about, er. Describe the
-disorder transporter psychosis. 
-COMPUTER: Transporter psychosis was diagnosed in the year twenty two oh
-nine by researchers on Delinia Two. 
+BARCLAY: Water, ten degrees Celsius. Computer, access Starfleet Medical Database. Tell me about, er. Describe the disorder transporter psychosis. 
+COMPUTER: Transporter psychosis was diagnosed in the year twenty two oh nine by researchers on Delinia Two. 
 BARCLAY: No, no stop. All I need is, what causes it? 
-COMPUTER: It is caused by a breakdown of neuro-chemical molecules
-during transport, affecting the body's motor functions, autonomic
-systems, and the brain's higher reasoning centres. 
+COMPUTER: It is caused by a breakdown of neuro-chemical molecules during transport, affecting the body's motor functions, autonomic systems, and the brain's higher reasoning centres. 
 BARCLAY: What are the symptoms? 
-COMPUTER: Victims suffer from paranoid delusions, multi-infarct
-dementia, hallucinations. 
+COMPUTER: Victims suffer from paranoid delusions, multi-infarct dementia, hallucinations. 
 BARCLAY: Hallucinations? What kind of hallucinations? 
-COMPUTER: Victims experience somatic, tactile and visual
-hallucinations, accompanied by psychogenic hysteria. Peripheral
-symptoms include sleeplessness, accelerated heart rate, diminished
-eyesight leading to acute myopia, painful spasms in the extremities,
-and in most cases, dehydration. 
+COMPUTER: Victims experience somatic, tactile and visual hallucinations, accompanied by psychogenic hysteria. Peripheral symptoms include sleeplessness, accelerated heart rate, diminished eyesight leading to acute myopia, painful spasms in the extremities, and in most cases, dehydration. 
 BARCLAY: Computer what is the treatment for transporter psychosis? 
-COMPUTER: There is no known treatment.
+COMPUTER: There is no known treatment. 
 [Observation lounge]
-CRUSHER: The autopsy showed residual ionisation in
-every one of Lieutenant Kelly's systems. I think that's what caused the
-muscular and systemic contractions. 
+CRUSHER: The autopsy showed residual ionisation in every one of Lieutenant Kelly's systems. I think that's what caused the muscular and systemic contractions. 
 RIKER: From where did the ionisation come? 
-CRUSHER: There's evidence of electrical burns on the victim's body, as
-if he was exposed to ionised gas or high energy plasma. 
-LAFORGE: Plasma? There's no way they could've been exposed, unless it
-was matter from the streamer. 
-PICARD: Is there evidence of a hull breach? Could plasma from the
-streamer have found its way into the ship? 
+CRUSHER: There's evidence of electrical burns on the victim's body, as if he was exposed to ionised gas or high energy plasma. 
+LAFORGE: Plasma? There's no way they could've been exposed, unless it was matter from the streamer. 
+PICARD: Is there evidence of a hull breach? Could plasma from the streamer have found its way into the ship? 
 LAFORGE: No. Data, what's the report on that broken sample container? 
 DATA: The analysis of the fragments is not yet complete. 
-LAFORGE: Captain, if there's evidence of similar ionisation in those
-fragments, it could mean they tried to beam aboard material from the
-streamer. 
-PICARD: If the plasma exploded that would explain a few things. Let me
-know when the analysis is complete. 
-LAFORGE: Aye, sir.
+LAFORGE: Captain, if there's evidence of similar ionisation in those fragments, it could mean they tried to beam aboard material from the streamer. 
+PICARD: If the plasma exploded that would explain a few things. Let me know when the analysis is complete. 
+LAFORGE: Aye, sir. 
 [Engineering]
-(Barclay's drinking from a flask, checking his
-glands and generally being a hypochondriac) 
-LAFORGE: From the looks of these fracture patterns, I'd say that the
-explosive force came from within the container. 
-DATA: The container does show evidence of residual ionisation. I
-believe your hypothesis was correct. It was used to store high energy
-plasma. 
-LAFORGE: So they were collecting samples from the plasma streamer. They
-had the proper container. How could it have exploded? 
-DATA: Perhaps we should attempt to recreate their experiment to see
-what happens when matter is beamed aboard under similar conditions. 
-LAFORGE: That's a good idea. We'll prepare a new container. Reg, I
-don't want to take any chances here. Start setting up a level five
-containment field here in Engineering, okay? 
+(Barclay's drinking from a flask, checking his glands and generally being a hypochondriac) 
+LAFORGE: From the looks of these fracture patterns, I'd say that the explosive force came from within the container. 
+DATA: The container does show evidence of residual ionisation. I believe your hypothesis was correct. It was used to store high energy plasma. 
+LAFORGE: So they were collecting samples from the plasma streamer. They had the proper container. How could it have exploded? 
+DATA: Perhaps we should attempt to recreate their experiment to see what happens when matter is beamed aboard under similar conditions. 
+LAFORGE: That's a good idea. We'll prepare a new container. Reg, I don't want to take any chances here. Start setting up a level five containment field here in Engineering, okay? 
 BARCLAY: Aye, sir. 
 DATA: Are you all right, Lieutenant? 
 BARCLAY: I'm fine. Yes, thank you. 
 (Barclay heads off to the Jefferies tubes) 
-DATA: Geordi. Lieutenant Barclay appears inordinately preoccupied with
-his physiological condition. I have seen him check his pulse rate, as
-well as his visual acuity several times over the last twenty minutes. 
-LAFORGE: Thanks, Data.
+DATA: Geordi. Lieutenant Barclay appears inordinately preoccupied with his physiological condition. I have seen him check his pulse rate, as well as his visual acuity several times over the last twenty minutes. 
+LAFORGE: Thanks, Data. 
 [Jefferies tube]
 LAFORGE: Reg? 
 BARCLAY: Yes, sir? 
@@ -355,136 +233,85 @@ LAFORGE: You okay?
 BARCLAY: I'm just fine, sir. 
 LAFORGE: You look a little pale. 
 BARCLAY: I do? 
-LAFORGE: Look, Reg, it's been a long couple of days. Why don't you get
-some rest. We've got everything under control here. 
-BARCLAY: I think I'll do that, sir. Thank you.
+LAFORGE: Look, Reg, it's been a long couple of days. Why don't you get some rest. We've got everything under control here. 
+BARCLAY: I think I'll do that, sir. Thank you. 
 [Engineering]
 LAFORGE: La Forge to Counsellor Troi. 
 TROI [OC]: Go ahead, Commander. 
-LAFORGE: Counsellor, do you have a minute?
+LAFORGE: Counsellor, do you have a minute? 
 [Corridor]
-TROI: Lieutenant Barclay, I've been calling you,
-why haven't you responded? Reg, what are you doing? 
+TROI: Lieutenant Barclay, I've been calling you, why haven't you responded? Reg, what are you doing? 
 BARCLAY: I'm walking. 
 (so briskly that Troi almost has to run to keep up) 
 TROI: I can see that. Where are you going? 
-BARCLAY: Nowhere. I just don't get to these decks very often. Look,
-there's Stellar Cartography. I thought that was deck eleven. 
+BARCLAY: Nowhere. I just don't get to these decks very often. Look, there's Stellar Cartography. I thought that was deck eleven. 
 TROI: Mister Barclay. 
-BARCLAY: I was I was having trouble sleeping and I'm trying to wear
-myself out. It is a perfectly normal thing to be doing, isn't it? 
-TROI: Commander La Forge said you seemed a little nervous this morning.
+BARCLAY: I was I was having trouble sleeping and I'm trying to wear myself out. It is a perfectly normal thing to be doing, isn't it? 
+TROI: Commander La Forge said you seemed a little nervous this morning. 
 BARCLAY: I'm always nervous. Everybody knows that. 
-TROI: He also mentioned that you said you saw something in the
-transporter beam. 
-BARCLAY: Well I was wrong. They checked the transporter and there
-wasn't. I mean, there was nothing there. I imagined the whole thing. 
+TROI: He also mentioned that you said you saw something in the transporter beam. 
+BARCLAY: Well I was wrong. They checked the transporter and there wasn't. I mean, there was nothing there. I imagined the whole thing. 
 TROI: You don't sound very convinced of that. 
-BARCLAY: Listen, Counsellor, I really appreciate your concern in this
-matter but I really wish you wouldn't continue this conversation. I'm
-really perfectly fine. 
-TROI: Mister Barclay, you're exhausted and highly agitated, and I
-cannot allow a member of this crew to endanger himself and others. I
-think 
+BARCLAY: Listen, Counsellor, I really appreciate your concern in this matter but I really wish you wouldn't continue this conversation. I'm really perfectly fine. 
+TROI: Mister Barclay, you're exhausted and highly agitated, and I cannot allow a member of this crew to endanger himself and others. I think 
 BARCLAY: I'm not endangering anyone else and I wish you would 
-TROI: I think it would be in your best interest to take a leave of
-absence. Reg, I'm temporarily relieving you of duty. 
-BARCLAY: Fine, fine. Do what you have to do, Counsellor.
+TROI: I think it would be in your best interest to take a leave of absence. Reg, I'm temporarily relieving you of duty. 
+BARCLAY: Fine, fine. Do what you have to do, Counsellor. 
 [Barclay's quarters]
 (candles, a seashore soundtrack) 
-BARCLAY: Computer more birds. (cacophony) End stress reduction
-programme. Water. 
+BARCLAY: Computer more birds. (cacophony) End stress reduction programme. Water. 
 COMPUTER: Specify temperature. 
 BARCLAY: I don't care. Just give me water! 
 (He downs it in a gulp then does some plexing) 
-BARCLAY: Calm, calm, stay calm. (gets into bed) All right, Computer,
-let's try some music. Something soothing. 
-(but as the gentle violin plays, he sits up with a glowing arm again)
+BARCLAY: Calm, calm, stay calm. (gets into bed) All right, Computer, let's try some music. Something soothing. 
+(but as the gentle violin plays, he sits up with a glowing arm again) 
 [Transporter room]
-O'BRIEN: Sir, begging your pardon, but couldn't
-this wait til the morning? 
-BARCLAY: No. Chief, I've just, I've been reviewing the transport logs.
-What are these energy variations that keep appearing? There was one
-when I transported to the science ship, you see? 
-O'BRIEN: They're just ionic fluctuations, sir. A result of our
-interlock with the Yosemite's transporter system. 
+O'BRIEN: Sir, begging your pardon, but couldn't this wait til the morning? 
+BARCLAY: No. Chief, I've just, I've been reviewing the transport logs. What are these energy variations that keep appearing? There was one when I transported to the science ship, you see? 
+O'BRIEN: They're just ionic fluctuations, sir. A result of our interlock with the Yosemite's transporter system. 
 BARCLAY: A fluctuation occurred while I was inside the matter stream? 
 O'BRIEN: It's nothing to worry about, sir. 
-BARCLAY: I need you to transport me to the science ship and then
-directly back again. And while I'm in the beam, can you recreate one of
-those ionic fluctuations? 
+BARCLAY: I need you to transport me to the science ship and then directly back again. And while I'm in the beam, can you recreate one of those ionic fluctuations? 
 O'BRIEN: I guess so. But if you don't mind my asking, sir, what for? 
-BARCLAY: I need. Commander La Forge wants some tricorder readings on
-those fluctuations. 
+BARCLAY: I need. Commander La Forge wants some tricorder readings on those fluctuations. 
 O'BRIEN: We can do that from right here. 
-BARCLAY: No, I, the transporter sensors may not be sensitive enough.
-I'm giving you an order, Mister O'Brien. 
-O'BRIEN: Aye, sir. If you don't mind my making an observation, sir, you
-forgot to bring a tricorder. 
-BARCLAY: Either there's something in there or I'm going crazy, and I've
-just got to know. You can understand that, can't you? 
+BARCLAY: No, I, the transporter sensors may not be sensitive enough. I'm giving you an order, Mister O'Brien. 
+O'BRIEN: Aye, sir. If you don't mind my making an observation, sir, you forgot to bring a tricorder. 
+BARCLAY: Either there's something in there or I'm going crazy, and I've just got to know. You can understand that, can't you? 
 O'BRIEN: Yes sir, I can. Stand by, sir. 
-(as Barclay is beamed back and forth, that maggot thing is in the
-sparkles) 
-BARCLAY: I want you to wake the senior staff.
+(as Barclay is beamed back and forth, that maggot thing is in the sparkles) 
+BARCLAY: I want you to wake the senior staff. 
 [Observation lounge]
 (Crusher is scanning Barclay's arm) 
-BARCLAY: Then I saw it again, just twenty minutes ago. It was the same
-exact thing just moving around in the transporter beam. 
+BARCLAY: Then I saw it again, just twenty minutes ago. It was the same exact thing just moving around in the transporter beam. 
 RIKER: Let me get this straight. You think this thing was alive? 
-BARCLAY: It was dark and distorted, and it had what looked like a
-mouth. 
+BARCLAY: It was dark and distorted, and it had what looked like a mouth. 
 WORF: A mouth. 
 CRUSHER: I don't see anything wrong with his arm. 
 TROI: Reg, why did you wait so long to tell anybody about your arm? 
-BARCLAY: Well, I thought I was hallucinating, that I had, that it was
-transporter psychosis. But now I know what I saw in there was real. I
-was the only one who experienced ionic fluctuations in the transport.
-Maybe that's why no one else saw it. 
-PICARD: Mister Barclay, I've been told you've been under a considerable
-amount of strain the past couple of days. Isn't it possible that you
-simply imagined 
-BARCLAY: I know what you're going to say, Captain. I know I've been
-acting strange lately. But you've got to believe me. I would never have
-called you in here unless I was absolutely certain. 
-PICARD: Commander La Forge, get Mister O'Brien. Take that transporter
-system apart piece by piece if you have to. Mister Worf, I want a level
-three security alert until further notice. 
+BARCLAY: Well, I thought I was hallucinating, that I had, that it was transporter psychosis. But now I know what I saw in there was real. I was the only one who experienced ionic fluctuations in the transport. Maybe that's why no one else saw it. 
+PICARD: Mister Barclay, I've been told you've been under a considerable amount of strain the past couple of days. Isn't it possible that you simply imagined 
+BARCLAY: I know what you're going to say, Captain. I know I've been acting strange lately. But you've got to believe me. I would never have called you in here unless I was absolutely certain. 
+PICARD: Commander La Forge, get Mister O'Brien. Take that transporter system apart piece by piece if you have to. Mister Worf, I want a level three security alert until further notice. 
 WORF: Aye, sir. 
-CRUSHER: I'll run a micro-cellular scan of Mister Barclay's arm. It
-might take some time, but if there's a problem, I'll find it. 
-PICARD: Keep me apprised. Dismissed.
+CRUSHER: I'll run a micro-cellular scan of Mister Barclay's arm. It might take some time, but if there's a problem, I'll find it. 
+PICARD: Keep me apprised. Dismissed. 
 [Sickbay]
-CRUSHER: I'm reading minute levels of residual
-ionisation in the subdermal tissue of his left arm. The patterns
-correspond exactly to those we measured in Lieutenant Kelly's body and
-in the sample container from the science ship. There's no question. You
-have been exposed to the same high energy plasma they were. 
+CRUSHER: I'm reading minute levels of residual ionisation in the subdermal tissue of his left arm. The patterns correspond exactly to those we measured in Lieutenant Kelly's body and in the sample container from the science ship. There's no question. You have been exposed to the same high energy plasma they were. 
 BARCLAY: So something did happen to me in the transporter beam. 
-CRUSHER: You might've been exposed to something from the science ship.
-You did say something touched your left arm during transport, and
-that's exactly where the ionisation is focused. 
+CRUSHER: You might've been exposed to something from the science ship. You did say something touched your left arm during transport, and that's exactly where the ionisation is focused. 
 RIKER: Does this ionisation pose a threat to Mister Barclay? 
-CRUSHER: It might. I'll have to run a base pair correlation to see if
-there's any sign of DNA breakdown. 
-BARCLAY: Sir, Commander La Forge and I were planning to recreate the
-circumstances of the explosion on the Yosemite. That might give us some
-answers. Permission to continue with the experiment? 
-RIKER: Granted. Tell Mister O'Brien to take all the primary
-transporters offline. I don't want to risk any further contaminations.
-Make sure you take all the necessary safety precautions. 
+CRUSHER: It might. I'll have to run a base pair correlation to see if there's any sign of DNA breakdown. 
+BARCLAY: Sir, Commander La Forge and I were planning to recreate the circumstances of the explosion on the Yosemite. That might give us some answers. Permission to continue with the experiment? 
+RIKER: Granted. Tell Mister O'Brien to take all the primary transporters offline. I don't want to risk any further contaminations. Make sure you take all the necessary safety precautions. 
 BARCLAY: Aye, sir. 
-CRUSHER: I'd like you to wear this monitoring device. It will tell me
-if there's the slightest sign of increased ionisation. 
+CRUSHER: I'd like you to wear this monitoring device. It will tell me if there's the slightest sign of increased ionisation. 
 (she fastens a band around his left arm) 
-BARCLAY: Yes, Doctor.
+BARCLAY: Yes, Doctor. 
 [Engineering]
-DATA: Structural reinforcement is at two hundred
-forty percent. 
+DATA: Structural reinforcement is at two hundred forty percent. 
 (a sample container is sitting on a table in the middle of the floor) 
-LAFORGE: Activating containment field. Well, that should do it. Okay,
-Reg. We've locked onto the coordinates of the plasma streamer. Go ahead
-and beam aboard a sample, will you? 
+LAFORGE: Activating containment field. Well, that should do it. Okay, Reg. We've locked onto the coordinates of the plasma streamer. Go ahead and beam aboard a sample, will you? 
 BARCLAY: Aye, sir. 
 (the container fills with pink) 
 LAFORGE: Okay. What would they have done first? 
@@ -494,58 +321,39 @@ DATA: Initiating resonance sweep. Frequency range at three
 (the container blows apart) 
 LAFORGE: Barclay, check the containment field. 
 BARCLAY: The field is at its maximum limit, but it is holding. 
-LAFORGE: My visor's picking up bio-magnetic energy. Highly complex
-patterns. You know, I think these things are alive. Reg. 
+LAFORGE: My visor's picking up bio-magnetic energy. Highly complex patterns. You know, I think these things are alive. Reg. 
 (Barclay has passed out) 
-LAFORGE: Reg? (Barclay has a lot of purple skin now) Reg.
+LAFORGE: Reg? (Barclay has a lot of purple skin now) Reg. 
 [Sickbay]
 BARCLAY: Life forms? 
-DATA: That is correct. They appear to be quasi-energy microbes that
-exist within the distortion field of the plasma streamer. 
-LAFORGE: We didn't detect them until we tried to run the resonance
-frequency scan. Apparently, they didn't like it very much. They
-shattered the sample container. 
-BARCLAY: Which caused a plasma explosion similar to the one on the
-science ship. 
-LAFORGE: Exactly. When we linked up with their transporter system, one
-or more of the microbes must have got into our system. We think they're
-still caught in the buffer. It might explain what you saw. 
+DATA: That is correct. They appear to be quasi-energy microbes that exist within the distortion field of the plasma streamer. 
+LAFORGE: We didn't detect them until we tried to run the resonance frequency scan. Apparently, they didn't like it very much. They shattered the sample container. 
+BARCLAY: Which caused a plasma explosion similar to the one on the science ship. 
+LAFORGE: Exactly. When we linked up with their transporter system, one or more of the microbes must have got into our system. We think they're still caught in the buffer. It might explain what you saw. 
 BARCLAY: But what I saw was much bigger than a microbe. 
-DATA: Normal spatial relationships are often distorted within the
-matter stream. Your perceptions may have been exaggerated. 
+DATA: Normal spatial relationships are often distorted within the matter stream. Your perceptions may have been exaggerated. 
 CRUSHER: Some of these microbes are also in your body, Reg. 
 BARCLAY: Inside me? 
-CRUSHER: They were in Lieutenant Kelly's body as well. That's what
-caused the contractions during the autopsy. 
+CRUSHER: They were in Lieutenant Kelly's body as well. That's what caused the contractions during the autopsy. 
 LAFORGE: The biofilter should have screened them out but it didn't. 
-DATA: The microbes exist simultaneously as both matter and energy. The
-biofilter cannot distinguish them from the matter stream. 
-LAFORGE: Right, but if we held Barclay suspended in mid-transport at
-the point where matter starts to lose molecular cohesion. 
-DATA: The molecules would begin to emit nucleonic particles. We may be
-able to derive a pattern the computer would recognise. 
-LAFORGE: And then reprogram the biofilters to screen the microbes out.
-I think this'll work, Reg. 
+DATA: The microbes exist simultaneously as both matter and energy. The biofilter cannot distinguish them from the matter stream. 
+LAFORGE: Right, but if we held Barclay suspended in mid-transport at the point where matter starts to lose molecular cohesion. 
+DATA: The molecules would begin to emit nucleonic particles. We may be able to derive a pattern the computer would recognise. 
+LAFORGE: And then reprogram the biofilters to screen the microbes out. I think this'll work, Reg. 
 BARCLAY: Suspend me? I don't like the sound of this. 
 LAFORGE: We'd have to hold you in there for a while. 
 BARCLAY: How long? 
-LAFORGE: Thirty, forty seconds. It's tough to tell. But I think it'd be
-safe. 
+LAFORGE: Thirty, forty seconds. It's tough to tell. But I think it'd be safe. 
 BARCLAY: But if I'm in the matter stream too long. 
-DATA: Your pattern would degrade to the point where your signal would
-be permanently lost. 
+DATA: Your pattern would degrade to the point where your signal would be permanently lost. 
 [Transporter room]
-(Barclay and Crusher enter. She sets up some
-equipment) 
-O'BRIEN: After fifteen seconds or so in the beam, you may start to feel
-light-headed. Try to stay calm. Oh, and it's important not to move
-around too much. 
+(Barclay and Crusher enter. She sets up some equipment) 
+O'BRIEN: After fifteen seconds or so in the beam, you may start to feel light-headed. Try to stay calm. Oh, and it's important not to move around too much. 
 BARCLAY: Right. 
 O'BRIEN: Initialising the back-up pattern buffer. Holding at stand by. 
 LAFORGE: Ready, Reg? 
 BARCLAY: Energise. 
-O'BRIEN: Molecular resolution at sixty percent. Engaging static mode.
-His pattern is locked and holding. 
+O'BRIEN: Molecular resolution at sixty percent. Engaging static mode. His pattern is locked and holding. 
 LAFORGE: Starting biofilter scan. 
 (Barclay sees a maggot in the matter stream) 
 O'BRIEN: Signal's holding. 
@@ -554,63 +362,43 @@ O'BRIEN: I'll try increasing molecular dispersion.
 LAFORGE: His signal resolution's dropped to fifty five percent. 
 O'BRIEN: Don't worry. I can hold him together. 
 (the huge 'microbe' is eye to eye with Barclay) 
-O'BRIEN: Commander, the signal resolution's down to fifty percent. We
-need to bring him back. 
-LAFORGE: I know, I know. Just give me one more second. We need more
-dispersion. Increase phase transition frequency 
+O'BRIEN: Commander, the signal resolution's down to fifty percent. We need to bring him back. 
+LAFORGE: I know, I know. Just give me one more second. We need more dispersion. Increase phase transition frequency 
 O'BRIEN: Aye, sir. 
 CRUSHER: The imaging scanners are actuating. 
 LAFORGE: Got it. Pattern acquisition Positive. 
 O'BRIEN: Programming biofilter. 
 LAFORGE: Don't worry, Reg. This won't hurt a bit. 
-(now there are three 'microbes' with Barclay. He grabs the first one
-and clutches it to his chest) 
+(now there are three 'microbes' with Barclay. He grabs the first one and clutches it to his chest) 
 O'BRIEN: I'm reading a ninety two percent increase in mass! 
-LAFORGE: There's something in the beam with him. Security to
-Transporter room three. 
+LAFORGE: There's something in the beam with him. Security to Transporter room three. 
 WORF [OC]: Right away. 
 O'BRIEN: I'm setting up a force field round the chamber. 
-(Barclay is materialised with his back to them, holding another person.
-They both fall to the floor) 
+(Barclay is materialised with his back to them, holding another person. They both fall to the floor) 
 CRUSHER: Drop the force field. 
 (Worf and two security personnel enter) 
-BARCLAY: There are more crew members in the beam. You have to grab them
-and hold on. 
+BARCLAY: There are more crew members in the beam. You have to grab them and hold on. 
 WORF: Understood. Follow me. 
 LAFORGE: Reg, what happened? 
-BARCLAY: Well, when I saw there was more than one of them, I thought
-maybe the other crew was trying the same thing that we were. 
-CREWMAN: We're infected with something. Lieutenant Kelly tried to
-reprogram the biofilter 
-LAFORGE: It looks like he pushed molecular dispersion past the
-integrity point. Your patterns got caught in the beam. 
-BARCLAY: The residual energy from the plasma streamer. It must've
-amplified the charge in the buffer enough to keep your patterns from
-degrading. 
-(Worf and the security team are beamed back with three more Yosemite
-crewmembers) 
-Captain's log, stardate 46043.6. The reprogrammed
-biofilter was effective in removing the alien microbes from Mister
-Barclay and the four crewmembers. The microbes have been returned to
-the plasma streamer.
+BARCLAY: Well, when I saw there was more than one of them, I thought maybe the other crew was trying the same thing that we were. 
+CREWMAN: We're infected with something. Lieutenant Kelly tried to reprogram the biofilter 
+LAFORGE: It looks like he pushed molecular dispersion past the integrity point. Your patterns got caught in the beam. 
+BARCLAY: The residual energy from the plasma streamer. It must've amplified the charge in the buffer enough to keep your patterns from degrading. 
+(Worf and the security team are beamed back with three more Yosemite crewmembers) 
+Captain's log, stardate 46043.6. The reprogrammed biofilter was effective in removing the alien microbes from Mister Barclay and the four crewmembers. The microbes have been returned to the plasma streamer. 
 [Ten Forward]
 BARCLAY: Chief. 
-O'BRIEN: Lieutenant. I'm glad you could make it. You know, I think this
-is the first time we've ever spoken outside of the Transporter room. 
+O'BRIEN: Lieutenant. I'm glad you could make it. You know, I think this is the first time we've ever spoken outside of the Transporter room. 
 BARCLAY: Well, to be honest, I always avoided you. 
 O'BRIEN: Why? 
-BARCLAY: Because you run the transporters, and I hate the transporters.
-At least, I used to. So, what's in the box? 
-O'BRIEN: I thought you might like to meet Christina. Christina,
-Lieutenant Barclay. 
+BARCLAY: Because you run the transporters, and I hate the transporters. At least, I used to. So, what's in the box? 
+O'BRIEN: I thought you might like to meet Christina. Christina, Lieutenant Barclay. 
 BARCLAY: It's your pet spider. 
 O'BRIEN: Lycosa tarantula. Don't worry, she won't bite. 
 (Christina starts to stroll across the table) 
 BARCLAY: She's very large. 
-O'BRIEN: I found her on Titus Four. Almost stepped on her by accident.
-Oh, I'll get us a couple of drinks, okay? Keep an eye on her, will you?
+O'BRIEN: I found her on Titus Four. Almost stepped on her by accident. Oh, I'll get us a couple of drinks, okay? Keep an eye on her, will you? 
 BARCLAY: Sure. 
 (my name-sake starts to climb Barclay's arm) 
 BARCLAY: Er, Chief? 
- 
 

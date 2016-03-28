@@ -1,8 +1,7 @@
 COMPUTER: Incorrect.#
 COMPUTER: Incorrect.#
 COMPUTER: Incorrect.#
-COMPUTER: Full data coming on screen.#
-COMPUTER: Offense record. Smuggling. Sentence suspended. Transport of stolen goods. Purchase of space vessel with counterfeit currency. Sentences, psychiatric treatment, effectiveness disputed.#
+COMPUTER: Full data coming on screen. RUTH: If it can read our minds, too.#
 COMPUTER: Incorrect. Master's license revoked Stardate 1116.4.#
 COMPUTER: No data.#
 COMPUTER: No decipherable reading on females. However, unusual reading on male board members. Detecting high respiration patterns, perspiration rate up, heartbeat rapid, blood pressure higher than normal.#
@@ -37,7 +36,7 @@ COMPUTER: Computed. Shuttlecraft is already past point of safe return.#
 COMPUTER: Locked on. Tractor beam ready.#
 COMPUTER: Computer.#
 COMPUTER: Unable to comply.#
-COMPUTER: Unable to comply. Any such attempt will cross-circuit vessel's life-supporting system. Computer control cannot be disengaged until vessel reaches planet Talos Four. Captain's log, stardate 3012.4. Despite our best efforts to disengage computers, the Enterprise is still locked on a heading for the mysterious planet Talos Four. Meanwhile, as required by Starfleet General Orders, a preliminary hearing on Lieutenant Commander Spock is being convened. And in all the years of my service, this is the most painful moment I've ever faced.#
+COMPUTER: Unable to comply. Any such attempt will cross-circuit vessel's life-supporting system. Computer control cannot be disengaged until vessel reaches planet Talos Four.#
 COMPUTER:  Recording.#
 COMPUTER: Computed and recorded, dear.#
 COMPUTER: Computed, dear.#
@@ -116,7 +115,7 @@ COMPUTER: Fifty five seconds to impact.#
 COMPUTER: Forty seconds to impact.#
 COMPUTER: Altitude three hundred miles. Descending and accelerating.#
 COMPUTER: Thirty seconds and accelerating.#
-COMPUTER: One hundred ninety miles. One hundred eighty miles. One hundred seventy miles. One hundred sixty miles. One hundred fifty, one hundred forty, one hundred thirty, one hundred twenty. (there's a bright flash) Detonation one hundred four miles.#
+COMPUTER: One hundred ninety miles. One hundred eighty miles. One hundred seventy miles. One hundred sixty miles. One hundred fifty, one hundred forty, one hundred thirty, one hundred twenty.  Detonation one hundred four miles.#
 COMPUTER: Computer working.#
 COMPUTER: Next interphase two hours twelve minutes.#
 COMPUTER: Alien life force onboard is composed of pure energy. Type unknown. Actions indicate intelligence and purpose.#
@@ -137,7 +136,7 @@ COMPUTER: Working.#
 COMPUTER: Voice and code verified and correct. Sequence two complete.#
 COMPUTER: Voice and code one B, two B, three verified and correct. Destruct sequence completed and engaged. Awaiting final code for thirty second countdown.#
 COMPUTER: Destruct sequence engaged. Awaiting final code for thirty second countdown.#
-COMPUTER: Thirty seconds. twenty nine, twenty eight, twenty seven, twenty five seconds,#
+COMPUTER: Thirty seconds. twenty nine, twenty eight, twenty seven,  twenty five seconds,#
 COMPUTER: Twenty seconds,#
 COMPUTER: Fifteen seconds,#
 COMPUTER: Ten, nine, eight, seven, six,#

@@ -7,14 +7,14 @@ DAX: That should give us something.#
 DAX: Benjamin, I was happy when I heard you accepted this assignment. I've been worried about you.#
 DAX: Computer, create a data base for all historical references to the Orbs, including all reports of any unexplained phenomena in Bajoran space.#
 DAX: Ten millennia.#
-DAX: Curzon. (The old man smiles at her, then the symbiot is transferred from him to her.)#
+DAX: Curzon.#
 DAX: What do you know about the Denorios Belt?#
 DAX: In the twenty-second century, a ship carrying Kai Taluno was disabled for several days in the Denorios Belt, where he claims he had a vision.#
 DAX: Not quite, but he did say that the heavens opened up and nearly swallowed his ship.#
 DAX: That's not all. At least five of the orbs were found in the Denorios Belt. There were also been twenty three navigational reports over the years of unusually severe neutrino disturbances in the same area. I've correlated all these reports in one analysis grid. Our Celestial Temple?#
 DAX: Approaching grid perimeter.#
 DAX: Computer, give me visual bearing two three mark two one seven. Range thirty one hundred kilometres.#
-DAX: All external wave intensities are increasing rapidly, but checking. Confirmed. There is no corresponding increase inside the cabin. How is that possible? (The runabout falls into a bright hole in space and starts travelling along an energy tunnel.)#
+DAX: All external wave intensities are increasing rapidly, but checking. Confirmed. There is no corresponding increase inside the cabin. How is that possible?#
 DAX: We've lost all contact with the space station.#
 DAX: I'll recalibrate when I have a moment.#
 DAX: There is a star just under five light years away. No M-class planets Computer, identify closest star system.#
@@ -59,7 +59,7 @@ DAX: An Altonian brain teaser.#
 DAX: A puzzle.#
 DAX: It responds to neural theta waves. The goal is to turn the sphere into a solid colour.#
 DAX: That's all. I've been trying to master it on and off for, oh, a hundred and forty years. Would you care to try?#
-DAX: Just sit comfortably, and release your tension into my hands. Dax strokes his head)#
+DAX: Just sit comfortably, and release your tension into my hands.#
 DAX: It's a peculiarity of the Trill.#
 DAX: Concentrate on the sphere. Clear your mind. This requires focus and clarity of thought.#
 DAX: Focus and clarity of thought.#
@@ -154,7 +154,7 @@ DAX: That's not necessary, Julian.#
 DAX: Yes?#
 DAX: What do you want?#
 DAX: What are you doing?#
-DAX: Will you just tell me what you want? (The forcefield stops them so Tandro gets to work with his gizmo and brings it down again)#
+DAX: Will you just tell me what you want?#
 DAX: Come in.#
 DAX: I don't expect any help, Benjamin. Thank you, though.#
 DAX: No. I'm sorry, Benjamin, but no.#
@@ -206,7 +206,8 @@ DAX: What do we tell her?#
 DAX: Not yet.#
 DAX: Confirmation of a theory, I hope. I've been asking myself, why would anyone induct a bioelectrical charge into a glial cell?#
 DAX: Well, it might make sense if you wanted to send a bio-coded message along the glial cells of someone's nervous system all the way to the brain. My guess is that's what Vantika was trying to do.#
-DAX: Frankly, I can't think of another way he could have delivered the bio-coded message. He must have used a very weak electrical charge, or the sensors on Kajada's ship would have detected it. Ideally, he would have injected the coded message directly into his victim's skin but there were no hyposprays or needles anywhere on the ship. (The virtual positron imaging scan finds something in the scrapings); DAX: A microscopic generator.#
+DAX: Frankly, I can't think of another way he could have delivered the bio-coded message. He must have used a very weak electrical charge, or the sensors on Kajada's ship would have detected it. Ideally, he would have injected the coded message directly into his victim's skin but there were no hyposprays or needles anywhere on the ship.#
+DAX: A microscopic generator.#
 DAX: His neural patterns encoded as bioelectrical pulses. He could have placed that device under his nail months ago, just in case he needed an escape route in an emergency. His last resort before death.#
 DAX: Now that we know what we're looking for, we should be able to confirm it with a glial scan.#
 DAX: Julian? Computer, location of Doctor Bashir.#
@@ -316,8 +317,9 @@ DAX: Wonderful.#
 DAX: Why are you fighting this?#
 DAX: I don't know what you're talking about.#
 DAX: This is not a joke, Julian.#
-DAX: I think you'd better ask me, Benjamin. (After the adverts, Bashir is scanning Buck with his ever-present tricorder.)#
-DAX: A subspace disruption. Maybe some kind of dimensional shift. DAX: I didn't see an anomaly when I scanned the plasma field, but it could have been so small the sensors missed it.#
+DAX: I think you'd better ask me, Benjamin.#
+DAX: A subspace disruption. Maybe some kind of dimensional shift.#
+DAX: I didn't see an anomaly when I scanned the plasma field, but it could have been so small the sensors missed it.#
 DAX: I think I've got something. Look at the wave patterns of the plasma field.#
 DAX: The particle density rises as you get closer to the centre, but then it looks like it just drops off completely.#
 DAX: Whatever falls in there is just gone.#
@@ -333,7 +335,7 @@ DAX: Cold fish?#
 DAX: I could use one about now.#
 DAX: Yearnings?#
 DAX: A similar subspace rupture was reported in the Hanoli System in the mid twenty third century.#
-DAX: There's no reason you should. When the rupture expanded, the system was destroyed. Station log, stardate 46853.2. We have launched a probe to study the subspace anomaly. Meanwhile, more than half the people aboard DS Nine have reported manifestations of their imagined thoughts.#
+DAX: There's no reason you should. When the rupture expanded, the system was destroyed.#
 DAX: Wave pattern should begin to fluctuate any time now. There.#
 DAX: Thoron emission patterns unstable. Probe hull temperature dropping rapidly.#
 DAX: The probe's approaching the perimeter of the anomaly. That's strange.#
@@ -346,7 +348,7 @@ DAX: The smaller it is, the better chance we have.#
 DAX: I need to see you, Benjamin.#
 DAX: In the last hour alone, the rupture's expanded twenty seven percent The rate of expansion is increasing.#
 DAX: If the rift collapses, the implosion would overtake us almost immediately.#
-DAX: The rift's gotten large enough to pick up on visual scanners. SISKO On screen. Magnify. (A black gash with light falling into it. Buck is there, along with Rumpelstiltskin and Dax 2.)#
+DAX: The rift's gotten large enough to pick up on visual scanners.#
 DAX: All available power's been transferred. Reading shield strength at one hundred fifty eight percent above normal.#
 DAX: Thirty seconds to coordinates.#
 DAX: Torpedo hull temperature dropping.#
@@ -581,6 +583,7 @@ DAX: Love across light years, it's just so#
 DAX: You could say that.#
 DAX: Look at the alternative.#
 DAX: Julian, how did you?#
+DAX:#
 DAX: It's an Earth fable by Hans Christian Andersen. She trades her magical life under the sea for a pair of legs to walk on land.#
 DAX: I'm sure Julian will understand. Besides, he can still publish the results from your first treatments.#
 DAX: She's an Elaysian. She's needs motor support in our gravity.#
@@ -710,7 +713,8 @@ DAX: When did you realise you were dealing with a sentient lifeform?#
 DAX: We're approaching the planet. Prepare to enter standard orbit. Planet designated L S Six.#
 DAX: There's a lot of seismic activity down there, possibly volcanic in origin. Moving into synchronous orbit.#
 DAX: Why don't we take it with us. Our computers back on the station might be able to decipher the inscriptions.#
-DAX: Computer, begin transport. (The stele is beamed out then there's an earthquake. The ruins start to fall.) DAX: Computer, realign transporter. Lock on to our comm. badges.#
+DAX: Computer, begin transport.#
+DAX: Computer, realign transporter. Lock on to our comm. badges.#
 DAX: Doctor Bashir wouldn't listen to me and hid my clothes so I wouldn't leave. I had to sneak out to my quarters in a hospital gown that wouldn't close in the back. What did this?#
 DAX: I don't believe it.#
 DAX: Odo, Doctor Mora is awake and would like to speak with you.#
@@ -792,7 +796,7 @@ DAX: Are you saying that you've never had a female friend?#
 DAX: That's not what I meant. I'm talking about an intimate friendship.#
 DAX: I'm sorry, but after seven lifetimes the impersonal questions aren't much fun anymore.#
 DAX: Looks like we found our particle field. They're omicron particles.#
-DAX: Omicron particles are incredibly rare. They can only be created by certain types of matter-antimatter reactions. The field seems to be coming from the second planet in the system. Let's go a little closer. That's strange. The particles are concentrated in one small valley.#
+DAX: Omicron particles are incredibly rare. They can only be created by certain types of matter-antimatter reactions. The field seems to be coming from the second planet in the system. Let's go a little closer.  That's strange. The particles are concentrated in one small valley.#
 DAX: The particle field could be interfering with the sensors. We'd better beam down for a closer look.#
 DAX: I'm still getting a lot of interference. The particle field must be blocking the tricorder functions.#
 DAX: The interference seems to be coming from here. This must be the source of the field. It's probably some kind of matter-antimatter reactor.#
@@ -850,7 +854,7 @@ DAX: Oh, I'm sure it isn't appropriate at all. But then, I hate to be appropriat
 DAX: Benjamin, I'd like you to meet Arjin, the host candidate I told you about. Commander Benjamin Sisko.#
 DAX: And that's our first officer Major Kira, and Chief Engineer O'Brien. Conducting repairs?#
 DAX: Really? I've never seen a Cardassian vole.#
-DAX: Gotcha! Arjin, here. (Voles are big, half a metre excluding tail, with gargoyle faces and tufts of hair)#
+DAX: Gotcha! Arjin, here.#
 DAX: Spectacular, isn't it?#
 DAX: Computer, play something by Frenchotte.#
 DAX: A self-exiled Romulan. I collect forgotten composers. Feel like taking the controls?#
@@ -988,7 +992,7 @@ DAX: Is Kang coming?#
 DAX: Could it possibly mean that he's#
 DAX: Kang, do you remember the first time we sat together over bahgol? It was the Korvat colony. The Federation and the Klingon Empire were still enemies.#
 DAX: I am Dax, godfather of your son.#
-DAX: I am Dax, godfather of your son .#
+DAX: I am Dax, godfather of your son#
 DAX: Don't mistake a new face for a new soul, Kang. I still feel at one with your family just as I did eight decades ago. I hope one day you will embrace me as a brother again.#
 DAX: I wouldn't count on information from traders. The Albino might have told them what to say if anyone asked questions.#
 DAX: About Curzon?#
@@ -1024,7 +1028,8 @@ DAX: That's a lie.#
 DAX: When you agree that I can fulfill my part of the oath.#
 DAX: Computer. I want a Klingon bat'leth, tip to tip one hundred and sixteen centimetres, weight five point three kilos with an exterior handgripping diameter of five centimetres. Blades composite baakonite.#
 DAX: I'm going to fight you.#
-DAX: Your hand would never slip, unless you've become old and feeble. (They fight with much twirling of blades and clashing of metal, Koloth one-handed, Dax using both hands.) DAX: Come now, Koloth. Surely you can take me down.#
+DAX: Your hand would never slip, unless you've become old and feeble.#
+DAX: Come now, Koloth. Surely you can take me down.#
 DAX: You can't deny my right for vengeance.#
 DAX: You said that to me before, Kang. Do you remember?#
 DAX: The Korvat colony. First day of negotiations. I walked out on you right in the middle of that long-winded speech of yours. You should have seen the look on your face. Nobody ever had the kajunpak't to show their back to the great Kang before Curzon did.#
@@ -1062,7 +1067,7 @@ DAX: On the other hand, this gives us an advantage we wouldn't otherwise have. H
 DAX: Good question.#
 DAX: A good strategy. But whoever creates the diversion will have to run across this field to escape. With all due respect, none of you are as quick as you once were. I'll volunteer for that job.#
 DAX: I think so.#
-DAX: Excuse me. Could you tell me where the tennis courts are? I seem to be lost. (Then he gets knocked out. Shortly afterwards, KaBOOM! gets the attention of the Albino. Jadzia runs as the guards point their useless weapons at her.)#
+DAX: Excuse me. Could you tell me where the tennis courts are? I seem to be lost.#
 DAX: You knew me as Curzon Dax.#
 DAX: It's never a good day to lose a friend.#
 DAX: The Cardassian freighter Bok'Nor is requesting permission to depart upper pylon one in three minutes.#
@@ -1249,7 +1254,7 @@ DAX: And that's why you went to medical school?#
 DAX: You're a very dear man, Julian.#
 DAX: Are you sure you don't mind?#
 DAX: Okay, well, in that case, if it's not too much trouble, would you mind if I took the lower bunk? Curzon fell out of a tree once, and#
-DAX: Thank you. (She gets in and he turns off the light for her, then climbs up to carry on reading.)#
+DAX: Thank you.#
 DAX: After they finally finished the neural response analysis, another doctor came in and ran a cortical protein series.#
 DAX: They had to make an incision so they could insert the scanner.#
 DAX: Doctor Renhol.#
@@ -1277,10 +1282,10 @@ DAX: You mean the balance between host and symbiont?#
 DAX: Timor is convinced that my hallucinations have something to do with one of my previous hosts. But he's not sure which one. So he wants me to come back again tomorrow to see him.#
 DAX: Can I hear it? That's it.#
 DAX: Joran Belar? I don't think so. Is there a picture of him?#
-DAX: Who are you? (Dax grabs the figure and reaches for the mask. It disappears to reveal Joran.)#
+DAX: Who are you?#
 DAX: Julian.#
 DAX: Joran.#
-DAX: You're a part of me. (Dax takes him into her arms and energy plays over them. Or rather her, as he's not really there.)#
+DAX: You're a part of me.#
 DAX: Come in. Checking up on me, Benjamin?#
 DAX: Julian stopped by fifteen minutes ago and said the same thing. I'll be all right. I just need some time to sort things out.#
 DAX: No, I'm glad I did. If you want to know who you are, it's important to know who you've been.#
@@ -1406,7 +1411,8 @@ DAX: You see, the key to tongo is to confront when you're sure you're in a bette
 DAX: You haven't heard a word I've been saying, have you?#
 DAX: You don't want to leave Meridian, do you?#
 DAX: I know what you said, but what do you want?#
-DAX: But you're worried about your people. DERAL There are so few of us, Jadzia, and now that Meridian has a future again, they need me. DAX: Then you have to stay.#
+DAX: But you're worried about your people.#
+DAX: Then you have to stay.#
 DAX: What if you didn't have to lose me? What if I stayed here with you?#
 DAX: We could use the transporter buffer to match my quantum matrix to yours.#
 DAX: Because I discussed it with Julian after you left my quarters.#
@@ -1470,7 +1476,7 @@ DAX: Would you please stop following me?#
 DAX: Discuss it with Major Kira. I'm not interested.#
 DAX: Peldor joi.#
 DAX: You tell him, Benjamin.#
-DAX: Can I see that? (Dax snatches the bracelet. Bashir and Kira enter, still entwined and kissing.)#
+DAX: Can I see that?#
 DAX: I want to give this to you as a token of my affection.#
 DAX: I'm sorry, Benjamin. He was just starting to annoy me.#
 DAX: I'll take one.#
@@ -1516,7 +1522,7 @@ DAX: I've got to get down there.#
 DAX: My friends are in there.#
 DAX: I have to try.#
 DAX: I just can't stay here and watching that place burn, knowing my friends are inside.#
-DAX: I can't wait that long. By the time things settle down, my friends could be hurt or even killed. They don't belong in there. None of those people do. First officer's log, supplemental. Somehow Sisko, Dax, and Bashir have altered Earth's history. We have no choice but to send an away team into the past, to try to find them and to correct the changes to the timeline. The only problem is, we're not exactly sure where to look or when.#
+DAX: I can't wait that long. By the time things settle down, my friends could be hurt or even killed. They don't belong in there. None of those people do.#
 DAX: Julian.#
 DAX: Good to see you.#
 DAX: I've been looking all over for you.#
@@ -1562,7 +1568,7 @@ DAX: If you're asking if he stole anything, the answer is no. He even found some
 DAX: I have no idea.#
 DAX: I just received the final update from the Cardassians on the transceiver they designed for the communications relay.#
 DAX: I'm still not convinced it's going to work.#
-DAX: I hope they're right. (Enter Quark, carrying a tray with bottles of Kanar and a small vase of flowers.)#
+DAX: I hope they're right.#
 DAX: Where did you get real Kanar?#
 DAX: And as the thirty fourth Rule of Acquisition states, peace is good for business.#
 DAX: Oh, you're right. What's the thirty fourth?#
@@ -1584,7 +1590,7 @@ DAX: I'm not receiving anything.#
 DAX: Initiating carrier wave. Something's wrong. I'm picking up a neutrino surge from the wormhole.#
 DAX: Somehow the carrier wave caused the wormhole to open.#
 DAX: Benjamin, the gravitational surge altered the course of the comet. It's now heading directly toward the wormhole.#
-DAX: And collapse the wormhole permanently. Commander's log, supplemental. With less than five hours before the comet reaches the wormhole, I've brought the Defiant back to the station and convened a meeting of the entire science team.#
+DAX: And collapse the wormhole permanently.#
 DAX: Apparently the carrier wave we sent created some sort of subspace inversion inside the wormhole.#
 DAX: It would probably into smaller pieces and we'd have a bigger mess on our hands.#
 DAX: Chief O'Brien said the modifications to the Defiant's phasers will be ready within half an hour.#
@@ -1614,7 +1620,6 @@ DAX: That's a very mature attitude.#
 DAX: I'm actually astonished, but impressed.#
 DAX: I won't mention it again.#
 DAX: So who do you think is going to win? Wade or P'Trell?#
-DAX:  A physical entity#
 DAX:  The Zek wanted to understand events outside the restrictions of linear time.#
 DAX:  This one is adversarial too.#
 DAX: That is linear.#
@@ -1748,7 +1753,7 @@ DAX: Tobin, I don't think Chief O'Brien is going to appreciate you biting his na
 DAX: That's all right. I get that way sometimes myself.#
 DAX: Will you please stop saying you're sorry?#
 DAX: I've been working on finishing your proof of Fermat's last theorem.#
-DAX: It's the most original approach to the proof since  Wiles over three hundred years ago.#
+DAX: It's the most original approach to the proof since#
 DAX: I guess I tend to look for original approaches myself. I guess I have you to thank for that, as well.#
 DAX: Very nice.#
 DAX: I'll be sure to pass that on.#
@@ -1769,7 +1774,8 @@ DAX: Yes, when I have the time.#
 DAX: Sometimes.#
 DAX: You don't know anything about me.#
 DAX: I'm not.#
-DAX: No. (Joran pushes against the forcefield with his hands, then starts thumping his head against it.) DAX: Joran! Stop it, you're hurting him. Benjamin, take control!#
+DAX: No.#
+DAX: Joran! Stop it, you're hurting him. Benjamin, take control!#
 DAX: Are you all right?#
 DAX: For what?#
 DAX: I keep thinking about Joran.#
@@ -1844,7 +1850,8 @@ DAX: Ambassador, if you please.#
 DAX: Captain. The helm isn't responding. We're still at warp.#
 DAX: The ship's no longer under our control.#
 DAX: Not at all.#
-DAX: Benjamin, take a look at this. We've got some unexpected company. DAX: It's just decloaked.#
+DAX: Benjamin, take a look at this. We've got some unexpected company.#
+DAX: It's just decloaked.#
 DAX: The Negh'Var. There's a General Martok on board asking to speak with you.#
 DAX: Oh, there you are. We've been looking all over for you. Malko here just gave me the most amazing massage, and I'm sure if you ask nicely he'll do the same for you.#
 DAX: Why?#
@@ -1880,7 +1887,8 @@ DAX: So, how did you like the programme?#
 DAX: It's mine.#
 DAX: No, I mean it's mine. Computer, bat'leth. I thought you might be tired of fighting holograms.#
 DAX: I'll go easy on you.#
-DAX: I hope you're not holding back because I'm a woman. If it makes things any easier, think of me as a man. I've been one several times. (Worf disarms Dax, then knocks her legs out from under her so she ends up on her back.) DAX: Feel better? I take it your conversation with General Martok didn't go all that well.#
+DAX: I hope you're not holding back because I'm a woman. If it makes things any easier, think of me as a man. I've been one several times.#
+DAX: Feel better? I take it your conversation with General Martok didn't go all that well.#
 DAX: Maybe you're going about this the wrong way. With so many Klingons around, there must be someone who owes your family a favour.#
 DAX: Captain, I think you'd better take a look at this.#
 DAX: As soon as General Martok beamed back to his ship, he sent a message to the Klingon fleet. It was just one word. In'Cha.#
@@ -1968,7 +1976,7 @@ DAX: Come in.#
 DAX: You're never going to let me forget that, are you?#
 DAX: Three months. I know.#
 DAX: You know how I hate to miss a party.#
-DAX: I know. And I appreciate what you're trying to do, but I'm going to be working with Lenara for the next week. I have to get used to being around her. Stop worrying about me, Benjamin. I'll be fine. (Dax puts her comm. badge onto her dress uniform, and Sisko turns it the right way up.)#
+DAX: I know. And I appreciate what you're trying to do, but I'm going to be working with Lenara for the next week. I have to get used to being around her. Stop worrying about me, Benjamin. I'll be fine.#
 DAX: Mmm-hmm.#
 DAX: Hasperat. No, hasperat. Moba fruit and veklava.#
 DAX: Neither am I.#
@@ -2015,7 +2023,7 @@ DAX: Well?#
 DAX: I know. Every time I start to think of you as just Lenara, you'll smile or laugh and suddenly it's you.#
 DAX: I'm really glad you're here.#
 DAX: No ships in sensor range.#
-DAX: This AQF sequencer, it's always causing me problems. (We switch to the other side of the Bridge and see Dax and Lenara flirting but can't make out their words.)#
+DAX: This AQF sequencer, it's always causing me problems.#
 DAX: The drone is standing by.#
 DAX: The drone is sending out the magneton pulse. It's reached the matrix.#
 DAX: The magneton pulse is causing a feedback loop. It'll destroy the drone in a few seconds.#
@@ -2152,7 +2160,8 @@ DAX: If there is, I don't know how we can get to it. This shield has completely 
 DAX: It must be keyed to read lifesigns.#
 DAX: If you're right we're going to need a Hur'q tour guide to get us through.#
 DAX: We can reconfigure the tricorder to emit Hur'q lifesigns.#
-DAX: I still have the DNA readings we got from the cloth. (Dax holds up the tricorder to the sensor then reaches for the wall. Her hand passes through) DAX: I feel like a Hur'q already.#
+DAX: I still have the DNA readings we got from the cloth.#
+DAX: I feel like a Hur'q already.#
 DAX: The age, the composition, the design, everything's right.#
 DAX: How does it feel?#
 DAX: We should go. The field destabilisers won't hold for long.#
@@ -2189,7 +2198,7 @@ DAX: Then we have a bit of a problem. There's only one Sword and you both want i
 DAX: The way these caves wind around, this could take forever.#
 DAX: Or longer.#
 DAX: I can't see anything.#
-DAX: Just hold on. We'll pull you up. (She hauls on Worf, and Kor is pulled to safety. Worf has the Sword. Kor looks down, then Dax.)#
+DAX: Just hold on. We'll pull you up.#
 DAX: That's enough, both of you.#
 DAX: Then give it to me. I'll carry it. Kor, put away your dagger.#
 DAX: Put away your dagger so he can give me the bat'leth.#
@@ -2236,7 +2245,8 @@ DAX: Captain, a Klingon bird of prey just decloaked off the station.#
 DAX: Movek. Okay. I see your point. The mek'leth definitely have its advantages. But I still think the bat'leth, with its longer reach, is usually the deciding factor.#
 DAX: So you think that I was overconfident?#
 DAX: My outfit?#
-DAX: You thought I wore this for you? Talk about overconfidence. (Dax walks away, smiling, then returns straight-faced to put the broken bat'leth against his throat.) DAX: Worf. Gotcha.#
+DAX: You thought I wore this for you? Talk about overconfidence.#
+DAX: Worf. Gotcha.#
 DAX: But in my own defence, you do try your own tactics of distraction with all that shouting and growling you do.#
 DAX: Quark, have you seen Worf? He was supposed to meet me in the holosuite five minutes ago.#
 DAX: Worf is never late. In fact, he grumbles at me if I'm two minutes behind schedule.#
@@ -2331,7 +2341,7 @@ DAX: I hope these warp shadows we're emitting are going to fool them.#
 DAX: You'll get over it.#
 DAX: King Arthur's Court.#
 DAX: I'm so depressed.#
-DAX: Congratulations. (Kira and Bashir hug Lwaxana. Quark shakes Odo's hand. Kira kisses Odo.)#
+DAX: Congratulations.#
 DAX: Quark!#
 DAX: How many replicators are we talking about?#
 DAX: Why all the secrecy?#
@@ -2403,7 +2413,7 @@ DAX: Just between you and me, Captain, I think we're a little outnumbered.#
 DAX: Worf.#
 DAX: Wait. The room's not secure. We have to find the third guard.#
 DAX: He's here somewhere.#
-DAX: We know what we're looking for. We just can't find it. (Lights up, along with the Jem'Hadar. Sisko, Weyoun and Omet'iklan come onto the upper level balcony.)#
+DAX: We know what we're looking for. We just can't find it.#
 DAX: Well you might as well tell us. Where's the other one?#
 DAX: Am I really that interesting? You've been standing there staring at me for the last two hours.#
 DAX: There must be something you'd rather do. Maybe get some sleep?#
@@ -2457,7 +2467,7 @@ DAX: I don't know. I guess it's just being in the same room with so many naked m
 DAX: Go on.#
 DAX: Hold on. I'm reading warp signatures headed our way. Looks like our signal's finally getting a little attention.#
 DAX: We're being hailed. They want to beam someone aboard to discuss our request.#
-DAX: Aye, sir. (The female shape-shifter and four guards beam onto the Bridge. One Jem'Hadar grabs O'Brien as he reaches for a weapon.)#
+DAX: Aye, sir.#
 DAX: Are you okay?#
 DAX: Captain?#
 DAX: Everything's status quo. If you want more details than that, you'll have to ask our navigator.#
@@ -2507,7 +2517,7 @@ DAX: Dampers are at maximum.#
 DAX: It's working, captain. These engines just might shake us loose.#
 DAX: Main reactor housing destabilising.#
 DAX: That's what a captain's supposed to say.#
-DAX: Ben. (A drop of liquid falls from the ceiling. Then another. A piece of equipment morphs.)#
+DAX: Ben.#
 DAX: It can't hold its shape. It's dying.#
 DAX: They couldn't risk killing one of their gods.#
 DAX: The bombing's stopped.#
@@ -2522,7 +2532,8 @@ DAX: It's good advice.#
 DAX: I remember. And you know something else I remember about him? How proud he was to wear his uniform. And how proud he was to serve under you. The same as Hoya, T'Lor, Bertram and Muniz. They chose a life in Starfleet. They knew the risks and they died fighting for something that they believed in.#
 DAX: Maybe nothing should.#
 DAX: None as boring anyway. He never varies his performance, by even a half-tone.#
-DAX: You know, for a Klingon who was raised by humans, wears a Starfleet uniform and drinks prune juice, you're pretty attached to tradition. But that's okay. I like a man riddled with contradictions. (Worf sees Grilka (from House of Quark) and her entourage come out of the airlock onto the Promenade.) DAX: That's a welcome sight. The peace talks must be going well if the Klingons are back on the station. Worf?#
+DAX: You know, for a Klingon who was raised by humans, wears a Starfleet uniform and drinks prune juice, you're pretty attached to tradition. But that's okay. I like a man riddled with contradictions.#
+DAX: That's a welcome sight. The peace talks must be going well if the Klingons are back on the station. Worf?#
 DAX: The Klingon woman?#
 DAX: Her? She's okay.#
 DAX: Now I remember who she is. Her name is Grilka. And she's not just Quark's friend. She's his ex-wife.#
@@ -2541,7 +2552,8 @@ DAX: For sex?#
 DAX: So I hear. Look, if you're serious about this, then you have to go slow at dinner. No innuendo, no staring at her cleavage.#
 DAX: You talk. You ask her about her family's history and their accomplishments. She'll consider this a great sign of respect.#
 DAX: Well, either she accepts your offer or she has her bodyguard shatter every bone in your body.#
-DAX: Quark! (The programme freezes. Dax signals an upward thrust. Quark takes the hint and kills his opponent on the resume.) DAX: MoVas ah-kee rustak!#
+DAX: Quark!#
+DAX: MoVas ah-kee rustak!#
 DAX: Ish-tovee chuCH thling nuq?#
 DAX: Because later that night, Kahless and Lukara jumped on each other like a pair of crazed voles. Grrr.#
 DAX: I have an idea.#
@@ -2561,7 +2573,7 @@ DAX: Congratulations. You did it.#
 DAX: Who knows? But they're on the same wavelength, and at least Quark can see an opportunity when it's standing in front of him.#
 DAX: MoVas ah-kee rustak. Computer, bat'leth. MoVas ah-kee rustak!#
 DAX: Ish-tovee chuCH thling nuq?#
-DAX: Te-doQ roos ka Mech-TOH. (Worf gets the bat'leth off Dax but she throws him to the floor. They start to throttle each other, then he pulls her down onto him.)#
+DAX: Te-doQ roos ka Mech-TOH.#
 DAX: Well, er, if you must know#
 DAX: According to tradition, we have to get married.#
 DAX: The truth is, Worf, at heart, you're not much of a traditional man.#
@@ -2632,7 +2644,7 @@ DAX: I'm picking up a faint tricobalt signature. The bomb's under here somewhere
 DAX: Someone's trying to open the bay door.#
 DAX: Benjamin, it's right here in front of us.#
 DAX: It went well?#
-DAX: We could build another station. (Quark has a tribble on his head, the place is full of them. The final homage shot for the 30th anniversary show.)#
+DAX: We could build another station.#
 DAX: Sorry I'm late.#
 DAX: I heard you were serving q'parol and how could I miss it?#
 DAX: Chief.#
@@ -2790,7 +2802,7 @@ DAX: I don't get to eat like this very often.#
 DAX: You really want to help my people, don't you?#
 DAX: And you still feel like that now after some of your children have tried to kill you?#
 DAX: And so is your ego.#
-DAX: Miss me?#
+DAX: Miss me? ODO: It doesn't have to happen again#
 DAX: Dukat's personal shuttle is in docking bay three.#
 DAX: I've got their computer tied up in knots. I don't think they'll be able to#
 DAX: Here it is.#
@@ -3268,7 +3280,7 @@ DAX: Sir, do you see those Galor class destroyers?#
 DAX: Sir, we've just lost the Sitak and the Majestic. We're on our own, Ben.#
 DAX: That's one down.#
 DAX: I'm trying.#
-DAX: I'd love to try. (Their Klingon escort is demolished as Defiant weaves through the enemy to clear space beyond.)#
+DAX: I'd love to try.#
 DAX: Eleven minutes.#
 DAX: Ben, if I were you, I'd start coming up with a plan B.#
 DAX: What do we do now, Captain?#
@@ -3302,7 +3314,8 @@ DAX: Al'Qoch mensah t'lang cho.#
 DAX: I've done it three times already.#
 DAX: Do you know how heavy those things are?#
 DAX: You wouldn't make a Klingon woman do it three times in a row.#
-DAX: Ko'ma tlang'goS ak-bay. Hava'dak croosh tovah. Ko'ma Kahless. Ko'ma Kahless. Ko'ma Kahless. (Much later, with the fake candles burning on the table.) DAX: But the second Dynasty ended when General K'Trelan assassinated Emperor Reclaw. For the next ten years, the Empire was ruled by a Council elected by the people. Modern-day Klingon historians refer to this as The Dark Time, but it's interesting to note that this first and only experiment in Klingon democracy actually produced several reforms that#
+DAX: Ko'ma tlang'goS ak-bay. Hava'dak croosh tovah. Ko'ma Kahless. Ko'ma Kahless. Ko'ma Kahless.#
+DAX: But the second Dynasty ended when General K'Trelan assassinated Emperor Reclaw. For the next ten years, the Empire was ruled by a Council elected by the people. Modern-day Klingon historians refer to this as The Dark Time, but it's interesting to note that this first and only experiment in Klingon democracy actually produced several reforms that#
 DAX: Am I?#
 DAX: I just thought I'd provide you with a broader historical perspective along the way.#
 DAX: Well, that's where we run into a little bit of a problem. You see, I did some research and when Emperor Reclaw was killed all the members of the Imperial Family were also put to death. Including Shenara. When the Third Dynasty was founded ten years later, a new group of Klingons were given the titles and the names of the original Imperial Family to create the illusion of an unbroken line. So the woman that you think of as your twenty third maternal grandmother isn't related to you at all. Your real ancestor's name was Karana, a concubine living outside the Imperial stables.#
@@ -3317,7 +3330,8 @@ DAX: I'll take care of this. You weren't invited.#
 DAX: I'm busy.#
 DAX: I'm only going to ask you to leave once.#
 DAX: Toruk-DOH!#
-DAX: Why is everyone standing around? The party's just getting started. Play something. (Dax dances with Nog as Quark and Jake look at each other. Next morning, Dax steps carefully over the wreckage.) DAX: Double raktajino, extra sweet.#
+DAX: Why is everyone standing around? The party's just getting started. Play something.#
+DAX: Double raktajino, extra sweet.#
 DAX: Ten thirty hours.#
 DAX: Wrong door.#
 DAX: You're mad.#
@@ -3358,7 +3372,7 @@ DAX: Someone's attempting to beam into Ops.#
 DAX: I don't know. There are no ships within transporter range.#
 DAX: That's one hell of a story.#
 DAX: Worf, it's not polite to accuse a guest of lying.#
-DAX: Would you like to do the honours? (Dax brings a cake and hands Worf a knife to cut it with. Bareil stands.)#
+DAX: Would you like to do the honours?#
 DAX: Why didn't you just download them into the computer?#
 DAX: Kira hasn't shown up yet.#
 DAX: You are so transparent.#
@@ -3435,7 +3449,8 @@ DAX: We're out of time.#
 DAX: We'll have to open it the old-fashioned way.#
 DAX: No promises. So where are we, Chief?#
 DAX: Right. There's the core. Looks like the warp drive is offline.#
-DAX: That's not good. (They fly away and the Jem'Hadar around. Rubicon parks on some pipes by the ceiling.) DAX: Chief, I need visual sensors as fast as you can give them to me.#
+DAX: That's not good.#
+DAX: Chief, I need visual sensors as fast as you can give them to me.#
 DAX: They're forcing our crew to repair the warp drive.#
 DAX: Good question. But if I know Benjamin, he's up to something. Can you give me a tight shot on the operations display?#
 DAX: Do you see what I see?#
@@ -3444,7 +3459,7 @@ DAX: The security codes are hardwired through the encryption circuitry.#
 DAX: I think Worf's trying to cover their tracks. It looks like he's sending false signals through the computer system.#
 DAX: Wait a minute. One thing at a time. First we need to get out of the engine room without getting caught.#
 DAX: Now we wait until someone walks out that door.#
-DAX: Get ready. When he activates the door sensor, we'll (Do a bit of dodging as someone picks up tools right next to them. Kudak'Etan leaves and Rubicon slides sideways through the gap just before the door closes.)#
+DAX: Get ready. When he activates the door sensor, we'll#
 DAX: If you liked that, you're going to love what's coming up next.#
 DAX: We don't.#
 DAX: Don't worry. I have a light touch.#
@@ -3454,15 +3469,16 @@ DAX: Unless. Circuit housings are airtight. I could beam a bubble of compressed 
 DAX: How's it coming, Chief?#
 DAX: The sooner the better. Things are getting a little crowded up here.#
 DAX: Or maybe he's in trouble. The First was called to the engine room a few minutes ago.#
-DAX: I've got him. (It's a miss. Kira gets a weapon from the corpse and Work breaks Kudak'Etan's neck. Nog tries to take on another, but gets thrown into a corner. Worf and a Jem'Hadar wrestle as the one on the upper level fires at Sisko, who moves to another panel. ) DAX: This guy's really starting to get on my nerves.#
-DAX: Fire! (The Jem'Hadar falls over the rail. Kira shoots Ixtana'Rax then the one who is attacking Sisko, and Worf disposes of the last one.)#
+DAX: I've got him.#
+DAX: This guy's really starting to get on my nerves.#
+DAX: Fire!#
 DAX: Is that your poem?#
 DAX: Can I hear it?#
 DAX: Please, just the first line?#
 DAX: I understand.#
 DAX: I know.#
 DAX: I promise.#
-DAX: It's, er, well, it rhymes.  There's nothing on this PADD! (Odo enters and walks over to the bar where O'Brien and Bashir are talking to Morn and a dabo girl.)#
+DAX: It's, er, well, it rhymes.  There's nothing on this PADD!#
 DAX: I didn't see anyone.#
 DAX: We seem to be having a lot of system glitches.#
 DAX: The problem is no one knows how the Chief keeps all this Federation and Cardassian technology working together.#
@@ -3479,7 +3495,7 @@ DAX: I'm sorry about that.#
 DAX: Ooo, good response.#
 DAX: Are you still running that drill tomorrow afternoon?#
 DAX: Because I wanted to recalibrate the external sensors before the nightwatch comes on duty.#
-DAX: I think that'll work. Oh, the Sutherland is going to be here the day after tomorrow and (Worf is praying in front of a shrine. But I thought the Klingons had killed their gods?)#
+DAX: I think that'll work. Oh, the Sutherland is going to be here the day after tomorrow and#
 DAX: Nothing.#
 DAX: I don't feel like talking anymore.#
 DAX: I'm coming.#
@@ -3492,7 +3508,7 @@ DAX: See it, yes. Honeymoon there, no.#
 DAX: Worf, my love. Let me make this very clear. I do not want to spend my honeymoon climbing, hiking, sweating, bleeding or suffering in any way.#
 DAX: Room service.#
 DAX: Room service. I want to be pampered. I want a staff to cater to our every whim. I want to be embarrassed by the size of our room. I want a balcony with a view that would make you want to break down and cry from the sheer beauty of it all. And I don't want to spend one moment of our honeymoon suffering from anything except guilt about our complete self-indulgence.#
-DAX: Not this time. Welcome to Casperia Prime. The vacation capital of the Horvian Cluster. (The PADD says Starfleet Bureau of Information. It should be the Hitchhiker's Guide, methinks.)#
+DAX: Not this time. Welcome to Casperia Prime. The vacation capital of the Horvian Cluster.#
 DAX: Seemed fair. You did plan the wedding.#
 DAX: Really?#
 DAX: Well that was easy.#
@@ -3539,7 +3555,7 @@ DAX: I don't know why that's funny, but it is.#
 DAX: Mating call?#
 DAX: That didn't take long.#
 DAX: Another happy couple.#
-DAX: He must have been rejected, he's moving away. She's not happy. What? They're getting farther away, aren't they?#
+DAX: He must have been rejected, he's moving away. She's not happy.  What? They're getting farther away, aren't they?#
 DAX: I think I can do that.#
 DAX: Can I have the good news first?#
 DAX: Now the bad news?#
@@ -3555,7 +3571,7 @@ DAX: What happened to that new Worf? You know, the one with the sense of humour?
 DAX: What is that supposed to mean?#
 DAX: So this is all my fault.#
 DAX: That's not what happened. Without our tricorders there's no way#
-DAX: Fine. Let's go. (More shots of them marching on, but Dax is starting to flag. She leans against trees then shrugs off Worf's helping hand. They stop to rest and he takes a sextant bearing.)#
+DAX: Fine. Let's go.#
 DAX: Hypo. There. Good as new.#
 DAX: That's four bandages in two hours. That's got to be some kind of record. Oh, sorry. I forgot the new rules. Nothing funny. Got to be serious. Life and death. We've got a job to do.#
 DAX: As long as you got those painkillers, I'll follow you through the gates of hell, sir. That was almost a smile.#
@@ -3569,7 +3585,7 @@ DAX: You don't have to explain yourself. I'm hurt, you're not. And there's a job
 DAX: Don't worry, I'm not going anywhere.#
 DAX: No problem.#
 DAX: I took basic first aid. I know what I have to do. Worf, it's been a great two months, hasn't it?#
-DAX: Just kiss me and go. (Worf obeys, gives her a rifle and leaves her crying. He runs through the jungle, his heartbeat pounding and drowning out the animal sounds until he stops. As the Klingon heart beats, he looks forwards and back then throws his mek'leth into a tree. Jadzia is unconscious when he reaches her, so he carries her on his shoulders.)#
+DAX: Just kiss me and go.#
 DAX: Hey, I know you.#
 DAX: Ah, you're joking again. That's a good sign. Did you make the rendezvous?#
 DAX: Lasaran?#
@@ -3643,10 +3659,8 @@ DAX: The computer has translated part of the inscription. It probably lacks the 
 DAX: Tell me I'm wrong, but isn't the Gateway to the Temple Deep Space Nine?#
 DAX: You're sending it back? And I was just starting to have fun.#
 DAX: I can work off the holo-recordings I took yesterday.#
-DAX: That depends.#
 DAX: What this ideogram means. The computer has given me two possibilities.#
 DAX: During the reckoning, the Bajorans will either suffer horribly or eat fruit.#
-DAX: Given the tone of the rest of the inscriptions, I would bet on horrible suffering.#
 DAX: You'll love this. It's about you. Once the reckoning begins, the Emissary will#
 DAX: I was hoping you could tell me. The rest of the inscription's damaged.#
 DAX: Oh, I wish the wormhole would stop doing that.#
@@ -3685,7 +3699,7 @@ DAX: Odo contacted the Bajoran Archaeological Institute to see what he could fin
 DAX: Well, first we have to find a way to reactivate the portal. It's been abandoned a long time and it was destabilised when Molly fell through. The problem is, we're not sure how this technology works.#
 DAX: Something tells me you're right.#
 DAX: We punch a transport scanning beam through the portal and then we try to lock on to Molly's DNA signature.#
-DAX: That's the idea. (O'Brien gets one thing working, then a second which promptly goes bang!)#
+DAX: That's the idea.#
 DAX: Synchronised.#
 DAX: We're as ready as we're ever going to be, Chief.#
 DAX: The field's destabilising.#
@@ -3736,7 +3750,9 @@ DAX: Well you two are awfully quiet.#
 DAX: Well I hope she does.#
 DAX: You can count on it.#
 DAX: Now that's pushing.#
-DAX: I'll take good care of her. DAX: Give my best to the Jem'Hadar. Oh, I'll do that. I said a prayer at the shrine last night for the two of you. DAX: About having a baby?#
+DAX: I'll take good care of her.#
+DAX: Give my best to the Jem'Hadar. Oh, I'll do that. I said a prayer at the shrine last night for the two of you.#
+DAX: About having a baby?#
 DAX: I hope they're listening.#
 DAX: Did you hear that? We have the Prophets on our side.#
 DAX: Just remember, when you get back, we have a lot of work to do.#
@@ -3748,6 +3764,7 @@ DAX: Oh no, it's more than that. You're a good friend. You always have been.#
 DAX: I'd better get back to work. But first I'm going to stop by the Bajoran shrine.#
 DAX: Kira said a prayer for me and Worf last night. She told the Prophets how much we wanted a baby.#
 DAX: Oh, well I do today.#
-DAX: I'm not sure if I'm doing this correctly. I don't come here a lot. And to be perfectly honest, I feel more comfortable thinking of you as wormhole # aliens, but Kira believes you're much more than that. Maybe she's right, I don't know. But if you are Prophets, and you're listening, I just want to say (A wind blows through the shrine and puts out her candles. Dukat beams in.) DAX: Dukat. (Dax goes for her phaser but Dukat stretches out his arm and the red Pah Wraith energy lifts her off the floor. Then he lets her drop. She lies very still. Dukat goes through the protective forcefield and takes hold of the Orb box. He opens it and the Pah wraith energy rushes into it. The orb turns from gleaming crystal to dull black. He screams and drops to his knees, no longer possessed. Outside the wormhole opens then collapses in on itself.)#
+DAX: I'm not sure if I'm doing this correctly. I don't come here a lot. And to be perfectly honest, I feel more comfortable thinking of you as wormhole # aliens, but Kira believes you're much more than that. Maybe she's right, I don't know. But if you are Prophets, and you're listening, I just want to say#
+DAX: Dukat.#
 DAX: I'm sorry.#
 DAX: Our baby would have been so beautiful.#

@@ -1,18 +1,13 @@
 Episode Number: 3
 The Star Trek Transcripts - The Corbomite Maneuver
-The
-Corbomite Maneuver
-Stardate:
-1512.2
+The Corbomite Maneuver
+Stardate: 1512.2
 Original Airdate: 10 Nov, 1966
-  [Bridge]
-SPOCK: One degree to overlap. Stand by to
-photograph. Now.
-BAILEY: Three days of this now, sir. Other ships must have made star
-maps of some of this. 
+[Bridge]
+SPOCK: One degree to overlap. Stand by to photograph. Now.
+BAILEY: Three days of this now, sir. Other ships must have made star maps of some of this. 
 SPOCK: Negative, Lieutenant. We are the first to reach this far.
-SULU: Sir, contact with an object. It's moving toward us. No visual
-contact yet.
+SULU: Sir, contact with an object. It's moving toward us. No visual contact yet.
 SPOCK: Deflectors, full intensity.
 SULU: It's coming at light speed.
 BAILEY: Collision course.
@@ -26,57 +21,41 @@ SPOCK: Countermand alarm. All engines full stop.
 BAILEY: Visual contact.
 SPOCK: Ahead slow. Steer a course around it, Mister Sulu.
 BAILEY: It's blocking the way!
-SPOCK: Quite unnecessary to raise your voice, Mister Bailey. All
-engines stop. Sound the alert.
-SULU: Bridge to all decks. Condition alert. All decks, condition alert.
-Captain Kirk to the Bridge.
-Captain's Log, star date 1512.2. On our third day
-of star mapping, an unexplained cubical object blocked our vessel's
-path. On the Bridge, Mister Spock immediately ordered general alert. My
-location, Sickbay. Quarterly physical check.
+SPOCK: Quite unnecessary to raise your voice, Mister Bailey. All engines stop. Sound the alert.
+SULU: Bridge to all decks. Condition alert. All decks, condition alert. Captain Kirk to the Bridge. 
+Captain's Log, star date 1512.2. On our third day of star mapping, an unexplained cubical object blocked our vessel's path. On the Bridge, Mister Spock immediately ordered general alert. My location, Sickbay. Quarterly physical check. 
 [Sickbay]
 MCCOY: Just a few seconds more.
 KIRK: (on back, pumping pedals) Just a few seconds more.
-MCCOY: That's a boy. Keep it up. Work up a little sweat, it'll will do
-you good. (notices red alert)
+MCCOY: That's a boy. Keep it up. Work up a little sweat, it'll will do you good. (notices red alert)
 KIRK: You're killing me. You're killing me.
 MCCOY: Stop. Winded?
-KIRK: You'd be the last one I'd tell. (sees light, goes to desk
-monitor) Kirk here. What's going on?
+KIRK: You'd be the last one I'd tell. (sees light, goes to desk monitor) Kirk here. What's going on?
 SPOCK [on monitor]: Have a look at this, Captain.
 KIRK: What's that?
-SPOCK [OC]: Undetermined. Whatever it is, it's blocking our way. When
-we move, it moves as well.
+SPOCK [OC]: Undetermined. Whatever it is, it's blocking our way. When we move, it moves as well.
 KIRK: A vessel of some kind?
 SPOCK [OC]: Negative. More some type of device.
-KIRK: I'll be right up. You could see the alarm lights flashing from
-there, McCoy. Why didn't you tell me?
-MCCOY: Finally finished a physical on you, didn't I. (Kirk leaves) What
-am I, a doctor or a moon shuttle conductor? If I jumped every time a
-light came on around here, I'd end up talking to myself.
+KIRK: I'll be right up. You could see the alarm lights flashing from there, McCoy. Why didn't you tell me?
+MCCOY: Finally finished a physical on you, didn't I. (Kirk leaves) What am I, a doctor or a moon shuttle conductor? If I jumped every time a light came on around here, I'd end up talking to myself. 
 [Corridor]
-SULU [OC]: All decks alert. All decks alert.
+SULU [OC]: All decks alert. All decks alert. 
 [Turbolift]
 KIRK: Bridge. Captain to Bridge.
 SPOCK [OC]: Spock here.
 KIRK: Any changes?
-SPOCK [OC]: Negative. Whatever it is, it seems to just want to hold us
-here.
+SPOCK [OC]: Negative. Whatever it is, it seems to just want to hold us here.
 KIRK: Any indication of danger from it?
 SPOCK [OC]: Negative.
-KIRK: I'll change first then. Captain out.
+KIRK: I'll change first then. Captain out. 
 [Bridge]
 SPOCK: All decks have reported green, Mister Bailey.
 BAILEY: Yes, sir.
 SPOCK: And when the Captain arrives he will expect a full report on 
-BAILEY: The cube's range and position. I'll have it by then. Raising my
-voice back there doesn't mean I was scared or couldn't do my job. It
-means I happen to have a human thing called an adrenaline gland.
-SPOCK: It does sound most inconvenient, however. Have you considered
-having it removed?
+BAILEY: The cube's range and position. I'll have it by then. Raising my voice back there doesn't mean I was scared or couldn't do my job. It means I happen to have a human thing called an adrenaline gland.
+SPOCK: It does sound most inconvenient, however. Have you considered having it removed?
 BAILEY: Very funny.
-SULU: You try to cross brains with Spock, he'll cut you to pieces every
-time.
+SULU: You try to cross brains with Spock, he'll cut you to pieces every time. 
 [Kirk's quarters]
 KIRK: Captain to Bridge.
 SPOCK [on monitor]: Spock here.
@@ -85,37 +64,26 @@ SPOCK [on monitor]: Negative.
 KIRK: Have you tried all hailing frequencies?
 SPOCK [on monitor]: Affirmative. No answer from the cube.
 KIRK: Have the department heads meet me on the Bridge. 
-SPOCK [on monitor]: Already standing by.
+SPOCK [on monitor]: Already standing by. 
 [Bridge]
-SPOCK: Reporting, sir. Sensors show it is solid,
-but its composition is unknown to us.
+SPOCK: Reporting, sir. Sensors show it is solid, but its composition is unknown to us.
 KIRK: Lieutenant Uhura.
 UHURA: Hailing frequencies still open, sir. I get no message from it.
 KIRK: Navigation.
-BAILEY: Distance from us, fifteen hundred ninety three metres, position
-constant.
-SULU: Each of its edges measures one hundred seven metres. Mass, a
-little under eleven thousand metric tons.
+BAILEY: Distance from us, fifteen hundred ninety three metres, position constant.
+SULU: Each of its edges measures one hundred seven metres. Mass, a little under eleven thousand metric tons.
 KIRK: Scotty. 
 SCOTT: Motive power? Beats me what makes it go.
 KIRK: I'll buy speculation.
-SCOTT: I'd sell it if I had any. That's a solid cube. How something
-like that can sense us coming, block us, move when we move, well it
-beats me. That's my report.
+SCOTT: I'd sell it if I had any. That's a solid cube. How something like that can sense us coming, block us, move when we move, well it beats me. That's my report.
 KIRK: Life sciences.
 MCCOY: Same report.
-BAILEY: Sir, we going to just let it hold us here? We've got phaser
-weapons. I vote we blast it. 
-KIRK: I'll keep that in mind, Mister Bailey, when this becomes a
-democracy.
-Captain's Log, star date 1513.8. Star maps reveal
-no indication of habitable planets nearby. Origin and purpose of the
-cube still unknown. We've been here, held motionless, for eighteen
-hours.
+BAILEY: Sir, we going to just let it hold us here? We've got phaser weapons. I vote we blast it. 
+KIRK: I'll keep that in mind, Mister Bailey, when this becomes a democracy. 
+Captain's Log, star date 1513.8. Star maps reveal no indication of habitable planets nearby. Origin and purpose of the cube still unknown. We've been here, held motionless, for eighteen hours. 
 [Briefing room]
 KIRK: Anything further, gentlemen?
-SPOCK: I believe it adds up to either one of two possibilities. First,
-a space buoy of some kind. 
+SPOCK: I believe it adds up to either one of two possibilities. First, a space buoy of some kind. 
 KIRK: Second?
 SPOCK: Flypaper.
 KIRK: And you don't recommend sticking around.
@@ -124,12 +92,9 @@ KIRK: It's time for action, gentlemen. Mister Bailey
 BAILEY: Bridge to Phaser Gun Crew
 KIRK: Countermand. I'll select what kind of action.
 BAILEY: I'm sorry, sir. I thought you meant 
-KIRK: Are you explaining Mister Bailey? I haven't requested an
-explanation. Now, as I was about to say, Navigator, plot us a spiral
-course away from the cube.
+KIRK: Are you explaining Mister Bailey? I haven't requested an explanation. Now, as I was about to say, Navigator, plot us a spiral course away from the cube.
 BAILEY: Yes, sir. We'll try pulling away from it.
-SULU: Yes, sir. Helmsman to Engine Room, stand by. All decks alert.
-We're going to try pulling away.
+SULU: Yes, sir. Helmsman to Engine Room, stand by. All decks alert. We're going to try pulling away. 
 [Bridge]
 BAILEY: Course plotted and laid in, sir.
 KIRK: Engage, Mister Sulu. Quarter speed.
@@ -158,72 +123,51 @@ BAILEY: Phaser Crew reports ready, sir.
 SPOCK: Growing. We can take only a few more seconds of this.
 KIRK: Lock phasers on target. Mister Bailey, lock phasers. 
 BAILEY: Phasers locked on target, sir. At point-blank range and closing.
-KIRK: Fire main phasers.
-Captain's Log, star date 1514.0. The cube has been
-destroyed. Ship's damage minor but my next decision, major. Probe on
-ahead or turn back.
+KIRK: Fire main phasers. 
+Captain's Log, star date 1514.0. The cube has been destroyed. Ship's damage minor but my next decision, major. Probe on ahead or turn back. 
 [Bridge]
-SPOCK: Nothing, Captain. No contacts, no objects in
-any direction.
+SPOCK: Nothing, Captain. No contacts, no objects in any direction.
 KIRK: Care to speculate on what we'll find if we go on ahead?
-SPOCK: Speculate? No. Logically, we'll discover the intelligence which
-sent out the cube.
+SPOCK: Speculate? No. Logically, we'll discover the intelligence which sent out the cube.
 KIRK: Intelligence different from ours or superior?
-SPOCK: Probably both, and if you're asking the logical decision to make
-KIRK: No, I'm not. The mission of the Enterprise is to seek out and
-contact alien life.
-SPOCK: Has it occurred to you that there's a certain inefficiency in
-constantly questioning me on things you've already made up your mind
-about?
+SPOCK: Probably both, and if you're asking the logical decision to make 
+KIRK: No, I'm not. The mission of the Enterprise is to seek out and contact alien life.
+SPOCK: Has it occurred to you that there's a certain inefficiency in constantly questioning me on things you've already made up your mind about?
 KIRK: It gives me emotional security. Navigator, set a course ahead.
 BAILEY: Plotted. Laid in, sir.
 KIRK: Engage.
 BAILEY: Warp one, sir.
-KIRK: Mister Bailey, phaser crews were sluggish. You were slow in
-locking them into your directional beam. Helmsman, engineering decks
-could have been faster, too. Programme a series of simulated attacks
-and evasion maneuvers. Keep repeating the exercise until we're
-proficient, gentlemen.
+KIRK: Mister Bailey, phaser crews were sluggish. You were slow in locking them into your directional beam. Helmsman, engineering decks could have been faster, too. Programme a series of simulated attacks and evasion maneuvers. Keep repeating the exercise until we're proficient, gentlemen.
 SULU: Yes, sir.
 BAILEY: Yes, sir.
 MCCOY: Your timing is lousy, Jim. 
 [Turbolift]
 MCCOY: Your men are tired.
-KIRK: Captain's quarters. Aren't you the one who always says a little
-suffering is good for the soul?
+KIRK: Captain's quarters. Aren't you the one who always says a little suffering is good for the soul?
 MCCOY: I never say that.
 BAILEY [OC]: This is the Bridge. Prepare for simulated attack.
-MCCOY: I'm especially worried about Bailey. Navigator's position's
-rough enough for a seasoned man.
+MCCOY: I'm especially worried about Bailey. Navigator's position's rough enough for a seasoned man.
 KIRK: I think he'll cut it.
-MCCOY: Oh? How so sure? Because you spotted something you liked in him,
-something familiar, like yourself say about, oh, eleven years ago?
+MCCOY: Oh? How so sure? Because you spotted something you liked in him, something familiar, like yourself say about, oh, eleven years ago?
 BAILEY [OC]: On the double, deck five! Give me a green light.
 KIRK: Why, Doctor, you've been reading your textbooks again?
-MCCOY: I don't need textbooks to know you could've promoted him too
-fast. Listen to that voice.
+MCCOY: I don't need textbooks to know you could've promoted him too fast. Listen to that voice.
 BAILEY [OC]: Condition alert. Battle stations. 
 [Kirk's quarters]
-BAILEY [OC]: Engineering, deck five, report. Phaser
-crews, come on, let's get with it. Phaser station two, where's your
-green light?
+BAILEY [OC]: Engineering, deck five, report. Phaser crews, come on, let's get with it. Phaser station two, where's your green light?
 KIRK: What's next? They're not machines, Jim?
-MCCOY: Well, they're not. After what they've been through they really
-should 
-KIRK: Doctor McCoy, I've heard you say that man is ultimately superior
-to any mechanical device.
+MCCOY: Well, they're not. After what they've been through they really should 
+KIRK: Doctor McCoy, I've heard you say that man is ultimately superior to any mechanical device.
 MCCOY: No, I never say that, either.
 KIRK: I could've sworn I heard you say that. Kirk here.
 SPOCK [OC]: Exercise rating, Captain. Ninety four percent.
 KIRK: Let's try for one hundred, Mister Spock.
 SPOCK [OC]: Agreed.
-MCCOY: What are you going to do with that six percent when they give it
-to you, Jim?
+MCCOY: What are you going to do with that six percent when they give it to you, Jim?
 KIRK: I'm going to take it, and I'm going to (door opens)
 RAND: Excuse me, sir. It's past time you had something to eat, sir.
 KIRK: What the devil is this? Green leaves?
-RAND: It's dietary salad, sir. Doctor McCoy ordered your diet card
-changed. I thought you knew.
+RAND: It's dietary salad, sir. Doctor McCoy ordered your diet card changed. I thought you knew.
 MCCOY: Your weight was up a couple of pounds, remember?
 KIRK: Will you stop hovering over me, Yeoman?
 RAND: Well, I'll change it if you don't like it, sir.
@@ -231,24 +175,17 @@ KIRK: Bring some for the doctor, too.
 MCCOY: No, no. No, I never eat until the crew eats.
 KIRK: Thank you, Yeoman.
 RAND: You're welcome, sir. (leaves)
-BAILEY [OC]: This is the Bridge. All decks prepare to better reaction
-time on second simulated attack.
-KIRK: When I find the headquarters genius that assigned me a female
-yeoman
+BAILEY [OC]: This is the Bridge. All decks prepare to better reaction time on second simulated attack.
+KIRK: When I find the headquarters genius that assigned me a female yeoman
 MCCOY: What's the matter, Jim. Don't you trust yourself?
-KIRK: I've already got a female to worry about. Her name's the
-Enterprise.
+KIRK: I've already got a female to worry about. Her name's the Enterprise.
 BAILEY [OC]: Engineering decks alert. Phaser crews, let's
-SULU [OC] Countermand that. All decks to battle stations. This is not a
-drill. Repeat, this is not a drill.
+SULU [OC] Countermand that. All decks to battle stations. This is not a drill. Repeat, this is not a drill.
 KIRK: Kirk here.
-SPOCK [OC]: We're picking up an object, sir. Much larger, coming toward
-us.
-KIRK: Coming.
+SPOCK [OC]: We're picking up an object, sir. Much larger, coming toward us.
+KIRK: Coming. 
 [Bridge]
-SPOCK: Exceptionally strong contact. Not visual
-yet. Distant spectrograph. Metallic, similar to cube. Much greater
-energy reading.
+SPOCK: Exceptionally strong contact. Not visual yet. Distant spectrograph. Metallic, similar to cube. Much greater energy reading.
 SULU: There, sir.
 KIRK: Half speed. Prepare for evasive action.
 SULU: Reducing to warp two, sir.
@@ -258,65 +195,37 @@ KIRK: All engines stop.
 SULU: All engines stopped, sir.
 KIRK: Phaser crews stand ready.
 BAILEY: Bridge to phaser crews, stand ready.
-CREWMAN [OC]: Forward phaser, will comply. All weapons at operational
-ready.
+CREWMAN [OC]: Forward phaser, will comply. All weapons at operational ready.
 SPOCK: Fascinating.
 KIRK: What's its mass, Mister Spock?
 SPOCK: Reading goes off my scale, Captain. Must be a mile in diameter.
 BAILEY: Over five thousand metres away, and it still fills the screen.
 KIRK: Reduce image. Let me see all of it.
-SULU: Magnification two five, sir. Magnification one eight point five,
-sir.
+SULU: Magnification two five, sir. Magnification one eight point five, sir.
 KIRK: Ship to ship.
 UHURA: Hailing frequencies open, sir.
-KIRK: This is the United Earth ship Enterprise. We convey greetings and
-await your reply. What is it, Mister Bailey?
+KIRK: This is the United Earth ship Enterprise. We convey greetings and await your reply. What is it, Mister Bailey?
 BAILEY: A message coming over my navigation beam.
 KIRK: Pick it up.
 UHURA: Switching, sir.
-BALOK [OC]: And trespassed into our star systems. This is Balok,
-Commander of the flagship Fesarius of the First Federation. Your
-vessel, obviously the product of a primitive and savage civilisation,
-having ignored a warning buoy and having then destroyed it, has
-demonstrated your intention is not peaceful. We are now considering the
-disposition of your ship and the life aboard.
+BALOK [OC]: And trespassed into our star systems. This is Balok, Commander of the flagship Fesarius of the First Federation. Your vessel, obviously the product of a primitive and savage civilisation, having ignored a warning buoy and having then destroyed it, has demonstrated your intention is not peaceful. We are now considering the disposition of your ship and the life aboard.
 KIRK: Ship to ship.
 UHURA: Hailing frequencies open, sir.
-KIRK: This is the Captain of the Enterprise speaking. The warning
-nature of your space buoy was unknown to us. Our vessel was blocked.
-When we attempted to disengage
-SPOCK: Captain, we're being invaded by exceptionally strong sensor
-probes everywhere. Our electrical systems, our engines.
-BALOK [OC]: No further communication will be accepted. If there is the
-slightest hostile move, your vessel will be destroyed immediately.
-SPOCK: They're shutting off some of our systems, Captain. Brilliant.
-Extremely sophisticated in their methods.
+KIRK: This is the Captain of the Enterprise speaking. The warning nature of your space buoy was unknown to us. Our vessel was blocked. When we attempted to disengage
+SPOCK: Captain, we're being invaded by exceptionally strong sensor probes everywhere. Our electrical systems, our engines.
+BALOK [OC]: No further communication will be accepted. If there is the slightest hostile move, your vessel will be destroyed immediately.
+SPOCK: They're shutting off some of our systems, Captain. Brilliant. Extremely sophisticated in their methods.
 KIRK: Does the recorder marker have this on its tapes?
 SPOCK: Enough to warn other Earth ships.
 KIRK: Mister Bailey, dispatch recorder marker. Mister Bailey?
 BAILEY: Recorder marker dispatched, sir.
 SPOCK: Marker on course. Heading back the way we (big bang)
-BALOK [OC]: Your recorder marker has been destroyed. You have been
-examined. Your ship must be destroyed. We make assumption you have a
-deity or deities or some such beliefs which comfort you. We therefore
-grant you ten Earth time periods known as minutes to make preparations.
-SPOCK: Might be interesting to see what they look like if I can locate
-where that voice is coming from. (McCoy and Scott enter) 
+BALOK [OC]: Your recorder marker has been destroyed. You have been examined. Your ship must be destroyed. We make assumption you have a deity or deities or some such beliefs which comfort you. We therefore grant you ten Earth time periods known as minutes to make preparations.
+SPOCK: Might be interesting to see what they look like if I can locate where that voice is coming from. (McCoy and Scott enter) 
 MCCOY: Balok's message. It was heard all over the ship.
-KIRK: Captain to crew. Those of you who have served for long on this
-vessel have encountered alien lifeforms. You know the greatest danger
-facing us is ourselves, an irrational fear of the unknown. But there's
-no such thing as the unknown, only things temporarily hidden,
-temporarily not understood. In most cases we have found that
-intelligence capable of a civilisation is capable of understanding
-peaceful gestures. Surely a lifeform advanced enough for space travel
-is advanced enough to eventually understand our motives. All decks
-stand by. Captain out. Ship to ship.
+KIRK: Captain to crew. Those of you who have served for long on this vessel have encountered alien lifeforms. You know the greatest danger facing us is ourselves, an irrational fear of the unknown. But there's no such thing as the unknown, only things temporarily hidden, temporarily not understood. In most cases we have found that intelligence capable of a civilisation is capable of understanding peaceful gestures. Surely a lifeform advanced enough for space travel is advanced enough to eventually understand our motives. All decks stand by. Captain out. Ship to ship.
 UHURA: Hailing frequencies open, sir.
-KIRK: This is the Captain of the USS Enterprise. We came seeking
-friendship but we have no wish to trespass. To demonstrate our
-goodwill, our vessel will now return the way it came. We (humming
-noise) Lay in a course ahead, Mister Bailey.
+KIRK: This is the Captain of the USS Enterprise. We came seeking friendship but we have no wish to trespass. To demonstrate our goodwill, our vessel will now return the way it came. We (humming noise) Lay in a course ahead, Mister Bailey.
 BAILEY: What? A course?
 SULU: Plotted and laid in, sir.
 KIRK: Engage, warp factor one.
@@ -324,231 +233,148 @@ SULU: Warp factor. There's no response.
 KIRK: Switch to impulse.
 SULU: All engine systems show dead, and weapon systems.
 SPOCK: Switching to screen. I believe I can get something visual.
-BALOK [on viewscreen]: You are wasting time and effort. There is no
-escape. You have eight Earth minutes left.
+BALOK [on viewscreen]: You are wasting time and effort. There is no escape. You have eight Earth minutes left.
 SPOCK: I was curious to see how they appeared.
 KIRK: Yes, of course you were.
-BAILEY: I don't understand this. Spock's wasting time. Everybody else
-just sitting around. Somebody's got to do something.
+BAILEY: I don't understand this. Spock's wasting time. Everybody else just sitting around. Somebody's got to do something.
 MCCOY: Easy, Bailey.
-BAILEY: What do they want from us? Let's find out what they want us to
-do.
+BAILEY: What do they want from us? Let's find out what they want us to do.
 KIRK: They want us to lose our heads.
 BAILEY: We've only got eight minutes left.
 SULU: Seven minutes and forty five seconds.
 BAILEY: He's doing a countdown!
 MCCOY: Practically end of watch.
-BAILEY: What, are you all out of your minds? End of watch? It's the end
-of everything. What are you, robots? Wound-up toy soldiers? Don't you
-know when you're dying? Watch and regulations and orders What do they
-mean?
+BAILEY: What, are you all out of your minds? End of watch? It's the end of everything. What are you, robots? Wound-up toy soldiers? Don't you know when you're dying? Watch and regulations and orders What do they mean?
 KIRK: Bailey, you're relieved! Escort him to his quarters, Doctor.
 MCCOY: Let's go. (McCoy and Bailey leave) 
 KIRK: Ship to ship.
 UHURA: Hailing frequencies open, sir.
-KIRK: This is the Captain of the Enterprise speaking. It is the custom
-of Earth people to try and avoid misunderstanding whenever possible. We
-destroyed your space buoy as a simple act of self-preservation. When we
-attempted to move away from it, it emitted radiation harmful to our
-species. If you've examined our ship and its tapes, you know this to be
-true. (humming noise) 
-BALOK [on viewscreen]: You now have seven minutes left.
+KIRK: This is the Captain of the Enterprise speaking. It is the custom of Earth people to try and avoid misunderstanding whenever possible. We destroyed your space buoy as a simple act of self-preservation. When we attempted to move away from it, it emitted radiation harmful to our species. If you've examined our ship and its tapes, you know this to be true. (humming noise) 
+BALOK [on viewscreen]: You now have seven minutes left. 
 SULU: Four minutes, thirty seconds.
 SCOTT: You have an annoying fascination for timepieces, Mister Sulu.
 SPOCK: Jim.
 BALOK [OC]: Four minutes.
-KIRK: What's the matter with them out there? They must know we mean
-them no harm. 
-SPOCK: They're certainly aware by now that we're totally incapable of
-it.
+KIRK: What's the matter with them out there? They must know we mean them no harm. 
+SPOCK: They're certainly aware by now that we're totally incapable of it.
 KIRK: There must be something to do, something I've overlooked.
 SPOCK: In chess, when one is outmatched, the game is over. Checkmate.
 KIRK: Is that your best recommendation?
 SPOCK: I'm s, I regret that I can find no other logical alternative.
 MCCOY: Assuming we get out of this, Captain
 KIRK: Nobody's given up yet.
-MCCOY: Well, then about Bailey. Let me enter it in my medical records
-as simple fatigue.
+MCCOY: Well, then about Bailey. Let me enter it in my medical records as simple fatigue.
 KIRK: That's my decision, Doctor.
-MCCOY: And your mistake. You overworked him, pushed him, expected too
-much from him.
-KIRK: I'm ordering you to drop it. I have no time for you, your
-theories, your quaint philosophies.
-MCCOY: I intend to challenge your actions in my records. I'll state
-that I warned you about Bailey's condition. Now that's no bluff.
+MCCOY: And your mistake. You overworked him, pushed him, expected too much from him.
+KIRK: I'm ordering you to drop it. I have no time for you, your theories, your quaint philosophies.
+MCCOY: I intend to challenge your actions in my records. I'll state that I warned you about Bailey's condition. Now that's no bluff.
 KIRK: Any time you can bluff me, Doctor.
 BALOK [OC]: Three minutes.
-KIRK: All right, Doctor. Let's hope we have time to argue about it. Not
-chess, Mister Spock, poker. Do you know the game? Ship to ship.
+KIRK: All right, Doctor. Let's hope we have time to argue about it. Not chess, Mister Spock, poker. Do you know the game? Ship to ship.
 UHURA: Hailing frequencies open, sir.
-KIRK: This is the Captain of the Enterprise. Our respect for other
-lifeforms requires that we give you this warning. One critical item of
-information that has never been incorporated into the memory banks of
-any Earth ship. Since the early years of space exploration, Earth
-vessels have had incorporated into them a substance known as corbomite.
-It is a material and a device which prevents attack on us. If any
-destructive energy touches our vessel, a reverse reaction of equal
-strength is created, destroying
+KIRK: This is the Captain of the Enterprise. Our respect for other lifeforms requires that we give you this warning. One critical item of information that has never been incorporated into the memory banks of any Earth ship. Since the early years of space exploration, Earth vessels have had incorporated into them a substance known as corbomite. It is a material and a device which prevents attack on us. If any destructive energy touches our vessel, a reverse reaction of equal strength is created, destroying
 BALOK [OC]: You now have two minutes.
-KIRK: Destroying the attacker! It may interest you to know that since
-the initial use of corbomite more than two of our centuries ago, no
-attacking vessel has survived the attempt. Death has little meaning to
-us. If it has none to you then attack us now. We grow annoyed at your
-foolishness.
-SPOCK: However, it was well played. I regret not having learned more
-about this Balok. In some manner he was reminiscent of my father.
+KIRK: Destroying the attacker! It may interest you to know that since the initial use of corbomite more than two of our centuries ago, no attacking vessel has survived the attempt. Death has little meaning to us. If it has none to you then attack us now. We grow annoyed at your foolishness.
+SPOCK: However, it was well played. I regret not having learned more about this Balok. In some manner he was reminiscent of my father.
 SCOTT: Then may heaven have helped your mother.
-SPOCK: Quite the contrary. She considered herself a very fortunate
-Earth woman.
+SPOCK: Quite the contrary. She considered herself a very fortunate Earth woman.
 KIRK: Doc. Sorry.
-MCCOY: For having other things on your mind? My fault. I don't how the
-devil you keep from punching me in the face.
-SULU: One minute. I knew he would. (Bailey enters) If anyone's
-interested, thirty seconds.
+MCCOY: For having other things on your mind? My fault. I don't how the devil you keep from punching me in the face.
+SULU: One minute. I knew he would. (Bailey enters) If anyone's interested, thirty seconds.
 BAILEY: Request permission to return to post, sir.
 KIRK: Permission granted.
-SULU: Eleven, ten seconds, nine, eight, seven, six, five, four, three,
-two, one.
+SULU: Eleven, ten seconds, nine, eight, seven, six, five, four, three, two, one.
 SPOCK: A very interesting game, this poker.
 KIRK: It does have advantages over chess. 
 MCCOY: Love to teach it to you.
 BALOK [OC]: This is the Commander of the Fesarius.
 KIRK: Here it comes. Is it raise or call?
-BALOK [OC]: The destruction of your vessel has been delayed. We will
-relent in your destruction only if we have proof of your corbomite
-device.
+BALOK [OC]: The destruction of your vessel has been delayed. We will relent in your destruction only if we have proof of your corbomite device.
 KIRK: Hold on that. Let him sweat for a change. Ship to ship.
 UHURA: Hailing frequencies, sir.
 KIRK: Request denied.
 SPOCK: I have visual contact, Captain.
-BALOK [on viewscreen]: We will soon inform you of our decision
-regarding your vessel. And having permitted your primitive efforts to
-see my form, I trust it has pleased your curiosity. And now, another
-demonstration of our superiority.
+BALOK [on viewscreen]: We will soon inform you of our decision regarding your vessel. And having permitted your primitive efforts to see my form, I trust it has pleased your curiosity. And now, another demonstration of our superiority.
 MCCOY: I thought the power was off in the galley.
 RAND: I used a hand phaser, and zap. Hot coffee.
 SULU: Something's going on, Captain. (something leaves the Fesarius) 
 KIRK: It's a small ship. 
 SPOCK: About two thousand metric tons.
-BALOK [OC]: It has been decided that I will conduct you to a planet of
-the First Federation which is capable of sustaining your lifeform.
-There you will disembark and be interned. Your ship will be destroyed,
-of course.
+BALOK [OC]: It has been decided that I will conduct you to a planet of the First Federation which is capable of sustaining your lifeform. There you will disembark and be interned. Your ship will be destroyed, of course.
 SPOCK: Engine systems coming on, Captain.
-BALOK [OC]: Do not be deceived by the size of this pilot vessel. It has
-an equal potential to destroy your vessel.
+BALOK [OC]: Do not be deceived by the size of this pilot vessel. It has an equal potential to destroy your vessel.
 SPOCK: Tractor beam again.
-BALOK [OC]: So that you may sustain your gravity and atmosphere, your
-systems are now open. Escape is impossible since you are being taken
-under our power to your destination. Any move to escape or destroy this
-ship will result in the instant destruction of the Enterprise and
-everyone aboard.
-SULU: We're being towed, sir.
-Captain's Log, star date 1514.1. The Enterprise is
-in tow. To this point, no resistance has been offered. My plan? A show
-of resignation. Balok's tractor beam has to be a heavy drain of power
-on his small ship. Question. Will he grow careless?
+BALOK [OC]: So that you may sustain your gravity and atmosphere, your systems are now open. Escape is impossible since you are being taken under our power to your destination. Any move to escape or destroy this ship will result in the instant destruction of the Enterprise and everyone aboard.
+SULU: We're being towed, sir. 
+Captain's Log, star date 1514.1. The Enterprise is in tow. To this point, no resistance has been offered. My plan? A show of resignation. Balok's tractor beam has to be a heavy drain of power on his small ship. Question. Will he grow careless? 
 [Bridge]
-BAILEY: Captain, he's pulling out a little ahead of
-us.
+BAILEY: Captain, he's pulling out a little ahead of us.
 SPOCK: He's sneaked power down a bit.
 SULU: Our speed is down to point six four of light.
-KIRK: I want a right angled course. Shear away from him no matter which
-way he turns.
+KIRK: I want a right angled course. Shear away from him no matter which way he turns.
 BAILEY: Yes, sir.
 KIRK: Maximum acceleration when I give the word.
 SULU: Yes, sir.
 KIRK: Engage.
 SULU: It's a strain, Captain. Engines are overloading.
 KIRK: More power.
-SPOCK: We're superheating. Intermix temperature, seven thousand four
-hundred degrees. Seven five, seven six, eight thousand degrees.
-(everything is juddering, the little ship is getting brighter and
-brighter)
+SPOCK: We're superheating. Intermix temperature, seven thousand four hundred degrees. Seven five, seven six, eight thousand degrees. (everything is juddering, the little ship is getting brighter and brighter)
 KIRK: Shear away, Mister Bailey.
-SPOCK: Two thousand degrees above maximum. Eight four, eight five,
-eight six. She'll blow soon!
+SPOCK: Two thousand degrees above maximum. Eight four, eight five, eight six. She'll blow soon!
 KIRK: Now, Mister Sulu. Impulse power two.
 BAILEY: We're breaking free, sir.
 KIRK: All engines stop.
 SULU: All engines stopped, sir.
-SCOTT: Engines need work badly, Captain. Can you hold it here a few
-hours?
+SCOTT: Engines need work badly, Captain. Can you hold it here a few hours?
 SPOCK: That may not be wise. He got a signal through to the mother ship.
 KIRK: Then we're not home yet.
-UHURA: A signal, Captain. It's very weak. It's Balok. It's a distress
-signal to the Fesarius. His engines are out. His life-sustaining system
-isn't operating. The message is repeating, sir.
+UHURA: A signal, Captain. It's very weak. It's Balok. It's a distress signal to the Fesarius. His engines are out. His life-sustaining system isn't operating. The message is repeating, sir.
 KIRK: Any reply?
-UHURA: Negative, sir. The signal is growing weak. Sir, I doubt if the
-mother ship could have heard it.
+UHURA: Negative, sir. The signal is growing weak. Sir, I doubt if the mother ship could have heard it.
 KIRK: Plot a course for it, Mister Bailey.
 SPOCK: For it, Captain?
-KIRK: Dead ahead. This is the Captain speaking. First Federation vessel
-is in distress. We're preparing to board it. There are lives at stake.
-By our standards, alien life but lives nevertheless. Captain out.
+KIRK: Dead ahead. This is the Captain speaking. First Federation vessel is in distress. We're preparing to board it. There are lives at stake. By our standards, alien life but lives nevertheless. Captain out.
 BAILEY: Course plotted and laid in, sir.
 KIRK: Mister Scott, ready the transporter room.
 SCOTT: Aye, sir. (leaves)
 KIRK: Mister Sulu, bring us to within one hundred metres. Ahead slow.
 SULU: Ahead slow, sir.
 MCCOY: Jim, don't you think
-KIRK: What's the mission of this vessel, Doctor? To seek out and
-contact alien life, and an opportunity to demonstrate what our
-high-sounding words mean. Any questions? I'll take two men with me.
-Doctor McCoy to examine and treat the aliens if necessary, and you,
-Mister Bailey.
+KIRK: What's the mission of this vessel, Doctor? To seek out and contact alien life, and an opportunity to demonstrate what our high-sounding words mean. Any questions? I'll take two men with me. Doctor McCoy to examine and treat the aliens if necessary, and you, Mister Bailey.
 BAILEY: Sir?
 KIRK: The face of the unknown. I think I owe you a look at it.
 BAILEY: Yes, sir.
 SPOCK: Captain, request permission to
-KIRK: Denied. If I'm wrong, if it's a trap, I want you here.
+KIRK: Denied. If I'm wrong, if it's a trap, I want you here. 
 [Transporter room]
 KIRK: Transporter ready?
-SCOTT: Well, yes, sir, but it's risky. We're locked on what appears to
-be a main deck.
+SCOTT: Well, yes, sir, but it's risky. We're locked on what appears to be a main deck.
 KIRK: Air sample?
-SCOTT: Breathable. In fact, a slightly higher oxygen content than our
-own. Communicator, phaser weapon.
+SCOTT: Breathable. In fact, a slightly higher oxygen content than our own. Communicator, phaser weapon.
 KIRK: Thank you, Scotty. Ready, Doctor?
 MCCOY: No, but you won't let that stop you.
-SCOTT: Bend low, gentlemen. It reads pretty cramped over there. Ready
-to transport.
-KIRK: Energise.
+SCOTT: Bend low, gentlemen. It reads pretty cramped over there. Ready to transport.
+KIRK: Energise. 
 [Balok's ship]
 KIRK: It's a dummy. A puppet of some kind.
-BALOK: I'm Balok. Welcome aboard. (curtain opens to reveal a small
-humanoid with big grin)
+BALOK: I'm Balok. Welcome aboard. (curtain opens to reveal a small humanoid with big grin)
 KIRK: I'm Captain Kirk. 
-BALOK: And McCoy and Bailey. Sit. Be comfortable. Go ahead, be seated.
-We must drink. This is tranya. I hope you relish it as much as I.
+BALOK: And McCoy and Bailey. Sit. Be comfortable. Go ahead, be seated. We must drink. This is tranya. I hope you relish it as much as I.
 KIRK: Commander Balok.
-BALOK: I know, I know, a thousand questions. But first, the tranya.
-Gentlemen. (drinks) Ahh.
+BALOK: I know, I know, a thousand questions. But first, the tranya. Gentlemen. (drinks) Ahh.
 KIRK: Commander, that puppet.
-BALOK: My alter ego, so to speak. In your culture, he would be Mister
-Hyde to my Jekyll. You must admit he's effective. You would never have
-been frightened by me. And I thought my distress signal quite clever.
-It was a pleasure testing you.
+BALOK: My alter ego, so to speak. In your culture, he would be Mister Hyde to my Jekyll. You must admit he's effective. You would never have been frightened by me. And I thought my distress signal quite clever. It was a pleasure testing you.
 BAILEY: Testing us?
 KIRK: I see.
 BALOK: I had to discover your real intentions.
 KIRK: But you probed our memory banks.
 BALOK: Your records could have been a deception on your part.
 MCCOY: And your crew?
-BALOK: I have no crew, Doctor. I run everything, this entire complex,
-from this small ship. But I miss company, conversation. Even an alien
-would be welcome. Perhaps one of your men for some period of time. An
-exchange of information, cultures.
-KIRK: Yes. Both our cultures would benefit. Do you know where we can
-find a volunteer, Mister Bailey?
+BALOK: I have no crew, Doctor. I run everything, this entire complex, from this small ship. But I miss company, conversation. Even an alien would be welcome. Perhaps one of your men for some period of time. An exchange of information, cultures.
+KIRK: Yes. Both our cultures would benefit. Do you know where we can find a volunteer, Mister Bailey?
 BAILEY: Me, sir. I'd like to volunteer.
 BALOK: Ah. You represent Earth's best, then.
 BAILEY: No, sir, I'm not. I'll make plenty of mistakes. 
-KIRK: But you'd find out more about us that way, and I'd get a better
-officer in return.
-BALOK: (laughs) I see. We think much alike, Captain, you and I. Now,
-before I bring back the Fesarius, let me show you my vessel. It is not
-often I have this pleasure. Yes, we're very much alike, Captain. Both
-proud of our ships.  
+KIRK: But you'd find out more about us that way, and I'd get a better officer in return.
+BALOK: (laughs) I see. We think much alike, Captain, you and I. Now, before I bring back the Fesarius, let me show you my vessel. It is not often I have this pleasure. Yes, we're very much alike, Captain. Both proud of our ships. 
 

@@ -7,7 +7,7 @@ WEYOUN: What would you say if I offered to make you absolute ruler of the Federa
 WEYOUN: Just doing my job. Trying to build a bridge between the Dominion and a potential ally. After all, wouldn't it be much simpler if the Dominion and the Federation could reach some mutual beneficial understanding without resorting to the unpleasantness of military conflict?#
 WEYOUN: I can lead you to them. But there's something I need in exchange.#
 WEYOUN: I want you to help me eliminate them. The Jem'Hadar that attacked your station are renegades. They've turned their back on their oath of allegiance to the Dominion and it's my job to see to it that they're punished.#
-WEYOUN: I'm afraid we don't have the time. Captain, are you familiar with the Iconians?;#
+WEYOUN: I'm afraid we don't have the time. Captain, are you familiar with the#
 WEYOUN: What's important is how the Iconians controlled that empire.#
 WEYOUN: Exactly. Sophisticated transporters that allowed them to move instantaneously from one planet to another, from one solar system to another, without the use of starships.#
 WEYOUN: Dominion scientists recently discovered a Gateway on one of our outlying worlds. We sent a team of scientists to restore it, but their Jem'Hadar guards rebelled and are now trying to complete the Gateway themselves.#
@@ -24,8 +24,8 @@ WEYOUN: That's not practical.#
 WEYOUN: Are you questioning my decision?#
 WEYOUN: How do you know about the Gateway?#
 WEYOUN: There's an entire company of Jem'Hadar down on Vandros Four who would disagree with you.#
-WEYOUN: It is time when I say it's time. Oh, very well. Prepare six phials. Unlock. First Omet'iklan, can you vouch for the loyalty of your men?#
-WEYOUN: Then receive this reward from the Founders. May it keep you strong. ;#
+WEYOUN: It is time when I say it's time. Oh, very well.  Prepare six phials. Unlock. First Omet'iklan, can you vouch for the loyalty of your men?#
+WEYOUN: Then receive this reward from the Founders. May it keep you strong.#
 WEYOUN: Odo, may I speak with you for a moment?#
 WEYOUN: You know I've been watching you.#
 WEYOUN: I have to admit I find it somewhat disturbing seeing you working for these Federation people, letting them order you around. You are a Founder. You should be the one giving the orders to them, to the Jem'Hadar, even me.#
@@ -59,7 +59,7 @@ WEYOUN: Of course, of course. Forgive me for even asking. It is enough to know t
 WEYOUN: Do you think I'm a fool? Let's start at the beginning. What is the nature of your relationship with Doctor Elias Giger?#
 WEYOUN: I know who your father is. Go on.#
 WEYOUN: Do you really expect me to believe that everything you've been doing for the last twenty two hours has been perfectly innocent? That it was merely a coincidence that Doctor Giger has been running experiments with highly charged polaric particles directly below my quarters? I suppose there's also an innocent explanation to the secret meetings you've been having with virtually the entire senior staff of Deep Space Nine, or that Kai Winn met with you immediately after leaving me? I suggest that you stop playing games with me and tell me the truth. Quickly.#
-WEYOUN: So, there are secrets after all. There shouldn't be any secrets between friends, Jake. I do want to be your friend. (Weyoun opens the chest and takes out the baseball card in it's holder.)#
+WEYOUN: So, there are secrets after all. There shouldn't be any secrets between friends, Jake. I do want to be your friend.#
 WEYOUN: I'm listening.#
 WEYOUN: A time traveller?#
 WEYOUN: I believe you.#
@@ -67,7 +67,7 @@ WEYOUN: Yes. That is, I believe your first story. That you're two innocent boys 
 WEYOUN: Which still leaves the question of what you were doing beneath my quarters.#
 WEYOUN: Really? I have a background in, shall we say, creative genetics. I'd be most interested in hearing your theories.#
 WEYOUN: Of course.#
-WEYOUN: Aren't you forgetting something? Captain's log, stardate 50929.4. Two days ago, this station felt like a tomb. I'd never seen so many of my crew depressed at the same time. But for some reason, it now seems as though a new spirit has swept through the station, as if someone had opened a door and let a gust of fresh air blow through a musty old house. Why this is happening, frankly, is a mystery to me. After all, nothing has really changed. The Dominion is still a threat, the Cardassians are still threatening to take the station, and I can still see the clouds of war gathering on the horizon. So why do I sense a new-found optimism in the air? But maybe I'm over-thinking this. Maybe the real explanation is as simple as something my father taught me a long time ago. Even in the darkest moments, you can always find something that'll make you smile.#
+WEYOUN: Aren't you forgetting something?#
 WEYOUN: Captain Sisko. I'll make this brief. We know all about the minefield.#
 WEYOUN: As I see it, you have two choices. Either you remove the mines or we will take this station from you and remove them ourselves.#
 WEYOUN: You will not allow?#
@@ -135,7 +135,7 @@ WEYOUN: Now that I've done something for you, perhaps there's something you'd co
 WEYOUN: How could Damar have been so stupid as to leave such an inflammatory document lying around for anyone to find?#
 WEYOUN: Jem'Hadar are not thieves.#
 WEYOUN: Keep your voice down. Our men need to see that we're still allies. Smile. Dukat.#
-WEYOUN: Odo's right. Tell your men they're confined to quarters pending disciplinary hearings. I'll do the same. And keep smiling. (to Jem'Hadar) Come.#
+WEYOUN: Odo's right. Tell your men they're confined to quarters pending disciplinary hearings. I'll do the same. And keep smiling.  Come.#
 WEYOUN: Founder, you honour us with your presence.#
 WEYOUN: Only because I've followed the plan the Founders laid out for me.#
 WEYOUN: Yes, Dukat. This delay is intolerable. There are thousands of Jem'Hadar ships stranded on the other side of the wormhole, waiting to come through and join the war effort.#
@@ -256,7 +256,7 @@ WEYOUN: Those plans were ruined by the incompetency of your predecessor.#
 WEYOUN: Gul Dukat is a preening egotist and a fool. We offered him unchallenged control of the Alpha Quadrant and all he could think about was his daughter. Now, shall we get back to the business at hand?#
 WEYOUN: And with the Cardassian Fourth Order protecting their flank, the Twenty third Jem'Hadar division will begin its thrust across the Glintara Sector. They should begin the invasion of Romulus itself on the following day. Once we've taken the homeworld, organised resistance will crumble when outlying systems and colonies begin looking out for themselves. Consolidation of the entire Empire will take three months at most.#
 WEYOUN: I place my faith in the Founders. They say that the Romulans are not ready for war and will not react fast enough once it begins. Now, do you wish to dispute their judgment?#
-WEYOUN: As do we all. Meeting adjourned. (Up comes a Cardassian logo, then the room is empty except for the two spectators.)#
+WEYOUN: As do we all. Meeting adjourned.#
 WEYOUN: Am I? It's a mistake to underestimate our enemy, Damar. You're spreading our forces too thinly.#
 WEYOUN: And in doing so, you left the Chin'toka system vulnerable.#
 WEYOUN: I like them.#
@@ -316,7 +316,7 @@ WEYOUN: If it makes you feel better. But you should know I would never harm a go
 WEYOUN: You have no idea how much it hurts me to hear you say that.#
 WEYOUN: Doing what?#
 WEYOUN: Was I? I didn't mean to.#
-WEYOUN: I'm sorry. It's just such an honour to be sitting here with a security officer.#
+WEYOUN: I'm sorry. It's just such an honour to be sitting here with a  security officer.#
 WEYOUN: Don't respond.#
 WEYOUN: Scramble the comm. frequencies so they can't lock onto us.#
 WEYOUN: Actually, neither of us.#
@@ -374,7 +374,7 @@ WEYOUN: You're not going to try to outrun those ships, are you?#
 WEYOUN: We're on fire.#
 WEYOUN: I live only to serve you.#
 WEYOUN: All right, call off those ships.#
-WEYOUN: Because you don't need them anymore. Weyoun Six places his index finger behind his ear and his thumb under his chin, then applies pressure. He collapses.#
+WEYOUN: Because you don't need them anymore.#
 WEYOUN: They say voluntary termination is quick and painless. I'm afraid it's not true.#
 WEYOUN: That won't be necessary but there is one thing you can do for me.#
 WEYOUN: Give me your blessing.#
@@ -412,7 +412,7 @@ WEYOUN: Since you're ignoring your comm. system, I decided to wake you myself.#
 WEYOUN: Yes, I can see that. Get yourself cleaned up. We're leaving this afternoon.#
 WEYOUN: You needn't concern yourself with that.#
 WEYOUN: You mean your business with Dukat? Did you really think I didn't know he was here? Masquerading as a Bajoran. What's he up to this time?#
-WEYOUN: Yet you helped him all the same. Such loyalty. It would be impressive if it wasn't so misplaced. (Weyoun leaves. Damar gets up and opens another bottle, but sees himself in a mirror. He has to turn away before he can drink.)#
+WEYOUN: Yet you helped him all the same. Such loyalty. It would be impressive if it wasn't so misplaced.#
 WEYOUN: Founder.#
 WEYOUN: Approximately thirty six hours. May I say your plan is brilliant. I'm confident that it will turn the war in our favour.#
 WEYOUN: Founder?#
@@ -424,7 +424,7 @@ WEYOUN: I've kept you in the dark too long, Damar, and for that I apologise. You
 WEYOUN: We meet at last.#
 WEYOUN: Gifts? How thoughtful. You should be honoured. You're witnessing an historic moment. The birth of the alliance between the Dominion and the Breen. Changes everything doesn't it?#
 WEYOUN: We meet at last.#
-WEYOUN: Gifts? How thoughtful. You should be honoured. You're witnessing an historic moment. The birth of the alliance between the Dominion and the Breen. And now, the continuation.#
+WEYOUN: Gifts? How thoughtful. You should be honoured. You're witnessing an historic moment. The birth of the alliance between the Dominion and the Breen.#
 WEYOUN: We will secure the prisoners below. They will share a cell. They may wish to physically comfort each other during the long trip back to Cardassia. I find inter-species mating rituals fascinating to watch.#
 WEYOUN: I am so sorry. Where are my manners? Allow me to introduce Legate Damar, head of the Cardassian Union. Thot Gor.#
 WEYOUN: He says you need to get your universal translator adjusted.#
@@ -441,7 +441,7 @@ WEYOUN: I assure you the Septimus Three situation will be dealt with. We will no
 WEYOUN: Let me take this opportunity to welcome you both to Cardassia Prime. I trust you've been well-treated for so far? I've been looking over the information you supplied to the Breen during your interrogation, and the results are a bit confusing, as mental probes so often are. I was wondering if you wouldn't mind sifting through the data and clarifying certain issues for us.#
 WEYOUN: I'm always serious. You see, if you don't do as I ask, I'll have to hand you over to Legate Damar and you know how ruthless the Cardassians can be.#
 WEYOUN: However, if you should decide to help us in our search for a quick end to this miserable war, your sentence will be reduced to life imprisonment.#
-WEYOUN: You know, my dear it would be such a shame for you to die without the good Doctor Bashir knowing how you felt about him. (Worf grabs Weyoun's head and breaks his neck. A Cardassian guard knocks Worf down and aims his weapon.)#
+WEYOUN: You know, my dear it would be such a shame for you to die without the good Doctor Bashir knowing how you felt about him.#
 WEYOUN: I'm glad to see you find the death of my predecessor so amusing.#
 WEYOUN: When will the prisoners be executed?#
 WEYOUN: When?#

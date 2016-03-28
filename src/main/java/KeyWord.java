@@ -3,7 +3,7 @@ import java.io.*;
 class KeyWord {
 	private final String keyPhrase;
 	private final boolean cutToPhrase;
-	private Series series;
+	private final Series series;
 	IterableFile file;
 
 	/**
@@ -36,13 +36,11 @@ class KeyWord {
 	private void saveLines() {
 		SeriesReader seriesReader = new SeriesReader(series);
 		System.out.println("Saving lines with " + keyPhrase);
-		boolean recordingLog = false;
 		File f = new File("./keyWords/" + series.name);
 		if (!f.exists())
 			if (!f.mkdirs())
 				System.out.println("Failed to create directory ./keyWords/" + series.name);
 		try {
-			String line = "";
 			PrintWriter txtFile = new PrintWriter(new FileWriter("keyWords/" + series.name + "/" + keyPhrase + ".txt", true));
 			for (String curr : seriesReader) {
 				//Remove parentheses and brackets
@@ -51,18 +49,10 @@ class KeyWord {
 				curr = curr.trim();
 				if (curr.contains(keyPhrase)) {
 					if (cutToPhrase) curr = curr.substring(curr.indexOf(keyPhrase));
-					recordingLog = true;
+					String out = curr.trim() + "#";
+					if (!out.equals("#"))
+						txtFile.println(out.trim());
 				}
-				if (recordingLog)
-					if (curr.trim().isEmpty() || curr.startsWith("[") || curr.startsWith("(") || curr.contains(":")) {
-						String out = line.trim() + "#";
-						if (!out.equals("#"))
-							txtFile.println(line.trim() + "#");
-						line = "";
-						recordingLog = false;
-					}
-				if (recordingLog)
-					line += curr + " ";
 			}
 			txtFile.close();
 		} catch (IOException e) {

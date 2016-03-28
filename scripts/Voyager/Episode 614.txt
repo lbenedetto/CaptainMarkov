@@ -1,17 +1,16 @@
 Episode Number: 614
 The Voyager Transcripts - Collective
 Collective
-Stardate:
-Unknown
+Stardate: Unknown
 Original Airdate: 16 February 2000
-  [Delta Flyer -
-cockpit]
-(A card came is in process, for money.)NEELIX:
-Heart, heart, heart. Just one more heart. 
-PARIS: You might as well be showing us your hand, Neelix. This is a
-game of strategy, deception. 
+[Delta Flyer - cockpit]
+(A card came is in process, for money.)
+NEELIX: Heart, heart, heart. Just one more heart. 
+PARIS: You might as well be showing us your hand, Neelix. This is a game of strategy, deception. 
 KIM: Never let the opponents know your hand. 
-NEELIX: Right. (Paris, who is the dealer, gives Neelix his one card.) NEELIX: Bah.
+NEELIX: Right. 
+(Paris, who is the dealer, gives Neelix his one card.) 
+NEELIX: Bah.
 CHAKOTAY: Ten. 
 KIM: I see your ten, and raise you twenty.
 PARIS: Neelix?
@@ -19,12 +18,9 @@ NEELIX: I'm thinking. Twenty. Another twenty. Ha.
 KIM: If I didn't know any better, I'd say we're being hustled. 
 NEELIX: Ensign? 
 KIM: Oh, I'm not buying the innocent Talaxian routine. 
-NEELIX: I don't know what you're talking about. I've, I've, this is the
-first time I've played. What is it called? 
+NEELIX: I don't know what you're talking about. I've, I've, this is the first time I've played. What is it called? 
 ALL: Poker. 
-PARIS: Look, why don't we make things a little more interesting. Forget
-the chips. Let's bet on tomorrow's work detail, all right? Whoever wins
-this hand gets the morning off. 
+PARIS: Look, why don't we make things a little more interesting. Forget the chips. Let's bet on tomorrow's work detail, all right? Whoever wins this hand gets the morning off. 
 CHAKOTAY: I'm in. 
 KIM: I'm in. 
 NEELIX: Sounds good to me. 
@@ -32,9 +28,12 @@ CHAKOTAY: What have you got?
 KIM: Two pair. 
 NEELIX: Does that beat a flush? 
 KIM: I knew you were bluffing. 
-CHAKOTAY: That beats me. Tom? (Tom is staring at a Borg Cube coming straight for them.) CHAKOTAY: Battle stations!
-PARIS: And I had a full house. (The Cube fires at the Flyer.)PARIS:
-I can't shake them. 
+CHAKOTAY: That beats me. Tom? 
+(Tom is staring at a Borg Cube coming straight for them.) 
+CHAKOTAY: Battle stations!
+PARIS: And I had a full house. 
+(The Cube fires at the Flyer.)
+PARIS: I can't shake them. 
 CHAKOTAY: Return fire. 
 NEELIX: Why didn't our sensors detect them? 
 KIM: Looks like they used a dispersal field to mask their approach.
@@ -42,323 +41,234 @@ CHAKOTAY: Warp drive?
 PARIS: No luck. Too much damage to the plasma injectors. 
 CHAKOTAY: Harry, get down there and see what you can do. 
 NEELIX: Shields down eighteen percent. 
-CHAKOTAY: Harry, status?
-[Delta
-Flyer - Jefferies tube]
-KIM: I
-need time to clear the injectors. 
-[Delta
-Flyer - cockpit]
-NEELIX:
-Sir, the Cube's power output is fluctuating. 
-CHAKOTAY: Then we're still in the game. Bring us about. Target their
-propulsion matrix. 
+CHAKOTAY: Harry, status? 
+[Delta Flyer - Jefferies tube]
+KIM: I need time to clear the injectors. 
+[Delta Flyer - cockpit]
+NEELIX: Sir, the Cube's power output is fluctuating. 
+CHAKOTAY: Then we're still in the game. Bring us about. Target their propulsion matrix. 
 NEELIX: We've lost phasers. 
 CHAKOTAY: Arm photon torpedoes. Fire when ready. 
 NEELIX: We knocked out their main propulsion system. 
 CHAKOTAY: Good. Now get us out of here, Tom. 
 PARIS: They've got us in a tractor beam 
 CHAKOTAY: Harry! 
-[Delta
-Flyer - Jefferies tube]
-CHAKOTAY
-[OC]: We need warp power, now! 
-KIM: We lost two more relays. I can't! (Another hit knocks Kim out.) 
-[Delta
-Flyer - cockpit]
-CHAKOTAY:
-Harry? Harry! 
+[Delta Flyer - Jefferies tube]
+CHAKOTAY [OC]: We need warp power, now! 
+KIM: We lost two more relays. I can't! 
+(Another hit knocks Kim out.) 
+[Delta Flyer - cockpit]
+CHAKOTAY: Harry? Harry! 
 PARIS: Engines are offline. 
-BORG [OC]: We are the Borg. Your biological and technological
-distinctiveness will be added to our own. Resistance is futile.(The Flyer is dragged inside the Cube.) 
-[Neelix's
-nightmare]
-BORG-CHAKOTAY:
-Neelix.
+BORG [OC]: We are the Borg. Your biological and technological distinctiveness will be added to our own. Resistance is futile.
+(The Flyer is dragged inside the Cube.) 
+[Neelix's nightmare]
+BORG-CHAKOTAY: Neelix. 
 [Assimilation chamber]
-CHAKOTAY:
-Neelix!
+CHAKOTAY: Neelix!
 NEELIX: Commander? 
-CHAKOTAY: It's all right. You were unconscious, but I don't think
-you're injured. 
+CHAKOTAY: It's all right. You were unconscious, but I don't think you're injured. 
 NEELIX: I was dreaming you'd been assimilated. 
-CHAKOTAY: Your subconscious was jumping the gun, but not by much. From
-the look of this room, I'd say we're in an assimilation chamber. 
+CHAKOTAY: Your subconscious was jumping the gun, but not by much. From the look of this room, I'd say we're in an assimilation chamber. 
 PARIS: Where's Harry? 
 CHAKOTAY: He's not here. 
 PARIS: Well, we've got to find him. 
 CHAKOTAY: We need to get our bearings first. Figure out what's going on.
-PARIS: We're in a Borg Cube and Harry's missing. That's what's going
-on. 
-NEELIX: Sir. (There is a partly assimilated body on the surgical table.)
+PARIS: We're in a Borg Cube and Harry's missing. That's what's going on. 
+NEELIX: Sir. 
+(There is a partly assimilated body on the surgical table.)
 CHAKOTAY: Nobody we know. 
 PARIS: Some kind of botched assimilation? 
 CHAKOTAY: From the looks of it. 
-PARIS: What are they waiting for? They've got three more potential
-drones here. 
+PARIS: What are they waiting for? They've got three more potential drones here. 
 CHAKOTAY: Stay calm. 
 PARIS: Calm? We're in a chamber of horrors or haven't you noticed? 
-CHAKOTAY: We're not drones yet. If we keep our heads, maybe we can find
-a way out. There's a forcefield around this room. Let's try to disable
-it. 
+CHAKOTAY: We're not drones yet. If we keep our heads, maybe we can find a way out. There's a forcefield around this room. Let's try to disable it. 
 [Bridge]
-TUVOK:
-Their ion trail ends directly ahead. 
-TORRES: I'm detecting another vessel, bearing three zero, mark one one
-two. It's a Borg Cube. 
-JANEWAY: Red alert. Alter course to intercept. Adjust shields to
-rotating frequencies. Have they detected us? 
+TUVOK: Their ion trail ends directly ahead. 
+TORRES: I'm detecting another vessel, bearing three zero, mark one one two. It's a Borg Cube. 
+JANEWAY: Red alert. Alter course to intercept. Adjust shields to rotating frequencies. Have they detected us? 
 TUVOK: Unclear. The vessel's holding position. 
-JANEWAY: As soon as we're within sensor range, start scanning for the
-away team. On screen. 
-SEVEN: Their propulsion system is offline. The damage is not that
-severe. The drones should've repaired it by now. 
-JANEWAY: Lucky for us they didn't, or we'd never have caught up with
-them. Any sign of our people? TORRES: Not yet. (Whumph!)
+JANEWAY: As soon as we're within sensor range, start scanning for the away team. On screen. 
+SEVEN: Their propulsion system is offline. The damage is not that severe. The drones should've repaired it by now. 
+JANEWAY: Lucky for us they didn't, or we'd never have caught up with them. Any sign of our people? 
+TORRES: Not yet. 
+(Whumph!)
 TUVOK: They are targeting our warp core. Shields are holding. 
 JANEWAY: Return fire. Aim for their weapons array. 
-TORRES: Now they're going after our impulse engines. That one was meant
-for our sensors. They can't seem to make up their minds. 
+TORRES: Now they're going after our impulse engines. That one was meant for our sensors. They can't seem to make up their minds. 
 SEVEN: Their attack strategy is erratic, inefficient. 
 TUVOK: And finished. We've disabled their weapons. 
 TORRES: That was too easy. 
 JANEWAY: Maybe they're in worse shape than we thought. 
-TUVOK: I'm picking up non-Borg life signs. One of them is definitely
-Talaxian. It looks as though they haven't been assimilated yet. 
+TUVOK: I'm picking up non-Borg life signs. One of them is definitely Talaxian. It looks as though they haven't been assimilated yet. 
 JANEWAY: Try to get a transporter lock. 
 TORRES: Their shields are interfering. 
 JANEWAY: Target their shield generator and fire. 
-SEVEN: Captain, I believe I can explain the unusual behaviour of these
-Borg. There should be thousands of drones manning the vessel, but I'm
-picking up only five signatures. 
-BORG [OC]: We are the Borg. You will be assimilated. Resistance is
-futile. 
+SEVEN: Captain, I believe I can explain the unusual behaviour of these Borg. There should be thousands of drones manning the vessel, but I'm picking up only five signatures. 
+BORG [OC]: We are the Borg. You will be assimilated. Resistance is futile. 
 TORRES: It doesn't sound like they've lost their confidence. 
-TUVOK: Their shield generators are too deep inside the vessel. Our
-weapons can't reach them. 
-JANEWAY: Open a channel. Borg vessel, this is the starship Voyager.
-You're holding our crewmen. We're willing to cease firing if you return
-them.
+TUVOK: Their shield generators are too deep inside the vessel. Our weapons can't reach them. 
+JANEWAY: Open a channel. Borg vessel, this is the starship Voyager. You're holding our crewmen. We're willing to cease firing if you return them.
 BORG [OC]: Negotiation is irrelevant. You will be assimilated. 
 JANEWAY: Not today, and not by you. Agree, or I'll resume firing. 
 TUVOK: They are scanning us. 
-BORG [OC]: We will return your crew members in exchange for specific
-technology. 
+BORG [OC]: We will return your crew members in exchange for specific technology. 
 TORRES: Talk about unusual behaviour. The Borg negotiating? 
 JANEWAY: What technology?
-BORG [OC]: Your navigational deflector. Disengage it from your
-secondary hull. 
+BORG [OC]: Your navigational deflector. Disengage it from your secondary hull. 
 JANEWAY: Mute audio. 
-TUVOK: If we surrender our deflector, we'll be dead in space. We won't
-be able to go to warp. 
+TUVOK: If we surrender our deflector, we'll be dead in space. We won't be able to go to warp. 
 JANEWAY: What would they want with it? 
-SEVEN: When their communications array was damaged, it severed their
-link to the Collective. They intend to adapt our deflector to regain
-it. 
-JANEWAY: And call for reinforcements? That's the last thing we need.
-We'll have to stall them until we can find another way out of this. (Janeway signals audio on.)JANEWAY: I'll consider the exchange, but first I want to be certain my crewmen
-are unharmed and alive. 
+SEVEN: When their communications array was damaged, it severed their link to the Collective. They intend to adapt our deflector to regain it. 
+JANEWAY: And call for reinforcements? That's the last thing we need. We'll have to stall them until we can find another way out of this. 
+(Janeway signals audio on.)
+JANEWAY: I'll consider the exchange, but first I want to be certain my crewmen are unharmed and alive. 
 BORG [OC]: You have scanned our vessel. 
-JANEWAY: Our scans were inconclusive. We want to see them for
-ourselves. 
+JANEWAY: Our scans were inconclusive. We want to see them for ourselves. 
 BORG [OC]: You may transport one individual. 
 JANEWAY: Seven. 
-[Cube
-- corridor]
-(There are lots of dead Borg around. Seven scans one.)BORG
-[OC]: Proceed to grid six three, sub-junction zero one. 
+[Cube - corridor]
+(There are lots of dead Borg around. Seven scans one.)
+BORG [OC]: Proceed to grid six three, sub-junction zero one. 
 [Maturation area]
-(There is a foetus in a chamber. Seven turns to see a young girl and four boys, both teen and pre-teen.)BORG
-[OC]: State your designation. 
-SEVEN: Seven of Nine. These drones have not fully matured. Where are
-the others? 
-BORG [OC]: There are no others. The drones aboard this vessel were (The eldest boy steps forward.)
-LEADER: Deactivated. We are the Borg. Seven of Nine. A Borg
-designation. (The young girl speaks.)
-MEZOTI: She's like us. (The other teen boy steps forward.)
+(There is a foetus in a chamber. Seven turns to see a young girl and four boys, both teen and pre-teen.)
+BORG [OC]: State your designation. 
+SEVEN: Seven of Nine. These drones have not fully matured. Where are the others? 
+BORG [OC]: There are no others. The drones aboard this vessel were 
+(The eldest boy steps forward.)
+LEADER: Deactivated. We are the Borg. Seven of Nine. A Borg designation. 
+(The young girl speaks.)
+MEZOTI: She's like us. 
+(The other teen boy steps forward.)
 ICHEB: Not like us. She's damaged. Her infrastructure has been removed.
 MEZOTI: We could fix her. 
 ICHEB: You will add to our perfection. 
-SEVEN: You are neonatal drones. You should still be in maturation
-chambers.
+SEVEN: You are neonatal drones. You should still be in maturation chambers.
 LEADER: We've matured long enough. 
-SEVEN: Doubtful. Your thoracic nodes haven't formed yet. You're
-incomplete. You'll continue to malfunction. You must return to your
-maturation chambers. Comply. 
+SEVEN: Doubtful. Your thoracic nodes haven't formed yet. You're incomplete. You'll continue to malfunction. You must return to your maturation chambers. Comply. 
 LEADER: Don't listen to her. 
 ICHEB: We tried to go back in. The chambers were offline. 
-SEVEN: What happened to the adult drones? (Another pre-teen boy, one of a pair of twins.)
+SEVEN: What happened to the adult drones? 
+(Another pre-teen boy, one of a pair of twins.)
 AZAN: We don't know. 
 LEADER: Irrelevant. Don't tell her anything.
-SEVEN; This vessel has been severely damaged. You won't be able to
-repair it alone. I can help you, but first you must release the
-hostages. 
+SEVEN; This vessel has been severely damaged. You won't be able to repair it alone. I can help you, but first you must release the hostages. 
 LEADER: That wasn't the agreement. 
-SEVEN: I've modified the agreement. I didn't realise I'd be dealing
-with children. Your behaviour is erratic. I can't be certain that you 
-LEADER: No modifications. We show you the hostages, you give us the
-deflector. Comply. Comply!
-SEVEN: Take me to them. (Mezoti leads the way, and Icheb follows.)
+SEVEN: I've modified the agreement. I didn't realise I'd be dealing with children. Your behaviour is erratic. I can't be certain that you 
+LEADER: No modifications. We show you the hostages, you give us the deflector. Comply. Comply!
+SEVEN: Take me to them. 
+(Mezoti leads the way, and Icheb follows.)
 LEADER: If she tries to resist, assimilate her. 
-[Cube
-- corridor]
-SEVEN:
-Do you have a designation? 
+[Cube - corridor]
+SEVEN: Do you have a designation? 
 ICHEB: Second. 
 SEVEN: You were the second to emerge from the chambers. 
-ICHEB: No, the first. I could not establish order. I became Second and
-he became First.
+ICHEB: No, the first. I could not establish order. I became Second and he became First.
 SEVEN; So you've established a chain of command, a hierarchy. 
 MEZOTI: We're a Collective. 
-SEVEN: A collective of five on a vessel normally run by five thousand.
-What makes you think you'll survive? 
-ICHEB: When we re-establish our link with the Borg, they will come for
-us. 
+SEVEN: A collective of five on a vessel normally run by five thousand. What makes you think you'll survive? 
+ICHEB: When we re-establish our link with the Borg, they will come for us. 
 [Assimilation chamber]
-PARIS:
-Commander, we've got company. 
-SEVEN: I wish to see if they're injured. (The forcefield is lowered.)
+PARIS: Commander, we've got company. 
+SEVEN: I wish to see if they're injured. 
+(The forcefield is lowered.)
 CHAKOTAY: Seven? 
-SEVEN: Don't let their appearance fool you. They are in control of this
-vessel and all of its armaments. Are you injured? 
+SEVEN: Don't let their appearance fool you. They are in control of this vessel and all of its armaments. Are you injured? 
 CHAKOTAY: Nothing serious. A previous tenant. 
 ICHEB: We were trying to perfect our assimilation techniques. 
 SEVEN: You failed. 
-MEZOTI: One of these captives was attempting to disconnect the security
-field. 
-PARIS: Actually, I was just trying to (Mezoti shoots Paris.) 
+MEZOTI: One of these captives was attempting to disconnect the security field. 
+PARIS: Actually, I was just trying to 
+(Mezoti shoots Paris.) 
 SEVEN: That was unnecessary. 
 ICHEB: He is not permanently damaged. 
 MEZOTI: He learnt his lesson. 
-SEVEN: The Borg are prepared to negotiate for your release. I will
-return for you. 
+SEVEN: The Borg are prepared to negotiate for your release. I will return for you. 
 CHAKOTAY: Give my regards to Harry. 
-[Cube
-- corridor]
-ICHEB:
-The deflector array. 
-SEVEN: I'm not authorised to give you technology. I must report back to
-Captain Janeway. 
+[Cube - corridor]
+ICHEB: The deflector array. 
+SEVEN: I'm not authorised to give you technology. I must report back to Captain Janeway. 
 ICHEB: Agreed. 
-SEVEN: I also need to take an adult drone and a data node back to
-Voyager for analysis. 
+SEVEN: I also need to take an adult drone and a data node back to Voyager for analysis. 
 MEZOTI: Why? 
-SEVEN: Something happened on this vessel that none of us understand. If
-it happens again, it could endanger all of you.(Icheb nods.) 
+SEVEN: Something happened on this vessel that none of us understand. If it happens again, it could endanger all of you.
+(Icheb nods.) 
 [Corridor]
-JANEWAY:
-No sign of Harry yet, but there are parts of the cube that we still
-can't scan. 
+JANEWAY: No sign of Harry yet, but there are parts of the cube that we still can't scan. 
 TUVOK: Could the drones be holding him in another location? 
-JANEWAY: Unlikely. Seven said they didn't seem to be aware of his
-presence. 
-TUVOK: If he ejected in an escape pod, we would have detected his beacon
-by now. 
-JANEWAY: Try to activate his comm. badge. Match the carrier wave to a
-Borg interlink frequency. They shouldn't detect it. 
+JANEWAY: Unlikely. Seven said they didn't seem to be aware of his presence. 
+TUVOK: If he ejected in an escape pod, we would have detected his beacon by now. 
+JANEWAY: Try to activate his comm. badge. Match the carrier wave to a Borg interlink frequency. They shouldn't detect it. 
 TUVOK: Aye, Captain. 
 [Sickbay]
-JANEWAY:
-What have we learned from our friend here? 
-EMH: The bigger they come, the harder they fall. Behold the David that
-slew our Goliath. (Micro-cellular scan 407)
+JANEWAY: What have we learned from our friend here? 
+EMH: The bigger they come, the harder they fall. Behold the David that slew our Goliath. 
+(Micro-cellular scan 407)
 JANEWAY: A pathogen. 
-EMH: A space-borne virus that adapted to Borg physiology. It's inert
-now, but in its virulent state it attacked the drones and killed them. 
+EMH: A space-borne virus that adapted to Borg physiology. It's inert now, but in its virulent state it attacked the drones and killed them. 
 TUVOK: Why weren't the juveniles infected? 
-SEVEN: The maturation chamber is designed to protect developing drones.
-Malfunctions caused by the deaths of the adults led several of the
-chambers to open prematurely. 
+SEVEN: The maturation chamber is designed to protect developing drones. Malfunctions caused by the deaths of the adults led several of the chambers to open prematurely. 
 TUVOK: Does this pathogen only target the Borg? 
-EMH: The Borg, and other cybernetic organisms it encounters. You're not
-thinking of using it as a biological weapon? 
-TUVOK: If we can revive the pathogen and reintroduce it, we could
-neutralise the drones without harming the away team. 
-EMH: Neutralise? You mean murder, don't you? Captain, they're children.
-TUVOK: Need I remind you that these children have committed murder
-themselves in their futile attempts to assimilate others. 
-JANEWAY: Seven, tell me something. You saw them, talked to them. Do you
-think they'll kill the hostages if we don't give them what they want? 
+EMH: The Borg, and other cybernetic organisms it encounters. You're not thinking of using it as a biological weapon? 
+TUVOK: If we can revive the pathogen and reintroduce it, we could neutralise the drones without harming the away team. 
+EMH: Neutralise? You mean murder, don't you? Captain, they're children. 
+TUVOK: Need I remind you that these children have committed murder themselves in their futile attempts to assimilate others. 
+JANEWAY: Seven, tell me something. You saw them, talked to them. Do you think they'll kill the hostages if we don't give them what they want? 
 SEVEN: Yes. 
-JANEWAY: I want that pathogen as an option, Doctor, but I won't
-consider using it until I've seen these drones for myself. Think you
-can arrange that? Then you're with me. 
-[Delta
-Flyer - cockpit]
-(The beep of his comm. badge wakes Kim in the Jefferies tube. He crawls out and goes to the cockpit.)KIM:
-Computer, identify the source of this comm. signal. 
+JANEWAY: I want that pathogen as an option, Doctor, but I won't consider using it until I've seen these drones for myself. Think you can arrange that? Then you're with me. 
+[Delta Flyer - cockpit]
+(The beep of his comm. badge wakes Kim in the Jefferies tube. He crawls out and goes to the cockpit.)
+KIM: Computer, identify the source of this comm. signal. 
 COMPUTER: Starship Voyager. 
 KIM: I need to respond on the same carrier wave. 
 COMPUTER: That procedure will require significant modifications. 
 KIM: Well, don't worry. I'm way ahead of you. 
 [Maturation area]
-LEADER:
-Why are you here? 
+LEADER: Why are you here? 
 JANEWAY: I wanted to make a new proposal. 
-LEADER: We've already negotiated. You've seen the hostages. Now give us
-the deflector as agreed. 
-JANEWAY: Maybe it's hard for you to accept, but you don't have to
-rejoin the Hive. Our Doctor can remove your implants. You can come with
-us. You were individuals yourselves not long ago. Children with
-families. You were abducted and assimilated. I recognise your species.
-You're Brenari, and you're Norcadian. Do you remember your world? 
-MEZOTI: A theta class planetoid. population two and sixty million.
-Binary suns. 
-JANEWAY: And what did it look like when those suns set each night? Can
-you remember that? 
+LEADER: We've already negotiated. You've seen the hostages. Now give us the deflector as agreed. 
+JANEWAY: Maybe it's hard for you to accept, but you don't have to rejoin the Hive. Our Doctor can remove your implants. You can come with us. You were individuals yourselves not long ago. Children with families. You were abducted and assimilated. I recognise your species. You're Brenari, and you're Norcadian. Do you remember your world? 
+MEZOTI: A theta class planetoid. population two and sixty million. Binary suns. 
+JANEWAY: And what did it look like when those suns set each night? Can you remember that? 
 LEADER: Irrelevant! The deflector, now. 
-JANEWAY: We need more time. That deflector array is essential to our (The Leader grabs Janeway and pushes her against a wall. A forcefield blocks Seven from assisting.)
+JANEWAY: We need more time. That deflector array is essential to our 
+(The Leader grabs Janeway and pushes her against a wall. A forcefield blocks Seven from assisting.)
 LEADER: No! Give it to us. 
-JANEWAY: Or what? You'll assimilate me? That won't solve your problem.
-I can't give you Voyager's deflector, but maybe we can repair your
-technology. 
+JANEWAY: Or what? You'll assimilate me? That won't solve your problem. I can't give you Voyager's deflector, but maybe we can repair your technology. 
 LEADER: Clarify. 
 JANEWAY: Seven knows a good deal about Borg systems. 
 LEADER: You have two hours. 
 SEVEN: I don't know the extent of the damage. It could take longer. 
 LEADER: Two hours or your hostages die. Don't come back here, Captain. 
 [Bridge]
-JANEWAY:
-I bought us another two hours. The pathogen? 
+JANEWAY: I bought us another two hours. The pathogen? 
 TUVOK: It should be ready by then. 
 TORRES: Did you see the away team? 
-JANEWAY: I'm afraid not, but Seven assured me our people haven't been
-harmed. 
+JANEWAY: I'm afraid not, but Seven assured me our people haven't been harmed. 
 TORRES: I can't believe we're negotiating with adolescent drones. 
-JANEWAY: They're not exactly drones. Mature Borg are predictable.
-They'll ignore you or assimilate you. But these juveniles, they're
-unstable. 
-TUVOK: They are contemptuous of authority, convinced that they are
-superior. Typical adolescent behaviour for any species. 
+JANEWAY: They're not exactly drones. Mature Borg are predictable. They'll ignore you or assimilate you. But these juveniles, they're unstable. 
+TUVOK: They are contemptuous of authority, convinced that they are superior. Typical adolescent behaviour for any species. 
 TORRES: It's a transmission, from the Cube. 
 JANEWAY: Seven? 
 TORRES: No. It's Harry. I'm clearing it up now. 
 KIM [OC]: Delta Flyer to Voyager, respond. 
 JANEWAY: We're receiving you, Ensign. Where are you? 
-[Delta
-Flyer - aft compartment]
-KIM:
-Still in the Flyer. It's locked up in some kind of hanger bay, along
-with two alien ships. 
+[Delta Flyer - aft compartment]
+KIM: Still in the Flyer. It's locked up in some kind of hanger bay, along with two alien ships. 
 [Bridge]
-TUVOK:
-I've isolated his coordinates. 
+TUVOK: I've isolated his coordinates. 
 JANEWAY: How close is he to their shield generator? 
 TUVOK: Roughly eight hundred metres. 
 JANEWAY: Harry, are there any plasma charges aboard the Flyer? 
 KIM [OC]: Yes, ma'am. 
 JANEWAY: In that case, how do you feel about going for a little walk? 
-[Delta
-Flyer - aft compartment]
-KIM: I
-could use the exercise. 
-JANEWAY [OC]: Tuvok will guide you to the shield generator. If you
-destroy it, you won't have to make the trip back. 
+[Delta Flyer - aft compartment]
+KIM: I could use the exercise. 
+JANEWAY [OC]: Tuvok will guide you to the shield generator. If you destroy it, you won't have to make the trip back. 
 KIM: Understood. 
-[Cube
-- computer access station]
-ICHEB: I
-have the technology you've requested. 
+[Cube - computer access station]
+ICHEB: I have the technology you've requested. 
 SEVEN: Thank you. 
 ICHEB: You were a drone for eighteen years. 
 SEVEN: Correct. 
@@ -367,246 +277,170 @@ SEVEN: Why?
 ICHEB: I thought it might be relevant. 
 SEVEN: What else did you learn? 
 ICHEB: You were assimilated as a juvenile, like us. 
-SEVEN: My parents were scientists studying the Borg. They took me with
-them. My childhood was short. 
+SEVEN: My parents were scientists studying the Borg. They took me with them. My childhood was short. 
 ICHEB: Childhood? 
-SEVEN: The years between birth and physical maturity, when humanoids
-adapt to their roles as individuals. Perhaps you have memory of yours. 
+SEVEN: The years between birth and physical maturity, when humanoids adapt to their roles as individuals. Perhaps you have memory of yours. 
 ICHEB: I don't know. 
 SEVEN: What about your parents? Do you remember them? 
-ICHEB: No. No memories. (His voice has a slight vibrato.)
-SEVEN: Your sub-vocal processor is malfunctioning. I can repair it for
-you. It's a slight adjustment. It won't be painful. 
-ICHEB: The First told me my malfunction could not be repaired until we
-reconnected with the Collective. (Seven has repaired it.)ICHEB: This colour. My mother's hair was this
-colour.
-LEADER: I thought we agreed, no irrelevant discussions. What is the
-punishment for disobeying the protocols? 
+ICHEB: No. No memories. 
+(His voice has a slight vibrato.)
+SEVEN: Your sub-vocal processor is malfunctioning. I can repair it for you. It's a slight adjustment. It won't be painful. 
+ICHEB: The First told me my malfunction could not be repaired until we reconnected with the Collective. 
+(Seven has repaired it.)
+ICHEB: This colour. My mother's hair was this colour.
+LEADER: I thought we agreed, no irrelevant discussions. What is the punishment for disobeying the protocols? 
 ICHEB: Deactivation. 
 SEVEN: I engaged him in this discussion. 
-LEADER: Return to your station.
-[Ready
-room]
-SEVEN: I
-found some unsettling information. I examined their communication
-records. The Collective did receive the drones' initial distress call. 
+LEADER: Return to your station. 
+[Ready room]
+SEVEN: I found some unsettling information. I examined their communication records. The Collective did receive the drones' initial distress call. 
 JANEWAY: How long before they arrive? 
-SEVEN: A vessel was not dispatched. The Collective declared the
-neonatal drones irrelevant and severed their link to the Hive
-permanently. 
+SEVEN: A vessel was not dispatched. The Collective declared the neonatal drones irrelevant and severed their link to the Hive permanently. 
 JANEWAY: They see them as damaged, unworthy of re-assimilation. 
 SEVEN: Precisely. 
 JANEWAY: Are the drones aware of this? 
 SEVEN: No. They don't have the ability to decrypt the message. 
-JANEWAY: Once they learn they've been rejected by the Hive, they won't
-need our deflector. They might be willing to release the hostages. 
-SEVEN: Normally when drones learn they're irrelevant, they deactivate
-themselves. But these neonatal drones are unpredictable. They may not
-adhere to Borg protocols. 
-JANEWAY: There is another option. We could invite them to Voyager. When
-they realise they have no place else to go
-SEVEN: If you're suggesting transforming them into individuals, that
-would be extremely difficult. 
+JANEWAY: Once they learn they've been rejected by the Hive, they won't need our deflector. They might be willing to release the hostages. 
+SEVEN: Normally when drones learn they're irrelevant, they deactivate themselves. But these neonatal drones are unpredictable. They may not adhere to Borg protocols. 
+JANEWAY: There is another option. We could invite them to Voyager. When they realise they have no place else to go
+SEVEN: If you're suggesting transforming them into individuals, that would be extremely difficult. 
 JANEWAY: You turned out pretty well, Seven. 
 SEVEN: That's because I was prepared before you encountered me. 
 JANEWAY: What do you mean? 
-SEVEN: When I was first captured by the Borg, I was young and
-frightened. I watched my parents assimilated. Then I was placed in a
-maturation chamber, and the Hive mind began to restructure my synaptic
-pathways, purge my individuality. When I emerged five years later, the
-turmoil of my forced assimilation had been replaced with order. You may
-not be aware of this, Captain, but that order continues to be a source
-of strength for me. I could not have regained my humanity without it. 
-JANEWAY: I appreciate your insights. But just because they didn't have
-the benefit of your Borg upbringing doesn't mean we're going to turn
-our backs on them. There has to be another way. 
+SEVEN: When I was first captured by the Borg, I was young and frightened. I watched my parents assimilated. Then I was placed in a maturation chamber, and the Hive mind began to restructure my synaptic pathways, purge my individuality. When I emerged five years later, the turmoil of my forced assimilation had been replaced with order. You may not be aware of this, Captain, but that order continues to be a source of strength for me. I could not have regained my humanity without it. 
+JANEWAY: I appreciate your insights. But just because they didn't have the benefit of your Borg upbringing doesn't mean we're going to turn our backs on them. There has to be another way. 
 SEVEN: Not all drones can be saved, Captain. 
-JANEWAY: Continue the repairs aboard the Borg Cube. We'll hold onto
-this information for now. 
+JANEWAY: Continue the repairs aboard the Borg Cube. We'll hold onto this information for now. 
 SEVEN: Yes, Captain.
-JANEWAY: They do have one thing going for them. You. If there's anyone
-who can reach them, it's you. 
-[Astrometrics
-lab]
-KIM
-[OC]: Three of hearts on a transwarp conduit. 
-TUVOK: Ensign?
-[Cube
-- corridor]
-KIM:
-King of clubs on a power coupling. I'm marking my route with playing
-cards in case I have to come back the same way. 
+JANEWAY: They do have one thing going for them. You. If there's anyone who can reach them, it's you. 
+[Astrometrics lab]
+KIM [OC]: Three of hearts on a transwarp conduit. 
+TUVOK: Ensign? 
+[Cube - corridor]
+KIM: King of clubs on a power coupling. I'm marking my route with playing cards in case I have to come back the same way. 
 TUVOK [OC]: You shouldn't distract yourself, Mister Kim. 
-KIM: I need a little distraction. This hike is bringing up some bad
-memories.
-[Astrometrics
-lab]
-TUVOK:
-An earlier visit to a Borg Cube? 
+KIM: I need a little distraction. This hike is bringing up some bad memories. 
+[Astrometrics lab]
+TUVOK: An earlier visit to a Borg Cube? 
 KIM [OC]: No, a haunted house my parents took me to when I was six. 
 TUVOK: Borg vessels may be forbidding, but they are not haunted. 
-[Cube
-- junction]
-KIM:
-Tuvok? 
+[Cube - junction]
+KIM: Tuvok? 
 TUVOK [OC]: Turn left, Ensign. 
 KIM: Nine of diamonds on a data node. 
 [Maturation area]
-SEVEN:
-The resonance field collapsed. It'll take an hour to reinitialise. 
+SEVEN: The resonance field collapsed. It'll take an hour to reinitialise. 
 LEADER: These delays are intentional. 
-SEVEN: I'm working as efficiently as I can. Examine my work for
-yourself if you have doubts. (The Leader looks at her PADD.)
+SEVEN: I'm working as efficiently as I can. Examine my work for yourself if you have doubts. 
+(The Leader looks at her PADD.)
 LEADER: This data's flawed. 
-SEVEN: More likely it's your understanding of quadric field theory
-that's flawed.
+SEVEN: More likely it's your understanding of quadric field theory that's flawed.
 LEADER: Ignore her. She's trying to divide us. 
-SEVEN: They rely on you, yet you lack the skills necessary to ensure
-their survival. 
-LEADER: We've managed so far. We're Borg. You've forgotten what that
-means. 
-SEVEN: The unity of the Collective, common goals, the quest for
-perfection. I have not forgotten. But you don't need to remain drones
-to experience those things. Come back with me to Voyager. 
-LEADER: Thirty eight minutes. You're wasting time. (An alarm sounds.)ICHEB: Another maturation
-chamber is malfunctioning. (The foetus is in distress.)
+SEVEN: They rely on you, yet you lack the skills necessary to ensure their survival. 
+LEADER: We've managed so far. We're Borg. You've forgotten what that means. 
+SEVEN: The unity of the Collective, common goals, the quest for perfection. I have not forgotten. But you don't need to remain drones to experience those things. Come back with me to Voyager. 
+LEADER: Thirty eight minutes. You're wasting time. 
+(An alarm sounds.)
+ICHEB: Another maturation chamber is malfunctioning. 
+(The foetus is in distress.)
 SEVEN: Its autonomic nervous system is failing. 
 LEADER: It's Borg. It will adapt. 
 MEZOTI: It's not adapting. Let Seven help. 
-SEVEN: We can modulate the stasis field to stabilise its functions, at
-least temporarily. Assist me. The field is degrading. We need to
-transport it into an incubation pod. Quickly. (The twins do the transport. Seven opens the pod and picks up the baby. It struggles to breathe.) 
+SEVEN: We can modulate the stasis field to stabilise its functions, at least temporarily. Assist me. The field is degrading. We need to transport it into an incubation pod. Quickly. 
+(The twins do the transport. Seven opens the pod and picks up the baby. It struggles to breathe.) 
 MEZOTI: Why is it doing that? 
-SEVEN: Its respiratory system is impaired, and this incubation pod is
-malfunctioning. We must transport this infant to Voyager. 
+SEVEN: Its respiratory system is impaired, and this incubation pod is malfunctioning. We must transport this infant to Voyager. 
 LEADER: No. The drone is part of our Collective. 
 ICHEB: Not if it dies. 
-[Cube
-- corridor]
-KIM:
-Tetryon levels are rising. I'm getting closer. 
+[Cube - corridor]
+KIM: Tetryon levels are rising. I'm getting closer. 
 TUVOK [OC]: The shield generator should be directly ahead. 
 KIM: I see it. The first charge is in place. Tuvok? Hello? 
-MEZOTI: You left these. (She holds up Queen of Hearts.)MEZOTI: I like her. She
-looks like Seven of Nine. 
-KIM: Is Seven your friend? You know, she's my friend, too. Maybe
-someday, we 
+MEZOTI: You left these. 
+(She holds up Queen of Hearts.)
+MEZOTI: I like her. She looks like Seven of Nine. 
+KIM: Is Seven your friend? You know, she's my friend, too. Maybe someday, we 
 MEZOTI: Your weapon won't work here. Dampening field. 
 [Corridor]
-JANEWAY:
-How long has it been since you lost contact? 
+JANEWAY: How long has it been since you lost contact? 
 TUVOK: Four or five minutes. 
 JANEWAY: His bio-signs? 
 EMH [OC]: Doctor to the Captain. Please report to Sickbay immediately. 
 JANEWAY: On my way. Keep looking for him. 
 [Sickbay]
-JANEWAY:
-What's the emergency? 
-EMH: I thought you should see for yourself. Somebody left a bundle on
-our doorstep. I turned around and there she was, lying on a bio-bed. 
+JANEWAY: What's the emergency? 
+EMH: I thought you should see for yourself. Somebody left a bundle on our doorstep. I turned around and there she was, lying on a bio-bed. 
 JANEWAY: Seven must have beamed her here. 
-EMH: Good thing, too. A few more minutes and I wouldn't have been able
-to do anything for her. It's hard to believe she could grow up to be a
-drone. (The baby starts to cry and the EMH picks her up.)EMH: Hold her for a moment while I take some readings. Oh, I guess
-she just wanted to be held. Oh. The pathogen. I finished synthesizing
-it. 
+EMH: Good thing, too. A few more minutes and I wouldn't have been able to do anything for her. It's hard to believe she could grow up to be a drone. 
+(The baby starts to cry and the EMH picks her up.)
+EMH: Hold her for a moment while I take some readings. Oh, I guess she just wanted to be held. Oh. The pathogen. I finished synthesizing it. 
 JANEWAY: Start working with Tuvok on a way to deploy the virus. 
 EMH: Captain, you don't seriously plan to use it?
-JANEWAY: If I have to. Let's just hope your brothers and sisters don't
-force my hand. 
+JANEWAY: If I have to. Let's just hope your brothers and sisters don't force my hand. 
 [Maturation area]
-SEVEN:
-You complain of delays then you interrupt my work. 
+SEVEN: You complain of delays then you interrupt my work. 
 LEADER: Can you identify this? 
 SEVEN: It's a plasma charge. 
-LEADER: You tried to deceive us. (The children step aside to reveal an unconscious Kim.)LEADER: Nanoprobes were injected into his
-bloodstream. He won't survive without medical attention. Call your
-Captain. Tell her to give us the deflector. 
-SEVEN: That won't be necessary. I only need a few more minutes to
-repair the
-LEADER: No more delays. No more deceptions. The deflector. Resistance
-is futile. 
+LEADER: You tried to deceive us. 
+(The children step aside to reveal an unconscious Kim.)
+LEADER: Nanoprobes were injected into his bloodstream. He won't survive without medical attention. Call your Captain. Tell her to give us the deflector. 
+SEVEN: That won't be necessary. I only need a few more minutes to repair the
+LEADER: No more delays. No more deceptions. The deflector. Resistance is futile. 
 [Bridge]
-LEADER
-[on viewscreen]: Comply. 
+LEADER [on viewscreen]: Comply. 
 JANEWAY: Return Harry Kim, then we'll talk. 
-LEADER [on viewscreen]: We've talked enough. Your requests are
-irrelevant. Comply or we'll assimilate the others. 
-JANEWAY: It'll take us at least an hour to dismantle the deflector and
-transfer the components. 
+LEADER [on viewscreen]: We've talked enough. Your requests are irrelevant. Comply or we'll assimilate the others. 
+JANEWAY: It'll take us at least an hour to dismantle the deflector and transfer the components. 
 LEADER [on viewscreen]: Now. 
-JANEWAY: I can't give it to you now. It's complex technology that's
-part of our ship. We can't simply remove it. And no amount of threats
-from you is going to change that. (Whumph!)
+JANEWAY: I can't give it to you now. It's complex technology that's part of our ship. We can't simply remove it. And no amount of threats from you is going to change that. 
+(Whumph!)
 TUVOK: They've locked a tractor beam onto the deflector. 
-TORRES: They're trying to tear it off. Hull stress is increasing.
-Breaches on decks ten and eleven. 
+TORRES: They're trying to tear it off. Hull stress is increasing. Breaches on decks ten and eleven. 
 JANEWAY: Increase shield strength and randomise the harmonics. 
 TUVOK: They're adapting. 
 [Maturation area]
-SEVEN:
-Even with Voyager's deflector, your efforts to return to the Hive will
-fail. 
+SEVEN: Even with Voyager's deflector, your efforts to return to the Hive will fail. 
 LEADER: They'll come for us. 
-SEVEN: No, they won't. The Borg received your message but chose to
-ignore it. They consider you irrelevant. 
+SEVEN: No, they won't. The Borg received your message but chose to ignore it. They consider you irrelevant. 
 MEZOTI: Irrelevant? 
 ICHEB: We are damaged. They don't want us. 
 LEADER: Ignore her. It's another lie. 
-SEVEN: Their reply is in data grid four two six. Use decryption
-protocol theta three. 
-LEADER: Return to your station. It's another deception. She's
-manipulating us. 
+SEVEN: Their reply is in data grid four two six. Use decryption protocol theta three. 
+LEADER: Return to your station. It's another deception. She's manipulating us. 
 ICHEB: The transmission is authentic. 
 LEADER: It's a mistake. 
 SEVEN: The Collective does not tolerate imperfection. 
 LEADER: Then we'll assimilate more species. Prove we're worthy. 
 [Bridge]
-TORRES:
-Hull stress is reaching critical levels. 
+TORRES: Hull stress is reaching critical levels. 
 JANEWAY: Reroute all emergency power to structural integrity. 
 TORRES: That'll buy us another minute at most. 
-TUVOK: Captain, I have found a fluctuation in their shield grid near a
-plasma duct. It's too intermittent to beam out the hostages, but we
-could use it to deploy the pathogen. Captain. 
+TUVOK: Captain, I have found a fluctuation in their shield grid near a plasma duct. It's too intermittent to beam out the hostages, but we could use it to deploy the pathogen. Captain. 
 JANEWAY: Not yet. 
 TUVOK: There is no alternative. 
-JANEWAY: There's always an alternative. We just need to find it. Their
-tractor beam draws power from the same grid as their shield matrix. If
-we use the deflector to send a feedback pulse along the beam, it could
-disrupt their shields. Do it. 
-TORRES: Rerouting warp plasma. If this doesn't work it'll do more
-damage to us than the Cube. 
+JANEWAY: There's always an alternative. We just need to find it. Their tractor beam draws power from the same grid as their shield matrix. If we use the deflector to send a feedback pulse along the beam, it could disrupt their shields. Do it. 
+TORRES: Rerouting warp plasma. If this doesn't work it'll do more damage to us than the Cube. 
 JANEWAY: It'll work. Prepare to fire. 
 [Maturation area]
-SEVEN:
-You have no future with the Borg. But you do with Voyager. A chance to
-reclaim your real lives. 
+SEVEN: You have no future with the Borg. But you do with Voyager. A chance to reclaim your real lives. 
 LEADER: What do you know about real lives? 
-SEVEN: Does he speak for all of you? You should make your decisions
-yourself, as individuals. 
-ICHEB: They are sending a feedback pulse through our tractor beam. It's
-overloading our shield matrix. 
+SEVEN: Does he speak for all of you? You should make your decisions yourself, as individuals. 
+ICHEB: They are sending a feedback pulse through our tractor beam. It's overloading our shield matrix. 
 LEADER: Adapt! 
 [Bridge]
-TUVOK:
-Their tractor beam is fluctuating. Their shields are dropping. 
-TORRES: I've got a partial lock on the away team. Boosting the
-confinement beam. I've got three of them. 
-TUVOK: Confirmed. Chakotay, Paris and Neelix are in Transporter room
-two.
+TUVOK: Their tractor beam is fluctuating. Their shields are dropping. 
+TORRES: I've got a partial lock on the away team. Boosting the confinement beam. I've got three of them. 
+TUVOK: Confirmed. Chakotay, Paris and Neelix are in Transporter room two.
 JANEWAY: What about Seven and Harry? 
 TORRES: They must be in a section that's still shielded. 
 JANEWAY: Amplify the feedback pulse. 
 [Maturation area]
-MEZOTI:
-The other captives are gone. 
+MEZOTI: The other captives are gone. 
 ICHEB: The shields around this chamber are failing. Instructions. 
-SEVEN: Lower your shields. Lower the shields! (Seven goes to do it herself.)
-LEADER: No! (The
-Leader pulls Seven away from the control panel and puts the shields
-back up. Then he grabs an object and goes to hit Seven over the head
-with it. Icheb stops him.)
+SEVEN: Lower your shields. Lower the shields! 
+(Seven goes to do it herself.)
+LEADER: No! 
+(The Leader pulls Seven away from the control panel and puts the shields back up. Then he grabs an object and goes to hit Seven over the head with it. Icheb stops him.)
 ICHEB: Leave her alone. 
 LEADER: Get back to your station. Do what I say. 
 ICHEB: What you say? I thought we were a Collective. 
@@ -615,43 +449,36 @@ LEADER: I protected you. Gave you order.
 ICHEB: Your order. Your rules. 
 LEADER: Their feedback pulse is overloading the induction grids. 
 SEVEN: This vessel will be destroyed. We must evacuate. 
-LEADER: No! Assist me. (An explosion sends an electric charge through the Leader.)
+LEADER: No! Assist me. 
+(An explosion sends an electric charge through the Leader.)
 SEVEN: You're damaged. Lie still. 
 LEADER: We have to resist. The Collective will come for us. 
-SEVEN: His cortical implants are depolarising. I can't help him. (Mezoti kneels by her Leader.)
+SEVEN: His cortical implants are depolarising. I can't help him. 
+(Mezoti kneels by her Leader.)
 MEZOTI: We'll find a new home. You'll see. 
 LEADER: We are Borg. 
-SEVEN: Yes. We are Borg. (The Leader deactivates, permanently.) SEVEN: Lower the shields. (Icheb complies.);;;  
-Captain's log, supplemental. Harry's recovering in Sickbay, and the rest of the
-away team is safe and sound. As for the drones, the Doctor's removed
-most of their implants, leaving us with four very troubled children. 
-[Ready
-room]
-JANEWAY:
-We've sent out calls to any Brenari and Norcadian ships that might be
-in the vicinity, but we haven't gotten any responses so far, and we're
-still trying to figure out where the other two came from. It may take a
-while. 
+SEVEN: Yes. We are Borg. 
+(The Leader deactivates, permanently.) 
+SEVEN: Lower the shields. 
+(Icheb complies.);;;  
+Captain's log, supplemental. Harry's recovering in Sickbay, and the rest of the away team is safe and sound. As for the drones, the Doctor's removed most of their implants, leaving us with four very troubled children. 
+[Ready room]
+JANEWAY: We've sent out calls to any Brenari and Norcadian ships that might be in the vicinity, but we haven't gotten any responses so far, and we're still trying to figure out where the other two came from. It may take a while. 
 SEVEN: They could use the time. They have a great deal to learn. 
-JANEWAY: It might help if they had someone around who knew what they're
-up against. 
-SEVEN: I've never been responsible for children. Mister Neelix would be
-a wiser choice. 
-JANEWAY: From what I've seen, you're the one they've established a
-bond with. They'll be looking to you for guidance. 
-SEVEN: Perhaps I could help them avoid some of the obstacles I've
-encountered. 
-[Cargo
-Bay two]
-MEZOTI:
-Do we have to regenerate now?
-SEVEN: Yes, but first. (She hands out PADDs.)SEVEN: I was able to salvage your assimilation
-profiles. They include your names and some limited biographical data. 
+JANEWAY: It might help if they had someone around who knew what they're up against. 
+SEVEN: I've never been responsible for children. Mister Neelix would be a wiser choice. 
+JANEWAY: From what I've seen, you're the one they've established a bond with. They'll be looking to you for guidance. 
+SEVEN: Perhaps I could help them avoid some of the obstacles I've encountered. 
+[Cargo Bay two]
+MEZOTI: Do we have to regenerate now?
+SEVEN: Yes, but first. 
+(She hands out PADDs.)
+SEVEN: I was able to salvage your assimilation profiles. They include your names and some limited biographical data. 
 ICHEB: Icheb. My name was Icheb. 
 SEVEN: Your name is Icheb. 
 ICHEB: I remember now. It was my father's second name. 
 MEZOTI: My designation is Mezoti. It's a pretty name. 
-SEVEN: Yes it is, and it's all yours. Azan and Rebi. I'll tell you more
-about them tomorrow. (She takes back the PADDs and the children get into their regeneration chambers.)SEVEN: Computer. Decrease ambient lighting by sixty
-percent. Good night. Sweet dreams.  
+SEVEN: Yes it is, and it's all yours. Azan and Rebi. I'll tell you more about them tomorrow. 
+(She takes back the PADDs and the children get into their regeneration chambers.)
+SEVEN: Computer. Decrease ambient lighting by sixty percent. Good night. Sweet dreams. 
 

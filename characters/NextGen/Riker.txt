@@ -3,7 +3,7 @@ RIKER: Would I seem ungrateful if I ask for some information?#
 RIKER: Fascinating, the advanced materials used in constructing this space station. Your energy supply must be as abundant as I've heard.#
 RIKER: Thank you. But it still seems incredible to me that you could have constructed this station so rapidly and so, so perfectly suited to our needs.#
 RIKER:  If there's an apple?#
-RIKER: It doesn't matter. What I was saying was (suddenly there is a second bowl of apples) I'll be damned.#
+RIKER: It doesn't matter. What I was saying was  I'll be damned.#
 RIKER: Groppler, I could have sworn it wasn't here a minute ago.#
 RIKER: Not at all, Groppler.#
 RIKER: And it's delicious. Thank you. Good morning, Groppler Zorn.#
@@ -18,7 +18,7 @@ RIKER: Let's see, where were we?#
 RIKER: Jean-Luc Picard? You know the Captain?#
 RIKER: My pleasure, Doctor. Wes.#
 RIKER: See you on board.#
-RIKER: Is this an official report, Lieutenant? ;#
+RIKER: Is this an official report, Lieutenant?#
 RIKER: Stardrive section only? What happened?#
 RIKER: Our new captain doesn't waste time. It's a good idea. Thank you, Lieutenant.#
 RIKER:  Enterprise, this is Commander Riker at Farpoint Station. Standing by to beam up.#
@@ -57,8 +57,8 @@ RIKER: If I may, Captain. Then a trade, Groppler? Some things you need in return
 RIKER: Ensign, can you help me find Commander Data? I understand he's somewhere on this deck.#
 RIKER: Thank you#
 RIKER: Thank you.#
-RIKER: I do. (The holodeck doors open to show trees and vegetation. There is birdsong)#
-RIKER: Hello? (He crosses a stream by stepping stones. One wobbles. Someone is trying to whistle 'Pop goes the Weasel'. Riker finishes the tune)#
+RIKER: I do.#
+RIKER: Hello?#
 RIKER: There are some puzzles down on the planet that the Captain wants answered. He suggests that I take you with me on the away team that I'll be leading.#
 RIKER: Yes. When the captain suggested you, I looked up your record.#
 RIKER: Then your rank of Lieutenant Commander is honorary?#
@@ -117,7 +117,7 @@ RIKER: Thank you, Data.#
 RIKER: Frozen? How?#
 RIKER: Riker to Captain, I have a report for you, sir.#
 RIKER: They're all dead.#
-RIKER: As I said, all dead. Captain's log, supplemental. We are downloading the research information gathered on the collapsing star nearby. I am concerned at being in such close orbit, but the Tsiolkovsky's research records will no doubt predict the time of the star's final collapse.#
+RIKER: As I said, all dead.#
 RIKER: That doesn't sound like you, Geordi.#
 RIKER: Data, I need help in locating some library computer information.#
 RIKER: All I have is a vague memory of reading somewhere about someone taking a shower in his or her clothing.#
@@ -132,7 +132,6 @@ RIKER: Captain, I believe we've have the answer to what happened over there.#
 RIKER: Similar conditions. They were monitoring a planet that was breaking up, not a collapsing star as in this case. But there were the same huge shifts in gravity,#
 RIKER: Like intoxication, but worse. Judgment almost completely impaired,#
 RIKER: Captain, the ship's engines are cut off from the bridge. The Assistant Chief Engineer pulled out the isolinear optical chips from command. All engines are offline. Wesley has hooked some kind of tractor beam to ship's power and he has it aimed at the door. We can't get past to get at the computer.#
-RIKER: Deanna, what?#
 RIKER: Deanna.#
 RIKER: Come on, I'm getting you to Sickbay.#
 RIKER: Doctor Crusher?#
@@ -140,7 +139,7 @@ RIKER: Deanna needs your help.#
 RIKER: What?#
 RIKER: We don't have that kind of time.#
 RIKER: She's infected with#
-RIKER: If I don't get the command computer back online soon, none of this, whatever this is, won't matter. We'll all be dead. Captain's log, supplemental. It is no longer an inconvenient, childish prank. Young Wesley Crusher, admittedly a victim of the Tsiolkovsky infection, is now in control of my starship.#
+RIKER: If I don't get the command computer back online soon, none of this, whatever this is, won't matter. We'll all be dead.#
 RIKER: Where's that sonic driver?#
 RIKER: Riker here.#
 RIKER: Thank you, Lieutenant. I'm on my way. You'll have to handle this.#
@@ -148,7 +147,7 @@ RIKER: Are you alright, sir?#
 RIKER: Take us out of here.#
 RIKER: Wesley Crusher, this is Riker. Come in.#
 RIKER: The star is still collapsing. We're directly in the path of#
-RIKER: Come on, Data, hurry. Ship's log, First Officer Riker. Enterprise will be destroyed unless it can be moved out of the path of the star material hurtling toward us. Our only hope is for Lieutenant Commander Data, in the time we have left, to regain his senses and reconnect engine power to the Bridge.#
+RIKER: Come on, Data, hurry.#
 RIKER: No time for courtesy. Get the damned control chips back in place, in the correct order. Now!#
 RIKER: Data, we've got eight or nine minutes at most. Can you finish by then?#
 RIKER: Damn it, no. I can't afford to get this.#
@@ -166,7 +165,7 @@ RIKER: Photon torpedoes ready, sir.#
 RIKER: Set.#
 RIKER: Do we know the source of their transporter beam?#
 RIKER: What kind of needs?#
-RIKER: Strongly emphasized. And you can see it in the precise, ritualistic way they do things. I'm worried about Lieutenant Yar too, sir, but maybe we should sit and wait them out. Stardate 41235.32. I am concerned. Over a full day of waiting with no response from Lutan. We are now testing whether they are aware of our sensors probing them. So far, we believe we have pinpointed Lutan's government compound.#
+RIKER: Strongly emphasized. And you can see it in the precise, ritualistic way they do things. I'm worried about Lieutenant Yar too, sir, but maybe we should sit and wait them out.#
 RIKER: It's all right, sir, I'll see that he leaves immediately.#
 RIKER: No?#
 RIKER: I suggest you drop it, Mister Data.#
@@ -228,7 +227,7 @@ RIKER: You have all the time you need.#
 RIKER: But it hasn't been approved by the Chief Engineer or by me.#
 RIKER: Now you do.#
 RIKER: If you like. It won't change anything.#
-RIKER: I'll leave that to you. (They go over to the big multi-station console in the middle of the room)#
+RIKER: I'll leave that to you.#
 RIKER: Could anything he's proposing damage our system?#
 RIKER: Then we should let him try it?#
 RIKER: Engineering to bridge, did you copy that?#
@@ -238,7 +237,8 @@ RIKER: To tell the truth, sir, it sounds to me like nonsense to me. But consider
 RIKER: Aye, sir, it is. But as they say, sir, you're the Captain.#
 RIKER: Aye, sir.#
 RIKER: Not now, Wes.#
-RIKER: I'm sure it was fascinating, Wesley. I am looking forward to hearing about it. But not right now. RIKER: Aye, sir.#
+RIKER: I'm sure it was fascinating, Wesley. I am looking forward to hearing about it. But not right now.#
+RIKER: Aye, sir.#
 RIKER: We're ready for you to engage, Captain.#
 RIKER: Captain? You were reported headed for#
 RIKER: Can I help you, sir?#
@@ -247,7 +247,6 @@ RIKER: Kosinski wasn't the one controlling the warp experiments.#
 RIKER: The equations he punched in were nonsense, just as we thought.#
 RIKER: Wesley did.#
 RIKER: He tried, twice. I didn't listen.#
-RIKER: When we saw it this time, he seemed to be struggling, fighting it.#
 RIKER: You may want him here before we're done, sir. He seems to have developed some sort of special attachment to the boy.#
 RIKER: And allowing Kosinski to take credit for what you did.#
 RIKER: You are from a different time, aren't you?#
@@ -309,10 +308,11 @@ RIKER: What's that?#
 RIKER: That! Geordi!#
 RIKER: Are you conscious?#
 RIKER: What are you doing?#
-RIKER: Who are you? (The Ferengi let fly energy bolts from their whips, knocking the three men out. Actually, it takes two jolts to knock out Riker) Captain's log, supplemental. It is now six hours since our away team beamed down to the planet surface. On the Enterprise, our condition is rapidly worsening. Ordinarily, with reserve power alone, we could maintain life support for several months. But the force holding has closed down all engines and is draining our reserve power too.#
-RIKER: It is gold. (Renewed thunder and lightning makes the Ferengi try to cover their ears)#
+RIKER: Who are you?#
+RIKER: It is gold.#
 RIKER: It's nothing compared to what our Captain will do when he finds out you've broken our landing party agreement.#
-RIKER: I'm Commander William Riker, First Officer of the USS Enterprise. You have a lot to learn. (Work pounces on two of the Ferengi, Data and Riker join in the melee. The little aliens fight dirty) RIKER: I've got this one!#
+RIKER: I'm Commander William Riker, First Officer of the USS Enterprise. You have a lot to learn.#
+RIKER: I've got this one!#
 RIKER: Phasers on stun.#
 RIKER: Along the same principle as that which is draining energy from our ships.#
 RIKER: And these?#
@@ -324,9 +324,10 @@ RIKER: You must have been asleep, Portal, for hundreds of thousands of our years
 RIKER: We invite your petition.#
 RIKER: Yes. If you believe those accusations, then you certainly should act on them.#
 RIKER: I admit we withheld modern technology from some worlds.#
-RIKER: At ease, Lieutenant! RIKER: And we still have more faults#
+RIKER: At ease, Lieutenant!#
+RIKER: And we still have more faults#
 RIKER: No! That's an order.#
-RIKER: How do you know my name? (Portal whirls his staff, bringing it to a sudden stop by Riker's right ear. He doesn't flinch)#
+RIKER: How do you know my name?#
 RIKER: Fear is the true enemy, the only enemy.#
 RIKER: An old Chinese philosopher from ancient Earth history.#
 RIKER: Gladly. But first our starship. Can you release it?#
@@ -407,7 +408,7 @@ RIKER: What about plain old basic sex? You must have some need for that.#
 RIKER: Worf, if anyone else had said that, I'd suspect he was bragging.#
 RIKER: I think I'll pass on that. I'd better check in. Enterprise, come in. Captain, do you read me? Let's. This may be nothing, but let's move all our people together.#
 RIKER: We've lost contact with our ship.#
-RIKER: Help me locate Wes. He's wandered off. (Riker and Troi leave. Worf goes over to Tasha, who is with Rivan and Liator)#
+RIKER: Help me locate Wes. He's wandered off.#
 RIKER: It won't happen again. We apologise.#
 RIKER: I thought you reviewed their laws.#
 RIKER: What punishment? Name it!#
@@ -560,7 +561,7 @@ RIKER: Data.#
 RIKER: But it's what you've always wanted, Data, to become human.#
 RIKER: Well, my friend, I know what you want.#
 RIKER: Then we can throw away the visor?#
-RIKER: Proud warrior Worf, without a single tie to his own kind. (A Klingon woman is kneeling at his feet. She gets up, tries to swipe at Tasha, and gets knocked down by Worf)#
+RIKER: Proud warrior Worf, without a single tie to his own kind.#
 RIKER: If this is because your mother objects?#
 RIKER: How did you know, sir? I feel like such an idiot.#
 RIKER: Yes, sir. You have my coordinates, La Forge.#
@@ -585,7 +586,8 @@ RIKER: Tasha, take over. I'm going to holodeck three.#
 RIKER: Geordi's well equipped to deal with the situation, Wes. Right now, your duty's here on the Bridge.;#
 RIKER: Come on, Wesley.#
 RIKER: Have you tried the intercom?#
-RIKER: Riker to holodeck. Riker to holodeck! (Wesley takes a piece of equipment and uses it to 'look' at the holodeck controls) RIKER: Are you seeing anything?#
+RIKER: Riker to holodeck. Riker to holodeck!#
+RIKER: Are you seeing anything?#
 RIKER: What can I do?#
 RIKER: All right. Get it fixed.#
 RIKER: Any word from the Jaradans?#
@@ -618,7 +620,7 @@ RIKER: Thank you, Lieutenant. Complete your record scans and report back here.#
 RIKER: How many more Datas are there?#
 RIKER: I honestly don't know, Data.#
 RIKER: He? Data, we don't know that this can become alive.#
-RIKER: Understood. We'll take it back to the ship with us. Captain's log, Stardate 41242.45. Despite having only a few hours in which to explore Data's home planet we've discovered something which may explain Data's beginnings, if we can properly assemble and communicate with what we've found.#
+RIKER: Understood. We'll take it back to the ship with us.#
 RIKER: Does it appear to have all your parts?#
 RIKER: You might want to have a look at this, Captain. Could be a link to the disappearance of the colonists. It was displayed in the lab, no doubt by proud parents. It could be just a child's imagination, but several children did similar drawings.#
 RIKER: It certainly is a good match for Data, sir.#
@@ -705,7 +707,7 @@ RIKER: Perhaps, Data, perhaps. Thank you#
 RIKER: On second thought, Trent, we would be honoured to witness your moral imperative in action.#
 RIKER: Mistress Beata, before we see living examples of your compassion, may I speak?#
 RIKER: Nothing of the sort. As the governing body of Angel One, you're entitled to execute your laws or your citizens as you see fit.#
-RIKER: When you spoke of the prisoners, you used the term revolutionary. Indeed, death has been known to stop revolutions. But I suspect it's not a revolution that Angel One is hoping to stop. It's evolution. Mister Ramsey and the Odin survivors did not initiate the waves of dissent that are rippling through your planet. Their presence here merely reinforced the change in attitudes between men and women that was already well under way. They became symbols around whom others who shared their views could gather. You may eliminate the symbols, but that does not mean death to the issues which those symbols represent. No power in the universe can hope to stop the force of evolution. Be warned. The execution of Mister Ramsey and his followers may elevate them to the status of martyrs. Martyrs cannot be silenced. (Ramsey is taken to the place of execution. Trent starts to lower his hand)#
+RIKER: When you spoke of the prisoners, you used the term revolutionary. Indeed, death has been known to stop revolutions. But I suspect it's not a revolution that Angel One is hoping to stop. It's evolution. Mister Ramsey and the Odin survivors did not initiate the waves of dissent that are rippling through your planet. Their presence here merely reinforced the change in attitudes between men and women that was already well under way. They became symbols around whom others who shared their views could gather. You may eliminate the symbols, but that does not mean death to the issues which those symbols represent. No power in the universe can hope to stop the force of evolution. Be warned. The execution of Mister Ramsey and his followers may elevate them to the status of martyrs. Martyrs cannot be silenced.#
 RIKER: I don't know if it was enough.#
 RIKER: Data, Ramsey and the prisoners are with us in the Great Hall. I want you to lock the transporter. Prepare to evacuate the entire group.#
 RIKER: Riker to Enterprise. Belay my previous order, Mister Data. There will now be only three to beam up. Energise.#
@@ -729,9 +731,11 @@ RIKER: You've already got all the players you need.#
 RIKER: No, you know if you do that in Parrises Squares you lose the rhythm of the game.#
 RIKER: No. But win, all right? The pride of the Enterprise goes with you.#
 RIKER: Worf, it's just a game. A little friendly competition, You work up a sweat, you have a few laughs, and you make new friends.#
-RIKER: I hope so, for their sake. (The team go down another corridor, then the lights go out. Riker activates panel 40271)) RIKER: Computer. There's a power reduction in section L-Ninety Four. Explain.#
+RIKER: I hope so, for their sake.#
+RIKER: Computer. There's a power reduction in section L-Ninety Four. Explain.#
 RIKER: Tell me what it's supposed to be, then I'll give you my opinion.#
-RIKER: Is that what those are? RIKER: Keep notes. This project might turn out to be of interest to scholars in the future.#
+RIKER: Is that what those are?#
+RIKER: Keep notes. This project might turn out to be of interest to scholars in the future.#
 RIKER: Well of course. Think about it. A blind man teaching an android how to paint? That's got to be worth a couple of pages in somebody's book.#
 RIKER: You look like you're packing to leave forever.#
 RIKER: Is that someone I should know of?#
@@ -833,7 +837,8 @@ RIKER: This is Commander Riker, go ahead.#
 RIKER: On my way. Data, you've got the Bridge. Inform the Captain.#
 RIKER: Status, Ensign?#
 RIKER: If that reading is right, there is no seal. Give me lab interior image.#
-RIKER: Magnify. (The bell jar flares again, and the light gets brighter and pulses more quickly) RIKER: Picard, this is Riker.#
+RIKER: Magnify.#
+RIKER: Picard, this is Riker.#
 RIKER: Hold off. Impossible, Captain.#
 RIKER: It killed Malencon.#
 RIKER: Their range of influence appears to be concentrated in the Medical Lab, Captain.#
@@ -852,7 +857,7 @@ RIKER: What's our position, Geordi?#
 RIKER: Thank you, Captain, you're right. I wouldn't miss this for anything.#
 RIKER: Aldea. Tasha, I'm surprised you haven't heard the stories about Aldea, the wondrous mythical world. Like Atlantis of ancient Earth or Neinman of Xerxes Seven. Advanced culture, centuries old. Self-contained, peaceful. Incredible technical sophistication providing the daily needs for all the citizens, so that they could turn themselves over to art and culture.#
 RIKER: That's the myth. Somehow, as the legend goes, the Aldeans were able to cloak their planet in darkness and go unseen by marauders, and other hostile passers-by who might rob and plunder.#
-RIKER: It's Aldea, Captain. It has to be. Captain's log, stardate 41509.1. Either by chance or intent, we've been led to the planet Aldea, which appeared out of nowhere, hidden behind a sophisticated shielding device.#
+RIKER: It's Aldea, Captain. It has to be.#
 RIKER: How do you know#
 RIKER: Now we know who placed the bread crumbs. We're not here by accident.#
 RIKER: It seems an equitable code.#
@@ -914,7 +919,7 @@ RIKER: It's Talarian.#
 RIKER: A long way from home.#
 RIKER: I'll prepare an away team.#
 RIKER: Data, Geordi, let's go.#
-RIKER: Agreed. It smells like a trap. Let's go. Captain's log, stardate 41503.7. We have entered the Neutral Zone, where a Talarian freighter has been severely damaged in a battle. I have sent an away team to investigate.#
+RIKER: Agreed. It smells like a trap. Let's go.#
 RIKER: What exactly does this device do?#
 RIKER: That means it doesn't have much range.#
 RIKER: Set phasers on stun. Let's be ready for anything. Energise.#
@@ -931,7 +936,7 @@ RIKER: We've reached the core, Captain.#
 RIKER: Is there any other way around?#
 RIKER: Agreed. Captain, Data's gone ahead.#
 RIKER: This is Commander Riker of the USS Enterprise. Do you hear me?#
-RIKER: We're about to force the door. (Data makes the gap big enough for Riker to step through into the compartment)#
+RIKER: We're about to force the door.#
 RIKER: Klingons.#
 RIKER: We'll handle the formalities later. Right now we have to get off this ship. Are there any others survivors?#
 RIKER: Check him out.#
@@ -1023,7 +1028,7 @@ RIKER: Explain.#
 RIKER: How is it moving, Data?#
 RIKER: Then what's causing it to move?#
 RIKER: No sign of intelligence, no brain as we know it, yet evidence of thought, Mister Data?#
-RIKER: Trouble. Captain's log, supplemental. While on a mission to rescue survivors from an unexplained shuttle crash, the away team has encountered a strange creature which seems able to assume different forms, including one which resembles humanoid.#
+RIKER: Trouble.#
 RIKER: I am Commander William Riker of the USS Enterprise.#
 RIKER: We mean you no harm. We have injured crewmen in the shuttlecraft. We need to get to them. May we pass?#
 RIKER: Preserving life, all life, is very important to us.#
@@ -1096,7 +1101,7 @@ RIKER: A pleasure, Mrs. Manheim.#
 RIKER: Which begins to explain what happened.#
 RIKER: Why this place? Why Vandor?#
 RIKER: How long does he have?#
-RIKER: Yes, but without his help, I'm not sure we'll be able to pose any intelligent questions, let alone come up with any solutions. (The turbolift door opens, and Picard, Data and Riker are about to enter)#
+RIKER: Yes, but without his help, I'm not sure we'll be able to pose any intelligent questions, let alone come up with any solutions.#
 RIKER: What was that?#
 RIKER: This is where we started, if we are us.#
 RIKER: We've discovered the second lab is on the far side of the planet, completely destroyed. Unable to determine what caused it. Otherwise, very little to clarify the situation.#
@@ -1128,6 +1133,7 @@ RIKER: It could be one of those ships that was orbiting Dytallix.#
 RIKER: There's no proof of anything.#
 RIKER: Subversion? Personally, I don't believe this conspiracy theory.#
 RIKER: But we have no facts. We have to assume the explosion was an accident.#
+RIKER: But we can't be certain.#
 RIKER: Why hasn't anybody discovered this before?#
 RIKER: This could be a prelude to an invasion. But who's behind it?#
 RIKER: Are you suggesting that we warp over to Starfleet headquarters and demand to know what's going on?#
@@ -1248,11 +1254,12 @@ RIKER: I'm not surprised. How did you respond?#
 RIKER: Yes, indeed. With his mother gone, who will see to his studies?#
 RIKER: And who will tuck him in at night?#
 RIKER: Difficult decision. Yes, I can do that.#
-RIKER: Above, look out! (An alien with a metal mace attacks. Riker goes to help and knocks it out with a metal tube. Meanwhile a second 'monster' with an axe is giving Worf a run for his money. When it is finally defeated, Worf is so fired up he comes after Riker too) RIKER: The exercise is over!#
+RIKER: Above, look out!#
+RIKER: The exercise is over!#
 RIKER: At ease, Lieutenant!#
 RIKER: Exit Holodeck. You do this every day?#
 RIKER: I'll bet they are.#
-RIKER: Right behind you. Captain's log, Stardate 42193.6. We are on a long reach toward the Morgana Quadrant, a section of the galaxy which has yet to be visited by a manned Federation vessel. We are using the time to further detail the charts of this region.#
+RIKER: Right behind you.#
 RIKER: It appears, then disappears, then reappears. No predictable pattern, no sequence.#
 RIKER: There it is.#
 RIKER: Nothing?#
@@ -1272,7 +1279,8 @@ RIKER: I'm sure no one here has that in mind, sir.#
 RIKER: Complete your scans, Data. Let's not stay any longer than we have to.#
 RIKER: Might we have moved into another dimension?#
 RIKER: Aye, sir. Wesley, reverse our direction, set a course for the Cornelian star system. Impulse power.#
-RIKER: Engage. (We see the Enterprise whizz off, but nothing changes on the viewscreen) RIKER: Your engines have engaged, haven't they, Ensign?#
+RIKER: Engage.#
+RIKER: Your engines have engaged, haven't they, Ensign?#
 RIKER: We should be. We're on a reverse course.#
 RIKER: We must have come full circle, sir.#
 RIKER: Romulan!#
@@ -1282,19 +1290,20 @@ RIKER: Impossible.#
 RIKER: It's a Federation ship. NCC one three zero five dash E. It's the Yamato, our sister ship.#
 RIKER: You look doubtful, sir.#
 RIKER: Captain, request permission to board on the Yamato with an away team. Perhaps something we can find on board in the logs will help us figure out what happened.#
-RIKER: Worf, you're with me. Captain's log, supplemental. We remain like a fly in amber, trapped in the void. We have encountered a vessel which appears to be the USS Yamato. All its systems are shown as functioning, yet it seems devoid of life. Commander Riker is leading an away team. Hopefully, the answer lies over there.#
+RIKER: Worf, you're with me.#
 RIKER: Have you got a lock on that other ship?#
 RIKER: Can you put us on the bridge?#
 RIKER: Them? Who's them?#
 RIKER: Our sensors indicate no life forms.#
 RIKER: Agreed. Aft station, Lieutenant.#
 RIKER: Phasers on stun. Energise.#
-RIKER: This isn't the Bridge. Worf? (There's a peculiar noise, almost a scream, as Riker walks along. Then the sound of Worf, and he runs) RIKER: Halt! Don't fire.#
+RIKER: This isn't the Bridge. Worf?#
+RIKER: Halt! Don't fire.#
 RIKER: You heard me? I heard you. Transporter Chief, where do you show us over here?#
 RIKER: Captain, do you read me?#
 RIKER: Let's find a turbolift to the Bridge.#
 RIKER: This isn't a Federation ship. These walls aren't tritanium. It's close, but it's material beyond our technology. Let's get to the Bridge. There's got to be an answer to all of this somewhere.#
-RIKER: This Bridge should be four decks above us. What's going on here? (They return to the turbolift, and the door opens to reveal - the Bridge)#
+RIKER: This Bridge should be four decks above us. What's going on here?#
 RIKER: Wait a minute.#
 RIKER: If we go through there, where will we be?#
 RIKER: But we are on the Bridge.#
@@ -1402,12 +1411,12 @@ RIKER: But it is prudent.#
 RIKER: Phasers on stun, Mister Worf.#
 RIKER: I'm sure we won't. Energise.#
 RIKER: Engineering.#
-RIKER: We would like two torches. Head high? (Riva nods) And what else?#
+RIKER: We would like two torches. Head high?  And what else?#
 RIKER: Describe it.#
 RIKER: When will the emissaries arrive?#
 RIKER: And how long do you think the negotiations will take?#
 RIKER: We'll do our best.#
-RIKER: Riva! (Riker gets Riva out of the line of fire, but the Chorus are vapourised)#
+RIKER: Riva!#
 RIKER: Away team to Enterprise. Beam us up. Now!#
 RIKER: A total surprise. Apparently a member of one of the factions didn't like the idea of peace.#
 RIKER: How's it going?#
@@ -1417,7 +1426,7 @@ RIKER: You can beam the table and torches down now.#
 RIKER: It may be quite a while before the emissaries arrive. They'll be more cautious after the last incident.#
 RIKER: Deanna, I don't understand what he's going to do. How can he mediate without his interpreters? He won't even be able to talk to them.#
 RIKER: I'm still not comfortable leaving you here alone.#
-RIKER: Enterprise, four to beam up. Good luck. (They beam up, and Riva stands in front of the triangular table, to wait. First Officer's log, Stardate 42479.3. We leave the Solais system confident that Riva will help the Solari achieve a lasting peace.#
+RIKER: Enterprise, four to beam up. Good luck.#
 RIKER: Take us out of orbit.#
 RIKER: Have we got a fix on her?#
 RIKER: We'd better take a look. What kind of vessel is she?#
@@ -1451,7 +1460,7 @@ RIKER: Thank you. Commander Data, you have the bridge. Ensign Crusher, you're wi
 RIKER: Welcome aboard the Enterprise. I'm Commander William Riker, your First Officer. Those of you who are here as replacements will step outside follow Lieutenant Lewis. He will assign you to your crew quarters.  Ensign, you're here on the exchange programme. If you'll just follow Mister Crusher.#
 RIKER: It's nice to have you here, Ensign. There will be a briefing and indoctrination session in fifteen minutes.#
 RIKER: Yes, of course. If you'll just follow Mister Crusher.#
-RIKER: On the way. Phaser range] (Target practice involves shooting at moving coloured lights)#
+RIKER: On the way.#
 RIKER: Just positive ones, sir. Actually, I just welcomed Ensign Mendon on board. He certainly seems eager to please.#
 RIKER: That's probably a good idea.#
 RIKER: I don't recall hearing of a Federation officer serving ever on a Klingon vessel.#
@@ -1469,7 +1478,7 @@ RIKER: Yes, serpent worms. Would you like some?#
 RIKER: Not if I weaken first.#
 RIKER: That's certainly good to know. Would you like something to drink?#
 RIKER: Your sacrifice will not go unnoticed.#
-RIKER: These are the more palatable choices. (Riker offers Picard a jug of something rather solid-looking with tentacles)#
+RIKER: These are the more palatable choices.#
 RIKER: An emergency transponder?#
 RIKER: You suspect trouble?#
 RIKER: Sentiment, Lieutenant Worf?#
@@ -1572,7 +1581,7 @@ RIKER: You just want me to prove that Data is a mere machine. I can't do that be
 RIKER: I see. I have no choice but to agree.#
 RIKER: Computer, identify Riker, William T. Access code theta alpha two seven three seven, blue, enable.#
 RIKER: Access all available technical schematics on Lieutenant Commander Data.#
-RIKER: Your honour, there is only one issue, and one relevant piece of evidence. I call Lieutenant Commander Data. (Data goes to the witness chair and puts his hand on a scanner on the table)#
+RIKER: Your honour, there is only one issue, and one relevant piece of evidence. I call Lieutenant Commander Data.#
 RIKER: Your honour, we'll stipulate to all of this.#
 RIKER: Commander, what are you?#
 RIKER: Which is?#
@@ -1601,7 +1610,7 @@ RIKER: Captain, we've broken orbit and laid in a course for Daled Four. We will 
 RIKER: Data, you used a colloquialism.#
 RIKER: She seems too delicate for such a task.#
 RIKER: Guinan, I need your help. Could you step over here a minute?#
-RIKER:  Now, the first words out of your mouth are the most important. You may want to start with something like this. (Riker sits opposite Guinan) You are the most beautiful woman in the galaxy. But that might not work.#
+RIKER:  Now, the first words out of your mouth are the most important. You may want to start with something like this.  You are the most beautiful woman in the galaxy. But that might not work.#
 RIKER: You don't know how long I've longed to tell you that.#
 RIKER: Yes.#
 RIKER: Of us. Of what we might become.#
@@ -1646,6 +1655,7 @@ RIKER: So we just sit here and watch our ship disintegrate around us?#
 RIKER: I'll arrange an away team.#
 RIKER: You will lead it?#
 RIKER: Sir, we've had this conversation a hundred times.#
+RIKER: For as long as she lasts.#
 RIKER: Stay sharp, Mister O'Brien, I want to be able to pull them out of there at a moment's notice.#
 RIKER: Open hailing frequencies.#
 RIKER: Shields up! Go to Red Alert.#
@@ -1692,7 +1702,7 @@ RIKER: Including you.#
 RIKER: Captain, we've detected some sort of debris in a loose orbit.#
 RIKER: No, sir. I suggest we beam a section aboard for analysis.#
 RIKER: We've locked onto something with markings on it.#
-RIKER: Uncertain. Energise. (O'Brien beams a piece of curved metal construction aboard. He and Riker go to the pad and turn it's outer surface to face us. Lo and behold, a US flag and the letters NASA. The camera drools over it lovingly. Why couldn't it be ESA for once?)#
+RIKER: Uncertain. Energise.#
 RIKER: Yes sir. I think we have.#
 RIKER: Disintegrated? How?#
 RIKER: I don't believe this. That structure is surrounded by breathable air.#
@@ -1719,7 +1729,8 @@ RIKER: Save it. We're getting out of here.#
 RIKER: Our apologies, sir.#
 RIKER: Let's try that again.#
 RIKER: Let's find another way out of here.#
-RIKER: Excuse me. Say, I was wondering if you could tell me (But the man ignores him. Worf is pulling a slot machine away from the wall to test the paneling) RIKER: There's a good deal of structural integrity, Worf.#
+RIKER: Excuse me. Say, I was wondering if you could tell me#
+RIKER: There's a good deal of structural integrity, Worf.#
 RIKER: Granted.#
 RIKER: We don't have any. If we're going to get out of here, we're going to have to do it on our own. I'm going to get some answers out of that desk clerk.#
 RIKER: I want some answers.#
@@ -1749,7 +1760,7 @@ RIKER: Tell her no.#
 RIKER: What did she say?#
 RIKER: We're going to explore the rest of the hotel. We'll keep a comm. line open. You two go down to the lobby and see if there's anything that we've missed. You talk to the guests and try to find out who or what they are. I'll check out the rest of the floors.#
 RIKER: What did you find?#
-RIKER: It's all part of the novel. Don't interfere. (Mickey D shoots the bellboy in the back as he walks to the door. The customers scream)#
+RIKER: It's all part of the novel. Don't interfere.#
 RIKER: Riker to Enterprise.#
 RIKER: Yes, and Mickey D just walked out the door. How did he do that?#
 RIKER: In the novel. Right. How does it end?#
@@ -1768,7 +1779,8 @@ RIKER: Yes, sir. I understand.#
 RIKER: No. Don't want to come up short. You are keeping count?#
 RIKER: No, bet it all.#
 RIKER: We need some spreading around money, Data.#
-RIKER: Bet it all. RIKER: There you go. A little something for you, Ziggy. A little something for those cocktail waitresses. Why don't you run this outside, give it to the parking lot attendants.#
+RIKER: Bet it all.#
+RIKER: There you go. A little something for you, Ziggy. A little something for those cocktail waitresses. Why don't you run this outside, give it to the parking lot attendants.#
 RIKER: Here you go, Vanessa. A little something for you, too.#
 RIKER: When the train comes in, everybody rides.#
 RIKER: Now.#
@@ -1779,14 +1791,16 @@ RIKER: Enterprise, this is the away team. We're clear of the structure.#
 RIKER: Sir.#
 RIKER: Very strange experience. Puzzling. I still can't comprehend how Colonel Richey's vessel could have travelled out that far. Not on it's own, at any rate.#
 RIKER: None of it makes any sense.#
-RIKER: Come on in. (Data and Geordi arrive with a portable stove, and Pulaski follows with a flask. Finally, Worf) RIKER: Excellent. Exactly what I need. Ah, Mister Worf. And the good Doctor, bearing gifts.#
+RIKER: Come on in.#
+RIKER: Excellent. Exactly what I need. Ah, Mister Worf. And the good Doctor, bearing gifts.#
 RIKER: No, you're right, Data. The ship's computer would be more efficient, but it wouldn't allow for the subtlety needed for great cooking. It would give you all of the ingredients in pre-determined measurements, but wouldn't allow for flair or individuality. And Data, as we both know, flair is what marks the difference between artistry and mere competence.#
 RIKER: Yes, I have my father to thank.#
 RIKER: No, he hated it. That's why he left the chore to me.#
 RIKER: There were only the two of us. I never knew my mother. She died when I was very young.#
 RIKER: On our last stop.#
 RIKER: Yes.#
-RIKER: Owon. For you, Data, something special. Don't be afraid. They won't bite you. And for you, Mister Worf. (Geordi takes the first mouthful, and starts coughing. RIKER: A cook's only as good as his ingredients.#
+RIKER: Owon. For you, Data, something special. Don't be afraid. They won't bite you. And for you, Mister Worf.#
+RIKER: A cook's only as good as his ingredients.#
 RIKER: Go ahead.#
 RIKER: Right away, sir.#
 RIKER: A shuttlecraft? How's that possible? I thought we were the only manned Federation vessel out here.#
@@ -1797,7 +1811,8 @@ RIKER: Prepare to lock on tractor beam.#
 RIKER: Set automatic locking device. Alert Shuttlebay two.#
 RIKER: You're with me, Mister Worf.#
 RIKER: It's a Federation shuttlecraft, all right.#
-RIKER: NCC one seven zero one D USS Enterprise, shuttlecraft five. (They look over to a shuttlecraft already parked in the bay. Pulaski and a medic enter) RIKER: NCC one seven zero one D USS Enterprise shuttlecraft five.#
+RIKER: NCC one seven zero one D USS Enterprise, shuttlecraft five.#
+RIKER: NCC one seven zero one D USS Enterprise shuttlecraft five.#
 RIKER: Captain?#
 RIKER: Are you on the Bridge?#
 RIKER: Well. right now I think you should be in Shuttlebay two.#
@@ -1824,7 +1839,7 @@ RIKER: One of your strengths is your ability to evaluate the dynamics of a situa
 RIKER: What we're facing is neither a person nor a place. At least not yet. It's time.#
 RIKER: I wouldn't have put it exactly like that.#
 RIKER: Your Persian flaw.#
-RIKER: Well, at least the waiting's over. Captain's log, supplemental. We have apparently intersected with something.#
+RIKER: Well, at least the waiting's over.#
 RIKER: Bridge.#
 RIKER: I think we're being probed.#
 RIKER: Agreed.#
@@ -1936,7 +1951,7 @@ RIKER: Well, it's free.#
 RIKER: Both.#
 RIKER: So who have you got so far?#
 RIKER: Completely irrelevant. These people are professionals. If there's a personality conflict, you're in charge, you settle it.#
-RIKER: Seeing the look on his face. I'll get you another drink. (goes to the bar) Two more.#
+RIKER: Seeing the look on his face. I'll get you another drink.  Two more.#
 RIKER: Thank you.#
 RIKER: Family emergency.  You don't look like a person who came here to relax.#
 RIKER: Do you think you were right?#
@@ -1980,7 +1995,7 @@ RIKER: Computer locate Captain Picard.#
 RIKER: All stop.#
 RIKER: We think we can assume the Captain is aboard that shuttle.#
 RIKER: Take it easy, Wes. We're going to find him. I want to begin a methodical search. Worf, set sensors on maximum scan. Data, use our present location as a centre. Plot a search pattern from these coordinates to cover the most area in the least time.#
-RIKER: Engage, Mister Crusher. First officer's log, stardate 42761.3. We have not been able to determine why, or how, Captain Picard left the Enterprise. We can't even be certain he is in the missing shuttle, although that is the assumption on which we are proceeding. For the last six hours, we have been searching without success.#
+RIKER: Engage, Mister Crusher.#
 RIKER: Widen the area.#
 RIKER: Computer, locate Captain Picard.#
 RIKER: Which is?#
@@ -2009,7 +2024,7 @@ RIKER: You brought us here, you exposed us to them, and you cost us the lives of
 RIKER: Sir, if we're going to have further dealings with the Borg now or in the future, I think that we should find out all we can about them.#
 RIKER: In my opinion, that's the only choice.#
 RIKER: Mister Worf, transporter room three. Data.#
-RIKER: Oh, I don't know, Guinan. They paid us a visit. It seems only fair that we return the courtesy. Captain's log, supplemental. We have been attacked without provocation by an alien race which Guinan calls the Borg. It appears that we have neutralised their vessel. Commander Riker is leading an away team in an attempt to learn more about them.#
+RIKER: Oh, I don't know, Guinan. They paid us a visit. It seems only fair that we return the courtesy.#
 RIKER: Set phasers on stun. Be ready to increase power in case we need it. Energise.#
 RIKER: I wonder why they don't react to us, or why the Enterprise didn't read any life signs, especially with this many of them.#
 RIKER: Captain.#
@@ -2049,7 +2064,8 @@ RIKER: I know, Data. I know.#
 RIKER: Slow to impulse speed.#
 RIKER: Viewer.#
 RIKER: Hold fast. Data?#
-RIKER: On screen. RIKER: I am First Officer William Riker of the USS Enterprise. We're responding to your distress signal.#
+RIKER: On screen.#
+RIKER: I am First Officer William Riker of the USS Enterprise. We're responding to your distress signal.#
 RIKER: What is your problem?#
 RIKER: Aren't we all. But you sent out a Mayday?#
 RIKER: Do you need help?#
@@ -2128,7 +2144,8 @@ RIKER: Go ahead, Bridge.#
 RIKER: Be ready.#
 RIKER: Geordi did it.#
 RIKER: We can't leave Geordi behind. I want the Pakleds on that screen and I want them now.#
-RIKER: Do it. RIKER: This is the Enterprise. Return our personnel or face immediate reprisal.#
+RIKER: Do it.#
+RIKER: This is the Enterprise. Return our personnel or face immediate reprisal.#
 RIKER: Are you prepared to use them?#
 RIKER: We don't have time for this. You want power? Here's power. Riker to Ensign Gomez.#
 RIKER: Start firing countdown from twenty four.#
@@ -2152,7 +2169,7 @@ RIKER: No extraterrestrial source ever used this code?#
 RIKER: Nothing for Ficus.#
 RIKER: Lost sheep.#
 RIKER: Now we know what triggered the SOS.#
-RIKER: On my way. Captain's log, stardate 42827.3. Commander Riker has reached the caverns, where he is making preparations to begin the evacuation.#
+RIKER: On my way.#
 RIKER: O'Brien, I think that third wave should be in position.#
 RIKER: I'm sorry, sir. It was either this or arguing till hell froze over.#
 RIKER: Everybody up here.#
@@ -2162,7 +2179,8 @@ RIKER: I thought I had.#
 RIKER: Pleased to meet you, ma'am.#
 RIKER: And what about the men?#
 RIKER: Sir?  That's the last thing I expected.#
-RIKER: Sir, I think I'll stay and give her some help. (Picard and Worf leave. Riker goes to where Brenna is using hay to clean up what animals leave lying around naturally) RIKER: That isn't necessary. The ship will clean itself.#
+RIKER: Sir, I think I'll stay and give her some help.#
+RIKER: That isn't necessary. The ship will clean itself.#
 RIKER: As the First Officer, I feel it's my responsibility to show you all the amenities.#
 RIKER: You don't have to do that.#
 RIKER: I can see why your father wants to marry you off.#
@@ -2185,7 +2203,7 @@ RIKER: It's not a question of harm. One William Riker is unique, perhaps even sp
 RIKER: Human beings have other ways of doing that. We have children.#
 RIKER: Yes, sir. Lieutenant La Forge. Prepare a technical support away team. Meet me in transporter room three.#
 RIKER: The repairs are almost complete. I wish there was something more we could do.#
-RIKER: Out of the question. (so an aide stuns Kate and Riker, and they are dragged off through#
+RIKER: Out of the question.#
 RIKER: Is there any reason why it shouldn't be?#
 RIKER: Lied to you?#
 RIKER: I think, I don't remember.#
@@ -2199,7 +2217,7 @@ RIKER: So what did you think of the Antedeans, Wesley?#
 RIKER: We have you on our viewer, pilot.#
 RIKER: It looks like it's back into that dress uniform, sir.#
 RIKER: I'm sorry they startled you, Mrs. Troi. They're Antedean delegates. They're being stored here temporarily.#
-RIKER: Mrs.Troi, since this obviously significant to you, I'll (totally fail to lift the case) I'll carry it.#
+RIKER: Mrs.Troi, since this obviously significant to you, I'll  I'll carry it.#
 RIKER: Just down this corridor.#
 RIKER: Glad to help.#
 RIKER: Exactly the opposite. She knows what's in your mind and she lets you know what's on hers.#
@@ -2264,21 +2282,23 @@ RIKER: I guess we've piqued their interest now.#
 RIKER: How did you like command?#
 RIKER: And we'll experience actual battle conditions?#
 RIKER: I prefer brains over brawn as well. I think it's a waste of effort to test our combat skills. It's a minor province in the make-up of a starship captain.#
-RIKER: Mister Kolrami, when I agree to do something. I do it. Do you care to surrender now, Captain? f#
+RIKER: Mister Kolrami, when I agree to do something. I do it. Do you care to surrender now, Captain?#
 RIKER: Lieutenant?#
 RIKER: You've heard of the simulation aboard the Hathaway?#
 RIKER: Anticipating the worst, do you think they can be whipped into shape in forty eight hours?#
-RIKER: Am I disturbing you? ;#
+RIKER: Am I disturbing you?#
 RIKER: You know of the simulation. What do you think?#
 RIKER: It's just designed to be an exercise.#
 RIKER: You mean besides pride. Well, in this case it doesn't matter. I probably haven't got a chance.#
 RIKER: Slim. The Hathaway's most sophisticated weapon system, even in a computer mock-up, can't hope to defeat the Enterprise.#
 RIKER: You're out-manned, you're out-gunned, you're out-equipped. What else have you got?#
 RIKER: Join me.#
+RIKER: It's complete, but I would like to request an addition.#
 RIKER: With your permission, I would like Acting Ensign Crusher aboard for educational observation.#
 RIKER: It appears we will have some time before reaching Braslota. I was wondering if you'd agree to play me in a game of Strategema.#
 RIKER: I enjoy a challenge.#
 RIKER: Thank you.#
+RIKER: Nope.#
 RIKER: No.#
 RIKER: Nah.#
 RIKER: Sure, Kolrami is the best ever at Strategema. Just to get to play him is a privilege.#
@@ -2287,16 +2307,21 @@ RIKER: And if I don't?#
 RIKER: I'm afraid so.#
 RIKER: Yes. Congratulations.#
 RIKER: I may get over there and want to come right home.#
-RIKER: Ah, you're wrong, Mister Worf. It's fantastic. And it's ours. Mister Worf.#
+RIKER: Ah, you're wrong, Mister Worf. It's fantastic. And it's ours.  Mister Worf.#
 RIKER: Worf, this is a battle simulation. You're my Tactical Officer. I've discussed this with Geordi and we agreed. You need to be at my side.#
-RIKER: Attention, crew of the USS Hathaway. This is your Captain. Over the next two days, you might lose a lot of sleep, but with your skill and your stamina, we'll have this old lady ready to fly. I want hourly progress reports from all stations. Riker out. [Hathaway Bridge] RIKER: If you can pull that off, Mister Worf, it might just give us the edge we're looking for.#
+RIKER: Attention, crew of the USS Hathaway. This is your Captain. Over the next two days, you might lose a lot of sleep, but with your skill and your stamina, we'll have this old lady ready to fly. I want hourly progress reports from all stations. Riker out.#
+RIKER: Nice job, Geordi#
+RIKER: Would you like to transfer back#
+RIKER: Wes, remember our purpose is to improvise,#
+RIKER: If you can pull that off, Mister Worf, it might just give us the edge we're looking for.#
 RIKER: So unless someone runs to a window and looks out#
 RIKER: It's that important?#
 RIKER: What is that?#
 RIKER: Wes?#
 RIKER: You went back to the Enterprise for that? Wes, you cheated.#
 RIKER: Assuming you can, can you regulate the reaction?#
-RIKER: You're better than good. Great. Brilliant. It's going to be fun. Carry on. [Data's quarters]#
+RIKER: You're better than good. Great. Brilliant. It's going to be fun. Carry on.#
+RIKER: The simulation begins in one hour.#
 RIKER: I think that deserves some kind of explanation.#
 RIKER: That's not long enough for an escape, but used as a surprise it may give a strategic advantage.#
 RIKER: And if your theory fails to pay off?#
@@ -2309,8 +2334,8 @@ RIKER: There never are, Lieutenant. I'm going to trust your expertise. Secure yo
 RIKER: With what? We have no offensive weapons.#
 RIKER: When Bractor closes in, we'll hit our warp drive and take our chances.#
 RIKER: We have a limited, two-second warp capability.#
-RIKER: Waiting for you to pull another rabbit out of your hat. [Observation lounge]#
-RIKER: What the hell. Nobody said life was safe.[Observation lounge]#
+RIKER: Waiting for you to pull another rabbit out of your hat.#
+RIKER: What the hell. Nobody said life was safe.#
 RIKER: We'll only need few minutes, Mister Worf, because you're going to prepare another surprise for them.#
 RIKER: Data, you beat him!#
 RIKER: Explain.#
@@ -2320,7 +2345,7 @@ RIKER: I wasn't ready to leave here anyway.#
 RIKER: Over here, Doctor.#
 RIKER: I was walking along minding my own business, doing a simple geological sweep. Something stuck me in the leg.#
 RIKER: No. Just a little numb, that's all.#
-RIKER: This is the strangest feeling. My whole leg just went dead. Captain's log, Stardate 42976.1. During a geological survey on Surata Four, Commander Riker has become infected by an unidentified microbe.#
+RIKER: This is the strangest feeling. My whole leg just went dead.#
 RIKER: Captain.#
 RIKER: The Doctor said she was getting bored. I just thought I'd give her a challenge.#
 RIKER: That's why the transporter's biofilters weren't able to extract it.#
@@ -2337,9 +2362,9 @@ RIKER: You, of all people, should know.#
 RIKER: As the First Officer on this ship, I have to set an example.#
 RIKER: Now more than ever. Deanna, facing death is the ultimate test of character. I don't want to die, but if I have to, I'd like to do it with a little pride.#
 RIKER: You bet. Dying is bad enough but, to lose my sense of humour? Forget it.#
-RIKER: I haven't given up yet. (But his eyes close and the machine beeps a warning as his indicators drop into the red. Pulaski runs in)#
+RIKER: I haven't given up yet.#
 RIKER:  Tasha? Data? Geordi? Worf? Anybody?#
-RIKER: Hello! (He finds Data whistling 'Pop goes the Weasel', and finishes the tune for him)#
+RIKER: Hello!#
 RIKER: There are some puzzles down on the planet that the Captain wants answered. He suggested that I take you with me on the away team I'll be leading.#
 RIKER: Yes. When the captain suggested you, I looked up your record.#
 RIKER: Then your rank of Lieutenant Commander is honorary?#
@@ -2390,7 +2415,7 @@ RIKER: Why haven't we heard anything about that?#
 RIKER: Superior?#
 RIKER: I think I'll summon my Science Officer.#
 RIKER: Riker to Security. Guest quarters seventeen. Emergency.#
-RIKER: Who are you? (The Ferengi let fly energy bolts from their whips, knocking the three men out. Actually, it takes two jolts to knock out Riker)#
+RIKER: Who are you?#
 RIKER: Help! Data, something's got me!#
 RIKER: No! No, don't!#
 RIKER: Yes. Set auto-destruct sequence. Now.#
@@ -2459,7 +2484,7 @@ RIKER: I've switched to manual control of the air handling system.#
 RIKER: Worf, prepare to activate gamma pulse generators.#
 RIKER: One sure way into the record books, Doctor.#
 RIKER: Yourself, Data?#
-RIKER: Hold your position. (The neutron star goes Foom! and Stubbs' computer console lights up with masses of incoming data)#
+RIKER: Hold your position.#
 RIKER: Shields up, maximum strength.#
 RIKER: Open a frequency to Colony Operations.#
 RIKER: Helm, put us in high equatorial orbit. Scan for survivors.#
@@ -2483,7 +2508,7 @@ RIKER: Somehow, they're different. Let's get back to the ship. We'll take them w
 RIKER: I'm sorry, but we're finished here. Now, I can allow time for you and Kevin to pack.#
 RIKER: Surely you don't want to remain here? How can you take care of yourselves?#
 RIKER: You'll be protected on our ship. You could still be in danger here on Rana.#
-RIKER: All right. I can't make you come with us. (takes off his comm. badge) Are you familiar with one of these? We'll be in the system for the next several days at least. If you reconsider, please contact us.#
+RIKER: All right. I can't make you come with us.  Are you familiar with one of these? We'll be in the system for the next several days at least. If you reconsider, please contact us.#
 RIKER: There's a fusion reactor in the house, good for another five years of power. But their water table is tainted. They have nothing to feed themselves except for a small garden.#
 RIKER: They were adamant.#
 RIKER: Data, give us a visual. Magnification factor fifty.#
@@ -2512,12 +2537,12 @@ RIKER: The unknown vessel has been destroyed. The Uxbridges have been destroyed.
 RIKER: Captain, may I speak with you?#
 RIKER: We've been observing the planet very carefully for three hours. We've seen nothing. I have the feeling you're waiting for something to happen.#
 RIKER: Will he return to the planet?#
-RIKER: Helm, break orbit. Full impulse. Captain's log, Stardate 43153.7. We are departing the Rana system for Starbase One Three Three. We leave behind a being of extraordinary power and conscience. I am not certain if he should be praised or condemned. Only that he should be left alone.#
+RIKER: Helm, break orbit. Full impulse.#
 RIKER: Enough to power a small phaser bank, a subspace relay station, or#
 RIKER: All we need now is power.#
 RIKER: Doctor, be careful.#
 RIKER: Palmer is missing. A scan of the planet shows Mintakan life forms only, no humans. However#
-RIKER: I have a suggestion. First officer's log, Stardate 43174.2. Counsellor Troi and I are beaming down to Mintaka Three to locate Doctor Palmer and to determine the extent of the cultural contamination. Doctor Crusher has temporarily altered our features and skin colour. She's also implanted subcutaneous communicators so that any transmissions we receive will be inaudible to the Mintakans.#
+RIKER: I have a suggestion.#
 RIKER: Riker to Enterprise. Do you hear me?#
 RIKER: This man's taken, get your own?#
 RIKER: What kind of services?#
@@ -2634,7 +2659,7 @@ RIKER: Head injury?#
 RIKER: Will it affect Geordi the same way?#
 RIKER: You are on board the Federation Starship Enterprise. We're treating your injuries. How long were you down on Galorndon Core? Do you understand me?#
 RIKER: We need to know if there are other survivors on the surface.#
-RIKER: Do you have a mother ship who should be advised of your condition? ;#
+RIKER: Do you have a mother ship who should be advised of your condition?#
 RIKER: Which suggests that he wasn't.#
 RIKER: Something, anything to can cut through the storm. Some way to get a signal through to him.#
 RIKER: Including the Neutral Zone border.#
@@ -2704,7 +2729,8 @@ RIKER: It's worth a look.#
 RIKER: Data, Worf.#
 RIKER: Looks like these Gatherers weren't too discriminating in what they steal.#
 RIKER: Powerful enough. We came to talk!#
-RIKER: We're here to establish a dialogue, Worf. RIKER: Data, tell me about noranium. It vaporises at?#
+RIKER: We're here to establish a dialogue, Worf.#
+RIKER: Data, tell me about noranium. It vaporises at?#
 RIKER: Thank you, Data.#
 RIKER: Three, two, one, now!#
 RIKER: Enterprise, four to beam up.#
@@ -2770,7 +2796,8 @@ RIKER: It is now. You're about to commit a murder.#
 RIKER: The wars are over, Yuta.#
 RIKER: You're right, I can't. Because I've seen the part of you that regrets what you've become. Listen to me. You don't have to do this any more.#
 RIKER: You do.#
-RIKER: Stop. (The first shot is a mild stun. Yuta staggers, then reaches for Chorgan again. The next shot is higher. Then Riker puts the phaser up to full power) RIKER: Yuta, don't do this.#
+RIKER: Stop.#
+RIKER: Yuta, don't do this.#
 RIKER: In the meantime?#
 RIKER: Sounds pretty routine.#
 RIKER: I'll pass that along to the crew, Captain.#
@@ -2849,7 +2876,7 @@ RIKER: The cargo bays.#
 RIKER: That should have put our boy to sleep.#
 RIKER: Could be he's planning to enter shuttlebay two from outside the Enterprise, bypassing the security guards.#
 RIKER: Go to backup systems.#
-RIKER: That was his plan all along. First officer's log, supplemental. We are continuing to repair damage to the ship's sensors following the escape of the Angosian prisoner, Danar. He is still at large.#
+RIKER: That was his plan all along.#
 RIKER: Engineering, I'm getting readings on Tactical. Are we back up?#
 RIKER: Mister Worf, you are personally responsible for the Captain's safety.#
 RIKER: Success, Captain?#
@@ -2942,7 +2969,8 @@ RIKER: I'm sure I'll find everything I need.#
 RIKER: Mrs. Apgar.#
 RIKER: It's late. I am tired.#
 RIKER: Ma'am, excuse me. I really think that you ought to leave.#
-RIKER: Doctor. (Apgar slaps Manua, then takes a swing at Riker, who sways out of the way. Apgar falls against the bed) RIKER: Doctor, believe me. This has been a terrible mistake.#
+RIKER: Doctor.#
+RIKER: Doctor, believe me. This has been a terrible mistake.#
 RIKER: I didn't see Doctor Apgar until the following morning when he asked to see me alone. Commander La Forge returned to the Enterprise. Resume programme.#
 RIKER: Doctor, this is going to have no impact on my report. It was a misunderstanding of the worst kind. We could straighten the entire thing out if you would ask Mrs. Apgar to join us.#
 RIKER: Doctor, I#
@@ -3010,7 +3038,6 @@ RIKER: Acknowledged. Captain Picard is safely aboard. Fire phasers.#
 RIKER: One Klingon bird of prey off the starboard bow.#
 RIKER: Sir, Lieutenant Castillo is the last surviving senior officer. He will have limited support from Ops, no Tactical, reduced staff in Engineering.#
 RIKER: Certainly, history never meant for this ship to go into battle without her captain.#
-RIKER: Number and type of ships, Mister Crusher?#
 RIKER: They shouldn't be so confident after the pasting we gave them on Archer Four.#
 RIKER: Photon torpedoes ready.#
 RIKER: Damage control teams, deck fourteen.#
@@ -3028,7 +3055,8 @@ RIKER: I take it he found something wrong in Engineering?#
 RIKER: But he wouldn't listen.#
 RIKER: His style of command is just different. Klingons believe in obedience and a strict formality of command.#
 RIKER: Commander. Captain's mess?#
-RIKER: Resume. RIKER: Your knowledge of our systems and procedures is very impressive, Sir. I would like to make one suggestion, sir.#
+RIKER: Resume.#
+RIKER: Your knowledge of our systems and procedures is very impressive, Sir. I would like to make one suggestion, sir.#
 RIKER: When I served aboard the Pagh, the hardest part for me was recognising and adapting to the demands of the crew. They needed an iron hand. I imagine it must be very difficult for you to work with a crew that is so different. I would be happy to guide you in that regard, if it would be helpful.#
 RIKER: This is not a Klingon ship, sir.#
 RIKER: The Commander certainly appears to have the crew on its toes#
@@ -3241,18 +3269,18 @@ RIKER: We'll have you back at Betazed in plenty of time to meet up with the Acad
 RIKER: Yes, Captain?#
 RIKER: Yes, sir.#
 RIKER: I think it's around here somewhere.#
-RIKER: Muktok live for hundreds of years. Here it is. (A low growing plant with a fluffy purple flower that chimes when you shake it)#
-RIKER: I remember a certain junior officer meeting a very serious psychologist. The best part about being assigned to Betazed. (as they kiss, they don't notice the flamboyantly dressed woman, and a tall man carrying picnic baskets)#
+RIKER: Muktok live for hundreds of years. Here it is.#
+RIKER: I remember a certain junior officer meeting a very serious psychologist. The best part about being assigned to Betazed.#
 RIKER: And you even brought provisions. Very thoughtful.#
 RIKER: Very tasty. So tell us, Lwaxana. The last time we met, you were looking for a husband. Did you have any luck?#
 RIKER: Try the oskoid. Very different.#
 RIKER: What the?#
 RIKER: DaiMon Tog, I thought the Krayton left orbit hours ago.#
-RIKER: No, Tog! (And they all disappear. Mr. Homn returns, eating berries, and looks around somewhat bemused)#
+RIKER: No, Tog!#
 RIKER: Lwaxana? Deanna?#
 RIKER: From the smell of things, I'd say we're aboard a Ferengi vessel.#
 RIKER: Tog must have missed that chapter in the Ferengi book of Etiquette.  Enterprise? Must be too far out of range.#
-RIKER: Well, she's bought us some time. Let's make the most of it. (to the chess players) I wouldn't do that.#
+RIKER: Well, she's bought us some time. Let's make the most of it.  I wouldn't do that.#
 RIKER: The hell you don't. You're two moves away from being mated. See, you should have listened to me. Now you've only got one possible escape. That wasn't it.#
 RIKER: You should've moved the bishop.#
 RIKER: Don't listen to me. Forget the fact that I beat you in thirty moves.#
@@ -3351,7 +3379,7 @@ RIKER: When it comes to this ship and this crew, you're damned right I play it s
 RIKER: They're some kind of magnetometric guided charges.#
 RIKER: Damage report?#
 RIKER: Fire up the engines. Half impulse until we clear the nebula, then punch it to warp nine.#
-RIKER: It's no use. They've already adapted to the new frequencies. (Riker tries hand to hand, and gets thrown across the Bridge. Worf is pushed off with one hand. A third Borg appears next to Picard, grabs him and beams away with him. The other Borg then vanish, the dead one leaving a dark stain on the carpet)#
+RIKER: It's no use. They've already adapted to the new frequencies.#
 RIKER: Maintain pursuit.#
 RIKER: Stay with them. Riker to O'Brien. Can you get a fix on the Captain?#
 RIKER: Senior officers, report to the Bridge.#
@@ -3359,7 +3387,7 @@ RIKER: Earth.#
 RIKER: How soon before the deflector's ready?#
 RIKER: I'm leading an away team over there to get the Captain back. We'll find a way to bring them out of warp. Ensign Crusher, you continue to assist Mister La Forge. Commander Shelby, you'll take the Bridge and coordinate with Starfleet. Data, Worf, Doctor, you're with me.#
 RIKER: Those are my orders, Commander.#
-RIKER: Commander Shelby, you'll lead the away team. Make it so. First officer's log, stardate 43998.5. Our pursuit of the Borg continues on a course that will take us to the very core of the Federation. The devastation they could bring is beyond imagination.#
+RIKER: Commander Shelby, you'll lead the away team. Make it so.#
 RIKER: We've got fifty eight minutes before we have to power down and disengage.#
 RIKER: Proceed. Commander#
 RIKER: I strongly recommend redeploying all available defences to protect sector zero zero one, Admiral.#
@@ -3378,10 +3406,10 @@ RIKER: This is our only chance to destroy them. If they get back into warp, our 
 RIKER: We can't maintain power. We don't have the time. Prepare to fire.#
 RIKER: Belay that order, Lieutenant. There's no time.#
 RIKER: On screen.#
-RIKER: Mister Worf. Fire. To Be Continued#
+RIKER: Mister Worf. Fire.#
 RIKER: How do we do that?#
 RIKER: This is our only chance to destroy them. If they get back into warp, our weapon is useless.#
-RIKER: Mister Worf? Fire. And now, the conclusion.#
+RIKER: Mister Worf? Fire.#
 RIKER: Cease fire.#
 RIKER: They couldn't have adapted that quickly.#
 RIKER: As we anticipated, the blast burned out our main navigational deflector. We also have damage to our shields and our reactor core.#
@@ -3642,7 +3670,8 @@ RIKER: Where is she?#
 RIKER: What the hell happened here?#
 RIKER: Worf, get these men back to the Enterprise.#
 RIKER: Data, you're with me.#
-RIKER: Ishara! (She fires at Riker and Data stuns her. Then he goes to the control panel and stops the overload) RIKER: What was she doing?#
+RIKER: Ishara!#
+RIKER: What was she doing?#
 RIKER:  Set to kill.#
 RIKER: You're not in a position to dictate to anybody. She attacked two Federation officers.#
 RIKER: Don't talk about legal rights. Your jurisdiction is based entirely on the threat of violence.#
@@ -3657,7 +3686,7 @@ RIKER: In all trust, there is the possibility of betrayal. I'm not sure you were
 RIKER: I don't think anybody ever is.#
 RIKER: Without trust, there's no friendship, no closeness. None of the emotional bonds that make us what we are.#
 RIKER: Every single time.#
-RIKER: Perhaps. (Data walks back out into the corridor, and looks at the proximity chip that Ishara gave him)#
+RIKER: Perhaps.#
 RIKER: Mister Data?#
 RIKER: Did Starfleet mention any Klingon ships in this sector?#
 RIKER: All stop, Mister Crusher.#
@@ -3680,7 +3709,7 @@ RIKER: What about energy readings?#
 RIKER: Riker here.#
 RIKER: Transporter Room.#
 RIKER: Beverly?#
-RIKER: Captain? (He catches sight of his reflection. There's a little grey in the beard)#
+RIKER: Captain?#
 RIKER: Confused.#
 RIKER: What has happened? What happened to Sickbay? To you? To me?#
 RIKER: Captain? I am Commander William T Riker. What is going on here?#
@@ -3728,11 +3757,12 @@ RIKER: Well, it made an impact alright.#
 RIKER: Jean-Luc.#
 RIKER: Deanna, who's his mother?#
 RIKER: I have no recollection of her at all. What was she like?#
-RIKER: Well, if she was married to me, she had to be patient.#
+RIKER: Well, if she was married to me, she had to be patient. TROI: She was an excellent Captain's wife, and a very good ship's counsellor. She took over after I left.#
 RIKER: I can't imagine you leaving the Enterprise.#
 RIKER: I've heard better.#
 RIKER: You're putting too much pressure on the mouthpiece. Relax the embouchure. Don't use any muscles you don't need.#
-RIKER: Left hand. Right hand. (does a quick scale, then goes into Misty, and gets the 'helpless' note wrong again) RIKER: Sixteen years, you'd think I'd be able to hit that note.#
+RIKER: Left hand. Right hand.#
+RIKER: Sixteen years, you'd think I'd be able to hit that note.#
 RIKER: Computer. Summarise service record. Riker, William T, Captain. Begin with the Fornax disaster.#
 RIKER: Service record, Riker, William T.#
 RIKER: Damn it.#
@@ -3831,7 +3861,7 @@ RIKER: This room, it's more than a holodeck, isn't it?#
 RIKER: Everything I wanted? You probed the Enterprise. You lured us here so you could play games with me. I didn't want that, you did. Why?#
 RIKER: They found her, didn't they?#
 RIKER: Anything? Then why did you kidnap me?#
-RIKER: I have to return to my ship. Come with me. You don't have to stay here anymore. You don't have to be alone anymore. (the boy transforms into a grey alien with big eyes and very long fingers)#
+RIKER: I have to return to my ship. Come with me. You don't have to stay here anymore. You don't have to be alone anymore.#
 RIKER: To me, you'll always be Jean-Luc. Two to transport.#
 RIKER: Any other ships in that sector?#
 RIKER: Ensign Allenby, set a course for the Gamelan system. Warp six.#
@@ -3910,7 +3940,7 @@ RIKER: Problem, Data?#
 RIKER: Suggesting?#
 RIKER: On screen.  Magnify.#
 RIKER: No wider than a proton but with gravitational fields as powerful as a black hole.#
-RIKER: And us right along with them. Captain's log, stardate 44359.5. What began as a curious inconvenience has turned into a serious threat. At current speed, the two-dimensional beings and the Enterprise will be drawn into the cosmic string fragment in seven hours.#
+RIKER: And us right along with them.#
 RIKER: Data, launch another probe. Patch the monitor through to the main viewer.#
 RIKER: Vibration? We're not talking about a violin, Data.#
 RIKER: Geordi, fire up the impulse engines. Activate the#
@@ -4057,7 +4087,7 @@ RIKER: Let's give it a try.#
 RIKER: What's wrong?#
 RIKER: Ensign Lin.#
 RIKER: Geordi, what's going on down there?#
-RIKER: Just like the Brittain. Captain's log, stardate 44639.9. The Enterprise has now been adrift for a total of ten days. We have sent subspace distress calls, but because of our distant location, we cannot expect a response for at least another two weeks.#
+RIKER: Just like the Brittain.#
 RIKER: Couldn't we replicate the elements that Tyken used?#
 RIKER: The only one who doesn't seem affected by all this is Data.#
 RIKER: Bridge.#
@@ -4148,7 +4178,7 @@ RIKER: And you, Mister Data, bear a striking resemblance to Friar Tuck.#
 RIKER: We've got to get out of here, Captain.#
 RIKER: You're not going to try to save her yourself, sir?#
 RIKER: Captain!#
-RIKER: Data, we need a diversion, now. (Data takes something from his forearm and throws it into a fire as Picard's head goes down onto the block. The axe is raised, there's a boom, and the fight starts)#
+RIKER: Data, we need a diversion, now.#
 RIKER: Everybody here?#
 RIKER: What were you doing accessing the propulsion system files on Stardate 44758?#
 RIKER: Yes, you did, from computer twelve B nine, deck thirty six. The computer logged in your identification from your communicator.#
@@ -4391,23 +4421,26 @@ RIKER: Carmen, have you got construction started I didn't know about?#
 RIKER: Data?#
 RIKER: Data, what's our best bet for cover?#
 RIKER: Start gathering everybody together. We've seen this before. We know what it is. Now get moving.#
-RIKER: Follow him. Let's go! Come on, come on! (Riker brings up the rear of the column. The entity sends out a beam that destroys a swathe of grass and a tree. Data leads them over a ridge.) RIKER: No, stay together! Stay together! This way! This way! This way!#
+RIKER: Follow him. Let's go! Come on, come on!#
+RIKER: No, stay together! Stay together! This way! This way! This way!#
 RIKER: I've got you.#
-RIKER: Data!  Carmen! (but he is only in time to see them vanish with all other living matter in the entity's ray)#
+RIKER: Data!  Carmen!#
 RIKER: Come on, keep moving.#
 RIKER: Let's go, let's go. Keep moving. Deeper into the cave. Come on. Deeper into the cave. Keep moving.#
 RIKER: How much protection will this cave give us?#
-RIKER: Let's seal off this entrance. (they use their phasers to make a rockfall that blocks the entity's ray)#
-RIKER: There's got to be a ventilation source somewhere. We need some light. (the devastation can be heard going on outside as Riker and Data use the phasers to make the ceiling glow) RIKER: How are the others?#
+RIKER: Let's seal off this entrance.#
+RIKER: There's got to be a ventilation source somewhere. We need some light.#
+RIKER: How are the others?#
 RIKER: She didn't make it. She was trying to save an old man who'd fallen.#
-RIKER: I think we're going to be all right in here. I'm not sure about the air supply, so stay put, don't move around. Don't expend unnecessary energy. With any luck, we'll be able to wait this thing out. RIKER: Riker to Enterprise. Riker to Enterprise.#
+RIKER: I think we're going to be all right in here. I'm not sure about the air supply, so stay put, don't move around. Don't expend unnecessary energy. With any luck, we'll be able to wait this thing out.#
+RIKER: Riker to Enterprise. Riker to Enterprise.#
 RIKER: Data we've only seen the Crystalline Entity once before. How do you know these metals will protect us?#
 RIKER: I was afraid you were going to say something like that.#
 RIKER: If I open that entrance and it's still out there, we're dead.#
 RIKER: Or it may be out there waiting for us.#
 RIKER: Everybody stay here.#
 RIKER: Lieutenant Worf, I don't think I've ever seen a more beautiful sight.#
-RIKER: The Crystalline Entity paid us a visit. We lost two colonists, but we got the rest in here. (they emerge to the sight of a planet stripped down to the rock and soil) Captain's log, stardate 45122.3. We have notified Starfleet Command of our intention to pursue and investigate the Crystalline Entity. To that end, we have been joined by Doctor Kila Marr, a xenologist who has made studying the Entity her life's work.#
+RIKER: The Crystalline Entity paid us a visit. We lost two colonists, but we got the rest in here.#
 RIKER: Welcome to the Enterprise. I am Commander William Riker.#
 RIKER: Glad you're here.#
 RIKER: That's right.#
@@ -4436,7 +4469,7 @@ RIKER: Agreed. Can we get to Engineering?#
 RIKER: Okay, you and I will try to get there. Mister Worf, this room is going to fill with wounded in a few minutes and they're going to need help. I want you to stay in charge here.#
 RIKER: Let's go.#
 RIKER: Thirteen sixty five baker. That should put us right behind shuttlebay two.#
-RIKER: Coolant leak! (they scramble forward and manage to shut a bulkhead behind them, only for an energy barrier to start up ahead)#
+RIKER: Coolant leak!#
 RIKER: We can't just sit here.#
 RIKER: I don't see any material in here that could handle that much current.#
 RIKER: Are you suggesting we use your own body?#
@@ -4445,7 +4478,8 @@ RIKER: No.#
 RIKER: First of all, android or not, I wouldn't ask anyone to take that kind of risk. Second, if the computer is not working in Engineering, I'm going to need your help to get control of the ship.#
 RIKER: Let me get this straight. You want me to take off your head?#
 RIKER: Well, Data, would you be all right?#
-RIKER: Well, like you said, our choices are very limited. (Data walks forward into the currents, they stop and he falls forward); RIKER: Data? Data! Data.#
+RIKER: Well, like you said, our choices are very limited.#
+RIKER: Data? Data! Data.#
 RIKER: Are you all right? Did the shielding work?#
 RIKER: Okay, try it.#
 RIKER: There's no power on this entire deck, yet somehow these monitors are working.#
@@ -4600,7 +4634,8 @@ RIKER: Mister Dokachin, the information I need involves a matter of major import
 RIKER: All right, one of your people can do the work.#
 RIKER: Well, sir what would you suggest?#
 RIKER: I don't believe this.#
-RIKER: Counsellor, this feels like a perfect job for you. (later, Enterprise sails into the spaceship graveyard of the supply depot, and avid fans play spot the old model ship) RIKER: Thank you for coming on board, Mister Dokachin.#
+RIKER: Counsellor, this feels like a perfect job for you.#
+RIKER: Thank you for coming on board, Mister Dokachin.#
 RIKER: We've tied into your computers, if you'd like to access the files.#
 RIKER: I'd appreciate it.#
 RIKER: On screen.#
@@ -4683,7 +4718,7 @@ RIKER: We're transporting endangered animals from Corvan Two.#
 RIKER: Can we transport him out of there?#
 RIKER: Riker to Engineering. Geordi, what is going on?#
 RIKER: We need more speed.#
-RIKER: Primary control's shorted out. ;#
+RIKER: Primary control's shorted out.#
 RIKER: Alexander, can you hear me? Alexander?#
 RIKER: Alexander!#
 RIKER: Worf! Where are you Worf?#
@@ -4698,7 +4733,7 @@ RIKER: Set up a translink to their computer core. Let's see what happened.#
 RIKER: Take us to fifteen thousand metres, Ensign.#
 RIKER: Data, you're with me.#
 RIKER: Let's see if we can tap directly into the computer core.#
-RIKER: Stay here, Geordi. Data. (a little further along, they find a young boy trapped under debris);#
+RIKER: Stay here, Geordi. Data.#
 RIKER: Ready, sir.#
 RIKER: Aye, Captain. It's going to be okay. Here we go. Energise.#
 RIKER: Agreed. La Forge.#
@@ -4861,7 +4896,7 @@ RIKER: Well, I hope they can find us, because there's no way we'll find them.#
 RIKER: Mister O'Brien! Nice of you to join us.#
 RIKER: Is this storm front going to interfere with the transport, Chief?#
 RIKER: I'm with you.#
-RIKER: Lunch time, Miles! Let's do it! (O'Brien goes to turn on the pattern enhancers, and gets hit by lightning. They all fall down. Balls of light descend on them, but one flies away from Riker, who wakes up. He activates the enhancers and they are all beamed away)#
+RIKER: Lunch time, Miles! Let's do it!#
 RIKER: Ready for duty, sir.#
 RIKER: It's not the first bone I've ever broken.#
 RIKER: It was just one hell of a storm. It moved in on our position faster than anything I've ever seen.#
@@ -4872,7 +4907,8 @@ RIKER: The polar region? That would be starting from scratch, Mister Data. Our l
 RIKER: Well, you might be right, but I'd like to give the crash site a once over first. Maintain our current orbit.#
 RIKER: Override them?#
 RIKER: Do you know anything about this, Mister Data? Data?#
-RIKER: Security to the Bridge! (O'Brien disarms Worf and pushes him over the railing and the Captain's chair. Ro shoots at O'Brien but misses, so he shoots her) RIKER: Computer, transfer command to Engineering. Full security alert! (O'Brien shoots Riker. Data fails to override Riker's last command and thumps the blank console in frustration)#
+RIKER: Security to the Bridge!#
+RIKER: Computer, transfer command to Engineering. Full security alert!#
 RIKER: Computer, re-enable Bridge control. Security protocol, Riker omega Three.#
 RIKER: Data, O'Brien and Troi tried to commandeer the ship.#
 RIKER: Activate security fields decks eight through fifteen.#
@@ -5052,11 +5088,13 @@ RIKER: I know that, but I have to do something.#
 RIKER: I'm aware of that.#
 RIKER: You've made yourself very clear, sir.#
 RIKER: Thank you. May I be excused now?#
+RIKER: Who is it?#
 RIKER: Come in.#
 RIKER: Fine. Leave it, I'll take a look at it later.#
 RIKER: Thank you. You're dismissed.#
 RIKER: Lieutenant.#
-RIKER: Something's happening. They're leaving. (Worf and Riker make their way through the plants to the edge of the courtyard, and watch people leaving) RIKER: Okay.  Excuse me. I need to speak to her alone for a moment. (Worf and Riker scuffle with Soren's guards, then Riker drags her off into the bushes)#
+RIKER: Something's happening. They're leaving.#
+RIKER: Okay.  Excuse me. I need to speak to her alone for a moment.#
 RIKER: Don't worry. We'll be out of here in a minute.#
 RIKER: All right, 1e're almost there.#
 RIKER: I won't let them hurt you. You'll be safe on the Enterprise.#
@@ -5112,7 +5150,8 @@ RIKER: This is the Bridge. All hands to emergency escape pods.#
 RIKER: Sometimes I wonder if he's stacking the deck.#
 RIKER: Something wrong, Mister Worf?#
 RIKER: Yeah, last Tuesday night.#
-RIKER: Finish dealing the hand. (Riker gets all eights, Worf all Kings, Crusher all tens and Data all sixes) RIKER: Look at this, we've all got three of a kind.#
+RIKER: Finish dealing the hand.#
+RIKER: Look at this, we've all got three of a kind.#
 RIKER: For all we know, reversing course might be what leads us into the crash.#
 RIKER: What could be causing it?#
 RIKER: Maybe we should run a level three diagnostic on all key systems.#
@@ -5134,7 +5173,7 @@ RIKER: Let's run a mass spectrometer analysis and find out what this stuff is.#
 RIKER: Ventilation and life support are failing at random spots all over the ship.#
 RIKER: Atmospheric systems are down twenty seven percent. We're going below tolerable oxygen limits.#
 RIKER: Direct all evacuees to decks nine and ten.#
-RIKER: You'd think she'd at least get to her own wedding on time. (the doors open and Mister Homn smiles as Lwaxana arrives at her own wedding, naked. Even if we do get a glimpse of the edge of the underwear that Majel is actually wearing. Campio's jaw is on the floor.)#
+RIKER: You'd think she'd at least get to her own wedding on time.#
 RIKER: Bridge to transporter room three. Boost your output and lock on to the two Ferengi on board the shuttle.#
 RIKER: Mister Worf, escort our Ferengi guests to quarters. Not too close to mine.#
 RIKER: Lieutenant?#
@@ -5162,7 +5201,8 @@ RIKER: Might be dangerous.#
 RIKER: Any luck?#
 RIKER: Do you know what it is?#
 RIKER: Is there anything like this on record?#
-RIKER: Do you know how many of them there might be? LAFORGE No, but if we run the warp field generators through the deflector grid, we could radiate a field outside the ship. RIKER: And we'd be able to see for ourselves. Let's do it.#
+RIKER: Do you know how many of them there might be?#
+RIKER: And we'd be able to see for ourselves. Let's do it.#
 RIKER: Can we go to warp?#
 RIKER: Our speed is down by twenty two percent.#
 RIKER: Red alert.#
@@ -5244,7 +5284,7 @@ RIKER: Any of them inhabited?#
 RIKER: Mister Worf, put a tractor beam on that probe. I want it in shuttlebay two for examination.#
 RIKER: Twenty, twenty five minutes.#
 RIKER: Hello, sir. Feeling better?#
-RIKER: We were able to open the probe and examine it. Apparently, whatever had locked onto you must have been self terminating. It's not functioning any longer. We found this inside. (Riker hands him a box and leaves. Inside it is a penny whistle with a tassel. Picard clutches it to his chest for a moment, then plays his Skye Boat song variation on it)#
+RIKER: We were able to open the probe and examine it. Apparently, whatever had locked onto you must have been self terminating. It's not functioning any longer. We found this inside.#
 RIKER: Data, how can you look inside that, analyse the decomposition without#
 RIKER: Yes..#
 RIKER: Your head is not an artefact.#
@@ -5279,7 +5319,7 @@ RIKER: I'm not willing to accept that he's dead and just leave it at that.#
 RIKER: What is more important than Data?#
 RIKER: Will it be good enough?#
 RIKER: We have to assume one thing, sir. Wherever Data may be, he's doing the same thing we are, which is trying to get to the bottom of this. He may have a better idea about what's going on than we do, so it might be in the best interests of this mission to find him.#
-RIKER: Mister Worf? (Worf puts his down. They have encircled the amphitheatre. Picard beams in.)#
+RIKER: Mister Worf?#
 RIKER: I'd be more comfortable if you'd monitor our progress from the Bridge, Captain.#
 RIKER: Imperative?#
 RIKER: My God. They're delivering more of them for the others to ingest.#
@@ -5337,7 +5377,7 @@ RIKER: The aliens. Mister Worf, are the photons ready?#
 RIKER: Fire.#
 RIKER: O'Brien, get him out of there!#
 RIKER: Transporter room, have you got him?#
-RIKER: Ensign, lay in a course to the nearest Starbase. Warp six. Captain's log, stardate 46001.3. Everyone who should be in the nineteenth century is safely there, and those who should be in the twenty fourth are here. Mister Data has been restored to us, head and all, and Samuel Clemens will write the books he was to have written after our encounter.#
+RIKER: Ensign, lay in a course to the nearest Starbase. Warp six.#
 RIKER: The last report we have says they were observing the streamer at medium range. Maybe they went in for a closer look, got more than they bargained for.#
 RIKER: I'll take a shuttle in.#
 RIKER: Status, Mister O'Brien?#
@@ -5443,7 +5483,8 @@ RIKER: Let's perform a level three diagnostic on the internal sensor network and
 RIKER: Could we pick this up in the morning, Geordi? Get a fresh start? Would you do me a favour? Stop by my quarters, oh seven hundred hours. I'm having trouble waking up.#
 RIKER: Goodnight.#
 RIKER: Who is it?#
-RIKER: Come in. LAFORGE: Good morning. RIKER: Morning? I just went to bed.#
+RIKER: Come in.#
+RIKER: Morning? I just went to bed.#
 RIKER: And it showed up as an EPS explosion?#
 RIKER: We can't waste time chasing down sensor ghosts. We should probably keep the whole array offline until we can get take a closer look.#
 RIKER: I know the feeling. The past few nights, it seems like as soon as my head hits the pillow, it's time to get up in the morning.#
@@ -5578,7 +5619,7 @@ RIKER: I could lose it in a minute. I've just gotten used to it.#
 RIKER: Well, I've always wanted to see you as a brunette.#
 RIKER: That makes me even more curious.#
 RIKER: Geordi.#
-RIKER: Sorry, you heard the Captain. Duty calls. I guess we'll have to do this some other time. Captain's log, stardate 46307.2. We have just come into orbit of Tyrus Seven A to monitor progress on the Tyran particle fountain, a radically new mining technology. So far the project has been fraught with problems, and is well behind schedule. Mister La Forge has been assigned to evaluate the situation.#
+RIKER: Sorry, you heard the Captain. Duty calls. I guess we'll have to do this some other time.#
 RIKER: Riker here, sir.#
 RIKER: Red alert. Riker to transporter room two. Prepare for emergency transport.#
 RIKER: Kelso, can you get them off?#
@@ -5648,7 +5689,7 @@ RIKER: Is there any truth in what he's saying?#
 RIKER: Aye, sir.#
 RIKER: Aye, sir. Request permission to begin planning a rescue operation.#
 RIKER: Shouldn't we assume that he is alive until it's been proved otherwise? We cannot just abandon him.#
-RIKER: Yes, sir. {interrogation room] (Picard is lower - his feet are on the floor and his knees bent)#
+RIKER: Yes, sir.#
 RIKER: Under the terms of the Selonis Convention, Captain Picard must#
 RIKER: What about Captain Picard?#
 RIKER: I'm not suggesting you trade an entire star system for one man's life, but you've got to acknowledge that these were Federation orders and he is a prisoner of war.#
@@ -5741,7 +5782,7 @@ RIKER: That means Uhnari is a coalescent.#
 RIKER: You get Morag. I'm going to the station.#
 RIKER: Step away from him, Lieutenant.#
 RIKER: That may not be Lieutenant Uhnari.#
-RIKER: Step away now. Medical Officer's Log, supplemental. Commander Morag and Lieutenant Uhnari are being kept under close observation. So far, no sign of coalescent behaviour has surfaced.#
+RIKER: Step away now.#
 RIKER: Aquiel and Morag will be transferred to a secure medical facility at Starbase twelve. Maybe we'll know more by the time we get there.#
 RIKER: It could be Morag. We don't know for sure.#
 RIKER: Get some rest. You've had a rough couple of days.#
@@ -5798,7 +5839,7 @@ RIKER: Geordi, what happened to the Captain?#
 RIKER: His saddle?#
 RIKER: Oh.#
 RIKER: Lucky him. Thank you.#
-RIKER: Non-stop. I have to admit it has a certain strange fascination. How long can two people talk about nothing? (Geordi is helping himself to the buffet when his visor picks up something.)#
+RIKER: Non-stop. I have to admit it has a certain strange fascination. How long can two people talk about nothing?#
 RIKER: What was all that about?#
 RIKER: No demands, no political statements, no theft. They must want something.#
 RIKER: Orton may be improvising. Maybe he didn't plan to take us hostage so early and now he doesn't know what to do.#
@@ -5812,7 +5853,7 @@ RIKER: I think I can distract Orton for a few seconds.#
 RIKER: You just have to know how to talk to him. Orton, I think we need to discuss the situation.#
 RIKER: There's a lot to discuss. Can't we be reasonable?#
 RIKER: It can't hurt you to listen, can it?#
-RIKER: Thank you. Now, the first thing I think we need to discuss is this. (He knocks Orton down and gets thumped by the waiter in return. The visor is set)#
+RIKER: Thank you. Now, the first thing I think we need to discuss is this.#
 RIKER: I did. He just didn't like what I had to say.#
 RIKER: This must be the sign they were waiting for. Mister Data, you will be the only one unaffected by the hypersonic burst. As soon as every else is unconscious, I need you to get to the computer panel and stop that ship somehow.#
 RIKER: I've had three security teams search deck seven. They couldn't find anything.#
@@ -5845,7 +5886,8 @@ RIKER: Lieutenant Marquez has already set up on the surface. Apparently the stor
 RIKER: It'll hit the colony in less than fifty minutes. Ensign, make sure you maintain a continuous transporter lock on all away team personnel. We may have to pull them out in a hurry.#
 RIKER: I don't want to take any unnecessary chances. If they get into trouble, beam them up immediately.#
 RIKER: I got out with the last of the colonists. If it hadn't been for the perimeter teams, none of us would have made it. We were able to clear out four of the teams, and the interference prevented us from getting two more. I don't know how they could have survived.#
-RIKER: Three and six. RIKER: The last I knew, Commander Daren was on team six.#
+RIKER: Three and six.#
+RIKER: The last I knew, Commander Daren was on team six.#
 RIKER: Computer, lights up.#
 RIKER: Professor Galen contacted me from his shuttle an hour ago. He suggested that we surprise you.#
 RIKER: The planet Kurl? It's a hell of a long way outside Federation territory.#
@@ -5876,7 +5918,7 @@ RIKER: No, I'm looking forward to proving my innocence.#
 RIKER: That's, that's not what I meant. I was sick when it happened. I wasn't responsible for what I did.#
 RIKER: No. I want to talk about this now.#
 RIKER: What I need is to get out of this cell. I've been locked in here for days. You've controlled my every move. You've told me what to eat, and what to think, and what to say, and when I show a glimmer of independent thought you strap me down, you inject me with drugs. You call it a treatment.#
-RIKER: You bet I'm agitated. I may be surrounded by insanity, but I'm not insane. And there isn't any. There isn't. There's nothing. (breaks into a grin) 'm sorry. Could we go back to 'you're becoming agitated'? (and now we discover that they're rehearsing a play, and the Doctor is really Data)#
+RIKER: You bet I'm agitated. I may be surrounded by insanity, but I'm not insane. And there isn't any. There isn't. There's nothing.  'm sorry. Could we go back to 'you're becoming agitated'?#
 RIKER: I'm still not comfortable with that final speech.#
 RIKER: Maybe I'm just not right for this part.#
 RIKER: Like my first year at the Academy.#
@@ -5917,7 +5959,7 @@ RIKER: My head hurts. Somebody hit me.#
 RIKER: Yes. I remember that now. But I thought it was a Klingon who had cut me with a knife.#
 RIKER: Now, if what you say is true, where am I?#
 RIKER: Why am I here?#
-RIKER: Wait. (Riker explores his surprisingly spacious cell, with a mirror on the wall)#
+RIKER: Wait.#
 RIKER: I guess so.#
 RIKER:  You won't need that.#
 RIKER: You have?#
@@ -5928,14 +5970,15 @@ RIKER: Blood?#
 RIKER: What are you talking about? I didn't kill anybody.#
 RIKER: No. It's not true.#
 RIKER: You're lying!#
-RIKER: No! (and he tries to strangle the attendant, but is dragged off and injected with something)#
+RIKER: No!#
 RIKER: I was there, in Ward forty seven, just like in the play. Everyone thought that I was insane, that I'd actually killed someone. But it was all real.#
 RIKER: It was a smash. We got a standing ovation.#
 RIKER: I feel like an actor.#
 RIKER: No. I want to talk about this now.#
-RIKER: What I need is to get out of this cell. I'm locked up in here for days. You've controlled my every move. You've told me what to eat, what to think, what to say. (Riker sees the attendant looking through the cell door. He checks that there is an audience watching and the face is gone.)#
+RIKER: What I need is to get out of this cell. I'm locked up in here for days. You've controlled my every move. You've told me what to eat, what to think, what to say.#
 RIKER: And when I show a glimmer of independent thought, you strap me down, inject me with drugs and call it a treatment.#
-RIKER: You bet I'm agitated! I may be surrounded by insanity, but I am not insane. And there is nothing you (he's detracted by the sound of a door, and for a moment the audience is gone) RIKER: What's happening?#
+RIKER: You bet I'm agitated! I may be surrounded by insanity, but I am not insane. And there is nothing you#
+RIKER: What's happening?#
 RIKER: Nothing you can do will change the fact that I'm innocent. I'm not crazy. I'm not#
 RIKER: You're the key to all this, aren't you? Who are you? Who are you?#
 RIKER: I. Yes. I don't know#
@@ -5982,7 +6025,7 @@ RIKER: It's not real.#
 RIKER: Not real.#
 RIKER: Get away from me!#
 RIKER: No!#
-RIKER: Help me! Help me! (the attendant and guard come round the corner. Riker grabs Worf's phaser and runs behind them);#
+RIKER: Help me! Help me!#
 RIKER: It's still bleeding.#
 RIKER: Mister Suna.#
 RIKER: It still hurts. It's bleeding again. Why? You just healed it.#
@@ -5990,15 +6033,16 @@ RIKER: This isn't real.#
 RIKER: If I'm right, you're not really here. This isn't a real phaser. It's all a fantasy, and I'm going to end it, no matter what it takes.#
 RIKER: You're right, I won't. But I'm going to find out what's real and what's not.#
 RIKER: I still have a phaser. Why do I still have a phaser?#
-RIKER: I don't believe you. (Mavek steps forward, Riker fires the phaser and he shatters like a broken mirror) RIKER: If this is a knife, what happened to Mavek?#
-RIKER: No. If this is a real phaser, then I was on the Enterprise. But I fired it on myself, so I should be dead. None of this is real. I'm setting this to level sixteen, wide field. That should destroy half of this building. Unless, of course, this isn't a real phaser. (Riker fires at the wall, which shatters to show the audience watching the play.)#
+RIKER: I don't believe you.#
+RIKER: If this is a knife, what happened to Mavek?#
+RIKER: No. If this is a real phaser, then I was on the Enterprise. But I fired it on myself, so I should be dead. None of this is real. I'm setting this to level sixteen, wide field. That should destroy half of this building. Unless, of course, this isn't a real phaser.#
 RIKER: It's all about you, isn't it? You're the only constant, the only person in both places.#
 RIKER: This isn't real, either. What's happening to me?#
 RIKER: You're lying.#
 RIKER: No!#
 RIKER: No!#
 RIKER: Riker to Enterprise!#
-RIKER: Emergency transport. Get me out of here. Captain's log, stardate 46778.1. Commander Riker has returned safely from his mission to Tilonus Four. Doctor Crusher has repaired the damage to his long-term memory.#
+RIKER: Emergency transport. Get me out of here.#
 RIKER: I remember now. I was in an alley. They attacked me from behind. I tried to fight them off with the nisroh Worf gave me. I managed to get off one of them off me but I think they injected me with some sort of drug.#
 RIKER: I was in a hospital, then I was back on the Enterprise. I was back at the hospital. I kept shifting from place to place. I couldn't tell what was real.#
 RIKER: The preparation for the mission, the play, those were recent experiences, fresh in my mind.#
@@ -6017,11 +6061,12 @@ RIKER: That's the Justman, the shuttle Reyga modified.#
 RIKER: Get a tractor beam on her.#
 RIKER: Data. Interesting night?#
 RIKER: Sorry I missed it.#
-RIKER: Very well. RIKER: Isn't Lieutenant Worf scheduled to replace Ensign Torigan?#
+RIKER: Very well.#
+RIKER: Isn't Lieutenant Worf scheduled to replace Ensign Torigan?#
 RIKER: He's never late. Riker to Lieutenant Worf. Computer, locate Lieutenant Worf.#
 RIKER: Something's wrong. Mister Data, you have the Bridge. Security team, meet me on deck seven, section twenty five baker.#
 RIKER: Computer, override security lock on this door. Authorisation, Riker alpha six zero.#
-RIKER: Worf, what the hell are you doing? (Later, the place has been cleaned up and Worf is lying on his bed in uniform when the doorbell rings)#
+RIKER: Worf, what the hell are you doing?#
 RIKER: Worf, no offence, but I have trouble believing that the man I that escorted to deck eight is supernatural.#
 RIKER: Thank you. Thank you very much. Thank you. Thank you very much. Any requests tonight?#
 RIKER: Any request?#
@@ -6098,10 +6143,12 @@ RIKER: You waiting for something?#
 RIKER: You've been down here dozens of times. I'm sure you know the best way.#
 RIKER: Why didn't you report this?#
 RIKER: Scan it now.#
-RIKER: Next time, don't give up so easily. (they head off across a metal bridge to the core. It gives way and Riker 2 is hanging over a very deep drop. Riker 1 lies down and grabs his arms.) RIKER: Hang on! Come on, grab on. Come on! Come on, climb! Come on! I'm being pulled in.#
+RIKER: Next time, don't give up so easily.#
+RIKER: Hang on! Come on, grab on. Come on! Come on, climb! Come on!  I'm being pulled in.#
 RIKER: Climb! Come on! Climb! Climb!#
 RIKER: I'm sorry.#
-RIKER: I wanted to give you something. RIKER: My quarters are full of things that I suppose belong to both of us. The least I could do is give you this.#
+RIKER: I wanted to give you something.#
+RIKER: My quarters are full of things that I suppose belong to both of us. The least I could do is give you this.#
 RIKER: Good luck, Will.#
 RIKER: I guess we really are different. I never really cared for that name.#
 RIKER: I wasn't playing Parrises Squares.#
@@ -6114,7 +6161,8 @@ RIKER: Report.#
 RIKER: Romulan?#
 RIKER: How long before we rendezvous with Captain Picard?#
 RIKER: Lay in a course for the Romulan ship. Let's put up shields and go to Red Alert. I want to be ready for anything.#
-RIKER: Damage report. Shields down to twenty seven percent. (Riker is knocked down by more hits to the ship, and a Romulan helps him back up) RIKER: Captain?#
+RIKER: Damage report.#
+RIKER: Captain?#
 RIKER: The feedback from the transfer beam would tear us apart.#
 RIKER: Got it.#
 RIKER: Captain?#
@@ -6160,7 +6208,6 @@ RIKER: Navigational sensors show that we've travelled sixty five light years fro
 RIKER: Maybe we can find an energy signature from their engines.#
 RIKER: I think we've found the shuttle's energy signature.#
 RIKER: We've traced the shuttle's energy signature to this point on the surface but there's too much interference to scan the location.#
-RIKER: I think we have to take the risk.#
 RIKER: Aye, sir. Mister Worf, you're with me.#
 RIKER: Riker to Enterprise. We're on the surface. There's no sign of any Borg, or Data. The shuttle appears to be abandoned.#
 RIKER: There are#
@@ -6196,7 +6243,7 @@ RIKER: You have spend about five minutes greeting the Iyaarans maybe an hour mak
 RIKER: It's all part of being in Starfleet. There.#
 RIKER: Protocol.#
 RIKER: That is an incredibly outmoded and sexist attitude. I'm surprised at you. Besides, you look good in a dress.#
-RIKER: Do you think there's enough food here, Data? Good evening.#
+RIKER: Do you think there's enough food here, Data?  Good evening.#
 RIKER: Worf.#
 RIKER: Denied.#
 RIKER: What have you been able to find out about him so far?#
@@ -6275,11 +6322,11 @@ RIKER: Geordi?#
 RIKER: From what?#
 RIKER: What do you make of these?#
 RIKER: It doesn't look like any blast point I've ever seen. The shape is too perfect.#
-RIKER: Looks as if someone could have just dropped them. (the spare security guard gets shot, everyone takes cover from the incessant energy weapons)#
-RIKER:  I'm going to head for those trees over there. If I can get there, we might be able to set up a crossfire. (Riker makes it to some rocks and gets knocked out by a blast. The mercenaries get him and beam away)#
+RIKER: Looks as if someone could have just dropped them.#
+RIKER:  I'm going to head for those trees over there. If I can get there, we might be able to set up a crossfire.#
 RIKER: William T. Riker, Commander, SC two three one dash four two seven.#
 RIKER: We were studying the ruins. It was a scientific expedition.#
-RIKER: Then what were you doing there? (Baran presses a device on his belt, and a gizmo on Riker's neck sends him to his knees in pain)#
+RIKER: Then what were you doing there?#
 RIKER: What happened to him?#
 RIKER: And what Riker might that be?#
 RIKER: That's right.#
@@ -6355,7 +6402,8 @@ RIKER: Talk about going nowhere fast.#
 RIKER: Are you going to answer that, Commander?#
 RIKER: What are you waiting for? Answer it.#
 RIKER: I just wanted to broaden his horizons. Besides, he likes it.#
-RIKER: Worf, it's better than music, it's jazz. (the turbolift doors open, and Data approaches Riker with the raised bloody implement. They restrain him) RIKER: Medical emergency. Deck seventeen, section three alpha.#
+RIKER: Worf, it's better than music, it's jazz.#
+RIKER: Medical emergency. Deck seventeen, section three alpha.#
 RIKER: What about me? Did you see one of those mouths on my head as well?#
 RIKER: What are we dealing with here? Are these creatures feeding on us?#
 RIKER: Do we know where these things came from, Mister Worf?#
@@ -6478,7 +6526,7 @@ RIKER: You seem awfully tense for a man who just came back from vacation.#
 RIKER: What's the matter with you?#
 RIKER: A surprise party? Mister Worf, I hate surprise parties. I would never do that to you.#
 RIKER: Settle in. I'll meet you on the Bridge.#
-RIKER: I love surprise parties. (after the opening titles, seventeen or so candles are lit on the chocolate cake, and to the tune of For He's A Jolly Good Fellow)#
+RIKER: I love surprise parties.#
 RIKER: Captain Picard sends his birthday wishes. He was needed on the Bridge.#
 RIKER: That can't be right. We were told the Array stopped relaying data six days ago.#
 RIKER: What's in that sector?#
@@ -6486,8 +6534,9 @@ RIKER: Captain. I suggest we beam a repair crew aboard the Array. We can begin d
 RIKER: Mister Data?#
 RIKER: Charming fellow.#
 RIKER: Neither have I.#
-RIKER: What are you waiting for? Raise the shields. (the tactical station has a raised box behind the Captain's chair0#
-RIKER:  Firing photon torpedoes. Full spread. RIKER: Direct hit on their main reactor. They're returning fire.#
+RIKER: What are you waiting for? Raise the shields.#
+RIKER:  Firing photon torpedoes. Full spread.#
+RIKER: Direct hit on their main reactor. They're returning fire.#
 RIKER: No, sir. They are firing on the Argus Array. They destroyed it, sir.#
 RIKER: Memory loss? What are you talking about?#
 RIKER: What?#
@@ -6520,7 +6569,7 @@ RIKER: Did they send the right shuttle?#
 RIKER: Good luck.#
 RIKER: The Bajorans again.#
 RIKER: On screen.#
-RIKER: I'm sorry, there's no choice. If this works, everything will return to RIKER  No, we won't go back!#
+RIKER: I'm sorry, there's no choice. If this works, everything will return to#
 RIKER: Open fire. Try to disable them.#
 RIKER: What happened?#
 RIKER: Probably from fighting with the Borg.#
@@ -6611,7 +6660,7 @@ RIKER: Aye, sir. Activating power systems.#
 RIKER: The cloak appears to be functioning normally. The ship's matter-energy phasing rate should be sufficient to pass through the asteroid.#
 RIKER: We're approaching the surface.#
 RIKER: They're still waiting for us to make up our minds.#
-RIKER: Captain, I'll have to be placed under arrest as well. (Picard nods) Admiral.#
+RIKER: Captain, I'll have to be placed under arrest as well.  Admiral.#
 RIKER: I understand.#
 RIKER: I can't help but feel I should have come forward a long time ago.#
 RIKER: The distress call came in only four days ago. Why would Doctor Rozhenko have waited so long before sending it?#
@@ -6732,7 +6781,7 @@ RIKER: What do you think it means?#
 RIKER: The words that Data recognised in the computer, boundary, border, road, they were all arranged in this design.#
 RIKER: And death? One of the symbols was death.#
 RIKER: What do you think it represents?#
-RIKER: The archive just activated some kind of tractor beam, sir. We're not able to disengage it. ]#
+RIKER: The archive just activated some kind of tractor beam, sir. We're not able to disengage it.#
 RIKER: There was an emergency reported in Ten Forward. Mister Worf's on his way.#
 RIKER: Maybe we'd better talk in here. The Observation Lounge has turned into a swamp.#
 RIKER: What about communications, sensors, life support?#
@@ -6767,7 +6816,7 @@ RIKER: I appreciate it, but that really wouldn't be necessary.#
 RIKER: Is there someone in particular that you're talking about?#
 RIKER: Mister Worf, you sound like a man who's asking his friend if he can start dating his sister.#
 RIKER: You know Rebecca Smith?#
-RIKER: We took a walk in the Arboretum. We sat down, we got comfortable, things got a little romantic, and then I rolled over. (Riker has wicked long spines sticking out of his back. Ogawa starts pulling them out.)#
+RIKER: We took a walk in the Arboretum. We sat down, we got comfortable, things got a little romantic, and then I rolled over.#
 RIKER: Worf?#
 RIKER: Lock on phasers.#
 RIKER: Even for your newly improved phasers?#
@@ -6789,7 +6838,8 @@ RIKER: Venom all over the ship?#
 RIKER: I'm having trouble concentrating myself. It's like my mind keeps wandering. I can't#
 RIKER: I don't know. What do you think?#
 RIKER: Okay. Sounds good. Then you'll take care of that security thing?#
-RIKER: Okay, I'll notify Starfleet. I'll let them know what's happening. You have your orders. Dismissed. (Ogawa stands, resting with her knuckles on the desk, looks around then walks out with a very rolling gait.) RIKER: Computer, send a subspace message to Starfleet command. Security channel authorisation.#
+RIKER: Okay, I'll notify Starfleet. I'll let them know what's happening. You have your orders.  Dismissed.#
+RIKER: Computer, send a subspace message to Starfleet command. Security channel authorisation.#
 RIKER: Computer.#
 RIKER: Admiral Necheyev has just beamed aboard. She's being escorted right here.#
 RIKER: Earl Grey tea, watercress sandwiches and Bularian canap�s. Are you up for a promotion?#
@@ -6912,7 +6962,7 @@ RIKER: What the?#
 RIKER: You're going with them?#
 RIKER: Of course. What is it?#
 RIKER: So long, Ro. Take care of yourself.#
-RIKER: She seemed very sure that she was making the right choice. I think her only real regret was that she let you down. Here's my report. (Picard doesn't move to take the PADD, so Riker puts it on the desk and leaves)#
+RIKER: She seemed very sure that she was making the right choice. I think her only real regret was that she let you down. Here's my report.#
 RIKER: Captain.#
 RIKER: No, sir. His security scans came up negative. They're still checking the sensor logs but there is no indication that you ever left the ship.#
 RIKER: What happened?#
@@ -6927,7 +6977,7 @@ RIKER: Red alert!#
 RIKER: Captain, maybe not acting is what causes the destruction of mankind. What if you were needed on the Bridge at a key moment, and you weren't there?#
 RIKER: What makes you say that?#
 RIKER: A face off. The question is, who's going to move first?#
-RIKER: I had a feeling you weren't going to listen to me. Stand by. I'll see if I can get the Klingons' attention. (Enterprise phasers slice through the Klingon shields and ships. KaBOOM!)#
+RIKER: I had a feeling you weren't going to listen to me. Stand by. I'll see if I can get the Klingons' attention.#
 RIKER: Our sensors indicate your ship has a warp core breach in progress. Prepare for emergency beam out.#
 RIKER: Raise the shields. Where are the Klingons?#
 RIKER: They'll be back. As I said, I figured you wouldn't take no for answer.  But I thought you had more sense than to send a defenceless ship across the border into hostile territory with no escort.#

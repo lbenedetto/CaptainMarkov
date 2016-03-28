@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Iterator;
 
 class SeriesReader implements Iterable<String> {
-	private final Series series;
+	private Series series;
 
 	/**
 	 * Constructor for SeriesReader
@@ -16,6 +16,28 @@ class SeriesReader implements Iterable<String> {
 		series = _series;
 	}
 
+	void nextSeries() {
+		switch (series) {
+			case TOS:
+				series = Series.TNG;
+				break;
+			case TNG:
+				series = Series.DS9;
+				break;
+			case DS9:
+				series = Series.VOY;
+				break;
+			case VOY:
+				series = Series.ENT;
+				break;
+			case ENT:
+				series = null;
+		}
+	}
+
+	boolean hasNextSeries() {
+		return series!=null;
+	}
 	/**
 	 * Returns an iterator over elements of type {@code T}.
 	 *

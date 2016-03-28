@@ -89,7 +89,7 @@ BASHIR: Terrorists? What are they doing here?#
 BASHIR: Garak, I'm a doctor#
 BASHIR: I really must be getting along now.#
 BASHIR: A suit? We're talking about terrorists, and you want me to buy a new suit?#
-BASHIR: Er, yes, I see. Well, if you'll excuse me. (looks at the terrorists) A suit?#
+BASHIR: Er, yes, I see. Well, if you'll excuse me.  A suit?#
 BASHIR: Commander Sisko.#
 BASHIR: I need some guidance.#
 BASHIR: It's about Garak, the Cardassian? I'm afraid this relationship has gotten a little out of hand.#
@@ -97,7 +97,7 @@ BASHIR: He wants me to buy a suit.#
 BASHIR: At exactly twenty fifty five tonight.#
 BASHIR: I don't know but it has something to do with those two Bajoran terrorists on board. He says that together, he and I might discover what they're really doing here. I don't understand why he wants me involved.#
 BASHIR: Well, what do you want me to do?#
-BASHIR: I was just (Garak gives Bashir a jacket and hustles him into the fitting room, drawing the curtain)#
+BASHIR: I was just#
 BASHIR: What's bilitrium?#
 BASHIR: But if he's got both.#
 BASHIR: Conspiracy to what? We don't even know what their plan is.#
@@ -112,7 +112,7 @@ BASHIR: Yes. It can occur as a result of a stroke or blow to the head. But there
 BASHIR: And rechecked. Nothing so far.#
 BASHIR: Not yet.#
 BASHIR: Spontaneous development of aphasia is virtually impossible. Yet we saw Lieutenant Dax become aphasic before our eyes. This told me we are dealing with a disease that only mimics aphasia. So I ran a full neurosynaptic comparison of Dax and O'Brien, and I found this in the temporal lobes of both patients.#
-BASHIR: It imposes itself within the established synaptic pathways and then randomly reroutes them. For example, when I look at this, (holds up a tricorder) a process occurs in my brain which connects the stimulus to the word tricorder. This virus disrupts that process.#
+BASHIR: It imposes itself within the established synaptic pathways and then randomly reroutes them. For example, when I look at this,  a process occurs in my brain which connects the stimulus to the word tricorder. This virus disrupts that process.#
 BASHIR: Exactly.#
 BASHIR: Yes, sir.#
 BASHIR: Based on the levels of the virus found in the patients' blood, I believe it's being absorbed through ingestion.#
@@ -122,7 +122,7 @@ BASHIR: I'm afraid that's not going to do it, sir. I've been getting aphasic pat
 BASHIR: If this virus is present within a large enough segment of the population, it could mean#
 BASHIR: I just took an air sample.#
 BASHIR: It's mutated into an airborne variety.#
-BASHIR: Which means the whole station is infected. Station log, stardate 46423.7. Nearly sixty percent of DS Nine's population has now contracted the aphasia virus. We've initiated standard quarantine procedures, and are advising all incoming ships to maintain their distance from the station until further notice.#
+BASHIR: Which means the whole station is infected.#
 BASHIR: We've converted some empty crew quarters into a hospital ward. He'll be well looked after.#
 BASHIR: Commander, when you've got a moment, I've found something I'd like to show you.#
 BASHIR: The virus is synthetic, Commander. Its nucleotide sequence is too perfect. It's clearly not natural.#
@@ -172,7 +172,7 @@ BASHIR: I can think of better ways of keeping you up. And they're more fun than 
 BASHIR: May I escort you to your quarters?#
 BASHIR: Oh, well, good night then.#
 BASHIR: Not necessary, Julian. But not forbidden, either.#
-BASHIR: Dax! (Bashir hits Tandro then bumps his head against the bulkhead. An alien woman takes out Bashir while Dax fights the male. Her comm. badge is removed and she's knocked out. The aliens drag her away)#
+BASHIR: Dax!#
 BASHIR: Bashir to Ops.#
 BASHIR: I think they just took Jadzia.#
 BASHIR: They just left her comm. badge.#
@@ -304,7 +304,8 @@ BASHIR: Twelve hundred C. Thirteen.#
 BASHIR: Commander. Pulmonary collapse. Her upper thoracic vertebrae have been crushed.#
 BASHIR: I'm sorry.#
 BASHIR: Major.#
-BASHIR: The hell you are. She needs treatment. I'd like my medical case, if you don't mind. (Shel-la sits as if he doesn't care, and a woman opens the case and starts looking through it. Bashir snatches it away) BASHIR: For God's sake.#
+BASHIR: The hell you are. She needs treatment. I'd like my medical case, if you don't mind.#
+BASHIR: For God's sake.#
 BASHIR: This should make you feel better. Major, I'm so sorry. I would've done anything.#
 BASHIR: I gathered that.#
 BASHIR: Perhaps I can train some of them in the basics of field triage.#
@@ -422,7 +423,7 @@ BASHIR: I've already tried it.#
 BASHIR: Jadzia!#
 BASHIR: What are you doing here?#
 BASHIR: I'm awake.#
-BASHIR: Funny, I was about to ask you the same question. (Dax kisses him) It must be this Larosian virus that's been going around. How do you feel?#
+BASHIR: Funny, I was about to ask you the same question.  It must be this Larosian virus that's been going around. How do you feel?#
 BASHIR: No fever. It must be me. It must be me. It must be me. Must be an allergic reaction to the replicated antipasto I had at lunch. Perhaps, I must be hallucinating.#
 BASHIR: Why am I fighting this? Why am I fighting this? I have no good answer to that question.#
 BASHIR: Okay, I get it. Very funny. Did O'Brien put you up to this?#
@@ -462,7 +463,7 @@ BASHIR: Everything. It's a sweeping recalibration of all systems.#
 BASHIR: You would? After your long trip, I thought you might enjoy stopping by a holosuite?#
 BASHIR: No. I, the holosuites are capable of many different#
 BASHIR: Perhaps we should all just get some rest.#
-BASHIR: Ambassador. Madam Ambassador, I'm only (A scream from the garishly dressed and be-wigged Betazoid at the dabo table)#
+BASHIR: Ambassador. Madam Ambassador, I'm only#
 BASHIR: What's gone, Madam Ambassador?#
 BASHIR: Quark!#
 BASHIR: Someone has stolen Ambassador Troi's latinum hairbrooch.#
@@ -490,7 +491,7 @@ BASHIR: I will surely pass that on, Ambassador.#
 BASHIR: Here, take my hand, Madam Ambassador. Watch your head.#
 BASHIR: Just in the right place at the right time, sir.#
 BASHIR: He's been hit by weapons fire. It's severe. We've got to get him to cryostasis.#
-BASHIR: He's dead. Station log, Stardate 46922.3. We have identified the dead Klingon his name was Hon'Tihl, First Officer of the Toh'Kaht. Why he died, and the cause of his ship's destruction, is still unknown.#
+BASHIR: He's dead.#
 BASHIR: I found tritanium alloy fragments in his chest and upper arms. If that was all, we could have saved him, but those weapon burns were too severe.#
 BASHIR: I'm running a microtissue analysis right now. I should have the results in a couple of hours.#
 BASHIR: Welcome back, Constable.#
@@ -503,7 +504,7 @@ BASHIR: Just don't be surprised if the uneasy alliance on this station starts to
 BASHIR: Commander Sisko and Kira. Mark my words, there's going to be trouble.#
 BASHIR: Very clever, Constable. But you're probably right. It's still too early to commit oneself either way.#
 BASHIR: Unless you'd like to pour yourself through my phoretic analyser. I'd love to see the results.#
-BASHIR: It'll take effect in two minutes. Plenty of time to get a good Plenty of time for you to get a good night's sleep.#
+BASHIR: It'll take effect in two minutes. Plenty of time to get a good  Plenty of time for you to get a good night's sleep.#
 BASHIR: Chronic insomnia. I think it's hormonal. So, how are you?#
 BASHIR: Of course. You know, Odo, events have been moving rapidly since our last conversation. I'd advise you to choose sides now or risk finding yourself without any friends at all.#
 BASHIR: He's still dead, if that's what you mean.#
@@ -559,7 +560,8 @@ BASHIR: Will somebody please explain this conversation to me?#
 BASHIR: Nobody could have planned this.#
 BASHIR: Maybe somebody saw them leave.#
 BASHIR: Where the hell's it coming from?#
-BASHIR: Kira! (Bashir goes up and unties her. He gets shot, and Li shoots his attacker. Kira picks up the comm. badge) BASHIR: Chief, get us out of here!#
+BASHIR: Kira!#
+BASHIR: Chief, get us out of here!#
 BASHIR: Do not talk.#
 BASHIR: Because it gets them what they want the most.#
 BASHIR: No more provisional government, no more invitation.#
@@ -572,7 +574,8 @@ BASHIR: You haven't made any friends, here, Chief. Or should I say, Chef.#
 BASHIR: Actually, when I was in Med school, I designed an incredible candy bar which was far superior in food value.#
 BASHIR: That puts them closest to me, Commander.#
 BASHIR: Aye, sir. We're on our way.#
-BASHIR: I wouldn't get too close to that. It's thorium isotope. (Bashir opens a grating and points his phaser at them. Others pop out of crates and barrels.) BASHIR: Prolonged exposure could have very nasty consequences.#
+BASHIR: I wouldn't get too close to that. It's thorium isotope.#
+BASHIR: Prolonged exposure could have very nasty consequences.#
 BASHIR: Bashir to Sisko.#
 BASHIR: Mission accomplished.#
 BASHIR: Quark, leave it!#
@@ -590,7 +593,7 @@ BASHIR: I see. Well, in that case.#
 BASHIR: You can't remove Jadzia's symbiont. If you do, she'll die.#
 BASHIR: I'll have no part in this.#
 BASHIR: Let me treat Chief O'Brien's phaser wound first. It won't take long. There's an emergency medical kit in the console.#
-BASHIR: Hold still, Chief. There. There should be no permanent damage. Apply this every twenty minutes or so. It should help the wound regenerate.#
+BASHIR: Hold still, Chief. There. There should be no permanent damage.  Apply this every twenty minutes or so. It should help the wound regenerate.#
 BASHIR: It's a delta wave inducer, to keep you asleep during the operation. It also increases your body's natural endorphin production to help accelerate the healing process.#
 BASHIR: I strongly recommend that you use it. The surgery will be much easier on you if you#
 BASHIR: I'm sorry, Jadzia.#
@@ -709,7 +712,7 @@ BASHIR: The question is whether or not this officer deliberately left the son of
 BASHIR: Would you happen to know then of a base known during the occupation as Terok Nor?#
 BASHIR: Jomat Luson clearly recalls that the officer who brought in Rugal was attached to Terok Nor.#
 BASHIR: Gul Dukat! Who was the commanding office at Terok Nor eight years ago?#
-BASHIR: For the record, the commanding office of Terok Nor eight years ago was Gul Dukat. Station log, stardate 47178.3. After long and difficult deliberations, I have decided to allow Pa'Dar to take his son back to Cardassia. Although I am convinced his Bajoran foster parents treated him with love, Rugal has been the clear victim in this conspiracy. I believe it's time for his healing to begin.#
+BASHIR: For the record, the commanding office of Terok Nor eight years ago was Gul Dukat.#
 BASHIR: But there's one more question I haven't figured out, Garak. Why did you want to expose Dukat? What's the truth about you and him?#
 BASHIR: You're not going to tell me.#
 BASHIR: It isn't. Ensign Pazlar sent me the specifications.#
@@ -792,7 +795,7 @@ BASHIR: Melora's alive.#
 BASHIR: I don't know. Maybe all the neuro-stimulants we've been pumping into your system.#
 BASHIR: You know, it might make an interesting side effect of the treatment. It's worth exploring.#
 BASHIR: Well, you can always try it again someday, if you change your mind.#
-BASHIR: So am I. (The Chef breaks into a serenade, accompanying himself on a tiny one-string violin)#
+BASHIR: So am I.#
 BASHIR: You must be exhausted. If you don't want to stay.#
 BASHIR: Easy now. That's quite a bump you have there.#
 BASHIR: Luckily there doesn't seem to be any serious damage.#
@@ -824,7 +827,7 @@ BASHIR: One.#
 BASHIR: I thought he was going to have a heart attack.#
 BASHIR: No, really. His face was flushed. I could've taken his pulse just watching the side of his neck.#
 BASHIR: Don't think I didn't try. After the first game, I told him I had an appointment. He ignored me. After the second game, I told him I was getting tired. He didn't believe me. And then his racquet broke and I thought, finally. But no. He made me stay there while he went away and replicated another one.#
-BASHIR: While he was gone, I called my assistant and told her. May I? Told her to call me back after five minutes and say there was an emergency at the Infirmary.#
+BASHIR: While he was gone, I called my assistant and told her. May I?  Told her to call me back after five minutes and say there was an emergency at the Infirmary.#
 BASHIR: There was no other way out. Otherwise there would have been an emergency. Chief O'Brien's coronary.#
 BASHIR: That's just it. This is just the beginning. The Chief wants a rematch, and I'm telling you, it's going to kill him.#
 BASHIR: He's too young to die. I guess I'm overstating the health risk. That's not the point. The Chief has a lot of pride, and for good reason. I really respect him, the things he does, the kind of man he is. I just don't want to humiliate him.#
@@ -853,11 +856,11 @@ BASHIR: Are you suggesting that I throw the match?#
 BASHIR: Forget it, Quark.#
 BASHIR: Will be provided by you one way or another, and if the monks don't get their blankets, Chief O'Brien and I'll be very upset. Do I make myself clear?#
 BASHIR: Now, if you'll excuse me, I have a match to play.#
-BASHIR: You too. (Bashir serves, and O'Brien returns just as he'd practised in front of the mirror)#
+BASHIR: You too.#
 BASHIR: Why did you do that?#
 BASHIR: With me maybe, but you're having a great game.#
 BASHIR: And I can't hit the broad side of a Plygorian mammoth.#
-BASHIR: It should have come straight back to me. You try. (O'Brien throws and the ball returns to his hand. A second throw and after five bounces it returns to his palm like a homing pigeon)#
+BASHIR: It should have come straight back to me. You try.#
 BASHIR: It goes right into his hand. Every single time.#
 BASHIR: Nobody can be that lucky. It's impossible.#
 BASHIR: They're stable for now. Dax is in fair condition. The Bajorans seem to be more seriously affected. Perhaps they were exposed to more of the gas, or there may be something about Trill physiology. I'm not sure yet.#
@@ -870,14 +873,16 @@ BASHIR: That's not impossible. The environmental impact might have taken some ti
 BASHIR: He's much better. He should be up and around in the morning.#
 BASHIR: My replicator or yours?#
 BASHIR: I knew that. Well, thanks anyway. I've got a few things to wrap up around here.#
-BASHIR: She enjoys it. She actually gets some kind of perverse pleasure out of it. One of these days I'm going to stop chasing her, and then we'll see. (There's a noise from the inner ward. As Bashir checks on his patients comes down through the ceiling vent and wraps a tentacle around his neck. He manages to get a laser scalpel and wound it. Mora wakes as it disappears into the ventilation grill again.) BASHIR: Emergency. Emergency! Intruder alert.#
+BASHIR: She enjoys it. She actually gets some kind of perverse pleasure out of it. One of these days I'm going to stop chasing her, and then we'll see.#
+BASHIR: Emergency. Emergency! Intruder alert.#
 BASHIR: It happened so quickly. I'm sorry I can't tell you any more about it. It was behind me, and then it was gone. But it was big, very big.#
 BASHIR: I don't know. I don't even know if I injured it at all. I just hit it once with a laser scalpel on the arm, or the leg, or the tentacle, or whatever it was, and then it went up the wall and was gone.#
 BASHIR: Now that you come to mention it, it was a bit warm in here.#
 BASHIR: No, I didn't want to disturb the patients.#
 BASHIR: I'm not going to try and explain exactly what happened to you, Odo, because I haven't the vaguest idea. I can tell you that with Doctor Mora's help we've managed to eliminate all traces of the gas from your cellular structure. I prescribe rest because it's hard for a doctor to go wrong with that one. Otherwise, there's not much more I can do for you.#
 BASHIR: Doctor Nydrom, how's our muon charge?#
-BASHIR: Go ahead, please. (A woman puts a cylinder of orange stuff into the central machine - think Tardis console) BASHIR: Computer, this is harvester test sequence three hundred and seventy five.#
+BASHIR: Go ahead, please.#
+BASHIR: Computer, this is harvester test sequence three hundred and seventy five.#
 BASHIR: Once more unto the breach. I hope this works, because quite frankly I'm running out of ideas.#
 BASHIR: Is that all it's been? It feels like we've been working more than a month. I've never seen a nanobiogenic weapon so resistant to broad spectrum radiation. It's just a matter of finding the right combination of muon frequencies. It should be simple, but it's not.#
 BASHIR: All right, Chief. I'm introducing the harvester into the genetic bath. Beginning muon influx now.#
@@ -989,7 +994,7 @@ BASHIR: Did I?#
 BASHIR: Of course. Now I remember.#
 BASHIR: Not quite. I just have one or two more tests to run.#
 BASHIR: Relax, Chief. I'm giving you a clean bill of health. You can get dressed.#
-BASHIR: Here, this'll help you relax. (O'Brien throws his flash grenade down, blinding everyone as he grabs Kira's phaser and dashes out);#
+BASHIR: Here, this'll help you relax.#
 BASHIR: There was no way to prove he wasn't you. He passed a physical exam with flying colours, and he sure knew his way around the station.#
 BASHIR: By the time we learned of your rescue, he'd already gotten away from us and was on his way here.#
 BASHIR: Let me get this straight, Major. You want me to spy on Quark for you?#
@@ -1337,7 +1342,7 @@ BASHIR: And where did you get this information, from one of your friends on the 
 BASHIR: And you believed them?#
 BASHIR: How fortunate for you.#
 BASHIR: You're a regular visionary, Quark.#
-BASHIR: Now look (The Jem'Hadar pulls O'Brien back up off the floor and throws him over the bar. And goes to do it again.)#
+BASHIR: Now look#
 BASHIR: That's enough.#
 BASHIR: That's a lie.#
 BASHIR: Tell him that.#
@@ -1455,13 +1460,15 @@ BASHIR: Well, I haven't been able to identify his species, but he seems to be he
 BASHIR: For a humanoid, he has an incredibly fast metabolic rate. The cells in his body are dividing at a pace I haven't seen outside of a laboratory, but since there are no thyroid or hypothalamic problems, I assume this is only natural for someone of this species but I would like to do further tests.#
 BASHIR: Yes, sir.#
 BASHIR: Yes, it's about our new visitor#
-BASHIR: No, but he's not a baby any more. (A young boy is sitting on a bed, with a hint of scales on his forehead.) BASHIR: There are a great many species with what we would consider accelerated growth rates. But they're usually small, physiologically simple creatures. I've never seen such a rapid maturation process in anything as complex as a humanoid.#
+BASHIR: No, but he's not a baby any more.#
+BASHIR: There are a great many species with what we would consider accelerated growth rates. But they're usually small, physiologically simple creatures. I've never seen such a rapid maturation process in anything as complex as a humanoid.#
 BASHIR: Well, judging by his cellular kinetics profile, I'd say he's no more than two weeks of age.#
 BASHIR: With your kind of metabolism, I'm not surprised. I'll get you something in a few minutes.#
 BASHIR: I'll be right back.#
 BASHIR: And cognitive reasoning. He didn't just pick those up by sitting there listening to us. This is either a natural ability of his species or there's been some kind of basic intelligence implanted into his genetic structure.#
 BASHIR: Yes. And I tend to discount the possibility that it is a natural ability. His biomolecular diffusion gradient already suggests that his cellular mitosis has been artificially enhanced.#
 BASHIR: Possibly. If so, he's an example of some very advanced genetic engineering. His cognitive abilities are developing without any external stimuli.#
+BASHIR: The boy's DNA sequence has definitely been altered. The nucleotide analysis proves that conclusively.#
 BASHIR: There's more. His blood chemistry shows he's missing a key isogenic enzyme. Without large quantities of it his circulatory system would simply shut down.#
 BASHIR: I've been trying and I think I've come up with a temporary substitute, but what I don't understand is why anybody would want to genetically engineer someone with such an obvious flaw.#
 BASHIR: On my way.#
@@ -1523,7 +1530,7 @@ BASHIR: If you can't remember, then it's been too long. You're off duty as of th
 BASHIR: Oh yes I can, And not even Commander Sisko can overrule my judgement as Chief Medical officer.#
 BASHIR: My diagnosis is that you're overworked, and suffering from extreme stress and borderline exhaustion. As for my prescription? Follow me.#
 BASHIR: Now, at least two of these items must be used and fully enjoyed before you can leave this facility.#
-BASHIR: If I hear you didn't completely relax and enjoy yourself tonight, we'll do this every night until you do. Have fun. (Bashir leaves, Kira smiles and takes a sip of her juice, then a familiar voice comes out of the blue - or beard.)#
+BASHIR: If I hear you didn't completely relax and enjoy yourself tonight, we'll do this every night until you do. Have fun.#
 BASHIR: Nervous, Chief?#
 BASHIR: That's your fifth cup of coffee in twenty minutes.#
 BASHIR: Nervous and irascible.#
@@ -1595,7 +1602,7 @@ BASHIR: If we ever get home, I promise never to complain about the station's Car
 BASHIR: Why am I not surprised?#
 BASHIR: Do you think there's a way out of here?#
 BASHIR: Look, maybe we can make a deal. Isn't there something we could exchange in order to get access to the roof?#
-BASHIR: Yeah, and we smell just as bad as everyone else too. (A boy is being tended by an older man. As he hears their footsteps he grabs a knife.)#
+BASHIR: Yeah, and we smell just as bad as everyone else too.#
 BASHIR: What happened?#
 BASHIR: Well, why don't you let me take a look? I know a little bit about medicine.#
 BASHIR: It can't hurt to just look.#
@@ -1853,23 +1860,24 @@ BASHIR: Well, in many human cultures, the thirtieth birthday is considered a sor
 BASHIR: No. It's just that when you hit thirty, it becomes harder and harder to ignore the passage of time.#
 BASHIR: Well I am aware that aging is part of the natural process of life. It's just that I don't want to be reminded of it, that's all. Look, Garak, in two days I turn thirty. If I choose to be grumpy about it, that's my prerogative.#
 BASHIR: Thank you for the support.#
-BASHIR: What? Oh, Quark. I'm sorry. How can I help you? (Quark approaches, accompanied by a large reptilian with red eyes and horns or teeth sticking out of his face.)#
+BASHIR: What? Oh, Quark. I'm sorry. How can I help you?#
 BASHIR: Biomemetic gel is a restricted substance. Its sale is strictly prohibited by Federation law.#
 BASHIR: Why do you need it?#
 BASHIR: Oh. I am sorry, but biomemetic gel can be hazardous if handled incorrectly. It's not for sale. At any price.#
 BASHIR: Quark, you might want to warn your friend that even attempting to obtain biomemetic gel is a felony under Federation law.#
 BASHIR: Goodbye, Quark.#
 BASHIR: Lights.#
-BASHIR: What do you think you're doing? (Altovar grabs Bashir's head and there's a prolonged electric discharge. Bashir collapses) (After the opening credits, Bashir wakes among flickering lights, static ridden monitors and the mess. He starts tidying up.) BASHIR: Bashir to Security. Bashir to Ops. This is Doctor Bashir. Can anyone read me? Computer, locate Commander Sisko. Computer, respond. Computer?#
+BASHIR: What do you think you're doing?#
+BASHIR: Bashir to Security. Bashir to Ops. This is Doctor Bashir. Can anyone read me? Computer, locate Commander Sisko. Computer, respond. Computer?#
 BASHIR: Hello? Is somebody there? Hello?#
-BASHIR: Hello? Is there anybody there? Where is everybody? (In the mirror on the kiosk next door he catches sight of grey hair at his temples. There's a crash and breaking glass in Quark's across the way.)#
+BASHIR: Hello? Is there anybody there? Where is everybody?#
 BASHIR: Who's there?#
 BASHIR: Quark? It's all right. It's me, Bashir. What is it? What's going on? Tell me.#
 BASHIR: Who? Who are you so afraid of? Where's Sisko? What happened to the rest of the crew? Why don't you come with me? We'll go and try to find them.#
 BASHIR: Safe? From whom? Quark, you have got to tell me.#
 BASHIR: We've got to find a way to put these lights back on.#
 BASHIR: Wait.#
-BASHIR: Who's there? Show yourself! (A table flies at him. Bashir leaves to the sound of smashing furniture.)#
+BASHIR: Who's there? Show yourself!#
 BASHIR: Quark? Quark!#
 BASHIR: Tarkalean Tea. Constable?#
 BASHIR: Garak?#
@@ -1884,7 +1892,7 @@ BASHIR: What is it?#
 BASHIR: So I've noticed.#
 BASHIR: Look, Garak, we haven't got time for this. We have to find out what's going on here.#
 BASHIR: I'll meet you back on the Promenade in an hour. Be careful.#
-BASHIR: Level H one, section A. (Hands stop the doors from closing. Bashir's grey is very pronounced now. Bashir kicks at Altovar's hands and the doors close. The turbolift starts to move. Then there's thumping on the roof and it starts to cave in. The turbolift stops.)#
+BASHIR: Level H one, section A.#
 BASHIR: Looking for you.#
 BASHIR: The Lethean? You mean Altovar?#
 BASHIR: We've met. He attacked me in the Infirmary.#
@@ -1965,7 +1973,7 @@ BASHIR: You're going to help me.#
 BASHIR: But other than that, I feel wonderful. Now, are you going to give me a hand or not?#
 BASHIR: Get me up.#
 BASHIR: What is this?#
-BASHIR: I'm sorry, but I really haven't got time for this. DABO GIRL But it's a party and it's all for you.#
+BASHIR: I'm sorry, but I really haven't got time for this.#
 BASHIR: Garak, get me over to the engineering station. Now.#
 BASHIR: There must be a way to reactivate the central computer network.#
 BASHIR: My engineering extension classes at Starfleet Medical focused mainly on starship operations, but I think if I can re-route the primary command processor I might be able to bypass the disabled systems and get it operational.#
@@ -2049,6 +2057,7 @@ BASHIR: Let's face it, Captain, the woman hates you.#
 BASHIR: No one is questioning your authority, Captain. But we have got to stop her before she finishes that sensor array.#
 BASHIR: We have to kill her.#
 BASHIR: Well maybe it's time he listened.#
+BASHIR: Bashir to Infirmary. Medical emergency on the Promenade.#
 BASHIR: Yes, yes.#
 BASHIR: Modern playwrights have become obsessed with writing human interpretations of alien theatrical works while ignoring completely our own unique cultural heritage in hopes of. Chief, are you listening to me?#
 BASHIR: I thought so.#
@@ -2166,10 +2175,10 @@ BASHIR: This shouldn't take long.#
 BASHIR: Who's next?#
 BASHIR: I'd say the Major is exactly who she appears to be.#
 BASHIR: There doesn't seem to be any point obtaining a sample from the Constable. I guess that leaves the three of us.#
-BASHIR: Would someone please get me out of here? (Fake Bashir morphs away into the ceiling. Sisko fires then gives the nod and Odo follows his countryman.)#
+BASHIR: Would someone please get me out of here?#
 BASHIR: Still unconscious. The changeling gave her enough sedative to keep her under for days. I've managed to filter most of it out of her system, but she'll be out for another few hours. I wish I could do more.#
 BASHIR: What about the coup on the Tzenkethi homeworld?#
-BASHIR: Just there. All right, I want phaser sweeps of everything in the Promenade. He's here somewhere. Let's find him. On three. One, two (Odo stops being the multi-lingual shop directory and puts his hand on Bashir's shoulder)#
+BASHIR: Just there. All right, I want phaser sweeps of everything in the Promenade. He's here somewhere. Let's find him. On three. One, two#
 BASHIR: Chief, I'm beginning to think there's no limit to the wonders you can perform.#
 BASHIR: Thank you, Quark. Can we get a little yamok sauce for these sand peas? Quark?#
 BASHIR: I don't hear a thing.#
@@ -2206,7 +2215,8 @@ BASHIR: Maybe. I just don't want to have to listen to it. Watch your back.#
 BASHIR: Any time.#
 BASHIR: Poor Garak. Dukat's a hero, and Garak's still stuck in his tailor shop hemming trousers.#
 BASHIR: You set up a workshop in the bedroom?#
-BASHIR: Of course not. O'BRIEN She says I'm trying to live like a bachelor again, that I'm expressing a subconscious desire to push her out of our quarters. BASHIR: Now that is ridiculous.#
+BASHIR: Of course not.#
+BASHIR: Now that is ridiculous.#
 BASHIR: I mean, if anything, by spending your free time in the bedroom, a place you intimately associate with Keiko, you are actually expressing a desire to be closer to her during her absence. It's quite touching, really.#
 BASHIR: More like?#
 BASHIR: So you wish Keiko was a man?#
@@ -2327,7 +2337,8 @@ BASHIR: Easy now.#
 BASHIR: Go ahead.#
 BASHIR: Aye, sir. Let's get everybody past that bulkhead.#
 BASHIR: Bashir to Bridge, I'm sealing the bulkhead now.#
-BASHIR: Dax! Hurry! (She sends Muniz ahead of her as the forcefield gets very noisy. Then it fails and the poisonous atmosphere floods in.) BASHIR: Jadzia!#
+BASHIR: Dax! Hurry!#
+BASHIR: Jadzia!#
 BASHIR: Bridge.#
 BASHIR: Bridge.#
 BASHIR: How do you feel?#
@@ -2358,7 +2369,7 @@ BASHIR: Everything you ever wanted to know about Earth is right in that PADD.#
 BASHIR: Make us proud.#
 BASHIR: Do you believe a word of this?#
 BASHIR: Lot of kick for a forty five Dom.#
-BASHIR: Bashir. Julian Bashir. (Well, it's the right initials, and he does get a round of applause as he kisses the woman.)#
+BASHIR: Bashir. Julian Bashir.#
 BASHIR: An uninvited guest. Excuse me.#
 BASHIR: Nice tux.#
 BASHIR: Now get out.#
@@ -2385,7 +2396,7 @@ BASHIR: Actually, my character is far more disreputable. I'm a spy.#
 BASHIR: Yes. I work for one of the nation states of this era, Great Britain, which is battling various other nations in what is called the Cold War. This apartment, my clothes, weapons, even my valet were provided to me by my government.#
 BASHIR: It's perfect.#
 BASHIR: It's all part of my cover. I'm posing as a wealthy jet-setter, so I have to act like one.#
-BASHIR: People of this era used to travel in (There's a thump off-screen. Bashir draws his gun then presses a button. The bar rotates to reveal a bed. Kira is on the bed, in a nightgown and speaking with a russian accent.)#
+BASHIR: People of this era used to travel in#
 BASHIR: Very funny. Who else did you invite along with you today?#
 BASHIR: I had a parachute, and there was a submarine there waiting for me. But how do you know about that? Have you been downloading my holosuite programmes?#
 BASHIR: Nerys, please.#
@@ -2407,7 +2418,7 @@ BASHIR: You said she's been kidnapped.#
 BASHIR: Look.#
 BASHIR: If Honey Bare is killed, the computer will erase her character from its programme. Now since the programme thinks that Dax is Honey Bare#
 BASHIR: Kira, erm, Ana. Do you have any idea where Professor Bare is?#
-BASHIR: I'll be right with you, Mona. (Mona falls forward with a knife in her back. Two thugs with guns enter followed by O'Brien wearing an eye-patch.)#
+BASHIR: I'll be right with you, Mona.#
 BASHIR: No. It's Falcon.#
 BASHIR: You could say that.#
 BASHIR: I bought those for Anastasia last Christmas. You're bleeding.#
@@ -2419,7 +2430,7 @@ BASHIR: I'll deal with that situation if and when it happens. In the meantime, w
 BASHIR: Ana, I promise I'll explain everything later. Now, you said Professor Bare had been kidnapped. Do you have any suspects?#
 BASHIR: The Club Ing�nue?#
 BASHIR: I had a feeling.  Sorry, my dear. I hope you remember how to tie a bow-tie. We're going to Paris.#
-BASHIR: I'd like to see Doctor Noah. I have an invitation. (The flunky goes behind the decorative glass window - as previously broken - then gestures for them to come over. A large figure in a white jacket is playing baccarat.)#
+BASHIR: I'd like to see Doctor Noah. I have an invitation.#
 BASHIR: Doctor Noah?#
 BASHIR: May I?#
 BASHIR: My name's Merriweather. Patrick Merriweather. And this is my wife Anastasia. And my friend Mister Garak.#
@@ -2451,12 +2462,13 @@ BASHIR: Shut up. Noah only wants you for your mind. He can't appreciate the woma
 BASHIR: You know, your hair would look so much better if it were free.#
 BASHIR: There. That's the last thing I want to remember before I die.#
 BASHIR: That will not be necessary.  Honey has given me all we need.#
-BASHIR: Come on! (The laser lights up.#
+BASHIR: Come on!#
 BASHIR: We have to get to the control room.#
 BASHIR: If this programme ends like the others, either Komananov or Honey Bare will be killed by Doctor Noah. The other's supposed to end up with me. In either case, we have to make sure that both of them survive.#
 BASHIR: It's my fantasy. Trust me.#
 BASHIR: We can't do that. Kira or Dax might#
-BASHIR: Quit? GARAK Yes. BASHIR: Is that what they taught you in the Obsidian Order? To give up when things get tough?#
+BASHIR: Quit?#
+BASHIR: Is that what they taught you in the Obsidian Order? To give up when things get tough?#
 BASHIR: Oh, so that's what this is all about. The fact that my fantasy happens to step on what you consider to be your private domain. Well what's the matter, Garak? Have I bruised your ego by play-acting at something you take so very seriously?#
 BASHIR: Don't.#
 BASHIR: If you call for the exit, you might kill Sisko and the others, and I'm not prepared to risk that.#
@@ -2482,7 +2494,7 @@ BASHIR: Oh, I think it's safe to say that Julian Bashir, secret agent, will retu
 BASHIR: A Scotch, neat, and a pint of your finest bitter for my mate.#
 BASHIR: No choice, man. Ritual, you know.#
 BASHIR: Got to keep a stiff upper lip.#
-BASHIR: Down the hatch. (They drain their glasses in one - that was not a full pint anyway - and make to smash them.)#
+BASHIR: Down the hatch.#
 BASHIR: I don't know. To tell you the truth, my heart isn't in it.#
 BASHIR: There's a Spitfire with your name on it waiting in the hangar. When you get back from Earth, you can take Clive's place in the squadron.#
 BASHIR: No, no, that's perfectly fine. I just wish I was coming with you.#
@@ -2522,7 +2534,7 @@ BASHIR: The plasma discharge damaged your hippocampus. You're suffering from a s
 BASHIR: I feel silly.#
 BASHIR: What do you call this holosuite programme of yours called again?#
 BASHIR: How come you get to be the High King?#
-BASHIR: I suppose that's only fair. (They go upstairs. An alien dabo girl is vainly trying to get people to play. Rom is whining whilst mixing a drink.)#
+BASHIR: I suppose that's only fair.#
 BASHIR: This is one stubborn infection. How long have you had it?#
 BASHIR: You mean to tell me you've been walking around with a seeping infection of the tympanic membrane for two weeks?#
 BASHIR: Rom, you could have died! Another forty eight hours and you'd have been bidding for a new life in the Divine Treasury.#
@@ -2659,7 +2671,7 @@ BASHIR: Well done, Odo.#
 BASHIR: Something has stimulated Jake's brain functioning in a way that I have never seen. The capillaries in his cerebral cortex have dilated twenty percent. Neurotransmitter production is up by at least that amount, and neural activity is off the scale.#
 BASHIR: Not yet, but it's a good thing we got him here when we did. His cortex was on the verge of synaptic collapse.#
 BASHIR: I'd like to keep him in a neural stabilisation field for a while.#
-BASHIR: I'll let you know if his condition changes.  I'll be in the lab. (Later, as Nurse Patricia Tallman is tending to Jake, a golden glow comes through the wall, solidifies into Onaya and knocks her out.)#
+BASHIR: I'll let you know if his condition changes.  I'll be in the lab.#
 BASHIR: The tests I ran indicated that Jake's mental activity was stimulated by some kind of psionic phenomenon, possibly telepathic in nature.#
 BASHIR: We have to find it, then get Jake back in the neural stabilisation field before it's too late.#
 BASHIR: That'll help, but only for a while. Psionic residue decays within minutes.#
@@ -2706,7 +2718,7 @@ BASHIR: It means we can start analysing its molecular structure, look for bindin
 BASHIR: I'm going to start mapping nucleotides. Can you run a protein sequencer?#
 BASHIR: Starving.#
 BASHIR: Well, thanks anyway. She's not interested either. I hope Dax is having better luck.#
-BASHIR: Well, I need to chart the progression of the viral (the young man bumps into him) I'm sorry.#
+BASHIR: Well, I need to chart the progression of the viral  I'm sorry.#
 BASHIR: Yes.#
 BASHIR: Unfortunately it seems to like yours.#
 BASHIR: What if I told you there was a chance you didn't have to die? I'm a doctor.#
@@ -2714,7 +2726,7 @@ BASHIR: I'm working on one.#
 BASHIR: It won't cost you anything.#
 BASHIR: I need volunteers, people who have quickened.#
 BASHIR: I have medicines that can dull the pain. I have equipment unlike anything on your world.  How would you like me to fix that arm so you can play with your friends over there? I'm not going to hurt you.  You have got a fracture right here. I bet it hurts.#
-BASHIR: Better? (The boy flexes his arm, grabs the sling and runs over to his friends. The crowd are impressed.)#
+BASHIR: Better?#
 BASHIR: I know that.#
 BASHIR: I just want to do what I can to help. I'm not making any promises.#
 BASHIR: I'm trying to chart the life-cycle of the virus. It would be a lot easier if I'd gotten more tissue samples.#
@@ -2723,7 +2735,7 @@ BASHIR: But you don't feel that way anymore.#
 BASHIR: Oh, no, not really.#
 BASHIR: Well, with any luck, you'll see him have children of his own.#
 BASHIR: Oh, a little.#
-BASHIR: All right, everyone gets three milligrams, including you. Perfect.#
+BASHIR: All right, everyone gets three milligrams, including you.  Perfect.#
 BASHIR: He's further along than everyone else. I'm hoping he'll be the first to respond to the antigen. Think of it. She may well be holding the cure in her hands. Do you think we should tell her what she's giving them?#
 BASHIR: I suppose.#
 BASHIR: Oh?#
@@ -2740,7 +2752,7 @@ BASHIR: Well, I wouldn't be much of a doctor if I gave up on a patient, would I?
 BASHIR: Oh, in a closet somewhere.  On a shelf in my room.#
 BASHIR: Something's causing the virus to mutate.#
 BASHIR: I don't see how. I need a micro-cellular scanner.#
-BASHIR: My God! It's the EM fields from our instruments! (a woman screams) Shut everything down! Now!#
+BASHIR: My God! It's the EM fields from our instruments!  Shut everything down! Now!#
 BASHIR: The mutation rate hasn't slowed. The effect must be cumulative. Give everybody four milligrams of cordrazine.#
 BASHIR:  Come on breathe. Breathe. Breathe.#
 BASHIR: Breathe!#
@@ -2767,7 +2779,7 @@ BASHIR: Push! Good. Good. Now breathe. Don't stop breathing. Don't stop breathin
 BASHIR: My God. That's why there's no antigen in your system. It's all been absorbed through the placenta. Ekoria, he doesn't have any lesions. He doesn't have the Blight.#
 BASHIR: It's not a cure, it's a vaccine. Every pregnant woman should be inoculated with it as soon as possible. It won't help them, but it will protect their babies.#
 BASHIR: The vaccine isn't difficult to make, but seeing that everybody gets it will be a huge task.#
-BASHIR: I was hoping you'd ask that. (Bashir hands the child to Trevean.#
+BASHIR: I was hoping you'd ask that.#
 BASHIR: Let's try an A to C base pair reshuffling.#
 BASHIR: Thank you, sir.#
 BASHIR: People are still dying back there.#
@@ -2881,15 +2893,19 @@ BASHIR: How does Keiko feel about you helping Kira out of the tub?#
 BASHIR: I'm sure that Keiko and Kira have. But you?#
 BASHIR: I bet you looked.#
 BASHIR: A compound fracture of the right radius, two fractured ribs, torn ligaments, strained tendons, numerous contusions, bruises and scratches. What have you been doing?#
-BASHIR: Never mind. I don't need that particular image running around in my head. I'll just treat you. (Dax and Worf enter. His hair is dishevelled and they both have scratches.) BASHIR: What happened to you two?#
+BASHIR: Never mind. I don't need that particular image running around in my head. I'll just treat you.#
+BASHIR: What happened to you two?#
 BASHIR: No! No, er, I don't need that image either. In fact, I'm going to stop asking that question altogether. People can come in, I will treat them, and that's all. Please, have a seat. I'll be with you in a minute.#
 BASHIR: I knew that my paper was controversial, but I had no idea it would turn the entire conference upside down. Believe me, Jake, panel discussions between doctors are usually a lot more civilised than that.#
 BASHIR: Oh, that was just a veneer. That paper stepped on quite a few toes, I can tell you. It's heresy to even consider the possibility that prion replication could be inhibited by quantum resonance effects. Aren't you going to take any notes?#
 BASHIR: According to the so-called experts, it's all a matter of amino acid re-sequencing and disulfide shuffling. Quantum dynamics has nothing to do with it.#
-BASHIR:  But how can that be? After all, peptide bonds can be reconfigured on a BASHIR: Quantum level. Ah, now get this. This is very good. A few months ago#
-BASHIR:  I was running a neural scan and noticed some anomalous protein readings. I thought there must be some mistake, so I ran an at the Journal and amino acid sequence to be sure. But there it was again, the prion mutation rate had spiked. I couldn't believe it. It meant the anomalous proteins had to have a strong quantum resonance. BASHIR: Do you follow?#
+BASHIR:  But how can that be? After all, peptide bonds can be reconfigured on a#
+BASHIR: Quantum level. Ah, now get this. This is very good. A few months ago#
+BASHIR:  I was running a neural scan and noticed some anomalous protein readings. I thought there must be some mistake, so I ran an at the Journal and amino acid sequence to be sure. But there it was again, the prion mutation rate had spiked. I couldn't believe it. It meant the anomalous proteins had to have a strong quantum resonance.#
+BASHIR: Do you follow?#
 BASHIR: Good. Because that's the key. The protein anomalies. They indicate a correlative#
-BASHIR:  Increase in prion replication. And that can only mean one of two things either the peptide bonds are unstable, or some other factor is causing the mutations. Rather than start the labourious process of running BASHIR: Quantum scanning each and every peptide bond, I thought I'd begin to make some kind of#
+BASHIR:  Increase in prion replication. And that can only mean one of two things either the peptide bonds are unstable, or some other factor is causing the mutations. Rather than start the labourious process of running#
+BASHIR: Quantum scanning each and every peptide bond, I thought I'd begin to make some kind of#
 BASHIR: It's a distress call from the Federation colony on Ajilon Prime. They're under attack. The Klingons have landed troops.#
 BASHIR: The main hospital's been damaged. They're short on doctors and running low on supplies.#
 BASHIR: It's risky. The hospital's only fifty kilometres away from the front line.#
@@ -2930,8 +2946,10 @@ BASHIR: The runabout. There's a portable generator on the runabout.#
 BASHIR: About a kilometre south of here. I'll need help carrying it though.#
 BASHIR: We set down just over that ridge.#
 BASHIR: Get down!#
-BASHIR: Stay close. And keep your head low. (More explosions. Bashir gets to a large rock before Jake manages to move himself.) BASHIR: Whatever happens, one of us has to get that generator. Stick with me. (Bashir goes first, trying to keep large rocks between them and the source of the shelling.) BASHIR: Come on, Jake!#
-BASHIR: Jake! (Bashir is knocked out by an explosion. Jake beats a rapid retreat. He keeps on running until he trips and lands on the corpse of a Klingon. There are Starfleet dead nearby too. He's found a battlefield, so he runs again. Over a ridge and tumbling down the other side to -)#
+BASHIR: Stay close. And keep your head low.#
+BASHIR: Whatever happens, one of us has to get that generator. Stick with me.#
+BASHIR: Come on, Jake!#
+BASHIR: Jake!#
 BASHIR: Jake! Oh, thank God. I thought you'd been killed. Once the shelling had stopped and I couldn't find you, I assumed the worst. I am so sorry.#
 BASHIR: No. No, it isn't. I should never have brought you here in the first place. Now we're stuck here, the Klingons are massing to attack. What was I thinking!#
 BASHIR: Jake.#
@@ -2941,7 +2959,7 @@ BASHIR: What, Jake? What is it?#
 BASHIR: Come on. That's not what set you off. Something's eating at you, I can see it.#
 BASHIR: Ever since you came back you've been walking around looking miserable.#
 BASHIR: Jake.#
-BASHIR: All right, if that's what you want. But if you want to talk you know where to find me. (Bashir leaves. Jakes sits down and finally cries. Then he falls asleep until BOOM! Shelling starts and rocks start falling.)#
+BASHIR: All right, if that's what you want. But if you want to talk you know where to find me.#
 BASHIR: We have to keep calm. Focus on our jobs. Those people out there need us.#
 BASHIR: The others are out defending the perimeter.#
 BASHIR: Jake, looks who's here.#
@@ -2952,7 +2970,7 @@ BASHIR: I rather like the way you smell.#
 BASHIR: With a touch of lilac.#
 BASHIR: So you're saying he's a spy?#
 BASHIR: So what's he planning to do? Contact his younger self and warn himself about Kirk?#
-BASHIR: I suppose we ought to find a way to blend in. (So uniforms are changed and Dax's spots are 'removed'. Old style tricorders and communicators, and a beehive hairstyle.)#
+BASHIR: I suppose we ought to find a way to blend in.#
 BASHIR: Captain.#
 BASHIR: Wait a minute, aren't you two wearing the wrong colour?#
 BASHIR: I'm a doctor, not an historian.#
@@ -2985,7 +3003,7 @@ BASHIR: Clearly we've been going about this search business all wrong, Chief.#
 BASHIR: A vital clue that others might've missed. How fortunate it is that it has kept you stuck at this bar for the past three hours having drinks while we've been crawling through conduits.#
 BASHIR: That's Kirk?#
 BASHIR: Those are Klingons?#
-BASHIR: A viral mutation? (A line that was used eventually to create an  entire episode of Enterprise.)#
+BASHIR: A viral mutation?#
 BASHIR: Chief, are you sure that's Kirk?#
 BASHIR: Why is he wearing lieutenant's stripes?#
 BASHIR: That was close.#
@@ -3033,7 +3051,7 @@ BASHIR: You mean, we didn't tell you why we came here? We're conducting the Rite
 BASHIR: A very wise and ancient culture.#
 BASHIR: I know exactly what you mean. Excuse us. We have a few details to work out.#
 BASHIR: What was one is now two.#
-BASHIR: And may they walk with you always. (They lean in as if to kiss then turn their faces away at the last moment.)#
+BASHIR: And may they walk with you always.#
 BASHIR: What were you expecting?#
 BASHIR: Personally, I think it was admirable. No incriminations, no hurt feelings. I don't think I've ever felt this good about the end of a relationship.#
 BASHIR: What does that mean?#
@@ -3065,7 +3083,7 @@ BASHIR: Well, it seems you're not as solid as you think. When I ran a neurochemi
 BASHIR: Your mind reached out to find other changelings to form the Link, but all it could find was Sisko, Dax and Garak.#
 BASHIR: It would make a fascinating paper.  Although I don't intend to write one.#
 BASHIR: If you have any questions, you know where to find me.#
-BASHIR: Bashir to infirmary. Prepare an IV drip of poly-nutrient solution. MEDIC  Aye, sir.#
+BASHIR: Bashir to infirmary. Prepare an IV drip of poly-nutrient solution.#
 BASHIR: Yes. I'm going to see you stay that way.#
 BASHIR: Well, there are no signs of any permanent neural damage, although I am reading some odd synaptic potentials. Let me ask you something, does my uniform look any brighter to you?#
 BASHIR: It's called post-neural shock syndrome. Your neural pathways were overloaded by the plasma burst. All external stimuli are going to seem more pronounced. It's going to take a while for things to settle down though, so I'm going to put you on restricted duty for the next three days. And if you experience any other side effects such as headaches, dizziness, even nausea, let me know immediately.#
@@ -3240,7 +3258,8 @@ BASHIR: Look, I've got a lot at stake here. My whole career could be destroyed i
 BASHIR: Of course I've thought about that! That's why I want you to take this seriously.#
 BASHIR: This is exactly why I haven't been home in three years.#
 BASHIR: Is there something I can do for you?#
-BASHIR: All right. (Amsha kisses him then she and Richard leave. Zimmerman and O'Brien come in from another room) BASHIR: Who were those people?#
+BASHIR: All right.#
+BASHIR: Who were those people?#
 BASHIR: I can't believe you set them up like that!#
 BASHIR: And you let it go on? You let them stand there and make fools of themselves while the two of you sat in the back room and laughed?#
 BASHIR: I don't want to talk about it.#
@@ -3291,8 +3310,9 @@ BASHIR: So, is everybody all right for Saturday?#
 BASHIR: Odo?#
 BASHIR: Not only that, you get to drive around in fancy automobiles, and go to posh parties and steal her  away from Falcon.#
 BASHIR: Are you kidding? Look at her.#
-BASHIR: Well, looks like we'll have to find someone else to play Odo's part. (O'Brien takes another look at the lissome blonde character in holosuite programme 5547.)#
-BASHIR: Let me help you with that. Extraordinary. You just jumped out of an aeroplane at twenty thousand feet, and yet there's not a hair on your head out of place. (Although the car appears to be in motion, there's a knock on the window. Bashir draws his gun and winds down the window.) BASHIR: Odo.#
+BASHIR: Well, looks like we'll have to find someone else to play Odo's part.#
+BASHIR: Let me help you with that. Extraordinary. You just jumped out of an aeroplane at twenty thousand feet, and yet there's not a hair on your head out of place.#
+BASHIR: Odo.#
 BASHIR: Driver, stop the car. We'll just be a minute.#
 BASHIR: Well, yes, but since you didn't show up#
 BASHIR: Sort of.#
@@ -3342,14 +3362,14 @@ BASHIR: If you really want to thank me, don't walk in here dripping blood anymor
 BASHIR: I'm the new Intelligence officer?#
 BASHIR: Well, I certainly hope Worf's enjoying himself while we're stuck here taking over his duties.#
 BASHIR: What sort of conditions?#
-BASHIR: I'd say that those two definitely fall into the strong category. (A young, short-haired Klingon in a sleeveless tunic and an older companion wearing a necklace have entered. Odo isn't far behind.)#
+BASHIR: I'd say that those two definitely fall into the strong category.#
 BASHIR: Yes.#
 BASHIR: Oh, I can't talk about it. All I can do is read these fascinating reports and analyses, and analyses of analyses, and then keep it all to myself. Because no one else has a need to know. So I have to walk around this station feeling like I, er. You don't really care, do you?#
 BASHIR: Apparently the planet is crawling with Bashirs.#
 BASHIR: He's resting comfortably. He can't hold his shape because of the quantum fluctuations inside the barrier.#
 BASHIR: Sweet dreams, Odo. But he'll be as right as rain as soon as we leave orbit. You, on the other hand, are going to have to undergo a complete neural pathway induction as soon as we get back to the station.#
 BASHIR: That's because your neural tissue hasn't begun to deteriorate yet. But rest assured, you'll be on my operating table eventually.#
-BASHIR: I have to get down there, meet some of those Bashirs. (Bashir leaves and an Odo enters, but with better defined human features.)#
+BASHIR: I have to get down there, meet some of those Bashirs.#
 BASHIR: Thirsty?#
 BASHIR: I've just been doing the same thing at the clinic. I met one of my descendents there. My great great great great granddaughter, the doctor. She made quite a fuss over me. Apparently my healing touch is something of a legend around here.#
 BASHIR: Well, it would appear I'm not the only legend around here.#
@@ -3404,7 +3424,7 @@ BASHIR: We've been ordered to report to Starbase three seven five for reassignme
 BASHIR: I have news of the Seventh Fleet.#
 BASHIR: Only fourteen ships made it back to our lines.#
 BASHIR: We can't keep taking these kinds of losses, sir, not if we expect to win this#
-BASHIR: I'll take a look at that arm now. (Bashir and Sisko leave. Sisko thumps the table, shattering it's glass top.) Permanent Documentation File, Dukat, SG. Each day brings reports of new victories. The war continues to go well. The enemy is retreating on almost all fronts. It's only a matter of time before the Federation collapses and Earth becomes another conquered planet under Dominion rule. All in all, it's a good time for Cardassia, and the Dominion.#
+BASHIR: I'll take a look at that arm now.#
 BASHIR: Without the White to sustain them, the Jem'Hadar won't be able to function.#
 BASHIR: How do you expect us to infiltrate Cardassian territory without the Defiant and its cloaking abilities?#
 BASHIR: Do you even know how to fly that thing?#
@@ -3700,13 +3720,13 @@ BASHIR: Close your eyes, use your memory. Okay. There's a four way shunt at the 
 BASHIR: So the interlink we want has to be?#
 BASHIR: It's stuck.#
 BASHIR: Which one?#
-BASHIR: You sure? (Bashir puts the cable from R8-773 into a socket by his head. It falls out.)#
+BASHIR: You sure?#
 BASHIR: Maybe the Captain doesn't realise he has control of the ship yet.#
 BASHIR: I have got torpedo lock.#
 BASHIR: We were just minding our own business when suddenly, right there in front of us, was this immense Jem'Hadar.#
 BASHIR: Is there something wrong?#
 BASHIR: Why?#
-BASHIR: Infirmary. (Bashir and O'Brien leave quickly, and Odo and Quark step down from a small platform.)#
+BASHIR: Infirmary.#
 BASHIR: He's awake now.#
 BASHIR: I don't know. I'm reading some unusual synaptic potentials. Your neural patterns are similar to those you experienced last year.#
 BASHIR: I'm not sure yet, so I'd like you to remain overnight for observation.#
@@ -3800,7 +3820,8 @@ BASHIR: He doesn't look too happy.#
 BASHIR: How long do you think your investigation's going to take?#
 BASHIR: Oh, that's very considerate of you.#
 BASHIR: Hot buttered scones, moba jam, red leaf tea.#
-BASHIR: Please. What's the matter with this thing? All right. (He starts to unpack and knocks a stylus onto the floor. It rolls under the couch. He goes to retrieve it when the doorbell rings.) BASHIR: Come in.#
+BASHIR: Please. What's the matter with this thing? All right.#
+BASHIR: Come in.#
 BASHIR: Ah. Yes. Certainly.#
 BASHIR: Where are we going?#
 BASHIR: What's going on?#
@@ -3821,7 +3842,8 @@ BASHIR: Oh, I volunteered.#
 BASHIR: Come in.#
 BASHIR: Thank God. I'm famished. Cheers.#
 BASHIR: Ugh. It's a little too early for gag'h.#
-BASHIR: I hope your enjoying my scones, Worf. (Then he notices that the PADDs are back in his bag, but the stylus was still under the couch. Kukalaka has been moved, too. The monitor beeps.) BASHIR: Miles. Sloan said we aren't supposed to be talking to each other.#
+BASHIR: I hope your enjoying my scones, Worf.#
+BASHIR: Miles. Sloan said we aren't supposed to be talking to each other.#
 BASHIR: I'm fine. Except I think someone's been snooping around my quarters.#
 BASHIR: We just finished.#
 BASHIR: It went fine. He just asked me a few routine questions.#
@@ -3904,7 +3926,8 @@ BASHIR: Well maybe he's not a traitor, maybe he's been replaced by a changeling.
 BASHIR: You have to believe me. I'm innocent.#
 BASHIR: You can't just dismiss what I'm saying, because if I'm right there's no telling what kind of damage Sloan#
 BASHIR: Jadzia, you believe me, don't you?#
-BASHIR: Miles? You? (Bashir puts his hand on O'Brien's shoulder. O'Brien pushes it away vigorously.) BASHIR: Your shoulder. It's all right.#
+BASHIR: Miles? You?#
+BASHIR: Your shoulder. It's all right.#
 BASHIR: But you dislocated it yesterday when  we were playing springball.#
 BASHIR: You didn't hurt it playing springball. You dislocated it kayaking in a holosuite. You're not Miles. And you're not Captain Sisko. He'd at least be willing to hear me out. This isn't real. It can't be.#
 BASHIR: I take it you finally believe I'm not working for the Dominion.#
@@ -4124,6 +4147,7 @@ BASHIR: Miles, you don't understand. You weren't as close to her as I was. This 
 BASHIR: Yes. That I'm risking my life for a very dubious cause.#
 BASHIR: Miles, I don't know what to say. I'm touched.#
 BASHIR: It doesn't work that way, Quark.#
+BASHIR: I managed to save the Dax symbiont. There was nothing I could do for Jadzia.#
 BASHIR: Always.#
 BASHIR: Hopefully not that close.#
 BASHIR: He always glares at you.#
@@ -4276,7 +4300,7 @@ BASHIR: Sarina, what are you doing here? How did you get in?#
 BASHIR: Is something wrong?#
 BASHIR: My nurse could have given you something.#
 BASHIR: Why not?#
-BASHIR: It's not going to happen. Your life's going to be different now. Your future is full of possibilities. You know, you're going to be doing things that you haven't even dreamed of. There's really no reason to be afraid. Sarina? (She's fallen asleep on his shoulder, so he tries to sleep sitting up on the couch. He wakes to discover her leaning against his chest working a PADD.)#
+BASHIR: It's not going to happen. Your life's going to be different now. Your future is full of possibilities. You know, you're going to be doing things that you haven't even dreamed of. There's really no reason to be afraid. Sarina?#
 BASHIR: Morning.#
 BASHIR: What?#
 BASHIR: The L two codon. Of course. Why didn't I think of that? Sarina, you're amazing. I've been working on this for months.#
@@ -4328,7 +4352,8 @@ BASHIR: Are you listening to me?#
 BASHIR: Well, don't you have anything to say?#
 BASHIR: We're genetically engineered. We do everything fast.#
 BASHIR: Not anymore. I've asked Doctor Girani to take over her care. Miles, I don't think you understand what this means to me. All these years I've had to hide the fact that my DNA had been resequenced. I'd listen to people talk about the genetically engineered, saying they were all misfits. I used to fantasise about meeting someone who was like me, who could live a normal life. But it never happened. Until Sarina. Don't you see? She's the woman I've been waiting for all my life.#
-BASHIR: Computer, music. Something romantic. (Violins play. Time passes, and the candles are out, but the champagne is unopened.) BASHIR: Computer, locate Sarina Douglas.#
+BASHIR: Computer, music. Something romantic.#
+BASHIR: Computer, locate Sarina Douglas.#
 BASHIR: Sarina, it's me. Computer, override door locks. Authorization Bashir delta five seven alpha.#
 BASHIR: I've been waiting in my quarters for you. Sarina? Is something wrong? Sarina.#
 BASHIR: Apparently the thalamic pathways I generated are still functioning, but Doctor Girani's not detected any neural activity in them.#
@@ -4371,7 +4396,7 @@ BASHIR: I'm afraid there are no holosuites where we're going.#
 BASHIR: I'll see you when I get back.#
 BASHIR: Captain, the supplies are ready for transport.#
 BASHIR: This is twenty cc's of numinol tetraminothen. That'll take care of the fever and the chest congestion. And this will get rid of the dermal irritation on your back. Better?#
-BASHIR: Good. Now I'd like to take a look at this arm. (Vargas grabs Bashir's collar and shoves his hand phaser under his chin.)#
+BASHIR: Good. Now I'd like to take a look at this arm.#
 BASHIR: I need to treat your wound.#
 BASHIR: Why is that?#
 BASHIR: Yes.#
@@ -4385,7 +4410,7 @@ BASHIR: Nog suffered severe thermal damage to his femoral motor nerves. I'm not 
 BASHIR: Yeah. I thought we could all use some Vic Fontaine right about now.#
 BASHIR: There isn't much I can do for him until I get back to the station. I take it you were able to move the mines?#
 BASHIR:  I wasn't planning on it. Then again, I wasn't planning on being here.#
-BASHIR: Too many times. Funny. I joined Starfleet to save lives. (Lots of bangs and flashes on the horizon, then just the wind as Vic finishes.)#
+BASHIR: Too many times. Funny. I joined Starfleet to save lives.#
 BASHIR: Romulan ale, Quark.#
 BASHIR: Well, here she is.#
 BASHIR: It's a complicated subject, Odo.#
@@ -4451,7 +4476,7 @@ BASHIR: It's a good way to relieve stress.#
 BASHIR: Just not with us.#
 BASHIR: He's very particular about anybody seeing him in his coonskin cap. You understand.#
 BASHIR: Terrific. Now if there's anything else you need?#
-BASHIR: It appears someone shot him. (After the opening titles, Sisko has arrived and O'Brien is doing the CSI tricorder thing.)#
+BASHIR: It appears someone shot him.#
 BASHIR: He was shot through the heart.#
 BASHIR: Starfleet officers do not go around murdering other officers.#
 BASHIR: What are powder burns?#
@@ -4473,7 +4498,7 @@ BASHIR: You're talking about Joran.#
 BASHIR: He was nothing like you.#
 BASHIR: They weren't your victims.#
 BASHIR: You really should get some rest.#
-BASHIR: Good night. (Ezri leaves, Bashir sits on one of the two rows of chairs set out for the memorial.)#
+BASHIR: Good night.#
 BASHIR: Cause of death, tritanium bullet fired at close range. No powder burns.#
 BASHIR: I still can't believe anyone in Starfleet could be doing this.#
 BASHIR: Instead of a phaser?#
@@ -4549,7 +4574,8 @@ BASHIR: What about Chairman Koval?#
 BASHIR: I take it you two don't get along?#
 BASHIR: Which are?#
 BASHIR: Naturally.#
-BASHIR: This is an adult female inhabitant of Boranis Three. The markings on the face are typical of a humanoid who's been infected by the disease, but who has not yet entered the terminal stage. (Koval is in the front row, very interested, and Sloan is two rows back.) BASHIR: In this next photograph, you can tell by the necrotic nature of the lesions the patient has indeed entered the terminal stage of the disease. This is also marked by an increase in leukocyte production. (At the end of the lecture, Bashir is shaking hands with the attendees.)#
+BASHIR: This is an adult female inhabitant of Boranis Three. The markings on the face are typical of a humanoid who's been infected by the disease, but who has not yet entered the terminal stage.#
+BASHIR: In this next photograph, you can tell by the necrotic nature of the lesions the patient has indeed entered the terminal stage of the disease. This is also marked by an increase in leukocyte production.#
 BASHIR: Thank you.#
 BASHIR: Next time I'll do the lecture with hand puppets just for you.#
 BASHIR: Yes. He came to see me this morning between sessions. He wanted to know more about the Quickening. Specifically, if I knew how to replicate the virus and how to introduce it into a population.#
@@ -4653,7 +4679,7 @@ BASHIR: And we pop open the champagne.#
 BASHIR: I bet we do it in five.#
 BASHIR: It has to be.#
 BASHIR: Vodka martini. Stirred, not shaken.#
-BASHIR: Don't worry about it. You're too kind. (He grabs two martinis off another tray, doses one and takes the other for himself.)#
+BASHIR: Don't worry about it. You're too kind.#
 BASHIR: I fold. Excuse me. Your name's Al, right?#
 BASHIR: Frankie Eyes.#
 BASHIR: He's waiting for you out back.#
@@ -4814,7 +4840,7 @@ BASHIR: All right.#
 BASHIR: Sure. Let's sleep lightly tonight. Section Thirty One may still fall for the trap and show up.#
 BASHIR: Lights.#
 BASHIR: I didn't think I'd ever see you again.#
-BASHIR: Really? What a coincidence, because I have an assignment for you. (He hits a control by the bedhead and a forcefield comes on around Sloan.)#
+BASHIR: Really? What a coincidence, because I have an assignment for you.#
 BASHIR: Frankly, I don't care how you feel. Bashir to O'Brien.#
 BASHIR: Mister Sloan is here. I have him in the containment field.#
 BASHIR: Good. Bashir out.#

@@ -1,56 +1,35 @@
 Episode Number: 438
 The Deep Space Nine Transcripts - Profit and Loss
-Profit
-and Loss
-Stardate:
-Unknown
+Profit and Loss
+Stardate: Unknown
 Original Airdate: 21 Mar, 1994
-  [Ops]
+[Ops]
 (There's a ship on the viewscreen) 
 KIRA: Definitely Cardassian. 
 DAX: And in trouble. Its engines are completely disabled. 
-SISKO: Open a hailing frequency. This is Commander Sisko of Deep Space
-Nine. Do you need assistance? 
-DAX: They're not answering. Their life support systems are operating on
-reserve power. 
-SISKO: Better lock on a tractor beam and pull them into cargo bay
-seven. Tell Mister O'Brien to meet me there. 
- [Cargo bay] 
-(The airlock rolls open and Cardassian civilians
-come out.) 
-SISKO: I'm Benjamin Sisko, commander of Deep Space Nine. My chief of
-operations, Miles O'Brien. Do any of you need medical assistance? 
-NATIMA: I think we're all fine, considering. I'm Professor Natima Lang.
-These are two of my students, Rekelen and Hogue. 
+SISKO: Open a hailing frequency. This is Commander Sisko of Deep Space Nine. Do you need assistance? 
+DAX: They're not answering. Their life support systems are operating on reserve power. 
+SISKO: Better lock on a tractor beam and pull them into cargo bay seven. Tell Mister O'Brien to meet me there. 
+[Cargo bay]
+(The airlock rolls open and Cardassian civilians come out.) 
+SISKO: I'm Benjamin Sisko, commander of Deep Space Nine. My chief of operations, Miles O'Brien. Do any of you need medical assistance? 
+NATIMA: I think we're all fine, considering. I'm Professor Natima Lang. These are two of my students, Rekelen and Hogue. 
 O'BRIEN: What happened to your ship? 
-NATIMA: We were caught in a meteor swarm. I'm a decent teacher, but I'm
-afraid I'm not much of a shuttle pilot. Do you think you'll be able to
-repair our ship? 
+NATIMA: We were caught in a meteor swarm. I'm a decent teacher, but I'm afraid I'm not much of a shuttle pilot. Do you think you'll be able to repair our ship? 
 O'BRIEN: I'll have to take a look. Excuse me. 
 (O'Brien and an engineer go into the airlock) 
-NATIMA: We'd like to be on our way as soon as possible. We know having
-Cardassians on a Bajoran station may cause trouble. That's the last
-thing we want. 
-SISKO: If anyone can fix your ship, it is Mister O'Brien. In the
-meantime, you're welcome to stay here. If you stick to the Promenade,
-I'm sure there won't be any trouble.
- [Quark's cafe] 
+NATIMA: We'd like to be on our way as soon as possible. We know having Cardassians on a Bajoran station may cause trouble. That's the last thing we want. 
+SISKO: If anyone can fix your ship, it is Mister O'Brien. In the meantime, you're welcome to stay here. If you stick to the Promenade, I'm sure there won't be any trouble. 
+[Quark's cafe]
 (A meal is being served) 
-BASHIR: Wait, wait, wait a second. Are you telling me you agreed with
-General Yiri's decision to execute his brother? 
-GARAK: Of course I agreed. Yiri's brother was a traitor to the
-Trelonian government. 
+BASHIR: Wait, wait, wait a second. Are you telling me you agreed with General Yiri's decision to execute his brother? 
+GARAK: Of course I agreed. Yiri's brother was a traitor to the Trelonian government. 
 BASHIR: The evidence is all circumstantial. 
-GARAK: It all comes down to a question of loyalty. My dear Doctor, Yiri
-had to choose between protecting his brother and protecting the state.
-He chose the state, as would I, every time. 
-BASHIR: I suppose that's one way of looking at it. But then again,
-before you can be loyal to another, you must be loyal to yourself. 
-GARAK: And who can we thank for those misguided words of wisdom? Sarek
-of Vulcan? 
+GARAK: It all comes down to a question of loyalty. My dear Doctor, Yiri had to choose between protecting his brother and protecting the state. He chose the state, as would I, every time. 
+BASHIR: I suppose that's one way of looking at it. But then again, before you can be loyal to another, you must be loyal to yourself. 
+GARAK: And who can we thank for those misguided words of wisdom? Sarek of Vulcan? 
 BASHIR: Actually, it was Bashir of Earth. 
-GARAK: With sentiments like those, you wouldn't last for five seconds
-on Cardassia. 
+GARAK: With sentiments like those, you wouldn't last for five seconds on Cardassia. 
 BASHIR: Would you? 
 GARAK: Fishing again, Doctor? 
 BASHIR: Well, assuming you're not a spy 
@@ -58,24 +37,20 @@ GARAK: Assuming.
 BASHIR: Then maybe you're an outcast? 
 GARAK: Or maybe I'm an outcast spy. 
 BASHIR: How could you be both? 
-GARAK: I never said I was either.
- [Quark's] 
+GARAK: I never said I was either. 
+[Quark's]
 (Meanwhile, downstairs Odo has just walked in.) 
 ODO: I heard an interesting rumour today. 
 QUARK: Only one? I started at least twelve. 
-ODO: Rumour has it you've managed to get your hands on a small cloaking
-device. 
+ODO: Rumour has it you've managed to get your hands on a small cloaking device. 
 QUARK: And you believe everything you hear? 
-ODO: When it's about you, yes. According to Bajoran law, such a device
-would be highly illegal. 
+ODO: When it's about you, yes. According to Bajoran law, such a device would be highly illegal. 
 QUARK: If I had one, which I don't. 
-ODO: I didn't expect you to admit it. I'm simply serving notice. You
-try to sell it and I'll see to it that you spend the next fifty years
-digging trenches in a penal colony. 
+ODO: I didn't expect you to admit it. I'm simply serving notice. You try to sell it and I'll see to it that you spend the next fifty years digging trenches in a penal colony. 
 QUARK: I told you, you have nothing to worry about. 
 (Quark sees Natima on the promenade and rushes out of the bar.) 
-QUARK: Excuse me. Excuse me. Out of my way. Excuse me.
- [Promenade]
+QUARK: Excuse me. Excuse me. Out of my way. Excuse me. 
+[Promenade]
 QUARK: Natima! 
 NATIMA: Quark. 
 QUARK: I knew you'd come b 
@@ -84,39 +59,30 @@ NATIMA: I told you never to speak to me again.
 (Natima and her students march off) 
 ODO: Are you all right? 
 QUARK: All right? This is the happiest day of my life. 
-(After the opening titles, Quark catches up to them at the spiral
-staircase.) 
-QUARK: Natima, wait. At least let me buy you and your friends a drink.
-I can make you a Samarian Sunset. 
+(After the opening titles, Quark catches up to them at the spiral staircase.) 
+QUARK: Natima, wait. At least let me buy you and your friends a drink. I can make you a Samarian Sunset. 
 NATIMA: I don't drink Samarian Sunsets anymore. 
 QUARK: Why not? 
 NATIMA: Because they remind me of you. 
 HOGUE: (male) Is this Ferengi bothering you? 
-QUARK: This Ferengi happens to be Natima's old and cherished friend.
-Who are you? 
+QUARK: This Ferengi happens to be Natima's old and cherished friend. Who are you? 
 NATIMA: These are my students. 
-QUARK: Students. You don't say. I'd love to sit in on one of your
-classes. What do you teach? 
+QUARK: Students. You don't say. I'd love to sit in on one of your classes. What do you teach? 
 HOGUE: Political Ethics. 
 REKELEN: (female) Her teachings will change the future of Cardassia. 
 NATIMA: That's enough, Rekelen. 
-QUARK: Not at all. I want to hear more. I always knew Natima was
-destined for greatness. 
+QUARK: Not at all. I want to hear more. I always knew Natima was destined for greatness. 
 NATIMA: Quark. 
- [Quark's]
+[Quark's]
 (The group sit at a table near the entrance) 
 QUARK: Just one drink. It'll be like old times. 
 NATIMA: It'll never be like old times. 
-QUARK: You're right. It'll be better. I'll be right back with
-refreshments. 
+QUARK: You're right. It'll be better. I'll be right back with refreshments. 
 (Quark goes over to the bar.) 
-ODO: Your hands are shaking. So, how well does this woman know you?
-Just enough to dislike you, or well enough to really hate you. 
-QUARK: She used to work here on the station. She was a correspondent
-for the Cardassian information service. It was before your time. 
+ODO: Your hands are shaking. So, how well does this woman know you? Just enough to dislike you, or well enough to really hate you. 
+QUARK: She used to work here on the station. She was a correspondent for the Cardassian information service. It was before your time. 
 ODO: So which is it, dislike or hate? 
-QUARK: It's none of your business, but if you have to know, I was the
-love of her life. 
+QUARK: It's none of your business, but if you have to know, I was the love of her life. 
 ODO: Must have been some life. 
 (Quark takes a single glass to the table) 
 HOGUE: What about our drinks? 
@@ -124,186 +90,124 @@ QUARK: If you want a drink, the bar's right over there.
 NATIMA: Go ahead. 
 (Hogue and Rekelen go to the bar) 
 QUARK: Your Samarian Sunset. 
-(He pings the glass to get the clear liquid to turn into a
-yellow-orange sunset effect) 
+(He pings the glass to get the clear liquid to turn into a yellow-orange sunset effect) 
 NATIMA: I said I didn't drink these anymore. 
-QUARK: Because they remind you of me. But since I'm here anyway, you
-may as well enjoy yourself. Besides, it's on the house. You know,
-you're as beautiful as ever. 
+QUARK: Because they remind you of me. But since I'm here anyway, you may as well enjoy yourself. Besides, it's on the house. You know, you're as beautiful as ever. 
 NATIMA: And you're as big a liar as ever. 
-QUARK: You see, just like old times. I've missed you, Natima. That's no
-lie. 
+QUARK: You see, just like old times. I've missed you, Natima. That's no lie. 
 NATIMA: You seem to have kept busy. 
-QUARK: Oh, yes, I'm very successful. But as the two hundred and twenty
-third Rule of Acquisition says 
-NATIMA: Please. I haven't heard a Rule of Acquisition in seven years
-and I don't want to hear one now. 
+QUARK: Oh, yes, I'm very successful. But as the two hundred and twenty third Rule of Acquisition says 
+NATIMA: Please. I haven't heard a Rule of Acquisition in seven years and I don't want to hear one now. 
 QUARK: So, how long are you going to be on the station? 
 (Bashir and Garak have come down the stairs.) 
 GARAK: Thank you for another enjoyable lunch. Doctor. 
-(Bashir and Garak leave. Garak nods to Natima on his way out. Rekelen
-and Hogue return to the table.) 
+(Bashir and Garak leave. Garak nods to Natima on his way out. Rekelen and Hogue return to the table.) 
 NATIMA: I didn't think there'd be any Cardassians left on the station. 
 QUARK: He's the only one. 
 HOGUE: What do we do now? 
 QUARK: Is something wrong? 
-NATIMA: We have to leave as soon as possible. Goodbye, Quark. Thanks
-for the drink. 
-QUARK: But you didn't touch it.
- [Ops]
+NATIMA: We have to leave as soon as possible. Goodbye, Quark. Thanks for the drink. 
+QUARK: But you didn't touch it. 
+[Ops]
 SISKO: How are your repairs coming? 
-O'BRIEN: The damage is more extensive than I thought. They were lucky
-to escape the attack. 
+O'BRIEN: The damage is more extensive than I thought. They were lucky to escape the attack. 
 SISKO: The attack? 
-O'BRIEN: They weren't in any meteor swarm. They were hit by Cardassian
-disrupters. 
-KIRA: That doesn't make sense. Why would Cardassians fire on other
-Cardassians? 
+O'BRIEN: They weren't in any meteor swarm. They were hit by Cardassian disrupters. 
+KIRA: That doesn't make sense. Why would Cardassians fire on other Cardassians? 
 DAX: Maybe you should ask her. 
 (Natima and Co arrive on the turbolift.) 
 NATIMA: Commander, I hate to be an imposition, but I need my ship. 
-SISKO: That's not possible. Mister O'Brien is still working on it. Your
-ship sustained more damage than we originally thought. In fact 
-NATIMA: You suspect that our ship was damaged by Cardassian weapons.
-You're right, of course. 
+SISKO: That's not possible. Mister O'Brien is still working on it. Your ship sustained more damage than we originally thought. In fact 
+NATIMA: You suspect that our ship was damaged by Cardassian weapons. You're right, of course. 
 HOGUE: Professor. 
-NATIMA: It's all right, Hogue. I should've told them the truth in the
-first place. 
+NATIMA: It's all right, Hogue. I should've told them the truth in the first place. 
 KIRA: Then why didn't you? 
-NATIMA: Because Cardassians don't involve outsiders in their internal
-politics. Especially Bajorans. 
+NATIMA: Because Cardassians don't involve outsiders in their internal politics. Especially Bajorans. 
 SISKO: Being shot at by your own people goes a little beyond politics. 
-NATIMA: We take our politics very seriously. Commander, if I don't get
-my students to safety they're going to be killed. And if they die, the
-future of Cardassia may die with them.
- [Commander's office]
-NATIMA: There are some who believe the future of
-Cardassia should not remain in the hands of the military. 
+NATIMA: We take our politics very seriously. Commander, if I don't get my students to safety they're going to be killed. And if they die, the future of Cardassia may die with them. 
+[Commander's office]
+NATIMA: There are some who believe the future of Cardassia should not remain in the hands of the military. 
 SISKO: And you're among them? 
 HOGUE: Yes, we are. 
-NATIMA: Rekelen and Hogue are two of the most important leaders of our
-movement. 
+NATIMA: Rekelen and Hogue are two of the most important leaders of our movement. 
 SISKO: Which makes you fugitives. 
 HOGUE: The military's afraid to let us speak our minds. 
-REKELEN: They've already tried to kill us once. They're sure to try
-again. 
-NATIMA: Which is why I have to get them off this station as soon as
-possible. 
+REKELEN: They've already tried to kill us once. They're sure to try again. 
+NATIMA: Which is why I have to get them off this station as soon as possible. 
 SISKO: I'll dispatch additional work crews to help repair your ship. 
 HOGUE: We saw another Cardassian aboard the station in the bar. 
 SISKO: Garak. He saw you? 
 NATIMA: I'm certain of it. 
-SISKO: Well then, we may have a problem. Mister Garak is a bit of a
-mystery to us. I'll assign you some guest quarters. You'll be safe
-there until your ship is ready. 
-NATIMA: We appreciate your assistance, Commander.
- [Garak's shop]
-GARAK: Ah, Mister Quark, this is a surprise. I
-don't believe you've ever been in my establishment before. 
-QUARK: You usually don't frequent mine, either. Though I did see you in
-there today. 
+SISKO: Well then, we may have a problem. Mister Garak is a bit of a mystery to us. I'll assign you some guest quarters. You'll be safe there until your ship is ready. 
+NATIMA: We appreciate your assistance, Commander. 
+[Garak's shop]
+GARAK: Ah, Mister Quark, this is a surprise. I don't believe you've ever been in my establishment before. 
+QUARK: You usually don't frequent mine, either. Though I did see you in there today. 
 GARAK: The Replimat was a little crowded. So what brings you here now? 
-QUARK: Oh, I just wanted to see what you're offering. What do you get
-for that? 
+QUARK: Oh, I just wanted to see what you're offering. What do you get for that? 
 (A dress) 
 GARAK: Seventeen strips of latinum. 
 QUARK: I tell you what, I'll give you twenty. 
 GARAK: Twenty? How uncharacteristically generous for a Ferengi. 
-QUARK: Just one businessman trying to help out another. I figure we
-have to stick together. 
+QUARK: Just one businessman trying to help out another. I figure we have to stick together. 
 GARAK: Well, this is the latest style on my homeworld. Do you like it? 
 QUARK: I'm no expert on Cardassian fashions. What do you think? 
-GARAK: I don't know. It's been so long since I've had a Cardassian
-customer. 
-QUARK: Then you're in luck. There're some board on the station right
-now. 
-GARAK: Now that you mention it, I think your lady friend may find this
-style very appealing. You're old friends, aren't you? 
+GARAK: I don't know. It's been so long since I've had a Cardassian customer. 
+QUARK: Then you're in luck. There're some board on the station right now. 
+GARAK: Now that you mention it, I think your lady friend may find this style very appealing. You're old friends, aren't you? 
 QUARK: You're very perceptive, for a Cardassian. 
-GARAK: It would have been hard to miss the way you were looking at her.
+GARAK: It would have been hard to miss the way you were looking at her. 
 QUARK: It would've been hard to miss the way you were looking at her. 
-GARAK: Personally, I find this style a bit too radical, but your friend
-seems the sort who appreciates that kind of thing. 
-QUARK: Different tastes for different people. Nothing wrong with that,
-is there? 
-GARAK: Oh, you'd be surprised how detrimental a poor choice of fashion
-can be. Take this dress. It may be all the rage now but in a very short
-time it can become tiresome, an affront to the eyes. Certain people
-might even think it's objectionable. And then (Garak tears it) Nothing
-but rags. 
+GARAK: Personally, I find this style a bit too radical, but your friend seems the sort who appreciates that kind of thing. 
+QUARK: Different tastes for different people. Nothing wrong with that, is there? 
+GARAK: Oh, you'd be surprised how detrimental a poor choice of fashion can be. Take this dress. It may be all the rage now but in a very short time it can become tiresome, an affront to the eyes. Certain people might even think it's objectionable. And then (Garak tears it) Nothing but rags. 
 QUARK: I see. 
 GARAK: Mister Quark, might I offer you some free advice? 
 QUARK: As long as I'm under no obligation to follow it. 
-GARAK: I've been in this business a long time and I know there's
-nothing worse than following the wrong trend. Now you're a smart
-fellow, with your own inimitable sense of style. Perhaps you should
-mention this to your lady friend. I'd hate to see her fall victim to
-fashion. 
+GARAK: I've been in this business a long time and I know there's nothing worse than following the wrong trend. Now you're a smart fellow, with your own inimitable sense of style. Perhaps you should mention this to your lady friend. I'd hate to see her fall victim to fashion. 
 QUARK: Would you like to explain that? 
-GARAK: She's chosen to associate herself with some rather flamboyant
-companions. It would be a tragedy if she got in the way when her
-friends go out of fashion. 
-QUARK: If anyone tries to harm her, they're going to have to deal with
-me. 
+GARAK: She's chosen to associate herself with some rather flamboyant companions. It would be a tragedy if she got in the way when her friends go out of fashion. 
+QUARK: If anyone tries to harm her, they're going to have to deal with me. 
 GARAK: What're you going to do, short change them at the dabo table? 
-QUARK: I think I'll buy this dress after all. See that it's mended.
- [Natima's quarters]
+QUARK: I think I'll buy this dress after all. See that it's mended. 
+[Natima's quarters]
 NATIMA: What is it you want from me? 
 QUARK: I know you're in trouble. I want to help you. 
 NATIMA: I don't want your help. 
-QUARK: I owe you. You saved my life. If you'd turned me over to the
-authorities, I would have been executed. 
-NATIMA: I admired your courage. It was a brave thing you were doing
-selling food to the Bajorans. I thought you were a man of honour. 
+QUARK: I owe you. You saved my life. If you'd turned me over to the authorities, I would have been executed. 
+NATIMA: I admired your courage. It was a brave thing you were doing selling food to the Bajorans. I thought you were a man of honour. 
 QUARK: I'm a Ferengi. You should've known better. 
 NATIMA: You're right. I should have. Instead 
 QUARK: Can't you even say it? 
 NATIMA: I can't even think it. 
-QUARK: Okay, I'll say it for you. We fell in love. And that month we
-spent together was the best time of our lives and you know it. 
+QUARK: Okay, I'll say it for you. We fell in love. And that month we spent together was the best time of our lives and you know it. 
 NATIMA: I think you're confusing lust with love. 
-QUARK: I admit I'm capable of that, but not this time. I loved you,
-Natima. 
+QUARK: I admit I'm capable of that, but not this time. I loved you, Natima. 
 NATIMA: Then how could you have betrayed me? 
 QUARK: I didn't betray you. 
-NATIMA: Don't lie to me, Quark. I know better. You used my personal
-access codes to authorise payments for goods you never provided. 
-QUARK: So I took a little money from the Cardassian Communication
-Service. They could afford it. 
+NATIMA: Don't lie to me, Quark. I know better. You used my personal access codes to authorise payments for goods you never provided. 
+QUARK: So I took a little money from the Cardassian Communication Service. They could afford it. 
 NATIMA: You stole that money. 
-QUARK: I saw a chance for profit and I took it. Maybe that was wrong. I
-don't know. But what I really regret is betraying your trust. That was
-the worst mistake of my life. 
-NATIMA: And you'd do it again in a second. I believed in you, Quark.
-But you were using me like you use everyone. For profit. 
-QUARK: Then let me make it up to you. Let me help you. I ask for
-nothing in return. 
+QUARK: I saw a chance for profit and I took it. Maybe that was wrong. I don't know. But what I really regret is betraying your trust. That was the worst mistake of my life. 
+NATIMA: And you'd do it again in a second. I believed in you, Quark. But you were using me like you use everyone. For profit. 
+QUARK: Then let me make it up to you. Let me help you. I ask for nothing in return. 
 NATIMA: Nothing? 
 QUARK: Except that you stay with me forever. 
 NATIMA: I can't stay here. My students need me. 
-QUARK: Listen to me, Natima. You can't leave me. Not now. If you don't
-stay with me, I'll have to follow you. And I will, wherever you go,
-until you agree to take me back. 
-NATIMA: You don't even know me anymore. I'm part of the Cardassian
-underground. Following me will only get you killed. 
+QUARK: Listen to me, Natima. You can't leave me. Not now. If you don't stay with me, I'll have to follow you. And I will, wherever you go, until you agree to take me back. 
+NATIMA: You don't even know me anymore. I'm part of the Cardassian underground. Following me will only get you killed. 
 QUARK: I'll take that chance. 
 NATIMA: What about the bar? 
-QUARK: I don't care about the bar. I'll turn it over to Rom. He'll run
-it into the ground in a month, but it doesn't matter. I have to be with
-you. 
-NATIMA: It won't work, Quark. You say you'd do anything for me. Maybe
-right now, you even believe it. But I know better. In the end, you'd
-only care about yourself. 
+QUARK: I don't care about the bar. I'll turn it over to Rom. He'll run it into the ground in a month, but it doesn't matter. I have to be with you. 
+NATIMA: It won't work, Quark. You say you'd do anything for me. Maybe right now, you even believe it. But I know better. In the end, you'd only care about yourself. 
 QUARK: But I love you. 
 NATIMA: I don't love you. 
 QUARK: Now which one of us is lying? 
 NATIMA: You'd better go. 
-QUARK: All right. But if there's anything you need, anything at all,
-I'll be waiting. 
-NATIMA: It'll be a long wait.
- [Ops] 
-O'BRIEN: Professor Lang's ship should be ready to
-go in about an hour, Commander. 
+QUARK: All right. But if there's anything you need, anything at all, I'll be waiting. 
+NATIMA: It'll be a long wait. 
+[Ops]
+O'BRIEN: Professor Lang's ship should be ready to go in about an hour, Commander. 
 SISKO: Good, I'll let her know. 
 KIRA: We have a Cardassian warship approaching fast. 
 SISKO: On screen. Hail them, Lieutenant. 
@@ -313,145 +217,94 @@ DAX: They're ignoring us.
 O'BRIEN: They're powering up their forward disrupters. 
 SISKO: Shields! 
 KIRA: Shields up. 
-SISKO: Lock on phasers and photon torpedoes. Prepare to return fire if
-necessary. 
-GARAK: Commander. We think we should talk.
- [Commander's office]
-SISKO: All right, Garak, do you mind telling me why
-a Cardassian warship is threatening my station? 
-GARAK: No one is threatening you. The Central Command merely wants to
-make sure they have your undivided attention. 
-SISKO: Well, they have it. I assume this has something to do with
-Professor Lang and her students? 
-GARAK: Students is a rather benign term for them. Terrorists would be
-more accurate. The Cardassian government would very much like Hogue and
-Rekelen returned home immediately. 
-SISKO: They haven't committed any crimes here. As long as they're on my
-station, they're free to do whatever they want. 
-GARAK: This is all very embarrassing, Commander. The Central Command
-would hate to see the Federation pulled into such an insignificant and
-purely internal affair. 
-SISKO: I would hardly call it insignificant. Judging by the behaviour
-of the ship out there, it appears the Central Command considers Hogue
-and Rekelen to be extremely dangerous. 
-GARAK: Not at all. Annoying, perhaps, inconvenient, maybe, but
-dangerous? Hardly. And if they were dangerous, would the Central
-Command entrust the situation to me, a simple tailor? 
-SISKO: Which only confirms what I have suspected all along. You, Mister
-Garak, are no simple tailor. 
-GARAK: Really, Commander, that's another discussion entirely. All you
-really need to know right now is that the return of Hogue and Rekelen
-is in the best interests of the Cardassian Empire. 
+SISKO: Lock on phasers and photon torpedoes. Prepare to return fire if necessary. 
+GARAK: Commander. We think we should talk. 
+[Commander's office]
+SISKO: All right, Garak, do you mind telling me why a Cardassian warship is threatening my station? 
+GARAK: No one is threatening you. The Central Command merely wants to make sure they have your undivided attention. 
+SISKO: Well, they have it. I assume this has something to do with Professor Lang and her students? 
+GARAK: Students is a rather benign term for them. Terrorists would be more accurate. The Cardassian government would very much like Hogue and Rekelen returned home immediately. 
+SISKO: They haven't committed any crimes here. As long as they're on my station, they're free to do whatever they want. 
+GARAK: This is all very embarrassing, Commander. The Central Command would hate to see the Federation pulled into such an insignificant and purely internal affair. 
+SISKO: I would hardly call it insignificant. Judging by the behaviour of the ship out there, it appears the Central Command considers Hogue and Rekelen to be extremely dangerous. 
+GARAK: Not at all. Annoying, perhaps, inconvenient, maybe, but dangerous? Hardly. And if they were dangerous, would the Central Command entrust the situation to me, a simple tailor? 
+SISKO: Which only confirms what I have suspected all along. You, Mister Garak, are no simple tailor. 
+GARAK: Really, Commander, that's another discussion entirely. All you really need to know right now is that the return of Hogue and Rekelen is in the best interests of the Cardassian Empire. 
 SISKO: Or at least in the best interest of the Cardassian military. 
 GARAK: Is there a difference? 
-SISKO: Do you really expect a Bajoran station under Federation command
-to turn over Cardassian political refugees on your say-so? 
-GARAK: The ultimate decision is of course yours. I am simply relaying a
-message. 
-SISKO: Then relay this. Tell the Central Command if anyone attempts to
-take Hogue and Rekelen by force, I will respond in kind. Am I clear,
-Mister Garak? 
-GARAK: Absolutely. Thank you for your time. Oh, and if you'd like, stop
-by the shop one day. I have a number of suits that would look quite
-flattering on you.
- [Quark's]
-QUARK: Here, you go. Two mugs of Kanar on the
-house. 
+SISKO: Do you really expect a Bajoran station under Federation command to turn over Cardassian political refugees on your say-so? 
+GARAK: The ultimate decision is of course yours. I am simply relaying a message. 
+SISKO: Then relay this. Tell the Central Command if anyone attempts to take Hogue and Rekelen by force, I will respond in kind. Am I clear, Mister Garak? 
+GARAK: Absolutely. Thank you for your time. Oh, and if you'd like, stop by the shop one day. I have a number of suits that would look quite flattering on you. 
+[Quark's]
+QUARK: Here, you go. Two mugs of Kanar on the house. 
 HOGUE: We didn't order these. 
-QUARK: They're the drinks I promised you the first time you came in
-here. Sorry they took so long but things have been a little hectic. Do
-you mind? 
+QUARK: They're the drinks I promised you the first time you came in here. Sorry they took so long but things have been a little hectic. Do you mind? 
 REKELEN: I'm afraid that we do. 
 HOGUE: Professor Lang told us you couldn't be trusted. 
-QUARK: You Cardassians do hold grudges. Seven years ago Natima and I
-had some little silly lovers' quarrel and well, all I can say is I'm
-willing to let bygones be bygones. 
+QUARK: You Cardassians do hold grudges. Seven years ago Natima and I had some little silly lovers' quarrel and well, all I can say is I'm willing to let bygones be bygones. 
 HOGUE: But Professor Lang isn't. 
 QUARK: I have to say I find your loyalty to her extremely touching. 
-REKELEN: There is nothing that we wouldn't do for her, and if she says
-we're not to talk to you, we don't talk to you. 
-QUARK: I understand. She's your teacher, you're her students. You have
-to listen to her. So, if you don't want to talk to the only person who
-can get you off this station in one piece, that's fine with me. 
+REKELEN: There is nothing that we wouldn't do for her, and if she says we're not to talk to you, we don't talk to you. 
+QUARK: I understand. She's your teacher, you're her students. You have to listen to her. So, if you don't want to talk to the only person who can get you off this station in one piece, that's fine with me. 
 HOGUE: Wait. 
 REKELEN: You say you can help us get away? 
 QUARK: It's possible. 
 HOGUE: How? 
 QUARK: One second. 
 (Quark taps everything nearby) 
-QUARK: The station's security chief's a shape-shifter. You can never be
-too careful. I take it you know what a cloaking device is? Well, I have
-one. It's not in the best of condition but it'll work for about fifteen
-minutes. Long enough to get you away from here. 
+QUARK: The station's security chief's a shape-shifter. You can never be too careful. I take it you know what a cloaking device is? Well, I have one. It's not in the best of condition but it'll work for about fifteen minutes. Long enough to get you away from here. 
 REKELEN: Sounds expensive. 
 HOGUE: We don't have much latinum. What we do have is yours. 
-QUARK: Exactly how much latinum are we talking about? No, forget I said
-that. I don't want your money. Consider the cloaking device a gift. 
+QUARK: Exactly how much latinum are we talking about? No, forget I said that. I don't want your money. Consider the cloaking device a gift. 
 REKELEN: I'm surprised. Ferengis aren't known for their generosity. 
 QUARK: We are a deeply misunderstood race. 
-HOGUE: You may've saved our lives. Our movement owes you a debt of
-gratitude. 
-QUARK: And I know exactly how you can repay me. You have to convince
-Natima to stay here. 
+HOGUE: You may've saved our lives. Our movement owes you a debt of gratitude. 
+QUARK: And I know exactly how you can repay me. You have to convince Natima to stay here. 
 REKELEN: The Professor will never agree to stay behind. 
 QUARK: No Natima, no cloaking device, and no way off this station. 
 REKELEN: She won't do it. 
-QUARK: You have to talk her into it. After all, you're the ones the
-Cardassians are after. 
+QUARK: You have to talk her into it. After all, you're the ones the Cardassians are after. 
 HOGUE: He's right. She shouldn't have to risk her life for our crimes. 
 REKELEN: I suppose we could ask her. 
 QUARK: Don't ask her. Tell her. 
 HOGUE: We will. We'll do our best. 
-QUARK: I'm sure you will. I shudder to think what would happen if the
-military got its hands on you. 
+QUARK: I'm sure you will. I shudder to think what would happen if the military got its hands on you. 
 HOGUE: Meet us at our quarters in an hour. 
-QUARK: I'll be there.
- [Natima's quarters]
+QUARK: I'll be there. 
+[Natima's quarters]
 NATIMA: Come in. 
 QUARK: Where are Rekelen and Hogue? 
 NATIMA: They're waiting at the ship. 
-QUARK: Perfect. I know my quarters might seem a little crowded at
-first, but tomorrow morning, I'll put in a request for something
-bigger. 
+QUARK: Perfect. I know my quarters might seem a little crowded at first, but tomorrow morning, I'll put in a request for something bigger. 
 NATIMA: That won't be necessary. 
-QUARK: All right. If you want your own quarters to start out with, I
-can arrange that, too. 
+QUARK: All right. If you want your own quarters to start out with, I can arrange that, too. 
 NATIMA: I mean I'm not staying. 
-QUARK: Now hold on. Your students and I have an agreement. They get the
-cloaking device and you stay with me. That way everyone's happy. 
-NATIMA: Quark, you say you love me? Then give me that cloaking device
-and let me be on my way. 
+QUARK: Now hold on. Your students and I have an agreement. They get the cloaking device and you stay with me. That way everyone's happy. 
+NATIMA: Quark, you say you love me? Then give me that cloaking device and let me be on my way. 
 QUARK: And let you disappear out of my life again? 
 NATIMA: I'm not part of your life. 
-QUARK: But you are. You always have been. Don't you understand, since
-you left me, not a day goes by that I don't regret what I did. And now
-you're asking me to lose you again. 
+QUARK: But you are. You always have been. Don't you understand, since you left me, not a day goes by that I don't regret what I did. And now you're asking me to lose you again. 
 NATIMA: You lost me a long time ago. 
-QUARK: All right, then say it. Let me hear you say there isn't a spark
-of love left in you. 
+QUARK: All right, then say it. Let me hear you say there isn't a spark of love left in you. 
 NATIMA: There isn't a spark of love left in me. 
 QUARK: I heard that. 
 NATIMA: What? 
 QUARK: You hesitated. Admit it, you still care. 
-NATIMA: Quark, I don't have time for this. Give me that cloaking
-device. 
+NATIMA: Quark, I don't have time for this. Give me that cloaking device. 
 QUARK: I can't. I won't let you go. 
 (She gets a weapon from a drawer) 
-NATIMA: Quark. I didn't want to have to get it this way, but I need
-that device. Give it to me. Now. 
+NATIMA: Quark. I didn't want to have to get it this way, but I need that device. Give it to me. Now. 
 QUARK: Or what? You'll shoot me? 
 NATIMA: If I have to. 
 QUARK: Then go ahead and shoot. 
-(Just as he reaches for the weapon, she fires and he falls. The
-cloaking device rolls from his hand. After the break.) 
+(Just as he reaches for the weapon, she fires and he falls. The cloaking device rolls from his hand. After the break.) 
 NATIMA: Quark. Quark, are you all right. 
 QUARK: You shot me. 
-NATIMA: I didn't mean to. It was an accident. I've never fired a phaser
-before. I barely touched the trigger 
+NATIMA: I didn't mean to. It was an accident. I've never fired a phaser before. I barely touched the trigger 
 QUARK: Careful. Owww. 
 NATIMA: It hurts? 
-QUARK: She wants to know if it hurts? Of course it hurts. It's supposed
-to hurt. It's a phaser. 
+QUARK: She wants to know if it hurts? Of course it hurts. It's supposed to hurt. It's a phaser. 
 NATIMA: I made sure it was on the first setting. 
 QUARK: How considerate of you. 
 NATIMA: Should I get a doctor? 
@@ -460,34 +313,25 @@ NATIMA: Oh, Quark, I'm sorry.
 QUARK: Really? 
 NATIMA: Yes, for everything. For all those horrible things I said. 
 QUARK: You really didn't mean them? 
-NATIMA: I love you, Quark. I've always loved you. Even when I hated
-you. 
+NATIMA: I love you, Quark. I've always loved you. Even when I hated you. 
 (They kiss.) 
 QUARK: Natima. 
-NATIMA: I've missed you. I've missed you so much. Being with you was
-the happiest time of my life. 
-QUARK: And now we're together again, and we have the rest of our lives
-to be happy. 
+NATIMA: I've missed you. I've missed you so much. Being with you was the happiest time of my life. 
+QUARK: And now we're together again, and we have the rest of our lives to be happy. 
 NATIMA: I wish it was that easy. 
 QUARK: It can be if you let it. 
-NATIMA: I'm not the same person I was seven years ago. I have
-responsibilities. 
+NATIMA: I'm not the same person I was seven years ago. I have responsibilities. 
 QUARK: I'll share them with you. 
-NATIMA: The movement is my life now. I don't have time for anything
-else. 
-QUARK: We'll make the time. You're a woman, Natima, believe me, I know.
-It's not right for you to be alone. 
-NATIMA: I'm not alone. I have my students, my dreams for a better
-Cardassia. 
-QUARK: But are dreams enough? Can dreams make you laugh? Can dreams
-hold you close at night? 
+NATIMA: The movement is my life now. I don't have time for anything else. 
+QUARK: We'll make the time. You're a woman, Natima, believe me, I know. It's not right for you to be alone. 
+NATIMA: I'm not alone. I have my students, my dreams for a better Cardassia. 
+QUARK: But are dreams enough? Can dreams make you laugh? Can dreams hold you close at night? 
 NATIMA: No. But my life demands I make certain sacrifices. 
 QUARK: And you've made them, but it doesn't mean you can't be happy. 
 NATIMA: We did have fun together, didn't we? 
 QUARK: Remember the day I installed my first holosuite. 
 NATIMA: I'd never been in one before. 
-QUARK: I still have that programme. The picnic on Rhymus Major. Two
-suns in the sky. 
+QUARK: I still have that programme. The picnic on Rhymus Major. Two suns in the sky. 
 NATIMA: The sound of the waterfalls. 
 QUARK: The whisper of flitterbird wings over our heads. 
 NATIMA: You painted my face with honey. 
@@ -495,209 +339,137 @@ QUARK: And a Mordian butterfly landed on your nose.
 NATIMA: And a Mordian butterfly got stuck on my nose. 
 QUARK: His wings were beating almost as fast as my heart. 
 NATIMA: Those were good times. 
-QUARK: The best. And we can have them back again. I'll give the
-cloaking device to your students. Once they're gone you'll be safe, and
-we can be together. 
+QUARK: The best. And we can have them back again. I'll give the cloaking device to your students. Once they're gone you'll be safe, and we can be together. 
 NATIMA: I can't just abandon them. They need me. 
-QUARK: I need you. Listen to me, Natima. You've done enough for the
-movement. You lit the match. Let them carry the torch. Or are you
-saying that the movement won't survive without you? 
+QUARK: I need you. Listen to me, Natima. You've done enough for the movement. You lit the match. Let them carry the torch. Or are you saying that the movement won't survive without you? 
 NATIMA: Of course it will. 
 QUARK: Then let it. And let us have the happiness we deserve. 
 NATIMA: You really do love me, don't you? 
 QUARK: With all that I am, Natima. Forever. Will you stay? 
 NATIMA: Yes, Quark. I'll stay. 
 QUARK: You don't know how I've waited to hear you say that. 
-(The doorbell interrupts their passion. Quark hides the cloaking device
-under the table.) 
+(The doorbell interrupts their passion. Quark hides the cloaking device under the table.) 
 NATIMA: Enter. 
 ODO: Professor Lang? 
 QUARK: Not now, Odo. Can't you see we're busy? 
-ODO: I apologise for the interruption, but I'm afraid, madam, that
-you're under arrest. 
+ODO: I apologise for the interruption, but I'm afraid, madam, that you're under arrest. 
 NATIMA: I'm what? 
 QUARK: On what charge? 
 ODO: Commander Sisko will explain. I'm truly sorry. 
 QUARK: Now hold on. 
-NATIMA: Quark, it's all right.
- [Holding cell]
-NATIMA: Commander, would you please explain what
-we're doing here? 
-SISKO: I'm afraid all of you are to be turned over to the Cardassian
-government. 
+NATIMA: Quark, it's all right. 
+[Holding cell]
+NATIMA: Commander, would you please explain what we're doing here? 
+SISKO: I'm afraid all of you are to be turned over to the Cardassian government. 
 REKELEN: You can't do that. 
-SISKO: I wish I didn't have to, but Cardassia has offered to hand over
-a half a dozen Bajoran prisoners in exchange for you. 
+SISKO: I wish I didn't have to, but Cardassia has offered to hand over a half a dozen Bajoran prisoners in exchange for you. 
 NATIMA: And you've agreed to this? 
-ODO: The Bajoran Provisional Government has agreed to it. A Cardassian
-transport will deliver the Bajoran prisoners within five hours. 
+ODO: The Bajoran Provisional Government has agreed to it. A Cardassian transport will deliver the Bajoran prisoners within five hours. 
 NATIMA: Commander, you have no idea what they'll do to us. 
 REKELEN: We're the ones they're after. At least let Professor Lang go. 
-SISKO: I'd like nothing better, but the provisional government has
-ordered you all be turned over. I'm fighting this every way I can. I'm
-not ready to give up yet. But in the end, this is a Bajoran station,
-and I have to abide by their decision no matter how much I disagree
-with it.
- [Garak's shop]
+SISKO: I'd like nothing better, but the provisional government has ordered you all be turned over. I'm fighting this every way I can. I'm not ready to give up yet. But in the end, this is a Bajoran station, and I have to abide by their decision no matter how much I disagree with it. 
+[Garak's shop]
 TORAN: How the mighty have fallen. 
 GARAK: Toran? 
 TORAN: It's Gul Toran now. 
-GARAK: They've made you a Gul. I didn't realise the situation on
-Cardassia had gotten so desperate. 
-TORAN: I find your bitterness extremely gratifying. I'm glad to see
-that you're adjusting so poorly to exile. 
+GARAK: They've made you a Gul. I didn't realise the situation on Cardassia had gotten so desperate. 
+TORAN: I find your bitterness extremely gratifying. I'm glad to see that you're adjusting so poorly to exile. 
 GARAK: Actually, I'm finding my time here quite illuminating. 
 TORAN: Then I don't suppose you'd be interested in going home again? 
-GARAK: Am I to be rewarded for informing the Central Command about the
-presence of Hogue and Rekelen on the station? 
-TORAN: Perhaps. But only after you see to it that they don't leave this
-station alive. 
-GARAK: But I suggested a prisoner exchange and the Central Command
-agreed. 
+GARAK: Am I to be rewarded for informing the Central Command about the presence of Hogue and Rekelen on the station? 
+TORAN: Perhaps. But only after you see to it that they don't leave this station alive. 
+GARAK: But I suggested a prisoner exchange and the Central Command agreed. 
 TORAN: I convinced them otherwise. 
 GARAK: They listen to you? 
 TORAN: My voice is less tarnished than yours. 
 GARAK: Kill them and all you'll do is create martyrs. 
 TORAN: You overestimate their importance. 
 GARAK: And how do you propose to arrange this unfortunate incident? 
-TORAN: I'm sure you'll think of something. You always did in the past.
-Don't you see? Lang's death will benefit us both. Unless of course, you
-intend to spend the rest of your life as a tailor. 
+TORAN: I'm sure you'll think of something. You always did in the past. Don't you see? Lang's death will benefit us both. Unless of course, you intend to spend the rest of your life as a tailor. 
 GARAK: I see your point. 
-TORAN: I knew you would.
- [Security office]
+TORAN: I knew you would. 
+[Security office]
 (Odo is reading a PADD) 
 QUARK: Odo, we have to talk. 
 ODO: I'm busy. Come back later. 
-QUARK: Later will be too late. (sees what Odo is reading) I, the Jury
-by Mickey Spillane? 
+QUARK: Later will be too late. (sees what Odo is reading) I, the Jury by Mickey Spillane? 
 ODO: Chief O'Brien loaned it to me. This better be important, Quark. 
 QUARK: It is. Odo, you have to let Natima and her students go. 
 ODO: Do I? 
-QUARK: Those students could be the key to a new Cardassia. A Cardassia
-free of military rule and oppression. 
+QUARK: Those students could be the key to a new Cardassia. A Cardassia free of military rule and oppression. 
 ODO: Since when have you become so interested in Cardassian politics? 
-QUARK: A freer more open society on Cardassia would benefit this entire
-sector. And it'd be great for business. 
-ODO: So, wanting me to free Natima and those students is strictly a
-financial consideration on your part? 
-QUARK: Now, Odo. Don't allow my greed to keep you from doing the right
-thing. 
-ODO: I know you better than you think, Quark. This isn't about
-Cardassia, and for once it's not even about profit. This is about
-Professor Lang. 
-QUARK: You're right. It is. Her life is in jeopardy as long as Rekelen
-and Hogue are on the station. 
+QUARK: A freer more open society on Cardassia would benefit this entire sector. And it'd be great for business. 
+ODO: So, wanting me to free Natima and those students is strictly a financial consideration on your part? 
+QUARK: Now, Odo. Don't allow my greed to keep you from doing the right thing. 
+ODO: I know you better than you think, Quark. This isn't about Cardassia, and for once it's not even about profit. This is about Professor Lang. 
+QUARK: You're right. It is. Her life is in jeopardy as long as Rekelen and Hogue are on the station. 
 ODO: Why didn't you tell me that before? 
-QUARK: What was I supposed to say? That I love her? That I would do
-anything for her? That without her, my life would be meaningless? Sure,
-I could say those things, but what good would it do? How could I expect
-you to understand? You've never had those feelings. You don't know what
-it means to really care about another person. You've never been in
-love. You've got all the emotions of a stone. No offence. 
+QUARK: What was I supposed to say? That I love her? That I would do anything for her? That without her, my life would be meaningless? Sure, I could say those things, but what good would it do? How could I expect you to understand? You've never had those feelings. You don't know what it means to really care about another person. You've never been in love. You've got all the emotions of a stone. No offence. 
 ODO: Go on. 
-QUARK: Listen to me, Odo. You do this for me, and I promise you
-there'll be no more secrets between us. I will tell you about every
-underhanded deal, every lying scheme, every dirty trick my brother
-Rom's involved in. 
+QUARK: Listen to me, Odo. You do this for me, and I promise you there'll be no more secrets between us. I will tell you about every underhanded deal, every lying scheme, every dirty trick my brother Rom's involved in. 
 ODO: Well, since you put it that way, I'm not interested. 
 QUARK: Okay, okay, let me put it another way. Do it for me. 
 ODO: For you? 
-QUARK: That's right. For all the years we've known each other. For
-everything we've been through together. You say you know me better than
-anyone else? Well, I know you. Sure, sometimes we're on opposite sides,
-but that doesn't mean that we aren't close. I never told you this, Odo,
-but I consider you as dear to me as my brother. 
+QUARK: That's right. For all the years we've known each other. For everything we've been through together. You say you know me better than anyone else? Well, I know you. Sure, sometimes we're on opposite sides, but that doesn't mean that we aren't close. I never told you this, Odo, but I consider you as dear to me as my brother. 
 ODO: And I've seen how well you treat him. 
 QUARK: Odo, look at me. 
 (Odo turns round but cannot see Quark.) 
-QUARK: Look at me. I'm on my knees. I'm begging you. I don't care why
-you do it. Pick any reason you want. But please, let Natima and the
-others go. 
+QUARK: Look at me. I'm on my knees. I'm begging you. I don't care why you do it. Pick any reason you want. But please, let Natima and the others go. 
 ODO: All right. I'll do it. 
 QUARK: You will? 
-ODO: But not for you. Turning Hogue and Rekelen over to the Cardassians
-would mean their deaths. I've read their files and nothing they've done
-warrants that kind of punishment. I'll free them, Quark, but only in
-the name of justice. 
-QUARK: Justice. That was going to be my next suggestion. (He gets up)
-So, you're not really doing this for me? 
+ODO: But not for you. Turning Hogue and Rekelen over to the Cardassians would mean their deaths. I've read their files and nothing they've done warrants that kind of punishment. I'll free them, Quark, but only in the name of justice. 
+QUARK: Justice. That was going to be my next suggestion. (He gets up) So, you're not really doing this for me? 
 ODO: That's right. 
 QUARK: Then I don't owe you a thing. Thank you. 
 (Quark hugs Odo) 
 QUARK: You'll never know how much this means to me. 
 ODO: Let go. 
 QUARK: Sorry. Now let's hurry before you change your mind. 
-ODO: One question. How do you expect Rekelen and Hogue to get past that
-warship? I knew you had a cloaking device. 
-QUARK: I always said you were too smart for me, Odo.
- [Holding cell] 
+ODO: One question. How do you expect Rekelen and Hogue to get past that warship? I knew you had a cloaking device. 
+QUARK: I always said you were too smart for me, Odo. 
+[Holding cell]
 NATIMA: Quark, what are you doing here? 
 QUARK: Getting you out. 
 NATIMA: Thank you. 
-ODO: Good luck.
- [Cargo bay] 
-QUARK: I've installed the cloaking device in the
-central engine core. You can activate it from the bridge as soon as the
-mooring clamps are released. Then I suggest you take your ship to warp
-eight and don't look back. Now please, make your goodbyes brief. 
+ODO: Good luck. 
+[Cargo bay]
+QUARK: I've installed the cloaking device in the central engine core. You can activate it from the bridge as soon as the mooring clamps are released. Then I suggest you take your ship to warp eight and don't look back. Now please, make your goodbyes brief. 
 (Quark opens the airlock and Garak is inside with a weapon.) 
 GARAK: But what's the rush? 
 REKELEN: You've betrayed us. 
 QUARK: No. 
 GARAK: Don't. I'd hate to ruin such a nice suit. 
 QUARK: Why are you doing this? 
-GARAK: Exile tends to wear a bit thin after a while, even with
-surroundings as pleasant as these. 
+GARAK: Exile tends to wear a bit thin after a while, even with surroundings as pleasant as these. 
 QUARK: Fine. Take them, but leave Natima alone. 
 NATIMA: Quark. 
 HOGUE: No, he's right. We're the fugitives, not you. 
 QUARK: You see, they agree with me. 
-GARAK: Unfortunately, it's not their decision to make, nor mine.
-Professor Lang, however minor her role in this matter, has come to the
-attention of the Central Command. 
-NATIMA: Do you think killing us will change anything? Cardassia is
-slipping out of the hands of the military, and nothing you do will
-prevent it. 
+GARAK: Unfortunately, it's not their decision to make, nor mine. Professor Lang, however minor her role in this matter, has come to the attention of the Central Command. 
+NATIMA: Do you think killing us will change anything? Cardassia is slipping out of the hands of the military, and nothing you do will prevent it. 
 GARAK: Madam, I am not here to debate you. 
-QUARK: Garak, if you harm these people, I'll see to it that Commander
-Sisko prosecutes you to the fullest extent of the law. 
-GARAK: Which brings up another issue. Quark, things would've gone much
-easier if you'd taken my advice and not gotten involved with these
-people. 
+QUARK: Garak, if you harm these people, I'll see to it that Commander Sisko prosecutes you to the fullest extent of the law. 
+GARAK: Which brings up another issue. Quark, things would've gone much easier if you'd taken my advice and not gotten involved with these people. 
 QUARK: I was already involved. 
 GARAK: I know. A pity, really. Personally, I rather like you, Quark. 
 QUARK: You mean you're going to shoot me too? 
-GARAK: Before I became a tailor, I lived by a simple motto. Never let
-sentiment get in the way of your work. A bit of a
-clich�, but true, nonetheless. 
+GARAK: Before I became a tailor, I lived by a simple motto. Never let sentiment get in the way of your work. A bit of a clich�, but true, nonetheless. 
 QUARK: I'll keep that in mind. 
-GARAK: Well then, although I admit it's against my better judgement,
-I'm afraid I must carry out the verdict of the Central Command. 
-QUARK: But you admit that they're wrong. Why don't you stand up for
-what you believe in? 
+GARAK: Well then, although I admit it's against my better judgement, I'm afraid I must carry out the verdict of the Central Command. 
+QUARK: But you admit that they're wrong. Why don't you stand up for what you believe in? 
 TORAN: More to the point, what do you believe in, Garak? 
 GARAK: What are you doing here, Toran? 
-TORAN: Making sure that you carry out your assignment. I suspected that
-two years living among the Bajorans would make you soft. I see I was
-right. 
-GARAK: You've never been right about anything. Now step aside, Toran,
-and allow me to finish this sorry business. 
+TORAN: Making sure that you carry out your assignment. I suspected that two years living among the Bajorans would make you soft. I see I was right. 
+GARAK: You've never been right about anything. Now step aside, Toran, and allow me to finish this sorry business. 
 TORAN: I will take over from here. 
 (Toran takes Garak's weapon.) 
-GARAK: Why? So you can take the credit and make sure I remain in
-disgrace. 
-TORAN: I can't believe that you were once considered clever. Do you
-think that completing this one simple task your reputation will be
-restored at Central Command? 
+GARAK: Why? So you can take the credit and make sure I remain in disgrace. 
+TORAN: I can't believe that you were once considered clever. Do you think that completing this one simple task your reputation will be restored at Central Command? 
 GARAK: No, I suppose not. 
 TORAN: Go back to your sewing kit, tailor. 
-(As Toran points the weapon at Rekelen's nose, there's a flash. Garak
-has vapourised Toran.) 
-GARAK: Well, some people should never be promoted. Well, don't just
-stand there. Your ship is waiting. 
-QUARK: I'm going to see to it that every Ferengi on the station shops
-at your store. 
+(As Toran points the weapon at Rekelen's nose, there's a flash. Garak has vapourised Toran.) 
+GARAK: Well, some people should never be promoted. Well, don't just stand there. Your ship is waiting. 
+QUARK: I'm going to see to it that every Ferengi on the station shops at your store. 
 GARAK: Ah. That alone makes it all worthwhile. 
 QUARK: You heard the man. Get moving. 
 HOGUE: Thank you. Both of you. 
@@ -706,19 +478,13 @@ QUARK: Yes, yes, yes, go, quickly. Keep up the good work.
 (Natima kisses Quark) 
 NATIMA: Quark, I've got to say goodbye. 
 QUARK: Just let them go. It'll be less painful that way. 
-NATIMA: No, you don't understand. I have to say goodbye to you. I'm
-going with them. 
+NATIMA: No, you don't understand. I have to say goodbye to you. I'm going with them. 
 QUARK: But we had a deal. 
-NATIMA: I can't stay here. Maybe one day I can come back and we'll be
-together again, but not until my work is done. 
-QUARK: So all I have to do to get you back is wait until Cardassia
-becomes a free and democratic society? 
+NATIMA: I can't stay here. Maybe one day I can come back and we'll be together again, but not until my work is done. 
+QUARK: So all I have to do to get you back is wait until Cardassia becomes a free and democratic society? 
 NATIMA: I promise, I'll make it worth the wait. 
 QUARK: I don't suppose I could come with you. 
-NATIMA: No. It's not your fight. Besides, I could never live with
-myself if something happened to you. I need to know that you're here,
-safe. That way a part of me will always be safe too. I love you, Quark.
-I always will. 
+NATIMA: No. It's not your fight. Besides, I could never live with myself if something happened to you. I need to know that you're here, safe. That way a part of me will always be safe too. I love you, Quark. I always will. 
 (Natima enters the airlock) 
 QUARK: I love you, too. 
 GARAK: I suggest we return to the Promenade without delay. 
@@ -727,6 +493,5 @@ GARAK: Why did you let Professor Lang go?
 QUARK: I had no choice. I love her. 
 GARAK: And I love Cardassia. Which is why I had to do what I did. 
 QUARK: I don't understand. 
-GARAK: That's the thing about love. No one really understands it, do
-they?  
+GARAK: That's the thing about love. No one really understands it, do they? 
 

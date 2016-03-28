@@ -1,89 +1,60 @@
 Episode Number: 405
 The Deep Space Nine Transcripts - Babel
 Babel
-Stardate:
-46423.7
+Stardate: 46423.7
 Original Airdate: 25 Jan, 1993
-  [Airlock]
-(Unhappy people are hammering on the airlock door
-as O'Brien's assistants work frantically) 
-O'BRIEN: Look, save your energy. We'll have you out of there as soon as
-possible. I hope. Try re-routing the power coupling. 
+[Airlock]
+(Unhappy people are hammering on the airlock door as O'Brien's assistants work frantically) 
+O'BRIEN: Look, save your energy. We'll have you out of there as soon as possible. I hope. Try re-routing the power coupling. 
 JAHEEL: Mister O'Brien. 
 O'BRIEN: See if you can activate the interlock servos. 
 JAHEEL: Mister O'Brien. 
-O'BRIEN: Captain Jaheel, those people have been stuck in that airlock
-for over an hour. Now if you can wait until we get that door opened,
-I'll be happy to listen to any problems you might have. 
-JAHEEL: But I've already been waiting two days for your people to
-readjust my ship's antimatter flow converter. 
-O'BRIEN: I'm afraid we've gotten a little bit behind in our maintenance
-schedule. 
-JAHEEL: I'm not interested in hearing excuses. I have a shipment of
-Tamen Sasheer waiting to be delivered to Largo
-Five, and I'll need to do better than warp one to get there before it
-spoils. 
-O'BRIEN: I'll try to get a repair crew to you by the end of the day.
-Now that's the best I can do. 
+O'BRIEN: Captain Jaheel, those people have been stuck in that airlock for over an hour. Now if you can wait until we get that door opened, I'll be happy to listen to any problems you might have. 
+JAHEEL: But I've already been waiting two days for your people to readjust my ship's antimatter flow converter. 
+O'BRIEN: I'm afraid we've gotten a little bit behind in our maintenance schedule. 
+JAHEEL: I'm not interested in hearing excuses. I have a shipment of Tamen Sasheer waiting to be delivered to Largo Five, and I'll need to do better than warp one to get there before it spoils. 
+O'BRIEN: I'll try to get a repair crew to you by the end of the day. Now that's the best I can do. 
 JAHEEL: Your best, Mister O'Brien, hardly seems good enough. 
 DAX [OC]: Dax to O'Brien. 
 O'BRIEN: O'Brien here. 
-DAX [OC]: Can you spare a minute, Chief? I have a little problem here
-at the lab. 
-O'BRIEN: On my way.
+DAX [OC]: Can you spare a minute, Chief? I have a little problem here at the lab. 
+O'BRIEN: On my way. 
 [Outside the lab]
 DAX: Thanks for coming, Chief. 
 O'BRIEN: What are you doing out here? 
-(She opens the door and a high pitched noise comes blaring out)
+(She opens the door and a high pitched noise comes blaring out) 
 [Laboratory]
 O'BRIEN: Have you checked the EPS convertor? 
 DAX: Yes. First thing. 
 O'BRIEN: How about the intensity grid? 
 DAX: It's fine. 
-O'BRIEN: Then it's probably the secondary phase modulator. We had
-trouble with them last week in the main power core.
-That should do it. 
+O'BRIEN: Then it's probably the secondary phase modulator. We had trouble with them last week in the main power core. That should do it. 
 (the noise stops, along with the rest of the powered systems) 
-O'BRIEN: Anything else I can do for you?
- [Ops]
-KIRA: The navigational computer hasn't been working
-reliably for three days. I ask for the star charts of the Argosian
-sector, Glessene sector comes up instead. That's when I can coax this
-system online. 
+O'BRIEN: Anything else I can do for you? 
+[Ops]
+KIRA: The navigational computer hasn't been working reliably for three days. I ask for the star charts of the Argosian sector, Glessene sector comes up instead. That's when I can coax this system online. 
 O'BRIEN: (under the console) Uh-huh. Try it now. 
 KIRA: That's more like it. You look like you could use some sleep. 
-O'BRIEN: Who has time for sleep? I'd settle for five minutes of peace
-and quiet. 
+O'BRIEN: Who has time for sleep? I'd settle for five minutes of peace and quiet. 
 (Sisko gets a drink from the replicators and it is awful) 
 SISKO: Chief, I thought you were going to fix the replicators. 
-O'BRIEN: You're absolutely right, sir. I knew I'd forgotten something.
-Can't have the operations chief sitting around daydreaming when there's
-work to be done, can we? I'll get right on it.
+O'BRIEN: You're absolutely right, sir. I knew I'd forgotten something. Can't have the operations chief sitting around daydreaming when there's work to be done, can we? I'll get right on it. 
 [Access tunnel]
 (Basically a Cardassian Jefferies tube) 
-O'BRIEN: Fix the replicators, Chief. My console's offline, Chief. I
-should've transferred to a cargo drone. No people, no complaints. 
+O'BRIEN: Fix the replicators, Chief. My console's offline, Chief. I should've transferred to a cargo drone. No people, no complaints. 
 [Corridor]
-(He comes out and tries the replicator panel.
-there's an energy discharge, then it returns to normal) 
+(He comes out and tries the replicator panel. there's an energy discharge, then it returns to normal) 
 O'BRIEN: Hot coffee, black, double sweet. 
-(It looks right, smells right and tastes right. He gives it a final
-once over and we get to see the little hidden device start blinking.)
- [Quark's]
-ODO: Tell me, Quark, am I mistaken or is business a
-little slow today? 
+(It looks right, smells right and tastes right. He gives it a final once over and we get to see the little hidden device start blinking.) 
+[Quark's]
+ODO: Tell me, Quark, am I mistaken or is business a little slow today? 
 QUARK: Slow? It's been almost nonexistent for the past three days. 
-ODO: Who knows, if things don't improve you may be forced to close
-down. 
+ODO: Who knows, if things don't improve you may be forced to close down. 
 QUARK: You'd like that, wouldn't you? 
-ODO: Let's just say, without you around my job would be considerably
-easier. 
-QUARK: Without me around, you'd be forced to find some other, poor
-innocent to persecute. Think about that while you sit here gloating at
-my misfortune. 
+ODO: Let's just say, without you around my job would be considerably easier. 
+QUARK: Without me around, you'd be forced to find some other, poor innocent to persecute. Think about that while you sit here gloating at my misfortune. 
 ASOTH: Quark! You call this Kohlanese stew? 
-QUARK: If your meal isn't satisfactory I'm sure we could exchange it
-for something more to your liking. 
+QUARK: If your meal isn't satisfactory I'm sure we could exchange it for something more to your liking. 
 ASOTH: Aren't you the least bit curious as to how it tastes? 
 (Asoth force-feeds Quark the revolting stuff) 
 ASOTH: Now, you served it, you're going to eat it. 
@@ -92,335 +63,232 @@ ASOTH: I said eat it!
 ODO: I said, that's enough. 
 (A painful shoulder grip sends Asoth on his way) 
 ODO: Well, another satisfied customer. 
-QUARK: It's these replicators. If I don't get them fixed soon, they'll
-destroy my business. 
-ODO: Why not get O'Brien to fix them? He has the replicators on the
-command level working perfectly. 
-QUARK: I'm on his waiting list. He assures me he'll get to them as soon
-as he can. 
+QUARK: It's these replicators. If I don't get them fixed soon, they'll destroy my business. 
+ODO: Why not get O'Brien to fix them? He has the replicators on the command level working perfectly. 
+QUARK: I'm on his waiting list. He assures me he'll get to them as soon as he can. 
 ODO: No telling when that will be. The Chief's a very busy man. 
 (Odo leaves) 
-QUARK: Computer, display a station layout. Highlight locations of all
-repaired replicators on command level. 
-COMPUTER: Information restricted to security clearance five and above.
-Please enter security verification. 
-(Quark selects two rods from a selection in the drawer and inserts
-them.) 
-COMPUTER: Clearance verified.
- [Ops]
-O'BRIEN: There you go, sir. I think you'll find
-that more to your liking. 
+QUARK: Computer, display a station layout. Highlight locations of all repaired replicators on command level. 
+COMPUTER: Information restricted to security clearance five and above. Please enter security verification. 
+(Quark selects two rods from a selection in the drawer and inserts them.) 
+COMPUTER: Clearance verified. 
+[Ops]
+O'BRIEN: There you go, sir. I think you'll find that more to your liking. 
 (The drink is acceptable) 
 SISKO: Very much appreciated, Mister O'Brien. 
-O'BRIEN: Don't mention it, sir. Unfortunately, there are plenty of
-replicators around the station that still need looking after. 
+O'BRIEN: Don't mention it, sir. Unfortunately, there are plenty of replicators around the station that still need looking after. 
 SISKO: You all right, Chief? 
-O'BRIEN: I'm just a bit hot. The environmental controls must be acting
-up again. 
-SISKO: Send my regards to Mrs O'Brien. Jake tells me she's a wonderful
-teacher. 
-O'BRIEN: That's nice to hear, sir. She's flower units about the lad
-herself. 
+O'BRIEN: I'm just a bit hot. The environmental controls must be acting up again. 
+SISKO: Send my regards to Mrs O'Brien. Jake tells me she's a wonderful teacher. 
+O'BRIEN: That's nice to hear, sir. She's flower units about the lad herself. 
 SISKO: Excuse me? 
 O'BRIEN: Sir? 
 SISKO: What was that you just said? 
 O'BRIEN: She's quite fond of the lad herself. 
 SISKO: I'm glad to hear it. 
-O'BRIEN: Very good, sir.
- [Promenade]
+O'BRIEN: Very good, sir. 
+[Promenade]
 SECURITY: Ladies. 
 CREWMAN: Hello, Lieutenant. 
 DAX: I forgot how different it was. 
 KIRA: How different what was? 
-DAX: Being female. I haven't been one for over eighty years. All this
-attention. 
+DAX: Being female. I haven't been one for over eighty years. All this attention. 
 KIRA: I imagine it must take some getting use to. 
 DAX: Actually I find it quite enjoyable. 
 QUARK: Major Kira. Lieutenant Dax. 
 (Business looks booming) 
-QUARK: I'd be honoured to have you join my little party. As my guests,
-of course. 
+QUARK: I'd be honoured to have you join my little party. As my guests, of course. 
 KIRA: What's all this, Quark? You cheat your one thousandth customer? 
-QUARK: Who says Bajorans don't have a sense of humour? Actually, we're
-celebrating the repair of the bar's replicator system. Perhaps I could
-interest you in a nice double whipped Idanian spice pudding. 
+QUARK: Who says Bajorans don't have a sense of humour? Actually, we're celebrating the repair of the bar's replicator system. Perhaps I could interest you in a nice double whipped Idanian spice pudding. 
 DAX: What do you think? 
-KIRA: I think I'm due back at Ops, but go on, enjoy yourself.
- [Quark's] 
-QUARK: Please, make yourself comfortable,
-Lieutenant. I did say a double whipped spice pudding, didn't I? 
+KIRA: I think I'm due back at Ops, but go on, enjoy yourself. 
+[Quark's]
+QUARK: Please, make yourself comfortable, Lieutenant. I did say a double whipped spice pudding, didn't I? 
 DAX: It's lovely. I almost hate to eat it. 
-QUARK: By all means, take the time to admire its beauty While I admire
-yours.
- [Ops] 
+QUARK: By all means, take the time to admire its beauty While I admire yours. 
+[Ops]
 (O'Brien looks very unwell) 
 KIRA: Chief? 
 O'BRIEN: How can I help you, Major? 
 KIRA: You're the one who could use a little help. 
 O'BRIEN: Oh, no, I'm fine, really. 
-KIRA: I suppose this isn't a good time to tell you that number three
-turbolift has broken down again. Joking, Chief. 
+KIRA: I suppose this isn't a good time to tell you that number three turbolift has broken down again. Joking, Chief. 
 O'BRIEN: Major, larks true pepper. 
 KIRA: What? 
 O'BRIEN: Let birds go further loose maybe. Shout easy play. 
 KIRA: Chief, you're not making any sense. 
-O'BRIEN: Round the turbulent quick. Well, close the reverse harbour.
-Ankle try sound. Reset gleaming. Dinner to bug. 
+O'BRIEN: Round the turbulent quick. Well, close the reverse harbour. Ankle try sound. Reset gleaming. Dinner to bug. 
 KIRA: Chief, wait. 
 O'BRIEN: When? 
 KIRA: Chief! 
- [Infirmary]
-(O'Brien is having his eyesight checked,
-apparently) 
-BASHIR: Computer, continue neural imaging scan and stimulate visual
-cortex. 
+[Infirmary]
+(O'Brien is having his eyesight checked, apparently) 
+BASHIR: Computer, continue neural imaging scan and stimulate visual cortex. 
 COMPUTER: All visual responses normal. 
 (Headphones go on) 
 BASHIR: Computer, begin auditory stimuli. 
-COMPUTER: No physiological damage. All brain functions within normal
-parameters. 
+COMPUTER: No physiological damage. All brain functions within normal parameters. 
 BASHIR: Nurse. 
 JABARA: Yes? 
-BASHIR: Will you pull up Mister O'Brien's neurophysiological history,
-please? 
+BASHIR: Will you pull up Mister O'Brien's neurophysiological history, please? 
 JABARA: Yes, Doctor. 
 (O'Brien grabs a PADD and starts tapping on it) 
 KIRA: What is that? What's he written? 
-(The PADD says 'Flame the dark true, salt way link, complete strike,
-limits victory, frosted wake, simple hesitation) 
+(The PADD says 'Flame the dark true, salt way link, complete strike, limits victory, frosted wake, simple hesitation) 
 BASHIR: I wish I knew. 
 O'BRIEN: Strike limits. Flame the dark true salt. 
 BASHIR: Please, Chief, have a seat. 
 O'BRIEN: Way link complete. Way link! 
 (Kira pushes him back onto the bed) 
 KIRA: What's wrong with him? 
-BASHIR: He appears to be suffering from a form of aphasia. It's a
-perceptual dysfunction in which aural and visual stimuli are
-incorrectly processed by the brain. His actual thinking hasn't been
-affected, but he's incapable of expressing himself or understanding
-others. 
+BASHIR: He appears to be suffering from a form of aphasia. It's a perceptual dysfunction in which aural and visual stimuli are incorrectly processed by the brain. His actual thinking hasn't been affected, but he's incapable of expressing himself or understanding others. 
 O'BRIEN: Victory strike limits frosted wake. Simple hesitation! 
- [Ops]
-SISKO: I'm not sure I follow you, Doctor. You say
-Mister O'Brien is aphasic, but all of his tests come up negative. 
-DAX: Isn't aphasia typically associated with some kind of cranial
-trauma? 
-BASHIR: Yes. It can occur as a result of a stroke or blow to the head.
-But there's no evidence of that here. 
+[Ops]
+SISKO: I'm not sure I follow you, Doctor. You say Mister O'Brien is aphasic, but all of his tests come up negative. 
+DAX: Isn't aphasia typically associated with some kind of cranial trauma? 
+BASHIR: Yes. It can occur as a result of a stroke or blow to the head. But there's no evidence of that here. 
 DAX: Did you check the medical library for any precedents? 
 BASHIR: And rechecked. Nothing so far. 
 SISKO: Do you have any theories? 
 BASHIR: Not yet. 
-SISKO: Find one. Major Kira, get hold of the Chief's personal duty log.
-I want to know where he's been and what he's done for the past fifty
-two hours. 
-KIRA: I've already examine it, Commander. He's been all over the
-station. 
-SISKO: Retrace his steps and see what you come up with. Dax, you will
-temporarily assume Mister O'Brien's duties. 
+SISKO: Find one. Major Kira, get hold of the Chief's personal duty log. I want to know where he's been and what he's done for the past fifty two hours. 
+KIRA: I've already examine it, Commander. He's been all over the station. 
+SISKO: Retrace his steps and see what you come up with. Dax, you will temporarily assume Mister O'Brien's duties. 
 DAX: Yes, I'll 
 SISKO: Is there a problem, Lieutenant? Lieutenant? 
-DAX: I'm sorry, Benjamin. I'm unable to foolish assembled regal
-controlled weather.
-[Infirmary] 
-BASHIR: Spontaneous development of aphasia is
-virtually impossible. Yet we saw Lieutenant Dax become aphasic before
-our eyes. This told me we are dealing with a disease that only mimics
-aphasia. So I ran a full neurosynaptic comparison of Dax and O'Brien,
-and I found this in the temporal lobes of both patients. 
+DAX: I'm sorry, Benjamin. I'm unable to foolish assembled regal controlled weather. 
+[Infirmary]
+BASHIR: Spontaneous development of aphasia is virtually impossible. Yet we saw Lieutenant Dax become aphasic before our eyes. This told me we are dealing with a disease that only mimics aphasia. So I ran a full neurosynaptic comparison of Dax and O'Brien, and I found this in the temporal lobes of both patients. 
 SISKO: A virus? 
-BASHIR: It imposes itself within the established synaptic pathways and
-then randomly reroutes them. For example, when I look at this, (holds
-up a tricorder) a process occurs in my brain which connects the
-stimulus to the word tricorder. This virus disrupts that process. 
-SISKO: I'd see a tricorder but I would say something ridiculous like
-window. 
+BASHIR: It imposes itself within the established synaptic pathways and then randomly reroutes them. For example, when I look at this, (holds up a tricorder) a process occurs in my brain which connects the stimulus to the word tricorder. This virus disrupts that process. 
+SISKO: I'd see a tricorder but I would say something ridiculous like window. 
 BASHIR: Exactly. 
 JABARA: Doctor, I think you should get over here. 
 CREWWOMAN: Night, the flow trade again. 
 CREWMAN: View lost pile luck. Away tunnel back the garden. 
-SISKO: Doctor, I want this station put under emergency quarantine
-immediately. 
-BASHIR: Yes, sir.
+SISKO: Doctor, I want this station put under emergency quarantine immediately. 
+BASHIR: Yes, sir. 
 [Quark's]
-(Odo comes out of his office to an empty Promenade
-but a noisy bar) 
+(Odo comes out of his office to an empty Promenade but a noisy bar) 
 MAN: Dabo! 
 ODO: Quark, what is going on here? 
 QUARK: What does it look like? 
-ODO: It looks like business as usual, but that's impossible because all
-shops and business have been closed until further notice. 
+ODO: It looks like business as usual, but that's impossible because all shops and business have been closed until further notice. 
 QUARK: Except, of course, for essential station operations. 
 ODO: For which this place hardly qualifies. 
-QUARK: I don't think they'd agree. This quarantine has everybody on
-edge, Constable. Would you deprive them of a little harmless diversion?
+QUARK: I don't think they'd agree. This quarantine has everybody on edge, Constable. Would you deprive them of a little harmless diversion? 
 ODO: They'd be safer in their quarters. 
 ASOTH: Quark, that Kohlanese stew. Magnificent. 
 QUARK: Fortunately, my assistant Rom, was able to fix the replicators. 
-ODO: Yes, very fortunate.
- [Promenade upper level] 
+ODO: Yes, very fortunate. 
+[Promenade upper level]
 SISKO: Jake! I expected you home an hour ago. 
-JAKE: Sorry. I was at Nog's. (they go down the stairs) Dad, about this
-quarantine, it's going to be okay, isn't it? 
-SISKO: It's just a precaution. Nothing more.
- [Promenade] 
+JAKE: Sorry. I was at Nog's. (they go down the stairs) Dad, about this quarantine, it's going to be okay, isn't it? 
+SISKO: It's just a precaution. Nothing more. 
+[Promenade]
 JAHEEL: I wish I shared your confidence Commander. 
 SISKO: Go straight home, son. I'll see you at dinner. 
 (Jake leaves) 
 SISKO: Captain Jaheel, all visitors have been confined to their ships. 
 JAHEEL: Believe me, there is no place I'd rather be. 
 SISKO: Then what are you doing here? 
-JAHEEL: Commander, I officially request permission to leave this
-station. 
+JAHEEL: Commander, I officially request permission to leave this station. 
 SISKO: Request denied. 
-JAHEEL: But none of my crew has been affected by this virus of yours,
-and unless I depart at once my whole cargo will be ruined. 
+JAHEEL: But none of my crew has been affected by this virus of yours, and unless I depart at once my whole cargo will be ruined. 
 SISKO: Captain, I suggest you return to your ship now. 
 JAHEEL: Please. I don't want to get sick. 
-SISKO: I'm sorry, but until we find a cure for this thing, no one's
-going anywhere.
+SISKO: I'm sorry, but until we find a cure for this thing, no one's going anywhere. 
 [Empty quarters]
-(Quark lets himself into the room with a food
-trolley and goes to the replicator) 
-QUARK: Computer, let's start with one Ferengi starduster, please. Extra
-strong. Perfect. 
+(Quark lets himself into the room with a food trolley and goes to the replicator) 
+QUARK: Computer, let's start with one Ferengi starduster, please. Extra strong. Perfect. 
 (The trolley morphs into Odo) 
 QUARK: I thought the front wheels were sticking a bit. 
-ODO: Unauthorised access to crew quarters is a crime, Quark. You could
-have just asked to use the replicators. 
-QUARK: There's an old Ferengi saying. Never ask when you can take. How
-did you figure it out? 
+ODO: Unauthorised access to crew quarters is a crime, Quark. You could have just asked to use the replicators. 
+QUARK: There's an old Ferengi saying. Never ask when you can take. How did you figure it out? 
 ODO: You claimed Rom fixed your replicators. 
 QUARK: So? 
 ODO: Rom's an idiot. He couldn't fix a straw if it was bent. 
-QUARK: You're right. Rom is an idiot. Remind me to get rid of him
-tomorrow.
- [Ops]
-BASHIR: Based on the levels of the virus found in
-the patients' blood, I believe it's being absorbed through ingestion. 
+QUARK: You're right. Rom is an idiot. Remind me to get rid of him tomorrow. 
+[Ops]
+BASHIR: Based on the levels of the virus found in the patients' blood, I believe it's being absorbed through ingestion. 
 SISKO: You're saying it's in our food? 
-KIRA: That's not possible. All the food on the station is replicated,
-and all the replicators use biofilters. They automatically screen out
-contaminants including viruses. 
-BASHIR: Major, I've analysed samples from replicators all over the
-station. Food on the command level is contaminated. 
-SISKO: But all of us here have eaten from those replicators. How come
-we're not aphasic? 
-BASHIR: This virus is highly adaptable. Its incubation period seems to
-vary within each individual. 
-KIRA: According to O'Brien's duty log, the last thing he did before
-become aphasic was fix the command level replicators. 
-SISKO: Get a repair crew over there to inspect the site. Let's shut
-down those replicators. Maybe we'll be able to limit further
-contamination. 
-BASHIR: I'm afraid that's not going to do it, sir. I've been getting
-aphasic patients from all over the station. 
+KIRA: That's not possible. All the food on the station is replicated, and all the replicators use biofilters. They automatically screen out contaminants including viruses. 
+BASHIR: Major, I've analysed samples from replicators all over the station. Food on the command level is contaminated. 
+SISKO: But all of us here have eaten from those replicators. How come we're not aphasic? 
+BASHIR: This virus is highly adaptable. Its incubation period seems to vary within each individual. 
+KIRA: According to O'Brien's duty log, the last thing he did before become aphasic was fix the command level replicators. 
+SISKO: Get a repair crew over there to inspect the site. Let's shut down those replicators. Maybe we'll be able to limit further contamination. 
+BASHIR: I'm afraid that's not going to do it, sir. I've been getting aphasic patients from all over the station. 
 SISKO: How is that possible? 
-ODO: You can thank Quark. I caught him using a replicator in one of the
-vacant crew quarters. He was producing his entire menu out of there. 
-BASHIR: If this virus is present within a large enough segment of the
-population, it could mean 
+ODO: You can thank Quark. I caught him using a replicator in one of the vacant crew quarters. He was producing his entire menu out of there. 
+BASHIR: If this virus is present within a large enough segment of the population, it could mean 
 SISKO: What is it, Doctor? 
 BASHIR: I just took an air sample. 
 (Puts his tricorder results on a monitor) 
 SISKO: The virus? 
 BASHIR: It's mutated into an airborne variety. 
 ODO: Which means? 
-BASHIR: Which means the whole station is infected.
-Station log, stardate 46423.7. Nearly sixty percent
-of DS Nine's population has now contracted the aphasia virus. We've
-initiated standard quarantine procedures, and are advising all incoming
-ships to maintain their distance from the station until further notice.
+BASHIR: Which means the whole station is infected. 
+Station log, stardate 46423.7. Nearly sixty percent of DS Nine's population has now contracted the aphasia virus. We've initiated standard quarantine procedures, and are advising all incoming ships to maintain their distance from the station until further notice. 
 [Access tunnel]
-(Kira finds the device)
- [Commander's office]
-KIRA: I found it inside the replicator's pattern
-generator. 
-SISKO: O'Brien must have accidently triggered it when he repaired the
-system. 
-KIRA: According to Bashir, it introduced an anomalous programming
-sequence into the materialisation subroutine. In effect, it built the
-virus directly into the replicated food at a molecular level. 
+(Kira finds the device) 
+[Commander's office]
+KIRA: I found it inside the replicator's pattern generator. 
+SISKO: O'Brien must have accidently triggered it when he repaired the system. 
+KIRA: According to Bashir, it introduced an anomalous programming sequence into the materialisation subroutine. In effect, it built the virus directly into the replicated food at a molecular level. 
 SISKO: So what we have here is sabotage. 
 KIRA: Cardassian sabotage. 
 SISKO: How can you be sure? 
-KIRA: It has a diboridium core for a power source. That is Cardassian
-technology. 
+KIRA: It has a diboridium core for a power source. That is Cardassian technology. 
 BASHIR [OC]: Bashir to Sisko. 
 SISKO: Sisko here. 
-BASHIR [OC]: Commander, I think you'd better get down here to the
-Infirmary, as soon as possible. 
-SISKO: On my way.
- [Infirmary]
+BASHIR [OC]: Commander, I think you'd better get down here to the Infirmary, as soon as possible. 
+SISKO: On my way. 
+[Infirmary]
 SISKO: You wanted to see me, Doctor? 
 (Then he sees -) 
 SISKO: Jake? 
 JAKE: Left, become better, control, entire hope. 
-BASHIR: We've converted some empty crew quarters into a hospital ward.
-He'll be well looked after. 
-SISKO: I'll take him there myself. Come on, Jake. You're going to be
-all right. 
-BASHIR: Commander, when you've got a moment, I've found something I'd
-like to show you.
+BASHIR: We've converted some empty crew quarters into a hospital ward. He'll be well looked after. 
+SISKO: I'll take him there myself. Come on, Jake. You're going to be all right. 
+BASHIR: Commander, when you've got a moment, I've found something I'd like to show you. 
 [Hospital ward]
-NURSE: It'll be fine. Just lay back. I know, but
-just lay back and relax. 
+NURSE: It'll be fine. Just lay back. I know, but just lay back and relax. 
 QUARK: Food. Dabo. Drinks. Money. Hand. Mine. Give. 
-SISKO: Well, Quark, I see even you couldn't weasel your way clear of
-this one. 
-QUARK: You underestimate the Ferengi immune system, Commander. I'm
-merely here visiting
-my less fortunate customers to make sure they're not faking the illness
-to avoid paying their bills. 
+SISKO: Well, Quark, I see even you couldn't weasel your way clear of this one. 
+QUARK: You underestimate the Ferengi immune system, Commander. I'm merely here visiting my less fortunate customers to make sure they're not faking the illness to avoid paying their bills. 
 SISKO: No one's that devious. 
 QUARK: I am. You gold owe me. I now give. 
 (They find Jake a bed next to Dax and O'Brien) 
-SISKO: We're doing everything possible. I'll be back as soon as I can.
- [Infirmary]
-BASHIR: The virus is synthetic, Commander. Its
-nucleotide sequence is too perfect. It's clearly not natural. 
-SISKO: You're saying the Cardassians genetically engineered this thing?
-BASHIR: Well that's what I thought at first, but I've studied
-Cardassian genetic engineering. They always build distinctive
-monoclonial links into their DNA. This virus has none of those
-features. 
+SISKO: We're doing everything possible. I'll be back as soon as I can. 
+[Infirmary]
+BASHIR: The virus is synthetic, Commander. Its nucleotide sequence is too perfect. It's clearly not natural. 
+SISKO: You're saying the Cardassians genetically engineered this thing? 
+BASHIR: Well that's what I thought at first, but I've studied Cardassian genetic engineering. They always build distinctive monoclonial links into their DNA. This virus has none of those features. 
 SISKO: All right then, who made it. 
-BASHIR: That's what I wanted to find out. So I referenced all known DNA
-construction techniques in the Federation records, and this protein
-series was the key. It indicates that 
+BASHIR: That's what I wanted to find out. So I referenced all known DNA construction techniques in the Federation records, and this protein series was the key. It indicates that 
 SISKO: Doctor! Who created this virus? 
-BASHIR: The Bajorans, sir. I believe it must have been a terrorist plot
-to sabotage the Cardassians while they were here.
- [Commander's office]
-KIRA: The energy decay of this power core indicates
-that it dates back to the building of the station. 
-ODO: That's eighteen years ago. I suppose the Bajoran underground could
-have smuggled it aboard during construction, before I took over as Head
-of Security. 
-SISKO: But why would the underground go to all the trouble of planting
-a booby trap and not set it off? 
+BASHIR: The Bajorans, sir. I believe it must have been a terrorist plot to sabotage the Cardassians while they were here. 
+[Commander's office]
+KIRA: The energy decay of this power core indicates that it dates back to the building of the station. 
+ODO: That's eighteen years ago. I suppose the Bajoran underground could have smuggled it aboard during construction, before I took over as Head of Security. 
+SISKO: But why would the underground go to all the trouble of planting a booby trap and not set it off? 
 ODO: Maybe they forgot. 
-KIRA: No. More likely they were captured or killed before they could
-release it. 
-SISKO: We need to find out who created this virus. You're our best
-hope. 
+KIRA: No. More likely they were captured or killed before they could release it. 
+SISKO: We need to find out who created this virus. You're our best hope. 
 KIRA: Eighteen years is a long time. 
-ODO: Besides, even if she finds who did this, that's no guarantee they
-can help us. 
+ODO: Besides, even if she finds who did this, that's no guarantee they can help us. 
 SISKO: We just have to hope they remembers the antidote. 
-ODO: That's assuming they ever bothered to create one.
- [Ops] 
-KIRA: Had to be someone in the underground familiar
-with genetic engineering. 
-GALIS [on monitor]: Eighteen years ago. Sounds like something Dekon
-Elig might have thought up. 
+ODO: That's assuming they ever bothered to create one. 
+[Ops]
+KIRA: Had to be someone in the underground familiar with genetic engineering. 
+GALIS [on monitor]: Eighteen years ago. Sounds like something Dekon Elig might have thought up. 
 KIRA: How can I find him? 
 GALIS [on monitor]: The last I heard he was in a Cardassian prison. 
 KIRA: Where was he being held? 
 GALIS: The Velos Seven Internment Camp. But that was nine years ago. 
-KIRA: And you have no idea where he is now? Think, Galis. This is
-important. 
-GALIS: I'm sorry, Kira, but it was all so long ago.
+KIRA: And you have no idea where he is now? Think, Galis. This is important. 
+GALIS: I'm sorry, Kira, but it was all so long ago. 
 [Hospital ward]
 JABARA: What is it, Jake? 
 JAKE: Roll linger when life. Roll linger when. 
@@ -431,165 +299,110 @@ DAX: Other support. Strong courage.
 JABARA: He's running a high fever. 
 JAKE: Open way long. Open way. 
 JABARA: Doctor, we have an emergency in crew quarters. 
- [Infirmary] 
+[Infirmary]
 SISKO: How is he, Doctor? 
-BASHIR: Not good, I'm afraid. The virus has attacked his autonomic
-nervous system. 
+BASHIR: Not good, I'm afraid. The virus has attacked his autonomic nervous system. 
 SISKO: Can he be stabilised? 
-BASHIR: He hasn't responded to neural stimulation. I've given him
-thirty cc's of corophizine to avoid secondary infection, but so far
-I've been unable to lower his fever. 
+BASHIR: He hasn't responded to neural stimulation. I've given him thirty cc's of corophizine to avoid secondary infection, but so far I've been unable to lower his fever. 
 SISKO: What are his chances? 
-BASHIR: Unless I find some way to counteract the virus, he'll be dead
-in twelve hours. 
+BASHIR: Unless I find some way to counteract the virus, he'll be dead in twelve hours. 
 SISKO: Have you made any progress? 
-BASHIR: No. I've tried base pair destabilisers, sequential disruption,
-nothing seems to affect it. Sir, I've got seven other aphasic patients
-displaying the same symptoms as O'Brien here, and I'm afraid this is
-only the beginning. 
-SISKO: Keep searching, Doctor. I hope Major Kira can find whoever's
-responsible for creating this virus. 
-BASHIR: I'd like to meet that person myself. This virus is a work of
-genius. 
-SISKO: I'll try to arrange it for you.
- [Ops] 
-COMPUTER: Link established with the Bajoran
-Archival Records. 
+BASHIR: No. I've tried base pair destabilisers, sequential disruption, nothing seems to affect it. Sir, I've got seven other aphasic patients displaying the same symptoms as O'Brien here, and I'm afraid this is only the beginning. 
+SISKO: Keep searching, Doctor. I hope Major Kira can find whoever's responsible for creating this virus. 
+BASHIR: I'd like to meet that person myself. This virus is a work of genius. 
+SISKO: I'll try to arrange it for you. 
+[Ops]
+COMPUTER: Link established with the Bajoran Archival Records. 
 KIRA: Locate files on Velos Seven Internment camp. 
 COMPUTER: Ready. 
 KIRA: Do you show a record of an inmate named Dekon Elig? 
 COMPUTER: Affirmative. 
 KIRA: Biographical data. 
-COMPUTER: Dekon Elig. Geneticist. Former member of the Higa Metar Sect
-of the Bajoran underground. Killed while attempting escape stardate
-39355. Certificate of Death on file. 
+COMPUTER: Dekon Elig. Geneticist. Former member of the Higa Metar Sect of the Bajoran underground. Killed while attempting escape stardate 39355. Certificate of Death on file. 
 SISKO: No need to ask how you're doing. 
 KIRA: Chasing after ghosts. 
 SISKO: You have twelve hours to catch one. 
 KIRA: And then? 
 SISKO: People start dying. 
-KIRA: Computer, display Dekon Elig's Certificate of Death. Identify
-signature of witness. 
-COMPUTER: Certificate of Death was witnessed by Surmak Ren, Bajoran
-Medical Assistant. 
+KIRA: Computer, display Dekon Elig's Certificate of Death. Identify signature of witness. 
+COMPUTER: Certificate of Death was witnessed by Surmak Ren, Bajoran Medical Assistant. 
 KIRA: Show me biographical data on Surmak Ren. 
-COMPUTER: Doctor Surmak Ren. Former member of the Higa Metar sect of
-the Bajoran underground. Repatriated to Bajor
-upon closing of the Velos Seven Internment Camp, stardate 46302.
-Current status unknown.
- [Quark's]
+COMPUTER: Doctor Surmak Ren. Former member of the Higa Metar sect of the Bajoran underground. Repatriated to Bajor upon closing of the Velos Seven Internment Camp, stardate 46302. Current status unknown. 
+[Quark's]
 (Empty, so Quark is playing dabo on his own.) 
 QUARK: Dabo. 
 ODO: Any luck? 
-QUARK: I haven't won a spin in hours. Care to place a friendly wager?
-If it's your reputation you're thinking about no one need ever know. 
-ODO: It has nothing to do with my reputation. The truth is, I never
-learned the game. 
-QUARK: You mean, you've sat here for all these years and you don't even
-know how to gamble? 
+QUARK: I haven't won a spin in hours. Care to place a friendly wager? If it's your reputation you're thinking about no one need ever know. 
+ODO: It has nothing to do with my reputation. The truth is, I never learned the game. 
+QUARK: You mean, you've sat here for all these years and you don't even know how to gamble? 
 ODO: That's correct. 
-QUARK: No wonder you always look so bored. The rules are quite simple,
-actually. I'd be happy to show them to you. 
-ODO: Some other time perhaps. Sisko needs me in Ops. And since the
-entire security force stricken with aphasia, the Promenade in a very
-vulnerable position. 
+QUARK: No wonder you always look so bored. The rules are quite simple, actually. I'd be happy to show them to you. 
+ODO: Some other time perhaps. Sisko needs me in Ops. And since the entire security force stricken with aphasia, the Promenade in a very vulnerable position. 
 QUARK: How unfortunate. 
-ODO: Consider it a warning, Quark, because I'm holding you personally
-responsible if anything turns up missing. Is that understood? 
+ODO: Consider it a warning, Quark, because I'm holding you personally responsible if anything turns up missing. Is that understood? 
 QUARK: Perfectly. 
 (Odo leaves) 
-QUARK: Dabo,
- [Infirmary]
-BASHIR: Computer, analyze test sample thirty seven
-delta. Detail effects on viral containment. 
-COMPUTER: Working. Analysis complete. Sample thirty seven delta
-ineffective. Viral protein sheath is unaffected. Nucleotide sequence
-remains intact 
+QUARK: Dabo, 
+[Infirmary]
+BASHIR: Computer, analyze test sample thirty seven delta. Detail effects on viral containment. 
+COMPUTER: Working. Analysis complete. Sample thirty seven delta ineffective. Viral protein sheath is unaffected. Nucleotide sequence remains intact 
 BASHIR: Computer, replay morning. 
 COMPUTER: Command unclear. Please repeat. 
 BASHIR: Glass lunch judge a bin to let it 
 COMPUTER: Command unclear. Please repeat. 
 (The readout on the screen is now gibberish. Oh dear.) 
- [Ops]
-KIRA: Computer, establish link with the Bajoran
-Medical Index for the Northwestern District. 
+[Ops]
+KIRA: Computer, establish link with the Bajoran Medical Index for the Northwestern District. 
 COMPUTER: Link established. 
 KIRA: Access all information on Doctor Surmak Ren. 
 COMPUTER: There are no records matching that name. 
 KIRA: Try the Northeastern District, same search. 
-COMPUTER: Doctor Surmak Ren, currently serving as Chief Administrator
-of the Ilvian Medical Complex. 
-KIRA: Computer, open a channel to the Ilvian Medical Complex.
-Administrators office. 
+COMPUTER: Doctor Surmak Ren, currently serving as Chief Administrator of the Ilvian Medical Complex. 
+KIRA: Computer, open a channel to the Ilvian Medical Complex. Administrators office. 
 SURMAK [on monitor]: This is Doctor Surmak. And you are? 
 KIRA: Major Kira Nerys. Bajoran liaison to Deep Space Nine. 
-SURMAK [on monitor]: Ah yes, the old Cardassian mining station. How can
-I help you? 
+SURMAK [on monitor]: Ah yes, the old Cardassian mining station. How can I help you? 
 KIRA: That depends. 
 SURMAK [on monitor]: On what? 
-KIRA: On whether or not you helped Dekon Elig plant an aphasia virus
-here eighteen years ago. 
+KIRA: On whether or not you helped Dekon Elig plant an aphasia virus here eighteen years ago. 
 SURMAK [on monitor]: I have no idea what you're talking about. 
-(Transmission ends)
- [Commander's office]
-ODO: Look, Sisko. I'm a security officer, a good
-one, but that doesn't make me qualified to help you run station
-operations. 
-SISKO: You're probably right, Constable, but as you can see, you're all
-I've got. 
+(Transmission ends) 
+[Commander's office]
+ODO: Look, Sisko. I'm a security officer, a good one, but that doesn't make me qualified to help you run station operations. 
+SISKO: You're probably right, Constable, but as you can see, you're all I've got. 
 KIRA: Commander? Commander, I think I found our scientist. 
 SISKO: Does he have an antidote? 
-KIRA: I don't know. He broke the connection the minute I mentioned the
-virus. 
+KIRA: I don't know. He broke the connection the minute I mentioned the virus. 
 SISKO: Major, you mind telling me where you're going? 
 KIRA: To continue my conversation with Doctor Surmak in person. 
-SISKO: Major, I can't allow you to break quarantine. We can't risk
-spreading the virus to Bajor. 
-KIRA: I am well aware of that, Commander. As a matter of fact, I don't
-intend to step foot on the planet. 
+SISKO: Major, I can't allow you to break quarantine. We can't risk spreading the virus to Bajor. 
+KIRA: I am well aware of that, Commander. As a matter of fact, I don't intend to step foot on the planet. 
 ODO: Better let her go, Sisko. She's all we've got. 
 (Kira leaves) 
-ODO: Let's just hope there's someone left to greet her when she
-returns.
-[Hospital ward] 
-SISKO: Jake. How's it going? I've missed you. I
-know things don't look too good right now, but they'll get better. You
-have to believe that. Because I'm not going to lose you, Jake. You hear
-me? I'm not going to lose you.
- [Ops]
-ODO: You'd better take a look at this. We have
-activity on docking port five. I think a ship is about to depart. 
-SISKO: Docking port five? That's Jaheel's ship. Put him on screen.
-Captain, your ship has not been cleared for departure. The mooring
-clamps are locked and I don't intend to release them. 
-JAHEEL [on viewscreen]: I suggest you change your mind. I'm taking aft
-thrusters to one half. 
+ODO: Let's just hope there's someone left to greet her when she returns. 
+[Hospital ward]
+SISKO: Jake. How's it going? I've missed you. I know things don't look too good right now, but they'll get better. You have to believe that. Because I'm not going to lose you, Jake. You hear me? I'm not going to lose you. 
+[Ops]
+ODO: You'd better take a look at this. We have activity on docking port five. I think a ship is about to depart. 
+SISKO: Docking port five? That's Jaheel's ship. Put him on screen. Captain, your ship has not been cleared for departure. The mooring clamps are locked and I don't intend to release them. 
+JAHEEL [on viewscreen]: I suggest you change your mind. I'm taking aft thrusters to one half. 
 SISKO: Captain, cut your engines before you rip your ship apart. 
 ODO: He's not reducing power. 
 SISKO: Jaheel, I'm ordering you to stand down. 
-JAHEEL [on viewscreen]: Your orders are no concern of mine. My entire
-crew has been confined to your hospital. I must leave now while I can
-still function. 
-SISKO: Look, I understand you're frightened, but believe me, you're
-better off here. You don't want to be out there alone and get hit by
-the virus. 
-JAHEEL [on viewscreen]: Don't worry about me. I'm fine, and I plan to
-stay that way. And if you think you're going 
+JAHEEL [on viewscreen]: Your orders are no concern of mine. My entire crew has been confined to your hospital. I must leave now while I can still function. 
+SISKO: Look, I understand you're frightened, but believe me, you're better off here. You don't want to be out there alone and get hit by the virus. 
+JAHEEL [on viewscreen]: Don't worry about me. I'm fine, and I plan to stay that way. And if you think you're going 
 (Sisko mutes the transmission) 
-SISKO: We'll have to retract the clamps. Once he's clear of the station
-we can grab him with a tractor beam. Damn. 
+SISKO: We'll have to retract the clamps. Once he's clear of the station we can grab him with a tractor beam. Damn. 
 ODO: What's wrong? 
-SISKO: There's too much stress on the mooring clamps. They're not
-retracting. 
+SISKO: There's too much stress on the mooring clamps. They're not retracting. 
 (Jaheel is being shaken around) 
 ;
 ODO: His aft isolation plate buckled. 
-SISKO: His main power core's been ruptured. If the internal fuel cells
-collapse the whole ship will explode. 
-ODO: And take half the docking ring with it.
+SISKO: His main power core's been ruptured. If the internal fuel cells collapse the whole ship will explode. 
+ODO: And take half the docking ring with it. 
 [Runabout]
-KIRA: Computer, isolate a comm. line to the Ilvian
-Medical Complex, Administrator's office. 
+KIRA: Computer, isolate a comm. line to the Ilvian Medical Complex, Administrator's office. 
 COMPUTER: Line isolated. 
 KIRA: Scan office for lifeforms. 
 COMPUTER: One life form present. 
@@ -599,129 +412,95 @@ KIRA: Hello again, Doctor. Just checking to see you're in your office.
 SURMAK [on monitor]: I have nothing to say to you 
 (And as he stands up Kira beams him aboard the runabout) 
 KIRA: Hello again, Doctor. 
-SURMAK: This is outrageous. I demand you return me to my office
-immediately. 
+SURMAK: This is outrageous. I demand you return me to my office immediately. 
 KIRA: Relax, Doctor, you won't be gone long. 
- [Ops] 
-SISKO: Try to re-establish visual contact with
-Jaheel's ship. 
+[Ops]
+SISKO: Try to re-establish visual contact with Jaheel's ship. 
 ODO: No response. His comm. lines are down. 
-SISKO: Bypass communications through a secondary grid. See if you can
-switch to external pickups. 
+SISKO: Bypass communications through a secondary grid. See if you can switch to external pickups. 
 ODO: Got it. 
 (A burning bridge is on the viewscreen) 
 ODO: His fire control systems don't appear to be working. 
 SISKO: We have about fifteen minutes before the fuel cells collapse. 
 ODO: I hope you feel better than you look. 
-SISKO: It must be that damn virus. This is Sisko. Any station personnel
-who can understand what I'm saying come to Ops immediately. We need
-help up here. We have to get that ship away from the station. 
-ODO: Why don't we explode the mooring clamps. The blast should push the
-ship away from the docking ring. 
+SISKO: It must be that damn virus. This is Sisko. Any station personnel who can understand what I'm saying come to Ops immediately. We need help up here. We have to get that ship away from the station. 
+ODO: Why don't we explode the mooring clamps. The blast should push the ship away from the docking ring. 
 SISKO: We'll have to get down there and blow them manually. 
 ODO: I'll do it. 
 SISKO: All right. You can cross barrels. All job appalled. 
 ODO: What was that? 
 SISKO: Bread the arrive seen earlier. 
 ODO: Oh, I see. 
- [Runabout] 
-SURMAK: Major, this is kidnapping. Turn this ship
-around or I swear you'll spend the rest of your life in Kran-Tobol
-Prison. 
-KIRA: Fine. But first we need your help. The aphasia virus is spreading
-through the station. 
+[Runabout]
+SURMAK: Major, this is kidnapping. Turn this ship around or I swear you'll spend the rest of your life in Kran-Tobol Prison. 
+KIRA: Fine. But first we need your help. The aphasia virus is spreading through the station. 
 SURMAK: Why come to me? 
 KIRA: You helped create the virus, didn't you? 
-SURMAK: No, I had practically nothing to do with it. Dekon Elig created
-the virus. I was merely his medical assistant. That seems like a
-lifetime ago now. I was only in the underground for six months before
-we were captured. I am not responsible for this. 
+SURMAK: No, I had practically nothing to do with it. Dekon Elig created the virus. I was merely his medical assistant. That seems like a lifetime ago now. I was only in the underground for six months before we were captured. I am not responsible for this. 
 KIRA: I am not looking to place blame. All I want is the antidote. 
-SURMAK: I don't know of any antidote. If Dekon made one, he never told
-me. 
-KIRA: Listen, Surmak. I have a station full of dying people, and you
-are the closest thing there is to an expert on this virus. 
+SURMAK: I don't know of any antidote. If Dekon made one, he never told me. 
+KIRA: Listen, Surmak. I have a station full of dying people, and you are the closest thing there is to an expert on this virus. 
 SURMAK: I sympathise, Major. But I don't think I can help you. 
 KIRA: All right. Then how about helping yourself? 
 SURMAK: Meaning what? 
-KIRA: Meaning I've been infected with your virus, Doctor. So now you're
-infected too.
- [Ops]
-ODO: To anyone who can hear me. This is Odo.
-Sisko's infected. I could really use some help here in Ops. 
+KIRA: Meaning I've been infected with your virus, Doctor. So now you're infected too. 
+[Ops]
+ODO: To anyone who can hear me. This is Odo. Sisko's infected. I could really use some help here in Ops. 
 QUARK: Do I detect a note of panic in your voice? 
 ODO: Quark, am I to believe you're volunteering to help? 
-QUARK: Who said anything about volunteering? We can haggle over price
-later. Now, how may I be of use? 
-ODO: I need to get to docking port five now. That ship's going to
-explode in five minutes. 
+QUARK: Who said anything about volunteering? We can haggle over price later. Now, how may I be of use? 
+ODO: I need to get to docking port five now. That ship's going to explode in five minutes. 
 QUARK: I'll beam you over. 
 ODO: You? 
 QUARK: Relax. I served on a Ferengi freighter for eight years. 
 ODO: All right. 
 QUARK: I must have witnessed the procedure hundreds of times. 
-ODO: Witnessed? You mean to say you never handled the controls
-yourself? 
+ODO: Witnessed? You mean to say you never handled the controls yourself? 
 QUARK: Energising. 
-(Odo is beamed away to a smoke-filled docking port as the runabout
-approaches the station)
- [Runabout]
-KIRA: Kira to Ops. Approaching landing pad seven.
-Request clearance to initiate docking procedure. 
+(Odo is beamed away to a smoke-filled docking port as the runabout approaches the station) 
+[Runabout]
+KIRA: Kira to Ops. Approaching landing pad seven. Request clearance to initiate docking procedure. 
 QUARK [OC]: Welcome back. I could use some help up here. 
-KIRA: Quark? What are you doing in Ops?
- [Infirmary]
-SURMAK: First thing I need to see is your Doctors'
-viral characterisation research. He was beginning to develop an
-antidote series. Let's take a look at that. 
-KIRA: Listen, Doctor, I'll be in Ops. If you need me use this string
-impact. Lot show red intense. 
-SURMAK: I think you'd better sit down, Major.
- [Docking port five]
-(Jaheel is on the floor with his ship on fire
-behind him. Odo hauls him through the airlock to safety) 
+KIRA: Quark? What are you doing in Ops? 
+[Infirmary]
+SURMAK: First thing I need to see is your Doctors' viral characterisation research. He was beginning to develop an antidote series. Let's take a look at that. 
+KIRA: Listen, Doctor, I'll be in Ops. If you need me use this string impact. Lot show red intense. 
+SURMAK: I think you'd better sit down, Major. 
+[Docking port five]
+(Jaheel is on the floor with his ship on fire behind him. Odo hauls him through the airlock to safety) 
 JAHEEL: Dog fellow distance. 
 ODO: Yeah, tell me about it. 
 QUARK [OC]: Odo, you'd better hurry up. 
- [Ops] 
-QUARK: That ship's going to explode in one minute.
- [Infirmary]
-SURMAK: Virus protein sheath. Nucleotide sequence.
-Yes, that's right. It's an adaptive, synaptic inhibitor. Dekon was
-brilliant, no doubt of that. I think we've found your antidote, Major. 
- [Docking port five]
+[Ops]
+QUARK: That ship's going to explode in one minute. 
+[Infirmary]
+SURMAK: Virus protein sheath. Nucleotide sequence. Yes, that's right. It's an adaptive, synaptic inhibitor. Dekon was brilliant, no doubt of that. I think we've found your antidote, Major. 
+[Docking port five]
 QUARK [OC]: Forty seconds. 
-(The outer airlock door closes and Odo gets to the first manual clamp
-release)
- [Ops]
-QUARK: Thirty seconds. Hurry.
- [Docking port five]
+(The outer airlock door closes and Odo gets to the first manual clamp release) 
+[Ops]
+QUARK: Thirty seconds. Hurry. 
+[Docking port five]
 ODO: I know, I know. 
 (Second clamp released) 
- [Ops] 
-QUARK: Twenty seconds!
- [Docking port five]
+[Ops]
+QUARK: Twenty seconds! 
+[Docking port five]
 (The inner airlock door is closed) 
 QUARK [OC]: Ten seconds! 
-(Odo jettisons the ship and it is hurled away to go KaBOOM at a safe
-distance, although somehow the shockwaves manage to travel through
-vacuum to the station) 
-QUARK [OC]: Odo? Quark to Odo.
- [Ops]
-QUARK: You still with us?
- [Docking port five]
-ODO: Try not to sound too disappointed.
- [Ops]
-QUARK: Now, about that little matter of my hazard
-pay. 
- [Docking port five]
+(Odo jettisons the ship and it is hurled away to go KaBOOM at a safe distance, although somehow the shockwaves manage to travel through vacuum to the station) 
+QUARK [OC]: Odo? Quark to Odo. 
+[Ops]
+QUARK: You still with us? 
+[Docking port five]
+ODO: Try not to sound too disappointed. 
+[Ops]
+QUARK: Now, about that little matter of my hazard pay. 
+[Docking port five]
 Odo drags Jaheel to his feet) 
-ODO: Come on, come on.
-Station log, stardate 46425.8. With the help of
-Doctor Bashir's notes, Doctor Surmak was able to find an antidote for
-the aphasia virus. We are continuing to administer it throughout the
-station, and things are slowly returning to normal.
- [Ops]
+ODO: Come on, come on. 
+Station log, stardate 46425.8. With the help of Doctor Bashir's notes, Doctor Surmak was able to find an antidote for the aphasia virus. We are continuing to administer it throughout the station, and things are slowly returning to normal. 
+[Ops]
 SISKO: Good to have you back, Chief. 
 O'BRIEN: Thank you, sir. 
 SISKO: (to replicator) Coffee, black. (it's revolting) O'Brien! 

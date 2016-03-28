@@ -44,7 +44,7 @@ WORF: Same result, sir.#
 WORF: Sir, I estimate fourteen minutes until that mass gets here.#
 WORF: Do we owe our thanks to Commander Data, sir?#
 WORF: Did he say Wesley? The boy?#
-WORF: Captain, main Engineering is ready to proceed .#
+WORF: Captain, main Engineering is ready to proceed#
 WORF: Captain, can you allow a man who has made one mistake back into a position where he may make another?#
 WORF: A Klingon Targ! My pet. From home, but when I was a child.#
 WORF: Yes, I suppose you could call it that.#
@@ -66,7 +66,7 @@ WORF: I remember monitoring the sensor console. What am I doing here?#
 WORF: Sir, warp power is fading.#
 WORF: Warp five, four, three, two#
 WORF: Engineering to Captain Picard. Security alert.#
-WORF: Lieutenant Worf, sir. I just found Mister Singh. He's dead. Captain's log, stardate 41249.4. I've ordered an immediate investigation into the death of Assistant Chief Engineer Singh. We continue to run on impulse power.#
+WORF: Lieutenant Worf, sir. I just found Mister Singh. He's dead.#
 WORF: Singh probably repaired it just before he was killed.#
 WORF: Engineering to Bridge. We now have warp capacity, sir. All power on line.#
 WORF: You wanted me, Doctor?#
@@ -74,7 +74,7 @@ WORF: I still don't remember having one.#
 WORF: What is it?#
 WORF: Bridge to Captain. You're needed here immediately.#
 WORF: Helm is down, sir. There's no apparent reason.#
-WORF: Captain! I'll help you if you'll let me. (Picard leaves the Bridge as the crew are still transfixed by the blue energy)#
+WORF: Captain! I'll help you if you'll let me.#
 WORF: Sir? On my sensor controls.#
 WORF: It's the faulty reading I reported, sir.#
 WORF: Careful, sir.#
@@ -123,13 +123,13 @@ WORF: Aye, Captain. Geordi.#
 WORF: I think I may sneeze.#
 WORF: Only kind I know.#
 WORF: Scanners indicate a platinum trace. Should I notify the away team?#
-WORF: Engineering reports a computer malf I'm sorry, I'm getting sick.#
+WORF: Engineering reports a computer malf  I'm sorry, I'm getting sick.#
 WORF: With all respect, Lieutenant, there are people to do that job now.#
 WORF: Rest assured, Commander, we will be victorious. At whatever the cost.#
 WORF: If winning is not important, then, Commander, why keep score?#
 WORF: What's going on?#
 WORF: Why?#
-WORF: Aye, Lieutenant. Ship's log, supplemental. This is Lieutenant Commander Data. I have put the ship on automated departure and ordered the complete evacuation of the Enterprise. Everyone remaining is leaving on foot or beaming off.#
+WORF: Aye, Lieutenant.#
 WORF: Did you see the Captain and Commander Riker?#
 WORF: Yes. Sir, where is your transporter room?#
 WORF: They would answer if they could. Someone else has control of the ship.#
@@ -220,7 +220,7 @@ WORF: My brother, it is you who does not see. You look for battles in the wrong 
 WORF: You have talked of glory and of conquest and legends we will write.#
 WORF: Yet in all you say, where are the words duty, honour, loyalty. Without which a warrior is nothing.#
 WORF: Put down the phaser.#
-WORF: Perhaps not. (And he shoots Korris, who falls through a glass screen to the floor below)#
+WORF: Perhaps not.#
 WORF: Yes, Commander?#
 WORF: They died well.#
 WORF: I am honoured. Thank you.#
@@ -303,7 +303,7 @@ WORF: Captain, I am picking up an unusual disturbance in a nearby quadrant.#
 WORF: Hard to say at this distance, sir.#
 WORF: Sensors beginning to pick up small objects, sir.#
 WORF: It looks like debris. From a space vessel of some kind.#
-WORF: Nothing so far. Sensors not detecting any bodies in the flotsam, but from the amount of wreckage. I'm sorry sir. It can only be the Horatio. From the looks of it, she's been totally destroyed. Captain's personal log, stardate 41776.1. The apparent death of Walker Keel has had a powerful impact on me. I now believe there may be a cancer growing within the ranks of Starfleet. As a result, I have alerted my Executive Officer to the suspicions voiced by Keel and the others.#
+WORF: Nothing so far. Sensors not detecting any bodies in the flotsam, but from the amount of wreckage. I'm sorry sir. It can only be the Horatio. From the looks of it, she's been totally destroyed.#
 WORF: I don't like it. You can't trust them.#
 WORF: Are you all right?#
 WORF: What is he?#
@@ -314,7 +314,8 @@ WORF: Aye, sir.#
 WORF: Commander, look at this.#
 WORF: It must be sealed, probably with age.#
 WORF: Here's another.#
-WORF: Commander, look at this. (They look at the face of a woman. Other capsules reveal two men still intact) WORF: Were they frozen for an extended journey?#
+WORF: Commander, look at this.#
+WORF: Were they frozen for an extended journey?#
 WORF: Romulans.#
 WORF: We could get out there and find ourselves greatly over-matched.#
 WORF: We are six hours from the Neutral Zone. I have been unable to establish communications with any Federation colony or station in this vicinity.#
@@ -354,14 +355,15 @@ WORF: Captain, sensors indicate a disturbance in sector one zero eight. Possibly
 WORF: The ship is equipped with a cloaking device.#
 WORF: It's closing.#
 WORF: Main viewer locked onto coordinates.#
-WORF: It's uncloaking. (A Romulan warbird shimmers into view and fires. The Enterprise shudders) WORF: Direct hit, sir. Our shields are weakening.#
+WORF: It's uncloaking.#
+WORF: Direct hit, sir. Our shields are weakening.#
 WORF: Transmitting. They've armed another full spread, sir.#
 WORF: Captain, there's another vessel approaching in sector zero nine one, mark two six.#
 WORF: I am acquainted with the Yamato, Commander. Recommend the aft station of their bridge. When in doubt, surprise them.#
 WORF: Whoever may be there.#
 WORF: Still, the tactic is sound.#
 WORF: I heard you screaming. I was coming to help.#
-WORF: Nothing on my communicator, sir. (to the wall) Computer on.#
+WORF: Nothing on my communicator, sir.  Computer on.#
 WORF: That's not where we came from.#
 WORF: Two Bridges?#
 WORF: On the Bridge.#
@@ -371,7 +373,7 @@ WORF: Sir.#
 WORF: Commander.#
 WORF: What's going on? A ship has one Bridge. One Bridge! One Riker, one Bridge!#
 WORF: This is impossible. Impossible!#
-WORF:  At ease, Lieutenant. At ease. Bridge#
+WORF:  At ease, Lieutenant. At ease.#
 WORF: Captain, look.#
 WORF: Let me put up the shields, sir.#
 WORF: In a battle for survival, Captain, thirty to fifty percent casualties#
@@ -398,7 +400,7 @@ WORF: Sir, we are now being hailed.#
 WORF: Open, sir.#
 WORF: Mute.#
 WORF: Another glob fly.#
-WORF: Open, sir (A clean-shaven man in brown, with a younger man in a leather jacket just behind him)#
+WORF: Open, sir#
 WORF: Mute.#
 WORF: Captain Okona has not responded, sir. He's been reported in three different crew quarters.#
 WORF: Yes, sir.#
@@ -433,7 +435,7 @@ WORF: I am not expecting battle.#
 WORF: Riva.#
 WORF: Before him, there was no Klingon word for peacemaker.#
 WORF: Aye, sir.#
-WORF: Sir. (A well build man with red hair and beard has entered. He stops in front of each of them in turn. Please note this actor really is deaf.)#
+WORF: Sir.#
 WORF: With your permission, Captain.#
 WORF: Enterprise, this is the away team. Seven to beam up.#
 WORF: Captain, I'm reading laser activity on the Solais Five.#
@@ -471,12 +473,12 @@ WORF: Efficiency, Commander.#
 WORF: We have a Klingon vessel approaching.#
 WORF: Open. They are returning our hail in proper language. It is the Pagh.#
 WORF: That is not your concern. Observe your station, Ensign Mendon.#
-WORF: You didn't. Yet. (Mendon's duty station has a scan of the Pagh. The computer has detected something on the hull. Mendon puts in a command - Request substance analysis. Answer - inconclusive. Category - Microbiotic colony. Bacterial colony. Subatomic. Life form analysis - inconclusive)#
+WORF: You didn't. Yet.#
 WORF: Ensign Mendon. You may impress me.#
 WORF: Sir, automatic scan has registered an unknown substance on the aft quarter of the exterior skin of the dorsal section.#
 WORF: Aye, sir.#
 WORF: You are supposed to report whatever is out of the ordinary.#
-WORF: And then I will instruct you in Enterprise etiquette. First Officer's personal log. I have aboard the Pagh a short time, but long enough to be impressed with the abilities and single-mindedness of the Klingons.#
+WORF: And then I will instruct you in Enterprise etiquette.#
 WORF: Aye, sir.#
 WORF: Hailing frequencies are open. There is no response.#
 WORF: Aye, sir.#
@@ -529,7 +531,7 @@ WORF: Transmission from the Yamato, sir.#
 WORF: Sir, there is an energy build-up in the Yamato's Engineering section.#
 WORF: Captain, magnetic seals in the antimatter chamber are decaying!#
 WORF: Sir!#
-WORF: Captain. Another vessel is coming within sensor range. It is Romulan. Captain's log, supplemental. The Yamato's entire crew and their families, more than a thousand people, have been lost. Circumstances unfortunately permit us no pause for grief.#
+WORF: Captain. Another vessel is coming within sensor range. It is Romulan.#
 WORF: No response from the Romulan vessel.#
 WORF: All their weapons systems have been fully activated. Still no response.#
 WORF: Mute.#
@@ -541,7 +543,7 @@ WORF: Sir, that would put us substantially close to the Romulan side of the Neut
 WORF: All major cities have been heavily damaged, and the pattern of destruction is that consistent with large-scale orbital bombardment.#
 WORF: There is an energy source in the mountains of the smaller continent.#
 WORF: Captain. Projectile launched from the planet's surface.#
-WORF: Tractor beam ready, sir. (Geordi comes flying out of the turbolift and tumbles head over heels down the slope)#
+WORF: Tractor beam ready, sir.#
 WORF: Phasers locked on target.#
 WORF: Come in, Enterprise. Still no response, sir.#
 WORF: I would not like to become a permanent resident of this planet.#
@@ -564,9 +566,9 @@ WORF: About three minutes.#
 WORF: Perhaps the probes are in a launch bay.#
 WORF: Almost time. Captain, you will be killed.#
 WORF: But where will you end up?#
-WORF: Aye, sir. (He picks up Data in a fireman's lift. The image changes from the Romulan bridge to the Enterprise. Worf steps through)#
+WORF: Aye, sir.#
 WORF: We must take Data to Engineering. Hopefully the Captain will follow.#
-WORF: Commander, what is that? (It is a revolving door, with art nouveau decoration. No building, just the turning door and it's frame)#
+WORF: Commander, what is that?#
 WORF: What is this place? How did a being like you get here?#
 WORF: We call it Theta Eight.#
 WORF: You mean they're not alive?#
@@ -594,7 +596,7 @@ WORF: Nor I. The last thing you would do is leave the Bridge of the Enterprise d
 WORF: Sensors indicated no other vessels, Federation or otherwise, in this area.#
 WORF: There is the theory of the moebius. A twist in the fabric of space where time becomes a loop from which there is no escape.#
 WORF: Maximum scan. Nothing unusual to report.#
-WORF: This energy vortex has just appeared beneath us. There was no warning. (Pretty blue swirly thing on the viewscreen. The Enterprise is sitting at the top of a space tornado)#
+WORF: This energy vortex has just appeared beneath us. There was no warning.#
 WORF: All decks have reported. No damage. No injuries.#
 WORF: Aye, sir.#
 WORF: Photon torpedoes locked on target.#
@@ -614,7 +616,7 @@ WORF: You plan to leave the Enterprise.#
 WORF: I would like to join you.#
 WORF: But sir, it could be a dangerous mission. There may be the potential for combat.#
 WORF: Still, to die a true hero#
-WORF: Then I know you will do the right thing. {Observation lounge]#
+WORF: Then I know you will do the right thing.#
 WORF: I do not enjoy riddles, Counsellor.#
 WORF: I am in no mood for trifling or games, not today.#
 WORF: You know about that?#
@@ -626,10 +628,11 @@ WORF: You're not coming in?#
 WORF: Open.#
 WORF: An Ascension ceremony.#
 WORF: I am ready.#
-WORF: DaHjaj SuvwI''e' jIH. tIgwIj Sa'angNIS. 'Iw bIQtIqDaq jIjaH. Today I am a Warrior. I must show you my heart. I travel the river of blood. (The first two warriors apply their painstiks to his sides, and he screams in pain)#
+WORF: DaHjaj SuvwI''e' jIH. tIgwIj Sa'angNIS. 'Iw bIQtIqDaq jIjaH. Today I am a Warrior. I must show you my heart. I travel the river of blood.#
 WORF: jIbechrup may' vIlos.#
 WORF: The battle is mine. I crave only the blood of the enemy. HIHIvqa'.#
-WORF: The bile of the vanquished flows over my hands. May'pequ' moH. (The fourth and final pair use their painstiks twice and he collapses in front of his 'family') WORF: Thank you.#
+WORF: The bile of the vanquished flows over my hands. May'pequ' moH.#
+WORF: Thank you.#
 WORF: Starbase Montgomery's briefing specialist and analytical team have beamed down, sir.#
 WORF: Is there any indication that this is the work of an unknown intelligence?#
 WORF: Is this part of your regular duties?#
@@ -660,7 +663,7 @@ WORF: I detect no shields, no weapons of any known design.#
 WORF: Open.#
 WORF: No response.#
 WORF: Aye, sir.#
-WORF: Ensign. (The security man is casually thrown across Engineering. Worf's phaser has no effect. Now the Borg steps up his electronic infiltration of the engineering systems, and the lights go out)#
+WORF: Ensign.#
 WORF: The beam is draining our shields.#
 WORF: Shields weakening.#
 WORF: Phasers locked on target.#
@@ -737,7 +740,7 @@ WORF: You sent for me?#
 WORF: You can obtain spirituous liquours from the food dispensers.#
 WORF: No, if you wish, it can be real alcohol.#
 WORF: With all of the deleterious effects intact.#
-WORF: Chech'tluth. (A Klingon mug, with steam coming off it. The top Danilo's head does a somersault)#
+WORF: Chech'tluth.#
 WORF: What?#
 WORF: Madam, have you considered a career in security?#
 WORF: Signal from the planet, Captain.#
@@ -786,7 +789,7 @@ WORF: Special Emissary K'Ehleyr has declared a short recess, sir. I wish to run 
 WORF: I feel it necessary to check them again.#
 WORF: Sir, considering the unknown elements we are about to face#
 WORF: I am relaxed. Yes, sir.#
-WORF: Computer, level two. (The dead aliens come back to life, and he hands her a sword. They dispatch their attackers then she swings at him. Then they gaze at each other, Worf takes her hand, and her scent. She does the same with him, whilst he holds her so tightly her nails draw blood from her palm. We are left to guess what happened next)#
+WORF: Computer, level two.#
 WORF: You still can make jokes.#
 WORF: I did not say that.#
 WORF: I've noted that some people use humour as a shield. They talk much, yet say little.#
@@ -810,7 +813,8 @@ WORF: Honour demanded no less.#
 WORF: Klingons do not surrender.#
 WORF: Shields are up.#
 WORF: Shields holding.#
-WORF: Captain. I have another option. Captain's log, stardate 42901.3. Despite their cloaking shields, we have located the Klingon vessel, T'Ong. In an effort to avoid further confrontation, we're about to implement the option presented by Lieutenant Worf.#
+WORF: Captain. I have another option.#
+WORF: Open hailing frequencies.#
 WORF: Captain K'Temoc, have you lost your mind? Halt your vessel and drop your shields.#
 WORF: I am Worf, commanding the Enterprise. And it is you who have committed an act of treason by firing upon this ship.#
 WORF: You fool! Did it not occur to you that the war would be over by now?#
@@ -831,9 +835,10 @@ WORF: What needs to be said?#
 WORF: And that disturbs you?#
 WORF: Nor have I.#
 WORF: K'Ehleyr. I will not be complete without you.#
-WORF: Despite their reputations, this Zakdorn does not appear to be#
+WORF: Despite their reputations, this Zakdorn does not appear to be a very formidable warrior#
 WORF: So no one is willing to test that perception in combat.#
-WORF: Then the reputation means nothing. [Observation lounge] (Kolrami is giving a presentation at the viewscreen.)#
+WORF: Then the reputation means nothing.#
+WORF: Enter!#
 WORF: Just finished.#
 WORF: Waste of time.#
 WORF: Useless. If there is nothing to lose, no sacrifice, then there is nothing to gain.#
@@ -846,7 +851,9 @@ WORF: I will be irritated.#
 WORF: Computer. Actuation positions for Strategema. Ready? Begin.#
 WORF: Not good.#
 WORF: Sir, Lieutenant La Forge is a superior officer. The honour should be his.#
+WORF: With my knowledge of the Enterprise's security override, we may be able to convince the sensors that an enemy ship is approaching. Their instruments would lie to them.#
 WORF: If I am successful, the computer will project a false image of the enemy ship on the main viewscreen.#
+WORF: Attempt the routing bypass here. If it works, they will be surprised.#
 WORF: Anywhere.#
 WORF: Counter with Talupian manoeuvre on instrument sighting.#
 WORF: Aye, sir.#
@@ -871,7 +878,8 @@ WORF: Open. They are not responding.#
 WORF: No response.#
 WORF: This is hopeless. Fighting would be preferable.#
 WORF: Yes, sir. Coming through, sir.#
-WORF: Captain, they are hailing us. (one, two, three, four, make him wait outside the door. Picard inspects the ship's plaque for dust) WORF: Sir?#
+WORF: Captain, they are hailing us.#
+WORF: Sir?#
 WORF: Captain, we're heading straight into the path of that stellar matter.#
 WORF: Negative. The shields will not respond.#
 WORF: Shields are rising.#
@@ -899,7 +907,7 @@ WORF: The vessel is firing jacketed streams of positrons and antiprotons. Equiva
 WORF: Good tea. Nice house.#
 WORF: Aye, sir, but they are already within firing range.#
 WORF: Shields are down. Captain, they hit us with four hundred gigawatts of particle energy.#
-WORF: Superficial, but I'm having trouble reassembling the shields. Shields down. There is thermal damage to the hull.#
+WORF: Superficial, but I'm having trouble reassembling the shields.  Shields down. There is thermal damage to the hull.#
 WORF: Shields down. Internal damage. Weapon systems control has been lost.#
 WORF: The vessel has terminated its pursuit. It is assuming an orbit around Rana Four.#
 WORF: Sir, sensors indicate no spacecraft in the vicinity of Rana Four. But, Captain#
@@ -907,7 +915,7 @@ WORF: Evasive action, sir?#
 WORF: Weapons, sir?#
 WORF: The house has been obliterated.#
 WORF: There are no survivors.#
-WORF: Aye, sir. (And a single photon does what the salvo could not do earlier. Ka-Boom);#
+WORF: Aye, sir.#
 WORF: Why is it we maintain watch on a planet that is now totally dead?#
 WORF: I detect two life forms inside the house. It appears Kevin and Rishon were not destroyed.#
 WORF: Captain, he is dangerous!#
@@ -937,7 +945,7 @@ WORF: Worf to Picard, they're leaving their quarters.#
 WORF: Security to transporter room three.#
 WORF: Energy force has left transporter room three. Security alert, all decks.#
 WORF: Power's back in transporter room three.#
-WORF: They were killed in battle when I was six. When I was alone, humans helped me. Let me help you. The Marla Aster I knew and honoured is not in this room. Nor does she await you on the planet. Now she lives only here And here.  Join me in the R'uustai, the Bonding. You will become part of my family now and for all time. We will be brothers. (Marla goes up to Jeremy, then walks away. She and the house illusion vanish. All is as it should be again)#
+WORF: They were killed in battle when I was six. When I was alone, humans helped me. Let me help you. The Marla Aster I knew and honoured is not in this room. Nor does she await you on the planet. Now she lives only here And here.  Join me in the R'uustai, the Bonding. You will become part of my family now and for all time. We will be brothers.#
 WORF: SoS jIH batlh SoH.#
 WORF: It honours the memory of our mothers. We have bonded and our families are stronger.#
 WORF: A Promellian battle cruiser?#
@@ -957,17 +965,19 @@ WORF: Under two hours, Captain. And the radiation field has increased by sevente
 WORF: We will be entering the debris field in eight seconds.#
 WORF: No reaction from the assimilator.#
 WORF: Sir! Object to port.#
-WORF: Aye, sir. (Four red balls, and four big explosions from the ship and three asteroids)#
+WORF: Aye, sir.#
 WORF: Communicators are dysfunctional.#
 WORF: Readings only valid within five metres.#
 WORF: Yes, sir. Romulan.#
 WORF: Commander!#
-WORF: Commander Riker! (The Romulan is alive, and tries to strangle Worf. He knocks him unconscious and Riker arrives. Meanwhile, La Forge falls down a hole into mud. He is out cold and his Visor has come off. Riker and Worf carry the Romulan back to the beam-out marker) WORF: Four minutes to beam-up.#
+WORF: Commander Riker!#
+WORF: Four minutes to beam-up.#
 WORF: Secure Sickbay. Post a guard in visual contact at all times.#
 WORF: Hailing frequencies open, sir.#
 WORF: The frequency is open, sir.#
 WORF: Captain, I see no reason to return the Romulan to his ship. He should be held and interrogated.#
-WORF: Aye, aye, sir. (Geordi is making his way along a rock face streaming with rain, immediately above a lake) WORF: Probe has reached the surface, sir.#
+WORF: Aye, aye, sir.#
+WORF: Probe has reached the surface, sir.#
 WORF: Yes, Doctor?#
 WORF: That is impossible. I am a Klingon.#
 WORF: I have no objection to tests.#
@@ -1015,7 +1025,7 @@ WORF: Captain, DaiMon Goss is demanding to know where his men are.#
 WORF: The reactor's gone.#
 WORF:  It's jammed.#
 WORF: Commander? Ambush!#
-WORF: Your words are wasted, Commander. They understand only this. (a phaser)#
+WORF: Your words are wasted, Commander. They understand only this.#
 WORF: Your ambushes would be more successful if you bathed more often.#
 WORF: Shields holding.#
 WORF: Chorgan is not responding.#
@@ -1025,8 +1035,9 @@ WORF: Their forward shields are inoperative.#
 WORF: We are being hailed, sir.#
 WORF: Aye, sir.#
 WORF: Captain. Shall we transmit a warning to withdraw, sir?#
-WORF: Aye, sir. Captain, the Romulan is hailing us. PICARD; Visual. WORF: Not within range yet.#
-WORF: Visual range. On screen, Captain. (A big mean warbird decloaks behind the little green ship, and opens fire)#
+WORF: Aye, sir. Captain, the Romulan is hailing us.#
+WORF: Not within range yet.#
+WORF: Visual range. On screen, Captain.#
 WORF: Channel is open.#
 WORF: No reply, sir.#
 WORF: Responding.#
@@ -1062,14 +1073,16 @@ WORF: Release of the force field and activation of the transporter will be virtu
 WORF: There will be a full security contingent present.#
 WORF: O'Brien, increase transporter power.#
 WORF: We must assume that he is armed.#
-WORF: We're in position. (The turbolift door opens and there a high-pitched whining, but no person) WORF: Phaser on overload! Seal this deck.#
+WORF: We're in position.#
+WORF: Phaser on overload! Seal this deck.#
 WORF: Acknowledged, Commander. We're on our way.#
 WORF: Geordi!#
 WORF: Acknowledged.#
 WORF: We believe he is attempting to reach shuttlebay two.#
 WORF: There is a full contingent of security at all shuttlebays.#
 WORF: Worf to Bridge. We have found no sign of the intruder. But there is a missing pressure suit#
-WORF: Aye, sir. I'll also cover the photon torpedo launchers. Danar may attempt to leave the ship that way. Worf out. (But Danar is hiding behind some cargo, not wearing the pressure suit. When he hears the doors closing, he comes out and doesn't see Worf hiding) WORF: Danar! You are cunning. You must have Klingon blood. But the battle is over.#
+WORF: Aye, sir. I'll also cover the photon torpedo launchers. Danar may attempt to leave the ship that way. Worf out.#
+WORF: Danar! You are cunning. You must have Klingon blood. But the battle is over.#
 WORF: Worf to Bridge. I have Danar.#
 WORF: Worf to Bridge.#
 WORF: Danar has escaped.#
@@ -1085,7 +1098,7 @@ WORF: It does now.#
 WORF: Intruder alert, deck twelve.#
 WORF: Intruders in Engineering#
 WORF: Request permission to join the rescue party, sir. I owe it to the Captain.#
-WORF: The sound is not registering, Commander. (There is a bright flash, and a naked Q is suspended in mid air, lying on his side, with modesty maintained by the camera angle)#
+WORF: The sound is not registering, Commander.#
 WORF: Die.#
 WORF: Delighted, Captain.#
 WORF: You will walk or I will carry you.#
@@ -1182,7 +1195,7 @@ WORF: Now I am ready.#
 WORF: tlhIH ghIj jIHyoj.#
 WORF: You must also, brother.#
 WORF: Security team to Captain's quarters.#
-WORF: Security override. Priority one. (The door opens to reveal - Picard holding his book and a glass of brandy)#
+WORF: Security override. Priority one.#
 WORF: Sir, the Hood has arrived at the rendezvous point. They are expecting us in thirty six hours.#
 WORF: Aye, Commander.#
 WORF: Of course, Captain.#
@@ -1210,7 +1223,7 @@ WORF: Confirmed. The alien has thrown up a shield. It is blocking all our sensor
 WORF: Aye, sir.#
 WORF: Sir, the Romulans are hailing us.#
 WORF: Power levels aboard the alien are increasing, sir.#
-WORF: Power levels aboard Tin Man are increasing beyond our sensor range. (Gomtuu does his spin and throws out another wave of energy, this time just pushing the two starships fairly gently away from the sun)#
+WORF: Power levels aboard Tin Man are increasing beyond our sensor range.#
 WORF: There is no sign of Tin Man or the Romulans, sir. Captain, on screen.#
 WORF: Sir, our velocity increased to warp seven point two five.#
 WORF: Confirmed. Velocity now warp seven.#
@@ -1218,7 +1231,7 @@ WORF: Approaching warp nine sir.#
 WORF: Exceeding warp nine point four.#
 WORF: Standing by to release docking clamps.#
 WORF: Aye, Captain.#
-WORF: Data. Captain's log, supplemental. As the result of a yet unexplained shuttle explosion, Lieutenant Commander Data has been lost.#
+WORF: Data.#
 WORF: Sir, Mister Fajo is hailing us.#
 WORF: Link established. Receiving.#
 WORF: Captain, transfer of information complete.#
@@ -1261,7 +1274,7 @@ WORF: Words come later. It is the scent that first speaks of love.#
 WORF: I have much to teach you about women.#
 WORF: Sensors show trace elements in the debris that would indicate phaser fire was recently exchanged.#
 WORF: Less talk, more synthahol. We came here to relax.#
-WORF: I've been tutoring him. He learns very quickly. Medical Log, Stardate 43958.8. I have removed patient John Doe from the emergency bio-support unit. In just thirty six hours, most of his major organ systems have regenerated themselves to the point where they can now function on their own.#
+WORF: I've been tutoring him. He learns very quickly.#
 WORF: Sir, I am reading a vessel on long range scanners. It is coming from sector nine five six nine.#
 WORF: Impossible to identify at this distance. However, it is on an intercept course.#
 WORF: No response, Captain.#
@@ -1294,14 +1307,14 @@ WORF: Back to forty eight percent, Captain.#
 WORF: Direct hit, deck nine.#
 WORF: Structural latching system integrity breached.#
 WORF: Borg tractor beam is attempting to lock on.#
-WORF: Shields failing. Tractor beam has locked on. (A Borg beams onto the Bridge. Worf shoots it. A second one appears. This time the phaser bounces off a shield)#
+WORF: Shields failing. Tractor beam has locked on.#
 WORF: The Borg ship is disengaging. Leaving at warp speed.#
 WORF: Borg vessel has reached warp nine. Nine point four, nine point six.#
 WORF: Sir, the coordinates they have set, they're on a direct course to sector zero zero one. The Terran system.#
 WORF: Commander, they are leading us into the heart of our own defences.#
 WORF: These phasers have been retuned. Each has a different frequency spanning the upper EM band.#
 WORF: Tricorder functions minimal.#
-WORF: Inconclusive. (They go off down one of many similar walkways. There are Borg in their alcoves all over the place)#
+WORF: Inconclusive.#
 WORF: The Captain's communicator. It is still activated.#
 WORF: This way.#
 WORF: In here.#
@@ -1317,7 +1330,7 @@ WORF: Sensors are picking up several vessels, Captain.#
 WORF: Visual contact.#
 WORF: Sir, sensors are picking up unusually strong eddy currents, bearing two zero zero, mark two one one.#
 WORF: Shuttle has penetrated the Borg electromagnetic field.#
-WORF: Data! (Borg Picard is easily as strong as Worf. Data does something to the back of Picard's neck to knock him out, then all three beam back aboard the shuttlecraft)#
+WORF: Data!#
 WORF: Mission accomplished. We have him.#
 WORF: The Klingon Empire will never yield.#
 WORF: I like my species the way it is.#
@@ -1395,7 +1408,7 @@ WORF: We have taken enough of the Commander's time.#
 WORF: Commander La Forge, call me when you, when my father wishes to leave.#
 WORF: Mother, Father, I wish you would be a little more reserved while you are on board.#
 WORF: Worf here.#
-WORF: On my way, Commander. Have Guinan call me if you need anything. (Worf leaves, and Sergey and Helena get up, agitated and walk towards the windows)#
+WORF: On my way, Commander. Have Guinan call me if you need anything.#
 WORF: Enter.#
 WORF: No. No. I thought you were going to your quarters to sleep.#
 WORF: Please. When I heard you were on the visitors' list, I was not sure I wanted you to come. I am glad you are here.#
@@ -1492,13 +1505,15 @@ WORF: What about the detonator?#
 WORF: Fortunately, our investigation was more thorough. The bomb used a molecular-decay detonator.#
 WORF: Aye, sir.#
 WORF: When we have more time I will take you to the holodeck and demonstrate in more detail#
-WORF: Medical emergency, deck eight, room one four two! (Worf takes K'Ehleyr in his arms. She is very badly injured and can barely whisper) WORF: Gowron?#
+WORF: Medical emergency, deck eight, room one four two!#
+WORF: Gowron?#
 WORF: Duras!#
-WORF: K'Ehleyr. K'Ehleyr! (He does the death roar, which frightens Alexander, then lays her on the floor) WORF: You have never seen death. Then look. And always remember.#
+WORF: K'Ehleyr. K'Ehleyr!#
+WORF: You have never seen death. Then look. And always remember.#
 WORF: Stay with the doctor.#
 WORF: Duras.#
 WORF: K'Ehleyr was my mate.#
-WORF: Then that is how it shall be. (Finally, Worf knocks Duras to the floor. The door opens to reveal Riker and Data)#
+WORF: Then that is how it shall be.#
 WORF: Sir, I have acted within the boundaries of Klingon law and tradition.#
 WORF: No, sir.#
 WORF: Each member of the Klingon High Council has shared in that lie. They will not be so willing to admit their own dishonour. But the day will come when my brother and I will convince them to speak the truth.#
@@ -1612,7 +1627,7 @@ WORF: Contact imminent.#
 WORF: Aye, sir. The field is shifting amplitude, trying to match the shields.#
 WORF: I do not recommend weapons at this range, Captain.#
 WORF: All systems are frozen, Captain.#
-WORF: Captain! (Worf dashes over with a phaser. Troi grabs his wrist and throws him across the Bridge. That's how his wrist got broken)#
+WORF: Captain!#
 WORF: Shields and weapons systems unaffected.#
 WORF: Aye, sir.#
 WORF: It does not conform to any known design.#
@@ -1689,16 +1704,16 @@ WORF: Sir, we're going in.#
 WORF: Audio's disconnected.#
 WORF: Aye, Captain.#
 WORF: Phasers. Maximum setting.#
-WORF: Conduits. (no effect, then the Enterprise is stretched in to the red and swirly thing, with internal wormhole effects)#
+WORF: Conduits.#
 WORF: He is protected by a force field. We could not disconnect him.#
 WORF: Captain!#
 WORF: I had not been informed that Council Members had been granted bridge clearance.#
 WORF: Welcome aboard.#
 WORF: Nice legs. For a human.#
 WORF: Sir, I protest. I am not a merry man.#
-WORF: Sorry. (Troi is still learning to use a bow and arrow, She aims at a tree and hits Data instead)#
+WORF: Sorry.#
 WORF: I don't know how you transferred secret information to the Romulans, but I will find out.#
-WORF: When we inform the Klingon High Council, they will put you to a slow death. Captain's log, supplemental. Retired Admiral Norah Satie, whose investigation exposed the alien conspiracy against Starfleet Command three years ago, is arriving to assist in our inquiry.#
+WORF: When we inform the Klingon High Council, they will put you to a slow death.#
 WORF: Excuse me, Captain, I didn't know that#
 WORF: Captain, I have been pursuing the investigation of Lieutenant J'Dan. I believe I know how he transferred information off the Enterprise.#
 WORF:  This is J'Dan's. A hypospray he uses to treat his Ba'ltmasor Syndrome. But this has been fitted with an optical reader specially modified to read data from Starfleet isolinear chips. He can extract digital information from a computer, encode it in the form of amino acid sequences, and transfer those sequences into a fluid in the syringe. Then he injects someone, perhaps even without their knowledge.#
@@ -1767,7 +1782,7 @@ WORF: Was anyone with you?#
 WORF: Then there is someone on board who isn't what he or she seems to be.#
 WORF: Go ahead.#
 WORF: Sir?#
-WORF: La Forge! (Picard grabs Geordi's arm just as he fires the phaser. The beam goes up to the ceiling instead. Picard disarms Geordi)#
+WORF: La Forge!#
 WORF: Launch bay one shows ready, Commander.#
 WORF: Klingons do not pursue relationships. They conquer that which they desire. However, Lieutenant D'Sora serves under my command. If she were mistreated, I would be very displeased, sir.#
 WORF: Yes, Captain.#
@@ -1825,7 +1840,7 @@ WORF: No.#
 WORF: Gowron has completed the Rite of Succession. It is our duty to support him.#
 WORF: We cannot regain honour by acting dishonourably.#
 WORF: I am the elder brother, Kurn. I speak for our family. We will back Gowron. But not now. Not yet. We will wait until he feels the grasp of his enemies around his throat. Then we will offer him our support. And the price will be the restoration of our family name.#
-WORF: Contact me when you have gained their support. Then I will be ready for Gowron. Captain's log, stardate 44996.8. My role as Arbiter of Succession has again brought me to the Great Hall of the Klingon High Council.;#
+WORF: Contact me when you have gained their support. Then I will be ready for Gowron.#
 WORF: Do you know the strength of our enemies?#
 WORF: Gowron is nearly out of options. Soon he will have no choice#
 WORF: Everything we have on the Khitomer massacre.#
@@ -1856,7 +1871,7 @@ WORF: The enemy has sustained major damage to its life support systems They have
 WORF: Captain, we must intervene. The Duras family is corrupt and hungry for power with no sense of honour or loyalty. They represent a grave threat to the security of the Federation. Captain, you and I know that they have conspired with Romulans in the past. If they should be victors in this war, they will surely form a new Klingon-Romulan alliance. That would represent a fundamental shift of power in this quadrant. Starfleet must support Gowron. It is in the interests of both the Federation and the Empire. I beg you, support us in our cause.#
 WORF: Captain, I respectfully request that I be allowed to take an extended leave of absence.#
 WORF: Captain.#
-WORF: Then I resign my commission as a Starfleet officer. ;#
+WORF: Then I resign my commission as a Starfleet officer.#
 WORF: Enter.#
 WORF: No, sir.#
 WORF: As weapons officer.#
@@ -1877,7 +1892,7 @@ WORF: You drink with our enemies?#
 WORF: The repairs to the Hegh'ta are proceeding. The port stabilisers#
 WORF: It is my responsibility.#
 WORF: There is no time for this! We must make plans before those forces reach Beta Lankal! How can we oppose the Duras when we continue to fight among ourselves?#
-WORF: Stop it! Do we to fall upon ourselves like a pack of Ferengi? The enemy is the Duras. We are at war! (Worf steps between the fighters and Gowron takes the opportunity to kill Kulge)#
+WORF: Stop it! Do we to fall upon ourselves like a pack of Ferengi? The enemy is the Duras. We are at war!#
 WORF: We are at war. Gowron should forbid any challenges until we are victorious.#
 WORF: A Klingon should place the good of the Empire above his own pride.#
 WORF: No.#
@@ -1897,7 +1912,7 @@ WORF: Gladly, sir.#
 WORF: Aye, Commander.#
 WORF: The positron density is point zero one three.#
 WORF: Onboard systems do not appear to be disrupted by the field, but I can barely read you, Commander.#
-WORF: Starboard thrusters destroyed. I may be able to land but I will not be able to take off.#
+WORF: Starboard thrusters destroyed. I may be able to land but I will not be able to take off. RIKER : Understood. Return to the Enterprise, Mister Worf.#
 WORF: Aye, sir.#
 WORF: I do not believe so. I have confidence in his ability as a warrior. He will be victorious.#
 WORF: Then why do we wait? If we attack the ship now, they will not be able to maintain their scattering field.#
@@ -1916,7 +1931,8 @@ WORF: Their particle beam emitters are inoperative, sir.#
 WORF: Aye, sir.#
 WORF: Starboard shields holding at fifty two percent. Forward shields are gone.#
 WORF: They are matching our manoeuvres, sir, and firing.#
-WORF: Firing, sir. WORF: Their shields are holding. They are firing again.  Our shields have failed.#
+WORF: Firing, sir.#
+WORF: Their shields are holding. They are firing again.  Our shields have failed.#
 WORF: Aye, Captain.#
 WORF: I've tried. No response.#
 WORF: Sir, receiving another signal of a vessel leaving orbit of Solarion Four. New frequency, low band, audio only.#
@@ -2050,7 +2066,7 @@ WORF: Yes, sir.#
 WORF: Two more eruptions, sir.#
 WORF: Commander La Forge is hailing you from the surface, sir.#
 WORF: Warp power has being rerouted to the main deflector dish, Commander.#
-WORF: EPS taps online. Phasers firing. (a wicked red glow quickly spreads through the atmosphere, and is then pushed back into a single point by azure blue. A stream of energy leaps out at the Enterprise and envelopes it)#
+WORF: EPS taps online. Phasers firing.#
 WORF: If you will not open the vessel, I will. With explosives, if necessary.#
 WORF: Aye, sir.#
 WORF: Very exciting.#
@@ -2139,7 +2155,7 @@ WORF: I want you to understand why you are going away.#
 WORF: You do not understand. I'm concerned about your future. A Klingon school will be a better environment for you.#
 WORF: That is not true.#
 WORF: Alexander. If your mother were here I do not think she would want us to fight like this.#
-WORF: Acknowledged. Remain here. I will return shortly. (Worf leaves, Alexander throws his suitcase on the floor and storms away)#
+WORF: Acknowledged. Remain here. I will return shortly.#
 WORF: Excuse me.#
 WORF: The shields have not been fully restored. Shield strength is down to thirty three percent.#
 WORF: Aye, sir.#
@@ -2177,7 +2193,7 @@ WORF: The secondary beam is being distorted as well.#
 WORF: Firing phasers.#
 WORF: Wavefront intensity has increased.#
 WORF: Aye, sir.#
-WORF: Minimal, sir. Shields are holding. Picard, Timothy and Troi enter)#
+WORF: Minimal, sir. Shields are holding.#
 WORF: Aye.#
 WORF: Wavefront intensity has increased by an order of magnitude. Impact in three, two, one.#
 WORF: Wave front intensity is continuing to increase. Structural over-pressure now exceeding one hundred eighty percent.#
@@ -2249,7 +2265,7 @@ WORF: Captain, a major storm front is moving in on the away team's coordinates.#
 WORF: They're in turbolift four. Engaging override controls now.#
 WORF: Sir, the turbolift is moving again. They're still inside.#
 WORF: Aye, sir. They have been stopped at deck thirteen.#
-WORF: Everyone down, now! (The two groups trade shots. Data shoots Pat. Troi shoots various unarmed crewmen and civilians, before taking down Worf)#
+WORF: Everyone down, now!#
 WORF: I have no fear of death.#
 WORF: Captain, one person has suffered what looks like a level-five phaser hit, and four others have secondary burns. They require medical attention. And our captors are not affected by phaser stun settings.#
 WORF: Spiritual possessions of this sort have been reported throughout Klingon history. It is called jat'yIn, the taking of the living by the dead.#
@@ -2257,13 +2273,13 @@ WORF: Then you believe they may be telling the truth?#
 WORF: Sir, they know much about the Essex. If it is the spirit of Captain Shumar.#
 WORF: After living disembodied for two centuries, perhaps they've gone mad.#
 WORF: To die defending one's ship is the hope of every Klingon.#
-WORF: Gladly, sir. Captain's log, stardate 45572.1. Doctor Crusher has examined Troi, Data and O'Brien. There seem to be no residual effects from their experience.#
+WORF: Gladly, sir.#
 WORF: No apology necessary.#
 WORF: You have no idea.#
 WORF: Bluffing is not one of Counsellor Troi's strong suits.#
 WORF: It would have been unwise to call. Yes. My hand was not strong enough.#
 WORF: How did you know what I had?#
-WORF: What happened? CRUSHER The containers you were checking fell on you. You're lucky to be alive.#
+WORF: What happened?#
 WORF: Doctor, I will not attempt to leave Sickbay without your approval. The restraining field is not necessary.#
 WORF: But I can't move my legs.#
 WORF: Please, sit down, Commander. Thank you for agreeing to see me in this condition.#
@@ -2382,7 +2398,8 @@ WORF: Eat, son.#
 WORF: What are you doing? What is that noise?#
 WORF: That is enough, please. It is your dinner hour. Eat.#
 WORF: Will you stop doing that, please? Alexander, eat your food. Wisdom will wait, I assure you.#
-WORF: A Klingon ever breaks his word. WORF: Where are you going?#
+WORF: A Klingon ever breaks his word.#
+WORF: Where are you going?#
 WORF: I did not mean now. Now just sit down and eat.#
 WORF: Understand later. Just eat.#
 WORF: Mrs. Troi, it is Alexander's dinner hour.#
@@ -2391,7 +2408,7 @@ WORF: Definitely not. My son is to return to quarters.#
 WORF: Captain, we've dropped to warp five point seven.#
 WORF: Aye, sir.#
 WORF: We must evacuate decks twenty through twenty four, Captain.#
-WORF: Aye, sir. Captain's log, stardate 45733.6. Temporary repairs to the ship have been completed. Our attention now turns to matters of a more festive nature.#
+WORF: Aye, sir.#
 WORF: You're just supposed to sit here?#
 WORF: Within visual range, Captain.#
 WORF: Understood.#
@@ -2399,7 +2416,7 @@ WORF: Unless you can arrange your own transport, you will have to remain on the 
 WORF: The captain dines alone.#
 WORF: Aye, sir. Security to cargo bay one.#
 WORF: One of the Ferengi.#
-WORF: What are you doing? (Qol looses his balance and falls, knocking a small barrel into the 'legs' of the egg. It falls in extreme slow motion and the golden glow dissipates)#
+WORF: What are you doing?#
 WORF: Is there a problem here?#
 WORF: Forward velocity is down by point two percent, and dropping.#
 WORF: This area is not designated for children. Are you lost? Where are you supposed to be?#
@@ -2408,7 +2425,7 @@ WORF: Forward velocity is dropping, Captain. Down by point four percent.#
 WORF: Forward velocity down by one point one percent.#
 WORF: We are no longer losing speed. Forward velocity is holding steady.#
 WORF: Warp field generators are standing by.#
-WORF: Captain, forward velocity is down by point six percent. Velocity down by two point four percent.#
+WORF: Captain, forward velocity is down by point six percent.  Velocity down by two point four percent.#
 WORF: Forward velocity holding.#
 WORF: Worf here, sir.#
 WORF: Yes sir, I have seen her.#
@@ -2418,10 +2435,11 @@ WORF: Shield strength dropping to seventy five percent. Seventy two percent.#
 WORF: Shield strength has dropped to sixty four percent.#
 WORF: Kill it now. Make it appear that it died in the crash.#
 WORF: Four more. None survived.#
-WORF: Lower the forcefield. (a medic enters the cell and the forcefield is raised again. Picard enters the Brig) WORF: Captain, the Borg is still unconscious.#
+WORF: Lower the forcefield.#
+WORF: Captain, the Borg is still unconscious.#
 WORF: I will follow the Commander. Reactivate the field once we're through.#
 WORF: Commander.#
-WORF: Lower the forcefield. (Geordi and Worf back out, the forcefield goes back up, and the Borg goes to the conduit and plugs himself in)#
+WORF: Lower the forcefield.#
 WORF: Commander. Emergency bulkheads have sealed this section off from the rest of the ship. There is no way to gain access to the main Bridge or control centres.#
 WORF: Readings indicate at least seventy three Romulans are still alive.#
 WORF: We must get the doors closed.#
@@ -2499,7 +2517,7 @@ WORF: There was something attached to it. A tool of some sort. Scissor-like. Com
 WORF: Captain, sensors indicate that Lieutenant Hagler has returned to the Enterprise. He is in his quarters, deck seven, section nineteen.#
 WORF: Perhaps we could construct a homing device. Something that our sensors could track.#
 WORF: Captain. Commander Riker has been taken from the Enterprise.#
-WORF: Aye, sir. (the next few lines are actually delivered while the camera is gazing at Amanda)#
+WORF: Aye, sir.#
 WORF: Captain, there is too much ionisation in the atmosphere. Transporters are useless.#
 WORF: The shuttle has been enveloped by an energy field. It's engines and life support have failed.#
 WORF: The probe. Aye, sir.#
@@ -2556,7 +2574,7 @@ WORF: The holodeck safeguards are not functioning. Alexander's in trouble.#
 WORF: There's another character in the programme. Hollander's father. And he looks like Commander Data.#
 WORF: But it is not Data. I cannot explain. I believe he has taken Alexander.#
 WORF: Where have they taken my son? Where is he?#
-WORF: You are right. I will begin by speaking to the people of this town. Perhaps someone witnessed Alexander's abduction. Captain's log, supplemental. Commander La Forge and Mister Data believe they have found the cause of the mysterious malfunctions which have been plaguing the ship.#
+WORF: You are right. I will begin by speaking to the people of this town. Perhaps someone witnessed Alexander's abduction.#
 WORF: I spoke to several witnesses who saw Alexander being abducted as he was leaving the bank by one of Hollander's men. We must begin a systematic search of the town.#
 WORF: Remove your weapon.#
 WORF: I have reconsidered your offer. I will release your son in exchange for my deputy.#
@@ -2568,13 +2586,13 @@ WORF: Excellent.#
 WORF: Oh, yes. Thank you, Miss Annie. I am in your debt.#
 WORF: I have connected the communicator's energy cell to serve as the power source.#
 WORF: No more than fifteen seconds. It is highly unstable.#
-WORF: Alexander! (Alexander runs for cover in the saloon, Worf switches on his personal forcefield and Frank fires, emptying his pistol for nothing. The forcefield switches off)#
+WORF: Alexander!#
 WORF: Do not show your face in this town again.#
 WORF: Are you all right?#
 WORF: End programme.#
 WORF: Computer, end programme.#
 WORF:  Computer, end programme! Computer! Now!#
-WORF: The town of Deadwood may face danger once again. If they do, they will need a Sheriff and a deputy. (Worf goes into the main room, puts on his stetson and tries a quick draw in front of the mirror. He smiles, and the Enterprise flies off into the sunset)#
+WORF: The town of Deadwood may face danger once again. If they do, they will need a Sheriff and a deputy.#
 WORF: Commander, is it your intention to continue to grow your beard?#
 WORF: I am just asking.#
 WORF: Why is that?#
@@ -2592,14 +2610,15 @@ WORF: Leaving the planet safe to be conquered. Wouldn't using such a weapon pose
 WORF: What do we know about Celtris Three?#
 WORF: Celtris Three is in Cardassian space. How will we get there undetected?#
 WORF: Bats?#
-WORF: Of course not. First Officer's log, supplemental. We have rendezvoused with the Cardassian ship Reklar to begin diplomatic talks designed to ease tensions along the border.#
+WORF: Of course not.#
 WORF: You're not afraid of heights, are you, Doctor?#
 WORF: I doubt it.#
 WORF: A phaser set to level sixteen should suffice.#
 WORF: I have her.#
 WORF: Sensor echoes established, but the false image will only last a few minutes. The hatch is magnetically sealed, but I believe I can bypass it.#
 WORF: Ready.#
-WORF: Captain! (an injured Cardassian shoots Worf in the shoulder and he falls out of the chamber. By the time Picard gets there, the door is shut)#
+WORF: Captain!#
+WORF: The Captain.#
 WORF: The Captain!#
 WORF: Aye, sir.#
 WORF: Captain, the shuttlecraft is emerging from the nebula.#
@@ -2826,10 +2845,10 @@ WORF: Aye.#
 WORF: They are hailing us.#
 WORF: Captain, a Klingon attack cruiser decloaking off the starboard bow. They are hailing us.#
 WORF: Direct hit on our port nacelle. They are powering up for another volley.#
-WORF: They are firing. (everything shakes as the Cardassians target the nacelle again and fly off)#
+WORF: They are firing.#
 WORF: The Cardassian vessels have set a course for Rahm Izad.#
 WORF: And you have been shadowing us ever since.#
-WORF: If you fire, others will also. Many will die. (Crusher hands Picard her scan results and he adds them to his tricorder)#
+WORF: If you fire, others will also. Many will die.#
 WORF: This is the last known location of the research team. They had occupied a small building in the south-west quarter of the city. You will begin your search there.#
 WORF: This apparel will allow you to pass as a common merchant. This Tilonian pendant is equipped with a communicator circuit.#
 WORF: I suggest you pay closer attention, Commander. Your life will be at stake. Do you understand what I am saying?#
@@ -2873,7 +2892,8 @@ WORF: It has been ten days, Koroth. I have had no visions. I have received no in
 WORF: When Kahless had united our people and gave them the laws of honour, he saw that his work was done. So one night he gathered his belongings and departed for the edge of the city to say goodbye.#
 WORF: Then Kahless said, 'You are Klingons. You need no one but yourselves. I will go now to Sto-Vo-Kor. But I promise one day I will return.' Then Kahless pointed to a star in the sky and said, 'Look for me there, on that point of light.'#
 WORF: Torva luk do shel. Torva luk#
-WORF: I see Kahless. (Divok runs out. The figure walks forward and holds out his arms. Worf touches his hands.) WORF: You are real.#
+WORF: I see Kahless.#
+WORF: You are real.#
 WORF: I was getting my tricorder.#
 WORF: No, no. It is a tool. I intended to use it to see#
 WORF: You are Klingon.#
@@ -2938,11 +2958,11 @@ WORF: Fold.#
 WORF: I think so.#
 WORF: I am not easy to get along with.#
 WORF: Or perhaps it is more a matter of seeing something in your double. Something you do not like in yourself.#
-WORF: Initiating data transfer. Captain's log, stardate 46920.1. We have retrieved the database from Nervala station and are headed for our rendezvous with the Gandhi.#
+WORF: Initiating data transfer.#
 WORF: We are picking up a distress call on long range sensors. It is Romulan, sir.#
 WORF: They claim they have suffered a complete engine failure. Power levels are dropping. Life support is failing. It could be a trick.#
 WORF: Approximately thirteen hours.#
-WORF: Aye, sir. Captain's log, stardate 46944.2. Commander Data, Mister La Forge, Counsellor Troi and I are en route to the Enterprise, after attending a three day conference on the psychological effects of long-term deep-space assignments.#
+WORF: Aye, sir.#
 WORF: We are nearing the Ohniaka system, sir.#
 WORF: Sensors detect one ship orbiting the third planet. Its configuration does not match anything in our records.#
 WORF: No response, sir.#
@@ -2954,15 +2974,15 @@ WORF: And that Borg also showed concern for a fallen comrade. He even called him
 WORF: Aye, sir.#
 WORF: At warp nine, fifteen minutes, thirty seconds.#
 WORF: Captain, incoming message from the New Berlin Colony. They have cancelled their distress call. Evidently a Ferengi trading ship entered their system and someone panicked.#
-WORF: Aye, sir. Captain's log, supplemental. We have been on patrol for sixteen hours, and there are no reports of further Borg activity. But tensions continue to run high on the colonies and outposts in this sector.#
+WORF: Aye, sir.#
 WORF: I have located the Borg ship. It is heading away from the colony.#
 WORF: Within visual range.#
 WORF: We are closing, sir. Within phaser range in thirty seconds.#
-WORF: Within phaser range in ten seconds. (the Borg ship vanishes in a flash of white light and Enterprise shakes)#
+WORF: Within phaser range in ten seconds.#
 WORF: Shields failing.#
 WORF: Inertial dampers failing.#
 WORF: Captain, the Borg ship is directly ahead. It is coming about.#
-WORF: Shields down to sixteen percent. (the Borg fire an energy bolt, and two drones materialise on the Bridge)#
+WORF: Shields down to sixteen percent.#
 WORF: Aye, sir. Security reports no other intruders aboard. Captain, the Borg ship is gone. Sensor logs indicate they entered the distortion field thirty seconds ago.#
 WORF: Captain, a shuttlecraft has left bay two.#
 WORF: There was no authorisation.#
@@ -3016,7 +3036,8 @@ WORF: What?#
 WORF:  It was excruciating.#
 WORF: Captain, I am receiving a transmission from Starfleet Command. Admiral Holt.#
 WORF: Captain, the Raman is descending toward the planet.#
-WORF: I think the one over there knows something. WORF: He would not admit to having seen the Captain, but he said that anyone who visited the ruins of Nafir would probably come here eventually. I suspect he knows more.#
+WORF: I think the one over there knows something.#
+WORF: He would not admit to having seen the Captain, but he said that anyone who visited the ruins of Nafir would probably come here eventually. I suspect he knows more.#
 WORF: Commander, I told#
 WORF: I explained to him that we are looking for a man who impregnated your sister.#
 WORF: And how much more latinum will it take to offset this risk?#
@@ -3128,12 +3149,12 @@ WORF: Hmm? Yes, sir.#
 WORF: Today is my birthday.#
 WORF: Because it is my birthday I assumed that you or one of the others would try to mount an unexpected social gathering.#
 WORF: I am sorry, Commander.#
-WORF: Aye sir. (Riker leaves, Worf puts down his bat'leth and trophy and walks through to)#
+WORF: Aye sir.#
 WORF: That was not a Klingon song.#
 WORF: Thank you.#
 WORF: Ah. A painting.#
 WORF: The Battle of HarOS?#
-WORF: What are you doing? (Riker takes down the brass shield, and Troi hangs the big bright canvas to the left of the door)#
+WORF: What are you doing?#
 WORF: Yes, Yes, I think Data's painting is making me dizzy.#
 WORF: I thought the cake was chocolate.#
 WORF: It is a cast of Alexander's forehead. The ridges of a warrior.#
@@ -3221,7 +3242,8 @@ WORF: Shields!#
 WORF: Assuming it works, will I find myself near my own ship?#
 WORF: I understand.#
 WORF: Setting course for the fissure.#
-WORF: Charging primary systems. Initiating inverse warp field. (there's a flash, there are at least three Worfs in gold and four in red, then Worf in gold is lying on the floor. He gets up) WORF: Worf to Enterprise.#
+WORF: Charging primary systems. Initiating inverse warp field.#
+WORF: Worf to Enterprise.#
 WORF: Captain, is everything all right?#
 WORF: No, I do not believe so, but I will explain when I arrive.#
 WORF: It was fine, sir. I won Champion Standing.#
@@ -3234,7 +3256,8 @@ WORF: Thank you.#
 WORF: Deanna. You do not have to leave.#
 WORF: I have not had dinner. Would you care to join me?#
 WORF: Champagne.#
-WORF: Sir, Romulan warbird decloaking directly ahead. WORF: They are powering weapons.#
+WORF: Sir, Romulan warbird decloaking directly ahead.#
+WORF: They are powering weapons.#
 WORF: Sir, they are hailing us.#
 WORF: Sir, they are moving off, resuming their tachyon scans of the system.#
 WORF: Aye, sir.#
@@ -3300,7 +3323,7 @@ WORF: We must stay together. We will have to leave it behind.#
 WORF: Go, and return quickly.#
 WORF: Of course.#
 WORF: She is a fine girl.#
-WORF: You will reach your new home. I promise. (meanwhile, Vorin has found his scroll, and the arch partly showing in the rock. He touches it and the door appears. He steps forward, it opens and out he goes)#
+WORF: You will reach your new home. I promise.#
 WORF: I will carry your pack. Go and join the others.#
 WORF: Vorin has left the holodeck.#
 WORF: I do not know, but Doctor Crusher cannot erase his memory.#
@@ -3374,7 +3397,7 @@ WORF: Auxiliary control is not online. We are starting to lose containment on an
 WORF: The control system for the primary containment field is not functioning.#
 WORF: Sir, that crawlway is in a warp-plasma shaft. He would never survive the radiation.#
 WORF: Captain, phasers are set for wide dispersal, ten percent maximum power. The beam will automatically terminate once the comet's core is reached.#
-WORF: Phasers have terminated. (and now we see a curiously elegant alien construction, several times the size of the Enterprise)#
+WORF: Phasers have terminated.#
 WORF: Aye, sir.#
 WORF: We have been receiving reports from the rest of the ship. Part of deck twelve is now an aqueduct.#
 WORF: Sir, our weapon control systems are inoperative. However, we could reconfigure a photon torpedo for manual launch.#
@@ -3401,7 +3424,7 @@ WORF: We should check his personal logs.#
 WORF: No. No, it does not.#
 WORF: I scanned the area. I found no anomalous readings.#
 WORF: Psilosynine?#
-WORF: I shall accompany you, Counsellor. Captain's log, stardate 47623.2. We've arrived at Starbase three twenty eight on schedule. After taking aboard medical supplies, we will depart for Barson Two.#
+WORF: I shall accompany you, Counsellor.#
 WORF: Counsellor. Have you found anything in Lieutenant Kwan's logs?#
 WORF: No. No, nothing.#
 WORF: In the past, have your empathic experiences always involved the physical presence of another person?#
@@ -3434,7 +3457,7 @@ WORF: Perhaps we should continue this in the morning.#
 WORF: Yes, and you must be tired.#
 WORF: So I will say goodnight.#
 WORF: We should get an early start tomorrow.#
-WORF: Yes. (finally, Worf takes her hand and nuzzles her neck, then they kiss passionately) (next morning, Troi is still in bed and Worf is already dressed. He kisses her awake. I thought non-Klingon females were too fragile??)#
+WORF: Yes.#
 WORF: Breakfast is ready.#
 WORF: Worf, here.#
 WORF: I will be there shortly.#
@@ -3511,6 +3534,7 @@ WORF: Captain, I cannot ask you#
 WORF: Thank you, sir.#
 WORF: It is the tyrant Molor. He was so strong no one could stand against him.#
 WORF: He is asking if anyone else will have the courage to stand up to Molor.#
+WORF:  Ki'rok, Molor, ki'rok!#
 WORF: O'tak tu'ro!#
 WORF: Nok'tar be'got? Hosh'ar te'not?#
 WORF: You fought well.#
@@ -3525,7 +3549,7 @@ WORF: No. It is late. We should go home.#
 WORF: Alexander, that is enough. Come, it is time to go.#
 WORF: You can see your friends again tomorrow.#
 WORF: If you want to.#
-WORF: Run, Alexander. (Worf takes on the three robbers, and the stranger only intervenes to stop one getting knife to stab him in the back)#
+WORF: Run, Alexander.#
 WORF: I have seen you before. Who are you?#
 WORF: Are you K'mtar.#
 WORF: He is gin'tak to the house of Mogh.#
@@ -3614,7 +3638,7 @@ WORF: No, I meant the picture. What is it?#
 WORF: Are you succeeding, Commander?#
 WORF: We do not want any trouble. We are simply passengers.#
 WORF: Foundation for what?#
-WORF: It's an earthquake. (the wall collapses on top of Deanna, revealing a door with number 1156 etched in the glass.)#
+WORF: It's an earthquake.#
 WORF: Are you all right?#
 WORF: Three tickets for Vertiform City.#
 WORF: What was that?#

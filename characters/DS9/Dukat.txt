@@ -23,7 +23,7 @@ DUKAT: Yes. You did a Cardassian neck trick that brought the house down.#
 DUKAT: Gul Hadar couldn't stop talking about it. He wanted to send you out to entertain the troops. I, on the other hand, began to wonder if you couldn't provide a more valuable service for the Cardassian Empire. I've stayed informed about you, Odo, ever since you walked out on your Bajoran keepers.#
 DUKAT: Yes, you've become quite the student of humanoid nature, haven't you?#
 DUKAT: Have you ever seen a dead man before?#
-DUKAT: Oh, those are casualties. This is murder. (removes the cloth from the body) And I've decided you're going to investigate it.#
+DUKAT: Oh, those are casualties. This is murder.  And I've decided you're going to investigate it.#
 DUKAT: Ah, but I suspect you'd make a good one, shape-shifting your way into places the rest of us can't go.#
 DUKAT: Not an agent. An investigator.#
 DUKAT: We can't have these Bajorans running around murdering each other, now can we? I'm talking about order here, justice.#
@@ -93,7 +93,7 @@ DUKAT: Starfleet security, if you don't mind, Commander. Some of the Bajoran dep
 DUKAT: If there's anything else I can do to assist you in your investigation.#
 DUKAT: Is there a problem?#
 DUKAT: Where's Commander Sisko?#
-DUKAT: I take it we're not about to board a Cardassian freighter. (Dukat knocks out Sakonna and makes a run for it. He gets shot in the back by Niles.)#
+DUKAT: I take it we're not about to board a Cardassian freighter.#
 DUKAT: I'm here unofficially to help you find out the truth about the Bok'Nor.#
 DUKAT: Because I already know the truth.#
 DUKAT: It's not working. That is what's wrong.#
@@ -104,7 +104,7 @@ DUKAT: Anyone can blow up a ship. Ha! But to look your enemy in the eye, knowing
 DUKAT: There, you see?#
 DUKAT: Will you stop talking and shoot them.#
 DUKAT: What are you waiting for?#
-DUKAT: Shoot them! (Dukat knocks down Sakonna, Amaros fires, others follow. Bashir stuns one Maquis, Sisko two. Amaros tries to run up the ladder and Odo literally lassoes him. Dukat grabs Amaros then Sisko gets to Dukat.)#
+DUKAT: Shoot them!#
 DUKAT: Enter.#
 DUKAT: I find a good meal extremely relaxing, especially after a difficult day.#
 DUKAT: Really? I wonder what else we have in common.#
@@ -161,13 +161,14 @@ DUKAT: Let me guess. Someone tried to duplicate my access code.#
 DUKAT: A short time ago, I had a very strange experience. There I was, patrolling the Demilitarised zone, when I received a distress signal from me. Or at least a recording of me. It seems the Bajoran workers were rioting on Terok Nor. I must admit, it piqued my curiosity. I see the auto-destruct programme has begun. Well, well, well. You are in trouble. Where's Commander Sisko? I trust he wasn't vaporised while asking for one of those raktajinos he's so fond of.#
 DUKAT: Hmm. I wish him well.#
 DUKAT: Oh, most certainly. All I have to do is enter my command code and shut the programme.#
-DUKAT: All in good time, Major Kira. All in good time. But first, there are a few things we should discuss. Red leaf tea, please. (The weapon turns into a mug, and Bashir puts his head above a console.) DUKAT: Doctor.#
+DUKAT: All in good time, Major Kira. All in good time. But first, there are a few things we should discuss. Red leaf tea, please.#
+DUKAT: Doctor.#
 DUKAT: You'll find I don't react well to that tone of voice, Major. Garak, grovelling in a corner. That alone makes my trip worthwhile.#
 DUKAT: If you had been on the station when I designed this programme, I would have made an exception in your case.#
 DUKAT: My father's only flaw was trusting you.#
 DUKAT: You're right, Major. Oh, believe me, Garak, that time is coming. Major, why don't you join me in the Commander's office where we can talk in private. Oh. I forgot. The replicator. Well, it's the least I can do.#
 DUKAT: You can all rise now. You're safe, for the moment. Major.#
-DUKAT: I know time is of the essence, Major, so I'll be brief. (he sends the baseball rolling across the floor.) I think it is time to re-establish a permanent Cardassian presence aboard this station. Nothing too elaborate, mind you. A garrison would suffice. I can deploy troops from my ship immediately. And in return, I'll solve your current dilemma.#
+DUKAT: I know time is of the essence, Major, so I'll be brief.  I think it is time to re-establish a permanent Cardassian presence aboard this station. Nothing too elaborate, mind you. A garrison would suffice. I can deploy troops from my ship immediately. And in return, I'll solve your current dilemma.#
 DUKAT: I'm not sure you have much of a choice, do you?#
 DUKAT: I don't expect them to be happy about it, but once my troops are in place I think you'll find it very difficult to get them to leave.#
 DUKAT: Yes, I'm sure you would. But would you allow two thousand people aboard this station to die simply because you don't like us? Well, there's no need to decide just yet. We still have a little time left. Thirty minutes, in fact. Why don't I return to my ship so that you'll have time to think about it.#
@@ -237,6 +238,7 @@ DUKAT: A Federation trial#
 DUKAT: All right. I would be willing to hand over Major Kira, the Maquis, and the ship, but not Riker. He led the mission. If I can bring him to justice and obtain the information on Orias, that might be enough for Central Command.#
 DUKAT: I'll have to clear that with the Ministry of Justice.#
 DUKAT: Those are faster than any Keldon class ships I've ever seen. What is going on in that system?#
+DUKAT: They won't fire on another Cardassian ship. They can't.#
 DUKAT: How do you know about that?#
 DUKAT: I'm not sure I share your optimism, but then I don't have much choice, do I? We'll meet you there.#
 DUKAT: Captain, this is Dukat. Almost half the council members are still aboard my ship. We need at least another minute.#
@@ -330,7 +332,7 @@ DUKAT: And I hate to refuse it, but I'm afraid I must. You're welcome to file an
 DUKAT: Well, then I suggest we devise a plan to rescue these prisoners together. You need me, Major.#
 DUKAT:  Gather as many prisoners as you can. Tell them to meet us here.#
 DUKAT:  My condolences, Major, but we don't have time for this. Tell me where I can find Tora Ziyal.#
-DUKAT: I need to find the girl. Where is she? (They get shot at. Everyone ducks and Dukat gives his gun to Heler before running off. Kira shoots a Breen.)#
+DUKAT: I need to find the girl. Where is she?#
 DUKAT: Where is Tora Ziyal?#
 DUKAT: Ziyal.#
 DUKAT: I have no choice.#
@@ -493,12 +495,12 @@ DUKAT: We're hailing them back. I wouldn't worry. This happens all the time.#
 DUKAT: By all means. It's a shame you can't see the holo-image I'm projecting over the comm. system. I make quite an imposing Klingon.#
 DUKAT: What do you mean it's not working?#
 DUKAT: I have a better idea.#
-DUKAT: It was either that or trust in Mister Worf's ability to lie. And frankly, I have more faith in my weapons. Get us out of here, Damar. I want to put as much distance between us and that wreckage as possible. (They arrive at Ty'Gokor, a planet surrounded by space stations and space ships.)#
+DUKAT: It was either that or trust in Mister Worf's ability to lie. And frankly, I have more faith in my weapons. Get us out of here, Damar. I want to put as much distance between us and that wreckage as possible.#
 DUKAT: Well, Captain, I've enjoyed your company as always, but it appears it is time we said goodbye. I don't envy your assignment.#
 DUKAT: Which is why we'll be leaving as soon as you beam down.#
 DUKAT: I really don't see any pressing need to come back.#
 DUKAT: I realise that. But how long do you think we can stay here undetected without the holofilter? Besides, if you succeed, the war will be over and you won't need us. And if you fail.#
-DUKAT: I haven't survived this long by being sloppy, Mister Worf. (to Sisko) And now Jodmos, son of Kobor, your medal awaits you.#
+DUKAT: I haven't survived this long by being sloppy, Mister Worf.  And now Jodmos, son of Kobor, your medal awaits you.#
 DUKAT: Name?#
 DUKAT: Look at me when I speak to you, Leeta.#
 DUKAT: She'll do.#
@@ -637,7 +639,7 @@ DUKAT: Yes.#
 DUKAT: Happy? Neither have I, Major.#
 DUKAT: I'm reluctant to admit it but you were right to send her to Bajor.#
 DUKAT: We seldom see eye to eye, Major, but I know you care about my daughter, and for that, I'm grateful.#
-DUKAT: In closing, let me emphasise again that Cardassia's gift of fifteen industrial replicators to Bajor ushers in a new age of cooperation and understanding between our two peoples. Hand in hand, we'll march into a new era of peace and prosperity as Dominion allies. Thank you, thank you. That will be all. Ah, Major Kira, may I have a word with you, please? Have you heard? The Cardassian Institute of Art has decided to exhibit three of Ziyal's drawings.#
+DUKAT: In closing, let me emphasise again that Cardassia's gift of fifteen industrial replicators to Bajor ushers in a new age of cooperation and understanding between our two peoples. Hand in hand, we'll march into a new era of peace and prosperity as Dominion allies.  Thank you, thank you. That will be all. Ah, Major Kira, may I have a word with you, please? Have you heard? The Cardassian Institute of Art has decided to exhibit three of Ziyal's drawings.#
 DUKAT: I'm hosting a celebration for her in my quarters tonight. I hope you'll join us.#
 DUKAT: Twenty one thirty. Unless I'm unavoidably delayed.#
 DUKAT: Come in. Ah, Major Kira, what a pleasant surprise. Come in, come in.#
@@ -803,7 +805,7 @@ DUKAT: You had a bout of nausea. Not exactly a little bout.#
 DUKAT: That's all right. I've had to clean up a lot worse in my time. Once, when I was a newly minted glinn on the Kornaire, I had to help clean up a compartment where three men had gone through an explosive decompression. I didn't sleep for a week after that.#
 DUKAT: The Emissary has spoken. Oh, come on, Benjamin. Have a sense of humour about all this.#
 DUKAT: Well that's a shame, because there's so much to laugh about. You don't see it, do you? Benjamin, just a few hours ago I was a prisoner on my way to trial and you were my old friend come to visit me in my cell. Now look at us. I'm free and you're a prisoner of your own battered body, and there's a good chance we'll be rescued by the Dominion. You've got to laugh at a universe that allows such radical shifts in fortune, Benjamin.#
-DUKAT: Whatever you say. (Dukat starts to hand over a bowl then suddenly looks across the cavern.)#
+DUKAT: Whatever you say.#
 DUKAT: Nothing. it's probably just the wind.#
 DUKAT: How is it?#
 DUKAT: You know, we didn't get much of a chance to catch up before the attack. How is everyone on what I'm sure you're once again calling Deep Space Nine? Odo, Kira, Quark?#
@@ -823,9 +825,10 @@ DUKAT: Ah. Here.#
 DUKAT: Hmm? No, no. Some rocks slid down the cliff.#
 DUKAT: Oh?#
 DUKAT: I'll check. Everything's fine. The unit's still online.#
-DUKAT: You're right. (Dukat opens up the back panel and presses buttons. It's still saying Offline. He closes it back up.) DUKAT: Nothing to worry about. It's working fine.#
+DUKAT: You're right.#
+DUKAT: Nothing to worry about. It's working fine.#
 DUKAT: Good evening. Pleasant dreams, I hope.#
-DUKAT: I do apologise for bringing you to such a gloomy latitude. The nights seem to last eighteen hours, the days less than five. Sit up. (He puts one of the pads between Sisko and the rock he uses to lean against.)#
+DUKAT: I do apologise for bringing you to such a gloomy latitude. The nights seem to last eighteen hours, the days less than five. Sit up.#
 DUKAT: No, not at all. Someone's bound to pick up our signal any time now. But I see no reason why we shouldn't be comfortable in the meantime. How's that?#
 DUKAT: Good.  Ah, much better. You know, when I was out there in the shuttle just now, it occurred to me that the Bajorans would be very confused if they could see us here, sharing the same food, the same hardships. What do you think they would say if they knew the Emissary of the Prophets and the evil Gul Dukat were sitting here together, getting along like the two old friends that they really are? Oh, I forgot. You don't think of me as your old friend, do you, Benjamin. It's all right. There's no one here. Just the two of us. No one to impress, no one to judge what you say. We can be honest with one another. So tell me. What you really think of me?#
 DUKAT: You probably agree with Major Kira, don't you, Benjamin? I am the former Prefect of Bajor. An evil man who sent thousands of Bajorans to their deaths to satisfy his own sadistic desires.#
@@ -836,7 +839,7 @@ DUKAT: Precisely.#
 DUKAT: Leave us alone! This doesn't concern you!#
 DUKAT: This is growing tiresome.#
 DUKAT: Yes, but Nerys won't leave well enough alone. She's always interfering, always trying to upset me.#
-DUKAT: Enough! (Dukat shoots at Kira, aka the edge of Sisko's rock, then the wall, and down the tunnel.)#
+DUKAT: Enough!#
 DUKAT: That must have been very uncomfortable, Benjamin. Look at that. One of the tines is missing. Now did that happened? Did you break it off? But why would you want a small thin piece of metal? Unless you needed a tool.#
 DUKAT: I see you've been busy. A little repair work while I was gone. Very thoughtful.#
 DUKAT: You know, Benjamin, I thought we had established a level of trust between us, but I was wrong. If there's one thing I can't abide, it's betrayal.#
@@ -858,7 +861,7 @@ DUKAT: Yes, yes, exactly.#
 DUKAT: Because they were blind, ignorant fools. If only they had cooperated with us, we could have turned their world into a paradise. From the moment we arrived on Bajor, it was clear that we were the superior race. But they couldn't accept that. They wanted to be treated as equals when they most certainly were not. Militarily, technologically, culturally, we were almost a century ahead of them in every way. We did not choose to be the superior race. Fate handed us our role. And it would've been so much easier on everyone if the Bajorans had simply accepted their role. But no, day after day they clustered in their temples and prayed for deliverance, and night after night they planted bombs outside of our homes. Pride. Stubborn, unyielding pride. From the servant girl that cleaned my quarters to the condemned man toiling in a labour camp to the terrorist skulking through the hills of Dahkur Province. They all wore their pride like some twisted badge of honour.#
 DUKAT: Of course I hated them! I hated everything about them! Their superstitions and their cries for sympathy, their treachery and their lies, their smug superiority and their stiff necked obstinacy, their earrings and their broken wrinkled noses.#
 DUKAT: Yes! Yes! That's right, isn't it?  I knew it! I've always known it! I should have killed every last one of them. I should have turned their planet into a graveyard the likes of which the galaxy had never seen! I should have killed them all.#
-DUKAT: I'm so glad we had this time together, Benjamin, because we won't be seeing each other for a while. I have unfinished business on Bajor. They thought I was their enemy? They don't know what it is to be my enemy, but they will. From this day forward, Bajor is dead. All of Bajor. And this time, even their Emissary won't be able to save them. (Sisko kicks Dukat's knee, so Dukat punches him and crawls back into the shuttle. As the ramp closes we see Kira, Damar and Weyoun with him again.)#
+DUKAT: I'm so glad we had this time together, Benjamin, because we won't be seeing each other for a while. I have unfinished business on Bajor. They thought I was their enemy? They don't know what it is to be my enemy, but they will. From this day forward, Bajor is dead. All of Bajor. And this time, even their Emissary won't be able to save them.#
 DUKAT: Basso! That's enough. Welcome to Terok Nor. I hope your stay here will be a pleasant one. I assure you, I will do everything possible to make it so. I suspect that many of you must be feeling a bit uneasy right now. I'm well aware that among the Bajoran population there is a perception that all Cardassians are to be feared, that we are a cruel and heartless people. I hope to change that. Not with words, but with actions, in the hope that you will come to appreciate the better part of our nature. I assure you we are capable of great kindness.#
 DUKAT: Stay where you are. Your families will be well taken care of. That, I promise you.#
 DUKAT: What is this?#
@@ -878,7 +881,7 @@ DUKAT: Whatever makes you happy, my dear.#
 DUKAT: Thank you, Basso. That'll be all.#
 DUKAT: Don't concern yourself with Luma. She's not going to cause us any more trouble, are you?#
 DUKAT: No, it isn't. Well, Basso, you heard. Find her some quarters.#
-DUKAT: This is for you. I think you'll find it very interesting. I'll be in my study if you need me. (Dukat leaves. Kira activates the earring bomb and puts it into a pot plant.)#
+DUKAT: This is for you. I think you'll find it very interesting. I'll be in my study if you need me.#
 DUKAT: What?#
 DUKAT: Meru!#
 DUKAT: Get out of the way!#
@@ -891,8 +894,9 @@ DUKAT: Isn't that obvious? To give you what you desire above all else. The Alpha
 DUKAT: Let's just say it will make it possible for Dominion reinforcements to come through that wormhole and destroy Captain Sisko and the Federation once and for all.#
 DUKAT: Gentlemen. I hope I'm not interrupting.#
 DUKAT: I've found it. Behold, the key to victory.#
-DUKAT: Oh, I see you remain sceptical. Well, you won't be for long. Over the past few months, I've immersed myself in the study of the Bajoran Ancient Texts. (Dukat takes candles from his knapsack during his speech and lights them.) DUKAT: And I've come to realize that the wormhole is much more than the gateway to the Gamma Quadrant. It's the Temple of the Prophets. It's from there that they smile benevolently down on Bajor. It's from there that they protect that world and its people. The sad truth is, we wasted our time fighting the Bajorans when we should've been fighting their gods.#
-DUKAT: I'll show you. You see, we have an ally we never knew we had. You may want to step back. Dorrah tolka bretri pah'rahn, meedor. Dorrah tolka ullkess pah'rahn. (Dukat breaks the figure in two and red energy comes out of it. It goes into his body, throwing him backwards to the floor.)#
+DUKAT: Oh, I see you remain sceptical. Well, you won't be for long. Over the past few months, I've immersed myself in the study of the Bajoran Ancient Texts.#
+DUKAT: And I've come to realize that the wormhole is much more than the gateway to the Gamma Quadrant. It's the Temple of the Prophets. It's from there that they smile benevolently down on Bajor. It's from there that they protect that world and its people. The sad truth is, we wasted our time fighting the Bajorans when we should've been fighting their gods.#
+DUKAT: I'll show you. You see, we have an ally we never knew we had. You may want to step back. Dorrah tolka bretri pah'rahn, meedor. Dorrah tolka ullkess pah'rahn.#
 DUKAT: Your concern is touching, but unnecessary.#
 DUKAT: I know this is small comfort, but I never intended you any harm.#
 DUKAT: I am.#
@@ -931,7 +935,7 @@ DUKAT: Why didn't you tell me the baby was mine?#
 DUKAT: Mika, I'm so sorry about what happened that night. I was weak and you were so beautiful.#
 DUKAT: Have you told anyone?#
 DUKAT: Not even Benyan?#
-DUKAT: Don't worry. Everything is going to be all right. Wait here until I'm gone, then go back to you quarters and pray for strength. (Dukat shuts the airlock and opens the space door. Mika hangs on as the air rushes out, then reaches to Dukat before passing out.)#
+DUKAT: Don't worry. Everything is going to be all right. Wait here until I'm gone, then go back to you quarters and pray for strength.#
 DUKAT: How is she?#
 DUKAT: But she will recover?#
 DUKAT: Brin. Seal the docking ring. Check all the airlocks. Let's make sure we never have another accident like this again.#
@@ -947,7 +951,8 @@ DUKAT: You just don't understand, Nerys. The Pah wraiths are calling me home. Yo
 DUKAT: I assure you, our deaths will be painless.#
 DUKAT: Promazine. Developed by the Obsidian Order for its operatives to use in case of capture. Not only is death swift, but it reduces the body to dust within hours, making it unidentifiable to the enemy. Dust. That's all that will remain of my passage through this misbegotten universe, Nerys. But it doesn't bother me because I know I'm going to be with the Pah wraiths.#
 DUKAT: Goodbye, Nerys.#
-DUKAT: My children, the time has come for us to leave this world behind us. (Kira plugs a fibre optic into the portable light and blows her door open.) DUKAT: As we embark on this journey, our hearts are not heavy, but joyful. Because we know we'll be together in the holy light of the Pah wraiths.#
+DUKAT: My children, the time has come for us to leave this world behind us.#
+DUKAT: As we embark on this journey, our hearts are not heavy, but joyful. Because we know we'll be together in the holy light of the Pah wraiths.#
 DUKAT: And they are calling us home. This is the means of our deliverance.#
 DUKAT: Kosst no'valt Amojan, my children.#
 DUKAT: Be not afraid. I love you all.#
@@ -1055,7 +1060,8 @@ DUKAT: I want only to serve the Kai.#
 DUKAT: I have no idea why I was chosen. But who are we to question the ways of the Prophets?#
 DUKAT: Solbor does not approve of me.#
 DUKAT: And he may serve you well for many more if the Pah wraiths find him worthy. Well? Aren't you going to open it? The Pah wraiths are not evil, but they are powerful. And they're willing to share their power with you. The question is, do you want it?#
-DUKAT: Yes. (She takes the key and unlocks the elaborately embossed cover. The parchment pages are stained with age, and blank.) DUKAT: This can't be. This is a trick.#
+DUKAT: Yes.#
+DUKAT: This can't be. This is a trick.#
 DUKAT: Then Solbor brought the wrong book.#
 DUKAT: You heard the Kai. Leave us.#
 DUKAT: What would you like me to do?#
@@ -1086,7 +1092,7 @@ DUKAT: Adami, I'm not the same man I was during the occupation. The Pah wraiths 
 DUKAT: When we so release the Pah wraiths from the fire caves, your hands will be stained as well.#
 DUKAT: You've been studying that for days. Perhaps I could help?#
 DUKAT: Well, have you learned what we have to do to release the Pah wraiths?#
-DUKAT: What have you been keeping from me, my sweet? What dark secrets? (A symbol glows then sends energy into his eyes. Dukat screams and Winn enters from her adjoining bedroom.)#
+DUKAT: What have you been keeping from me, my sweet? What dark secrets?#
 DUKAT: Adami, help me.#
 DUKAT: I can't see.#
 DUKAT: Adami? Are you there?#
@@ -1132,4 +1138,4 @@ DUKAT: Benjamin, please. We've known each other too long. And since this is the 
 DUKAT: And who's going to stop us?#
 DUKAT: You can't even stand up.#
 DUKAT: Are you still here?#
-DUKAT: Farewell, Adami. (Sisko rugby-tackles Dukat and they both go over into the flames with the book. Sisko pushes Dukat below him, and the Kosst Amojan then Dukat burst into flames.)#
+DUKAT: Farewell, Adami.#

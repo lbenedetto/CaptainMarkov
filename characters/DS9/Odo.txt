@@ -1,6 +1,6 @@
 ODO: All right, just stand where you are.#
 ODO: Who the hell are you?#
-ODO: I don't allow weapons on the Promenade. That includes phasers. (The next actor played Trek's very first Ferengi - Armin Shimerman is back!)#
+ODO: I don't allow weapons on the Promenade. That includes phasers.#
 ODO: The boy's in a lot of trouble.#
 ODO: I'm curious myself. The man is a gambler and a thief.#
 ODO: You are a thief.#
@@ -21,7 +21,8 @@ ODO: And I'm sure you've already tried to sell it to a few of them.#
 ODO: I'll never understand the humanoid need to couple.#
 ODO: Choose not to. Too many compromises. You want to watch the karo-net tournament, she wants to listen to music, so you compromise. You listen to music. You like Earth jazz, she prefers Klingon opera, so you compromise. You listen to Klingon opera. So here you were ready to have a nice night watching the karo-net match and you wind up spending an agonising night listening to Klingon opera.#
 ODO: What could they be going on about like that anyway?#
-ODO: Who does? (Sisko and Dax are on the upper level, and Quark makes an appreciative growl) ODO: Don't even think about it.#
+ODO: Who does?#
+ODO: Don't even think about it.#
 ODO: You might as well try to find a drink of water on the Yadozi desert. Besides I'd say our new Commander is interested in her.#
 ODO: Things change.#
 ODO: How long has he been here?#
@@ -39,7 +40,8 @@ ODO: No.#
 ODO: Double accommodations?#
 ODO: I want a record of all the passengers on board.#
 ODO: Computer, how many entries made from this terminal during the last seventy eight hours.#
-ODO: Show them to me. (Stardate 46383 Secure for departure, Depart from Alderaan spaceport, Lifeboat drill, Lunch meeting with Della Santina, Tennis holodeck 2, Dinner, Ship's concert.) ODO: Take me to stardate 46384 (Subspace conference - Gocke, Meeting with Zarro - project analysis, Lunch with Moudakis, Tennis holodeck 3, Arrival DS9, Disembark, Shopping at Promenade, Tennis holodeck 2, Meeting with Ahern, Lunch at Quark's Place, Transit Aid, Back up computer files, Prepare project review report, Odo.)#
+ODO: Show them to me.#
+ODO: Take me to stardate 46384#
 ODO: It's not. Unless the murder was committed by someone who could get through the cracks in the door. Say, a shape-shifter.#
 ODO: It's a pretty neat package. His calendar shows he was planning to meet with me at the time of the murder. No one except a shape-shifter could get into the holosuite. And since I'd obviously be called there after the body was discovered, traces of my DNA wind up at the scene of the crime.#
 ODO: Major, I have to return to my natural state every eighteen hours to regenerate. To be quite honest about it, I was in a pail in the back of my office when Ibudan was killed.#
@@ -75,7 +77,7 @@ ODO: Do that. I have some interesting questions to ask them. For example, I'm es
 ODO: You did not arrive on this ship.#
 ODO: Well, just what ship did you arrive on, Mister Lamonay S? I can't find any record of your arrival on any vessel that has docked here in the last three weeks.#
 ODO: In fact I think you did arrive on this ship, and that you spent the last few years in prison among Bajoran dissidents, one of whom I've learned was a scientist who was arrested by the Cardassians for conducting experimental research into tri-phasic cloning.#
-ODO: Killing your own clone is still murder. Commander's log, stardate 46421.5. Ibudan has been turned over to the Bajoran authorities just hours after his clone gained consciousness and began a new life. The perpetrators of the mob violence have retreated into their own business. To my knowledge, Odo has received no apologies. Meanwhile, life on the station has begun to return to normal.#
+ODO: Killing your own clone is still murder.#
 ODO: What?#
 ODO: And we have specific regulations. You can leave the weapons or leave the station. Your choice. Please make it now.#
 ODO: I'm the one giving you the choice.#
@@ -161,10 +163,11 @@ ODO: Witnessed? You mean to say you never handled the controls yourself?#
 ODO: Yeah, tell me about it.#
 ODO: I know, I know.#
 ODO: Try not to sound too disappointed.#
-ODO: Come on, come on. Station log, stardate 46425.8. With the help of Doctor Bashir's notes, Doctor Surmak was able to find an antidote for the aphasia virus. We are continuing to administer it throughout the station, and things are slowly returning to normal.#
+ODO: Come on, come on.#
 ODO: Just what do you think you're doing?#
 ODO: Computer, seal off corridor fourteen A, habitat level five.#
-ODO: Security to habitat five fourteen A. (Tosk appears when he collides with a forcefield then disappears again. Security arrives.) ODO: When you get tired of bouncing off forcefields, we can talk, all right?#
+ODO: Security to habitat five fourteen A.#
+ODO: When you get tired of bouncing off forcefields, we can talk, all right?#
 ODO: It's that security junction I'm curious about.#
 ODO: For what?#
 ODO: I'm sure you are. Now why don't we go down to my office while your friend Chief O'Brien takes a look to see just what you've been doing in there.#
@@ -245,7 +248,7 @@ ODO: There's nothing to discuss. Security is already in place.#
 ODO: If you insist. Meet me in my office at seventeen hundred hours.#
 ODO: Think nothing of it.#
 ODO: None at all.#
-ODO: Lieutenant, you're welcome to see my plans, but I assure you I've taken every precaution regarding the shipment. However, if you have any suggestions, I'd be happy to hear them. (Database services not available) What? Odo to Ops.#
+ODO: Lieutenant, you're welcome to see my plans, but I assure you I've taken every precaution regarding the shipment. However, if you have any suggestions, I'd be happy to hear them.  What? Odo to Ops.#
 ODO: Major, are we having some#
 ODO: That's impossible.#
 ODO: It makes perfect sense. Try to access the single file and you'd be stopped by a dozen different lock outs that I put in to protect it.#
@@ -339,7 +342,7 @@ ODO: How touching.#
 ODO: So, what exactly does it mean, becoming Grand Nagus?#
 ODO: Don't be ludicrous.#
 ODO: You mean they're attracted to body odour?#
-ODO: I'd be delighted. (On the way, Sisko spots a laughing Jake and Nog running along the upper level)#
+ODO: I'd be delighted.#
 ODO: When are you going to get it through your twisted little brain that we are trying to save your life.#
 ODO: I'm sure whoever tried to kill you is counting on that. You must have some suspicion who that could be?#
 ODO: But who would you say stands to benefit the most from your death?#
@@ -446,7 +449,8 @@ ODO: You could have left me behind.#
 ODO: Let me have the controls. Find us one of those toh-maire fields.#
 ODO: Find the closest toh-maire field.#
 ODO: Changing course. He's chased us everywhere else, maybe he'll follow us in there too.#
-ODO: That's what I'm counting on. ODO: Set a course along the interior perimeter.#
+ODO: That's what I'm counting on.#
+ODO: Set a course along the interior perimeter.#
 ODO: Computer, shut down all engines.#
 ODO: Maintain emergency readiness to re-engage impulse on my command.#
 ODO: On screen.#
@@ -671,8 +675,9 @@ ODO: We're running out of time, Doctor.#
 ODO: And what will happen to it then?#
 ODO: That's all I need to know. Let's go.#
 ODO: Major, wait!#
-ODO: Computer, execute Odo one. (A high pitched noise makes everyone grab their heads in pain, and a purple haze comes out of them)#
-ODO: Everyone grab hold of something secure. (Odo opens the outer doors, the purple is sucked out with the air, and Odo shuts it again.) ODO: Welcome back, everybody. Commander's log, stardate 46924.5. With nothing to contain it, the telepathic matrix has dispersed in space. Meanwhile, I'm happy to report everything and everyone aboard DS Nine has returned to normal.#
+ODO: Computer, execute Odo one.#
+ODO: Everyone grab hold of something secure.#
+ODO: Welcome back, everybody.#
 ODO: Good afternoon. I assume this is the problem?#
 ODO: Then why did you run?#
 ODO: Oh? And why would that be?#
@@ -833,7 +838,8 @@ ODO: You wouldn't be talking about Fallit Kot, who just finished eight years in 
 ODO: Trafficking in stolen goods should have been enough to get you your own cell at that Romulan camp. Unless, of course, you sold out your partner.#
 ODO: I would imagine Fallit Kot is looking for his own kind of justice now.#
 ODO: Nothing. Just a passing thought.#
-ODO: I'll do my job, Quark. ; ODO: Unfortunately.#
+ODO: I'll do my job, Quark.#
+ODO: Unfortunately.#
 ODO: Not that I'm aware of. We have something in common.#
 ODO: I don't like Quark either, but I can't let you kill him.#
 ODO: I know your history together.#
@@ -899,7 +905,7 @@ ODO: When was the last time you saw Mister Vaatrik alive?#
 ODO: You don't live in community quarters.#
 ODO: I'm sure he disposed of the weapon before he left.#
 ODO: Rom said it had been hidden there during the occupation.#
-ODO: I've been wondering the same thing. Security log, stardate 47284.1. In this job, there is no unfinished business. The assault on Quark reopens a five year old murder case that I've never, not for a moment, closed. Patience is a lost virtue to most. To me, an ally.#
+ODO: I've been wondering the same thing.#
 ODO: All right, all right, let's just relax for a moment.#
 ODO: He's not dead yet, Rom.#
 ODO: No, he's clinging to life all on his own.#
@@ -1162,7 +1168,7 @@ ODO: Do?#
 ODO: I don't believe that. You don't know them.#
 ODO: What makes you think I trust you?#
 ODO: I am not going back to the centre with you.#
-ODO: No! (Odo slams his hands onto his console. Electricity courses through them and they start to morph. We hear a large roaring creature as Mora backs out of the office)#
+ODO: No!#
 ODO: Thank you, Doctor.#
 ODO: Doctor Mora, I want to be sure you understand, I had no idea.#
 ODO: I'm sorry.#
@@ -1262,7 +1268,7 @@ ODO: Maybe, but I saw the way you held her hand when she was sad. I saw the way 
 ODO: If she's not real, what does it matter?#
 ODO: Why should it matter to you if a hologram cries?#
 ODO: Don't you see? She's real to you, and she's real to me too. They're all real. And you can't turn your back on them now.#
-ODO: Of course. (Rurigan goes back to where he was originally standing, Dax powers the device up and everyone and everything reappears.)#
+ODO: Of course.#
 ODO: Whoever it was did a fine job.#
 ODO: I would like that.#
 ODO: I'm glad.#
@@ -1383,10 +1389,10 @@ ODO: They all behave themselves when I'm in charge.#
 ODO: Meal break is over. You're wanted in the bar.#
 ODO: You're wanted in the bar by Mister Sisko.#
 ODO: You're not accustomed to this workload, are you, Doctor? You have much to learn. It's a shame this is going to be your last night on the job.#
-ODO: Engineering, we have a thorium leak down here! Release the security locks! (The workers dash for the exit. Bashir gets a phaser off a guard and shoots Odo, who explodes in a messy splash.)#
+ODO: Engineering, we have a thorium leak down here! Release the security locks!#
 ODO: What's going on here?#
 ODO: Secretary Kubus. Last I heard, you were living on Cardassia.#
-ODO: Welcome back. You're under arrest. (As Kubus is lead away to cries of 'Good', he and Winn look straight at each other.)#
+ODO: Welcome back. You're under arrest.#
 ODO: There was quite a mob gathering out there. I had to call in extra security to disperse it.#
 ODO: I could say the same for you. Secretary Kubus, special liaison between the Cardassian occupation forces and their pawns in the Bajoran government.#
 ODO: Recognized by the Cardassians.#
@@ -1539,7 +1545,7 @@ ODO: Yes, Major.#
 ODO: I'm not sure. But I know one thing. She's right, I am home.#
 ODO: How long do they plan on making us wait here?#
 ODO: I finally return home and they still treat me like an outsider.#
-ODO: You? KIRA I'm the one they don't trust, not you.#
+ODO: You?#
 ODO: Yes, of course.#
 ODO: In what way?#
 ODO: Why would I do that?#
@@ -1574,7 +1580,7 @@ ODO: That's odd. My people have no need for doors. They dislike taking humanoid 
 ODO: Then who could be using it?#
 ODO: Interesting. Judging from this locking mechanism the purpose of this door is not to keep people out, but rather to keep whatever's on the other side in.#
 ODO: We'll see.#
-ODO: Step back, Major. (The door opens to reveal waiting Jem'Hadar soldiers who escort them down a tunnel into#
+ODO: Step back, Major.#
 ODO: What have you done to them?#
 ODO: I'm glad to hear it.#
 ODO: I don't understand. You knew about this?#
@@ -1602,7 +1608,7 @@ ODO: I just thought you'd like to know who it was that you killed in self defenc
 ODO: His name was Kozak. By all accounts a thoroughly disreputable character, a notorious drunkard.#
 ODO: Isn't it? I thought that you would also like to know that Kozak wasn't just some drifter passing through. In fact, he was the head of a Klingon family. A rather powerful family from what I can gather. Now, do you want to change your story or do you want to wait for Kozak's family to show up and ask to see the Ferengi bartender who killed him?#
 ODO: I see.#
-ODO: Just because I don't need food, Commander, doesn't mean I'm not interested in its preparation. I'm fascinated by the humanoid preoccupation with eating. May I? (Sisko gives Odo the bowl and whisk while he turns whatever is sizzling in the pan.)#
+ODO: Just because I don't need food, Commander, doesn't mean I'm not interested in its preparation. I'm fascinated by the humanoid preoccupation with eating. May I?#
 ODO: Do you find something amusing, Major?#
 ODO: If your memory and these prison records don't agree, then one of them must be wrong. Either the records or#
 ODO: After ten years?#
@@ -1621,7 +1627,7 @@ ODO: It's not really finished yet. This is just the start.#
 ODO: I want to make this room into a place where I can explore what it truly means to be a shape-shifter.#
 ODO: I don't use the bucket anymore. I've kept it to reminder of how I used to be. But now, when I need to regenerate, I simply revert to my gelatinous state anywhere in these rooms. Here, I can experiment with different shapes, textures. I can bring in various forms to emulate, and I can do it in private.#
 ODO: No, please. You're always welcome here, Major.#
-ODO: Stop! Stay where you are! (The runner lunges at Odo, who lets him pass through his body then reforms facing him. The young man submits to Odo.)#
+ODO: Stop! Stay where you are!#
 ODO: What sort of specialists are we talking about, Commander?#
 ODO: So they're going to study him like a laboratory specimen.#
 ODO: So he'll be a well treated specimen.#
@@ -1683,7 +1689,7 @@ ODO: No, they're not.#
 ODO: Let us go, Commander. I'm leaving of my own accord. I'll take the boy back to his people then return in the runabout. If he boards the Constellation when it arrives, he'll either kill a lot of innocent people or be killed himself.#
 ODO: I don't believe he could injure a Changeling.#
 ODO: Commander Sisko was trying to do what's best for you. He was trying to help you.#
-ODO: Does that include me? Station log, supplemental. Starfleet has expressed disappointment over what it considers a missed opportunity to learn more about the Jem'Hadar. However, I am happy to report that with the boy gone, life on the station has returned to normal.#
+ODO: Does that include me?#
 ODO: Major, about the boy. You were right.#
 ODO: My Cardassian access codes are still valid. I'm attempting to override the security programme but it's going to take some time. I'm not sure my clearance level is high enough.#
 ODO: Acknowledged.#
@@ -1691,7 +1697,7 @@ ODO: Not now, Quark. I'm busy.#
 ODO: Not unless you have a level nine Cardassian security clearance.#
 ODO: I only have levels one through six.#
 ODO: Leave me alone, Quark.#
-ODO: I mean we're trapped. I wouldn't be surprised if the entire station is locked down. (Another of those doorway forcefields, this time on the inside of the office.)#
+ODO: I mean we're trapped. I wouldn't be surprised if the entire station is locked down.#
 ODO: This forcefield isn't just protecting the door, it goes through the bulkheads, the ceiling, the deck. There's nowhere for me to go.#
 ODO: No, I'm stuck here with you. Believe me, a far worse fate. And stay away from my computer.#
 ODO: Give me that before you hurt yourself. I checked the entire security complex. There's no way out.#
@@ -2139,7 +2145,8 @@ ODO: I find it odd that a conduit running behind Garak's shop should just happen
 ODO: One possibility is that the Romulans hired the Flaxian to kill Garak and then killed the Flaxian when he failed in his mission.#
 ODO: What do you mean?#
 ODO: Now, you dragged me into this investigation and you are now going to cooperate with me.#
-ODO: You blew up your own shop, Garak! ODO: It's a Romulan warbird.#
+ODO: You blew up your own shop, Garak!#
+ODO: It's a Romulan warbird.#
 ODO: You're going to attack the Dominion, aren't you. You're going to stage a first strike against them before they can come into the Alpha Quadrant.#
 ODO: Garak, this is the man who put you into exile. This is the man who just two days ago tried to have you killed.#
 ODO: There are forcefields around the bulkheads and a guard outside the door. Feels like a prison cell to me.#
@@ -2166,7 +2173,7 @@ ODO: But you don't want it to end, do you, Garak? Isn't this what you've been dr
 ODO: Home. I want to go home.#
 ODO: No, not the station. Home with my people.#
 ODO: I did, but they're still my people. I tried to deny it, I tried to forget, but I can't. They're my people and I want to be with them in the Great Link.#
-ODO: And now you've found it. I hope it's useful. (Garak turns off the Contraption and Odo swooshes into the bucket, with all his little flakes joining him. Garak puts his head in his hands.)#
+ODO: And now you've found it. I hope it's useful.#
 ODO: I take it that the attack on the Founders is not proceeding according to plan.#
 ODO: For once, Garak, I agree with you.#
 ODO: Why are you doing this?#
@@ -2188,7 +2195,7 @@ ODO: Likewise, Major.#
 ODO: I just read the report that you wrote and I wanted to thank you.#
 ODO: For not mentioning my desire to return to my people.#
 ODO: As do I. Quark has expressed an interest in renting this space if you're not going to be using it.#
-ODO: He mentioned something about an Argelian massage facility.#
+ODO: He mentioned something about an#
 ODO: I tend to agree. But do I think he would approve of a tailor's shop.#
 ODO: Garak, I was thinking that you and I should have breakfast together sometime.#
 ODO: I don't.#
@@ -2229,7 +2236,7 @@ ODO: Though I don't fully understand this humanoid obsession with rank and title
 ODO: Communications systems standing by.#
 ODO: Captain, we're receiving a priority one distress signal from Barisa Prime. Audio only.#
 ODO: We've lost contact.#
-ODO: It's no use, Captain. They're gone. Captain's log, supplemental. We've been unable to re-establish contact with Barisa Prime. Therefore I've no choice but to assume we are at war with the Tzenkethi.#
+ODO: It's no use, Captain. They're gone.#
 ODO: Captain. I'm having trouble getting through to Starfleet Command. There seems to be a power fluctuation in the communications system.#
 ODO: So you're going to scan all the members of the crew for tetryon particles?#
 ODO: He's still here. He won't leave until he's completed his mission.#
@@ -2253,10 +2260,10 @@ ODO: When blood leaves a humanoid body it's still blood. But when any part of me
 ODO: Inside.#
 ODO: Where's the changeling? I lost him in the conduits.#
 ODO: But you forgot to bring a fork. Anyone could have gotten that information.#
-ODO: No! (The Founder knocks out O'Brien as the blast doors come down. Odo grabs him.)#
-ODO: I don't think so. (Odo morphs his hands into the founder as his body becomes solid again. The founder goes gooey and Odo picks him up and pushes him against the warp core. The energy discharge throws Odo off as the founder fries.)#
+ODO: No!#
+ODO: I don't think so.#
 ODO:  You have to regain control of the ship.#
-ODO: I never wanted to harm you. (The changeling whispers something to Odo then turns to dark green ash.)#
+ODO: I never wanted to harm you.#
 ODO: I'm fine. I hope I'm not interrupting.#
 ODO: Captain, there's something you need to know. The changeling, before he died, he whispered something to me.#
 ODO: He said, you're too late. We are everywhere.#
@@ -2437,7 +2444,7 @@ ODO: They all take effect on the fourteenth.#
 ODO: Do you think there's any connection?#
 ODO: We should get them off Earth as soon as possible.#
 ODO: Good night, Captain.#
-ODO: Sisko's not the one you should be worried about. I am. Come here. Odo disarms the Chief and neck-pinches the Security woman unconscious.)#
+ODO: Sisko's not the one you should be worried about. I am. Come here.#
 ODO: Well, it wasn't that difficult, considering I helped you revise the security measures for this building.#
 ODO: The Defiant is on its way to Earth.#
 ODO: It was just as you suspected. They even found the officer responsible. Lieutenant Arriaga. They've put him on the Defiant.#
@@ -2545,7 +2552,7 @@ ODO: Odo to Worf.#
 ODO: We're heading back down to the Docking Ring.#
 ODO: Level two D.#
 ODO: Verify your security code and I'll release the controls to you.#
-ODO: Controls aren't responding. (Odo morphs his arms into steel piledrivers which push out the turbolift sides so it starts to rub against the side of the shaft and eventually comes to a halt.)#
+ODO: Controls aren't responding.#
 ODO: I'm afraid so, sir. Apparently they tapped into the comm. system with a voice synthesizer.#
 ODO: We don't know that they did that, sir.#
 ODO: I turned over control of the turbolift without verifying his code.#
@@ -2620,7 +2627,7 @@ ODO: Good. A man with a death wish is a danger not only to himself, but to the r
 ODO:  Take him to a holding cell.#
 ODO: I'll need a statement.#
 ODO: Unfortunately, these things happen.#
-ODO: Really? Now let me see.  Stardate 46235.7, Ferengi privateers led by DaiMon Lurin boarded and seized control of the Enterprise using two salvaged Klingon birds of prey. Stardate 45349.1. Berlinghoff Rasmussen, a petty criminal impersonating a scientist, committed numerous acts of theft against the crew of the Enterprise. Shall I continue?#
+ODO: Really? Now let me see.#
 ODO: I know these incidents are the exception rather than the rule, but if security breaches like these could happen on the flagship of the Federation, imagine the difficulty of maintaining security at an open port such as DS Nine.#
 ODO: So do I, but I'm afraid you're just going to have to get used to it.#
 ODO: You wanted to see me.#
@@ -2702,7 +2709,7 @@ ODO: Yes!#
 ODO: Yes, I can feel it, too.#
 ODO: I didn't have a mother.#
 ODO: Lwaxana? Your replicator isn't really broken, is it?#
-ODO: I'm sorry if I made you feel unwelcome. It's just my way. Lwaxana? (She's fallen asleep on him so he morphs his lower half into a pillow for her and his arm into a blanket.)#
+ODO: I'm sorry if I made you feel unwelcome. It's just my way. Lwaxana?#
 ODO: Ah, ha. Got you that time.#
 ODO: Well, now you do.#
 ODO: Are you sure you're up to it?#
@@ -2724,7 +2731,8 @@ ODO: Is that a problem?#
 ODO: Well, I trust I can count on you to accept me even if I just stand there and read last week's Criminal Activity Report.#
 ODO: You mean I have to convince Jeyal that I want to marry you? Ah.#
 ODO: So glad you could make it.#
-ODO: If you don't mind, this is a very special moment for me. (Lwaxana enters, also in blue and carrying a lit globe. She stands on a podium in front of the window.) ODO: In keeping with Tavnian tradition, I stand before you, here in my home, among my worldly possessions and declare my wish to add this woman to that which is mine. She is as kind as she is beautiful, and I want her to be part of my life from this day on. Marry me, Lwaxana.#
+ODO: If you don't mind, this is a very special moment for me.#
+ODO: In keeping with Tavnian tradition, I stand before you, here in my home, among my worldly possessions and declare my wish to add this woman to that which is mine. She is as kind as she is beautiful, and I want her to be part of my life from this day on. Marry me, Lwaxana.#
 ODO: Lwaxana is not just any woman. Not to me.#
 ODO: Before I met her, my world was a much smaller place. I kept to myself. I didn't need anyone else and I took pride in that. The truth is, I was ashamed of what I was, afraid that if people saw how truly different I was they would recoil from me. Lwaxana saw how different I was and she didn't recoil. She wanted to see more. For the first time in my life, someone wanted me as I was. And that changed me forever. The day I met her, is the day I stopped being alone. And I want her to be part of my life from this day on. Marry me, Lwaxana. Let me into your light. Lwaxana?#
 ODO: I say for all to hear that this woman is mine. If anyone challenges my claim to her, let them do so now.  I present to you my beloved wife.#
@@ -2762,7 +2770,7 @@ ODO: I doubt they'll find it. Eddington anticipated every contingency. I'm sure 
 ODO: Don't pretend you don't know what this is about.#
 ODO: Tampering with the station's comm. system is a class three offence.#
 ODO: I'm sure the magistrate will take that into consideration when he calculates your fine.#
-ODO: Major, here's a preliminary list of the stolen equipment. Bashir, Dax and Sisko arrive on scene.)#
+ODO: Major, here's a preliminary list of the stolen equipment.#
 ODO: So far, eighteen confirmed dead, thirty one missing and over a hundred wounded.#
 ODO: Frankly, I'm surprised that something like this hasn't happened sooner. Being at the edge of the wormhole makes Deep Space Nine a tempting target.#
 ODO: It could be a trap.#
@@ -2782,7 +2790,8 @@ ODO: So if I order you to leave me alone, you will?#
 ODO: Well maybe they do, but I don't love them.#
 ODO: How?#
 ODO: No. But I am ready to end this conversation.#
-ODO: If that's the case, we'd better come up with a new plan. (Six renegade Jem'Hadar shimmer in and attack with blade weapons. Worf stabs one with his mek'leth before he can kill Sisko. Soon after, the fight is over and Sisko is checking for pulses.) ODO: We lost Ramirez, too.#
+ODO: If that's the case, we'd better come up with a new plan.#
+ODO: We lost Ramirez, too.#
 ODO: Let's go, Dax.#
 ODO: It looks like we got out just in time.#
 ODO: Captain, where do you want me to put all this furniture?#
@@ -2821,9 +2830,10 @@ ODO: Seven years of playing lab rat for him was quite enough. Besides, you have 
 ODO: Doctor, I think we both know where I have to go.#
 ODO: There doesn't seem to be much choice. You have to take me back to my people. The only ones who can help me now are the Founders.#
 ODO: Not now, Quark. I'm busy.#
-ODO: Care to come along? QUARK Are you kidding? I expect to own this station by the time you get back. With you gone, profits from smuggling alone should go up sixty percent. ODO: Well, don't get used to it. I'll be back before you know it, making your life miserable.#
+ODO: Care to come along?#
+ODO: Well, don't get used to it. I'll be back before you know it, making your life miserable.#
 ODO: Count on it.#
-ODO: That won't be necessary. (The crowd stand aside in respect as he makes his slow way to the airlock.)#
+ODO: That won't be necessary.#
 ODO: You were a gardener on Romulus?#
 ODO: As I recall, Proconsul Merrok was poisoned.#
 ODO: I'll let you know when I need rest, Doctor. A gardener at the Cardassian embassy on Romulus? Fascinating.#
@@ -2852,7 +2862,7 @@ ODO: Nevertheless, they're my people and I intend to accept their judgement.#
 ODO: Staring at it isn't going to make it change shape.#
 ODO: I'll be sure to remember that.#
 ODO: Except for my face.#
-ODO: They left it this way on purpose. To make sure I'd never forget what I was. And what I've lost. Captain's log, stardate 49962.4. After leaving our Jem'Hadar escorts at the edge of Dominion space, the Defiant has returned home. But for Constable Odo, I'm afraid the journey has just begun.#
+ODO: They left it this way on purpose. To make sure I'd never forget what I was. And what I've lost.#
 ODO: It's fine. Though it does make me feel a bit#
 ODO: It's not the uniform. I think I'm hungry?#
 ODO: I can hardly wait. Well, you've done your job. Now I have to do mine.#
@@ -2871,7 +2881,7 @@ ODO: Captain. It's him.#
 ODO: During the Link, I sensed that the other changelings were trying to hide things from me. Faces, names. One of them was him.#
 ODO: I'm saying that he's one of them. Gowron, the head of the Klingon Empire, is a changeling.#
 ODO: Listen, Captain. Do you hear it?#
-ODO: Soothing, isn't it? You know, before I became a solid I never heard that. I didn't have a sense of taste so I never paid much attention to food or drink. I had no idea how seductive they could be. Would you like me to get you a glass?#
+ODO: Soothing, isn't it? You know, before I became a solid I never heard that. I didn't have a sense of taste so I never paid much attention to food or drink. I had no idea how seductive they could be.  Would you like me to get you a glass?#
 ODO: I'm not.#
 ODO: You know, at first I found the whole process of ingestion disgusting. But now that I've gotten used to it, I find eating and drinking to be quite comforting. It's one of the few things that you, that we humanoids have control over.#
 ODO: One has to find something to do with one's time. For some reason, my work isn't as fulfilling as it used to be.#
@@ -2893,13 +2903,13 @@ ODO: Leaving? For how long?#
 ODO: You all right?#
 ODO: Now what?#
 ODO: How long before Gowron gets here?#
-ODO: In that case, we might as well drink up. it's a pity it doesn't have any bubbles. (The bloodwine in the barrel is now a lot lower. Sisko is having an arm-wrestling match with one of the drunks.)#
+ODO: In that case, we might as well drink up. it's a pity it doesn't have any bubbles.#
 ODO: It's really not too bad, except for the taste.#
 ODO: We'll have come a long way for nothing.#
 ODO: Q'apla!#
-ODO: Get away from me or you won't live to see Gowron. (he elbows the drunk) I'll take that.#
+ODO: Get away from me or you won't live to see Gowron.  I'll take that.#
 ODO: The spoils of war from the raid on Archanis.#
-ODO: I'll make sure he gets it. (Drums start up. Enter Gowron and guards, to great jubilation. As Gowron stands on the stage, Odo goes to set up his emitter.)#
+ODO: I'll make sure he gets it.#
 ODO: This is my place. Step down.#
 ODO: That won't be necessary.#
 ODO: Gowron is the one who's fooling you. And as long as you follow him, the Empire will be nothing but a pawn of the Founders.#
@@ -2907,7 +2917,7 @@ ODO: No one but the Founders.#
 ODO: Once he's dead, he'll revert to his natural form and all doubt will be eliminated.#
 ODO: I have a better question. Why isn't Gowron letting his bodyguards kill Worf? I'll tell you why. Klingon honour. A concept you should be very familiar with. My people, on the other hand, don't care about honour. How did you put it? There will be no honourable combat, no formal challenges. Hardly the words of a Klingon. Tell me, General, did Gowron destroy the polaron emitters or did you?#
 ODO: Worf, stop!#
-ODO: Martok's the changeling. (Martok morphs a tentacle to strangle Odo. Sisko fires his disrupter. The others join in and Martok turns into goo then explodes.)#
+ODO: Martok's the changeling.#
 ODO: That seems to have been their plan.#
 ODO: Thank you.#
 ODO: That's right. Talk. The last thing the Dominion wants.#
@@ -2943,7 +2953,7 @@ ODO: But Jake is eighteen years old. Does your father still worry about you?#
 ODO: Ah. I never realised how stressful it is to be a parent. I have to say, I don't think it's for me.#
 ODO: What about Ajilon Prime? Without reinforcements#
 ODO: We're assuming that he came aboard the Defiant for the express purpose of gaining access to the Orb.#
-ODO: The younger Darvin's mission was to derail Federation colonisation efforts by poisoning a shipment of grain which was, which is being stored aboard the station. However, eighteen hours from now, James Kirk will expose him and he will be arrested. (That's the plot of  Trouble with Tribbles, so here's the link for you. Now, let's just enjoy our 30th anniversary Trek show.)#
+ODO: The younger Darvin's mission was to derail Federation colonisation efforts by poisoning a shipment of grain which was, which is being stored aboard the station. However, eighteen hours from now, James Kirk will expose him and he will be arrested.#
 ODO: From what we've been able to piece together, he spent the next hundred years eking out a meager living posing as a human merchant. Then in a final indignity, he was trapped in Cardassian space by the Klingon invasion.#
 ODO: It shouldn't take long to search. Security isn't as tight as it is on a starship.#
 ODO: I'll have a raktajino.#
@@ -2965,7 +2975,8 @@ ODO: Who ordered raktajino?#
 ODO: Klingons?#
 ODO: Mister Worf?#
 ODO: I think we've got bigger problems than a case of mistaken identity.#
-ODO: What are you doing? (The three are attacked by 'Klingons'. Only Odo stays out of trouble, along with a few bystanders and Jones who helps himself to drinks. Finally security run in and Jones gets his stolen drink taken back by the bartender. Odo spots a familiar face outside the door and helps Worf.) ODO: It's Darvin!#
+ODO: What are you doing?#
+ODO: It's Darvin!#
 ODO: Welcome back, Mister Darvin.#
 ODO: Worf, hold on. I hope you realise you'll be facing some very serious charges when we get back.#
 ODO: I take it whatever your plan is, you've already set it in motion.#
@@ -3038,7 +3049,6 @@ ODO: What do you want to know?#
 ODO: I wouldn't know. He was gone by the time I came aboard the station.#
 ODO: You're implying that I should know the answers, that I'm holding back information?#
 ODO: I don't know!#
-ODO: It doesn't have to happen again#
 ODO: We've got to find another way out of here.#
 ODO: I don't know.#
 ODO: I don't know.#
@@ -3056,7 +3066,7 @@ ODO: Why aren't I with them?#
 ODO: They haven't done anything. They don't belong here.#
 ODO: But this isn't what happened. It wasn't these people.#
 ODO: No! I'm not going to let this happen again! Not again!#
-ODO: You can't execute them. You don't even belong here. I do. (Suddenly everyone is back in their proper clothes, and there is weapon fire nearby. The executions are taking place on another crossover bridge, with another Odo watching. Their eyes meet then the historical characters vanish.)#
+ODO: You can't execute them. You don't even belong here. I do.#
 ODO: That's exactly how it happened seven years ago.#
 ODO: Yes. I was Chief of Security on the Promenade. I was the one who charged those men with a crime they didn't commit, and I was the one who turned them over to Dukat. Three days after the executions there was another bombing on the Promenade, identical to the one that almost killed Dukat. Timor, Ishan and Jillur were innocent. All the evidence was there. The inconsistencies in the reports of the soldiers who arrested them, a pattern of bombings, the ballistics. It was all there from the beginning but I was too busy, too concerned with maintaining order and the rule of law. I thought of myself as the outsider, the shape-shifter who cared for nothing but justice. It never occurred to me that I could fail, but I did. And I never wanted anyone to know the truth. That seven years ago, I allowed three innocent men to die.#
 ODO: The Link? How is that possible? I'm a solid now.#
@@ -3097,7 +3107,7 @@ ODO: It's gotten louder too. I can hear it now. What could it be?#
 ODO: It's a bomb.#
 ODO: Let's hope there is a next time. I'm going to get a transporter lock on this thing and beam it out of here.#
 ODO: What do you suggest? We wait for it to explode?#
-ODO: I hope this works. (The transporter beam starts and BOOM! Quark and Odo are sent flying and red alert sounds. Monitors are all static.)#
+ODO: I hope this works.#
 ODO: Don't be so sure about that. Comm. system's down, navigational array's failing, environmental controls are badly damaged. We're losing atmosphere.#
 ODO: Now we find someplace to land.#
 ODO: It's either that or wait for our lungs to explode in the vacuum of space. I'm picking up a class-L planet on long range scanners.#
@@ -3137,7 +3147,8 @@ ODO: There are no beetles, Quark.#
 ODO: There're no slugs, either. No slugs, no beetles, no worms, no snails. Nothing but rocks and trees and we can't eat any of it.#
 ODO: You are not going to collapse. We're almost to the tree line. After that, we've only got a few more hours of climbing left before we can set up the transmitter.#
 ODO: More like six.#
-ODO: Come on. (But they've reach a ridge and see there's at least one more ridge and valley between them and their goal.) ODO: Forget about six hours. It's more like six days.#
+ODO: Come on.#
+ODO: Forget about six hours. It's more like six days.#
 ODO: Quark.#
 ODO: Quark!#
 ODO: Fine. Then count to yourself. I don't want to hear it any more.#
@@ -3164,9 +3175,10 @@ ODO: What do you hate?#
 ODO: Well that's fine with me, because I hate you too. You're nothing but a petty thief.#
 ODO: Lecher.#
 ODO: Fraud.#
-ODO: Failure. (They start to wrestle each other, shouting Fascist and Failure until they fall down the slope.) ODO: Quark?#
+ODO: Failure.#
+ODO: Quark?#
 ODO: Are you all right?#
-ODO: I'm not. My leg is broken. (Yes, it really shouldn't be bent like that. Quark manages to splint it with branches and also make a travois.)#
+ODO: I'm not. My leg is broken.#
 ODO: Stop looking at the leg. You'll pass out again.#
 ODO: I should be the one struggling to stay conscious. I'm the one who's in excruciating pain.#
 ODO: Quark, there's no way you're going to be able to drag me up that mountain.#
@@ -3263,7 +3275,7 @@ ODO: What are you talking about?#
 ODO: It's not dead.#
 ODO: It's sick.#
 ODO: That won't be necessary.#
-ODO: It's not going anywhere, Doctor. It doesn't know how. It's just a baby. (After the opening credits, the blue goo is on top of a pulsing devise, and just a bit is now orange.)#
+ODO: It's not going anywhere, Doctor. It doesn't know how. It's just a baby.#
 ODO: Centuries ago, my people sent a hundred of us out into the galaxy so we could learn about other races. When I was found, I looked very much like this.#
 ODO: Like a humanoid child, it'll grow. Its mass will increase as its shape-shifting abilities develop.#
 ODO: When I was first discovered, I didn't know what I was. I had no memory of where I was from. I didn't even know I had the ability to mimic other forms.#
@@ -3298,10 +3310,12 @@ ODO: I have my own ideas about how to teach the changeling.#
 ODO: Exactly.#
 ODO: You don't think I can do it, do you?#
 ODO: Well, in that case, why don't you stay and observe?#
-ODO: This is a sphere. It's one of the most basic forms in nature. (Odo puts the marble into the baby's dish and sends it rolling around the edge.) ODO: See how it rolls? Interesting, isn't it? You're in my light. Now, this won't hurt a bit. Here we are. Here we go. Yeah, yeah.#
+ODO: This is a sphere. It's one of the most basic forms in nature.#
+ODO: See how it rolls? Interesting, isn't it? You're in my light. Now, this won't hurt a bit. Here we are. Here we go. Yeah, yeah.#
 ODO: Now, this is also a sphere. Feel its symmetry, the softness of its shape, the sameness. Now you try.#
 ODO: There we are. I understand that you prefer to remain shapeless. Believe me, I remember how relaxing it could be. But you have to learn to take other forms. That's what changelings do. It can be immensely rewarding. I remember the first time Doctor Mora here coerced me into taking the shape of a cube with one of his electrostatic gadgets. Once I did it, and he turned the infernal thing off, I was perfectly content to stay a cube for hours. It was fascinating, all those right angles. Of course, he had other plans. Before I knew it, he had me spinning around in a centrifuge. Well, if you're not interested in a sphere right now, we can always try a cube. What do you think? All right, now, this is a pyramid. It's one of the most mysterious shapes in nature.#
-ODO: Now Mister Pyramid, here comes Mister Cube. (And later still, Odo scans baby in a cylinder, and lying flat. He shows the cylinder itself in a mirror, then starts introducing other shapes such as a spiral. Odo lifts the cylinder off and baby spreads out but with a small edge. Later, Mora is scanning baby when Odo enters.) ODO: What are you doing?#
+ODO: Now Mister Pyramid, here comes Mister Cube.#
+ODO: What are you doing?#
 ODO: Well, maybe I was anxious to grow up so I could get out of there.#
 ODO: I'm trying to gain its confidence, not teach it tricks.#
 ODO: You make it sound like it's my fault.#
@@ -3407,7 +3421,7 @@ ODO: That's all I meant.#
 ODO: Bedroom eyes?#
 ODO: Not really. If anyone bothers you again, let me know. I'm Security Chief Odo. My office is just across the Promenade.#
 ODO: Well, I have to go. To work. In my office.#
-ODO: Exactly. (Odo nearly walks into the wall. He leaves and we see the assassins sitting at a nearby table.)#
+ODO: Exactly.#
 ODO: Gagh. The Klingons have been getting regular shipments of it since the day they were posted here.#
 ODO: Nothing.#
 ODO: Well, I'm. Actually I'm. I'm never mind.#
@@ -3429,7 +3443,7 @@ ODO: I'm listening.#
 ODO: I see.#
 ODO: All right. I'll take you to him. We'll sort the rest out later.#
 ODO: According to the access log, he's inside.#
-ODO: It's Security. Hello? (Arissa checks the bedroom. Odo spots a dent in the carpet, moves the chair and finds the burn marks)#
+ODO: It's Security. Hello?#
 ODO: Oh, yes he is. What's left of him.#
 ODO: The residue we found contains Idanian DNA. I think it's safe to assume it came from Tauvid Rem. Do you have any idea why someone would want to kill him?#
 ODO: What makes you say that?#
@@ -3611,7 +3625,7 @@ ODO: I'd appreciate that. Major, there's something you ought to know.#
 ODO: I've been thinking about asking out you to dinner.#
 ODO: I could tell. You've looked a little uncomfortable around me lately.#
 ODO: Which is why I wanted you to know I'm not going to do it. No dinner invitations, no flowers, no attempts at changing the nature of our relationship. Until the current crisis has passed, we both need our minds to be clear, to be free of any unnecessary distractions.#
-ODO: Well, I don't know about you, but I feel more comfortable already. Captain's log, stardate 50975.2. The next Jem'Hadar convoy is due in five days, but our efforts to mine the wormhole have already provoked a response from the Dominion, who have sent their Vorta Ambassador, Weyoun, to speak with me.#
+ODO: Well, I don't know about you, but I feel more comfortable already.#
 ODO: What I am is useless. My entire staff has been evacuated to Bajor.#
 ODO: Ha. I'm sure if the Jem'Hadar board the station, you'll make yourself useful.#
 ODO: You'd shoot a man in the back?#
@@ -3903,7 +3917,8 @@ ODO: Oh, I don't sing.#
 ODO: What crowd?#
 ODO: No, I don't play the piano.#
 ODO: You don't need me. The piano's doing all the work.#
-ODO: Style. (So we are treated to the whole song, and Odo settles into the role of jazz pianist. At the end he gets a great round of applause.) ODO: No, it's nothing. Cool!#
+ODO: Style.#
+ODO: No, it's nothing. Cool!#
 ODO: No, I don't drink.#
 ODO: Very bright.#
 ODO: The lights kept me from seeing the audience. I suppose that's why I wasn't nervous.#
@@ -3963,7 +3978,7 @@ ODO: Never mind. I do enjoy my work, but I'm afraid I've used it as an excuse to
 ODO: It is, isn't it? You're sure you're not hungry?#
 ODO: Only one thing we can do. Dance with me.#
 ODO: Just stay close.#
-ODO: No, that's good. (They settle into it, and Odo throws her into a turn. Giggles.);#
+ODO: No, that's good.#
 ODO: It's amazing what you can learn in a holosuite.#
 ODO: I don't think that's possible.#
 ODO: No, no, I meant it would be difficult for you to leave the holosuite.#
@@ -3991,12 +4006,12 @@ ODO: I wanted to thank you for all your help.#
 ODO: Some other time.#
 ODO: Whatever makes you happy.#
 ODO: That is good news. The question is, will the Romulans be willing to leave Benzar after the war is over? Once they capture territory, they very rarely give it up.#
-ODO: Somebody has to. Besides, everyone expects me to be dour and suspicious. I don't want to disappoint them.#
+ODO: Somebody has to. Besides, everyone expects me to be dour and suspicious. I don't want to disappoint them. KIRA: If they only knew the real you.#
 ODO: That is the real me. At least as far as everyone else is concerned.#
 ODO: This one is anything but vague, and Bajoran prophecies have an odd way of coming true.#
 ODO: True.#
 ODO: So, what does the Captain say about this?#
-ODO: What was that? (Across the upper Promenade, we see the wormhole goes WHOOSH through a window. The station shakes again and the wormhole closes.)#
+ODO: What was that?#
 ODO: Don't have to do what?#
 ODO: I don't mind. In fact, I rather enjoy it. You eat with such gusto. Most of the time.#
 ODO: It seems to me that if the Prophets want the Bajoran people to follow a given path, they should provide more specific directions.#
@@ -4008,7 +4023,7 @@ ODO: So what did happen?#
 ODO: Nothing.#
 ODO: We believe you, Captain.#
 ODO: It's possible the power drain is related to this energy discharge you saw.#
-ODO: I think we've found the source of the power fluctuations. When I tried to talk to her, she ignored me. (Possessed Kira comes over to Sisko and Winn. A strong wind blows down the Promenade. Lights flicker and glasses explode. When Kira speaks, her voice has an echo.)#
+ODO: I think we've found the source of the power fluctuations. When I tried to talk to her, she ignored me.#
 ODO: I do. I know how important her faith is to her and I have no doubt that she would allow the Prophets to use her as their instrument.#
 ODO: Hurry along now, hurry along.#
 ODO: There's room. I'm going to check the Promenade for stragglers.#
@@ -4170,7 +4185,8 @@ ODO: Ball one.#
 ODO: Ball two.#
 ODO: Foul ball. Strike two.#
 ODO: Ball three.#
-ODO: Time. (Worf checks the scoreboard. The Logicians didn't get any runs in the 5th.) ODO: Let's go, batter.#
+ODO: Time.#
+ODO: Let's go, batter.#
 ODO: Strike three!#
 ODO: It caught the outside corner.#
 ODO: Gentlemen, you are trying my patience.#
@@ -4538,7 +4554,7 @@ ODO: She thought I might be useful.#
 ODO: As soon as Garak can locate Damar.#
 ODO: I don't know.#
 ODO: Do you really think it'll make a difference to the Cardassians that you've been given a Starfleet commission? You're still a Bajoran.#
-ODO: I was afraid you were going to say that. (He morphs into civilian clothes.) Well?#
+ODO: I was afraid you were going to say that.  Well?#
 ODO: This is how I appeared when I worked for the Cardassians.#
 ODO: Unusual in what way?#
 ODO: No. We have a mission to accomplish. I intend to see it through.#
@@ -4557,7 +4573,7 @@ ODO: I'm glad we're in agreement.#
 ODO: You did the right thing, Nerys. The Dominion is our enemy, not Rusot.#
 ODO: Cardassians do love the heat.#
 ODO: I'll come with you.#
-ODO: I'll hold you to that. (Kira leaves. Odo starts to pick up a barrel and notices some dry 'skin' on his hand. After the break he morphs it away just before Kira returns.)#
+ODO: I'll hold you to that.#
 ODO: Believe what?#
 ODO: Nothing. I was just worried that you might have had another run in with Rusot.#
 ODO: The raid on the Tevak shipyard was successful. I penetrated the Operations Centre, disabled the security protocols. The rest of the team sabotaged the dilithium storage bunkers. An hour after we left, the entire facility was vaporised.#
@@ -4602,7 +4618,7 @@ ODO: I love you, Nerys.#
 ODO: I understand, Doctor. You've done everything you could, more than I would've thought possible and I appreciate it.#
 ODO: Thank you, but right now I'd simply like to be alone.#
 ODO: If you mean it's going to be painful, just say so.#
-ODO: All right then. Go ahead. (Bashir injects him. Odo writhes in pain and ripples, then settles down to his proper smooth self.)#
+ODO: All right then. Go ahead.#
 ODO: Finally. The last time I spoke with Kira, she wanted to know when I'd be rejoining her.#
 ODO: Didn't I?#
 ODO: But how did I get it?#
@@ -4665,4 +4681,4 @@ ODO: Nerys, please tell everyone I'll miss them.#
 ODO: Even Quark. But most of all#
 ODO: You always said I looked good in a tuxedo.#
 ODO: Then this is the way I want you to remember me.#
-ODO: Goodbye, Nerys. (Odo walks backwards into the Link and waves farewell whilst morphing into it. His pool of orange spreads, turning the rest of the Link back from green to health.)#
+ODO: Goodbye, Nerys.#

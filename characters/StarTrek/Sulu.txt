@@ -4,7 +4,7 @@ SULU: Sir, contact with an object. It's moving toward us. No visual contact yet.
 SULU: It's coming at light speed.#
 SULU: Object changing direction, too, sir. Keeps coming at us.#
 SULU: It's slowing down, Mister Spock.#
-SULU: Bridge to all decks. Condition alert. All decks, condition alert. Captain Kirk to the Bridge. Captain's Log, star date 1512.2. On our third day of star mapping, an unexplained cubical object blocked our vessel's path. On the Bridge, Mister Spock immediately ordered general alert. My location, Sickbay. Quarterly physical check.#
+SULU: Bridge to all decks. Condition alert. All decks, condition alert. Captain Kirk to the Bridge.#
 SULU: You try to cross brains with Spock, he'll cut you to pieces every time.#
 SULU: Each of its edges measures one hundred seven metres. Mass, a little under eleven thousand metric tons.#
 SULU: Yes, sir. Helmsman to Engine Room, stand by. All decks alert. We're going to try pulling away.#
@@ -28,7 +28,7 @@ SULU: Four minutes, thirty seconds.#
 SULU: One minute. I knew he would.  If anyone's interested, thirty seconds.#
 SULU: Eleven, ten seconds, nine, eight, seven, six, five, four, three, two, one.#
 SULU: Something's going on, Captain.#
-SULU: We're being towed, sir. Captain's Log, star date 1514.1. The Enterprise is in tow. To this point, no resistance has been offered. My plan? A show of resignation. Balok's tractor beam has to be a heavy drain of power on his small ship. Question. Will he grow careless?#
+SULU: We're being towed, sir.#
 SULU: Our speed is down to point six four of light.#
 SULU: Yes, sir.#
 SULU: It's a strain, Captain. Engines are overloading.#
@@ -67,7 +67,7 @@ SULU: Why do people have to call inanimate objects she, like she's a fast ship.#
 SULU: Hello, Green.#
 SULU:  Take it easy. Calm down. Very sensitive.#
 SULU: Wait a minute, I'll walk along.#
-SULU: Bridge. Sulu. Trouble on deck nine, section two. We need a medical team. Captain's log, Stardate 1513.8. I am now certain that the violent death of my crewmen was caused by some strange life-form. [McCoy's quarters]#
+SULU: Bridge. Sulu. Trouble on deck nine, section two. We need a medical team.#
 SULU: GQ three now secured except for decks five, seven, and ten. Come in, please.#
 SULU: Go to Engineering now. Run through file photos of the crewmen there.#
 SULU: Keep in mind if you find him, he's not Crewman Green. The Captain reports Crewman Green is dead.#
@@ -98,7 +98,7 @@ SULU: Richelieu, at last.#
 SULU: For honour, Queen, and France!#
 SULU: Ah.#
 SULU: I'll protect you, fair maiden.#
-SULU: Foul Richelieu. (distracted by Uhura's escape, Kirk is able to grab Sulu and Spock does a neck-pinch)#
+SULU: Foul Richelieu.#
 SULU:  I was on the Bridge. Hey Doc, what am I doing here?#
 SULU: Doc, will you let me out of here? I'm all right.#
 SULU: Course laid in, sir.#
@@ -145,14 +145,14 @@ SULU: But Captain, two degrees means they'll be overlooking more than a dozen te
 SULU: Yes, sir.#
 SULU: Captain, course set for Makus Three.#
 SULU: Space normal, sir?#
-SULU: Captain, there's something there on screen, at Taurus Two. (On the viewscreen, a long trail of yellow crosses the green of the planet)#
+SULU: Captain, there's something there on screen, at Taurus Two.#
 SULU: No. It's holding a lateral line. There it is again. Holding steady, Captain.#
 SULU: Whatever it was, Captain, it just burned up in the atmosphere.#
 SULU: Aye, aye, sir. Warp factor one.#
 SULU: Beautiful, beautiful. No animals, no people, no worries. Just what the doctor ordered. Right, Doctor?#
 SULU: Do you think the Captain will authorise shore leave here?#
 SULU: He'd like it.#
-SULU: To get some cell-structure records. A blade of grass, a bush, a tree, a flower petal. With these, we can tell the whole planet's biology. (As Sulu crouches down behind some pampas grass, McCoy turns and looks straight at a white rabbit in a check jacket, yellow waistcoat, and looking at a gold pocket-watch.)#
+SULU: To get some cell-structure records. A blade of grass, a bush, a tree, a flower petal. With these, we can tell the whole planet's biology.#
 SULU: What is it? What's the matter?#
 SULU: See what? I don't see anything. What is it, Doc?#
 SULU: Target shooting, Captain. Isn't it a beauty? Haven't got anything like this in my collection.#
@@ -165,14 +165,14 @@ SULU: That's not all. So's my phaser.#
 SULU: Yes, sir.  Look. Someone beaming down from the bridge.#
 SULU: We're stranded down here, Captain?#
 SULU:  Captain! Captain!#
-SULU: You'd better have a look at this, sir. (the knight is a plastic dummy) I don't understand.#
+SULU: You'd better have a look at this, sir.  I don't understand.#
 SULU: It's like a dummy, Captain. It couldn't be alive.#
 SULU: Still operating, sir.#
 SULU: Captain!#
 SULU: He's gone. Dragged off.#
 SULU: Sir.#
 SULU: Play? As advanced as you obviously are, and you still play?#
-SULU: Forty degrees. (He reaches for the switch, and sways as if dizzy, then stands up and vanishes)#
+SULU: Forty degrees.#
 SULU: Where are we?#
 SULU: Is he kidding?#
 SULU: Captain, where could he possibly come from? Who is this maniac?#
@@ -199,7 +199,7 @@ SULU: All banks fired, sir.#
 SULU: Clear, Captain, but you#
 SULU: Yes, sir. Photon torpedoes negative, Captain. I'm warping out of orbit.#
 SULU: Aye, aye, sir. Our screens are down. We can beam you up now, sir.#
-SULU: Aye, aye, sir. Captain's log, supplement. We have beamed back to the Enterprise and immediately set out in pursuit of the alien vessel. It appears to be headed toward a largely unexplored section of the galaxy.#
+SULU: Aye, aye, sir.#
 SULU: They must be aware we're after them, sir. They've gone to warp six also.#
 SULU: Aye, aye, sir.#
 SULU: Alien ship maintaining interval, Captain. Now at warp seven.#
@@ -211,7 +211,8 @@ SULU: Captain!#
 SULU: The alien. It's slowing down. Warp five, four, two. It's going sublight, sir. Sir? It's stopped dead in space.#
 SULU: No, sir. They're just dead out there.#
 SULU: Yes, sir. Unmoving.#
-SULU: Range is one eight one zero. One seven six zero. Range is one seven zero zero. One six four zero. Range is one five nine zero. One five five zero and closing, sir. (Suddenly, the ship decelerates, and everyone hangs on to something as the lights dim.) SULU: Warp six, warp five, four, warp three, warp one. Sublight, Captain. We're stuck, Captain. It's impossible, but. It's impossible.#
+SULU: Range is one eight one zero. One seven six zero. Range is one seven zero zero. One six four zero. Range is one five nine zero. One five five zero and closing, sir.#
+SULU: Warp six, warp five, four, warp three, warp one. Sublight, Captain. We're stuck, Captain. It's impossible, but. It's impossible.#
 SULU: He's gone.#
 SULU: Captain.#
 SULU: It's impossible, but there's Sirius over there when it should be here. And Canopus. And Arcanis. We're. All of a sudden, we're clear across the galaxy, five hundred parsecs from where we are I mean, were. I mean#
@@ -228,7 +229,7 @@ SULU: Shall I issue phasers?#
 SULU: Yes, sir.#
 SULU: Mister Spock ran them through. They were the right ones. We got them all.#
 SULU: Yes, sir.#
-SULU: Yes, sir. Captain's Log, Stardate 3114.1. We must make an attempt to break free of this time, or we and our reluctant passengers will remain its prisoners. All we have is a theory and a few facts.#
+SULU: Yes, sir.#
 SULU: Warp factor three, sir.#
 SULU: Sir, our speed is increasing. We're travelling at over warp eight.#
 SULU: It's maximum now, sir. She's fighting it.#
@@ -241,13 +242,13 @@ SULU: The Captain gave us an order. We've got to find some clue.#
 SULU: Scouting party to Enterprise.#
 SULU: Captain, beam us up quick. Emergency.#
 SULU: Mister O'Neil, stand tight. They'll beam us up any minute.#
-SULU: O'Neil! (One of the robed figures reaches Sulu and points his hollow stave at him. Sulu stiffens, then relaxes with a smile on his face. The transporter takes him away.)#
+SULU: O'Neil!#
 SULU: What? Who?#
 SULU: You. You're not of the Body.#
 SULU: You, you did it. They knew we were Archons. These are the clothes they wear, not these.#
 SULU: Landru. Landru.#
 SULU: They're wonderful. They're the sweetest, friendliest people in the universe. It's paradise, my friend. Paradise.#
-SULU: Paradise. Paradise. Captain's Log. Stardate 3156.2. While orbiting planet Beta Three trying to find some trace of the starship Archon that disappeared here a hundred years ago, a search party consisting of two Enterprise officers were sent to the planet below. Mister Sulu has returned, but in a highly agitated mental state. His condition requires I beam down with an additional search detail.#
+SULU: Paradise. Paradise.#
 SULU: Relieving you.#
 SULU: Is it possible that they're not?#
 SULU: Whatever doesn't look right, whatever that is. When it comes to farms, I wouldn't know what looked right or wrong if it were two feet from me.#
@@ -310,7 +311,8 @@ SULU: Phaser banks are ready, sir.#
 SULU: Captain?#
 SULU: Not unless I am, too. Captain, that thing's a giant hand.#
 SULU: Hard about. We can't seem to get away from it.#
-SULU: All engines reverse. (Everyone is thrown forward as the ship is grabbed by the hand and stopped in its tracks.) SULU: We're dead still, Captain. Helm doesn't answer. We can't move. Captain's log, stardate 3468.1. While approaching Pollux Four, a planet in the Beta Geminorum system, the Enterprise has been stopped in space by an unknown force of some kind.#
+SULU: All engines reverse.#
+SULU: We're dead still, Captain. Helm doesn't answer. We can't move.#
 SULU: Aye, aye, sir.#
 SULU: Applying thrust, sir. No results, Captain. We're stuck tight.#
 SULU: Aye, aye, sir. Standing by.#
@@ -338,11 +340,12 @@ SULU: It's closing on us, Mister Spock.#
 SULU: Aye, sir.#
 SULU: It's veering off, back on course for the next solar system. The Rigel colony, sir.#
 SULU: Aye, aye, sir.#
-SULU: Aye, aye, sir. (Spock stands completely still, like a statue, as Enterprise arrives back at the planet-killer.)#
+SULU: Aye, aye, sir.#
 SULU: Closing fast.#
 SULU: Aye, aye, sir.#
 SULU: Direct hit. It just bounced off.#
-SULU: We can't break loose! SPOCK; We need more power. SULU: We haven't got it. We're being pulled inside.#
+SULU: We can't break loose!#
+SULU: We haven't got it. We're being pulled inside.#
 SULU: Aye, sir. We still can't move.#
 SULU: We're loose, Commodore.#
 SULU: Standing by, sir.#
@@ -369,7 +372,7 @@ SULU: Captain?  Who ever he is, he sure talks gloomy.#
 SULU: With an armful of this stuff, I wouldn't be afraid of a supernova.#
 SULU: I wonder who it is we're not supposed to be afraid of.#
 SULU: Captain, shields just snapped on. Something heading in at multiwarp speeds.#
-SULU: It's going to hit. (Everyone gets thrown around a lot, and the lights go out for a short while.)#
+SULU: It's going to hit.#
 SULU: Aye, sir.#
 SULU: We're losing power, sir.#
 SULU: Photon torpedoes armed, sir.#
@@ -378,7 +381,8 @@ SULU: Torpedo away.  Direct hit.#
 SULU: Sir, they've fired another.#
 SULU: Aye, sir.#
 SULU: Mister Chekov, phaser setting for planetary target A.#
-SULU: Port batteries locked. (Uhura enters, and goes to her station. Sulu goes over to her. He has a very nasty scar down his face.) SULU: Still no interest, Uhura? Hmm? I could change your mind.#
+SULU: Port batteries locked.#
+SULU: Still no interest, Uhura? Hmm? I could change your mind.#
 SULU: Is the captain here? Is Spock here? When the cat's away#
 SULU: Phasers Locked on target A, Captain. Approaching optimum range. Commence fire, Captain? Captain?#
 SULU: Shall I correct orbit to new firing position?#
@@ -391,7 +395,7 @@ SULU: Correct. It's your play. I hope you succeed, because the order would fall 
 SULU:  Now you're making sense.#
 SULU: Any time's a good time.#
 SULU: You take a lot of chances, Lieutenant.#
-SULU: Mister Spock has orders to kill you, Captain. He will succeed, apparently. You will also appear to have killed him after a fierce battle. Regrettable, but it will leave me in command. (Then one of the henchmen disappears, and another. Marlena presses the button again and Sulu is alone. Kirk disarms and knocks him out easily.)#
+SULU: Mister Spock has orders to kill you, Captain. He will succeed, apparently. You will also appear to have killed him after a fierce battle. Regrettable, but it will leave me in command.#
 SULU: Standard orbit, Captain.#
 SULU: You already gave that command, sir.#
 SULU: You'll live.#
@@ -425,6 +429,7 @@ SULU: Turning on three oh seven degrees, mark eight. Being executed now, sir.#
 SULU: Sir, the instruments won't respond.#
 SULU: Sir, we're picking up speed. Warp five, six. Warp seven, sir.#
 SULU: I can't, sir. All the controls are jammed.#
+SULU: The reading's growing stronger, Captain. Coming from a star system directly ahead.#
 SULU: Planet dead ahead, Captain. Becoming visual.#
 SULU: All power gone, sir.#
 SULU: All normal. No damage at all.#
@@ -451,6 +456,7 @@ SULU: Phasers firing.#
 SULU: Phasers firing. A hit.#
 SULU: The other three ships are holding station out of range. The Excalibur looks dead.#
 SULU: All phaser power gone, sir.#
+SULU: Approaching planet Omega Four, sir. Object ahead. Another vessel in planet orbit, Captain.#
 SULU: It's the USS Exeter, sir.#
 SULU: The sensors indicate no damage to the vessel, Captain.#
 SULU: Sir, this is Lieutenant Sulu in temporary command of the Enterprise.#
@@ -520,7 +526,7 @@ SULU: What happened?#
 SULU: No change from last reading, sir.#
 SULU: I've got it again. An ion trail matching when we first saw her.#
 SULU: Warp six.#
-SULU: No mistake, sir. Captain's log, stardate 5431.4. for fifteen hours and twenty minutes we have been following the ion trail of the spaceship that has Spock's brain. Time left to us, eight hours and forty minutes.#
+SULU: No mistake, sir.#
 SULU: Captain, I've lost the trail.#
 SULU: It's gone, sir. A sudden deaction shift.#
 SULU: But that ship, Captain, either it was many years ahead of us or the most incredible design fluke in history.#
@@ -604,19 +610,19 @@ SULU: Beings intelligent enough to have destroyed the Enterprise?#
 SULU: The basic substance of this planet is an alloy of diburnium-osmium. It couldn't have evolved naturally.#
 SULU: But Captain, where are the people who made it? Why can't we see them?#
 SULU: I'll take the first watch, sir.#
-SULU: Aye, sir. (Sulu sets up the tricorder on a rock ledge, and leaves it beeping away to itself.)#
+SULU: Aye, sir.#
 SULU: Who are you?#
 SULU: How do you know this? Where did you get this information? Are you from this planet?#
 SULU: Then the planet is hollow. Who killed Lieutenant D'Amato? All right. The captain will want to talk to you. That way. Move!#
 SULU: What do you want?#
 SULU: You were on the Enterprise. Keep back! Stop or I'll shoot! I don't want to have to kill a woman.#
-SULU: Captain Kirk! Captain Kirk! (As he backs away, Sulu falls over a stone. Losira manages to brush his shoulder before he gets away, screaming in pain, and Kirk steps in front of her.)#
+SULU: Captain Kirk! Captain Kirk!#
 SULU: Don't let her touch you, Captain! That's how D'Amato died. Phasers won't stop her.#
 SULU: How can such people be, Captain? Such evil and she's so, so beautiful.#
 SULU: She just touched me. How could it happen so fast?#
 SULU: Captain, I'm happy the way it turned out.#
 SULU: I feel fine, Captain.#
-SULU: But Captain, how does she know about us? Does she read our minds? Phaser on overload!#
+SULU: But Captain, how does she know about us? Does she read our minds?  Phaser on overload!#
 SULU: Captain, I'm getting that strange magnetic sweep again, from zero to off the scale.#
 SULU: She must be somewhere.#
 SULU: I'd rather be on the Enterprise, sir.#
@@ -636,7 +642,7 @@ SULU: No one knows how he'll react under pressure, Lokai.#
 SULU: Yes, but it happened way back in the twentieth century. There's no such primitive thinking today.#
 SULU: Ready here.#
 SULU: Locked in, sir.#
-SULU: Ready here. (This time the oceans and land masses are very clearly seen. Not a cloud in the sky.)#
+SULU: Ready here.#
 SULU: Controls operating. The Enterprise is responding as always. Captain, it's beautiful.#
 SULU: But their planet's dead. Does it matter now which one's right?#
 SULU: We can't beam anybody down, sir. The force field on the planet is in full operation, and all forms of transport into the asylum dome are blocked off.#
@@ -654,9 +660,9 @@ SULU: Aye, sir.#
 SULU: With the captain lost, sir, that's the best they could come up with?#
 SULU: I don't think he's even noticed she has a brain.#
 SULU: Captain, I'm picking up a high intensity reading.#
-SULU: No, sir. An engineer touches Scott's arm to attract his attention.)#
+SULU: No, sir.#
 SULU: Captain, it's approaching at warp factor two point six and accelerating.#
-SULU: Shields activated, Captain. (The bright thing 'invades' the ship with sparkles. Only Mira does not shield her eyes from it. Then the sparkles withdraw.)#
+SULU: Shields activated, Captain.#
 SULU: No, it was speech that was affected. I couldn't utter a sound.#
 SULU: Captain, I've plotted the storm's path.#
 SULU: On its present course, it will hit Memory Alpha planetoid as it did us.#
@@ -690,6 +696,7 @@ SULU: Captain, I get no response from controls. We're going off course.#
 SULU: Captain, it seems as though someone else is running the ship.#
 SULU: Captain, we're now leaving the Neutral Zone. Bearing into Romulan space!#
 SULU: I think so, sir.#
+SULU: All observation stations, take final readings. This'll be our last orbit.#
 SULU: I'm reading it now, Mister Spock. It seems to indicate artificial power being generated in factor seven quantities.#
 SULU: Completing final orbit, sir.#
 SULU: Aye, aye, sir.#
@@ -697,7 +704,7 @@ SULU: Perfect oxygen-nitrogen atmosphere.#
 SULU:  All ship's systems going dead. Switch to reserve power. All decks report status.#
 SULU: Bridge to Engineering. Come in. What's happening to our power? Bridge to Engineering, report.#
 SULU: No answer yet on what caused it. They're standing by.#
-SULU: Captain! How can we warn him? (Khan throws a rock at Spock, and a fight starts until the bad guys run off)#
+SULU: Captain! How can we warn him?#
 SULU: We should be on warp power within thirty minutes, sir.#
 SULU: Aye, aye, sir.#
 SULU: Warp factor two, sir.#

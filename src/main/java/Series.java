@@ -59,26 +59,6 @@ public enum Series {
 		return name;
 	}
 
-	public Series getNextSeries() {
-		canGetNextEpisode = true;
-		switch (this) {
-			case TOS:
-				return TNG;
-			case TNG:
-				return DS9;
-			case DS9:
-				return VOY;
-			case VOY:
-				return ENT;
-			default://ENT
-				return null;
-		}
-	}
-
-	public boolean hasNextSeries() {
-		return !(this == ENT);
-	}
-
 	/**
 	 * Check if the current episode is the last episode of the series
 	 *

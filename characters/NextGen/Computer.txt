@@ -7,7 +7,7 @@ COMPUTER: Captain's log#
 COMPUTER: Programme desired location.#
 COMPUTER: Time period?#
 COMPUTER: File or access code.#
-COMPUTER: Enter when ready. Captain's personal log. I'm entering the ship's holodeck, where images of reality can be created by our computer. Highly useful in crew training, highly enjoyable when used for games and recreation.#
+COMPUTER: Enter when ready.#
 COMPUTER: Current setting saved.#
 COMPUTER: Working. Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.#
 COMPUTER: Enter when ready. When ready. When ready.#
@@ -49,6 +49,7 @@ COMPUTER: Life.#
 COMPUTER: Warning. Input overload.#
 COMPUTER: Magnification deactivated.#
 COMPUTER: Translation request being patched.#
+COMPUTER:#
 COMPUTER: Silicon. Germanium.#
 COMPUTER: Gallium arsenide.#
 COMPUTER: Cadmium selenide sulfide.#
@@ -56,7 +57,7 @@ COMPUTER: Water, impurities, sodium salts.#
 COMPUTER: Probability positive.#
 COMPUTER: Last question on the hyperspace physics test. If the matter and antimatter tanks on a Galaxy class starship are nine tenths depleted, calculate the intermix ratio necessary to reach a starbase a hundred light years away at warp factor eight. Begin.#
 COMPUTER: Time elapsed. You now have one hour free before the next test.#
-COMPUTER: Time elapsed. )Chang enters)#
+COMPUTER: Time elapsed.#
 COMPUTER: Evacuate immediately. Sixty five seconds to seal off.#
 COMPUTER: Thirty seconds to seal off.#
 COMPUTER: Twenty seconds to seal off.#
@@ -112,7 +113,7 @@ COMPUTER: Affirmative. You may enter.#
 COMPUTER: Source material on that subject is extensive. Please specify.#
 COMPUTER: Physical humour, cerebral, or general raconteur.#
 COMPUTER: Twenty third century Stan Orega specialised in jokes about quantum mathematics.#
-COMPUTER: Accessing. (A list of names is displayed, including David Livingston, Mike Gray, John Mason, Tracy Torme, Dan Curry, Wendy Neuss, Sam Freedle, Diane Overdiek,; Ernie Dyer, Merri Howard, Robert Metoyer, and finally - Ronald D Moore)#
+COMPUTER: Accessing.#
 COMPUTER: Programme installation complete. You may enter.#
 COMPUTER: Programme complete. Enter when ready.#
 COMPUTER: Current location, Ten forward.#
@@ -122,7 +123,7 @@ COMPUTER: Shuttlebay three force field activated.#
 COMPUTER: Zero three two two exactly.#
 COMPUTER: Working.#
 COMPUTER: Riker, William T, identified. Ready.#
-COMPUTER: Working. (Then up pops 'emergency manual control' and Data's off-switch location is displayed. Riker is fascinated at this new information, then realises the implication)#
+COMPUTER: Working.#
 COMPUTER: Verify. Lieutenant Commander Data. Current assignment, USS Enterprise. Starfleet Command Decoration for Valour and#
 COMPUTER: Valour and Gallantry, Medal of Honour with Clusters, Legion of Honour, the Star Cross.#
 COMPUTER: Verify, Maddox, Bruce, Commander. Current assignment, Associate Chair of Robotics, Daystrom Technological Institute. Major papers#
@@ -130,11 +131,11 @@ COMPUTER:  Point oh four percent and increasing.#
 COMPUTER: Warning, resonant field applied.#
 COMPUTER: Zero.#
 COMPUTER: Working.#
-COMPUTER: No further entries conforming to search parameters. (Picard goes to the Bridge, but the door doesn't open for him at first go)#
+COMPUTER: No further entries conforming to search parameters.#
 COMPUTER: Kandar qui. Kandar pro. Kandar kija. Kandar sis. Kandar exen.#
 COMPUTER: Kandar nien, kandar cobar,#
 COMPUTER: Kandar konyen.#
-COMPUTER: Kandar jet, kandar se, kandar tor, kandar eir, kandar (Things start to go bang, so he steps through onto#
+COMPUTER: Kandar jet, kandar se, kandar tor, kandar eir, kandar#
 COMPUTER: Accessing.#
 COMPUTER: Correct. Klingon Rite of Ascension Chamber.#
 COMPUTER: Type of mount? Andorian Zabathu, Klingon Sark#
@@ -153,13 +154,14 @@ COMPUTER: Unable to complete transmission.#
 COMPUTER: Atmospheric activity interfering with RF signal.#
 COMPUTER: The Captain is not on the ship.#
 COMPUTER: Captain Picard is in Ten Forward.#
+COMPUTER: Twenty four, twenty three#
 COMPUTER: Twenty two. twenty one, twenty#
 COMPUTER: Eighteen, seventeen#
 COMPUTER: Nine, eight, seven, six, five#
 COMPUTER: Distress beacon used by the European Hegemony.#
 COMPUTER: Old Earth calendar, 2123 until 2190.#
 COMPUTER: Negative.#
-COMPUTER: Working. (The usual list of staff names appear as commanders of various vessels, including Melinda Snodgrass and Gene Roddenberry)#
+COMPUTER: Working.#
 COMPUTER: Programme complete. You may enter when ready.#
 COMPUTER: Please define.#
 COMPUTER: Do you wish to leave the holodeck and re-enter, or continue from this point?#
@@ -177,7 +179,7 @@ COMPUTER: No control malfunction has been recorded.#
 COMPUTER: The food slot is functioning properly.#
 COMPUTER: The food slot is functioning properly.#
 COMPUTER: Pawn to Bishop Four. Knight to King's Rook Three. Bishop to Queen's Bishop Four. Knight to Knight Five. Queen's Knight to King Two.#
-COMPUTER: Queen to Bishop Three. Bishop to Bishop Two. LAFORGE: Impulse engines are down.#
+COMPUTER: Queen to Bishop Three. Bishop to Bishop Two.#
 COMPUTER: Affirmative. The opposing force grew in direct proportion to the power output of the Enterprise.#
 COMPUTER: That is correct.#
 COMPUTER: Doctor Leah Brahms, engineer. Graduate of the Daystrom Institute Theoretical Propulsion Group. Galaxy class starships, team seven, junior member.#
@@ -269,12 +271,12 @@ COMPUTER: Enter code.#
 COMPUTER: Security code intact for all specified inquiries and orders.#
 COMPUTER: Deactivation of command function overrides requires Alpha Two clearance.#
 COMPUTER: Alpha Two clearance recognised. Please enter security code.#
-COMPUTER: Programme complete. Enter when ready. Holodeck] (A man in a TOS movie era uniform is standing in the otherwise empty holodeck)#
+COMPUTER: Programme complete. Enter when ready.#
 COMPUTER: Antimatter containment positive. Warp drive within normal parameters.#
 COMPUTER: There is no Doctor Dalen Quaice aboard the Enterprise.#
 COMPUTER: There is no Doctor Dalen Quaice aboard the Enterprise.#
 COMPUTER: There is no Doctor Hill or Doctor Selar aboard the Enterprise.#
-COMPUTER: Body temperature thirty seven point two degrees, (continues in background)#
+COMPUTER: Body temperature thirty seven point two degrees,#
 COMPUTER: Doctor Beverly Crusher.#
 COMPUTER: Affirmative.#
 COMPUTER: That is not a valid question.#
@@ -288,7 +290,7 @@ COMPUTER: Negative.#
 COMPUTER: One hundred twenty three days.#
 COMPUTER: Acknowledged.#
 COMPUTER: State new destination or coordinates.#
-COMPUTER: There is no Tau Alpha C listed on current star maps. Captain's log, stardate 44162.8. At the direction of the Traveller, the Enterprise is returning to Starbase one three three and the precise position where the subspace bubble was formed.#
+COMPUTER: There is no Tau Alpha C listed on current star maps.#
 COMPUTER: Sensors indicate it to be a mass energy field seven hundred and five metres in diameter.#
 COMPUTER: Affirmative.#
 COMPUTER: Sensors cannot penetrate the field.#
@@ -362,8 +364,9 @@ COMPUTER: Select either visual interactive or verbal interactive.#
 COMPUTER: You have twenty seconds to respond to each question. Level of difficulty will increase as you progress. Proceed when ready.#
 COMPUTER: List the resonances of the subquantum states associated with transitional relativity.#
 COMPUTER: In alphabetical order.#
-COMPUTER: Your time has expired. COMPUTER: The fifth resonance is#
-COMPUTER: List the field patterns associated with warp modulation in order of decreasing energy. (behind him, through the forward window, something green and mean uncloaks)#
+COMPUTER: Your time has expired.#
+COMPUTER: The fifth resonance is#
+COMPUTER: List the field patterns associated with warp modulation in order of decreasing energy.#
 COMPUTER: Warning. Shield failure.#
 COMPUTER: Please verify command with necessary protocol.#
 COMPUTER: Verify priority clearance.#
@@ -477,15 +480,15 @@ COMPUTER: Programme stored.#
 COMPUTER: Diagnostic cycle will be complete in twenty seconds.#
 COMPUTER: Logs accessed.#
 COMPUTER: The logs have been deleted.#
-COMPUTER: Unknown. Captain's log, supplemental. The Qu'Vat has arrived with Commander Morag. We are preparing to question him regarding his involvement in the murder of Lieutenant Rocha.#
+COMPUTER: Unknown.#
 COMPUTER: Commander Morag is in his quarters. Lieutenant Uhnari is not aboard the Enterprise.#
 COMPUTER: Lieutenant Uhnari transported to Relay Station forty seven at eighteen thirty hours.#
 COMPUTER: Sixteen eleven hours.#
 COMPUTER: Authorisation acknowledged.#
-COMPUTER: Auto-shutdown sequence in progress. Defensive systems offline. Baryon sweep begins in eight minutes. (Picard spots an open panel with the fibre-optic cable cut and#
+COMPUTER: Auto-shutdown sequence in progress. Defensive systems offline. Baryon sweep begins in eight minutes.#
 COMPUTER: Auto-shutdown sequence in progress. Primary power offline in one minute.#
 COMPUTER: Primary power offline in thirty seconds.#
-COMPUTER: Final warning. Primary power offline in ten seconds. (Picard sets the transporter controls, the baryon sweep powers up, and everything powers down just as he gets onto the transporter pad)#
+COMPUTER: Final warning. Primary power offline in ten seconds.#
 COMPUTER: Library computer is temporarily offline.#
 COMPUTER: Library systems have been allocated to Stellar Cartography.#
 COMPUTER: Replicator systems are offline at the request of#

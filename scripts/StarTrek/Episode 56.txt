@@ -1,11 +1,9 @@
 Episode Number: 56
 The Star Trek Transcripts - Spectre Of The Gun
-Spectre
-Of The Gun
-Stardate:
-4385.3
+Spectre Of The Gun
+Stardate: 4385.3
 Original Airdate: 25 Oct, 1968
-  [Bridge]
+[Bridge]
 SPOCK: On mark eight and closing. 
 KIRK: Steady as she goes. Phaser crew, stand by. 
 (There's a strange object on the viewscreen.) 
@@ -13,15 +11,11 @@ CHEKOV: Range, forty five thousand kilometres, Captain.
 SPOCK: Fascinating. 
 CHEKOV: Range, forty three thousand kilometres and closing. 
 KIRK: Sensor readings? 
-SPOCK: A mechanical device of unknown properties. I read no life forms
-aboard. 
+SPOCK: A mechanical device of unknown properties. I read no life forms aboard. 
 KIRK: Analysis, Science Officer? 
-SPOCK: Obviously, it intends to intercept us. It has made several
-course changes corresponding with our own. 
-CHEKOV: Thirty eight thousand and closing. Thirty five thousand and
-closing. 
-SPOCK: Unclear whether it intends to attack or merely communicate with
-us. 
+SPOCK: Obviously, it intends to intercept us. It has made several course changes corresponding with our own. 
+CHEKOV: Thirty eight thousand and closing. Thirty five thousand and closing. 
+SPOCK: Unclear whether it intends to attack or merely communicate with us. 
 KIRK: Thank you, Science Officer. Come to one eight one mark seven. 
 CHEKOV: Aye, aye, sir. 
 (The object swings back into the centre of the viewscreen.) 
@@ -29,136 +23,88 @@ KIRK: It's staying with us.
 SPOCK: Indeed. 
 KIRK: Full stop, Mister Chekov. Hold your position. 
 CHEKOV: Aye, sir. 
-MELKOT [OC]: Aliens, you have encroached on the space of the Melkot.
-You will turn back immediately. This is the only warning you will
-receive. 
+MELKOT [OC]: Aliens, you have encroached on the space of the Melkot. You will turn back immediately. This is the only warning you will receive. 
 SPOCK: Vulcan, Captain. 
 KIRK: English. 
 CHEKOV: It was Russian, sir. Every word. 
 UHURA: No, Captain. It was Swahili. 
 KIRK: Interesting. Telepathy. 
 SPOCK: Unquestionably. Most impressive. 
-KIRK: Our orders are very clear. We're to establish contact with the
-Melkotians at all costs. 
+KIRK: Our orders are very clear. We're to establish contact with the Melkotians at all costs. 
 SPOCK: True telepaths can be most formidable, and we have been warned. 
 KIRK: What previous contacts have been made with the Melkotians? 
-SPOCK: No recorded contacts. If they ever ventured into space, they
-evidently withdrew immediately. 
+SPOCK: No recorded contacts. If they ever ventured into space, they evidently withdrew immediately. 
 KIRK: Lieutenant, hailing frequencies. 
 UHURA: Tied in, sir. 
-KIRK: This is Captain James T. Kirk of the starship Enterprise,
-representing the United Federation of Planets. We've contacted your
-buoy and understand its message. We hope that you will understand that
-our intent is to establish peaceful relations with you. Lieutenant,
-answer? 
+KIRK: This is Captain James T. Kirk of the starship Enterprise, representing the United Federation of Planets. We've contacted your buoy and understand its message. We hope that you will understand that our intent is to establish peaceful relations with you. Lieutenant, answer? 
 UHURA: Nothing, sir. Clear on all frequencies. 
 KIRK: Try again. 
 UHURA: Still no response, sir. 
 KIRK: Opinion, Mister Spock? 
-SPOCK: I prefer being a welcomed guest, Captain, but there seems to be
-little choice. 
-KIRK: None whatsoever. Mister Chekov, deflectors at full intensity.
-Increase speed to achieve planet fall as scheduled. 
+SPOCK: I prefer being a welcomed guest, Captain, but there seems to be little choice. 
+KIRK: None whatsoever. Mister Chekov, deflectors at full intensity. Increase speed to achieve planet fall as scheduled. 
 CHEKOV: Aye, sir. Standard orbit in five minutes. 
 (The buoy does not obstruct them.) 
-KIRK: Lieutenant Uhura, advise Doctor McCoy and Engineer Scott to meet
-me in the transporter room. Mister Spock, Mister Chekov, let's go find
-out what it is they're afraid of.
-Captain's Log, stardate 4385.3. We have transported
-down to the Melkotian planet and have encountered conditions which are
-completely contrary to what we were prepared for.
+KIRK: Lieutenant Uhura, advise Doctor McCoy and Engineer Scott to meet me in the transporter room. Mister Spock, Mister Chekov, let's go find out what it is they're afraid of. 
+Captain's Log, stardate 4385.3. We have transported down to the Melkotian planet and have encountered conditions which are completely contrary to what we were prepared for. 
 [Planet surface]
 (The landing party are surrounded by dense fog.) 
 KIRK: Spock, what is this? 
-SPOCK: Unknown, Captain. Sensor readings give no indication of fog like
-conditions in this area. 
-MCCOY: I knew it had to happen. It's a fine time for that transporter
-mechanism to break down. 
+SPOCK: Unknown, Captain. Sensor readings give no indication of fog like conditions in this area. 
+MCCOY: I knew it had to happen. It's a fine time for that transporter mechanism to break down. 
 SCOTT: Impossible, Doctor McCoy. My transporter was working perfectly. 
 CHEKOV: Then what are we doing here? 
 KIRK: Tricorder readings, Mister Spock? 
-SPOCK: Unknown, Captain. Unlike Mister Scott's transporter, this unit
-is not functioning. 
-KIRK: Then let's get out of here. Kirk to Enterprise. Kirk to
-Enterprise. Come in. 
-SPOCK: No use, Captain. Obviously none of our devices will function.
-Apparently that Melkotian buoy 
-MELKOT: (a pair of red eyes in the fog) Aliens. Our warning was plain.
-You have disregarded it. You shall be punished. You, Captain Kirk, the
-disobedience was on your orders. Yours is the responsibility. Yours
-shall be the pattern of your death. 
+SPOCK: Unknown, Captain. Unlike Mister Scott's transporter, this unit is not functioning. 
+KIRK: Then let's get out of here. Kirk to Enterprise. Kirk to Enterprise. Come in. 
+SPOCK: No use, Captain. Obviously none of our devices will function. Apparently that Melkotian buoy 
+MELKOT: (a pair of red eyes in the fog) Aliens. Our warning was plain. You have disregarded it. You shall be punished. You, Captain Kirk, the disobedience was on your orders. Yours is the responsibility. Yours shall be the pattern of your death. 
 KIRK: We come in peace, but we'll defend ourselves if necessary. 
-MELKOT: You are outside. You are disease. The disease must be
-destroyed. Your plea has been heard, and sentence has been pronounced.
-It is done. 
+MELKOT: You are outside. You are disease. The disease must be destroyed. Your plea has been heard, and sentence has been pronounced. It is done. 
 [Street]
-(And suddenly they are standing in a Wild West
-street, with six-shooters and holsters instead of phasers.) 
+(And suddenly they are standing in a Wild West street, with six-shooters and holsters instead of phasers.) 
 SPOCK: Fascinating. 
 CHEKOV: Where are we now, Captain? 
-(The sheriff's office is just the front of the building, no sides, back
-or roof.) 
+(The sheriff's office is just the front of the building, no sides, back or roof.) 
 KIRK: Spock, evaluation? 
-SPOCK: Obviously this represents the Melkotian's concept of an American
-frontier town, circa 1880. 
+SPOCK: Obviously this represents the Melkotian's concept of an American frontier town, circa 1880. 
 MCCOY: It's just bits and pieces. It's incomplete. 
 SPOCK: Perhaps the Melkotians have insufficient data about this era. 
-KIRK: Or perhaps this is all they require to complete the pattern of
-our death. 
+KIRK: Or perhaps this is all they require to complete the pattern of our death. 
 SCOTT: And these, Captain? (the guns) 
 KIRK: Beautiful specimen. 
 SPOCK: Crude but dangerous. 
-KIRK: Whatever the Melkotians have planned for us, it won't be
-pleasant. These could be useful. Just remember one thing. To
-individuals at close range, these could be as deadly as phasers. 
-MCCOY: In the midst of what seems so unreal, the harsh reality. This is
-not a dream. 
-KIRK: (reading from a newspaper pinned up) October 26, 1881. Tombstone,
-Arizona. 
+KIRK: Whatever the Melkotians have planned for us, it won't be pleasant. These could be useful. Just remember one thing. To individuals at close range, these could be as deadly as phasers. 
+MCCOY: In the midst of what seems so unreal, the harsh reality. This is not a dream. 
+KIRK: (reading from a newspaper pinned up) October 26, 1881. Tombstone, Arizona. 
 MCCOY: Tombstone. Hell for leather, right out of history. 
 KIRK: But why here? And why now? 
-SPOCK: Captain, the Melkot said you were the pattern. He looked into
-your mind and selected what he considered the proper time and place for
-our punishment. 
+SPOCK: Captain, the Melkot said you were the pattern. He looked into your mind and selected what he considered the proper time and place for our punishment. 
 KIRK: Because my ancestors pioneered the American frontier. 
-SPOCK: Yes. The violence of your own heritage is to be the pattern for
-our execution. 
-MCCOY: What's the matter with us? We're talking like we really are in
-Tombstone, Arizona in 1881. 
+SPOCK: Yes. The violence of your own heritage is to be the pattern for our execution. 
+MCCOY: What's the matter with us? We're talking like we really are in Tombstone, Arizona in 1881. 
 SPOCK: Precisely, in terms of what the Melkots intend for us. 
-KIRK: There's something about that date, October 26, 1881 But what was
-it? 
+KIRK: There's something about that date, October 26, 1881 But what was it? 
 (The sheriff comes over, grinning.) 
-BEHAN: Ike! Ike! Frank! Billy! Tom! (shakes Kirk's hand) Ike, I was
-afraid you weren't going to make it. 
+BEHAN: Ike! Ike! Frank! Billy! Tom! (shakes Kirk's hand) Ike, I was afraid you weren't going to make it. 
 KIRK: Looks like we did. 
-BEHAN: I knew you wouldn't let them scare you away. They're a bunch of
-hot air if you ask me. 
+BEHAN: I knew you wouldn't let them scare you away. They're a bunch of hot air if you ask me. 
 SPOCK: Are they really? 
-BEHAN: Now they're going to have to fight after the way they shot off
-their mouths. 
+BEHAN: Now they're going to have to fight after the way they shot off their mouths. 
 KIRK: You know us? 
-BEHAN: Funny. That's what I like about you, lke. You always see the
-funny side. 
+BEHAN: Funny. That's what I like about you, lke. You always see the funny side. 
 KIRK: I'm a barrel of laughs. 
-BEHAN: Nobody can say Johnny Behan doesn't have a sense of humour.
-(walks on) 
-KIRK: Johnny? He called me lke, you Frank, Bones Tom, and Billy. Ike
-Clanton, Tom and Frank McLowery, Billy Claiborne, Billy Clanton. 
-SPOCK: Captain, I pride myself on my knowledge of your Earth history.
-The names were known in the annals of the opening of the western sector
-of America. the United States of America, that is. 
-KIRK: In the late nineteenth century in Arizona, two factions fought
-for control of the town of Tombstone. The Earps, Morgan, Virgil and
-Wyatt, who were the town marshals, along with Doc Holliday. 
+BEHAN: Nobody can say Johnny Behan doesn't have a sense of humour. (walks on) 
+KIRK: Johnny? He called me lke, you Frank, Bones Tom, and Billy. Ike Clanton, Tom and Frank McLowery, Billy Claiborne, Billy Clanton. 
+SPOCK: Captain, I pride myself on my knowledge of your Earth history. The names were known in the annals of the opening of the western sector of America. the United States of America, that is. 
+KIRK: In the late nineteenth century in Arizona, two factions fought for control of the town of Tombstone. The Earps, Morgan, Virgil and Wyatt, who were the town marshals, along with Doc Holliday. 
 SPOCK: And the Clanton gang. On October 26th, they had it out. 
 CHEKOV: Who won? 
 KIRK: The Clantons lost, Mister Chekov. 
 CHEKOV: And we are the Clantons? 
 KIRK: We are the Clantons. And if this is a replay of history 
 SPOCK: History cannot be changed. 
-(There's a brawl in the saloon and a window is broken. A man in black
-wearing a badge shoots another man. The group run over.) 
+(There's a brawl in the saloon and a window is broken. A man in black wearing a badge shoots another man. The group run over.) 
 SCOTT: It's impossible! Things like this can't happen. 
 SPOCK: Is this a dead man, Doctor? 
 MCCOY: Very dead, Mister Spock. 
@@ -166,163 +112,109 @@ KIRK: That's one thing we can be sure of. Death is real.
 [Saloon]
 (Tables, chairs, bar, pianola, no roof or walls.) 
 BARMAN: Ike, Frank, hiya, boys. I didn't think I'd see you again. 
-SYLVIA: Billy! Oh, Billy! (kisses Chekov) Billy, baby, I knew they
-couldn't keep you out of town. 
+SYLVIA: Billy! Oh, Billy! (kisses Chekov) Billy, baby, I knew they couldn't keep you out of town. 
 CHEKOV: Oh, you knew that? 
 SYLVIA: Come on. 
-(She takes him to a table while the man in black walks slowly past the
-group.) 
+(She takes him to a table while the man in black walks slowly past the group.) 
 SYLVIA: Maybe you shouldn't have. 
 CHEKOV: And pass up an opportunity to see you? Don't be silly. 
-SYLVIA: It's taking crazy chances with Morgan Earp right in the same
-room. 
+SYLVIA: It's taking crazy chances with Morgan Earp right in the same room. 
 (The man in black.) 
 KIRK: Yes, of course. The man who kills on sight. Morgan Earp. 
-SPOCK: Captain, since we have seen that death is the one reality in
-this situation, I seriously suggest you reseat yourself immediately.
-Without moving a muscle of either hand. If I remember correctly, that
-would involve you in what was called the fast draw. It initiated
-unfortunate events. 
+SPOCK: Captain, since we have seen that death is the one reality in this situation, I seriously suggest you reseat yourself immediately. Without moving a muscle of either hand. If I remember correctly, that would involve you in what was called the fast draw. It initiated unfortunate events. 
 (Everyone sits. Slowly.) 
 BARMAN: You boys want your usual? 
 SCOTT: Absolutely. Half a gallon of scotch. 
-BARMAN: You know we ain't got nothing but bourbon, unless you want corn
-whiskey. 
-SYLVIA: I wish it was all over. I saw Virgil out patrolling this
-morning. 
+BARMAN: You know we ain't got nothing but bourbon, unless you want corn whiskey. 
+SYLVIA: I wish it was all over. I saw Virgil out patrolling this morning. 
 KIRK: Good old Virgil. We can always count on him. 
-SYLVIA: They've been blowing off all over town about how they chased
-the Clantons out. I guess you'll show them now, won't you? 
+SYLVIA: They've been blowing off all over town about how they chased the Clantons out. I guess you'll show them now, won't you? 
 (Morgan walks over to Sylvia, who is massaging Chekov's shoulders.) 
 KIRK: I don't think we're going to have any choice. 
 MORGAN: You'll dirty yourself with this scum. Come on. 
 CHEKOV: Get your hands off her. 
 MORGAN: Now, Claiborne. 
-KIRK: No, no, no. All right, all right, all right. We don't want any
-trouble. 
+KIRK: No, no, no. All right, all right, all right. We don't want any trouble. 
 MORGAN: If you don't want any trouble, what are you doing in my town? 
 KIRK: Just leave us alone, Mister Earp. That's all we ask. 
-MORGAN: Five of you. You'd like me to draw, wouldn't you? All right, I
-will. Soon enough. Soon enough. 
+MORGAN: Five of you. You'd like me to draw, wouldn't you? All right, I will. Soon enough. Soon enough. 
 (Morgan Earp leaves.) 
-SPOCK: I believe he was actually trying to provoke a dispute with
-Mister Chekov. 
-BARMAN: (bringing a bottle and glasses.) Close, Ike. Lucky there wasn't
-two of them. 
+SPOCK: I believe he was actually trying to provoke a dispute with Mister Chekov. 
+BARMAN: (bringing a bottle and glasses.) Close, Ike. Lucky there wasn't two of them. 
 KIRK: I guess so. 
-BARMAN: Sylvia's right. They've been bad-mouthing something fierce all
-over town. You boys watch it. 
-SPOCK: I assure you, sir, we shall watch it, and everything, extremely
-closely. 
+BARMAN: Sylvia's right. They've been bad-mouthing something fierce all over town. You boys watch it. 
+SPOCK: I assure you, sir, we shall watch it, and everything, extremely closely. 
 SYLVIA: Billy, you were wonderful. (she kisses him) 
 KIRK: Er, Mister Chekov? 
-CHEKOV: What can I do, Captain? You know we're always supposed to
-maintain good relations with the natives. (he kisses her) 
+CHEKOV: What can I do, Captain? You know we're always supposed to maintain good relations with the natives. (he kisses her) 
 KIRK: Young lady. Young lady. 
 SYLVIA: Yes, Ike? 
 KIRK: I'd like to talk to Mister, to Billy alone, if you don't mind. 
 SYLVIA: All right. I understand. Billy Claiborne, you be careful. 
 (Sylvia leaves them.) 
-KIRK: Mister Chekov, you be careful. Mister Spock, except for our hand
-guns, we haven't changed, not even our clothing, yet these people see
-and hear us as the Clantons. 
+KIRK: Mister Chekov, you be careful. Mister Spock, except for our hand guns, we haven't changed, not even our clothing, yet these people see and hear us as the Clantons. 
 CHEKOV: I don't think that's such a bad thing, Captain. 
 SPOCK: The day is still young, Ensign. 
-KIRK: All right, what have we got? We're here in Tombstone, Arizona,
-October 26, 1881. The day of the gunfight at OK Corral. And we're the
-Clantons, and Morgan Earp has just gone to tell his brothers we're
-here. 
-SPOCK: And if this is indeed some sort of replay of history, the Earps
-will kill the Clantons at the OK Corral at five o'clock this afternoon.
-KIRK: Well, we're not going to be at the OK Corral at five o'clock this
-afternoon. You, bartender. Ed. You, er, you claim you know us. 
-BARMAN: I ain't making no big claims about you to nobody. Just so
-happens. 
+KIRK: All right, what have we got? We're here in Tombstone, Arizona, October 26, 1881. The day of the gunfight at OK Corral. And we're the Clantons, and Morgan Earp has just gone to tell his brothers we're here. 
+SPOCK: And if this is indeed some sort of replay of history, the Earps will kill the Clantons at the OK Corral at five o'clock this afternoon. 
+KIRK: Well, we're not going to be at the OK Corral at five o'clock this afternoon. You, bartender. Ed. You, er, you claim you know us. 
+BARMAN: I ain't making no big claims about you to nobody. Just so happens. 
 KIRK: Take a close look at me. 
 BARMAN: Yeah? 
 KIRK: Who do you think I am? 
 BARMAN: Ike Clanton. Who do you think you are? 
-KIRK: I know this is hard to understand, but I'm Captain James T. Kirk
-of the spaceship Enterprise. These men are part of my crew. We're not
-really here, we're from the future. We haven't been born yet. Feel the
-material in my shirt. Now feel the material in your own shirt. Do you
-notice any difference? 
+KIRK: I know this is hard to understand, but I'm Captain James T. Kirk of the spaceship Enterprise. These men are part of my crew. We're not really here, we're from the future. We haven't been born yet. Feel the material in my shirt. Now feel the material in your own shirt. Do you notice any difference? 
 BARMAN: No. 
 KIRK: Do these clothes look like yours? 
 BARMAN: Not exactly. 
 KIRK: Have you seen clothes like this before? 
 BARMAN: Sure. 
 KIRK: Where? 
-BARMAN: On the Clantons. You Clantons are always great with your jokes.
-That's why we like you. 
+BARMAN: On the Clantons. You Clantons are always great with your jokes. That's why we like you. 
 KIRK: I'm not joking. 
-BARMAN: The only difference between you and the Earps is that they
-never joke. 
+BARMAN: The only difference between you and the Earps is that they never joke. 
 KIRK: I'm not joking! I'm not Ike Clanton! 
-BARMAN: It's okay with me, Ike. Anything you say. Don't make no
-difference who I think you are. Your problem is, who does Wyatt Earp
-think you are? 
+BARMAN: It's okay with me, Ike. Anything you say. Don't make no difference who I think you are. Your problem is, who does Wyatt Earp think you are? 
 [Marshall's office]
-(The Marshall is Wyatt Earp, and Morgan is also
-there when Kirk walks in.) 
-KIRK: Good morning, gentlemen. My name's James Kirk. I'm afraid there's
-been some sort of misunderstanding. 
-WYATT: Clanton, I don't know what you're trying to pull, but we warned
-you not to show your ugly face in town again. 
+(The Marshall is Wyatt Earp, and Morgan is also there when Kirk walks in.) 
+KIRK: Good morning, gentlemen. My name's James Kirk. I'm afraid there's been some sort of misunderstanding. 
+WYATT: Clanton, I don't know what you're trying to pull, but we warned you not to show your ugly face in town again. 
 KIRK: Yes, of course you did, and I wanted to talk to you about that. 
 MORGAN: We're done talking, Clanton. 
 KIRK: There's been some sort of mistake, a misunderstanding. 
-WYATT: All right, Clanton. One more chance. Your last. You've got until
-five tonight to get your horse-stealing scurvy crew out of town. All
-the way. 
+WYATT: All right, Clanton. One more chance. Your last. You've got until five tonight to get your horse-stealing scurvy crew out of town. All the way. 
 KIRK: Yes. We'd be glad to. We don't want to fight. 
 MORGAN: I always said you was yellow, Clanton. 
-KIRK: I'll make one more attempt to get through to you, Mister Earp. My
-name is not Clanton, it's Kirk. 
+KIRK: I'll make one more attempt to get through to you, Mister Earp. My name is not Clanton, it's Kirk. 
 MORGAN: Oh, yeah. We heard the talk about your jokes. 
 KIRK: I'm not joking. 
 MORGAN: Sure. Well, I'm glad to meet you Mister Kirk. 
-(Morgan punches Kirk and they fight briefly. Kirk gets Morgan in front
-of him as a shield from Wyatt's gun then lets him go.) 
+(Morgan punches Kirk and they fight briefly. Kirk gets Morgan in front of him as a shield from Wyatt's gun then lets him go.) 
 WYATT: Draw, Clanton. 
 KIRK: Not me, Mister Earp. 
 WYATT: You draw or I will. 
 MORGAN: No, Wyatt. Let me. When the time comes, I'll pay him for this. 
 KIRK: We don't want any trouble. We'll be glad to co-operate. 
-WYATT: Five o'clock, Clanton. Is that clear? If you're in town at five
-oh one, we'll kill every one of you whether you draw or not. Is that
-clear?
+WYATT: Five o'clock, Clanton. Is that clear? If you're in town at five oh one, we'll kill every one of you whether you draw or not. Is that clear? 
 [Saloon]
-(McCoy is tending to Kirk's lip. He flinches from
-whatever McCoy has put on the cloth.) 
+(McCoy is tending to Kirk's lip. He flinches from whatever McCoy has put on the cloth.) 
 MCCOY: What's the matter? 
 KIRK: What do you call that stuff? Fire? 
-MCCOY: Taos Lightning straight bourbon. Try some. In small amounts, it
-was considered medicinal. 
+MCCOY: Taos Lightning straight bourbon. Try some. In small amounts, it was considered medicinal. 
 KIRK: Label it for external use Only. 
-SCOTT: It just takes a bit of getting used to, Captain. Actually, a man
-could grow quite fond of this stuff. 
-MCCOY: Take it easy, Mister Scott. I hate to think what that stuff's
-doing to your stomach lining. 
-KIRK: And your reflexes. We're going to need fast reflexes from now on.
-There's no negotiating with the Earps. We know that. 
+SCOTT: It just takes a bit of getting used to, Captain. Actually, a man could grow quite fond of this stuff. 
+MCCOY: Take it easy, Mister Scott. I hate to think what that stuff's doing to your stomach lining. 
+KIRK: And your reflexes. We're going to need fast reflexes from now on. There's no negotiating with the Earps. We know that. 
 SCOTT: Aye. If we only had a phaser. 
-MCCOY: Or a communicator. It'd be a pleasure to watch those Earps as we
-beamed back to the ship at exactly four fifty nine thirty. 
+MCCOY: Or a communicator. It'd be a pleasure to watch those Earps as we beamed back to the ship at exactly four fifty nine thirty. 
 KIRK: Could we make a communicator? 
-SPOCK: Impossible, Captain. In this century, there are no metal alloys
-or power sources to make devices such as ours. 
-KIRK: The problem is clear, Spock. We're going to have to seek
-contemporary solutions. Where's Chekov? 
+SPOCK: Impossible, Captain. In this century, there are no metal alloys or power sources to make devices such as ours. 
+KIRK: The problem is clear, Spock. We're going to have to seek contemporary solutions. Where's Chekov? 
 SPOCK: Mister Chekov is involved, Captain. 
-SYLVIA: You shouldn't have come back to town, Billy. Morgan'll kill you
-because he wants me. 
-CHEKOV: With his outdated weapon? If he shoots at me, I will just step
-out of the way. 
-SYLVIA: You can joke about it. I've seen them in action. Especially
-Morgan. 
-CHEKOV: A lot of people and things have tried to kill me. You'd be
-surprised. 
+SYLVIA: You shouldn't have come back to town, Billy. Morgan'll kill you because he wants me. 
+CHEKOV: With his outdated weapon? If he shoots at me, I will just step out of the way. 
+SYLVIA: You can joke about it. I've seen them in action. Especially Morgan. 
+CHEKOV: A lot of people and things have tried to kill me. You'd be surprised. 
 KIRK: Mister Chekov, I mean Billy. Come along. 
 CHEKOV: Yes, sir. 
 SYLVIA: Billy? Please, don't even go near him. 
@@ -330,106 +222,70 @@ KIRK: Gentlemen.
 [Street]
 CHEKOV: Where are we going, Captain? 
 KIRK: To exercise the better part of valour. 
-(But when they get to the City Limits notice, they are stopped with a
-sizzle.) 
+(But when they get to the City Limits notice, they are stopped with a sizzle.) 
 KIRK: Well, that settles that. A force field. 
 (Then a clock face in mid-air strikes three.) 
-SPOCK: It is obvious the Melkotians are not going to permit us to leave
-this town. 
+SPOCK: It is obvious the Melkotians are not going to permit us to leave this town. 
 SCOTT: If we could only contact the Enterprise. 
 CHEKOV: Yes, but where is the Enterprise? 
-KIRK: Mister Chekov. If you were in charge of the Enterprise, what
-would you be doing? 
+KIRK: Mister Chekov. If you were in charge of the Enterprise, what would you be doing? 
 CHEKOV: I'd be using the ship's sensors trying to locate us. 
-KIRK: Very good. If we could find the place where we beamed down, the
-ship might lock in and beam us up. 
+KIRK: Very good. If we could find the place where we beamed down, the ship might lock in and beam us up. 
 MCCOY: Well let's get there. 
 SPOCK: There's no way we can know where it is, Doctor. 
 KIRK: It could be anywhere within a thousand mile radius. 
-MCCOY: Mister Spock, why don't you join us common humanoids in trying
-to find a way out of here, and quit explaining why we can't get out of
-here. 
-KIRK: We have until five o'clock to find that way. Now consider this.
-What materials were on hand in 1881 that could help us fight the Earps
-on their own terms? 
+MCCOY: Mister Spock, why don't you join us common humanoids in trying to find a way out of here, and quit explaining why we can't get out of here. 
+KIRK: We have until five o'clock to find that way. Now consider this. What materials were on hand in 1881 that could help us fight the Earps on their own terms? 
 SCOTT: (showing his gun) We have these, Captain. 
-KIRK: No, the Melkots gave us those to execute us. We have to find a
-way to put the Earps out of action. Is there anything that exists here
-and now that could help us out of this trap? 
-CHEKOV: All those western Cossacks had were poisonous snakes and cactus
-plants. 
+KIRK: No, the Melkots gave us those to execute us. We have to find a way to put the Earps out of action. Is there anything that exists here and now that could help us out of this trap? 
+CHEKOV: All those western Cossacks had were poisonous snakes and cactus plants. 
 KIRK: Bones, the venom, the plants. Can you make use of them? 
 MCCOY: A tranquilliser. Of course, Jim. I can make a tranquilliser! 
 SPOCK: I could make a device to deliver it on target. 
 KIRK: First, Bones, the ingredients you require. 
-MCCOY: I know the place to get the proper drugs. I'll need a mortar and
-a pestle. 
+MCCOY: I know the place to get the proper drugs. I'll need a mortar and a pestle. 
 KIRK: Chekov, mortar and pestle. 
 (McCoy and Chekov leave.) 
 KIRK: How do you intend to deliver the tranquilliser on target? 
 SPOCK: I shall need some fusing and cotton wadding. 
 KIRK: Cotton wadding. Try the apothecary. 
 SCOTT: Aye. (leaves) 
-SPOCK: I shall manufacture the equivalent of an ancient generating
-canister, more familiarly known as a gas grenade. 
+SPOCK: I shall manufacture the equivalent of an ancient generating canister, more familiarly known as a gas grenade. 
 [Barber/Dentist's office]
-(The sign on the wall says Teeth Pulling By
-Appointment. There's a man in the chair having a shave.) 
+(The sign on the wall says Teeth Pulling By Appointment. There's a man in the chair having a shave.) 
 BARBER: I'll be about five minutes yet. You could come back. 
-MCCOY: Well, thank you. Mind if I look around a bit? (checking the
-bottles) Crude, but very useable. 
+MCCOY: Well, thank you. Mind if I look around a bit? (checking the bottles) Crude, but very useable. 
 BARBER: I wouldn't touch that stuff if I was you. 
-MCCOY: Oh, you don't have to worry. I know how to handle this. I have
-an urgent need for a small supply of this drug, too. 
-BARBER: That stuff ain't mine. It belongs to him. You'd better ask him.
-MCCOY: Oh, so you're the dentist. Well, I'm a physician, and I have a
-serious emergency. I wonder if you mind if I borrow a small quantity of
-this. 
+MCCOY: Oh, you don't have to worry. I know how to handle this. I have an urgent need for a small supply of this drug, too. 
+BARBER: That stuff ain't mine. It belongs to him. You'd better ask him. 
+MCCOY: Oh, so you're the dentist. Well, I'm a physician, and I have a serious emergency. I wonder if you mind if I borrow a small quantity of this. 
 HOLLIDAY: You want it now? 
 MCCOY: My name is McCoy. I'm a doctor. 
-HOLLIDAY: That joke is all around town already, McLowery. But my name
-is still Holliday. Doc Holliday. 
+HOLLIDAY: That joke is all around town already, McLowery. But my name is still Holliday. Doc Holliday. 
 MCCOY: The emergency is real. I need these things. 
-HOLLIDAY: Your emergency sure is real. Go on, take the stuff. Have some
-more fun. Take my bag. Only best you be finished before five o'clock. 
+HOLLIDAY: Your emergency sure is real. Go on, take the stuff. Have some more fun. Take my bag. Only best you be finished before five o'clock. 
 MCCOY: That is my intention, Doctor. 
-HOLLIDAY: Because at one minute past five, you'll find a hole in your
-head. Right from this gun. 
+HOLLIDAY: Because at one minute past five, you'll find a hole in your head. Right from this gun. 
 (A sawn-off shotgun. McCoy leaves with the bag and bottles.) 
 [Outside the General Store]
 SYLVIA: Ahem.;
 CHEKOV: Sylvia! Hello. 
 SYLVIA: Billy Claiborne, you know how crazy I am about you. 
 CHEKOV: That's very nice. 
-SYLVIA: Well, aren't you going to ask me what I've got in my shopping
-bag? 
-CHEKOV: That's just what I was preparing to inquire. Have you been
-shopping? 
-SYLVIA: Of course, silly! What else would I be doing on a beautiful
-afternoon with the dance only one week away? Or have you forgotten that
-already? 
-CHEKOV: No, no, I haven't forgotten. I am looking forward to it most
-eagerly. 
-SYLVIA: You will be absolutely wild when you see me in the new gown I'm
-going to make. I found this most scrumptious material,
-yards and yards of it. You know what I was thinking, Billy? I was
-thinking what a beautiful wedding gown it would make. Why don't we just
-turn that dance into a wedding ball? It would be so heavenly. 
+SYLVIA: Well, aren't you going to ask me what I've got in my shopping bag? 
+CHEKOV: That's just what I was preparing to inquire. Have you been shopping? 
+SYLVIA: Of course, silly! What else would I be doing on a beautiful afternoon with the dance only one week away? Or have you forgotten that already? 
+CHEKOV: No, no, I haven't forgotten. I am looking forward to it most eagerly. 
+SYLVIA: You will be absolutely wild when you see me in the new gown I'm going to make. I found this most scrumptious material, yards and yards of it. You know what I was thinking, Billy? I was thinking what a beautiful wedding gown it would make. Why don't we just turn that dance into a wedding ball? It would be so heavenly. 
 CHEKOV: Married? I'm afraid that wouldn't be possible. 
-SYLVIA: But I'm positive the gown will be ready. What else is there to
-stop a wedding? 
-CHEKOV: But it is absolutely impossible. I am not someone you can
-marry. If only I could make clear to you what I really am. 
-SYLVIA: Do you think I don't know? Billy Claiborne, you are a cattle
-rustler and a horse thief and I don't care what else. 
+SYLVIA: But I'm positive the gown will be ready. What else is there to stop a wedding? 
+CHEKOV: But it is absolutely impossible. I am not someone you can marry. If only I could make clear to you what I really am. 
+SYLVIA: Do you think I don't know? Billy Claiborne, you are a cattle rustler and a horse thief and I don't care what else. 
 MORGAN: I warned you, Claiborne. Stay away. 
 (Morgan punches Chekov, knocking him down.) 
-MORGAN: You don't have to take anything from that scum, not while I'm
-here. 
+MORGAN: You don't have to take anything from that scum, not while I'm here. 
 CHEKOV: Mister Earp. Get your hands off her. 
-(Chekov walks towards Morgan, and gets shot. Kirk and Spock hear
-Sylvia's scream and arrive on the scene the same time as McCoy,
-followed by Scott. Wyatt and Holliday also turn up.) 
+(Chekov walks towards Morgan, and gets shot. Kirk and Spock hear Sylvia's scream and arrive on the scene the same time as McCoy, followed by Scott. Wyatt and Holliday also turn up.) 
 MCCOY: There's nothing I can do, Jim. 
 WYATT: Come on, Clanton. Let's do it now. 
 SCOTT: Captain, let me. 
@@ -438,45 +294,33 @@ HOLLIDAY: Yeah, come on, Captain. Let him.
 SCOTT: Captain, we can't just stand here and take it. 
 KIRK: Yes, we can. 
 SCOTT: But they murdered Chekov! If you think I'm going to 
-KIRK: Scotty, they're trying to push us into something we're not ready
-for. 
+KIRK: Scotty, they're trying to push us into something we're not ready for. 
 SPOCK: And it is not yet our time. 
 [Saloon]
-(Spock is working on the grenade, McCoy and Scott
-on the tranquilliser.) 
+(Spock is working on the grenade, McCoy and Scott on the tranquilliser.) 
 MCCOY: Let it go, Jim. He's dead. 
 KIRK: Maybe he wouldn't be if I hadn't ignored the Melkot warning. 
 MCCOY: We all knew the risk when we joined the service. Now let it go. 
-SPOCK: Gentlemen, there is one thing which requires the immediate
-attention of all of us. Specifically, our future. 
+SPOCK: Gentlemen, there is one thing which requires the immediate attention of all of us. Specifically, our future. 
 KIRK: But not this minute, Spock. It takes us a little longer. 
 SPOCK: I understand the feeling, Captain. 
 MCCOY: You talk about another man's feelings. What do you feel, Spock? 
 SPOCK: My feelings are not a subject for discussion, Doctor. 
 MCCOY: Because there are no feelings to discuss. 
-SCOTT: Mister Spock, Chekov is dead! I say it now, and I can hardly
-believe it. But you worked closely with him. That deserves some
-memorial. 
+SCOTT: Mister Spock, Chekov is dead! I say it now, and I can hardly believe it. But you worked closely with him. That deserves some memorial. 
 MCCOY: Spock will have no truck with grief, Scotty. It's human. 
 KIRK: Bones, Scotty. 
 SPOCK: Captain, it's quite all right. They forget I am half human. 
 (The clock strikes four.) 
 MCCOY: We don't have much time. 
-SPOCK: Captain. I vaguely remember the historical account of the famous
-battle in which we are about to engage, but I am confused. 
+SPOCK: Captain. I vaguely remember the historical account of the famous battle in which we are about to engage, but I am confused. 
 KIRK: About what? 
-SPOCK: Since each of us represents members of the Clanton gang. You,
-Ike Clanton, I, Frank McLowery, then Mister Chekov would be the other
-Billy, would he not? 
+SPOCK: Since each of us represents members of the Clanton gang. You, Ike Clanton, I, Frank McLowery, then Mister Chekov would be the other Billy, would he not? 
 KIRK: William Claiborne, that's right. 
-SPOCK: But did not William Claiborne survive the battle at the OK
-Corral? 
+SPOCK: But did not William Claiborne survive the battle at the OK Corral? 
 MCCOY: Get to the point, Spock. 
-SPOCK: Mister Chekov is dead. But in the actual gunfight, William
-Claiborne survived. 
-KIRK: Yes. Yes, that's right. That means it doesn't have to happen the
-way it happened. We can change it. Bones, how's the tranquilliser
-coming? 
+SPOCK: Mister Chekov is dead. But in the actual gunfight, William Claiborne survived. 
+KIRK: Yes. Yes, that's right. That means it doesn't have to happen the way it happened. We can change it. Bones, how's the tranquilliser coming? 
 MCCOY: I'll have it ready before Spock. 
 KIRK: Spock? 
 SPOCK: Another hour. 
@@ -484,51 +328,34 @@ KIRK: And we'll have a tranquilliser grenade?
 SPOCK: Not precisely. 
 KIRK: Forget precision. Will it work? 
 SPOCK: It should. 
-KIRK: Make sure it does, Spock. If we don't tranquillise them, we'll
-have to fight them. 
+KIRK: Make sure it does, Spock. If we don't tranquillise them, we'll have to fight them. 
 MCCOY: And if we fight them, we all die. We know that. 
 SPOCK: Negotiating with them could buy us more time, Captain. 
-KIRK: But not with the Earps. I've tried that. That's out. There must
-be a way. History has been changed in the fact that Billy Claiborne
-didn't die, but Chekov is lying there dead. That means there must be a
-way to change this history. 
-SPOCK: It would be worth a try, at least until we're certain of the
-device. Then perhaps we could quiet things down. 
+KIRK: But not with the Earps. I've tried that. That's out. There must be a way. History has been changed in the fact that Billy Claiborne didn't die, but Chekov is lying there dead. That means there must be a way to change this history. 
+SPOCK: It would be worth a try, at least until we're certain of the device. Then perhaps we could quiet things down. 
 KIRK: Not with the Earps. There is one other place I can try. 
 [Outside the Sheriff's office]
 BEHAN: You looking for somebody? 
 KIRK: Yes, Sheriff. I want you to stop the fight. 
-BEHAN: Stop it? Who wants to stop it? I sure don't. You don't. You
-didn't yesterday. 
+BEHAN: Stop it? Who wants to stop it? I sure don't. You don't. You didn't yesterday. 
 KIRK: I do now. 
 BEHAN: Since when does a Clanton run crawling to the law for help? 
 KIRK: How else is he going to get justice? 
-BEHAN: (indicating gun) From this. You and your boys set up this whole
-thing to take care of the Earps. It's a little late to decide you don't
-have the belly for it. 
-KIRK: It's not too late. Sheriff. Sheriff. There must be plenty of
-decent people in town who don't like the Earps. Let's organise them. 
-BEHAN: Don't talk nonsense. The people in this town are counting on you
-to get rid of the Earps for them. 
-KIRK: Then the people had better wake up and let the law work for them.
-BEHAN: You can talk that way after what the Earps did to Billy today?
-Nobody in this town will deny you your right to your revenge. 
-KIRK: Yes, I want revenge. I want to crush the life out of the Earps.
-But I can't just kill them. 
-BEHAN: You listen to me. Get down to the OK Corral. Keep out of sight.
-When the Earps come looking, you bushwhack them. 
-KIRK: Can't I get it through your stupid head? I can't just kill them!
-I can't murder them! 
+BEHAN: (indicating gun) From this. You and your boys set up this whole thing to take care of the Earps. It's a little late to decide you don't have the belly for it. 
+KIRK: It's not too late. Sheriff. Sheriff. There must be plenty of decent people in town who don't like the Earps. Let's organise them. 
+BEHAN: Don't talk nonsense. The people in this town are counting on you to get rid of the Earps for them. 
+KIRK: Then the people had better wake up and let the law work for them. 
+BEHAN: You can talk that way after what the Earps did to Billy today? Nobody in this town will deny you your right to your revenge. 
+KIRK: Yes, I want revenge. I want to crush the life out of the Earps. But I can't just kill them. 
+BEHAN: You listen to me. Get down to the OK Corral. Keep out of sight. When the Earps come looking, you bushwhack them. 
+KIRK: Can't I get it through your stupid head? I can't just kill them! I can't murder them! 
 BEHAN: It's the only way. 
 KIRK: I can't kill them! I can't kill them! 
-BEHAN: Kill them any way you can! There'll be no questions asked.
-Honest. I guarantee that! 
+BEHAN: Kill them any way you can! There'll be no questions asked. Honest. I guarantee that! 
 [Saloon]
-SPOCK: These crude supplies we were forced to use
-worked quite well. 
-MCCOY: I doubt that this combination of things was ever used for any
-purpose quite like this. 
-SPOCK: Perhaps they would've been if they'd had your ingenuity, Doctor.
+SPOCK: These crude supplies we were forced to use worked quite well. 
+MCCOY: I doubt that this combination of things was ever used for any purpose quite like this. 
+SPOCK: Perhaps they would've been if they'd had your ingenuity, Doctor. 
 (Kirk enters.) 
 SPOCK: Captain? 
 KIRK: How soon will that be ready? 
@@ -537,19 +364,16 @@ KIRK: Good. How long will it take the tranquilliser to have effect?
 MCCOY: Three or four seconds. 
 KIRK: How did you manage to test it? 
 SPOCK: It has not been tested. 
-MCCOY: It's not necessary, Captain. It's very simple. Nothing can go
-wrong. 
+MCCOY: It's not necessary, Captain. It's very simple. Nothing can go wrong. 
 KIRK: Up to now, everything has gone wrong. I want it tested now. 
 SCOTT: Would a volunteer solve the problem? 
 MCCOY: It would. 
-SCOTT: All right. On one condition. That I'm wide awake and with you at
-five o'clock. 
+SCOTT: All right. On one condition. That I'm wide awake and with you at five o'clock. 
 MCCOY: Guaranteed. 
 SCOTT: Aye. (has a slug of whiskey) It's to kill the pain. 
 SPOCK: But this is painless. 
 SCOTT: Well, you should've warned me sooner, Mister Spock. Fire away. 
-(Spock pulls the thread on the can, and gas comes out. Scott stands
-close to it. Then he picks it up so the gas obscures his face.) 
+(Spock pulls the thread on the can, and gas comes out. Scott stands close to it. Then he picks it up so the gas obscures his face.) 
 MCCOY: It should have worked. Did you inhale the gas, Scotty? 
 SCOTT: Aye. Deeply. 
 MCCOY: You still feel all right? 
@@ -558,82 +382,55 @@ MCCOY: No dizziness? No sweating? No palpitations?
 KIRK: It doesn't work. 
 SPOCK: Fascinating. 
 KIRK: It was our last chance. 
-SPOCK: Captain, you don't seem to understand. It did not function, but
-it must function. 
+SPOCK: Captain, you don't seem to understand. It did not function, but it must function. 
 MCCOY: Nothing could go wrong, Captain. It should work. 
-SPOCK: A scientific fact But if the tranquilliser does not function,
-which is clearly impossible, then a radical alteration of our thought
-patterns must be in order. 
+SPOCK: A scientific fact But if the tranquilliser does not function, which is clearly impossible, then a radical alteration of our thought patterns must be in order. 
 KIRK: We need a weapon. An answer. 
 MCCOY: You don't have to worry about that now, Jim. Look at the clock. 
-KIRK: Ten minutes and it's all going to end at the OK Corral. Well,
-we're going to wait right here until well after five o'clock. We're not
-going to move from this spot. 
+KIRK: Ten minutes and it's all going to end at the OK Corral. Well, we're going to wait right here until well after five o'clock. We're not going to move from this spot. 
 [OK Corral]
 (Famous last words, Captain.) 
 KIRK: Let's get out of here. 
 (But there is a forcefield to stop them.) 
-KIRK: Scotty, Bones. (and it's all the way around.) We're trapped. They
-got their way. We've got to stand and fight. 
+KIRK: Scotty, Bones. (and it's all the way around.) We're trapped. They got their way. We've got to stand and fight. 
 SCOTT: Good. If they want a fight, let's gie'em a fight. 
 KIRK: They're experts at gunfighting. We don't have a chance. 
 MCCOY: Then we'd better become experts, and fast. 
 SPOCK: That may not be necessary. 
 KIRK: Spock, you've got something? 
-SPOCK: A fact, Captain. Physical laws simply cannot be ignored.
-Existence cannot be without them. 
+SPOCK: A fact, Captain. Physical laws simply cannot be ignored. Existence cannot be without them. 
 MCCOY: What do you mean, Spock? 
-SPOCK: I mean, Doctor, that we are faced with a staggering
-contradiction. The tranquilliser you created should have been
-effective. 
+SPOCK: I mean, Doctor, that we are faced with a staggering contradiction. The tranquilliser you created should have been effective. 
 KIRK: It would've been effective anywhere else. 
 SPOCK: Exactly. Doctor, in your opinion, what killed Mister Chekov? 
 MCCOY: A piece of lead in his body. 
 SPOCK: Wrong. His mind killed him. 
 MCCOY: Come on, Spock. If you've got the answer, tell us. 
-SPOCK: Physical reality is consistent with universal laws. Where the
-laws do not operate, there is no reality. All of this is unreal. 
+SPOCK: Physical reality is consistent with universal laws. Where the laws do not operate, there is no reality. All of this is unreal. 
 MCCOY: What do you mean unreal? I examined Chekov. He's dead. 
-SPOCK: But you made your examination under conditions which we cannot
-trust. We judge reality by the response of our senses.
-Once we are convinced of the reality of a given situation, we abide by
-its rules. We judged the bullets to be solid, the guns to be real,
-therefore they can kill. 
+SPOCK: But you made your examination under conditions which we cannot trust. We judge reality by the response of our senses. Once we are convinced of the reality of a given situation, we abide by its rules. We judged the bullets to be solid, the guns to be real, therefore they can kill. 
 KIRK: Chekov is dead because he believed the bullets would kill him. 
 SPOCK: He may indeed be dead. We do not know. 
-KIRK: But we do know that the Melkotians created the situation. If we
-do not allow ourselves to believe that the bullets are real, they
-cannot kill us. 
-SPOCK: Exactly. I know the bullets are unreal, therefore they cannot
-harm me. 
-KIRK: We must all be as certain as you are, Mister Spock, to save our
-lives. 
+KIRK: But we do know that the Melkotians created the situation. If we do not allow ourselves to believe that the bullets are real, they cannot kill us. 
+SPOCK: Exactly. I know the bullets are unreal, therefore they cannot harm me. 
+KIRK: We must all be as certain as you are, Mister Spock, to save our lives. 
 SPOCK: Precisely. 
 MCCOY: But that's not possible. There'd always be some doubt. 
 SPOCK: The smallest doubt would be enough to kill you. 
-MCCOY: We're just human beings, Spock. We don't have that clockwork
-ticker in our head like you do. We can't turn it on and off. 
+MCCOY: We're just human beings, Spock. We don't have that clockwork ticker in our head like you do. We can't turn it on and off. 
 KIRK: We must. Spock, a Vulcan mind meld. 
 SPOCK: Very well, sir. Engineer? 
 (The clock strikes five. Wyatt Earp puts on his gun belt.) 
 SPOCK: Your mind to my mind. Your thoughts to my thoughts. 
 (The marshalls gather as the lightning flashes and the wind blows.) 
-SPOCK: (to McCoy) The bullets are unreal. Without body. They are
-illusions only. Shadows without substance. They will not pass through
-your body, for they do not exist. 
+SPOCK: (to McCoy) The bullets are unreal. Without body. They are illusions only. Shadows without substance. They will not pass through your body, for they do not exist. 
 MCCOY: They do not exist. 
 (Holliday joins the Earps.) 
-SPOCK (to Kirk) Unreal. Appearances only. They are shadows. Illusions.
-Nothing but ghosts of reality. They are lies. Falsehoods. Spectres
-without body. They are to be ignored. 
-(The melds have been completed when the four killers arrive at the
-Corral.) 
+SPOCK (to Kirk) Unreal. Appearances only. They are shadows. Illusions. Nothing but ghosts of reality. They are lies. Falsehoods. Spectres without body. They are to be ignored. 
+(The melds have been completed when the four killers arrive at the Corral.) 
 SPOCK: Captain. 
 WYATT: Draw. 
-(Kirk reaches for his gun, and the Earps fire. We see the bullets
-splintering the wood behind the landing party. The Earps empty their
-guns, then Kirk engages Wyatt in good old-fashioned fisticuffs. He
-beats him but chooses not to shoot him. Everything disappears.)
+(Kirk reaches for his gun, and the Earps fire. We see the bullets splintering the wood behind the landing party. The Earps empty their guns, then Kirk engages Wyatt in good old-fashioned fisticuffs. He beats him but chooses not to shoot him. Everything disappears.) 
 [Bridge]
 (McCoy is examining Chekov at his station.) 
 CHEKOV: Captain, I don't understand. 
@@ -643,43 +440,32 @@ KIRK: Right here, it seems.
 CHEKOV: But that girl. She was so beautiful. So real. 
 KIRK: Do you remember anything else? 
 CHEKOV: No. 
-KIRK: Good. Perhaps that explains why he's here. Nothing was real to
-him except the girl. 
+KIRK: Good. Perhaps that explains why he's here. Nothing was real to him except the girl. 
 SPOCK: Captain, the Melkotian object. 
 KIRK: Sensor readings. 
-SPOCK: The object is beginning to emit M-rays of a highly unstable
-nature, Captain. 
-KIRK: Lieutenant, sound Red Alert. Mister Chekov, deflector shields on
-full. Phaser gun crews, lock on target. 
+SPOCK: The object is beginning to emit M-rays of a highly unstable nature, Captain. 
+KIRK: Lieutenant, sound Red Alert. Mister Chekov, deflector shields on full. Phaser gun crews, lock on target. 
 SPOCK: Energy output increasing beyond measurable levels, Captain. 
 KIRK: Phaser guns, stand by to fire. 
 (The Melkotian buoy explodes.) 
 CHEKOV: It's, it's gone, sir. 
 KIRK: Damage report, Lieutenant. 
 UHURA: No damage, sir. All decks report fully operational. 
-MELKOT [on viewscreen]: Captain Kirk. You did not kill. Is this the way
-of your kind? 
-KIRK: It is. We fight only when there's no choice. We prefer the ways
-of peaceful contact. I speak for a vast alliance of fellow creatures
-who believe in the same thing. We have sought you out to join us. Our
-mission is still one of peace. 
-MELKOT [on viewscreen]: Approach our planet and be welcome. A
-delegation will come out to meet you. Our warning threats are over. 
-KIRK: Excellent. Lieutenant, cancel Red Alert. Mister Chekov, resume
-original course, warp factor two. 
+MELKOT [on viewscreen]: Captain Kirk. You did not kill. Is this the way of your kind? 
+KIRK: It is. We fight only when there's no choice. We prefer the ways of peaceful contact. I speak for a vast alliance of fellow creatures who believe in the same thing. We have sought you out to join us. Our mission is still one of peace. 
+MELKOT [on viewscreen]: Approach our planet and be welcome. A delegation will come out to meet you. Our warning threats are over. 
+KIRK: Excellent. Lieutenant, cancel Red Alert. Mister Chekov, resume original course, warp factor two. 
 CHEKOV: Warp factor two, sir. 
-SPOCK: Captain. May I ask a question? You needn't answer if it seems
-too personal. 
+SPOCK: Captain. May I ask a question? You needn't answer if it seems too personal. 
 KIRK: I'm sure I'll be able to give you an answer, Mister Spock. 
 SPOCK: This afternoon, you wanted to kill, didn't you? 
 MCCOY: But he didn't kill, Mister Spock. 
 SPOCK: But he wanted to, Doctor. 
 KIRK: Is that the way it seemed to you, Mister Spock? 
 SPOCK: Yes, Captain. 
-KIRK: Mister Spock, you're absolutely right. That's exactly the way it
-was. 
+KIRK: Mister Spock, you're absolutely right. That's exactly the way it was. 
 SPOCK: Mankind, ready to kill. 
 KIRK: That's the way it was in 1881. 
 SPOCK: I wonder how humanity managed to survive. 
-KIRK: We overcame our instinct for violence.  
+KIRK: We overcame our instinct for violence. 
 

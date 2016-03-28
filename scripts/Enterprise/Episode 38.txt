@@ -1,24 +1,16 @@
 Episode Number: 38
 The Enterprise Transcripts - The Catwalk
-The
-Catwalk
- Mission date: Sep 18, 2152
+The Catwalk
+Mission date: Sep 18, 2152
 Original Airdate: 18 Dec, 2002
- 
-Captain's Starlog, September 18th, 2152. We've entered orbit of an
-uninhabited planet. Our scans show it's teeming with all sorts of plant
-and animal life. I'll be leading a survey team to the surface. 
- [Launch bay] 
- TUCKER: There's a gorge on the southern continent
-five times deeper than the Grand Canyon. 
+Captain's Starlog, September 18th, 2152. We've entered orbit of an uninhabited planet. Our scans show it's teeming with all sorts of plant and animal life. I'll be leading a survey team to the surface. 
+[Launch bay]
+TUCKER: There's a gorge on the southern continent five times deeper than the Grand Canyon. 
 ARCHER: What have you got in mind? 
-TUCKER: How about a little river rafting? T'Pol says it only gets dark
-four days a month because of the binary suns. We'll have plenty of
-daylight left after we're done working every night. 
- [Shuttlepod] 
-(Archer settles into the shuttlepod.)  ARCHER: It's going
-to take at least a week to complete the survey. Should be enough time
-to sneak in some R and R. 
+TUCKER: How about a little river rafting? T'Pol says it only gets dark four days a month because of the binary suns. We'll have plenty of daylight left after we're done working every night. 
+[Shuttlepod]
+(Archer settles into the shuttlepod.) 
+ARCHER: It's going to take at least a week to complete the survey. Should be enough time to sneak in some R and R. 
 T'POL [OC]: Bridge to Captain Archer. 
 ARCHER: Go ahead. 
 T'POL [OC]: We've got an alien vessel approaching. They're hailing us. 
@@ -26,162 +18,113 @@ ARCHER: Put them through to Shuttlepod One.
 T'POL [OC]: Yes, sir. 
 TUCKER: New planet, new aliens. Banner day. 
 (An image of three bald males comes up on the monitor.) 
-TAGRIM [on monitor]: We're very relieved to see you. I'm Rellus Tagrim.
-This is my crew. 
-ARCHER: Captain Archer of the Starship Enterprise. Something we can do
-for you? 
-TAGRIM [on monitor]: Considering the circumstances, we would like
-permission to come aboard as soon as possible. 
+TAGRIM [on monitor]: We're very relieved to see you. I'm Rellus Tagrim. This is my crew. 
+ARCHER: Captain Archer of the Starship Enterprise. Something we can do for you? 
+TAGRIM [on monitor]: Considering the circumstances, we would like permission to come aboard as soon as possible. 
 ARCHER: What circumstances? 
 TAGRIM [on monitor]: The neutronic wavefront. It's almost here. 
 TUCKER: Nothing on sensors. 
-TAGRIM [on monitor]: You should detect the storm in a few minutes. It's
-travelling at high warp. Once we're aboard, I suggest you go to warp
-seven immediately. 
+TAGRIM [on monitor]: You should detect the storm in a few minutes. It's travelling at high warp. Once we're aboard, I suggest you go to warp seven immediately. 
 ARCHER: Our top speed is warp five. 
- [Situation room] 
- T'POL: The wavefront spans more than half a dozen
-light years. A Vulcan starship encountered a class five over a century
-ago. The vessel was nearly destroyed. 
+[Situation room]
+T'POL: The wavefront spans more than half a dozen light years. A Vulcan starship encountered a class five over a century ago. The vessel was nearly destroyed. 
 ARCHER: How long until it hits? 
 T'POL: Approximately four hours. 
-REED: If we reinforce structural integrity we should be able to weather
-it without too much trouble. 
-PHLOX: Enterprise may survive. The crew is another matter. The storm is
-saturated with radiolytic isotopes. If the crew is exposed, they'll be
-dead within three minutes. Sickbay is the most heavily shielded
-section. It's possible that some of the crew could survive there. 
-ARCHER: We can't fit eighty three people into Sickbay, and I'm not
-about to draw lots. (Tucker studies a schematic on another monitor.) 
-TUCKER: What about the
-Catwalk? You know, the maintenance shaft running the length of each
-nacelle. 
-ARCHER: They are heavily shielded. Some kind of osmium alloy, if I
-remember. 
+REED: If we reinforce structural integrity we should be able to weather it without too much trouble. 
+PHLOX: Enterprise may survive. The crew is another matter. The storm is saturated with radiolytic isotopes. If the crew is exposed, they'll be dead within three minutes. Sickbay is the most heavily shielded section. It's possible that some of the crew could survive there. 
+ARCHER: We can't fit eighty three people into Sickbay, and I'm not about to draw lots. 
+(Tucker studies a schematic on another monitor.) 
+TUCKER: What about the Catwalk? You know, the maintenance shaft running the length of each nacelle. 
+ARCHER: They are heavily shielded. Some kind of osmium alloy, if I remember. 
 T'POL: You're proposing we take refuge in a crawlspace? 
-TUCKER: It'll be a tight squeeze, but there's no reason we can't fit
-eighty three people in there, and whatever supplies we need. 
+TUCKER: It'll be a tight squeeze, but there's no reason we can't fit eighty three people in there, and whatever supplies we need. 
 ARCHER: Doctor? 
 PHLOX: Do you know the absorption depth of this alloy? 
 TUCKER: At least twenty thousand particles per micron. 
 PHLOX: It should be adequate. 
-TUCKER: There's just one other problem. It gets kind of toasty in there
-when the warp coils are online. About three hundred degrees. We'd have
-to shut down the main reactor. 
-ARCHER: I don't see that we have any choice. We'll use the Catwalk, and
-set up a command station in one of the compartments. 
+TUCKER: There's just one other problem. It gets kind of toasty in there when the warp coils are online. About three hundred degrees. We'd have to shut down the main reactor. 
+ARCHER: I don't see that we have any choice. We'll use the Catwalk, and set up a command station in one of the compartments. 
 TUCKER: Aye, Captain. 
-ARCHER (to T'Pol) You'll be in charge of the evacuation. Take us out of
-orbit, Travis. 
- [Catwalk] 
- (Long and narrow with rails either side of a
-walkway just wide enough for two people to squeeze past each other.) 
+ARCHER (to T'Pol) You'll be in charge of the evacuation. Take us out of orbit, Travis. 
+[Catwalk]
+(Long and narrow with rails either side of a walkway just wide enough for two people to squeeze past each other.) 
 TRAVIS: Maybe we should open a window. 
-TUCKER: You think it's stuffy now, wait till we get eighty three people
-in here. 
+TUCKER: You think it's stuffy now, wait till we get eighty three people in here. 
 TRAVIS: And don't forget Porthos, and all the Doctor's animals. 
 TUCKER: You ever been through a storm as bad as this? 
-TRAVIS: Ran into a Class three once. Had to take shelter in the ship's
-core. We were down there for six weeks. 
+TRAVIS: Ran into a Class three once. Had to take shelter in the ship's core. We were down there for six weeks. 
 TUCKER: Six weeks? 
 TRAVIS: Any idea about a latrine? 
-TUCKER: Oh, I never thought about that. There are some storage lockers
-in the aft compartment. We ought to be able to convert a couple of
-them. 
-(They go through a hatchway into another section with control panels on
-the wall.) 
-TUCKER: This'll be our Bridge. We're going to have to jury-rig these
-panels, tap them into command functions. 
+TUCKER: Oh, I never thought about that. There are some storage lockers in the aft compartment. We ought to be able to convert a couple of them. 
+(They go through a hatchway into another section with control panels on the wall.) 
+TUCKER: This'll be our Bridge. We're going to have to jury-rig these panels, tap them into command functions. 
 TRAVIS: Not much room for a Captain's chair. 
 TUCKER: That storm must've been pretty scary. 
-TRAVIS: We only got worried when the generators went down. We lost the
-grav-plating, life support. I'll never forget that look in my father's
-eyes. He knew we were in trouble. 
- [Corridor] 
- (Phlox and Archer escort the three aliens out of
-the Decon chamber.) 
+TRAVIS: We only got worried when the generators went down. We lost the grav-plating, life support. I'll never forget that look in my father's eyes. He knew we were in trouble. 
+[Corridor]
+(Phlox and Archer escort the three aliens out of the Decon chamber.) 
 ARCHER: Sorry to keep you in there so long. Please. 
 TAGRIM: We understand. 
-ARCHER: My Science Officer tells me you're from the Takret system.
-That's a long way from here. 
+ARCHER: My Science Officer tells me you're from the Takret system. That's a long way from here. 
 TAGRIM: Our work often takes us far from home. 
 RENTH: We're stellar cartographers. 
-ARCHER: Really? Once we get out of the storm maybe you can help us
-update our star charts. 
+ARCHER: Really? Once we get out of the storm maybe you can help us update our star charts. 
 TAGRIM: We'd be pleased. 
-PHLOX: This way.(The ship is a frenzy of activity. The warp
-injectors are being locked down. Duffle bags are being passed up the
-ladders to the catwalk, spacesuits are being packed and moved.) 
- [Sickbay] 
- T'POL: You're behind schedule. Do you need help? 
-PHLOX: I understand you've allotted fifteen cubic metres for medical
-supplies? 
+PHLOX: This way.
+(The ship is a frenzy of activity. The warp injectors are being locked down. Duffle bags are being passed up the ladders to the catwalk, spacesuits are being packed and moved.) 
+[Sickbay]
+T'POL: You're behind schedule. Do you need help? 
+PHLOX: I understand you've allotted fifteen cubic metres for medical supplies? 
 T'POL: That's correct. 
-PHLOX: That means there's only enough room for two-thirds of these
-cages. 
+PHLOX: That means there's only enough room for two-thirds of these cages. 
 T'POL: Perhaps some of your creatures could share. 
-PHLOX: They'll eat each other. They're vital to my work and the health
-of this crew. I'm not accustomed to making emotional appeals. Please,
-don't ask me to choose between them. 
+PHLOX: They'll eat each other. They're vital to my work and the health of this crew. I'm not accustomed to making emotional appeals. Please, don't ask me to choose between them. 
 T'POL: All right. Twenty cubic metres. 
 PHLOX: My Edosian slugs thank you. 
- [Catwalk] 
- (People are setting in either side of the walkway.)
+[Catwalk]
+(People are setting in either side of the walkway.) 
 TUCKER: I'm afraid these aren't first class accommodations. 
-TAGRIM: They'll be fine, Commander. We're grateful for your
-hospitality. 
-TUCKER: We're going to have a lot of time to get to know each other. If
-you need anything, I'll be right over here. 
+TAGRIM: They'll be fine, Commander. We're grateful for your hospitality. 
+TUCKER: We're going to have a lot of time to get to know each other. If you need anything, I'll be right over here. 
 (He leaves them.) 
 GURI: I don't know the first thing about stellar cartography. 
 TAGRIM: Guri. 
 GURI: What if they begin to ask questions? 
- [Ready room] 
- (Archer is doing some final packing when he pauses
-to watch the purple ribbon-like phenomenon approaching. Hmm, familiar.)
-ARCHER: Come in. (T'Pol enters) I didn't expect it to be beautiful. Too
-bad we don't have time to run some scans. 
-T'POL: We'll be inside the phenomenon for nearly eight days. We can run
-all the scans we want. Lieutenant Reed has completed his modifications.
+[Ready room]
+(Archer is doing some final packing when he pauses to watch the purple ribbon-like phenomenon approaching. Hmm, familiar.) 
+ARCHER: Come in. (T'Pol enters) I didn't expect it to be beautiful. Too bad we don't have time to run some scans. 
+T'POL: We'll be inside the phenomenon for nearly eight days. We can run all the scans we want. Lieutenant Reed has completed his modifications. 
 ARCHER: I'm a little nervous about shutting down the power grid. 
-T'POL: A single neutronic surge could overload the grid and damage
-critical systems. 
-ARCHER: I did a little research in the Vulcan database. That Class five
-storm a century ago involved the Starship T'Plana. Apparently, they
-couldn't outrun the wavefront. It was lost with all hands. I thought
-you said it was nearly destroyed. 
+T'POL: A single neutronic surge could overload the grid and damage critical systems. 
+ARCHER: I did a little research in the Vulcan database. That Class five storm a century ago involved the Starship T'Plana. Apparently, they couldn't outrun the wavefront. It was lost with all hands. I thought you said it was nearly destroyed. 
 T'POL: I must have remembered incorrectly. 
- [Bridge] 
- ARCHER: (at helm) Bridge to Commander Tucker. 
+[Bridge]
+ARCHER: (at helm) Bridge to Commander Tucker. 
 TUCKER [OC]: Go ahead. 
 ARCHER: Ready for the handoff? 
- [Catwalk command area] 
- TUCKER: Give me a second.(He and Travis press
-screens and finally a bunch of unconnected optic cables light up.) 
- [Bridge] 
- TUCKER [OC]: Standing by, Captain. 
+[Catwalk command area]
+TUCKER: Give me a second.
+(He and Travis press screens and finally a bunch of unconnected optic cables light up.) 
+[Bridge]
+TUCKER [OC]: Standing by, Captain. 
 (Archer looks across to Reed and then T'Pol, who touch their boards.) 
- [Catwalk command area] 
- (As monitors bring up the familiar Bridge
-displays.) 
+[Catwalk command area]
+(As monitors bring up the familiar Bridge displays.) 
 TUCKER: We're in the driver's seat. 
- [Bridge] 
- ARCHER: See you in a few minutes. Archer out.
-Let's close up shop. 
-(At the press of a button, main power goes down everywhere, to be
-replaced by low level emergency lighting.) 
- [Catwalk command area] 
- ARCHER: Done a head count? 
-TUCKER: Entire crew's accounted for, including one quadruped. Would you
-like to try out the Captain's chair? 
+[Bridge]
+ARCHER: See you in a few minutes. Archer out. Let's close up shop. 
+(At the press of a button, main power goes down everywhere, to be replaced by low level emergency lighting.) 
+[Catwalk command area]
+ARCHER: Done a head count? 
+TUCKER: Entire crew's accounted for, including one quadruped. Would you like to try out the Captain's chair? 
 (He pets Porthos then looks at a few barrels with netting on top.) 
-ARCHER: Maybe later. Where's the comm.? (Tucker gestures to a column.) ARCHER: All
-hands, this is the Captain. This catwalk is going to be our home for a
-while. A week, maybe more. You may not be comfortable, but you'll be
-alive. We have the best crew in the fleet and the sturdiest ship. I
-promise you, we'll get through this. (He closes the comm.) ARCHER: Time? (T'Pol's station is the other side of the column.)
-T'POL: One minute, five
-seconds. 
+ARCHER: Maybe later. Where's the comm.? 
+(Tucker gestures to a column.) 
+ARCHER: All hands, this is the Captain. This catwalk is going to be our home for a while. A week, maybe more. You may not be comfortable, but you'll be alive. We have the best crew in the fleet and the sturdiest ship. I promise you, we'll get through this. 
+(He closes the comm.) 
+ARCHER: Time? 
+(T'Pol's station is the other side of the column.)
+T'POL: One minute, five seconds. 
 ARCHER: Polarise the hull plating. 
 (Enterprise turns to face the oncoming storm.) 
 T'POL: Thirty seconds. 
@@ -194,444 +137,324 @@ ARCHER: All hands, brace for impact.
 TRAVIS: Aft stabilisers aren't engaging. 
 TUCKER: Try them again. 
 (Things get smoother.) 
-TRAVIS: Grav-shear's dropping. (Porthos re-emerges.) TRAVIS: That should be the
-worst of it, sir, at least for now. 
- [Catwalk] 
- (Archer is walking through, during jolts, and
-picks up a small PADD.) 
+TRAVIS: Grav-shear's dropping. 
+(Porthos re-emerges.) 
+TRAVIS: That should be the worst of it, sir, at least for now. 
+[Catwalk]
+(Archer is walking through, during jolts, and picks up a small PADD.) 
 ARCHER Yours? Looks like you're almost finished. 
 (The crewwoman takes back her crossword puzzle.) 
-CREWWOMAN: You wouldn't know who was the first Vulcan ambassador to
-Earth. Six letters, ends with an R? 
+CREWWOMAN: You wouldn't know who was the first Vulcan ambassador to Earth. Six letters, ends with an R? 
 ARCHER: Solkar, I think. 
 CREWWOMAN: Thanks, Captain. 
-ARCHER: Don't mention it. (He moves over to Hoshi.) ARCHER: How're you holding up? (Hoshi iscleaning her teeth with a light brush.)
-HOSHI: Pretty well, sir. A few
-days in this place should cure anyone of claustrophobia. 
+ARCHER: Don't mention it. 
+(He moves over to Hoshi.) 
+ARCHER: How're you holding up? 
+(Hoshi iscleaning her teeth with a light brush.)
+HOSHI: Pretty well, sir. A few days in this place should cure anyone of claustrophobia. 
 ARCHER: Your quarters will probably feel like a ballroom after this. 
 (There's another shake) 
-HOSHI: You're the Captain. Can't you order the storm to calm down a
-little? 
+HOSHI: You're the Captain. Can't you order the storm to calm down a little? 
 ARCHER: I'll see what I can do. 
-(He walks under the privacy curtain that will divide the women from the
-men - a blanket actually. The alien guests have also put blankets up
-around their area to screen it off. Subtitles give some of the
-incidental conversations.) 
-VOICE: Someone has already asked for it, so why isn't he doing anything
-about it? 
+(He walks under the privacy curtain that will divide the women from the men - a blanket actually. The alien guests have also put blankets up around their area to screen it off. Subtitles give some of the incidental conversations.) 
+VOICE: Someone has already asked for it, so why isn't he doing anything about it? 
 CREWMAN: How should I know? 
 VOICE: Another day in this place. 
 VOICE: We're running out of food. 
 (There are at least two card games on the go.) 
 ARCHER: (referring to aliens) How're they doing? 
-TUCKER: Your guess is as good as mine. One of them came out a few hours
-ago. Told us we were making too much noise. Now, I've been real
-friendly. Even asked them to join the game. Doesn't seem like they want
-anything to do with us. 
+TUCKER: Your guess is as good as mine. One of them came out a few hours ago. Told us we were making too much noise. Now, I've been real friendly. Even asked them to join the game. Doesn't seem like they want anything to do with us. 
 ARCHER: Let's give them a little time to adjust. 
-TUCKER: You know, I bet by now we'd have set up camp on the rim of that
-canyon, had a fire going. 
+TUCKER: You know, I bet by now we'd have set up camp on the rim of that canyon, had a fire going. 
 ARCHER: There'll be other canyons. 
 (In another part of the catwalk.) 
-PHLOX: PalantiI, are you passing through or is there something I can
-help you with? 
-REED: Actually, there is something. (Reed climbs down into Phlox's area.) 
+PHLOX: PalantiI, are you passing through or is there something I can help you with? 
+REED: Actually, there is something. 
+(Reed climbs down into Phlox's area.) 
 PHLOX: Yes? 
 REED: I assume I can depend on doctor-patient confidentiality. 
-PHLOX: This wouldn't have anything to do with gastrointestinal
-distress? 
+PHLOX: This wouldn't have anything to do with gastrointestinal distress? 
 REED: Is it that obvious? 
-PHLOX: Not at all. There's a notation in your medical file. Something
-about an unfortunate incident during zero g training. 
-REED: The EV simulator at Lunaport, or as Starfleet trainees call it,
-The Vomitorium. 
-PHLOX: Nothing to be embarrassed about. I've treated a number of
-crewmen this afternoon for motion sickness. (Phlox gives him a hypospray.)
+PHLOX: Not at all. There's a notation in your medical file. Something about an unfortunate incident during zero g training. 
+REED: The EV simulator at Lunaport, or as Starfleet trainees call it, The Vomitorium. 
+PHLOX: Nothing to be embarrassed about. I've treated a number of crewmen this afternoon for motion sickness. 
+(Phlox gives him a hypospray.) 
 PHLOX: That should last for about twelve hours. 
 REED: Thank you, Doctor. 
 ARCHER: Feeling all right, Malcolm? 
-REED: Never better. (Reed leaves.) 
+REED: Never better. 
+(Reed leaves.) 
 ARCHER: Any problems with the crew? 
-PHLOX: Oh, a few bumps and bruises from the turbulence. Nothing too
-serious. (Archer surveys the array of cages.) 
-ARCHER: I could see about moving some of
-this to the aft section. 
-PHLOX: Nonsense. I have plenty of room. I find the close quarters
-rather comforting. Reminds me of home. 
+PHLOX: Oh, a few bumps and bruises from the turbulence. Nothing too serious. 
+(Archer surveys the array of cages.) 
+ARCHER: I could see about moving some of this to the aft section. 
+PHLOX: Nonsense. I have plenty of room. I find the close quarters rather comforting. Reminds me of home. 
 ARCHER: I didn't realise space was at a premium on Denobula. 
 PHLOX: Twelve billion people sharing one continent. 
 ARCHER: Let me know if you change your mind. 
- [Catwalk command area] 
- ARCHER: Travis? 
-TRAVIS: We've got a cluster of plasma eddies about eighty thousand
-kilometres ahead. I should be able to steer clear of them. 
+[Catwalk command area]
+ARCHER: Travis? 
+TRAVIS: We've got a cluster of plasma eddies about eighty thousand kilometres ahead. I should be able to steer clear of them. 
 ARCHER: Wake me if there's a problem. 
 TRAVIS: Aye, Captain. 
-ARCHER: When we're past those eddies, try and get some rest yourself.
-Ensign Tanner can relieve you. 
+ARCHER: When we're past those eddies, try and get some rest yourself. Ensign Tanner can relieve you. 
 TRAVIS: Thank you, sir. Good night. 
 ARCHER: Good night. 
-(bed is a mattress to the rear of the area, with T'Pol curled up
-working on the other side of the room. Porthos joins his master for a
-good petting session then trots back to his basket) 
-ARCHER: Go on. Go to sleep. (Archer turns on his PADD to watch a water polo
-match, complete with sound and his own reactions. He feels T'Pol's
-glare hitting him and looks up.) 
+(bed is a mattress to the rear of the area, with T'Pol curled up working on the other side of the room. Porthos joins his master for a good petting session then trots back to his basket) 
+ARCHER: Go on. Go to sleep. 
+(Archer turns on his PADD to watch a water polo match, complete with sound and his own reactions. He feels T'Pol's glare hitting him and looks up.) 
 ARCHER: Does this bother you? 
 T'POL: Only slightly. 
-(Archer turns off the PADD and settles down to sleep, but with the
-light on and T'Pol tapping at her PADD, it's not easy.) 
+(Archer turns off the PADD and settles down to sleep, but with the light on and T'Pol tapping at her PADD, it's not easy.) 
 T'POL: Am I disturbing you? 
 ARCHER: Only slightly. 
 (She turns off her PADD and lies down.) 
 ARCHER: You know, there's a bright side to all of this. 
 T'POL: Really. 
-ARCHER: It's bringing the crew closer together. If you forget about the
-storm outside, this is almost like going on a camping trip. 
+ARCHER: It's bringing the crew closer together. If you forget about the storm outside, this is almost like going on a camping trip. 
 T'POL: Perhaps we can sing a few songs later. 
 ARCHER: Haven't you ever gone camping? 
-T'POL: In a manner of speaking. I once participated in the kahswan
-ritual. I was taken to the desert and left to survive for ten days. 
-ARCHER: Sounds fun. You haven't left the command area much today. You
-might want to wander around, get to know the crew. 
+T'POL: In a manner of speaking. I once participated in the kahswan ritual. I was taken to the desert and left to survive for ten days. 
+ARCHER: Sounds fun. You haven't left the command area much today. You might want to wander around, get to know the crew. 
 T'POL: I'm familiar with every one of them. 
-ARCHER: There's a lot more to these people than just their names. It'd
-be good for you to fraternise a little. 
+ARCHER: There's a lot more to these people than just their names. It'd be good for you to fraternise a little. 
 T'POL: Is that an order? 
 ARCHER: Does it have to be? 
 T'POL: I'm not skilled at fraternising. 
-ARCHER: Here's a chance to learn.(Tucker, Malcolm, Hoshi and Travis are playing
-poker.) 
-REED: I'll see your strawberry shortcake, and I'll raise you one
-pineapple cobbler. 
+ARCHER: Here's a chance to learn.
+(Tucker, Malcolm, Hoshi and Travis are playing poker.) 
+REED: I'll see your strawberry shortcake, and I'll raise you one pineapple cobbler. 
 (Hoshi puts down her bet.) 
 TRAVIS: Broccoli? 
 HOSHI: I'm out of desserts. 
 TRAVIS: Call. 
-REED: Oh, what I wouldn't give for a shower right about now. When this
-hand's over maybe you could look into building one. 
+REED: Oh, what I wouldn't give for a shower right about now. When this hand's over maybe you could look into building one. 
 TUCKER: Would you like a sauna while I'm at it? 
-REED: You knew we'd be stuck in here for over a week. You might've
-given it a little thought to making it tolerable. 
-TUCKER: I only had four hours, Malcolm. You're lucky we've got a
-toilet. 
-REED: Well, I obviously overestimated your people's abilities when it
-comes to indoor plumbing. 
+REED: You knew we'd be stuck in here for over a week. You might've given it a little thought to making it tolerable. 
+TUCKER: I only had four hours, Malcolm. You're lucky we've got a toilet. 
+REED: Well, I obviously overestimated your people's abilities when it comes to indoor plumbing. 
 TUCKER: You want to take a shower? Build one yourself. 
-(A white suited figure comes by, handing out prepacked hot meals, but
-we don't get to see his face.) 
+(A white suited figure comes by, handing out prepacked hot meals, but we don't get to see his face.) 
 TUCKER: Thanks, Chef. 
 HOSHI: Thanks, Chef. 
 REED: Pot roast? Oh, come on. That's the third time in three days. 
 TRAVIS: Anyone know what they're showing tonight? 
 TUCKER: The Day the Earth Stood Still. 
 REED: We're having movie night in here? 
-TUCKER: Captain's orders. I set up a monitor in Compartment Five. The
-screen's a little small, but 
+TUCKER: Captain's orders. I set up a monitor in Compartment Five. The screen's a little small, but 
 HOSHI: Who's picking these movies? Shouldn't we all get a vote? 
 TRAVIS: I think something's burning. 
-(Smoke is coming from the alien's area. Trip dashes over and pulls open
-the blanket curtain to discover them cooking over a stove.) 
-TUCKER: Are you aware you're sitting on top of a plasma manifold? You
-got to turn that thing off! 
+(Smoke is coming from the alien's area. Trip dashes over and pulls open the blanket curtain to discover them cooking over a stove.) 
+TUCKER: Are you aware you're sitting on top of a plasma manifold? You got to turn that thing off! 
 TAGRIM: I apologise, Commander. We should've spoken with you first. 
 TUCKER: That might've been a good idea. 
 RENTH: We've had trouble digesting your food. 
 ARCHER [OC]: Archer to Tucker. 
 TUCKER: Go ahead. 
 ARCHER [OC]: I need you in the command area right away. 
-TUCKER: I'll be right there. (He picks up their pan loaded with -
-something.) TUCKER: I'll talk to Chef. Maybe he can heat that up for you. (He hands
-it off to Reed.) 
- [Catwalk command area] 
- ARCHER: We may have a problem in Engineering. 
+TUCKER: I'll be right there. 
+(He picks up their pan loaded with - something.) 
+TUCKER: I'll talk to Chef. Maybe he can heat that up for you. 
+(He hands it off to Reed.) 
+[Catwalk command area]
+ARCHER: We may have a problem in Engineering. 
 T'POL: The antimatter injectors have come online. 
-TUCKER: That can't be right. Probably just a glitch. Think you've got
-room for one more sleeping bag in here? 
+TUCKER: That can't be right. Probably just a glitch. Think you've got room for one more sleeping bag in here? 
 ARCHER: Not happy with your bunk mates? 
-TUCKER: I caught them throwing a barbecue next to a plasma manifold.
-Now, I understand we're explorers. We're supposed to keep an open mind
-about different cultures, but these guys are driving me crazy. They
-only need to sleep once a week, so they've kept us up the last two
-nights with their strange rituals. Chanting, walking in circles.
-They've practically taken over the compartment. 
-ARCHER: Don't forget they're the ones who warned us about the storm. We
-owe them. Be patient. 
-TUCKER: I'm trying. Looks like the matter injectors and the antimatter
-injectors are online. 
+TUCKER: I caught them throwing a barbecue next to a plasma manifold. Now, I understand we're explorers. We're supposed to keep an open mind about different cultures, but these guys are driving me crazy. They only need to sleep once a week, so they've kept us up the last two nights with their strange rituals. Chanting, walking in circles. They've practically taken over the compartment. 
+ARCHER: Don't forget they're the ones who warned us about the storm. We owe them. Be patient. 
+TUCKER: I'm trying. Looks like the matter injectors and the antimatter injectors are online. 
 ARCHER: Two sensor glitches? 
 T'POL: A power surge could've triggered both circuits. 
 TUCKER: Do you have any idea what the odds are of that happening? 
 ARCHER: Can you shut them down? 
 TUCKER: Not from here. Someone's going to have to go to Engineering. 
- [Hatch into the rest of the ship]
- (Trip is in an EV suit.) 
-PHLOX: Remember, the suit will protect you for only twenty two minutes.
+[Hatch into the rest of the ship]
+(Trip is in an EV suit.) 
+PHLOX: Remember, the suit will protect you for only twenty two minutes. 
 ARCHER: It'd be best not to take the scenic route. 
-(Tucker heads out into the darkened ship, and quickly gets to Engineering.;Once there, he turns on a status monitor, them
-notices a piece of equipment on the floor. He checks the injectors and
-sees they have been tampered with. Then he hears someone else moving
-around and turns off his lights, along with the monitor screen he had
-activated. He hides and watches two figures moving around. The
-intruders go to the injectors and do something, so Trip sets off an
-alarm to distract them while he makes his escape. The aliens are not
-wearing space suits, by the way. Out in a corridor, three more aliens
-march past. They look as if they are in uniforms. Trip avoids them,
-then goes to a porthole and looks out. There is a ship docked
-alongside. He activates a monitor and calls up the Bridge security
-camera. There are aliens there too, who look like the visitors in the
-Catwalk.) 
- [Ready room] 
- (The person in charge is going through the crew
-manifest on Archer's monitor.) 
+(Tucker heads out into the darkened ship, and quickly gets to Engineering.;Once there, he turns on a status monitor, them notices a piece of equipment on the floor. He checks the injectors and sees they have been tampered with. Then he hears someone else moving around and turns off his lights, along with the monitor screen he had activated. He hides and watches two figures moving around. The intruders go to the injectors and do something, so Trip sets off an alarm to distract them while he makes his escape. The aliens are not wearing space suits, by the way. Out in a corridor, three more aliens march past. They look as if they are in uniforms. Trip avoids them, then goes to a porthole and looks out. There is a ship docked alongside. He activates a monitor and calls up the Bridge security camera. There are aliens there too, who look like the visitors in the Catwalk.) 
+[Ready room]
+(The person in charge is going through the crew manifest on Archer's monitor.) 
 PALANTI: We've searched every deck. There's no sign of the fugitives. 
 CAPTAIN: What about the crew? 
 PALANTI: It appears they have deserted the ship. 
-CAPTAIN: These humans. They've travelled over a hundred light years
-from their homeworld. 
-ARCHER [OC]: Captain's Starlog, February 9, 2152. The Vulcans have
-allowed the Mazarites to leave. Ambassador V'Lar says there's a 
-CAPTAIN: Archer and his crew must've taken refuge in a nearby system.
-They may intend to return. What's the status of the warp engines? 
+CAPTAIN: These humans. They've travelled over a hundred light years from their homeworld. 
+ARCHER [OC]: Captain's Starlog, February 9, 2152. The Vulcans have allowed the Mazarites to leave. Ambassador V'Lar says there's a 
+CAPTAIN: Archer and his crew must've taken refuge in a nearby system. They may intend to return. What's the status of the warp engines? 
 PALANTI: I'm having difficulty with the dilithium matrix. 
-CAPTAIN: Make it a priority. (Palanti leaves, and he returns to
-the ships logs.) 
-ARCHER [OC]: 2152. We've responded to a distress call from a vessel in
-the 
- [Catwalk] 
- (A crowd has gathered at the alien's area.) 
-PHLOX: They're immune to radiolytic isotopes. The storm was never any
-threat to them. 
+CAPTAIN: Make it a priority. 
+(Palanti leaves, and he returns to the ships logs.) 
+ARCHER [OC]: 2152. We've responded to a distress call from a vessel in the 
+[Catwalk]
+(A crowd has gathered at the alien's area.) 
+PHLOX: They're immune to radiolytic isotopes. The storm was never any threat to them. 
 TUCKER: Funny, you didn't mention that. 
-TAGRIM: We were in danger. Our ship is less durable than yours. We
-would've been destroyed by the storm. 
+TAGRIM: We were in danger. Our ship is less durable than yours. We would've been destroyed by the storm. 
 ARCHER: Who are they? What are they doing here? 
 TAGRIM: Captain, I assure you. We don't know these men. 
-ARCHER: They just happened to find Enterprise in the middle of a class
-five neutronic storm? Where three members of their own species just
-happened to be taking refuge? 
-T'POL: We're more than twenty light years from your homeworld. It's an
-unlikely coincidence. 
+ARCHER: They just happened to find Enterprise in the middle of a class five neutronic storm? Where three members of their own species just happened to be taking refuge? 
+T'POL: We're more than twenty light years from your homeworld. It's an unlikely coincidence. 
 ARCHER: I get the feeling they must be looking for you. Answer me! 
 GURI: I told you we shouldn't have come here. 
 TAGRIM: Guri. 
-RENTH: They're officers of the Takret Militia. They've been pursuing us
-for weeks. We thought we could evade them by hiding aboard your ship. 
+RENTH: They're officers of the Takret Militia. They've been pursuing us for weeks. We thought we could evade them by hiding aboard your ship. 
 GURI: They must've detected our vessel in your launch bay. 
 ARCHER: What do they want with you? 
-RENTH: We used to be members of the militia, in the lower ranks, but
-after a year we realised that the commanding officers were corrupt.
-They seize alien vessels without provocation. They murder the crews,
-take anything of value. 
+RENTH: We used to be members of the militia, in the lower ranks, but after a year we realised that the commanding officers were corrupt. They seize alien vessels without provocation. They murder the crews, take anything of value. 
 GURI: They're little more than criminals. 
 TAGRIM: We tried to resign our commissions but they wouldn't allow it. 
 ARCHER: You're deserters. 
-TAGRIM: We had no choice. We would've told you the truth, but we
-weren't sure that you would help us. 
+TAGRIM: We had no choice. We would've told you the truth, but we weren't sure that you would help us. 
 RENTH: If they find us, we'll be executed. 
-TAGRIM: Captain, I apologise for the difficult position that we've put
-you in, but I know these men. Even if they found us, I doubt they'd
-simply leave. They've captured vessels far less impressive than yours. 
-REED: They're trying to re-initialise the warp reactor, sir. It seems
-to me they've already decided to help themselves to Enterprise. 
-T'POL: They obviously don't realise we're in the catwalk. If they learn
-we're here, it would undoubtedly endanger the crew. 
-TUCKER: What're you suggesting? We just sit on our hands until they
-fire up the engines? 
-ARCHER: You're assuming these three are telling the truth. They've
-already lied to us. 
+TAGRIM: Captain, I apologise for the difficult position that we've put you in, but I know these men. Even if they found us, I doubt they'd simply leave. They've captured vessels far less impressive than yours. 
+REED: They're trying to re-initialise the warp reactor, sir. It seems to me they've already decided to help themselves to Enterprise. 
+T'POL: They obviously don't realise we're in the catwalk. If they learn we're here, it would undoubtedly endanger the crew. 
+TUCKER: What're you suggesting? We just sit on our hands until they fire up the engines? 
+ARCHER: You're assuming these three are telling the truth. They've already lied to us. 
 TAGRIM: We're not lying. These men are dangerous. 
- [Engineering] 
- PALANTI: Palanti to Captain. 
- [Bridge] 
- CAPTAIN: Yes. 
+[Engineering]
+PALANTI: Palanti to Captain. 
+[Bridge]
+CAPTAIN: Yes. 
 PALANTI [OC]: The dilithium matrix is active. 
- [Engineering] 
- PALANTI: We're ready to initialise the warp
-reactor. 
+[Engineering]
+PALANTI: We're ready to initialise the warp reactor. 
 CAPTAIN [OC]: Stand by. 
- [Bridge] 
-(The Alien Captain is in Archer's chair.)  CAPTAIN: Do we have helm
-control? 
-CREWMAN: The navigation relay's still not responding. I think they've
-been re-routed. 
+[Bridge]
+(The Alien Captain is in Archer's chair.) 
+CAPTAIN: Do we have helm control? 
+CREWMAN: The navigation relay's still not responding. I think they've been re-routed. 
 CAPTAIN: How much longer? 
 CREWMAN: I'm not certain. 
- [Engineering] 
- CAPTAIN [OC]: Bring the warp engines online and
-report to the Bridge. 
+[Engineering]
+CAPTAIN [OC]: Bring the warp engines online and report to the Bridge. 
 PALANTI: Acknowledged. 
- [Catwalk] 
- T'POL: We may outnumber them, but we only have
-three EV suits. 
+[Catwalk]
+T'POL: We may outnumber them, but we only have three EV suits. 
 REED: I could take a security team and bring back more. 
-TUCKER: I doubt you'd get very far. The launch bay's crawling with
-them. 
-ARCHER: Even if we could get the suits, we only have twenty two minutes
-in the radiation. Hard to believe we could re-take the ship in that 
-(the group stops and stares as they see the warp engines coming on
-line) 
+TUCKER: I doubt you'd get very far. The launch bay's crawling with them. 
+ARCHER: Even if we could get the suits, we only have twenty two minutes in the radiation. Hard to believe we could re-take the ship in that 
+(the group stops and stares as they see the warp engines coming on line) 
 ARCHER: How long do we have? 
 TUCKER: It'll take a while for the warp coils to charge. 
 ARCHER: How long? 
 TUCKER: Twenty minutes, tops. 
- [Hatch into rest of ship] 
- (Archer, Reed and T'Pol are in EV suits.) 
+[Hatch into rest of ship]
+(Archer, Reed and T'Pol are in EV suits.) 
 TUCKER: Remember, junction forty two alpha. 
 T'POL: Understood. 
-TUCKER: Third panel, starboard side. And be careful. There's a lot of
-current running through those circuits. I really ought to be the one
-doing this, Captain. The Doc said I was only out there for thirteen
-minutes. 
+TUCKER: Third panel, starboard side. And be careful. There's a lot of current running through those circuits. I really ought to be the one doing this, Captain. The Doc said I was only out there for thirteen minutes. 
 ARCHER: Forget it, Trip. You've already been exposed. 
 HOSHI: I've isolated your comm. frequencies. They won't hear a thing. 
 ARCHER: Tell Travis to wait for my signal. 
- [Bridge] 
- CAPTAIN: Any progress? 
-CREWMAN: Not yet. We could lose our ship by staying here. We should
-take what we can and leave. 
+[Bridge]
+CAPTAIN: Any progress? 
+CREWMAN: Not yet. We could lose our ship by staying here. We should take what we can and leave. 
 CAPTAIN: Keep working. I want helm control. 
- [Corridor] 
- ARCHER: I'll see you back at the catwalk. Don't be
-late. 
+[Corridor]
+ARCHER: I'll see you back at the catwalk. Don't be late. 
 REED: Aye, Captain. 
-(Archer heads off on his own to the Galley, and gets at a control panel
-there.) 
- [Catwalk command area] 
- TUCKER: T'Pol? 
+(Archer heads off on his own to the Galley, and gets at a control panel there.) 
+[Catwalk command area]
+TUCKER: T'Pol? 
 T'POL [OC]: We're in position. 
-TUCKER: All right. First, you're going to have to disrupt the
-antimatter stream. 
- [Junction 42A] 
- (An overhead panel is open.) 
-TUCKER [OC]: Do you see the blue conduit to the left of the power
-transfer module? 
+TUCKER: All right. First, you're going to have to disrupt the antimatter stream. 
+[Junction 42A]
+(An overhead panel is open.) 
+TUCKER [OC]: Do you see the blue conduit to the left of the power transfer module? 
 REED: Go ahead. 
- [Catwalk command area] 
- TUCKER: Start by locking down the flow regulators.
- [Junction 42A] 
- T'POL: Stand by. 
- [Bridge] 
- PALANTI: We're being hailed. 
+[Catwalk command area]
+TUCKER: Start by locking down the flow regulators. 
+[Junction 42A]
+T'POL: Stand by. 
+[Bridge]
+PALANTI: We're being hailed. 
 CAPTAIN: Another ship? 
 PALANTI: No. It's coming from within this vessel. 
 CAPTAIN: Answer it. 
-ARCHER [on viewscreen]: (sounding as if he's dying) You're in my chair.
-CAPTAIN: Captain Archer. I didn't realise you were still aboard.
-Where's the rest of your crew? 
+ARCHER [on viewscreen]: (sounding as if he's dying) You're in my chair. 
+CAPTAIN: Captain Archer. I didn't realise you were still aboard. Where's the rest of your crew? 
 ARCHER [on viewscreen]: They're dead, killed by the storm. 
 CAPTAIN: I'm sorry. 
-ARCHER [on viewscreen]: Thanks for your condolences. Now, why don't you
-get the hell off my ship. 
-CAPTAIN: I'm afraid I can't do that. We detected a vessel in your
-launch bay that belongs to three fugitives. 
-ARCHER [on viewscreen]: I've been watching you, I know you're trying to
-take Enterprise. I'm not going to let you. 
-CAPTAIN: You're in no position to do anything about it. I'm in command
-of this Bridge. Your vessel has been impounded under the authority of
-the Takret Militia. When we return, you'll be charged with criminal
-conspiracy. 
-ARCHER [on viewscreen]: I don't recognise your authority. I answer to
-Starfleet Command, and I'm under orders to use any means necessary to
-keep my ship from falling into enemy hands. 
-CAPTAIN: I have soldiers searching every deck. It's only a matter of
-time before they find you. 
-ARCHER [on viewscreen]: You're leaving me no choice. I'll destroy
-Enterprise. 
-CAPTAIN: Earth's first warp five starship? Your father's engine? I've
-been reading about you, Captain, and I doubt very much if you'll do
-anything to damage this vessel. 
+ARCHER [on viewscreen]: Thanks for your condolences. Now, why don't you get the hell off my ship. 
+CAPTAIN: I'm afraid I can't do that. We detected a vessel in your launch bay that belongs to three fugitives. 
+ARCHER [on viewscreen]: I've been watching you, I know you're trying to take Enterprise. I'm not going to let you. 
+CAPTAIN: You're in no position to do anything about it. I'm in command of this Bridge. Your vessel has been impounded under the authority of the Takret Militia. When we return, you'll be charged with criminal conspiracy. 
+ARCHER [on viewscreen]: I don't recognise your authority. I answer to Starfleet Command, and I'm under orders to use any means necessary to keep my ship from falling into enemy hands. 
+CAPTAIN: I have soldiers searching every deck. It's only a matter of time before they find you. 
+ARCHER [on viewscreen]: You're leaving me no choice. I'll destroy Enterprise. 
+CAPTAIN: Earth's first warp five starship? Your father's engine? I've been reading about you, Captain, and I doubt very much if you'll do anything to damage this vessel. 
 ARCHER [on viewscreen]: You would be surprised. (ends transmission) 
 CAPTAIN: Can you trace his signal? 
 PALANTI: He's somewhere on the fifth deck. 
 CAPTAIN: You have men there. Alert them. 
- [Catwalk command area] 
- TUCKER: Go ahead. 
-ARCHER [OC]: (sounding very healthy) It's time to change course,
-Travis. Head straight for that plasma eddy. 
+[Catwalk command area]
+TUCKER: Go ahead. 
+ARCHER [OC]: (sounding very healthy) It's time to change course, Travis. Head straight for that plasma eddy. 
 TRAVIS: It'll take a minute, sir. 
-ARCHER [OC]: Try and keep us in one piece. I'm on my way back. Archer
-out. 
-(Archer goes back into the galley, and gets shot at. He takes cover and
-returns fire) 
- [Bridge] 
- CREWMAN: We've altered course. 
+ARCHER [OC]: Try and keep us in one piece. I'm on my way back. Archer out. 
+(Archer goes back into the galley, and gets shot at. He takes cover and returns fire) 
+[Bridge]
+CREWMAN: We've altered course. 
 CAPTAIN: Where's he taking us? 
- [Catwalk command area] 
- TUCKER: What's the problem shutting down the
-reactor? 
- [Junction 42A] 
- T'POL: We're having trouble with the dilithium
-sequencers. It's taking longer than we expected. 
+[Catwalk command area]
+TUCKER: What's the problem shutting down the reactor? 
+[Junction 42A]
+T'POL: We're having trouble with the dilithium sequencers. It's taking longer than we expected. 
 TUCKER [OC]: I don't mean to rush you 
- [Catwalk command area] 
- TUCKER: But it's getting pretty warm in here. 
-(Archer's shooting match continues, and he gets one of the two
-soldiers.) 
- [Bridge] 
- CREWMAN: He's steering us toward a plasma eddy. 
+[Catwalk command area]
+TUCKER: But it's getting pretty warm in here. 
+(Archer's shooting match continues, and he gets one of the two soldiers.) 
+[Bridge]
+CREWMAN: He's steering us toward a plasma eddy. 
 CAPTAIN: How long? 
 CREWMAN: Less than eight minutes. 
 CAPTAIN: Get me helm control! 
 PALANTI: It'll take me much longer than that. We should evacuate. 
 CAPTAIN: No! 
 PALANTI: You heard what he said. He's willing to destroy his own ship. 
- [Catwalk command area] 
- TUCKER: The temperature just went up another six
-degrees. Sub-Commander, how's it coming? 
+[Catwalk command area]
+TUCKER: The temperature just went up another six degrees. Sub-Commander, how's it coming? 
 T'POL: We're disabling 
- [Junction 42A] 
- T'POL: The final sequencer. 
- [Bridge] 
- CREWMAN: The warp reactor has shut down. 
+[Junction 42A]
+T'POL: The final sequencer. 
+[Bridge]
+CREWMAN: The warp reactor has shut down. 
 PALANTI: Spatial disturbance. We're four minutes from the eddy. 
-(Everybody is hanging on in the turbulence as loose objects fall from
-shelves.) 
-PALANTI: Unless you've found a way to turn this ship around I strongly
-suggest we abort the mission. 
+(Everybody is hanging on in the turbulence as loose objects fall from shelves.) 
+PALANTI: Unless you've found a way to turn this ship around I strongly suggest we abort the mission. 
 CREWMAN: Three minutes. 
-CAPTAIN: Soldiers, report to the docking hatch immediately. I repeat,
-report to the docking hatch! 
-(In the galley, the two pick up their fallen colleague and make their
-exi.t) 
- [Catwalk command area] 
- T'POL: Report. 
+CAPTAIN: Soldiers, report to the docking hatch immediately. I repeat, report to the docking hatch! 
+(In the galley, the two pick up their fallen colleague and make their exi.t) 
+[Catwalk command area]
+T'POL: Report. 
 TRAVIS: We're too close to the eddy. We've got to veer off. 
 T'POL: Maintain your course. 
 (The militia ship undocks and flies away.) 
 TUCKER: Another one like that'll split us in two. 
 T'POL: They could still be on board. 
 TRAVIS: We've got no choice. 
-T'POL: Maintain your course. That's an order. (comm. beep) Go
-ahead. 
-ARCHER [OC]: Travis, I hope you're not still heading for that eddy. Our
-friends are gone. 
+T'POL: Maintain your course. That's an order. (comm. beep) Go ahead. 
+ARCHER [OC]: Travis, I hope you're not still heading for that eddy. Our friends are gone. 
 T'POL: Ensign. 
 (Enterprise veers off into calmer space.) 
- Captain's Starlog, supplemental. We seem to have
-passed through the worst part of the storm, but it'll still be a while
-before we can leave the catwalk. The crew's in relatively good spirits,
-considering they haven't had a change of uniform in eight days. 
- [Catwalk] 
- (Movie night is a Western.) 
+Captain's Starlog, supplemental. We seem to have passed through the worst part of the storm, but it'll still be a while before we can leave the catwalk. The crew's in relatively good spirits, considering they haven't had a change of uniform in eight days. 
+[Catwalk]
+(Movie night is a Western.) 
 TUCKER: Did that guy shoot one of his own men? 
 REED: It's hard to tell them apart in those ridiculous hats. 
 T'POL: The dead man was secretly working for Sheriff Boggs. 
 TUCKER: How do you know that? 
 T'POL: Isn't it obvious? 
-ARCHER [OC]: All hands, this is the Captain. Thanks to some fine
-piloting by Travis Mayweather, we're going to be moving out of the
-storm a little earlier than expected. We should be clear in a few
-minutes. 
+ARCHER [OC]: All hands, this is the Captain. Thanks to some fine piloting by Travis Mayweather, we're going to be moving out of the storm a little earlier than expected. We should be clear in a few minutes. 
 (A round of applause and the house lights come up.) 
-TUCKER: Glad you could join us, Sub-Commander. We have movie night
-every Tuesday, if you're interested. 
-(The ship sails out into black, star-speckled space and the crew return
-to their own quarters again.) 
- [Corridor] 
- TAGRIM: I apologise for the trouble we've caused. 
+TUCKER: Glad you could join us, Sub-Commander. We have movie night every Tuesday, if you're interested. 
+(The ship sails out into black, star-speckled space and the crew return to their own quarters again.) 
+[Corridor]
+TAGRIM: I apologise for the trouble we've caused. 
 ARCHER: Where're you headed next? 
 TAGRIM: The Gyrannan System. We should be safe there. 
 ARCHER: Good luck. 
-T'POL: That's everyone.  
+T'POL: That's everyone. 
 

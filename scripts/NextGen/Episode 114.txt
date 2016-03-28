@@ -1,22 +1,13 @@
 Episode Number: 114
 The Next Generation Transcripts - Datalore
 Datalore
-Stardate:
-41242.4
+Stardate: 41242.4
 Original Airdate: 18 Jan, 1988
- 
-Captain's log, stardate 41242.4. Our last assignment has taken us into
-the remote Omicron Theta star system, home of our android crewmember
-Lieutenant Commander Data. Although we are due at our next assignment,
-I have decided to visit Data's home planet for a few hours in the hopes
-of unravelling some of the mystery of his beginnings.
+Captain's log, stardate 41242.4. Our last assignment has taken us into the remote Omicron Theta star system, home of our android crewmember Lieutenant Commander Data. Although we are due at our next assignment, I have decided to visit Data's home planet for a few hours in the hopes of unravelling some of the mystery of his beginnings. 
 [Bridge]
-LAFORGE: Sir, we are now twenty minutes from
-Omicron Theta, mark! 
-RIKER: Stand by for subwarp. Head for standard orbit of Data's planet.
-I wonder why Data hasn't come up here.
-PICARD: He said he wanted to be alone. Perhaps it's a bigger moment for
-him than we thought. 
+LAFORGE: Sir, we are now twenty minutes from Omicron Theta, mark! 
+RIKER: Stand by for subwarp. Head for standard orbit of Data's planet. I wonder why Data hasn't come up here.
+PICARD: He said he wanted to be alone. Perhaps it's a bigger moment for him than we thought. 
 [Data's Quarters]
 DATA: Aah, ahh, ahh 
 (Wesley enters) 
@@ -27,568 +18,351 @@ DATA: Sneezing.
 WESLEY: Have you got a cold?
 DATA: A cold what?
 WESLEY: It's a disease my mom says people used to get.
-DATA: Ah. But humans still sneeze for other reasons and I cannot seem
-to do it right.
-WESLEY: How can you be practicing something like sneezing when we're
-arriving at your home planet for the first time? Aren't you interested
-in that?
-DATA: More than interested. Fascinated. One might say agog. But I also
-find sneezing interesting. 
+DATA: Ah. But humans still sneeze for other reasons and I cannot seem to do it right.
+WESLEY: How can you be practicing something like sneezing when we're arriving at your home planet for the first time? Aren't you interested in that?
+DATA: More than interested. Fascinated. One might say agog. But I also find sneezing interesting. 
 WESLEY: Captain Picard wishes to see you on the Bridge. 
 [Bridge]
-TASHA: Captain, confirming class M reading there.
-But the sensors aren't showing any life readings. Not even vegetation.
+TASHA: Captain, confirming class M reading there. But the sensors aren't showing any life readings. Not even vegetation.
 PICARD: Strange. The cruiser that found Data reported farmlands here.
 (Data and Wesley enter) 
 RIKER: Do you want to take her into orbit, Data?
 DATA: No, thank you, sir.
 PICARD: Continue on into close parking orbit.
 LAFORGE: Aye, sir.
-DATA: I could say home sweet home, sir, if I understood how the word
-sweet applies.
+DATA: I could say home sweet home, sir, if I understood how the word sweet applies.
 PICARD: It usually refers to the memories.
-RIKER: It usually refers to one's own memories, Captain. Do the
-memories you were given include farms, Data?
+RIKER: It usually refers to one's own memories, Captain. Do the memories you were given include farms, Data?
 DATA: Affirmative, sir. But the colony's principal interest was science.
-TASHA: Data, I can't understand how you can hold the memories of four
-hundred and eleven people. If that means every experience, every day of
-their life?
-DATA: It does not, unfortunately. It means only the knowledge they had
-accumulated. Actually, I am quite deficient in some basic human
-information. Sneezing, for example.
+TASHA: Data, I can't understand how you can hold the memories of four hundred and eleven people. If that means every experience, every day of their life?
+DATA: It does not, unfortunately. It means only the knowledge they had accumulated. Actually, I am quite deficient in some basic human information. Sneezing, for example.
 PICARD: Sneezing?
 LAFORGE: Approaching close parking orbit, sir.
-PICARD: Assemble your away party, Commander. This must be an exciting
-moment for you, Mister Data. I'm tempted to lead the away team myself,
-except that my First Officer would object.
-RIKER: How would Starfleet judge me if I didn't? An entire Earth colony
-did disappear down there.
+PICARD: Assemble your away party, Commander. This must be an exciting moment for you, Mister Data. I'm tempted to lead the away team myself, except that my First Officer would object.
+RIKER: How would Starfleet judge me if I didn't? An entire Earth colony did disappear down there.
 PICARD: You see? 
 LAFORGE: Now in close parking orbit, sir.
-PICARD: Mister Data, welcome home.
-First Officer's log, stardate 4124.5. We have found
-Data's home to be a completely dead world made out of lifeless
-vegetation. No insects, not even soil bacteria. What is it that could
-kill everything on an entire planet? 
+PICARD: Mister Data, welcome home. 
+First Officer's log, stardate 4124.5. We have found Data's home to be a completely dead world made out of lifeless vegetation. No insects, not even soil bacteria. What is it that could kill everything on an entire planet? 
 [Planet surface]
 (Riker, Data, Tasha, Worf and Geordi beam down) 
 TASHA: Recording signal locked onto the Enterprise, sir.
 RIKER: This looks like anything but farmland.
 LAFORGE: Agreed, sir. The soil appears almost completely lifeless.
-RIKER: This is the exact position listed in the Tripoli log. Do you
-recognise anything, Data?
-DATA: The land contours are familiar, sir. Topographically, this is the
-correct area.
-LAFORGE: This once was rich farmland. I'd say something like twenty to
-thirty years ago.
+RIKER: This is the exact position listed in the Tripoli log. Do you recognise anything, Data?
+DATA: The land contours are familiar, sir. Topographically, this is the correct area.
+LAFORGE: This once was rich farmland. I'd say something like twenty to thirty years ago.
 DATA: I was discovered twenty six years ago.
-LAFORGE: Commander, I'd say that everything on this planet was either
-dead or dying at the time Data was found.
+LAFORGE: Commander, I'd say that everything on this planet was either dead or dying at the time Data was found.
 DATA: I was found twenty metres in that direction, sir.
 (They walk down steps cut into the rock, to a cave) 
 TASHA: Data, any idea at all why you were given the colonists' memories?
-DATA: I have always felt that it was done hurriedly, but I know little
-more. Here, sir. This is where the cruiser's landing party found the
-signal device that had led them here. And they found me lying there,
-sir.
+DATA: I have always felt that it was done hurriedly, but I know little more. Here, sir. This is where the cruiser's landing party found the signal device that had led them here. And they found me lying there, sir.
 (He indicates a platform, obviously man-made, on a rock shelf) 
-TASHA: You were just lying out there in the open? No identity record,
-no instructions?
+TASHA: You were just lying out there in the open? No identity record, no instructions?
 DATA: Only a layer of dust. 
 RIKER: What's the first thing you remember, Data?
-DATA: Opening my eyes. Looking into the eyes of the Tripoli landing
-party. They believed that the signal device sensed their presence and
-activated me.
+DATA: Opening my eyes. Looking into the eyes of the Tripoli landing party. They believed that the signal device sensed their presence and activated me.
 TASHA: Then this very spot was your birthplace.
-LAFORGE: Commander, I think I've got this place figured out here. This
-was really very cleverly done to make this look like a natural hollow
-in the terrain here. There are signs of it being constructed in a hurry
-as if to hide something here.
-DATA: Yes, that was it, Geordi. This wakens a memory remnant of how the
-colonists hoped to remain hidden, but their fear of being discovered
-led to their storing information in me.
+LAFORGE: Commander, I think I've got this place figured out here. This was really very cleverly done to make this look like a natural hollow in the terrain here. There are signs of it being constructed in a hurry as if to hide something here.
+DATA: Yes, that was it, Geordi. This wakens a memory remnant of how the colonists hoped to remain hidden, but their fear of being discovered led to their storing information in me.
 LAFORGE: Yeah, thought so. 
-(He has found the catch to the secret door. The back of the cave swings
-open to reveal a passageway into)
+(He has found the catch to the secret door. The back of the cave swings open to reveal a passageway into) 
 [Underground Complex]
 (Riker turns the lights on) 
 TASHA: No life readings in here either, sir. 
-(They walk on until they come to a circular door, which opens for them)
+(They walk on until they come to a circular door, which opens for them) 
 [Laboratory]
-(The lights come on. The apparatus is still
-functioning. Lasers and indicators are flashing and blinking) 
-RIKER: The colony laboratory. Extremely well equipped. Does this stir
-any memories, Data?
+(The lights come on. The apparatus is still functioning. Lasers and indicators are flashing and blinking) 
+RIKER: The colony laboratory. Extremely well equipped. Does this stir any memories, Data?
 DATA: Only a vague impression of some of my functions being tested here.
-(There are crude pictures on a notice board of a spiky object in the
-sky) 
+(There are crude pictures on a notice board of a spiky object in the sky) 
 RIKER: Posted by proud parents? 
-DATA: It depicts something that feels familiar, sir. And dangerous. But
-I have no idea what it represents. And that is all. Except for an
-impression of this being a Doctor Soong's work area.
+DATA: It depicts something that feels familiar, sir. And dangerous. But I have no idea what it represents. And that is all. Except for an impression of this being a Doctor Soong's work area.
 RIKER: Who? You don't mean Doctor Noonien Soong?
-DATA: He was called that here, but his memories indicate he travelled
-here under a different name.
-LAFORGE: Doctor Noonien Soong, my friend, happens to have been Earth's
-foremost robotics scientist. 
-TASHA: Until he tried to make Asimov's dream of a positronic brain come
-true.
-RIKER: A positronic brain. He promised so much. And then when he failed
-completely, Doctor Soong disappeared. Now we know he went somewhere
-else to try a second time. Data, Geordi, we'll get a close look at this
-lab. You and Lieutenant Worf reconnoitre where these corridors lead.
+DATA: He was called that here, but his memories indicate he travelled here under a different name.
+LAFORGE: Doctor Noonien Soong, my friend, happens to have been Earth's foremost robotics scientist. 
+TASHA: Until he tried to make Asimov's dream of a positronic brain come true.
+RIKER: A positronic brain. He promised so much. And then when he failed completely, Doctor Soong disappeared. Now we know he went somewhere else to try a second time. Data, Geordi, we'll get a close look at this lab. You and Lieutenant Worf reconnoitre where these corridors lead.
 TASHA: Aye, sir. 
 (Tasha and Work leave) 
-(Riker presses a button and a cover slides back to reveal a transparent
-torso and face mask. Data puts the mask over his own face)
+(Riker presses a button and a cover slides back to reveal a transparent torso and face mask. Data puts the mask over his own face)
 LAFORGE: Data, it's you.
 RIKER: An epidermal mold. Made to give your exterior the desired finish.
 TASHA [OC]: Lieutenant Yar to Commander Riker.
 RIKER: Come in, Lieutenant.
-TASHA [OC]: Sir, this installation is big enough to hold hundreds of
-people. But all that's here now is empty beds.
-RIKER: Thank you, Lieutenant. Complete your record scans and report
-back here.
+TASHA [OC]: Sir, this installation is big enough to hold hundreds of people. But all that's here now is empty beds.
+RIKER: Thank you, Lieutenant. Complete your record scans and report back here.
 LAFORGE: Commander Riker, looks like some sort of storage area.
-(Data opens the new door and dry ice pours out before revealing another
-android, in pieces) 
+(Data opens the new door and dry ice pours out before revealing another android, in pieces) 
 RIKER: How many more Datas are there?
 LAFORGE: Looks like just these two. I mean, that and the real Data.
 DATA: Commander, can this be another me? Or possibly my brother?
 RIKER: I honestly don't know, Data.
 DATA: He needs assembling.
 RIKER: He? Data, we don't know that this can become alive.
-DATA: It is very important for me to know that, sir. I never dreamed it
-was possible I might find some link with some form like my own.
-RIKER: Understood. We'll take it back to the ship with us.
-Captain's log, Stardate 41242.45. Despite having
-only a few hours in which to explore Data's home planet we've
-discovered something which may explain Data's beginnings, if we can
-properly assemble and communicate with what we've found.
+DATA: It is very important for me to know that, sir. I never dreamed it was possible I might find some link with some form like my own.
+RIKER: Understood. We'll take it back to the ship with us. 
+Captain's log, Stardate 41242.45. Despite having only a few hours in which to explore Data's home planet we've discovered something which may explain Data's beginnings, if we can properly assemble and communicate with what we've found. 
 [Laboratory]
-(A mass of people are working on putting the pieces
-together, while Data looks on) 
+(A mass of people are working on putting the pieces together, while Data looks on) 
 CRUSHER: Signal from the Captain. They need you at the debriefing.
-DATA: I've been most anxious to hear the Chief Engineer's opinion,
-Mister Argyle. Do you believe he can be made to function?
-ARGYLE: It appears to include all the components in your body. Not that
-we fully understand your construction either.
-CRUSHER: We have our top specialists working on its construction,
-Mister Data.
-ARGYLE: Just one thing. Without disassembling you, of course, if we
-should need more
-CRUSHER: If we should need to compare this with the way you're put
-together? 
-(Data nods)
+DATA: I've been most anxious to hear the Chief Engineer's opinion, Mister Argyle. Do you believe he can be made to function?
+ARGYLE: It appears to include all the components in your body. Not that we fully understand your construction either.
+CRUSHER: We have our top specialists working on its construction, Mister Data.
+ARGYLE: Just one thing. Without disassembling you, of course, if we should need more
+CRUSHER: If we should need to compare this with the way you're put together? 
+(Data nods) 
 [Observation Lounge]
-PICARD: Bringing it up here was the right thing to
-do, Number One. We were just saying, Data, that if your duplicate
-functions, it might answer a lot of questions.
+PICARD: Bringing it up here was the right thing to do, Number One. We were just saying, Data, that if your duplicate functions, it might answer a lot of questions.
 RIKER: Does it appear to have all your parts?
 DATA: Completely, sir.
 LAFORGE: Will we know how to turn it on?
-PICARD: All right, all right. Legitimate questions about any of this
-need not be asked apologetically. You feel uncomfortable about aspects
-of your duplicate, Data. We feel uncomfortable too, and for no logical
-reason. If it feels awkward to be reminded that Data is a machine, just
-remember that we are merely a different variety of machine. In our
-case, electrochemical in nature. Let's begin to handle this as we would
-do anything else.
+PICARD: All right, all right. Legitimate questions about any of this need not be asked apologetically. You feel uncomfortable about aspects of your duplicate, Data. We feel uncomfortable too, and for no logical reason. If it feels awkward to be reminded that Data is a machine, just remember that we are merely a different variety of machine. In our case, electrochemical in nature. Let's begin to handle this as we would do anything else.
 LAFORGE: Agreed, Captain.
 PICARD: Let's begin with you, Data.
-DATA: Well, sir, a good starting point may be, why was I given human
-form?
-LAFORGE: Well, to make it easier for humans to relate to you. Had to
-be. But your designer may have had something else to prove as well.
-PICARD: That human-shaped robots need not be clumsy or limited. You
-certainly operate as well as we do, Data 
+DATA: Well, sir, a good starting point may be, why was I given human form?
+LAFORGE: Well, to make it easier for humans to relate to you. Had to be. But your designer may have had something else to prove as well.
+PICARD: That human-shaped robots need not be clumsy or limited. You certainly operate as well as we do, Data 
 DATA: Better in some ways, sir. 
-RIKER: You might want to have a look at this, Captain. Could be a link
-to the disappearance of the colonists. It was displayed in the lab, no
-doubt by proud parents. It could be just a child's imagination, but
-several children did similar drawings.
-CRUSHER [OC]: Doctor Crusher to Captain. At this point, sir, we very
-much need Mister Data's help.
-PICARD: He's on his way, Doctor.
+RIKER: You might want to have a look at this, Captain. Could be a link to the disappearance of the colonists. It was displayed in the lab, no doubt by proud parents. It could be just a child's imagination, but several children did similar drawings.
+CRUSHER [OC]: Doctor Crusher to Captain. At this point, sir, we very much need Mister Data's help.
+PICARD: He's on his way, Doctor. 
 [Laboratory]
-(While technobabbnle goes on over the new android,
-Data is talking quietly with Crusher) 
-DATA: Press your fingers there, Doctor. (the small of his back) There.
-It operates almost as a switch.
+(While technobabbnle goes on over the new android, Data is talking quietly with Crusher) 
+DATA: Press your fingers there, Doctor. (the small of his back) There. It operates almost as a switch.
 CRUSHER: And these small projections?
-DATA: An android alarm clock. Is that amusing? They time how long I
-remain unconscious.
+DATA: An android alarm clock. Is that amusing? They time how long I remain unconscious.
 ARGYLE: Are you certain about us using these heating devices, Data?
 DATA: I will feel nothing at all.
-ARGYLE: Marvellous. It should all be a lot simpler once we can see how
-your circuitry's connected.
+ARGYLE: Marvellous. It should all be a lot simpler once we can see how your circuitry's connected.
 CRUSHER: I won't mention it to anyone. You have my word.
 DATA: If you had an off switch Doctor, would you not keep it secret?
-CRUSHER: I guess I would.
+CRUSHER: I guess I would. 
 [Sickbay]
-(Data and his twin are lying on biobeds, as the
-Argyle and Crusher gaze at Data's magnified innards) 
-ARGYLE: Notice the micro-circuitry here and here. And another
-fibroid-like connection here.
+(Data and his twin are lying on biobeds, as the Argyle and Crusher gaze at Data's magnified innards) 
+ARGYLE: Notice the micro-circuitry here and here. And another fibroid-like connection here.
 CRUSHER: Let's close up. 
 (Later, Riker and Picard enter) 
-ARGYLE: It seemed to go well, thanks to a look inside Mister Data. But
-there have been no signs of consciousness, yet
+ARGYLE: It seemed to go well, thanks to a look inside Mister Data. But there have been no signs of consciousness, yet
 RIKER: It certainly is a good match for Data, sir.
 PICARD: Do you think so, really? I wonder which of them was made first?
-LORE: He was. But they found him imperfect and I was made to replace
-him. (he twitches) You may call me Lore.
+LORE: He was. But they found him imperfect and I was made to replace him. (he twitches) You may call me Lore. 
 Ready Room]
-PICARD: I'm also a bit troubled by it describing
-you as imperfect.
-DATA: Human language gives me difficulty too, sir. Imperfect could mean
-I lack certain abilities he possesses.
-PICARD: I wonder. But the point of this is, whether you and it have
-approximately the same capabilities.
-DATA: We do, sir, and your referring to him as an it suggests that I,
-too, fit into the category of a thing.
+PICARD: I'm also a bit troubled by it describing you as imperfect.
+DATA: Human language gives me difficulty too, sir. Imperfect could mean I lack certain abilities he possesses.
+PICARD: I wonder. But the point of this is, whether you and it have approximately the same capabilities.
+DATA: We do, sir, and your referring to him as an it suggests that I, too, fit into the category of a thing.
 PICARD: I see your point. My apologies.
-DATA: Gladly accepted, sir. As for Lore's abilities, his use of syntax
-and grammar suggests he was given human memories similar to my own.
+DATA: Gladly accepted, sir. As for Lore's abilities, his use of syntax and grammar suggests he was given human memories similar to my own.
 PICARD: And you have about equal physical strength and mental abilities?
 DATA: I believe so, sir.
-PICARD: Which requires I now ask you a very serious question. Since the
-two of you are closely related to each other.
-DATA: The answer, sir, is that my loyalty is to you and Starfleet.
-Completely.
-PICARD: Thank you, Commander. I was certain of that.
+PICARD: Which requires I now ask you a very serious question. Since the two of you are closely related to each other.
+DATA: The answer, sir, is that my loyalty is to you and Starfleet. Completely.
+PICARD: Thank you, Commander. I was certain of that. 
 [Bridge]
-(Lore is in a brown overall, getting an
-introduction to ship's operations) 
-LAFORGE: And helm control is here, with the ship's heading given in
-measurements we call degrees. Three hundred and sixty of them in a full
-circle this way.
+(Lore is in a brown overall, getting an introduction to ship's operations) 
+LAFORGE: And helm control is here, with the ship's heading given in measurements we call degrees. Three hundred and sixty of them in a full circle this way.
 LORE: Then you say mark. 
 LAFORGE: On the nose.
-WESLEY: Which separates it from another full three hundred and sixty
-degree circle this way on a right angle to this one.
-LORE: So by ordering a heading so many degrees this way and so many
-this way, the ship can travel in any direction. All three dimensions. 
+WESLEY: Which separates it from another full three hundred and sixty degree circle this way on a right angle to this one.
+LORE: So by ordering a heading so many degrees this way and so many this way, the ship can travel in any direction. All three dimensions. 
 RIKER: And the square of the hypotenuse of a right triangle
-LORE: Is equal to the sum of the square of the other two. Two
-something. Which I once heard, but never understood.
-DATA: All of which you will learn more about when the Captain has
-approved your being on the Bridge.
+LORE: Is equal to the sum of the square of the other two. Two something. Which I once heard, but never understood.
+DATA: All of which you will learn more about when the Captain has approved your being on the Bridge.
 LORE: Have I committed an offence?
-WESLEY: You will find that there are many rules on starships that must
-be learnt.
+WESLEY: You will find that there are many rules on starships that must be learnt.
 LORE: You're very clever, Wesley. I now have duties to perform. Correct?
 WORF: Were you ever this anxious to please, Data?
 DATA: Never. I judge Lore to be superior in that desire.
-LORE: Because I was designed to be so human, my brother, I enjoy
-pleasing humans.
+LORE: Because I was designed to be so human, my brother, I enjoy pleasing humans.
 LAFORGE: My brother. That has a nice sound to it, Data.
 DATA: You consider it important to please humans?
 LORE: It's not important?
-DATA: There are many things of importance. Some more than others.
+DATA: There are many things of importance. Some more than others. 
 [Corridor]
-DATA: Do you realise that Commander Riker's
-hypotenuse question tricked you into showing your knowledge was greater
-than you were indicating?
+DATA: Do you realise that Commander Riker's hypotenuse question tricked you into showing your knowledge was greater than you were indicating?
 LORE: He didn't seem that clever. I'll be more careful.
-DATA: You tend to underestimate humans, my brother. Praising young
-Wesley on the helm, for example
+DATA: You tend to underestimate humans, my brother. Praising young Wesley on the helm, for example
 LORE: A child!
 DATA: He has a child's body, but we have found him to be much more.
-LORE: Thank you for that information, too. You do care about how I
-perform. I pledge to be worthy of your teaching, my brother. Try not to
-be jealous of my abilities. 
+LORE: Thank you for that information, too. You do care about how I perform. I pledge to be worthy of your teaching, my brother. Try not to be jealous of my abilities. 
 [Data's Quarters]
 (Data sits at a computer terminal) 
 LORE: What information are you requesting?
 DATA: Everything available on a Doctor Noonien Soong.
-LORE: Good old Often Wrong Soong. A joke, brother. Actually, he was a
-genius by human standards.
-DATA: But he had destroyed his own reputation by making what seemed
-wild promises about his positronic brain design, almost all of which
-failed.
-LORE: Promises he later proved to be true. Which made you and me
-possible, brother. Our beloved father. Will I soon have a uniform like
-that, brother?
-DATA: If you get one the way I did, Lore, it will mean four years at
-the Academy, another three as ensign, ten or twelve on varied space
-duty in the lieutenant grades.
-LORE: A system designed to compensate for limited human ability. And
-you, brother, are beginning to think as a human. You and I are
-completely different from them. Are you truly satisfied with the
-knowledge and memory of a few hundred human colonists? Suppose it could
-reflect thousands? Or millions? Or the knowledge of hundreds of
-millions of life forms of every kind?
+LORE: Good old Often Wrong Soong. A joke, brother. Actually, he was a genius by human standards.
+DATA: But he had destroyed his own reputation by making what seemed wild promises about his positronic brain design, almost all of which failed.
+LORE: Promises he later proved to be true. Which made you and me possible, brother. Our beloved father. Will I soon have a uniform like that, brother?
+DATA: If you get one the way I did, Lore, it will mean four years at the Academy, another three as ensign, ten or twelve on varied space duty in the lieutenant grades.
+LORE: A system designed to compensate for limited human ability. And you, brother, are beginning to think as a human. You and I are completely different from them. Are you truly satisfied with the knowledge and memory of a few hundred human colonists? Suppose it could reflect thousands? Or millions? Or the knowledge of hundreds of millions of life forms of every kind?
 DATA: How?
 LORE: We will discuss that in time.
 DATA: And will we also discuss, Lore, which of us was constructed first?
-LORE: It would be foolish to underestimate you, brother. Yes, I lied
-when I said you were made first, but with good reason. Doctor Soong
-made me perfect in his first attempt. But he made me so completely
-human the colonists became envious of me. 
+LORE: It would be foolish to underestimate you, brother. Yes, I lied when I said you were made first, but with good reason. Doctor Soong made me perfect in his first attempt. But he made me so completely human the colonists became envious of me. 
 DATA: You lived with the colonists?
-LORE: Until they petitioned Soong to make a more comfortable, less
-perfect android. In other words, you, brother. Haven't you noticed how
-easily I handle human speech? I use their contractions. For example, I
-say can't or isn't, and you say cannot or is not. (sings) I say tomato,
-you say tomahto. I say potato, you say potahto. (laughs) A very old
-joke. But then you also have trouble with their humour. Am I right?
+LORE: Until they petitioned Soong to make a more comfortable, less perfect android. In other words, you, brother. Haven't you noticed how easily I handle human speech? I use their contractions. For example, I say can't or isn't, and you say cannot or is not. (sings) I say tomato, you say tomahto. I say potato, you say potahto. (laughs) A very old joke. But then you also have trouble with their humour. Am I right?
 DATA: Quite true. I keep trying to be more human, and keep failing. 
 LORE: Do you realise, brother, I can help you become more human?
-DATA: And do you realise, Lore, that I am obligated to report all of
-this to our ship's Captain?
-LORE: I assumed as much when I began studying you. May I use this to
-learn more of this vessel and its customs?
-DATA: Use it also to describe for the Captain the time you spent among
-the colonists. Including everything you know about what happened to
-them.
+DATA: And do you realise, Lore, that I am obligated to report all of this to our ship's Captain?
+LORE: I assumed as much when I began studying you. May I use this to learn more of this vessel and its customs?
+DATA: Use it also to describe for the Captain the time you spent among the colonists. Including everything you know about what happened to them.
 LORE: I promise a report of great detail and accuracy.
-DATA: Thank you, Lore. I now have duties to perform. Unless of course,
-you need something more.
+DATA: Thank you, Lore. I now have duties to perform. Unless of course, you need something more.
 LORE: I have more than I dreamed possible, brother. 
-(And Lore starts accessing ship's records at great speed from terminal
-40271)
-Captain's log, stardate 41242.5. Thanks to Lore's
-report, we now know what happened to the colonists. Beginning with a
-child's drawing, enhanced by Lore's description, our computer has
-constructed the image of a great crystalline entity which feeds on
-life, insatiably ravenous for the life force found in living forms,
-capable of stripping all life from an entire world.
+(And Lore starts accessing ship's records at great speed from terminal 40271) 
+Captain's log, stardate 41242.5. Thanks to Lore's report, we now know what happened to the colonists. Beginning with a child's drawing, enhanced by Lore's description, our computer has constructed the image of a great crystalline entity which feeds on life, insatiably ravenous for the life force found in living forms, capable of stripping all life from an entire world. 
 [Bridge]
 TASHA: But how did Data escape that thing? Or Lore?
-RIKER: Lore had been disassembled. He explained it as jealousy from the
-colonists. And Data wasn't yet alive at that time.
-PICARD: Which explains why Data could be left outside in no danger from
-that creature. Whatever happened to the colonists, he would be found by
-the first Starfleet crew that responded to the signal he transmitted.
-TASHA: By which Doctor Soong left proof behind that his experiment did
-work.
+RIKER: Lore had been disassembled. He explained it as jealousy from the colonists. And Data wasn't yet alive at that time.
+PICARD: Which explains why Data could be left outside in no danger from that creature. Whatever happened to the colonists, he would be found by the first Starfleet crew that responded to the signal he transmitted.
+TASHA: By which Doctor Soong left proof behind that his experiment did work.
 RIKER: Captain, how believable do you find that crystal thing?
-PICARD: With so little of even our galaxy explored, I find it at least
-possible.
-TASHA: Data, are you expecting Lore to come up here? He left your
-quarters some time ago.
+PICARD: With so little of even our galaxy explored, I find it at least possible.
+TASHA: Data, are you expecting Lore to come up here? He left your quarters some time ago.
 DATA: To go?
 TASHA: My turbo-sensors say he went to deck four. Worf?
-WORF: Where he examined some micro-miniature work tools, and some fine
-grind quadratanium ?
-DATA: Which is used in our construction. That particular compound is no
-more suspicious, sir, than a human looking for an antiseptic or an
-ointment. Nevertheless, I should check it out.
-CRUSHER: You're watching everything he does, Data? Is that the act of a
-brother?
+WORF: Where he examined some micro-miniature work tools, and some fine grind quadratanium ?
+DATA: Which is used in our construction. That particular compound is no more suspicious, sir, than a human looking for an antiseptic or an ointment. Nevertheless, I should check it out.
+CRUSHER: You're watching everything he does, Data? Is that the act of a brother?
 PICARD: It's the act of a Starfleet officer obeying his Captain, Doctor.
 (Data leaves) 
-TASHA: Captain? Speaking strictly as Security Chief, how much can you
-trust Data now?
-PICARD: I trust him completely. But everyone should also realise that
-that was a necessary and legitimate security question.
-TASHA: Thank you, sir.
+TASHA: Captain? Speaking strictly as Security Chief, how much can you trust Data now?
+PICARD: I trust him completely. But everyone should also realise that that was a necessary and legitimate security question.
+TASHA: Thank you, sir. 
 [Data's Quarters]
-(Lore pours out two glasses of champagne, and adds
-a substance to one of them. Data enters) 
-LORE: Lesson number one in becoming more human. You must observe all
-human customs.
+(Lore pours out two glasses of champagne, and adds a substance to one of them. Data enters) 
+LORE: Lesson number one in becoming more human. You must observe all human customs.
 DATA: Champagne?
-LORE: An ancient ritual still practiced when they celebrate events of
-importance. My brother, I toast our discovery of each other. May it
-fill our lives with new meaning.
+LORE: An ancient ritual still practiced when they celebrate events of importance. My brother, I toast our discovery of each other. May it fill our lives with new meaning.
 (Data drinks from the doctored glass) 
-DATA: I have some doubts about the value of human customs (feels an
-effect) in this. My brother! 
-LORE: And let us toast also Doctor Soong, who gave me the full richness
-of human needs and ambitions. A perfect match for my mind, my body. 
+DATA: I have some doubts about the value of human customs (feels an effect) in this. My brother! 
+LORE: And let us toast also Doctor Soong, who gave me the full richness of human needs and ambitions. A perfect match for my mind, my body. 
 (Data collapses) 
-LORE: And let us toast also the great Crystal Entity with whom I
-learned to communicate. Before Doctor Soong disassembled me, I earned
-its gratitude by revealing the way to the colonists. Can you image its
-gratitude when I give it the life on this vessel?
+LORE: And let us toast also the great Crystal Entity with whom I learned to communicate. Before Doctor Soong disassembled me, I earned its gratitude by revealing the way to the colonists. Can you image its gratitude when I give it the life on this vessel? 
 [Bridge]
-WORF: This is strange, sir. I show Commander Data
-transmitting on a subspace channel.
-RIKER: I know Data's been doing considerable research on Doctor Soong's
-background. Let's be sure. Wesley, would you look in on Commander Data?
-Discreetly?
-WESLEY: Yes sir!
+WORF: This is strange, sir. I show Commander Data transmitting on a subspace channel.
+RIKER: I know Data's been doing considerable research on Doctor Soong's background. Let's be sure. Wesley, would you look in on Commander Data? Discreetly?
+WESLEY: Yes sir! 
 [Data's Quarters]
-(Obviously, Lore is now impersonating Data and has
-donned his uniform) 
-LORE: Crystal Entity. Upon arriving here you can identify me as the
-machine named Data. (door bell) End of message. Come in, please. 
-(Wesley enters and sees Lore, or rather Data in Lore's overall, on the
-floor) 
-LORE: Glad you are here, Wesley. Lore suddenly attacked me and I had to
-turn him off.
+(Obviously, Lore is now impersonating Data and has donned his uniform) 
+LORE: Crystal Entity. Upon arriving here you can identify me as the machine named Data. (door bell) End of message. Come in, please. 
+(Wesley enters and sees Lore, or rather Data in Lore's overall, on the floor) 
+LORE: Glad you are here, Wesley. Lore suddenly attacked me and I had to turn him off.
 WESLEY: Why did he do that, Data?
-LORE: He discovered we have been using sensors to follow what he does.
-(twitch) I practiced his facial tic. Do I have it right?
-WESLEY: I'd suggest you forget imitating him. If you'd said we've been
-using the sensors, instead of we have, I might have suspected you were
-Lore.
-LORE: Yes. I do use language more formally than Lore. Please inform the
-Captain I will come up to the Bridge and report on this.
+LORE: He discovered we have been using sensors to follow what he does. (twitch) I practiced his facial tic. Do I have it right?
+WESLEY: I'd suggest you forget imitating him. If you'd said we've been using the sensors, instead of we have, I might have suspected you were Lore.
+LORE: Yes. I do use language more formally than Lore. Please inform the Captain I will come up to the Bridge and report on this.
 WESLEY: Aye, sir. 
-(Wesley leaves, and Lore uses a laser to recreate his tic on Data, and
-cure his own)
+(Wesley leaves, and Lore uses a laser to recreate his tic on Data, and cure his own) 
 [Bridge]
-CRUSHER: Wes, tell me again how Data said he
-immobilised Lore.
+CRUSHER: Wes, tell me again how Data said he immobilised Lore.
 WESLEY: He told me he just turned him off, Mom, er, Doctor.
 (Lore as Data enters) 
-CRUSHER: Question, Mister Data. Did you or did you not swear me to
-secrecy about your off switch?
-LORE: A change of mind, Doctor. If I cannot trust the bridge crew, whom
-can I?
-LAFORGE: Captain, I'm picking up a bogey coming in on a five o'clock
-tangent.
+CRUSHER: Question, Mister Data. Did you or did you not swear me to secrecy about your off switch?
+LORE: A change of mind, Doctor. If I cannot trust the bridge crew, whom can I?
+LAFORGE: Captain, I'm picking up a bogey coming in on a five o'clock tangent.
 TASHA: It's transmitting no ID signal, Captain.
 RIKER: Set main viewer on that tangent.
-PICARD: Shields up. Go to Yellow Alert. Transmit friendly greetings,
-all languages, all frequencies.
+PICARD: Shields up. Go to Yellow Alert. Transmit friendly greetings, all languages, all frequencies.
 (The Crystal Entity whooshes towards them) 
 RIKER: I can't believe anything's overtaking us this fast.
 LORE: Beautiful, isn't it?
 RIKER: I recognise it, sir. It's the crystal image Lore described. 
 CRUSHER: My God. 
 (The Enterprise is dwarfed by the Entity) 
-TASHA: Still no ID being transmitted, sir. Also no answer to our
-inquiries.
+TASHA: Still no ID being transmitted, sir. Also no answer to our inquiries.
 (Geordi enters, or re-enters. Some time must have passed) 
 PICARD: Did you get a direct look at it?
-LAFORGE: It's like a giant snow flake crystal, but much more complex.
-The entire electromagnetic spectrum seems to play about inside it, but
-I haven't the slightest idea what it is, sir.
-PICARD: Thank you, Lieutenant. Data, is there anything else that Lore
-can tell us about it, it may be important. Can you control him enough
-to question him?
+LAFORGE: It's like a giant snow flake crystal, but much more complex. The entire electromagnetic spectrum seems to play about inside it, but I haven't the slightest idea what it is, sir.
+PICARD: Thank you, Lieutenant. Data, is there anything else that Lore can tell us about it, it may be important. Can you control him enough to question him?
 LORE: I will have to examine him to know, sir.
 WESLEY: Captain, recommend that you do not let him roam the ship freely.
 PICARD: Ensign.
-LORE: Wesley is only showing himself to be alert and responsible.
-Something to encourage. Come, you can watch everything I do.
+LORE: Wesley is only showing himself to be alert and responsible. Something to encourage. Come, you can watch everything I do.
 WESLEY: Not if I have a choice.
 PICARD: That is enough, Ensign. When addressing a senior officer.
-RIKER: I've guided his training, sir, I'm the one at fault. You will
-show the proper respect. I will accompany you down there to make
-certain of it. With your approval, of course, sir.
+RIKER: I've guided his training, sir, I'm the one at fault. You will show the proper respect. I will accompany you down there to make certain of it. With your approval, of course, sir. 
 [Data's Quarters]
-LORE: Be careful of Lore. Good. He is still
-unconscious. Notice the same twitch, even though he is unconscious?
-Stay back. We may have problems if he senses someone else is near.
-(flicks Data's switch on and off) Lore, I have a few questions to ask
-you. 
-LORE: Lore, it is Data. He senses you. I cannot control him if you
-stay. Please! I will record everything he says. 
+LORE: Be careful of Lore. Good. He is still unconscious. Notice the same twitch, even though he is unconscious? Stay back. We may have problems if he senses someone else is near. (flicks Data's switch on and off) Lore, I have a few questions to ask you. 
+LORE: Lore, it is Data. He senses you. I cannot control him if you stay. Please! I will record everything he says. 
 RIKER: You will bring it to the Bridge, immediately. 
 (Riker and Wesley leave) 
 LORE: And you want to be as stupid as them, dear brother? 
-(Lore kicks Data in the head, opening a flap of skin)
+(Lore kicks Data in the head, opening a flap of skin) 
 [Bridge]
 PICARD: Well, Number One?
-RIKER: It was Lore, sir. Same facial twitches that we've seen all
-along. Lying unconscious on the floor exactly as Data had described.
-But then it suddenly became violent, apparently sensing that Wesley and
-I were present. 
+RIKER: It was Lore, sir. Same facial twitches that we've seen all along. Lying unconscious on the floor exactly as Data had described. But then it suddenly became violent, apparently sensing that Wesley and I were present. 
 WESLEY: Or is it Lore pretending to be Data and faking it all?
-PICARD: I asked for Commander Riker's report, Acting Ensign Crusher.
-And since it now seems clear that you are unable to function within the
-limits of that appointment
+PICARD: I asked for Commander Riker's report, Acting Ensign Crusher. And since it now seems clear that you are unable to function within the limits of that appointment
 LAFORGE: Captain!
 (The entity is starting to send rays their way) 
 TASHA: Deflector shields holding, sir.
-PICARD: Bring photon torpedoes to ready. Main phasers to ready. Go to
-Red Alert, please.
+PICARD: Bring photon torpedoes to ready. Main phasers to ready. Go to Red Alert, please.
 (Data/Lore enters) 
 WORF: Weapons now ready, sir. 
 LORE: No, Captain, let me talk to it. 
-PICARD: You didn't say you could do that. (the ship shakes)
-Affirmative. Talk to it.
-LORE: Open hailing frequencies. Crystal form, I identify myself as
-Data, advising you to stop your attack. The humans here are powerful,
-capable of injuring or even destroying you. 
+PICARD: You didn't say you could do that. (the ship shakes) Affirmative. Talk to it.
+LORE: Open hailing frequencies. Crystal form, I identify myself as Data, advising you to stop your attack. The humans here are powerful, capable of injuring or even destroying you. 
 (The attack stops) 
 LAFORGE: Now I call that communicating.
-LORE: Suggest moving fast to confirm what I told it, sir. Permission to
-use the large transporter in cargo room three. There I can beam up some
-living pattern, perhaps a large tree.
+LORE: Suggest moving fast to confirm what I told it, sir. Permission to use the large transporter in cargo room three. There I can beam up some living pattern, perhaps a large tree.
 RIKER: Which you'll beam over next to the entity
-LORE: That is correct, Riker. Our ship's phasers will then blast and
-disintegrate it, proving we are dangerous.
+LORE: That is correct, Riker. Our ship's phasers will then blast and disintegrate it, proving we are dangerous.
 PICARD: Make it so. 
 LORE: Sir?
 PICARD: Do it. 
 (Lore leaves) 
 WESLEY: Sir, I know this may finish me as an Acting Ensign, but 
-PICARD: Shut up, Wesley! Lieutenant, pick a good security team, let me
-know what he does.
+PICARD: Shut up, Wesley! Lieutenant, pick a good security team, let me know what he does.
 TASHA: Aye, sir. 
 CRUSHER: Shut up, Wesley?
 PICARD: Doctor. 
 WESLEY: And since I am finished here, sir, may I point out that 
 CRUSHER: Shut up, Wesley!
-WESLEY: That everything that I have said would have been listened to if
-it came from an adult officer. Request permission to return to my
-quarters, sir.
+WESLEY: That everything that I have said would have been listened to if it came from an adult officer. Request permission to return to my quarters, sir.
 PICARD: Agreed. Doctor, go with him.
 CRUSHER: You're putting me off the Bridge?
-PICARD: I'm asking that you keep an eye on your son during all of this,
-Doctor.
+PICARD: I'm asking that you keep an eye on your son during all of this, Doctor. 
 [Turbolift]
-(Worf is leading the security team, but gets cut
-off from them when -) 
+(Worf is leading the security team, but gets cut off from them when -) 
 LORE: Emergency close! 
 (He slaps the phaser out of Worf's hand) 
 LORE: Now, show me your warrior fierceness. 
-(Of course, flesh and blood is no match for the machine)
+(Of course, flesh and blood is no match for the machine) 
 [Data's Quarters]
-CRUSHER: I'll look. But I shouldn't have let you
-talk me into this. 
-WESLEY: Mom, it's Data. He's been hurt. It's Data, Mom. I heard you
-know how to turn them on. 
+CRUSHER: I'll look. But I shouldn't have let you talk me into this. 
+WESLEY: Mom, it's Data. He's been hurt. It's Data, Mom. I heard you know how to turn them on. 
 CRUSHER: This is very serious. 
 WESLEY: So just tell me to shut up, Wesley, and I will.
 CRUSHER: You're being very unfair, Wes.
 (She switches Data on) 
-WESLEY: Data, the Crystal Thing is outside somewhere close to the ship,
-and Lore is loose on the inside.
+WESLEY: Data, the Crystal Thing is outside somewhere close to the ship, and Lore is loose on the inside.
 CRUSHER: How badly are you hurt, Data?
-DATA: I will function sufficiently to stop Lore, Doctor
+DATA: I will function sufficiently to stop Lore, Doctor 
 [Cargo bay]
 (Lore is at the cargo transporter console) 
 LORE: Crystal entity form, it's your old friend. 
-(Data, Crusher and Wesley enter unnoticed as Lore receives a reply from
-the Entity) 
-LORE: Very good. You've understand perfectly so far. Next, I'll signal
-that I'm about to transport something out, at which time the deflector
-shields will turn off for a moment, and if you move in at that time 
+(Data, Crusher and Wesley enter unnoticed as Lore receives a reply from the Entity) 
+LORE: Very good. You've understand perfectly so far. Next, I'll signal that I'm about to transport something out, at which time the deflector shields will turn off for a moment, and if you move in at that time 
 (Lore realises that Data has snuck up behind him) 
 DATA: How sad, dear brother. You make me wish I were an only child.
-LORE: (sees Wesley) Then why this marvellous gift? The troublesome
-little man-child. Are you prepared for the kind of death you've earned,
-little man? 
+LORE: (sees Wesley) Then why this marvellous gift? The troublesome little man-child. Are you prepared for the kind of death you've earned, little man? 
 (Beverly steps out, with her phaser) 
 CRUSHER: If you take one step toward my son 
 LORE: Ah, motherhood. 
 (Lore grabs Data, pushes him into Crusher and grabs her weapon) 
-LORE: Back off, or I'll turn your little man into a torch. I promise
-him exquisite pain unless you obey me too, brother.
+LORE: Back off, or I'll turn your little man into a torch. I promise him exquisite pain unless you obey me too, brother.
 CRUSHER: Move away, Data. Please.
-LORE: Do you see now the advantages of being completely human? It
-includes kindness. I give you your life, Doctor. Go home. Quickly. And
-I may not injure your son at all.
+LORE: Do you see now the advantages of being completely human? It includes kindness. I give you your life, Doctor. Go home. Quickly. And I may not injure your son at all.
 DATA: I will stay with Wesley, Doctor.
-LORE: Go! Or he'll be shrieking by the count of five. One, two, three,
-four 
+LORE: Go! Or he'll be shrieking by the count of five. One, two, three, four 
 (Crusher runs for it) 
-LORE: Thank you for my human quality, Doctor Soong. Wait! A small
-payment for your son's misdeeds.
-(Lore shoots Beverly in the arm. Data jumps Lore and they fight across
-the cargo bay, sending barrels and containers flying
-DATA: Wes! The transporter. 
+LORE: Thank you for my human quality, Doctor Soong. Wait! A small payment for your son's misdeeds.
+(Lore shoots Beverly in the arm. Data jumps Lore and they fight across the cargo bay, sending barrels and containers flying DATA: Wes! The transporter. 
 (Data throws Lore onto the pad, and just as Lore aims the phaser) 
 DATA: Wesley, now!
-(Wesley beams Lore out, somewhere. Tasha and Riker arrive, armed,
-followed by Picard and Crusher)
+(Wesley beams Lore out, somewhere. Tasha and Riker arrive, armed, followed by Picard and Crusher)
 WESLEY: Lore's gone, sir. Permanently. 
 PICARD: Doctor, now that Wesley's safe, go to Sickbay at once.
 (Crusher leaves) 
@@ -603,8 +377,7 @@ PICARD: Then do so, and let the Bridge know that all is well down here.
 WESLEY: Aye, sir. 
 (Wesley, Data, Tasha leave) 
 RIKER: It's gone, sir. Without Lore, it had no way to reach us.
-PICARD: And we're overdue for our computer refit. Number One, have you
-ever considered whether Data is more human, or less human than we want?
+PICARD: And we're overdue for our computer refit. Number One, have you ever considered whether Data is more human, or less human than we want?
 RIKER: I only wish we were all as well balanced, sir.
-PICARD: Agreed!  
+PICARD: Agreed! 
 

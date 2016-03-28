@@ -25,7 +25,7 @@ class ScriptScraper {
 	 * @param series     Series
 	 */
 	private static void scrapeLink(String episodeURL, int episodeNum, Series series) {
-		String episodeText = "Episode Number: " + episodeNum + "\n";
+		String episodeText = "Episode Number: " + episodeNum + "<br>";
 		URL url;
 		InputStream is = null;
 		BufferedReader br;
@@ -36,7 +36,7 @@ class ScriptScraper {
 			is = url.openStream();
 			br = new BufferedReader(new InputStreamReader(is));
 			while ((line = br.readLine()) != null) {
-				episodeText += line + "\n";
+				episodeText += line + " ";
 			}
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
@@ -47,10 +47,13 @@ class ScriptScraper {
 				// nothing to see here
 			}
 		}
-		episodeText = episodeText.replaceAll("</div>(.*\n)*.*", "");
-		episodeText = episodeText.replaceAll("<[^>]*>", "");
+		episodeText =  episodeText.replaceAll("\\n", "");
+		episodeText = episodeText.replaceAll("<br>", "\n");
+		episodeText = episodeText.replaceAll("</div>(.*\n)*.*", "\n");
+		episodeText = episodeText.replaceAll("<[^>]*>", "\n");
 		episodeText = episodeText.replace("&nbsp", "");
-		episodeText = episodeText.replaceAll("\\n+", "\n");
+		episodeText = episodeText.replaceAll("\\n+\\s*", "\n");
+		episodeText = episodeText.replaceAll("\\n{2,}", "\n");
 		//For some reason, Enterprise has a ton of this, and it breaks things down the line
 		episodeText = episodeText.replaceAll(":;", ": ");
 

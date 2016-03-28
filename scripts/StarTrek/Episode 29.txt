@@ -1,122 +1,77 @@
 Episode Number: 29
 The Star Trek Transcripts - Operation: Annihilate!
-Operation:
-Annihilate!
-Stardate:
-3287.2
+Operation: Annihilate!
+Stardate: 3287.2
 Original Airdate: 13 Apr, 1967
-  [Bridge]
- KIRK: Anything, Lieutenant? 
-UHURA: No, sir. I've tried every major transmitting station on Deneva.
-None of them have acknowledged my contact signal. 
+[Bridge]
+KIRK: Anything, Lieutenant? 
+UHURA: No, sir. I've tried every major transmitting station on Deneva. None of them have acknowledged my contact signal. 
 KIRK: Try GSK-783, sub-space frequency 3. 
 UHURA: But sir, that's a call sign for a private transmitter. 
 KIRK: I'm very well aware of that, Lieutenant. Try it. 
 UHURA: Yes, sir. 
 KIRK: Evaluation, Mister Spock. 
-SPOCK: As I speculated, Captain, the overall pattern of mass insanity
-destroying civilisations follows an almost straight line through this
-section of the galaxy. Over here the Beta Portilin system the ancient
-civilisations. Archaeologists have given us information indicating that
-they were the beginning. Two hundred years ago, Levinius Five was swept
-by mass insanity, then Theta Cygni Twelve. The last was Ingraham B, two
-years ago. 
-KIRK: And next in line, Deneva. Bones, what's your theory about the
-cause of all this? 
-MCCOY: There's no medical or scientific cause for what happened on
-those planets. Jim. 
-KIRK: But it follows a definite pattern, a systematic progression from
-planet to planet. 
-SULU: Captain, we're picking up a ship on our sensors, heading directly
-into the Denevan sun. He'll burn up. 
-KIRK: Plot an interception course, Mister Sulu. Warp factor eight.
-Lieutenant Uhura, try to contact that ship. 
+SPOCK: As I speculated, Captain, the overall pattern of mass insanity destroying civilisations follows an almost straight line through this section of the galaxy. Over here the Beta Portilin system the ancient civilisations. Archaeologists have given us information indicating that they were the beginning. Two hundred years ago, Levinius Five was swept by mass insanity, then Theta Cygni Twelve. The last was Ingraham B, two years ago. 
+KIRK: And next in line, Deneva. Bones, what's your theory about the cause of all this? 
+MCCOY: There's no medical or scientific cause for what happened on those planets. Jim. 
+KIRK: But it follows a definite pattern, a systematic progression from planet to planet. 
+SULU: Captain, we're picking up a ship on our sensors, heading directly into the Denevan sun. He'll burn up. 
+KIRK: Plot an interception course, Mister Sulu. Warp factor eight. Lieutenant Uhura, try to contact that ship. 
 UHURA: Aye, aye, sir. 
-SPOCK: The ship is a one-man vessel of Denevan configuration, Captain.
-He does not seem to be out of control. His course is straight for the
-sun. 
+SPOCK: The ship is a one-man vessel of Denevan configuration, Captain. He does not seem to be out of control. His course is straight for the sun. 
 KIRK: Scotty, tractor beams? 
 SCOTT: Out of range, sir. 
 UHURA: Making contact, Captain. 
-KIRK: Denevan ship, this is the USS Enterprise. Can you reverse your
-course? Acknowledge. 
+KIRK: Denevan ship, this is the USS Enterprise. Can you reverse your course? Acknowledge. 
 SCOTT: Captain, we'll get too close to the sun. 
-KIRK: Keep closing. Denevan ship, reverse your course. Do you hear me?
-Reverse your course. Acknowledge. 
-SPOCK: Outer hull temperature now four hundred and eighty degrees and
-rising. 
+KIRK: Keep closing. Denevan ship, reverse your course. Do you hear me? Reverse your course. Acknowledge. 
+SPOCK: Outer hull temperature now four hundred and eighty degrees and rising. 
 SULU: He's too close, Captain. 
-SPOCK: So are we. Hull temperature one thousand degrees and rising. The
-sun's gravimetric pull increasing. 
+SPOCK: So are we. Hull temperature one thousand degrees and rising. The sun's gravimetric pull increasing. 
 PILOT [OC]: I did it. It's finally gone. I'm free. I'm 
 SULU: He burned up, Captain. 
 KIRK: Reverse course. One hundred and eighty degrees about. 
 SULU: Aye, sir. 
-SPOCK: All clear, Captain. Hull temperature falling, gravimetric pull
-approaching tolerance level. 
+SPOCK: All clear, Captain. Hull temperature falling, gravimetric pull approaching tolerance level. 
 KIRK: Very well. Reduce to sub-warp speed. Take us to Deneva. 
 SULU: Aye, aye, sir. 
 KIRK: That Denevan ship headed deliberately into the sun. Why? 
-MCCOY: There's one possibility. The mass insanity may have reached this
-planet, too. 
-UHURA: Captain, I'm having difficulty on that transmitter call to
-Deneva. 
+MCCOY: There's one possibility. The mass insanity may have reached this planet, too. 
+UHURA: Captain, I'm having difficulty on that transmitter call to Deneva. 
 KIRK: Keep trying. 
 UHURA: Yes, sir. 
-MCCOY: Jim, your brother Sam and his family, aren't they stationed on
-this planet?
-Captain's log stardate 3287.2. The mass insanity we
-have tracked across this section of the galaxy seems to have already
-touched Deneva. That planet, colonised over a century ago, is one of
-the most beautiful in the galaxy.
+MCCOY: Jim, your brother Sam and his family, aren't they stationed on this planet? 
+Captain's log stardate 3287.2. The mass insanity we have tracked across this section of the galaxy seems to have already touched Deneva. That planet, colonised over a century ago, is one of the most beautiful in the galaxy. 
 [Bridge]
-SPOCK: Planet development is normal, Captain.
-Originally colonised as a freighting-line base in this area. 
-SCOTT: Aye, they make regular trips from here carrying supplies to the
-asteroid belt for the miners and bringing cargo out. I've made the run
-a couple of times myself as an engineering advisor. 
+SPOCK: Planet development is normal, Captain. Originally colonised as a freighting-line base in this area. 
+SCOTT: Aye, they make regular trips from here carrying supplies to the asteroid belt for the miners and bringing cargo out. I've made the run a couple of times myself as an engineering advisor. 
 SPOCK: No Federation contacts for over a year. 
 UHURA: Captain. I've made contact with your private transmitter, sir. 
 KIRK: Put it on audio. 
-AURELAN [OC]: Please hurry. Help us. I don't have much time. They'll
-know. Please! Please help us 
+AURELAN [OC]: Please hurry. Help us. I don't have much time. They'll know. Please! Please help us 
 KIRK: Aurelan, this is Jim on the Enterprise. Repeat your message. 
 UHURA: Contact broken, sir. 
 KIRK: Re-establish. 
 UHURA: Sorry, sir. 
-KIRK: I'm not interested in your excuses, Lieutenant. Re-establish
-contact with that transmitter. 
-UHURA: I'm afraid that's impossible at the moment, Captain. They
-stopped broadcasting immediately. They do not acknowledge my contact
-signal. 
+KIRK: I'm not interested in your excuses, Lieutenant. Re-establish contact with that transmitter. 
+UHURA: I'm afraid that's impossible at the moment, Captain. They stopped broadcasting immediately. They do not acknowledge my contact signal. 
 KIRK: Keep trying to raise them. 
 UHURA: Yes, sir. 
 MCCOY: Jim, did you know who that woman was? 
-KIRK: Yes. You were right a while back. My brother Sam lives on Deneva.
-He's a research biologist. That woman sounded like his wife Aurelan.
+KIRK: Yes. You were right a while back. My brother Sam lives on Deneva. He's a research biologist. That woman sounded like his wife Aurelan. 
 [Transporter room]
-KIRK: Set your phasers on stun. We're going to beam
-directly into the capital city. Alert status. Mister Spock. 
-SPOCK: Lieutenant Uhura has had no further response to our signals.
-Sensors report the expected number of humans on the planet surface.
-However, they are strangely quiet. Very little activity. 
-KIRK: I'll want a complete transcript of everything that happens down
-there, Yeoman. 
+KIRK: Set your phasers on stun. We're going to beam directly into the capital city. Alert status. Mister Spock. 
+SPOCK: Lieutenant Uhura has had no further response to our signals. Sensors report the expected number of humans on the planet surface. However, they are strangely quiet. Very little activity. 
+KIRK: I'll want a complete transcript of everything that happens down there, Yeoman. 
 ZAHRA: Yes, sir. 
-KIRK: Let's go. Energise.
+KIRK: Let's go. Energise. 
 [Planet surface]
-(Kirk, Spock, McCoy, Scott, the Yeoman and two
-security guards beam into an open area with grass, formal ponds and
-sculpture in front of a concrete and glass-fronted building.) 
-KIRK: There are almost a million inhabitants of Deneva. There's more
-than one hundred thousand in this city alone. Where is everyone? 
+(Kirk, Spock, McCoy, Scott, the Yeoman and two security guards beam into an open area with grass, formal ponds and sculpture in front of a concrete and glass-fronted building.) 
+KIRK: There are almost a million inhabitants of Deneva. There's more than one hundred thousand in this city alone. Where is everyone? 
 SPOCK: They're here, Captain. In the buildings. Strangely quiescent. 
-KIRK: My brother's lab is over there. They signalled us once. There
-should be someone there. Let's find out what's happening. 
+KIRK: My brother's lab is over there. They signalled us once. There should be someone there. Let's find out what's happening. 
 SPOCK: Captain, several people approaching. 
-MEN: Go back! Get away! We don't want to hurt you! Go back! Get out of
-here. Go on, get away! Go away! Get out of here! We don't want to hurt
-you. 
+MEN: Go back! Get away! We don't want to hurt you! Go back! Get out of here. Go on, get away! Go away! Get out of here! We don't want to hurt you. 
 KIRK: Stand by to fire. Fire. 
 (The four attacking men are stunned.) 
 KIRK: Did you hear what they said, Mister Spock? 
@@ -124,15 +79,11 @@ SPOCK: Indeed. They seemed most concerned for our safety.
 KIRK: They tried to brain us with these clubs. Check them out, Bones. 
 SPOCK: Their attitude was inconsistent with their actions. 
 KIRK: To say the least. 
-MCCOY: There's something wrong, Jim. Their nervous systems. Unconscious
-like this, there should be just routine autonomic activity, but I'm
-getting a very high reading, as though even in their unconscious state,
-they're being violently stimulated. 
+MCCOY: There's something wrong, Jim. Their nervous systems. Unconscious like this, there should be just routine autonomic activity, but I'm getting a very high reading, as though even in their unconscious state, they're being violently stimulated. 
 (A woman's scream cuts the air.) 
 KIRK: Fan out. Follow me. Security. 
 [Laboratory]
-(A woman is trying to cover the air vents. A man
-and a boy are lying on the floor.) 
+(A woman is trying to cover the air vents. A man and a boy are lying on the floor.) 
 AURELAN: They're here! They're here! Please keep them away! 
 KIRK: (bearhugging her) Aurelan. 
 AURELAN: They're here! They're here! 
@@ -141,358 +92,209 @@ MCCOY: Is this your brother, Jim?
 KIRK: Sam. It is my brother. Was my brother. 
 MCCOY: I'm sorry, Jim. The boy's unconscious, but he's still alive. 
 KIRK: Peter? 
-MCCOY: I'd better get the boy and his mother back to the ship. I can't
-do much for them down here. 
+MCCOY: I'd better get the boy and his mother back to the ship. I can't do much for them down here. 
 KIRK: Get ready to beam up. 
 MCCOY: McCoy to Enterprise. Prepare to beam up party of four. 
 SPOCK: Captain, I understand how you must 
-KIRK: Yes. Yes, Mister Spock. You heard my sister-in-law say something
-about they being here. Your guess. 
-SPOCK: Notice the ventilator, Captain. Apparently they were trying to
-keep something outside from getting in. Obviously they were not
-entirely successful. 
-KIRK: It doesn't make sense. There are no harmful life forms reported.
-Our sensors didn't pick up anything that didn't belong here. 
+KIRK: Yes. Yes, Mister Spock. You heard my sister-in-law say something about they being here. Your guess. 
+SPOCK: Notice the ventilator, Captain. Apparently they were trying to keep something outside from getting in. Obviously they were not entirely successful. 
+KIRK: It doesn't make sense. There are no harmful life forms reported. Our sensors didn't pick up anything that didn't belong here. 
 SPOCK: That is correct. I am at a loss to understand it. 
-MCCOY: Ready to beam up, Captain. I'd like you to be onboard when your
-sister-in-law regains consciousness. 
-KIRK: Take charge of the landing party, Mister Spock. I want some
-answers to all this.
+MCCOY: Ready to beam up, Captain. I'd like you to be onboard when your sister-in-law regains consciousness. 
+KIRK: Take charge of the landing party, Mister Spock. I want some answers to all this. 
 [Sickbay]
-MCCOY: I won't be able to give you the exact cause
-until I get the plates back from the lab. They're both in extreme pain.
-I sedated them heavily. But your sister-in-law seems to have a high
-tolerance. The tranquilliser hasn't affected her much. 
+MCCOY: I won't be able to give you the exact cause until I get the plates back from the lab. They're both in extreme pain. I sedated them heavily. But your sister-in-law seems to have a high tolerance. The tranquilliser hasn't affected her much. 
 KIRK: Can she talk? 
 MCCOY: Yes. 
 KIRK: Aurelan? Aurelan, it's Jim. 
 AURELAN: Jim? Sam, he's 
 KIRK: He's dead. But your son's still alive. You've got to help us. 
 AURELAN: You are here. It is you, Jim. 
-KIRK: Yes, I'm here. You have to tell us what happened, Aurelan, to you
-and the others. 
+KIRK: Yes, I'm here. You have to tell us what happened, Aurelan, to you and the others. 
 AURELAN: They came eight months ago. 
 KIRK: Who? 
-AURELAN: Things. Horrible things! Visitors brought them in their vessel
-from a planet. Ingraham B. 
+AURELAN: Things. Horrible things! Visitors brought them in their vessel from a planet. Ingraham B. 
 KIRK: What kind of things? 
-AURELAN: Not the ship's crew's fault. The things made them bring their
-ship here. 
+AURELAN: Not the ship's crew's fault. The things made them bring their ship here. 
 KIRK: Aurelan, it's important that you tell us. What kind of things? 
 AURELAN: Not their fault. 
-(She starts screaming and crying again, so McCoy gives her another
-shot.) 
-MCCOY: When she answers questions, any questions, it's as if she's
-fighting to get the answers out. As though something is exerting pain
-to stop her. 
-AURELAN: They use it to control us. They're spreading, Jim. They need
-us to be their arms and legs. They're forcing us to build ships for
-them. Don't let them! Don't let them go any further! 
-(One last scream and convulsion, then all her readings plummet to zero.
-KIRK: My brother's son? 
-MCCOY: I'll do everything I can, Jim, to save him.
+(She starts screaming and crying again, so McCoy gives her another shot.) 
+MCCOY: When she answers questions, any questions, it's as if she's fighting to get the answers out. As though something is exerting pain to stop her. 
+AURELAN: They use it to control us. They're spreading, Jim. They need us to be their arms and legs. They're forcing us to build ships for them. Don't let them! Don't let them go any further! 
+(One last scream and convulsion, then all her readings plummet to zero. KIRK: My brother's son? 
+MCCOY: I'll do everything I can, Jim, to save him. 
 [Planet surface]
 KIRK: Report.;
-SPOCK: The streets are extraordinarily quiet, Captain. We've seen no
-other Denevans, and the ones we stunned earlier were gone when we came
-out. 
+SPOCK: The streets are extraordinarily quiet, Captain. We've seen no other Denevans, and the ones we stunned earlier were gone when we came out. 
 KIRK: You've seen some kind of creature? Any alien form? 
 SCOTT: None, sir. Just that noise we heard. 
 SPOCK: A peculiar buzzing sound. We were about to investigate it. 
-KIRK: All right. Let's go find out what it is. Set your phasers on
-force three, to kill. We're looking for some kind of creature, and we
-already know it will kill. 
+KIRK: All right. Let's go find out what it is. Set your phasers on force three, to kill. We're looking for some kind of creature, and we already know it will kill. 
 [Courtyard]
-(They go down some steps into a shady courtyard
-where the noise is coming from. There are gelatinous-looking creatures
-attached to the shady side of a lintel.) 
+(They go down some steps into a shady courtyard where the noise is coming from. There are gelatinous-looking creatures attached to the shady side of a lintel.) 
 KIRK: Spock! 
 (One detaches and flies around them.) 
 KIRK: Form a ring. Fire! 
-(After a prolonged burst, one falls to the ground and the others fly
-off.) 
-SPOCK: Incredible. Not only should it have been destroyed by our
-phasers, it does not even register on my tricorder. 
+(After a prolonged burst, one falls to the ground and the others fly off.) 
+SPOCK: Incredible. Not only should it have been destroyed by our phasers, it does not even register on my tricorder. 
 ZAHRA: Captain, it doesn't even look real. 
-SPOCK: It is not life as we know or understand it. Yet t is obviously
-alive, it exists. 
+SPOCK: It is not life as we know or understand it. Yet t is obviously alive, it exists. 
 KIRK: And it can bear up under full phaser power. 
 SPOCK: Captain, I suggest we risk taking it aboard. 
-KIRK: It's too close in here. It may be a trap in here. Let's move out.
-(As they head up the stairs, the felled creature revives and lands on
-Spock's back. He falls back in pain.) 
-KIRK: Spock! Spock! (He pulls it off) It's gone. Can you stand? Spock,
-are you all right?
-Captain's log supplemental. Whatever the creatures
-are, they have apparently taken over all the inhabitants of Deneva.
-Meanwhile, ship's surgeon Doctor McCoy is examining a strange puncture
-wound left by one of the creatures on Mister Spock's back.
+KIRK: It's too close in here. It may be a trap in here. Let's move out. 
+(As they head up the stairs, the felled creature revives and lands on Spock's back. He falls back in pain.) 
+KIRK: Spock! Spock! (He pulls it off) It's gone. Can you stand? Spock, are you all right? 
+Captain's log supplemental. Whatever the creatures are, they have apparently taken over all the inhabitants of Deneva. Meanwhile, ship's surgeon Doctor McCoy is examining a strange puncture wound left by one of the creatures on Mister Spock's back. 
 [Sickbay]
-MCCOY: Nurse. That's the second time he's come out
-of it. Either he's fighting us, or something inside of him is fighting
-us. 
-CHAPEL: Doctor, the readings have never looked like that before, not
-even on Mister Spock. 
+MCCOY: Nurse. That's the second time he's come out of it. Either he's fighting us, or something inside of him is fighting us. 
+CHAPEL: Doctor, the readings have never looked like that before, not even on Mister Spock. 
 MCCOY: Let's prepare to close. Nurse! 
 CHAPEL: Doctor, that's not all you're going to do? 
 MCCOY: Miss Chapel. 
-CHAPEL: Doctor, there is more of it in him, entwined all through his
-body. 
-MCCOY: Miss Chapel, if you cannot assist me as required, call another
-nurse in here. But do one or the other now. 
+CHAPEL: Doctor, there is more of it in him, entwined all through his body. 
+MCCOY: Miss Chapel, if you cannot assist me as required, call another nurse in here. But do one or the other now. 
 [Bridge]
-(McCoy enters in his surgical scrubs, carrying a
-jar.) 
+(McCoy enters in his surgical scrubs, carrying a jar.) 
 KIRK: How is he? 
-MCCOY: To be very frank, Jim, I don't know that I can do anything for
-Spock or your nephew. (hold up the jar) They're pieces of some form of
-living tissue. I removed one from Spock's spinal cord, the other from
-your sister-in-law's body. They're both the same. The boy's too weak to
-touch. Besides, removal of the tissue wouldn't stop the pain anyhow as
-far as I can tell. 
+MCCOY: To be very frank, Jim, I don't know that I can do anything for Spock or your nephew. (hold up the jar) They're pieces of some form of living tissue. I removed one from Spock's spinal cord, the other from your sister-in-law's body. They're both the same. The boy's too weak to touch. Besides, removal of the tissue wouldn't stop the pain anyhow as far as I can tell. 
 KIRK: Did you operate on Spock in time? 
-MCCOY: No. I just removed these for examination. His body's full of
-these tentacles, entwining and growing all about his nervous system. 
+MCCOY: No. I just removed these for examination. His body's full of these tentacles, entwining and growing all about his nervous system. 
 KIRK: My nephew? 
-MCCOY: The same. Evidently, when the creature attacks, it leaves a
-stinger much like a bee or wasp, leaving one of these in the victim's
-body. It takes over the victim very rapidly, and the entwining is far,
-far too involved for conventional surgery to remove. 
+MCCOY: The same. Evidently, when the creature attacks, it leaves a stinger much like a bee or wasp, leaving one of these in the victim's body. It takes over the victim very rapidly, and the entwining is far, far too involved for conventional surgery to remove. 
 KIRK: Recommendations? 
-MCCOY: I'm sorry, Jim. The lab, the science departments, we're all
-stumped. 
+MCCOY: I'm sorry, Jim. The lab, the science departments, we're all stumped. 
 [Sickbay]
 SPOCK: No! No! (he sits up) 
 CHAPEL: Mister Spock. 
 SPOCK: (hoarsely) No, I won't. 
 CHAPEL: Mister Spock. 
 (Spock leaves) 
-CHAPEL: Bridge, this is Sickbay. Tell Doctor McCoy Mister Spock just
-left here. 
+CHAPEL: Bridge, this is Sickbay. Tell Doctor McCoy Mister Spock just left here. 
 [Bridge]
-CHAPEL [OC]: He's delirious and possibly dangerous.
-KIRK: All decks, security alert. Locate and restrain Mister Spock. He
-may be dangerous. Use phasers on stun if necessary. 
+CHAPEL [OC]: He's delirious and possibly dangerous. 
+KIRK: All decks, security alert. Locate and restrain Mister Spock. He may be dangerous. Use phasers on stun if necessary. 
 (Spock enters the Bridge and throws Sulu out of his seat.) 
 SPOCK: I must take the ship.
-(Three of them wrestle him to the floor as Chapel enters and hands a
-hypo to McCoy.) 
+(Three of them wrestle him to the floor as Chapel enters and hands a hypo to McCoy.) 
 SPOCK: Down! I must take it down. 
 (McCoy sedates him.) 
 KIRK: Get him back to the Sickbay. Use security restraints. 
 [Sickbay]
-MCCOY: The K3 indicator registers the level of
-pain. Watch as I turn it on. That's what he's been going through. I've
-never seen anything like it. No wonder the poor devils go mad. 
+MCCOY: The K3 indicator registers the level of pain. Watch as I turn it on. That's what he's been going through. I've never seen anything like it. No wonder the poor devils go mad. 
 SPOCK: Doctor McCoy. Captain. 
 KIRK: Spock. 
-SPOCK: These restraints will no longer be necessary. Nor will your
-sedatives, Doctor. I'll be able to return to duty. I apologise for my
-weakness earlier when I tried to take control of the ship. I simply did
-not understand. 
+SPOCK: These restraints will no longer be necessary. Nor will your sedatives, Doctor. I'll be able to return to duty. I apologise for my weakness earlier when I tried to take control of the ship. I simply did not understand. 
 What is there to understand, Mister Spock? 
-SPOCK: I am a Vulcan, Doctor. Pain is a thing of the mind. The mind can
-be controlled. 
+SPOCK: I am a Vulcan, Doctor. Pain is a thing of the mind. The mind can be controlled. 
 KIRK: You're only half-Vulcan. What about the human half of you? 
-SPOCK: It is proving to be an inconvenience, but it is manageable. And
-the creature, with all of its thousands of parts, even now is
-pressuring me. (the pain indicator hits the top of the monitor) It
-wants this ship, but I am resisting. 
+SPOCK: It is proving to be an inconvenience, but it is manageable. And the creature, with all of its thousands of parts, even now is pressuring me. (the pain indicator hits the top of the monitor) It wants this ship, but I am resisting. 
 KIRK: Can he control it the way he says, Bones? 
-MCCOY: Who knows, Jim? I know the amount of pain the creature can
-inflict upon him, but whether he can control it hour to hour 
+MCCOY: Who knows, Jim? I know the amount of pain the creature can inflict upon him, but whether he can control it hour to hour 
 SPOCK: I have my own will, Captain. Let me help. 
-KIRK: I need you, Spock, but we can't take any chances. We'll keep you
-confined for a while longer. If you can maintain control, we'll see. My
-nephew. If he regains consciousness, will he go through that? 
+KIRK: I need you, Spock, but we can't take any chances. We'll keep you confined for a while longer. If you can maintain control, we'll see. My nephew. If he regains consciousness, will he go through that? 
 MCCOY: Yes. 
-KIRK: Help them. I don't care what it takes or costs. You've got to
-help them. 
-MCCOY: Jim, aren't you forgetting something? There are over a million
-colonists on that planet down there, just as much your responsibility.
-They need your help, too. 
+KIRK: Help them. I don't care what it takes or costs. You've got to help them. 
+MCCOY: Jim, aren't you forgetting something? There are over a million colonists on that planet down there, just as much your responsibility. They need your help, too. 
 (They leave.) 
 SPOCK: I am a Vulcan. I am a Vulcan. There is no pain. 
-(Then he breaks his restraints.)
+(Then he breaks his restraints.) 
 [Transporter room]
-SCOTT: Mister Spock, I thought you were still
-confined to Sickbay. 
+SCOTT: Mister Spock, I thought you were still confined to Sickbay. 
 SPOCK: I was. 
 SCOTT: Here, now. Where do you think you're going? 
-SPOCK: I have an errand on the planet's surface. You will beam me down
-to the same co-ordinates as before. 
+SPOCK: I have an errand on the planet's surface. You will beam me down to the same co-ordinates as before. 
 SCOTT: Not likely, Mister Spock. 
 SPOCK: That is an order, Mister Scott. 
-SCOTT: Aye, sir, and I'm sorry I have to disobey it. The Captain said
-no one was to transport down. Mister Spock. 
-(Spock pushes Scott aside and neck-pinches his assistant. But Scott has
-a phaser in his hand when he gets up again.) 
-SCOTT: Freeze right there, Mister Spock, or I'll put you to sleep for
-sure. This is Mister Scott in the transporter room. Get me the Captain.
-(Soon after, Kirk enters with an entourage, and the other man is
-rubbing his shoulder.) 
+SCOTT: Aye, sir, and I'm sorry I have to disobey it. The Captain said no one was to transport down. Mister Spock. 
+(Spock pushes Scott aside and neck-pinches his assistant. But Scott has a phaser in his hand when he gets up again.) 
+SCOTT: Freeze right there, Mister Spock, or I'll put you to sleep for sure. This is Mister Scott in the transporter room. Get me the Captain. 
+(Soon after, Kirk enters with an entourage, and the other man is rubbing his shoulder.) 
 KIRK: Mister Spock, I gave you an order to stay in the Sickbay. 
-SPOCK: Until the pain was gone, Captain. It has been discontinued by
-me. 
+SPOCK: Until the pain was gone, Captain. It has been discontinued by me. 
 KIRK: Scotty? 
-SCOTT: He said he was transporting down to the surface, sir. Your
-orders were that no one was to beam down unless you authorised it. And
-knowing Mister Spock's determination on some things, I thought I'd
-better hold him here until I got your orders. 
-SPOCK: One of the creatures will have to be captured and analysed,
-Captain. We did not have a clear opportunity to do so earlier when I
-was attacked. Since my nervous system is already affected, as you
-pointed out, Doctor, I don't believe they can do much more to me. 
-MCCOY: Jim, this is ridiculous. I don't want my patients running
-around. He should be in bed. 
-SPOCK: I am in complete control of myself, Doctor. The fact that I am
-here proves that I do not belong in bed. 
-KIRK: Mister Spock, your logic, as usual, is inescapable. Beam him
-down. Stay in constant touch with us. Give him your phaser. He'll need
-that, too. 
+SCOTT: He said he was transporting down to the surface, sir. Your orders were that no one was to beam down unless you authorised it. And knowing Mister Spock's determination on some things, I thought I'd better hold him here until I got your orders. 
+SPOCK: One of the creatures will have to be captured and analysed, Captain. We did not have a clear opportunity to do so earlier when I was attacked. Since my nervous system is already affected, as you pointed out, Doctor, I don't believe they can do much more to me. 
+MCCOY: Jim, this is ridiculous. I don't want my patients running around. He should be in bed. 
+SPOCK: I am in complete control of myself, Doctor. The fact that I am here proves that I do not belong in bed. 
+KIRK: Mister Spock, your logic, as usual, is inescapable. Beam him down. Stay in constant touch with us. Give him your phaser. He'll need that, too. 
 SPOCK: Thank you, Captain. 
 KIRK: Energise. 
 [Corridor]
-MCCOY: Jim, that man is sick. Don't give me any
-damnable logic about him being the only man for the job. 
+MCCOY: Jim, that man is sick. Don't give me any damnable logic about him being the only man for the job. 
 KIRK: I don't have to, Bones. We both know he is. 
 [Planet surface]
-(A man tries to attack Spock, but is neck-pinched.
-After struggling to regain his self-control, Spock returns to the
-courtyard of the gel-creatures. He phasers one off the lintel and puts
-it into a metal box.)
+(A man tries to attack Spock, but is neck-pinched. After struggling to regain his self-control, Spock returns to the courtyard of the gel-creatures. He phasers one off the lintel and puts it into a metal box.) 
 [Science lab]
 (Kirk and McCoy enter.)
-SPOCK: Come in, gentlemen. I believe you'll find this interesting.
-(McCoy scans Spock.) Doctor, your medical skill and curiosity are quite
-admirable, but I assure you I'm all right. 
-MCCOY: You may be controlling the pain, Mister Spock, but you're far
-from all right. 
-SPOCK: Unimportant at the moment, Doctor. Please observe. Interesting,
-gentlemen. A one-celled creature resembling, more than anything else, a
-huge, individual brain cell. 
+SPOCK: Come in, gentlemen. I believe you'll find this interesting. (McCoy scans Spock.) Doctor, your medical skill and curiosity are quite admirable, but I assure you I'm all right. 
+MCCOY: You may be controlling the pain, Mister Spock, but you're far from all right. 
+SPOCK: Unimportant at the moment, Doctor. Please observe. Interesting, gentlemen. A one-celled creature resembling, more than anything else, a huge, individual brain cell. 
 KIRK: Yes. That would answer a lot of questions. 
 SPOCK: Do you understand what I'm suggesting, Captain? 
-KIRK: I think so. This may be one cell in a larger organism. An
-incredibly huge organism, in fact. 
-SPOCK: And although it is not physically connected to the other cells,
-it is nevertheless part of the whole creature, guided by the whole,
-drawing its strength from the whole, which probably accounts for its
-unusual resistance to our phaser weapons. 
-KIRK: Existing so differently from any living matter or energy as we
-know it, that it may have come here, planet by planet, from an entirely
-different galaxy. 
-SPOCK: From a place where our physical laws do not apply. We may
-therefore find it difficult to destroy, Captain. 
-KIRK: But not impossible, Mister Spock. The Denevan that flew into the
-sun cried out that he was free, that he'd won. That's the angle to work
-on, gentlemen. I want an analysis of all this from Medical and Life
-Science departments within the hour. 
+KIRK: I think so. This may be one cell in a larger organism. An incredibly huge organism, in fact. 
+SPOCK: And although it is not physically connected to the other cells, it is nevertheless part of the whole creature, guided by the whole, drawing its strength from the whole, which probably accounts for its unusual resistance to our phaser weapons. 
+KIRK: Existing so differently from any living matter or energy as we know it, that it may have come here, planet by planet, from an entirely different galaxy. 
+SPOCK: From a place where our physical laws do not apply. We may therefore find it difficult to destroy, Captain. 
+KIRK: But not impossible, Mister Spock. The Denevan that flew into the sun cried out that he was free, that he'd won. That's the angle to work on, gentlemen. I want an analysis of all this from Medical and Life Science departments within the hour. 
 SPOCK: Yes, sir. 
 (Kirk leaves, then McCoy.) 
 (Later, Chapel is working with McCoy when Kirk enters.) 
-MCCOY: I'm sorry, Captain. I've tried everything I can. Variant
-radiation, intense heat, even as great as nine thousand degrees. 
-KIRK: Then you're wasting your time. There has to be something that'll
-kill the creature without destroying the human host. 
-MCCOY: Which happens to be my point. The thing won't die, even at
-temperatures and radiation which would burn Spock and your nephew to
-ashes. 
-KIRK: I can't accept that, Bones. We've got fourteen science labs
-aboard this ship. The finest equipment and computers in the galaxy. 
-MCCOY: Captain, I understand your concern. Your affection for Spock,
-the fact that your nephew is the last survivor of your brother's
-family. 
-KIRK: No, no, Bones. There's more than two lives at stake here. I
-cannot let it spread beyond this colony, even if it means destroying a
-million people down there.
-Captain's log, stardate 3289.8. I am faced with the
-most difficult decision of my life. Unless we find a way to destroy the
-creatures without killing their human hosts, my command
-responsibilities will force me to kill over a million people.
+MCCOY: I'm sorry, Captain. I've tried everything I can. Variant radiation, intense heat, even as great as nine thousand degrees. 
+KIRK: Then you're wasting your time. There has to be something that'll kill the creature without destroying the human host. 
+MCCOY: Which happens to be my point. The thing won't die, even at temperatures and radiation which would burn Spock and your nephew to ashes. 
+KIRK: I can't accept that, Bones. We've got fourteen science labs aboard this ship. The finest equipment and computers in the galaxy. 
+MCCOY: Captain, I understand your concern. Your affection for Spock, the fact that your nephew is the last survivor of your brother's family. 
+KIRK: No, no, Bones. There's more than two lives at stake here. I cannot let it spread beyond this colony, even if it means destroying a million people down there. 
+Captain's log, stardate 3289.8. I am faced with the most difficult decision of my life. Unless we find a way to destroy the creatures without killing their human hosts, my command responsibilities will force me to kill over a million people. 
 [Briefing room]
 KIRK: Gentlemen. 
-SPOCK: I regret I see no other choice for you, Captain. We already know
-this thing has destroyed three civilisations. Perhaps more. 
-MCCOY: Gentlemen, I want it stopped, too, but not at the cost of
-destroying over a million people. 
-SPOCK: Including myself, Doctor, and Captain Kirk's young nephew.
-Understandably upsetting, but once it spreads past here, there are
-dozens of colonies beyond and billions of people. 
-MCCOY: If killing five people saves ten, it's a bargain. Is that your
-simple logic, Mister Spock? 
-KIRK: I will accept neither of those alternatives, gentlemen. I cannot
-let this thing expand beyond this planet, nor do I intend to kill a
-million or more people to stop it. I want another answer. I'm putting
-you gentlemen on the hot seat with me. I want that third alternative. 
+SPOCK: I regret I see no other choice for you, Captain. We already know this thing has destroyed three civilisations. Perhaps more. 
+MCCOY: Gentlemen, I want it stopped, too, but not at the cost of destroying over a million people. 
+SPOCK: Including myself, Doctor, and Captain Kirk's young nephew. Understandably upsetting, but once it spreads past here, there are dozens of colonies beyond and billions of people. 
+MCCOY: If killing five people saves ten, it's a bargain. Is that your simple logic, Mister Spock? 
+KIRK: I will accept neither of those alternatives, gentlemen. I cannot let this thing expand beyond this planet, nor do I intend to kill a million or more people to stop it. I want another answer. I'm putting you gentlemen on the hot seat with me. I want that third alternative. 
 [Kirk's quarters]
 KIRK: Report. 
-MCCOY: I'm sorry, Jim. We've been over and over it, made every
-conceivable test. 
-SPOCK: I therefore request permission to beam down to the planet's
-surface. I also suggest that your nephew accompany me. 
+MCCOY: I'm sorry, Jim. We've been over and over it, made every conceivable test. 
+SPOCK: I therefore request permission to beam down to the planet's surface. I also suggest that your nephew accompany me. 
 KIRK: Request denied. 
-SPOCK: Captain, I do not make this request lightly. I do not know how
-much longer I can hold out against the pain. But I do know what the boy
-will go through should he regain consciousness. 
-KIRK: Request denied. There must be another answer. Something in the
-sun killed that thing before the Denevan died. All right. All right.
-We've tried heat, radiation. What other qualities or properties does
-the sun have? 
-SPOCK: It exists physically. It occupies space. It has mass, therefore
-gravity. It converts matter to energy. 
+SPOCK: Captain, I do not make this request lightly. I do not know how much longer I can hold out against the pain. But I do know what the boy will go through should he regain consciousness. 
+KIRK: Request denied. There must be another answer. Something in the sun killed that thing before the Denevan died. All right. All right. We've tried heat, radiation. What other qualities or properties does the sun have? 
+SPOCK: It exists physically. It occupies space. It has mass, therefore gravity. It converts matter to energy. 
 MCCOY: Jim, we've been through it and through it. Radiation, heat 
-KIRK: But one other thing you haven't mentioned. It's bright. It
-radiates a blinding light if you're close enough. 
+KIRK: But one other thing you haven't mentioned. It's bright. It radiates a blinding light if you're close enough. 
 MCCOY: Nothing lethal about light. 
-KIRK: Not to us. But down on the surface, the creatures stayed in the
-shadows for the most part. Suppose they weren't simply hiding. Suppose
-they're sensitive to light. Light, like in a sun, close up. 
+KIRK: Not to us. But down on the surface, the creatures stayed in the shadows for the most part. Suppose they weren't simply hiding. Suppose they're sensitive to light. Light, like in a sun, close up. 
 SPOCK: A possibility. 
 MCCOY: You can't move Deneva closer to the sun, Jim. 
-KIRK: No, but you can move the equivalent of the sun to Deneva. Mister
-Spock? 
-SPOCK: Yes. In essence, it can be done. A string of satellites around
-the planet with burning tri-magnesite and trevium. 
-MCCOY: Well, I can rig a test cubicle in the bio-lab, put our specimen
-in it. But I don't 
+KIRK: No, but you can move the equivalent of the sun to Deneva. Mister Spock? 
+SPOCK: Yes. In essence, it can be done. A string of satellites around the planet with burning tri-magnesite and trevium. 
+MCCOY: Well, I can rig a test cubicle in the bio-lab, put our specimen in it. But I don't 
 KIRK: Good. Let's get on it. 
 [Bio-lab]
-(Chapel puts the creature's jar into a large
-chamber.) 
+(Chapel puts the creature's jar into a large chamber.) 
 KIRK: Your figures are, of course, accurate. 
-SPOCK: Of course. The light of the sun at the proximity where the
-Denevan declared himself free was one million candles per square inch.
-If this works, the satellites we orbit will produce light of such
-intensity that even someone in a closed, darkened area will be affected
-by it. 
+SPOCK: Of course. The light of the sun at the proximity where the Denevan declared himself free was one million candles per square inch. If this works, the satellites we orbit will produce light of such intensity that even someone in a closed, darkened area will be affected by it. 
 CHAPEL: Ready, Doctor. 
 MCCOY: Put on your masks. 
-(They cover their eyes with goggles while the light is shone in the
-chamber.) 
+(They cover their eyes with goggles while the light is shone in the chamber.) 
 MCCOY: Completed. 
 (They open the chamber. The thing is still.) 
 MCCOY: It worked! We can do it. What's the matter, Jim? We can do it. 
-KIRK: It worked in a lab. With the creature exposed to everything we
-can give it. But what about the people who are infected? 
+KIRK: It worked in a lab. With the creature exposed to everything we can give it. But what about the people who are infected? 
 MCCOY: Well, I don't know. Maybe trial 
 KIRK: Maybe. There's no time for maybes, Bones. We need to know now. 
 MCCOY: But I'd have to put a 
 KIRK: Yes, we'd have to put someone who's infected under that light. 
 MCCOY: Do you have any idea of the risk? 
 KIRK: We have to duplicate the conditions on the planet, and Spock 
-SPOCK: Captain, you'll need a host for the next step in the test to
-determine whether the creature can be driven from the body. I am the
-logical choice. 
-MCCOY: Do you know what one million candlelight per square inch can do
-to your optic nerves? 
-KIRK: There's no other way, Bones. We have to duplicate the brilliance
-that existed at the moment the Denevan declared himself freed. 
+SPOCK: Captain, you'll need a host for the next step in the test to determine whether the creature can be driven from the body. I am the logical choice. 
+MCCOY: Do you know what one million candlelight per square inch can do to your optic nerves? 
+KIRK: There's no other way, Bones. We have to duplicate the brilliance that existed at the moment the Denevan declared himself freed. 
 MCCOY: All right. I'll rig up a protective pair of goggles. 
 SPOCK: There'll be none on the planet's surface, Doctor. 
 KIRK: I agree completely. 
-MCCOY: Unfortunately, you're both right. It's the only thing we can do.
-All right, Mister Spock. 
+MCCOY: Unfortunately, you're both right. It's the only thing we can do. All right, Mister Spock. 
 (Spock enters the experimental chamber.) 
 MCCOY: Mister Spock's the best first officer in the fleet. 
 KIRK: Proceed. 
@@ -502,28 +304,20 @@ MCCOY: Completed.
 KIRK: Spock, are you all right? 
 SPOCK: The creature within me is gone. I am free of it and the pain. 
 (He walks forward, straight into a table.) 
-SPOCK: And I'm also quite blind. An equitable trade, Doctor. Thank you.
+SPOCK: And I'm also quite blind. An equitable trade, Doctor. Thank you. 
 (They help him into a chair, and Chapel rushes in.)
-CHAPEL: Doctor, the results of the first tests on the creature's
-remains. 
+CHAPEL: Doctor, the results of the first tests on the creature's remains. 
 (She leaves.);
 MCCOY: (reading) Oh, no. 
 KIRK: What is it? 
-MCCOY: I threw the total spectrum of light at the creature. It wasn't
-necessary. I didn't stop to think that only one kind of light might've
-killed it. 
-SPOCK: Interesting. Just as dogs are sensitive to certain sounds which
-humans cannot hear, these creatures evidently are sensitive to light
-which we cannot see. 
+MCCOY: I threw the total spectrum of light at the creature. It wasn't necessary. I didn't stop to think that only one kind of light might've killed it. 
+SPOCK: Interesting. Just as dogs are sensitive to certain sounds which humans cannot hear, these creatures evidently are sensitive to light which we cannot see. 
 KIRK: Are you telling me that Spock need not have been blinded? 
-MCCOY: I didn't need to throw the blinding white light at all, Jim.
-Spock, I 
+MCCOY: I didn't need to throw the blinding white light at all, Jim. Spock, I 
 SPOCK: Doctor it was my selection as well. It is done. 
-KIRK: Bones, take care of him.
+KIRK: Bones, take care of him. 
 [Bridge]
-SULU: Completing the seeding orbit, Captain. Two
-hundred and ten ultraviolet satellites now in position. Seventy two
-miles altitude, permanent orbit about the planet. 
+SULU: Completing the seeding orbit, Captain. Two hundred and ten ultraviolet satellites now in position. Seventy two miles altitude, permanent orbit about the planet. 
 KIRK: Good. Scanners? 
 SCOTT: Scanners ready, sir. 
 KIRK; Very well. Ready, Helm? 
@@ -531,8 +325,7 @@ SULU: Ready, Captain.
 KIRK: Satellite control, this is the Captain. Energise all satellites. 
 MAN [OC]: Affirmative. 
 SCOTT: All satellites operative, Captain. 
-(Down on the planet, gel-creatures are dropping to the ground and
-dissolving.) 
+(Down on the planet, gel-creatures are dropping to the ground and dissolving.) 
 UHURA: Captain, receiving messages from a ground station. 
 KIRK: Report. 
 UHURA: The things are dying, sir. It's working. 
@@ -556,28 +349,17 @@ KIRK: The alien creatures on Deneva have been destroyed
 ZAHRA: Captain, look. Mister Spock. 
 (Spock walks onto the Bridge, followed by McCoy.)
 KIRK: Spock. You can see. 
-MCCOY: The blindness was temporary, Jim. There's something about his
-optical nerves which aren't the same as a human's. 
-SPOCK: An hereditary trait, Captain. The brightness of the Vulcan sun
-has caused the development of an inner eyelid, which acts as a shield
-against high-intensity light. Totally instinctive, Doctor. We tend to
-ignore it, as you ignore your own appendix. 
-KIRK: Mister Spock. Regaining eyesight would be an emotional experience
-for most. You, I presume, felt nothing? 
-SPOCK: Quite the contrary, Captain. I had a very strong reaction. My
-first sight was the face of Doctor McCoy bending over me. 
-MCCOY: 'Tis a pity your brief blindness did not increase your
-appreciation for beauty, Mister Spock. 
-KIRK: If you gentlemen are finished, would you mind laying in a course
-for Starbase Ten, Mister Spock? 
+MCCOY: The blindness was temporary, Jim. There's something about his optical nerves which aren't the same as a human's. 
+SPOCK: An hereditary trait, Captain. The brightness of the Vulcan sun has caused the development of an inner eyelid, which acts as a shield against high-intensity light. Totally instinctive, Doctor. We tend to ignore it, as you ignore your own appendix. 
+KIRK: Mister Spock. Regaining eyesight would be an emotional experience for most. You, I presume, felt nothing? 
+SPOCK: Quite the contrary, Captain. I had a very strong reaction. My first sight was the face of Doctor McCoy bending over me. 
+MCCOY: 'Tis a pity your brief blindness did not increase your appreciation for beauty, Mister Spock. 
+KIRK: If you gentlemen are finished, would you mind laying in a course for Starbase Ten, Mister Spock? 
 SPOCK: My pleasure, Captain. 
-MCCOY: Unusual eye arrangement. I might've known he'd turn up with
-something like that. 
+MCCOY: Unusual eye arrangement. I might've known he'd turn up with something like that. 
 KIRK: What's that, Doctor? 
-MCCOY: I said, please don't tell Spock I said he was the best first
-officer in the fleet. 
+MCCOY: I said, please don't tell Spock I said he was the best first officer in the fleet. 
 SPOCK: Why, thank you, Doctor McCoy. 
-KIRK: You've been so concerned about his Vulcan eyes, Doctor, you
-forgot about his Vulcan ears. Ahead warp factor one, Mister Sulu. 
-SULU: Warp factor one, sir.  
+KIRK: You've been so concerned about his Vulcan eyes, Doctor, you forgot about his Vulcan ears. Ahead warp factor one, Mister Sulu. 
+SULU: Warp factor one, sir. 
 

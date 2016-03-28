@@ -1,69 +1,64 @@
 Episode Number: 92
 The Enterprise Transcripts - Divergence
 Divergence
- Original Airdate: 25 Feb, 2005
-  T'POL
-[OC]: Previously on Enterprise
-THUG [San
-Francisco]: You, Denobulan, come with us. 
-ANTAAK [Laboratory]: A
-virus is spreading from planet to planet. Millions are already
-infected. 
+Original Airdate: 25 Feb, 2005
+T'POL [OC]: Previously on Enterprise
+THUG 
+[San Francisco]
+: You, Denobulan, come with us. 
+ANTAAK 
+[Laboratory]
+: A virus is spreading from planet to planet. Millions are already infected. 
 PHLOX: What do you want with me?. 
 ANTAAK: If this continues, the Klingon species will cease to exist. 
-HARRIS [North Maple - night]:
-There's a job that needs doing, Lieutenant. It may be the only way to
-save your friend's life. 
-PHLOX [Laboratory]: You
-don't seriously expect me to help you create Klingon augments. 
+HARRIS 
+[North Maple - night]
+: There's a job that needs doing, Lieutenant. It may be the only way to save your friend's life. 
+PHLOX 
+[Laboratory]
+: You don't seriously expect me to help you create Klingon augments. 
 K'VAGH: Take him. 
-ARCHER [Brig]: The
-Malcolm Reed I know would give his life before committing treason. 
-REED: There are some obligations that go beyond my loyalty to you and
-this crew. 
+ARCHER 
+[Brig]
+: The Malcolm Reed I know would give his life before committing treason. 
+REED: There are some obligations that go beyond my loyalty to you and this crew. 
 (Over scenes of the Klingons sabotaging Enterprise.) 
 T'POL [OC]: T'Pol to Captain Archer. 
 ARCHER [OC]: Go ahead. 
-T'POL [OC]: The warp matrix has been compromised by a Klingon
-subroutine. 
-T'POL [Engineering]: It's
-infiltrated our command protocols. 
-TRAVIS [Bridge]:
-Pressure's increasing again. 
-ARCHER [Turbolift]: Take
-us to warp five point two. 
-TRAVIS [Bridge]:
-Sir, we can't hold that speed for long. 
+T'POL [OC]: The warp matrix has been compromised by a Klingon subroutine. 
+T'POL 
+[Engineering]
+: It's infiltrated our command protocols. 
+TRAVIS 
+[Bridge]
+: Pressure's increasing again. 
+ARCHER 
+[Turbolift]
+: Take us to warp five point two. 
+TRAVIS 
+[Bridge]
+: Sir, we can't hold that speed for long. 
 ARCHER [OC]: We're out of options, Travis. Five point two. 
 T'POL [OC]: And now, the conclusion.
 [Brig]
-ARCHER: We have forty seven minutes until our
-reactor breaches. 
+ARCHER: We have forty seven minutes until our reactor breaches. 
 REED: What did the Klingons do to it?. 
-ARCHER: They altered our engineering subroutines. If we go below warp
-five, the reactor's going to explode. 
+ARCHER: They altered our engineering subroutines. If we go below warp five, the reactor's going to explode. 
 REED: How can I help? 
-ARCHER: I've just been talking with Trip. Columbia can rendezvous with
-us in thirty minutes. He says he can restore
-the subroutines. 
+ARCHER: I've just been talking with Trip. Columbia can rendezvous with us in thirty minutes. He says he can restore the subroutines. 
 REED: He can't do that from Columbia. 
 ARCHER: We're going to bring him onboard. 
-REED: The transporter won't operate at warp, and docking's out of the
-question. 
-ARCHER: Trip told me you have experience transferring personnel at warp
-speed. 
-REED: In training exercises, yes, and at warp speed one. Every move was
-rehearsed in simulators for weeks. 
+REED: The transporter won't operate at warp, and docking's out of the question. 
+ARCHER: Trip told me you have experience transferring personnel at warp speed. 
+REED: In training exercises, yes, and at warp speed one. Every move was rehearsed in simulators for weeks. 
 ARCHER: We don't have weeks. 
 REED: We'll have to merge our warp field with Columbia's. 
-ARCHER: T'Pol's doing the calculations now. At warp five, we'll have to
-move within fifty metres of each other. 
+ARCHER: T'Pol's doing the calculations now. At warp five, we'll have to move within fifty metres of each other. 
 REED: Has anyone ever done this before? 
 ARCHER: Travis can handle the flying. Can you get Trip over here? 
 REED: You'll have to let me out of this Brig. 
 [Colombia Bridge]
-(The four double-columns of lights are pulsing away
-behind the Captain's chair.) 
+(The four double-columns of lights are pulsing away behind the Captain's chair.) 
 ERIKA: Commander Tucker. 
 [Colombia Launch bay]
 ERIKA [OC]: Are you ready for this? 
@@ -79,18 +74,15 @@ ARCHER: Stand by, Columbia. Archer to Reed.
 REED: (also fully suited up) Go ahead. 
 ARCHER [OC]: We're in position. 
 REED: Have them start their rotation. 
-(Colombia turns over so the two ships are running keel to keel.)
+(Colombia turns over so the two ships are running keel to keel.) 
 [Bridge]
-TRAVIS: Coming up on one hundred metres. Ninety,
-eighty metres. 
+TRAVIS: Coming up on one hundred metres. Ninety, eighty metres. 
 ARCHER: This is the Bridge. All hands brace for warp field contact. 
 [Launch bay]
-(Reed watches Colombia appear in the open launch
-door. Enterprise jolts as they get close.) 
+(Reed watches Colombia appear in the open launch door. Enterprise jolts as they get close.) 
 REED: Hold her steady, Travis 
 [Bridge]
-REED [OC]: Or Chef'll know who to blame for the
-mess in the Galley. 
+REED [OC]: Or Chef'll know who to blame for the mess in the Galley. 
 TRAVIS: We're at fifty metres and holding. 
 ARCHER: Make sure everything's ready for Trip in Engineering. 
 (T'Pol leaves the Bridge) 
@@ -99,8 +91,7 @@ REED [OC]: Understood.
 [Launch bay]
 REED: Columbia, I'm deploying the tether. 
 [Colombia Launch bay]
-(The grappler whizzes out between the two ships and
-hits the ceiling within arms reach of Tucker standing on the steps.) 
+(The grappler whizzes out between the two ships and hits the ceiling within arms reach of Tucker standing on the steps.) 
 TUCKER: Nice shooting, Malcolm. 
 (Tucker attaches himself to the line.) 
 TUCKER: Tucker to Captain Hernandez. 
@@ -110,23 +101,20 @@ ERIKA [OC]: Quick as you can, Commander.
 [Between the ships]
 TUCKER: Never thought I'd see the stars like this. 
 [Colombia Bridge]
-ERIKA: Eyes on the cable, Commander. I need you
-back here in one piece. 
+ERIKA: Eyes on the cable, Commander. I need you back here in one piece. 
 [Launch bay]
 REED: You're doing fine, Trip. 
-(Enterprise shakes again.)
+(Enterprise shakes again.) 
 [Bridge]
 ARCHER: T'Pol, what's happening? 
 [Engineering]
-T'POL: I'm reading a fluctuation in the warp field.
+T'POL: I'm reading a fluctuation in the warp field. 
 ARCHER [OC]: Take power from life support if you have to. 
 [Bridge]
 ARCHER: But keep the field constant. 
-TRAVIS: Sir, I'm having trouble holding position. Fifty two metres.
-Fifty five. 
+TRAVIS: Sir, I'm having trouble holding position. Fifty two metres. Fifty five. 
 [Just outside Enterprise Launch bay]
-TUCKER: Don't mean to be a pest, but could someone
-tell me what's going on? 
+TUCKER: Don't mean to be a pest, but could someone tell me what's going on? 
 REED: You're almost here, Trip. Keep going. 
 [Bridge]
 ARCHER: Engineering, report! 
@@ -138,51 +126,40 @@ TRAVIS: Fifty nine metres.
 (Tucker appears to have made it inside the doors.) 
 REED: The tether's at its limit! Hurry up! 
 [Engineering]
-T'POL: T'Pol to the Bridge. It's not working. The
-field is still fluctuating. 
+T'POL: T'Pol to the Bridge. It's not working. The field is still fluctuating. 
 [Launch bay]
 REED: Almost there! 
-(Tucker reaches Reed, and he gets him unhooked from the line just
-before the unit gets pulled off the ceiling and goes flying into
-space.) 
+(Tucker reaches Reed, and he gets him unhooked from the line just before the unit gets pulled off the ceiling and goes flying into space.) 
 REED: Trip! 
 TUCKER: Permission to come aboard? 
 REED: Bridge, I have him. 
 [Bridge]
 ARCHER: You all right, Trip? 
 [Launch bay]
-TUCKER: I'll feel a lot better when this is over.
-There's only one way to do this, Captain. A cold start. I have to shut
-down the reactor and re-set the algorithms. Once we bring the warp
-engine back online, the subroutines should be back to normal. 
+TUCKER: I'll feel a lot better when this is over. There's only one way to do this, Captain. A cold start. I have to shut down the reactor and re-set the algorithms. Once we bring the warp engine back online, the subroutines should be back to normal. 
 [Bridge]
 ARCHER: But if we shut down the reactor. 
 TUCKER [OC]: That's why we need to move inside Columbia's warp field. 
 [Launch bay]
-TUCKER: They can sustain our speed while I
-reinitialize the engines. 
+TUCKER: They can sustain our speed while I reinitialize the engines. 
 [Bridge]
-ARCHER: They won't be able to hold us for more than
-a minute or two. They don't have enough power. 
+ARCHER: They won't be able to hold us for more than a minute or two. They don't have enough power. 
 [Launch bay]
 TUCKER: I've got a shortcut in mind. 
 [Bridge]
 ARCHER: Shortcut? 
 TUCKER [OC]: Those subroutines 
 [Launch bay]
-TUCKER: Would take hours to decrypt. Better just to
-purge them wipe them clean. 
+TUCKER: Would take hours to decrypt. Better just to purge them wipe them clean. 
 [Bridge]
 ARCHER: I'll contact Columbia. 
 [Corridor]
-(Tucker and Reed have taken off their EV suits, and
-the two MACOs are waiting.) 
+(Tucker and Reed have taken off their EV suits, and the two MACOs are waiting.) 
 TUCKER: What're they here for? 
 REED: The Captain and I have had a slight misunderstanding. 
 TUCKER: How slight? 
-REED: These gentlemen are here to escort me back to the Brig. Don't
-worry, I'll tell you all about it when we're not quite so busy. 
-(They head off in opposite directions.)
+REED: These gentlemen are here to escort me back to the Brig. Don't worry, I'll tell you all about it when we're not quite so busy. 
+(They head off in opposite directions.) 
 [Engineering]
 TUCKER: Fancy meeting you here. Intermix pressure? 
 T'POL: Fifteen twenty seven. 
@@ -190,8 +167,7 @@ TUCKER: Field variance?
 T'POL: Eighty seven millicochranes. 
 TUCKER: Somebody hasn't been taking very good care of my engine. 
 T'POL: Speak with the Klingons. What are you doing? 
-TUCKER: You might want to take notes. I'm about to perform a manual
-shut-down and restart in less than two minutes. 
+TUCKER: You might want to take notes. I'm about to perform a manual shut-down and restart in less than two minutes. 
 T'POL: That's not possible. 
 TUCKER: Watch me. 
 (He climbs onto the top of the engine.) 
@@ -202,24 +178,19 @@ ARCHER: Go ahead.
 ERIKA [OC]: I've routed everything I've got to my warp field. 
 [Colombia Bridge]
 ERIKA: Do me a favour, Jonathan. Make this quick. 
-(With the twin ships still flying belly to belly, the warp fields merge
-into one.) 
+(With the twin ships still flying belly to belly, the warp fields merge into one.) 
 [Bridge]
 ARCHER: Archer to Trip. Ready when you are. 
 [Engineering]
-TUCKER: Stand by! Everyone get away from the
-bulkheads! It's going to get a little hot in here! 
-(He does something quick and nasty to a relay in the warp engine, then
-dashes down the ladders.) 
+TUCKER: Stand by! Everyone get away from the bulkheads! It's going to get a little hot in here! 
+(He does something quick and nasty to a relay in the warp engine, then dashes down the ladders.) 
 TUCKER: Reactor shut down in five, four, three, two, one! 
 (There's a big bright bang, and everything switches off.) 
 TUCKER: T'Pol, prime the injectors. Jenkins, man the relays! 
 JENKINS: Yes, sir! 
-(Tucker goes to the warp engine controls and starts ripping out
-mother-boards.)
+(Tucker goes to the warp engine controls and starts ripping out mother-boards.) 
 [Colombia Bridge]
-ERIKA: Colombia to Enterprise. You've got about
-forty seconds. 
+ERIKA: Colombia to Enterprise. You've got about forty seconds. 
 [Bridge]
 ARCHER: Understood. 
 [Engineering]
@@ -232,108 +203,68 @@ ERIKA: Enterprise, we're losing the field.
 [Bridge]
 ARCHER: Fifteen seconds, Trip. 
 [Engineering]
-TUCKER: Almost there. Full power to containment!
-Fire up the antimatter stream! 
+TUCKER: Almost there. Full power to containment! Fire up the antimatter stream! 
 ARCHER [OC]: Ten seconds. Nine, eight, seven, six. 
 T'POL: Commander! 
 TUCKER: Here we go! 
 ARCHER: Four, three, two. 
-(The warp field flares bright again around the two ships as the engine
-comes back to life.)
+(The warp field flares bright again around the two ships as the engine comes back to life.) 
 [Bridge]
 TRAVIS: We've got warp power. 
 [Engineering]
-T'POL: Engineering to the Bridge. The subroutines
-have been purged. 
+T'POL: Engineering to the Bridge. The subroutines have been purged. 
 ARCHER [OC]: Appreciate the house call, Mister Tucker. 
-TUCKER: Any time. I'd like to drop to impulse for a while
+TUCKER: Any time. I'd like to drop to impulse for a while 
 [Bridge]
 TUCKER [OC]: Captain, just to check things over. 
 ARCHER: Stand by. Enterprise to Columbia. Thanks for the lift. 
 [Colombia Bridge]
-ERIKA: You're not getting away with my Chief
-Engineer that easily. 
+ERIKA: You're not getting away with my Chief Engineer that easily. 
 [Bridge]
 ARCHER: Any plans for the next few days? 
 [Colombia Bridge]
 ERIKA: What've you got in mind? 
 [Qu'Vat Colony]
-(Antaak makes his way surreptitiously to where
-Phlox has been dumped on a bed) 
-ANTAAK: Phlox. Phlox. This will help. (but Phlox rejects the bottle) My
-apologies for the General's conduct. So cruel. This is no way to treat
-a man of science. 
+(Antaak makes his way surreptitiously to where Phlox has been dumped on a bed) 
+ANTAAK: Phlox. Phlox. This will help. (but Phlox rejects the bottle) My apologies for the General's conduct. So cruel. This is no way to treat a man of science. 
 (Phlox is in great discomfort or pain.) 
-PHLOX:
-Then end it. Contact Starfleet. 
-ANTAAK: My people need you, Phlox. We have no healers with your
-abilities. 
-PHLOX: You want me to create Klingon Augments. Living weapons. I won't
-do it. 
-ANTAAK: No, no. I've been reviewing your work. It's brilliant. You have
-discovered a weakness in the virus causing the plague. If we interrupt
-the transcription sequence here (shows him a PADD) 
-PHLOX: Yes. Yes. That would stop the genetic effects of the virus in
-stage one. There'd be changes of appearance, some minor neural
-reordering, but no development of stage two characteristics. No
-enhanced strength or speed or endurance. But then General K'Vagh would
-not get his Augments. He would never allow it. 
+PHLOX: Then end it. Contact Starfleet. 
+ANTAAK: My people need you, Phlox. We have no healers with your abilities. 
+PHLOX: You want me to create Klingon Augments. Living weapons. I won't do it. 
+ANTAAK: No, no. I've been reviewing your work. It's brilliant. You have discovered a weakness in the virus causing the plague. If we interrupt the transcription sequence here (shows him a PADD) 
+PHLOX: Yes. Yes. That would stop the genetic effects of the virus in stage one. There'd be changes of appearance, some minor neural reordering, but no development of stage two characteristics. No enhanced strength or speed or endurance. But then General K'Vagh would not get his Augments. He would never allow it. 
 ANTAAK: What if we don't tell him? 
-PHLOX: Do you understand what will happen if the General learns that
-we've deceived him? 
-ANTAAK: A cure would save millions of innocent lives. What more
-honourable death could there be for a healer,
-Klingon or Denobulan? 
-Captain's Starlog, supplemental. I've asked
-Columbia to join us in our search for Phlox. We'll have a better chance
-of making it through Klingon territory with twice the firepower. 
+PHLOX: Do you understand what will happen if the General learns that we've deceived him? 
+ANTAAK: A cure would save millions of innocent lives. What more honourable death could there be for a healer, Klingon or Denobulan? 
+Captain's Starlog, supplemental. I've asked Columbia to join us in our search for Phlox. We'll have a better chance of making it through Klingon territory with twice the firepower. 
 [Corridor]
 (Reed is being manhandled along by two MACOs.) 
-REED: I don't suppose you can tell me where I'm going this time? No, I
-didn't think so. 
+REED: I don't suppose you can tell me where I'm going this time? No, I didn't think so. 
 [Reed's quarters]
-(Archer has got an image of Harris up on Reed's
-monitor.) 
+(Archer has got an image of Harris up on Reed's monitor.) 
 REED: Those are my personal files. 
-ARCHER: Not when they affect my ship. T'Pol restored everything you
-tried to erase. We ran his face and voiceprint through our database.
-His name is Harris. He worked in Starfleet Security up till five years
-ago. After that, his file ends. 
+ARCHER: Not when they affect my ship. T'Pol restored everything you tried to erase. We ran his face and voiceprint through our database. His name is Harris. He worked in Starfleet Security up till five years ago. After that, his file ends. 
 REED: Captain, there's nothing more I can add. 
-ARCHER: I won't accept that. You endangered every member of this crew.
-You answer to me. I thought I knew
-you, Malcolm. Whatever hold this Harris has on you, you could have come
-to me. 
+ARCHER: I won't accept that. You endangered every member of this crew. You answer to me. I thought I knew you, Malcolm. Whatever hold this Harris has on you, you could have come to me. 
 REED: I'm under orders. 
-ARCHER: I'm your commanding officer! If you don't tell me what's going
-on, I'll go to Starfleet. Whatever you think you've been trying to keep
-hidden, Is that what you want? Is that what you want?! 
+ARCHER: I'm your commanding officer! If you don't tell me what's going on, I'll go to Starfleet. Whatever you think you've been trying to keep hidden, Is that what you want? Is that what you want?! 
 REED: I can't tell you what I don't know. 
 ARCHER: Then let me talk to someone who can. Send a message to Harris. 
 [Laboratory]
-ANTAAK: Has the House of Phlox always been one of
-healers? 
-PHLOX: There is no, uh, House of Phlox. Denobulan family units are
-different from Klingons. 
-ANTAAK: Ah, yes. I've heard. Three wives for each husband. Three
-husbands for each wife. Your mating practices must be very complex. 
+ANTAAK: Has the House of Phlox always been one of healers? 
+PHLOX: There is no, uh, House of Phlox. Denobulan family units are different from Klingons. 
+ANTAAK: Ah, yes. I've heard. Three wives for each husband. Three husbands for each wife. Your mating practices must be very complex. 
 PHLOX: Wondrously so. What about the House of Antaak? 
-ANTAAK: We are a warrior caste. When I became a healer, my father
-disowned me. 
-PHLOX: As a physician in the Imperial Fleet, you've served in the
-military. 
-ANTAAK: Not as well as I should have. I did not screen my subjects
-properly. This plague, all its victims, it's my fault. My failure is
-the reason you're here. 
+ANTAAK: We are a warrior caste. When I became a healer, my father disowned me. 
+PHLOX: As a physician in the Imperial Fleet, you've served in the military. 
+ANTAAK: Not as well as I should have. I did not screen my subjects properly. This plague, all its victims, it's my fault. My failure is the reason you're here. 
 [Qu'Vat Colony]
-(The group of augmented Klingons who boarded
-Enterprise come to make their report.) 
+(The group of augmented Klingons who boarded Enterprise come to make their report.) 
 LANETH: (a female) The humans could not stop us. 
 K'VAGH: I am your superior. You will salute. 
 (She does so, sarcastically.) 
 K'VAGHNow, report. 
-LANETH: Enterprise was destroyed. Starfleet will think it was her
-engines. 
+LANETH: Enterprise was destroyed. Starfleet will think it was her engines. 
 K'VAGH: One of you is missing. 
 LANETH: Your son was slow. The humans killed him. 
 K'VAGH: Did he die with honour? 
@@ -344,33 +275,26 @@ ANTAAK: Doctor Phlox has made excellent progress.
 K'VAGH: Details. 
 PHLOX: I've identified the RNA sequences that code 
 K'VAGH: Details I can pass on to my superiors. 
-PHLOX: I know where to look for the switch that will turn off the
-virus. 
+PHLOX: I know where to look for the switch that will turn off the virus. 
 K'VAGH: How long until you find it? 
 PHLOX: An hour. 
 K'VAGH: One hour.
-(K'Vagh goes to a room, possibly his office, and contacts another
-Klingon via his computer monitor.) 
+(K'Vagh goes to a room, possibly his office, and contacts another Klingon via his computer monitor.) 
 [Krell's warship]
 KRELL: What do you want? 
 [Qu'Vat Colony]
 K'VAGH: I have news for the High Council. 
 [Krell's warship]
 KRELL: Explain. 
-K'VAGH [OC]: The Denobulan is close to perfecting the Augment's genome.
+K'VAGH [OC]: The Denobulan is close to perfecting the Augment's genome. 
 KRELL: The Council has shut down your project. 
-K'VAGH [on monitor]: If you sterilise this colony, then all our
-research will be lost. 
+K'VAGH [on monitor]: If you sterilise this colony, then all our research will be lost. 
 [Qu'Vat Colony]
-KRELL [on monitor]: The fleet will reach you in
-three days. If you're successful by the time we enter orbit, Qu'Vat
-will be spared. 
+KRELL [on monitor]: The fleet will reach you in three days. If you're successful by the time we enter orbit, Qu'Vat will be spared. 
 [Situation room]
-TUCKER: Captain, it's going to be a while before
-everything's back to normal in Engineering. 
+TUCKER: Captain, it's going to be a while before everything's back to normal in Engineering. 
 ARCHER: Can Kelby handle it? 
-TUCKER: I could pull a little double duty to help him out. I could
-check with Captain Hernandez. 
+TUCKER: I could pull a little double duty to help him out. I could check with Captain Hernandez. 
 ARCHER: Something else? 
 TUCKER: What the hell's going on with Malcolm? 
 ARCHER: Nothing I can get into right now. 
@@ -390,25 +314,17 @@ T'POL: Quite.
 K'VAGH: Your hour is up. 
 PHLOX: We're getting the test results now. 
 K'VAGH: We are running out of time! 
-PHLOX: General, I know the Klingon fleet is on its way, and I
-understand what this project cost you, personally. Antaak told me about
-your son. 
+PHLOX: General, I know the Klingon fleet is on its way, and I understand what this project cost you, personally. Antaak told me about your son. 
 K'VAGH: He died in combat for the Empire. 
-PHLOX: At least he was spared the final stage of this disease. May I
-ask how he was infected? 
-K'VAGH: Command chose his unit for the augment experiment when we had
-exhausted our supply of prisoners.
-My son was a warrior. He asked for no special treatment, and I gave him
-none. 
+PHLOX: At least he was spared the final stage of this disease. May I ask how he was infected? 
+K'VAGH: Command chose his unit for the augment experiment when we had exhausted our supply of prisoners. My son was a warrior. He asked for no special treatment, and I gave him none. 
 [Brig]
-(Reed can't cut his meat with the plastic knife,
-and Marab throws his meal against the wall.) 
+(Reed can't cut his meat with the plastic knife, and Marab throws his meal against the wall.) 
 REED: What'd they give you? 
 MARAB: It's dead. I can't eat that. No wonder you're all so weak. 
 REED: Physical strength isn't everything. 
 MARAB: Well, you can't win wars without it. 
-REED: Being smart is more important. General Sun Tzu said that the
-greatest victories are those won without fighting. 
+REED: Being smart is more important. General Sun Tzu said that the greatest victories are those won without fighting. 
 MARAB: The great Kahless said there's no victory without combat. 
 REED: Do you ever question why you fight? 
 MARAB: Soldiers don't question. They obey. 
@@ -418,165 +334,116 @@ REED: That's not how we do things in Starfleet.
 MARAB: Which is why the Klingon Empire will defeat you. 
 REED: Then how come you're in the same Brig that I'm in? 
 [Qu'Vat Colony]
-(K'Vagh is meeting his Augment team in their
-barracks.) 
+(K'Vagh is meeting his Augment team in their barracks.) 
 LANETH: You said we'd become stronger. This is what you've done to us. 
 K'VAGH: He will become infectious soon. He should be quarantined. 
-LANETH: We'll remain here. If we're going to die, we'll die together as
-comrades. 
-K'VAGH: Be patient, Lieutenant. The Denobulan is working to stabilise
-the human DNA. You will all be healthy again, and stronger than any
-Klingon. 
+LANETH: We'll remain here. If we're going to die, we'll die together as comrades. 
+K'VAGH: Be patient, Lieutenant. The Denobulan is working to stabilise the human DNA. You will all be healthy again, and stronger than any Klingon. 
 LANETH: Will he restore our appearance? 
 K'VAGH: I don't know. 
-LANETH: How do you expect us to return home looking like this? We will
-be outcasts. There will be no place for us in the Empire. 
+LANETH: How do you expect us to return home looking like this? We will be outcasts. There will be no place for us in the Empire. 
 K'VAGH: Your heart is still Klingon. 
-LANETH: Are you certain of that? During the battle with the Starfleet
-ship I felt fear for the first time since I was a child. I wasn't
-alone. I could see it in the eyes of the others. We've become like
-them. Weak, cowardly. It would be better for us to die. 
-K'VAGH: As long as I draw breath, the Empire will not turn its back on
-you. 
+LANETH: Are you certain of that? During the battle with the Starfleet ship I felt fear for the first time since I was a child. I wasn't alone. I could see it in the eyes of the others. We've become like them. Weak, cowardly. It would be better for us to die. 
+K'VAGH: As long as I draw breath, the Empire will not turn its back on you. 
 [Archer's quarters]
 (Porthos is on the bed, sulking.) 
-ARCHER: I get the feeling you miss Phlox, too. Maybe it's just the
-stash of cheese he's got in Sickbay. (his monitor beeps) Hold that
-thought. 
-HARRIS [on monitor]: Captain Archer, I'm told you have some questions
-for me. 
+ARCHER: I get the feeling you miss Phlox, too. Maybe it's just the stash of cheese he's got in Sickbay. (his monitor beeps) Hold that thought. 
+HARRIS [on monitor]: Captain Archer, I'm told you have some questions for me. 
 ARCHER: Where's my doctor? 
-HARRIS [on monitor]: He's safe, on a mission of great importance to
-Starfleet. 
+HARRIS [on monitor]: He's safe, on a mission of great importance to Starfleet. 
 ARCHER: Phlox was kidnapped. Starfleet would never authorise that. 
-HARRIS [on monitor]: Reread the Charter, Article 14, Section 31. There
-are a few lines that make allowances for bending the rules during times
-of extraordinary threat. 
+HARRIS [on monitor]: Reread the Charter, Article 14, Section 31. There are a few lines that make allowances for bending the rules during times of extraordinary threat. 
 ARCHER: What threat? 
 HARRIS [on monitor]: Take your pick. Earth's got a lot of enemies. 
 ARCHER: Klingons attacked my ship. Is that what we're talking about? 
-HARRIS [on monitor]: What I want to talk about is Lieutenant Reed. He's
-done good work for us over the years. Don't be too hard on him. He was
-just following my orders. 
+HARRIS [on monitor]: What I want to talk about is Lieutenant Reed. He's done good work for us over the years. Don't be too hard on him. He was just following my orders. 
 ARCHER: You put him in an impossible position. 
-HARRIS [on monitor]: I can understand why you would feel that way, but
-this is bigger than one captain and one ship. 
+HARRIS [on monitor]: I can understand why you would feel that way, but this is bigger than one captain and one ship. 
 ARCHER: You're going to have to do better than that. 
-HARRIS [on monitor]: All I can tell you is that if you interfere before
-Phlox completes his assignment, the repercussions will
-affect entire worlds. 
+HARRIS [on monitor]: All I can tell you is that if you interfere before Phlox completes his assignment, the repercussions will affect entire worlds. 
 [Laboratory]
 (Phlox is holding four vials of green stuff.) 
-PHLOX: One of these four strains has the genetic trigger that can
-neutralise the virus before it advances to its lethal stage. 
+PHLOX: One of these four strains has the genetic trigger that can neutralise the virus before it advances to its lethal stage. 
 K'VAGH: Which one? 
 PHLOX: I don't know yet. That's why I have to check each of them. 
 K'VAGH: How long will it take? 
-PHLOX: A week. Your fleet can quarantine this world while I complete my
-tests. Sterilisation is not necessary. 
+PHLOX: A week. Your fleet can quarantine this world while I complete my tests. Sterilisation is not necessary. 
 K'VAGH: Fleet Admiral Krell will not extend his deadline. 
-PHLOX: The only possible way to get results on Krell's schedule is to
-infect four healthy Klingons! 
+PHLOX: The only possible way to get results on Krell's schedule is to infect four healthy Klingons! 
 K'VAGH: You have four right here! 
-PHLOX: Only one of these strains will work. The other three will be
-lethal. Ethically, it's unthinkable. 
+PHLOX: Only one of these strains will work. The other three will be lethal. Ethically, it's unthinkable. 
 K'VAGH: The ethics, Doctor, are simple. Three lives to save millions. 
-(Antaak doesn't look too keen on the idea.)
+(Antaak doesn't look too keen on the idea.) 
 [Ready room]
 REED: At first, it didn't seem like lying. 
 ARCHER: What else would you call it? 
 REED: Covert operations. I was a young ensign, it was exciting. 
 ARCHER: How do you feel about it now? 
-REED: I thought it was done. This is the first time that Harris has
-contacted me since I've served on Enterprise. He told me about the
-plague. He said they needed Phlox to help the Klingons find a cure. I
-was supposed to just slow us down. 
+REED: I thought it was done. This is the first time that Harris has contacted me since I've served on Enterprise. He told me about the plague. He said they needed Phlox to help the Klingons find a cure. I was supposed to just slow us down. 
 ARCHER: Did Harris tell you about this? 
 (He hands over a PADD,) 
-ARCHER: I had T'Pol take a closer look at our prisoner's medical scans.
+ARCHER: I had T'Pol take a closer look at our prisoner's medical scans. 
 REED: It's human DNA. 
-ARCHER: I'm guessing the plague is a side effect of a military
-experiment that went wrong. 
+ARCHER: I'm guessing the plague is a side effect of a military experiment that went wrong. 
 REED: I didn't know. 
-ARCHER: Harris claims he's doing this because Starfleet needs a stable
-Klingon Empire. 
+ARCHER: Harris claims he's doing this because Starfleet needs a stable Klingon Empire. 
 REED: Do you believe him? 
-ARCHER: I don't trust him. If the Klingons needed our help, there are
-easier ways to get it. 
+ARCHER: I don't trust him. If the Klingons needed our help, there are easier ways to get it. 
 REED: I wanted to tell you everything, Captain. 
-ARCHER: There's a way out of this. I don't have to put you back in the
-Brig, but you have to choose where your loyalties lie. 
-REED: I wasn't told where Phlox was taken, but Starfleet intelligence
-believe that Klingons have a genetic research facility on Qu'Vat
-Colony. 
+ARCHER: There's a way out of this. I don't have to put you back in the Brig, but you have to choose where your loyalties lie. 
+REED: I wasn't told where Phlox was taken, but Starfleet intelligence believe that Klingons have a genetic research facility on Qu'Vat Colony. 
 [Bridge]
-(The turbolift door opens to reveal Reed with
-Archer. T'Pol stands and heads turn.) 
+(The turbolift door opens to reveal Reed with Archer. T'Pol stands and heads turn.) 
 ARCHER: As you were. 
 (Reed takes back his station from a woman.) 
 ARCHER: How long until we reach Qu'Vat? 
 TRAVIS: Six hours, sir. 
-REED: Captain, we need to be ready for Klingon patrols. I suggest that
-Columbia withdraws to a safer distance
-so that we don't make a single target. 
+REED: Captain, we need to be ready for Klingon patrols. I suggest that Columbia withdraws to a safer distance so that we don't make a single target. 
 ARCHER: Open a channel to Captain Hernandez. 
 [Laboratory]
-(Antaak and the other two Klingons are in the
-background.) 
-PHLOX: Why did you think you'd succeed in perfecting Augments when
-Doctor Soong failed? 
+(Antaak and the other two Klingons are in the background.) 
+PHLOX: Why did you think you'd succeed in perfecting Augments when Doctor Soong failed? 
 K'VAGH: Soong's mistake was that he made too few of them. 
-PHLOX: The Earth once had thousands. They became tyrannical and started
-a war. 
+PHLOX: The Earth once had thousands. They became tyrannical and started a war. 
 K'VAGH: Klingons have discipline. 
-PHLOX: Augments don't. Their increased aggression is matched by their
-decreased inhibitions. You'd lose control of them, just as humans did. 
+PHLOX: Augments don't. Their increased aggression is matched by their decreased inhibitions. You'd lose control of them, just as humans did. 
 (Phlox injects K'Vagh.) 
 K'VAGH: How long until we know which one of us survives? 
 PHLOX: An hour, at most. 
 K'VAGH: Would bloodwine affect the results? 
 PHLOX: I don't believe so. 
 (K'Vagh produces a flask from an inside pocket.) 
-K'VAGH:
-Then we shall drink to the bravery of these warriors! Doctor? 
+K'VAGH: Then we shall drink to the bravery of these warriors! Doctor? 
 PHLOX: Never on the job. 
 [Sickbay]
 (Marab is on a biobed, coughing.) 
-ARCHER: We know Phlox was taken to Qu'Vat Colony to work on a cure.
-We're going to be there in less than an hour. 
+ARCHER: We know Phlox was taken to Qu'Vat Colony to work on a cure. We're going to be there in less than an hour. 
 MARAB: Krell's patrols will crush you. 
 REED: They've all been recalled to enforce quarantine zones. 
-ARCHER: Phlox will be in the medical facility. We need the
-co-ordinates. If you don't want to help us, help your people. 
+ARCHER: Phlox will be in the medical facility. We need the co-ordinates. If you don't want to help us, help your people. 
 [Qu'Vat Colony]
 (Phlox has gone to the Augment's barracks.) 
 LANETH: My brothers? 
 PHLOX: They're quite ill. So are you. Try to rest. 
-ANTAAK: (entering) Doctor. The two guards are displaying the first
-symptoms. 
+ANTAAK: (entering) Doctor. The two guards are displaying the first symptoms. 
 PHLOX: That accounts for two of the three lethal strains. 
-ANTAAK: So either General K'Vagh lives, or I do. (Phlox scans him) It's
-the General, isn't it? His strain has the cure. 
+ANTAAK: So either General K'Vagh lives, or I do. (Phlox scans him) It's the General, isn't it? His strain has the cure. 
 PHLOX: If we work quickly, there's a chance we can treat you in time. 
 [Krell's warship]
-(The Fleet Admiral is eating live gagh when his
-monitor beeps.) 
+(The Fleet Admiral is eating live gagh when his monitor beeps.) 
 KRELL: What now? 
 HARRIS [on monitor]: There's been a complication. 
 KRELL: Another one? 
-HARRIS [on monitor]: This time, your people failed to stop Enterprise.
-It's on its way to Qu'Vat, with Columbia. 
+HARRIS [on monitor]: This time, your people failed to stop Enterprise. It's on its way to Qu'Vat, with Columbia. 
 KRELL: Order them to withdraw. 
 HARRIS [on monitor]: You know I don't have that authority. 
 KRELL: Then I'll destroy them. 
 HARRIS [on monitor]: We had an arrangement! 
 KRELL: You did what I wanted. I don't need you anymore. 
-HARRIS [on monitor]: You agreed that both our governments would benefit
-if the two of us worked together. 
+HARRIS [on monitor]: You agreed that both our governments would benefit if the two of us worked together. 
 KRELL: And you believed me.; 
 [Laboratory]
-PHLOX: Load the amino acids. I'll extract the viral
-DNA from his blood. 
+PHLOX: Load the amino acids. I'll extract the viral DNA from his blood. 
 (The door opens, and an armed man in a Starfleet uniform enters.) 
 PHLOX: Captain. 
 ARCHER: You all right? 
@@ -587,41 +454,30 @@ MARAB: The humans spared me.
 ARCHER: I came to get my doctor back. 
 K'VAGH: We need him here. 
 ARCHER: I have two ships in orbit, heavily armed. 
-PHLOX: Gentlemen, please. I think I can speak for myself. Captain. I
-need a little more time to cure this plague. 
+PHLOX: Gentlemen, please. I think I can speak for myself. Captain. I need a little more time to cure this plague. 
 K'VAGH: Cure? You were supposed to be perfect the Augment genome! 
-PHLOX: I lied. Your son may be alive, but he will not survive much
-longer unless I don't complete my work. A few hours, Captain, that's
-all I ask. Several million patients are counting on it. 
+PHLOX: I lied. Your son may be alive, but he will not survive much longer unless I don't complete my work. A few hours, Captain, that's all I ask. Several million patients are counting on it. 
 [Bridge]
-REED: Commander, three Klingon battlecruisers have
-just dropped out of warp. 
+REED: Commander, three Klingon battlecruisers have just dropped out of warp. 
 T'POL: Open a channel to Columbia. 
 HOSHI: The Klingons are jamming everything. 
 [Laboratory]
 (A klaxon sounds.) 
 MARAB: What is it? 
 K'VAGH: Krell's ships are here. 
-ARCHER: Keep working. Archer to Enterprise. Tell the Klingons we have
-the cure. Enterprise, respond! 
+ARCHER: Keep working. Archer to Enterprise. Tell the Klingons we have the cure. Enterprise, respond! 
 KRELL [OC]: This is Fleet Admiral Krell. 
 [Klingon Bridge]
 KRELL: I'm under orders to eradicate this colony. 
 [Laboratory]
-ARCHER: You don't have to do that. My doctor can
-stop the plague. 
+ARCHER: You don't have to do that. My doctor can stop the plague. 
 [Klingon Bridge]
 KRELL: I have a more effective solution. 
 [Laboratory]
-PHLOX: Hello, Admiral Krell. This is Doctor Phlox.
-I am transmitting the details of an antivirus. Feel free to have your
-physicians confirm my findings, and you're welcome to call with any
-questions. 
+PHLOX: Hello, Admiral Krell. This is Doctor Phlox. I am transmitting the details of an antivirus. Feel free to have your physicians confirm my findings, and you're welcome to call with any questions. 
 KRELL [OC]: My orders are clear. 
 [Klingon Bridge]
-KRELL: Captain Archer, your ships are now the
-property of the Klingon Empire. Stand down or be destroyed! Proceed as
-planned. Leave nothing standing. 
+KRELL: Captain Archer, your ships are now the property of the Klingon Empire. Stand down or be destroyed! Proceed as planned. Leave nothing standing. 
 [Bridge]
 TRAVIS: The lead ship's moving into a lower orbit. 
 REED: They're charging weapons. 
@@ -633,65 +489,50 @@ T'POL: Target their disruptors!
 (The room rocks to weapons fire.) 
 ARCHER: How strong are the shields around this place? 
 K'VAGH: Not strong enough. You said you had two ships in orbit! 
-ARCHER: I'm sure they're doing everything they can. Archer to
-Enterprise. 
+ARCHER: I'm sure they're doing everything they can. Archer to Enterprise. 
 [Bridge]
-(As Enterprise makes another pass on Krell's ship,
-the other two Klingons chase and attack.) 
+(As Enterprise makes another pass on Krell's ship, the other two Klingons chase and attack.) 
 REED: They're closing from astern. (explosions) Aft cannons are down. 
-(Then Colombia swoops in to the rear of the Klingons.)
+(Then Colombia swoops in to the rear of the Klingons.) 
 {Colombia Bridge]
-ERIKA: Columbia to Enterprise. Looked like you
-could use a hand. Let's keep those ships off their tail. 
+ERIKA: Columbia to Enterprise. Looked like you could use a hand. Let's keep those ships off their tail. 
 [Laboratory]
 K'VAGH: Your ships are taking damage. 
 ARCHER: How much longer? 
 PHLOX: As I said, in another few hours. 
-ARCHER: Can you speed that up a little? Phlox, I've got an idea. If we
-want to get out of here in one piece, we've got to get that cure, and
-we're got to get it fast. 
-PHLOX: I could finish the antivirus in less time if I had a human host
-to replicate enough antibodies. 
+ARCHER: Can you speed that up a little? Phlox, I've got an idea. If we want to get out of here in one piece, we've got to get that cure, and we're got to get it fast. 
+PHLOX: I could finish the antivirus in less time if I had a human host to replicate enough antibodies. 
 ARCHER: I don't see any other humans around. 
-PHLOX: Captain, I would have to expose you to the plague. I cannot
-predict what it might do to you. 
+PHLOX: Captain, I would have to expose you to the plague. I cannot predict what it might do to you. 
 ARCHER: Will it give you the cure? 
 PHLOX: Unquestionably. 
 ARCHER: Let's get started. 
 K'VAGH: What do you intend to do? 
-ARCHER: This virus may be our best weapon against Krell. Ready when you
-are. 
-(Phlox straps him into the chair.)
+ARCHER: This virus may be our best weapon against Krell. Ready when you are. 
+(Phlox straps him into the chair.) 
 [Colombia Bridge]
-TACTICAL: One of the ships is losing power. Their
-port nacelle is vulnerable. 
+TACTICAL: One of the ships is losing power. Their port nacelle is vulnerable. 
 ERIKA: Then fire at will. 
 [Laboratory]
-PHLOX: In addition to the virus, I'm injecting you
-with a metabolic catalyst to accelerate your immune response.
-It won't be pleasant. 
+PHLOX: In addition to the virus, I'm injecting you with a metabolic catalyst to accelerate your immune response. It won't be pleasant. 
 [Bridge]
-REED: It's no use. I can't penetrate their shields.
+REED: It's no use. I can't penetrate their shields. 
 HOSHI: Commander. I've broken through their jamming frequencies. 
 T'POL: T'Pol to Captain Archer. 
 [Laboratory]
 T'POL [OC]: Captain, respond! 
 PHLOX: Doctor Phlox here. The Captain is indisposed at the moment. 
 [Bridge]
-PHLOX: I imagine you have your hands full up there.
+PHLOX: I imagine you have your hands full up there. 
 T'POL: To say the least. 
 [Laboratory]
 (Archer is writhing in pain.) 
-PHLOX: We have a plan to defuse this situation, but we'll need a few
-more minutes to carry it out. I'd appreciate it if you could keep the
-ceiling from caving in on us until then. 
+PHLOX: We have a plan to defuse this situation, but we'll need a few more minutes to carry it out. I'd appreciate it if you could keep the ceiling from caving in on us until then. 
 T'POL [OC]: Understood. 
 [Bridge]
 T'POL: How much hull plating do we have left? 
 REED: Sixty two percent. 
-T'POL: Mister Mayweather, put us directly between that cruiser and the
-colony. You may want to divert all available power to our dorsal
-plating. 
+T'POL: Mister Mayweather, put us directly between that cruiser and the colony. You may want to divert all available power to our dorsal plating. 
 REED: Aye, aye. 
 [Laboratory]
 PHLOX: It's working. 
@@ -700,105 +541,68 @@ PHLOX: It's working.
 TRAVIS: They're shifting their orbit. 
 T'POL: Stay with them. 
 REED: Hull plating's down to forty percent. 
-T'POL: Keep firing. Captain Hernandez, please direct your weapons at
-the battle cruiser. 
+T'POL: Keep firing. Captain Hernandez, please direct your weapons at the battle cruiser. 
 [Colombia Bridge]
-ERIKA: Wish I could help. We just lost our weapons!
+ERIKA: Wish I could help. We just lost our weapons! 
 [Laboratory]
-(Archer is breaking his restrains, so K'Vagh holds
-him.) 
+(Archer is breaking his restrains, so K'Vagh holds him.) 
 PHLOX: It's done! Hold him! 
 (He takes blood from Archer.) 
 PHLOX: We've got it. Is the canister ready? 
 ANTAAK: It's set to disperse five seconds after transport. 
 PHLOX: Send it. Open a channel to Krell. 
-(Antaak beams the canister away.)
+(Antaak beams the canister away.) 
 [Bridge]
-REED: Hull plating's nearly down. We can't hold
-this position much longer. 
+REED: Hull plating's nearly down. We can't hold this position much longer. 
 [Laboratory]
-PHLOX: Admiral Krell. Doctor Phlox again. By now
-you may have noticed the 
+PHLOX: Admiral Krell. Doctor Phlox again. By now you may have noticed the 
 [Klingon Bridge]
-PHLOX [OC]: Small package which we sent to your
-Bridge. What you may not know is that it contains a potent sample of
-the metagenic virus. Even as we speak it is dispersing throughout your
-ship, infecting you and your crew. 
+PHLOX [OC]: Small package which we sent to your Bridge. What you may not know is that it contains a potent sample of the metagenic virus. Even as we speak it is dispersing throughout your ship, infecting you and your crew. 
 KRELL: You're lying! 
 PHLOX [OC]: Check your internal sensors. You will find 
 [Laboratory]
-PHLOX: That the atmosphere contains approximately
-twenty parts per million of the viral strain. Or if you don't trust
-your sensors, trust your senses. You will feel the initial symptoms in
-about thirty minutes. A tightness in the chest, irregular heartbeat 
+PHLOX: That the atmosphere contains approximately twenty parts per million of the viral strain. Or if you don't trust your sensors, trust your senses. You will feel the initial symptoms in about thirty minutes. A tightness in the chest, irregular heartbeat 
 [Klingon Bridge]
 PHLOX [OC]: Tingling in your cranial ridges. 
 KRELL: This is a cowardly attack! 
 [Laboratory]
-PHLOX: Maybe so. But I'm prepared to give you the
-cure. Thanks to Captain Archer, I've managed to complete the antivirus.
-Of course, if you destroy this colony, well, treating you and your crew
-could prove difficult. I suggest you power down your weapons, Admiral,
-and let me cure your people. 
-Captain's Starlog, supplemental. Admiral Krell has
-convinced the High Council to call off their sterilisation programme.
-They've promised to distribute Phlox's cure throughout the Empire. 
+PHLOX: Maybe so. But I'm prepared to give you the cure. Thanks to Captain Archer, I've managed to complete the antivirus. Of course, if you destroy this colony, well, treating you and your crew could prove difficult. I suggest you power down your weapons, Admiral, and let me cure your people. 
+Captain's Starlog, supplemental. Admiral Krell has convinced the High Council to call off their sterilisation programme. They've promised to distribute Phlox's cure throughout the Empire. 
 [Sickbay]
-PHLOX: There's no trace of the virus in your
-bloodstream. 
+PHLOX: There's no trace of the virus in your bloodstream. 
 (Antaak touches his smooth forehead.) 
-ANTAAK:
-My targ won't even recognise me. 
-PHLOX: In the future, it may be possible to reverse the cosmetic
-effects. 
-ANTAAK: I suppose this is what I deserve. Millions of my people will
-have to live with this disfigurement. It'll be passed on to our
-children. Life won't be easy for us. 
-PHLOX: You did your best to correct your mistakes. That's all we can
-ask of ourselves. 
-ANTAAK: I doubt my superiors will allow me to remain in my position.
-I'll need to find a new specialty. Perhaps cranial reconstruction. 
+ANTAAK: My targ won't even recognise me. 
+PHLOX: In the future, it may be possible to reverse the cosmetic effects. 
+ANTAAK: I suppose this is what I deserve. Millions of my people will have to live with this disfigurement. It'll be passed on to our children. Life won't be easy for us. 
+PHLOX: You did your best to correct your mistakes. That's all we can ask of ourselves. 
+ANTAAK: I doubt my superiors will allow me to remain in my position. I'll need to find a new specialty. Perhaps cranial reconstruction. 
 PHLOX: I have a feeling that's about to become very popular. 
 (T'Pol and Captain Hernandez enter, and go to Archer's biobed.) 
 ANTAAK: I'm grateful for everything that you've done. 
 T'POL: How are you feeling? 
 (Archer has slight cranial ridges.) 
-ARCHER:
-Not too bad aside, from some strange cravings. A plate full of live
-gagh sounds pretty good right now. 
-PHLOX: The cravings should disappear in a day or so, along with your
-ridges. 
-TUCKER: No, I'd keep them if I were you, Captain. It makes you look
-intimidating. 
+ARCHER: Not too bad aside, from some strange cravings. A plate full of live gagh sounds pretty good right now. 
+PHLOX: The cravings should disappear in a day or so, along with your ridges. 
+TUCKER: No, I'd keep them if I were you, Captain. It makes you look intimidating. 
 ERIKA: I should be get back on the road. 
-ARCHER: One of us needs to get some exploring done. Thanks for your
-help. 
+ARCHER: One of us needs to get some exploring done. Thanks for your help. 
 ERIKA: I don't know how you survived all these years without me. 
 (She leaves.) 
 T'POL: Shouldn't you be joining her? 
-ARCHER: I asked Trip to stick around for a little while to help us out
-with repairs. 
-T'POL: Indeed. Our new Chief Engineer will no doubt be delighted for
-the help. 
-TUCKER: No, Kelby's got nothing to worry about. I'm only here
-temporarily. 
+ARCHER: I asked Trip to stick around for a little while to help us out with repairs. 
+T'POL: Indeed. Our new Chief Engineer will no doubt be delighted for the help. 
+TUCKER: No, Kelby's got nothing to worry about. I'm only here temporarily. 
 [Reed's quarters]
-(Reed is lying on his bunk, reading, when the
-monitor beeps.) 
+(Reed is lying on his bunk, reading, when the monitor beeps.) 
 REED: What do you want? 
-HARRIS [on monitor]: I called to thank you. Everything went according
-to our projections. The Empire's been stabilised.
-I doubt very much they'll be experimenting with Augments anytime soon. 
+HARRIS [on monitor]: I called to thank you. Everything went according to our projections. The Empire's been stabilised. I doubt very much they'll be experimenting with Augments anytime soon. 
 REED: We could've explained everything to Captain Archer. 
 HARRIS [on monitor]: That's not how Krell wanted things done. 
 REED: Since when do we do things the way the Klingons want? 
-HARRIS [on monitor]: When it's in our interest. I had to keep certain
-details from you as well. I hope there are no hard feelings. This
-mission wouldn't have succeeded without you, Lieutenant. 
+HARRIS [on monitor]: When it's in our interest. I had to keep certain details from you as well. I hope there are no hard feelings. This mission wouldn't have succeeded without you, Lieutenant. 
 REED: Don't ever contact me again. Is that clear? 
-HARRIS [on monitor]: Maybe you didn't understand our recruitment
-policy. You can't simply walk away. 
+HARRIS [on monitor]: Maybe you didn't understand our recruitment policy. You can't simply walk away. 
 REED: I answer to one Commanding Officer. Jonathan Archer. 
 HARRIS [on monitor]: Lieutenant, why don't we 
-(Reed ends the conversation and returns to his book.)  
+(Reed ends the conversation and returns to his book.) 
 

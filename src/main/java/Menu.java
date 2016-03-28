@@ -6,7 +6,7 @@ public class Menu {
 
 	//TODO: Convert to GUI (long term goal)
 	//TODO: Overhaul the parsing of scripts
-		//There are a ton of weird bugs that cause certain lines to be ignored
+	//There are a ton of weird bugs that cause certain lines to be ignored
 	public static void main(String[] args) {
 		HashMap<String, HashMap<String, MarkovChain>> chains = PositronicBrain.createMarkovChains();
 		HashMap<String, MarkovChain> seriesChain;

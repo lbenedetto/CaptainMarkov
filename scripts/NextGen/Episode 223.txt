@@ -1,44 +1,31 @@
 Episode Number: 223
 The Next Generation Transcripts - I, Borg
-I,
-Borg
-Stardate:
-45854.2
+I, Borg
+Stardate: 45854.2
 Original Airdate: 11 May, 1992
- 
-Captain's log, stardate 45854.2. The Enterprise is charting six star
-systems that make up the Argolis cluster, an area being considered for
-colonisation.
+Captain's log, stardate 45854.2. The Enterprise is charting six star systems that make up the Argolis cluster, an area being considered for colonisation. 
 [Bridge]
 (a large orange sun is on the viewscreen) 
 RIKER: Very impressive. 
 TROI: It's beautiful, but frightening at the same time.
-DATA: Captain, I am detecting a transmission emanating from within the
-system.
+DATA: Captain, I am detecting a transmission emanating from within the system.
 RIKER: What sort of signal?
 DATA: It is self-repeating, of unknown pattern.
 PICARD: Where is it coming from?
 DATA: A small moon orbiting the fourth planet.
 PICARD: Life signs?
-DATA: Indeterminate. I am attempting to screen out sensor interference.
-Readings are still inconclusive, however the moon's atmosphere is
-capable of supporting life.
-RIKER: It could be a distress call. Helm, take us into transport range.
-Doctor Crusher, meet me in transporter room two with a medical away
-team.
-CRUSHER [OC]: Acknowledged.
+DATA: Indeterminate. I am attempting to screen out sensor interference. Readings are still inconclusive, however the moon's atmosphere is capable of supporting life.
+RIKER: It could be a distress call. Helm, take us into transport range. Doctor Crusher, meet me in transporter room two with a medical away team.
+CRUSHER [OC]: Acknowledged. 
 [Crash site]
 CRUSHER: I'm reading one life form, very weak signs.
-(they go to the square-shaped wreckage and lift a piece of metal off a
-body with pale skin and lots of cybernetic implants) 
+(they go to the square-shaped wreckage and lift a piece of metal off a body with pale skin and lots of cybernetic implants) 
 RIKER: Riker to Enterprise.
 PICARD [OC]: Go ahead, Number One.
 RIKER: We've found the wreckage of a small craft. 
 [Bridge]
-RIKER [OC]: One survivor. It's a Borg. Male,
-adolescent. He's badly hurt.
-DATA: Sir, there is no indication of other Borg activity within sensor
-range.
+RIKER [OC]: One survivor. It's a Borg. Male, adolescent. He's badly hurt.
+DATA: Sir, there is no indication of other Borg activity within sensor range.
 PICARD: Away team, prepare to return to the ship. 
 CRUSHER [OC]: Captain, we can't 
 [Crash site]
@@ -49,246 +36,166 @@ RIKER: The Borg usually collect their dead.
 CRUSHER: He's not dead.
 RIKER: The transmission 
 CRUSHER: At least not yet.
-RIKER: The transmission that we intercepted was probably a homing
-signal. We have to assume they're on their way.
-CRUSHER: Let me at least stabilise his condition, give him a chance of
-surviving until they get here.
+RIKER: The transmission that we intercepted was probably a homing signal. We have to assume they're on their way.
+CRUSHER: Let me at least stabilise his condition, give him a chance of surviving until they get here. 
 [Bridge]
-PICARD: Your concern is noted, Doctor, but any
-intervention on our part would alert the Borg to our having been here.
+PICARD: Your concern is noted, Doctor, but any intervention on our part would alert the Borg to our having been here. 
 [Crash site]
-CRUSHER: I'm afraid we've turned that corner
-already.
+CRUSHER: I'm afraid we've turned that corner already.
 WORF: Kill it now. Make it appear that it died in the crash. 
 [Bridge]
-WORF [OC]: Leave no evidence that we were ever
-here. 
+WORF [OC]: Leave no evidence that we were ever here. 
 PICARD: Security measures must be taken before we beam it on board. 
 CRUSHER [OC]: Thank you, Captain. Standing by. 
-PICARD: Mister Data, notify Security to prepare a detention cell.
-Bridge to Engineering.
+PICARD: Mister Data, notify Security to prepare a detention cell. Bridge to Engineering.
 LAFORGE [OC]: La Forge here. 
-PICARD: We're bringing a Borg survivor on board. We'll need to
-neutralise the homing signal 
+PICARD: We're bringing a Borg survivor on board. We'll need to neutralise the homing signal 
 [Engineering]
-PICARD [OC]: Prevent it from sending or receiving
-transmissions of any kind.
-LAFORGE: I'll set up a subspace damping field around the detention
-cell. 
+PICARD [OC]: Prevent it from sending or receiving transmissions of any kind.
+LAFORGE: I'll set up a subspace damping field around the detention cell. 
 PICARD [OC]: Very well. 
 [Crash site]
 WORF: Four more. None survived.
 PICARD [OC]: Picard to Riker.
-RIKER: Go ahead, Enterprise.
+RIKER: Go ahead, Enterprise. 
 [Bridge]
-PICARD: We are transporting you directly to the
-detention cell.
+PICARD: We are transporting you directly to the detention cell.
 CRUSHER [OC]: I need him in Sickbay, Captain.
-PICARD: The cell, Doctor. Whatever equipment you need will be brought
-to you there.
+PICARD: The cell, Doctor. Whatever equipment you need will be brought to you there.
 CRUSHER [OC]: Very well. 
-(Picard goes to his Ready room, and Troi follows)
+(Picard goes to his Ready room, and Troi follows) 
 [Ready room]
 PICARD: Come.
-TROI: Captain, I just wondered if there's anything you wanted to talk
-about.
+TROI: Captain, I just wondered if there's anything you wanted to talk about.
 PICARD: I don't think so, Counsellor.
-TROI: I would have thought having a Borg on the ship would stir some
-feelings.
+TROI: I would have thought having a Borg on the ship would stir some feelings.
 PICARD: I'm quite recovered from my experience, thank you.
-TROI: Sometimes even when a victim has dealt with his assault there are
-residual effects of the event that linger. You were treated violently
-by the Borg. 
-Kidnapped, assaulted,
-mutilated. 
-PICARD: Counsellor. Counsellor, I very much appreciate your concern for
-me, but I can assure you it is quite misplaced.
-I have carefully considered the implications of having a Borg on this
-ship. I have weighed the possible risks, and I am convinced that we are
-doing the right thing. Now, I am quite comfortable with my decision.
+TROI: Sometimes even when a victim has dealt with his assault there are residual effects of the event that linger. You were treated violently by the Borg. 
+Kidnapped, assaulted, mutilated.
+PICARD: Counsellor. Counsellor, I very much appreciate your concern for me, but I can assure you it is quite misplaced.
+I have carefully considered the implications of having a Borg on this ship. I have weighed the possible risks, and I am convinced that we are doing the right thing. Now, I am quite comfortable with my decision.
 TROI: I see. Well, if at any point you want to talk more.
-PICARD: I shall certainly avail myself of your help.
+PICARD: I shall certainly avail myself of your help. 
 [Brig]
 (Crusher is treating the Borg inside the cell) 
 WORF: Lower the forcefield.
-(a medic enters the cell and the forcefield is raised again. Picard
-enters the Brig) 
+(a medic enters the cell and the forcefield is raised again. Picard enters the Brig) 
 WORF: Captain, the Borg is still unconscious.
-CRUSHER: He suffered massive internal injuries. We've been able to
-control the haemorrhaging, but some of the implants in his brain were
-damaged. I may have to remove them.
-PICARD: The Borg will die if they're removed permanently. Their brains
-grow dependent on the biochips.
+CRUSHER: He suffered massive internal injuries. We've been able to control the haemorrhaging, but some of the implants in his brain were damaged. I may have to remove them.
+PICARD: The Borg will die if they're removed permanently. Their brains grow dependent on the biochips.
 CRUSHER: Perhaps Geordi can construct some new implants. 
-LAFORGE: They contain relatively straightforward programming, interface
-protocols. We have the files we downloaded after your experience,
-Captain. I think I can manage it.
-PICARD: Mister La Forge, do you know enough about Borg programming to
-alter the pathways to their root command structure?
-LAFORGE: I'm not sure, sir. The subroutines are pretty complicated. I'd
-probably have to study the data processing algorithms. It's the only
-way I could trace the access codes.
-PICARD: If we could get to the root command, we could introduce an
-invasive programming sequence through its biochip system and then
-return it to the hive. 
+LAFORGE: They contain relatively straightforward programming, interface protocols. We have the files we downloaded after your experience, Captain. I think I can manage it.
+PICARD: Mister La Forge, do you know enough about Borg programming to alter the pathways to their root command structure?
+LAFORGE: I'm not sure, sir. The subroutines are pretty complicated. I'd probably have to study the data processing algorithms. It's the only way I could trace the access codes.
+PICARD: If we could get to the root command, we could introduce an invasive programming sequence through its biochip system and then return it to the hive. 
 LAFORGE: The Borg are so interconnected it would act like a virus.
-PICARD: Which would infect the entire Collective. We could disable
-their neural network at a stroke.
+PICARD: Which would infect the entire Collective. We could disable their neural network at a stroke.
 CRUSHER: Infect it? You make it sound like a disease.
-PICARD: Quite right, Doctor. If all goes well, a terminal one.
+PICARD: Quite right, Doctor. If all goes well, a terminal one. 
 [Observation lounge]
-LAFORGE: If this works the way I think it will,
-once the invasive programme starts spreading, it'll only be a matter of
-months before the Borg suffer total systems failure.
+LAFORGE: If this works the way I think it will, once the invasive programme starts spreading, it'll only be a matter of months before the Borg suffer total systems failure.
 PICARD: Comments.
 CRUSHER: A question. What exactly is total systems failure?
-DATA: The Borg are extremely computer dependent. A systems failure will
-destroy them.
-CRUSHER: I just think we should be plain about that. We're talking
-about annihilating an entire race.
-PICARD: Which under most circumstances would be unconscionable. But as
-I see it, the Borg leave us with little choice.
+DATA: The Borg are extremely computer dependent. A systems failure will destroy them.
+CRUSHER: I just think we should be plain about that. We're talking about annihilating an entire race.
+PICARD: Which under most circumstances would be unconscionable. But as I see it, the Borg leave us with little choice.
 RIKER: I agree. We're at war.
 CRUSHER: There's been no formal declaration of war.
-TROI: Not from us, but certainly from them. They've attacked us in
-every encounter.
-PICARD: They've declared war on our way of life. We are to be
-assimilated.
-CRUSHER: But even in war there are rules. You don't kill civilians
-indiscriminately.
+TROI: Not from us, but certainly from them. They've attacked us in every encounter.
+PICARD: They've declared war on our way of life. We are to be assimilated.
+CRUSHER: But even in war there are rules. You don't kill civilians indiscriminately.
 RIKER: There are no civilians among the Borg.
-PICARD: Think of them as a single, collective being. There's no one
-Borg who is more an individual than your arm or your leg.
+PICARD: Think of them as a single, collective being. There's no one Borg who is more an individual than your arm or your leg.
 CRUSHER: How convenient.
 PICARD: Your point, Doctor?
-CRUSHER: When I look at my patient, I don't see a collective
-consciousness. I don't see a hive. I see a living, breathing boy who's
-been hurt and who needs our help. And we're talking about sending him
-back to his people as an instrument of destruction.
-PICARD: It comes down to this. We're faced with an enemy who are
-determined to destroy us, and we have no hope of negotiating a peace.
-Unless that changes, we are justified in doing anything we can to
-survive.
+CRUSHER: When I look at my patient, I don't see a collective consciousness. I don't see a hive. I see a living, breathing boy who's been hurt and who needs our help. And we're talking about sending him back to his people as an instrument of destruction.
+PICARD: It comes down to this. We're faced with an enemy who are determined to destroy us, and we have no hope of negotiating a peace. Unless that changes, we are justified in doing anything we can to survive.
 SECURITY [OC]: Security to Captain.
 PICARD: Picard here.
 SECURITY [OC]: The Borg has regained consciousness, sir.
-PICARD: Acknowledged. We proceed with the plan.
+PICARD: Acknowledged. We proceed with the plan. 
 [Brig]
-(the Borg is checking every millimetre of the walls
-and forcefield) 
+(the Borg is checking every millimetre of the walls and forcefield) 
 CRUSHER: What's he doing?
-PICARD: He's trying to find an access terminal so he can interface with
-the collective. He doesn't understand that the signal has been cut off.
-LAFORGE: He's emitting a homing signal and a second subspace beacon,
-but our damping field is blocking both signals.
-PICARD: He's alone. For the first time he's being forced to cope with
-his environment without the resources of the Collective.
-CRUSHER: He must be hungry. The Borg don't ingest food. Their implants
-can synthesise any organic molecules the biological tissues require.
-What they need is energy.
+PICARD: He's trying to find an access terminal so he can interface with the collective. He doesn't understand that the signal has been cut off.
+LAFORGE: He's emitting a homing signal and a second subspace beacon, but our damping field is blocking both signals.
+PICARD: He's alone. For the first time he's being forced to cope with his environment without the resources of the Collective.
+CRUSHER: He must be hungry. The Borg don't ingest food. Their implants can synthesise any organic molecules the biological tissues require. What they need is energy.
 PICARD: Arrange to feed it.
 LAFORGE: Aye, sir. 
 (Picard leaves) 
 LAFORGE: I'll have to adapt a power conduit and install it in there.
-CRUSHER: If I didn't know better, I'd think he was scared.
+CRUSHER: If I didn't know better, I'd think he was scared. 
 [Gymnasium]
-(Picard is fencing and beating an opponent who
-turns out to be - ) 
+(Picard is fencing and beating an opponent who turns out to be - ) 
 GUINAN: I don't think I like this sport.
-PICARD: Last week when you scored two touches, you liked it well
-enough. Today you were dropping your foil. You kept letting me inside.
-GUINAN: Ah, but if I lift up, you lunge right underneath. Let's face
-it, you're just better at this than I am. I understand we have a guest
-on board.
+PICARD: Last week when you scored two touches, you liked it well enough. Today you were dropping your foil. You kept letting me inside.
+GUINAN: Ah, but if I lift up, you lunge right underneath. Let's face it, you're just better at this than I am. I understand we have a guest on board.
 PICARD: Yes.
 GUINAN: Is that wise?
 PICARD: I'm not sure. I hope so.
 GUINAN: I thought I understood you, Picard, but I don't understand this.
-PICARD: It was an errand of mercy. He was injured, Doctor Crusher
-decided for humanitarian reasons to care for him.
-GUINAN: They're going to come after us, you know that. You, of all
-people, know that.
+PICARD: It was an errand of mercy. He was injured, Doctor Crusher decided for humanitarian reasons to care for him.
+GUINAN: They're going to come after us, you know that. You, of all people, know that.
 PICARD: Shall we go again?
 (after exchanging parries and thrusts, Guinan grabs her thigh in pain) 
 PICARD: Are you all right? 
 (she disarms him and scores a touch) 
-GUINAN: You felt sorry for me. Look what it got you.
+GUINAN: You felt sorry for me. Look what it got you. 
 [Brig]
-LAFORGE: I'll have to go in to connect the power
-conduit.
-WORF: I will follow the Commander. Reactivate the field once we're
-through.
+LAFORGE: I'll have to go in to connect the power conduit.
+WORF: I will follow the Commander. Reactivate the field once we're through.
 (the security guard does so. The Borg just watches) 
 LAFORGE: Good. Now stay that way.
 (the Borg steps forward) 
 WORF: Commander.
 (Geordi fits the new power conduit) 
 BORG: We are Borg. You will be assimilated. Resistance is futile.
-LAFORGE: Just look around, pal. You're hardly in a position to make any
-demands.
+LAFORGE: Just look around, pal. You're hardly in a position to make any demands.
 BORG: We must return to the Collective.
 LAFORGE: Who's we?
 BORG: We are Borg.
-LAFORGE: Yeah, but there's only one of you. Do you have a name? A means
-of identification?
+LAFORGE: Yeah, but there's only one of you. Do you have a name? A means of identification?
 BORG: Third of five.
 LAFORGE: There were five on your ship. Is that it? Just a number?
 BORG: Third of five.
-LAFORGE: It does kind of suit you. Okay. This is for you. It regulates
-the power flow to the frequency that you're used to. This connection
-should fit
-the coupling on your arm. You're welcome. Let's get out of here.
+LAFORGE: It does kind of suit you. Okay. This is for you. It regulates the power flow to the frequency that you're used to. This connection should fit the coupling on your arm. You're welcome. Let's get out of here.
 WORF: Lower the forcefield.
-(Geordi and Worf back out, the forcefield goes back up, and the Borg
-goes to the conduit and plugs himself in) 
+(Geordi and Worf back out, the forcefield goes back up, and the Borg goes to the conduit and plugs himself in) 
 LAFORGE: He's hungry, all right.
 BORG: Why do you do this?
 LAFORGE: I'm just a nice guy at heart. You feeling better?
 BORG: You are not Borg.
 LAFORGE: That's right. And I hope to stay that way.
 BORG: You will be assimilated. Resistance is futile.
-LAFORGE: That's gratitude for you.
+LAFORGE: That's gratitude for you. 
 [Science lab]
-(with the apparatus they used when de-Borgifying
-Picard) 
-LAFORGE: I've been rationing his portions of energy. I think he
-understands. When he cooperates, he gets fed. If not.
+(with the apparatus they used when de-Borgifying Picard) 
+LAFORGE: I've been rationing his portions of energy. I think he understands. When he cooperates, he gets fed. If not.
 CRUSHER: Like a rat in a cage.
-LAFORGE: Look, if I'm going to figure out his command pathways, I need
-to learn how he processes information, and the only way I know to do
-that is by giving him perceptual tests. And for that, I need his
-cooperation.
+LAFORGE: Look, if I'm going to figure out his command pathways, I need to learn how he processes information, and the only way I know to do that is by giving him perceptual tests. And for that, I need his cooperation.
 CRUSHER: So he can participate in the destruction of his entire species.
 LAFORGE: Doctor.
-CRUSHER: I know, I know. We're at war. I'm here to help but I don't
-have to like it.
-LAFORGE: Okay, I think we're ready to transport him. If he gives us any
-trouble, we can access the force field through that console. Are you
-ready?
+CRUSHER: I know, I know. We're at war. I'm here to help but I don't have to like it.
+LAFORGE: Okay, I think we're ready to transport him. If he gives us any trouble, we can access the force field through that console. Are you ready?
 LAFORGE: La Forge to transporter room three. We're ready here.
 CREWMAN [OC]: We're standing by, Commander.
 LAFORGE: Energise.
-(the Borg and a security man beam in. The Borg is inside the apparatus
-and plugs himself into a power conduit) 
-LAFORGE: Third of Five, this is Doctor Crusher. Doctor Crusher, this is
-Third of Five. 
+(the Borg and a security man beam in. The Borg is inside the apparatus and plugs himself into a power conduit) 
+LAFORGE: Third of Five, this is Doctor Crusher. Doctor Crusher, this is Third of Five. 
 CRUSHER: Hello.
 BORG: What is a doctor?
 CRUSHER: A doctor heals the sick and repairs the injured.
 BORG: The sick and injured are reabsorbed. Others take their place.
-CRUSHER: That isn't what happen to you. When we found you, you were
-dying. I saved your life.
+CRUSHER: That isn't what happen to you. When we found you, you were dying. I saved your life.
 BORG: Why?
 CRUSHER: It's my duty to help those who are hurt.
 BORG: You give us food.
 LAFORGE: Yeah.
 BORG: Is that your duty?
-LAFORGE: Yeah, that's right. Listen, Third of Five, Doctor Crusher here
-has repaired a lot of the damage to your biochip implants. We want to
-run a few tests, make sure everything's working okay.
+LAFORGE: Yeah, that's right. Listen, Third of Five, Doctor Crusher here has repaired a lot of the damage to your biochip implants. We want to run a few tests, make sure everything's working okay.
 BORG: Tests?
-CRUSHER: I'd like to show you a few diagrams and ask you some questions
-about them. It's very simple really.
+CRUSHER: I'd like to show you a few diagrams and ask you some questions about them. It's very simple really.
 BORG: You will be assimilated.
 LAFORGE: Yes, but before that happens, could we ask you a few questions?
 BORG: We will answer.
@@ -296,8 +203,7 @@ LAFORGE: Terrific. All right, hang on just a second here, Third of Five.
 BORG: What is your designation?
 LAFORGE: Designation?
 BORG: Third of Five. 
-CRUSHER: You mean our names. We don't have designations. We have names.
-I'm Beverly. This is Geordi.
+CRUSHER: You mean our names. We don't have designations. We have names. I'm Beverly. This is Geordi.
 BORG: Do I have a name?
 LAFORGE: Do you want one?
 BORG: A name.
@@ -311,18 +217,13 @@ BORG: Hugh.
 CRUSHER: Okay. Now, I'm Beverly.
 LAFORGE: I'm Geordi.
 BORG: We are Hugh.
-(later, Hugh is out of the contraption looking at images on a wall
-monitor) 
-CRUSHER: Now imagine what this shape would look like if it were turned
-inside out. Which one is it?
+(later, Hugh is out of the contraption looking at images on a wall monitor) 
+CRUSHER: Now imagine what this shape would look like if it were turned inside out. Which one is it?
 BORG: This one.
-CRUSHER: That's right. He's gotten every one. Eight out of eight. That
-blows the top right off the spatial-acuity percentiles.
-LAFORGE: It's the prosthetic eye. It seems to be giving him very
-complex visual information.
+CRUSHER: That's right. He's gotten every one. Eight out of eight. That blows the top right off the spatial-acuity percentiles.
+LAFORGE: It's the prosthetic eye. It seems to be giving him very complex visual information.
 CRUSHER: Like some kind of holographic imaging system.
-LAFORGE: That could be helpful. Hugh, I'd like to take a closer look at
-your eyepiece. Is that okay?
+LAFORGE: That could be helpful. Hugh, I'd like to take a closer look at your eyepiece. Is that okay?
 BORG: Here.
 (he takes the eyepiece off and hands it to Geordi)
 LAFORGE: Thanks.
@@ -332,18 +233,15 @@ BORG: Why do you resist us?
 CRUSHER: Because we don't want to live the way you do.
 BORG: Here it is quiet. There are no other voices.
 LAFORGE: Other voices?
-BORG: On a Borg ship we live with the thoughts of the others in our
-minds. Thousands of voices with us always.
+BORG: On a Borg ship we live with the thoughts of the others in our minds. Thousands of voices with us always.
 CRUSHER: I think what you're saying is that you're lonely.
 LAFORGE: Here.
 (he puts the eyepiece back on) 
 BORG: When you have completed these tests, what will be done with us?
 LAFORGE: We'll er, we'll send you home.
-BORG: We will rejoin the Collective.
+BORG: We will rejoin the Collective. 
 [Ten Forward]
-LAFORGE: You know, it's funny. When I first
-creating this invasive programme I didn't have a problem with it. The
-more I work with Hugh, the more I 
+LAFORGE: You know, it's funny. When I first creating this invasive programme I didn't have a problem with it. The more I work with Hugh, the more I 
 GUINAN: Hugh?
 LAFORGE: That's what we call him.
 GUINAN: You named the Borg? 
@@ -351,39 +249,22 @@ LAFORGE: Well, it was easier to have something to call him.
 GUINAN: Oh, so now you have a Borg named Hugh.
 LAFORGE: Right. And he's nothing like what I expected.
 GUINAN: How so?
-LAFORGE: I don't know. It's like he's just some kid who's far way from
-home.
-GUINAN: Do you know that you're the second person today to refer to
-that Borg as though it were some sort of lost child.
-LAFORGE: Anyway, I'm having second thoughts about what we're doing
-here. I mean, programming him like some sort of walking bomb. Sending
-him back to
-destroy the others.
-GUINAN: Let me tell you something. When that kid's big brothers come
-looking for him, they're not going to stop until they find him. And
-then they're going to come looking for us, and they will destroy us.
-And they will not do any of the soul-searching that you are apparently
-doing right now.
-LAFORGE: Then why don't you go and talk to him. It might not be so
-clear cut then.
+LAFORGE: I don't know. It's like he's just some kid who's far way from home.
+GUINAN: Do you know that you're the second person today to refer to that Borg as though it were some sort of lost child.
+LAFORGE: Anyway, I'm having second thoughts about what we're doing here. I mean, programming him like some sort of walking bomb. Sending him back to destroy the others.
+GUINAN: Let me tell you something. When that kid's big brothers come looking for him, they're not going to stop until they find him. And then they're going to come looking for us, and they will destroy us. And they will not do any of the soul-searching that you are apparently doing right now.
+LAFORGE: Then why don't you go and talk to him. It might not be so clear cut then.
 GUINAN: Because I wouldn't have anything to say.
-LAFORGE: Then why don't you just listen? That is what you do best,
-isn't it?
+LAFORGE: Then why don't you just listen? That is what you do best, isn't it? 
 [Bridge]
 PICARD: What is it, Number One?
-RIKER: We've picked up a vessel on the long range scanners, headed this
-way.
+RIKER: We've picked up a vessel on the long range scanners, headed this way.
 PICARD: Analysis.
-DATA: The vessel is traveling at warp seven point six. Mass two point
-five million metric tons. Configuration, cubical.
+DATA: The vessel is traveling at warp seven point six. Mass two point five million metric tons. Configuration, cubical.
 RIKER: The Borg.
-DATA: Its dimensions indicate that it is a scout ship similar to the
-one that crashed. Interference from the star's
-radiation will shield us from their sensors. We should remain
-undetected until they enter the system.
+DATA: Its dimensions indicate that it is a scout ship similar to the one that crashed. Interference from the star's radiation will shield us from their sensors. We should remain undetected until they enter the system.
 PICARD: How long do we have?
-DATA: At present speed they will arrive in thirty one hours seven
-minutes.
+DATA: At present speed they will arrive in thirty one hours seven minutes. 
 [Brig]
 GUINAN: You don't look so tough.
 BORG: We are Borg.
@@ -393,121 +274,78 @@ GUINAN: No, but that's what you things do, isn't it?
 (a nod) 
 GUINAN: Resistance is futile. 
 BORG: Resistance is futile.
-GUINAN: It isn't. My people resisted when the Borg came to assimilate
-us. Some of us survived.
+GUINAN: It isn't. My people resisted when the Borg came to assimilate us. Some of us survived.
 BORG: Resistance is not futile? 
-GUINAN: No. But thanks to you, there are very few of us left. We're
-scattered throughout the galaxy. We don't even have a home any more. 
+GUINAN: No. But thanks to you, there are very few of us left. We're scattered throughout the galaxy. We don't even have a home any more. 
 BORG: What you are saying is that you are lonely.
 GUINAN: What?
-BORG: You have no others. You have no home. We are also lonely.
+BORG: You have no others. You have no home. We are also lonely. 
 [Science lab]
 BORG: What is Geordi doing?
 LAFORGE: I'm studying the components in your prosthesis.
 BORG: Why?
 LAFORGE: We're trying to learn more about you.
 BORG: Why?
-LAFORGE: Because you're different than we are. Part of what we do is to
-learn more about other species.
+LAFORGE: Because you're different than we are. Part of what we do is to learn more about other species.
 BORG: We assimilate species. Then we know everything about them.
 LAFORGE: Yeah. I know.
 BORG: Is that not easier?
 LAFORGE: Maybe it is. It's just not what we do.
 BORG: Why?
-LAFORGE: All right, think of it this way. Every time you talk about
-yourself, you use the word we. We want this, we want that. You don't
-even know how to think of yourself as a single individual. You don't
-say, I want this, or I am Hugh. We are all separate individuals. I am
-Geordi. I choose what I want to do with my life. I make decisions for
-myself. For somebody like me, losing that sense of individuality is
-almost worse than dying.
+LAFORGE: All right, think of it this way. Every time you talk about yourself, you use the word we. We want this, we want that. You don't even know how to think of yourself as a single individual. You don't say, I want this, or I am Hugh. We are all separate individuals. I am Geordi. I choose what I want to do with my life. I make decisions for myself. For somebody like me, losing that sense of individuality is almost worse than dying.
 BORG: When you sleep, there are no other voices in your mind?
 LAFORGE: No.
 BORG: Are you ever lonely?
 LAFORGE: Sometimes. But that's why we have friends.
 BORG: Friends?
-LAFORGE: Sure. Someone you talk to, who will be with you when you're
-lonely. Someone who makes you feel better.
-BORG: Like Geordi and Hugh.
+LAFORGE: Sure. Someone you talk to, who will be with you when you're lonely. Someone who makes you feel better.
+BORG: Like Geordi and Hugh. 
 [Observation lounge]
 (on the wall monitor, topological anomaly 4747) 
 LAFORGE: That's it, Captain.
 PICARD: It looks harmless enough.
-LAFORGE: We had to disguise it as something innocuous. The Borg have
-ways of screening out programme anomalies.
+LAFORGE: We had to disguise it as something innocuous. The Borg have ways of screening out programme anomalies.
 PICARD: How can a geometric form disable a computer system?
-DATA: The shape is a paradox, sir. It cannot exist in real space or
-time.
-LAFORGE: When Hugh's imaging apparatus imprints this on his biochips,
-he'll try to analyse it.
-DATA: He will be unsuccessful, and will store the shape in his memory
-banks. It will be shunted to a subroutine for further analysis.
-LAFORGE: Then when the Borg download his memory, it'll be incorporated
-it into their network, then they'll try to analyse it.
-DATA: It is designed so that each approach they take will spawn an
-anomalous solution. The anomalies are designed to interact with each
-other, linking together to form an endless and unsolvable puzzle.
+DATA: The shape is a paradox, sir. It cannot exist in real space or time.
+LAFORGE: When Hugh's imaging apparatus imprints this on his biochips, he'll try to analyse it.
+DATA: He will be unsuccessful, and will store the shape in his memory banks. It will be shunted to a subroutine for further analysis.
+LAFORGE: Then when the Borg download his memory, it'll be incorporated it into their network, then they'll try to analyse it.
+DATA: It is designed so that each approach they take will spawn an anomalous solution. The anomalies are designed to interact with each other, linking together to form an endless and unsolvable puzzle.
 PICARD: Quite original. How long before a total systems failure?
-LAFORGE: Not until the shape has gone through several hundred
-computational cycles.
+LAFORGE: Not until the shape has gone through several hundred computational cycles.
 PICARD: When can you begin the process?
-LAFORGE: About another twenty hours. Doctor Crusher wants to make sure
-the new implants have taken hold.
+LAFORGE: About another twenty hours. Doctor Crusher wants to make sure the new implants have taken hold.
 PICARD: Very well. Begin as soon as you're ready.
 (Data leaves) 
-LAFORGE: Captain. I have to admit I've been having second thoughts
-about this plan.
+LAFORGE: Captain. I have to admit I've been having second thoughts about this plan.
 PICARD: In what way?
 LAFORGE: Well, I've been getting to know him. The Borg.
 PICARD: I see.
-LAFORGE: He's not what I expected, Captain. He's got feelings. He's
-homesick. I don't know. It just doesn't seem right using him this way.
-PICARD: Centuries ago, when laboratory animals were used for
-experiments, scientists would sometimes become attached to the
-creatures. This would a problem if the experiment involved killing
-them. I would suggest that you unattach yourself from the Borg, Mister
-La Forge.
-LAFORGE: Aye, Captain.
+LAFORGE: He's not what I expected, Captain. He's got feelings. He's homesick. I don't know. It just doesn't seem right using him this way.
+PICARD: Centuries ago, when laboratory animals were used for experiments, scientists would sometimes become attached to the creatures. This would a problem if the experiment involved killing them. I would suggest that you unattach yourself from the Borg, Mister La Forge.
+LAFORGE: Aye, Captain. 
 [Picard's quarters]
-(Picard is in his dressing gown when the doorbell
-rings) 
+(Picard is in his dressing gown when the doorbell rings) 
 PICARD: Guinan. Please, come in.
-GUINAN: Are you sure? You look like you're preparing for a quiet
-evening.
+GUINAN: Are you sure? You look like you're preparing for a quiet evening.
 PICARD: No, I'm delighted to see you. Can I get you something to drink?
-GUINAN: No, thank you. I was thinking about how you said the other day
-that my foil was dipping. That I should get some exercise and
-strengthen my arm.
+GUINAN: No, thank you. I was thinking about how you said the other day that my foil was dipping. That I should get some exercise and strengthen my arm.
 PICARD: Well. a strong forearm is certainly an advantage in fencing.
-GUINAN: And bartending. About the Borg. Aren't you the least bit
-surprised by him?
+GUINAN: And bartending. About the Borg. Aren't you the least bit surprised by him?
 PICARD: Surprised?
-GUINAN: Did you know he has a name? La Forge gave it to him. His name's
-Hugh. And he's lonely. I don't know what made me go see him. La Forge
-said I should, but I said no. And suddenly there I was standing there,
-staring at him. I thought it was just curiosity. Just curious. I need
-to hear you say that you are sure you're doing the right thing.
+GUINAN: Did you know he has a name? La Forge gave it to him. His name's Hugh. And he's lonely. I don't know what made me go see him. La Forge said I should, but I said no. And suddenly there I was standing there, staring at him. I thought it was just curiosity. Just curious. I need to hear you say that you are sure you're doing the right thing.
 PICARD: If you're here to persuade me not to use the invasive programme.
 GUINAN: No. I think I need you to persuade me.
-PICARD: Two days ago, you were so upset about the Borg even being on
-the ship that you tore my foil out of my hand. And now you're here
-questioning whether it should be treated as the enemy.
-GUINAN: No. But when you talk to him face to face, can you honestly say
-you don't have any doubt?
+PICARD: Two days ago, you were so upset about the Borg even being on the ship that you tore my foil out of my hand. And now you're here questioning whether it should be treated as the enemy.
+GUINAN: No. But when you talk to him face to face, can you honestly say you don't have any doubt?
 PICARD: I haven't talked to it.
 GUINAN: Why not?
 PICARD: I saw no need.
 GUINAN: If you're going to use this person 
 PICARD: It's not a person, damn it, it's a Borg!
-GUINAN: If you are going to use this person to destroy his race, you
-should at least look him in the eye once before you do it. Because I am
-not sure he is still a Borg.
-PICARD: Because it's been given a name by a member of my crew doesn't
-mean it's not a Borg. Because it's young doesn't mean that it's
-innocent. It is what it is, and in spite of efforts to turn it into
-some kind of pet I will not alter my plans.
-GUINAN: Fine. But if you don't talk to him at least once, you may find
-that decision a harder to live with than you realise.
+GUINAN: If you are going to use this person to destroy his race, you should at least look him in the eye once before you do it. Because I am not sure he is still a Borg.
+PICARD: Because it's been given a name by a member of my crew doesn't mean it's not a Borg. Because it's young doesn't mean that it's innocent. It is what it is, and in spite of efforts to turn it into some kind of pet I will not alter my plans.
+GUINAN: Fine. But if you don't talk to him at least once, you may find that decision a harder to live with than you realise. 
 [Ready room]
 WORF [OC]: Worf to Captain Picard.
 PICARD: Yes, Lieutenant.
@@ -519,8 +357,7 @@ PICARD: Lieutenant, you may wait outside.
 BORG: Locutus.
 PICARD: Yes. I am Locutus of Borg.
 BORG: Why are you here?
-PICARD: This is a primitive culture. I am here to facilitate its
-incorporation. Identify yourself.
+PICARD: This is a primitive culture. I am here to facilitate its incorporation. Identify yourself.
 BORG: Hugh.
 PICARD: Identify yourself.
 BORG: We are Hugh.
@@ -538,107 +375,67 @@ PICARD: Yes.
 BORG: He does not wish it. He would rather die than be assimilated.
 PICARD: Then he will die.
 BORG: No. Geordi must not die. Geordi is a friend.
-PICARD: You will assist us to assimilate this vessel. You are Borg. You
-will assist us.
+PICARD: You will assist us to assimilate this vessel. You are Borg. You will assist us.
 BORG: I will not.
 PICARD: What did you say?
 BORG: I will not assist you.
 PICARD: I?
 BORG: Geordi must not be assimilated.
 PICARD: But you are Borg.
-BORG: No. I am Hugh.
+BORG: No. I am Hugh. 
 [Observation lounge]
-PICARD: I think I deliberately avoided speaking
-with the Borg because I didn't want anything to get in the way of our
-plan.
-But now that I have, he seems to be a fully realised individual. He has
-even accepted me as Picard, Captain of this ship, and not as Locutus.
+PICARD: I think I deliberately avoided speaking with the Borg because I didn't want anything to get in the way of our plan. But now that I have, he seems to be a fully realised individual. He has even accepted me as Picard, Captain of this ship, and not as Locutus.
 LAFORGE: So you've reconsidered the plan?
-PICARD: Yes. To use him in this manner, we'd be no better than the
-enemy that we seek to destroy. So, I want other options.
-RIKER: We could return him to the crash site. We'd have to remove his
-memory of being on the Enterprise.
-CRUSHER: But if we erase his memory, who he is or who he has become
-would be destroyed.
-RIKER: Isn't that the point? He'd be reassimilated into the hive
-without any questions.
-LAFORGE: Does that seems right, to help him become an individual and
-then take that away from him? 
-CRUSHER: Is there any danger that the Borg might destroy him if they
-find out what's happened?
-PICARD: I doubt it. There'd be nothing to gain. It's more likely that
-they would simply wipe out his memory of those experiences.
+PICARD: Yes. To use him in this manner, we'd be no better than the enemy that we seek to destroy. So, I want other options.
+RIKER: We could return him to the crash site. We'd have to remove his memory of being on the Enterprise.
+CRUSHER: But if we erase his memory, who he is or who he has become would be destroyed.
+RIKER: Isn't that the point? He'd be reassimilated into the hive without any questions.
+LAFORGE: Does that seems right, to help him become an individual and then take that away from him? 
+CRUSHER: Is there any danger that the Borg might destroy him if they find out what's happened?
+PICARD: I doubt it. There'd be nothing to gain. It's more likely that they would simply wipe out his memory of those experiences.
 RIKER: Then either way, his memory would have been erased.
-PICARD: But perhaps in that short time before they purge his memory,
-the sense of individuality which he has gained here might be
-transmitted throughout the entire Borg Collective. Every one of the
-Borg being given the opportunity to experience the feeling of
-singularity. Perhaps that's the most pernicious programme of all. The
-knowledge of self being spread throughout the Collective, in that brief
-moment, might alter them forever. We leave his memory intact.
-CRUSHER: I have a question. What if he doesn't want to go back?
+PICARD: But perhaps in that short time before they purge his memory, the sense of individuality which he has gained here might be transmitted throughout the entire Borg Collective. Every one of the Borg being given the opportunity to experience the feeling of singularity. Perhaps that's the most pernicious programme of all. The knowledge of self being spread throughout the Collective, in that brief moment, might alter them forever. We leave his memory intact.
+CRUSHER: I have a question. What if he doesn't want to go back? 
 [Ready room]
 LAFORGE: Hello, Hugh.
 BORG: Hello, Geordi.
-PICARD: Hugh, a Borg rescue vessel is approaching. It will be here
-within three hours. We can return you to the crash site, where they
-will find you and take then you home. Or, if you wish, you can stay
-here with us.
+PICARD: Hugh, a Borg rescue vessel is approaching. It will be here within three hours. We can return you to the crash site, where they will find you and take then you home. Or, if you wish, you can stay here with us.
 BORG: What I wish is irrelevant.
 LAFORGE: It's not irrelevant, Hugh. It matters to us.
-BORG: No Borg leaves the Collective. If they find I am missing, they
-will come for me.
-PICARD: Well, we'll deal with the repercussions later. We must know
-what you want.
+BORG: No Borg leaves the Collective. If they find I am missing, they will come for me.
+PICARD: Well, we'll deal with the repercussions later. We must know what you want.
 BORG: You are many, I am one. What I want is not important.
 LAFORGE: Don't you understand, Hugh? We're giving you a choice.
 BORG: Choice?
-LAFORGE: Yes, a choice. Do you want to go back with the Borg or stay
-with us?
+LAFORGE: Yes, a choice. Do you want to go back with the Borg or stay with us?
 BORG: I could stay with you?
 PICARD: We could grant you asylum, Hugh.
-BORG: Choose what I want? I would choose to stay with Geordi, but it is
-too dangerous. They will follow. Return me to the crash site. It is the
-only way.
+BORG: Choose what I want? I would choose to stay with Geordi, but it is too dangerous. They will follow. Return me to the crash site. It is the only way.
 LAFORGE: Hugh, think about this. Are you sure?
-BORG: Yes.
+BORG: Yes. 
 [Transporter room]
-PICARD: The Borg ship will enter orbit in one hour.
-You'll soon be headed home. We'll beam him down and then we'll take up
-a position in the star's chromosphere. The interference will hide us
-from their sensors. 
+PICARD: The Borg ship will enter orbit in one hour. You'll soon be headed home. We'll beam him down and then we'll take up a position in the star's chromosphere. The interference will hide us from their sensors. 
 CRUSHER: Goodbye, Hugh. It was nice getting to know you.
 BORG: Goodbye, Beverly. You saved my life.
 LAFORGE: Hugh, it's not too late to change your mind. 
 BORG: I must return.
 LAFORGE: Captain, I'd like to go down with him.
-PICARD: My experience suggests that they would ignore him. Would you
-agree?
+PICARD: My experience suggests that they would ignore him. Would you agree?
 BORG: The Borg assimilate civilisations, not individuals.
 CRUSHER: But, Captain, they kidnapped you. 
-PICARD: Because they needed a liaison to communicate with humans. They
-ignored every away team we sent to their ship, including yours, Doctor.
-You may accompany him. Goodbye.
+PICARD: Because they needed a liaison to communicate with humans. They ignored every away team we sent to their ship, including yours, Doctor. You may accompany him. Goodbye.
 BORG: Captain, I do not want to forget that I am Hugh.
-PICARD: Energise.
+PICARD: Energise. 
 [Crash site]
-LAFORGE: We found you there, in the middle of that
-debris.
-BORG: Then that is where I will wait.
+LAFORGE: We found you there, in the middle of that debris.
+BORG: Then that is where I will wait. 
 [Bridge]
-DATA: We are now entering position. Radiation
-levels are rising.
+DATA: We are now entering position. Radiation levels are rising.
 PICARD: Increase power to the shields. Hold us here.
 RIKER: Status of the Borg ship?
-DATA: Solar radiation is rendering our sensors inoperable. At last
-known course and speed, the Borg vessel should enter the system in
-three minutes.
+DATA: Solar radiation is rendering our sensors inoperable. At last known course and speed, the Borg vessel should enter the system in three minutes. 
 [Crash site]
-LAFORGE: Well, I guess this is it, huh? So long,
-Hugh.
+LAFORGE: Well, I guess this is it, huh? So long, Hugh.
 BORG: Goodbye, Geordi. I will try to remember you. 
-(Geordi walks away from Hugh, and two Borg beam in. They walk over to
-Hugh, who holds up his arm and they plug into him briefly. Then the
-three collect devices from the four corpses, which dissolve into
-nothing. As they beam out, Hugh looks straight at Geordi) 
+(Geordi walks away from Hugh, and two Borg beam in. They walk over to Hugh, who holds up his arm and they plug into him briefly. Then the three collect devices from the four corpses, which dissolve into nothing. As they beam out, Hugh looks straight at Geordi) 
 

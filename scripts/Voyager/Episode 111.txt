@@ -1,317 +1,175 @@
 Episode Number: 111
 The Voyager Transcripts - Heroes and Demons
-Heroes
-and Demons
-Stardate:
-48693.2
+Heroes and Demons
+Stardate: 48693.2
 Original Airdate: April 24 1995
- Captain's log, stardate
-48693.2. We've altered course to investigate some unusually intense
-photonic activity in a nearby protostar. Lieutenant Torres and I are
-beaming aboard samples for further analysis. 
- [Engineering]
- TORRES:
-Containment field is active. We're ready for transport.
+Captain's log, stardate 48693.2. We've altered course to investigate some unusually intense photonic activity in a nearby protostar. Lieutenant Torres and I are beaming aboard samples for further analysis. 
+[Engineering]
+TORRES: Containment field is active. We're ready for transport.
 JANEWAY: Energise.
 (Glowing orange gas fills a container.) 
 TORRES: That's strange. Both containers should have been filled.
-JANEWAY: Here's the problem. A slight breach in the annular confinement
-beam.
-TORRES: I'm aborting transport. Okay, let's try that again. Energising.
+JANEWAY: Here's the problem. A slight breach in the annular confinement beam.
+TORRES: I'm aborting transport. Okay, let's try that again. Energising. 
 (Both containers fill this time.) 
-TORRES: All right. I'll get a complete phase spectrum analysis on this
-as soon as possible.
-JANEWAY: If this photonic matter works as well as I think, it could
-boost the efficiency of our power converters fifteen percent.
+TORRES: All right. I'll get a complete phase spectrum analysis on this as soon as possible.
+JANEWAY: If this photonic matter works as well as I think, it could boost the efficiency of our power converters fifteen percent.
 TORRES: I'd say more like twenty.
 JANEWAY: How long will it take to finish the preliminary analysis?
 TORRES: Um, six hours. Maybe more.
-JANEWAY: I'd like to get it sooner than that. I believe Ensign Kim is
-off duty. Could you use his help?
+JANEWAY: I'd like to get it sooner than that. I believe Ensign Kim is off duty. Could you use his help?
 TORRES: Can you convince him to give up his free time?
-JANEWAY: I think I might be able to. Janeway to Kim. That's odd.
-Computer, locate Ensign Kim.
+JANEWAY: I think I might be able to. Janeway to Kim. That's odd. Computer, locate Ensign Kim.
 COMPUTER: Unable to comply. Ensign Kim is not aboard the ship. 
- 
-[Bridge] 
- TUVOK:
-Sensor logs show no record of any unauthorised transporter activity and
-all shuttlecraft are accounted for. If Ensign Kim left the ship, he did
-not do so by conventional means.
-CHAKOTAY: His last shift ended four hours ago, and he was scheduled for
-time on holodeck two when he went off duty. No one has seen him since.
+[Bridge]
+TUVOK: Sensor logs show no record of any unauthorised transporter activity and all shuttlecraft are accounted for. If Ensign Kim left the ship, he did not do so by conventional means.
+CHAKOTAY: His last shift ended four hours ago, and he was scheduled for time on holodeck two when he went off duty. No one has seen him since.
 JANEWAY: Scan the holodeck. What's the matter?
-TUVOK: There is significant interference in the holodeck. I cannot
-obtain a clear scan.
+TUVOK: There is significant interference in the holodeck. I cannot obtain a clear scan.
 JANEWAY: Is it a system malfunction?
 TUVOK: I do not believe so.
 JANEWAY: Commander. 
- [Outside
-Holodeck two] 
- TUVOK:
-The holodeck is definitely active. There appears to be a programme in
-progress.
+[Outside Holodeck two]
+TUVOK: The holodeck is definitely active. There appears to be a programme in progress.
 CHAKOTAY: Can you shut it down?
-TUVOK: Manual overrides are not functioning. I cannot terminate the
-programme.
+TUVOK: Manual overrides are not functioning. I cannot terminate the programme.
 CHAKOTAY: All right, let's go in. 
- [Holodeck
-- Forest] 
- (Night
-time. Frogs are calling.) 
+[Holodeck - Forest]
+(Night time. Frogs are calling.) 
 CHAKOTAY: Computer, identify programme.
-COMPUTER: The programme in progress is a holonovel based on the epic
-Earth poem Beowulf.
+COMPUTER: The programme in progress is a holonovel based on the epic Earth poem Beowulf.
 TUVOK: Beowulf?
-CHAKOTAY: An ancient English epic, set in sixth century Denmark, if I
-remember correctly. It's about a hero named Beowulf who fights a
-creature that's terrorising a kingdom and murdering its subjects.
-Monsters and swordplay. That sort of thing.
-TUVOK: I'm not detecting any life signs but there's still considerable
-interference.
+CHAKOTAY: An ancient English epic, set in sixth century Denmark, if I remember correctly. It's about a hero named Beowulf who fights a creature that's terrorising a kingdom and murdering its subjects. Monsters and swordplay. That sort of thing.
+TUVOK: I'm not detecting any life signs but there's still considerable interference.
 CHAKOTAY: I can't determine the source. 
 (A spear flies past and stick into a tree.) 
 FREYA: Speak as a friend or stand challenged.
 TUVOK: Computer, delete character.
 CHAKOTAY: The holodeck command systems must not be functioning either.
-TUVOK: We must also consider the possibility that the safety programmes
-are malfunctioning as well.
-FREYA: I am Freya, shield maiden, daughter of King Hrothgar. I hold
-this guard post against any intruders who would bear us harm, so
-declare yourselves. I will hear your answer before you march any
-further through this land.
-TUVOK: We have no desire to trespass. However, we are on an urgent
-mission, so if you would allow us to continue, we would appreciate it.
-FREYA: What land do you call home? Your faces tell me you are not men
-of the Danes. Are you kinsmen of Beowulf?
-CHAKOTAY: Yes. We are Beowulf's kinsmen. My name is Chakotay and this
-is Tuvok. Have you seen Beowulf?
-FREYA: Yes. He was like no other. Hair straight and raven black. Eyes
-bright with fierce fire. The burning gaze of a hero.
-TUVOK: Grandiloquence notwithstanding, that would qualify as a
-description of Mister Kim. How did you know he was Beowulf?
-CHAKOTAY: This is Harry's holonovel. It'd make sense that he'd be
-playing the hero. She might be able to help us figure out what happened
-to him.
+TUVOK: We must also consider the possibility that the safety programmes are malfunctioning as well.
+FREYA: I am Freya, shield maiden, daughter of King Hrothgar. I hold this guard post against any intruders who would bear us harm, so declare yourselves. I will hear your answer before you march any further through this land.
+TUVOK: We have no desire to trespass. However, we are on an urgent mission, so if you would allow us to continue, we would appreciate it.
+FREYA: What land do you call home? Your faces tell me you are not men of the Danes. Are you kinsmen of Beowulf?
+CHAKOTAY: Yes. We are Beowulf's kinsmen. My name is Chakotay and this is Tuvok. Have you seen Beowulf?
+FREYA: Yes. He was like no other. Hair straight and raven black. Eyes bright with fierce fire. The burning gaze of a hero.
+TUVOK: Grandiloquence notwithstanding, that would qualify as a description of Mister Kim. How did you know he was Beowulf?
+CHAKOTAY: This is Harry's holonovel. It'd make sense that he'd be playing the hero. She might be able to help us figure out what happened to him.
 TUVOK: A reasonable assumption.
-FREYA: Your kinsman was a truly noble warrior. It is right you should
-avenge his death.
+FREYA: Your kinsman was a truly noble warrior. It is right you should avenge his death.
 CHAKOTAY: Yes. But first we'd like to know more about how Beowulf died.
 FREYA: Of course. Come. I will take you to the king. 
- 
-[Holodeck - Great Hall] 
- (The
-evening feast is in progress.) 
-FREYA: Hail, Lord Hrothgar! I bring new friends, Chakotay and Tuvok,
-kinsmen of Beowulf who come to avenge his death. Greet them well.
-HROTHGAR: I would bid you welcome to my hall, but the days of glad
-tidings are gone from this place. We grieve with you for your kinsman.
-We had hoped that a warrior of Beowulf 's strength and renown would be
-able to deliver us from our curse.
+[Holodeck - Great Hall]
+(The evening feast is in progress.) 
+FREYA: Hail, Lord Hrothgar! I bring new friends, Chakotay and Tuvok, kinsmen of Beowulf who come to avenge his death. Greet them well.
+HROTHGAR: I would bid you welcome to my hall, but the days of glad tidings are gone from this place. We grieve with you for your kinsman. We had hoped that a warrior of Beowulf 's strength and renown would be able to deliver us from our curse.
 (Hrothgar is helped to his throne by Unferth.) 
 CHAKOTAY: Could you tell us exactly what happened to him?
 UNFERTH: He met with the same fate as did thirty of our own warriors.
 HROTHGAR: It's true. Grendel.
 CHAKOTAY: That's the monster who's been attacking you.
-HROTHGAR: Repelled by light and laughter, the beast waits until we
-slumber. Then bereft of remorse, Grendel comes in murderous rage to my
-hall to take my people, and there is nothing anyone can do to stop it.
-If you are wise, you will forego your vengeance and return home. Death
-lives here now.
+HROTHGAR: Repelled by light and laughter, the beast waits until we slumber. Then bereft of remorse, Grendel comes in murderous rage to my hall to take my people, and there is nothing anyone can do to stop it. If you are wise, you will forego your vengeance and return home. Death lives here now.
 UNFERTH: My lord is fatigued. It is time to retire.
-TUVOK: We would like more information about Beowulf. Would it be
-possible to examine his body?
-FREYA: The body of Beowulf is gone, dragged down to Grendel's foul
-lair, no doubt. The beast leaves no traces.
+TUVOK: We would like more information about Beowulf. Would it be possible to examine his body?
+FREYA: The body of Beowulf is gone, dragged down to Grendel's foul lair, no doubt. The beast leaves no traces.
 CHAKOTAY: Did anyone actually see the battle?
 FREYA: No. Beowulf chose to face Grendel alone.
 CHAKOTAY: Then I think we'd like to see this Grendel for ourselves.
-UNFERTH: To what purpose? To raise false hopes in our king again, as
-did your kinsman? Leave us alone in our misery.
-FREYA: Unferth, these men are our guests. You will show them the
-hospitality they deserve.
-UNFERTH: They deserve nothing! If their Beowulf was truly the champion
-he claimed to be, then Grendel would be dead, his head mounted on a
-spear! Instead, we spend yet another night in terror.
-TUVOK: If you would allow us to assist you, perhaps we could help
-alleviate your terror.
-UNFERTH: Your names mean nothing to me. There are no songs of your
-deeds nor stories of the battles you have fought. Who are you to
-believe you can slay Grendel?
-TUVOK: We have no intention of slaying anyone. We simply wish to
-examine the creature.
-UNFERTH: Grendel might not wish to be examined without a fight. And if
-you would fight Grendel, then you will first prove your worth to me.
-Defend yourselves!
+UNFERTH: To what purpose? To raise false hopes in our king again, as did your kinsman? Leave us alone in our misery.
+FREYA: Unferth, these men are our guests. You will show them the hospitality they deserve.
+UNFERTH: They deserve nothing! If their Beowulf was truly the champion he claimed to be, then Grendel would be dead, his head mounted on a spear! Instead, we spend yet another night in terror.
+TUVOK: If you would allow us to assist you, perhaps we could help alleviate your terror.
+UNFERTH: Your names mean nothing to me. There are no songs of your deeds nor stories of the battles you have fought. Who are you to believe you can slay Grendel?
+TUVOK: We have no intention of slaying anyone. We simply wish to examine the creature.
+UNFERTH: Grendel might not wish to be examined without a fight. And if you would fight Grendel, then you will first prove your worth to me. Defend yourselves!
 (Hrothgar puts his hand on Unferth's sword.) 
 HROTHGAR: You are able warriors. You may stand sentry tonight.
 (The Danes leave.) 
 FREYA: You are brave men. I hope to see you again, fate permitting. 
 (Freya leaves.) 
 CHAKOTAY: Chakotay to Janeway. 
- 
-[Bridge] 
- (Paris
-and Torres are at the rear science stations.) 
+[Bridge]
+(Paris and Torres are at the rear science stations.) 
 JANEWAY: Go ahead.
-CHAKOTAY [OC]: Captain, we haven't found any definite signs of Harry,
-but we've encountered several holodeck characters who claim to know
-what happened to him.
-TUVOK [OC]: Mister Kim was running a holonovel based on the poem
-Beowulf. According to the holo characters, he attempted to battle a
-creature of some kind and was killed in the process.
+CHAKOTAY [OC]: Captain, we haven't found any definite signs of Harry, but we've encountered several holodeck characters who claim to know what happened to him.
+TUVOK [OC]: Mister Kim was running a holonovel based on the poem Beowulf. According to the holo characters, he attempted to battle a creature of some kind and was killed in the process.
 JANEWAY: Killed? 
 TUVOK [OC]: Since the 
- [Holodeck
-- Great Hall] 
- TUVOK:
-Safety programs are malfunctioning, we must consider the possibility.
+[Holodeck - Great Hall]
+TUVOK: Safety programs are malfunctioning, we must consider the possibility.
 JANEWAY [OC]: But you haven't found a body.
-CHAKOTAY: No. If we shut down the programme, we'd know if he's here or
-not. 
- 
-[Bridge] 
-JANEWAY: Run a diagnostic on the holodeck's imaging control systems. If
-they're not working, try to repair them. And relay your tricorder scans
-to the Bridge. I'd like to analyse your readings.
+CHAKOTAY: No. If we shut down the programme, we'd know if he's here or not. 
+[Bridge]
+JANEWAY: Run a diagnostic on the holodeck's imaging control systems. If they're not working, try to repair them. And relay your tricorder scans to the Bridge. I'd like to analyse your readings.
 CHAKOTAY [OC]: Aye, Captain. Chakotay out. 
- [Holodeck
-- Great Hall] 
- TUVOK:
-Primary imaging matrix should be here behind this wooden panel. I will
-attempt to locate the auxiliary matrix. This ancient Earth culture
-seems fascinated with monsters.
-CHAKOTAY: Every culture has its demons. They embody the darkest
-emotions of its people. Giving them physical form in heroic literature
-is a way of exploring those feelings. The Vok'sha of Rakella Prime
-believe that hate is a beast which lives inside the stomach. Their
-greatest mythical hero is a man who ate stones for twenty three days to
-kill the beast and became a saint.
-TUVOK: Such fables are necessary only in cultures which unduly
-emphasise emotional behaviour. I would point out there are no demons in
-Vulcan literature.
+[Holodeck - Great Hall]
+TUVOK: Primary imaging matrix should be here behind this wooden panel. I will attempt to locate the auxiliary matrix. This ancient Earth culture seems fascinated with monsters.
+CHAKOTAY: Every culture has its demons. They embody the darkest emotions of its people. Giving them physical form in heroic literature is a way of exploring those feelings. The Vok'sha of Rakella Prime believe that hate is a beast which lives inside the stomach. Their greatest mythical hero is a man who ate stones for twenty three days to kill the beast and became a saint.
+TUVOK: Such fables are necessary only in cultures which unduly emphasise emotional behaviour. I would point out there are no demons in Vulcan literature.
 CHAKOTAY: That might account for its popularity.
 JANEWAY [OC]: Bridge to Chakotay.
 CHAKOTAY: Chakotay here. 
 JANEWAY [OC]: Commander 
- 
-[Bridge] 
-JANEWAY: We've analysed your tricorder data. A deep-level scan shows
-minute quantities of photonic energy.
+[Bridge]
+JANEWAY: We've analysed your tricorder data. A deep-level scan shows minute quantities of photonic energy.
 CHAKOTAY [OC]: How could it be in the holodeck?
-TORRES: We think it happened when we beamed aboard the samples from the
-protostar. There was a breach in the annular confinement beam, and
-photonic energy must have leaked into the transporter system.
-JANEWAY: And from there into other ship systems as well. We've already
-found some in the replicators.
+TORRES: We think it happened when we beamed aboard the samples from the protostar. There was a breach in the annular confinement beam, and photonic energy must have leaked into the transporter system.
+JANEWAY: And from there into other ship systems as well. We've already found some in the replicators.
 TUVOK [OC]: That raises an uncomfortable possibility, Captain. 
- [Holodeck
-- Great Hall] 
- TUVOK:
-If the holodeck's conversion nodes were contaminated, Ensign Kim may
-have inadvertently undergone the process of matter conversion.
+[Holodeck - Great Hall]
+TUVOK: If the holodeck's conversion nodes were contaminated, Ensign Kim may have inadvertently undergone the process of matter conversion.
 CHAKOTAY: You're saying he might have been converted into energy? 
- 
-[Bridge] 
-JANEWAY: We have to consider it a possibility. After all, the holodeck
-are basically an outgrowth of transporter technology, changing energy
-into matter and back again every time a programme is run.
+[Bridge]
+JANEWAY: We have to consider it a possibility. After all, the holodeck are basically an outgrowth of transporter technology, changing energy into matter and back again every time a programme is run.
 TORRES: Except it's not supposed to convert people.
 CHAKOTAY [OC]: Hold on, Captain. 
- [Holodeck
-- Great Hall] 
+[Holodeck - Great Hall]
 CHAKOTAY: Something's coming.
 TUVOK: It is an object approximately one metre in diameter.
 CHAKOTAY: I think Grendel may be paying us a visit.
-TUVOK: Captain, the holo-characters told us Kim was killed by Grendel.
-An examination of this part of the programme might be advisable.
+TUVOK: Captain, the holo-characters told us Kim was killed by Grendel. An examination of this part of the programme might be advisable.
 JANEWAY [OC]: Proceed. 
- 
-[Bridge] 
- TORRES:
-Captain, I'm picking up signs of matter energy conversion.
+[Bridge]
+TORRES: Captain, I'm picking up signs of matter energy conversion.
 JANEWAY: Emergency transport. Get them out of there now.
 TORRES: I can't get a lock. 
 (A bright light forces open the door to the Great Hall.) 
 JANEWAY: Commander Chakotay, report. Mister Tuvok.
 TORRES: Captain, I've lost their life signs. They're gone. 
- [Briefing
-room] 
- TORRES:
-This is a scan of the holodeck just before we lost contact with
-Chakotay and Tuvok. The readings are pretty garbled, but I'm still
-inclined to think there is a malfunction in the holodeck's matter
-conversion nodes.
-JANEWAY: Photonic energy leaking into the subsystems could certainly
-damage the nodes, and it might have created a defect in the programme
-that occurs when Grendel shows up.
+[Briefing room]
+TORRES: This is a scan of the holodeck just before we lost contact with Chakotay and Tuvok. The readings are pretty garbled, but I'm still inclined to think there is a malfunction in the holodeck's matter conversion nodes.
+JANEWAY: Photonic energy leaking into the subsystems could certainly damage the nodes, and it might have created a defect in the programme that occurs when Grendel shows up.
 TORRES: A defect that dematerialised our people.
-PARIS:: I'm not willing to accept the fact that Harry and the others
-are gone for good. Their molecular patterns might still be there. And
-if they are, we might be able to rematerialise them. The only thing we
-can do is go back into the holodeck, study this energy surge, find out
-what exactly happened.
-TORRES: Anyone who goes back in there might wind up just like the
-others.
+PARIS:: I'm not willing to accept the fact that Harry and the others are gone for good. Their molecular patterns might still be there. And if they are, we might be able to rematerialise them. The only thing we can do is go back into the holodeck, study this energy surge, find out what exactly happened.
+TORRES: Anyone who goes back in there might wind up just like the others.
 PARIS: Maybe not anyone. 
- 
-[Doctor's office] 
- EMH: Me?
-PARIS: A hologram can't be converted into energy. It already is energy.
-You're the perfect choice.
+[Doctor's office]
+EMH: Me?
+PARIS: A hologram can't be converted into energy. It already is energy. You're the perfect choice.
 EMH: How do you intend to transfer me out of Sickbay?
-JANEWAY: We'll have to modify your data stream protocols and imaging
-systems. But the fact that you're going to the holodeck simplifies
-things. The projection systems are already in place there.
-TORRES: And we're going to give you complete control over your magnetic
-containment field. You'll be able to make yourself solid or let matter
-pass through you at will.
-JANEWAY: Nothing on the holodeck will be able to touch you unless you
-want it to.
+JANEWAY: We'll have to modify your data stream protocols and imaging systems. But the fact that you're going to the holodeck simplifies things. The projection systems are already in place there.
+TORRES: And we're going to give you complete control over your magnetic containment field. You'll be able to make yourself solid or let matter pass through you at will.
+JANEWAY: Nothing on the holodeck will be able to touch you unless you want it to.
 EMH: I see.
-JANEWAY: Think of this as your first away mission, Doctor. I can
-understand your hesitation. But there are three lives at stake, and you
-have the best chance of anyone on this ship to save them. Do you
-understand that?
+JANEWAY: Think of this as your first away mission, Doctor. I can understand your hesitation. But there are three lives at stake, and you have the best chance of anyone on this ship to save them. Do you understand that?
 EMH: Yes.
-JANEWAY: Good. Your job is to find the photonic energy surge and scan
-it closely. We need all the data we can get. You'll have to interact
-with the characters in the holonovel, so make sure you're familiar with
-the Beowulf story. Your circuit modifications will be finished in three
-hours.
+JANEWAY: Good. Your job is to find the photonic energy surge and scan it closely. We need all the data we can get. You'll have to interact with the characters in the holonovel, so make sure you're familiar with the Beowulf story. Your circuit modifications will be finished in three hours.
 EMH: Yes, Captain. 
 (Janeway, Torres, and Paris leave.) 
-EMH: Computer, access full text of ancient Earth epic Beowulf including
-historical annotation and cultural references.
+EMH: Computer, access full text of ancient Earth epic Beowulf including historical annotation and cultural references.
 COMPUTER: Data compilation in progress.
 KES: Doctor?
-EMH: Ah, Kes. Come in. I don't know how long I'll be gone, but my
-absence is no reason to suspend your studies. How are you doing with
-the protein synthesis text?
+EMH: Ah, Kes. Come in. I don't know how long I'll be gone, but my absence is no reason to suspend your studies. How are you doing with the protein synthesis text?
 KES: I finished it yesterday.
-EMH: Good. Then you may as well start learning how to operate the
-base-pair sequencer. You'll find the manual in the technical database.
-Was there something else?
+EMH: Good. Then you may as well start learning how to operate the base-pair sequencer. You'll find the manual in the technical database. Was there something else?
 KES: There's something bothering you.
-EMH: Not at all. Now if you'll excuse me, I have a great deal of
-preparation to do.
+EMH: Not at all. Now if you'll excuse me, I have a great deal of preparation to do.
 KES: You're nervous about this mission, aren't you? 
-EMH: Nervous? I can perform emergency surgery without getting nervous.
-I can make life-or-death decisions about patients without getting
-nervous. What makes you think I'm nervous?
-KES: Those things are familiar to you. You've been programmed to do
-them but, this is different, isn't it?
-EMH: I can describe every detail of every piece of equipment in this
-Sickbay from biobed to neurostimulator, but I've never even seen a sky
-or a forest, let alone Vikings and monsters. I can't afford to fail but
-I don't know what to expect in that holodeck.
-KES: You've been telling me that you deserve to be treated like a
-member of the crew. Well, here's your chance. And I can tell you that
-none of the crew knows exactly what to expect when they go on an away
-mission. Doctor, have you chosen a name for yourself yet?
+EMH: Nervous? I can perform emergency surgery without getting nervous. I can make life-or-death decisions about patients without getting nervous. What makes you think I'm nervous?
+KES: Those things are familiar to you. You've been programmed to do them but, this is different, isn't it?
+EMH: I can describe every detail of every piece of equipment in this Sickbay from biobed to neurostimulator, but I've never even seen a sky or a forest, let alone Vikings and monsters. I can't afford to fail but I don't know what to expect in that holodeck.
+KES: You've been telling me that you deserve to be treated like a member of the crew. Well, here's your chance. And I can tell you that none of the crew knows exactly what to expect when they go on an away mission. Doctor, have you chosen a name for yourself yet?
 EMH: I have narrowed the list to three possibilities.
-KES: Then let me suggest you choose one before you go. It might help
-you feel more like a Starfleet officer.
+KES: Then let me suggest you choose one before you go. It might help you feel more like a Starfleet officer.
 EMH: You may be right. I'll give it some thought. And Kes, thank you.
 KES: Good luck. 
 (Kes leaves. Later - ) 
@@ -319,226 +177,136 @@ PARIS:: Paris to Janeway. We're ready for the transfer, Captain.
 JANEWAY [OC]: Good. Go ahead.
 PARIS: How about you, Doctor? Are you ready?
 EMH: Of course.
-PARIS: I've already transported a tricorder onto the holodeck. Engaging
-transfer circuits now. 
- [Holodeck
-- Forest] 
- (Night
-time. The EMH picks up the tricorder then gets his first feel of tree
-bark.) 
+PARIS: I've already transported a tricorder onto the holodeck. Engaging transfer circuits now. 
+[Holodeck - Forest]
+(Night time. The EMH picks up the tricorder then gets his first feel of tree bark.) 
 JANEWAY [OC]: Is everything all right, Doctor?
 EMH: Yes. There were no problems with the transfer. I'm on my way. 
 (The spear thuds into the tree.) 
 FREYA: Speak as a friend or stand challenged. I am 
-EMH: Yes, you're Freya, the king's daughter. A female warrior known as
-a Shield maiden.
+EMH: Yes, you're Freya, the king's daughter. A female warrior known as a Shield maiden.
 FREYA: We have never met and yet you know my name? Are you a sorcerer?
-EMH: No. It's simply that your reputation precedes you. A warrior of
-your skill. You're quite famous where I come from.
-FREYA: I did not know that word of my deeds has carried to other lands.
-Tell me what you have heard.
+EMH: No. It's simply that your reputation precedes you. A warrior of your skill. You're quite famous where I come from.
+FREYA: I did not know that word of my deeds has carried to other lands. Tell me what you have heard.
 EMH: Well, your battle with
 FREYA: Scyld, the Gar-Dane?
 EMH: It's practically legend. An incredible story.
-FREYA: I burned his hall to the ground. There was nothing left but
-ashes.
+FREYA: I burned his hall to the ground. There was nothing left but ashes.
 EMH: Charming.
-FREYA: And did you hear of my campaign against the Heatho-bards to the
-south? I fought them for
-EMH: I'd be delighted to hear all about it but I'm on an urgent mission
-of my own. I'm looking for Grendel.
-FREYA: Only a warrior would seek that which others flee. What is your
-name?
+FREYA: And did you hear of my campaign against the Heatho-bards to the south? I fought them for
+EMH: I'd be delighted to hear all about it but I'm on an urgent mission of my own. I'm looking for Grendel.
+FREYA: Only a warrior would seek that which others flee. What is your name?
 EMH: I'm glad you asked. My name is Schweitzer. Doctor Schweitzer.
-FREYA: Schweitzer. A hero's name. Come, I will take you to the king.
-The hall is not far from here. 
+FREYA: Schweitzer. A hero's name. Come, I will take you to the king. The hall is not far from here. 
 (They walk on. Freya finds a mushroom.)
 FREYA: Look, fortune is with us. Atuta, a most powerful plant.
 EMH: What exactly do you intend to do with it?
-FREYA: We brew the Atuta into a broth which we drink before battle. It
-brings on the spirit of the bear and gives us strength to swing our
-swords.
-EMH: It's more likely to bring on profuse sweating, convulsions and
-acute delirium. This is an amonita muscaria, a fungus common to
-sub-arctic climates and, let me assure you, quite poisonous.
-FREYA: Yes, but those it does not kill it makes strong. A most hardy
-plant. Are you a master of herb lore?
+FREYA: We brew the Atuta into a broth which we drink before battle. It brings on the spirit of the bear and gives us strength to swing our swords.
+EMH: It's more likely to bring on profuse sweating, convulsions and acute delirium. This is an amonita muscaria, a fungus common to sub-arctic climates and, let me assure you, quite poisonous.
+FREYA: Yes, but those it does not kill it makes strong. A most hardy plant. Are you a master of herb lore?
 EMH: In a way, I suppose I am.
-FREYA: You are truly a man of many talents, Lord Schweitzer. Your
-people must value you greatly.
+FREYA: You are truly a man of many talents, Lord Schweitzer. Your people must value you greatly.
 EMH: You would think so. 
- 
-[Holodeck - Great Hall] 
- FREYA:
-Hail, Lord Hrothgar! I bring a new friend, Schweitzer, who has come to
-destroy Grendel. Greet him well.
-HROTHGAR: I would bid you welcome to my hall, but the days of glad
-tidings are gone from this place.
-EMH: I'm sorry to hear that, but with your permission, sir, I'd like to
-stay here tonight and wait for Grendel.
-UNFERTH: To what purpose? To raise false hopes again, as have others
-before you? Leave us alone in our misery.
+[Holodeck - Great Hall]
+FREYA: Hail, Lord Hrothgar! I bring a new friend, Schweitzer, who has come to destroy Grendel. Greet him well.
+HROTHGAR: I would bid you welcome to my hall, but the days of glad tidings are gone from this place.
+EMH: I'm sorry to hear that, but with your permission, sir, I'd like to stay here tonight and wait for Grendel.
+UNFERTH: To what purpose? To raise false hopes again, as have others before you? Leave us alone in our misery.
 EMH: I'm afraid I can't do that. I have a mission.
-UNFERTH: Your name means nothing to me. There are no songs of your
-deeds nor stories of the battles you have fought. Who are you to
-believe you can slay Grendel?
-EMH: I'm simply a warrior. I'm only concerned with Grendel. I have no
-quarrel with you.
-UNFERTH: Indeed you do. And if you will fight Grendel, then you will
-first prove your worth to me. Defend yourself!
-(The EMH puts down his tricorder and takes the sword which Freya holds
-out to him.) 
+UNFERTH: Your name means nothing to me. There are no songs of your deeds nor stories of the battles you have fought. Who are you to believe you can slay Grendel?
+EMH: I'm simply a warrior. I'm only concerned with Grendel. I have no quarrel with you.
+UNFERTH: Indeed you do. And if you will fight Grendel, then you will first prove your worth to me. Defend yourself!
+(The EMH puts down his tricorder and takes the sword which Freya holds out to him.) 
 FREYA: Fate be with you. 
-(It is a heavy two-handed sword. The warriors laugh. The EMH parries
-two blows, barely.) 
-UNFERTH: If this is your best, then you should thank me. Grendel would
-destroy you with far greater ease than I.
+(It is a heavy two-handed sword. The warriors laugh. The EMH parries two blows, barely.) 
+UNFERTH: If this is your best, then you should thank me. Grendel would destroy you with far greater ease than I.
 EMH: This is absurd.
 (The EMH puts the sword on a bench.) 
 UNFERTH: So be it. 
-(Unferth's swing goes straight through the EMH and the sword hits the
-floor, hurting his wrist. Unferth falls to his knees in pain.) 
-EMH: You might want to put some ice on that. It'll take down the
-swelling.
-FREYA: Our time of deliverance is at hand. We have been given a new
-champion, one whom weapons cannot hurt! The one who will destroy
-Grendel and end our suffering! All hail the hero! All hail Schweitzer! 
+(Unferth's swing goes straight through the EMH and the sword hits the floor, hurting his wrist. Unferth falls to his knees in pain.) 
+EMH: You might want to put some ice on that. It'll take down the swelling.
+FREYA: Our time of deliverance is at hand. We have been given a new champion, one whom weapons cannot hurt! The one who will destroy Grendel and end our suffering! All hail the hero! All hail Schweitzer! 
 ALL: All hail Schweitzer! Schweitzer! 
 (Later, at table.) 
 HROTHGAR: Eat. Eat.
 EMH: What is it?
-HROTHGAR: Elk. When I built this hall, the forest ran thick with them.
-But today, game's more scarce. Enjoy it, Lord Schweitzer. It is a great
-delicacy in our land.
+HROTHGAR: Elk. When I built this hall, the forest ran thick with them. But today, game's more scarce. Enjoy it, Lord Schweitzer. It is a great delicacy in our land.
 EMH: It's quite good.
-HROTHGAR: We rarely hear stories of other lands. Honour us with a tale
-of your home to gladden our hearts.
+HROTHGAR: We rarely hear stories of other lands. Honour us with a tale of your home to gladden our hearts.
 EMH: I'm not much of a storyteller.
 HROTHGAR: Please, indulge us.
 UNFERTH: Yes. Tell us a tale of your prowess in battle.
-EMH: Well, there was the time I managed to stop the spread of Paronisti
-measles before it became epidemic. For a while, things were
-touch-and-go. Six people came down with it. Fortunately, I was able to
-isolate the endoplasmic virus and replicate it in order to form an
-antibody. Even then, it wasn't altogether clear I could create an
-effective vaccine, but I worked at it for seventy four hours straight
-and managed to create an inoculation that successfully protected the
-crew.
+EMH: Well, there was the time I managed to stop the spread of Paronisti measles before it became epidemic. For a while, things were touch-and-go. Six people came down with it. Fortunately, I was able to isolate the endoplasmic virus and replicate it in order to form an antibody. Even then, it wasn't altogether clear I could create an effective vaccine, but I worked at it for seventy four hours straight and managed to create an inoculation that successfully protected the crew.
 UNFERTH: You'll excuse me, my lord, if I take leave of this folly.
-HROTHGAR: A truly unique tale. Come, Lord Schweitzer. Allow me to show
-you my home. If you are in need of anything, please do not hesitate to
-ask.
+HROTHGAR: A truly unique tale. Come, Lord Schweitzer. Allow me to show you my home. If you are in need of anything, please do not hesitate to ask.
 EMH: All I need is to find Grendel.
-HROTHGAR: You're a true champion, always ready for the fight. Ah,
-perhaps you would like some mead to fortify yourself for the battle.
+HROTHGAR: You're a true champion, always ready for the fight. Ah, perhaps you would like some mead to fortify yourself for the battle.
 EMH: No, thank you. I'm fine.
-HROTHGAR: Away! You're disturbing Lord Schweitzer! It was with that
-weapon I made my first kill. I was eleven years old.
+HROTHGAR: Away! You're disturbing Lord Schweitzer! It was with that weapon I made my first kill. I was eleven years old.
 EMH: You killed someone when you were eleven?
-HROTHGAR: Well, it's a poor weapon, I agree, but a token of my youth.
-You must have similar trophies from your own childhood.
+HROTHGAR: Well, it's a poor weapon, I agree, but a token of my youth. You must have similar trophies from your own childhood.
 EMH: I don't remember much about my childhood.
-HROTHGAR: Well, I'm certain you distinguished yourself in battle many
-times and did honour to your father.
+HROTHGAR: Well, I'm certain you distinguished yourself in battle many times and did honour to your father.
 UNFERTH: My lord! It grows late. It is time to retire.
-HROTHGAR: Always with you it is time to sleep. Perhaps you have
-forgotten that the work of a warrior is battle not rest. You would do
-well to learn from Lord Schweitzer. This was a beautiful hall once,
-before Grendel. You will make it so again. You have our thanks.
+HROTHGAR: Always with you it is time to sleep. Perhaps you have forgotten that the work of a warrior is battle not rest. You would do well to learn from Lord Schweitzer. This was a beautiful hall once, before Grendel. You will make it so again. You have our thanks.
 EMH: I appreciate your faith in me, sire. 
 (Hrothgar leaves.) 
 DANE: Come, my lord. 
-UNFERTH: You may have deceived them with your tricks, but the king is
-old and desperate for hope, and the rest are just fools!
-EMH: You have nothing to worry about, Unferth. Once I'm done with
-Grendel, I'll be leaving.
-UNFERTH: We shall see. The morning will prove if your deeds are as
-strong as your words. 
+UNFERTH: You may have deceived them with your tricks, but the king is old and desperate for hope, and the rest are just fools!
+EMH: You have nothing to worry about, Unferth. Once I'm done with Grendel, I'll be leaving.
+UNFERTH: We shall see. The morning will prove if your deeds are as strong as your words. 
 (Unferth leaves. Freya stokes the fire. She has taken off her armour.) 
-FREYA: The nights here are cold. I wanted to make certain you were
-comfortable.
+FREYA: The nights here are cold. I wanted to make certain you were comfortable.
 EMH: I appreciate your concern. I thought everyone had gone to sleep.
-FREYA: Sleep does not come easily in this place. Not anymore. I was
-taught the world would end in winter. First there would be a desperate
-cold, followed by a demon who would devour the sun. It has been long
-since we felt summer, and a demon does walk these halls.
+FREYA: Sleep does not come easily in this place. Not anymore. I was taught the world would end in winter. First there would be a desperate cold, followed by a demon who would devour the sun. It has been long since we felt summer, and a demon does walk these halls.
 EMH: Freya, your world isn't coming to an end.
-FREYA: Perhaps not. But it has changed. Every night, the monster comes.
-And every day, our numbers are lessened and no one will speak of it. No
-one speaks of the fear that he will be next. Each meal become quieter
-than the last, and after time, we barely speak at all. Do you know what
-it is to be alone among many and unable to speak your fears?
+FREYA: Perhaps not. But it has changed. Every night, the monster comes. And every day, our numbers are lessened and no one will speak of it. No one speaks of the fear that he will be next. Each meal become quieter than the last, and after time, we barely speak at all. Do you know what it is to be alone among many and unable to speak your fears?
 EMH: I think I do.
 FREYA: How do you survive?
 EMH: I'm still learning how. I'm sure that's not very helpful.
-FREYA: Sometimes I believe I can see the moment of my own death. It
-comes in battle, I think, my sword raised high. It is said that fate
-often spares a doomed warrior if his courage can prevail, but there
-have been days when I have felt my own courage falter, and then you
-came.
+FREYA: Sometimes I believe I can see the moment of my own death. It comes in battle, I think, my sword raised high. It is said that fate often spares a doomed warrior if his courage can prevail, but there have been days when I have felt my own courage falter, and then you came.
 EMH: I'm glad I could help.
-FREYA: Perhaps I can help you. Before combat, it is most important to
-stay warm.
+FREYA: Perhaps I can help you. Before combat, it is most important to stay warm.
 EMH: Well, you've done an excellent job with the fire. I'm sure I'll 
 (Freya kisses him.) 
-FREYA: Fire is not the only heat, Lord Schweitzer. You know where I
-sleep. 
+FREYA: Fire is not the only heat, Lord Schweitzer. You know where I sleep. 
 (Freya leaves. A noise starts up outside.) 
 EMH: Holodeck to Bridge.
 JANEWAY [OC]: We're monitoring you.
 EMH: Captain, I'm picking up readings of photonic energy. 
 (The light forces the doors open. We see its tendrils of energy.)
-EMH: Captain, it's right in front of me. It's some kind of photonic
-energy formation. 
+EMH: Captain, it's right in front of me. It's some kind of photonic energy formation. 
 (A tendril wraps around his arm.)
 EMH: Emergency! Get me out of here! 
- 
-[Bridge] 
- EMH
-[OC]: Now!
+[Bridge]
+EMH [OC]: Now!
 JANEWAY: Sickbay, emergency transfer. 
- 
-[Sickbay] 
- PARIS:
-I'm on it. 
+[Sickbay]
+PARIS: I'm on it. 
 (The EMH appears with a missing arm.) 
 JANEWAY [OC]: Sickbay. Report.
-PARIS: Er, I have him, Captain, more or less. I think you'd better come
-take a look at this. 
+PARIS: Er, I have him, Captain, more or less. I think you'd better come take a look at this. 
 (Later, the EMH has a replacement arm.)
 PARIS: How does it feel?
 EMH: Just like the old one, actually.
-JANEWAY: Apparently, contact with photonic energy disrupted your
-magnetic cohesion, but we're still not sure if that's what happened to
-the others.
-TORRES: Captain, take a look at this. The readings from the Doctor's
-tricorder when the energy surge made contact with him.
-JANEWAY: They're showing a synaptic pattern. I wouldn't expect to see
-something like this in photonic energy. Is this the first time those
-patterns have shown up like this?
-TORRES: Yes, but it's the first time we've had clear readings from a
-moment of contact. I wonder if I could produce these same patterns in
-the samples we have in Engineering.
-JANEWAY: If you can, you might be able to get more information about
-how photonic energy damaged the holodeck systems.
+JANEWAY: Apparently, contact with photonic energy disrupted your magnetic cohesion, but we're still not sure if that's what happened to the others.
+TORRES: Captain, take a look at this. The readings from the Doctor's tricorder when the energy surge made contact with him.
+JANEWAY: They're showing a synaptic pattern. I wouldn't expect to see something like this in photonic energy. Is this the first time those patterns have shown up like this?
+TORRES: Yes, but it's the first time we've had clear readings from a moment of contact. I wonder if I could produce these same patterns in the samples we have in Engineering.
+JANEWAY: If you can, you might be able to get more information about how photonic energy damaged the holodeck systems.
 TORRES: I'm on it.
 PARIS: I'll give you a hand. 
- 
-[Engineering] 
- PARIS:
-Okay, I've initiated a polarisation field. I'm introducing it into the
-container.
+[Engineering]
+PARIS: Okay, I've initiated a polarisation field. I'm introducing it into the container.
 TORRES: We're getting a reaction.
 PARIS:: It's producing a synaptic pattern, all right. Highly complex.
-(The orange energy leaves the container and flies off through
-Engineering.) 
+(The orange energy leaves the container and flies off through Engineering.) 
 TORRES: What's that?
 PARIS:: Whatever it is, it's cutting through the bulkheads.
 TORRES: Let's get a containment field around it.
 PARIS:: It's heading for deck fourteen, section C five.
 TORRES: Okay, now I've got a containment field blocking it.
-PARIS:: Oh. It's changing direction. It's like it's avoiding the
-containment field.
+PARIS:: Oh. It's changing direction. It's like it's avoiding the containment field.
 TORRES: Let's give it another try. Now it's blocked on three sides.
 PARIS:: It's changing course, heading for the open side.
 TORRES: Are you thinking what I'm thinking?
@@ -547,178 +315,106 @@ TORRES: We may be dealing with a life form.
 JANEWAY [OC]: Bridge to Engineering.
 TORRES: Torres here.
 JANEWAY [OC]: We're detecting an energy mass 
- 
-[Bridge] 
+[Bridge]
 JANEWAY: Moving through the ship. 
-TORRES [OC]: Right. It broke through the sample container. Captain,
-it's showing the properties of a life form.
+TORRES [OC]: Right. It broke through the sample container. Captain, it's showing the properties of a life form.
 JANEWAY: A life form? 
- 
-[Engineering] 
- TORRES:
-It seems to have a neural net, and it's demonstrating signs of
-intelligent behaviour.
-PARIS:: It's cutting its way through the ship, heading for the outer
-hull. It'll breach in about fifteen seconds.
+[Engineering]
+TORRES: It seems to have a neural net, and it's demonstrating signs of intelligent behaviour.
+PARIS:: It's cutting its way through the ship, heading for the outer hull. It'll breach in about fifteen seconds.
 JANEWAY [OC]: Are there any critical systems in its path? 
 PARIS: Negative.
 JANEWAY [OC]: Then let it go. 
- 
-[Bridge] 
-JANEWAY: Be ready to seal the hull breach with a force field. I'll have
-a damage control team standing by for repairs. And let's track it on
-sensors when it gets out. 
+[Bridge]
+JANEWAY: Be ready to seal the hull breach with a force field. I'll have a damage control team standing by for repairs. And let's track it on sensors when it gets out. 
 PARIS [OC]: Captain 
- 
-[Engineering] 
- PARIS:
-It's penetrating the outer hull.
+[Engineering]
+PARIS: It's penetrating the outer hull.
 (Whumph.) 
 TORRES: Force field is in place.
-PARIS: I'm showing the energy form one hundred metres off our port
-side. 
- 
-[Bridge] 
+PARIS: I'm showing the energy form one hundred metres off our port side. 
+[Bridge]
 JANEWAY: Let's get it on screen. 
 (A bright light appears and takes in the small one.)
 JANEWAY: What was that? 
- 
-[Sickbay] 
+[Sickbay]
 JANEWAY: It appears to be some kind of photonic lattice.
-TORRES: And it seems pretty clear that the energy form was trying to
-get back to it as though it's a shelter of some kind.
-JANEWAY: Or maybe a transportation device. Their equivalent of a ship.
-At any rate, we had sensor contact for a few seconds, and we picked up
-three distinct bio-electrical patterns inside it.
+TORRES: And it seems pretty clear that the energy form was trying to get back to it as though it's a shelter of some kind.
+JANEWAY: Or maybe a transportation device. Their equivalent of a ship. At any rate, we had sensor contact for a few seconds, and we picked up three distinct bio-electrical patterns inside it.
 EMH: Bio-electrical? What are you suggesting, Captain?
-JANEWAY: We have three missing crewmen. Our best guess has been that
-they were somehow converted into energy while they were on the
-holodeck. We find no sign of them on this ship. Then we pick up three
-discrete patterns in that lattice. Three patterns that don't match
-anything else in that lattice, and which have biological components. I
-don't think it's a stretch to hypothesise that those are our crew
-members, converted into a kind of photonic energy.
+JANEWAY: We have three missing crewmen. Our best guess has been that they were somehow converted into energy while they were on the holodeck. We find no sign of them on this ship. Then we pick up three discrete patterns in that lattice. Three patterns that don't match anything else in that lattice, and which have biological components. I don't think it's a stretch to hypothesise that those are our crew members, converted into a kind of photonic energy.
 TORRES: But what are they doing over there? How did they get there?
-JANEWAY: We have good evidence now that there are photonic beings that
-live in that protostar. Life forms that have intelligence. We didn't
-know that when we beamed those energy samples on board. We had no idea
-that what we were doing, in essence, was capturing those life forms. We
-locked them in a containment field and began to experiment on them. If
-my people were taken like that, I know what my response would be. I
-would do whatever was necessary to get them back.
+JANEWAY: We have good evidence now that there are photonic beings that live in that protostar. Life forms that have intelligence. We didn't know that when we beamed those energy samples on board. We had no idea that what we were doing, in essence, was capturing those life forms. We locked them in a containment field and began to experiment on them. If my people were taken like that, I know what my response would be. I would do whatever was necessary to get them back.
 EMH: Then you think they have simply retaliated against us?
-JANEWAY: Yes. These beings can manifest themselves on the holodeck in
-the matrix of a holo-character. That's how they were able to take our
-crew members hostage.
-EMH: Captain, if you're right about this, then we should return the
-remaining life form.
+JANEWAY: Yes. These beings can manifest themselves on the holodeck in the matrix of a holo-character. That's how they were able to take our crew members hostage.
+EMH: Captain, if you're right about this, then we should return the remaining life form.
 JANEWAY: A gesture, to show we mean well. It's certainly worth a try.
-EMH: If I took the life form onto the holodeck and released it to
-Grendel, maybe they'll understand and release our people.
-JANEWAY: Ordinarily, officers go through intensive training before
-they're put into a first contact situation but you're the only one who
-can do this safely.
+EMH: If I took the life form onto the holodeck and released it to Grendel, maybe they'll understand and release our people.
+JANEWAY: Ordinarily, officers go through intensive training before they're put into a first contact situation but you're the only one who can do this safely.
 EMH: I'd like to finish what I started, Captain. I can do this.
-JANEWAY: I agree. Make arrangements to transfer the life form to a
-container so the Doctor can carry it. But remember, if you're holding
-the container, you'll have to stay in solid form.
+JANEWAY: I agree. Make arrangements to transfer the life form to a container so the Doctor can carry it. But remember, if you're holding the container, you'll have to stay in solid form.
 EMH: I understand. 
- [Holodeck
-- Forest] 
- EMH:
-Freya? Freya!
+[Holodeck - Forest]
+EMH: Freya? Freya!
 FREYA: Lord Schweitzer! We thought that Grendel had taken you.
 EMH: Not entirely.
 FREYA: How did you survive?
-EMH: That would be difficult to explain. But, that's not important
-right now. This is a talisman to destroy Grendel. I 
-UNFERTH: You lie! No man could survive an encounter with Grendel unless
-he were in league with the beast. You have brought that talisman to
-destroy us all!
+EMH: That would be difficult to explain. But, that's not important right now. This is a talisman to destroy Grendel. I 
+UNFERTH: You lie! No man could survive an encounter with Grendel unless he were in league with the beast. You have brought that talisman to destroy us all!
 FREYA: That is not true! He has returned to help us.
 UNFERTH: No! You speak his lies now. He has bewitched you.
 EMH: Unferth, I need to get this talisman to the Hall.
-UNFERTH: Then that gives me reason enough to make sure it never gets
-there. 
+UNFERTH: Then that gives me reason enough to make sure it never gets there. 
 (Unferth knocks the EMH down. Freya blocks his sword swing.) 
 EMH: No. Please, you don't know what you're doing.
 (After a few blows, Unferth knocks Freya down.) 
 UNFERTH: Prepare to die, demon. 
-(Unferth swings, and Freya gets in front of the EMH. Unferth takes the
-container and leaves.) 
+(Unferth swings, and Freya gets in front of the EMH. Unferth takes the container and leaves.) 
 EMH: Freya. 
 FREYA: My lord, my time has come.
 EMH: Freya, I'm sorry. There's nothing I can do.
 FREYA: It is a good death. Take my sword. Stop Unferth, and Grendel.
 EMH: I won't forget you.
-FREYA: Then I die happily with your name on my lips. Farewell,
-Schweitzer. 
- 
-[Holodeck - Great Hall] 
+FREYA: Then I die happily with your name on my lips. Farewell, Schweitzer. 
+[Holodeck - Great Hall]
 UNFERTH: Here, sire. 
 (Unferth gives Hrothgar the glowing container. The EMH enters.) 
-EMH: My lord, you know me as a true warrior. You know I am the one hope
-you have to rid your kingdom of Grendel. That talisman will aid me in
-my conquest. I must have it.
+EMH: My lord, you know me as a true warrior. You know I am the one hope you have to rid your kingdom of Grendel. That talisman will aid me in my conquest. I must have it.
 UNFERTH: Do not listen to him. He has already killed Freya. 
-(The EMH lights a brand from the fire and approaches Unferth with it.
-Unferth backs away against a table, and the EMH puts Freya's sword to
-his throat.)
+(The EMH lights a brand from the fire and approaches Unferth with it. Unferth backs away against a table, and the EMH puts Freya's sword to his throat.)
 UNFERTH: Stop him, my Lord! He is a madman!
-EMH: The only reason you won't die is that I've taken an oath to do no
-harm.
+EMH: The only reason you won't die is that I've taken an oath to do no harm.
 (Hrothgar gives the EMH the container.)
 EMH: Grendel, I'm ready for you. 
 {The doors burst open.)
-EMH: I don't know if you can understand me, but watch, I'm setting this
-one free. 
+EMH: I don't know if you can understand me, but watch, I'm setting this one free. 
 (The little light flies to the big light.)
-EMH: There's no need for any more of this. Please, we ask you to return
-our crew. 
- 
-[Bridge] 
- PARIS:
-Captain, the photonic lattice has reappeared.
+EMH: There's no need for any more of this. Please, we ask you to return our crew. 
+[Bridge]
+PARIS: Captain, the photonic lattice has reappeared.
 JANEWAY: Scan it. All sensors.
 TORRES: I'm reading a massive particle surge on our holodeck.
 PARIS: The lattice is gone again.
 EMH [OC]: Holodeck to Bridge.
 JANEWAY: Go ahead, Doctor. 
- 
-[Holodeck - Great Hall] 
- JANEWAY
-[OC]: What is it?
+[Holodeck - Great Hall]
+JANEWAY [OC]: What is it?
 EMH: We have them back, Captain. All three of them.
 JANEWAY [OC]: Good work, Doctor.
 KIM: Yeah, good work. Would you mind telling me where I was? 
-Captain's log, stardate 48710.5. Since the return of our missing
-crewmen, we've been unable to locate any further traces of the photonic
-aliens. 
- 
-[Doctor's office] 
- EMH: I
-don't know if the being understood language or just my behaviour. It
-would have been interesting to pursue the relationship further.
-JANEWAY: It's one of the most exciting aspects of space exploration,
-meeting new species, establishing communication, sharing differences
-and similarities.
+Captain's log, stardate 48710.5. Since the return of our missing crewmen, we've been unable to locate any further traces of the photonic aliens. 
+[Doctor's office]
+EMH: I don't know if the being understood language or just my behaviour. It would have been interesting to pursue the relationship further.
+JANEWAY: It's one of the most exciting aspects of space exploration, meeting new species, establishing communication, sharing differences and similarities.
 EMH: I'm sorry none of that happened this time.
-JANEWAY: But it did. It just didn't happen in very predictable ways.
-But if you think about it, we entered into conflict, communicated, and
-eventually established a peace treaty with them. I'm placing a special
-commendation in the logs for exemplary performance by the Chief Medical
-Officer during his first away mission.
+JANEWAY: But it did. It just didn't happen in very predictable ways. But if you think about it, we entered into conflict, communicated, and eventually established a peace treaty with them. I'm placing a special commendation in the logs for exemplary performance by the Chief Medical Officer during his first away mission.
 EMH: Thank you.
-JANEWAY: I'd like to cite you by name. Kes tells me you've chosen one.
-Is that true? 
- [Sickbay]
- EMH: I
-had, but I'm not sure I want to keep it. The last time I heard that
-name spoken was a painful one. I don't think I want to be reminded.
-JANEWAY: Sounds like you had quite an adventure on that holodeck,
-Doctor.
+JANEWAY: I'd like to cite you by name. Kes tells me you've chosen one. Is that true? 
+[Sickbay]
+EMH: I had, but I'm not sure I want to keep it. The last time I heard that name spoken was a painful one. I don't think I want to be reminded.
+JANEWAY: Sounds like you had quite an adventure on that holodeck, Doctor.
 EMH: Yes, I would say so.
 JANEWAY: Well, something tells me you haven't had your last one. 
 (Janeway leaves.) 
-EMH: Something tells me the same thing.  
+EMH: Something tells me the same thing. 
 

@@ -15,7 +15,7 @@ CHEKOV: Negative, sir. No debris, no residual particles, no traces.#
 CHEKOV: It should be on our screens by now.#
 CHEKOV: Nothing, sir. If it were destroyed, I'd pick up debris readings of some sort.#
 CHEKOV: Nothing.#
-CHEKOV: I know this saying. It was invented in Russia. (he smirks to himself)#
+CHEKOV: I know this saying. It was invented in Russia.#
 CHEKOV: Mister Scott? Sensors picking up a vessel ahead, cutting across our path.#
 CHEKOV: It's an alien, sir. By configuration a Klingon warship. Taking position directly in our path.#
 CHEKOV: Entering standard orbit around Pollux Four, sir.#
@@ -25,7 +25,7 @@ CHEKOV: I'm sorry, Captain. I never met a god before.#
 CHEKOV: Whatever he is, he seems to control a remarkable technology.#
 CHEKOV: Captain, the phasers. All the working parts are fused.#
 CHEKOV: Aye, aye, sir.#
-CHEKOV: There is a repeated occurrence of#
+CHEKOV: There is a repeated occurrence of registrations, a regular pulsating pattern of radiated energy. SCOTT: Unquestionably, an immensely powerful field of energy is being generated around here somewhere. We're just having difficulty focusing on it.#
 CHEKOV: Sir, some creatures can generate and control energy with no harm to themselves. The electric eel on Earth, the giant dry worm of Antos Four, the fluffy#
 CHEKOV: The captain requires complete information.#
 CHEKOV: That would seem most likely, sir.#
@@ -48,7 +48,7 @@ CHEKOV: What is it, Mister Spock?#
 CHEKOV: If you insist on worrying, worry about me. I've been wanting to get you in a place like this for a long time.#
 CHEKOV: I was about to take some readings.#
 CHEKOV: Mind your own business, sir! For your information, I have a very high efficiency rating.#
-CHEKOV: What do you want, violence? (Kirk catches their observer, and hits him as he tries to run away. To his astonishment, the white-haired male begins to cry.)#
+CHEKOV: What do you want, violence?#
 CHEKOV: Now we're welcome. A while ago this whole planet was trying to kill us. It doesn't make sense.#
 CHEKOV: Any place we can be together is paradise.#
 CHEKOV: I don't know.#
@@ -56,8 +56,8 @@ CHEKOV: Martha, I don't know. But if we do have to stay here, would it be so ver
 CHEKOV: Get back in there.#
 CHEKOV: Get back in there. Now!#
 CHEKOV: Co-ordinates seven one two stroke four, Mister Sulu.#
-CHEKOV: Deck five, sir? (As Kirk leaves the lift, someone punches him in the face and he is grabbed.)#
-CHEKOV:  So you die, Captain, and we all move up in rank. No one will question the assassination of a captain who has disobeyed prime orders of the Empire. Captain's log, supplemental. I command an Enterprise where officers apparently employ private henchmen among the crew, where assassination of superiors is a common means of advancing in rank.#
+CHEKOV: Deck five, sir?#
+CHEKOV:  So you die, Captain, and we all move up in rank. No one will question the assassination of a captain who has disobeyed prime orders of the Empire.#
 CHEKOV: Captain! Captain! Captain! Captain!#
 CHEKOV: A man, sir. In there. A dead man.#
 CHEKOV: Promises.#
@@ -65,7 +65,7 @@ CHEKOV: Give us some more blood, Chekov. The needle won't hurt, Chekov. Take off
 CHEKOV: Oh, yes. I'll live, but I won't enjoy it.#
 CHEKOV: That's what you said the last time.#
 CHEKOV: Yes.#
-CHEKOV: Commodore Stocker, what are your orders? Commodore! (But he is transfixed by the sight of another weapon blast heading for them on the viewscreen.)#
+CHEKOV: Commodore Stocker, what are your orders? Commodore!#
 CHEKOV: Sir, the Romulans do not take captives.#
 CHEKOV: You know this man, Captain?#
 CHEKOV: I think we're in a lot of trouble.#
@@ -108,7 +108,7 @@ CHEKOV: No, sir, I didn't.#
 CHEKOV: I don't know, sir.#
 CHEKOV: Computed and on the board, sir.#
 CHEKOV: Only one sixteenth parsec away, Captain. We should be there in seconds.#
-CHEKOV: Coming up on the planet, captain. (A planet with lots of water, some land masses and just s few wispy white clouds.)#
+CHEKOV: Coming up on the planet, captain.#
 CHEKOV: Definitely class M, somewhat similar to Earth.#
 CHEKOV: That may take some time.#
 CHEKOV: Aye, sir.#
@@ -166,7 +166,7 @@ CHEKOV: Open hatch on impulse engine number two. Mister Scott was doing an AID c
 CHEKOV: Aye, sir.#
 CHEKOV: The creature is slowing. It's down to warp two.#
 CHEKOV: I don't understand. It was outrunning us.#
-CHEKOV: Phasers show ready, sir. {Garrovick's quarters] (Garrovick takes the lid off his meal and throws it across the room. It knocks the switch on his ventilation filter to 'bypass'.)#
+CHEKOV: Phasers show ready, sir.#
 CHEKOV: It's coming to a full halt, sir. Magnification one.#
 CHEKOV: Within phaser range, sir.#
 CHEKOV: Locked on target.#
@@ -174,7 +174,7 @@ CHEKOV: Phasers ineffectual, sir.#
 CHEKOV: Minimum pattern ready, sir.#
 CHEKOV: Deflectors up, sir.#
 CHEKOV: Five seconds to contact. All hatches and vents secure. All lights on the board show green. Sir! The number two impulse vent! we have a red light!#
-CHEKOV: Results positive, Captain. The creature has left the ship at high warp speed and is already nearly out of scanner range. The way that thing can move, Captain, I wouldn't believe it. KIRK; Direction, Mister Spock.#
+CHEKOV: Results positive, Captain. The creature has left the ship at high warp speed and is already nearly out of scanner range. The way that thing can move, Captain, I wouldn't believe it.#
 CHEKOV: Computed and on the board.#
 CHEKOV: Ahead full, sir.#
 CHEKOV: One point seven days, sir.#
@@ -215,7 +215,7 @@ CHEKOV: Orbit computed and locked in, sir.#
 CHEKOV: Approaching Alpha Carinae Two. ETA five minutes.#
 CHEKOV: Captain, the M-5 unit has already identified the vessels as Federation starships Excalibur and Lexington.#
 CHEKOV: Enemy vessel closing with us.#
-CHEKOV: Changing course to two eight mark four two. (Pavel feels as fed up and useless as Kirk as the machine does his job for him.)#
+CHEKOV: Changing course to two eight mark four two.#
 CHEKOV: Turning to one one three mark five. Warp four speed.#
 CHEKOV: Moving back to original course and speed.#
 CHEKOV: Speed increasing to warp three, Captain.#
@@ -240,7 +240,7 @@ CHEKOV: Aye, sir.#
 CHEKOV: It was Russian, sir. Every word.#
 CHEKOV: Aye, sir. Standard orbit in five minutes.#
 CHEKOV: Then what are we doing here?#
-CHEKOV: Where are we now, Captain? (The sheriff's office is just the front of the building, no sides, back or roof.)#
+CHEKOV: Where are we now, Captain?#
 CHEKOV: Who won?#
 CHEKOV: And we are the Clantons?#
 CHEKOV: Oh, you knew that?#
@@ -261,7 +261,7 @@ CHEKOV: That's just what I was preparing to inquire. Have you been shopping?#
 CHEKOV: No, no, I haven't forgotten. I am looking forward to it most eagerly.#
 CHEKOV: Married? I'm afraid that wouldn't be possible.#
 CHEKOV: But it is absolutely impossible. I am not someone you can marry. If only I could make clear to you what I really am.#
-CHEKOV: Mister Earp. Get your hands off her. (Chekov walks towards Morgan, and gets shot. Kirk and Spock hear Sylvia's scream and arrive on the scene the same time as McCoy, followed by Scott. Wyatt and Holliday also turn up.)#
+CHEKOV: Mister Earp. Get your hands off her.#
 CHEKOV: Captain, I don't understand.#
 CHEKOV: What happened? Where have I been?#
 CHEKOV: But that girl. She was so beautiful. So real.#
@@ -321,8 +321,8 @@ CHEKOV: What could the Others do to cause such terror?#
 CHEKOV: A peculiar mixture.#
 CHEKOV: And the male humanoid who doesn't know the meaning of the word female.#
 CHEKOV: If it will trap the creatures for the Others, Captain, won't it trap us, too?#
-CHEKOV: Aye, sir. (McCoy and Spock beam down. Spock is in a brown overall, and has a device on his head. McCoy is holding a remote control unit with coloured buttons. He presses one and Spock turns left to face us.)#
-CHEKOV: It might be a long wait. We may as well be comfortable. (He uses his phaser to heat a rock, and they warm their hands in its glow.)#
+CHEKOV: Aye, sir.#
+CHEKOV: It might be a long wait. We may as well be comfortable.#
 CHEKOV: And accelerating.#
 CHEKOV: A madman got us into this, and it's beginning to look as if only a madman can get us out.#
 CHEKOV: Our position? Our position is so close to the point where we entered the void, the difference isn't worth mentioning. Bull's-eye, Mister Spock.#
@@ -331,9 +331,9 @@ CHEKOV: Captain. Visual detection of an object dead ahead.#
 CHEKOV: Has there ever been a mutiny on a starship before?#
 CHEKOV: Captain.#
 CHEKOV: Just like what I found in life support. All dead.#
-CHEKOV: It's gone. The Defiant just vanished. (Scott and O'Neil start fiddling with the innards of the transporter console.)#
+CHEKOV: It's gone. The Defiant just vanished.#
 CHEKOV: I don't understand what's so special about this region of space.#
-CHEKOV: And die like him? (Chekov leaps up, pushes Spock away and, screaming, attacks Sulu. Scott grabs him and McCoy arrives to help. Spock grabs his face.)#
+CHEKOV: And die like him?#
 CHEKOV: Thank you, Mister Spock.#
 CHEKOV: Two minutes, sir.#
 CHEKOV: Yes, sir. The ship can drive into interspace at any time.#
@@ -361,7 +361,7 @@ CHEKOV: Captain!#
 CHEKOV: Sir, let me go too. I've got a personal score to settle with the Klingons.#
 CHEKOV: Captain!#
 CHEKOV: Don't try to stop me, Captain. I saw what they left of Piotre, and I swore on his grave I would avenge his murder.#
-CHEKOV: You don't die yet. You're not human, but you're very beautiful. Very beautiful. (He rips her top, covers her mouth and I'll leave his intentions to your imaginations. Kirk comes along in the nick of time.)#
+CHEKOV: You don't die yet. You're not human, but you're very beautiful. Very beautiful.#
 CHEKOV: At present speed, our eta is three hours, four minutes, sir.#
 CHEKOV: I think that may be a Starfleet shuttlecraft.#
 CHEKOV: I verify, sir, it's out there.#

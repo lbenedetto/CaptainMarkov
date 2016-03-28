@@ -20,7 +20,7 @@ PICARD: From this point, no station aboard, repeat no station, for any reason wi
 PICARD: Records search, Data. Results of detaching saucer section at high warp velocity.#
 PICARD: Search theoretical.#
 PICARD: Using print-out only, notify all decks to prepare for maximum acceleration. Now hear this, Maximum, you're entitled to know, means that we'll be pushing our engines well beyond safety limits. Our hope is to surprise whatever that is out there, try and outrun it. Our only other option is to tuck tail between our legs and return to Earth as they demand.#
-PICARD: Stand by. Engage. (They swoop along and past the barrier, which then turns into a ball and chases them)#
+PICARD: Stand by. Engage.#
 PICARD: Steady on that.#
 PICARD: Continue accelerating. Counsellor, at this point I'm open to guesses about what we've just met.#
 PICARD: Beyond?#
@@ -47,7 +47,7 @@ PICARD: Or what? Or this? Her death? Or worse? You promised the prisoners will n
 PICARD: I suggest you are now having second thoughts it. You are considering that if you conduct a fair trial, which was your promise, you may lose.#
 PICARD: Yes, even though you're judge and prosecutor.#
 PICARD: Accepted, so long as you keep to your agreement. And assaulting prisoners is hardly a fair trial.#
-PICARD: court of fact! We humans know our past, even when we're ashamed of it. I recognise this court system as the one that agreed with that line from Shakespeare.  Kill all the lawyers.#
+PICARD: court of fact! We humans know our past, even when we're ashamed of it. I recognise this court system as the one that agreed with that line from Shakespeare.#
 PICARD: Which led to the rule guilty until proven innocent.#
 PICARD: Grievously savage could mean anything. I will answer only specific charges.#
 PICARD: I see no charges against us, Your Honour.#
@@ -56,14 +56,14 @@ PICARD: We question whether this court is abiding by its own trial instructions.
 PICARD: These will be your own words, your Honour. What exactly what followed his Honour's statement that the prisoner will not be harmed?#
 PICARD: Alright! We agree there is evidence to support the court's contention that humans have been savage. Therefore I say test us. Test whether this is presently true of humans.#
 PICARD: There must be many ways we can be tested. We have a long mission ahead of us.#
-PICARD: We've heard that we may find it rather interesting. Personal log, Commander William Riker. Stardate 41153.7. The USS Hood has dropped me off at Farpoint Station, where I await the arrival of the new USS Enterprise to which I have been assigned as First Officer. Meanwhile I have been asked to visit the Farpoint Administrator's Office, in the old city.#
+PICARD: We've heard that we may find it rather interesting.#
 PICARD: Do we have clearance?#
 PICARD: Make it so.#
 PICARD: Is the viewer ready?#
 PICARD: We'll first bring you up to date on a little adventure we had on our way here, Commander. Then we'll talk. Welcome aboard.#
 PICARD: Inform them we'll connect as soon as they arrive. And sent the Commander to me when he's finished.#
 PICARD: Come.#
-PICARD: It seems we're alive only because we have been placed on probation. A very serious kind of probation. (answers comm.) Go.#
+PICARD: It seems we're alive only because we have been placed on probation. A very serious kind of probation.  Go.#
 PICARD: Acknowledged. Commander Riker will conduct a manual docking. Picard out.#
 PICARD: You've reported in, haven't you? You are qualified?#
 PICARD: Then I mean now, Commander.#
@@ -168,7 +168,7 @@ PICARD: Lock it in on Farpoint Station.#
 PICARD: Let it have whatever it can absorb. Energise.#
 PICARD: Discontinue. Groppler Zorn, there'll soon be no Farpoint Station, if I'm right about this.#
 PICARD: Which your world furnishes you in plenty.#
-PICARD: Only enough to keep it alive, so that you could force it to shape itself into whatever form you needed! (The second jellyfish takes off, and the two touch tendrils, lovingly, before leaving)#
+PICARD: Only enough to keep it alive, so that you could force it to shape itself into whatever form you needed!#
 PICARD: Why do you use other lifeforms for recreation?#
 PICARD: Leave us! We've passed your little test.#
 PICARD: Get off my ship.#
@@ -188,7 +188,7 @@ PICARD: Thank you, Lieutenant.#
 PICARD: Doctor, every person on that ship over there died. Is there any chance that whatever did it is loose on my ship?#
 PICARD: The entire crew somehow managed to kill themselves, Doctor. If it's not a disease, what else could have made them do that?#
 PICARD: Security just told me that he was longing for normal eyesight. That's a sudden yearning for that.#
-PICARD:   The Constitution class Enterprise, Captain James T. Kirk commanding.#
+PICARD:#
 PICARD: Which somehow resulted in complex strings of water molecules which acquired carbon from the body and acted on the brain like alcohol. Data, download this information to Medical immediately.#
 PICARD: Fascinating! The entire crew going out of control,#
 PICARD: Until they found this formula, barely in time. Picard to Doctor Crusher, come in.#
@@ -228,7 +228,7 @@ PICARD: Captain to. Wesley. Wesley Crusher, come in!#
 PICARD: Ah, Data. At least you're functioning.#
 PICARD: Data, intoxication is a human condition. Your mind is different, it's not the same as#
 PICARD: Doctor,#
-PICARD: But. Damn it. (Data makes as if to lean on a chair, but there is nothing there and he falls)#
+PICARD: But. Damn it.#
 PICARD: Now, Doctor#
 PICARD: Do you know what the infection is? Come on, quickly.#
 PICARD: What sort of thing?#
@@ -251,10 +251,10 @@ PICARD: I put it to you all. I think we shall end up with a fine crew, if we avo
 PICARD: On our way. You have the helm, Mister Data.#
 PICARD: Cargo One. This should be an interesting experience.#
 PICARD: It's their way, Lieutenant. Do they have our coordinates?#
-PICARD: This is Captain Picard aboard the Starfleet vessel Enterprise. Please do us the honour of visiting our vessel. (Five people beam aboard. One rolls out a red carpet, then stands aside as an imposing man beams in)#
+PICARD: This is Captain Picard aboard the Starfleet vessel Enterprise. Please do us the honour of visiting our vessel.#
 PICARD: Captain Jean-Luc Picard. Welcome aboard. These are my officers. My second in command, Commander William Riker. Ship's Counsellor, Deanna Troi. And my Security Officer, Lieutenant Natasha Yar.#
 PICARD: Yes, Lutan, that is her expertise.#
-PICARD: Absolutely not. This vaccine sample is a gift of life and we are honoured at receiving it. Would you do us the additional honour of now letting us entertain you?#
+PICARD: Absolutely not. This vaccine sample is a gift of life and we are honoured at receiving it. Would you do us the additional honour of now letting us entertain you? LUTAN: Yes, yes. Please prepare it. We shall join you shortly.#
 PICARD: Lutan, we are aware of many of your planet's achievements, and its unique similarity to an ancient Earth culture we all admire. On behalf of the Federation, therefore, I would like to present this token of our gratitude and friendship. From China's Sung Dynasty, Fourteenth Century.#
 PICARD: Ah, yes, indeed.#
 PICARD: If you require respect from us, I am sure that you will see it.#
@@ -294,7 +294,8 @@ PICARD: Yours is a different world.#
 PICARD: Have you been treated well, Lieutenant?#
 PICARD: My ship's company and I are certain of your gentle wisdom in that.#
 PICARD: Something to be carefully avoided. I agree.#
-PICARD: Until tonight, Lutan. (A juggler is entertaining them when Tasha enters with her guard. She is seated at Lutan's left, with Yareena at his right) PICARD: Lutan, you have granted us hospitality and the safety of your Centreplace]. The gifts you give us are rare and precious. We thank you. And now, according with the customs of your ancestors, whom we honour and respect, I am here in peace to ask for the return of Lieutenant Yar.#
+PICARD: Until tonight, Lutan.#
+PICARD: Lutan, you have granted us hospitality and the safety of your Centreplace]. The gifts you give us are rare and precious. We thank you. And now, according with the customs of your ancestors, whom we honour and respect, I am here in peace to ask for the return of Lieutenant Yar.#
 PICARD: You speak of a code of honour, but what you are saying now, according to our customs, is called an act of war.#
 PICARD: No! The challenge is unequivocally refused!#
 PICARD: Did you have any idea, Lieutenant, that Lutan was suddenly going to announce that he wanted you for his First One?#
@@ -315,25 +316,26 @@ PICARD: Ah, I see. You, too, understand the proper value of women.#
 PICARD: You are a truly clever person, Lutan. You stand to lose nothing, either way the challenge goes.#
 PICARD: I will order Lieutenant Yar to fight. And may your cloak bring you all you deserve.#
 PICARD: Lock in on this location.#
-PICARD: Energise. (Geordi and Data arrive, behind the water feature, in front of a wall decorated with weapons) PICARD: You've both seen the message about the plague?#
+PICARD: Energise.#
+PICARD: You've both seen the message about the plague?#
 PICARD: We need to know as much as possible about Ligonian armaments. Data, especially important is an analysis of their combat capabilities. Geordi, concentrate on their cutting edges, wherever applicable, durability, composition, weaknesses of material.#
 PICARD: From the perspective of Lieutenant Yar using them in combat with Lutan's wife.#
 PICARD: And that won't be known until combat begins. You're right, Data. It does sound like a joke. With the power of the Enterprise, we could overwhelm this place easily, just take what we want.#
 PICARD: Which means, of course#
 PICARD: That is, ironically, what this is about. By our standards, the customs here, their code of honour, is the same kind of pompous, strutting charades that endangered our own species a few centuries ago. We evolved out of it because no one else imposed their own. I'm sorry, this is becoming a speech.#
-PICARD: Not entitled to ramble on about something everyone knows. Carry on. Ship's log, Commander William Riker reporting. Continuing our appraisal of Ligonian technology. The Captain has made it clear he wants Lieutenant Yar beamed immediately to safety if her life should become endangered, and I fervently hope the rules of that contest make it possible.#
+PICARD: Not entitled to ramble on about something everyone knows. Carry on.#
 PICARD: Then help me, please. What is a way out of this?#
 PICARD: Poison?#
 PICARD: What about those lengths of metal in the yard outside?#
 PICARD: Thank you, Data.#
 PICARD: Go ahead, Riker. We're alone.#
 PICARD: Thank you, Number One. Lieutenant, do you still feel that you want to go through with this challenge? Do you judge your condition good?#
-PICARD: Stay alive. We'll hope to do the rest. ;#
+PICARD: Stay alive. We'll hope to do the rest.#
 PICARD: Exactly what do you find unfair, Lutan? They fought to the death. You saw the final blow. You know the effects of your poison.#
 PICARD: I certainly won't stop her, if she cares to claim that honour.#
 PICARD: Picard here.#
 PICARD: No problem, Number One. Send down a medical team.#
-PICARD: Five to beam up. Energise. First Officer's log, Stardate 41235.6. I am returning the conn to Captain Picard as we begin loading the vaccine supply aboard. Shortly, we hope to signal mission complete.#
+PICARD: Five to beam up. Energise.#
 PICARD: This way, gentlemen.#
 PICARD: The challenge was carried out. She died, Lutan.#
 PICARD: Lutan, we can provide you with records of her death and how Doctor Crusher brought her back.#
@@ -350,7 +352,7 @@ PICARD: So be it. Wyatt seems a fine young man.#
 PICARD: I don't understand.#
 PICARD: Of course. Your daughter has explained your telepathic ability.#
 PICARD: No, no, that's quite all right. I'm indebted to your mother for the fine Counsellor she#
-PICARD:  This way. (The reincarnation of Christine Chapel and voice of the Enterprise computer follows, with her daughter and Lurch-sized servant)#
+PICARD:  This way.#
 PICARD: Oh, please don't let me keep up from doing your duty.#
 PICARD: Oh, no.#
 PICARD: Passenger accommodation.#
@@ -364,7 +366,7 @@ PICARD: Are you saying you believe it to be hostile?#
 PICARD: Agreed. But let's hope it doesn't become a defence matter.#
 PICARD: Sub-warp? It's several hours away then? Let's take a look at it. Enlarge to maximum.#
 PICARD: Mister Data, is that the trouble I believe it is?#
-PICARD: Picard to Sickbay. Doctor Crusher to Bridge, urgent. They must not be permitted them to destroy us. Or the planet. Captain's log, supplemental. It has been believed the Tarellian race was extinct, an assumption contradicted now by the sight of one of their vessels approaching Haven.#
+PICARD: Picard to Sickbay. Doctor Crusher to Bridge, urgent. They must not be permitted them to destroy us. Or the planet.#
 PICARD: Go on with your briefing, Mister Data.#
 PICARD: There were hostilities?#
 PICARD: Can you identify the origin of the infection, Doctor?#
@@ -406,7 +408,6 @@ PICARD: Then how do you explain Starfleet's report that the same tests on the US
 PICARD: Stand by for Commander Riker, Chief. He's on his way.#
 PICARD: Since you're concerned about these tests.#
 PICARD: Very good.#
-PICARD: Engineering, this is the Bridge. It's your call.#
 PICARD: Affirmative, Number One. Are you ready?#
 PICARD: Engage.#
 PICARD: What is our velocity?#
@@ -471,7 +472,7 @@ PICARD: What's happening?#
 PICARD: Revive him.#
 PICARD: Unless he was distracted by something.#
 PICARD: Do you have any facts that fit this? Can you get us back?#
-PICARD: And we report our observations how? To whom? Can you get us back?#
+PICARD: And we report our observations how? To whom?  Can you get us back?#
 PICARD: Number One, take him down to main Engineering. I'll be on the Bridge.#
 PICARD: Strange how he seems to care for you.#
 PICARD: The boy?#
@@ -490,13 +491,14 @@ PICARD: All decks, all stations. Battle stations.#
 PICARD: Helm, set in warp one point five, retroactive course.#
 PICARD: Bridge to Engineering. Stand by.#
 PICARD: On my order, Mister Data, Mister La Forge. Engage.#
-PICARD: It's not happening. It's not enough. (Down in Engineering, Wesley senses something is wrong, and squeezes the Traveller's hand. Then the Traveller has a go at phasing. Enterprise disappears in a crack of light, and the Traveller does not rematerialise. The ship is back in what looks like normal space)#
+PICARD: It's not happening. It's not enough.#
 PICARD: Cease Red Alert.#
 PICARD: Gone?#
 PICARD: Attention all decks. This is to inform you that with your support the Traveller has returned us to our galaxy. However, he has now left us. Wherever he has gone, we wish him well. Have the boy sent to the Bridge, Number One.#
 PICARD: Our next assignment is on this heading?#
 PICARD: Mister Data, Mister La Forge, increase to warp five. Same heading.#
-PICARD: Ah, Wesley. Come on the Bridge. Move! PICARD: Commander Riker has told me how supportive you were in Engineering. Well done. At ease. Sit here in Command.#
+PICARD: Ah, Wesley. Come on the Bridge. Move!#
+PICARD: Commander Riker has told me how supportive you were in Engineering. Well done. At ease. Sit here in Command.#
 PICARD: Oh, that's true. Well, I can't waive them again. Only commissioned officers.#
 PICARD: Please don't interrupt me, Wesley.#
 PICARD: Any commissioned rank? Even ensign?#
@@ -543,11 +545,12 @@ PICARD: So, while we still have some power left, it is time for difficult decisi
 PICARD: Impractical and provocative. Even assuming that we have the power to sustain such a tactic.#
 PICARD: Your point, Counsellor?#
 PICARD: It's been tried. No response.#
-PICARD: La Forge? Other opinions? Thank you for your advice. ; PICARD: Will? I haven't had your assessment.#
+PICARD: La Forge? Other opinions? Thank you for your advice.#
+PICARD: Will? I haven't had your assessment.#
 PICARD: The only one remaining is the one that needs no conversation. The only one we must avoid.#
 PICARD: The one that leads to total annihilation.#
 PICARD: Open hailing frequencies.#
-PICARD: Attention, Ferengi starship. This is Captain Picard. It is obvious that we are in a situation here which needs resolving, and we are willing to do whatever is required, whatever is necessary. I would like, I would request, that you present your terms to us. Captain's log, stardate 41386.5. It is with a heavy heart that I have offered to meet whatever reasonable and necessary terms are demanded by the Ferengi. I fear for my people and my vessel in the event the unknown Ferengi ask the unreasonable. How can I oppose even unreasonable demands?#
+PICARD: Attention, Ferengi starship. This is Captain Picard. It is obvious that we are in a situation here which needs resolving, and we are willing to do whatever is required, whatever is necessary. I would like, I would request, that you present your terms to us.#
 PICARD: Ready, but hold on ready. Open hailing frequencies.#
 PICARD: Ferengi vessel, we are awaiting your response.#
 PICARD: We'll wait a bit more, Number One.#
@@ -556,7 +559,7 @@ PICARD: Who is speaking?#
 PICARD: What I said, DaiMon Tarr, is#
 PICARD: Something has seized their ship too. They're in the same predicament as us.  Launch a sensor probe. Set it to search for the source of whatever this something is that is holding both ships. Go back to hailing frequency, fast. And I regret, DaiMon Tarr, that I can no longer negotiate unless it is conducted visually.#
 PICARD: And it is against Starfleet orders to accept a surrender otherwise. Do you withdraw your surrender?#
-PICARD: Agreed, DaiMon Tarr. You should be able to view us now. Are we on your screen? (The face of a humanoid with enormous ears fills the viewscreen. He even has crooked pointed teeth)#
+PICARD: Agreed, DaiMon Tarr. You should be able to view us now. Are we on your screen?#
 PICARD: Your offer may be inadequate, but I will discuss it with my staff. Stand by for further communications.#
 PICARD: Lieutenant, have you launched the probe?#
 PICARD: Well, if we're not holding the Ferengi and they're not holding us, who the hell is?#
@@ -565,7 +568,7 @@ PICARD: Trillions? I've never heard the word Tkon before.#
 PICARD: Data, what are you doing?#
 PICARD: Then get unstuck and continue with the briefing.#
 PICARD: Continue, Commander.#
-PICARD: We'll take it here. (The display changes to the planet with streams of energy heading out to both ships)#
+PICARD: We'll take it here.#
 PICARD: Reaching up from the planet surface. Amazing power. Data, what does the legend say about the end of the Tkon Empire?#
 PICARD: Could this planet have escaped that?#
 PICARD: We should take a look at it, Number One. Stand by with an away team.#
@@ -662,7 +665,7 @@ PICARD: What do you want?#
 PICARD: He is here.#
 PICARD: And more.#
 PICARD: And elates us. We wish you could understand the glorious adventure ahead.#
-PICARD: Soon we'll both be home. First officer's log, supplemental. On the orders of Captain Picard, we have returned to the vicinity of the energy pattern cloud. I am personally convinced that something from this cloud now shares the Captain's mind. But there seems to be nothing we can do, at least within regulations.#
+PICARD: Soon we'll both be home.#
 PICARD: Oh, they're already underway. I have an announcement for the entire Bridge. As many of you suspected, when our ship passed through the edge of this, it accidentally carried away a sentient being. Much like these energy patterns we're seeing here. A terrifying experience for any intelligent being. As if a great claw had reached down and scooped one of you from your home world. Drawn into the energy circuits of this vessel, it found its way to you, Worf. Frantic at being carried from its home world, and recognising you as sentient beings, it pleaded for help, but in ways you couldn't understand. Desperately going from person to person, and then discovering the computer intelligence in this ship's memory circuits. Oh, simplistic intelligence, but it furnished it enough to slow this Enterprise thing that had captured it. And it very much regrets the accidental death of Engineer Singh.#
 PICARD: Very soon after we combined we had learned much about each other. A passion for exploration, for the unknown. We found we had similar dreams, and it offered your Captain a way to realise them beyond human expectations.#
 PICARD: Isn't there?#
@@ -680,7 +683,7 @@ PICARD: Is it as good as your report suggests, Number One?#
 PICARD: But the happiest report has its negatives. Let's start with them, Number One.#
 PICARD: I take it you find no glitch at all in this planet, however?#
 PICARD: Of course. Wesley? If we go down, I'd like you to join the away team to evaluate this world as a place for young people to relax.#
-PICARD: If our scans and observations confirm the report, of course I'll approve it. Let's hope it is not too good to be true. Captain's log, supplemental. We are in orbit of a planet designated Rubicun Three, the home of a life form who call themselves the Edo. Our away team, including Wesley Crusher, has beamed down to make arrangements concerning some well-deserved recreation.#
+PICARD: If our scans and observations confirm the report, of course I'll approve it. Let's hope it is not too good to be true.#
 PICARD: What is, Commander?#
 PICARD: Centre main viewer on that area. I see nothing, Commander.#
 PICARD: Hailing frequencies. Any reply?#
@@ -688,12 +691,12 @@ PICARD: Geordi.#
 PICARD: Have a real look.#
 PICARD: Data, what the hell is it?#
 PICARD: Go ahead, LaForge. What can you make out?#
-PICARD: Why has everything become a something, or a whatever? (The globe has arrived on the Bridge, and is face to face with Picard. When it speaks, everything shakes)#
+PICARD: Why has everything become a something, or a whatever?#
 PICARD: I'm Captain Picard, commanding this Federation starship.#
 PICARD: We have sent down what we call an away team to make peaceful contact here.#
 PICARD: No. We are merely visiting here.#
 PICARD: We found that world uninhabited. The life forms we left there had, had sought the challenge. At least, that is the basic reason. Had sought the challenge of creating a new lifestyle, a new society there. Life on our world is driven to protect itself by seeding itself as widely as possible.#
-PICARD: If there is any way of finding out whatever is out there, Data. (The globe shrinks and attaches itself to Data's forehead. He falls backwards onto the floor.#
+PICARD: If there is any way of finding out whatever is out there, Data.#
 PICARD: Condition?#
 PICARD: I believe this is some form of information exchange with whatever is over there. At least, I hope it is.#
 PICARD: Something is blocking communication both#
@@ -832,7 +835,7 @@ PICARD: Thank you, Will. I never made that log entry, of course, but it still le
 PICARD: And one more full day for their answer to return. I'd like the truth on this by then. I'd hate to have to prepare a formal defence.#
 PICARD: Why wouldn't they? With the Ferengi making these friendship overtures, I could become a severe embarrassment to Starfleet.#
 PICARD: Damn! I'll call the Doctor again.#
-PICARD: Yes? Who the hell is it? (Crusher enters_#
+PICARD: Yes? Who the hell is it?#
 PICARD: More like dying, Doctor.#
 PICARD: What is wrong with me?#
 PICARD: Why do doctors always say the obvious as though it's a revelation?#
@@ -843,9 +846,11 @@ PICARD: The fight at Maxia. I destroyed an entire vessel. An entire crew.#
 PICARD: I don't know anymore. I just don't know.#
 PICARD: The last three nights I've, I've heard these voices. I'm on the bridge of my old ship. There's fire all around me. The klaxons, smoke. And then I give the order. And now the Stargazer is really here!. And that log. Am I going crazy? How do I know I was in my right mind at Maxia? How do I know I'm in my right mind now?#
 PICARD: What was that?#
-PICARD: Yes sleep. Sleep. (Crusher puts two small devices on his forehead, turns the lights out and leaves)#
-PICARD: Damage report! VOICE  Fusion generator under surge control, sir! Power systems failing! PICARD: Sensor beam bearing on hostile ship! VOICE  Seven mark nineteen, sir!#
-PICARD: Ready phasers, and lock! Stand by on warp nine. Heading seven, seven mark twenty. Engage. PICARD: Steady. Now, reverse and stop! Phasers fire, torpedoes away! Fire. Fire.#
+PICARD: Yes sleep. Sleep.#
+PICARD: Damage report!#
+PICARD: Sensor beam bearing on hostile ship!#
+PICARD: Ready phasers, and lock! Stand by on warp nine. Heading seven, seven mark twenty. Engage.#
+PICARD: Steady. Now, reverse and stop! Phasers fire, torpedoes away! Fire. Fire.#
 PICARD: A little sleep, thanks to the good Doctor, works wonders. What report on the logs?#
 PICARD: I thought I was Captain of this starship.#
 PICARD: Thank you for the confirmation, Doctor. But now, except for Riker, I would like you all to return to your stations. Is that clear?#
@@ -865,7 +870,7 @@ PICARD: Ready phasers.#
 PICARD: Vigo, is that you?#
 PICARD: Stand by. Who is this?#
 PICARD: Phaser. A sphere. Bok used it.#
-PICARD: Phaser. Destroy the sphere. Destroy the sphere. (After some hesitation, Picard destroys the sphere. The resulting explosion throws him across the Bridge)#
+PICARD: Phaser. Destroy the sphere. Destroy the sphere.#
 PICARD: Where am I, Number One?#
 PICARD: Bok! Where is Bok?#
 PICARD: In revenge, there never is. Let the dead rest. And the past remain the past. Enterprise, lock on. Beam me home, Riker.#
@@ -906,11 +911,11 @@ PICARD: Animal things?#
 PICARD: Data!#
 PICARD: Understood, Lieutenant, but I suspect that Commander Riker is probably perfectly safe, at least in a physical sense. Q has an interest in him. In fact, Q's entire visit has something to do with our First Officer.#
 PICARD: I wish I knew. Q first became interested in him at Farpoint. I have no idea what it means. Meanwhile, we must proceed with our rescue mission.#
-PICARD: Where is Q? If you have any answer to any of this? (Worf charges to meet their enemy. He knocks two down before being bayoneted in the stomach)#
+PICARD: Where is Q? If you have any answer to any of this?#
 PICARD: Wesley, no!#
 PICARD: Wesley!#
 PICARD: Riker. You! You did that!#
-PICARD: That grid, their wounds. Only the Q can do that. Captain's log, stardate 41591.4. Twelve minutes out from Quadra Sigma Three where the survivors of an underground disaster desperately need our help. Aboard the Enterprise, First Officer William T. Riker needs help nearly as badly. But this is a subject far out of my experience. Out of any human's experience.#
+PICARD: That grid, their wounds. Only the Q can do that.#
 PICARD: Will. How the hell do I advise you? You know the implications as well as I.#
 PICARD: What the Q has offered you has got to be close to immortality, Will. They're not lying about controlling space and time. We've seen it in what they can do.#
 PICARD: If you are going to refuse his offer, you must not allow yourself to use this power again. It's too great a temptation for us at our present stage of development.#
@@ -935,7 +940,8 @@ PICARD: Quite certain, Data. By all means, demonstrate your gifts of affection.#
 PICARD: Quite right. So you should. It's all over, Q. You have no further business here.#
 PICARD: Pay off your wager.#
 PICARD: I'm sure your fellow Q remember you agreed to never trouble our species again. Just as they're aware you failed to tempt a human to join you.#
-PICARD: Q, I strongly suspect it's some explaining you have to do now. (Q screams as he disappears. Wesley returns to gangly teenager, the Klingon woman vanishes and everyone is moved to new positions) PICARD: Extraordinary!#
+PICARD: Q, I strongly suspect it's some explaining you have to do now.#
+PICARD: Extraordinary!#
 PICARD: Perhaps some day we will discover that space and time are simpler than the human equation. No coordinates laid in, Number One?#
 PICARD: Engage.#
 PICARD: Starfleet received this subspace transmission two days ago, Admiral.#
@@ -986,7 +992,8 @@ PICARD: Wouldn't that be a little obvious, Admiral?#
 PICARD: Therefore you see this armed raid as the only option.#
 PICARD: With respect, Admiral, I would point out no one else has heard or considered Karnas's demands. The Federation might view them differently if they knew what they were.#
 PICARD: I couldn't sleep either.#
-PICARD: Perhaps in this case, rethinking? (Jameson turns so we can see the brown-haired, smooth-skinned twenty something he has become) PICARD: Why is this mission so important to you? Why did you risk your life to lead it personally?#
+PICARD: Perhaps in this case, rethinking?#
+PICARD: Why is this mission so important to you? Why did you risk your life to lead it personally?#
 PICARD: Noble sentiments, but that's too easy an answer. You've been here before. You negotiated a release of the hostages with Karnas before. Why is it now your answer is an armed raid? It's my away team you're sending in there. I think there's something you're not telling me, and I have a right to know what it is.#
 PICARD: That's the official record.#
 PICARD: Are you saying that's not the truth?#
@@ -999,7 +1006,7 @@ PICARD: The Admiral is correct, Number One. He has that right. But I am the Capt
 PICARD: No doubt you're right, Mister Data. However, forty five years ago, I'm sure it linked in with the tunnels the Admiral remembers.#
 PICARD: Geordi?#
 PICARD: Reset phasers to stun.#
-PICARD: Take cover! (Armed soldiers appear. Every one ducks behind convenient barrels and suchlike. Tasha gets in front of Picard. Jameson stands exposed)#
+PICARD: Take cover!#
 PICARD: Thank you, Mister Data. I have heard the sound before.#
 PICARD: Enterprise, this is Picard. Six to beam up, now!#
 PICARD: Sickbay. Not good is a galactic understatement.#
@@ -1045,12 +1052,14 @@ PICARD: Or a lover, perhaps?#
 PICARD: Twenty dollars a day, plus expenses.#
 PICARD: I haven't said yes yet.#
 PICARD: I'll take your word for it.#
-PICARD: Remarkable. Exit. (He is just leaving the holodeck when there is a knock on the office door) PICARD: You'll have to call again. I'm just leaving. I'm not dressed properly. I'll be back. (Picard leaves, the exit vanishes and the visitor enters the room);#
+PICARD: Remarkable. Exit.#
+PICARD: You'll have to call again. I'm just leaving. I'm not dressed properly. I'll be back.#
 PICARD: Memory, save current setting.#
-PICARD: Holodeck off. (The crew notice the red lipstick on his face as he goes along the corridor)#
+PICARD: Holodeck off.#
 PICARD: And when I looked down into the street, I actually saw automobiles!#
 PICARD: From that window, I could see an entire, er#
-PICARD: That's right. Sounds, Smells. CRUSHER: You make it sound so real. PICARD: That's how it felt.#
+PICARD: That's right. Sounds, Smells.#
+PICARD: That's how it felt.#
 PICARD: I'm going to go again, only this time I'm going to dress the part. Why not come with me?#
 PICARD: I want to take that twentieth century historian.#
 PICARD: Yes, Whalen. I bet he knows more about Dixon Hill than I do.#
@@ -1124,7 +1133,7 @@ PICARD: It usually refers to the memories.#
 PICARD: Sneezing?#
 PICARD: Assemble your away party, Commander. This must be an exciting moment for you, Mister Data. I'm tempted to lead the away team myself, except that my First Officer would object.#
 PICARD: You see?#
-PICARD: Mister Data, welcome home. First Officer's log, stardate 4124.5. We have found Data's home to be a completely dead world made out of lifeless vegetation. No insects, not even soil bacteria. What is it that could kill everything on an entire planet?#
+PICARD: Mister Data, welcome home.#
 PICARD: Bringing it up here was the right thing to do, Number One. We were just saying, Data, that if your duplicate functions, it might answer a lot of questions.#
 PICARD: All right, all right. Legitimate questions about any of this need not be asked apologetically. You feel uncomfortable about aspects of your duplicate, Data. We feel uncomfortable too, and for no logical reason. If it feels awkward to be reminded that Data is a machine, just remember that we are merely a different variety of machine. In our case, electrochemical in nature. Let's begin to handle this as we would do anything else.#
 PICARD: Let's begin with you, Data.#
@@ -1149,7 +1158,7 @@ PICARD: That is enough, Ensign. When addressing a senior officer.#
 PICARD: Well, Number One?#
 PICARD: I asked for Commander Riker's report, Acting Ensign Crusher. And since it now seems clear that you are unable to function within the limits of that appointment#
 PICARD: Bring photon torpedoes to ready. Main phasers to ready. Go to Red Alert, please.#
-PICARD: You didn't say you could do that. Affirmative. Talk to it.#
+PICARD: You didn't say you could do that.  Affirmative. Talk to it.#
 PICARD: Make it so.#
 PICARD: Do it.#
 PICARD: Shut up, Wesley! Lieutenant, pick a good security team, let me know what he does.#
@@ -1169,11 +1178,12 @@ PICARD: How current is this information, Mister Data?#
 PICARD: Counsellor, as this is a female dominated society, you might wish to make the initial contact.#
 PICARD: Open hailing frequencies.#
 PICARD: Angel One's strategic importance in this quadrant may become vital. Starfleet's hope is that one day this world may become part of the Federation.#
-PICARD: Energise. Captain's lot, supplemental. Our away team has beamed down to an unusual matriarchal society where the female is as aggressively dominant as the male gender was on Earth hundreds of years ago. Here, the female is the hunter, the soldier, larger and stronger than the male. An arrangement considered most sensible and natural.#
+PICARD: Energise.#
 PICARD: I want all departments prepared for a warp six trip into the Neutral Zone as soon as the away team completes its mission.#
 PICARD: Insurance. Romulan battle cruisers have been detected near one of our border posts.#
 PICARD: They've requested assistance as soon as Argh!#
-PICARD: Report, Mister Crusher. WESLEY We finished our ski lesson, sir, and it kind of just happened. PICARD: On the Enterprise, Mister Crusher, nothing just happens. What is that smell?#
+PICARD: Report, Mister Crusher.#
+PICARD: On the Enterprise, Mister Crusher, nothing just happens. What is that smell?#
 PICARD: No.#
 PICARD: Don't let this just happen again, Mister Crusher.#
 PICARD: How contagious is it?#
@@ -1193,11 +1203,11 @@ PICARD: Lieutenant Worf and I detected the same scent when we bumped into your s
 PICARD: You are excused, Doctor.#
 PICARD:  The Captain is fine, thank you. Mister Data has been briefing me on the away team's comportment, Number One.#
 PICARD: I look forward to your reports.#
-PICARD: Indeed we do. Mister Data, set course for the Neutral Zone.#
+PICARD: Indeed we do. Mister Data, set course for the Neutral Zone. Warp six. DATA: Co-ordinates set. Warp six on your mark, sir.#
 PICARD:  Engage.#
 PICARD: Thank you, Number One. Well done. And well done all.#
 PICARD: Granted. Welcome.#
-PICARD: Commander Riker. (The group head down the corridor, including a pair of 'mirror image' small humanoids)#
+PICARD: Commander Riker.#
 PICARD: No. We are very pleased with the operation of the Enterprise.#
 PICARD: Your reputation precedes you. I'm very pleased you're going to be improving our system.#
 PICARD: You have forty eight hours, because at forty eight plus six we have an appointment at Pelleus Five we must keep.#
@@ -1227,7 +1237,8 @@ PICARD: Two's company.#
 PICARD: This is your diversion, Number One, not mine.#
 PICARD: I don't dance.#
 PICARD: No, thank you.#
-PICARD: Exit! (The holodeck doors open and they seen and hear the Red Alert. Picard goes to the arch controls) PICARD: Captain to Bridge. Situation report.#
+PICARD: Exit!#
+PICARD: Captain to Bridge. Situation report.#
 PICARD: Computer, explain Red Alert.#
 PICARD: Why wasn't I notified?#
 PICARD: Present condition?#
@@ -1273,7 +1284,6 @@ PICARD: Starbase 74, this is the Enterprise. Do you read me?#
 PICARD: We'll go into that later. Right now I must speak to Lieutenant Commander Data.#
 PICARD: Yes, I know that, Data, but what could it be?#
 PICARD: They want us to find it. They would have kept it simple.#
-PICARD:  Would they have kept it that simple? Try it. Picard out.#
 PICARD: Now access the file. Start the transfer.#
 PICARD: Let me get on the other position. The Bynars always work in pairs. Maybe that is also required. It appears to be successful. Their system's started up. A resident diagnostic programme is running. Their system is absolutely incredible.#
 PICARD: Why didn't you just ask for our help?#
@@ -1287,7 +1297,7 @@ PICARD: It takes very special people to live in such desolation.#
 PICARD: Lieutenant Yar, hailing frequencies.#
 PICARD: Velara Three base, this is Captain Picard of the starship Enterprise.#
 PICARD: Velara Three base, this is the Enterprise. Come in please. Over.#
-PICARD: Velara Three base, do you copy? (A middle-aged man with a slight East European accent. Everyone say Hi! to General Gogol from the James Bond films)#
+PICARD: Velara Three base, do you copy?#
 PICARD: Terraform Command has asked us to see how you were getting along.#
 PICARD: Your staff is all well, I presume, Director?#
 PICARD: If there anything we can do to help? You and your staff are welcome aboard for a change of scene, rest.#
@@ -1330,11 +1340,12 @@ PICARD: I don't see anything.#
 PICARD: Translation? From whom?#
 PICARD: Bridge, this is the Captain. Request emergency power to initiate lab quarantine seal.#
 PICARD: We have confirmed that Data's discovery is life. But more than that, it is intelligent life.#
-PICARD: It's trying to communicate with us. Captain's log, supplemental. The inorganic life form from Velara Three has apparently taken over our Medical Lab.#
+PICARD: It's trying to communicate with us.#
 PICARD: Mister La Forge, can we see into the lab yet?#
 PICARD: Doctor?#
 PICARD: Continue quarantine.#
-PICARD: Counsellor, I shall need you. You have the Bridge, Number One. ] PICARD: Director Mandl, I put it to you again. What do you know about these life forms?#
+PICARD: Counsellor, I shall need you. You have the Bridge, Number One.#
+PICARD: Director Mandl, I put it to you again. What do you know about these life forms?#
 PICARD: Enough! Sit down, Lieutenant. You are deliberately evasive and it must stop. You have kept information from me since our first communication. An alien life form has taken possession of my Medical Lab. You knew of its existence.#
 PICARD: It is a life form and it has intelligence.#
 PICARD: It's trying to communicate with us.#
@@ -1376,7 +1387,7 @@ PICARD: Good. It is important that you trust us.#
 PICARD: We understand what you are saying. We will leave you. We will send you home.#
 PICARD: In time, Mister Data. When we're better prepared.#
 PICARD: And respects. Lieutenant Yar.#
-PICARD: Energise. Captain's log, stardate 41464.8. I have declared an indefinite quarantine for Velara Three, and we are now returning to Starbase with the three surviving terraformers. Perhaps the lesson we have learned from this near tragedy will prevent it from happening elsewhere.#
+PICARD: Energise.#
 PICARD: Number One.#
 PICARD: No, more a curiosity. For the past few hours we've been tracking faint energy readings in an attempt to locate the source. It's like following a trail of bread crumbs. The pathfinder lead here and stopped, which is what I knew would interest you.#
 PICARD: From where?#
@@ -1570,7 +1581,8 @@ PICARD: Lieutenant Yar, you stay at your post. If this is the result of a Romula
 PICARD: Mister La Forge, are we close enough to use the Visual Acuity transmitter?#
 PICARD: Please do. And Number One? Everything about this seems wrong.#
 PICARD: Ready to receive. Put this on main viewer.#
-PICARD: Extraordinary. Now I'm beginning to understand him. PICARD: Geordi. What was that? Over to the left.#
+PICARD: Extraordinary. Now I'm beginning to understand him.#
+PICARD: Geordi. What was that? Over to the left.#
 PICARD: Yes, that. No, no, back. Yes, that. Right there. What is that?#
 PICARD: Ah, to me it's just an undefined form, standing in a visual frenzy. Can you filter out the extraneous information?#
 PICARD: But it's just a jumble.#
@@ -1632,7 +1644,7 @@ PICARD: We'll both go.#
 PICARD: What's the situation?#
 PICARD: How do you suggest we proceed?#
 PICARD: Talk to him, Worf.#
-PICARD: Wait. (Worf goes down the ladder, turns Korris over, and does the death ritual for him)#
+PICARD: Wait.#
 PICARD: Mister La Forge, open hailing frequencies.#
 PICARD: Commander K'Nera, this is Captain Picard.#
 PICARD: Korris and the other Klingon are dead.#
@@ -1652,14 +1664,15 @@ PICARD: Your sensors indicated no intelligent life forms?#
 PICARD: On main viewer.#
 PICARD: I am Captain Jean-Luc Picard of the USS#
 PICARD: To whom am I speaking?#
-PICARD: We must have triggered something left over from the Erselrope wars when the arms business was booming. SALESMAN  So lock on to my signal and beam on down, because we don't just provide weapons PICARD: Shut that off.#
+PICARD: We must have triggered something left over from the Erselrope wars when the arms business was booming.#
+PICARD: Shut that off.#
 PICARD: If an automated message system is still functioning, there could be other systems on that planet that are still operational.#
 PICARD: Possibly.#
 PICARD: Number One, prepare am away team.#
 PICARD: This is the Bridge.#
 PICARD: Keep this channel open.#
 PICARD: Yes, we heard that, Number One. We'll try and track it down from here.#
-PICARD: Ensign T'Su?#
+PICARD: Ensign T'Su? T'SU: Sensors indicate low level energy readings, but the only life signs are the away team.#
 PICARD: You copy, Number One?#
 PICARD: Number One, get your team back up here.#
 PICARD: What's happened, Number One? Report. Report! Report!#
@@ -1676,7 +1689,7 @@ PICARD: Yes. Apparently he's confined in some sort of force field. Energise.#
 PICARD: Any changes?#
 PICARD: Can you remove it?#
 PICARD: We have little choice. Whatever has him is interrupting the transporter beam. Remove it.#
-PICARD: Doctor, over here! (Picard and Beverly run, right to the edge of a pit, where they fall into)#
+PICARD: Doctor, over here!#
 PICARD: Doctor.#
 PICARD: How bad is it?#
 PICARD: Come on. Alright, don't worry, we'll get you out of here. Enterprise, this is the Captain. Two to beam up. Enterprise? Enterprise, come in. Data? Lieutenant Yar?#
@@ -1760,7 +1773,7 @@ PICARD: What is it, Number One? What are you seeing?#
 PICARD: Easy, Number One. Let's find out what it is we're dealing with.#
 PICARD: Number One, I don't believe that the location of the crash and the proximity of the creature is a coincidence.#
 PICARD: What's Lieutenant Yar's condition? Doctor Crusher, report!#
-PICARD: Transporter room, get them up, now. Transporter Room]#
+PICARD: Transporter room, get them up, now.#
 PICARD: Go to Yellow Alert, Lieutenant Worf. I'll be in Sickbay.#
 PICARD: Status, Doctor?#
 PICARD: Can you bring her back?#
@@ -1846,7 +1859,8 @@ PICARD: Data.#
 PICARD: Do you have the necessary tools to realign the coil?#
 PICARD: Captain, we're beaming over a replacement coil.#
 PICARD: Yes, once it's installed.#
-PICARD: What is the matter with these people? How can he be Captain of that vessel and not understand its simplest function? PICARD: Captain, how long have you been in command of this freighter?#
+PICARD: What is the matter with these people? How can he be Captain of that vessel and not understand its simplest function?#
+PICARD: Captain, how long have you been in command of this freighter?#
 PICARD: And you don't know how to align a control coil?#
 PICARD: Let's get them off there. T'Jon, stand by to beam over.#
 PICARD: Unless you have any other options, yes, I think that's best.#
@@ -1962,7 +1976,8 @@ PICARD: Well, thank you for your concern.#
 PICARD: What do you suggest?#
 PICARD: Thank you, Counsellor. If I should need you further, I'll let you know.#
 PICARD: Bridge. Belay that. Computer, estimated arrival at Pegos Minor.#
-PICARD: Holodeck three. Outside Holodeck] PICARD: Computer, this is Captain Picard.#
+PICARD: Holodeck three.#
+PICARD: Computer, this is Captain Picard.#
 PICARD: Location, Paris, Cafe des Artistes, as it appeared twenty two years ago. April the ninth, fifteen hundred hours, three o'clock. Warm spring day.#
 PICARD: No.#
 PICARD: That table.#
@@ -2046,7 +2061,8 @@ PICARD: Where we are, where we were, and where we will be. Data, I want this to 
 PICARD: Indispensable is the appropriate word. I think it should be only you because you seem more able to control the effects of the time distortion.#
 PICARD: Well, I want you to put a stitch in time and, er, save much more than nine.#
 PICARD: If other members of the away team became disoriented, it could create additional problems and perhaps increase the danger.#
-PICARD: Good luck, Data. Transporter room]#
+PICARD: Good luck, Data.#
+PICARD: Mister Data, what's going on?#
 PICARD: What's the next step, Mister Data?#
 PICARD: Patched is good enough. Well done. Beam back immediately.#
 PICARD: Intact, for the most part.#
@@ -2073,7 +2089,7 @@ PICARD: Not possible. We're expected at Pacifica,#
 PICARD: Walker.#
 PICARD: Data, are you familiar with Dytallix B?#
 PICARD: Mister La Forge, chart a course for it immediately. Warp seven. And there will be no records or logs mentioning any aspect of this diversion.#
-PICARD: Negative. Nothing goes out without specific orders from me. Hopefully the delay will be minimal. (As the Enterprise rushes off on its new course, and Picard is in his Ready room, Data is at a science station)#
+PICARD: Negative. Nothing goes out without specific orders from me. Hopefully the delay will be minimal.#
 PICARD: Identify.#
 PICARD: Make no further attempts, Mister Worf. Any life form readings on the surface, Data?#
 PICARD: Very well. Relay those coordinates to the transporter room. I'm beaming down.#
@@ -2110,14 +2126,14 @@ PICARD: On screen.#
 PICARD: Agreed. Enlarge and identify.#
 PICARD: Identifying marks, Mister Worf?#
 PICARD: The last time I saw Admiral Quinn he tried to warn me about a subversion within the Federation. Then Walker tried, and he's dead.#
-PICARD: Number One, I believe what happened on the Horatio was#
+PICARD: Number One, I believe what happened on the Horatio was sabotage.#
 PICARD: What sort of activity?#
 PICARD: Data, can you speculate as to the purpose of these reassignments?#
-PICARD: Yes, why not? We're talking about a threat to the entire future of the Federation. I don't think any of us can rest easy until we've been to the source. Captain's personal log, supplemental. While it is quite unusual for a starship to return to Earth, we seem to be left with no other choice. I have apprised the remaining bridge crew of our situation.#
+PICARD: Yes, why not? We're talking about a threat to the entire future of the Federation. I don't think any of us can rest easy until we've been to the source.#
 PICARD: Standard orbit, Mister La Forge.#
 PICARD: Any word from Starfleet Command, Data?#
 PICARD: Strange.#
-PICARD: On screen. A trio of elderly Admirals are seated behind a desk. Two humans flanking a Vulcan)#
+PICARD: On screen.#
 PICARD: Yes, indeed. It's good to see you again, Admiral.#
 PICARD: Yes, sir. I can imagine you would be.#
 PICARD: Yes, sir, it is.#
@@ -2161,7 +2177,7 @@ PICARD: I'm going in to dinner now, Doctor. Tell Commander Riker to join me as s
 PICARD: Riker! Thank God. We're leaving.#
 PICARD: What race are you? Where are you from?#
 PICARD: Aaron!#
-PICARD: Aaron! (They dodge his phaser blast and the two of them shoot the Admiral in the back. His purple parasite comes out of his mouth and scuttles under a nearby door. They follow it)#
+PICARD: Aaron!#
 PICARD: Remmick!#
 PICARD: No, Will.#
 PICARD: That it did, Number One. Rest assured.#
@@ -2238,7 +2254,7 @@ PICARD:  They were trying to determine our intent. They wanted to see if we woul
 PICARD: Stay calm, everyone. Open hailing frequencies.#
 PICARD: Lieutenant, control your emotions. Please, open hailing frequencies.#
 PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise.#
-PICARD: But they've not fired. Let's try them again. (Two seated Romulans appear, one relaxed and sitting back, one leaning forward. The relaxed one speaks)#
+PICARD: But they've not fired. Let's try them again.#
 PICARD: Commander, you have crossed the Neutral Zone. This is Federation territory.#
 PICARD: It might be viewed as an act of aggression.#
 PICARD: Lieutenant Worf's question is valid.#
@@ -2276,20 +2292,21 @@ PICARD: Mixed feelings for all of us. It's always difficult leaving any ship, ju
 PICARD: When she left to become head of Starfleet Medical. But going from one assignment to another is part of the life which you are choosing.#
 PICARD: How true.#
 PICARD: Guinan.#
-PICARD: Where is Doctor Pulaski?  Thank you. (Picard goes over to a table by a window occupied by Troi and another woman. Everyone say Hi! to Ann Mulhall, or  Miranda Jones if you prefer) PICARD: Doctor Katherine Pulaski?#
+PICARD: Where is Doctor Pulaski?  Thank you.#
+PICARD: Doctor Katherine Pulaski?#
 PICARD: Doctor, protocol may have been lax on your last assignment, but here on the Enterprise.#
 PICARD: Lieutenant La Forge, status report.#
 PICARD: Take us to warp six as soon as possible.#
 PICARD: This is Doctor Katherine Pulaski. We will handle the formal introduction later. Counsellor Deanna Troi is pregnant. She is going to have a baby.#
 PICARD: A life form of unknown origin and intent is breeding right now inside Counsellor Troi. Our purpose here is to determine what is to be done about this very unusual situation. Discussion.#
-PICARD: Then it seems that the discussion is over. Captain's log, supplemental. We have finally arrived at 'audet Nine, where we will pick up the specimens of plasma plague for transport to Rachelis. It is only because so many lives are at stake that I am willing to put this ship and crew at such great risk. Meanwhile, Counsellor Troi's pregnancy continues to progress at an astonishing rate.#
+PICARD: Then it seems that the discussion is over.#
 PICARD: How are you feeling?#
 PICARD: Open hailing frequencies.#
 PICARD: 'Audet Nine, this is Captain Jean-Luc Picard of the USS Enterprise.#
 PICARD: Excuse me, to whom am I speaking?#
 PICARD: Are the specimens ready for transfer?#
 PICARD: I appreciate your caution. In the like vein, I want a complete, detailed manifest of everything you intend to bring on board my ship.#
-PICARD: Mister Data, download the inventory and cross-reference it with the medical computer. Number One, arrange to have Hester Dealt transported up. Captain's log, supplemental. Although it's been fourteen hours since we arrived at 'audet Nine. Hester Dealt has still not completed inspection of the containment unit. A transfer will not be permitted until he's assured of zero growth during our voyage. Meanwhile, the desperate pleas from the Rachelis System continue.#
+PICARD: Mister Data, download the inventory and cross-reference it with the medical computer. Number One, arrange to have Hester Dealt transported up.#
 PICARD: At last. Review it with Doctor Pulaski. I want you both to be completely familiar with it.#
 PICARD: Doctor. Welcome to the Bridge. Please, sit down. How is Counsellor Troi? Did she have a good night?#
 PICARD: I'm not sure of your point.#
@@ -2512,7 +2529,7 @@ PICARD: Extend hailing frequencies, all languages, all channels.#
 PICARD: Lasers can't even penetrate our navigation shields. Don't they know that?;#
 PICARD: A very old regulation. Well, make it so, Number One. And reduce speed. Drop main shields as well.#
 PICARD: In case we decide to surrender to them, Number One.#
-PICARD: Viewer on. (A middle aged man with a neat beard, dressed in simple grey, has his arms folded belligerently)#
+PICARD: Viewer on.#
 PICARD: But he is right. We are in their solar system. Open a channel.#
 PICARD: I am Captain Jean Luc Picard of the USS Enterprise. For what reason have you locked your weapons on us?#
 PICARD: He was in need of emergency repair. It was our obligation to assist.#
@@ -2544,7 +2561,7 @@ PICARD: I don't suppose you can give me any indication why this man wants you?#
 PICARD: Let's put all this together. Lieutenant Worf, multiple image, full conference mode. Let them all see each other.#
 PICARD: Gentlemen, please, let's try and resolve this matter. Captain Kushell, what crime has Okona allegedly committed against you?#
 PICARD: Terminate communications. Come with me.#
-PICARD: No, they could fire until their lasers ran dry and they wouldn't hurt the Enterprise. My predicament is what to do with you.#
+PICARD: No, they could fire until their lasers ran dry and they wouldn't hurt the Enterprise. My predicament is what to do with you. OKONA: I'm sorry. I'm sorry my ship broke down. I'm sorry you stopped to help. I'm sorry you're involved. But you're right. Whatever happens, however it goes, someone gets hurt. Hand me over to Kushell, and Debin goes to war.#
 PICARD: And if I hand you over to Debin, then it's the same thing.#
 PICARD: I'm sure you do.#
 PICARD: In truth, I simply do not have authority in this matter. I'm not your judge, nor is it my duty to arbitrate. But you are in my custody, and that creates the dilemma.#
@@ -2573,7 +2590,7 @@ PICARD: All right, who will replace you?#
 PICARD: Use caution, but protect Graves' health#
 PICARD: Yes, of course.#
 PICARD: I said we would, Data.#
-PICARD: He was a fine man. A man of rare gifts. and great accomplishments. He will be sorely missed. Does anyone else have anything to say? (Selar, Troi, Wesley, Riker, Kareen and Data are the mourners. Data has his head bowed. Geordi is at the transporter console.)#
+PICARD: He was a fine man. A man of rare gifts. and great accomplishments. He will be sorely missed. Does anyone else have anything to say?#
 PICARD: Data.#
 PICARD: You are finished, Data.#
 PICARD: We now commit the body of Ira Graves to the timeless depths of space.#
@@ -2613,7 +2630,7 @@ PICARD: Always alone?#
 PICARD: Doctor, what was your impression of Graves?#
 PICARD: Sound familiar?#
 PICARD: Negative. I'll handle this myself. He was an expert in cybernetics?#
-PICARD: Our memorial service may have been premature. What an achievement. 'So long as men can breathe or eyes can see, so long lives this, and this gives life to thee.' (Shakespeare's Sonnet 18, Shall I Compare Thee)#
+PICARD: Our memorial service may have been premature. What an achievement. 'So long as men can breathe or eyes can see, so long lives this, and this gives life to thee.'#
 PICARD: It seems he built that bridge. I may be forced to tear it down.#
 PICARD: I know who you are and what you've done.#
 PICARD: I came here to talk to Data.#
@@ -2631,7 +2648,7 @@ PICARD: No. He must not be lost. He's not simply an android. He's a life form, e
 PICARD: He is different, yes. But that does not make him expendable, or any less significant. No being is so important that he can usurp the rights of another. Now set him free!#
 PICARD: Data! Where is he?#
 PICARD: I can't afford to take it easy, Doctor.  Tell me, where is Lieutenant Commander Data?#
-PICARD: I've heard more than enough. You're you again. KAREEN. Captain. Captain, look at this.#
+PICARD: I've heard more than enough. You're you again.#
 PICARD: Mister Crusher, take us out of orbit.#
 PICARD: Exactly.#
 PICARD: Why? I haven't a clue.#
@@ -2673,7 +2690,7 @@ PICARD: Always?#
 PICARD: No. This is for your benefit.#
 PICARD: Yes, of course. The meeting is adjourned.#
 PICARD: Hailing frequencies.#
-PICARD: This is Captain Jean Luc Picard, commander of the Federation starship USS Enterprise. If you continue to violate the cease fire, I will abort this mission. (The viewscreen image has lots of interference.#
+PICARD: This is Captain Jean Luc Picard, commander of the Federation starship USS Enterprise. If you continue to violate the cease fire, I will abort this mission.#
 PICARD: Riva is in charge of the summit. I command the ship that brings him. I will not endanger this ship under any circumstances.#
 PICARD: I shall summon him for you. Get Riva here.#
 PICARD: The cease fire has been broken.#
@@ -2682,7 +2699,7 @@ PICARD: If that is your judgement, so be it. We are here to provide whatever ser
 PICARD: How did this happen?#
 PICARD: I don't understand what you're trying to say. Counsellor?#
 PICARD: Can you write it out? I am so sorry that your friends were killed. I'm sorry, I don't know what you are trying to tell me. We have to find some way to communicate with him. Data, he knows some kind of gestural language. Find our which one and learn it.#
-PICARD: Counsellor, take him to Sickbay. Maybe Pulaski can help. (grabs Riva's head) Listen to me. You are not alone. Do you understand? We are all in this together now. Captain's log, supplemental. We are monitoring increased military activity on Solais Five. I fear that without Riva, we will be unable to keep the Solari from destroying themselves.#
+PICARD: Counsellor, take him to Sickbay. Maybe Pulaski can help.  Listen to me. You are not alone. Do you understand? We are all in this together now.#
 PICARD: Come.#
 PICARD: How's our mediator.#
 PICARD: Counsellor, couldn't you?#
@@ -2726,7 +2743,7 @@ PICARD: Doctor?#
 PICARD: Thelusian flu?#
 PICARD: You'll agree that we should quarantine the Lantree.#
 PICARD: Set course for Gagarin Four, warp seven.#
-PICARD: Engage. Captain's log, supplemental. We're en route to the Federation Research station on Gagarin Four. The mere thought of a possible connection between the Lantree tragedy and a genetic research facility fills me with profound apprehension.#
+PICARD: Engage.#
 PICARD: Standard orbit, Mister Crusher.#
 PICARD: Hailing frequencies.#
 PICARD: Darwin Station, this is Captain Jean-Luc Picard of the USS Enterprise.#
@@ -2739,12 +2756,13 @@ PICARD: Doctor?#
 PICARD: Counsellor, do you sense anything?#
 PICARD: We have only Doctor Kingsley's assurance that these children are not infected, whereas we have seen the results of this disease first hand. In a case like this, I think we should err on the side of caution.;#
 PICARD: There's always risk, Doctor. Proceed with the examination, but I shall require positive proof that these children are harmless before I place any of my crew in jeopardy.#
-PICARD: Activate it. (The forcefield goes up around a single examination table in the middle of the room) PICARD: Transporter?#
+PICARD: Activate it.#
+PICARD: Transporter?#
 PICARD: Is there a problem?#
 PICARD: Well take all the time you need.#
 PICARD: One moment, Lieutenant. Whoever he is, he's still in stasis.#
 PICARD: Force field down.#
-PICARD: At least Doctor Kingsley's vision of it. (Later, as two nurses do most of the examining with various instruments, Picard returns to the lab)#
+PICARD: At least Doctor Kingsley's vision of it.#
 PICARD: That seems rather risky, Doctor.#
 PICARD: But what if you're wrong? You saw what happened on the Lantree.#
 PICARD: I can't expose the Enterprise until I know where this disease came from and how it is transmitted.#
@@ -2794,6 +2812,7 @@ PICARD: It's not working.#
 PICARD: Welcome back, Doctor. Come.#
 PICARD: If this hadn't worked, it would have been necessary to beam your energy into empty space.#
 PICARD: Yes. I'm sorry.#
+PICARD: Number One.#
 PICARD: Gentlemen.#
 PICARD: Engage.#
 PICARD: I was wondering if you had any feelings about the Officer Exchange Programme initiated by Starfleet Command.#
@@ -2804,9 +2823,9 @@ PICARD: Having Worf on board certainly has been.#
 PICARD: I thought of asking for a volunteer.#
 PICARD:  Damn. Sorry, Number One, what was that?#
 PICARD: Any particular reason?#
-PICARD: I'll notify Starbase of your acceptance They'll contact the Klingon vessel, make the arrangements. Captain's log, stardate 42506.5. We have departed from Starbase one seven nine and are headed for a rendezvous with the Klingon vessel, Pagh. I have informed the staff of Commander Riker's temporary assignment.#
+PICARD: I'll notify Starbase of your acceptance They'll contact the Klingon vessel, make the arrangements.#
 PICARD: Well, I'm familiar with the practice of the feast before the transfer. I've done it dozens of times. However, I usually made more palatable choices.#
-PICARD: Thank you. We know so little about them. There really is so much to learn. This is a great opportunity. I envy you, Mister Riker. (Another tray of dishes arrives, and Riker tucks in while Picard leans back and Pulaski wrinkles her nose)#
+PICARD: Thank you. We know so little about them. There really is so much to learn. This is a great opportunity. I envy you, Mister Riker.#
 PICARD: Hailing frequencies.#
 PICARD: On viewscreen. I'm Captain Picard of the Enterprise.#
 PICARD: We are preparing to do so. And, Captain, you're getting a fine officer.#
@@ -2940,7 +2959,7 @@ PICARD: How many more?#
 PICARD: A single Data, and forgive me, Commander, is a curiosity. A wonder, even. But thousands of Datas. Isn't that becoming a race? And won't we be judged by how we treat that race? Now, tell me, Commander, what is Data?#
 PICARD: What is he?#
 PICARD: Is he? Are you sure?#
-PICARD: You see, he's met two of your three criteria for sentience, so what if he meets the third. Consciousness in even the smallest degree. What is he then? I don't know. Do you?  Do you? Do you? Well, that's the question you have to answer. Your Honour, the courtroom is a crucible. In it we burn away irrelevancies until we are left with a pure product, the truth for all time. Now, sooner or later, this man or others like him will succeed in replicating Commander Data. And the decision you reach here today will determine how we will regard this creation of our genius. It will reveal the kind of a people we are, what he is destined to be. It will reach far beyond this courtroom and this one android. It could significantly redefine the boundaries of personal liberty and freedom, expanding them for some, savagely curtailing them for others. Are you prepared to condemn him and all who come after him to servitude and slavery? Your Honour, Starfleet was founded to seek out new life. Well, there it sits. Waiting. You wanted a chance to make law. Well, here it is. Make a good one.#
+PICARD: You see, he's met two of your three criteria for sentience, so what if he meets the third. Consciousness in even the smallest degree. What is he then? I don't know. Do you?  Do you?  Do you? Well, that's the question you have to answer. Your Honour, the courtroom is a crucible. In it we burn away irrelevancies until we are left with a pure product, the truth for all time. Now, sooner or later, this man or others like him will succeed in replicating Commander Data. And the decision you reach here today will determine how we will regard this creation of our genius. It will reveal the kind of a people we are, what he is destined to be. It will reach far beyond this courtroom and this one android. It could significantly redefine the boundaries of personal liberty and freedom, expanding them for some, savagely curtailing them for others. Are you prepared to condemn him and all who come after him to servitude and slavery? Your Honour, Starfleet was founded to seek out new life. Well, there it sits. Waiting. You wanted a chance to make law. Well, here it is. Make a good one.#
 PICARD: Phillipa. Dinner?#
 PICARD: Take us to impulse power.#
 PICARD: How much time will these adjustments require, Lieutenant?#
@@ -2956,7 +2975,7 @@ PICARD: Welcome to the Enterprise. I'm Captain Picard.#
 PICARD: Oh, yes, it is.#
 PICARD: Yes, of course.#
 PICARD: Very well.#
-PICARD: We're accommodating you in quarters normally reserved for Starfleet admiralty. I'm sure you'll find them quite comfortable. (Wesley exits a turbolift as the party passes. The universe stands still as Salia smiles at him, then turns back to speak)#
+PICARD: We're accommodating you in quarters normally reserved for Starfleet admiralty. I'm sure you'll find them quite comfortable.#
 PICARD: Mister Worf, have our passenger's accommodations met with their approval?#
 PICARD: Are you suggesting they're not who they say they are?#
 PICARD: Picard to Salia's quarters.#
@@ -3005,9 +3024,10 @@ PICARD: In the Neutral Zone?#
 PICARD: Donald, that was quite a risk to run to satisfy archaeological curiosity.#
 PICARD: Donald, your transmission is breaking up. Mister Data, try and clean that up.#
 PICARD: Yamato, this is the Enterprise. Yamato, come in.#
-PICARD: Captain! Donald, come in! (The viewscreen image of Donald Varley is replaced by one of the Yamato, going supernova) PICARD: Shields up. (A piece of the ship comes straight for them, as the saucer section glides to the right and burns up)#
+PICARD: Captain! Donald, come in!#
+PICARD: Shields up.#
 PICARD: Did they attack the Yamato?#
-PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise. (The Romulan Bridge appears on the viewscreen. It is commanded by a woman)#
+PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise.#
 PICARD: Explain your illegal presence in the Neutral Zone.#
 PICARD: Are you responsible for the destruction of the Yamato?#
 PICARD: Comments.#
@@ -3038,8 +3058,8 @@ PICARD: Perhaps. Ancient texts did speak of 'Demons of Air and Darkness'.#
 PICARD: Legend has it that they travelled without the benefit of spaceships, merely appearing out of thin air on distant planets.#
 PICARD: Well, we would appear magical to Stone Age people.#
 PICARD: Archaeology has been a hobby since Academy days. But why don't we talk about what really brought you here?#
-PICARD: Easily? Oh no, not easily. We handle it because we're trained to, as you will be. Tea, Earl Grey, hot. But if the time ever comes when the death of a single individual fails to move us (a pot plant appears in the replicator)#
-PICARD: Now that should not have happened. Captain's log, supplemental. As happened with our sister ship, the Enterprise is being to experience a series of system failures. So far they are random, but I fear they could be early symptoms of what happened to the Yamato.#
+PICARD: Easily? Oh no, not easily. We handle it because we're trained to, as you will be. Tea, Earl Grey, hot. But if the time ever comes when the death of a single individual fails to move us#
+PICARD: Now that should not have happened.#
 PICARD: Are you making any progress toward solving our problems?#
 PICARD: If it was the probe, that explains the Yamato. But how do you account for the difficulties the Enterprise is experiencing?#
 PICARD: Mister La Forge, time is the one thing which we do not have in abundance.#
@@ -3047,7 +3067,7 @@ PICARD: Analysis, Mister Data.#
 PICARD: Well, Mister Data?#
 PICARD: How long ago?#
 PICARD: Magnify.#
-PICARD: Captain Varley died believing that it was. (There's a little flash from the cross shape inside the crater on the surface)#
+PICARD: Captain Varley died believing that it was.#
 PICARD: Shields up. Prepare a tractor beam. Mister La Forge, I'm going to assist you in your research. A probe has been launched from Iconia.#
 PICARD: Worf, target phasers.#
 PICARD: Fire!#
@@ -3116,7 +3136,7 @@ PICARD: Make it so, Number One.#
 PICARD: What sort of markings?#
 PICARD: We've got ourselves a puzzle, Number One.#
 PICARD: No, no. No Earth ship of that time could have travelled out this far.#
-PICARD: Curiouser and curiouser. (Alice's Adventures in Wonderland, if you needed reminding)#
+PICARD: Curiouser and curiouser.#
 PICARD: Is there any connection between that structure and the ship fragment we found?#
 PICARD: Suggestions?#
 PICARD: Breathable air. No life forms that might be dangerous. I think we could risk a minimal away team, Number One.#
@@ -3151,7 +3171,7 @@ PICARD: Number One.#
 PICARD: Lieutenant La Forge has a thought. He believes we can phaser a slice in the field#
 PICARD: We'll wait here for months if necessary. We're just considering options.#
 PICARD: Computer, locate and display the text of the novel entitled Hotel Royale by Todd Matthews.#
-PICARD: If the cause of the difficulties is in the novel, we may find the solution within its pages. Ah. 'It was a dark and stormy night'. It's not a promising beginning.#
+PICARD: If the cause of the difficulties is in the novel, we may find the solution within its pages. Ah.  '#
 PICARD: Not in real life. Remember, everything that's going on down there is taken from what Colonel Richey calls a second-rate novel.#
 PICARD: Yes, Number One.#
 PICARD: The shoot-out between the bellboy and Mickey D.#
@@ -3165,7 +3185,7 @@ PICARD: Time to come home now, Number One. Transporter room, we have a fix on th
 PICARD: Come.#
 PICARD: Welcome back, Number One.#
 PICARD: Perhaps they were brought here by whoever created that make-believe world down there. It's possible they didn't know how fragile the humans aboard actually were. Only one of them survived.#
-PICARD: Like Fermat's theorem, it's a puzzle we may never solve. (Note - it was proved by British mathematician, Andrew Wiles. Read about it here)#
+PICARD: Like Fermat's theorem, it's a puzzle we may never solve.#
 PICARD: Number One, we've picked up an automated signal from a Federation shuttlecraft.#
 PICARD: Apparently not.#
 PICARD: Perhaps someone to answer your questions, Number One. Open hailing frequencies.#
@@ -3185,11 +3205,13 @@ PICARD: I'll be in Sickbay. Keep me informed.#
 PICARD: Looks like the damage caused by an antimatter explosion.#
 PICARD: Data, I need those logs. Counsellor.#
 PICARD: Have you been able to determine why he's still unconscious?#
-PICARD: Wake him. (Pulaski gives him a hypo, and the readings on the wall plummet into the red. She rushes for another hypo, and the signs recover) PICARD: What happened?#
-PICARD: Try to wake him, again. (Pulaski gives the injection, and the second Picard opens his eyes. He seems in pain) PICARD: No!#
+PICARD: Wake him.#
+PICARD: What happened?#
+PICARD: Try to wake him, again.#
+PICARD: No!#
 PICARD: I know what it is. Don't sedate him. Let him be. Please. Let him to remain conscious.#
 PICARD: I'm fine, Doctor. Save your ministrations for your patient. I want a staff meeting in five minutes. Doctor, I assume you will want to remain here.#
-PICARD: Keep me informed of any changes, no matter how small. Captain's log, supplemental. I've been informed that Mister Data has recovered the logs from the duplicate shuttlecraft. I am more than apprehensive to play back a log which will not be recorded for several hours.#
+PICARD: Keep me informed of any changes, no matter how small.#
 PICARD: Show me.#
 PICARD: Yes. All right, let's proceed on the premise that what we have just seen happened, and that in less than four hours from now, the Enterprise will be destroyed, and somehow, although this is unfathomable, I and I alone escape. Discussion.#
 PICARD: Data?#
@@ -3237,7 +3259,8 @@ PICARD: All stop.#
 PICARD: Mister La Forge.#
 PICARD: Status?#
 PICARD: Everything we do tightens its grip. Let's see what we can learn. Launch a Class one probe.#
-PICARD: Mister Worf (Picard gets zapped by an energy bolt, and so does his counterpart in Sickbay) PICARD: That was personal.#
+PICARD: Mister Worf#
+PICARD: That was personal.#
 PICARD: How long can you maintain it?#
 PICARD: Hold for my order.#
 PICARD: Hold this position. Counsellor, if I were to leave the Enterprise, would its attention still be focused on me?#
@@ -3267,10 +3290,10 @@ PICARD: What was the other choice? We can't fight, we can't escape, we can't go 
 PICARD: Was that it? Is that the other choice?#
 PICARD: No.  Captain Picard. I can not allow you to leave. Before we can go forward, the cycle must end.#
 PICARD: Doctor Pulaski, report to Shuttlebay two.#
-PICARD: Bridge. (Pulaski and O'Brien dash into the shuttlebay. She scans the other Picard, then leaves. No dialogue required)#
+PICARD: Bridge.#
 PICARD: Number One, we're wasting our energy trying to escape. It only weakens us. Helm, set a course for the center of the vortex. Mister La Forge, on my command, I want all the power you can muster.#
 PICARD: Yes.#
-PICARD: Now everyone hold their position. No matter what. Engage. (The Enterprise turns and heads down the tunnel towards the light. There's some shaking. In the Shuttlebay, the other Picard and his shuttle disappear before O'Brien's eyes. Then they are in clear space again) ibi#
+PICARD: Now everyone hold their position. No matter what. Engage.#
 PICARD: What's our position?#
 PICARD: You have the Bridge, Number One.#
 PICARD: A lot of questions, Number One. Damn few answers.#
@@ -3314,7 +3337,7 @@ PICARD: It goes deeper than that. A fine war mare would sleep in a bedouin's ten
 PICARD: Thank you. I don't want to anthropomorphise anything. I seems that some creatures have the capacity to fill spaces you never knew were empty.#
 PICARD: Sure you don't want to try? It's very relaxing. We can find you something that will be quiet and gentle.#
 PICARD: Strange. I would expect Betazoids to be outstanding animal trainers.#
-PICARD: I should think the shifting passions of this beast would be far more terrifying. (He's referring to himself. Just as he puts his foot in the stirrup to mount - )#
+PICARD: I should think the shifting passions of this beast would be far more terrifying.#
 PICARD: Yes, Number One?#
 PICARD: Something interesting?#
 PICARD: I'm on my way.#
@@ -3344,7 +3367,7 @@ PICARD: And is it the same situation if it's an epidemic, and not a geological c
 PICARD: How about a war? If generations of conflict is killing millions, do we interfere? Ah, well, now we're all a little less secure in our moral certitude. And what if it's not just killings. If an oppressive government is enslaving millions? You see, the Prime Directive has many different functions, not the least of which is to protect us. To prevent us from allowing our emotions to overwhelm our judgement.#
 PICARD: Sophistry.#
 PICARD: Data, I want you to sever the contact with Drema Four.#
-PICARD: Wait. Oh, Data. Your whisper from the dark has now become a plea. We cannot turn our backs. Captain's log, stardate 42741.3. We are entering into orbit of Drema Four, the planet from which Data received the distress signal. Sensors indicate that the volcanic activity is increasing.#
+PICARD: Wait. Oh, Data. Your whisper from the dark has now become a plea. We cannot turn our backs.#
 PICARD: Excellent.#
 PICARD: In plain English, you're saying the dilithium is causing the geological catastrophe.#
 PICARD: So that takes care of the why. Now, what can you do?#
@@ -3417,7 +3440,7 @@ PICARD: You're familiar with this life form?#
 PICARD: Lieutenant? Status.#
 PICARD: What is it you want? We mean you no harm. Do you understand me?#
 PICARD: Stop! I cannot allow you to interfere with the operation of this ship. Mister Worf.#
-PICARD: Mister Worf, use whatever means to neutralise the intruder. (A phaser on full kill knocks it down, and another Borg beams it to carry on where it left off. This time, Worf's phaser is blocked by a force field. The second Borg then goes to the dead one, removes a few attachments and beams out. The dead Borg dissolves to a dirty mark on the carpet)#
+PICARD: Mister Worf, use whatever means to neutralise the intruder.#
 PICARD: Because her people had contact with the Borg, I have requested Guinan to participate in this conference. You are aware of what occurred just now in main Engineering.#
 PICARD: What happened between your people and the Borg?#
 PICARD: How do we reason with them? Let them know that we are not a threat?#
@@ -3443,7 +3466,7 @@ PICARD: Cancel. We'll deal with that later.#
 PICARD: Visit their ship?#
 PICARD: Assemble a minimal away team.#
 PICARD: Go ahead, Number One.#
-PICARD: Transporter Chief. {Transporter room]#
+PICARD: Transporter Chief.#
 PICARD: If your lock on the away team wavers in the slightest, beam them back immediately.#
 PICARD: Transporter Chief, beam the away team directly to the Bridge.#
 PICARD: Let's get the hell out of here. Warp eight. Now, Mister Crusher. Engage.#
@@ -3454,7 +3477,7 @@ PICARD: Go ahead.#
 PICARD: I understand, Mister La Forge.#
 PICARD: Fire the photons.#
 PICARD: Q. End this.#
-PICARD: If we all die, here, now, you will not be able to gloat. You wanted to frighten us. We're frightened. You wanted to show us that we were inadequate. For the moment, I grant that. You wanted me to say I need you. I need you! (With a snap of Q's fingers, the Enterprise goes whirling through space again)#
+PICARD: If we all die, here, now, you will not be able to gloat. You wanted to frighten us. We're frightened. You wanted to show us that we were inadequate. For the moment, I grant that. You wanted me to say I need you. I need you!#
 PICARD: I understand what you've done here, Q, but I think the lesson could have been learned without the loss of eighteen members of my crew.#
 PICARD: Mister Crusher, set course for the nearest starbase.#
 PICARD: Engage.#
@@ -3581,7 +3604,7 @@ PICARD: Sometimes, Number One, you just have to bow to the absurd.#
 PICARD: The ship's computer#
 PICARD: The ship's computers sense a localised increase#
 PICARD: The point, Mister Odell.#
-PICARD: The other colony? Captain's log, supplemental. A review of stellar charts has revealed a Class M planet only half a light year from the Bringloid system. I am proceeding on the premise that it was the destination of the colony which possessed the more sophisticated equipment.#
+PICARD: The other colony?#
 PICARD: On screen. This is Jean-Luc Picard of the USS Enterprise, representing the United Federation of Planets.#
 PICARD: I'm afraid the truth is, you got lost in the bureaucracy. But despite the lateness of our arrival, we're here now and we're eager to renew ties.#
 PICARD: Thank you. Form an away team, Number One.#
@@ -3624,7 +3647,7 @@ PICARD: Gentlemen. I think we must not lose sight of the fact that we're talking
 PICARD: When did you last time you look in on the Antedean guests?#
 PICARD: Understood. Keep me informed. Picard out. I'll be in my quarters. It will be a dress uniform dinner, gentlemen.#
 PICARD: Doctor? You're not attending the dinner with the rest of us this evening?#
-PICARD: I seem to be a little early. I'm sure the others will be here soon. The other officers? Commander Riker? Counsellor Troi? (Homn smiles and shakes his head. The penny drops. Lwaxana is in the doorway, low cut dress and low pitched voice)#
+PICARD: I seem to be a little early. I'm sure the others will be here soon. The other officers? Commander Riker? Counsellor Troi?#
 PICARD: Speaking on behalf of men of Earth, which is indeed an awesome responsibility, I thank you.#
 PICARD: You do?#
 PICARD: Well, actually, I wasn't#
@@ -3667,6 +3690,7 @@ PICARD: So, Madeline, I'll see you later. Activate programme.#
 PICARD: Rex's bar? Why do you ask?#
 PICARD: That sounds like an excellent idea. Would you care to join me?#
 PICARD: Why not?#
+PICARD: Is that a problem?#
 PICARD: Why?#
 PICARD: Actually, the Second World War, although disastrous, did end with the United States taking its place as a dominant world power and cultural influence in the second half of the twentieth century. Additionally, that war was a catalyst of technological advancement. Developments in rocketry and fission resonate on into the twenty fourth century.#
 PICARD: What's this?#
@@ -3743,7 +3767,7 @@ PICARD: Helm, stay with them.#
 PICARD: Overtake, warp eight.#
 PICARD: Now, put us right in their path and come to a full stop. Full power to shields.#
 PICARD: Well, we've thrown down the gauntlet. Let's see if they pick it up.#
-PICARD: Agreed. Let's give them the chance to look their enemy in the#
+PICARD: Agreed. Let's give them the chance to look their enemy in the face. Ready, Lieutenant?#
 PICARD: Thank you, Lieutenant. Congratulations. A very fine first command. Well done.#
 PICARD: Mister Kolrami. Captain Jean-Luc Picard. Welcome aboard.#
 PICARD: Would you care to be shown to your quarters?#
@@ -3751,10 +3775,12 @@ PICARD: Commander Riker will captain the Hathaway.#
 PICARD: Yes.#
 PICARD: Starfleet is not a military organisation. Its purpose is exploration.#
 PICARD: With the Borg threat, I decided that my officers and I needed to hone our tactical skills. In a crisis situation, it is prudent to have several options.#
+PICARD:#
 PICARD: On my ship, the leader of an away team has total control of the mission. If you want to judge leadership, why not start at the beginning?#
 PICARD: Doctor.#
-PICARD: Begin long-range scanning of all sectors within three light years of Braslota. How#
+PICARD: Begin long-range scanning of all sectors within three light years of Braslota. How is your crew shaping up?#
 PICARD: Anyone in particular?#
+PICARD: Commander Riker, there's your next challenge.#
 PICARD: Good luck, Number One. Captain.#
 PICARD: Open.#
 PICARD: The weapons conversion, Lieutenant Burke?#
@@ -3765,19 +3791,22 @@ PICARD: Have you any objection?#
 PICARD: Permission granted. Mister Burke, will you handle that?#
 PICARD: Ensign, where is Commander Data?#
 PICARD: Why is that?#
-PICARD: Mister Kolrami, may I speak with you in private? [Ready room] PICARD: Mister Kolrami, you have been nothing but denigrating and abusive of Commander Riker since coming aboard this ship. Now I would like some explanation.#
+PICARD: Mister Kolrami, may I speak with you in private?#
+PICARD: I would like to know the root of your prejudice for my First Officer.#
+PICARD: Mister Kolrami, you have been nothing but denigrating and abusive of Commander Riker since coming aboard this ship. Now I would like some explanation.#
 PICARD: In what regard?#
 PICARD: Don't confuse style with intent. Only a fool would question Commander Riker's dedication to Starfleet and the men and women under his command. He is simply the finest officer with whom I have ever served.#
-PICARD: The test is if a crew will follow where Commander Riker leads. His joviality is the means by which he creates that loyalty. And I will match his command style with your statistics any time. [Data's quarters]#
+PICARD: The test is if a crew will follow where Commander Riker leads. His joviality is the means by which he creates that loyalty. And I will match his command style with your statistics any time.#
+PICARD: Let me try to understand. You're saying that Commander Data is suffering from a profound loss of confidence, and that you believe only I can restore the balance?#
 PICARD: Don't you think you both might be overreacting? Data is not capable of the emotions which you are assigning to him.#
 PICARD: I am less than an hour away from a battle simulation, and I have to hand-hold an android.#
 PICARD: Commander, I require your presence on the Bridge.#
 PICARD: Data, you are my First Officer.#
 PICARD: Yes, you might. But that does not alter your duty to me and to this ship. Now, do you know how to formulate a premise?#
-PICARD: Then formulate this one. How do I deal Riker and the Hathaway? I will await your answer on the Bridge. And, Commander, it is possible to commit no mistakes and still lose. That is not a weakness. That is life.#
-PICARD: And Data, will you leave your hesitation and self-doubt here in your quarters. [Observation lounge]#
+PICARD: Then formulate this one. How do I deal Riker and the Hathaway? I will await your answer on the Bridge.#
+PICARD: And Data, will you leave your hesitation and self-doubt here in your quarters.#
 PICARD: On screen. The hunt begins, Number One.;#
-PICARD: Screen off. Set course two two three mark three five seven. Full impulse power. Initiate Kumeh manoeuvre. [Hathaway Bridge]#
+PICARD: Screen off. Set course two two three mark three five seven. Full impulse power. Initiate Kumeh manoeuvre.#
 PICARD: Set course three one mark seven three. Present minimal aspect. Ready warp one, optimal spread on simulated torpedoes.#
 PICARD: What the?#
 PICARD: Bring us about, Ensign. Maximum shields.#
@@ -3790,7 +3819,7 @@ PICARD: Did you input that new code?#
 PICARD: Mister Worf, I didn't give you enough credit. Continue the simulation.#
 PICARD: Divert all power to shields!#
 PICARD: Stay between the Ferengi and the Hathaway.#
-PICARD: Fire when ready. [Hathaway Bridge]#
+PICARD: Fire when ready.#
 PICARD: Where are my weapons?#
 PICARD: Unacceptable!#
 PICARD: I have forty crewmembers on board the Hathaway.#
@@ -3803,21 +3832,21 @@ PICARD: I am open to suggestions.;#
 PICARD: On screen. Number One, have you been monitoring communications?#
 PICARD: That would leave you defenceless.#
 PICARD: Your what?#
-PICARD: I told you he was the best. I'd like to hear about this, Number One, later. Right now I have to work something out with Mister Data. [Observation lounge]#
+PICARD: I told you he was the best. I'd like to hear about this, Number One, later. Right now I have to work something out with Mister Data.#
 PICARD: There is a way. Number One, can you hear this?#
 PICARD: Mister Data#
-PICARD: I cannot order you to do this.[Hathaway Bridge]#
-PICARD: The advantage is, that it will appear from the Kreechta's perspective as though you were destroyed in the explosion. [Hathaway Bridge]#
+PICARD: I cannot order you to do this.#
+PICARD: The advantage is, that it will appear from the Kreechta's perspective as though you were destroyed in the explosion.#
 PICARD: On my mark, four minutes.#
 PICARD: Are we ready, Number One?#
 PICARD: Good luck to both of you. Bractor.#
 PICARD: You needn't. The answer is no. Your actions have been wholly criminal. You will not profit by them.#
-PICARD: You feel the Hathaway has value? We deny you your prize. Fire! (There's a big fireball behind the Enterprise, and when it clears, the Hathaway is gone)#
+PICARD: You feel the Hathaway has value? We deny you your prize. Fire!#
 PICARD: You had no claim to that vessel. It was ours to destroy.#
 PICARD: You can try.#
 PICARD: You made it, Number One. Smooth ride?#
 PICARD: We'll lock on and pick you up.#
-PICARD: Thank you. Initiate recovery procedures. Continue repairs. Plot a course for the nearest starbase. Captain's log, supplemental. With the transporter repaired and my crew safely back aboard, we have officially ended our first Starfleet battle simulation.[Ten forward] (Riker and Pulaski enter as a Strategema game between Data and Kolrami is in full flow. The crowd are very excited. The scores are in the 32000! and climbing. Kolrami is sweating, Data is unblinking and has a#
+PICARD: Thank you. Initiate recovery procedures. Continue repairs. Plot a course for the nearest starbase.#
 PICARD: Number One.#
 PICARD: Put your foot where it didn't belong?#
 PICARD: Can you remove it?#
@@ -3924,7 +3953,7 @@ PICARD: Come. Welcome home, Mister Data. Well done.#
 PICARD: The good doctor was kind enough to provide me with a recording of your concert. Your performance shows feeling.#
 PICARD: It's hard to believe. Your playing is quite beautiful.#
 PICARD: Is there nothing of Data in what I'm hearing? You see, you chose the violinists. Heifetz and Bronken have radically different styles, different techniques, yet you combined them successfully.#
-PICARD: Mister Data, I look forward to your next concert. (in this context, ensign has the meaning of the badge of office, an emblem, sign or token thereof)#
+PICARD: Mister Data, I look forward to your next concert.#
 PICARD: Doctor Stubbs, if you would like to make one final inspection of the unit.#
 PICARD: Begin launch sequence.#
 PICARD: Stabilise.#
@@ -3984,7 +4013,7 @@ PICARD: Tell them the human who destroyed their comrades is here and wishes to a
 PICARD: You, sir, you will explain your error and apologise, and pray that we can negotiate a peace we can all live with. Is that clear?#
 PICARD: How can we be sure we can get them out of you?#
 PICARD: All right, Data. Propose it to the nanites.#
-PICARD: Proceed. (The little things enter through his finger tips. Possessed Data stands and looks around, then speaks in a machine intonation)#
+PICARD: Proceed.#
 PICARD: In our travels, we have encountered many other creatures, perhaps even stranger-looking than ourselves. But we try to co-exist peacefully with them.#
 PICARD: We misinterpreted your actions as an attack on us.#
 PICARD: Yes, but you endangered this vessel in which we all travel. You nearly killed a crewmember.#
@@ -4001,7 +4030,7 @@ PICARD: I understand. Counsellor?#
 PICARD: And something else?#
 PICARD: Good luck, Number One.#
 PICARD: Are they collaborators? Did they provide the colony's assailants with something that abetted the total destruction of Rana Four in order to protect their own lives?#
-PICARD: We don't know what the enemy needed, Doctor. Love? Fear? Hope? (The sound of the music in Troi's head almost drowns out the next two lines)#
+PICARD: We don't know what the enemy needed, Doctor. Love? Fear? Hope?#
 PICARD: Counsellor? Counsellor Troi?#
 PICARD: Number One, you say the couple is incapable of sustaining themselves?#
 PICARD: They won't come to the ship?#
@@ -4011,7 +4040,8 @@ PICARD: I remember a Starfleet admiral once saying the same thing about some ren
 PICARD: I was concerned. I came to see if I could be of any help.#
 PICARD: Now, I may not have your gifts at reading emotions, Counsellor, but I can tell when someone is in pain and hiding it.#
 PICARD: Perhaps it's a symptom of fatigue. We've all been inflicted one time or another with that melody that won't go away.#
-PICARD: When did this start? TROI A few hours ago, while the away team was on the surface. I was trying to, I was thinking of Rishon and Kevin. PICARD: Rishon and Kevin? And?#
+PICARD: When did this start?#
+PICARD: Rishon and Kevin? And?#
 PICARD: Well, try and rest. Take the necessary sleep inducements if you have to.#
 PICARD: Now where did that come from?#
 PICARD: Lieutenant?#
@@ -4105,7 +4135,7 @@ PICARD: Who are studying an extended family of Mintakans at close range from a c
 PICARD: Which is not surprising, considering how closely their evolution parallels Vulcan.#
 PICARD: Thank you, Lieutenant. On screen.#
 PICARD: Do you have battery backup?#
-PICARD: Make it so. We're on our way. (They see a big explosion on the screen. One man escapes through the now-exposed observation window on to the planet surface proper)#
+PICARD: Make it so. We're on our way.#
 PICARD: Increase to warp nine.#
 PICARD: Doctor Crusher.#
 PICARD: Then why didn't you let him die?#
@@ -4156,7 +4186,7 @@ PICARD: Put yourself in her place. You see, she cannot kill a hornbuck at a grea
 PICARD: She's never seen a bow. It doesn't exist in her world. To you, it's a simple tool. To her, it's magic.#
 PICARD: Now, how would she react to you?#
 PICARD: Just as you fear me.#
-PICARD: Good. That's good. You see, my people once lived in caves. And then we learned to build huts and, in time, to build ships like this one.#
+PICARD: Good. That's good. You see, my people once lived in caves. And then we learned to build huts and, in time, to build ships like this one. NURIA: Perhaps one day, my people will travel above the skies.#
 PICARD: Of that, I have absolutely no doubt.#
 PICARD: You are indeed a leader.#
 PICARD: That is not in my power.#
@@ -4227,7 +4257,7 @@ PICARD: Data, can you determine for certain that the energy source from the plan
 PICARD: So there are limits to her power.#
 PICARD: So how do we cut the puppet's strings?#
 PICARD: Proceed.#
-PICARD: Mister Crusher, take us out of here. (But the Enterprise is penetrated by the energy field and klaxons sound)#
+PICARD: Mister Crusher, take us out of here.#
 PICARD: Commander La Forge, Mister Worf, come with me. Number One, you have the Bridge.#
 PICARD: Acknowledged.#
 PICARD: Lieutenant Worf, to transporter room three.#
@@ -4255,7 +4285,7 @@ PICARD: It would seen to be an ancient interplanetary code. Mister Data?#
 PICARD: Well, hardly possible, Number One. Lay in a course to the source of the signal.#
 PICARD: Put it on the viewer.#
 PICARD: With its Lang-cycle fusion engines still intact.#
-PICARD: I should hope not, Mister Data. That ship belongs in a museum. I'm afraid we're a little late. That call for help was probably initiated over a thousand years ago. Captain's log, Stardate 43205.6. We have arrived at Orelious Nine, to chart the battle in which the Menthars and Promellians fought to their mutual extinction. Among the ruins we have found a relic, a Promellian battle cruiser that has withstood the centuries.#
+PICARD: I should hope not, Mister Data. That ship belongs in a museum. I'm afraid we're a little late. That call for help was probably initiated over a thousand years ago.#
 PICARD: Indulge me, Number One.#
 PICARD: No. Captain's prerogative. This one's mine. We have examined every conceivable risk.#
 PICARD: Ghosts, perhaps? Number One, have you never dreamed of climbing inside the bottle?#
@@ -4317,7 +4347,7 @@ PICARD: But didn't your researches indicate a thousand adjustments per second wo
 PICARD: Have you analysed the risk factor?#
 PICARD: And the wish to stay alive. Make it so.#
 PICARD: Thank you, Mister La Forge, but you've done your job. Now I must do mine. I relieve you, Mister Crusher.#
-PICARD: Thank you, Number One. Firing impulse engines. (They glide past the warship. Picard wordlessly taps at controls, Data does the commentary)#
+PICARD: Thank you, Number One. Firing impulse engines.#
 PICARD: Thank you, Mister Data.#
 PICARD: You have the conn, Mister Crusher.#
 PICARD: Initiate full restart. Put all systems back online.#
@@ -4331,7 +4361,7 @@ PICARD: Doctor, it's an important consideration.#
 PICARD: The only answer he wants to give is that he was alone.#
 PICARD: Make it so.#
 PICARD: From the surface?#
-PICARD: On screen. (everyone, say Hi! to Andreas Katsoulis aka G'Kar the Narn from Babylon 5)#
+PICARD: On screen.#
 PICARD: Mister Worf, hail the Romulan vessel.#
 PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the Federation Starship Enterprise.#
 PICARD: Commander Tomalak, we have intercepted your transmission. You are not to enter Federation space.#
@@ -4394,7 +4424,7 @@ PICARD: The pleasure of your company is requested, Counsellor. We're having a li
 PICARD: Just throw on any old thing. We're about to get our first look at the wormhole.#
 PICARD: Ah, Counsellor Troi. Will you allow me to do the introductions? This is Premier Bhavani of Barzan. Counsellor Deanna Troi.#
 PICARD: You know Mister Mendoza, the Federation negotiator.#
-PICARD: This is a worthy Federation competitors in the bidding, Leyor of the Caldonians. (About eight feet tall with the prosthetic head, it's the same man who played the Predator)#
+PICARD: This is a worthy Federation competitors in the bidding, Leyor of the Caldonians.#
 PICARD: Indeed. It will be visible directly ahead.#
 PICARD: Were you expecting the Ferengi, Premier?#
 PICARD: Chief O'Brien, this is Captain Picard. Will you beam the Ferengi directly to the Observation lounge?#
@@ -4420,7 +4450,8 @@ PICARD: Yes, the stakes are higher. But then, isn't that when the game gets inte
 PICARD: Shuttle nine, stand by.#
 PICARD: Proceed when ready.#
 PICARD: Computer, is the Ferengi Goss still on board the Enterprise?#
-PICARD: Yellow alert. Hail the Ferengi. PICARD: Request an explanation of your actions, DaiMon Goss.#
+PICARD: Yellow alert. Hail the Ferengi.#
+PICARD: Request an explanation of your actions, DaiMon Goss.#
 PICARD: That is not true.#
 PICARD: Premier Bhavani welcomed you to these proceedings, despite my better judgment.#
 PICARD: Destroy it.#
@@ -4480,9 +4511,9 @@ PICARD: Sovereign, if the situation were reversed, I'm sure you would be demandi
 PICARD: Perhaps a brief pause would be helpful.#
 PICARD: You know, thank you, it is remarkable how very much alike the two of you actually are.#
 PICARD: No, I'm quite serious. You are both able negotiators, strong leaders.#
-PICARD: You're wrong, Chorgan. We've agreed to have some brandy together. (Yuta is serving Marouk when Riker beams in. He has to stun a Gatherer guard)#
+PICARD: You're wrong, Chorgan. We've agreed to have some brandy together.#
 PICARD: Chorgan, I assure you, my First Officer has a good reason for his actions. You do, Number One?#
-PICARD: Oh, yes, thank you. New orders from Starfleet. The rendezvous. Nothing, thank you. The rendezvous with the Goddard has been postponed.#
+PICARD: Oh, yes, thank you. New orders from Starfleet. The rendezvous.  Nothing, thank you. The rendezvous with the Goddard has been postponed.#
 PICARD: Starbase three four three. We're to take on medical supplies for the Alpha Leonis system.#
 PICARD: With the Gatherer truce in effect, it certainly should be. We won't require a full ship's complement. I'm going to extend shore leave on the starbase to anyone who wants it.#
 PICARD: Splendid, Data. Splendid. You're getting better and better.#
@@ -4547,7 +4578,7 @@ PICARD: No.#
 PICARD: Yes, this is all very interesting.#
 PICARD: I can't. And I won't. Unless I have unequivocal cooperation.#
 PICARD: Admiral Jarok has provided me with the locations, strengths and tactical plans of the Romulan fleet. Mister La Forge, he is prepared to give you data regarding engines, weapons and the cloaking systems of the warbird class starship. But I believe his experience as a field commander will be more valuable for its strategic sense than in the technical areas.#
-PICARD: Don't depend on it. For all we know, he may still be lying, but we shall find that out soon enough. Number One, set course for Nelvana Three. Second officer's log, stardate 43465.2. We have entered the Neutral Zone in direct violation of the Treaty of Algeron. Presuming Romulan warships are cloaked and monitoring us, we expect heavy resistance as we approach Nelvana Three.#
+PICARD: Don't depend on it. For all we know, he may still be lying, but we shall find that out soon enough. Number One, set course for Nelvana Three.#
 PICARD: You echo another noteworthy commander in a similar circumstances, Number One. A countryman of yours, George Armstrong Custer when his Seventh Cavalry arrived at the Little Big Horn.#
 PICARD: Engage impulse engines.#
 PICARD: Prepare to enter standard orbit. Data?#
@@ -4575,7 +4606,7 @@ PICARD: You will not survive ours. Shall we die together?#
 PICARD: Cancel red alert. Mister Worf, will you extend the appreciation of the Federation and my personal gratitude to the Klingons.#
 PICARD: Take us back, Number One.#
 PICARD: Today, perhaps. But if there are others with the courage of Admiral Jarok, we may hope to see a day of peace when we can take his letter home.#
-PICARD: Well, I'm greatly impressed with everything I've seen so far, Prime Minister. (The PM is played by James Cromwell, the man who would become Zephram Cochrane)#
+PICARD: Well, I'm greatly impressed with everything I've seen so far, Prime Minister.#
 PICARD: An unfortunate reality.#
 PICARD: Well, I think they'll make a fine addition to the Federation, Number One.#
 PICARD: Eluded the Enterprise?#
@@ -4618,7 +4649,8 @@ PICARD: Security team to Jefferies tube J four, deck fifteen.#
 PICARD: Explain.#
 PICARD: And you believe he's using the same tactic now.#
 PICARD: He's doubled back on us.#
-PICARD: Advise all personnel on deck thirty eight to stay out of the cargo bays. (Danar tries to activate a cargo transporter, then opens up the back of the mechanism) PICARD: Status, Mister Data?#
+PICARD: Advise all personnel on deck thirty eight to stay out of the cargo bays.#
+PICARD: Status, Mister Data?#
 PICARD: Good. I want you to flood them with anestazine.#
 PICARD: Return environmental conditions to normal, Mister Data. Move in your security teams, Mister Worf.;#
 PICARD: Pressure suit?#
@@ -4774,7 +4806,7 @@ PICARD: Perhaps there's a residue of humanity in Q after all. Ensign, en#
 PICARD: Good. Please. And feel free to examine the work of the other students too.#
 PICARD: Oh, thank you. In what way?#
 PICARD: Thank you, Mister Data.#
-PICARD: No! Thank you. Captain's log, Stardate 43610.4. After completing a delivery of dicosilium to the Tanuga Four research station, our away team has received an update from Doctor Nel Apgar on his efforts to create Krieger Waves, a potentially valuable new power source.#
+PICARD: No! Thank you.#
 PICARD: Welcome back, Mister La Forge.#
 PICARD: Where's Commander Riker?#
 PICARD: Any problems?#
@@ -4802,7 +4834,7 @@ PICARD: We may be able to assist you in recreating the events.#
 PICARD: Commander Data, this is Chief Investigator Krag. Commander, by taking testimony from the away team and from witnesses provided by the Investigator, would it be possible to programme the Holodeck to recreate what happened on the science station?#
 PICARD: Commander, will you escort Investigator Krag to Transporter Room Three.#
 PICARD: Ensign Crusher, Mister La Forge, we are going to recreate the research station here on the holodeck. I want you to work with Commander Data on the preparations. In addition, Commander La Forge and Commander Riker, I want you to give the computer detailed depositions of everything you saw, everything you heard while you were on board. Counsellor, I want you to assist me during this inquiry. My decision about the extradition will be based upon the evidence presented during these recreations.#
-PICARD: Under these circumstances, Number One, I think that would be inappropriate. Second officer's log, Stardate 43611.6. Programming of the holodeck has taken eighteen hours eleven minutes, and is now complete. All participants have entered their depositions. Technical schematics and complete records from the lab's ground computers, as well as Doctor Apgar's personal logs, have been included. The recreations will have a nominal eight point seven percent margin of error.#
+PICARD: Under these circumstances, Number One, I think that would be inappropriate.#
 PICARD: Is there anything you'd like to say before we begin, Number One?#
 PICARD: Computer, freeze programme.#
 PICARD: Resume programme.#
@@ -4852,7 +4884,7 @@ PICARD: Is it a wormhole?#
 PICARD: Mister Data?#
 PICARD: Lieutenant, what are their sensor readings? Is that an enemy vessel?#
 PICARD: Has it been adrift for all those years, or has it has travelled through time?#
-PICARD: A rift? DATA Possibly the formation of a Kerr loop from superstring material. It would require high-energy interactions occurring in the vicinity for such a structure to be formed. The rift is certainly not stable, Captain. It could collapse at any time.#
+PICARD: A rift?#
 PICARD: Belay that order, Doctor.#
 PICARD: Commander, if that ship has travelled into the future, we could be dealing with variables that will alter the flow of our history.#
 PICARD: Open a hailing frequency. This is Captain Jean-Luc Picard of the Federation, of a Federation starship. Standby to receive emergency teams. Commander, we will handle this one step at a time. Stabilise their power systems and tend to their injured, and avoid all discussions of where and when they are.#
@@ -4883,7 +4915,7 @@ PICARD: It is possible that this exchange of fire was the catalyst for the forma
 PICARD: The Narendra Three outpost was destroyed. It is regrettable that you did not succeed. A Federation starship rescuing a Klingon outpost might have averted twenty years of war.#
 PICARD: Then what would happen if the Enterprise C were to fly back through it?#
 PICARD: Right in the middle of the battle with the Romulans.#
-PICARD: Is there any possibility she could survive?#
+PICARD: Is there any possibility she could survive? DATA: None, sir.#
 PICARD: Then sending them back would be a death sentence.#
 PICARD: I need more.#
 PICARD: Then I can't ask them to go back.#
@@ -4930,7 +4962,8 @@ PICARD: Hold course, Mister Crusher. Continual fire, all phasers.#
 PICARD: Damage report.#
 PICARD: How long until the Enterprise-C enters the rift?#
 PICARD: All remaining power to the defence systems.#
-PICARD: That will be the day. (Picard jumps the rail and takes over tactical. Flames grow around him as we cut to a shot of the Enterprise being pounded by disruptor fire as C glides back into the rift. Then we're back on the Bridge, and Picard is in his 'peace-time' uniform) PICARD: Report, Lieutenant.#
+PICARD: That will be the day.#
+PICARD: Report, Lieutenant.#
 PICARD: Very well. Prepare a class one sensor probe. We'll leave it behind to monitor the final closure. Mister Crusher, lay in a course for Archer Four.#
 PICARD: Guinan? Yes everything's fine. Is something wrong?#
 PICARD: Data, I would like to have been consulted.#
@@ -5065,7 +5098,8 @@ PICARD: None? In the last three hundred years of Mizarian history, your planet h
 PICARD: Then you have no idea who might have done this.#
 PICARD: Or against you personally?#
 PICARD: I'm not suggesting anything. I'm merely trying to come up with some explanation for your abduction.#
-PICARD: Nevertheless, Mister Tholl (There's a sound and a sparkling, and a figure in leather appears on the fourth bed. He has lots of red hair and sharp teeth, and pulls a dagger) PICARD: Stop! We mean you no harm. We are prisoners, like yourself. We are not the enemy.#
+PICARD: Nevertheless, Mister Tholl#
+PICARD: Stop! We mean you no harm. We are prisoners, like yourself. We are not the enemy.#
 PICARD: We don't know. We were brought here the same way you were. Our captors refuse to show themselves.#
 PICARD: You must trust us. We wish only to return to our worlds. Were you abducted from Chalna?#
 PICARD: Oh, yes. I visited there twelve years ago, while commanding the Stargazer.#
@@ -5081,7 +5115,7 @@ PICARD: It's imperative.#
 PICARD: We can no longer afford to be patient. Unless we act soon, Esoqq will starve.#
 PICARD: I agree that's a risk, but I see no alternative.#
 PICARD: As you wish, Mister Tholl. We must get inside this panel.#
-PICARD: Stand back, Haro. (Esoqq puts his fist through the panel and rips the surround out of the wall)#
+PICARD: Stand back, Haro.#
 PICARD: Make it so.#
 PICARD: Tholl, our captors have transporters, they have stun beams. It is hardly likely that they would try to hold us at bay with a knife.#
 PICARD: Tholl, I asked her to open the door.#
@@ -5136,7 +5170,7 @@ PICARD: Oh, I'm sure.#
 PICARD: Unfortunately, this vessel is about to undergo extensive repairs requiring my personal supervision.#
 PICARD: Some other time, Number One.#
 PICARD: Your mother?#
-PICARD: Did she? Commander, could I have a word with you? (As Riker and Picard leave, Deanna clasps her hands and mouths Yes!#
+PICARD: Did she? Commander, could I have a word with you?#
 PICARD: Tell me, Number One, is the entire crew aware of this little scheme to send me off on holiday?#
 PICARD: I suppose this means I can look forward to a week of continual harassment on this subject?  I admit, I've been feeling a little fatigued.#
 PICARD: I thought I'd take some light reading in case I got bored.#
@@ -5158,7 +5192,8 @@ PICARD: Riker!#
 PICARD: I don't even know what it means. The Horga'hn is for a friend.#
 PICARD: That's right.#
 PICARD: I wouldn't go that far.#
-PICARD: That is all I ask. (Joval leaves, Picard hides the naughty statuette under a towel. Then a Ferengi casts a shadow over him) PICARD: You're blocking the suns.#
+PICARD: That is all I ask.#
+PICARD: You're blocking the suns.#
 PICARD: Are you addressing me?#
 PICARD: I don't know what the devil you're talking about. But whatever it is, I assure you it's no concern of mine.#
 PICARD: Perhaps I have not made myself clear. You have the wrong man.#
@@ -5190,7 +5225,7 @@ PICARD: I gather you were unsuccessful.#
 PICARD: And your search led you to me?#
 PICARD: I'm sorry to disappoint you, but I haven't found anything, including peace, which is the only thing I'm looking for.#
 PICARD: And if I do find it, what then?#
-PICARD: Well, the Uthat belongs to your time, not mine. (The aliens touch the sides of their heads, and vanish. Then Picard discovers the disc Vash dropped into his pocket)#
+PICARD: Well, the Uthat belongs to your time, not mine.#
 PICARD: May I come in?#
 PICARD: Is this what he's looking for?#
 PICARD: This disc must contain some very valuable information.#
@@ -5226,7 +5261,7 @@ PICARD: Hmm. Well, we should get some sleep.#
 PICARD: That happens to be why I came to Risa.#
 PICARD: Excitement? Spending in a damp cave? Chasing after something we shall probably never find?#
 PICARD: Yes,#
-PICARD: Good. Now, let's get some sleep. (They're sharing the bedding. Picard rolls over and takes all the blanket with him. Vash tugs it back)#
+PICARD: Good. Now, let's get some sleep.#
 PICARD: Now that was a simple misunderstanding.#
 PICARD: You are outrageous.#
 PICARD: You call this getting along?#
@@ -5261,7 +5296,8 @@ PICARD: A very dangerous piece. Were you really going to give this to the Daystr
 PICARD: I assume the Vorgons have proof to back up their claim.#
 PICARD: You're going to have to prove that you are who you say you are.#
 PICARD: But not necessarily to you.#
-PICARD: Enterprise. Code fourteen. Lock on present coordinates. Two second delay. Mark! (He puts the crystal on the ground and goes to Vash. The crystal explodes before Ajur can reach it) PICARD: Are you all right?  Go. Return to your own time. There's nothing for you here.#
+PICARD: Enterprise. Code fourteen. Lock on present coordinates. Two second delay. Mark!#
+PICARD: Are you all right?  Go. Return to your own time. There's nothing for you here.#
 PICARD: Somehow I doubt you'd find life aboard a starship suitable to your taste.#
 PICARD: So, what are your plans?#
 PICARD: Unbelievable! You are out of your mind! The Sarthongians are merciless to trespassers.#
@@ -5302,7 +5338,8 @@ PICARD: Yes, well, he's evidently done more than hold together. He's the indispe
 PICARD: Status report, Number One?#
 PICARD: Grand.#
 PICARD: On screen.#
-PICARD: Magnify. (And a thing that is built like a magnified hair, with the overlapping scales) PICARD: Remarkable. Computer locate Tam Elbrun.#
+PICARD: Magnify.#
+PICARD: Remarkable. Computer locate Tam Elbrun.#
 PICARD: Of course.#
 PICARD: Yellow Alert. On screen.#
 PICARD: Go to Red Alert. Shields to maximum.#
@@ -5359,7 +5396,7 @@ PICARD: And yet he chose this way of life. He has made the same commitment to St
 PICARD: Try harder, Geordi. He's a member of your team. Try to find some way to help him to make a positive contribution. Get to know the man better. Make him your best friend.#
 PICARD: Then I suggest you put your personal discomfort on one side, Commander. Dismissed.#
 PICARD: Will your investigation affect our available power during the mission?#
-PICARD: Good. I look forward to your report, Mister Broccoli. (big silence) Barclay.#
+PICARD: Good. I look forward to your report, Mister Broccoli.  Barclay.#
 PICARD: In God's name, where did you learn to fight like this, man?#
 PICARD: Who is that? One of your allies?#
 PICARD: Is this part of the same pattern?#
@@ -5403,7 +5440,9 @@ PICARD: What are you suggesting, Lieutenant?#
 PICARD: I'm sure you have done a complete investigation, and if you wish to continue it, of course you have my support. But we shall be reaching the Beta Agni system shortly, and I expect you to be rested.#
 PICARD: Dismissed. Geordi, I understand how much we want, even need, to explain an accident like this. Sometimes there just aren't any explanations.#
 PICARD: We must select an officer to replace Data at Ops. Recommendations?#
-PICARD: Mine as well. Make it so. (Picard opens the copy of Shakespeare that has been returned to him at Data's bookmark. It's Hamlet, Act 1, Scene 2) PICARD: Go ahead, Commander.#
+PICARD: Mine as well. Make it so.#
+PICARD:#
+PICARD: Go ahead, Commander.#
 PICARD: Mister Crusher, put us into close orbit. Mister Data, scan. My apologies, Mister Worf. Scan the colony's subsurface water.#
 PICARD: Any indication of the source?#
 PICARD: Launch probe.#
@@ -5449,7 +5488,7 @@ PICARD: Good evening.#
 PICARD: I assume the work is progressing on the conference room?#
 PICARD: Ambassador Sarek, Perrin, on behalf of the entire crew, welcome.#
 PICARD: Commander Data will be our featured soloist this evening.#
-PICARD: At your convenience, Mister Data. Please. (The Ambassador's party sit in front of Picard. The lights dim and the string quartet plays. Later, they get to sad, emotional piece. Deanna notices Sakkath watching Sarek intently. A single tear rolls down Sarek's cheek. Perrin gently wipes it away, and the party leave quietly)#
+PICARD: At your convenience, Mister Data. Please.#
 PICARD: Are you suggesting this is somehow contagious?#
 PICARD: This is a hell of a time. Whatever it is, I don't want it to affect the Ambassador. I want his quarters isolated from the rest of the crew until we've identified the cause.#
 PICARD: Sarek?#
@@ -5534,7 +5573,7 @@ PICARD: Good. Contact Commander Riker on Betazed.#
 PICARD: On screen.#
 PICARD: Our communications have been blocked by the nebula, Reittan. Is there a problem?#
 PICARD: Now we now have a reasonable hypothesis as to whom.#
-PICARD: Commander Riker will assume that we'll be searching for them. He'll find some way to send us a message. Mister Worf, I want continual monitoring of Ferengi subspace frequencies. Mister La Forge, can you extend our sensor range?#
+PICARD: Commander Riker will assume that we'll be searching for them. He'll find some way to send us a message.#
 PICARD: Make it so.#
 PICARD: Not until we have someplace to go.#
 PICARD: Can you locate the Krayton?#
@@ -5555,7 +5594,7 @@ PICARD: Er, er. It's not over between us, Lwaxana. You're mine and I will not le
 PICARD: My love is a fever, longing still for that which longer nurseth the disease.#
 PICARD: In faith, I do not love thee with mine eyes, for they in thee a thousand errors see. But 'tis my heart that loves what they despise, who in despite of view are please'd to dote. Shall I compare the to a summer's day? Thou art more lovely and more temperate.#
 PICARD: Listen, Tog, I must possesses Lwaxana. And if that means destroying your ship in the process, so be it.#
-PICARD: When I have plucked the rose, I cannot give it vital growth again. It needs must wither. Nine, eight. 'Tis better to have loved and lost than never to have loved at all. (Tennyson, In Memoriam, 27) Seven, six#
+PICARD: When I have plucked the rose, I cannot give it vital growth again. It needs must wither. Nine, eight. 'Tis better to have loved and lost than never to have loved at all.#
 PICARD: Five, four#
 PICARD: Two, one#
 PICARD: Such as my reporting this incident to your superiors who may question your competency as DaiMon? I will think about it. Screen off.#
@@ -5581,7 +5620,6 @@ PICARD: Cell regeneration?#
 PICARD: Do you have a theory as to the cause?#
 PICARD: I envy your strength of will. Doctor Crusher has been keeping me informed of your progress. It's quite extraordinary.#
 PICARD: Are you still unable to recall anything about your past?#
-PICARD: I'm quite sure of that. Have you any idea how you came to be in that escape pod, or what happened to the ship?#
 PICARD: Have you tried synaptic induction?#
 PICARD: Not a relapse I hope.#
 PICARD: You still have no theory as to what's causing it?#
@@ -5655,7 +5693,7 @@ PICARD: Move to intercept.#
 PICARD: On screen. Magnify.#
 PICARD: Mister Worf, dispatch a subspace message to Admiral Hanson. We have engaged the Borg.#
 PICARD: I am?#
-PICARD: On screen. I am Jean Luc (The viewscreen just shows the inside of the cube. The voice is made up of many speaking as one)#
+PICARD: On screen. I am Jean Luc#
 PICARD: You have committed acts of aggression against the United Federation of Planets. If you do not withdraw immediately#
 PICARD: Their priorities seem to have changed. Open.#
 PICARD: We have developed new defence capabilities since our last meeting and we are prepared to use them if you do not withdraw from Federation space.#
@@ -5685,6 +5723,7 @@ PICARD: Fire at will. Continue rotating shield frequency.#
 PICARD: I have nothing to say to you, and I will resist you with my last ounce of strength.#
 PICARD: Impossible. My culture is based on freedom and self determination.#
 PICARD: We would rather die.#
+PICARD: Mister Worf, dispatch a subspace message to Admiral Hanson. We have engaged the Borg.#
 PICARD: You may speak.#
 PICARD: Beverly. Crusher. Doctor.#
 PICARD: I am on board the Enterprise.#
@@ -5699,7 +5738,7 @@ PICARD: Almost human. With just a bit of a headache.#
 PICARD: Everything. Including some brilliantly unorthodox strategy from a former first officer of mine.#
 PICARD: Have they estimated time for repairs?#
 PICARD: Permission granted. They've picked a fine officer for the task force, Commander.#
-PICARD: Make it so, Number One. (Picard picks up his tea, then stiffens and puts the cup down again. He goes to the window and stands looking out at ?)#
+PICARD: Make it so, Number One.#
 PICARD: Maintain an open channel.#
 PICARD: And issue a general distress call. Yes, Mister Data, I know.#
 PICARD: Position?#
@@ -5733,7 +5772,8 @@ PICARD: Ah. Yes, well, that wouldn't work here.#
 PICARD: Well, I'm sure you'll see there's nothing here to appeal to a young person.#
 PICARD: Put that down, please.#
 PICARD: Yes. Would you put it back where you got it.#
-PICARD: Well. Here we are, eh, Jono? PICARD: I notice you haven't taken off your gloves.#
+PICARD: Well. Here we are, eh, Jono?#
+PICARD: I notice you haven't taken off your gloves.#
 PICARD: Why not?#
 PICARD: Jono, your Captain, Endar, has he ever hurt you? Inflicted pain?#
 PICARD: Then he has?#
@@ -5758,7 +5798,7 @@ PICARD: Well, you were born Jeremiah on Galen Four. The colony was destroyed lat
 PICARD: You see? You knew how to laugh once. Do you remember any of this, Jono? Your parents, your home?#
 PICARD: Jono, your parents were killed by Talarians.#
 PICARD: Yes, what is it, Number One?#
-PICARD: Hey, hey! You stay put. I'm on my way, Number One. (Picard leaves, and Jono takes a look at some more of the pictures. He remembers)#
+PICARD: Hey, hey! You stay put. I'm on my way, Number One.#
 PICARD: Status, Mister Data?#
 PICARD: Are its weapons systems active?#
 PICARD: On screen.#
@@ -5795,7 +5835,8 @@ PICARD: Jono.#
 PICARD: Jono, let me show you what I do when I get those feelings. Come on.#
 PICARD: Now, you can serve from within either of these two sections by bouncing the ball and hitting it into that top centre target. You have to return the ball before it bounces twice. Alright? Let's try it.#
 PICARD: Not bad.#
-PICARD: I can believe it. (This time it's a longer and more competitive rally, until Jono clutches his head. He's hearing memories again) PICARD: Jono? You all right?#
+PICARD: I can believe it.#
+PICARD: Jono? You all right?#
 PICARD: It's all right. It's all right.#
 PICARD: It's part of being human, Jono. But, as deeply as you can feel hurt, you can also feel joy.#
 PICARD: Oh, he gave me quite a game for his first time out.#
@@ -5941,7 +5982,8 @@ PICARD: Right?#
 PICARD: Why didn't you break a few rules?#
 PICARD: Look after me? You? You were a bully.#
 PICARD: All right. Try it now.#
-PICARD: Damn you! (And he punches his brother, sending him flying over some barrels into the vineyard proper. There they fight in the muddy irrigation ditches, through the vines until they finally fall back laughing); PICARD: You were asking for it, you know.#
+PICARD: Damn you!#
+PICARD: You were asking for it, you know.#
 PICARD: You don't know, Robert. You don't know. They took everything I was. They used me to kill and to destroy, and I couldn't stop them. I should have been able to stop them! I tried. I tried so hard, but I wasn't strong enough. I wasn't good enough. I should have been able to stop them. I should! I should!#
 PICARD: You know, I think you were right after all. I think I did come back so that you could help me.#
 PICARD: It's entirely my fault, Marie.#
@@ -6013,7 +6055,7 @@ PICARD: Nine point six.#
 PICARD: Slow to impulse.#
 PICARD: It could have been damaged by the explosion. They may have been able to maintain orbit.#
 PICARD: Hail the colony.#
-PICARD: Number One, ready an away team. Captain's log, supplemental. We are in orbit above Turkana Four, an Earth colony that severed relations with the Federation nearly fifteen years ago. I am concerned about sending an away team, but if we are to discover the fate of the two missing Federation crewmen, I see no alternative.#
+PICARD: Number One, ready an away team.#
 PICARD: Why?#
 PICARD: Coalition. Alliance. It all sounds so reasonable, but what you've described is the behaviour of urban street thugs. We certainly won't trade weapons for crewmen. How do you suggest we deal with them?#
 PICARD: For now, Hayne's Coalition is our only safe access to the colony. We'll keep the door open, see where it leads us.#
@@ -6079,7 +6121,8 @@ PICARD: On screen.#
 PICARD: In good time, Duras.#
 PICARD: The Sonchi ceremony will take place in one hour aboard K'mpec's ship.#
 PICARD: There is no delay. It is the time I have chosen.#
-PICARD: Picard out. PICARD: Contact Gowron's ship. Tell him to meet us aboard K'mpec's vessel. Ambassador, meet me in Transporter room six in an hour. We will begin the ceremony a little late. Mister Worf.#
+PICARD: Picard out.#
+PICARD: Contact Gowron's ship. Tell him to meet us aboard K'mpec's vessel. Ambassador, meet me in Transporter room six in an hour. We will begin the ceremony a little late. Mister Worf.#
 PICARD: Worf, the next few days will be difficult for you#
 PICARD: I want you to know that I am aware of your discomfort.#
 PICARD: Ambassador K'Ehleyr will be preparing me for my role in the rite of succession.#
@@ -6110,7 +6153,7 @@ PICARD: No. Mister Worf, we have a conspiracy on our hands that could be a direc
 PICARD: As Chief Security Officer, you will accompany me to the next transition proceeding.#
 PICARD: Yes, it will.#
 PICARD: Both your claims have been properly made and recorded. We are ready for the final phase of the ja'chuq. There will be a recess while I review your petitions. I'm sure you're as concerned as I am about the explosion aboard K'mpec's vessel. I assume that you are both continuing your investigations?#
-PICARD: Now that's very surprising. Our analysis turned up some startling results. (into comm.) Will you join us, Lieutenant?#
+PICARD: Now that's very surprising. Our analysis turned up some startling results.  Will you join us, Lieutenant?#
 PICARD: It is my prerogative to investigate anything that may be relevant to the Rite of Succession. Lieutenant Worf is my Chief Security Officer. His presence is required.#
 PICARD: If you wish to withdraw from the ja'chuq, that is your option. Proceed, Mister Worf.#
 PICARD: A Romulan device.#
@@ -6182,7 +6225,7 @@ PICARD: Any luck with the tricorder, Ensign?#
 PICARD: Excellent. Our communicators may not be able to get a signal through this strong a magnetic field. I'm fashioning an arrow. If a search party finds the wreckage, they'll know we've headed for those mountains.#
 PICARD: We can't survive in this sun. Where there's mountains, there's shelter.#
 PICARD: Thank you, Ensign, that's enough. Captain Dirgo, you're an able pilot. I welcome your input. Do you feel that there is an alternative we're overlooking?#
-PICARD: Very well. I suggest a steady pace, not a brisk one. We need to ration our energy. Try breathing through your nose. That way it will help to prevent dehydration. I'll lead. Captain Dirgo, will you bring up the rear? (Dirgo says farewell to his ship, picks up the medical bag and off they trudge)#
+PICARD: Very well. I suggest a steady pace, not a brisk one. We need to ration our energy. Try breathing through your nose. That way it will help to prevent dehydration. I'll lead. Captain Dirgo, will you bring up the rear?#
 PICARD: Mister Crusher?#
 PICARD: Energy reading? What kind?#
 PICARD: Ensign, are you suggesting this energy is not naturally occurring?#
@@ -6196,15 +6239,16 @@ PICARD: Mister Crusher, stow that with the medical supplies. Keep your eye on it
 PICARD: Mister Crusher what was that?#
 PICARD: Put there to protect the water.#
 PICARD: Mister Dirgo, I think it would be wiser#
-PICARD: Dirgo! (some things rush into the cavern, rather like the seraphim from Raiders of the Lost Ark) PICARD: Stop firing!#
-PICARD: Wesley! (Picard pushes Wesley aside then gets buried under falling rocks himself)#
+PICARD: Dirgo!#
+PICARD: Stop firing!#
+PICARD: Wesley!#
 PICARD: Ensign, how bad is it?#
 PICARD: Well done. I'm going to be fine. I just need to get my breath.#
 PICARD: Mister Dirgo, I would appreciate it if you didn't bury me before I'm gone.#
 PICARD: The trouble is, he could be right.#
 PICARD: Wesley, you are going to have to keep a rein on Dirgo. He's wilful and stubborn. That's dangerous.#
 PICARD: Wesley, listen to me. I have no feeling in my right leg. My vision is blurred. I'm going to get worse, not better. I'm not going to be able to help you. Now, you are going to have to stand up to Dirgo on your own.#
-PICARD: Hey. Good man. First Officer's log, stardate 44307.6. Radiation levels on the Enterprise continue to rise. The ventilation system has started pumping hyronalin into our air supply to counteract the effects.#
+PICARD: Hey. Good man.#
 PICARD: Cold.#
 PICARD: Good. Thank you. I'm not much good to you, Wesley.#
 PICARD: I'm trying.#
@@ -6266,7 +6310,7 @@ PICARD: Yes, Counsellor. Sit down, please. Our situation has become critical. Th
 PICARD: Less than five hours. Which is why I have called you.#
 PICARD: All that remains is the possibility of communication. There might be some way that we can warn them of their impending destruction.#
 PICARD: He has tried every technical means at our disposal to reach them.#
-PICARD: If there is a psychology to these creatures, we must discover it. If there is an explanation for their behaviour, we must know what it is. Even in your current condition, you are the most qualified person aboard this ship to assist. Data is in Observation attempting to formulate a strategy. I want you to join him. Deanna, we need you. Captain's log, supplemental. If our speed and course remain unchanged, in one hour the Enterprise will be torn apart by the gravitational forces of the cosmic string fragment.#
+PICARD: If there is a psychology to these creatures, we must discover it. If there is an explanation for their behaviour, we must know what it is. Even in your current condition, you are the most qualified person aboard this ship to assist. Data is in Observation attempting to formulate a strategy. I want you to join him. Deanna, we need you.#
 PICARD: How do you simulate a cosmic string? It has the gravitational force of a hundred stars.#
 PICARD: How much time do we have, Mister Worf?#
 PICARD: Make it so.#
@@ -6346,7 +6390,7 @@ PICARD: Of course you are concerned, Gul Macet. It is precisely because of that 
 PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provide some insights. Mister O'Brien, I understand that Captain Maxwell lost his family during a raid on an outpost.#
 PICARD: Gentlemen, please, let's not indulge in speculation. Can we confine our discussion to facts? Now, Mister O'Brien#
 PICARD: Go ahead, Mister Worf.#
-PICARD: Gul Macet, will you join me on the Bridge? (O'Brien and the aides leave by a different door. note - Daro is pale, Telle is dark)#
+PICARD: Gul Macet, will you join me on the Bridge?#
 PICARD: Ensign, set a course, warp six. Mister Worf, send a message by subspace. Tell them to prepare for a rendezvous.#
 PICARD: Yes?#
 PICARD: I'm sure that's true. However, given the circumstances, I would prefer to make the initial contact myself. I'm sure you would, if the situation were reversed.#
@@ -6474,7 +6518,7 @@ PICARD: We are capable of recreating all of these events. It's just that she dre
 PICARD: Exactly.#
 PICARD: Number One, I want you and Mister Worf to run high resolution scans of this star system. Look for a ship, a base of operations, anything large enough to generate that power. Mister La Forge, accompany Doctor Clark back to the science station. See if you can trace the origin of these tremors.#
 PICARD: Either leave my Bridge or I will remove you by force.#
-PICARD: Mister Worf. (Worf is knocked back by a force field. Ardra gets up and strokes Picard's hand)#
+PICARD: Mister Worf.#
 PICARD: Transporter room three, lock on to the intruder and transport her to the planet surface.#
 PICARD: Ensign, put up the shields until further notice.#
 PICARD: Report, Mister Data.#
@@ -6546,7 +6590,7 @@ PICARD: No, that's true. I'm not Ardra. but I can create tremors just as she did
 PICARD: Of course. Ardra, will you would do the honours and stop the tremors?#
 PICARD: Is something the matter?#
 PICARD: Well, I don't.#
-PICARD: You Recognise the old bag of tricks? What about this one? Come back, Ardra, if you can. No? Fine, allow me#
+PICARD: You Recognise the old bag of tricks? What about this one?  Come back, Ardra, if you can. No? Fine, allow me#
 PICARD: Impudence?#
 PICARD: Your Honour, I appreciate your indulgence. Allow me to explain. A team from the Enterprise has taken control of this woman's ship now in orbit around Ventax Two. Thank you for your help, Number One.#
 PICARD: They have been monitoring me on my communicator, executing a prearranged programme on her ship's computer, a fairly ingenious combination of force-field projection, holography and transporter effects. Ardra controls her magic literally by the blink of an eye. Centuries old technology. An implant which permits the movements of her eye to choose and activate each illusion. Ardra once told us that she is known by many names. Well, at least in that she was being honest. Her crew has admitted that she is known by twenty three aliases in this sector alone.#
@@ -6701,7 +6745,8 @@ PICARD: There is a difficulty here, one that has forced us to accelerate this en
 PICARD: What about Durken?#
 PICARD: But with the disappearance of Commander Riker, wouldn't it be prudent#
 PICARD: And this is the Bridge.#
-PICARD: Here we have Environmental and Engineering stations, mission operations, and the two principal science stations. PICARD: Data, allow me to introduce Chancellor Avel Durken and Space Administrator Mirasta Yale.#
+PICARD: Here we have Environmental and Engineering stations, mission operations, and the two principal science stations.#
+PICARD: Data, allow me to introduce Chancellor Avel Durken and Space Administrator Mirasta Yale.#
 PICARD: Commander Data is my Second Officer.#
 PICARD: Certainly.#
 PICARD: Mister Data, will you escort the Minister to the transporter room? Chancellor.#
@@ -6767,8 +6812,9 @@ PICARD: No, Number One. We've done all we can to help. Now it's time to move on.
 PICARD: Very well. Five hundred kph. Ensign. Engage.#
 PICARD: Seventeen degrees to port, Ensign.#
 PICARD: Evasive manoeuvres, full.#
-PICARD: On screen. (Baby is sitting at the back of the saucer section, the lights fluctuate) PICARD: Mister Data?#
-PICARD: None, Lieutenant. None at all. Captain's log, supplemental. Since the newborn has attached itself to the hull, it has been making greater and greater demands on the ship's energy, but we have been able to stabilise our power systems temporarily.#
+PICARD: On screen.#
+PICARD: Mister Data?#
+PICARD: None, Lieutenant. None at all.#
 PICARD: How long before the power drain becomes critical, Mister La Forge?#
 PICARD: Your help would be appreciated, Doctor.#
 PICARD: Mister Data, is there any way to determine what the destination of the parent might have been?#
@@ -6795,14 +6841,16 @@ PICARD: Come.#
 PICARD: What could have caused such an event? Drugs? A virus? Poison?#
 PICARD: Come.#
 PICARD: Come.#
-PICARD: Yes, yes. (he gets to the door, it opens and there is no one there so he returns to his desk, and the doorbell chimes again, and again, and again. Then someone actually knocks at the door) PICARD: Come.#
+PICARD: Yes, yes.#
+PICARD: Come.#
 PICARD: What?#
 PICARD: Explain.#
 PICARD: Are we talking about hallucinations?#
 PICARD: But everything started when we found the Brittain?#
 PICARD: We're preparing to take the Brittain in tow. We'll be on our way within the hour.#
 PICARD: Ensign, manoeuvre us into tractor beam range.#
-PICARD: Report to Sickbay, Ensign Rager. PICARD: Ready tractor beam, Mister Worf.#
+PICARD: Report to Sickbay, Ensign Rager.#
+PICARD: Ready tractor beam, Mister Worf.#
 PICARD: Impulse engines. Ahead, minimum power.#
 PICARD: Go to warp engines, factor one. Engage.#
 PICARD: We have no functional propulsion systems?#
@@ -6973,7 +7021,8 @@ PICARD: Ladies and gentlemen, members of the Archaeology Council. Welcome. Myste
 PICARD: Needless to say, I've not succeeded.#
 PICARD: However, I have, I believe, turned up some new information, that, if nothing else, raises a whole new set of mysteries and I hope that we can discuss them here together.#
 PICARD: There have been nine hundred and forty seven known archaeological excavations conducted on the planet's surface. Of those, some seventy four are generally believed to have revealed findings of major importance.#
-PICARD: The earliest was some twenty two thousand years ago. (He notices what has been happening to his staff, then he is redressed in Errol Flynn era clothing with a long bow) PICARD: What the hell?#
+PICARD: The earliest was some twenty two thousand years ago.#
+PICARD: What the hell?#
 PICARD: Q!#
 PICARD: I doubt there are many oak trees on Tagus. No, I think this is supposed to be Earth, somewhere round about the twelfth century. And this is England, or to be more precise, Sherwood Forest. Or at least Q's recreation of it.#
 PICARD: Quite right, Number One. Or should I say, John Little.#
@@ -7129,7 +7178,8 @@ PICARD: Yes, indeed.#
 PICARD: Lwaxana, as a matter of fact, I am rather busy at the moment.#
 PICARD: Yes, the leading scientist of Kaelon Two and#
 PICARD: Well, Lwaxana, it is something of a rather delicate situation&gt; It's the first real contact with a rather reclusive race, and this is in the nature of an official greeting, so#
-PICARD: Mister O'Brien, energise. (Charles Emerson Winchester III beams in, having escaped from the 4077 MASH) PICARD: Doctor Timicin. I'm Jean-Luc Picard, Captain of The Enterprise. This is Lieutenant Commander La Forge.#
+PICARD: Mister O'Brien, energise.#
+PICARD: Doctor Timicin. I'm Jean-Luc Picard, Captain of The Enterprise. This is Lieutenant Commander La Forge.#
 PICARD: I beg your pardon. Doctor Timicin, allow me to present Lwaxana Troi of Betazed. She's also a guest on board, and#
 PICARD: Lwaxana, we have quite a bit of work planned.#
 PICARD: It seems that Mrs Troi is our acting ambassador of goodwill for today.#
@@ -7261,7 +7311,7 @@ PICARD: Are you suggesting there was a Romulan accomplice in close proximity to 
 PICARD: I will certainly grant you asylum, when you have been absolved of this crime.#
 PICARD: Report, Mister Data.#
 PICARD: It's worth a look. We'll continue our survey along the way.#
-PICARD: Yes, I've heard, Data, and I would be delighted to offer any advice I can on understanding women. When as I have some, I'll let you know. Second Officer's personal log, stardate 44935.6. After conferring with my colleagues regarding the nature of romantic love in general, and my own situation in particular, I have reached a decision.#
+PICARD: Yes, I've heard, Data, and I would be delighted to offer any advice I can on understanding women. When as I have some, I'll let you know.#
 PICARD: Estimated time of arrival, Mister Data?#
 PICARD: You have the Bridge, Number One.#
 PICARD: Picard to Lieutenant Worf.#
@@ -7329,7 +7379,7 @@ PICARD: I don't know. But there is too much history between the Duras and the Ro
 PICARD: Come.#
 PICARD: Mister Worf, request granted.#
 PICARD: Lieutenant. Qapla!#
-PICARD: And good luck. Lieutenant Worf, personal log, stardate 44996.1. I have located the Klingon ship on which my brother Kurn serves as captain, and have arranged to join him.#
+PICARD: And good luck.#
 PICARD: Qaja plu d'itch jung. La woq you ghir klas qimha. Gowron. Doj hon. Doj hon.#
 PICARD: Mister Worf. Have you cancelled your leave?#
 PICARD: Lieutenant, would you join me in my Ready room?#
@@ -7377,7 +7427,7 @@ PICARD: And some would say they must be getting help. The Romulans are prepared 
 PICARD: We must stop the flow of supplies and equipment to the Duras from the Romulans. What I propose is that we send a fleet to the Romulan-Klingon border. We'll take no offensive action, but we will be in a position to expose any Romulan supplies that attempt to cross the border.#
 PICARD: Exactly.#
 PICARD: My Chief Engineer has developed a system that should nullify that advantage. Each ship will send out an active tachyon beam to the other blockading ships. Now, in theory, any cloaked vessel that attempts to pass between our ships must cross that beam and be detected.#
-PICARD: So do I, Number One. Captain's log, stardate 45021.3. Convincing Starfleet Command to establish a blockade was relatively painless. Implementing that plan is proving more troublesome.#
+PICARD: So do I, Number One.#
 PICARD: Mister La Forge, can you implement your tachyon detection grid with twenty ships?#
 PICARD: All right. I want to add the Tian Nan Men, the Sutherland and the Hermes, whether the yard superintendent says they're ready or not. Mister Data, will you select a group of experienced Enterprise officers to augment the crews of those ships.#
 PICARD: Will, I want you to command the Excalibur. Her crew was reassigned when she put in for repairs. Geordi, you will be his First Officer.#
@@ -7449,7 +7499,7 @@ PICARD: Shaka indeed. What now, Captain? Will you attack me in my sleep? If I do
 PICARD: Picard of the Federation. Of the starship Enterprise. Of the planet Earth.#
 PICARD: Temba? What does that mean? Fire? Does Temba mean fire?#
 PICARD: Temba is a person? His arms wide. Because he's holding them apart in, in generosity. In giving. In taking.#
-PICARD: Thank you. Thank you. First Officer's log, supplemental. I am sending a shuttlecraft to find Captain Picard, gambling that the Tamarians will sit tight rather than risk an exchange of phaser fire.#
+PICARD: Thank you. Thank you.#
 PICARD: Now, where have you gone to, my friend?#
 PICARD: Forgive the intrusion, Captain, but I need some answers.#
 PICARD: A captain's log?#
@@ -7463,7 +7513,7 @@ PICARD: At Lashmir? Was it like this at Lashmir? A similar situation to the one 
 PICARD: A strategy, with fist open. With fist open.#
 PICARD: With fist closed. An army with fist open to lure the enemy. With fist closed to attack? That's how you communicate, isn't it? By citing example. By metaphor. Uzani's army with fist open.#
 PICARD: No!#
-PICARD: when the walls fell. First Officer's log, stardate 45048.8. Our attempt to transport Captain Picard back to the ship has failed. My options are narrowing and my patience is all but gone.#
+PICARD: when the walls fell.#
 PICARD: Our situation is similar to theirs. I understand that. But I need to know more. You must tell me more about Darmok and Jalad. Tell me. You used the words, 'Temba, his arms wide' when you gave me the knife and the fire. Could that mean give? Temba, his arms wide. Darmok. Give me more about Darmok.#
 PICARD: Darmok.  The ocean. Darmok on the ocean. A metaphor? For being alone? Isolated? Darmok on the ocean.#
 PICARD: Are you alright?#
@@ -7521,14 +7571,14 @@ PICARD: Proceed with the transport.#
 PICARD: I'll fill you in later.#
 PICARD: I hope you and I don't regret this, Admiral.#
 PICARD: They'll have to learn to live with it.#
-PICARD: I would expect nothing less. It won't be for long, Will. Come.#
+PICARD: I would expect nothing less. It won't be for long, Will.  Come.#
 PICARD: Yes, Ensign Laren, please have a seat.#
 PICARD: I beg your pardon?#
 PICARD: I'm sorry, I didn't know.#
 PICARD: I wish to be candid with you, Ensign.#
 PICARD: I'm fully aware of your Starfleet record, your problems on other ships, and the incident on Garon Two that led to your court martial. And I'm concerned about your presence on this delicate mission.#
 PICARD: Nevertheless, we will all be serving together. Commander Riker and I have expectations of you.#
-PICARD: Dismissed. Captain's log, supplemental. We are approaching the Valo system on the outskirts of Cardassian territory, where many Bajorans have resettled.#
+PICARD: Dismissed.#
 PICARD: What can you tell us about him, Doctor?#
 PICARD: And that's a big advantage on this mission. Very well. Mister Data, will you contact Holza, arrange a meeting?#
 PICARD: Well, let's hope that you're mistaken, Ensign. But can you point us at the right individual, as Mister Data suggested?#
@@ -7575,7 +7625,7 @@ PICARD: Have you made this offer to Orta?#
 PICARD: That was a wise choice, Ensign. It probably saved you from another court martial. Have you briefed Admiral Kennelly since we returned from the surface?#
 PICARD: Then we have one thing in common. Do you think that Orta would cooperate with us to determine the truth here?#
 PICARD: Good. Our orders were to find him, to bring him back to the camps any way we could. Perhaps that is exactly what we should do.#
-PICARD: And then watch what happens. Captain's log, supplemental. I have become convinced that we are somehow involved in a conspiracy. I am hopeful the purpose behind it will be revealed in the next few hours.#
+PICARD: And then watch what happens.#
 PICARD: It was a team effort, Admiral. Ensign Ro was invaluable.#
 PICARD: The Enterprise will escort a Bajoran Antares class carrier to the Valo Three camp at oh five hundred hours. Orta and his people will be aboard.#
 PICARD: Acknowledged. How's that Cardassian virus, Admiral?#
@@ -7665,7 +7715,7 @@ PICARD: How strong are your shields, Captain?#
 PICARD: Do you carry weapons?#
 PICARD: Kallisko, change course. Take evasive action. Do whatever you can to outrun it.#
 PICARD: Mister Worf, try to reestablish.#
-PICARD: Ensign, set a course for the Kallisko. Mister Riker, prepare an away team. Captain's log, stardate 45125.7. An away team led by Commander Riker has conducted a thorough survey of the alien ship Kallisko, and has returned to the Enterprise to report.#
+PICARD: Ensign, set a course for the Kallisko. Mister Riker, prepare an away team.#
 PICARD: No, we don't have time for that now. Mister Worf, send a message to the nearest starbase. Ask them to dispatch a crew.#
 PICARD: Mister La Forge, make certain that we're still picking up the gamma radiation pattern of the Entity.#
 PICARD: Have you and Commander Data made any progress in finding a means of communication?#
@@ -7695,14 +7745,16 @@ PICARD: No, I'm afraid not. But we will be visiting the hydroponics and astrophy
 PICARD: Well. If you'll come with me.#
 PICARD: I want you to know we're very proud of the science fair winners. Perhaps some of you will choose to pursue a career in Starfleet. Well, then. What did you do for your science projects?#
 PICARD: I see. That's very, very commendable. And you?#
-PICARD: How interesting. And you ; PICARD: We're falling! (all over the ship, power drops and everything is shaken violently. Red Alert goes off automatically)#
+PICARD: How interesting. And you#
+PICARD: We're falling!#
 PICARD: Are you, are you children all right?#
 PICARD: Bridge, this is Picard. This is the Captain. Can anyone hear me?#
 PICARD: I don't know.#
 PICARD: They're not dead. Communication is down, that's all.#
 PICARD: We most certainly are not. Now listen to me. No one here is going to die. The bridge will be sending a rescue party as soon as possible. So I want you all to stop crying. Everything is going to be all right.#
 PICARD: The external power is cut off.#
-PICARD: I don't know. (Marissa helps Picard stand. He tries to reach the hatch in the ceiling but misses) PICARD: Your name is Marissa. Is that right? Well, Marissa, I'm going to need a first officer to help me. You're the oldest and so that makes you my Number One.#
+PICARD: I don't know.#
+PICARD: Your name is Marissa. Is that right? Well, Marissa, I'm going to need a first officer to help me. You're the oldest and so that makes you my Number One.#
 PICARD: That's what I always called my first officer. So, here.#
 PICARD: There. Now, Number One, we need a crew to help us get that hatch off. Don't you think that Jay here would make an excellent science officer? What do you say, Jay? Will you join our crew?#
 PICARD: Of course. Forgive me, Jay Gordon.#
@@ -7724,7 +7776,8 @@ PICARD: Now, you can pull it away.#
 PICARD: Good. Now, that bundle of wires, that's optical cabling. See how much of that you can pull out.#
 PICARD: I can't open this door. We're going to have to climb up to the next deck.#
 PICARD: We're going up. Ready?#
-PICARD: The lift's falling! Hang on! PICARD: We're all right. We're going to keep on climbing. Just don't look down.#
+PICARD: The lift's falling! Hang on!#
+PICARD: We're all right. We're going to keep on climbing. Just don't look down.#
 PICARD: We're right with you, Patterson. You're not going to fall. Everything will be all right if you just keep climbing. What we need is a climbing song. Marissa, is there a song you sing at school?#
 PICARD: I'm afraid I don't know that one. I know. Frere Jacques. That's a song I used to sing when I was at school. Patterson, do you know that one? Good. It goes like this. Frere Jacques, Frere Jacques, dormez vous? Dormez vous?#
 PICARD: Very good. Now, keep singing.#
@@ -7739,7 +7792,8 @@ PICARD: Quomodo tua Latinitas est?#
 PICARD: Oppido bonum. Your Latin has improved.#
 PICARD: Walter Horne? Is he still teaching?#
 PICARD: How is old Boothby? I hope he didn't tell you a lot of stories about me.#
-PICARD: Is he still tending grounds, or have the years finally caught up with him? Not that I can tell. He took me on a grand tour of the place. He showed me every single blade of grass, practically. PICARD: I had the very same tour.#
+PICARD: Is he still tending grounds, or have the years finally caught up with him?#
+PICARD: I had the very same tour.#
 PICARD: AF?#
 PICARD: AF. Just an acquaintance of mine.  Wesley, if you meet someone whose initials you might want to carve into that elm tree, don't let it interfere with your studies. I failed organic chemistry because of AF.#
 PICARD: Go ahead, Doctor.#
@@ -7768,7 +7822,7 @@ PICARD: I think so, Mister Data.#
 PICARD: On screen.#
 PICARD: The explanation is simple. Your attempt to capture our ship has failed.#
 PICARD: And the rest of the crew?#
-PICARD: We'll take the alien ship to the nearest Federation starbase. Ensign, lay in a course. Captain's log, stardate 45212.1. We have delivered the Ktarian vessel to Starbase eighty two and are now on a course to rendezvous with the Starship Merrimack, which will transport Wesley Crusher back to Starfleet Academy.#
+PICARD: We'll take the alien ship to the nearest Federation starbase. Ensign, lay in a course.#
 PICARD: It's been suggested that Spock might have defected.#
 PICARD: I have a good idea.#
 PICARD: You've made a mistake.#
@@ -7862,7 +7916,7 @@ PICARD: I've heard of him.#
 PICARD: Do you know what business they might have together?#
 PICARD: Sarek, we're a part of each other. I know that he has caused you pain but I also know that you love him.#
 PICARD: Peace and long life.#
-PICARD: And prosper. Captain's log, stardate 45240.1. To cross the Neutral Zone, I will require a cloaked ship. To that end, I have set a course for the Klingon home world. After all we did for Gowron during the recent war, I am certain he will be happy to return a favour.#
+PICARD: And prosper.#
 PICARD: Still no response from the Klingons, Mister Worf?#
 PICARD: He's ignoring me. What other explanation is there?#
 PICARD: Yes, Lieutenant?#
@@ -7899,14 +7953,16 @@ PICARD: Quite nice. Thank you.#
 PICARD: Of course. This will be fine.#
 PICARD: Good. I prefer it that way.#
 PICARD: I've been looking forward gagh. Haven't had it for quite a while. Very fresh.#
-PICARD: Yes. I do. First Officer's log, stardate 45240.6. The Enterprise is nearing Qualor Two, home of a Federation surplus depot operated by the Zakdorn. We hope to find out how the salvaged deflector array ended up in the hands of the Ferengi.#
+PICARD: Yes. I do.#
 PICARD: I'm sure the Klingons found it amusing to put us in here together.#
-PICARD: Very well, Mister Data. Thank you. (Picard lies down on the metal shelf with a bulkhead only just above his head)#
+PICARD: Very well, Mister Data. Thank you.#
 PICARD: I suppose so.#
-PICARD: Thank you. PICARD: What are you doing?#
+PICARD: Thank you.#
+PICARD: What are you doing?#
 PICARD: No, not exactly#
 PICARD: I see.#
-PICARD: No. Please go on. PICARD: What are you looking at?#
+PICARD: No. Please go on.#
+PICARD: What are you looking at?#
 PICARD: But you're looking at me.#
 PICARD: I don't think so, Mister Data. Let's go on with the files.#
 PICARD: Sarek is dead.#
@@ -7941,7 +7997,7 @@ PICARD: Lifesigns?#
 PICARD: Try hailing it.#
 PICARD: Yes, Mister Worf?#
 PICARD: Reply that the Enterprise isn't going anywhere, Lieutenant.#
-PICARD: What are you trying to tell me? (and as Picard walks back towards Worf a figure appears where he was standing)#
+PICARD: What are you trying to tell me?#
 PICARD: Who are you?#
 PICARD: Really?#
 PICARD: Where exactly do you come from?#
@@ -8123,7 +8179,7 @@ PICARD: It's the least I can do.#
 PICARD: You shouldn't remember him like this.#
 PICARD: You shouldn't remember him like this#
 PICARD: It's the least I can do.#
-PICARD: It's the least I can do (Picard lifts the sheet to reveal dead Jack Crusher, who then opens his eyes and becomes Jev. Picard is now Jev. Beverly screams)#
+PICARD: It's the least I can do#
 PICARD: Did your scans provide any insights into these comas?#
 PICARD: Mister Data, I want you to investigate those eleven planets that the Ullians visited. See if there were any reports of unexplained comas.#
 PICARD: In the meantime, we must consider restricting them to their quarters, as a precautionary measure.#
@@ -8304,7 +8360,8 @@ PICARD: Picard to Worf. Report.#
 PICARD: Mister La Forge, shut down all computer access to Ten Forward.#
 PICARD: How many people are down there?#
 PICARD: Doctor Crusher to the Bridge.#
-PICARD: Doctor, go back to the biofilter readouts taken of the away team's transport from the moon's surface. See if you can come up with any clue that might explain this. PICARD: Ten Forward, this is Captain Picard. I am prepared to discuss this situation. There is no need for further violence.#
+PICARD: Doctor, go back to the biofilter readouts taken of the away team's transport from the moon's surface. See if you can come up with any clue that might explain this.#
+PICARD: Ten Forward, this is Captain Picard. I am prepared to discuss this situation. There is no need for further violence.#
 PICARD: Move it where?#
 PICARD: And that's what Troi asked me to do. But why? Ten Forward, if you could be more specific about our intended destination#
 PICARD: We need to stabilise this situation. Play for time. I suggest we move the ship as they've asked. Agreed? Set a new heading, but take us there as slowly as you can. Ten Forward, we are moving the ship as you requested.#
@@ -8473,7 +8530,7 @@ PICARD: On screen.#
 PICARD: In my Ready room.#
 PICARD: Admiral Brand. What can I do for you?#
 PICARD: Yes.#
-PICARD: He had second degree burns on his chest and multiple fractures of his right arm, but he's going to be fine. (curses, mutters the transcriber whose hopes had been raised by the teaser)#
+PICARD: He had second degree burns on his chest and multiple fractures of his right arm, but he's going to be fine.#
 PICARD: I'm not certain.#
 PICARD: Beverly. He's fine.#
 PICARD: Apparently, his squadron was practicing on the Academy flight range near Saturn. they were flying a close formation. There was a collision. All five ships were destroyed. Four of the cadets managed to transport out. One didn't make it.#
@@ -8513,7 +8570,7 @@ PICARD: Did Wesley's flight recorder indicate that there was anything unusual ab
 PICARD: Filling the primary coolant tanks requires an open interlock but that can only be performed in a maintenance bay. Is there any other reason for opening the valve?#
 PICARD: Ignite the plasma. That's exactly what they were trying to do.#
 PICARD: Come.#
-PICARD: Can you tell me what manoeuvre this is? (on the PADD we see five ships go into a circle, cross each other's paths and light up a five pointed star)#
+PICARD: Can you tell me what manoeuvre this is?#
 PICARD: Five ships crossing within ten metres of each other and igniting their plasma trails. One of the most spectacular and difficult demonstrations of precision flying. It hasn't been performed at the Academy team in over a hundred years. Do you know why?#
 PICARD: An accident in which all five cadets lost their lives. I think that Nicholas Locarno wanted to end his Academy career in a blaze of glory. That he convinced the four of you to learn the Kolvoord Starburst for the commencement demonstration. If it worked, you would thrill the assembled guests and Locarno would graduate as a living legend. Only it didn't work, and Joshua Albert paid the price. Am I correct? Cadet, I asked you a question. Am I correct?#
 PICARD: You choose not to answer? But you've already given an answer to the inquiry, and that answer was a lie.#
@@ -8673,7 +8730,7 @@ PICARD: I need to talk to a friend.#
 PICARD: Actually, it's all your fault.#
 PICARD: You insisted I look into her situation.#
 PICARD: The metamorph. Kamala. I've spent quite a lot of time with her the past few days, and you're right about several things, but, Beverly, her entire existence has been orchestrated for this moment and she intends to go through with it to help her people end the war.#
-PICARD: It isn't that simple. I barely know who she is, and who she is changes the moment the next man comes into the room. And I find myself hoping that the next man won't come in. But, of course, he does, and in a few hours, the ceremony will begin and she will mate with a man who cares more about trade agreements than he cares about her. And I can't help thinking how she will be with him. How she will change to accommodate him.#
+PICARD: It isn't that simple. I barely know who she is, and who she is changes the moment the next man comes into the room.#
 PICARD: Perhaps I just needed a shoulder.#
 PICARD: Soon.#
 PICARD: Many.#
@@ -8739,7 +8796,7 @@ PICARD: The cell, Doctor. Whatever equipment you need will be brought to you the
 PICARD: Come.#
 PICARD: I don't think so, Counsellor.#
 PICARD: I'm quite recovered from my experience, thank you.#
-PICARD: Counsellor. Counsellor, I very much appreciate your concern for me, but I can assure you it is quite misplaced. I have carefully considered the implications of having a Borg on this ship. I have weighed the possible risks, and I am convinced that we are doing the right thing. Now, I am quite comfortable with my decision.#
+PICARD: Counsellor. Counsellor, I very much appreciate your concern for me, but I can assure you it is quite misplaced.#
 PICARD: I shall certainly avail myself of your help.#
 PICARD: The Borg will die if they're removed permanently. Their brains grow dependent on the biochips.#
 PICARD: Mister La Forge, do you know enough about Borg programming to alter the pathways to their root command structure?#
@@ -8856,7 +8913,7 @@ PICARD: These were not ghosts. what did we see?#
 PICARD: Are you saying that they're still alive?#
 PICARD: That was Commander Geordi La Forge, Ensign. Please follow his instructions.#
 PICARD: Magnify. Mister Data?#
-PICARD: Increase power to (Picard twitches, staggers, and is caught by Riker who lowers him to the floor)#
+PICARD: Increase power to#
 PICARD: What is this place?#
 PICARD: Computer, freeze programme. Computer, end programme.#
 PICARD: Picard to Enterprise.#
@@ -8875,7 +8932,7 @@ PICARD: No, please, I'm sure it will all come back to me.#
 PICARD: What planet?#
 PICARD: No, really, I'm quite all right. Just answer me. What planet?#
 PICARD: Kataan. Not a Federation planet. I think I'll just take a walk.#
-PICARD: The exercise will do me good. I'll try to re-acquaint myself with the surroundings. (he goes up into the hills and looks down on the white-walled community perched on an outcrop above a very small river)#
+PICARD: The exercise will do me good. I'll try to re-acquaint myself with the surroundings.#
 PICARD: Hungry, thirsty, exhausted. I suppose that proves this is not a dream, doesn't it?#
 PICARD: This is not my life. I know that much.#
 PICARD: I walked. For hours.#
@@ -8890,6 +8947,7 @@ PICARD: And when did I learn to play it?#
 PICARD: I see what you mean. Well, thank you for the soup. Thank you for your help. Tomorrow, will you help me send a message?#
 PICARD: Oh, I'll sleep here.#
 PICARD: I've been sick. I'll be tossing and turning. It wouldn't be fair to you.#
+PICARD: Where did you get this?#
 PICARD: I'm just charting progress of the course of the sun. It might give a clue to the cause of this drought.#
 PICARD: The memory is five years old now, but it's still inside me.#
 PICARD: Eline.#
@@ -9033,7 +9091,7 @@ PICARD: Very well.#
 PICARD: Not yet. But you will.#
 PICARD: If we can get back there and destroy that site, it might put an end to their time travelling.#
 PICARD: We have no choice but to try.#
-PICARD: Follow him! (Riker, Geordi, Crusher, Troi do so, then Clemens as Picard checks on Guinan. The portal closes.)#
+PICARD: Follow him!#
 PICARD: Gently. Don't sit up too quickly.#
 PICARD: I hope they're all safely back on the Enterprise by now.#
 PICARD: You were hurt. I had to make sure you were all right.#
@@ -9098,7 +9156,7 @@ PICARD: It's a little stiff, but it'll be fine.#
 PICARD: Could Deanna have picked up some kind of disease from her?#
 PICARD: Picard to Lieutenant Worf.#
 PICARD: Mister Worf, contact Ambassador Alkar. I need to speak with him.#
-PICARD: Proceed with the autopsy. Medical log, stardate 46075.1. I have performed an autopsy on Alkar's mother, but instead of answering our questions, the results have created an even deeper mystery.#
+PICARD: Proceed with the autopsy.#
 PICARD: But how could that be? We both saw the woman.#
 PICARD: Picard to Lieutenant Worf.#
 PICARD: Meet me in Transporter room two. We're going down to the surface.#
@@ -9171,7 +9229,7 @@ PICARD: Understood. Ensign, set a course.#
 PICARD: How much longer before we reach them?#
 PICARD: Bridge to Transporter room three. Prepare to beam two from the Jenolen as soon as we're within range.#
 PICARD: Bridge to Transporter room. Energise.#
-PICARD: Fire torpedoes. (KaBOOM! And the spacedoors start to close. Enterprise gracefully swoops through the remaining gap and the doors clang shut behind them)#
+PICARD: Fire torpedoes.#
 PICARD: Well, call it an extended loan. Since you lost your ship saving ours, it seemed only fair.#
 PICARD: Well, bon voyage, Mister Scott.#
 PICARD: What's causing it?#
@@ -9203,6 +9261,7 @@ PICARD: We can't afford to wait any longer. Begin the graviton pulse.#
 PICARD: Can you strengthen the graviton pulse?#
 PICARD: What can we do to prevent this from happening again?#
 PICARD: Have we any idea what came through the rupture before we were able to shut it down?#
+PICARD: Welcome to the Enterprise, Miss Rogers. I'm delighted to have you aboard.#
 PICARD: And congratulations. I understand that you were selected for this internship out of hundreds of applicants.#
 PICARD: Or at least what fields you're not interested in.#
 PICARD: Come.#
@@ -9287,7 +9346,8 @@ PICARD: Oh yes, this is very impressive, Mister Worf. But we'll be taking on new
 PICARD: Mister Worf, is there some reason why you're trying to give yourself more work?#
 PICARD: Enjoy yourself. You have the free time. Use it.#
 PICARD: Computer, continue recording and playback once more. From the top.#
-PICARD: Computer, activate Picard Mozart trio, programme one. Play back tracks one, two and three. Tempo allegro. (it starts up with the music Picard was recording at the start of the show, then changes to Dvorak's The Slavonic Dances.) PICARD: Computer, stop playback. Computer identify musical composition.#
+PICARD: Computer, activate Picard Mozart trio, programme one. Play back tracks one, two and three. Tempo allegro.#
+PICARD: Computer, stop playback. Computer identify musical composition.#
 PICARD: Cat food?#
 PICARD: When can you correct the problem?#
 PICARD: What did you say?#
@@ -9376,8 +9436,10 @@ PICARD: We're nearly there. Can you continue?#
 PICARD: Looks like a maintenance hatch to the installation. I'm picking up three proximity sensors around it.#
 PICARD: We have no choice. Remember, aim low. Fire in short, controlled bursts.#
 PICARD: Now.#
+PICARD: It's a trap. Come on.#
 PICARD: What do you want?#
 PICARD: So you concocted an elaborate ruse to bring me here. Why?#
+PICARD: You are hereby requested and required to relinquish command of your vessel to Captain Edward Jellico, Commanding Officer USS Cairo, as of this date.#
 PICARD: Our orders are to penetrate the Celtris Three installation.#
 PICARD: It's a trap. Come on!#
 PICARD: What do you want?#
@@ -9389,7 +9451,7 @@ PICARD: Two.#
 PICARD: Chief Medical Officer Beverly Crusher. Lieutenant Worf.#
 PICARD: I don't know.#
 PICARD: Picard, Jean-Luc.#
-PICARD: La Barre, France. Captain's log, stardate 46360.8. The negotiations with the Cardassians have made little progress. I believe a military confrontation may be unavoidable.#
+PICARD: La Barre, France.#
 PICARD: I demand to see a neutral representative as required by the Federation-Cardassian peace treaty.#
 PICARD: I know that the burial vaults of the First Hebitian civilisation are said to be magnificent.#
 PICARD: What happened to them?#
@@ -9398,7 +9460,7 @@ PICARD: What I would like is to be returned to my ship.#
 PICARD: What is the price of that opportunity?#
 PICARD: You've injected me with drugs. Surely you must realise that I've already answered truthfully every question you've put to me.#
 PICARD: Then it seems you have more knowledge of the situation than I.#
-PICARD: Torture is expressly forbidden by the terms of the Seldonis Four convention governing treatment of prisoners of war. (a metal piece is lowered from the ceiling, and Madred takes a knife from his desk)#
+PICARD: Torture is expressly forbidden by the terms of the Seldonis Four convention governing treatment of prisoners of war.#
 PICARD: I've told you all that I know.#
 PICARD: I see four lights.#
 PICARD: There are four lights.#
@@ -9490,7 +9552,8 @@ PICARD: Computer, route all command functions to this location.#
 PICARD: Reinitialise them on my authorisation.#
 PICARD: Picard, epsilon seven nine three.#
 PICARD: How do you know that?#
-PICARD: Mister Data, if what you say is true, then this is not Geordi La Forge. Are you certain? (Data throws his comm., badge towards the warp core. The grid appears for a moment) PICARD: Computer, discontinue programme. Computer, exit.#
+PICARD: Mister Data, if what you say is true, then this is not Geordi La Forge. Are you certain?#
+PICARD: Computer, discontinue programme. Computer, exit.#
 PICARD: Picard to Bridge.#
 PICARD: Number One, what is my present location?#
 PICARD: No. Thank you. Picard out. Our comm. badges must be locked into the simulation. If that had been the real Commander Riker, he would have given my location as holodeck three. Mister La Forge, will you excuse us, please?#
@@ -9712,7 +9775,7 @@ PICARD: You're right, Q. You gave me the chance to change and I took the opportu
 PICARD: Give me a chance to put things back the way they were before.#
 PICARD: I would rather die as the man I was than live the life I just saw.#
 PICARD: What did you say?#
-PICARD: That's what I thought you said. (and Picard hits the Nausicaan. Corey and Marta take on the other two but don't do nearly as well. Finally Picard gets stabbed, sees the knife sticking out of his chest, and laughs)#
+PICARD: That's what I thought you said.#
 PICARD: I still don't know what to make of it. Was it a dream? Was it one of Q's elaborate tricks?#
 PICARD: And, you know, there's still a part of me that cannot accept that Q would give me a second chance, or that he would demonstrate so much compassion. And if it was Q, I owe him a debt of gratitude.#
 PICARD: There are many parts of my youth that I'm not proud of. There were loose threads, untidy parts of me that I would like to remove. But when I pulled on one of those threads it unraveled the tapestry of my life.#
@@ -9794,7 +9857,7 @@ PICARD: Picard to Arkaria base. Deactivate the baryon sweep. Arkaria Base, this 
 PICARD: Arkaria Base, this is Captain Picard. Deactivate the baryon sweep immediately!#
 PICARD: Picard here.#
 PICARD: Yes, Mister Data.#
-PICARD: I know they won't get very far. (Picard has the control rod in his hand. The little ship goes ka-BOOM! )#
+PICARD: I know they won't get very far.#
 PICARD: Any luck?#
 PICARD: Thank you.#
 PICARD: Actually, it came in handy. I only wish I'd had the opportunity to use it on a horse.#
@@ -9824,6 +9887,7 @@ PICARD: Did you know it is now possible to predict the configuration of a star s
 PICARD: It's really quite intriguing. The whole thing is made possible by a complex mathematical construct based on fractal particle motion. But that's only the foundation. The modeling itself is done by gravimetric wave input.#
 PICARD: Well, I know this is all pretty dry stuff. Stellar cartography isn't everybody's cup of tea.#
 PICARD: You know, we'd should be getting along to Ten Forward. We're going to be late for the concert.#
+PICARD: Thank you.#
 PICARD: Commander, that was a remarkable performance.#
 PICARD: I think that much was obvious.#
 PICARD: Commander, you must have been playing since you were young. I played the piano for a while when I was small, but I didn't put in the practice you must have.#
@@ -9864,7 +9928,7 @@ PICARD: You seem I've always believed that becoming involved with someone under 
 PICARD: If I were, would you give it?#
 PICARD: Nella.#
 PICARD: I'm really very sorry about what happened in the turbolift. When the crewmember walked in, I felt very self-conscious. It's going to take a while for me to get used to the idea of crew seeing the two of us together.#
-PICARD: I can assure you that I'm not given to casual relationships. (a crewman enters) There is something that I want to tell you. But not here.#
+PICARD: I can assure you that I'm not given to casual relationships.  There is something that I want to tell you. But not here.#
 PICARD: Do you remember that folk melody I played for you this morning?#
 PICARD: I learned it on a planet called Kataan.#
 PICARD: No, I'm not surprised. Its sun went nova more than a thousand years ago.#
@@ -9882,7 +9946,7 @@ PICARD: All I'm saying is that it's something we have to be aware of. But you mu
 PICARD: Now, I think that we should just forget about this and enjoy out evening.#
 PICARD: Right. Now this is something that I first tasted on Thelka Four.#
 PICARD: Go ahead, Mister Worf.#
-PICARD: I'm on my way. Captain's log, stardate 46693.1. We have entered the Bersallis star system and are making preparations to evacuate the Federation outpost on the third planet.#
+PICARD: I'm on my way.#
 PICARD: Let's do it.#
 PICARD: Commander Daren. About these thermal deflectors.#
 PICARD: There must be one of any number of people could coordinate their deployment.#
@@ -9916,7 +9980,8 @@ PICARD: Oh, please, Mister will do fine. Well, the overall configuration is cert
 PICARD: Green polychrome over the eyes, and the eyes themselves are closed. This is third Dynasty. From the workshop of the Master of Tarquin Hill.#
 PICARD: Will, the Master of Tarquin Hill designed ceramic objects that were three hundred years ahead of their time. All we know of him is the work. His name has never been discovered. This object is over twelve thousand years old.#
 PICARD: Indeed. I thought your study of Kurlan artefacts was done long ago.#
-PICARD: You mean it's complete? (Picard raises the top half of the pot to reveal a cluster of little pots inside it) PICARD: Will, the Kurlan civilisation believed that an individual was a community of individuals. Inside us are many voices, each with its own desires, its own style, its own view of the world. The Kurlan civilisation died out thousands of years ago. It is extraordinarily rare to find a figurine intact. Professor, this is an incredible find.#
+PICARD: You mean it's complete?#
+PICARD: Will, the Kurlan civilisation believed that an individual was a community of individuals. Inside us are many voices, each with its own desires, its own style, its own view of the world. The Kurlan civilisation died out thousands of years ago. It is extraordinarily rare to find a figurine intact. Professor, this is an incredible find.#
 PICARD: Oh, no. No. How can I accept this?#
 PICARD: Thank you. How long can you stay? There's so much to talk about.#
 PICARD: Two days? But that's not enough time.#
@@ -10014,7 +10079,7 @@ PICARD: Acknowledged.#
 PICARD: Wait for my order, Number One.#
 PICARD:  The seabed it may be only partially fossilised. It could still contain organic material.#
 PICARD: The programme has been activated. I think it's reconfiguring the tricorder.#
-PICARD: It's modifying the emitter diode to project something. (the tricorder projects a hologram. It's Salome Jens in a blank latex head, the first but not the last she will wear on Trek)#
+PICARD: It's modifying the emitter diode to project something.#
 PICARD: Picard to Enterprise.#
 PICARD: I can't think of anyone who would have appreciated it more.#
 PICARD: Yes, but it would've been a more fitting legacy if the message had not fallen on such deaf ears.#
@@ -10103,20 +10168,23 @@ PICARD: Lieutenant, our Chief Engineer is checking the transport logs of the Pot
 PICARD: And another William Riker materialised there.#
 PICARD: But of course, as you and Lieutenant Riker have lived very different lives for the past eight years, you are now very different people. I suppose it's a little like meeting someone's twin. But no matter how strange it may seem to us, we now have two Will Rikers on board. And as Lieutenant Riker will be with us for several days, I think we should do everything we can to make him comfortable and welcome.#
 PICARD: Can it be repaired, at least enough to access the database?#
-PICARD: Perhaps he can help us. PICARD: He was alone down there for a long time. I'm hesitant to let him go back until he's been evaluated.#
+PICARD: Perhaps he can help us.#
+PICARD: He was alone down there for a long time. I'm hesitant to let him go back until he's been evaluated.#
 PICARD: Thank you, Counsellor.#
 PICARD: Come.#
-PICARD: Yes, Number One. Come in. PICARD: Lieutenant Riker has been to see me to talk about the away mission. He believes that the only way to retrieve the database is by directly accessing the main core underneath the station.#
+PICARD: Yes, Number One. Come in.#
+PICARD: Lieutenant Riker has been to see me to talk about the away mission. He believes that the only way to retrieve the database is by directly accessing the main core underneath the station.#
 PICARD: He said that he was down there recently. He seemed confident that it could be done safely.#
 PICARD: But if it doesn't work, we won't have another chance for eight years.#
 PICARD: Given the importance of the data, I think that it's worth the risk.#
 PICARD: I'm sure that Lieutenant Riker will be happy to help you with that.#
 PICARD: Well, it was little better at the physiognomy workshop. Doctor Vassbinder gave an hour long dissertation on the ionisation effect of warp nacelles before he realised that the topic was supposed to be psychology.#
-PICARD: There was no opportunity. There was no pause. He just kept talking in one long, incredibly unbroken sentence, moving from topic to topic so that no one had a chance to interrupt. It was really quite hypnotic.#
+PICARD: There was no opportunity. There was no pause.  He just kept talking in one long, incredibly unbroken sentence, moving from topic to topic so that no one had a chance to interrupt. It was really quite hypnotic.#
 PICARD: How long did it appear to you that we were frozen?#
 PICARD: Let's go through all this again. You were sitting there. The rest of us were here. Describe the exact moment when we appeared to freeze.#
 PICARD: Did you sense something from any of us at that time? Any unusual emotion?#
-PICARD: Or there is another possibility, Counsellor. This could be nothing more than simple (Troi has a start. Picard is now next to her waving a hand in front of her face) PICARD: Are you all right, Counsellor?#
+PICARD: Or there is another possibility, Counsellor. This could be nothing more than simple#
+PICARD: Are you all right, Counsellor?#
 PICARD: It appears to be the same effect that you described in us. Do you remember anything?#
 PICARD: How do you account for this discrepancy?#
 PICARD: Mister Data, contact the Enterprise. Tell Commander Riker to meet us at the rendezvous point as soon as possible. Have him scan the region for temporal anomalies.#
@@ -10181,16 +10249,16 @@ PICARD: Is it possible to lock onto the core itself, beam it into space?#
 PICARD: Mister Data, when you scanned the temporal aperture with your tricorder, it caused time to move forwards and then back again.#
 PICARD: What if we could reverse that process? Cause time move backwards and then forwards.#
 PICARD: The breach never happens.#
-PICARD: Make it so. If this works, we may not have much time to prevent the power transfer. We'll have to decide precisely where to be and what to do the very instant that time begins to move backwards. Captain's log, supplemental. After placing the modified tricorder on the Romulan ship, we have returned to the Enterprise.#
+PICARD: Make it so. If this works, we may not have much time to prevent the power transfer. We'll have to decide precisely where to be and what to do the very instant that time begins to move backwards.#
 PICARD: Acknowledged. Counsellor, are you in position?#
 PICARD: All right, Mister Data.#
 PICARD: Be ready to stop the power transfer, Mister Data.#
 PICARD: No time to explain, Number One. Continue the evacuation of the Romulan ship. You'll find LaForge in the Romulan engine room. Beam him directly to Sickbay.#
 PICARD: Can we move the ship?#
 PICARD: Patch me into the navigational control of the runabout.#
-PICARD: I'm bringing the runabout in. (he flies the runabout into the power transfer beam. KaBOOM. The warbird vanishes)#
+PICARD: I'm bringing the runabout in.#
 PICARD: Data, it appears that severing the power transfer has not only prevented the core breach, but has also restored#
-PICARD: It's going to take a little time to explain, Number One. Captain's log, stardate 46945.3. We successfully evacuated the crew of the Romulan ship, and we're on course to the Neutral Zone to bring them home.#
+PICARD: It's going to take a little time to explain, Number One.#
 PICARD: Ohniaka Three? There's no strategic value to that outpost. Were they able to identify the attackers?#
 PICARD: Bring us out of warp, Ensign.#
 PICARD: Hail them, Mister Worf.#
@@ -10225,7 +10293,8 @@ PICARD: Picard to Engineering, can we transfer auxiliary power to the warp nacel
 PICARD: On screen.#
 PICARD: Is everyone else all right?#
 PICARD: They beamed aboard as a diversion to give their ship time to escape.#
-PICARD: Can you waken him? CRUSHER Yes, but it's very risky. His heart rate and blood pressure are up PICARD: Do it.#
+PICARD: Can you waken him?#
+PICARD: Do it.#
 PICARD: Lower the forcefield.#
 PICARD: What is your designation?#
 PICARD: Crosis? How did you get that name?#
@@ -10369,9 +10438,9 @@ PICARD: I'm going to go look for the shuttle myself.#
 PICARD: Anna!#
 PICARD: Anna, no!#
 PICARD: Anna, stop!#
-PICARD: Anna.  Anna! Anna, where are you going? (Anna leaves, locking the door. Picard finds a crowbar and tries to force it when)#
+PICARD: Anna.  Anna! Anna, where are you going?#
 PICARD: Yes! Inside here!#
-PICARD: Inside the freighter! The door is on the opposite side! (bangs on the door) Over here! The door's over here!#
+PICARD: Inside the freighter! The door is on the opposite side!  Over here! The door's over here!#
 PICARD: Voval! I thought you were dead.#
 PICARD: Yes. There's a woman living here. She told me that she'd been to the shuttle. She said that she saw you dead.#
 PICARD: I see.#
@@ -10560,7 +10629,7 @@ PICARD: You'll never get away with this. Starfleet will never stand and watch yo
 PICARD: Listen to me, all of you! Drop your weapons! Do it! Don't make any aggressive movements. The resonator amplifies violent feelings and emotions. And that's why you wanted me to pick up the phaser. That's how you were able to kill Narik and Vekor. But I can see the symbol on that third artefact, and it is the Vulcan symbol for peace standing between the symbols for war and death. It's a warning that the power of the resonator can be overcome by peace.#
 PICARD: Empty your minds of violent thoughts.#
 PICARD: Think, Tallera. Two thousand years ago your people were being consumed by war. But when peace came to Vulcan, the resonator became useless. That's why it was dismantled.#
-PICARD: You were right, Tallera. The resonator cannot be stopped by phasers and shields, but it can be defeated by peace. (she tries again, but it's a very small field that passes through Picard before he takes the device from her hands) Captain's log, stardate 47169.2. Security Minister Satok has taken Tallera into custody and begun a search for the rest of the isolationists.#
+PICARD: You were right, Tallera. The resonator cannot be stopped by phasers and shields, but it can be defeated by peace.#
 PICARD: Satok has assured me that all three pieces will be destroyed.#
 PICARD: Normally, I would be the first one to agree, but perhaps some things best left in the past.#
 PICARD: Oh, they will be detained by the Vulcan authorities for the moment. But they're also facing charges from the Klingons, the Cardassians,  the Ferengi, and at least seven other worlds. I don't think we'll be hearing from them for a while. Number One, will you set course for Starbase two twenty seven. I'll join you on the Bridge shortly.#
@@ -10573,7 +10642,8 @@ PICARD: Acknowledged. Ensign Gates, set course for Starbase two nineteen, warp s
 PICARD: Engage. Bridge to Engineering. Mister La Forge, why isn't my ship#
 PICARD: Very well. Ensign Gates?#
 PICARD: Mister La Forge?#
-PICARD: On screen. PICARD: Admiral.#
+PICARD: On screen.#
+PICARD: Admiral.#
 PICARD: Actually, we have been experiencing a few minor difficulties with our new warp core, but my Chief Engineer assures me that we will be under way within the hour.#
 PICARD: No, no, certainly not. I'm really looking forward to it.#
 PICARD: Go ahead, Geordi.#
@@ -10679,7 +10749,8 @@ PICARD: And then you'll discover that we're telling the truth.#
 PICARD: What?#
 PICARD: You're staring at me.#
 PICARD: There may be a structural flaw that would allow us to escape.#
-PICARD: Beverly, the important thing during any confinement is to think positively and not give up hope. There is a way out of every box, there is a solution to every puzzle. It's just a matter of finding it. (the guard puts a covered plate on the floor and backs out. Picard fails to stop the door closing again) PICARD: Damn.#
+PICARD: Beverly, the important thing during any confinement is to think positively and not give up hope. There is a way out of every box, there is a solution to every puzzle. It's just a matter of finding it.#
+PICARD: Damn.#
 PICARD: It means they plan on keeping us here for a while.#
 PICARD: Does it work?#
 PICARD: It's a map.#
@@ -10746,11 +10817,11 @@ PICARD: So, were you getting tired of my company?#
 PICARD:  To freedom.#
 PICARD: I was just thinking that as distracting as it was, I was beginning to get used to hearing your thoughts and I find that I miss it.#
 PICARD: Oh?#
-PICARD: A man can't be held responsible for what his mind does while#
+PICARD: A man can't be held responsible for what his mind does while he's asleep.#
 PICARD: So now that we've had this unique experience, what do we do?#
 PICARD: You know exactly what I mean.#
 PICARD: Now that we know how each of us feels, perhaps we should not be afraid to explore those feelings.#
-PICARD: Goodnight. (in the corridor, Beverly waits for a few moments before walking off. Picard also waits for a few moments before blowing out the candles)#
+PICARD: Goodnight.#
 PICARD: Data.#
 PICARD: How long will it take to complete a level one search?#
 PICARD: I agreed. All right then. Mister Worf, initiate your search pattern. Let's head in.#
@@ -10799,7 +10870,7 @@ PICARD: Can you get a fix on the Fleming? Is she still in one piece?#
 PICARD: Doctor, is it possible for a ship to survive in there? Doctor. I'm sorry about your loss but we need your help now.#
 PICARD: Does the rift pose any danger to the Fleming?#
 PICARD: What about the Fleming? How long can they survive in there?#
-PICARD: I want some better options. Data, Geordi, take Doctor Rabal and begin an analysis of the rift. We need to find some way to get the Fleming out of there. Second Officer's log, stardate 47312.1. Our new sensor readings have greatly improved our understanding of the rift. However, we have been unable to find any way to counteract it.#
+PICARD: I want some better options. Data, Geordi, take Doctor Rabal and begin an analysis of the rift. We need to find some way to get the Fleming out of there.#
 PICARD: Begin your calculations, Mister Data. We'll go as soon as you're ready.#
 PICARD: Mister La Forge, whenever you're ready.#
 PICARD: How long until we reach the Fleming?#
@@ -10815,9 +10886,10 @@ PICARD: Helm, full impulse. Head us out of the rift. Mister Worf, channel all av
 PICARD: Stand by deflector shield.#
 PICARD: Engage deflector shield, now.#
 PICARD: How much longer until we clear the rift?#
-PICARD: Cancel red alert. Captain's log, stardate 47314.5. We have been continuing our research, while the Federation Council studies our preliminary reports on the subspace rift. It now appears certain that what we've seen here will have repercussions for many years to come.#
+PICARD: Cancel red alert.#
 PICARD: Doctor Rabal?#
-PICARD: Thank you, Doctor, Mister La Forge. ; PICARD: Ah. We've received new directives from the Federation Council on this matter. Until we can find a way to counteract the warp field effect, the Council feels our best course is to slow the damage as much as possible. Therefore, areas of space found susceptible to warp fields will be restricted to essential travel only, and effective immediately all Federation vessels will be limited to a speed of warp five, except in cases of extreme emergency.#
+PICARD: Thank you, Doctor, Mister La Forge.#
+PICARD: Ah. We've received new directives from the Federation Council on this matter. Until we can find a way to counteract the warp field effect, the Council feels our best course is to slow the damage as much as possible. Therefore, areas of space found susceptible to warp fields will be restricted to essential travel only, and effective immediately all Federation vessels will be limited to a speed of warp five, except in cases of extreme emergency.#
 PICARD: The Federation's sharing all our data with warp-capable species. We can only hope that they realise it's in their own interests and take similar action.#
 PICARD: The Federation is setting up a weather control matrix on Hekaras Two. It's only a temporary solution, but it should suffice for now.#
 PICARD: If there are no more questions, you're all dismissed.#
@@ -10938,7 +11010,7 @@ PICARD: How do we use the cloak to escape from the asteroid?#
 PICARD: I see why you were so eager to find it.#
 PICARD: Except it's illegal. It's in violation of an agreement that the Federation signed in good faith.#
 PICARD: Mister Data?#
-PICARD: Make it so. Captain's log, stardate 47457.1. We have been trapped inside the asteroid for over eight hours. Mister Data and Commander La Forge inform me that they are nearly ready to engage the cloak.#
+PICARD: Make it so.#
 PICARD: Proceed, Number One.#
 PICARD: Report.#
 PICARD: Take us out. Manoeuvring thrusters only.#
@@ -11054,7 +11126,7 @@ PICARD: Bridge. You are a certified pilot, Ensign?#
 PICARD: How long have you served on board the Enterprise, Ensign?#
 PICARD: I see I understand that you've been recommended for the Ops position. Do you think you're up to it?#
 PICARD: I'm not so sure. I'm concerned about your record.#
-PICARD:  The incident that you were involved in at the Academy.#
+PICARD:#
 PICARD: It doesn't matter how long ago it was, Ensign. Would you do something like that again?#
 PICARD: A dare devil stunt? I would certainly hope not. What concerns me is that you participated in a cover-up that impeded an official investigation into the death of a cadet.#
 PICARD: Yes you should, but you didn't. Instead you joined with the others to pretended that was simply an accident. Now, what do you think that tells me about your character?#
@@ -11093,7 +11165,8 @@ PICARD: Oh, yes, it's possible. And if so, this is a find of most enormous signi
 PICARD: Yes, this symbol seems to be of particular significance.#
 PICARD: The concept of the four cardinal compass directions is quite common in many different cultures.#
 PICARD: Well, perhaps the artefacts that all have this compass symbol belong to the same theme, movement. Finding a direction, travelling a path, crossing a boundary.#
-PICARD: The ultimate boundary. PICARD: I've seen this symbol everywhere too, but much less prominently displayed. It's always in the background, smaller than the others. (a straight line with a hemisphere below it showing a semicircle with radiant lines - half a sun? )#
+PICARD: The ultimate boundary.#
+PICARD: I've seen this symbol everywhere too, but much less prominently displayed. It's always in the background, smaller than the others.#
 PICARD: I have no idea.#
 PICARD: What is it you want?#
 PICARD: Are you Masaka?#
@@ -11161,7 +11234,7 @@ PICARD: Ihat said that if we created the temple, then it would get her attention
 PICARD: I don't know.#
 PICARD: This is the first time I've seen these two symbols paired. That could be significant. Look, there it is again, and again. And there again. This is obviously an important pairing. He isn't chasing her anymore.#
 PICARD: Ihat said that someone named Korgano isn't chasing Masaka anymore. And the old man said, he pursues her no longer. In a sense, this small symbol might be seen to be chasing Masaka.#
-PICARD: That smaller symbol could represent Korgano. Both Ihat and the old man said that Korgano was the only one who could control Masaka. Many ritualistic cultures incorporate the idea of balance into their belief systems. Now, Masaka is a queen. A powerful, god-like figure. It's not unrealistic to believe that she might have a counterpart, a consort. Look around. See if you can find that horn-like symbol anywhere else. ] (Data wakes and puts on his version of Masaka's mask)#
+PICARD: That smaller symbol could represent Korgano. Both Ihat and the old man said that Korgano was the only one who could control Masaka. Many ritualistic cultures incorporate the idea of balance into their belief systems. Now, Masaka is a queen. A powerful, god-like figure. It's not unrealistic to believe that she might have a counterpart, a consort. Look around. See if you can find that horn-like symbol anywhere else.#
 PICARD: Maybe it's simpler than that. Maybe their relationship is more like the sun and the moon.#
 PICARD: Exactly. Like two powerful rulers changing places in a continuous cycle.#
 PICARD: If we can find Korgano in the archive and bring him out, then perhaps he could force Masaka to leave.#
@@ -11184,7 +11257,7 @@ PICARD: I think that you are beginning to tire. It is difficult, brightening the
 PICARD: So that you can wake with the dawn and begin the hunt again.#
 PICARD: As am I.#
 PICARD: Acknowledged, Number One. Mister Data, are you all right?#
-PICARD: I'm afraid that will take some time to explain. Captain's log, stardate 47618.4. Commander La Forge has managed to disable the alien transformation programme. Starfleet has dispatched an archaeological team to study the archive further.#
+PICARD: I'm afraid that will take some time to explain.#
 PICARD: But I don't understand. I thought all the alien artefacts had disappeared from the Enterprise.#
 PICARD: A memento.#
 PICARD: I can imagine. Doctor Crusher told me that there were possibly dozens of personalities inside you.#
@@ -11255,7 +11328,8 @@ PICARD: Maybe we could have inhibited the intron virus by using the natural anti
 PICARD: Then we should locate a pregnant humanoid.#
 PICARD: Where is she?#
 PICARD: The Arboretum.#
-PICARD: I'm going to check the status of the warp core. (it's dark, and cobwebs are everywhere. Picard looks through a window at the warp core and something with half a face and a few compound eyes throws itself at the glass) PICARD: Data!#
+PICARD: I'm going to check the status of the warp core.#
+PICARD: Data!#
 PICARD: What was that?#
 PICARD: A spider?#
 PICARD: I have these intense feelings of fear and panic. I feel as if I were being watched. I can't explain it.#
@@ -11272,10 +11346,10 @@ PICARD: Klingons have got a very powerful sense of smell. If we could duplicate 
 PICARD: Can you amplify the pheromones? They need to be much more powerful than Deanna's actual scent.#
 PICARD: No, no, no. You must go on working on the retrovirus. I'll go.#
 PICARD: No time. No time to argue.#
-PICARD: Deck seventeen. Deck seventeen! (the doors shut in the nick of time but it doesn't move. Worf starts hammering at the door and Picard escapes through the roof)#
+PICARD: Deck seventeen. Deck seventeen!#
 PICARD: Go ahead, Data.#
 PICARD: Acknowledged.#
-PICARD: Fine, Mister Data. Proceed. Well, Mister Worf, let's hope that when you wake up, you're a new man. Captain's log, supplemental. Commander Data has succeeded in returning the crew to normal. Doctor Crusher has determined that the synthetic T-cell she used to cure Mister Barclay's Urodelan flu initiated the intron virus which swept through the ship.#
+PICARD: Fine, Mister Data. Proceed.  Well, Mister Worf, let's hope that when you wake up, you're a new man.#
 PICARD: Good.#
 PICARD: I am trying to establish a new relationship with the Admiral. There has been a certain amount of tension between us in the past.#
 PICARD: Well, I am trying to get things off on a better note this time. I want to make her feel at ease. I want her to feel that she's welcome aboard the Enterprise.#
@@ -11319,7 +11393,7 @@ PICARD: It was my understanding that there would be no Cardassian presence here 
 PICARD: I would be very happy to explain that to you, but for now I must ask you and your men to leave immediately.#
 PICARD: Very well. Complete your mission. But remember, this is Federation territory, Gul Evek, and until that changes, these people are under my jurisdiction and I will protect them.#
 PICARD: It's a fact. Bear that in mind while you conduct your survey.#
-PICARD: Admiral, the Indian Councils is adamant.#
+PICARD: Admiral, the Indian Councils is adamant. They refuse to leave Dorvan Five.#
 PICARD: No, sir.#
 PICARD: Admiral, I have every reason to believe that they will resist any attempt to remove them. I strongly urge you to request an emergency session of the Federation Council. The issue of Dorvan Five must be reopened.#
 PICARD: Anthwara believes that I am responsible for the crimes of one of my ancestors against his people.#
@@ -11443,7 +11517,7 @@ PICARD: Is there any way we can keep Bok from beaming aboard the Enterprise agai
 PICARD: If he has the ability to beam aboard, he may be able to beam someone away.#
 PICARD: I'm concerned that he may try to take Jason. Is there any way we can protect him?#
 PICARD: Make it so. Computer, where is Jason Vigo?#
-PICARD:  Would you wait outside? (Rhodes and her companion leave, then Picard climbs to join Jason on a ledge)#
+PICARD:  Would you wait outside?#
 PICARD: I like climbing. There's something about actually having your fate in your own hands.#
 PICARD: It looks as though we may have found out how to locate Bok's ship. This could all soon be over.#
 PICARD: I thought it would make you feel better.#
@@ -11603,7 +11677,7 @@ PICARD: What?#
 PICARD: Are you saying you want to back out of this mission?#
 PICARD: This has nothing to do with me. This is about you. If you back out now, you'll throw away everything you've worked for. We're committed to this mission. My only question for you is, can you carry out your orders? I could put you before a board of inquiry for having lied to me about this operation. I would certainly have you court-martialled if you sabotage it. Now, it's your decision.#
 PICARD: I feel it necessary to have Commander Riker go back with you. He can pose as a relative. I just want to make sure that nothing happens to obstruct this mission.#
-PICARD: I'm sorry. I don't have that kind of money. Captain's log, supplemental. We have received word from Commander Riker and Lieutenant Ro that the Maquis will be attacking the convoy as planned. Our ships have taken up position in the Hugora Nebula to wait for them.#
+PICARD: I'm sorry. I don't have that kind of money.#
 PICARD: As soon as they cross the border, we'll intercept them.#
 PICARD: Go to Red alert.#
 PICARD: What the hell is she doing?#
@@ -11661,7 +11735,8 @@ PICARD: I don't know! I don't know! I want to see Data!#
 PICARD: Yes, I think he is.#
 PICARD: You see them, don't you?#
 PICARD: They're everywhere. They're laughing at me. Why are they laughing?#
-PICARD: Yes, Data. We'll go see Data. [Future Cambridge University - Data's library] (a roaring fire, plenty of cats and an obviously fake streak of white in his hair) PICARD: I know how it sounds but it happened. It was real. I was there, back on board the Enterprise.#
+PICARD: Yes, Data. We'll go see Data.#
+PICARD: I know how it sounds but it happened. It was real. I was there, back on board the Enterprise.#
 PICARD: Tea? Earl Grey. Hot.#
 PICARD: Nothing. Well, Data, I must say, this is a fine place you have here. They certainly treat professors pretty well at Cambridge#
 PICARD: You say this is Earl Grey? I'd swear that it was Darjeeling.#
@@ -11780,7 +11855,7 @@ PICARD: Yes of course, Counsellor. Contact Farpoint Station. I wish to speak wit
 PICARD: They don't trust me. They think that I'm behaving erratically.#
 PICARD: I understand, but I also know what this crew is capable of, even if they don't.#
 PICARD: I know it's difficult operating in the dark, but right now I don't think I have any other choice.#
-PICARD: Excuse me. Put him through here. Commander Riker. I wanted to inform you that we'll be delayed in picking you up at Farpoint Station. (we see Farpoint Riker on the monitor, but cut away when he's supposed to be speaking)#
+PICARD: Excuse me. Put him through here. Commander Riker. I wanted to inform you that we'll be delayed in picking you up at Farpoint Station.#
 PICARD: I can't say. I'll keep you updated. Will you inform Doctor Crusher and Lieutenant La Forge of our delay?#
 PICARD: Is there anything else, Counsellor?#
 PICARD: What about him?#
@@ -11821,7 +11896,8 @@ PICARD: So if time and anti-time were to collide#
 PICARD: Data, what could have caused this collision of time and anti-time?#
 PICARD: I believe that if you modify the deflectors to send out an inverse tachyon pulse, then you'll find that the anomaly is a rupture between time and anti-time.#
 PICARD: I don't have time to discuss it now, Mister Data. Do the modifications and send out the pulse. Then try working on a theory as to what caused this rupture. Mister O'Brien, how large is this anomaly?#
-PICARD: I don't understand why it's bigger in the past. PICARD: Lieutenant, you have the Bridge. I'll be in my Ready room.#
+PICARD: I don't understand why it's bigger in the past.#
+PICARD: Lieutenant, you have the Bridge. I'll be in my Ready room.#
 PICARD: What's going on?#
 PICARD: Weapons status?#
 PICARD: We have to stop it!#
@@ -11892,7 +11968,7 @@ PICARD: I sincerely hope that this is the last time that I find myself here.#
 PICARD: When I realised the paradox.#
 PICARD: Q, what is it that you're trying to tell me?#
 PICARD: Mister Worf, what's the date?#
-PICARD: No. No. No. I think I'll get back to bed. I could use some sleep. Captain's log, supplemental. Starfleet Command reports no unusual activity along the Neutral Zone, and there is no sign of a temporal anomaly. It would appear that I am the only member of the crew to retain any knowledge of the events I experienced.#
+PICARD: No. No. No. I think I'll get back to bed. I could use some sleep.#
 PICARD: No. I, er, I just thought that I might, erm, I might join you this evening. If there's room.#
 PICARD: Oh, er, thank you, Mister Data. Actually, I used to be quite a card player in my youth, you know. I should have done this a long time ago.#
 PICARD: So. Five card stud, nothing wild, and the sky's the limit.#

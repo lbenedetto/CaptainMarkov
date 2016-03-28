@@ -1,64 +1,48 @@
 Episode Number: 503
 The Voyager Transcripts - Extreme Risk
-Extreme
-Risk
-Stardate:
-Unknown
+Extreme Risk
+Stardate: Unknown
 Original Airdate: 28 October 1998
-  [Holodeck -
-shuttlecraft] 
- TORRES:
-Higher. 
-PILOT: Lieutenant, we're already at two hundred thousand metres. You
-could thermalise at this altitude. 
+[Holodeck - shuttlecraft]
+TORRES: Higher. 
+PILOT: Lieutenant, we're already at two hundred thousand metres. You could thermalise at this altitude. 
 TORRES: I said higher. 
 PILOT: We're at three hundred thousand metres. 
 (Torres looks down at the clouds over the planet.)
 TORRES: Level us off. Computer, disengage safety protocols. 
-COMPUTER: Warning. Disengaging safety protocols presents extreme risk
-of injury. 
+COMPUTER: Warning. Disengaging safety protocols presents extreme risk of injury. 
 TORRES: Override. 
 COMPUTER: Acknowledged. Safety protocols have been disengaged. 
 TORRES: Drop the forcefield on my mark. 
 PILOT: Aye. 
 TORRES: Mark. 
-(Torres jumps out of the back of the shuttlecraft, and free dives
-through the clouds.)
+(Torres jumps out of the back of the shuttlecraft, and free dives through the clouds.)
 CHAKOTAY [OC]: Bridge to Torres. 
 TORRES: I don't believe it. 
 CHAKOTAY [OC]: Report to Engineering on the double. 
 TORRES: Computer, end programme. 
-(The fall ends gently, with Torres being allowed to get her feet under
-her before the simulation vanishes.) 
- [Corridor]
- SEVEN:
-I was not aware that protective attire was required for this mission. 
+(The fall ends gently, with Torres being allowed to get her feet under her before the simulation vanishes.) 
+[Corridor]
+SEVEN: I was not aware that protective attire was required for this mission. 
 TORRES: I was on the holodeck, orbital skydiving. 
-SEVEN: Leaping from a spacecraft at exospheric altitudes, a curious
-form of recreation. The probe is ready for launch, however there is
-still a problem with the telemetry link. Lieutenant. Is something
-wrong? 
-TORRES: Actually, I'm not feeling so well. Can you handle the launch
-without me? 
+SEVEN: Leaping from a spacecraft at exospheric altitudes, a curious form of recreation. The probe is ready for launch, however there is still a problem with the telemetry link. Lieutenant. Is something wrong? 
+TORRES: Actually, I'm not feeling so well. Can you handle the launch without me? 
 SEVEN: You are putting me in charge?
 TORRES: Problem? 
 SEVEN: No. Just unexpected. Shall I inform the Doctor you're ill? 
 TORRES: No. Don't. 
- [Bridge]
- KIM:
-Captain, someone's locked onto our probe with a tractor beam. 
+[Bridge]
+KIM: Captain, someone's locked onto our probe with a tractor beam. 
 CHAKOTAY: It looks like a Malon freighter. 
 PARIS: I had a feeling we hadn't seen the last of them. 
 JANEWAY: Open a channel. 
 KIM: Aye, Captain. 
-JANEWAY: Starship Voyager to the Malon vessel. That probe belongs to
-us. Release it immediately. 
+JANEWAY: Starship Voyager to the Malon vessel. That probe belongs to us. Release it immediately. 
 KIM: No response. 
 JANEWAY: Tom, how fast can you get us there? 
 PARIS: Two hours at least. 
 JANEWAY: They'll be long gone. 
-TUVOK: If we instruct the probe to emit a polaron burst it could
-disrupt the tractor beam. 
+TUVOK: If we instruct the probe to emit a polaron burst it could disrupt the tractor beam. 
 JANEWAY: Do it. 
 TUVOK: The beam has been disabled. 
 JANEWAY: Harry, redirect the probe's course. 
@@ -66,362 +50,227 @@ TUVOK: The Malon are in pursuit.
 PARIS: That probe can't outrun them. 
 JANEWAY: No, but we might be able to hide it from them. 
 KIM: Captain? 
-JANEWAY: The probe surveyed a class six gas giant this morning. I think
-we should send it back for a closer look. 
+JANEWAY: The probe surveyed a class six gas giant this morning. I think we should send it back for a closer look. 
 KIM: You're going to steer the probe into a gas giant. 
 TUVOK: Captain, the atmospheric pressure will crush it. 
 JANEWAY: Not if the Borg shielding does its job. Hail them again. 
 KIM: No response. 
 JANEWAY: Voyager to Malon vessel. Break off your pursuit. 
-TUVOK: The probe is entering the giant's upper atmosphere, and the
-Malon vessel is following it in. 
-(After the Malon freighter vanishes into the cloud layers, something
-goes KaBOOM.) 
- [Briefing
-room] 
- KIM:
-The probe's stuck in a deep layer of liquid hydrogen and methane about
-ten thousand kilometres below the outer atmosphere. It's not responding
-to commands. 
+TUVOK: The probe is entering the giant's upper atmosphere, and the Malon vessel is following it in. 
+(After the Malon freighter vanishes into the cloud layers, something goes KaBOOM.) 
+[Briefing room]
+KIM: The probe's stuck in a deep layer of liquid hydrogen and methane about ten thousand kilometres below the outer atmosphere. It's not responding to commands. 
 JANEWAY: Any good news? 
 SEVEN: It's still intact. It can be repaired, 
 CHAKOTAY: If we can get it out of there. 
 (Torres enters.)
 TORRES: Sorry I'm late. 
-CHAKOTAY: We were just discussing how to retrieve the probe. Is there
-any possibility of transporting it out? 
+CHAKOTAY: We were just discussing how to retrieve the probe. Is there any possibility of transporting it out? 
 TORRES: No. 
 CHAKOTAY: Just no. 
 TORRES: I don't see how we could get close enough. 
 CHAKOTAY: Is there any way to boost transporter range? 
 TORRES: Not in that kind of atmosphere. 
-PARIS: Well, if we can't transport it out, we'll just have to fly in
-and grab it. 
-TUVOK: Perhaps you weren't paying attention when the Malon freighter
-imploded. 
-PARIS: We won't be going in a Malon freighter, Tuvok. We'll be going in
-our new shuttlecraft. 
+PARIS: Well, if we can't transport it out, we'll just have to fly in and grab it. 
+TUVOK: Perhaps you weren't paying attention when the Malon freighter imploded. 
+PARIS: We won't be going in a Malon freighter, Tuvok. We'll be going in our new shuttlecraft. 
 KIM: Here we go again. 
-PARIS: Let's face it, Class-two shuttles just don't cut it in the Delta
-quadrant. We've needed something bigger and better since we got here.
-It's time we built it! 
-CHAKOTAY: Tom, we've been through this I don't know how many times. We
-all appreciate your enthusiasm. 
+PARIS: Let's face it, Class-two shuttles just don't cut it in the Delta quadrant. We've needed something bigger and better since we got here. It's time we built it! 
+CHAKOTAY: Tom, we've been through this I don't know how many times. We all appreciate your enthusiasm. 
 KIM: Speak for yourself, Commander. 
-CHAKOTAY: Bottom line, we don't have time to design and build a ship
-from scratch. 
-PARIS: I knew you were going to say that so I've given us a head start.
+CHAKOTAY: Bottom line, we don't have time to design and build a ship from scratch. 
+PARIS: I knew you were going to say that so I've given us a head start. 
 (He activates the wall monitor.)
-PARIS: Behold the Delta Flyer. Ultra-aerodynamic contours, retractable
-nacelles, parametallic hull plating, unimatrix shielding based on
-Tuvok's brilliant design for the multispatial probe, and a
-Borg-inspired weapons system. 
+PARIS: Behold the Delta Flyer. Ultra-aerodynamic contours, retractable nacelles, parametallic hull plating, unimatrix shielding based on Tuvok's brilliant design for the multispatial probe, and a Borg-inspired weapons system. 
 SEVEN: Basic design elements are adequate. 
 PARIS: High praise. 
-KIM: If we used isomagnetic EPS conduits in the plasma manifold, we
-could maximise the power distribution. 
+KIM: If we used isomagnetic EPS conduits in the plasma manifold, we could maximise the power distribution. 
 PARIS: That's the spirit, Harry. 
-TUVOK: My shield designs could be successfully applied to a vessel of
-this size. 
+TUVOK: My shield designs could be successfully applied to a vessel of this size. 
 PARIS: Big of you to admit it, Tuvok. 
-CHAKOTAY: And you think it'll be able to withstand the gas giant's
-atmosphere. 
+CHAKOTAY: And you think it'll be able to withstand the gas giant's atmosphere. 
 PARIS: The probe did. 
 JANEWAY: I'm impressed, but how quickly can it be built? 
-PARIS: We could replicate the alloys and the new design components, use
-spare parts from storage. If we worked around the clock we could have
-it up and running inside a week. 
+PARIS: We could replicate the alloys and the new design components, use spare parts from storage. If we worked around the clock we could have it up and running inside a week. 
 KIM: I'm willing to put in as much overtime as it takes. 
 SEVEN: I will forego regeneration for the duration of the project. 
-PARIS: What about you, B'Elanna? Building a new vessel from scratch,
-that's an engineer's dream come true. 
+PARIS: What about you, B'Elanna? Building a new vessel from scratch, that's an engineer's dream come true. 
 (Torres nods slightly.)
 PARIS: What do you say, Captain? 
 JANEWAY: Why are you all standing around?
 (Torres is the last to get up and leave.) 
- [Holodeck]
-(A scale
-model of the new delta-shaped shuttle is floating in the middle of the
-room.)
+[Holodeck]
+(A scale model of the new delta-shaped shuttle is floating in the middle of the room.)
 PARIS: Computer, add dynametric tail fins to the nacelles. 
 TUVOK: Computer, delete dynametric tail fins. 
 PARIS: What'd you do that for? 
 TUVOK: We are not designing a hot rod, Lieutenant. 
-PARIS: That is exactly what we're designing. A twenty fourth century,
-warp-powered, ultra-responsive hot rod.
-TUVOK: Your embellishments are purely decorative. They serve no
-practical purpose. 
-PARIS: I beg to differ. If we make this thing look mean enough, other
-ships are going to think twice before taking us on. 
-SEVEN: I suggest we return our attention to the matter of structural
-integrity. 
+PARIS: That is exactly what we're designing. A twenty fourth century, warp-powered, ultra-responsive hot rod.
+TUVOK: Your embellishments are purely decorative. They serve no practical purpose. 
+PARIS: I beg to differ. If we make this thing look mean enough, other ships are going to think twice before taking us on. 
+SEVEN: I suggest we return our attention to the matter of structural integrity. 
 TUVOK: Agreed. 
-SEVEN: Lieutenant Torres' hull design is flawed. We should be using
-tetraburnium alloys instead of titanium. 
+SEVEN: Lieutenant Torres' hull design is flawed. We should be using tetraburnium alloys instead of titanium. 
 KIM: Er, B'Elanna? 
 TORRES: Sounds fine to me. I'm going to finish up the thruster specs. 
- [Paris's
-quarters] 
- PARIS:
-It's open. 
+[Paris's quarters]
+PARIS: It's open. 
 (Torres enters with a PADD.)
 PARIS: Hey. 
 TORRES: Thruster specs. 
 PARIS: Thanks. Where're you running off to? 
 TORRES: My quarters. 
-PARIS: Stay a while. I'll replicate some dinner, a bottle of burgundy.
-We deserve a break, don't you think? 
+PARIS: Stay a while. I'll replicate some dinner, a bottle of burgundy. We deserve a break, don't you think? 
 TORRES: Not tonight. 
 PARIS: B'Elanna, what's going on? 
 TORRES: Nothing. 
-PARIS: Well, then how come it's impossible to have a conversation with
-you? 
+PARIS: Well, then how come it's impossible to have a conversation with you? 
 TORRES: I'm sorry. 
 PARIS: I don't want an apology. I want an explanation. 
 TORRES: Tom, I'm tired. 
-PARIS: Asleep is more like it. You hardly said three words in that last
-meeting. And then when Seven changed your design you acted like, like
-you didn't care.
+PARIS: Asleep is more like it. You hardly said three words in that last meeting. And then when Seven changed your design you acted like, like you didn't care.
 TORRES: I guess I didn't. 
-PARIS: I don't get it. How many times have we talked about how great it
-would be to do what we're doing now? To really collaborate my piloting
-skills and your engineering expertise. We finally get the chance to
-create something together from the ground up and you're not the
-slightest bit enthusiastic? 
-TORRES: I'm doing my job, aren't I? I delivered the thruster specs on
-schedule. 
-PARIS: B'Elanna, I'm not your boss. I'm not questioning your
-productivity or keeping tabs on how many hours you put in. I just want
-to know what's going on. 
+PARIS: I don't get it. How many times have we talked about how great it would be to do what we're doing now? To really collaborate my piloting skills and your engineering expertise. We finally get the chance to create something together from the ground up and you're not the slightest bit enthusiastic? 
+TORRES: I'm doing my job, aren't I? I delivered the thruster specs on schedule. 
+PARIS: B'Elanna, I'm not your boss. I'm not questioning your productivity or keeping tabs on how many hours you put in. I just want to know what's going on. 
 TORRES: I have to go. 
- [Corridor]
- TORRES:
-Computer, activate holodeck programme Torres two one six. 
+[Corridor]
+TORRES: Computer, activate holodeck programme Torres two one six. 
 COMPUTER: The programme is active. 
 TORRES: Disengage safety protocols. 
-COMPUTER: Warning. Disengaging safety protocols presents extreme risk
-of injury. 
+COMPUTER: Warning. Disengaging safety protocols presents extreme risk of injury. 
 TORRES: Override. 
 COMPUTER: Acknowledged. Safety protocols have been disengaged.
-(Torres
-enters the holodeck and removes her jacket. It is a cave setting. A
-Cardassian attacks her. She defeats him, and another grabs her from
-behind. Then the first gets up again.) 
- [Bridge]
-JANEWAY: Ensign, put us into a high orbit. I want to stay well above
-that ionospheric turbulence. 
+(Torres enters the holodeck and removes her jacket. It is a cave setting. A Cardassian attacks her. She defeats him, and another grabs her from behind. Then the first gets up again.) 
+[Bridge]
+JANEWAY: Ensign, put us into a high orbit. I want to stay well above that ionospheric turbulence. 
 (It is a lady Ensign at the helm.)
 ENSIGN: Aye, ma'am. 
-JANEWAY: There's the probe. Ten thousand kilometres beneath all that
-methane, but still intact. 
-CHAKOTAY: We're not alone. I'm reading massive theta radiation. It's
-being dumped by a Malon freighter approaching from the far side of the
-planet. They're hailing. 
+JANEWAY: There's the probe. Ten thousand kilometres beneath all that methane, but still intact. 
+CHAKOTAY: We're not alone. I'm reading massive theta radiation. It's being dumped by a Malon freighter approaching from the far side of the planet. They're hailing. 
 JANEWAY: They're more talkative than the last ones. Open a channel. 
 KIM: Aye, sir. 
 VRELK [on viewscreen]: Leave orbit of this planet now. 
 JANEWAY: I don't believe we've been introduced. I'm Captain Janeway. 
-VRELK [on viewscreen]: I know exactly who you are. You are the person
-responsible for the destruction of one of our freighters and the deaths
-of nine Malon citizens. 
-JANEWAY: I'm very sorry that lives were lost, but you're leaving out an
-important detail. Your people were trying to steal a probe from us. We
-warned them to stay away from the gas giant but they didn't listen. 
-VRELK [on viewscreen]: I'm taking your probe as compensation for our
-losses. 
-CHAKOTAY: That's going to be a little difficult. It's stuck beneath the
-atmosphere of the same gas giant that crushed your other ship. 
+VRELK [on viewscreen]: I know exactly who you are. You are the person responsible for the destruction of one of our freighters and the deaths of nine Malon citizens. 
+JANEWAY: I'm very sorry that lives were lost, but you're leaving out an important detail. Your people were trying to steal a probe from us. We warned them to stay away from the gas giant but they didn't listen. 
+VRELK [on viewscreen]: I'm taking your probe as compensation for our losses. 
+CHAKOTAY: That's going to be a little difficult. It's stuck beneath the atmosphere of the same gas giant that crushed your other ship. 
 VRELK [on viewscreen]: My people are expert at salvage operations. 
 JANEWAY: Well, Mister. 
 VRELK [on viewscreen]: Vrelk. Controller Vrelk. 
-JANEWAY: Vrelk. We have a little expertise of our own. We're a very
-determined crew. So my suggestion is that you leave orbit and in the
-future, if you come across anything that bears the insignia of the
-U.S.S. Voyager, head in the other direction.
+JANEWAY: Vrelk. We have a little expertise of our own. We're a very determined crew. So my suggestion is that you leave orbit and in the future, if you come across anything that bears the insignia of the U.S.S. Voyager, head in the other direction.
 VRELK [on viewscreen]: You are making a serious error. 
-JANEWAY: End transmission. Why would people in the business of toxic
-waste disposal be so anxious to get hold of a probe? 
-CHAKOTAY: It's not just any probe. It's multispatial technology. Maybe
-they think it'll help them find new places to dump their garbage.
-(Torres returns to her quarters to treat her cuts and bruises with a
-hidden dermal regenerator.) 
- [Mess
-hall] 
-(Later
-that night, the place is dark except for the kitchen.)
-NEELIX: B'Elanna! What a nice surprise. I was just getting ready to
-close. Business has been slow with so many people busy on the new
-shuttle. 
+JANEWAY: End transmission. Why would people in the business of toxic waste disposal be so anxious to get hold of a probe? 
+CHAKOTAY: It's not just any probe. It's multispatial technology. Maybe they think it'll help them find new places to dump their garbage.
+(Torres returns to her quarters to treat her cuts and bruises with a hidden dermal regenerator.) 
+[Mess hall]
+(Later that night, the place is dark except for the kitchen.)
+NEELIX: B'Elanna! What a nice surprise. I was just getting ready to close. Business has been slow with so many people busy on the new shuttle. 
 TORRES: Oh. I was just hoping we could catch up. 
 NEELIX: You want to catch up? With me? 
 TORRES: If you have the time. 
-NEELIX: Are you kidding? Yeah. Can I get you something? Name your
-poison. 
+NEELIX: Are you kidding? Yeah. Can I get you something? Name your poison. 
 TORRES: Oh. Er. 
-NEELIX: Come on, B'Elanna! I handed that one to you on a silver
-platter. 
+NEELIX: Come on, B'Elanna! I handed that one to you on a silver platter. 
 TORRES: Huh? 
-NEELIX: Name your poison? I was expecting one of those scathing but
-affectionate insults you always make about my cooking. 
+NEELIX: Name your poison? I was expecting one of those scathing but affectionate insults you always make about my cooking. 
 TORRES: Sorry. 
 NEELIX: You'll feel wittier on a full stomach. So, what'll it be? 
 TORRES: Actually, I was hoping for banana pancakes. 
 NEELIX: I don't think I ever heard of banana pancakes before. 
-TORRES: My grandmother used to make them for me when I was a kid. It's
-always put a smile on my face. 
+TORRES: My grandmother used to make them for me when I was a kid. It's always put a smile on my face. 
 NEELIX: Well then, one smile coming right up. 
 (He walks over to a replicator.)
 NEELIX: Computer, one stack of banana pancakes. Smells delicious. 
 TORRES: Thanks. So how have you been? 
-NEELIX: Oh, just great. My security training is going really well.
-Tuvok told me the other day that I'm, er, not completely inept. Aren't
-you going to try them? 
+NEELIX: Oh, just great. My security training is going really well. Tuvok told me the other day that I'm, er, not completely inept. Aren't you going to try them? 
 TORRES: Sure. 
 (She has one small fork-full.)
 NEELIX: Well? 
 TORRES: Delicious. I have to get back to work. 
- [Bridge]
-(Voyager
-and the freighter are flying in close;formation above the gas
-giant.)
+[Bridge]
+(Voyager and the freighter are flying in close;formation above the gas giant.)
 JANEWAY: What are they still doing here? 
-CHAKOTAY: Apparently, they're not willing to give up on the probe so
-easily. 
+CHAKOTAY: Apparently, they're not willing to give up on the probe so easily. 
 JANEWAY: The question is, how do they expect to get their hands on it? 
-TUVOK: It's reasonable to assume they're waiting for us to retrieve the
-probe, at which time they'll attempt to steal it again. 
-JANEWAY: Maybe, but they have to know we're prepared for that. If they
-were planning to fight you'd think they'd call in reinforcements, try
-to out-gun us. 
+TUVOK: It's reasonable to assume they're waiting for us to retrieve the probe, at which time they'll attempt to steal it again. 
+JANEWAY: Maybe, but they have to know we're prepared for that. If they were planning to fight you'd think they'd call in reinforcements, try to out-gun us. 
 CHAKOTAY: Sensors don't show any other Malon ships in the area. 
 SEVEN [OC]: Seven of Nine to the Captain. 
 JANEWAY: Janeway here. 
- [Astrometrics
-lab] 
- SEVEN:
-Report to the Astrometrics lab. I have important information regarding
-the Malon 
- [Bridge]
- SEVEN
-[OC]: vessel. 
+[Astrometrics lab]
+SEVEN: Report to the Astrometrics lab. I have important information regarding the Malon 
+[Bridge]
+SEVEN [OC]: vessel. 
 JANEWAY: Tuvok. 
- [Astrometrics
-lab] 
+[Astrometrics lab]
 JANEWAY: What have you got? 
-SEVEN: I've been using coherent neutrino beams to document activity
-aboard the Malon freighter. 
+SEVEN: I've been using coherent neutrino beams to document activity aboard the Malon freighter. 
 JANEWAY: In other words, you've been spying on them. 
-SEVEN: I've made a troubling discovery. This is a polythermal image of
-an interior section of the alien ship. The shaded figures you see are
-Malon crew members. 
+SEVEN: I've made a troubling discovery. This is a polythermal image of an interior section of the alien ship. The shaded figures you see are Malon crew members. 
 TUVOK: That appears to be a small ship. 
-SEVEN: Correct. The Malon are constructing a spacecraft composed of
-tetraburnium alloys. 
-TUVOK: Theoretically, such a ship would be capable of withstanding
-extreme atmospheric pressures. 
+SEVEN: Correct. The Malon are constructing a spacecraft composed of tetraburnium alloys. 
+TUVOK: Theoretically, such a ship would be capable of withstanding extreme atmospheric pressures. 
 JANEWAY: I'll be damned. They're going after the probe themselves. 
-SEVEN: That's not all, Captain. According to my projections, they will
-finish construction of their vessel at least thirty six hours before we
-finish ours. 
-JANEWAY: Well then, I'd say we've got an old-fashioned space race on
-our hands. 
-Captain's log, supplemental. We've stepped up the pace of construction
-in order to finish our shuttle before the Malon finish theirs.
-According to Seven's most recent intelligence we've gained some ground
-over the last twenty four hours , putting us in a virtual dead heat
-with our competitors. 
- [Delta
-Flyer] 
- KIM: I
-keep telling you, we've got to reinforce the hull with kellinite.
-That's all there is to it. 
-TUVOK: Proposing the same flawed strategy over and over again will not
-me it more effective, Ensign. 
-KIM: Well, we've got to come up with something or we'll never get this
-thing off the ground. 
+SEVEN: That's not all, Captain. According to my projections, they will finish construction of their vessel at least thirty six hours before we finish ours. 
+JANEWAY: Well then, I'd say we've got an old-fashioned space race on our hands. 
+Captain's log, supplemental. We've stepped up the pace of construction in order to finish our shuttle before the Malon finish theirs. According to Seven's most recent intelligence we've gained some ground over the last twenty four hours , putting us in a virtual dead heat with our competitors. 
+[Delta Flyer]
+KIM: I keep telling you, we've got to reinforce the hull with kellinite. That's all there is to it. 
+TUVOK: Proposing the same flawed strategy over and over again will not me it more effective, Ensign. 
+KIM: Well, we've got to come up with something or we'll never get this thing off the ground. 
 TORRES: Vorik, turn that damn thing off. I can't hear myself think. 
 VORIK: Sorry, sir. 
-PARIS: Look, we could spend weeks trying to solve this, but we've got a
-ticking clock. Engines are working, weapons systems are online. I say
-we launch now and hope for the best. 
-TUVOK: Mister Paris, that is perhaps the most illogical statement
-you've ever made. Unless we find a way to reconfigure the structural
-integrity field the hull will incur microfractures during descent. 
-PARIS: Microfractures, Tuvok. Doesn't necessarily mean we'll have a
-hull breach. 
-TUVOK: And if we do, I suppose these useless design elements from your
-Captain Proton scenario will compensate for the problem. 
+PARIS: Look, we could spend weeks trying to solve this, but we've got a ticking clock. Engines are working, weapons systems are online. I say we launch now and hope for the best. 
+TUVOK: Mister Paris, that is perhaps the most illogical statement you've ever made. Unless we find a way to reconfigure the structural integrity field the hull will incur microfractures during descent. 
+PARIS: Microfractures, Tuvok. Doesn't necessarily mean we'll have a hull breach. 
+TUVOK: And if we do, I suppose these useless design elements from your Captain Proton scenario will compensate for the problem. 
 PARIS: Hey, every one of these knobs and levers is fully functional. 
 TUVOK: And completely superfluous. 
-PARIS: Maybe to you. I am tired of tapping panels. For once, I want
-controls that let me actually feel the ship I'm piloting. 
+PARIS: Maybe to you. I am tired of tapping panels. For once, I want controls that let me actually feel the ship I'm piloting. 
 KIM: Where are you going? 
 TORRES: Holodeck. 
 KIM: What for? 
 TORRES: To find out if this microfracture problem is a fatal flaw. 
- [Holodeck
-- Delta Flyer] 
- TORRES:
-Computer, activate immersion shielding. 
+[Holodeck - Delta Flyer]
+TORRES: Computer, activate immersion shielding. 
 COMPUTER: Immersion shielding activated. 
 TORRES: Commence descent sequence. 
-COMPUTER: Range to probe, thirty thousand kilometres. Twenty five
-thousand. Warning. Atmospheric pressure is exceeding tolerance levels.
-Rapid ascent recommended. 
+COMPUTER: Range to probe, thirty thousand kilometres. Twenty five thousand. Warning. Atmospheric pressure is exceeding tolerance levels. Rapid ascent recommended. 
 TORRES: Continue descent. 
 COMPUTER: Acknowledged. Range to probe, ten thousand kilometres. 
 TORRES: Disengage safety protocols. 
-COMPUTER: Warning. Disengaging safety protocols presents extreme risk
-of injury. 
+COMPUTER: Warning. Disengaging safety protocols presents extreme risk of injury. 
 TORRES: Override. 
-COMPUTER: Acknowledged. Safety protocols have been disengaged. Warning.
-Atmospheric pressure is exceeding tolerance levels. 
+COMPUTER: Acknowledged. Safety protocols have been disengaged. Warning. Atmospheric pressure is exceeding tolerance levels. 
 TORRES: Reroute power from secondary systems to structural integrity. 
-COMPUTER: Acknowledged. Microfractures are present in zones one and
-four. 
+COMPUTER: Acknowledged. Microfractures are present in zones one and four. 
 (The helm console goes Bang! knocking Torres out.) 
- [Bridge]
-CHAKOTAY: The Malon are venting a theta radiation cloud. Our shields
-are down to eighty nine percent. 
+[Bridge]
+CHAKOTAY: The Malon are venting a theta radiation cloud. Our shields are down to eighty nine percent. 
 JANEWAY: Ensign, back us off. 
 CHAKOTAY: Vrelk is hailing. 
 JANEWAY: On screen. 
-VRELK [on viewscreen]: That was rude, wasn't it, but we still have
-quite a bit of antimatter waste to expel. I hope we didn't damage your
-shields, 
+VRELK [on viewscreen]: That was rude, wasn't it, but we still have quite a bit of antimatter waste to expel. I hope we didn't damage your shields, 
 JANEWAY: Our shields are fine. 
-VRELK [on viewscreen]: Mmm. Well, we only ejected a small amount of
-waste this time. We still have much, much more to get rid of. Your
-shields may not be able to stand even higher levels of theta radiation.
+VRELK [on viewscreen]: Mmm. Well, we only ejected a small amount of waste this time. We still have much, much more to get rid of. Your shields may not be able to stand even higher levels of theta radiation. 
 JANEWAY: I've already told you we're not going anywhere. 
-VRELK [on viewscreen]: Let's stop playing these games, Captain. You've
-scanned my ship, I've scanned yours. We each know the other is building
-a vessel to retrieve the probe. What you don't know is that my vessel
-will be ready to launch in less than two days. You're too far behind. 
-JANEWAY: Well, if you're so far ahead, why bother trying to scare us
-away? 
-VRELK [on viewscreen]: Just trying to save you the embarrassment of
-losing. 
+VRELK [on viewscreen]: Let's stop playing these games, Captain. You've scanned my ship, I've scanned yours. We each know the other is building a vessel to retrieve the probe. What you don't know is that my vessel will be ready to launch in less than two days. You're too far behind. 
+JANEWAY: Well, if you're so far ahead, why bother trying to scare us away? 
+VRELK [on viewscreen]: Just trying to save you the embarrassment of losing. 
 (Transmission ends.)
 CHAKOTAY: Think they're really two days away? 
-JANEWAY: He's probably bluffing but we're not going to take any
-chances. We've got to speed up construction somehow. 
-CHAKOTAY: We'd also better find a way to shore up our shields in case
-Vrelk decides to do anymore venting. 
-JANEWAY: Good idea. Janeway to Lieutenant Torres. Computer, locate
-Lieutenant Torres. 
+JANEWAY: He's probably bluffing but we're not going to take any chances. We've got to speed up construction somehow. 
+CHAKOTAY: We'd also better find a way to shore up our shields in case Vrelk decides to do anymore venting. 
+JANEWAY: Good idea. Janeway to Lieutenant Torres. Computer, locate Lieutenant Torres. 
 COMPUTER: Lieutenant Torres is in holodeck one. 
 JANEWAY: Get down there. 
- [Holodeck
-- Delta Flyer] 
-COMPUTER: Warning. Hull microfractures are present in zones one, two,
-three and four. Hull breach is imminent. Repeat. Hull microfracture are
-present in zones one, two, three and four. Hull breach is imminent. 
-CHAKOTAY: Computer, freeze programme! B'Elanna. Chakotay to Sickbay.
-Medical emergency. 
- [Sickbay]
- TORRES:
-What am I doing here? 
+[Holodeck - Delta Flyer]
+COMPUTER: Warning. Hull microfractures are present in zones one, two, three and four. Hull breach is imminent. Repeat. Hull microfracture are present in zones one, two, three and four. Hull breach is imminent. 
+CHAKOTAY: Computer, freeze programme! B'Elanna. Chakotay to Sickbay. Medical emergency. 
+[Sickbay]
+TORRES: What am I doing here? 
 EMH: You had an accident on the holodeck. 
 TORRES: How long was I out? 
 EMH: Almost twelve hours. 
@@ -433,65 +282,42 @@ TORRES: But I feel fine.
 (Janeway enters.)
 JANEWAY: Would you excuse us please, Doctor. 
 TORRES: Captain, what's going on? 
-JANEWAY: When the Doctor examined you he found evidence of internal
-bleeding, fractured vertebrae, contusions, cranial trauma. 
+JANEWAY: When the Doctor examined you he found evidence of internal bleeding, fractured vertebrae, contusions, cranial trauma. 
 TORRES: I guess the accident was pretty serious. 
-JANEWAY: The injuries I'm talking about didn't happen recently. Some of
-them are weeks, even months old. 
+JANEWAY: The injuries I'm talking about didn't happen recently. Some of them are weeks, even months old. 
 TORRES: Well, I'm an engineer. I've had my share of bumps and bruises. 
 JANEWAY: But you didn't seek treatment for any of these. 
 TORRES: I don't run to Sickbay every time I stub my toe. 
 JANEWAY: Some of these injuries were life-threatening, B'Elanna. 
 TORRES: Do I look like I'm dying? 
-JANEWAY: The Doctor says many of the wounds were treated by someone
-with the medical expertise of a first-year nursing student. 
+JANEWAY: The Doctor says many of the wounds were treated by someone with the medical expertise of a first-year nursing student. 
 TORRES: Oh, that's ridiculous. 
-JANEWAY: Is it? We investigated today's accident. You turned off the
-safety protocols during the holo-simulation. Why? 
-TORRES: We have a microfracture problem. With the safety protocols on,
-there's no way to be sure what would happen during a real flight. 
+JANEWAY: Is it? We investigated today's accident. You turned off the safety protocols during the holo-simulation. Why? 
+TORRES: We have a microfracture problem. With the safety protocols on, there's no way to be sure what would happen during a real flight. 
 JANEWAY: You don't really expect me to believe that, do you? 
 TORRES: Are you calling me a liar? 
-JANEWAY: According to the holodeck logs, you've been spending a lot of
-time there over the last few months. If I were to check, would I find
-that you've been running other programmes without safety protocols? 
+JANEWAY: According to the holodeck logs, you've been spending a lot of time there over the last few months. If I were to check, would I find that you've been running other programmes without safety protocols? 
 TORRES: Would you like to look at my personal logs as well? 
-JANEWAY: B'Elanna, I'm worried about you. If there's something wrong, I
-want to help. 
+JANEWAY: B'Elanna, I'm worried about you. If there's something wrong, I want to help. 
 TORRES: Nothing's wrong. Okay? 
-JANEWAY: No. It's not okay. And until you decide to be more forthcoming
-you'll remain under the Doctor's supervision. Which means you're off
-the shuttle project. I'm sorry. 
+JANEWAY: No. It's not okay. And until you decide to be more forthcoming you'll remain under the Doctor's supervision. Which means you're off the shuttle project. I'm sorry. 
 TORRES: I'm not. 
 JANEWAY: Now I know there's something wrong. 
- [Ready
-room] 
- PARIS:
-Engines are operating at close to ninety percent efficiency, Seven's
-got her new weapons system online. And if we can just solve that
-microfracture problem, we'll be ready to go. 
-JANEWAY: Keep on it. Now, let's talk about B'Elanna. Tom, you had no
-idea about these injuries or how she got them? 
-PARIS: She never complained about being hurt, but then again she's
-barely speaking to me lately. 
-JANEWAY: It's almost as if she's been intentionally trying to hurt
-herself. 
-CHAKOTAY: You think all these injuries have been happening on the
-holodeck? 
-JANEWAY: Well, where else? If they'd happened while she was working, as
-she claims, somebody would've filed an injury report. 
+[Ready room]
+PARIS: Engines are operating at close to ninety percent efficiency, Seven's got her new weapons system online. And if we can just solve that microfracture problem, we'll be ready to go. 
+JANEWAY: Keep on it. Now, let's talk about B'Elanna. Tom, you had no idea about these injuries or how she got them? 
+PARIS: She never complained about being hurt, but then again she's barely speaking to me lately. 
+JANEWAY: It's almost as if she's been intentionally trying to hurt herself. 
+CHAKOTAY: You think all these injuries have been happening on the holodeck? 
+JANEWAY: Well, where else? If they'd happened while she was working, as she claims, somebody would've filed an injury report. 
 CHAKOTAY: Any idea what sort of programmes she's been running? 
 JANEWAY: Are you thinking the same thing I am? 
-CHAKOTAY: I hate to go digging around in someone's personal holodeck
-programmes, but if she won't tell us what's going on I don't think we
-have much choice. 
+CHAKOTAY: I hate to go digging around in someone's personal holodeck programmes, but if she won't tell us what's going on I don't think we have much choice. 
 JANEWAY: Tom, what do you think? 
 PARIS: He's right. 
 JANEWAY: Start digging. 
- [Torres'
-quarters] 
-(The
-doorbell chimes repeatedly.)
+[Torres' quarters]
+(The doorbell chimes repeatedly.)
 TORRES: I'm sleeping! 
 (Chakotay enters.)
 TORRES: Oh. 
@@ -500,35 +326,24 @@ TORRES: Hi. I, I thought you were the Doctor making a house call.
 CHAKOTAY: He let you out of the cell block, huh?
 TORRES: He thinks familiar surroundings will help speed my recovery. 
 CHAKOTAY: Recovery from what? 
-TORRES: That's what I said. He thinks I'm suffering from clinical
-depression. 
+TORRES: That's what I said. He thinks I'm suffering from clinical depression. 
 CHAKOTAY: Are you depressed? 
 TORRES: What are you, the new ship's counsellor? 
 CHAKOTAY: No. Just a friend. 
-TORRES: This whole thing is so ridiculous. I don't report a few scrapes
-and suddenly Janeway thinks there's something wrong with me. Typical
-Starfleet, huh? 
-CHAKOTAY: You have been running holodeck programmes without safety
-protocols. 
-TORRES: A few, but I haven't put anybody else at risk, and it's nothing
-that I can't handle. 
-CHAKOTAY: Tell you what. What do you say you and I pay a little visit
-to the holodeck? You can show me some of the programmes you've been
-running. 
+TORRES: This whole thing is so ridiculous. I don't report a few scrapes and suddenly Janeway thinks there's something wrong with me. Typical Starfleet, huh? 
+CHAKOTAY: You have been running holodeck programmes without safety protocols. 
+TORRES: A few, but I haven't put anybody else at risk, and it's nothing that I can't handle. 
+CHAKOTAY: Tell you what. What do you say you and I pay a little visit to the holodeck? You can show me some of the programmes you've been running. 
 TORRES: Right now? 
-CHAKOTAY: Sure. Maybe if I see what you've been up to, I can convince
-the Captain there's nothing to worry about. 
+CHAKOTAY: Sure. Maybe if I see what you've been up to, I can convince the Captain there's nothing to worry about. 
 TORRES: She's taken away my holodeck privileges. 
 CHAKOTAY: Consider them restored. 
- [Corridor]
+[Corridor]
 CHAKOTAY: Computer, activate holo-programme Torres zeta one. 
 COMPUTER: Programme activated. 
 TORRES: What are you doing? 
- [Holodeck
-- caves] 
-(Chakotay
-drags Torres into the caves. There are flashes of weapons fire, voices
-shouting and bodies on the ground.)
+[Holodeck - caves]
+(Chakotay drags Torres into the caves. There are flashes of weapons fire, voices shouting and bodies on the ground.)
 TORRES: Computer, freeze programme. 
 CHAKOTAY: Computer, belay that command. 
 TORRES: Turn it off! 
@@ -537,112 +352,71 @@ TORRES: You know what it is.
 (Chakotay turns over one charred body.)
 CHAKOTAY: Who's this? 
 TORRES: Li-Paz. Don't you recognise him? 
-CHAKOTAY: Oh, I recognise them all. Meyer. Nelson. Sahreen. You created
-a programme to watch all our Maquis friends get slaughtered. What I
-want to know is why?
-TORRES: I thought we came down here to talk about safety protocols.
-This has nothing to do with that. 
-CHAKOTAY: I'm not so sure. The logs show you only ran this programme
-for forty seven seconds the day after I gave you the news about the
-massacre. Then you shut it down and started running the most dangerous
-programmes you could find, with the safeties off. Why?! 
+CHAKOTAY: Oh, I recognise them all. Meyer. Nelson. Sahreen. You created a programme to watch all our Maquis friends get slaughtered. What I want to know is why?
+TORRES: I thought we came down here to talk about safety protocols. This has nothing to do with that. 
+CHAKOTAY: I'm not so sure. The logs show you only ran this programme for forty seven seconds the day after I gave you the news about the massacre. Then you shut it down and started running the most dangerous programmes you could find, with the safeties off. Why?! 
 TORRES: This is ridiculous. I'm leaving. 
 CHAKOTAY: Computer, seal the doors. 
 TORRES: You can't do this! 
-CHAKOTAY: The hell I can't. You're not going anywhere until you tell me
-what's going on. B'Elanna, why are you intentionally trying to hurt
-yourself? 
+CHAKOTAY: The hell I can't. You're not going anywhere until you tell me what's going on. B'Elanna, why are you intentionally trying to hurt yourself? 
 TORRES: I don't know. 
 CHAKOTAY: Are you trying to commit suicide? 
 TORRES: No. 
 CHAKOTAY: Then why? 
-TORRES: Because. Because if I sprain my ankle, at least I feel
-something. 
+TORRES: Because. Because if I sprain my ankle, at least I feel something. 
 CHAKOTAY: What do you mean? 
-TORRES: I'm not trying to kill myself. I'm trying to see if I'm still
-alive. 
+TORRES: I'm not trying to kill myself. I'm trying to see if I'm still alive. 
 CHAKOTAY: I don't understand. 
 TORRES: When you look at those corpses, how do you feel? 
-CHAKOTAY: Sad. Angry. Maybe a little guilty that I wasn't there to die
-with them. 
+CHAKOTAY: Sad. Angry. Maybe a little guilty that I wasn't there to die with them. 
 TORRES: Not me. I don't feel anything at all. 
-CHAKOTAY: B'Elanna, the Maquis were like our adopted family. I can
-understand you trying to block out that kind of pain. 
-TORRES: You don't understand. It's not just the pain. I don't feel
-anything. Not about my dead friends, not about Tom, you, my job. 
-CHAKOTAY: Maybe you're afraid if you let yourself start to feel
-something, you might not be able to stop. You can't just shut off your
-emotions, B'Elanna. Sooner or later you're going to have to let
-yourself grieve. 
+CHAKOTAY: B'Elanna, the Maquis were like our adopted family. I can understand you trying to block out that kind of pain. 
+TORRES: You don't understand. It's not just the pain. I don't feel anything. Not about my dead friends, not about Tom, you, my job. 
+CHAKOTAY: Maybe you're afraid if you let yourself start to feel something, you might not be able to stop. You can't just shut off your emotions, B'Elanna. Sooner or later you're going to have to let yourself grieve. 
 TORRES: Why? Just so I can go through it all over again? 
 CHAKOTAY: What are you talking about? 
-TORRES: When I was six, my father walked out on me. When I was
-nineteen, I got kicked out of Starfleet. A few years later, I got
-separated from the Maquis. And just when I start to feel safe, you tell
-me that all of our old friends have been slaughtered. The way I figure
-it, I've lost every family I've ever had. 
-CHAKOTAY: B'Elanna, you have a new family now, here on Voyager. You're
-not going to lose us. You're stuck with us. 
+TORRES: When I was six, my father walked out on me. When I was nineteen, I got kicked out of Starfleet. A few years later, I got separated from the Maquis. And just when I start to feel safe, you tell me that all of our old friends have been slaughtered. The way I figure it, I've lost every family I've ever had. 
+CHAKOTAY: B'Elanna, you have a new family now, here on Voyager. You're not going to lose us. You're stuck with us. 
 TORRES: You can't promise me that. 
-CHAKOTAY: No, I suppose I can't. Losing people's inevitable, and
-sometimes it happens sooner than we expect. But I can promise you that
-the people on this ship aren't about to let you stop living your life
-or break your neck on the holodeck. You're going to have to find
-another way to deal with this. 
+CHAKOTAY: No, I suppose I can't. Losing people's inevitable, and sometimes it happens sooner than we expect. But I can promise you that the people on this ship aren't about to let you stop living your life or break your neck on the holodeck. You're going to have to find another way to deal with this. 
 TORRES: I don't know how. 
 CHAKOTAY: Then we'll figure it out. Together. 
-JANEWAY [OC]: Commander Chakotay, we're under attack. Report to the
-bridge immediately. 
+JANEWAY [OC]: Commander Chakotay, we're under attack. Report to the bridge immediately. 
 TORRES: You'd better go. 
- [Bridge]
-(Malon
-spatial charges are exploding around Voyager.)
+[Bridge]
+(Malon spatial charges are exploding around Voyager.)
 CHAKOTAY: Why are they suddenly picking a fight? 
-TUVOK: I believe they're attempting to distract us, Commander, while
-they launch their new shuttlecraft.
+TUVOK: I believe they're attempting to distract us, Commander, while they launch their new shuttlecraft.
 (And away it flies, into the gas giant.) 
-TUVOK: The Malon vessel is forty two thousand kilometres from the
-probe, and closing. 
+TUVOK: The Malon vessel is forty two thousand kilometres from the probe, and closing. 
 CHAKOTAY: We can still catch them. 
 JANEWAY: Bridge to Lieutenant Paris. 
- [Delta
-Flyer] 
- PARIS:
-Paris here. 
-JANEWAY [OC]: We've got to launch now if we're going to get to the
-probe first. Are you ready? 
+[Delta Flyer]
+PARIS: Paris here. 
+JANEWAY [OC]: We've got to launch now if we're going to get to the probe first. Are you ready? 
 PARIS: Yes ma'am. I'll begin the prelaunch sequence. 
- [Bridge]
+[Bridge]
 JANEWAY: What about the microfracture problem? 
- [Delta
-Flyer] 
- PARIS:
-We're keeping an eye on it, but we sure could use an extra hand. 
- [Bridge]
+[Delta Flyer]
+PARIS: We're keeping an eye on it, but we sure could use an extra hand. 
+[Bridge]
 JANEWAY: Chakotay's on his way. 
- [Corridor]
- TORRES:
-Chakotay, let me go. 
+[Corridor]
+TORRES: Chakotay, let me go. 
 CHAKOTAY: B'Elanna, I'm in a hurry. 
-TORRES: I am not out to get myself hurt if that's what you're thinking.
-I just want to do my job. 
+TORRES: I am not out to get myself hurt if that's what you're thinking. I just want to do my job. 
 CHAKOTAY: I thought you weren't interested in your job anymore. 
-TORRES: If that hull breaches, I should be there. I'm still the best
-engineer we've got. 
+TORRES: If that hull breaches, I should be there. I'm still the best engineer we've got. 
 CHAKOTAY: Not lately. 
 TORRES: I can do this. I need to do this. 
 (He gives her the toolbox he is carrying.) 
- [Delta
-Flyer] 
-(The
-Delta Flyer has multiple windows around and above the cockpit, not just
-a forward viewscreen.)
+[Delta Flyer]
+(The Delta Flyer has multiple windows around and above the cockpit, not just a forward viewscreen.)
 KIM: Forty seconds to launch. 
 SEVEN: Powering impulse engines. 
 PARIS: Stand by to bring aft thrusters online. 
 KIM: B'Elanna. 
-TORRES: I heard you might need some help keeping this thing from
-falling apart. 
+TORRES: I heard you might need some help keeping this thing from falling apart. 
 PARIS: Welcome aboard. 
 TORRES: Vorik, you're in my seat. 
 VORIK: Excuse me, Lieutenant. 
@@ -655,82 +429,63 @@ SEVEN: Aft thrusters enabled.
 KIM: Ten seconds. 
 PARIS: Alright, let's see what this baby can do. 
 KIM: Five. Four. Three. Two. One. 
- [Bridge]
- TUVOK:
-The Delta Flyer is away, Captain. 
+[Bridge]
+TUVOK: The Delta Flyer is away, Captain. 
 JANEWAY: How long till they overtake the Malon shuttle? 
 TUVOK: At present velocity, approximately three minutes. 
- [Delta
-Flyer] 
- PARIS:
-We're in. 
+[Delta Flyer]
+PARIS: We're in. 
 TORRES: Structural integrity's at ninety two percent. 
-KIM: There's the Malon shuttle. Two hundred kilometres off the port bow
-and three thousand kilometres from the probe. 
+KIM: There's the Malon shuttle. Two hundred kilometres off the port bow and three thousand kilometres from the probe. 
 PARIS: We'll catch them. B'Elanna, how's the hull? 
 TORRES: Structural integrity's down about twelve percent. 
 SEVEN: They're launching spatial charges. Shields holding. 
-PARIS: They want to play dirty. Let's show them what a little
-Borg-inspired weaponry can do. 
+PARIS: They want to play dirty. Let's show them what a little Borg-inspired weaponry can do. 
 SEVEN: Acknowledged. Loading photonic missiles. 
 (A console goes Bang!)
 KIM: We've lost power to secondary systems. 
 PARIS: Fire. 
 SEVEN: Three direct hits. 
 KIM: They're losing attitude control. They're pulling up. 
-PARIS: Nice shooting, Seven. I'm taking us down to the target. Harry,
-get ready to grab the probe. 
+PARIS: Nice shooting, Seven. I'm taking us down to the target. Harry, get ready to grab the probe. 
 KIM: Still out of transport range. 
 TORRES: We're losing integrity. Fifty percent, forty. 
-PARIS: If you can hold us together for another half a minute we'll be
-within range of the target. 
+PARIS: If you can hold us together for another half a minute we'll be within range of the target. 
 SEVEN: We still need to survive the ascent. 
 PARIS: One thing at a time. 
-TORRES: We're losing structural integrity. It's down to twenty five
-percent. 
+TORRES: We're losing structural integrity. It's down to twenty five percent. 
 PARIS: Harry, prepare to lock on. 
-TORRES: We've got microfractures forming. Aft starboard hull, zone two.
+TORRES: We've got microfractures forming. Aft starboard hull, zone two. 
 KIM: I've got a lock. Beaming the probe into the cargo hold. Got it! 
 PARIS: Initiating rapid ascent. 
 (A panel starts to buckle.)
 TORRES: Harry, I need those secondary systems back online. 
-KIM: I can't. They're fried. (Torres pulls a cover off another section
-and places it over the failing panel, then starts to weld it in place.)
+KIM: I can't. They're fried. (Torres pulls a cover off another section and places it over the failing panel, then starts to weld it in place.)
 SEVEN: Lieutenant, what are you doing? 
 TORRES: Patching a hole before it opens. 
 KIM: That'll never hold. 
-TORRES: It'll hold a minute or two, and with any luck that's all we
-need. Seven, take over here. I need an EPS relay. 
+TORRES: It'll hold a minute or two, and with any luck that's all we need. Seven, take over here. I need an EPS relay. 
 KIM: Er, there's one in the transporter control circuitry. 
 SEVEN: The panel is sealed. 
 TORRES: Good. Get away from it. 
 (She attaches the relay to a device she has taken from a locker.)
 TORRES: I need a phaser.
-(Kim
-throws one to her. She plugs it into the device as the repair starts to
-buckle. Then she turns the phaser on and adjusts the EPS relay power
-feed.)
+(Kim throws one to her. She plugs it into the device as the repair starts to buckle. Then she turns the phaser on and adjusts the EPS relay power feed.)
 TORRES:  Watch out. I don't know if this is going to work. 
-(She creates a forcefield across the area of the microfractures. When
-the hull breaches, the ship is still safe.)
+(She creates a forcefield across the area of the microfractures. When the hull breaches, the ship is still safe.)
 KIM: Glad you decided to come along. 
- [Bridge]
- TUVOK:
-The Delta Flyer has docked. 
+[Bridge]
+TUVOK: The Delta Flyer has docked. 
 JANEWAY: And the Malon? 
-CHAKOTAY: They're a little preoccupied. Seems their shuttlecraft's
-having a problem climbing out of the gas giant's atmosphere. 
+CHAKOTAY: They're a little preoccupied. Seems their shuttlecraft's having a problem climbing out of the gas giant's atmosphere. 
 JANEWAY: Get us out of here, Ensign. Warp two. 
 ENSIGN: Aye, Captain. 
- [Corridor]
+[Corridor]
 CHAKOTAY: B'Elanna. I heard you did a hell of a job. So, how are you? 
 TORRES: You mean am I back to my old charming self? I don't know. 
 CHAKOTAY: Give it time. 
-TORRES: Chakotay. What you did down in the holodeck today. Thanks. But
-if you ever do anything like that again, I'll break your neck. 
- [Mess
-hall] 
- TORRES:
-Computer, one stack of banana pancakes with maple syrup. 
-(Torres takes a mouthful and smiles.)  
+TORRES: Chakotay. What you did down in the holodeck today. Thanks. But if you ever do anything like that again, I'll break your neck. 
+[Mess hall]
+TORRES: Computer, one stack of banana pancakes with maple syrup. 
+(Torres takes a mouthful and smiles.) 
 

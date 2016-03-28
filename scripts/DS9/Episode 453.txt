@@ -1,150 +1,96 @@
 Episode Number: 453
 The Deep Space Nine Transcripts - Civil Defense
-Civil
-Defense
-Stardate:
-Unknown
+Civil Defense
+Stardate: Unknown
 Original Airdate: 7 Nov, 1994
-  [Ore
-Processing unit]
-(Two storeys high, with a big chute running down
-the middle of the room) 
+[Ore Processing unit]
+(Two storeys high, with a big chute running down the middle of the room) 
 O'BRIEN: How's it going, Jake? 
-JAKE: Fine. I've deleted half the Cardassian files from the computer. I
-can't believe how many subroutines it took just to run this ore
-processor. 
-O'BRIEN: Well, it used to be a pretty large operation. When the
-Cardassians were in charge, I understand they processed twenty thousand
-tons a day. 
+JAKE: Fine. I've deleted half the Cardassian files from the computer. I can't believe how many subroutines it took just to run this ore processor. 
+O'BRIEN: Well, it used to be a pretty large operation. When the Cardassians were in charge, I understand they processed twenty thousand tons a day. 
 JAKE: That's a lot of ore. 
-O'BRIEN: It must've been hell in here. I heard stories that the
-temperature reached fifty five degrees Celsius. 
+O'BRIEN: It must've been hell in here. I heard stories that the temperature reached fifty five degrees Celsius. 
 JAKE: How could the Bajoran workers survive that? 
-O'BRIEN: A lot of them didn't. When you've deleted all those files,
-I'll show you how to download the new operating system. 
-JAKE: You really think we can convert this place into a deuterium
-refinery? 
-O'BRIEN: Absolutely. It'll take us three, maybe four weeks at the most.
-SISKO: I hope you're planning on eating during the next three to four
-weeks. 
+O'BRIEN: A lot of them didn't. When you've deleted all those files, I'll show you how to download the new operating system. 
+JAKE: You really think we can convert this place into a deuterium refinery? 
+O'BRIEN: Absolutely. It'll take us three, maybe four weeks at the most. 
+SISKO: I hope you're planning on eating during the next three to four weeks. 
 O'BRIEN: Commander. I guess I lost track of the time. 
-JAKE: We're almost finished, Dad. Chief, I'm having a problem deleting
-one of these files. 
+JAKE: We're almost finished, Dad. Chief, I'm having a problem deleting one of these files. 
 O'BRIEN: Have you tried reformatting the data cluster? 
 JAKE: Yeah, but the file's still here 
 O'BRIEN: Let me see. That's odd. 
 SISKO: What's that, Chief? 
-O'BRIEN: Well, the file has no name. No indication what it is. I'd
-better set it aside for now. I can transfer it to the central database
-in Ops and analyse it in the morning. 
+O'BRIEN: Well, the file has no name. No indication what it is. I'd better set it aside for now. I can transfer it to the central database in Ops and analyse it in the morning. 
 (Warning flashes up on the monitor.) 
 O'BRIEN: Wait a minute. 
-COMPUTER: Unauthorised computer entry detected in Ore Processing unit
-five. Enter access code. 
+COMPUTER: Unauthorised computer entry detected in Ore Processing unit five. Enter access code. 
 (O'Brien does.) 
-COMPUTER: Incorrect code. You have five seconds to enter correct access
-code. 
+COMPUTER: Incorrect code. You have five seconds to enter correct access code. 
 JAKE: Or what? 
 O'BRIEN: I don't know. I'd better stop it. 
 (An alarm sounds and the doors are sealed.) 
 COMPUTER: Warning. 
- [Ops]
-COMPUTER: Worker revolt in progress in Ore
-Processing unit five. Security countermeasures initiated. 
-KIRA: What the hell?
- [Ore Processing unit]
-DUKAT [on monitor]: Bajoran workers, your attention
-please. Your attempt to seize control of this facility is going to
-fail. You are valuable workers and we wish you no harm. However if you
-do not return control of this unit to your Cardassian supervisors, we
-will be forced to take action. You have eight minutes to make your
-decision. 
-(During the opening titles, O'Brien has been working on one of the
-doors.) 
-O'BRIEN: The computer's engaged the magnetic seal. I can't override it.
+[Ops]
+COMPUTER: Worker revolt in progress in Ore Processing unit five. Security countermeasures initiated. 
+KIRA: What the hell? 
+[Ore Processing unit]
+DUKAT [on monitor]: Bajoran workers, your attention please. Your attempt to seize control of this facility is going to fail. You are valuable workers and we wish you no harm. However if you do not return control of this unit to your Cardassian supervisors, we will be forced to take action. You have eight minutes to make your decision. 
+(During the opening titles, O'Brien has been working on one of the doors.) 
+O'BRIEN: The computer's engaged the magnetic seal. I can't override it. 
 KIRA [OC]: Ops to Sisko. 
 SISKO: Go ahead. 
-KIRA [OC]: Commander, what is going on down there?
- [Ops]
-KIRA: We just got a recorded message from Gul Dukat
-regarding some worker revolt in the ore processing facility. 
+KIRA [OC]: Commander, what is going on down there? 
+[Ops]
+KIRA: We just got a recorded message from Gul Dukat regarding some worker revolt in the ore processing facility. 
 SISKO [OC]: We saw the same message. 
 [Ore Processing unit]
-SISKO: It seems we've tripped some kind of
-automated security programme the Cardassians left. We're locked in. 
+SISKO: It seems we've tripped some kind of automated security programme the Cardassians left. We're locked in. 
 KIRA [OC]: We'll beam you out of there. 
 [Ops]
 COMPUTER: Enter access code. 
 DAX: What? 
-BASHIR: If this security programme thinks there's been some kind of
-worker revolt, then it must think this station is still under
-Cardassian rule, so it's probably waiting for us to enter an emergency
-code. 
-KIRA: One that the Cardassians never bothered to give us when they
-left. 
+BASHIR: If this security programme thinks there's been some kind of worker revolt, then it must think this station is still under Cardassian rule, so it's probably waiting for us to enter an emergency code. 
+KIRA: One that the Cardassians never bothered to give us when they left. 
 ODO [OC]: Odo to Ops. 
 KIRA: Kira here. 
- [Security office]
-ODO: My Cardassian access codes are still valid.
-I'm attempting to override the security programme but it's going to
-take some time. I'm not sure my clearance level is high enough. 
-KIRA [OC]: Well, keep at it. We'll try to do the same thing from up
-here. 
+[Security office]
+ODO: My Cardassian access codes are still valid. I'm attempting to override the security programme but it's going to take some time. I'm not sure my clearance level is high enough. 
+KIRA [OC]: Well, keep at it. We'll try to do the same thing from up here. 
 ODO: Acknowledged. 
 (Quark enters) 
-QUARK: Odo, do you mind telling me what this is all about? That message
-from Dukat is making my customers nervous, and when they're nervous
-they're not 
+QUARK: Odo, do you mind telling me what this is all about? That message from Dukat is making my customers nervous, and when they're nervous they're not 
 ODO: Not now, Quark. I'm busy. 
 QUARK: Well, is there anything I can do to help? 
 ODO: Not unless you have a level nine Cardassian security clearance. 
-QUARK: Let's see. I think I have everything from levels one through
-seven. 
+QUARK: Let's see. I think I have everything from levels one through seven. 
 ODO: I only have levels one through six. 
-QUARK: Well, if you'd like a level seven, I'm sure we could make some
-kind of arrangement. 
+QUARK: Well, if you'd like a level seven, I'm sure we could make some kind of arrangement. 
 ODO: Leave me alone, Quark. 
-QUARK: Oh, no. There's something very wrong going on and this is the
-safest place on the whole station. I think I'll stay right here. 
- [Ore Processing unit]
-(Sisko is trying an access door to the chute on the
-upper level.) 
+QUARK: Oh, no. There's something very wrong going on and this is the safest place on the whole station. I think I'll stay right here. 
+[Ore Processing unit]
+(Sisko is trying an access door to the chute on the upper level.) 
 O'BRIEN: Any luck? 
-SISKO: Nothing. It's probably magnetically sealed like the door. We'd
-need a phaser to blast it open. 
+SISKO: Nothing. It's probably magnetically sealed like the door. We'd need a phaser to blast it open. 
 O'BRIEN: Well, there's no way I can disable the programme from here. 
-DUKAT [on monitor]: Bajoran workers, your time is running out. But it's
-not too late. You can still surrender and save your lives. 
-SISKO: Computer. This is the leader of the Bajoran workers. We
-surrender. 
-DUKAT [on monitor]: I'm glad to see you've come to your senses. Stay
-where you are. When Cardassian security arrives, they will place you
-into custody but you will not be harmed. You have my word. 
+DUKAT [on monitor]: Bajoran workers, your time is running out. But it's not too late. You can still surrender and save your lives. 
+SISKO: Computer. This is the leader of the Bajoran workers. We surrender. 
+DUKAT [on monitor]: I'm glad to see you've come to your senses. Stay where you are. When Cardassian security arrives, they will place you into custody but you will not be harmed. You have my word. 
 O'BRIEN: Whatever that's worth. 
 JAKE: Now what? 
-SISKO: Well, it sounds like the programme is going to wait for
-Cardassian security to enter the all-clear protocol. That'll give us a
-few minutes, anyway. What's in here? 
+SISKO: Well, it sounds like the programme is going to wait for Cardassian security to enter the all-clear protocol. That'll give us a few minutes, anyway. What's in here? 
 (He thumps on the chute) 
-O'BRIEN: Nothing at the moment. Processed uridium used to flow down
-that pipe to a secondary refining facility on level thirty three and be
-purified. 
+O'BRIEN: Nothing at the moment. Processed uridium used to flow down that pipe to a secondary refining facility on level thirty three and be purified. 
 (Jake pulls a panel off the bottom of the chute.) 
 JAKE: It's not locked. 
-SISKO: Since that pipe was filled with molten uridium, there wasn't any
-need for security measures. 
+SISKO: Since that pipe was filled with molten uridium, there wasn't any need for security measures. 
 O'BRIEN: It's too narrow for anyone to escape through. 
 JAKE: I can get in there. 
-SISKO: Chief, if he can crawl up this pipe into the machine, cab he can
-get to the ore chute and open that hatch from inside? 
-DUKAT [on monitor]: Bajoran workers, you have not surrendered to
-Cardassian security. If you do not do so in the next three minutes, I
-will be forced to release neurocine gas into the ore processing
-facility. 
+SISKO: Chief, if he can crawl up this pipe into the machine, cab he can get to the ore chute and open that hatch from inside? 
+DUKAT [on monitor]: Bajoran workers, you have not surrendered to Cardassian security. If you do not do so in the next three minutes, I will be forced to release neurocine gas into the ore processing facility. 
 JAKE: I can do it. 
 (Jake gets into the bottom of the chute.) 
-DUKAT [on monitor]: Bajoran workers, you have two minutes left to give
-yourselves up to your Cardassian overseers and save your lives. 
+DUKAT [on monitor]: Bajoran workers, you have two minutes left to give yourselves up to your Cardassian overseers and save your lives. 
 SISKO: Can you hear me, Jake? 
 JAKE [OC]: Loud and clear, but I can't see a thing. 
 O'BRIEN: There should be a large circular opening to your right. 
@@ -155,8 +101,7 @@ JAKE [OC]: Ow!
 SISKO: Jake-o, are you all right? 
 JAKE [OC]: Yeah, I just banged my head on something. 
 DUKAT [on monitor]: Back to Bajor? I can tell you 
-JAKE [OC]: Wait a second, there's a junction here. It feels like it
-goes off in two directions. Which way do I go? 
+JAKE [OC]: Wait a second, there's a junction here. It feels like it goes off in two directions. Which way do I go? 
 DUKAT [on monitor]: The guls in charge. 
 SISKO: Follow this sound, Jake. 
 (Sisko taps the pipe with a metal bar) 
@@ -164,44 +109,31 @@ JAKE [OC]: Do it again, Dad. Got it. I'm in the chute.
 (The Dukat recording drones on under the dialogue) 
 O'BRIEN: There should be a small access port in one of the walls. 
 JAKE [OC]: Found it. 
-O'BRIEN: Open the port and feel around inside for a handle. It should
-be shaped like a stirrup. 
+O'BRIEN: Open the port and feel around inside for a handle. It should be shaped like a stirrup. 
 SISKO: You know, I never knew how much this man's voice annoyed me. 
 JAKE [OC]: I can reach, but I can't get hold of it. 
-O'BRIEN: You have to pull the handle down, Jake. It's the release for
-the hatch. 
+O'BRIEN: You have to pull the handle down, Jake. It's the release for the hatch. 
 JAKE [OC]: I'm trying, I can't 
-SISKO: Don't tense up, relax. Now just take a deep breath and try
-again. 
-DUKAT [on monitor]: I'm sorry, but your time has run out. I was hoping
-you would be reasonable. Rest assured that your deaths will serve as an
-example to prevent similar incidents in the future. 
+SISKO: Don't tense up, relax. Now just take a deep breath and try again. 
+DUKAT [on monitor]: I'm sorry, but your time has run out. I was hoping you would be reasonable. Rest assured that your deaths will serve as an example to prevent similar incidents in the future. 
 (The gas starts to come in.) 
 JAKE [OC]: I got it. 
-(Jake opens the door on the upper level and the two men up scramble
-then into the chute)
- [Ops]
+(Jake opens the door on the upper level and the two men up scramble then into the chute) 
+[Ops]
 KIRA: Dax. 
 (Dax is working in the pit) 
-DAX: Maybe if we bypass the primary command pathway and cross-connect
-the backup with the ODN. 
-COMPUTER: Warning. Workers have escaped from Ore Processing unit five.
-Initiating stationwide counterinsurgency programme. 
+DAX: Maybe if we bypass the primary command pathway and cross-connect the backup with the ODN. 
+COMPUTER: Warning. Workers have escaped from Ore Processing unit five. Initiating stationwide counterinsurgency programme. 
 (Red alert and all the doors slam shut.) 
 BASHIR: Now what? 
-DUKAT [on monitor]: Attention, Bajoran workers. I will not allow this
-rebellion to succeed. If you do not surrender immediately, I will be
-forced to kill every Bajoran on this station.
- [Ore loading bay]
+DUKAT [on monitor]: Attention, Bajoran workers. I will not allow this rebellion to succeed. If you do not surrender immediately, I will be forced to kill every Bajoran on this station. 
+[Ore loading bay]
 (Jake leads the way up a chute to a room.) 
 JAKE: Wait a second, I found something. 
 SISKO [OC]: What is it? 
-JAKE: I don't know. Some kind of room. It sure is dirty. Doesn't smell
-too good either. 
+JAKE: I don't know. Some kind of room. It sure is dirty. Doesn't smell too good either. 
 SISKO: Looks like some kind of loading bay. 
-O'BRIEN: You're right. This is where the uridium ore was separated from
-the rock. Then it would be dumped down that chute to the processing
-facility. 
+O'BRIEN: You're right. This is where the uridium ore was separated from the rock. Then it would be dumped down that chute to the processing facility. 
 (Sisko tries the door.) 
 SISKO: Locked. Chief, is there another way out of here? 
 O'BRIEN: Just back down that chute. You know where that leads to. 
@@ -209,214 +141,131 @@ SISKO: Sisko to Ops. Sisko to Security. Try yours.
 O'BRIEN: O'Brien to Ops. 
 JAKE: Jake Sisko to anyone who can hear me. 
 O'BRIEN: Something must be interfering with the signal. 
-JAKE: What do we do now?
- [Ops] 
-DAX: It's no good. We're completely cut off from
-the rest of the station. 
-BASHIR: There must be some kind of general dampening field in place. It
-must be disrupting communications. 
+JAKE: What do we do now? 
+[Ops]
+DAX: It's no good. We're completely cut off from the rest of the station. 
+BASHIR: There must be some kind of general dampening field in place. It must be disrupting communications. 
 KIRA: All right. It's time for a less subtle approach. 
-(She adjusts her phaser and aims it at the door control Bashir is
-working on.) 
+(She adjusts her phaser and aims it at the door control Bashir is working on.) 
 KIRA: Doctor. 
-(The manual lever is freed and the door opens, but there's a forcefield
-beyond.) 
+(The manual lever is freed and the door opens, but there's a forcefield beyond.) 
 BASHIR: The Cardassians don't miss a trick, do they? 
-DAX: The ironic thing is that field is probably there to protect Ops
-from the hoards of rebelling Bajorans. 
-KIRA: Well we've got to find a way of disabling the security programme
-or a lot of people are going to be killed. 
-DAX: If we can regain control of the main computer, we may be able to
-wipe the security programme from its memory. Now, if I can reroute the
-APT relay through the secondary buffer, I might get an independent
-terminal working. 
-BASHIR: You know, I've been here nearly three years and I was just
-finally starting to think of this place as home. 
-KIRA: Your home was built by Cardassians, Doctor. Don't ever forget
-that. 
-BASHIR: No, there's not much chance of that, is there.
- [Security office] 
+DAX: The ironic thing is that field is probably there to protect Ops from the hoards of rebelling Bajorans. 
+KIRA: Well we've got to find a way of disabling the security programme or a lot of people are going to be killed. 
+DAX: If we can regain control of the main computer, we may be able to wipe the security programme from its memory. Now, if I can reroute the APT relay through the secondary buffer, I might get an independent terminal working. 
+BASHIR: You know, I've been here nearly three years and I was just finally starting to think of this place as home. 
+KIRA: Your home was built by Cardassians, Doctor. Don't ever forget that. 
+BASHIR: No, there's not much chance of that, is there. 
+[Security office]
 QUARK: What do you mean, we're trapped? 
-ODO: I mean we're trapped. I wouldn't be surprised if the entire
-station is locked down. 
-(Another of those doorway forcefields, this time on the inside of the
-office.) 
-QUARK: But you're a shape-shifter. Excuse me, a changeling. So change
-into something and get us out of here. 
-ODO: This forcefield isn't just protecting the door, it goes through
-the bulkheads, the ceiling, the deck. There's nowhere for me to go. 
+ODO: I mean we're trapped. I wouldn't be surprised if the entire station is locked down. 
+(Another of those doorway forcefields, this time on the inside of the office.) 
+QUARK: But you're a shape-shifter. Excuse me, a changeling. So change into something and get us out of here. 
+ODO: This forcefield isn't just protecting the door, it goes through the bulkheads, the ceiling, the deck. There's nowhere for me to go. 
 QUARK: You're telling me I'm stuck here with you? 
-ODO: No, I'm stuck here with you. Believe me, a far worse fate. And
-stay away from my computer. 
- [Ore loading bay]
+ODO: No, I'm stuck here with you. Believe me, a far worse fate. And stay away from my computer. 
+[Ore loading bay]
 (They're using an ore cart as a battering ram.) 
 SISKO: Again. Okay, hold on. 
 JAKE: Anything? 
 O'BRIEN: Not even a dent. 
-SISKO: There has to be something else we can do. What about all this
-ore? As I understand it, uridium's very unstable. 
-O'BRIEN: That's true, but in it's raw form you'd need a strong
-electrical charge to detonate it. 
+SISKO: There has to be something else we can do. What about all this ore? As I understand it, uridium's very unstable. 
+O'BRIEN: That's true, but in it's raw form you'd need a strong electrical charge to detonate it. 
 SISKO: Can we use that? 
 (A lighting panel.) 
-O'BRIEN: If I had some tools, I might be able to get in there and yank
-out some electrical cable. 
+O'BRIEN: If I had some tools, I might be able to get in there and yank out some electrical cable. 
 (Sisko pulls the handle off the cart.) 
 SISKO: Tools. 
- [Ops]
+[Ops]
 KIRA: How's it coming? 
 DAX: Almost done. 
 (Bang flash! from the pit.) 
 BASHIR: Jadzia! 
 (Dax's hands are burned) 
 BASHIR: Get me a medkit. Easy, Jadzia. I have to take a look. 
-DAX: I was reaching toward the ODN conduit and a small forcefield went
-off and it caught my hands. 
+DAX: I was reaching toward the ODN conduit and a small forcefield went off and it caught my hands. 
 (Kira hands down the kit.) 
-BASHIR: They're second degree burns but I don't think there's any
-neural damage. This should relieve the pain. 
-COMPUTER: Warning, security in the Operations Centre has been
-compromised. Initiating counterinsurgency programme level two. 
-DUKAT [on monitor]: Attention, Bajoran workers. Your failure to
-surrender is forcing me to take stronger measures. In five minutes, we
-will begin pumping neurocine gas into the habitat ring. Think of your
-families as you consider your course of action. All Cardassian
-personnel should evacuate the area immediately. 
-KIRA: Habitat ring. There have to be hundreds of people trapped in
-their quarters out there. 
-GARAK: I believe that's the point, Major. Computer, access code Garak
-one three five nine. 
-(The door forcefield drops, Garak steps through the door, then
-forcefield returns.) 
-GARAK: Ironic isn't it? The only place in the galaxy that still
-recognises my access code is a Bajoran space station. 
-KIRA: If you can get past the forcefields, you've got to get out to the
-habitat ring and start evacuating those people before 
-GARAK: I'd like nothing better than to help my loyal customers, but
-it's not that simple. My access code enables me to move about the
-station, but unfortunately, as you've just seen, the forcefields
-reappear the moment I pass through a doorway. 
-BASHIR: Have you tried using your code to shut down the security
-programme? 
-GARAK: Several times, but for some reason I can't begin to fathom, Gul
-Dukat chose not to trust me with his top level security codes during
-the occupation. 
+BASHIR: They're second degree burns but I don't think there's any neural damage. This should relieve the pain. 
+COMPUTER: Warning, security in the Operations Centre has been compromised. Initiating counterinsurgency programme level two. 
+DUKAT [on monitor]: Attention, Bajoran workers. Your failure to surrender is forcing me to take stronger measures. In five minutes, we will begin pumping neurocine gas into the habitat ring. Think of your families as you consider your course of action. All Cardassian personnel should evacuate the area immediately. 
+KIRA: Habitat ring. There have to be hundreds of people trapped in their quarters out there. 
+GARAK: I believe that's the point, Major. Computer, access code Garak one three five nine. 
+(The door forcefield drops, Garak steps through the door, then forcefield returns.) 
+GARAK: Ironic isn't it? The only place in the galaxy that still recognises my access code is a Bajoran space station. 
+KIRA: If you can get past the forcefields, you've got to get out to the habitat ring and start evacuating those people before 
+GARAK: I'd like nothing better than to help my loyal customers, but it's not that simple. My access code enables me to move about the station, but unfortunately, as you've just seen, the forcefields reappear the moment I pass through a doorway. 
+BASHIR: Have you tried using your code to shut down the security programme? 
+GARAK: Several times, but for some reason I can't begin to fathom, Gul Dukat chose not to trust me with his top level security codes during the occupation. 
 BASHIR: Garak, do you know a way we can stop this neurocine gas? 
 GARAK: The only way to do that is to destroy the life support system. 
 KIRA: What are you trying to do, Garak? Get us all killed? 
-BASHIR: No, wait a minute. He's right. The neurocine gas is released
-through the life support system. Destroy it and we save everyone in the
-habitat ring. 
-DAX: For twelve hours. And then everyone on the station will suffocate
-when we run out of oxygen. 
-BASHIR: Well, that gives us twelve hours to regain control of this
-station. 
-GARAK: Believe me, Major, it's the only way to save those people. I
-believe life support is controlled from over there. 
+BASHIR: No, wait a minute. He's right. The neurocine gas is released through the life support system. Destroy it and we save everyone in the habitat ring. 
+DAX: For twelve hours. And then everyone on the station will suffocate when we run out of oxygen. 
+BASHIR: Well, that gives us twelve hours to regain control of this station. 
+GARAK: Believe me, Major, it's the only way to save those people. I believe life support is controlled from over there. 
 KIRA: Get down. 
-(The Bajoran workers run before she phasers life support and the lights
-flicker.) 
-COMPUTER: Warning. Counterinsurgency programme level two has been
-interrupted. Initiating counterinsurgency programme level three. 
-DUKAT [on monitor]: My fellow Cardassians I regret to inform you that
-Bajoran workers have gained control of this station.
- [Ore loading bay]
-DUKAT [on monitor]: In all likelihood, I am dead or
-otherwise incapacitated 
- [Security office]
-DUKAT [on monitor]: But rest assured, this station
-will not be allowed to remain in Bajoran hands. However, it is my duty
-to inform you
- [Ops]
-DUKAT [on monitor]: That if you do not regain
-control within two hours, the station will be destroyed. 
-COMPUTER: Self-destruct sequence initiated.
- [Security office] 
+(The Bajoran workers run before she phasers life support and the lights flicker.) 
+COMPUTER: Warning. Counterinsurgency programme level two has been interrupted. Initiating counterinsurgency programme level three. 
+DUKAT [on monitor]: My fellow Cardassians I regret to inform you that Bajoran workers have gained control of this station. 
+[Ore loading bay]
+DUKAT [on monitor]: In all likelihood, I am dead or otherwise incapacitated 
+[Security office]
+DUKAT [on monitor]: But rest assured, this station will not be allowed to remain in Bajoran hands. However, it is my duty to inform you 
+[Ops]
+DUKAT [on monitor]: That if you do not regain control within two hours, the station will be destroyed. 
+COMPUTER: Self-destruct sequence initiated. 
+[Security office]
 (Quark is firing at the forcefield.) 
 QUARK: Come on. Come on! 
-ODO: Give me that before you hurt yourself. I checked the entire
-security complex. There's no way out. 
-QUARK: I should've listened to my father. He always warned me this was
-going to happen. 
-ODO: What? That you'd spend your final hours in jail? I could've told
-you that. 
-QUARK: No. He warned me never to leave home. He said there were plenty
-of business opportunities right outside my door. But no, I had to
-follow the seventy fifth Rule of Acquisition. Home is where the heart
-is but the stars are made of latinum. A lifetime of scheming and
-plotting, wheeling and dealing, and what has it got me? One measly
-little bar. My uncle Frin owns thirty and my cousin Gaila 
+ODO: Give me that before you hurt yourself. I checked the entire security complex. There's no way out. 
+QUARK: I should've listened to my father. He always warned me this was going to happen. 
+ODO: What? That you'd spend your final hours in jail? I could've told you that. 
+QUARK: No. He warned me never to leave home. He said there were plenty of business opportunities right outside my door. But no, I had to follow the seventy fifth Rule of Acquisition. Home is where the heart is but the stars are made of latinum. A lifetime of scheming and plotting, wheeling and dealing, and what has it got me? One measly little bar. My uncle Frin owns thirty and my cousin Gaila 
 ODO: I know. He owns a moon. 
 QUARK: I told you that? 
 ODO: Many times. 
 QUARK: It's a small moon, but it's enough to live on. 
 ODO: Oh, come on, Quark, you've done all right for yourself. 
 QUARK: Oh, what do you know? 
-ODO: Quark, I've met a lot of Ferengis in my time and the truth is,
-although some of them may have been more wealthy, I've never met one
-more devious. 
+ODO: Quark, I've met a lot of Ferengis in my time and the truth is, although some of them may have been more wealthy, I've never met one more devious. 
 QUARK: Really? 
 ODO: Would I lie? 
-QUARK: I guess not. Thank you, Odo. That means a lot to me. Now, can I
-have the phaser back? 
-ODO: No.
- [Ops] 
+QUARK: I guess not. Thank you, Odo. That means a lot to me. Now, can I have the phaser back? 
+ODO: No. 
+[Ops]
 (Garak has got a station working.) 
 BASHIR: How do your hands feel? 
 DAX: A little better 
-BASHIR: Good. I wish I could have done more, but I won't be able to
-repair the damaged tissue until we can get you to the Infirmary. 
+BASHIR: Good. I wish I could have done more, but I won't be able to repair the damaged tissue until we can get you to the Infirmary. 
 KIRA: Any luck? 
-GARAK: Plenty, Major. Unfortunately, all of it bad. My personal code
-can activate any terminal on the station. However, that's the extent of
-my access. All I can do is just look around. I can tell you exactly
-what's going on, but I can't do anything about it. As far as I can see,
-the only person who can disable the security programme is Gul Dukat. 
-DAX: Maybe there's a way to fool the computer into thinking that you
-are Gul Dukat. You could try rewriting your code to match his. 
-GARAK: Even if I could, it wouldn't do any good. If I were to input his
-code, the computer would scan my DNA pattern to determine if I really
-were Dukat. 
-DAX: But what if we disabled the sensors in Ops so that the computer
-couldn't scan you? 
+GARAK: Plenty, Major. Unfortunately, all of it bad. My personal code can activate any terminal on the station. However, that's the extent of my access. All I can do is just look around. I can tell you exactly what's going on, but I can't do anything about it. As far as I can see, the only person who can disable the security programme is Gul Dukat. 
+DAX: Maybe there's a way to fool the computer into thinking that you are Gul Dukat. You could try rewriting your code to match his. 
+GARAK: Even if I could, it wouldn't do any good. If I were to input his code, the computer would scan my DNA pattern to determine if I really were Dukat. 
+DAX: But what if we disabled the sensors in Ops so that the computer couldn't scan you? 
 GARAK: What a creative idea. It certainly is worth a try. 
-BASHIR: The question is, can we disconnect the sensors without getting
-anyone else hurt. 
+BASHIR: The question is, can we disconnect the sensors without getting anyone else hurt. 
 KIRA: We're just going to have to take that chance. 
-DAX: We could switch the sensor input from the primary scanners to the
-backup scanners. The computer shouldn't see that as a threat, but it'll
-blind the system for a few seconds while we make the changeover. 
+DAX: We could switch the sensor input from the primary scanners to the backup scanners. The computer shouldn't see that as a threat, but it'll blind the system for a few seconds while we make the changeover. 
 GARAK: If it works, a few seconds are all I'll need. 
 DAX: Major, I'm going to need a hand. 
-GARAK: Tell me, Doctor, what is it exactly about this situation that's
-making you smile? 
-BASHIR: You, Garak. Just wondering how many other tailors can rewrite
-Cardassian security protocols? 
-GARAK: I wouldn't even venture a guess. Which reminds me, those pants
-you wanted altered are ready to be picked up. Oh, this is a problem. 
+GARAK: Tell me, Doctor, what is it exactly about this situation that's making you smile? 
+BASHIR: You, Garak. Just wondering how many other tailors can rewrite Cardassian security protocols? 
+GARAK: I wouldn't even venture a guess. Which reminds me, those pants you wanted altered are ready to be picked up. Oh, this is a problem. 
 BASHIR: What's wrong? 
-GARAK: I always suspected that Dukat was a little paranoid. He's left a
-rather large number of interrogative subroutines imbedded in his access
-code. 
+GARAK: I always suspected that Dukat was a little paranoid. He's left a rather large number of interrogative subroutines imbedded in his access code. 
 BASHIR: Meaning what? 
-GARAK: Meaning the computer is constantly challenging to prove I am who
-I say I am. Lieutenant, how much long before you can disable those
-sensors? 
+GARAK: Meaning the computer is constantly challenging to prove I am who I say I am. Lieutenant, how much long before you can disable those sensors? 
 DAX: At least another ten minutes. 
-GARAK: I'm not sure we have that much time. In fact, I'm sure we don't.
-COMPUTER: Warning. Unauthorised use of command code. Initiating
-counterinsurgency programme level four. 
-(The replicator builds a weapon and starts firing energy beams. A
-red-shouldered extra is vapourised.)
- [Ore loading bay]
+GARAK: I'm not sure we have that much time. In fact, I'm sure we don't. 
+COMPUTER: Warning. Unauthorised use of command code. Initiating counterinsurgency programme level four. 
+(The replicator builds a weapon and starts firing energy beams. A red-shouldered extra is vapourised.) 
+[Ore loading bay]
 SISKO: On three. One, two, three. 
 (The prise open the panel.)
 JAKE: You did it. 
-O'BRIEN: Okay we have the power cable. Now we need to pack the uridium
-around the door. 
- [Ops] 
-(People are hiding under desks and behind pillars
-as the beams keep shooting out.) 
+O'BRIEN: Okay we have the power cable. Now we need to pack the uridium around the door. 
+[Ops]
+(People are hiding under desks and behind pillars as the beams keep shooting out.) 
 KIRA: My phaser's on the Ops table. Can anyone get to it? 
 BASHIR: The answer, Major, is no. 
 KIRA: Well, we can't stay here and do nothing. 
@@ -424,109 +273,58 @@ GARAK: I respectfully disagree, Major. Nothing is about all we can do.
 (A figure beams in, and the weapon avoids hitting it.) 
 DUKAT: Let me guess. Someone tried to duplicate my access code. 
 KIRA: Dukat, what the hell are you doing here? 
-DUKAT: A short time ago, I had a very strange experience. There I was,
-patrolling the Demilitarised zone, when I received a distress signal
-from me. Or at least a recording of me. It seems the Bajoran workers
-were rioting on Terok Nor. I must admit, it piqued my curiosity. I see
-the auto-destruct programme has begun. Well, well, well. You are in
-trouble. Where's Commander Sisko? I trust he wasn't vaporised while
-asking for one of those raktajinos he's so fond of. 
+DUKAT: A short time ago, I had a very strange experience. There I was, patrolling the Demilitarised zone, when I received a distress signal from me. Or at least a recording of me. It seems the Bajoran workers were rioting on Terok Nor. I must admit, it piqued my curiosity. I see the auto-destruct programme has begun. Well, well, well. You are in trouble. Where's Commander Sisko? I trust he wasn't vaporised while asking for one of those raktajinos he's so fond of. 
 DAX: No. Last we heard, he was trapped in the ore processing unit. 
 DUKAT: Hmm. I wish him well. 
 BASHIR: Well, can you help us or not? 
-DUKAT: Oh, most certainly. All I have to do is enter my command code
-and shut the programme. 
+DUKAT: Oh, most certainly. All I have to do is enter my command code and shut the programme. 
 KIRA: Then do it! 
-DUKAT: All in good time, Major Kira. All in good time. But first, there
-are a few things we should discuss. Red leaf tea, please. 
-(The weapon turns into a mug, and Bashir puts his head above a
-console.) 
+DUKAT: All in good time, Major Kira. All in good time. But first, there are a few things we should discuss. Red leaf tea, please. 
+(The weapon turns into a mug, and Bashir puts his head above a console.) 
 DUKAT: Doctor. 
 (The weapon returns, and fires at Bashir.) 
 KIRA: What do you want, Dukat? 
-DUKAT: You'll find I don't react well to that tone of voice, Major.
-Garak, grovelling in a corner. That alone makes my trip worthwhile. 
+DUKAT: You'll find I don't react well to that tone of voice, Major. Garak, grovelling in a corner. That alone makes my trip worthwhile. 
 (Garak stands up.) 
 BASHIR: Garak! 
-GARAK: Easy, Doctor. It would appear that the computer is only
-targeting non-Cardassians. 
-DUKAT: If you had been on the station when I designed this programme, I
-would have made an exception in your case. 
-GARAK: Well, you've always been shortsighted. It's held you back over
-the years. As I recall, your father had the same flaw. 
+GARAK: Easy, Doctor. It would appear that the computer is only targeting non-Cardassians. 
+DUKAT: If you had been on the station when I designed this programme, I would have made an exception in your case. 
+GARAK: Well, you've always been shortsighted. It's held you back over the years. As I recall, your father had the same flaw. 
 DUKAT: My father's only flaw was trusting you. 
-GARAK: Funny, at his trial your father said his biggest flaw was that
-his ambition outweighed his patriotism. 
+GARAK: Funny, at his trial your father said his biggest flaw was that his ambition outweighed his patriotism. 
 KIRA: Maybe you two could settle this at another time! 
-DUKAT: You're right, Major. Oh, believe me, Garak, that time is coming.
-Major, why don't you join me in the Commander's office where we can
-talk in private. Oh. I forgot. The replicator. Well, it's the least I
-can do. 
+DUKAT: You're right, Major. Oh, believe me, Garak, that time is coming. Major, why don't you join me in the Commander's office where we can talk in private. Oh. I forgot. The replicator. Well, it's the least I can do. 
 (Dukat taps a command into the replicator and the weapon disappears.) 
-DUKAT: You can all rise now. You're safe, for the moment. Major.
- [Commander's office] 
+DUKAT: You can all rise now. You're safe, for the moment. Major. 
+[Commander's office]
 (Dukat settles into Sisko's chair.) 
-DUKAT: I know time is of the essence, Major, so I'll be brief. (he
-sends the baseball rolling across the floor.) I think it is time to
-re-establish a permanent Cardassian presence aboard this station.
-Nothing too elaborate, mind you. A garrison would suffice. I can deploy
-troops from my ship immediately. And in return, I'll solve your current
-dilemma. 
+DUKAT: I know time is of the essence, Major, so I'll be brief. (he sends the baseball rolling across the floor.) I think it is time to re-establish a permanent Cardassian presence aboard this station. Nothing too elaborate, mind you. A garrison would suffice. I can deploy troops from my ship immediately. And in return, I'll solve your current dilemma. 
 KIRA: You know I'm never going to agree to that. 
 DUKAT: I'm not sure you have much of a choice, do you? 
-KIRA: Dukat, you and I both know neither Bajor nor the Federation will
-ever honour an agreement negotiated under a death threat. 
-DUKAT: I don't expect them to be happy about it, but once my troops are
-in place I think you'll find it very difficult to get them to leave. 
-KIRA: Well let me put this another way. I will destroy this station
-before I ever give it back to the Cardassians. 
-DUKAT: Yes, I'm sure you would. But would you allow two thousand people
-aboard this station to die simply because you don't like us? Well,
-there's no need to decide just yet. We still have a little time left.
-Thirty minutes, in fact. Why don't I return to my ship so that you'll
-have time to think about it. 
+KIRA: Dukat, you and I both know neither Bajor nor the Federation will ever honour an agreement negotiated under a death threat. 
+DUKAT: I don't expect them to be happy about it, but once my troops are in place I think you'll find it very difficult to get them to leave. 
+KIRA: Well let me put this another way. I will destroy this station before I ever give it back to the Cardassians. 
+DUKAT: Yes, I'm sure you would. But would you allow two thousand people aboard this station to die simply because you don't like us? Well, there's no need to decide just yet. We still have a little time left. Thirty minutes, in fact. Why don't I return to my ship so that you'll have time to think about it. 
 [Ops]
-DUKAT: I'll be back in say, twenty five minutes.
-Dukat. One to transport. Energise. (nothing) Energise. 
-KELL [on monitor]: Dukat, if you are seeing this recording, it means
-you tried to abandon your post while the station's self-destruct
-sequence was engaged. That will not be permitted. 
+DUKAT: I'll be back in say, twenty five minutes. Dukat. One to transport. Energise. (nothing) Energise. 
+KELL [on monitor]: Dukat, if you are seeing this recording, it means you tried to abandon your post while the station's self-destruct sequence was engaged. That will not be permitted. 
 DUKAT: This is outrageous. 
-KELL [on monitor]: You have lost control of Terok Nor, disgracing
-yourself and Cardassia. Your attempt to escape is no doubt a final act
-of cowardice. All fail-safes have been eliminated. Your personal access
-codes have been rescinded. The destruct sequence can no longer be
-halted. All you can do now is contemplate the depth of your disgrace
-and try to die like a Cardassian. 
+KELL [on monitor]: You have lost control of Terok Nor, disgracing yourself and Cardassia. Your attempt to escape is no doubt a final act of cowardice. All fail-safes have been eliminated. Your personal access codes have been rescinded. The destruct sequence can no longer be halted. All you can do now is contemplate the depth of your disgrace and try to die like a Cardassian. 
 (After the commercials) 
-DUKAT: Computer, abort the self-destruct sequence. This is a priority
-one override. Clearance level nine. Authorisation Dukat five one one
-six green. 
-COMPUTER: Request denied. All authorisation codes are void. Time to
-self-destruct, twenty-five minutes. 
-GARAK: Even your own computer programme turns against you. I always
-knew your shortsightedness would be your downfall. 
+DUKAT: Computer, abort the self-destruct sequence. This is a priority one override. Clearance level nine. Authorisation Dukat five one one six green. 
+COMPUTER: Request denied. All authorisation codes are void. Time to self-destruct, twenty-five minutes. 
+GARAK: Even your own computer programme turns against you. I always knew your shortsightedness would be your downfall. 
 DUKAT: I don't see you coming up with any ideas, tailor. 
-KIRA: Look, if you two are finished with the insults, we could use some
-help here. Now, what can you tell us about the self-destruct sequence? 
-DUKAT: It's very simple. When the countdown is completed, the computer
-will order the main fusion reactor to disengage the reaction
-stabilisers, causing it to overload, destroying the station. 
+KIRA: Look, if you two are finished with the insults, we could use some help here. Now, what can you tell us about the self-destruct sequence? 
+DUKAT: It's very simple. When the countdown is completed, the computer will order the main fusion reactor to disengage the reaction stabilisers, causing it to overload, destroying the station. 
 DAX: What about the reactor? Is there any way to shut it down? 
-DUKAT: It may be possible to manually disengage the laser fusion
-initiator, but in order to do that we have to be in the reactor room. 
-DAX: Not necessarily. We can disengage the initiator from one of the
-control junctions on level thirty four. 
-BASHIR: But now that the computer's wiped out the access codes, not
-even a Cardassian can get out of this room. 
-KIRA: Well then, maybe we should concentrate on trying to eliminate the
-forcefield protecting the door. 
-DAX: We don't have time to eliminate every forcefield between here and
-level thirty four. What we need to do is find a way to deactivate all
-the forcefields on the station at the same time.
- [Ore loading bay]
-O'BRIEN: Okay, that should do it. If we use much
-more we run the risk of bringing the whole room down around our ears. 
+DUKAT: It may be possible to manually disengage the laser fusion initiator, but in order to do that we have to be in the reactor room. 
+DAX: Not necessarily. We can disengage the initiator from one of the control junctions on level thirty four. 
+BASHIR: But now that the computer's wiped out the access codes, not even a Cardassian can get out of this room. 
+KIRA: Well then, maybe we should concentrate on trying to eliminate the forcefield protecting the door. 
+DAX: We don't have time to eliminate every forcefield between here and level thirty four. What we need to do is find a way to deactivate all the forcefields on the station at the same time. 
+[Ore loading bay]
+O'BRIEN: Okay, that should do it. If we use much more we run the risk of bringing the whole room down around our ears. 
 (O'Brien pulls a bright power cable out of the panel.) 
 SISKO: All right, we'd better take cover. 
 O'BRIEN: Would you like to do the honours, sir? 
@@ -534,194 +332,146 @@ SISKO: Keep your heads down.
 (Sisko touches the live cable to a trail of rock fragments - a fuse.) 
 (Sizzle, sizzle, boom! There's a hole in the door.) 
 JAKE: It worked! 
- [Ops]
-DUKAT: I set up this programme, and I assure you,
-Major, I will find a way to defeat it. There's no dilemma that cannot
-be solved by a disciplined, Cardassian mind. 
+[Ops]
+DUKAT: I set up this programme, and I assure you, Major, I will find a way to defeat it. There's no dilemma that cannot be solved by a disciplined, Cardassian mind. 
 GARAK: It's not going to work, you know. 
 DUKAT: What are you babbling about now? 
 GARAK: I'm talking about Major Kira 
 KIRA: What about her? 
-GARAK: She's much too busy trying to save this station to be impressed
-with your incessant posturing. 
+GARAK: She's much too busy trying to save this station to be impressed with your incessant posturing. 
 DUKAT: Garak! 
-GARAK: And even if she weren't, she has much better taste than to be
-attracted to you. And you, a married man 
+GARAK: And even if she weren't, she has much better taste than to be attracted to you. And you, a married man 
 DUKAT: I should've had you executed years ago. 
 GARAK: You tried, remember? 
 BASHIR: Garak, this isn't helping. 
-DAX: Wait a minute. What about the power supply grid? If we could
-overload the grid, we might be able to cause a power surge and short
-out all the forcefields on the station. 
-KIRA: It might even be enough to eliminate the dampening field that's
-been keeping us from using our communicators. 
-DUKAT: Tell me something, Major. The Cardassian neutralisation emitters
-that were under here. I assume you deactivated them when you control of
-the station? 
+DAX: Wait a minute. What about the power supply grid? If we could overload the grid, we might be able to cause a power surge and short out all the forcefields on the station. 
+KIRA: It might even be enough to eliminate the dampening field that's been keeping us from using our communicators. 
+DUKAT: Tell me something, Major. The Cardassian neutralisation emitters that were under here. I assume you deactivated them when you control of the station? 
 KIRA: That's right. We prefer our containment fields to be non-lethal. 
 DUKAT: But are the emitters still in place? 
 KIRA: As far as I know. 
-DUKAT: Excellent. That means they have not been affected by the
-counterinsurgency programme. That means we still have control of them. 
-DAX: Then if we can get the emitters back online, we can use them to
-overload the power grid. 
+DUKAT: Excellent. That means they have not been affected by the counterinsurgency programme. That means we still have control of them. 
+DAX: Then if we can get the emitters back online, we can use them to overload the power grid. 
 DUKAT: Exactly. 
 KIRA: Do you think it'll be enough to eliminate the forcefields? 
-DAX: Unfortunately, we'll lose the turbolifts and the transporters, but
-they aren't much use to us right now anyway. 
-KIRA: Let's give it a try.
- [Corridor]
+DAX: Unfortunately, we'll lose the turbolifts and the transporters, but they aren't much use to us right now anyway. 
+KIRA: Let's give it a try. 
+[Corridor]
 (The men meet up at a junction.) 
 SISKO: Anything? 
-O'BRIEN: I only got a couple hundred metres and I was stopped by a
-forcefield. How about you? 
+O'BRIEN: I only got a couple hundred metres and I was stopped by a forcefield. How about you? 
 JAKE: We didn't even get that far. 
 O'BRIEN: There's got to be some way up to Ops. 
-SISKO: The turbolift shaft. We can climb it all the way to Ops. Let's
-see if we can get these doors open.
- [Ops]
+SISKO: The turbolift shaft. We can climb it all the way to Ops. Let's see if we can get these doors open. 
+[Ops]
 KIRA: Dukat, we're running out of time. 
-DUKAT: I'm almost done. I've got the emitters wired into the control
-panel. Now all I have to do is reattach them to the power grid like so.
-All right, I'm ready. 
+DUKAT: I'm almost done. I've got the emitters wired into the control panel. Now all I have to do is reattach them to the power grid like so. All right, I'm ready. 
 DAX: Brace yourselves. 
 (Rumble, shudder, bangs, flashes then quiet.) 
-KIRA: Kira to Sisko.
- [Corridor]
+KIRA: Kira to Sisko. 
+[Corridor]
 SISKO: Go ahead Major. 
 KIRA [OC]: Commander, am I glad to hear you. What's you location? 
 SISKO: Level twenty nine section D. What's your status in Ops? 
 KIRA [OC]: We've got about ten minutes before the main reactor core 
 [Ops]
-KIRA: Overloads and destroys the station. The only
-way to stop it is to disengage 
+KIRA: Overloads and destroys the station. The only way to stop it is to disengage 
 [Corridor]
-KIRA [OC]: The laser fusion initiator at one of the
-control junctions on level thirty four.
+KIRA [OC]: The laser fusion initiator at one of the control junctions on level thirty four. 
 [Ops]
-KIRA: But the turbolifts and transporters are
-offline. 
+KIRA: But the turbolifts and transporters are offline. 
 [Corridor]
 O'BRIEN: They'll never get there in time. 
-SISKO: But we might. Major, Mister O'Brien and I will handle the
-reactor. You begin evacuating the station. 
+SISKO: But we might. Major, Mister O'Brien and I will handle the reactor. You begin evacuating the station. 
 [Ops]
-SISKO [OC]: Get as many people as you can to the
-Defiant and the runabouts. 
+SISKO [OC]: Get as many people as you can to the Defiant and the runabouts. 
 [Corridor]
 KIRA [OC]: Understood. Good luck. 
 SISKO: Jake, I want you to head for runabout pad C. 
 JAKE: It's too far. I'll never make it. 
 SISKO: Listen to me, Jake. 
 JAKE: I'm going with you. 
-SISKO: All right. Let's go.
- [Security office]
-COMPUTER: Warning. Main fusion reactors will
-overload in seven minutes. 
+SISKO: All right. Let's go. 
+[Security office]
+COMPUTER: Warning. Main fusion reactors will overload in seven minutes. 
 QUARK: Tell me something I don't already know. 
 KIRA [OC]: Kira to Odo. 
 ODO: Go ahead, Major. 
-KIRA [OC]: We're beginning evacuation procedures. The forcefields have
-been deactivated and all the doors on the station should be operable. 
-ODO: All except one. It seems the forcefield around my office are still
-in operation. 
+KIRA [OC]: We're beginning evacuation procedures. The forcefields have been deactivated and all the doors on the station should be operable. 
+ODO: All except one. It seems the forcefield around my office are still in operation. 
 KIRA [OC]: I'll send a work team down immediately. 
 COMPUTER: Warning, main fusion reactors will overload in six minutes. 
 QUARK: Are you telling me we're the only ones still locked in? 
 ODO: This forcefield must be on a separate system from the others. 
-QUARK: But why go to so much trouble to keep people out of the Security
-office? 
-ODO: It's not to keep people out, it's to keep me in. I suppose during
-the occupation the Cardassians considered their security chief a
-security risk. 
+QUARK: But why go to so much trouble to keep people out of the Security office? 
+ODO: It's not to keep people out, it's to keep me in. I suppose during the occupation the Cardassians considered their security chief a security risk. 
 QUARK: And I know why. 
 ODO: Oh, do you? 
-QUARK: It's because they knew you were an honourable man. The kind of
-person who would do the right thing regardless of the circumstances.
-And now your integrity is going to get us both killed. I hope you're
-happy.
- [Corridor]
-COMPUTER: Warning. Main fusion reactors will
-overload in five minutes. 
-SISKO: Chief, did you ever finish those upgrades on the deflector
-shields? 
+QUARK: It's because they knew you were an honourable man. The kind of person who would do the right thing regardless of the circumstances. And now your integrity is going to get us both killed. I hope you're happy. 
+[Corridor]
+COMPUTER: Warning. Main fusion reactors will overload in five minutes. 
+SISKO: Chief, did you ever finish those upgrades on the deflector shields? 
 O'BRIEN: Yeah, why? 
-SISKO: We may not have time to disengage the fusion initiator. What if
-we directed the explosion into the shields? 
-O'BRIEN: That's not a bad idea. The shields are the only thing on the
-station that can absorb that much energy. 
+SISKO: We may not have time to disengage the fusion initiator. What if we directed the explosion into the shields? 
+O'BRIEN: That's not a bad idea. The shields are the only thing on the station that can absorb that much energy. 
 (debris blocks their path) 
-O'BRIEN: That power surge we felt must've blown out one of the plasma
-conduits. The corridor's completely blocked for the next fifty metres. 
+O'BRIEN: That power surge we felt must've blown out one of the plasma conduits. The corridor's completely blocked for the next fifty metres. 
 JAKE: Can't we get around it? 
 SISKO: We don't have time. 
-O'BRIEN: There might be a way. There's a maintenance conduit adjacent
-to this corridor. If it's not blocked, we might be able to get around
-the debris and get to the reactor control junction. Give me a hand. 
+O'BRIEN: There might be a way. There's a maintenance conduit adjacent to this corridor. If it's not blocked, we might be able to get around the debris and get to the reactor control junction. Give me a hand. 
 (They clear rubbish from the access panel.) 
 O'BRIEN: I can feel heat through the door. 
 (So he opens it.) 
 SISKO: What's wrong? 
 O'BRIEN: See for yourself. 
 (There's a green plasma fire in the conduit walls.) 
-COMPUTER: Warning. Main fusion reactors will overload in three minutes.
+COMPUTER: Warning. Main fusion reactors will overload in three minutes. 
 SISKO: I want you to wait here. 
 JAKE: But 
 SISKO: I mean it this time. 
-(O'Brien and Sisko tear their sleeves to make mittens for their hands.)
-SISKO: I'll go first. Follow five metres behind me. If one of us runs
-into trouble in here 
+(O'Brien and Sisko tear their sleeves to make mittens for their hands.) 
+SISKO: I'll go first. Follow five metres behind me. If one of us runs into trouble in here 
 O'BRIEN: I know, I know. The other one keeps on going. 
 [Conduit]
-(Flashes and bangs are all around them. One knocks
-O'Brien down.) 
+(Flashes and bangs are all around them. One knocks O'Brien down.) 
 SISKO: O'Brien! 
-(O'Brien is out cold. Sisko goes on. O'Brien wakes briefly then passes
-out again.)
- [Reactor control junction]
-COMPUTER: Warning. Main fusion reactors will
-overload in ninety seconds. 
+(O'Brien is out cold. Sisko goes on. O'Brien wakes briefly then passes out again.) 
+[Reactor control junction]
+COMPUTER: Warning. Main fusion reactors will overload in ninety seconds. 
 (Sisko starts moving isolinear rods around.) 
 SISKO: Sisko to O'Brien. 
 [Conduit]
-SISKO [OC]: Chief, can you hear me?
- [Corridor]
+SISKO [OC]: Chief, can you hear me? 
+[Corridor]
 SISKO [OC]: Chief, answer me. 
-(Jake goes into the conduit.)
- [Reactor control junction]
+(Jake goes into the conduit.) 
+[Reactor control junction]
 (Sisko is reversing rods and pressing buttons.) 
-COMPUTER: Warning. Main fusion reactors will overload in sixty seconds.
- [Conduit]
-(Jake drags the groaning O'Brien back towards the
-corridor.) 
- [Reactor control junction]
-COMPUTER: Warning. Main fusion reactors will
-overload in thirty seconds. 
-(Sisko works fast.)
- [Corridor]
+COMPUTER: Warning. Main fusion reactors will overload in sixty seconds. 
+[Conduit]
+(Jake drags the groaning O'Brien back towards the corridor.) 
+[Reactor control junction]
+COMPUTER: Warning. Main fusion reactors will overload in thirty seconds. 
+(Sisko works fast.) 
+[Corridor]
 (Jake pulls O'Brien out of the conduit.) 
 O'BRIEN: Jake, I thought your father told you to stay out of there. 
-JAKE: If you don't tell him, I won't.
- [Reactor control junction]
+JAKE: If you don't tell him, I won't. 
+[Reactor control junction]
 (Sisko is still pressing buttons.) 
 COMPUTER: Warning. Main fusion reactor overload. 
-(Whumph! Energy discharges from the station and the shields are lit
-up.) 
+(Whumph! Energy discharges from the station and the shields are lit up.) 
 O'BRIEN [OC]: O'Brien to Sisko. 
-SISKO: Chief, you're all right?
- [Corridor]
-O'BRIEN: Yeah, looks like we all are.
- [Security office]
-(The doors open. Quark is at Odo's computer
-terminal.) 
+SISKO: Chief, you're all right? 
+[Corridor]
+O'BRIEN: Yeah, looks like we all are. 
+[Security office]
+(The doors open. Quark is at Odo's computer terminal.) 
 ODO: It's about time. All right, Quark. You can leave now. 
-QUARK: (reading) A self-important con artist who's nowhere near as
-clever as he thinks he is. That's your official security evaluation of
-me? 
+QUARK: (reading) A self-important con artist who's nowhere near as clever as he thinks he is. That's your official security evaluation of me? 
 ODO: Quark, I told you to stay away from the computer. 
 [Promenade]
-QUARK: Two hours ago you told me I was the most
-devious Ferengi you ever met. 
+QUARK: Two hours ago you told me I was the most devious Ferengi you ever met. 
 ODO: I thought we were going to die. I was trying to be nice. 
 QUARK: Name one Ferengi who's more devious than I am. 
 ODO: The Grand Nagus. 
@@ -731,5 +481,5 @@ QUARK: One you personally know.
 ODO: Your brother, Rom. 
 QUARK: My brother? 
 ODO: Your uncle Frin, your cousin Gaila. 
-QUARK: Gaila? The one with the moon? 
+QUARK: Gaila? The one with the moon?
 

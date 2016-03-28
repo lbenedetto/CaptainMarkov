@@ -1,54 +1,33 @@
 Episode Number: 407
 The Deep Space Nine Transcripts - Q-less
 Q-less
-Stardate:
-46531.2
+Stardate: 46531.2
 Original Airdate: 8 Feb, 1993
-  [Replimat]
-(Julian is holding forth to an enraptured Bajoran
-woman while O'Brien at the next table is, well, not.) 
-BASHIR: So there I was, fighting the toughest battle of my life,
-looking around hoping to spot a friendly face only to discover my
-colleagues were gone. I was alone. I admit, for a moment there, I
-considered giving up. I could feel the seconds ticking away, panic
-building up inside of me. I knew my only chance was to trust my
-instincts. So I closed my eyes, took a deep breath and just like that
-it came to me, the answer I was looking for. A pericardial membrane. I
-looked down and punched the answer into my computer terminal just as
-the buzzer sounded ending the exam. And that, I suppose, is the stuff
-salutatorians are made. 
+[Replimat]
+(Julian is holding forth to an enraptured Bajoran woman while O'Brien at the next table is, well, not.) 
+BASHIR: So there I was, fighting the toughest battle of my life, looking around hoping to spot a friendly face only to discover my colleagues were gone. I was alone. I admit, for a moment there, I considered giving up. I could feel the seconds ticking away, panic building up inside of me. I knew my only chance was to trust my instincts. So I closed my eyes, took a deep breath and just like that it came to me, the answer I was looking for. A pericardial membrane. I looked down and punched the answer into my computer terminal just as the buzzer sounded ending the exam. And that, I suppose, is the stuff salutatorians are made. 
 WOMAN: Salutatorian? 
-BASHIR: Well, I mistook a preganglionic fibre for a postganglianic
-nerve during the orals or I would have been valedictorian. It was a
-trick question. 
+BASHIR: Well, I mistook a preganglionic fibre for a postganglianic nerve during the orals or I would have been valedictorian. It was a trick question. 
 WOMAN: Fascinating. 
 BASHIR: Not nearly as fascinating as when I 
 SISKO [OC]: Doctor Bashir. Chief O'Brien. Report to landing pad five. 
 BASHIR: Bad timing. 
 WOMAN: There'll be another time. 
 (O'Brien and Bashir start to leave) 
-BASHIR: Starfleet medical finals. Gets them every time.
+BASHIR: Starfleet medical finals. Gets them every time. 
 [Outside a runabout]
-(Kira and Sisko are trying to open the hatch by
-hand) 
+(Kira and Sisko are trying to open the hatch by hand) 
 KIRA: It's no use. 
-SISKO: Chief, we have to get this hatch open. Lieutenant Dax and Ensign
-Pauley are trapped in there. 
-KIRA: The runabout barely made it back through the wormhole. By the
-time they docked, power levels were near zero. 
-O'BRIEN: There's not even enough juice left in the ship to release the
-servos. 
-BASHIR: Life support's down. Oxygen levels have dropped dangerously
-low. 
+SISKO: Chief, we have to get this hatch open. Lieutenant Dax and Ensign Pauley are trapped in there. 
+KIRA: The runabout barely made it back through the wormhole. By the time they docked, power levels were near zero. 
+O'BRIEN: There's not even enough juice left in the ship to release the servos. 
+BASHIR: Life support's down. Oxygen levels have dropped dangerously low. 
 KIRA: (drawing her weapon) We'll have to burn it through. 
-SISKO: Forget it Major. The hatch is made of duranium composite. It'll
-take you an hour to get through. 
-BASHIR: We don't have that much time. That's odd. How many passengers
-did you say were onboard the Ganges? 
+SISKO: Forget it Major. The hatch is made of duranium composite. It'll take you an hour to get through. 
+BASHIR: We don't have that much time. That's odd. How many passengers did you say were onboard the Ganges? 
 SISKO: Two. 
 BASHIR: I'm reading three. 
-O'BRIEN: We need to get power to the hatch servos. Major, hand me the
-EPI capacitor. There, middle shelf. 
+O'BRIEN: We need to get power to the hatch servos. Major, hand me the EPI capacitor. There, middle shelf. 
 (He plugs in the unit and power is transferred) 
 O'BRIEN: Try her now. 
 [Runabout Ganges]
@@ -59,199 +38,136 @@ VASH: That's right?
 O'BRIEN: Miles O'Brien, from the Enterprise. 
 VASH: Oh. Yes, of course. 
 O'BRIEN: What are you doing on the Ganges? 
-DAX: We found her in the Gamma Quadrant. She'd been there for over two
-years. 
+DAX: We found her in the Gamma Quadrant. She'd been there for over two years. 
 O'BRIEN: Two years? 
 SISKO: Doctor, we'd better get these people over to the infirmary. 
-BASHIR: Right this way.
+BASHIR: Right this way. 
 [Outside the runabout]
-O'BRIEN: How did you get to the Gamma Quadrant two
-years ago? 
+O'BRIEN: How did you get to the Gamma Quadrant two years ago? 
 VASH: 
-A friend dropped me
-off. 
+A friend dropped me off
+. 
 O'BRIEN: Oh. 
-(An engineer in the background turns round. Q!)
+(An engineer in the background turns round. Q!) 
 [Infirmary]
 VASH: Will I live? 
 BASHIR: You're fine. In fact, you're in remarkable shape. 
 VASH: Thank you, Doctor. I try. 
-BASHIR: I, I, I mean you've managed quite well considering you've been
-out of contact with civilisation for over two years. 
-VASH: I'd hardly call the Gamma Quadrant uncivilised. Some of the
-cultures I've encountered have histories that date back millions of
-years. 
-BASHIR: Really? I'd love to hear about them. I mean, we have no idea
-what's beyond the wormhole. 
+BASHIR: I, I, I mean you've managed quite well considering you've been out of contact with civilisation for over two years. 
+VASH: I'd hardly call the Gamma Quadrant uncivilised. Some of the cultures I've encountered have histories that date back millions of years. 
+BASHIR: Really? I'd love to hear about them. I mean, we have no idea what's beyond the wormhole. 
 VASH: Well, maybe I'll write a book. 
-BASHIR: It's sure to be a best-seller around here. Well, er, no sign of
-disease or malnutrition or parasitic infections. 
+BASHIR: It's sure to be a best-seller around here. Well, er, no sign of disease or malnutrition or parasitic infections. 
 VASH: You sound disappointed. 
 BASHIR: I am. Now I have no reason to keep you here. 
-VASH: You almost make me wish I wasn't feeling well.
- [Commander's office]
-SISKO: And she claims she knew nothing about the
-wormhole? 
-DAX: She did seem very surprised when I told her about it. I don't
-think she ever expected to see this part of the galaxy again. 
-SISKO: How could she get there in the first place if she didn't go
-through the wormhole? 
-DAX: She said she didn't want to talk about it. Said it was a personal
-matter. 
-SISKO: This doesn't make sense. A human alone in the Gamma Quadrant for
-two years? Let's check her background. See what we can find out about
-her. 
+VASH: You almost make me wish I wasn't feeling well. 
+[Commander's office]
+SISKO: And she claims she knew nothing about the wormhole? 
+DAX: She did seem very surprised when I told her about it. I don't think she ever expected to see this part of the galaxy again. 
+SISKO: How could she get there in the first place if she didn't go through the wormhole? 
+DAX: She said she didn't want to talk about it. Said it was a personal matter. 
+SISKO: This doesn't make sense. A human alone in the Gamma Quadrant for two years? Let's check her background. See what we can find out about her. 
 DAX: She claims to be an archaeologist. 
-SISKO: That's a good place to start.
+SISKO: That's a good place to start. 
 [Assay office]
 VASH: You're sure this place is safe? 
-CLERK: The Assay office is the most secure area on the station. The
-chambers are surrounded on all sides by individual force fields. 
+CLERK: The Assay office is the most secure area on the station. The chambers are surrounded on all sides by individual force fields. 
 VASH: And how are the locks controlled? 
-CLERK: Once you secure a chamber, it can't be opened except with your
-personal authorization code combined with a verified retinal print. 
+CLERK: Once you secure a chamber, it can't be opened except with your personal authorization code combined with a verified retinal print. 
 VASH: A Cardassian MK-seven scanner? 
 CLERK: MK-twelve, with an L-ninety enhanced resolution filter. 
 VASH: Well, I suppose that'll have to do. 
-CLERK: Computer, begin inventory for cubicle nineteen. One statue,
-stone, thirty odd centimetres tall, approximately eight kilograms.
-Assorted gems. Gold necklace. One dagger, bronze and gold, about twenty
-five centimetres. 
-(Vash opens a box to reveal a large orange crystal with an inner light)
-CLERK: Beautiful. I've never seen anything quite like it. Some kind of
-Promethean quartz. 
-VASH: I thought so too, at first, but it's molecular density and
-refraction index is much higher. 
+CLERK: Computer, begin inventory for cubicle nineteen. One statue, stone, thirty odd centimetres tall, approximately eight kilograms. Assorted gems. Gold necklace. One dagger, bronze and gold, about twenty five centimetres. 
+(Vash opens a box to reveal a large orange crystal with an inner light) 
+CLERK: Beautiful. I've never seen anything quite like it. Some kind of Promethean quartz. 
+VASH: I thought so too, at first, but it's molecular density and refraction index is much higher. 
 CLERK: Remarkable. End inventory. Please, enter an access code. 
-(Vash taps in some digits then does her retina scan. The drawer shuts.)
-VASH: All right, I'll be back tomorrow to pick everything up. I've
-booked passage on the Mulzirak Transport. 
+(Vash taps in some digits then does her retina scan. The drawer shuts.) 
+VASH: All right, I'll be back tomorrow to pick everything up. I've booked passage on the Mulzirak Transport. 
 SISKO: You're not leaving us so soon? 
-VASH: I'm afraid so.
+VASH: I'm afraid so. 
 [Promenade]
-SISKO: The Daystrom Institute will be very
-disappointed. 
+SISKO: The Daystrom Institute will be very disappointed. 
 VASH: The Daystrom Institute? 
-SISKO: Their scientists are anxious to hear about life in the Gamma
-Quadrant. Every place you've been, everything you've seen, no matter
-how insignificant, could prove important. Including how you got there. 
+SISKO: Their scientists are anxious to hear about life in the Gamma Quadrant. Every place you've been, everything you've seen, no matter how insignificant, could prove important. Including how you got there. 
 VASH: I'm sorry, Commander, but that's a 
 SISKO + VASH: Personal matter. 
 (Quark is talking to the Assay office junior assistant) 
-VASH: So now the Daystrom Institute is interested in me. well, that's
-ironic. 
+VASH: So now the Daystrom Institute is interested in me. well, that's ironic. 
 SISKO: Professor Woo seemed especially eager to speak to you again. 
-VASH: Did he really? I suppose he told you that he suspended my
-membership from the Institute's Archaeological Council? 
-SISKO: On two occasions. Something about the sale of illegal artefacts.
-VASH: Well, when it comes to choosing between science and profit, I'll
-choose profit every time. 
+VASH: Did he really? I suppose he told you that he suspended my membership from the Institute's Archaeological Council? 
+SISKO: On two occasions. Something about the sale of illegal artefacts. 
+VASH: Well, when it comes to choosing between science and profit, I'll choose profit every time. 
 SISKO: The professor was hoping you'd make an exception in this case. 
-VASH: You know, I haven't been back to Earth in, it must be twelve
-years. 
+VASH: You know, I haven't been back to Earth in, it must be twelve years. 
 SISKO: Here's your chance. I could arrange passage. 
 VASH: I think I'd like that. 
 SISKO: Fine. I'll take care of it. 
 [Runabout Ganges]
-O'BRIEN: I don't understand it, Commander. I can't
-find anything wrong with her. This ship is completely functional. 
+O'BRIEN: I don't understand it, Commander. I can't find anything wrong with her. This ship is completely functional. 
 SISKO: It didn't look that way this morning. 
-O'BRIEN: Oh, don't get me wrong. The power reserves are empty, the
-inertial damping fields are barely operational, and the warp drive
-containment field's on the verge of collapse. 
+O'BRIEN: Oh, don't get me wrong. The power reserves are empty, the inertial damping fields are barely operational, and the warp drive containment field's on the verge of collapse. 
 SISKO: But 
-O'BRIEN: But there's nothing wrong with any of them. Once we put power
-back into her, she should be fully operational. 
+O'BRIEN: But there's nothing wrong with any of them. Once we put power back into her, she should be fully operational. 
 SISKO: Did you check the central power linkages? 
-O'BRIEN: Yes, sir. I ran a level one diagnostic. Everything checks out.
-I can't explain it. It's like something tapped into the ship's systems
-and drained them dry.
+O'BRIEN: Yes, sir. I ran a level one diagnostic. Everything checks out. I can't explain it. It's like something tapped into the ship's systems and drained them dry. 
 [Airlock]
-SISKO: Tell me Chief, how well do you know this
-woman Vash? 
-O'BRIEN: Hardly at all. I only met her that one time she was aboard the
-Enterprise. 
+SISKO: Tell me Chief, how well do you know this woman Vash? 
+O'BRIEN: Hardly at all. I only met her that one time she was aboard the Enterprise. 
 SISKO: What was she doing there? 
-O'BRIEN: Well Sir, Vash and Captain Picard were friends. Close friends,
-if you follow my meaning.
- Seems
-they met on Risa
-a few years back.
+O'BRIEN: Well Sir, Vash and Captain Picard were friends. Close friends, if you follow my meaning. 
+Seems they met on Risa a few years back
+. 
 [Corridor]
-O'BRIEN: I think she must be a special woman, being
-friends with the Captain and all. 
+O'BRIEN: I think she must be a special woman, being friends with the Captain and all. 
 SISKO: Somehow she doesn't seem to be his type. 
 O'BRIEN: The Captain likes a good challenge, sir. 
-(The lights go down and come up again)
- [Ops]
+(The lights go down and come up again) 
+[Ops]
 SISKO: Status report? 
 DAX: We suffered a broad spectrum power drain. 
-KIRA: Power transfer is completely inoperative. The energy was drawn
-out faster than it could handle. 
+KIRA: Power transfer is completely inoperative. The energy was drawn out faster than it could handle. 
 O'BRIEN: I'll have to replace the whole unit. 
-DAX: Chief, are you reading any graviton flux around the transfer
-systems? 
-O'BRIEN: I am detecting a low level graviton disturbance. How did you
-know? 
-DAX: That's exactly what happened when we lost power on the Ganges.
- [Corridor] 
-O'BRIEN: These were originally Cardassian living
-quarters. The bed may take some getting use to. 
-VASH: As an archaeologist, I've spent half my life sleeping in tents.
-To me, any bed will be a luxury. 
-O'BRIEN: You've obviously never slept on a Cardassian mattress. If you
-need anything, just ask the computer. 
+DAX: Chief, are you reading any graviton flux around the transfer systems? 
+O'BRIEN: I am detecting a low level graviton disturbance. How did you know? 
+DAX: That's exactly what happened when we lost power on the Ganges. 
+[Corridor]
+O'BRIEN: These were originally Cardassian living quarters. The bed may take some getting use to. 
+VASH: As an archaeologist, I've spent half my life sleeping in tents. To me, any bed will be a luxury. 
+O'BRIEN: You've obviously never slept on a Cardassian mattress. If you need anything, just ask the computer. 
 VASH: Thanks, Chief. Oh, by the way, how's Jean-Luc? 
 O'BRIEN: The Captain? The last time I saw him he was fine. 
-VASH: Now that I'm back, I'll have to look him up.
- [Vash's quarters]
-(Vash looks at an interesting sculpture on the
-table then puts her bag on the bed.) 
-Q: Really, Vash, I can't believe you're still pining for Jean-Luc, that
-self righteous do-gooder. 
+VASH: Now that I'm back, I'll have to look him up. 
+[Vash's quarters]
+(Vash looks at an interesting sculpture on the table then puts her bag on the bed.) 
+Q: Really, Vash, I can't believe you're still pining for Jean-Luc, that self righteous do-gooder. 
 VASH: I should have listened to him. He warned me about you. 
-Q: You're hurt, you strike back. I understand. But be of good cheer, I
-bring wonderful news. I'm back. I can see now it was cruel of me to
-leave you. 
+Q: You're hurt, you strike back. I understand. But be of good cheer, I bring wonderful news. I'm back. I can see now it was cruel of me to leave you. 
 VASH: Very touching. But you didn't leave me, I left you. 
-Q: You left me, I left you Details, mere details. The important thing
-is we're back together again. A team, joined together at the hip. 
+Q: You left me, I left you Details, mere details. The important thing is we're back together again. A team, joined together at the hip. 
 VASH: Not a chance. 
 Q: You know you're going to miss me. 
 VASH: Don't flatter yourself. 
 (Q gets all her stuff back into her bag so she has to unpack again) 
-Q: You know, I thought first we'd visit the Teleris Cluster, look in on
-the star dancers at Mundahla. Or maybe head over to the Lantar nebula
-and view the Sampalo relic on Hoek Four. 
+Q: You know, I thought first we'd visit the Teleris Cluster, look in on the star dancers at Mundahla. Or maybe head over to the Lantar nebula and view the Sampalo relic on Hoek Four. 
 VASH: Not interested. 
-Q: I know. Vadris Three. Charming little world. The natives think
-they're the only intelligent life in the universe. 
+Q: I know. Vadris Three. Charming little world. The natives think they're the only intelligent life in the universe. 
 VASH: No. 
 (Her bag is back on her shoulder so she throws it at him) 
 Q: All right, you choose then. 
 VASH: I choose never to go anywhere with you again, Q. 
-Q: You don't know what you're missing. When we started this little
-partnership, I promised to take you places no human had ever seen
-before. 
+Q: You don't know what you're missing. When we started this little partnership, I promised to take you places no human had ever seen before. 
 VASH: And you have. It was wonderful. Thank you. Now goodbye. 
-Q: Two years in the Gamma Quadrant hardly qualifies as a grand tour of
-the universe. There's still the Delta Quadrant to explore, not to
-mention all the other galaxies. 
-VASH: It's over, Q. I want you out of my life. You are arrogant, you
-are overbearing and you think you know everything. 
+Q: Two years in the Gamma Quadrant hardly qualifies as a grand tour of the universe. There's still the Delta Quadrant to explore, not to mention all the other galaxies. 
+VASH: It's over, Q. I want you out of my life. You are arrogant, you are overbearing and you think you know everything. 
 Q: But I do know everything. 
 VASH: That makes it even worse. 
 Q: All right, fine, what is it you really want? 
 VASH: I want the life I had before I met you. 
-Q: And a stellar life indeed. The eminent Vash. Barred from the Royal
-Museum of Epsilon Hydra Seven, persona non grata on Betazed. Wanted
-dead on Myrmidon for stealing the Crown of the First Mother. 
+Q: And a stellar life indeed. The eminent Vash. Barred from the Royal Museum of Epsilon Hydra Seven, persona non grata on Betazed. Wanted dead on Myrmidon for stealing the Crown of the First Mother. 
 VASH: Dead or alive. 
-Q: Preferably dead. It's a wonder you haven't offended every sentient
-race in the galaxy. 
-VASH: You're the one who almost got me killed on Errikang Seven. And
-they weren't exactly thrilled to see you on Brax either. What did they
-call you? The God of Lies? 
+Q: Preferably dead. It's a wonder you haven't offended every sentient race in the galaxy. 
+VASH: You're the one who almost got me killed on Errikang Seven. And they weren't exactly thrilled to see you on Brax either. What did they call you? The God of Lies? 
 Q: They meant it affectionately. 
 (doorbell) 
 VASH: Come in. 
@@ -260,18 +176,14 @@ QUARK: I
 Q: Go away. 
 (Quark vanishes) 
 VASH: Q, bring him back. 
-Q: What business could you possibly have with that disgusting little
-troll? 
-VASH: I don't know. You didn't give him time to tell me. Now bring him
-back this instant. 
+Q: What business could you possibly have with that disgusting little troll? 
+VASH: I don't know. You didn't give him time to tell me. Now bring him back this instant. 
 Q: All right. 
 (Q disappears, Quark reappears) 
 VASH: Can I help you? 
-QUARK: My name is Quark. It's come to my attention that you have access
-to certain items. Items that might perhaps turn a tidy profit. 
+QUARK: My name is Quark. It's come to my attention that you have access to certain items. Items that might perhaps turn a tidy profit. 
 VASH: I'm listening. 
-QUARK: For a percentage, I might be able to arrange a buyer for your
-trinkets. Perhaps an auction. 
+QUARK: For a percentage, I might be able to arrange a buyer for your trinkets. Perhaps an auction. 
 VASH: I'll only accept payment in gold-pressed latinum. 
 QUARK: I'll shower you in it. Fifty-fifty. 
 VASH: Mister Quark, I believe you're trying to take advantage of me. 
@@ -279,18 +191,15 @@ QUARK: Some wine?
 (Vash takes hold of his lobes) 
 QUARK: (ecstasy). You have a talent for oo-mox. 
 VASH: So I've been told. 
-QUARK: I'll not be distracted by your feminine wiles. I demand forty
-percent. 
+QUARK: I'll not be distracted by your feminine wiles. I demand forty percent. 
 (more oo-mox) 
 QUARK: All right, thirty. 
 VASH: What magnificent cartilage. 
 QUARK: Twenty two and don't stop. 
-VASH: You've got a deal. I expect you to make all the necessary
-arrangements. 
+VASH: You've got a deal. I expect you to make all the necessary arrangements. 
 QUARK: Oh, you're good. You're very, very good. 
 (Quark leaves, Q is back) 
-Q: How perfectly vile. If that's the kind of company you kept before
-meeting me, it's no wonder you ended up with Picard. 
+Q: How perfectly vile. If that's the kind of company you kept before meeting me, it's no wonder you ended up with Picard. 
 VASH: Go away. 
 (doorbell) 
 VASH: Enter. 
@@ -299,56 +208,43 @@ BASHIR: I'm sorry. Am I interrupting anything?
 VASH: No. Come in, Doctor. 
 BASHIR: Thank you. And please, call me Julian. 
 VASH: Julian. Is this medical business? 
-BASHIR: Well, to tell the truth, I tried to come up with some official
-reason for dropping by, but your excellent health has robbed me of any
-excuses. 
+BASHIR: Well, to tell the truth, I tried to come up with some official reason for dropping by, but your excellent health has robbed me of any excuses. 
 VASH: Well, that didn't seem to stop you. 
-BASHIR: So I thought I'd contribute to your good health by buying you
-dinner. Quark's makes a delicious couscous, and the company, I hope,
-might be mildly entertaining. 
-VASH: Sounds like fun. (Q appears behind Julian and pulls faces) Though
-I would like to freshen up first. Could I meet you there in, say,
-twenty minutes or so?
-(Q vanishes) 
+BASHIR: So I thought I'd contribute to your good health by buying you dinner. Quark's makes a delicious couscous, and the company, I hope, might be mildly entertaining. 
+VASH: Sounds like fun. (Q appears behind Julian and pulls faces) Though I would like to freshen up first. Could I meet you there in, say, twenty minutes or so? (Q vanishes) 
 BASHIR: Those twenty minutes will seem like an eternity. 
 (Bashir leaves, Q is back) 
-Q: These mating rituals you humans indulge in really are quite
-disgusting. 
+Q: These mating rituals you humans indulge in really are quite disgusting. 
 VASH: Get out. 
 Q: You know you don't mean it. 
 VASH: Out. 
 Q: You're making a terrible mistake. You'd be lost without me. 
 VASH: I can take care of myself. 
-Q: Really? Well, we'll see about that.
- [Replimat] 
+Q: Really? Well, we'll see about that. 
+[Replimat]
 (A waiter approaches) 
 BASHIR: Just a cup of mint tea. 
 Q: (bajoran waiter) You're making a terrible mistake. 
 BASHIR: Why? The replicators haven't malfunctioned again? 
 Q: I'm talking about Vash. Stay away from her. 
 BASHIR: My god, you're an impertinent waiter. 
-Q: I'm a friend. I'm giving you friendly advice. She's nothing but
-trouble. 
-BASHIR: Really? Well I don't think it's any of your business who I see.
-In fact, I'm having dinner with her now. 
+Q: I'm a friend. I'm giving you friendly advice. She's nothing but trouble. 
+BASHIR: Really? Well I don't think it's any of your business who I see. In fact, I'm having dinner with her now. 
 Q: Are you sure you're feeling up to it? You look tired. 
 BASHIR: I feel fine. 
 Q: No, no, no. You look tired. Very, very tired. 
 (Q yawns and Bashir catches it) 
-BASHIR: Funny, I do feel a bit, a bit spent. Maybe I should go and lie
-down for a few minutes. 
+BASHIR: Funny, I do feel a bit, a bit spent. Maybe I should go and lie down for a few minutes. 
 Q: Hopefully by yourself for a change. 
 (Q has been recognised) 
-O'BRIEN: Bloody hell.
- [Ops]
-KIRA: Sir, the Klingon scout ship has departed
-docking bay eleven. 
+O'BRIEN: Bloody hell. 
+[Ops]
+KIRA: Sir, the Klingon scout ship has departed docking bay eleven. 
 SISKO: Good. I'll tell Odo he can relax now. 
 O'BRIEN: We've got a problem. sir. I just saw Q on the Promenade. 
 SISKO: Q? Here? 
 KIRA: What's Q? 
-SISKO: A powerful and extremely unpredictable entity. I was at a
-Starfleet briefing on him two years ago. 
+SISKO: A powerful and extremely unpredictable entity. I was at a Starfleet briefing on him two years ago. 
 O'BRIEN: Blasted menace, is what he is. 
 DAX: What does he want with us? 
 SISKO: Whatever it is, you can be sure we won't like it. 
@@ -356,65 +252,44 @@ O'BRIEN: You might ask Vash.
 DAX: Why Vash? 
 O'BRIEN: They know each other. 
 SISKO: From the Enterprise? 
-O'BRIEN: I believe they actually met in Sherwood Forest. It was one of
-the little jokes Q played on the Enterprise crew. 
+O'BRIEN: I believe they actually met in Sherwood Forest. It was one of the little jokes Q played on the Enterprise crew. 
 (The lights dim again, for longer) 
 KIRA: Main power grid has dropped eighty percent. 
 DAX: Sensors are reading a massive graviton build-up. 
 SISKO: How long will it take to bring us back up to full power? 
 DAX: It's already beginning to normalise. 
-KIRA: You know, if we have one of these outages during a docking
-procedure, we could lose an entire pylon. 
-O'BRIEN: I've double-checked every system. For the first time in a
-month, there's nothing wrong with any of them. It's got to be Q.
-Another one of his stupid jokes. 
-SISKO: I'm not laughing.
- [Quark's] 
+KIRA: You know, if we have one of these outages during a docking procedure, we could lose an entire pylon. 
+O'BRIEN: I've double-checked every system. For the first time in a month, there's nothing wrong with any of them. It's got to be Q. Another one of his stupid jokes. 
+SISKO: I'm not laughing. 
+[Quark's]
 (The box containing the glowing stone is open) 
 VASH: I figured we'd auction this off last. 
 QUARK: Interesting, but hardly of any intrinsic value. 
 VASH: Really? I thought it was the best piece in the collection. 
-QUARK: Obviously my associates have more sophisticated tastes than what
-you're used to. But just so it's not a total loss, I'll take it off
-your hands for, say, seven bars of gold-press latinum. 
+QUARK: Obviously my associates have more sophisticated tastes than what you're used to. But just so it's not a total loss, I'll take it off your hands for, say, seven bars of gold-press latinum. 
 VASH: It's worth fifty times as much. 
-QUARK: Ridiculous! All right, eighteen, but you must swear never to
-tell a soul about my foolish generosity. 
-VASH: If you want it you're going to have to be a lot more foolish than
-that. 
+QUARK: Ridiculous! All right, eighteen, but you must swear never to tell a soul about my foolish generosity. 
+VASH: If you want it you're going to have to be a lot more foolish than that. 
 QUARK: All right, thirty. Now give it to me. 
 VASH: Bidding starts at two hundred bars of gold latinum. 
-QUARK: I can't decided what's more intoxicating, this Gamzian wine or
-your negotiating skills. 
+QUARK: I can't decided what's more intoxicating, this Gamzian wine or your negotiating skills. 
 SISKO: We need to talk. 
 QUARK: The lady and I are having a private conversation. 
 SISKO: It can wait. 
 (Quark leaves) 
-VASH: Tell me, Commander, where is that Doctor of yours? He was
-supposed to meet me here half an hour ago 
+VASH: Tell me, Commander, where is that Doctor of yours? He was supposed to meet me here half an hour ago 
 SISKO: Tell me about Q. 
 (Q is at the table behind them) 
-Q: I'll tell you anything you want to know, Commander. Just answer one
-question. Is Starfleet penalising you or did you actually request such
-a dismal command. 
+Q: I'll tell you anything you want to know, Commander. Just answer one question. Is Starfleet penalising you or did you actually request such a dismal command. 
 SISKO: I want you off this station. 
-Q: Don't be hasty, my happy-go-lucky friend. This dreary little gulag
-could use a little colour, some excitement. And who better to provide
-it than moi? Though I must say I approve of your new tailor. 
+Q: Don't be hasty, my happy-go-lucky friend. This dreary little gulag could use a little colour, some excitement. And who better to provide it than moi? Though I must say I approve of your new tailor. 
 (Q changes from TNG uniform to DS9) 
-SISKO: I'm not impressed by your parlour tricks. These power outages
-are going to stop right now. 
-Q: Why tell me? Oh, yes, of course, go ahead. Blame Q if it makes you
-feel any better. I suppose it's my fate to be the galaxy's whipping
-boy. Heavy is the burden of being me. 
+SISKO: I'm not impressed by your parlour tricks. These power outages are going to stop right now. 
+Q: Why tell me? Oh, yes, of course, go ahead. Blame Q if it makes you feel any better. I suppose it's my fate to be the galaxy's whipping boy. Heavy is the burden of being me. 
 SISKO: If you're looking for sympathy, you've come to the wrong place. 
-Q: Actually, what I was hoping for was a little witty repartee, but I
-see I'm not going to get any of that either. At least your beloved
-Jean-Luc knows how to turn a phrase 
+Q: Actually, what I was hoping for was a little witty repartee, but I see I'm not going to get any of that either. At least your beloved Jean-Luc knows how to turn a phrase 
 VASH: Take a hint, Q. No one wants you around. 
-Q: Really, Vash, this playing hard to get is growing tedious. Let's not
-forget that I'm the Q and you the lowly human. I will decide when this
-partnership is over. Understand? 
+Q: Really, Vash, this playing hard to get is growing tedious. Let's not forget that I'm the Q and you the lowly human. I will decide when this partnership is over. Understand? 
 SISKO: Why don't you and I continue this discussion in private? 
 Q: Excellent idea. 
 (Everyone else vanishes) 
@@ -426,266 +301,161 @@ Q: Or what? You'll thrash me? Shall we settle this mano a mano?
 (Everyone is back, and Q and Sisko are 1900s bare-knuckle fighters) 
 Q: Marquis of Queensberry Rules? 
 SISKO: What? 
-Q: Fisticuffs, pugilism, the manly art of self-defence. (Q hits Sisko)
-Come on. Isn't this all wonderfully barbaric? Go on, take a poke at me.
-I know that's really what you want to do. Come on. 
+Q: Fisticuffs, pugilism, the manly art of self-defence. (Q hits Sisko) Come on. Isn't this all wonderfully barbaric? Go on, take a poke at me. I know that's really what you want to do. Come on. 
 QUARK: I'll wager five bars of latinum on Sisko. 
 VASH: You're on. 
 Q: Fight back. This is supposed to be brutal. 
-(Q punches Sisko three times in the face, then Sisko blocks his arm and
-pile-drives into his solar plexus. Q falls) 
+(Q punches Sisko three times in the face, then Sisko blocks his arm and pile-drives into his solar plexus. Q falls) 
 QUARK: You can pay me out of your profits from the auction. 
 Q: You hit me Picard never hit me. 
 SISKO: I'm not Picard. 
 Q: Indeed not. You're much easier to provoke. How fortunate for me. 
- [Promenade] 
-(A big well-dressed alien and a Ferengi arrive.
-There are 3 others with blue bags over their heads. Odo watches from
-his office doorway. Then lights go down again) 
-ODO: Not again.
- [Ops]
+[Promenade]
+(A big well-dressed alien and a Ferengi arrive. There are 3 others with blue bags over their heads. Odo watches from his office doorway. Then lights go down again) 
+ODO: Not again. 
+[Ops]
 (The lights come back) 
 O'BRIEN: Damn it, Q. Enough is enough. 
 (Bump and papers start flying) 
 DAX: We're losing atmosphere. 
-SISKO: Decompression protocol. Mister O'Brien, raise the confinement
-shields. 
+SISKO: Decompression protocol. Mister O'Brien, raise the confinement shields. 
 O'BRIEN: Shields up. 
 SISKO: Damage report. 
 KIRA: We've got a minor hull breach in one of the upper bulkheads. 
-O'BRIEN: I'm getting reports of hull fractures throughout the station.
-Emergency systems appear to be functioning. Repair crews are
-responding.
- [Corridor] 
+O'BRIEN: I'm getting reports of hull fractures throughout the station. Emergency systems appear to be functioning. Repair crews are responding. 
+[Corridor]
 (Dax is checking a man-sized hole) 
 DAX: The breach was caused by some kind of focused graviton pulse. 
-SISKO: Every time we've had a power drain, it's been followed by an
-increase in the graviton field. If this continues, we could wind up
-with a breach in one of our reactor cores. We'd lose half the station. 
+SISKO: Every time we've had a power drain, it's been followed by an increase in the graviton field. If this continues, we could wind up with a breach in one of our reactor cores. We'd lose half the station. 
 DAX: Maybe it's time we opened negotiations with Q. 
-SISKO: I'm not convinced Q is behind this. Playing with the lights and
-punching holes in the hull doesn't strike me as his style.
-[Security office] 
-QUARK: You wanted to see me? Make it quick. I have
-important business. 
-ODO: Yes, I know. You're auctioning off some artefacts from the Gamma
-Quadrant. 
-QUARK: You were eavesdropping on my conversation with Vash. What were
-you this time? The table? One of the chairs? The wine bottle. 
+SISKO: I'm not convinced Q is behind this. Playing with the lights and punching holes in the hull doesn't strike me as his style. 
+[Security office]
+QUARK: You wanted to see me? Make it quick. I have important business. 
+ODO: Yes, I know. You're auctioning off some artefacts from the Gamma Quadrant. 
+QUARK: You were eavesdropping on my conversation with Vash. What were you this time? The table? One of the chairs? The wine bottle. 
 ODO: When are you going to realise that you have no secrets from me? 
-QUARK: I have nothing to hide. I'm selling quality merchandise to a
-select clientele. 
+QUARK: I have nothing to hide. I'm selling quality merchandise to a select clientele. 
 ODO: And what makes them so select? 
 QUARK: They're all ridiculously wealthy and not too bright. 
-ODO: I'll never understand this obsession with accumulating material
-wealth. You spend your entire life plotting and scheming to acquire
-more and more possessions, until your living areas are bursting with
-useless junk. Then you die, your relatives sell everything and start
-the cycle all over again. 
+ODO: I'll never understand this obsession with accumulating material wealth. You spend your entire life plotting and scheming to acquire more and more possessions, until your living areas are bursting with useless junk. Then you die, your relatives sell everything and start the cycle all over again. 
 QUARK: Isn't there anything you desire? 
 ODO: I have my work. What more do I need? 
-QUARK: A suit of the finest Andorian silk? A ring of pure Surax? A
-complete set of Tanesh pottery? How about a latinum plated bucket to
-sleep in? 
-(Odo seems to consider it, then dismisses the idea)
- [Promenade] 
-(Vash is escorted from the assay office with a full
-rucksack.) 
-Q: Well, I'm glad to see you've packed. I hope you said goodbye to all
-your new-found friends. 
+QUARK: A suit of the finest Andorian silk? A ring of pure Surax? A complete set of Tanesh pottery? How about a latinum plated bucket to sleep in? 
+(Odo seems to consider it, then dismisses the idea) 
+[Promenade]
+(Vash is escorted from the assay office with a full rucksack.) 
+Q: Well, I'm glad to see you've packed. I hope you said goodbye to all your new-found friends. 
 VASH: I don't have time for this. 
-Q: You've led a charmed life these past two years under my benevolent
-protection. 
+Q: You've led a charmed life these past two years under my benevolent protection. 
 VASH: I can take care of myself. 
-Q: Really? Do you remember that tiny little insect bite you had on
-Erabus Prime? If I hadn't been there (Vash has very little hair left) 
+Q: Really? Do you remember that tiny little insect bite you had on Erabus Prime? If I hadn't been there (Vash has very little hair left) 
 VASH: I am not going with you. 
 Q: The galaxy can be a dangerous place when you're on your own. 
 (Vash gets nasty boils) 
 VASH: It's over, Q. 
-(Now she's deathly grey, bent over and falling to the floor under the
-weight of her bag) 
+(Now she's deathly grey, bent over and falling to the floor under the weight of her bag) 
 Q: I leave you now to reconsider my offer of friendship. 
-(Q vanishes and Vash is normal again)
-Station log, stardate 46531.2. The station's power
-is continuing to be drained and converted into gravitons. At this rate,
-our life support systems will fail in fourteen hours.
- [Ops] 
-O'BRIEN: Sir, we'll never find the source of the
-power drain using these bloody Cardassian internal sensors. They're
-just not sensitive enough. 
-DAX: What if we make the power drain easier to detect? If we flood the
-station with ionised tridium gas, we should be able to trace the
-particle flow to the source. 
+(Q vanishes and Vash is normal again) 
+Station log, stardate 46531.2. The station's power is continuing to be drained and converted into gravitons. At this rate, our life support systems will fail in fourteen hours. 
+[Ops]
+O'BRIEN: Sir, we'll never find the source of the power drain using these bloody Cardassian internal sensors. They're just not sensitive enough. 
+DAX: What if we make the power drain easier to detect? If we flood the station with ionised tridium gas, we should be able to trace the particle flow to the source. 
 O'BRIEN: Tridium? Isn't that pretty toxic. 
-DAX: Only when it's highly concentrated. We'd only use a very small
-amount. 
-SISKO: Do it. Unless we get this under control in the next eight hours,
-we'll begin evacuation procedures. 
-Q: Still chasing your own tail? Picard and his lackeys would have
-solved all this techno-babble hours ago. No wonder you're not
-commanding a starship. 
+DAX: Only when it's highly concentrated. We'd only use a very small amount. 
+SISKO: Do it. Unless we get this under control in the next eight hours, we'll begin evacuation procedures. 
+Q: Still chasing your own tail? Picard and his lackeys would have solved all this techno-babble hours ago. No wonder you're not commanding a starship. 
 KIRA: Security to Ops. 
-Q: Well, aren't we the feisty little go-getter. I'd keep my eye on this
-one. Chances are, she's after your job. 
-O'BRIEN: Why don't you do something constructive for a change? Like
-torment the Cardassians. 
+Q: Well, aren't we the feisty little go-getter. I'd keep my eye on this one. Chances are, she's after your job. 
+O'BRIEN: Why don't you do something constructive for a change? Like torment the Cardassians. 
 Q: Do I know you? 
 O'BRIEN: O'Brien. From the Enterprise. 
-Q: Enterprise. oh yes. Weren't you one of the little people? Quite a
-motley crew you've assembled here, Benji. My advice to you is to
-evacuate now and save all this pointless guesswork. 
-SISKO: Q, either you tell us what's going on or get the hell out of the
-way. 
-Q: I'll tell you what's going on. While you're here conducting futile
-experiments, Vash is below engaging in base commerce and setting
-Federation ethics back two hundred years. Believe me, gang, she's far
-more dangerous to you than I.
- [Quark's]
-QUARK: Kolos, my friend. I don't know which pleases
-me more, your smiling face or your overflowing purse. 
-KOLOS: (the well-dressed alien) Quark, you obsequious toad, your
-so-called Gamma Quadrant merchandise had better be legitimate or I'll
-toss you out the nearest airlock. 
-QUARK: No cause for alarm. Each piece comes complete with a statement
-of authenticity from Vash, the Federation's foremost expert on the
-Gamma Quadrant. 
+Q: Enterprise. oh yes. Weren't you one of the little people? Quite a motley crew you've assembled here, Benji. My advice to you is to evacuate now and save all this pointless guesswork. 
+SISKO: Q, either you tell us what's going on or get the hell out of the way. 
+Q: I'll tell you what's going on. While you're here conducting futile experiments, Vash is below engaging in base commerce and setting Federation ethics back two hundred years. Believe me, gang, she's far more dangerous to you than I. 
+[Quark's]
+QUARK: Kolos, my friend. I don't know which pleases me more, your smiling face or your overflowing purse. 
+KOLOS: (the well-dressed alien) Quark, you obsequious toad, your so-called Gamma Quadrant merchandise had better be legitimate or I'll toss you out the nearest airlock. 
+QUARK: No cause for alarm. Each piece comes complete with a statement of authenticity from Vash, the Federation's foremost expert on the Gamma Quadrant. 
 KOLOS: In that case, stop sniveling and give me a synthale. 
 (Kolos takes his drink and leaves) 
 VASH: Are they all that pleasant? 
-QUARK: I don't care about their manners. The important thing is,
-they're honest collectors of antiquities, every one. 
+QUARK: I don't care about their manners. The important thing is, they're honest collectors of antiquities, every one. 
 VASH: How honest? 
 QUARK: As honest as you and I. 
 VASH: Then we'd better keep a close eye on them. 
-QUARK: My dear, I've been thinking. What would you say to a permanent
-partnership? What with your knowledge of the Gamma Quadrant, and my
-business connections, we could make a fortune. 
-VASH: Sorry, Quark, but I've slept in my last tent. I'm looking forward
-to a nice quiet life back on Earth. 
-QUARK: You won't last a month. You're like me. You live for excitement,
-adventure and profit. 
+QUARK: My dear, I've been thinking. What would you say to a permanent partnership? What with your knowledge of the Gamma Quadrant, and my business connections, we could make a fortune. 
+VASH: Sorry, Quark, but I've slept in my last tent. I'm looking forward to a nice quiet life back on Earth. 
+QUARK: You won't last a month. You're like me. You live for excitement, adventure and profit. 
 VASH: Not anymore. 
 QUARK: Would you care to make a wager on that? 
 (Big shudder) 
- [Ops]
-DAX: The graviton field has increased by sixty
-percent. 
+[Ops]
+DAX: The graviton field has increased by sixty percent. 
 SISKO: How soon can you begin the sensor sweep? 
-DAX: Not until we've increased tridium levels to one part per million.
-It should only be another seven, eight minutes. 
+DAX: Not until we've increased tridium levels to one part per million. It should only be another seven, eight minutes. 
 KIRA: Commander, we're being pulled out of our normal position. 
 SISKO: Use control thrusters to stabilise the station. 
 KIRA: Firing thrusters. We're still moving. 
-O'BRIEN: If the graviton field is feeding off the station's power,
-maybe we can cut its supply by shutting down the reactors. 
-SISKO: Put life support on emergency backup. Take everything else
-offline. 
+O'BRIEN: If the graviton field is feeding off the station's power, maybe we can cut its supply by shutting down the reactors. 
+SISKO: Put life support on emergency backup. Take everything else offline. 
 KIRA: We're still moving out of position. 
 SISKO: What's our heading? 
 DAX: Bearing one five seven, mark one three. 
-KIRA: Straight into the wormhole.
- [Quark's]
-QUARK: Now, as you know, payment must be in gold
-pressed latinum, and all transactions are final. Remember, bid high and
-bid often. 
-VASH: Ladies and gentlemen, our first item is a statue from the Gamma
-Quadrant's Verath System. Now, I suppose I take a minute to tell you a
-little bit about the Verathan civilisation, which reached its height
-some thirty thousand years ago and spanned over two dozen systems,
-interconnected by a highly developed trade and communications network.
-This statue represents Drohlak, the Prime Ossemite of the nineteenth
-dynasty. 
+KIRA: Straight into the wormhole. 
+[Quark's]
+QUARK: Now, as you know, payment must be in gold pressed latinum, and all transactions are final. Remember, bid high and bid often. 
+VASH: Ladies and gentlemen, our first item is a statue from the Gamma Quadrant's Verath System. Now, I suppose I take a minute to tell you a little bit about the Verathan civilisation, which reached its height some thirty thousand years ago and spanned over two dozen systems, interconnected by a highly developed trade and communications network. This statue represents Drohlak, the Prime Ossemite of the nineteenth dynasty. 
 QUARK: Vash, what are you doing? 
 VASH: I'm placing the statue in its historical context. 
-QUARK: Here, give me that. This isn't the Daystrom Institute. Watch
-closely. Friends, it's rare, it's beautiful, and it's a Gamma Quadrant
-original. And it can be yours for the right price. Bidding will start
-at ten bars of gold pressed latinum. Make it ten. Fifteen? Sixteen?
-Who'll say seventeen and be the first to own a piece of the Gamma
-Quadrant?
- [Ops]
-O'BRIEN: Tridium levels throughout the station have
-reached one part per million. 
+QUARK: Here, give me that. This isn't the Daystrom Institute. Watch closely. Friends, it's rare, it's beautiful, and it's a Gamma Quadrant original. And it can be yours for the right price. Bidding will start at ten bars of gold pressed latinum. Make it ten. Fifteen? Sixteen? Who'll say seventeen and be the first to own a piece of the Gamma Quadrant? 
+[Ops]
+O'BRIEN: Tridium levels throughout the station have reached one part per million. 
 DAX: Initiating sensor sweep. 
 O'BRIEN: We can rule out the docking ring. 
 DAX:: The tridium gas seems to be draining toward the central core. 
 SISKO: Where in the central core? 
-O'BRIEN: Let me see if I can get a more precise reading. It's not clear
-enough. I can't pinpoint an exact location. 
-KIRA: Based on our current trajectory, we'll hit the wormhole in
-eighteen minutes. 
-SISKO: What the hell could be pulling us into the wormhole? Do we have
-time to transfer auxiliary power to the deflectors, Chief? 
-O'BRIEN: Sir, there's not enough power left to make any difference. If
-we get sucked into that wormhole, we'll be in a billion pieces by the
-time we reach the Gamma Quadrant.
- [Quark's]
-QUARK: Sold to Kolos for thirty-six bars of gold
-pressed latinum. Next we have a dagger, studded with some very
-interesting looking gems. Think of it as a weapon and an investment.
-Bidding will start at forty. Forty. Forty two. Forty five. Don't hold
-back. You know you want it. Give me fifty. Fifty. We have fifty. 
-Q: I hate to interrupt such a thrilling display of naked avarice, but I
-thought it was only right of me to warn you that this station is
-hurtling toward its doom, and it's very unlikely any of you will
-survive to enjoy your purchases. I just thought I'd mention it. Please,
-carry on. 
-QUARK: Ladies and gentlemen, I assure you, everything is under control.
-Drinks for everyone. And free use of the holosuites at the conclusion
-of the auction. And 
-VASH: I don't think I realised until this moment how evil you really
-are. You'd kill all these people to get even with me. 
-Q: I must admit, the thought had occurred to me, but this station is in
-enough trouble without me. Although I'd be glad to save you. All you
-have to do is ask. 
+O'BRIEN: Let me see if I can get a more precise reading. It's not clear enough. I can't pinpoint an exact location. 
+KIRA: Based on our current trajectory, we'll hit the wormhole in eighteen minutes. 
+SISKO: What the hell could be pulling us into the wormhole? Do we have time to transfer auxiliary power to the deflectors, Chief? 
+O'BRIEN: Sir, there's not enough power left to make any difference. If we get sucked into that wormhole, we'll be in a billion pieces by the time we reach the Gamma Quadrant. 
+[Quark's]
+QUARK: Sold to Kolos for thirty-six bars of gold pressed latinum. Next we have a dagger, studded with some very interesting looking gems. Think of it as a weapon and an investment. Bidding will start at forty. Forty. Forty two. Forty five. Don't hold back. You know you want it. Give me fifty. Fifty. We have fifty. 
+Q: I hate to interrupt such a thrilling display of naked avarice, but I thought it was only right of me to warn you that this station is hurtling toward its doom, and it's very unlikely any of you will survive to enjoy your purchases. I just thought I'd mention it. Please, carry on. 
+QUARK: Ladies and gentlemen, I assure you, everything is under control. Drinks for everyone. And free use of the holosuites at the conclusion of the auction. And 
+VASH: I don't think I realised until this moment how evil you really are. You'd kill all these people to get even with me. 
+Q: I must admit, the thought had occurred to me, but this station is in enough trouble without me. Although I'd be glad to save you. All you have to do is ask. 
 VASH I'll take my chances with the others. 
-Q: As you choose. I'm going to just right here sit here and watch. I've
-never seen a space station torn apart by a wormhole before. 
-QUARK: Sold to my cousin Stol for a hundred and five bars of gold
-pressed latinum.
- [Ops]
-KIRA: What if we pump more tridium gas into the
-central core? The sensors might be more accurate with the greater
-concentration. 
-O'BRIEN: It might work, but in four years we'll all be dead from
-tridium poisoning. 
+Q: As you choose. I'm going to just right here sit here and watch. I've never seen a space station torn apart by a wormhole before. 
+QUARK: Sold to my cousin Stol for a hundred and five bars of gold pressed latinum. 
+[Ops]
+KIRA: What if we pump more tridium gas into the central core? The sensors might be more accurate with the greater concentration. 
+O'BRIEN: It might work, but in four years we'll all be dead from tridium poisoning. 
 DAX: Wait a minute. Of course. Bring the reactors back online 
-O'BRIEN: The reactors? But they'll just feed more energy to the
-graviton field. 
-DAX: If we generate enough energy, it should create a power drain big
-enough to trace. 
+O'BRIEN: The reactors? But they'll just feed more energy to the graviton field. 
+DAX: If we generate enough energy, it should create a power drain big enough to trace. 
 KIRA: It might also push us faster into the wormhole. A lot faster. 
-SISKO: It's a chance we've got to take. Bring us to full power, Mister
-O'Brien. Everything you've got. 
-O'BRIEN: Aye, sir.
- [Quark's] 
-QUARK: (the necklace) Sold to Rul the Obscure for a
-hundred and fifty one latinum bars. And now, our final item. And I
-think you'll agree with me it was well worth the wait. 
+SISKO: It's a chance we've got to take. Bring us to full power, Mister O'Brien. Everything you've got. 
+O'BRIEN: Aye, sir. 
+[Quark's]
+QUARK: (the necklace) Sold to Rul the Obscure for a hundred and fifty one latinum bars. And now, our final item. And I think you'll agree with me it was well worth the wait. 
 (Vash opens the box) 
-QUARK: Bidding will start at two hundred bars of gold pressed latinum.
-Two hundred. Can I get two fifty? Two fifty. Three hundred anyone?
-Three hundred bars of gold pressed latinum. Three hundred and fifty? 
+QUARK: Bidding will start at two hundred bars of gold pressed latinum. Two hundred. Can I get two fifty? Two fifty. Three hundred anyone? Three hundred bars of gold pressed latinum. Three hundred and fifty? 
 VOICE: Here. 
 QUARK: Four hundred? Four hundred. Five? Five hundred and twenty? 
 (A six-fingered hand is raised.) 
-QUARK: Six hundred bars of gold press latinum.
- [Ops] 
-DAX: It's not in any of the crossover bridges or
-the habitat ring. It's in the upper core. 
-KIRA: Three minutes, fourteen seconds to the wormhole. We're picking up
-speed. 
+QUARK: Six hundred bars of gold press latinum. 
+[Ops]
+DAX: It's not in any of the crossover bridges or the habitat ring. It's in the upper core. 
+KIRA: Three minutes, fourteen seconds to the wormhole. We're picking up speed. 
 DAX: I've got it. The power drain's coming from the Promenade. 
 SISKO: Chief, you have Ops. 
- [Quark's]
+[Quark's]
 KOLOS: Twenty-five hundred. 
-Q: Twenty-five hundred and one.
- [Promenade]
-DAX: This way.
- [Quark's]
-KOLOS: Three thousand bars of latinum. My final
-offer. 
+Q: Twenty-five hundred and one. 
+[Promenade]
+DAX: This way. 
+[Quark's]
+KOLOS: Three thousand bars of latinum. My final offer. 
 QUARK: Three thousand bars. 
 Q: A million. 
 QUARK: A million bars of gold press latinum? 
@@ -699,58 +469,36 @@ SISKO: This auction's over.
 QUARK: Sold. 
 SISKO: Chief, shut down the reactors. We've found it. 
 Q: And it's about time, too. 
-QUARK: Sorry, all transactions are final. This item now belongs to that
-gentleman over there. 
-DAX: I'm reading a massive graviton build up inside this container.
-It's increasing exponentially. We have got to get it off the station
-now. 
-SISKO: Chief, lock on to my combadge. Prepare to transport it five
-hundred metres off the docking ring. (puts the badge on the box) 
+QUARK: Sorry, all transactions are final. This item now belongs to that gentleman over there. 
+DAX: I'm reading a massive graviton build up inside this container. It's increasing exponentially. We have got to get it off the station now. 
+SISKO: Chief, lock on to my combadge. Prepare to transport it five hundred metres off the docking ring. (puts the badge on the box) 
 QUARK: But I haven't been paid! 
-SISKO: Energize.
- [Promenade - upper level] 
-(As everyone watches, a golden space creature is
-born from the thing in the box and flies off into the wormhole)
-Station log, stardate 46532.3. With the embryonic
-lifeform off the station, graviton levels have returned to normal.
-We've used the control thrusters to return the station to its original
-position.
- [Quark's] 
-QUARK: So, you're off to the Daystrom Institute.
-Bet you can hardly wait. Long, boring lectures, endless conferences,
-whining students dogging your every step. Sounds delightful. Of course.
-No, you wouldn't be interested. 
+SISKO: Energize. 
+[Promenade - upper level]
+(As everyone watches, a golden space creature is born from the thing in the box and flies off into the wormhole) 
+Station log, stardate 46532.3. With the embryonic lifeform off the station, graviton levels have returned to normal. We've used the control thrusters to return the station to its original position. 
+[Quark's]
+QUARK: So, you're off to the Daystrom Institute. Bet you can hardly wait. Long, boring lectures, endless conferences, whining students dogging your every step. Sounds delightful. Of course. No, you wouldn't be interested. 
 VASH: In what? 
-QUARK: I hear they've uncovered the ruins of a Rokai provincial capital
-on Tartaras Five. If you could obtain some Rokain artefacts 
+QUARK: I hear they've uncovered the ruins of a Rokai provincial capital on Tartaras Five. If you could obtain some Rokain artefacts 
 VASH: Forget it, Quark. I'm going back to Earth. 
 QUARK: Have it your way. 
 Q: An abysmal place. 
 VASH: Tartaras Five? 
-Q: Earth. Oh, don't get me wrong. A thousand years ago it had
-character. Crusades, Spanish Inquisition, Watergate. But now it's just
-mind-numbingly dull. 
+Q: Earth. Oh, don't get me wrong. A thousand years ago it had character. Crusades, Spanish Inquisition, Watergate. But now it's just mind-numbingly dull. 
 VASH: Well then by all means, don't come with me. 
-Q: I think you'd be much happier poking about the ruins of Tartaras
-Five. 
+Q: I think you'd be much happier poking about the ruins of Tartaras Five. 
 VASH: I don't need your advice. You really think I 
-Q: You know, I still feel that I owe you a million bars of gold pressed
-latinum. 
+Q: You know, I still feel that I owe you a million bars of gold pressed latinum. 
 VASH: Keep it. Just give me back my life. 
 Q: You'll regret it if I do. 
 VASH: I'm willing to take my chances. 
-Q: All right. If you insist. But it's not going to be the same without
-you. When I look at a gas nebula, all I see is a cloud of dust. Seeing
-the universe through your eyes, I was able to experience wonder. I'm
-going to miss that. 
+Q: All right. If you insist. But it's not going to be the same without you. When I look at a gas nebula, all I see is a cloud of dust. Seeing the universe through your eyes, I was able to experience wonder. I'm going to miss that. 
 VASH: Well, I guess in some ways I'm going to miss you too. 
 Q: Maybe I could drop in sometime. 
 VASH: Oh, God, I hope not. 
 (Q vanishes) 
-VASH: Hey Quark, (takes hold of his lobe) What's the quickest way to
-Tartaras Five? 
-(Quark and Vash leave arm in arm as Morn enters. Dax gets up to leave
-and meets a yawning Bashir entering) 
-BASHIR: I feel as though I've been sleep for days. What? Did I miss
-something?  
+VASH: Hey Quark, (takes hold of his lobe) What's the quickest way to Tartaras Five? 
+(Quark and Vash leave arm in arm as Morn enters. Dax gets up to leave and meets a yawning Bashir entering) 
+BASHIR: I feel as though I've been sleep for days. What? Did I miss something? 
 

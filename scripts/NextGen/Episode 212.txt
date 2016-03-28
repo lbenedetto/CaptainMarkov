@@ -1,17 +1,11 @@
 Episode Number: 212
 The Next Generation Transcripts - Violations
 Violations
-Stardate:
-45429.3
+Stardate: 45429.3
 Original Airdate: 3 Feb, 1992
- 
-Captain's log, stardate 45429.3. While on a mapping survey, we are
-conveying a delegation of Ullians to Kaldra Four. These telepathic
-historians conduct their research by retrieving long-forgotten
-memories.
+Captain's log, stardate 45429.3. While on a mapping survey, we are conveying a delegation of Ullians to Kaldra Four. These telepathic historians conduct their research by retrieving long-forgotten memories. 
 [Ten Forward]
-KEIKO: It's a chipped cup, off-white, with a crack
-in it. I can see it but I don't remember anything else about it. 
+KEIKO: It's a chipped cup, off-white, with a crack in it. I can see it but I don't remember anything else about it. 
 TARMIN: (a silver haired man) When you see it, do you hear any sounds? 
 KEIKO: No, I don't think so. Wait, yes. Humming. Someone's humming. 
 TARMIN: A woman? 
@@ -29,90 +23,48 @@ TARMIN: A spoon?
 KEIKO: No, it's more delicate than that. 
 TARMIN: Reach out for it. 
 KEIKO: A brush. An ink brush. I hear that humming again. 
-TARMIN: Keep listening to it, and hold out the brush. See if anyone
-takes it from you. 
-KEIKO: It's Obaachan! My grandmother. She's doing ink brush writing. I
-can remember it now. She used that cup for cleaning the brushes, and it
-was my job to fill it with water and bring it to the table. I would sit
-beside her and watch the most beautiful characters come from that
-brush. And the whole time, she'd be humming to herself. I remember it
-like it was yesterday. 
+TARMIN: Keep listening to it, and hold out the brush. See if anyone takes it from you. 
+KEIKO: It's Obaachan! My grandmother. She's doing ink brush writing. I can remember it now. She used that cup for cleaning the brushes, and it was my job to fill it with water and bring it to the table. I would sit beside her and watch the most beautiful characters come from that brush. And the whole time, she'd be humming to herself. I remember it like it was yesterday. 
 CRUSHER: That is remarkable. You remembered such vivid detail. 
-KEIKO: For years I've seen that old cup in my memory but I could never
-remember what it was or why it was important. Thank you. 
-TARMIN: You're entirely welcome, young lady. Perhaps someone else would
-care to try? (to Beverly) You, madam. You're thinking of that first
-childhood kiss. Would you like to remember more about it? 
-JEV: Father, you know you're not supposed to probe someone's memory
-unless they've given you permission. 
-TARMIN: You are right, but sometimes with a beautiful woman, I can not
-help myself. 
-LAFORGE: How about you, Commander? Got any memories you feel like
-digging up? 
+KEIKO: For years I've seen that old cup in my memory but I could never remember what it was or why it was important. Thank you. 
+TARMIN: You're entirely welcome, young lady. Perhaps someone else would care to try? (to Beverly) You, madam. You're thinking of that first childhood kiss. Would you like to remember more about it? 
+JEV: Father, you know you're not supposed to probe someone's memory unless they've given you permission. 
+TARMIN: You are right, but sometimes with a beautiful woman, I can not help myself. 
+LAFORGE: How about you, Commander? Got any memories you feel like digging up? 
 RIKER: None that I'd care to share with an audience. 
 KEIKO: It's getting late. I'd better be going. 
-(they all leave, except Jev the son)
+(they all leave, except Jev the son) 
 [Corridor]
-DATA: It is perplexing to me that the Ullians'
-ability to retrieve memory is so highly prized. If an event were
-important enough to be recovered, why would it have been forgotten? 
-LAFORGE: It's not quite the same for us as it is for you, Data. You
-record every second of every moment of your life. 
+DATA: It is perplexing to me that the Ullians' ability to retrieve memory is so highly prized. If an event were important enough to be recovered, why would it have been forgotten? 
+LAFORGE: It's not quite the same for us as it is for you, Data. You record every second of every moment of your life. 
 DATA: That is correct. 
-LAFORGE: And then if you want to recall any one of those moments, you
-just access the proper memory circuit. 
-DATA: My understanding of the human brain suggests that the process is
-the same for you. Each memory is encoded in chains of molecules. If you
-want to retrieve it, you simply access the proper RNA sequence. 
+LAFORGE: And then if you want to recall any one of those moments, you just access the proper memory circuit. 
+DATA: My understanding of the human brain suggests that the process is the same for you. Each memory is encoded in chains of molecules. If you want to retrieve it, you simply access the proper RNA sequence. 
 LAFORGE: Yeah, that's true. 
 DATA: Then in what way is it different? 
-LAFORGE: Sometimes there are memories we just can't access at the spur
-of the moment. For instance, I have no recollection of how I spent my
-last birthday. Birthdays are important occasions, and you would think
-that I'd remember how I spent the day, but right now I can't even
-remember where I was.
+LAFORGE: Sometimes there are memories we just can't access at the spur of the moment. For instance, I have no recollection of how I spent my last birthday. Birthdays are important occasions, and you would think that I'd remember how I spent the day, but right now I can't even remember where I was. 
 [Turbolift]
-LAFORGE: Deck two. On the other hand, I remember
-everything about the time I got my first pet. A Circassian cat. I was
-eight. I remember how funny-looking he was. I remember how excited I
-was. It's as if it happened last week. 
-DATA: Perhaps you remember the pleasant memories and forget the
-unpleasant ones? 
-LAFORGE: No, sometimes the bad memories can be the most intense of all.
+LAFORGE: Deck two. On the other hand, I remember everything about the time I got my first pet. A Circassian cat. I was eight. I remember how funny-looking he was. I remember how excited I was. It's as if it happened last week. 
+DATA: Perhaps you remember the pleasant memories and forget the unpleasant ones? 
+LAFORGE: No, sometimes the bad memories can be the most intense of all. 
 DATA: It would seem there is no predictable pattern to human memory. 
-LAFORGE: It would seem.
+LAFORGE: It would seem. 
 [Dining room]
-JEV: This library of ours has been in the planning
-stages for years. A collection of the retrieved memories of races from
-many different star systems. 
-TARMIN: What my son means to say is, we think of ourselves as
-archaeologists of the mind. We believe that the history of a
-world is contained in the personal experience of its people. 
+JEV: This library of ours has been in the planning stages for years. A collection of the retrieved memories of races from many different star systems. 
+TARMIN: What my son means to say is, we think of ourselves as archaeologists of the mind. We believe that the history of a world is contained in the personal experience of its people. 
 PICARD: Rather like the ancient oral historians on Earth. 
-TARMIN: Exactly. The library we propose will be a vast storehouse of
-these individual memories. 
-RIKER: That sounds like quite a project. How long will it take to
-finish your studies on Kaldra? 
-INAD: (a silver-haired woman) Many months. We've been working for
-years, and we've surveyed only eleven planets in eight star systems. 
+TARMIN: Exactly. The library we propose will be a vast storehouse of these individual memories. 
+RIKER: That sounds like quite a project. How long will it take to finish your studies on Kaldra? 
+INAD: (a silver-haired woman) Many months. We've been working for years, and we've surveyed only eleven planets in eight star systems. 
 JEV: But it's our way of life. We wouldn't want to do anything else. 
-CRUSHER: Captain, Mister Tarmin gave us a demonstration of his
-abilities this afternoon. It's fascinating. Perhaps you would like to
-resurrect some memories. 
-TARMIN: I'd be happy to probe your recollections, Captain. Most people
-find it an enjoyable experience. 
-PICARD: I'm sure. However, I don't think I would make a particularly
-good subject. 
-CRUSHER: I'm sure you'd be ideal, and you must have some intriguing
-memories. 
-TARMIN: We won't be on your ship for long. This may be your last
-chance. 
+CRUSHER: Captain, Mister Tarmin gave us a demonstration of his abilities this afternoon. It's fascinating. Perhaps you would like to resurrect some memories. 
+TARMIN: I'd be happy to probe your recollections, Captain. Most people find it an enjoyable experience. 
+PICARD: I'm sure. However, I don't think I would make a particularly good subject. 
+CRUSHER: I'm sure you'd be ideal, and you must have some intriguing memories. 
+TARMIN: We won't be on your ship for long. This may be your last chance. 
 PICARD: Yes. Well. 
-INAD: Tarmin, we mustn't influence people. We must let them come to us
-willingly. 
-TARMIN: I have found over the years there are many who want the
-experience of memory retrieval, but who lack some encouragement in
-order to come forward. 
+INAD: Tarmin, we mustn't influence people. We must let them come to us willingly. 
+TARMIN: I have found over the years there are many who want the experience of memory retrieval, but who lack some encouragement in order to come forward. 
 TARMIN: You, Mister Worf? I would love to explore Klingon memories. 
 WORF: Klingons do not allow themselves to be probed. 
 TARMIN: But there is nothing to fear. 
@@ -120,53 +72,40 @@ JEV: Father.
 WORF: I am not fearful. 
 TARMIN: Commander La Forge, you? 
 LAFORGE: I don't think so. Thanks anyway. 
-TARMIN: I have rarely encountered such squeamish people. Doctor
-Crusher? Commander Riker? 
+TARMIN: I have rarely encountered such squeamish people. Doctor Crusher? Commander Riker? 
 TROI: Mister Tarmin, are all Ullians able to read memories? 
-TARMIN: Oh, no, my dear. The technique requires special training. It is
-a serious commitment. 
-INAD: It takes years of study. Tarmin is the most proficient of our
-group. 
-TARMIN: Once Jev spent two days with a contingent of elderly Gentons.
-He couldn't get anything from them. I spent only one hour with them and
-retrieved a fragment from the Gentonian trade wars. 
+TARMIN: Oh, no, my dear. The technique requires special training. It is a serious commitment. 
+INAD: It takes years of study. Tarmin is the most proficient of our group. 
+TARMIN: Once Jev spent two days with a contingent of elderly Gentons. He couldn't get anything from them. I spent only one hour with them and retrieved a fragment from the Gentonian trade wars. 
 JEV: Excuse me. 
 (Jev exits hurriedly) 
 INAD: Exactly how long will it be before we reach Kaldra, Captain? 
 PICARD: Mister Data? 
-DATA: Four days, eleven hours.
+DATA: Four days, eleven hours. 
 [Corridor]
 TROI: Jev? 
 JEV: I'm sorry. I'm being rude. 
 TROI: No, not at all. 
-JEV: My father finds it amusing to demean me in public. I reach the
-point where I don't want to hear any more. 
-TROI: It's not easy having an overbearing parent. Believe me, I know
-how you feel. 
+JEV: My father finds it amusing to demean me in public. I reach the point where I don't want to hear any more. 
+TROI: It's not easy having an overbearing parent. Believe me, I know how you feel. 
 JEV: Oh, that's right. You're an empath. 
-TROI: Oh, I can't read Ullians, but I do know a certain Betazoid mother
-who is a great deal like your father.
+TROI: Oh, I can't read Ullians, but I do know a certain Betazoid mother who is a great deal like your father. 
 [Turbolift]
 TROI: Deck eight. 
 JEV: Deck sixteen. 
-TROI: I've learned to remind myself that my mother and I are two
-separate individuals. 
+TROI: I've learned to remind myself that my mother and I are two separate individuals. 
 JEV: And have you enjoyed much success with this approach, Counsellor? 
 TROI: No. But I do keep reminding myself. 
 (they arrive at deck eight) 
 TROI: Goodnight. 
-JEV: Goodnight, Counsellor. And thank you.
+JEV: Goodnight, Counsellor. And thank you. 
 [Troi's quarters]
-(Troi is brushing her hair when she gets an image
-of falling coins, then - ) 
+(Troi is brushing her hair when she gets an image of falling coins, then - ) 
 RIKER [OC]: Have you stopped thinking about us? 
 TROI: Hot chocolate. 
-(she sees herself lying down on the floor, with Will. She sits on the
-corner of her bed to sip her chocolate, and she's back at the end of a
-poker game, packing up the chips then dropping them) 
+(she sees herself lying down on the floor, with Will. She sits on the corner of her bed to sip her chocolate, and she's back at the end of a poker game, packing up the chips then dropping them) 
 TROI: Imzadi, we can't. Not when we're serving on the same ship. 
-RIKER: Have you stopped thinking about us? Just answer that. I can't
-stop thinking about you. 
+RIKER: Have you stopped thinking about us? Just answer that. I can't stop thinking about you. 
 TROI: Will, don't. 
 TROI [OC]: Imzadi, we can't. Not when we're serving on the same ship. 
 RIKER: Have you stopped thinking about us? 
@@ -174,92 +113,57 @@ TROI: We mustn't do this. Will, don't. Will, no!
 (Then suddenly it isn't Riker lying on top of her any more) 
 JEV: Imzadi. Have you stopped thinking about us? Just answer that. 
 TROI: No! No! No! Don't! 
-JEV: I can't stop thinking about you. Imzadi. Have you stopped thinking
-about us? 
+JEV: I can't stop thinking about you. Imzadi. Have you stopped thinking about us? 
 TROI: No! 
 (and the nightmare leaves Troi lying unconscious on the floor) 
-Captain's log, stardate 45430.9. Counsellor Troi
-has fallen into a deep coma. After a thorough examination, Doctor
-Crusher has been unable to find signs of illness or infection.
+Captain's log, stardate 45430.9. Counsellor Troi has fallen into a deep coma. After a thorough examination, Doctor Crusher has been unable to find signs of illness or infection. 
 [Sickbay]
 CRUSHER: Any change, Doctor Martin? 
-MARTIN: No. I'm still getting unusual neurotransmitter readings in the
-diencephalon, but they might be a result of the coma. 
+MARTIN: No. I'm still getting unusual neurotransmitter readings in the diencephalon, but they might be a result of the coma. 
 PICARD: Can you bring her out of it? 
-CRUSHER: I've tried standard revival techniques. She doesn't respond.
-Until I find out what's caused this, I don't want to try anything more
-extreme. 
+CRUSHER: I've tried standard revival techniques. She doesn't respond. Until I find out what's caused this, I don't want to try anything more extreme. 
 RIKER: Do we know what she was doing when this happened? 
-CRUSHER: No. She was found in her quarters this morning when she didn't
-show up for an appointment. She was dressed for bed but the bed hadn't
-been slept in. 
+CRUSHER: No. She was found in her quarters this morning when she didn't show up for an appointment. She was dressed for bed but the bed hadn't been slept in. 
 PICARD: Who was the last person to speak with her? 
-RIKER: She left the dinner last night with one of the Ullians. I'll
-talk to him. 
-PICARD: Ask if they would consent to an examination, just to be
-certain. 
-CRUSHER: I'll check the biofilter readings from the Ullian transporter
-log. It's possible they could still be carrying a harmful organism. 
+RIKER: She left the dinner last night with one of the Ullians. I'll talk to him. 
+PICARD: Ask if they would consent to an examination, just to be certain. 
+CRUSHER: I'll check the biofilter readings from the Ullian transporter log. It's possible they could still be carrying a harmful organism. 
 [Ten Forward]
 RIKER: May I join you? 
 JEV: Commander. Of course. Something's wrong? 
 RIKER: Counsellor Troi's ill. 
 JEV: I'm sorry to hear it 
-RIKER: She's more than ill, she's in a coma. Doctor Crusher doesn't
-know what's causing it or how to treat her. 
+RIKER: She's more than ill, she's in a coma. Doctor Crusher doesn't know what's causing it or how to treat her. 
 JEV: When did this happen? 
-RIKER: Apparently some time last night. That's why I wanted to talk to
-you. You may have been the last person to see her. Did you go with her
-into her quarters? 
+RIKER: Apparently some time last night. That's why I wanted to talk to you. You may have been the last person to see her. Did you go with her into her quarters? 
 JEV: Are you suggesting that I behaved improperly, Commander? 
 RIKER: Not at all. I'm just trying to trace her steps. 
-JEV: We talked in a turbolift, briefly. She got out at deck eight. I
-did not go with her. 
-RIKER: Jev, I'm not accusing you of anything. Did she mention feeling
-ill? 
+JEV: We talked in a turbolift, briefly. She got out at deck eight. I did not go with her. 
+RIKER: Jev, I'm not accusing you of anything. Did she mention feeling ill? 
 JEV: She seemed fine. She has a wonderful sense of humour. 
-RIKER: If you have no objections, Doctor Crusher would like to examine
-you and your group. 
+RIKER: If you have no objections, Doctor Crusher would like to examine you and your group. 
 JEV: To what end? 
-RIKER: She's just trying to eliminate the possibility that one of you
-might be carrying an organism that was harmful to Deanna.
-I'm not implying that you did anything intentional. I'm just trying to
-get to the bottom of the mystery. 
+RIKER: She's just trying to eliminate the possibility that one of you might be carrying an organism that was harmful to Deanna. I'm not implying that you did anything intentional. I'm just trying to get to the bottom of the mystery. 
 JEV: We have nothing to hide. If you wish to spend time examining us. 
-RIKER: Fine. Thank you.
+RIKER: Fine. Thank you. 
 [Sickbay]
-RIKER: Deanna, I don't know if you can hear me.
-I've heard doctors say that even when someone's in a coma, they may be
-able to hear when people talk to them. That it might help stimulate the
-brain, speed the healing. In fact, I think you did that for me once,
-when I was in pretty bad shape. I just thought it might help to hear a
-friendly voice, even if you don't know you're hearing it. We've been
-busy mapping the sector. It's been pretty routine. The most unusual
-thing we've seen is a binary star system. Let's see, what else? I
-finished the personnel review that we were working on. You can check it
-out when you wake up. I miss you. Please don't stay away too long. 
-CRUSHER: Will? Will, I promise I'll let you know the minute that she
-regains consciousness. 
+RIKER: Deanna, I don't know if you can hear me. I've heard doctors say that even when someone's in a coma, they may be able to hear when people talk to them. That it might help stimulate the brain, speed the healing. In fact, I think you did that for me once, when I was in pretty bad shape. I just thought it might help to hear a friendly voice, even if you don't know you're hearing it. We've been busy mapping the sector. It's been pretty routine. The most unusual thing we've seen is a binary star system. Let's see, what else? I finished the personnel review that we were working on. You can check it out when you wake up. I miss you. Please don't stay away too long. 
+CRUSHER: Will? Will, I promise I'll let you know the minute that she regains consciousness. 
 RIKER: I know. 
 CRUSHER: There's nothing you can do here. You'll wear yourself out. 
 RIKER: Right.;
-CRUSHER: It's late. Go to bed. That's an order.
+CRUSHER: It's late. Go to bed. That's an order. 
 [Riker's quarters]
-(Riker is using a PADD when suddenly he is dreaming
-about being back in - )
+(Riker is using a PADD when suddenly he is dreaming about being back in - ) 
 [Engineering]
-(there's an emergency, and the blast doors are
-being lowered. The sequence keeps going around in a loop) 
+(there's an emergency, and the blast doors are being lowered. The sequence keeps going around in a loop) 
 DAVIS: Keller is still in there! 
-RIKER: Let's move it! Out, out, out! Let's go! Everybody move!
-Everybody move! Out! Out! Come on, keep moving! 
+RIKER: Let's move it! Out, out, out! Let's go! Everybody move! Everybody move! Out! Out! Come on, keep moving! 
 LAFORGE: Commander, I need to bring that door down! 
 COMPUTER: Antimatter injection breach. Evacuate immediately. 
-RIKER: Keller, can you get to a Jeffries tube? Ensign Keller, answer
-me! 
+RIKER: Keller, can you get to a Jeffries tube? Ensign Keller, answer me! 
 DAVIS: You killed her. Keller is still in there! 
-LAFORGE: Commander, radiation levels are critical. We've got to seal it
-off. 
+LAFORGE: Commander, radiation levels are critical. We've got to seal it off. 
 DAVIS: She was right behind me! 
 RIKER: Bring down the door! 
 [Riker's quarters]
@@ -269,8 +173,7 @@ LAFORGE [OC]: I need to bring that door down.
 RIKER: Out, out! Let's go! 
 DAVIS: Keller is still in there. 
 JEV: Didn't you hear him? Keller is still in there. 
-RIKER: Riker to transporter room three. Prepare to beam Ensign Keller
-out of the engine room. 
+RIKER: Riker to transporter room three. Prepare to beam Ensign Keller out of the engine room. 
 JEV: Keller is still in there. 
 JEV: Keller is still in there. 
 DAVIS: You killed her. 
@@ -284,92 +187,54 @@ DAVIS: You killed her.
 JEV: You killed her. 
 LAFORGE: I need that door down! 
 DAVIS: Keller is still in there. 
-JEV: You killed her.
+JEV: You killed her. 
 [Riker's quarters]
 (and Riker collapses) 
 [Bridge]
-PICARD Bridge to Commander Riker. Picard to
-Commander Riker, answer please. Computer, locate Commander Riker. 
+PICARD Bridge to Commander Riker. Picard to Commander Riker, answer please. Computer, locate Commander Riker. 
 COMPUTER: Commander Riker is in his quarters. 
-WORF: On my way, sir.
+WORF: On my way, sir. 
 [Riker's quarters]
 (Worf finds Will slumped across his desk) 
-Medical log, stardate 45431.7. Commander Riker is
-the second officer who has fallen into an unexplained coma. I have
-examined the Ullians and ruled out the possibility that they carry a
-harmful organism.
+Medical log, stardate 45431.7. Commander Riker is the second officer who has fallen into an unexplained coma. I have examined the Ullians and ruled out the possibility that they carry a harmful organism. 
 [Observation lounge]
-CRUSHER: I compared Deanna's brain scan to one that
-I took during her last physical. There is a difference. This time
-there's a trace of electropathic activity. 
+CRUSHER: I compared Deanna's brain scan to one that I took during her last physical. There is a difference. This time there's a trace of electropathic activity. 
 PICARD: And Commander Riker? 
-CRUSHER: I found the same pattern. If I didn't know better, I'd say
-they both had Iresine syndrome. That's the only medical condition that
-would produce that pattern. 
+CRUSHER: I found the same pattern. If I didn't know better, I'd say they both had Iresine syndrome. That's the only medical condition that would produce that pattern. 
 WORF: What is Iresine syndrome? 
-CRUSHER: A very rare neurological disorder first diagnosed in the
-twenty third century. It's characterised by an identical electropathic
-residue. 
-PICARD: Why discount the possibility that it's responsible for these
-comas? 
-CRUSHER: Iresine is always accompanied by a severely decreased
-histamine count. Both Will and Deanna showed normal levels.
-I've asked Commander La Forge to conduct a shipwide diagnostic to
-determine any other agent that might cause the same electropathic
-pattern. 
-WORF: Commander Riker and Counsellor Troi were in perfect health until
-the Ullians arrived. It would be wise to quarantine the aliens. 
-PICARD: I believe that it would be premature to take that action,
-Mister Worf. There's no real evidence linking these comas with the
-Ullians. 
-CRUSHER: That's true, but there is something curious. The electropathic
-residue I discovered is located in the thalamus. That's the area of the
-cerebral cortex that involves memory function.
+CRUSHER: A very rare neurological disorder first diagnosed in the twenty third century. It's characterised by an identical electropathic residue. 
+PICARD: Why discount the possibility that it's responsible for these comas? 
+CRUSHER: Iresine is always accompanied by a severely decreased histamine count. Both Will and Deanna showed normal levels. I've asked Commander La Forge to conduct a shipwide diagnostic to determine any other agent that might cause the same electropathic pattern. 
+WORF: Commander Riker and Counsellor Troi were in perfect health until the Ullians arrived. It would be wise to quarantine the aliens. 
+PICARD: I believe that it would be premature to take that action, Mister Worf. There's no real evidence linking these comas with the Ullians. 
+CRUSHER: That's true, but there is something curious. The electropathic residue I discovered is located in the thalamus. That's the area of the cerebral cortex that involves memory function. 
 [Ullian's quarters]
-TARMIN: I've been accused of putting people to
-sleep with one too many stories, Captain, but this is the first time
-it's ever been suggested that I might be the cause of someone's coma. 
-PICARD: I mean no disrespect, but we are faced with an alarming
-situation 
+TARMIN: I've been accused of putting people to sleep with one too many stories, Captain, but this is the first time it's ever been suggested that I might be the cause of someone's coma. 
+PICARD: I mean no disrespect, but we are faced with an alarming situation 
 INAD: Why do you suspect us, Captain? 
-PICARD: Suspect is perhaps too strong a word. I'm simply trying to
-determine what has caused two of my officers to fall into comas. 
-JEV: But you've already examined us. We aren't carrying anything
-harmful. 
-CRUSHER: In further study of the victims, I detected some abnormal
-patterns in the area of the brain that involves memory. 
+PICARD: Suspect is perhaps too strong a word. I'm simply trying to determine what has caused two of my officers to fall into comas. 
+JEV: But you've already examined us. We aren't carrying anything harmful. 
+CRUSHER: In further study of the victims, I detected some abnormal patterns in the area of the brain that involves memory. 
 PICARD: In light of your telepathic abilities, it raises the question. 
-INAD: Captain, it is not our wish to obstruct you. What would you like?
-CRUSHER: If I could do further examinations tomorrow. Perhaps monitor
-you during a memory probe. 
+INAD: Captain, it is not our wish to obstruct you. What would you like? 
+CRUSHER: If I could do further examinations tomorrow. Perhaps monitor you during a memory probe. 
 TARMIN: Scrutiny does not frighten us. 
 JEV: We will be happy to cooperate, Doctor. 
-CRUSHER: Thank you. I'll contact you in the morning.
+CRUSHER: Thank you. I'll contact you in the morning. 
 [Sickbay]
-CRUSHER: You're the only person on board to undergo
-a memory probe by the Ullians. I'd like to do a neurological work up
-and see if I can detect any residual effect. Doctor Martin will monitor
-your vital signs while I conduct the scan. 
+CRUSHER: You're the only person on board to undergo a memory probe by the Ullians. I'd like to do a neurological work up and see if I can detect any residual effect. Doctor Martin will monitor your vital signs while I conduct the scan. 
 KEIKO: I'm happy to help. 
-CRUSHER: Have you had any unusual symptoms since the probe? Headaches?
-Dizziness? 
+CRUSHER: Have you had any unusual symptoms since the probe? Headaches? Dizziness? 
 KEIKO: No, nothing like that. It was a wonderful experience. 
-CRUSHER: Electrical activity is normal. CPK levels are normal.
-Hippocampus is stable, and the thalamus? The thalamus is normal. There
-is no indication at all of the electropathic residual. 
+CRUSHER: Electrical activity is normal. CPK levels are normal. Hippocampus is stable, and the thalamus? The thalamus is normal. There is no indication at all of the electropathic residual. 
 KEIKO: Is that good? 
-CRUSHER: Oh, you're fine, Keiko. But I am no closer to solving this
-mystery.
+CRUSHER: Oh, you're fine, Keiko. But I am no closer to solving this mystery. 
 [Engineering]
-LAFORGE: Computer, locate the electropathic pattern
-described in medical database four delta one. 
+LAFORGE: Computer, locate the electropathic pattern described in medical database four delta one. 
 COMPUTER: Electropathic pattern located. 
-LAFORGE: Okay, we're going to track down any possible cause of that
-brain pattern. First, what are the medical conditions that might
-account for it? 
+LAFORGE: Okay, we're going to track down any possible cause of that brain pattern. First, what are the medical conditions that might account for it? 
 COMPUTER: Iresine syndrome is a cause of the electropathic pattern. 
-LAFORGE: Right. And Doctor Crusher already eliminated that, so how many
-non-medical forces or substances might cause the pattern? 
+LAFORGE: Right. And Doctor Crusher already eliminated that, so how many non-medical forces or substances might cause the pattern? 
 COMPUTER: There are twenty two non-medical agents. 
 LAFORGE: Okay. And how many of those are present on the Enterprise? 
 COMPUTER: None are present on the Enterprise. 
@@ -377,34 +242,26 @@ LAFORGE: Are the ship's sensors calibrated to detect all those agents?
 COMPUTER: All agents are scanned by the sensors. 
 LAFORGE: Okay. Let's start with the chemical substances. Name them. 
 COMPUTER: Ferrazene, hylanatine, dardilion, chrysimite, and manzene. 
-LAFORGE: Ferrazene has a complex molecular structure. It breaks down
-into bilenium and tarrisite. Do the sensors scan for those? 
+LAFORGE: Ferrazene has a complex molecular structure. It breaks down into bilenium and tarrisite. Do the sensors scan for those? 
 COMPUTER: Ship's sensors scan for both compounds. 
 LAFORGE: And are they present on the Enterprise? 
 COMPUTER: Bilenium and tarrisite are not present. 
-LAFORGE: Do any of the substances break down into by-products that are
-not scanned for? 
-COMPUTER: Dardilion contains the byproduct nilizene. Sensors do not
-routinely scan for that substance. 
+LAFORGE: Do any of the substances break down into by-products that are not scanned for? 
+COMPUTER: Dardilion contains the byproduct nilizene. Sensors do not routinely scan for that substance. 
 LAFORGE: Well, this isn't a routine situation. Scan for the nilizene. 
 COMPUTER: There is no nilizene on the Enterprise. 
-LAFORGE: How did I know you were going to say that? Okay. Let's move on
-to the non-chemical agents.
+LAFORGE: How did I know you were going to say that? Okay. Let's move on to the non-chemical agents. 
 [Crusher's office]
 MARTIN: Anything more I can do for you? 
-CRUSHER: No, thanks. I was just doing some reading on the Iresine
-syndrome. If a new strain has developed, that might explain the normal
-histamine count. 
+CRUSHER: No, thanks. I was just doing some reading on the Iresine syndrome. If a new strain has developed, that might explain the normal histamine count. 
 MARTIN: Any luck? 
 CRUSHER: Not so far. 
 MARTIN: Okay. I'll see you tomorrow. 
-(after Martin leaves, Beverly gets a vision of a younger Picard with
-some hair) 
+(after Martin leaves, Beverly gets a vision of a younger Picard with some hair) 
 PICARD [OC]: You shouldn't remember him like this. 
 (They are visiting a morgue) 
 PICARD: You don't have to do this. 
-CRUSHER: It's important to me. I have to see him. To see him. To see
-him. To see him. 
+CRUSHER: It's important to me. I have to see him. To see him. To see him. To see him. 
 (on their way to the morgue) 
 CRUSHER: It's good of you to come. 
 PICARD: It's the least I can do. 
@@ -416,131 +273,82 @@ CRUSHER: It's good of you to come with me.
 PICARD: It's the least I can do. 
 JEV: You shouldn't remember him like this. 
 PICARD: It's the least I can do 
-(Picard lifts the sheet to reveal dead Jack Crusher, who then opens his
-eyes and becomes Jev. Picard is now Jev. Beverly screams)
+(Picard lifts the sheet to reveal dead Jack Crusher, who then opens his eyes and becomes Jev. Picard is now Jev. Beverly screams) 
 [Corridor]
-LAFORGE: I've spent two hours having a cozy chat
-with the computer. I've checked everything I can think of. Any possible
-agent that might cause that electropathic pattern. 
+LAFORGE: I've spent two hours having a cozy chat with the computer. I've checked everything I can think of. Any possible agent that might cause that electropathic pattern. 
 DATA: I assume from your tone of voice that you were unsuccessful. 
 LAFORGE: Didn't find a thing. 
 [Sickbay]
-LAFORGE: Doctor Crusher's not going to be too happy
-with 
-(they see her slumped over her desk and run in)
+LAFORGE: Doctor Crusher's not going to be too happy with 
+(they see her slumped over her desk and run in) 
 [Crusher's office]
-DATA: Emergency medical team to Doctor Crusher's
-office immediately.
+DATA: Emergency medical team to Doctor Crusher's office immediately. 
 [Ready room]
-LAFORGE: Doctor Crusher had me working on a
-shipwide diagnostic. I'd gone to give her the results when I found her.
+LAFORGE: Doctor Crusher had me working on a shipwide diagnostic. I'd gone to give her the results when I found her. 
 PICARD: Did your scans provide any insights into these comas? 
 LAFORGE: None. I've checked and cross-checked. They're just dead ends. 
-DATA: We seem to have eliminated the all known factors that may have
-caused the comas, except for the Ullians. 
-PICARD: Mister Data, I want you to investigate those eleven planets
-that the Ullians visited. See if there were any reports of unexplained
-comas. 
+DATA: We seem to have eliminated the all known factors that may have caused the comas, except for the Ullians. 
+PICARD: Mister Data, I want you to investigate those eleven planets that the Ullians visited. See if there were any reports of unexplained comas. 
 DATA: Aye, sir. 
-PICARD: In the meantime, we must consider restricting them to their
-quarters, as a precautionary measure. 
-LAFORGE: If one of them is behind this, will keeping telepaths in their
-quarters prevent it from happening again? 
-PICARD: What else can we do? Station a guard? Set up a force field? I
-don't see that those would be any more effective. 
+PICARD: In the meantime, we must consider restricting them to their quarters, as a precautionary measure. 
+LAFORGE: If one of them is behind this, will keeping telepaths in their quarters prevent it from happening again? 
+PICARD: What else can we do? Station a guard? Set up a force field? I don't see that those would be any more effective. 
 MARTIN [OC]: Sickbay to Captain Picard. 
 PICARD: Picard here. 
-MARTIN [OC]: Counsellor Troi has regained consciousness. She's asked
-for you, sir. 
-PICARD: I'm on my way.
+MARTIN [OC]: Counsellor Troi has regained consciousness. She's asked for you, sir. 
+PICARD: I'm on my way. 
 [Sickbay]
-TROI: It's like waking up from a nightmare and not
-remembering what it was about. 
+TROI: It's like waking up from a nightmare and not remembering what it was about. 
 PICARD: What is the last thing you do remember? 
 TROI: My hair. I was brushing my hair. 
 PICARD: And then? 
-TROI: I don't know. Just waking up here. Why do I feel so frightened?
-What happened to me? 
+TROI: I don't know. Just waking up here. Why do I feel so frightened? What happened to me? 
 PICARD: We were hoping that you could tell us. 
 TROI: How long have I been here? 
 MARTIN: Three days. 
 TROI: Three days? 
-PICARD: You were the first. The next day Commander Riker fell into a
-similar coma. Last night, Doctor Crusher. 
+PICARD: You were the first. The next day Commander Riker fell into a similar coma. Last night, Doctor Crusher. 
 TROI: What is going on here? 
-PICARD: We're not certain. It may be that there is some unusual effect
-produced by the Ullians' telepathic activity. I'm going to talk to
-them, and in the meantime, you're to stay here and recuperate. And if
-you remember anything at all about what happened, I want you to tell me
-immediately.
+PICARD: We're not certain. It may be that there is some unusual effect produced by the Ullians' telepathic activity. I'm going to talk to them, and in the meantime, you're to stay here and recuperate. And if you remember anything at all about what happened, I want you to tell me immediately. 
 [Ullian's quarters]
 TARMIN: What are you suggesting, Captain? 
-PICARD: That you voluntarily confine yourself to your quarters, at
-least until we have
-unraveled this mystery. 
+PICARD: That you voluntarily confine yourself to your quarters, at least until we have unraveled this mystery. 
 TARMIN: We're to be prisoners? 
 JEV: Father. 
-PICARD: No, please don't look on it like that. We have done everything
-we can to explain these comas. We have performed physical examinations,
-and neurological scans. We have conducted a ship-wide diagnostic,
-looking for viruses, parasites, infestations. We have investigated
-every possible cause we can imagine. We have found nothing. Nothing to
-explain these comas. The only variable that we have not been able to
-eliminate is your presence here on this ship. Now, in the light of our
-actions, we would ask you to understand my request and to agree to it. 
-JEV: Captain, our history indicates that we do not adversely affect the
-people we contact. 
+PICARD: No, please don't look on it like that. We have done everything we can to explain these comas. We have performed physical examinations, and neurological scans. We have conducted a ship-wide diagnostic, looking for viruses, parasites, infestations. We have investigated every possible cause we can imagine. We have found nothing. Nothing to explain these comas. The only variable that we have not been able to eliminate is your presence here on this ship. Now, in the light of our actions, we would ask you to understand my request and to agree to it. 
+JEV: Captain, our history indicates that we do not adversely affect the people we contact. 
 PICARD: I know that. 
 JEV: Then are you implying an intentional assault? 
 PICARD: I'm simply considering all possibilities. 
-JEV: Surely you would give us the chance to prove that we are innocent?
+JEV: Surely you would give us the chance to prove that we are innocent? 
 PICARD: If that's possible, of course. 
-JEV: Then I would propose doing a memory probe of Counsellor Troi. You
-have said that she doesn't remember anything that happened before she
-lapsed into unconsciousness. I could retrieve that memory There is a
-possibility that it could explain the coma and prove our innocence. 
-PICARD: I'm sorry. I couldn't possibly subject Counsellor Troi to a
-potentially dangerous procedure. 
+JEV: Then I would propose doing a memory probe of Counsellor Troi. You have said that she doesn't remember anything that happened before she lapsed into unconsciousness. I could retrieve that memory There is a possibility that it could explain the coma and prove our innocence. 
+PICARD: I'm sorry. I couldn't possibly subject Counsellor Troi to a potentially dangerous procedure. 
 TARMIN: And I refuse to be a party to any of these proceedings. 
 (Tarmin leaves) 
-INAD: Jev is making a reasonable request, Captain. If we're to be
-accused, surely we're entitled to a defence? Tarmin did a memory probe
-on another of your crew. Has she suffered any ill effects? 
+INAD: Jev is making a reasonable request, Captain. If we're to be accused, surely we're entitled to a defence? Tarmin did a memory probe on another of your crew. Has she suffered any ill effects? 
 PICARD: No. 
-INAD: And neither will Counsellor Troi. Please, you may have as many
-people here as you need to guarantee her safety, but give us this
-chance to vindicate ourselves. 
-PICARD: I will discuss the matter with Counsellor Troi.
+INAD: And neither will Counsellor Troi. Please, you may have as many people here as you need to guarantee her safety, but give us this chance to vindicate ourselves. 
+PICARD: I will discuss the matter with Counsellor Troi. 
 [Bridge]
 (at the aft science stations) 
-LAFORGE: Well, that's it for Melina Two. No unexplained comas during
-the time the Ullians were working there. 
-DATA: We have yet to receive transmissions from the two planets of the
-Nel system. Perhaps they will show different results. 
+LAFORGE: Well, that's it for Melina Two. No unexplained comas during the time the Ullians were working there. 
+DATA: We have yet to receive transmissions from the two planets of the Nel system. Perhaps they will show different results. 
 LAFORGE: Maybe. Or maybe we're not checking for the right thing. 
 DATA: Please clarify. 
 LAFORGE: We haven't look into the comas that were explained. 
 DATA: Why would we do that? 
-LAFORGE: Well, remember what Doctor Crusher said right after Counsellor
-Troi became unconscious? That it looked exactly like Iresine syndrome
-except for the histamine count? 
+LAFORGE: Well, remember what Doctor Crusher said right after Counsellor Troi became unconscious? That it looked exactly like Iresine syndrome except for the histamine count? 
 DATA: Yes. 
-LAFORGE: Maybe not every medical facility is as careful as Doctor
-Crusher. Maybe it's easier to just make a quick diagnosis rather than
-to keep hunting for the real cause. 
+LAFORGE: Maybe not every medical facility is as careful as Doctor Crusher. Maybe it's easier to just make a quick diagnosis rather than to keep hunting for the real cause. 
 DATA: You are searching for instances of Iresine syndrome? 
-LAFORGE: Right, and correlating them with visits by the Ullians. And
-there we are. 
-DATA: Two cases of Iresine syndrome on Hurada Three, at exactly the
-time Tarmin and his group was there. 
-LAFORGE: Let's check the other planets. I think we may have something
-here.
+LAFORGE: Right, and correlating them with visits by the Ullians. And there we are. 
+DATA: Two cases of Iresine syndrome on Hurada Three, at exactly the time Tarmin and his group was there. 
+LAFORGE: Let's check the other planets. I think we may have something here. 
 [Troi's quarters]
 (Inad is also present) 
-PICARD: Counsellor, I want to reiterate, if you have any doubts
-whatsoever about this procedure, you don't have to go through with it. 
-TROI: I want to do it, Captain. Something awful happened to me and I
-don't even know what it was. 
+PICARD: Counsellor, I want to reiterate, if you have any doubts whatsoever about this procedure, you don't have to go through with it. 
+TROI: I want to do it, Captain. Something awful happened to me and I don't even know what it was. 
 PICARD: Very well. 
 JEV: Counsellor, what's the last thing you remember the other night? 
 TROI: Brushing my hair. 
@@ -554,9 +362,8 @@ TROI: No. No, I'm alone. There's no one there.
 JEV: Go on. 
 TROI: I get some hot chocolate. 
 JEV: Something's happening. 
-TROI: I'm alone in my quarters. I'm remembering something from a few
-years ago. 
-JEV: Go back into that memory. You said someone was touching your hair?
+TROI: I'm alone in my quarters. I'm remembering something from a few years ago. 
+JEV: Go back into that memory. You said someone was touching your hair? 
 TROI: Yes. And. 
 (she spills the poker chips) 
 TROI: It's Will Riker. That's right. I was thinking of him. 
@@ -567,67 +374,45 @@ TROI: Now he's hurting me no.
 JEV: You're frightened. 
 TROI: I want him to stop. It's not Will. Somebody's taken his place. 
 JEV: Someone else is there? Who is it? 
-TROI: No! He shouldn't be here. Why is he here? Stop! You're hurting
-me. 
+TROI: No! He shouldn't be here. Why is he here? Stop! You're hurting me. 
 JEV: Can you see his face? 
 TROI: Yes. 
 TARMIN: Imzadi. 
 TROI: No! Stop! You're hurting me. 
 INAD: Who is it? Who's doing this to you? 
-TROI: It's Tarmin. It's your father.
-Captain's log, stardate 45433.2. We have set a
-course for Starbase four forty, where the Ullians will disembark and
-return home.
+TROI: It's Tarmin. It's your father. 
+Captain's log, stardate 45433.2. We have set a course for Starbase four forty, where the Ullians will disembark and return home. 
 [Ready room]
-JEV: Inad and I have contacted our home planet. If
-you want to prosecute my father, the authorities there will support
-you. 
-PICARD: I'm not sure we have any legal basis for such a prosecution.
-Memory invasion is simply not a crime we've ever had to contend with. 
-JEV: According to what I've just learned, it's a practice that was
-abolished on our world centuries ago. 
-PICARD: What could motivate someone like your father to commit such an
-act? 
-JEV: I don't know. A perverse source of pleasure, perhaps? A way to
-exercise control over another? 
+JEV: Inad and I have contacted our home planet. If you want to prosecute my father, the authorities there will support you. 
+PICARD: I'm not sure we have any legal basis for such a prosecution. Memory invasion is simply not a crime we've ever had to contend with. 
+JEV: According to what I've just learned, it's a practice that was abolished on our world centuries ago. 
+PICARD: What could motivate someone like your father to commit such an act? 
+JEV: I don't know. A perverse source of pleasure, perhaps? A way to exercise control over another? 
 PICARD: Your father claims quite strenuously that he is innocent. 
-JEV: My father has never been one to admit that he's wrong. But it is
-difficult to believe he'd be capable of this. I am told that the
-punishment for this crime is quite severe. We are monitoring my
-father's telepathic activities. You have my assurance he won't assault
-anyone else. I am sorry for this, Captain. 
+JEV: My father has never been one to admit that he's wrong. But it is difficult to believe he'd be capable of this. I am told that the punishment for this crime is quite severe. We are monitoring my father's telepathic activities. You have my assurance he won't assault anyone else. I am sorry for this, Captain. 
 (Jev leaves) 
 PICARD: Picard to Commander Data. 
 DATA [OC]: Yes, Captain. 
 PICARD: How's your search coming? 
 [Bridge]
-DATA: We have uncovered several cases, sir, but we
-have not yet completed our investigation. 
+DATA: We have uncovered several cases, sir, but we have not yet completed our investigation. 
 [Ready room]
-PICARD: We'll inform the medical personnel on those
-planets that we have discovered the true nature of the comas. I'm sure
-they'll appreciate knowing what 
+PICARD: We'll inform the medical personnel on those planets that we have discovered the true nature of the comas. I'm sure they'll appreciate knowing what 
 [Bridge]
 PICARD [OC]: Really happened. 
 DATA: Yes, sir. We will keep searching, sir. 
-LAFORGE: We just got the transmission from the Nel system, Data. No
-mention of Iresine syndrome but there are two unexplained comas on one
-planet, none on the other. 
+LAFORGE: We just got the transmission from the Nel system, Data. No mention of Iresine syndrome but there are two unexplained comas on one planet, none on the other. 
 DATA: And were the Ullians present? 
-LAFORGE: Checking the mission logs. That's funny. On stardates 45321
-and 45323, when the comas occurred, Tarmin was on his home planet. He
-wasn't anywhere near the Nel system.
+LAFORGE: Checking the mission logs. That's funny. On stardates 45321 and 45323, when the comas occurred, Tarmin was on his home planet. He wasn't anywhere near the Nel system. 
 [Troi's quarters]
 TROI: Come in. 
 (Jev enters) 
 TROI: Hello, Jev. 
-JEV: We'll be reaching starbase soon. I wanted to say goodbye, and to
-apologise again for my father. 
+JEV: We'll be reaching starbase soon. I wanted to say goodbye, and to apologise again for my father. 
 TROI: There's no need. You're not responsible for what he did. 
 JEV: Before all this happened, I had hoped we might become friends. 
 TROI: We still can. 
-JEV: After what he's put you through? Maybe you can forget. I'm not
-sure I can. You're so lovely. I have to go. Goodbye. 
+JEV: After what he's put you through? Maybe you can forget. I'm not sure I can. You're so lovely. I have to go. Goodbye. 
 TROI: Jev, you're upset. Would you like to talk? 
 JEV: No. 
 TROI: You'd feel better if you did. 
@@ -640,35 +425,18 @@ JEV: (as Riker) Have you stopped thinking about us?
 TROI: No! 
 (Jev takes Deanna's arm and removes her comm. badge) 
 TROI: Don't. Don't. I won't let you! 
-(Deanna slaps Jev's face. They struggle. She kicks and hits him with
-anything to hand) 
+(Deanna slaps Jev's face. They struggle. She kicks and hits him with anything to hand) 
 TROI: No! No! 
 (Worf enters and knocks Jev down with a single blow) 
 DATA: Counsellor. Are you all right? 
 TROI: Yes. 
 (Security remove Jev) 
 TROI: Why are you here? How did you know? 
-DATA: We discovered two instances of unexplained coma on Nel Three
-while the Ullians were there, but Tarmin was not part of the group.
-Further examination revealed that only one Ullian was present at all
-incidents of coma. Jev.
-Captain's log, stardate 45435.8. Doctor Crusher and
-Commander Riker regained consciousness while we were en route to the
-Ullian home world. The slow process of their recovery has begun.
+DATA: We discovered two instances of unexplained coma on Nel Three while the Ullians were there, but Tarmin was not part of the group. Further examination revealed that only one Ullian was present at all incidents of coma. Jev. 
+Captain's log, stardate 45435.8. Doctor Crusher and Commander Riker regained consciousness while we were en route to the Ullian home world. The slow process of their recovery has begun. 
 [Observation lounge]
-TARMIN: I have asked that the finest physicians on
-my world meet with you all upon our return, to help you in your healing
-process. 
+TARMIN: I have asked that the finest physicians on my world meet with you all upon our return, to help you in your healing process. 
 CRUSHER: They have been in contact with us already. Thank you. 
-TARMIN: It has been three centuries since anyone was treated for this,
-this form of rape. But there are medical records from that era. It was
-a time of great violence among my people. A time we thought we had put
-far behind us. That this could happen now, it's unimaginable. 
-PICARD: Earth was once a violent planet, too. At times, the chaos
-threatened the very fabric of life, but, like you, we evolved. We found
-to find better ways to handle our conflicts. But I think no one can
-deny that the seed of violence remains within each of us. We must
-recognise that, because that violence is capable of consuming each of
-us. As it consumed your son. 
- 
+TARMIN: It has been three centuries since anyone was treated for this, this form of rape. But there are medical records from that era. It was a time of great violence among my people. A time we thought we had put far behind us. That this could happen now, it's unimaginable. 
+PICARD: Earth was once a violent planet, too. At times, the chaos threatened the very fabric of life, but, like you, we evolved. We found to find better ways to handle our conflicts. But I think no one can deny that the seed of violence remains within each of us. We must recognise that, because that violence is capable of consuming each of us. As it consumed your son. 
 

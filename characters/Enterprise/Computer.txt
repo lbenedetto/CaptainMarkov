@@ -19,15 +19,17 @@ COMPUTER: Your inquiry was not recognised.#
 COMPUTER: Incursion detected in primary data core. Vacate this section or your vessel will be compromised.#
 COMPUTER: Incursion detected in primary data core. Vacate this section or your vessel will be compromised.#
 COMPUTER: Incursion detected in primary data core. Vacate this section or your vessel will be compromised.#
+COMPUTER: Incursion detected in primary data core. Vacate this section or your vessel will be compromised.#
 COMPUTER: Warning. Pathogens detected in the central core.#
 COMPUTER: Alert. Warp containment breach in two minutes.#
 COMPUTER:  Unable to comply. Internal sensors are offline.#
-COMPUTER: Working. (Everyone say Hi! to Majel;Barrett Roddenberry's voice, in its only appearance in this series.)#
+COMPUTER: Working.#
 COMPUTER: Working.#
 COMPUTER: Two minutes to pulse activation.#
 COMPUTER: Ninety seconds to pulse activation.#
 COMPUTER: Plasma grid offline. Firing sequence aborted.#
-COMPUTER: Firing sequence resumed. Pulse activation in thirty seconds. (Archer tries another very tired fist fight, then resorts to the old gun to the head ploy to get Paxton to cancel the firing sequence.) COMPUTER: Pulse activation in fifteen seconds. Ten, nine, eight#
+COMPUTER: Firing sequence resumed. Pulse activation in thirty seconds.#
+COMPUTER: Pulse activation in fifteen seconds. Ten, nine, eight#
 COMPUTER: four, three, two, one. Pulse activated.#
 COMPUTER: Programme saved.#
 COMPUTER: Sixteen hours, twenty two minutes.#

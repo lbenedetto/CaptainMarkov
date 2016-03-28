@@ -21,7 +21,7 @@ FOUNDER: There, that's better. Now, Captain, if it's not too much trouble, I wou
 FOUNDER: May I come in?#
 FOUNDER: Poor Odo. Look what's become of you.#
 FOUNDER: Pretty? I wasn't aware you applied such value to your outward appearance. Such concerns are more fitting for solids.#
-FOUNDER: Odo, give me your hand. Don't be afraid. (They Link. Odo goes completely liquid, then resolidifies looking rather better.)#
+FOUNDER: Odo, give me your hand. Don't be afraid.#
 FOUNDER: Feeling better?#
 FOUNDER: Leave now. I wish to speak to Odo in private.#
 FOUNDER: What we have to say is not for your ears. Wait for me outside.#
@@ -47,7 +47,7 @@ FOUNDER: There were no Cardassian survivors.#
 FOUNDER: They're dead. You're dead, Cardassia is dead. Your people were doomed the moment they attacked us. I believe that answers your question.#
 FOUNDER: We will be within transporter range of my world in less than one hour. After we have achieved orbit, Odo and I will transport to the surface.#
 FOUNDER: If you wish. But Odo may be in the Link for days.#
-FOUNDER: Come, Odo. It's time. (She walks into the sea and merges with the others. Sisko nods to Odo, who smiles and follows.)#
+FOUNDER: Come, Odo. It's time.#
 FOUNDER: He has been judged.#
 FOUNDER: We gave him what he wanted. We made him a solid. He's one of you now. Oh, poor Odo. Perhaps we should have killed you. It would have been far less cruel. He's yours. Take him and go.#
 FOUNDER: You killed a changeling, Odo. That's why we forced you to return home to enter into the Great Link and be judged.#
@@ -155,7 +155,8 @@ FOUNDER: Activate their clones and order them to continue their predecessors' wo
 FOUNDER: The Cardassians. What have you told them?#
 FOUNDER: Good. The sickness that has infected the Great Link is none of their concern. They may be our allies, but they are not to be trusted. We must not show weakness.#
 FOUNDER: See that you don't.#
-FOUNDER: Very well. (She peels a piece of skin from her face. It turns to blue gunk in the vial.) FOUNDER: You may go now.#
+FOUNDER: Very well.#
+FOUNDER: You may go now.#
 FOUNDER: The vaccine. How is it progressing?#
 FOUNDER: When do we reach the rendezvous coordinates?#
 FOUNDER: Let's hope that you're right.#
@@ -237,7 +238,7 @@ FOUNDER: My loyal Weyoun. The only solid I have ever trusted.#
 FOUNDER: And you have served me well. I don't mind dying. It's knowing that my entire race is dying of the same illness and there is nothing I can do about it.#
 FOUNDER: If only it were that simple.#
 FOUNDER: The guards will deal with it. Is there a problem?#
-FOUNDER: And just where would that be? (The door is blown open. One Jem'Hadar is killed by a Cardassian before the other him. Kira shoots the last Jem'Hadar in the room.)#
+FOUNDER: And just where would that be?#
 FOUNDER: I will do no such thing.#
 FOUNDER: I wish you hadn't done that. That was Weyoun's last clone.#
 FOUNDER: Have I? I think you'll find that neither the Jem'Hadar or the Breen will agree with that assessment. They will fight to the last man.#

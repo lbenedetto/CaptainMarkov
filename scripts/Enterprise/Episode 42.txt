@@ -1,79 +1,52 @@
 Episode Number: 42
 The Enterprise Transcripts - Future Tense
-Future
-Tense
- Original Airdate: 19 Feb, 2003
-  [Bridge]
- (On the viewscreen is a battered looking object,
-drifting in space.) 
+Future Tense
+Original Airdate: 19 Feb, 2003
+[Bridge]
+(On the viewscreen is a battered looking object, drifting in space.) 
 ARCHER: Biosigns? 
-T'POL: None that I can detect, but its hull seems to be scattering our
-sensors. 
+T'POL: None that I can detect, but its hull seems to be scattering our sensors. 
 ARCHER: Any idea what happened? 
-REED: I'm not reading any weapons signatures. Possibly some sort of
-accident. 
+REED: I'm not reading any weapons signatures. Possibly some sort of accident. 
 ARCHER: Bring it into Launch bay two. 
- [Launch bay two] 
- REED: There's no windows. I'm not sure whether
-this end's the bow or the stern. 
+[Launch bay two]
+REED: There's no windows. I'm not sure whether this end's the bow or the stern. 
 T'POL: Captain. This might be a hatch. 
 REED: If it is, it's been fused shut. With your permission, sir? 
-(He gets a phase pistol and starts cutting into the thing. When he's
-done, Archer forced the hatch open and starts coughing. T'Pol checks
-that the air inside is safe. Archer climbs inside and finds a seat at
-the far end. He turns it around to discover a desiccated occupant.) 
+(He gets a phase pistol and starts cutting into the thing. When he's done, Archer forced the hatch open and starts coughing. T'Pol checks that the air inside is safe. Archer climbs inside and finds a seat at the far end. He turns it around to discover a desiccated occupant.) 
 T'POL: He's human. 
- [Sickbay] 
- PHLOX: This was a human male. A microcellular scan
-should tell us his age at the time of death. Apparently, you're not the
-first humans out this far. 
-ARCHER: Whoever this is, he's rewritten our history books. Can you get
-a DNA sample? 
-PHLOX: The tissue damage is extensive, but I should be able to isolate
-a few fragments. 
-ARCHER: If he's a member of Starfleet, his genetic profile is probably
-in our database. Run a comparison as soon as you can. 
+[Sickbay]
+PHLOX: This was a human male. A microcellular scan should tell us his age at the time of death. Apparently, you're not the first humans out this far. 
+ARCHER: Whoever this is, he's rewritten our history books. Can you get a DNA sample? 
+PHLOX: The tissue damage is extensive, but I should be able to isolate a few fragments. 
+ARCHER: If he's a member of Starfleet, his genetic profile is probably in our database. Run a comparison as soon as you can. 
 PHLOX: Absolutely. 
 (T'Pol enters.) 
-T'POL: There aren't any ships or inhabited systems for several light
-years. 
-ARCHER: I wonder if this could be Zephram Cochrane. They say he was
-piloting a one-man vessel when he disappeared. 
+T'POL: There aren't any ships or inhabited systems for several light years. 
+ARCHER: I wonder if this could be Zephram Cochrane. They say he was piloting a one-man vessel when he disappeared. 
 T'POL: How could he have travelled this far? 
-ARCHER: There were a lot of rumours after he was lost. One of them said
-he was testing some kind of experimental warp ship. Any markings on the
-hull or control panels? 
+ARCHER: There were a lot of rumours after he was lost. One of them said he was testing some kind of experimental warp ship. Any markings on the hull or control panels? 
 T'POL: We haven't found any. 
- [Launch bay two] 
- REED: The hull seems to absorb EM radiation.
-Without all this damage, it never would have shown up on our sensors. 
-TUCKER: Some kind of stealth ship. So what do you think, Travis? Could
-this pilot have been a cargo hauler? 
-TRAVIS: We're more than thirty light years from the nearest trade
-route. I don't see how he could have made it out this far. 
+[Launch bay two]
+REED: The hull seems to absorb EM radiation. Without all this damage, it never would have shown up on our sensors. 
+TUCKER: Some kind of stealth ship. So what do you think, Travis? Could this pilot have been a cargo hauler? 
+TRAVIS: We're more than thirty light years from the nearest trade route. I don't see how he could have made it out this far. 
 REED: Maybe he got a ride from someone. 
-TUCKER: That's got to be a world record for hitchhiking. I still can't
-find any plasma exhaust ports. Not even a thruster quad. 
+TUCKER: That's got to be a world record for hitchhiking. I still can't find any plasma exhaust ports. Not even a thruster quad. 
 TRAVIS: There's nothing here that looks like a power source. 
 TUCKER: How did this thing make it into deep space without an engine? 
 REED: Could be an escape pod. 
 TUCKER: Even an escape pod would need some kind of propulsion system. 
- [Ready room] 
- ARCHER: Any new mission you haven't told us about?
-FORREST [on monitor]: I wish there was. It's possible the ship you
-found was launched from Vega Colony, but they're a long way behind you.
-The Earth Cargo Authority may have more information. 
-ARCHER: Phlox has sent a request to Doctor Cochrane's family. They're
-transmitting his genetic profile. 
-FORREST [on monitor]: A hundred light years from Earth. You might have
-solved the greatest missing person case of the century. 
+[Ready room]
+ARCHER: Any new mission you haven't told us about? 
+FORREST [on monitor]: I wish there was. It's possible the ship you found was launched from Vega Colony, but they're a long way behind you. The Earth Cargo Authority may have more information. 
+ARCHER: Phlox has sent a request to Doctor Cochrane's family. They're transmitting his genetic profile. 
+FORREST [on monitor]: A hundred light years from Earth. You might have solved the greatest missing person case of the century. 
 ARCHER: If we haven't, we've discovered an even bigger mystery. 
- [Launch bay two] 
- (Inside the mysterious object, Trip and Malcolm
-are removing a floor plate.) 
+[Launch bay two]
+(Inside the mysterious object, Trip and Malcolm are removing a floor plate.) 
 REED: Commander. 
-(They've uncovered a round thing with thick wires leading off it in 4
-directions.) 
+(They've uncovered a round thing with thick wires leading off it in 4 directions.) 
 REED: Registers as some kind of bio-matter. 
 TUCKER: Organic circuitry? 
 REED: Maybe we should get Phlox to come down and take a look. 
@@ -83,10 +56,8 @@ TUCKER: What's this?
 (They unlock and remove it and shine their torches in.) 
 TUCKER: Malcolm? 
 REED: I see it. 
-(it is a ladder heading off down into somewhere that shouldn't be
-there, given that the pod is no taller than a person.) 
-TUCKER: Good. Means I'm not hallucinating. How can a ship be bigger on
-the inside than the outside? 
+(it is a ladder heading off down into somewhere that shouldn't be there, given that the pod is no taller than a person.) 
+TUCKER: Good. Means I'm not hallucinating. How can a ship be bigger on the inside than the outside? 
 REED: It could be a hologram. 
 TUCKER: Hand me that hyperspanner. 
 (He drops it down the hole - it hits bottom after two seconds.) 
@@ -94,63 +65,46 @@ REED: You're not going down there?
 TUCKER: Got to get my spanner back. 
 REED: We should call the Bridge first. Let them know 
 TUCKER: Say again, Malcolm? 
-(Tucker climbs down, and Reed follows. At the bottom they go into a
-chamber taller than they are and bigger than the pod sitting in the
-launch bay. Let's start calling it a Tardis, shall we?) 
+(Tucker climbs down, and Reed follows. At the bottom they go into a chamber taller than they are and bigger than the pod sitting in the launch bay. Let's start calling it a Tardis, shall we?) 
 REED: This gives space exploration a whole new meaning. 
-TUCKER: I've read a few papers on spatial geometry. I never heard a
-theory that would explain this. The Captain'll never believe us. He's
-going to have to see this for himself. 
+TUCKER: I've read a few papers on spatial geometry. I never heard a theory that would explain this. The Captain'll never believe us. He's going to have to see this for himself. 
 (He looks at an object in the room.) 
 TUCKER: What do you think, a warp reactor? 
 REED: You're the engineer. 
-TUCKER: (looking at damage) Looks like a breach, overload of some kind.
+TUCKER: (looking at damage) Looks like a breach, overload of some kind. 
 REED: I'm picking up an energy signature. It's very faint. 
- [Bridge] 
- TRAVIS: Sir, a vessel's dropped out of warp.
-They're on an intercept course. 
+[Bridge]
+TRAVIS: Sir, a vessel's dropped out of warp. They're on an intercept course. 
 T'POL: It's Suliban. 
 ARCHER: Let's see it. (the little ship appears on the viewscreen) 
 T'POL: Minimal weapons. I don't believe it's a combat ship. 
 HOSHI: We're being hailed. 
 SULIBAN [on viewscreen]: You have something that belongs to us. 
 ARCHER: I don't believe I've had the pleasure 
-SULIBAN [on viewscreen]: We have a salvage claim on the vessel in your
-launch bay. One of our cell ships discovered it three days ago. We were
-sent to retrieve it. 
+SULIBAN [on viewscreen]: We have a salvage claim on the vessel in your launch bay. One of our cell ships discovered it three days ago. We were sent to retrieve it. 
 ARCHER: That ship's an Earth vessel. The pilot's human. 
-SULIBAN [on viewscreen]: I'm not interested in the corpse. Decompress
-your launch bay and release the vessel. 
-ARCHER: (looks at T'Pol, who leaves her station and crosses over to
-Reed's) I'm curious. What's your interest in that ship? There's not
-much left. 
+SULIBAN [on viewscreen]: I'm not interested in the corpse. Decompress your launch bay and release the vessel. 
+ARCHER: (looks at T'Pol, who leaves her station and crosses over to Reed's) I'm curious. What's your interest in that ship? There's not much left. 
 SULIBAN [on viewscreen]: The vessel. Now. 
 T'POL: They're charging weapons. 
-ARCHER: You might want to contact your superiors. Ask for a man named
-Silik. He'll tell you I don't respond well to threats. 
- [Inside the 'Tardis'] 
- (Reed and Tucker remove the cover where the energy
-signature is coming from.) 
-TUCKER: This could be a release pin. (removes the component) Let's get
-it to Engineering. 
- [Bridge] 
- (The Suliban start firing on Enterprise, giving
-everyone a good shake.) 
+ARCHER: You might want to contact your superiors. Ask for a man named Silik. He'll tell you I don't respond well to threats. 
+[Inside the 'Tardis']
+(Reed and Tucker remove the cover where the energy signature is coming from.) 
+TUCKER: This could be a release pin. (removes the component) Let's get it to Engineering. 
+[Bridge]
+(The Suliban start firing on Enterprise, giving everyone a good shake.) 
 T'POL: Forward plating is holding. 
-ARCHER: Bring us about, Travis. Power the phase-cannons. See what you
-can do about their weapons. 
- [Launch bay two] 
- TUCKER: Tucker to the Bridge. The comm.'s down. 
-(A Suliban crawling across the ceiling jumps on him and knocks him out.
-Reed dashes for a weapon, but there are others, and he only gets one.) 
+ARCHER: Bring us about, Travis. Power the phase-cannons. See what you can do about their weapons. 
+[Launch bay two]
+TUCKER: Tucker to the Bridge. The comm.'s down. 
+(A Suliban crawling across the ceiling jumps on him and knocks him out. Reed dashes for a weapon, but there are others, and he only gets one.) 
 REED: Commander! 
 (A Suliban gets into the bay control room.) 
- [Bridge] 
- HOSHI: Someone's trying to open Launch bay two. 
+[Bridge]
+HOSHI: Someone's trying to open Launch bay two. 
 ARCHER: Lock them out. 
 HOSHI: I can't. 
-ARCHER: Archer to Trip. (no reply) Send a security team down there.
-Return fire. 
+ARCHER: Archer to Trip. (no reply) Send a security team down there. Return fire. 
 (One phase cannon shot is fired.) 
 T'POL: Their weapons have been disabled. 
 ARCHER: Target their engines, and bring the grappler on line. 
@@ -158,50 +112,32 @@ T'POL: Sir?
 ARCHER: They wanted that ship pretty badly. I'd like to know why. 
 TRAVIS: They're moving off. 
 ARCHER: Stay with them. 
-(Down in the launch bay, the Suliban are beamed away, then the ship
-cloaks.) 
+(Down in the launch bay, the Suliban are beamed away, then the ship cloaks.) 
 TRAVIS: I've lost them, sir. 
- Captain's Starlog, supplemental. We've contacted
-the Vulcan ship Tal'Kir. They've agreed to meet us in three days to
-take the craft back to Earth. Hopefully, we won't have another visit
-from the Suliban before we reach the rendezvous point. 
- [Engineering] 
- (The device from the Tardis is open, and looks
-like it has control crystals in it.) 
-TUCKER: It was heavily shielded. Whatever this thing is, it must be
-pretty important. 
+Captain's Starlog, supplemental. We've contacted the Vulcan ship Tal'Kir. They've agreed to meet us in three days to take the craft back to Earth. Hopefully, we won't have another visit from the Suliban before we reach the rendezvous point. 
+[Engineering]
+(The device from the Tardis is open, and looks like it has control crystals in it.) 
+TUCKER: It was heavily shielded. Whatever this thing is, it must be pretty important. 
 ARCHER: What's your guess? 
 TUCKER: Might be the black box. 
-T'POL: It could it tell us what happened, maybe even who built the
-vessel. 
-TUCKER: That's assuming we can get it working. It seems to use the same
-organic circuitry as the rest of the ship. Captain, I got to take you
-down into that chamber. You're not going to believe your eyes. 
+T'POL: It could it tell us what happened, maybe even who built the vessel. 
+TUCKER: That's assuming we can get it working. It seems to use the same organic circuitry as the rest of the ship. Captain, I got to take you down into that chamber. You're not going to believe your eyes. 
 ARCHER: Bigger on the inside? 
 PHLOX [OC]: Sickbay to Captain Archer. 
 ARCHER: Archer. 
 PHLOX [OC]: I need to see you immediately. 
 (Archer and T'Pol leave Reed and Tucker to it.) 
- [Sickbay] 
- PHLOX: I managed to find only a few undamaged
-cells, but they were enough to complete a genetic analysis. 
+[Sickbay]
+PHLOX: I managed to find only a few undamaged cells, but they were enough to complete a genetic analysis. 
 ARCHER: Is there a match in the Starfleet Database? 
-PHLOX: No, but I did discover that our guest is no ordinary human. I
-found an unusual deviation in this nucleotide sequence. At first I
-thought I was looking at some kind of mutation, but there was something
-familiar about the chromosome structure, so I widened my search to
-include the interspecies database. This nucleotide sequence is Vulcan. 
+PHLOX: No, but I did discover that our guest is no ordinary human. I found an unusual deviation in this nucleotide sequence. At first I thought I was looking at some kind of mutation, but there was something familiar about the chromosome structure, so I widened my search to include the interspecies database. This nucleotide sequence is Vulcan. 
 ARCHER: How did a human end up with Vulcan DNA? 
-PHLOX: The likeliest explanation is that he had at least one Vulcan
-ancestor further back than a great-grandparent. 
+PHLOX: The likeliest explanation is that he had at least one Vulcan ancestor further back than a great-grandparent. 
 ARCHER: That's not possible. We haven't known the Vulcans long enough. 
-PHLOX: I also found genetic material belonging to several other
-species. This sequence is Terrelian. There's another I can't identify.
-I believe this individual is the result of several generations of
-interspecies breeding. 
+PHLOX: I also found genetic material belonging to several other species. This sequence is Terrelian. There's another I can't identify. I believe this individual is the result of several generations of interspecies breeding. 
 ARCHER: Thank you, Doctor. T'Pol. 
- {Daniel's quarters] 
- T'POL: A database from the future? 
+{Daniel's quarters]
+T'POL: A database from the future? 
 ARCHER: Our time-travelling friend Daniels left it in his quarters. 
 (He undoes the lock and goes in.) 
 T'POL: I'm not certain Daniels would approve of this. 
@@ -210,40 +146,27 @@ ARCHER: We'll keep it to ourselves.
 T'POL: A Vulcan cruiser. I don't recognise the configuration. 
 ARCHER: That's because it hasn't been built yet. 
 T'POL: Few Vulcans have ever chosen to mate with another species. 
-ARCHER: Worried about contaminating your genome with a little human
-DNA? 
-T'POL: There are significant biological differences between the
-species. It's unlikely we could reproduce. Humans and Vulcans. 
+ARCHER: Worried about contaminating your genome with a little human DNA? 
+T'POL: There are significant biological differences between the species. It's unlikely we could reproduce. Humans and Vulcans. 
 ARCHER: (searching for the Tardis) That could be it. 
 T'POL: The dorsal section is the wrong shape. 
-ARCHER: (carries on scrolling through) If a human and a Vulcan did have
-a child, I wonder if he'd have pointed ears. There. I think that's it.
-Look at the commission date. That's almost nine hundred years from now.
-Daniels talked about historians from the future. People who traveled
-back to study the past. That could be what this pilot was doing. 
+ARCHER: (carries on scrolling through) If a human and a Vulcan did have a child, I wonder if he'd have pointed ears. There. I think that's it. Look at the commission date. That's almost nine hundred years from now. Daniels talked about historians from the future. People who traveled back to study the past. That could be what this pilot was doing. 
 T'POL: This says it's powered by a temporal displacement drive. 
-ARCHER: If the Suliban get their hands on this, they'll take it apart,
-(switches off display) maybe learn how the engines work. That could
-change the course of the Temporal Cold War. 
-T'POL: Assuming the vessel is from the future, why haven't they
-retrieved it? 
+ARCHER: If the Suliban get their hands on this, they'll take it apart, (switches off display) maybe learn how the engines work. That could change the course of the Temporal Cold War. 
+T'POL: Assuming the vessel is from the future, why haven't they retrieved it? 
 ARCHER: (answers comm. beep) Archer. 
 TRAVIS [OC]: Sir, there's an alien vessel's approaching at high warp. 
 ARCHER: Suliban? 
 TRAVIS [OC]: No, sir. We can't identify them. 
- [Bridge] 
- (A dart-like ship is gaining from the stern.) 
+[Bridge]
+(A dart-like ship is gaining from the stern.) 
 TRAVIS: Twenty thousand kilometres and closing. 
 ARCHER: T'Pol? 
-T'POL: The vessel's Tholian. They're extremely xenophobic. The High
-Command has had limited contact with them. Captain, it's unusual for
-Tholians to travel this far from their system. 
-REED: I'm getting unusual thermal readings. It's awfully warm inside
-that ship, more than two hundred degrees. 
+T'POL: The vessel's Tholian. They're extremely xenophobic. The High Command has had limited contact with them. Captain, it's unusual for Tholians to travel this far from their system. 
+REED: I'm getting unusual thermal readings. It's awfully warm inside that ship, more than two hundred degrees. 
 T'POL: They're believe to be a non-humanoid species. 
 ARCHER: Open a channel. This is Captain Archer of the Starship 
-THOLIAN [OC]: (punctuated by hisses and whistles) Jonathan Archer,
-please establish communication. 
+THOLIAN [OC]: (punctuated by hisses and whistles) Jonathan Archer, please establish communication. 
 ARCHER: Is there something we can do for you? 
 THOLIAN [OC]: We were sent to retrieve the vessel. 
 ARCHER: I'd like to know how you heard about that ship. 
@@ -253,170 +176,111 @@ T'POL: They've locked on to us with a tractor beam.
 TRAVIS: We're losing speed. 
 ARCHER: Hull plating. Arm the aft torpedoes. 
 REED: That beam's interfering with our targeting scanners. 
-ARCHER: Release us, or I'll destroy the ship in our launch bay. (no
-reply) Do you hear me? 
-(The tractor beam is released and the ship flies off, sending a final
-untranslated message.) 
+ARCHER: Release us, or I'll destroy the ship in our launch bay. (no reply) Do you hear me? 
+(The tractor beam is released and the ship flies off, sending a final untranslated message.) 
 ARCHER: What did he say? 
 HOSHI: I don't know, but I don't think he was paying you a compliment. 
-ARCHER: I wonder if there's anyone else who thinks they have a claim on
-that ship. 
- [Mess hall] 
- PHLOX: May I join you? 
+ARCHER: I wonder if there's anyone else who thinks they have a claim on that ship. 
+[Mess hall]
+PHLOX: May I join you? 
 T'POL: Please. 
-PHLOX: I found another nucleotide sequence in the pilot's genome. It
-appears to be Rigelian. That corpse is full of surprises. (tastes his
-meal) I didn't realise how late it was until my stomach reminded me it
-was time to eat. You seem to be engrossed in your work as well. 
-T'POL: The Captain asked me to perform a metallurgical analysis of the
-vessel's hull. 
+PHLOX: I found another nucleotide sequence in the pilot's genome. It appears to be Rigelian. That corpse is full of surprises. (tastes his meal) I didn't realise how late it was until my stomach reminded me it was time to eat. You seem to be engrossed in your work as well. 
+T'POL: The Captain asked me to perform a metallurgical analysis of the vessel's hull. 
 PHLOX: Anything noteworthy? 
-T'POL: I've discovered several unusual alloys. One of them is in a
-semi-fluidic state. 
+T'POL: I've discovered several unusual alloys. One of them is in a semi-fluidic state. 
 PHLOX: More mysteries. 
 T'POL: To say the least. 
-PHLOX: I understand Captain Archer believes that the vessel travelled
-here from the future. 
+PHLOX: I understand Captain Archer believes that the vessel travelled here from the future. 
 T'POL: That's his theory. 
-PHLOX: Genetic anomalies, unexplainable alloys, the evidence seems to
-be mounting. 
+PHLOX: Genetic anomalies, unexplainable alloys, the evidence seems to be mounting. 
 T'POL: Perhaps. 
-PHLOX: The Vulcan Science Directorate. They've always been rather
-reluctant to embrace unorthodox ideas. After they review our findings,
-I have a feeling they might reconsider their opinion of time travel. 
+PHLOX: The Vulcan Science Directorate. They've always been rather reluctant to embrace unorthodox ideas. After they review our findings, I have a feeling they might reconsider their opinion of time travel. 
 T'POL: It's not an opinion. It's simple logic. 
-PHLOX: There was a time when Denobulans believed they were the only
-intelligent species in the galaxy. Needless to say, it was quite a
-surprise when the B'Saari made First Contact. Many refused to accept
-the truth even with the evidence standing right in front of them. It
-took some time, and it wasn't easy, but eventually we were forced to
-reevaluate our beliefs. 
+PHLOX: There was a time when Denobulans believed they were the only intelligent species in the galaxy. Needless to say, it was quite a surprise when the B'Saari made First Contact. Many refused to accept the truth even with the evidence standing right in front of them. It took some time, and it wasn't easy, but eventually we were forced to reevaluate our beliefs. 
 T'POL: Are you saying you believe time travel is possible? 
 PHLOX: Surprises, Sub-Commander. I believe in embracing surprises. 
 T'POL: I prefer to embrace logic. If you'll excuse me, Doctor. 
 PHLOX: Good night. 
- [Engineering] 
- TUCKER: All right, let's start reinitialising the
-power grid. 
-REED: Assuming that is the power grid. It boggles the mind, if you
-think about it. 
+[Engineering]
+TUCKER: All right, let's start reinitialising the power grid. 
+REED: Assuming that is the power grid. It boggles the mind, if you think about it. 
 TUCKER: What does? 
-REED: That ship could be from the thirty first century. When I was
-young, I always wanted to build a time machine, see the future. 
-TUCKER: You're probably the kind of person that jumps to the end of a
-book before you read it. 
-REED: Don't tell me you've never wondered what it would be like. How
-our mission will turn out. 
-TUCKER: Wondering about the future and knowing it are two different
-things. 
-REED: If Daniels came here and offered you a chance to go to the thirty
-first century, you wouldn't take it? 
+REED: That ship could be from the thirty first century. When I was young, I always wanted to build a time machine, see the future. 
+TUCKER: You're probably the kind of person that jumps to the end of a book before you read it. 
+REED: Don't tell me you've never wondered what it would be like. How our mission will turn out. 
+TUCKER: Wondering about the future and knowing it are two different things. 
+REED: If Daniels came here and offered you a chance to go to the thirty first century, you wouldn't take it? 
 TUCKER: Some things are better left a mystery. 
 REED: And you call yourself an explorer. 
-TUCKER: Where's the fun in exploring if you know how it all turns out?
-Hand me that micro-caliper. Suppose you could look into some future
-book and find out the name of the woman you're going to marry. Would
-you want to know it? 
+TUCKER: Where's the fun in exploring if you know how it all turns out? Hand me that micro-caliper. Suppose you could look into some future book and find out the name of the woman you're going to marry. Would you want to know it? 
 REED: Absolutely. Think of all the awkward first dates I could avoid. 
-TUCKER: Fine. So one day you meet Jane Doe. You go out a few times, and
-you pop the question. She says I do, and the two you live happily ever
-after. 
+TUCKER: Fine. So one day you meet Jane Doe. You go out a few times, and you pop the question. She says I do, and the two you live happily ever after. 
 REED: Sounds perfect. 
-TUCKER: Now, did you marry her for love, or because some book told you
-to? 
+TUCKER: Now, did you marry her for love, or because some book told you to? 
 REED: If we're happily ever after, what difference does it make? 
-TUCKER: Well, we've got power. Now we've got to figure out how to tap
-into these organic circuits. 
+TUCKER: Well, we've got power. Now we've got to figure out how to tap into these organic circuits. 
 REED: They're similar to the ones in the cockpit. 
 TUCKER: We might be able to salvage some of them, build an interface. 
- [Launch bay two] 
- TUCKER: Now if I had a chance to see the past, I'd
-jump at it. I always wanted to meet a stegosaurus. 
+[Launch bay two]
+TUCKER: Now if I had a chance to see the past, I'd jump at it. I always wanted to meet a stegosaurus. 
 REED: He'd probably make a quick meal of you. 
 TUCKER: The stegosaurus was an herbivore. 
-REED: If I could travel back in time, I know exactly what year I'd
-pick. 1588. 
+REED: If I could travel back in time, I know exactly what year I'd pick. 1588. 
 TUCKER: What happened in 1588? 
 REED: England defeated the Spanish Armada. 
 TUCKER: I'm sure some named Reed had a lot to do with that. 
 (They haul a plate off the Tardis exterior) 
-TUCKER: (entering the bay) Now if I had a chance to see the past, I'd
-jump at it. I always wanted to meet a stegosaurus. 
+TUCKER: (entering the bay) Now if I had a chance to see the past, I'd jump at it. I always wanted to meet a stegosaurus. 
 REED: He'd probably make a quick meal of you. 
 TUCKER: The stegosaurus was an herbivore. 
-REED: It seems like we were just in here. If I could travel back, I
-know exactly what year I'd pick. 
+REED: It seems like we were just in here. If I could travel back, I know exactly what year I'd pick. 
 BOTH: 1588. 
 TUCKER: How'd I know you were going to say that? 
 REED: I think we're spending far too much time together. 
 (They haul a plate off the Tardis exterior - again) 
-TUCKER: (entering the bay) Now, if I had a chance to see the past, I'd
-jump at it. 
+TUCKER: (entering the bay) Now, if I had a chance to see the past, I'd jump at it. 
 REED: I always wanted to meet a stegosaurus. 
 TUCKER: He'd probably make a quick meal of you. 
 REED: The stegosaurus was a herbivore. 
- [Bridge] 
- TUCKER: It was the weirdest thing. When we were
-standing next to the ship, it felt like we were having the same
-conversation over and over again. 
+[Bridge]
+TUCKER: It was the weirdest thing. When we were standing next to the ship, it felt like we were having the same conversation over and over again. 
 PHLOX: I can't find anything wrong with either of you. 
 REED: We didn't imagine what happened. 
 [Situation room]
 (T'Pol is studying the large display table.) 
-T'POL: Captain, the craft is emitting some type of high-energy
-particles. 
+T'POL: Captain, the craft is emitting some type of high-energy particles. 
 (They go down the steps to join her.) 
-ARCHER: This may be the temporal radiation the Tholians warned us
-about. 
+ARCHER: This may be the temporal radiation the Tholians warned us about. 
 REED: We've spent a fair amount of time around that ship. 
-PHLOX: The particle density's quite low. It's unlikely to have any
-lasting effects. 
+PHLOX: The particle density's quite low. It's unlikely to have any lasting effects. 
 TUCKER: How do you explain what happened? 
 T'POL: The radiation could have affected your perception of time. 
-ARCHER: Or maybe they really were reliving the same moment. Seal off
-Launch bay two and evacuate the surrounding sections. I don't want to
-take any chances. (Reed leaves) How are you coming with the black box? 
+ARCHER: Or maybe they really were reliving the same moment. Seal off Launch bay two and evacuate the surrounding sections. I don't want to take any chances. (Reed leaves) How are you coming with the black box? 
 TUCKER: The power's online, but we still can't access the data. 
 ARCHER: Let me know as soon as you find anything. Dismissed. 
 T'POL: Can I speak with you? 
- [Ready room] 
- T'POL: The radiation could spread to other
-sections, affect more systems. 
-ARCHER: We'll keep an eye on it. The Vulcans are only a few hours away.
-T'POL: I'm not certain we'll survive that long. We've attracted the
-attention of two hostile species. It's logical to assume they're
-searching for us. 
+[Ready room]
+T'POL: The radiation could spread to other sections, affect more systems. 
+ARCHER: We'll keep an eye on it. The Vulcans are only a few hours away. 
+T'POL: I'm not certain we'll survive that long. We've attracted the attention of two hostile species. It's logical to assume they're searching for us. 
 ARCHER: I'm pretty sure we can steer clear of them. 
 T'POL: Perhaps you should destroy the vessel. 
-ARCHER: I'm not going to do that. I'm tired of these factions
-interfering with our century. It's time we took a more active interest
-in this war, gathered some intelligence ourselves. 
-T'POL: Assuming for the moment the Temporal Cold War exists, I believe
-we shouldn't get involved. 
-ARCHER: Like it or not, we've been involved since we left Spacedock.
-Daniel's hinted that there were other factions in this conflict. Maybe
-the Tholians are working for one of them. 
+ARCHER: I'm not going to do that. I'm tired of these factions interfering with our century. It's time we took a more active interest in this war, gathered some intelligence ourselves. 
+T'POL: Assuming for the moment the Temporal Cold War exists, I believe we shouldn't get involved. 
+ARCHER: Like it or not, we've been involved since we left Spacedock. Daniel's hinted that there were other factions in this conflict. Maybe the Tholians are working for one of them. 
 T'POL: Your curiosity is placing Enterprise in unnecessary danger. 
-ARCHER: This is the first chance we've had to get some answers. I'm not
-going to pass it up. The Vulcans can get that ship back to Earth in a
-few weeks. Starfleet'll take it from there. 
+ARCHER: This is the first chance we've had to get some answers. I'm not going to pass it up. The Vulcans can get that ship back to Earth in a few weeks. Starfleet'll take it from there. 
 T'POL: Captain. 
 ARCHER: I told you. I've made my decision. 
-T'POL: If the Suliban return, they may be cloaked. I recommend we go to
-Tactical Alert. 
- [Engineering] 
- ARCHER: What do you have? 
-TUCKER: It's what we don't have. This isn't a black box. We thought it
-was a data storage matrix, but after we got the power running it
-started generating a subspace signature. I think it's a
-micro-transmitter, some kind of emergency beacon. 
-T'POL [OC]: Bridge to Captain Archer. Several Suliban vessels are
-approaching. 
+T'POL: If the Suliban return, they may be cloaked. I recommend we go to Tactical Alert. 
+[Engineering]
+ARCHER: What do you have? 
+TUCKER: It's what we don't have. This isn't a black box. We thought it was a data storage matrix, but after we got the power running it started generating a subspace signature. I think it's a micro-transmitter, some kind of emergency beacon. 
+T'POL [OC]: Bridge to Captain Archer. Several Suliban vessels are approaching. 
 ARCHER: On my way. 
 T'POL [OC]: Acknowledged. 
- [Bridge] 
- T'POL: The ships will be within weapons range in
-twenty seconds. 
+[Bridge]
+T'POL: The ships will be within weapons range in twenty seconds. 
 ARCHER: Go to maximum warp. 
 T'POL: They're matching our speed. 
 ARCHER: How long to the rendezvous point? 
@@ -426,21 +290,17 @@ HOSHI: No response. We're being hailed by the Suliban.
 (She puts them onscreen.) 
 ARCHER: I see you brought some friends with you. 
 SULIBAN [on viewscreen]: Drop out of warp and prepare to be boarded. 
-ARCHER: Or what? You're not going to risk any more damage to that ship.
+ARCHER: Or what? You're not going to risk any more damage to that ship. 
 REED: They're charging weapons. 
-ARCHER: Take a look at your long-range sensors. There's a Vulcan combat
-cruiser a few million kilometres from here. Unless you want to upset
-them, I suggest you turn around. 
-SULIBAN [on viewscreen]: The Vulcans won't risk their ship for an Earth
-vessel. 
+ARCHER: Take a look at your long-range sensors. There's a Vulcan combat cruiser a few million kilometres from here. Unless you want to upset them, I suggest you turn around. 
+SULIBAN [on viewscreen]: The Vulcans won't risk their ship for an Earth vessel. 
 (Ends transmission and fires at Enterprise) 
 ARCHER: Aft cannon, return fire. 
 (they hit a couple of ships, but take more hits themselves) 
 REED: We're losing ventral plating. 
 ARCHER: The Vulcans? 
 T'POL: Six hundred thousand kilometres. 
-REED: Direct hit to the launch bay doors. They're trying to blast them
-open. 
+REED: Direct hit to the launch bay doors. They're trying to blast them open. 
 ARCHER: Hold your course and speed. 
 T'POL: Two hundred thousand kilometres. 
 ARCHER: Take us out of warp. 
@@ -459,83 +319,67 @@ T'POL: The cell ships have dropped out of warp.
 (The Suliban and Tholians begin fighting each other.) 
 REED: I never thought I'd be glad to see the Suliban. 
 ARCHER: Trip, we could use warp engines 
- [Engineering] 
- ARCHER [OC]: Right about now. 
-TUCKER: The antimatter injectors are fused. I'll need a few hours to
-replace them. 
+[Engineering]
+ARCHER [OC]: Right about now. 
+TUCKER: The antimatter injectors are fused. I'll need a few hours to replace them. 
 ARCHER [OC]: How about weapons? 
 TUCKER: Every power relay on the ship's been scrambled. 
 ARCHER [OC]: Then forget everything else. Get that beacon working. 
 TUCKER: Sir? 
- [Bridge] 
- ARCHER: Whoever built that ship might be able to
-send help. 
- [Engineering] 
- TUCKER: Aye, Captain. 
- [Bridge] 
- T'POL: Even if you're correct, it's unlikely help
-will arrive in time. 
-ARCHER: How long would it take to remove one of the torpedo warheads,
-arm it manually? 
-REED: Four minutes. Less if I had some help. I recommend moving the
-warhead as little as possible once we remove it. 
-ARCHER: Then we'll bring the torpedo to the launch bay, work on it
-there. (to T'Pol) You have the bridge. 
- [Launch bay two] 
- ARCHER: I'm going to hold you to that four
-minutes. 
+[Bridge]
+ARCHER: Whoever built that ship might be able to send help. 
+[Engineering]
+TUCKER: Aye, Captain. 
+[Bridge]
+T'POL: Even if you're correct, it's unlikely help will arrive in time. 
+ARCHER: How long would it take to remove one of the torpedo warheads, arm it manually? 
+REED: Four minutes. Less if I had some help. I recommend moving the warhead as little as possible once we remove it. 
+ARCHER: Then we'll bring the torpedo to the launch bay, work on it there. (to T'Pol) You have the bridge. 
+[Launch bay two]
+ARCHER: I'm going to hold you to that four minutes. 
 REED: It was only an estimate, sir. 
 ARCHER: They don't make this easy, do they? 
-REED: I'm going to release the couplings. You'll need to disconnect the
-power conduits. The blue and red ones first. Turn the release
-counterclockwise until you feel it detach. 
- [Engineering] 
- CREWMAN: Commander. 
+REED: I'm going to release the couplings. You'll need to disconnect the power conduits. The blue and red ones first. Turn the release counterclockwise until you feel it detach. 
+[Engineering]
+CREWMAN: Commander. 
 TUCKER: I need that power module. 
 CREWMAN: Yes, sir. 
 (the box powers up) 
 TUCKER: All right, hand me a micro-caliper. 
- [Bridge] 
- T'POL: Bridge to Captain Archer. 
- [Launch bay two] 
-(Archer takes his communicator out of a sleeve
-pocket.) 
- ARCHER: Go ahead. 
+[Bridge]
+T'POL: Bridge to Captain Archer. 
+[Launch bay two]
+(Archer takes his communicator out of a sleeve pocket.) 
+ARCHER: Go ahead. 
 T'POL [OC]: The Suliban have lost more than half of their ships. 
- [Bridge] 
- T'POL: You don't have much time. 
+[Bridge]
+T'POL: You don't have much time. 
 ARCHER [OC]: We're working as fast as we can. 
- [Launch bay two] 
- ARCHER: Stand by. 
+[Launch bay two]
+ARCHER: Stand by. 
 REED: Sir, if you'll hold it by the locking brace. 
-(They remove the warhead. Archer
-helps to undo the casing.)  
+(They remove the warhead
+. Archer helps to undo the casing.) 
 ARCHER: I'm going to hold you to that four minutes. 
-REED: It was only an estimate, sir. It's happening again. We've had
-this conversation before. 
+REED: It was only an estimate, sir. It's happening again. We've had this conversation before. 
 ARCHER: You're right. How far do you think we got last time? 
 REED: I'm not certain. 
 ARCHER: I think we may have removed the warhead. 
-REED: If time's not repeating outside the launch bay, the Tholians
-could be close. 
+REED: If time's not repeating outside the launch bay, the Tholians could be close. 
 ARCHER: We'd better hurry. The red and blue conduits, right? 
- [Bridge] 
- TRAVIS: The Cell-Ships. They've been destroyed. 
+[Bridge]
+TRAVIS: The Cell-Ships. They've been destroyed. 
 T'POL: How many? 
 TRAVIS: All of them. The Tholians are on an intercept course. 
 HOSHI: They're hailing us. 
 THOLIAN [OC]: Give us the vessel. 
-T'POL: We're prepared to surrender it to you, but our launch bay doors
-took heavy damage. We're going to need more time. I have a repair team
-working on it, but they estimate it will take 
-TRAVIS: Two of their ships are approaching the saucer section. Eighty
-metres. forty. 
+T'POL: We're prepared to surrender it to you, but our launch bay doors took heavy damage. We're going to need more time. I have a repair team working on it, but they estimate it will take 
+TRAVIS: Two of their ships are approaching the saucer section. Eighty metres. forty. 
 HOSHI: They've locked on to both docking ports. 
 T'POL: Seal the hatches and send security teams. 
- [Launch bay two] 
+[Launch bay two]
 (Archer removes the warhead.) 
- ARCHER: Get to the control room. I'll take it from
-here. 
+ARCHER: Get to the control room. I'll take it from here. 
 REED: Aye, Captain. 
 (Archer places the warhead inside the Tardis.) 
 ARCHER: I'm going to hold you to that four minutes. 
@@ -543,29 +387,25 @@ REED: It was only an estimate, sir.
 ARCHER: How many times do you think we've done this? 
 REED: At least twice, maybe more. 
 ARCHER: Let's hope we've got it down by now. 
- [Bridge] 
- (As teams take up positions, and the Tholians
-start cutting the hatches.) 
+[Bridge]
+(As teams take up positions, and the Tholians start cutting the hatches.) 
 HOSHI: They're cutting through the doors. 
- [Launch bay two] 
- ARCHER: Control room. 
-(He puts the warhead in the Tardis and Tucker gets the temporal beacon
-signal going.) 
+[Launch bay two]
+ARCHER: Control room. 
+(He puts the warhead in the Tardis and Tucker gets the temporal beacon signal going.) 
 ARCHER: Let's get those doors open. 
 (The Tardis drops out into space and a Tholian ship takes it in tow.) 
 ARCHER: Now. 
 REED: I'd recommend putting more distance between us and that ship. 
 ARCHER: Now! 
- [Bridge] 
- T'POL: T'Pol to Captain Archer. 
- [Launch bay two control room] 
- T'POL [OC]: They've neutralised the warhead. 
+[Bridge]
+T'POL: T'Pol to Captain Archer. 
+[Launch bay two control room]
+T'POL [OC]: They've neutralised the warhead. 
 ARCHER: On our way. 
-(In Engineering, the future transmitter vanishes from under Trip's
-nose, and Phlox watches his corpse disappear from Sickbay too. Suddenly
-the Tholian ship is towing - nothing.) 
- [Bridge] 
- TRAVIS: Sir, it's gone. 
+(In Engineering, the future transmitter vanishes from under Trip's nose, and Phlox watches his corpse disappear from Sickbay too. Suddenly the Tholian ship is towing - nothing.) 
+[Bridge]
+TRAVIS: Sir, it's gone. 
 ARCHER: Gone? 
 T'POL: It dematerialised, and it's not aboard the Tholian ships. 
 HOSHI: They're disengaging. 
@@ -575,37 +415,22 @@ REED: Good question.
 T'POL: They may have only wanted the vessel. 
 ARCHER: The Vulcans? 
 T'POL: Their warp drive is damaged, but life support is stable. 
-ARCHER: Let's see if we can give them a hand. (to Reed) Prep a
-shuttlepod. Have Doctor Phlox meet us in Launch bay one. 
+ARCHER: Let's see if we can give them a hand. (to Reed) Prep a shuttlepod. Have Doctor Phlox meet us in Launch bay one. 
 HOSHI: Aye, sir. 
- Captain's Starlog, supplemental. A Vulcan
-transport is en route to tow the Tal'Kir. Fortunately, there were no
-casualties. Our long range scanners show no sign of Tholians or Suliban
-in our vicinity. 
- [Captain's mess] 
- TUCKER: I wish we'd had more time to explore that
-ship. Who knows how many other rooms were down there? Looks like they
-sent the whole kit and caboodle back to the thirty first century. 
+Captain's Starlog, supplemental. A Vulcan transport is en route to tow the Tal'Kir. Fortunately, there were no casualties. Our long range scanners show no sign of Tholians or Suliban in our vicinity. 
+[Captain's mess]
+TUCKER: I wish we'd had more time to explore that ship. Who knows how many other rooms were down there? Looks like they sent the whole kit and caboodle back to the thirty first century. 
 T'POL: There's no evidence to support that. 
-TUCKER: Well, there's no evidence to contradict it, either. What I
-don't understand is how quickly everything disappeared. That beacon was
-online for less than a minute. 
+TUCKER: Well, there's no evidence to contradict it, either. What I don't understand is how quickly everything disappeared. That beacon was online for less than a minute. 
 ARCHER: You're forgetting that time is irrelevant to these people. 
 TUCKER: Irrelevant? 
-ARCHER: If that vessel was from the future, whoever sent it had plenty
-of time to locate the signal and then travel back to any point in time
-to retrieve it. 
-TUCKER: Unfortunately, time isn't irrelevant in my engine room. I've
-got repairs to finish. See you later. Sub-Commander. 
+ARCHER: If that vessel was from the future, whoever sent it had plenty of time to locate the signal and then travel back to any point in time to retrieve it. 
+TUCKER: Unfortunately, time isn't irrelevant in my engine room. I've got repairs to finish. See you later. Sub-Commander. 
 (Tucker leaves.) 
-ARCHER: I'm going to contact the High Command, apologise for the
-trouble we caused them. 
-T'POL: As the captain of the Tal'Kir pointed out, a ship can be
-replaced. 
+ARCHER: I'm going to contact the High Command, apologise for the trouble we caused them. 
+T'POL: As the captain of the Tal'Kir pointed out, a ship can be replaced. 
 ARCHER: I also need to thank them for helping us out. 
-T'POL: I'm sure the gesture would be appreciated. The High Command has
-asked me to prepare a report on this incident, with your permission. 
-ARCHER: By all means. I wonder if they'll believe that humans and
-Vulcans will be swapping chromosomes one day? 
-T'POL: They're more likely to believe in time travel.  
+T'POL: I'm sure the gesture would be appreciated. The High Command has asked me to prepare a report on this incident, with your permission. 
+ARCHER: By all means. I wonder if they'll believe that humans and Vulcans will be swapping chromosomes one day? 
+T'POL: They're more likely to believe in time travel. 
 

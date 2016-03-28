@@ -1,51 +1,37 @@
 Episode Number: 425
 The Deep Space Nine Transcripts - Cardassians
 Cardassians
-Stardate:
-47177.2
+Stardate: 47177.2
 Original Airdate: 25 Oct, 1993
-  [Replimat]
+[Replimat]
 GARAK: Tarkalean tea again, Doctor? 
-BASHIR: Yes, and you're drinking Rokassa juice again, aren't you,
-Garak. 
+BASHIR: Yes, and you're drinking Rokassa juice again, aren't you, Garak. 
 GARAK: How did you know? 
 BASHIR: The odour is unmistakable. 
-GARAK: So it is. Rokassa juice soothes my nerves. I had a very
-demanding customer today. A Bajoran engineer who comes to the shop
-constantly just to plague me. 
-BASHIR: You know, I've always wondered about that. About who your
-steady customers really are. I can't imagine Bajorans frequenting a
-shop run by a Cardassian. 
-GARAK: I like to think that my expertise and willingness to serve
-overcome any general resentments any of my clientele may have. 
-BASHIR: Ah. And perhaps your expertise and willingness to serve go so
-far as to establish a certain trust between you and your customers? 
+GARAK: So it is. Rokassa juice soothes my nerves. I had a very demanding customer today. A Bajoran engineer who comes to the shop constantly just to plague me. 
+BASHIR: You know, I've always wondered about that. About who your steady customers really are. I can't imagine Bajorans frequenting a shop run by a Cardassian. 
+GARAK: I like to think that my expertise and willingness to serve overcome any general resentments any of my clientele may have. 
+BASHIR: Ah. And perhaps your expertise and willingness to serve go so far as to establish a certain trust between you and your customers? 
 GARAK: Trust is very important 
-BASHIR: And once they trust you, they're much more open with you, and
-they tell you things. 
-GARAK: Really, Doctor, must we always play this game? I'm no more a spy
-than you are a; 
+BASHIR: And once they trust you, they're much more open with you, and they tell you things. 
+GARAK: Really, Doctor, must we always play this game? I'm no more a spy than you are a; 
 BASHIR: A doctor. 
-GARAK: I'm afraid you really do allow your imagination to run away with
-you. What else can I say to finally convince you that I'm just 
+GARAK: I'm afraid you really do allow your imagination to run away with you. What else can I say to finally convince you that I'm just 
 BASHIR: Plain, simple Garak? 
 GARAK: Precisely. 
 GARAK: Now there's something you don't see every day. 
-(A Bajoran man and a Cardassian boy have just come out of the airlock
-and come straight into the Replimat.) 
+(A Bajoran man and a Cardassian boy have just come out of the airlock and come straight into the Replimat.) 
 ZOLAN: Have a seat. I'll get us all some refreshment. 
 (The boy and Garak look at each other for a long time) 
 BASHIR: That was odd. Do you know him? 
 GARAK: On the contrary. I've never seen him before in my life. 
 (Garak goes over to their table) 
-GARAK: I hope I'm not intruding, but I couldn't help noticing what a
-handsome young man you have here. 
+GARAK: I hope I'm not intruding, but I couldn't help noticing what a handsome young man you have here. 
 (Garak rests his hand on the boy's shoulder, so the lad bites it) 
 GARAK: Argh! 
-(Bashir checks Garak's wound while the boy hugs the Bajoran man.)
- [Ops] 
-BASHIR: I'm sorry I'm late. The damnedest thing
-just happened. Garak the tailor was attacked. 
+(Bashir checks Garak's wound while the boy hugs the Bajoran man.) 
+[Ops]
+BASHIR: I'm sorry I'm late. The damnedest thing just happened. Garak the tailor was attacked. 
 ODO: Attacked? Where? 
 BASHIR: At the Replimat. He was bitten on the hand. 
 DAX: Another unsatisfied customer? 
@@ -53,175 +39,101 @@ O'BRIEN: He always cuts the pants too long.
 BASHIR: Actually, it was a boy. A Cardassian boy. 
 SISKO: I wasn't aware we had any Cardassian children on the station. 
 ODO: We don't. 
-BASHIR: He's just arrived on a Bajoran transport with an adult Bajoran
-who says he's his father. 
-KIRA: The boy was probably one of the orphans left behind after the
-Cardassians pulled out. We had no choice but to take care of them. You
-have an incoming subspace transmission from Cardassia, Commander. It's
-Gul Dukat. 
-SISKO: In my office.
- [Commander's office] 
-DUKAT [on monitor]: Commander, it's been brought to
-my attention that the sole Cardassian living on your station has been
-assaulted. 
-SISKO: I'm surprised how quickly the news reached you, Dukat. I only
-heard about it myself a minute ago. 
-DUKAT [on monitor]: Is it true he was attacked by a Cardassian boy
-brought to the station by a Bajoran? 
+BASHIR: He's just arrived on a Bajoran transport with an adult Bajoran who says he's his father. 
+KIRA: The boy was probably one of the orphans left behind after the Cardassians pulled out. We had no choice but to take care of them. You have an incoming subspace transmission from Cardassia, Commander. It's Gul Dukat. 
+SISKO: In my office. 
+[Commander's office]
+DUKAT [on monitor]: Commander, it's been brought to my attention that the sole Cardassian living on your station has been assaulted. 
+SISKO: I'm surprised how quickly the news reached you, Dukat. I only heard about it myself a minute ago. 
+DUKAT [on monitor]: Is it true he was attacked by a Cardassian boy brought to the station by a Bajoran? 
 SISKO: A Cardassian boy appears to have be involved, yes. 
-DUKAT [on monitor]: Exactly as I feared. Exactly as I've been warning
-my colleagues. 
+DUKAT [on monitor]: Exactly as I feared. Exactly as I've been warning my colleagues. 
 SISKO: Warning them? 
-DUKAT [on monitor]: The Cardassian war orphans, Commander. Abandoned
-when we left Bajor. It's a disgrace. Obviously these children are being
-raised to hate their own kind. This incident is proof. 
+DUKAT [on monitor]: The Cardassian war orphans, Commander. Abandoned when we left Bajor. It's a disgrace. Obviously these children are being raised to hate their own kind. This incident is proof. 
 SISKO: You're assuming a lot from one incident. 
-DUKAT [on monitor]: Am I? Then why would this boy attack poor Garak? An
-amiable fellow, if there ever was one. 
+DUKAT [on monitor]: Am I? Then why would this boy attack poor Garak? An amiable fellow, if there ever was one. 
 SISKO: If you like, I'll try to find out. 
-DUKAT [on monitor]: That would be most appreciated, Commander. I need
-to find out everything I can about this boy, so that I can use his
-story in my fight to bring these orphans back to their homeland. This
-is a tragedy that all of Cardassia is going to have to address. 
- [Guest quarters] 
-PROKA: We didn't come here to cause trouble. Has
-this Garak filed a complaint? 
-SISKO: No, but the Cardassian officials asked that look into the
-incident. 
-PROKA: I wish they'd shown as much concern when they left my boy and
-dozens like him to fend for themselves. 
+DUKAT [on monitor]: That would be most appreciated, Commander. I need to find out everything I can about this boy, so that I can use his story in my fight to bring these orphans back to their homeland. This is a tragedy that all of Cardassia is going to have to address. 
+[Guest quarters]
+PROKA: We didn't come here to cause trouble. Has this Garak filed a complaint? 
+SISKO: No, but the Cardassian officials asked that look into the incident. 
+PROKA: I wish they'd shown as much concern when they left my boy and dozens like him to fend for themselves. 
 SISKO: How did you come to adopt him? 
-PROKA: My wife and I felt that Rugal shouldn't suffer for crimes
-committed by others. 
+PROKA: My wife and I felt that Rugal shouldn't suffer for crimes committed by others. 
 SISKO: But why would he attack another Cardassian? 
 PROKA: That Cardassian should have minded his own business. 
-BASHIR: Garak was only trying to be friendly. The boy seemed terrified
-of him on sight. 
-SISKO: The Cardassians are suggesting that the Bajorans are raising
-these orphans to hate their own people. 
-PROKA: To hate Cardassians? It shouldn't be too hard, should it? We
-told him the truth, Commander. The truth about what Cardassia did to
-Bajor. He needed to know, and for that I make no apologies. To us, he
-isn't even one of them anymore. He isn't Cardassian, he's Bajoran. And
-we love him just as if he were our own flesh and blood.
- [Quark's] 
-ZOLAN: All right, here we go. Here we go. Baby,
-come on. Dabo! 
-QUARK: There's nothing quite so depressing as a winning streak that
-won't stop streaking. 
+BASHIR: Garak was only trying to be friendly. The boy seemed terrified of him on sight. 
+SISKO: The Cardassians are suggesting that the Bajorans are raising these orphans to hate their own people. 
+PROKA: To hate Cardassians? It shouldn't be too hard, should it? We told him the truth, Commander. The truth about what Cardassia did to Bajor. He needed to know, and for that I make no apologies. To us, he isn't even one of them anymore. He isn't Cardassian, he's Bajoran. And we love him just as if he were our own flesh and blood. 
+[Quark's]
+ZOLAN: All right, here we go. Here we go. Baby, come on. Dabo! 
+QUARK: There's nothing quite so depressing as a winning streak that won't stop streaking. 
 ZOLAN: Dabo! 
 BASHIR: It would appear as if you have this game all figured out. 
 ZOLAN: Dabo! Dabo is a passion of mine. I remember you. You're Doctor 
 BASHIR: Bashir. 
-ZOLAN: Bashir, yes. How's the Cardassian? Still has all his fingers, I
-presume? 
-BASHIR: Yes. Luckily there were no broken bones. I've never seen a boy
-take a bite out of a man's hand like that. 
+ZOLAN: Bashir, yes. How's the Cardassian? Still has all his fingers, I presume? 
+BASHIR: Yes. Luckily there were no broken bones. I've never seen a boy take a bite out of a man's hand like that. 
 ZOLAN: He's a strange boy, Rugal. 
 BASHIR: Do you know the family well? 
 ZOLAN: Dabo! 
 BASHIR: Do you? 
 ZOLAN: Look, this is really none of my business. 
-BASHIR: You were a witness. I just want to get my facts right for the
-medical report. 
+BASHIR: You were a witness. I just want to get my facts right for the medical report. 
 ZOLAN: I'd really rather you asked someone else. 
-BASHIR: Frankly, I don't understand your attitude. All I asked was if
-you know them well. 
-ZOLAN: Well enough. I heard the father was looking for a new job
-several months ago and I offered to help. I visited them on Bajor
-several times. 
+BASHIR: Frankly, I don't understand your attitude. All I asked was if you know them well. 
+ZOLAN: Well enough. I heard the father was looking for a new job several months ago and I offered to help. I visited them on Bajor several times. 
 BASHIR: Did you find anything troubling? 
-ZOLAN: It must be torture for that boy living like that. Hated by
-people he thinks of as his parents. Told day after day that he's
-worthless Cardassian scum. Beaten if he even looks the wrong way. Rugal
-is their revenge. Their revenge against all Cardassians.
- [Guest quarters] 
-PROKA: It is not true. It is not true. Rugal will
-tell you. We have not mistreated him. Is this some Cardassian? 
-SISKO: There'll be ample opportunity to go over the matter in detail,
-but during the investigation, we'd like for Rugal to stay with our
-schoolteacher, Mrs O'Brien. She's expecting him now. 
+ZOLAN: It must be torture for that boy living like that. Hated by people he thinks of as his parents. Told day after day that he's worthless Cardassian scum. Beaten if he even looks the wrong way. Rugal is their revenge. Their revenge against all Cardassians. 
+[Guest quarters]
+PROKA: It is not true. It is not true. Rugal will tell you. We have not mistreated him. Is this some Cardassian? 
+SISKO: There'll be ample opportunity to go over the matter in detail, but during the investigation, we'd like for Rugal to stay with our schoolteacher, Mrs O'Brien. She's expecting him now. 
 PROKA: What if I refuse? 
-SISKO: Then I'll have to call Security and have them remove him from
-your quarters. I don't think either of us wants that. 
+SISKO: Then I'll have to call Security and have them remove him from your quarters. I don't think either of us wants that. 
 (Proka goes into the next room) 
 RUGAL [OC]: Why? 
 PROKA [OC]: It'll be all right 
 RUGAL [OC]: I didn't do anything wrong! 
 PROKA [OC]: I know. I know. It'll be all right. I promise. 
 RUGAL: I didn't do anything wrong. 
-SISKO: Nobody's accusing you of a crime, Rugal. You're not being
-arrested. My name is Commander Sisko. I believe you already know Doctor
-Bashir. 
+SISKO: Nobody's accusing you of a crime, Rugal. You're not being arrested. My name is Commander Sisko. I believe you already know Doctor Bashir. 
 BASHIR: Hello, Rugal. 
-SISKO: I'm sure all of this will be straightened out in a day or two.
-If you want to visit with your father tomorrow, you can. 
-PROKA: Go on, Rugal. We'll talk tomorrow. They won't hurt you. They're
-humans, not Cardassians.
- [Infirmary] 
-BASHIR: Actually, something good did come out of
-all of this, Garak. 
+SISKO: I'm sure all of this will be straightened out in a day or two. If you want to visit with your father tomorrow, you can. 
+PROKA: Go on, Rugal. We'll talk tomorrow. They won't hurt you. They're humans, not Cardassians. 
+[Infirmary]
+BASHIR: Actually, something good did come out of all of this, Garak. 
 GARAK: Oh? 
-BASHIR: If it hadn't happened, we never would have discovered Rugal's
-situation. And a bite on the hand is certainly worth saving a boy's
-life, wouldn't you say? 
+BASHIR: If it hadn't happened, we never would have discovered Rugal's situation. And a bite on the hand is certainly worth saving a boy's life, wouldn't you say? 
 GARAK: I suppose it depends on whose hand. Just joking, Doctor. 
-BASHIR: Perhaps it might even help Gul Dukat in his efforts to resolve
-the entire war orphan predicament. 
+BASHIR: Perhaps it might even help Gul Dukat in his efforts to resolve the entire war orphan predicament. 
 GARAK: I beg your pardon? 
-BASHIR: Gul Dukat. He called Commander Sisko right after this happened.
-Apparently he was quite concerned with your well-being. You never
-mentioned you were friends. 
+BASHIR: Gul Dukat. He called Commander Sisko right after this happened. Apparently he was quite concerned with your well-being. You never mentioned you were friends. 
 GARAK: (laughs) You said Dukat is doing something about war orphans? 
 BASHIR: He wants to bring them all home from Bajor. 
 GARAK: Does he. 
 BASHIR: Am I missing something? 
-GARAK: Tell me, Doctor. Is there a single trait would you ascribe to me
-and to my fellow Cardassians? Would it not be our attention to detail?
-Do you think we simply forgot about those poor little orphans when we
-left Bajor? Do you think they simply slipped from our minds? And who
-would you guess was in charge of the Cardassian withdrawal from Bajor?
- [Ops] 
-DUKAT [on viewscreen]: I don't know how to thank
-you. 
-SISKO: Don't thank me too quickly, Dukat. The boy could be returned to
-his adoptive parents. 
-DUKAT [on viewscreen]: After the accusations this businessman has made.
+GARAK: Tell me, Doctor. Is there a single trait would you ascribe to me and to my fellow Cardassians? Would it not be our attention to detail? Do you think we simply forgot about those poor little orphans when we left Bajor? Do you think they simply slipped from our minds? And who would you guess was in charge of the Cardassian withdrawal from Bajor? 
+[Ops]
+DUKAT [on viewscreen]: I don't know how to thank you. 
+SISKO: Don't thank me too quickly, Dukat. The boy could be returned to his adoptive parents. 
+DUKAT [on viewscreen]: After the accusations this businessman has made. 
 SISKO: That's all it is for the moment. An accusation. 
-DUKAT [on viewscreen]: We would not take kindly to the boy being
-returned to the Bajorans. However, I have complete confidence in your
-ability to be thorough, Commander. And if there's anything I can do. 
-SISKO: As a matter of fact, there is. If it is decided the boy should
-be returned to Cardassia, to
-whom would we return him? It might help to find out if he still has any
-living relatives. 
-DUKAT [on viewscreen]: I was going to suggest that you forward us a
-sample of the boy's DNA and we'll run it through our data banks
-immediately. 
+DUKAT [on viewscreen]: We would not take kindly to the boy being returned to the Bajorans. However, I have complete confidence in your ability to be thorough, Commander. And if there's anything I can do. 
+SISKO: As a matter of fact, there is. If it is decided the boy should be returned to Cardassia, to whom would we return him? It might help to find out if he still has any living relatives. 
+DUKAT [on viewscreen]: I was going to suggest that you forward us a sample of the boy's DNA and we'll run it through our data banks immediately. 
 SISKO: We'll send it right away. 
 BASHIR: Excuse me, Gul Dukat. I have a question. 
 DUKAT [on viewscreen]: Doctor Bashir, isn't it? 
-BASHIR: Yes. Isn't it true you were in charge of the evacuation of
-Bajor? 
+BASHIR: Yes. Isn't it true you were in charge of the evacuation of Bajor? 
 DUKAT [on viewscreen]: Yes, I was. 
-BASHIR: Then it would have been your responsibility to ensure that
-these orphans were in fact part of that evacuation, yet you chose to
-leave them behind. Why? 
-DUKAT [on viewscreen]: I did not choose to leave them behind, Doctor. I
-was ordered to leave them behind. 
+BASHIR: Then it would have been your responsibility to ensure that these orphans were in fact part of that evacuation, yet you chose to leave them behind. Why? 
+DUKAT [on viewscreen]: I did not choose to leave them behind, Doctor. I was ordered to leave them behind. 
 BASHIR: Ordered? By whom? 
 DUKAT [on viewscreen]: By the civilian leaders. They 
-BASHIR: Excuse me, but if I understand the Cardassian political system
-correctly, the civilian leaders have no direct authority over military
-officers. 
-DUKAT [on viewscreen]: Who's been tutoring you in Cardassian social
-studies, Doctor? 
+BASHIR: Excuse me, but if I understand the Cardassian political system correctly, the civilian leaders have no direct authority over military officers. 
+DUKAT [on viewscreen]: Who's been tutoring you in Cardassian social studies, Doctor? 
 BASHIR: Your old friend, Garak. 
-DUKAT [on viewscreen]: Well then, perhaps you should remind my old
-friend Garak the withdrawal of Bajor was a decision made by the
-civilian leaders. One that I clearly opposed. And yes, they made the
-decision to leave the orphans behind. A decision I've regretted ever
-since. Thank you for your concern, Doctor. Good day, Commander. 
+DUKAT [on viewscreen]: Well then, perhaps you should remind my old friend Garak the withdrawal of Bajor was a decision made by the civilian leaders. One that I clearly opposed. And yes, they made the decision to leave the orphans behind. A decision I've regretted ever since. Thank you for your concern, Doctor. Good day, Commander. 
 (transmission ends) 
 BASHIR: He's lying. 
 SISKO: Is that an opinion, or do you have evidence to support it? 
@@ -229,20 +141,15 @@ BASHIR: I have Garak.
 SISKO: Garak. 
 BASHIR: He seems to think there's more going on here than we realise. 
 SISKO: What exactly does he think is going on? 
-BASHIR: I'm not sure. He doesn't actually tell me what he really
-thinks. I sort of have to deduce it. 
-SISKO: So, you deduced that Garak thinks Dukat is lying about something
-you're not sure of and you proceeded to interrupt my conversation to
-confront him about whatever that may be. 
+BASHIR: I'm not sure. He doesn't actually tell me what he really thinks. I sort of have to deduce it. 
+SISKO: So, you deduced that Garak thinks Dukat is lying about something you're not sure of and you proceeded to interrupt my conversation to confront him about whatever that may be. 
 BASHIR: I'm sorry, Commander. It just seemed an opportune 
-SISKO: Don't apologise. It's been the high point of my day. Don't do it
-again. 
+SISKO: Don't apologise. It's been the high point of my day. Don't do it again. 
 DAX: Why would Garak want to undermine Gul Dukat? 
 BASHIR: I'm not really sure. I don't think he likes Dukat very much. 
-SISKO: I'd like to ask Garak about this myself. Have him in my office
-at twenty one hundred hours. 
-BASHIR: Yes, sir.
- [O'Brien's quarters]
+SISKO: I'd like to ask Garak about this myself. Have him in my office at twenty one hundred hours. 
+BASHIR: Yes, sir. 
+[O'Brien's quarters]
 (Rugal is reading a PADD) 
 KEIKO: Hi. 
 O'BRIEN: Here, let me. 
@@ -250,15 +157,12 @@ KEIKO: Thanks.
 (O'Brien takes the plates and puts them on the table) 
 O'BRIEN: Good idea. 
 KEIKO: What? 
-O'BRIEN: Three settings. I assume you sent Molly over to stay with the
-Fredericks. 
-KEIKO: She's asleep. She and Rugal played all afternoon. He wore her
-out. 
+O'BRIEN: Three settings. I assume you sent Molly over to stay with the Fredericks. 
+KEIKO: She's asleep. She and Rugal played all afternoon. He wore her out. 
 O'BRIEN: You let them play together? 
 KEIKO: Why not? 
 O'BRIEN: The boy almost bit somebody's hand off. 
-KEIKO: I was with them all afternoon. He's not like that. He's really
-very gentle. 
+KEIKO: I was with them all afternoon. He's not like that. He's really very gentle. 
 O'BRIEN: Gentle was bred out of these Cardassians a long time ago. 
 KEIKO: You know, that was a very ugly thing you just said. 
 O'BRIEN: I only said. 
@@ -266,53 +170,40 @@ KEIKO: I don't need to hear it twice.
 KEIKO: Rugal, dinner's ready. I hope you like it. 
 (Rugal says his prayers first) 
 O'BRIEN: Keiko, darling, what is this? 
-KEIKO: I found some Cardassian recipes in the memory bank of our food
-replicator. It's a stew, made with Cardassian zabu meat. I thought
-Rugal might enjoy a dish that's popular on his own world. 
-(The meat is turquoise. Keiko likes it, Rugal won't touch it, Miles
-tries it and doesn't like it. The two males have common ground.)
- [O'Brien's quarters] 
+KEIKO: I found some Cardassian recipes in the memory bank of our food replicator. It's a stew, made with Cardassian zabu meat. I thought Rugal might enjoy a dish that's popular on his own world. 
+(The meat is turquoise. Keiko likes it, Rugal won't touch it, Miles tries it and doesn't like it. The two males have common ground.) 
+[O'Brien's quarters]
 (Miles is working when Rugal comes in) 
 O'BRIEN: Can't sleep? 
 RUGAL: What're they going to do with me? 
-O'BRIEN: I'm not sure. You might have something to say about that, you
-know. I mean, you should be telling Commander Sisko what you want. 
+O'BRIEN: I'm not sure. You might have something to say about that, you know. I mean, you should be telling Commander Sisko what you want. 
 RUGAL: I want to go home. 
-O'BRIEN: He'll understand that. You're a Cardassian. They should've
-taken you home when they left. 
+O'BRIEN: He'll understand that. You're a Cardassian. They should've taken you home when they left. 
 RUGAL: No, I mean home. To Bajor. 
 O'BRIEN: It must be tough for you, living on Bajor. 
 RUGAL: Why? 
 O'BRIEN: Being Cardassian. 
 RUGAL: That's not my fault. I was born that way. 
-O'BRIEN: That's not what I meant. There's nothing wrong with being a
-Cardassian. 
+O'BRIEN: That's not what I meant. There's nothing wrong with being a Cardassian. 
 RUGAL: Yes, there is. 
 O'BRIEN: Who taught you that? 
 RUGAL: It's the truth. Everybody knows it. 
 O'BRIEN: How do your parents feel about Cardassians? 
 RUGAL: They hate them. 
 O'BRIEN: Why would you want to live with someone who hates you? 
-RUGAL: They hate other Cardassians, not me. My parents have never done
-anything wrong to me. 
-O'BRIEN: Come on, even I got my bottom whacked by my Dad once or twice.
-RUGAL: Not me. My parents follow the teachings of the Prophets. What do
-you think of Cardassians? 
+RUGAL: They hate other Cardassians, not me. My parents have never done anything wrong to me. 
+O'BRIEN: Come on, even I got my bottom whacked by my Dad once or twice. 
+RUGAL: Not me. My parents follow the teachings of the Prophets. What do you think of Cardassians? 
 O'BRIEN: Me? Well, I can't say, really. 
 RUGAL: Why not? 
-O'BRIEN: Well, you can't judge a whole race of people. You can't hate
-all Cardassians or all Klingons or all humans. I've met some
-Cardassians I didn't like, and I've met some I did. Like you. 
-RUGAL: Do you know how many Bajorans the Cardassians murdered during
-the occupation? Over ten million. We had a test on it in school. I wish
-I wasn't Cardassian. 
- [Bashir's quarters] 
-(Julian is having a restless night when his door
-opens) 
+O'BRIEN: Well, you can't judge a whole race of people. You can't hate all Cardassians or all Klingons or all humans. I've met some Cardassians I didn't like, and I've met some I did. Like you. 
+RUGAL: Do you know how many Bajorans the Cardassians murdered during the occupation? Over ten million. We had a test on it in school. I wish I wasn't Cardassian. 
+[Bashir's quarters]
+(Julian is having a restless night when his door opens) 
 GARAK: Come, Doctor, get dressed. We need to be going. 
 BASHIR: Going? Going where? 
-GARAK: To Bajor.
- [Sisko's quarters] 
+GARAK: To Bajor. 
+[Sisko's quarters]
 (So Sisko is hauled out of his bed too) 
 SISKO: I assume this couldn't wait until morning? 
 BASHIR: No, sir. I need to use a runabout. 
@@ -323,343 +214,211 @@ BASHIR: He wouldn't tell me.
 SISKO: Oh, well, by all means. Will one runabout be enough? 
 CREWMAN [OC]: Ops to Sisko. 
 SISKO: Go ahead. 
-CREWMAN [OC]: Commander, there's an urgent communication for you from
-Gul Dukat. 
-DUKAT [on monitor]: I'm sorry to disturb you at such a late hour,
-Commander, but thanks to the DNA gene type you sent us, we've
-discovered the boy's actually the son of one of our most prominent
-politicians, Kotan Pa'Dar. 
+CREWMAN [OC]: Commander, there's an urgent communication for you from Gul Dukat. 
+DUKAT [on monitor]: I'm sorry to disturb you at such a late hour, Commander, but thanks to the DNA gene type you sent us, we've discovered the boy's actually the son of one of our most prominent politicians, Kotan Pa'Dar. 
 SISKO: When was Pa'Dar on Bajor? 
-DUKAT [on monitor]: Over eight years ago. He was Exarch for a
-Cardassian settlement there. The boy was believed to have died in a
-Bajoran terrorist attack. 
+DUKAT [on monitor]: Over eight years ago. He was Exarch for a Cardassian settlement there. The boy was believed to have died in a Bajoran terrorist attack. 
 SISKO: Has he been told his son is alive? 
-DUKAT [on monitor]: Of course. As you can imagine, he's overwhelmed
-with joy. He's already on his way to the station to reclaim him. 
+DUKAT [on monitor]: Of course. As you can imagine, he's overwhelmed with joy. He's already on his way to the station to reclaim him. 
 SISKO: It's not that simple. 
 DUKAT [on monitor]: I don't understand. 
 SISKO: The boy wants to go back to Bajor. 
 DUKAT [on monitor]: Back&gt; To live with the same brutal people? 
-SISKO: I can't find any evidence to support that accusation. I can't
-even find the man who made it in the first place. 
-DUKAT [on monitor]: Nevertheless, when the boy finds out his real
-father's alive, surely he'll change his mind. And even if he doesn't,
-it would be in the boy's best interests. 
-SISKO: We'll just have to see what happens when Pa'Dar gets here. Sisko
-out. 
-BASHIR: It can't just be a coincidence, sir. Garak must have heard
-about Pa'Dar before he woke me up. What could he be looking for on
-Bajor? 
-SISKO: There's only one way to find out.
- [Orphan Resettlement centre]
+SISKO: I can't find any evidence to support that accusation. I can't even find the man who made it in the first place. 
+DUKAT [on monitor]: Nevertheless, when the boy finds out his real father's alive, surely he'll change his mind. And even if he doesn't, it would be in the boy's best interests. 
+SISKO: We'll just have to see what happens when Pa'Dar gets here. Sisko out. 
+BASHIR: It can't just be a coincidence, sir. Garak must have heard about Pa'Dar before he woke me up. What could he be looking for on Bajor? 
+SISKO: There's only one way to find out. 
+[Orphan Resettlement centre]
 (Children flee at the sight of Garak.) 
 BASHIR: Excuse me, is this the Tozhat Resettlement Centre? 
 DEELA: Yes. 
-BASHIR: I'm Doctor Bashir from the Federation command at Deep Space
-Nine. I've been trying to find some information on a Cardassian war
-orphan who was apparently placed for adoption here. 
-DEELA: Yes, the Bajorans opened their hearts to many abandoned
-children. 
-BASHIR: The boy's name is Rugal, and the Bajoran who adopted him is
-named Proka Migdal. 
-DEELA: I don't recognise either of the names. What was it you were
-trying to find out about them? 
+BASHIR: I'm Doctor Bashir from the Federation command at Deep Space Nine. I've been trying to find some information on a Cardassian war orphan who was apparently placed for adoption here. 
+DEELA: Yes, the Bajorans opened their hearts to many abandoned children. 
+BASHIR: The boy's name is Rugal, and the Bajoran who adopted him is named Proka Migdal. 
+DEELA: I don't recognise either of the names. What was it you were trying to find out about them? 
 BASHIR: Yes, exactly what are we trying to find out about them? 
-GARAK: The circumstances surrounding the young man's adoption. It took
-place about eight years ago. 
-DEELA: The Cardassians were still here. You'll never find anything from
-back then. 
-GARAK: Oh, the Cardassians are quite meticulous record keepers, Madame.
-They've taught many worlds, including this one, how to keep records. I
-find it difficult to believe that none exist from that time period.
-Certainly computer entries made on a regular basis. 
-DEELA: I wouldn't know. I wasn't a volunteer then. I was in the
-underground. 
+GARAK: The circumstances surrounding the young man's adoption. It took place about eight years ago. 
+DEELA: The Cardassians were still here. You'll never find anything from back then. 
+GARAK: Oh, the Cardassians are quite meticulous record keepers, Madame. They've taught many worlds, including this one, how to keep records. I find it difficult to believe that none exist from that time period. Certainly computer entries made on a regular basis. 
+DEELA: I wouldn't know. I wasn't a volunteer then. I was in the underground. 
 GARAK: Really? Perhaps we have met. 
 BASHIR: Look, can we just check your computers? 
-DEELA: Our computers don't work. I can't get a technician to come out.
-We're not exactly a top priority. 
+DEELA: Our computers don't work. I can't get a technician to come out. We're not exactly a top priority. 
 GARAK: Perhaps I can be of service. 
 BASHIR: You can fix computers? 
-GARAK: I dabble with isolinear data subprocessors. It's a hobby of
-mine. 
+GARAK: I dabble with isolinear data subprocessors. It's a hobby of mine. 
 (A little later) 
 BASHIR: I continue to underestimate you, Garak. 
-GARAK: It's no more difficult than sewing on a button, actually. Excuse
-me. 
+GARAK: It's no more difficult than sewing on a button, actually. Excuse me. 
 (Garak hands him his monocle) 
 BASHIR: You carry this everywhere with you, do you? 
-GARAK: A simple tailoring tool. You'd be surprised how often someone
-needs their pants let out. Oh, it's not there. 
+GARAK: A simple tailoring tool. You'd be surprised how often someone needs their pants let out. Oh, it's not there. 
 BASHIR: What's not there? 
 GARAK: Rugal's name, his father's name, none of it. 
 BASHIR: You managed to find eight year old files that quickly? 
-GARAK: It's simply a question of knowing what you're looking for,
-Doctor. Excuse me. Now, it's either been misfiled, under a wrong name,
-or this is entirely the wrong relocation centre. 
+GARAK: It's simply a question of knowing what you're looking for, Doctor. Excuse me. Now, it's either been misfiled, under a wrong name, or this is entirely the wrong relocation centre. 
 BASHIR: I'm not going to any other district until I know. 
-GARAK: That won't be necessary. We can access the files of this entire
-province from here and download them onto a data clip. 
+GARAK: That won't be necessary. We can access the files of this entire province from here and download them onto a data clip. 
 BASHIR: That'll be thousands of files. 
 GARAK: Tens of thousands, actually. 
 (They have an audience of Cardassian and half-Cardassian children) 
 ASHA: Excuse me, sir. Have you come to take us back to Cardassia? 
-GARAK: I'm afraid not, child. Come, Doctor. I believe you'll find your
-computer system fully functional now, Madame.
- [Runabout]
-GARAK: Computer, set up a data bank,
-cross-referencing age groups, sex and year of adopt. 
+GARAK: I'm afraid not, child. Come, Doctor. I believe you'll find your computer system fully functional now, Madame. 
+[Runabout]
+GARAK: Computer, set up a data bank, cross-referencing age groups, sex and year of adopt. 
 BASHIR: Computer, disregard that request and shut down all engines. 
-GARAK: I'm sorry you're upset about the orphans. Children without
-parents have no status in Cardassian society. The situation is most
-unfortunate, but I don't make the rules. 
-BASHIR: But you do play the game, don't you, Garak. And there is a game
-being played right now, as we speak, isn't there. 
+GARAK: I'm sorry you're upset about the orphans. Children without parents have no status in Cardassian society. The situation is most unfortunate, but I don't make the rules. 
+BASHIR: But you do play the game, don't you, Garak. And there is a game being played right now, as we speak, isn't there. 
 GARAK: There are always games, Doctor. 
-BASHIR: The trouble is, I don't have the slightest idea what this game
-is about. So you're going to tell me what's going on inside that plain
-and simple head of yours, my Cardassian friend, or we're going to sit
-here until we rot! 
+BASHIR: The trouble is, I don't have the slightest idea what this game is about. So you're going to tell me what's going on inside that plain and simple head of yours, my Cardassian friend, or we're going to sit here until we rot! 
 GARAK: Tell me, Doctor, why do you think the Cardassians left Bajor? 
-BASHIR: Gul Dukat said it was a decision made by your civilian leaders.
-GARAK: And isn't it interesting that one of Cardassia's most notable
-civilian leaders has recently entered this scenario. 
-BASHIR: Rugal's father? You're saying Kotan Pa'Dar was involved in the
-decision to evacuate Bajor? 
-GARAK: Very good, Doctor. I'm glad to see our little get-togethers
-haven't gone for naught. 
-BASHIR: Which makes him a political enemy of Gul Dukat's. Who lost his
-job as Prefect when they withdrew. 
-GARAK: And seemingly out of nowhere, Dukat takes an interest in this
-orphan boy who recently arrives on our station. And then soon
-afterwards, with Gul Dukat's assistance, we discover that the orphan
-boy isn't really an orphan boy, but Pa'Dar's long lost son. 
+BASHIR: Gul Dukat said it was a decision made by your civilian leaders. 
+GARAK: And isn't it interesting that one of Cardassia's most notable civilian leaders has recently entered this scenario. 
+BASHIR: Rugal's father? You're saying Kotan Pa'Dar was involved in the decision to evacuate Bajor? 
+GARAK: Very good, Doctor. I'm glad to see our little get-togethers haven't gone for naught. 
+BASHIR: Which makes him a political enemy of Gul Dukat's. Who lost his job as Prefect when they withdrew. 
+GARAK: And seemingly out of nowhere, Dukat takes an interest in this orphan boy who recently arrives on our station. And then soon afterwards, with Gul Dukat's assistance, we discover that the orphan boy isn't really an orphan boy, but Pa'Dar's long lost son. 
 BASHIR: Another coincidence? 
-GARAK: I believe in coincidences. Coincidences happen every day. But I
-don't trust coincidences.
- [O'Brien's quarters] 
+GARAK: I believe in coincidences. Coincidences happen every day. But I don't trust coincidences. 
+[O'Brien's quarters]
 PA'DAR: I am Kotan Pa'Dar. 
 O'BRIEN: Miles O'Brien. Come in. Sit down. 
 PA'DAR: Where is my son? 
-O'BRIEN: He's with my wife. They'll be back shortly. I thought it might
-be a good idea if we talked first. Your son, Rugal 
+O'BRIEN: He's with my wife. They'll be back shortly. I thought it might be a good idea if we talked first. Your son, Rugal 
 PA'DAR: At least they didn't change his name. 
 O'BRIEN: When was the last time you saw him? 
-PA'DAR: On Bajor. He had just had his fourth birthday. He probably
-doesn't even remember me. Does he? 
+PA'DAR: On Bajor. He had just had his fourth birthday. He probably doesn't even remember me. Does he? 
 O'BRIEN: I think he's spent most of his life trying to forget you. 
 PA'DAR: I don't think I understand. 
-O'BRIEN: The boy hates everything he is. He hates Cardassians, he hates
-being a Cardassian. 
-PA'DAR: Yes, I've heard those stories. Well, I suppose after growing up
-among the Bajorans. But now that I'm back in his life. 
+O'BRIEN: The boy hates everything he is. He hates Cardassians, he hates being a Cardassian. 
+PA'DAR: Yes, I've heard those stories. Well, I suppose after growing up among the Bajorans. But now that I'm back in his life. 
 O'BRIEN: He may not want you back in his life. 
-PA'DAR: I am his father. Mister O'Brien, I know very little about human
-culture. I don't know how you view the family. 
-O'BRIEN: We'd do almost anything to protect our families. I have a
-daughter myself. She's four, the same age your son was when you lost
-him. 
-PA'DAR: Then I expect you can imagine what I'm feeling right now. On
-Cardassia, family is everything. We care for our parents and children
-with equal devotion. In some households, four generations eat at the
-same table. Family is everything. And I have failed in my
-responsibilities to my family. 
+PA'DAR: I am his father. Mister O'Brien, I know very little about human culture. I don't know how you view the family. 
+O'BRIEN: We'd do almost anything to protect our families. I have a daughter myself. She's four, the same age your son was when you lost him. 
+PA'DAR: Then I expect you can imagine what I'm feeling right now. On Cardassia, family is everything. We care for our parents and children with equal devotion. In some households, four generations eat at the same table. Family is everything. And I have failed in my responsibilities to my family. 
 O'BRIEN: You had no way of knowing he was still alive. 
-PA'DAR: I should have tried harder. I should have looked everywhere. To
-abandon my son, to allow him to be raised a Bajoran. I have disgraced
-that everything a Cardassian believes in. 
+PA'DAR: I should have tried harder. I should have looked everywhere. To abandon my son, to allow him to be raised a Bajoran. I have disgraced that everything a Cardassian believes in. 
 (Keiko enters, followed by a reluctant Rugal) 
 PA'DAR: Hello, Rugal. Do you remember my face? Even a little? 
 RUGAL: No. 
-PA'DAR: Would you like to see some pictures of you when you were a
-child? 
+PA'DAR: Would you like to see some pictures of you when you were a child? 
 RUGAL: No. 
-PA'DAR: Rugal, you have to understand. There was nothing left of the
-house after the attack. Your mother was dead and you. I cried for you,
-Rugal. I missed you so much. I could not even stay on Bajor. It was too
-close to the happy memories of you. 
-RUGAL: It was your own fault. You deserved it. You are Cardassian. What
-the Bajorans did, they had to do. 
+PA'DAR: Rugal, you have to understand. There was nothing left of the house after the attack. Your mother was dead and you. I cried for you, Rugal. I missed you so much. I could not even stay on Bajor. It was too close to the happy memories of you. 
+RUGAL: It was your own fault. You deserved it. You are Cardassian. What the Bajorans did, they had to do. 
 PA'DAR: I understand why you say that. 
-RUGAL: You can't understand. You are a Cardassian butcher! A butcher.
-They killed your son for your crimes. 
+RUGAL: You can't understand. You are a Cardassian butcher! A butcher. They killed your son for your crimes. 
 PA'DAR: Rugal. 
-RUGAL: You are not my father! And I will never go back to Cardassia.
-Never.
- [Commander's office]
-PA'DAR: I have no intention of allowing a Bajoran
-court to rule on the custody of my son. 
+RUGAL: You are not my father! And I will never go back to Cardassia. Never. 
+[Commander's office]
+PA'DAR: I have no intention of allowing a Bajoran court to rule on the custody of my son. 
 PROKA: You gave up custody when you abandoned him here. 
-PA'DAR: He is my natural born child. As Cardassian law clearly
-stipulates 
+PA'DAR: He is my natural born child. As Cardassian law clearly stipulates 
 PROKA: There is no more Cardassian law on Bajor 
 SISKO: Gentlemen, I think you may need an arbitrator to settle this. 
-PROKA: It must be someone who is neither a Cardassian nor a Bajoran.
-What about you? 
-SISKO: I'd be willing, but wouldn't you have objections because of the
-Federation's relationship with Bajor? 
-PA'DAR: No, Commander. You are a father too. You would be acceptable to
-me. 
+PROKA: It must be someone who is neither a Cardassian nor a Bajoran. What about you? 
+SISKO: I'd be willing, but wouldn't you have objections because of the Federation's relationship with Bajor? 
+PA'DAR: No, Commander. You are a father too. You would be acceptable to me. 
 SISKO: Very well then. I'll schedule a 
 ODO [OC]: Odo to Commander Sisko. 
 SISKO: Yes, Odo. What is it? 
-ODO [OC]: I thought you might be interested to know Gul Dukat has just
-arrived on the station. 
-Station log, stardate 47177.2. The arrival of Gul
-Dukat only powers my suspicion that we are being manipulated in some
-unseen manner. Doctor Bashir and Garak continue to search for anything
-of relevance in the adoption files. So far, they've found nothing. And
-the decision on custody for Rugal cannot wait much longer 
- [Schoolroom]
-SISKO: You've come a long way just to view a
-custody hearing. 
-DUKAT: Pa'Dar is an eminent member of the civilian assembly. This
-matter has generated a great deal of interest at the highest levels of
-our government. 
+ODO [OC]: I thought you might be interested to know Gul Dukat has just arrived on the station. 
+Station log, stardate 47177.2. The arrival of Gul Dukat only powers my suspicion that we are being manipulated in some unseen manner. Doctor Bashir and Garak continue to search for anything of relevance in the adoption files. So far, they've found nothing. And the decision on custody for Rugal cannot wait much longer 
+[Schoolroom]
+SISKO: You've come a long way just to view a custody hearing. 
+DUKAT: Pa'Dar is an eminent member of the civilian assembly. This matter has generated a great deal of interest at the highest levels of our government. 
 SISKO: So, you're here representing your government? 
-DUKAT: Not exactly. I like to think that I'm here representing the
-children. All of the children abandoned on Bajor. I want to see Rugal
-reunited with his father. 
-SISKO: Well, I'm sure Pa'Dar is grateful for your support because I was
-under the impression that you were political adversaries. Isn't that
-so, Pa'Dar? 
+DUKAT: Not exactly. I like to think that I'm here representing the children. All of the children abandoned on Bajor. I want to see Rugal reunited with his father. 
+SISKO: Well, I'm sure Pa'Dar is grateful for your support because I was under the impression that you were political adversaries. Isn't that so, Pa'Dar? 
 PA'DAR: We have disagreed in the past, but Commander, I don't see 
-DUKAT: And I must object, Commander. The past is the past. It has no
-relevance here. What is relevant are the children. What are we going to
-do about the children? 
-SISKO: If you don't mind, I'd like for you to go over the events
-leading up to the disappearance of Rugal eight years ago. 
- [Infirmary] 
+DUKAT: And I must object, Commander. The past is the past. It has no relevance here. What is relevant are the children. What are we going to do about the children? 
+SISKO: If you don't mind, I'd like for you to go over the events leading up to the disappearance of Rugal eight years ago. 
+[Infirmary]
 GARAK: How perfectly foolish of me. 
-BASHIR: Don't tell me you've decided you were wrong. Not after
-searching seven thousand, four hundred and twenty files for a
-misspelling. 
+BASHIR: Don't tell me you've decided you were wrong. Not after searching seven thousand, four hundred and twenty files for a misspelling. 
 GARAK: Dukat is much smarter than that. 
 BASHIR: Than what? 
-GARAK: Think about it, Doctor. He would never have left a file to be
-found. 
+GARAK: Think about it, Doctor. He would never have left a file to be found. 
 BASHIR: Do you really think he purged the file on Rugal? 
 GARAK: I would have. 
-BASHIR: There was something in that file he didn't want anybody to see.
-GARAK: Exactly. We have one last chance, to find the person who wrote
-that file in the first place. 
+BASHIR: There was something in that file he didn't want anybody to see. 
+GARAK: Exactly. We have one last chance, to find the person who wrote that file in the first place. 
 BASHIR: How do you ever hope to find him? 
 GARAK: Her. 
 BASHIR: Her? How do you know? 
 GARAK: Because I've already found her name. Jomat Luson. 
- [Schoolroom]
-SISKO: Do you remember anything from back then,
-Rugal? 
+[Schoolroom]
+SISKO: Do you remember anything from back then, Rugal? 
 RUGAL: No. 
 SISKO: Do you remember being adopted? 
 RUGAL: No. 
 SISKO: What's the first thing you do remember? 
-RUGAL: My father teaching me how to swim.
- [Infirmary] 
+RUGAL: My father teaching me how to swim. 
+[Infirmary]
 (Garak is keeping out of view) 
 JOMAT [on monitor]: I know exactly the one you're talking about. 
 BASHIR: You do? 
-JOMAT [on monitor]: He was the only Cardassian boy we had at the time.
-We had several girls. 
+JOMAT [on monitor]: He was the only Cardassian boy we had at the time. We had several girls. 
 BASHIR: Are you sure his name was Rugal? 
 JOMAT [on monitor]: That's what we were told. 
 BASHIR: Somebody told you his name? 
-JOMAT [on monitor]: Yes, that was the most unusual thing about his
-arrival. Virtually all of the other Cardassian children turned in to us
-were found on the streets by Bajorans. Rugal was brought in by a
-Cardassian. 
+JOMAT [on monitor]: Yes, that was the most unusual thing about his arrival. Virtually all of the other Cardassian children turned in to us were found on the streets by Bajorans. Rugal was brought in by a Cardassian. 
 BASHIR: A Cardassian military officer, by any chance? 
 JOMAT [on monitor]: Yes, as a matter of fact, she was. 
 BASHIR: A woman? 
-JOMAT [on monitor]: I don't remember her name, but she was attached to
-the command post at Terok Nor. Is there anything else, Doctor?
- [Schoolroom]
-O'BRIEN: The boy accused him of being a butcher. He
-hates Cardassians, sir. Pa'Dar was heartbroken. I can only imagine how
-I'd feel in his shoes. 
+JOMAT [on monitor]: I don't remember her name, but she was attached to the command post at Terok Nor. Is there anything else, Doctor? 
+[Schoolroom]
+O'BRIEN: The boy accused him of being a butcher. He hates Cardassians, sir. Pa'Dar was heartbroken. I can only imagine how I'd feel in his shoes. 
 (Bashir and Garak enter) 
-BASHIR: Commander, can I ask O'Brien a few questions? Chief, didn't
-Pa'Dar tell you about the humiliation he feels right now? 
+BASHIR: Commander, can I ask O'Brien a few questions? Chief, didn't Pa'Dar tell you about the humiliation he feels right now? 
 O'BRIEN: He said he had disgraced everything a Cardassian believes in. 
-BASHIR: Has the news of your son's discovery become public knowledge on
-Cardassia? 
+BASHIR: Has the news of your son's discovery become public knowledge on Cardassia? 
 PA'DAR: The government has not chosen to reveal it to the people yet. 
 BASHIR: What happens when it is revealed? 
 PA'DAR: It will be the end of my political career. 
 BASHIR: That's a shame. Especially considering the timing. 
 PA'DAR: The timing? 
-BASHIR: Isn't there an inquiry about to begin concerning the
-Cardassians who were involved in the attempted military coup on Bajor? 
+BASHIR: Isn't there an inquiry about to begin concerning the Cardassians who were involved in the attempted military coup on Bajor? 
 PA'DAR: Yes. 
 BASHIR: And isn't Gul Dukat one of the key witnesses in that inquiry? 
-DUKAT: This is irrelevant and insulting. Commander, you've lost control
-here. 
+DUKAT: This is irrelevant and insulting. Commander, you've lost control here. 
 SISKO: Yes, it seems that I have. 
 DUKAT: I suggest we return to the issue of the children. 
-BASHIR: All right, let's talk about children. Have you ever been to the
-Tozhat Resettlement Centre on Bajor where Rugal was adopted? 
+BASHIR: All right, let's talk about children. Have you ever been to the Tozhat Resettlement Centre on Bajor where Rugal was adopted? 
 DUKAT: Never. 
-BASHIR: Of course, Tozhat is the province where Pa'Dar was stationed
-eight years ago. 
+BASHIR: Of course, Tozhat is the province where Pa'Dar was stationed eight years ago. 
 DUKAT: I'm aware of that. 
-BASHIR: I've been trying to find records of Rugal's adoption, but
-they're missing from the files. 
+BASHIR: I've been trying to find records of Rugal's adoption, but they're missing from the files. 
 DUKAT: How unfortunate. 
-BASHIR: Yes, but we have found someone who was working at the centre at
-the time Rugal was brought in. Do you know a Bajoran social volunteer
-named Jomat Luson? 
+BASHIR: Yes, but we have found someone who was working at the centre at the time Rugal was brought in. Do you know a Bajoran social volunteer named Jomat Luson? 
 DUKAT: No. 
-BASHIR: Jomat Luson remembers Rugal being brought in by a Cardassian
-military officer. A woman who seemed familiar with him. Even knew his
-name. 
+BASHIR: Jomat Luson remembers Rugal being brought in by a Cardassian military officer. A woman who seemed familiar with him. Even knew his name. 
 DUKAT: Is there a question? 
-BASHIR: The question is whether or not this officer deliberately left
-the son of Kotan Pa'Dar at the Relocation Centre with full knowledge
-that he was not an orphan. Perhaps even with the hopes of humiliating
-Pa'Dar someday. 
+BASHIR: The question is whether or not this officer deliberately left the son of Kotan Pa'Dar at the Relocation Centre with full knowledge that he was not an orphan. Perhaps even with the hopes of humiliating Pa'Dar someday. 
 DUKAT: I wouldn't know. 
-BASHIR: Would you happen to know then of a base known during the
-occupation as Terok Nor? 
+BASHIR: Would you happen to know then of a base known during the occupation as Terok Nor? 
 DUKAT: Terok Nor? It was here. This space station. 
-BASHIR: Jomat Luson clearly recalls that the officer who brought in
-Rugal was attached to Terok Nor. 
+BASHIR: Jomat Luson clearly recalls that the officer who brought in Rugal was attached to Terok Nor. 
 (Dukat looks Garak right in the eyes and heads for the door) 
-BASHIR: Gul Dukat! Who was the commanding office at Terok Nor eight
-years ago? 
+BASHIR: Gul Dukat! Who was the commanding office at Terok Nor eight years ago? 
 (Dukat leaves) 
-BASHIR: For the record, the commanding office of Terok Nor eight years
-ago was Gul Dukat.
-Station log, stardate 47178.3. After long and
-difficult deliberations, I have decided to allow Pa'Dar to take his son
-back to Cardassia. Although I am convinced his Bajoran foster parents
-treated him with love, Rugal has been the clear victim in this
-conspiracy. I believe it's time for his healing to begin.
- [Promenade] 
-PA'DAR: Your doctor has given me the leverage I
-need, Commander. 
+BASHIR: For the record, the commanding office of Terok Nor eight years ago was Gul Dukat. 
+Station log, stardate 47178.3. After long and difficult deliberations, I have decided to allow Pa'Dar to take his son back to Cardassia. Although I am convinced his Bajoran foster parents treated him with love, Rugal has been the clear victim in this conspiracy. I believe it's time for his healing to begin. 
+[Promenade]
+PA'DAR: Your doctor has given me the leverage I need, Commander. 
 SISKO: Leverage? 
-PA'DAR: Dukat will never allow these events to be made public now, and
-I certainly won't choose to discuss them. 
+PA'DAR: Dukat will never allow these events to be made public now, and I certainly won't choose to discuss them. 
 SISKO: A stalemate. 
-PA'DAR: A stalemate. You've helped me salvage my political career. I
-won't forget that. 
-SISKO: Perhaps you'll use your influence to help other Cardassian
-orphans on Bajor. 
+PA'DAR: A stalemate. You've helped me salvage my political career. I won't forget that. 
+SISKO: Perhaps you'll use your influence to help other Cardassian orphans on Bajor. 
 PA'DAR: Well, yes, we'll see. 
-O'BRIEN: Remember what I said. If you ever want to come back and visit,
-just let me know and I'll arrange it. 
+O'BRIEN: Remember what I said. If you ever want to come back and visit, just let me know and I'll arrange it. 
 PA'DAR: Hello, Rugal. Ready to go? 
 (Rugal walks through the airlock) 
 PA'DAR: I suppose it'll take time. 
- [Replimat]
-BASHIR: But there's one more question I haven't
-figured out, Garak. Why did you want to expose Dukat? What's the truth
-about you and him? 
-GARAK: Truth, Doctor, is in the eye of the beholder. I never tell the
-truth because I don't believe there is such a thing. That's why I
-prefer the straight line simplicity of cutting cloth. 
+[Replimat]
+BASHIR: But there's one more question I haven't figured out, Garak. Why did you want to expose Dukat? What's the truth about you and him? 
+GARAK: Truth, Doctor, is in the eye of the beholder. I never tell the truth because I don't believe there is such a thing. That's why I prefer the straight line simplicity of cutting cloth. 
 BASHIR: You're not going to tell me. 
-GARAK: But you don't need me to tell you, my friend. Just notice the
-details. They're scattered like crumbs all over this table we regularly
-share. Until next time.  
+GARAK: But you don't need me to tell you, my friend. Just notice the details. They're scattered like crumbs all over this table we regularly share. Until next time. 
 

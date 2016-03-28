@@ -19,7 +19,8 @@ COMPUTER: Field collapse in fifteen seconds.#
 COMPUTER: Field energy now within flight tolerances.#
 COMPUTER: Seven entries noted in personal calendar files.#
 COMPUTER: Oh nine oh seven hours.#
-COMPUTER: Information restricted to security clearance five and above. Please enter security verification. (Quark selects two rods from a selection in the drawer and inserts them.) COMPUTER: Clearance verified.#
+COMPUTER: Information restricted to security clearance five and above. Please enter security verification.#
+COMPUTER: Clearance verified.#
 COMPUTER: All visual responses normal.#
 COMPUTER: No physiological damage. All brain functions within normal parameters.#
 COMPUTER: Link established with the Bajoran Archival Records.#
@@ -133,7 +134,7 @@ COMPUTER: Station logs after stardate 47569.4 are restricted.#
 COMPUTER: Access restricted to level one security clearance.#
 COMPUTER: Please enter security verification.#
 COMPUTER: Access denied.#
-COMPUTER: Unable to complete request. Please contact station commander for assistance. (O'Brien throws his comm. badge away and runs. Around a corner, a forcefield blocks him. He goes to a panel and opens it)#
+COMPUTER: Unable to complete request. Please contact station commander for assistance.#
 COMPUTER: Shields at seventy-one percent.#
 COMPUTER: Warning. Shields at forty nine percent.#
 COMPUTER: Transfer complete.#
@@ -208,7 +209,7 @@ COMPUTER: Warning. Workers have escaped from Ore Processing unit five. Initiatin
 COMPUTER: Warning, security in the Operations Centre has been compromised. Initiating counterinsurgency programme level two.#
 COMPUTER: Warning. Counterinsurgency programme level two has been interrupted. Initiating counterinsurgency programme level three.#
 COMPUTER: Self-destruct sequence initiated.#
-COMPUTER: Warning. Unauthorised use of command code. Initiating counterinsurgency programme level four. (The replicator builds a weapon and starts firing energy beams. A red-shouldered extra is vapourised.)#
+COMPUTER: Warning. Unauthorised use of command code. Initiating counterinsurgency programme level four.#
 COMPUTER: Request denied. All authorisation codes are void. Time to self-destruct, twenty-five minutes.#
 COMPUTER: Warning. Main fusion reactors will overload in seven minutes.#
 COMPUTER: Warning, main fusion reactors will overload in six minutes.#
@@ -217,7 +218,7 @@ COMPUTER: Warning. Main fusion reactors will overload in three minutes.#
 COMPUTER: Warning. Main fusion reactors will overload in ninety seconds.#
 COMPUTER: Warning. Main fusion reactors will overload in sixty seconds.#
 COMPUTER: Warning. Main fusion reactors will overload in thirty seconds.#
-COMPUTER: Warning. Main fusion reactor overload. (Whumph! Energy discharges from the station and the shields are lit up.)#
+COMPUTER: Warning. Main fusion reactor overload.#
 COMPUTER: Please identify for access to USS Defiant.#
 COMPUTER: Identity confirmed.#
 COMPUTER: Identity confirmed.#
@@ -243,7 +244,7 @@ COMPUTER: Auto-destruct in six minutes.#
 COMPUTER: Auto-destruct in five minutes.#
 COMPUTER: Auto-destruct in four minutes.#
 COMPUTER: Warning. Warp core field breach. Engine room will be sealed in ten seconds. Evacuate immediately.#
-COMPUTER: Engine room sealed. (The founder morphs his arm into Odo's abdomen, and Odo starts to ripple.)#
+COMPUTER: Engine room sealed.#
 COMPUTER: Auto-destruct in three minutes.#
 COMPUTER: Auto-destruct in two minutes.#
 COMPUTER: Auto-destruct sequence aborted.#
@@ -256,7 +257,7 @@ COMPUTER: That procedure has not been tested. It cannot be predicted.#
 COMPUTER: Executing command override.#
 COMPUTER: Unable to comply. The character parameters of Colonel Komananov are correct.#
 COMPUTER: Unable to comply. Computer control has been disrupted due to station-wide emergency.#
-COMPUTER: Oh seven fifty nine hours. (Odo places the mug precisely, with the handle towards the chair, and waits a few moments. Kira enters.)#
+COMPUTER: Oh seven fifty nine hours.#
 COMPUTER: Oh eight twenty one hours.#
 COMPUTER: Please enter security code.#
 COMPUTER: Commander Worf is in his quarters.#
@@ -294,13 +295,13 @@ COMPUTER: The lifeform being monitored is displaying biomimetic fluctuations bey
 COMPUTER: Acknowledged.#
 COMPUTER: Doctor Bashir is not on the station.#
 COMPUTER: Doctor Bashir's last known location was runabout pad E.#
-COMPUTER: Eighteen twenty one hours. (The doorbell rings. He takes a pen-like thing out of a satchel and slips it up his sleeve, then opens the door.)#
+COMPUTER: Eighteen twenty one hours.#
 COMPUTER: Warning. Attempting to access impulse flow regulators while engines are engaged is not recommended.#
-COMPUTER: Acknowledged. Safeties disengaged. (Sisko takes off the panel and starts disconnecting fibre optic cables. Bang. Red alert.)#
+COMPUTER: Acknowledged. Safeties disengaged.#
 COMPUTER: Internal sensors are offline.#
 COMPUTER: All necessary modifications have been completed. Programme Sisko one nine seven ready for implementation on your command.#
-COMPUTER: Program initiated. (Electricity runs across all the consoles and wall panels, and blows them all up.)#
-COMPUTER: The time is zero five hundred hours. (Kira gets up and dressed. The turbolift to work is full of Jem'Hadar and Cardassians.#
+COMPUTER: Program initiated.#
+COMPUTER: The time is zero five hundred hours.#
 COMPUTER: The time is zero five hundred hours.#
 COMPUTER: Seven hundred hours fifty eight minutes.#
 COMPUTER: Seven hundred hours fifty nine minutes.#
@@ -333,7 +334,7 @@ COMPUTER: Acknowledged.#
 COMPUTER: Warning. Without manoeuvring thrusters, the ship may be swept into areas of plasma flare activity.#
 COMPUTER: Warning. Plasma flow activity ahead.#
 COMPUTER: Re establishing engine control is recommended.#
-COMPUTER: Acknowledged. (The runabout touches a flare and gets thrown around. Then she sees something else artificial out there.)#
+COMPUTER: Acknowledged.#
 COMPUTER: Command codes transferred.#
 COMPUTER: Doctor Bashir. The time is oh five hundred.#
 COMPUTER: Emergency power engaged.#

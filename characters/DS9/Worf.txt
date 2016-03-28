@@ -19,7 +19,7 @@ WORF: Curzon's name is an honoured one among my people.#
 WORF: I suppose so.#
 WORF: Excuse me.#
 WORF: You are Drex, son of Martok.#
-WORF: I am Worf, son of Mogh. (And punches Drex in the face. Drex draws his dagger but misses every thrust and ends up on his back. Worf takes Drex's dagger and snarls at his companions, who back off.)#
+WORF: I am Worf, son of Mogh.#
 WORF: Enter.#
 WORF: Now that you are here, I have no further need of it.#
 WORF: You can't take away what someone does not have.#
@@ -112,7 +112,7 @@ WORF: They have given you your answer, Captain.#
 WORF: There is another wave of Klingon ships coming in.#
 WORF: The Empire is not strong enough to fight the Federation and the Cardassians. End this now, Gowron, before you lead the Empire to its worst defeat in history.#
 WORF: Consider what you do here, Gowron. Kahless himself said, destroying an Empire to win a war is no victory.#
-WORF: For now. Captain's log, stardate 49011.4. Gowron has returned to the Klingon home world and his task force has withdrawn from Bajoran space. I don't know if I can fully express the pride I felt at seeing how well Deep Space Nine and it's crew weathered this latest crisis. While the station suffered heavy damage during the Klingon attack, repairs are well ahead of schedule and life on the station is beginning to return to normal, leaving me with one final piece of unfinished business.#
+WORF: For now.#
 WORF: Enter.#
 WORF: Thank you, sir.#
 WORF: Yes. I leave this afternoon.#
@@ -128,7 +128,7 @@ WORF: It feels good. But I have a lot to learn about Command.#
 WORF: This picture is accurate enough to establish that your customer is Regana Tosh, who is known to be associated with a Markalian smuggling operation.#
 WORF: Not exactly. That man arrived on the station this afternoon and came directly here. I believe the Ferengi bartender is plotting something with him.#
 WORF: If he is a known criminal, why does your security chief not do anything about him?#
-WORF: Yes. But not in prison. Medical Officer's log, stardate 49066.5 Chief O'Brien and I have concluded our bio-survey of Merik Three in the Gamma Quadrant. We're on course back to the wormhole and should arrive at the station two days ahead of schedule.#
+WORF: Yes. But not in prison.#
 WORF: We cannot allow him to continue these criminal activities.#
 WORF: I'm not questioning his competence.#
 WORF: Seven.#
@@ -165,7 +165,8 @@ WORF: Congratulations, Doctor.#
 WORF: Understood. Stand by.#
 WORF: Commander Dax?#
 WORF: Bridge to Engine Room. Initialise subspace matrix, Mister Eddington.#
-WORF: Launch the probe. (As soon as the probe enters the wormhole, the whole thing goes KaBOOM and the shock wave hits the Defiant.) WORF: Report.#
+WORF: Launch the probe.#
+WORF: Report.#
 WORF: Bridge to Engine room. Mister Eddington, Doctor Kahn, can you hear me?#
 WORF: These response times are unacceptable, Ensign.#
 WORF: I want these response times reduced by fifteen percent. Schedule another drill.#
@@ -208,10 +209,11 @@ WORF: I require your assistance. I need a weapon.#
 WORF: If my plan is going to work, the probe will not be available. I need something else.#
 WORF: I only need one shot. How long will it take you to make the modifications?#
 WORF: Proceed.#
-WORF: Good work. Take your posts. WORF: Mister O'Brien.#
+WORF: Good work. Take your posts.#
+WORF: Mister O'Brien.#
 WORF: The Jem'Hadar are out there. You can be certain of that.#
 WORF: Stand by, Mister Stevens.#
-WORF: Now. (Defiant comes up behind the Jem'Hadar with a sustained phaser beam. KaBOOM!)#
+WORF: Now.#
 WORF: Proceed at your discretion, Mister Stevens.#
 WORF: How long will the repairs take?#
 WORF: Captain Sisko made it a personal request that I attend. He seems to have taken some interest in the young Ferengi.#
@@ -220,7 +222,7 @@ WORF: How much?#
 WORF: I was just about to leave.#
 WORF: No. It might make the Dahar Master uncomfortable. I am considered an outcast by most Klingons.#
 WORF: This is a great honour.#
-WORF: Yes. Please.  I have heard stories about you since I was a child. Your confrontation with Kirk on Organia, your attack on Romulus, your defence of the Korama Pass#
+WORF: Yes. Please.  I have heard stories about you since I was a child. Your confrontation with#
 WORF: The Sword of Kahless.#
 WORF: Lost for a millennium. It's return would change Klingon history. If you know where it is, we must bring it back to the Emperor.#
 WORF: It would be an honour to accompany you, if you will have me.#
@@ -255,7 +257,7 @@ WORF: With it he slew Molor, conquered the Fek'Ihri and forged the first Empire.
 WORF: This is Toral, from the House of Duras.#
 WORF: The Sword is for the Emperor.#
 WORF: You think that if you give the Emperor the Sword, he will restore your family's seat on the High Council.#
-WORF: If he wants it, give it to him. (Kor holds the blade out then hits Toral with it. The fight is joined. Kor kills Toral's aide and Worf gets stabbed in the shoulder but kills his attacker with the blade. Dax knocks out the Lethean.)#
+WORF: If he wants it, give it to him.#
 WORF: That is a Klingon jamming signal.#
 WORF: Maybe from the surface.#
 WORF: We should keep moving. Toral will find a way past the forcefield.#
@@ -285,7 +287,8 @@ WORF: I ran away into the mountains. I was without food or water for three days.
 WORF: And for a time, I thought that I had fulfilled my destiny, but I now see that Kahless had something else in mind for me. Something, something greater. That is why I had to endure so much pain, why I was forced to choose between the Federation and my own people. I was being tested, prepared for some greater purpose.#
 WORF: More than that. When I held the Sword in my hands, I felt the spirit of Kahless himself had guided me to it. Don't you see? He wants me to have it. He wants me to lead his people!#
 WORF: Kor is an old man. His greatest days are behind him. Mine are still ahead.#
-WORF: Wait. There (Worf sees another path past a narrow ledge. Dax goes first, Worf second, Kor and the sword last. Kor slips, Worf grabs the sword and Kor is dangling from the other end of it. Dax hangs onto Worf.) WORF: Kor, there is a ledge right below you.#
+WORF: Wait. There#
+WORF: Kor, there is a ledge right below you.#
 WORF: It is less than one metre down. Let go and you'll land on it.#
 WORF: I can't hold you! You'll have to let go.#
 WORF: It is there.#
@@ -306,12 +309,12 @@ WORF: I have had enough!#
 WORF: His eyes. He has been staring at me for three hours.#
 WORF: This ends here.#
 WORF: You stay out of this!#
-WORF: No, no. He has the Sword. HIv DaH! (Worf and Dax join in. Once again the Lethean is about to get his hands on Dax's head so Kor throws Sword into his back. Worf finishes off his opponent, pulls it out of the Lethean's back and kills the last Klingon.)#
+WORF: No, no. He has the Sword. HIv DaH!#
 WORF: Yes. Yes, it is the only way.#
 WORF: But are we ready for it? The Sword turned you and me against each other. Imagine how it would divide the Empire.#
 WORF: The Sword is not meant for us. It was never our destiny to find it.#
 WORF: It is done.#
-WORF: When it is destined to be found, it will be. (And the Sword floats on through the vastness of space, a small but sharp hazard to navigation.)#
+WORF: When it is destined to be found, it will be.#
 WORF: Magnetic interlocks are failing. Warp core breach is imminent.#
 WORF: Ten seconds to warp core breach.#
 WORF: May I see your invitation?#
@@ -325,7 +328,7 @@ WORF: I do not understand. Where's the rest of your money?#
 WORF: You're quite a baccarat player, Mister Merriweather.#
 WORF: Right now.#
 WORF: Making a mistake.#
-WORF: Ten minutes ago we received a recording of a high level diplomatic conference that took place between the Federation and the Romulan Empire on Earth a few days ago. Computer, begin replay at time index five nine eleven. (The viewscreen shows a bunch of aliens milling around an oval table on stardate 49170.65, then there's a bang and static.)#
+WORF: Ten minutes ago we received a recording of a high level diplomatic conference that took place between the Federation and the Romulan Empire on Earth a few days ago. Computer, begin replay at time index five nine eleven.#
 WORF: Of unknown composition.#
 WORF: Computer, restart recording at time index five nine one six, one tenth normal speed. Freeze picture. Enlarge section F three and enhance.#
 WORF: Keep your eye on the piece of pottery. Computer, resume at one tenth speed.#
@@ -397,7 +400,8 @@ WORF: I will not debate this with you, Kurn. What is done is done.#
 WORF: Kurn, I know this has been difficult for you.#
 WORF: By killing you?#
 WORF: You have been wronged in this life. There is nothing left here for you. No honour, no future.#
-WORF: May this blade speed you on your journey. (Worf holds the two-pronged dagger above his head. Kurn opens his shirt.) WORF: Goodbye, my brother.#
+WORF: May this blade speed you on your journey.#
+WORF: Goodbye, my brother.#
 WORF: This is not your concern! It is a private matter!#
 WORF: You are well within your right to do so.#
 WORF: Captain, I do not have an answer. Sir, I realise my actions were in violation of Starfleet regulations, but#
@@ -478,7 +482,8 @@ WORF: Chief O'Brien has done an excellent job. This is a fine ship. But it is my
 WORF: You exaggerate, as usual.#
 WORF: It would seem so.#
 WORF: A Klingon warrior does not need the praise of his teacher.#
-WORF: Listen. (A thumping noise in the ceiling. Worf opens the panel with his bat'leth and a thief falls out. Small items scatter everywhere.) WORF: Do not move.#
+WORF: Listen.#
+WORF: Do not move.#
 WORF: This p'tak just robbed my quarters.#
 WORF: And you will have one. But I want to know why such a security breach was allowed to occur in the first place.#
 WORF: They did not happen on the Enterprise.#
@@ -598,7 +603,7 @@ WORF: Perhaps. But it is also possible that her cargo is so valuable to the Maqu
 WORF: No, sir. Deep Space Nine seems to be under a communications blackout.#
 WORF: You!#
 WORF: How did you do it?#
-WORF: I ordered a glass of prune juice from the replicator in the Defiant's mess. This is what it came in. (The mug is emblazoned with Quarks. Free refill. Limit one per customer. When tilted, the jingle plays.)#
+WORF: I ordered a glass of prune juice from the replicator in the Defiant's mess. This is what it came in.#
 WORF: Prune juice, extra large.#
 WORF: Thank you.#
 WORF: Restricting the Defiant to guard duty would be a serious mistake.#
@@ -637,7 +642,7 @@ WORF: Something must be interfering with our equipment.#
 WORF: It would appear we no longer have the element of surprise.#
 WORF: This way.#
 WORF: Keep moving.#
-WORF: I think we have waited long enough. (Worf puts down his satchel, which morphs to knock down the entering Jem'Hadar)#
+WORF: I think we have waited long enough.#
 WORF: Here, Captain.#
 WORF: Chief, I'm certain Doctor Bashir and Major Kira are taking good care of your wife.#
 WORF: The Volga. It's been damaged. Doctor Bashir is requesting emergency transport to the Infirmary. Two patients. Major Kira, Keiko O'Brien.#
@@ -700,7 +705,7 @@ WORF: Give this to your son.#
 WORF: You want proof? Take our polaron emitters and use them on Gowron.#
 WORF: Since when is it treasonous to act in the best interests of the Empire?#
 WORF: You could challenge him to honourable combat.#
-WORF: It is your death. (Gowron and Worf duel. Sisko shoots a Klingon who aims a gun at Worf. Gowron knocks out another who gets up on the stage to help.)#
+WORF: It is your death.#
 WORF: Why not? You told us that the Martok changeling was the one who pushed for the attack on the Federation.#
 WORF: Strategically, the planet's location would make it difficult to maintain adequate supply lines, but not impossible.#
 WORF: A warship. A Jem'Hadar warship.#
@@ -737,7 +742,8 @@ WORF: It is the power of his voice, the strength of his intonation that make Bar
 WORF: I prefer traditional opera performed in the traditional manner.#
 WORF: Did you see her?#
 WORF: She was glorious.#
-WORF: I have never seen such a woman. Who is she? What house is she from? I do not recognise her family crest. (Grilka goes over to Quark, makes a pretence of going for her dagger, then they embrace.) WORF: She's a friend of the Ferengi.#
+WORF: I have never seen such a woman. Who is she? What house is she from? I do not recognise her family crest.#
+WORF: She's a friend of the Ferengi.#
 WORF: Why?#
 WORF: Why?#
 WORF: A marriage of convenience.#
@@ -868,7 +874,7 @@ WORF: I am merely observing that the Klingons never would have attacked if had t
 WORF: You cannot be certain of that.#
 WORF: The two of you dishonour each other with your actions.#
 WORF: Terminating a relationship should not be taken so frivolously.#
-WORF: Oh, no. no. Just the ones that are important. (There's a commotion outside. A group of Essentialists with phaser rifles threaten guests and tear down curtains.)#
+WORF: Oh, no. no. Just the ones that are important.#
 WORF: Wait.#
 WORF: I cannot condone what you have done.#
 WORF: We need to talk.#
@@ -946,7 +952,7 @@ WORF: Something is interfering with the integration matrix.#
 WORF: Boost the gain on the energising coils.#
 WORF: The device is typically used by the Romulans. However, it is sold on the black market.#
 WORF: It will be difficult. Our sensor logs show that Major Kira masked her engine emissions with a polaron field. The runabout's particle#
-WORF: Aye, sir. Kira Nerys, personal log, stardate 50416.2. I've eliminated three of the suspects from Odo's list. I'm satisfied that none of them could've committed the murders. The fourth name is Silaran Prin, a Cardassian living on a planet near the DMZ.#
+WORF: Aye, sir.#
 WORF: Constable. Why are you talking to your beverage?#
 WORF: Twenty two minutes.#
 WORF: They're on patrol in the DMZ, near the Gamma seven outpost.#
@@ -960,7 +966,7 @@ WORF: He launched three stratospheric torpedoes at the planet and spread cobalt 
 WORF: The Cardassians are already evacuating. And Eddington has announced that the Maquis intend to reclaim the planet once they are gone.#
 WORF: The Malinche is our only ship in the sector.#
 WORF: Recalibrate phaser banks one and two.#
-WORF: Aye, sir. Captain's log, supplemental. After completing a series of readiness drills, we've entered the plasma fields of the Badlands and begun our search for Eddington.#
+WORF: Aye, sir.#
 WORF: Check the status of torpedoes three and four. We have an energy variance reading on the plasma warheads. Transfer power#
 WORF: Phaser banks charged.#
 WORF: Locked.#
@@ -1014,7 +1020,7 @@ WORF: I'm certain of it.#
 WORF: We've got to get clear of the nebula.#
 WORF: They have us in a tractor beam.#
 WORF: Let him go.#
-WORF: General Martok. (Martok gets thrown. He gets up and hits a light then carries on being pummelled.)#
+WORF: General Martok.#
 WORF: I am Worf, son of Mogh.#
 WORF: Not when there are still enemies to fight.#
 WORF: What is wrong with him?#
@@ -1023,10 +1029,10 @@ WORF: Who?#
 WORF: If the blood screenings can be trusted.#
 WORF: You are not to blame.#
 WORF: We must escape and warn Captain Sisko before that changeling carries out his mission.#
-WORF: Then I suggest we find a way out of here. Captain's log, supplemental. A full scale Dominion invasion appears imminent. Still, I remain confident in my crew's ability to face this crisis as they have so many others, with dedication and with courage.#
+WORF: Then I suggest we find a way out of here.#
 WORF: We must warn the station. There is only one reason for the Dominion to hide such a large fleet this close to the wormhole.#
 WORF: General Martok.#
-WORF: The transmitter Tain used to contact the station. Where is it? (Bashir gets a piece of metal from under Tain's bunk and uses it as a key to open a lower section of the wall.)#
+WORF: The transmitter Tain used to contact the station. Where is it?#
 WORF: How did he operate it?#
 WORF: Could the coordinates and the message be changed?#
 WORF: We could activate the transporter and beam ourselves onto the ship.#
@@ -1094,7 +1100,8 @@ WORF: There is no human word for it. It is a moment of clarity between two warri
 WORF: Thank you, sir.#
 WORF: Q'apla!#
 WORF: Officially, there is no House of Mogh in the Empire, so I saw little point in wearing its emblem on a Klingon ship.#
-WORF: How they feel is unimportant. All I require from them is obedience. DAX Spoken like an uncaring, hard-nosed, autocrat. The quintessential First Officer. WORF: I do not wish to have a lengthy goodbye.#
+WORF: How they feel is unimportant. All I require from them is obedience.#
+WORF: I do not wish to have a lengthy goodbye.#
 WORF: Good.#
 WORF: Jadzia.#
 WORF: I think it would be better to part company here on the station.#
@@ -1141,7 +1148,7 @@ WORF: They are Klingon warriors, we just cannot#
 WORF: Stations! Stations!#
 WORF: No.#
 WORF: The only thing I can do. Challenge Martok for command of this ship.#
-WORF: I know. But if the General will not step aside I will have to kill him. (Later, Kornan and Leskit are talking quietly. Tavana takes out her disruptor pistol and puts it on her console, ready. Kornan and Leskit approach Worf.)#
+WORF: I know. But if the General will not step aside I will have to kill him.#
 WORF: That is not your decision.#
 WORF: I shed no tears for your dishonour, Leskit.#
 WORF: Unlikely.#
@@ -1250,12 +1257,14 @@ WORF: At us or the convoy?#
 WORF: Reinitialise primary sensors.#
 WORF: Of course it is gone. You forgot to erase the battle simulation programme from the sensor display.#
 WORF: They have accepted him as the ship's fool.#
-WORF: This is a kar'takin, a weapon favoured by the Jem'Hadar. Defend yourself. (A straight blade on a short pole, like a pike. Alexander is using a bat'leth.) WORF: No, that is not the proper grip. The thumbs must be opposed so that twisting motions will not#
+WORF: This is a kar'takin, a weapon favoured by the Jem'Hadar. Defend yourself.#
+WORF: No, that is not the proper grip. The thumbs must be opposed so that twisting motions will not#
 WORF: Then proceed.#
 WORF: No. Do not try to shove my blade away. Deflect it and then use your momentum to counter.#
 WORF: Then do it.#
 WORF: No. Do not try to fight force with force. You will lose every time.#
-WORF: What did I tell you? Well, pick it up! If you had kept practicing what I taught you when you were a boy this would be second nature to you by now. (Alexander swings at Worf, and they go at it briefly before Alexander is disarmed again.) WORF: What is wrong with you?#
+WORF: What did I tell you? Well, pick it up! If you had kept practicing what I taught you when you were a boy this would be second nature to you by now.#
+WORF: What is wrong with you?#
 WORF: Like what?#
 WORF: Alexander#
 WORF: We are not playing in holosuites now. This is war. The Jem'Hadar will cut you to pieces.#
@@ -1273,7 +1282,7 @@ WORF: Come.#
 WORF: I cannot change the mistakes I have made, but from this day forward, I promise will stand with you.#
 WORF: Yes, we will. What you are about to do entails a grave obligation. Do not accept it lightly.#
 WORF: Good. I will teach you what you need to know to be a warrior, and you will teach me what I need to know to be a father. Come.#
-WORF: Alexander, vih-nob dok-tog. (Alexander offers Martok his dagger. Martok uses it to draw blood from his own palm, then mixes it with oil in the bowl and sets fire to it.)#
+WORF: Alexander, vih-nob dok-tog.#
 WORF: Well done, Captain. You were a very effective decoy.#
 WORF: I will be waiting.#
 WORF: They're not interrogating you, Mister Garak, they are debriefing. There is a difference.#
@@ -1315,7 +1324,8 @@ WORF: Blood, pain, sacrifice, anguish and death.#
 WORF: It is time to begin.#
 WORF: As you wish.#
 WORF: Now begins the trial of blood.#
-WORF: Who will be the first? (Sisko, O'Brien and Alexander all take one step back to leave someone who is almost asleep on his feet.) WORF: I did not expect it to be you, Doctor.#
+WORF: Who will be the first?#
+WORF: I did not expect it to be you, Doctor.#
 WORF: Do not worry. The pain will last for only a moment.#
 WORF: Jadzia, we need to#
 WORF: I am concerned.#
@@ -1451,7 +1461,8 @@ WORF: More pain, less cold.#
 WORF: Five hundred metres that way.#
 WORF: Less than three hundred metres.#
 WORF: When I was a boy, my father used to take my brother and me on camping trips in the Ural mountains. Every night we would listen to the wolves howling in the distance. Nikolai was afraid of them, but I would lay in my tent for hours just listening. I remember being seized by the urge to just strip off my clothes and run into the night to live in the forest and become something wild.#
-WORF: Yes, but it's because something is coming. And it is close. (They throw everything behind a fallen tree trunk and take cover. Three Jem'Hadar enter the clearing. Dax shoots the first and Worf the second, shots are exchanged then Worf throws his mek'leth to kill the third.) WORF: Jadzia?#
+WORF: Yes, but it's because something is coming. And it is close.#
+WORF: Jadzia?#
 WORF: Lie still.#
 WORF: No vital organs were damaged.#
 WORF: The disruptor burst left an anti-coagulant in your system.#
@@ -1467,7 +1478,7 @@ WORF: That was a mistake.#
 WORF: It means if I had not been joking with you, I would not have allowed the Jem'Hadar to get so close.#
 WORF: No. It is mine. I was trying to be something I am not. By letting down my guard, by ignoring my duty, I allowed my wife to be injured and I put the entire mission in jeopardy. It will not happen again.#
 WORF: I do not wish to debate this. We have a long way to go and very little time.#
-WORF: Ready? (Near a waterfall they clamber over a fallen tree, and she collapses in pain.)#
+WORF: Ready?#
 WORF: I have to change your dressing.#
 WORF: Jadzia, I know you are tired, but we have to cover three kilometres before nightfall. Can you do it?#
 WORF: When this mission is over, I will smile all you want.#
@@ -1527,7 +1538,7 @@ WORF: If it were Dax, I am not sure I could have done the same.#
 WORF: For your sake, I hope the Prophets are victorious.#
 WORF: Come on.#
 WORF: They are the only thing that's keeping the Dominion from coming through the wormhole.#
-WORF: Go ahead. {Corridor] DAX Meet me at airlock eight. We're leaving. (Dax and the Kai come out of a turbolift onto another corridor. There's a woman and children scared by the exploding fittings.)#
+WORF: Go ahead.#
 WORF: That location is inside Dominion held space.#
 WORF: The Valiant was reported lost over eight months ago. It could be a Dominion ruse to lure us into their territory.#
 WORF: I cannot think of any.#
@@ -1616,6 +1627,7 @@ WORF: Very smooth. Good night, Chief.#
 WORF: I enjoyed it.#
 WORF: About what?#
 WORF: Who can forget him?#
+WORF:#
 WORF: I don't.#
 WORF: How dangerous?#
 WORF: In that case, you have found your first officer.#
@@ -1639,7 +1651,7 @@ WORF: We have to get closer. Much closer.#
 WORF: Fire!#
 WORF: No. Not until we complete our mission.#
 WORF: It is everything I hoped for.#
-WORF: Full impulse. (The bird of prey flees ahead of the solar ejection which takes out the Jem'Hadar and then the shipyard.)#
+WORF: Full impulse.#
 WORF: Lohm Ict lihj. posh Machh lodge Sto-vo-kor Jadzia Dax pailodge pah dock Lih Dun. Shoo vwee vahm baht leh paolodge. Pailodge Poh Hokh Vahd Sto-vo-kor.#
 WORF: Welcome back, Captain.#
 WORF: Dax?#
@@ -1754,7 +1766,8 @@ WORF: Interesting. My sinuses are clear for the first time in years. See if this
 WORF: I will deal with the Intendant in my own way and in my own time. But first, I want that cloaking device!#
 WORF: Think of it. With a fleet of cloaked ships I will be able to crush the rebellion once and for all.#
 WORF: We will see.#
-WORF: You. Come here. Your Regent needs you. ; WORF: Nice fit.#
+WORF: You. Come here. Your Regent needs you.#
+WORF: Nice fit.#
 WORF: Is there a problem, Ferengi?#
 WORF: Victory is finally in my grasp. I want this operational within the hour.#
 WORF: Do we?#
@@ -1866,7 +1879,7 @@ WORF: Jadzia explained to me that joined Trill are not supposed to become involv
 WORF: We must be on a Breen ship.#
 WORF: Perhaps you would rather be on the station with Captain Boday.#
 WORF: They will be feeding us soon. If we could position ourselves on both sides of the door, we might be able to disarm the first Breen that comes through.#
-WORF: We must not give up. The first duty of every captured officer is to attempt escape. (The door opens. The first Breen points a weapon at Worf, the second throws tins to the pair.)#
+WORF: We must not give up. The first duty of every captured officer is to attempt escape.#
 WORF: They say no one has ever seen one and lived to speak of it.#
 WORF: One thing is certain.#
 WORF: They are dangerous. They do not tolerate incursions into their space. During the Second Empire, Chancellor Mow'ga sent a fleet of Klingon ships to conquer their homeworld, and they were never heard from again. We have been travelling for three days. We could be in Breen space by now.#

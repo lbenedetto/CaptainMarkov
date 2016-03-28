@@ -10,7 +10,7 @@ KIRA: The provisional government and I don't agree on a lot of things which is p
 KIRA: Help us. Yes, I know. The Cardassians said the same thing sixty years ago.#
 KIRA: Odo, are you reading something at A-fourteen?#
 KIRA: We've been having a lot of break-ins lately. No need for you to come along, Commander.#
-KIRA: Hold it! (The alien throws a morning-star at Odo, who morphs his head so it goes straight through and sticks in the bulkhead behind him. The alien then tries to run, Odo grabs him and Sisko fires his phaser.)#
+KIRA: Hold it!#
 KIRA: Odo, this is our new Starfleet Commander.#
 KIRA: Quark probably sent the two of them here to steal the ore samples in the first place.#
 KIRA: Everyone else is busy repairing the primary systems. I suppose Starfleet officers aren't used to getting their hands dirty.#
@@ -196,7 +196,7 @@ KIRA: What?#
 KIRA: Chief, you're not making any sense.#
 KIRA: Chief, wait.#
 KIRA: Chief!#
-KIRA: What is that? What's he written? (The PADD says 'Flame the dark true, salt way link, complete strike, limits victory, frosted wake, simple hesitation)#
+KIRA: What is that? What's he written?#
 KIRA: What's wrong with him?#
 KIRA: I've already examine it, Commander. He's been all over the station.#
 KIRA: That's not possible. All the food on the station is replicated, and all the replicators use biofilters. They automatically screen out contaminants including viruses.#
@@ -326,7 +326,7 @@ KIRA: You two.#
 KIRA: What do they want?#
 KIRA: Behavioural test? Now wait a minute.#
 KIRA: Oh, no. I'm sure all you Starfleet explorers find this fascinating, but I'm a Bajoran administrator. This is not what I signed up for.#
-KIRA: Well, this is the first door that's opened for us. I want to know where it goes. (But Kira gets zapped by a forcefield while the girl is passes through it.)#
+KIRA: Well, this is the first door that's opened for us. I want to know where it goes.#
 KIRA: I'll be okay.#
 KIRA: Rhymes and riddles and mazes. What's the logic behind all this? what do they want from us?#
 KIRA: The Wadi do love games.#
@@ -354,7 +354,7 @@ KIRA: The Miradorn ship is scanning the freighter. Doesn't look like they're rea
 KIRA: Ops to Miradorn vessel. Please hold your position. Stand by for departure instructions.#
 KIRA: Miradorn vessel, you are in violation of Bajoran transit regulations. Please return at once to the docking ring.#
 KIRA:  Warn me? About what?#
-KIRA: I'm a big girl, Commander. (Kira takes the chip and puts it into the desk monitor as the others leave)#
+KIRA: I'm a big girl, Commander.#
 KIRA: A minor operative whose activities are limited to running errands for the terrorist leaders?#
 KIRA: Is something wrong, Opaka?#
 KIRA: It's interesting you chose this viewport. The wormhole is just out there.#
@@ -390,7 +390,7 @@ KIRA: We have to be ready!#
 KIRA: What if they use the opportunity to set a trap?#
 KIRA: What?#
 KIRA: Me? No, not at all, I. They're content to die. I've always fought to stay alive. I don't want you to have the wrong impression of me, Opaka.#
-KIRA: That I enjoy any of this. I don't enjoy fighting. Yes, I've fought my entire life, but for a good cause, for our freedom, our independence. And it was brutal and ugly and I. But that's over for me now. That's not who I am. I don't want you to think that I am this violent person without a soul, without a conscience. That is not who I am. (Opaka takes hold of Kira's left ear, and she falls into Opaka's arms, sobbing.)#
+KIRA: That I enjoy any of this. I don't enjoy fighting. Yes, I've fought my entire life, but for a good cause, for our freedom, our independence. And it was brutal and ugly and I. But that's over for me now. That's not who I am. I don't want you to think that I am this violent person without a soul, without a conscience. That is not who I am.#
 KIRA: I've known nothing but violence since I was child.#
 KIRA: I'm afraid the Prophets won't forgive me.#
 KIRA: Is there a cease-fire?#
@@ -516,7 +516,7 @@ KIRA: Last one.#
 KIRA: It's finished.#
 KIRA: You've finished your work, now I have to finish mine.#
 KIRA: I could use a friend on Bajor. I'd like it to be you.#
-KIRA: Saving your life. (She takes a fire brand and sets fire to the cottage. It catches frighteningly quickly.)#
+KIRA: Saving your life.#
 KIRA: That's not true. The time I've spent with you here has meant so much to me, but it's over. It's time we went on with our lives. Mine and yours.#
 KIRA: I can't.#
 KIRA: No, you won't. I won't let you. Two to beam up.#
@@ -530,7 +530,7 @@ KIRA: Wait a minute. If it didn't work very well last time, why#
 KIRA: And if we can't, we destroy the whole Bajoran system.#
 KIRA: Kira to Odo.#
 KIRA: I need you to do a security sweep through the pylons. We're going to evacuate them.#
-KIRA: Kira to Ops. Lower pylon one is gone. I need emergency (A burning man comes running round the corner, screaming, and into the turbolift, where he vanishes.)#
+KIRA: Kira to Ops. Lower pylon one is gone. I need emergency#
 KIRA: Disregard, Commander. False alarm. Kira out.#
 KIRA: All personnel in lower pylon one, report to outer ring airlock. Prepare for evacuation.#
 KIRA: All pylons are secured. Everyone's been moved to the habitat ring for the time being.#
@@ -594,7 +594,7 @@ KIRA: Exactly. And that's just what I need right now. Your cooperation. I'm conv
 KIRA: Yes.#
 KIRA: That won't be necessary. Commander Sisko's very busy. There's no sense in disturbing him.#
 KIRA: I can't fool you, Odo.#
-KIRA: Forget it. Bad idea. What if you had to choose sides? Just remember who your friends are. Personal log, Miles O'Brien. Stardate 46923.1. We've managed to retrieve a portion of the Klingon Officer's journal. Of course, Major Kira heard about it immediately. She must have spies everywhere.#
+KIRA: Forget it. Bad idea. What if you had to choose sides? Just remember who your friends are.#
 KIRA: The Klingon's mission must have failed. That failure caused problems on board.#
 KIRA: The bad flattery's on the house.#
 KIRA: Get lost.#
@@ -607,7 +607,8 @@ KIRA: My disagreement with Sisko over the Valerians is no secret. Well, you know
 KIRA: You told me this story this morning.#
 KIRA: If you were to talk to Starfleet Command, tell them how displeased the Bajorans are with Sisko's handling of this. I know they'll listen to you#
 KIRA: Dax. We have to keep the Valerians here until we can search their ship and confiscate the dolamide. You've got to convince Starfleet it's for the good of Bajor and the Federation.#
-KIRA: Jadzia, listen to me. I'm getting rid of Sisko one way or another. Don't force me to get rid of you as well. (There's a clatter of glasses and Kira hauls Quark over the bar by the collar) KIRA: Would you like to join us?#
+KIRA: Jadzia, listen to me. I'm getting rid of Sisko one way or another. Don't force me to get rid of you as well.#
+KIRA: Would you like to join us?#
 KIRA: What did you hear?#
 KIRA: Good.#
 KIRA: It's not nice to keep a friend waiting.#
@@ -751,7 +752,8 @@ KIRA: Why are you doing this?#
 KIRA: What you're asking for is another murder. Enough good people have already died. I won't help kill another.#
 KIRA: You should be back on Kora Two in three days.#
 KIRA: We've contacted officials there. They'll be waiting to help you.#
-KIRA: What you tried to do was very honourable. If Cardassia is going to change, it's going to need people like you. (Kainon runs up behind Marritza and stabs him in the back. Odo grabs Kainon. Marritza dies in Kira' arms.) KIRA: Why? He wasn't Darhe'el! Why?#
+KIRA: What you tried to do was very honourable. If Cardassia is going to change, it's going to need people like you.#
+KIRA: Why? He wasn't Darhe'el! Why?#
 KIRA: No! It's not.#
 KIRA: I heard. Vedek Winn has been meeting with some of the Bajoran civilians about it.#
 KIRA: She's from an orthodox order. She has some support to become the next Kai. Probably not enough.#
@@ -833,11 +835,13 @@ KIRA: I hope you're right.#
 KIRA: More than you could afford.#
 KIRA: He wouldn't know what to do with me.#
 KIRA: From a boy like you? Ha! I don't think you're capable of it.#
-KIRA: All right. (She starts to unfasten her top then thumps him in the face. More punches, he's down, the other guard gets shot and Kira gets the forcefield open. O'Brien takes out the man on the ridge.) KIRA: Li Nalas!#
+KIRA: All right.#
+KIRA: Li Nalas!#
 KIRA: Major Kira Nerys. We've come to get you out of here.#
 KIRA: Yes.#
-KIRA: Come on. (Li is wounded by another guard up the cliff, but O'Brien gets him. A prisoner at the back of the group is killed.) KIRA: Come on. We have a ship waiting. (The group run out of the compound, pursued by Cardassians. They get around a corner in the cliff face.)#
-KIRA: You have my word. Come on. Come on. ;#
+KIRA: Come on.#
+KIRA: Come on. We have a ship waiting.#
+KIRA: You have my word. Come on. Come on.#
 KIRA: Come on.#
 KIRA: Not yet. Some of the others still might make it.#
 KIRA: Take us home, Chief.#
@@ -998,7 +1002,8 @@ KIRA: Used to be the guys flying these ships. Test the phaser banks.#
 KIRA: Good.#
 KIRA: Sure there is.#
 KIRA: With your eyes, Lieutenant, not your pants. Just point at them and fire.#
-KIRA: Hang on. (Kira does a look to come up behind one of their chasers, and Dax eventually hits it. The ship crashes into a hillside.) KIRA: Where the hell's the other one?#
+KIRA: Hang on.#
+KIRA: Where the hell's the other one?#
 KIRA: I think we found him.#
 KIRA: They must have hit a plasma conduit.#
 KIRA: Check under the seat.#
@@ -1191,7 +1196,7 @@ KIRA: Do you sleep with them both?#
 KIRA: No, I don't have any males. Not at the moment, anyway.#
 KIRA: Yes, I can imagine they are. I just wanted to tell you we found some of your ships. Several hundred Skrreeans should be arriving at the station today. We thought it would be a good idea if you were there to meet them.#
 KIRA: You yourself said most of your leaders were dead.#
-KIRA: You also were the first one through the Eye of the Universe. That's got to mean something, in some symbolic sort of way. Oh, here. I brought you something. Go ahead, open it.#
+KIRA: You also were the first one through the Eye of the Universe. That's got to mean something, in some symbolic sort of way. Oh, here.  I brought you something. Go ahead, open it.#
 KIRA: You seemed to like it.#
 KIRA: What do you mean?#
 KIRA: Well, that makes two of us.#
@@ -1443,7 +1448,8 @@ KIRA: Could you take it for a while?#
 KIRA: Actually, I do. I was hoping to meditate for a few minutes.#
 KIRA: Every day.#
 KIRA: You'll have to give me a few tips some time.#
-KIRA: We just usually like to sit quietly. (Bashir breathes in through his nose then out in a series of loud ha!s.) KIRA: What are you doing?#
+KIRA: We just usually like to sit quietly.#
+KIRA: What are you doing?#
 KIRA: How about some music?#
 KIRA: I'm afraid my musical knowledge is limited to Bajoran composers.#
 KIRA: You know Tor's work?#
@@ -1460,7 +1466,7 @@ KIRA: My mistake.#
 KIRA: Forget it.#
 KIRA: Take us out of warp.  What's wrong?#
 KIRA: Injector controllers are locked. I'm trying to compensate.#
-KIRA: Injectors opening. Velocity falling. ;#
+KIRA: Injectors opening. Velocity falling.#
 KIRA: Initiating emergency stabilisation control.#
 KIRA: A little dizzy.#
 KIRA: We'd better get O'Brien to take a look. What the hell?#
@@ -1518,7 +1524,8 @@ KIRA: You know I'm looking for a way back. A transporter was responsible for the
 KIRA: You're very busy.#
 KIRA: I guess I am a little afraid of you.#
 KIRA: What are you doing in my quarters, Garak?#
-KIRA: What are you talking about? GARAK In love with you, my dear. She's all a-twitter about you, can't talk about anyone else. You're the perfect gift for the girl who has everything. She's taken you into her heart like a Drathan puppy lig left on her doorstep. Who else could she share her deepest secrets with, tell her troubles to, trust with her life? KIRA: All you have to do is take a look at the guard outside to see how much she trusts me.#
+KIRA: What are you talking about?#
+KIRA: All you have to do is take a look at the guard outside to see how much she trusts me.#
 KIRA: You're taking quite a risk coming to me like this.#
 KIRA: How?#
 KIRA: What?#
@@ -1727,7 +1734,7 @@ KIRA: They're powering their weapon systems.#
 KIRA: They're getting closer.#
 KIRA: The other one has broken off its search. It's headed this way.#
 KIRA: They've gone into warp and resumed their original course.#
-KIRA: Let's hope it's not the last. Ship's log, stardate 48212.4. We have arrived at the Karemma homeworld and opened talks with one of Quark's business partners in an effort to contact the Founders of the Dominion.#
+KIRA: Let's hope it's not the last.#
 KIRA: Did I wake you?#
 KIRA: It's about Odo.#
 KIRA: Is it that obvious?#
@@ -1763,7 +1770,7 @@ KIRA: Odo, what happened? We were under attack.#
 KIRA: Sisko? Bashir?#
 KIRA: Where are we?#
 KIRA: You should have taken us back to the wormhole.#
-KIRA: I was unconscious. Have you found anything? There's a class M planet, no star system. A rogue planet?#
+KIRA: I was unconscious. Have you found anything?  There's a class M planet, no star system. A rogue planet?#
 KIRA: What the hell is wrong with Starfleet? How could they do this to him?#
 KIRA: Sisko? Bashir?#
 KIRA: Odo, this isn't a police investigation.#
@@ -1813,7 +1820,7 @@ KIRA: Right.#
 KIRA: What?#
 KIRA:  Must be some kind of human thing.#
 KIRA: Me, too.#
-KIRA: Thanks. This looks delicious. (Hotplates are on a table and the chef is at work stirring a bowl full of, well, green.)#
+KIRA: Thanks. This looks delicious.#
 KIRA: What are we having? It smells delicious.#
 KIRA: I just think you look so cute.#
 KIRA: Sounds like one of you had some talent, after all.#
@@ -1910,7 +1917,8 @@ KIRA: Everyone wants to see your quarters. It's called curiosity.#
 KIRA: The start of what?#
 KIRA: I thought it had to be something like that. I mean, you don't exactly need an entire set of quarters just to sit in your bucket.#
 KIRA: I'm sorry if I intruded. Maybe I should leave.#
-KIRA: Well, where shall we put it? (Odo gets the bucket from its hiding place and it transforms into a plant pot.) KIRA: Perfect.#
+KIRA: Well, where shall we put it?#
+KIRA: Perfect.#
 KIRA: Sounds good to me. The sooner, the better.#
 KIRA: I agree. We don't want one of them walking around this station.#
 KIRA: Can I speak to you for a moment?#
@@ -1925,14 +1933,15 @@ KIRA: We just got a recorded message from Gul Dukat regarding some worker revolt
 KIRA: One that the Cardassians never bothered to give us when they left.#
 KIRA: Kira here.#
 KIRA: Dax.#
-KIRA: All right. It's time for a less subtle approach. (She adjusts her phaser and aims it at the door control Bashir is working on.) KIRA: Doctor. (The manual lever is freed and the door opens, but there's a forcefield beyond.)#
+KIRA: All right. It's time for a less subtle approach.#
+KIRA: Doctor.#
 KIRA: Well we've got to find a way of disabling the security programme or a lot of people are going to be killed.#
 KIRA: Your home was built by Cardassians, Doctor. Don't ever forget that.#
 KIRA: How's it coming?#
 KIRA: Habitat ring. There have to be hundreds of people trapped in their quarters out there.#
 KIRA: If you can get past the forcefields, you've got to get out to the habitat ring and start evacuating those people before#
 KIRA: What are you trying to do, Garak? Get us all killed?#
-KIRA: Get down. (The Bajoran workers run before she phasers life support and the lights flicker.)#
+KIRA: Get down.#
 KIRA: Any luck?#
 KIRA: We're just going to have to take that chance.#
 KIRA: My phaser's on the Ops table. Can anyone get to it?#
@@ -1968,7 +1977,7 @@ KIRA: Oh, no. Stay. This is Tiron, a business associate of Quark's. This is Odo,
 KIRA: I'm a lucky woman.#
 KIRA: Oh, money doesn't matter. All we need is each other. Isn't that right, sweetheart?#
 KIRA: You see? Money isn't everything.#
-KIRA: Oh, good riddance. Thank you, Odo. I wish you'd been around last night. I'd better get back to Ops. See you later, sweetheart. Commander's log, stardate 48423.2. Despite the continuing threat posed by the Dominion, I've convinced Starfleet that we must continue our exploration of the Gamma Quadrant.#
+KIRA: Oh, good riddance. Thank you, Odo. I wish you'd been around last night. I'd better get back to Ops. See you later, sweetheart.#
 KIRA: Quark, I got a message that Morn wanted to see me.#
 KIRA: Quark, I don't have time for this.#
 KIRA: Why don't you make him your one millionth customer.#
@@ -2067,7 +2076,8 @@ KIRA: But I have to set up the Renewal scrolls along the Promenade. But it won't
 KIRA: Predictable?#
 KIRA: Jadzia and I have been doing this for the past two years. It's becoming a tradition.#
 KIRA: We will. Later tonight.#
-KIRA: Tesra Peldor impatri bren. (She puts a clear and a blue liquid into a glass tube. They mix and run down to a brazier.) KIRA: Bentel vetan ullon sten.#
+KIRA: Tesra Peldor impatri bren.#
+KIRA: Bentel vetan ullon sten.#
 KIRA: And now, I have the honour of placing the first Renewal Scroll into the fire. As the scrolls burn, may our troubles turn to ashes with them. And now, for the next twenty-six hours, I expect you all to enjoy yourselves. I know I will. May the Prophets walk with us.#
 KIRA: Bareil? What are you looking for?#
 KIRA: Oh Jake, how thoughtful. Thank you.#
@@ -2134,7 +2144,7 @@ KIRA: I broke my nose.#
 KIRA: Kira to Sisko. Kira to Dax. Kira to Bashir.#
 KIRA: What?#
 KIRA: What?#
-KIRA: Thank you ;#
+KIRA: Thank you#
 KIRA: Afraid not.#
 KIRA: If we limit our search to dates before twenty forty eight, how many possibilities does that leave us with?#
 KIRA: Well, pick one, Chief. Let's hope you get lucky.#
@@ -2236,7 +2246,7 @@ KIRA: On what?#
 KIRA: It must be a very difficult programme.#
 KIRA: Then why does he keep doing it?#
 KIRA: I'm glad you're here, Odo.#
-KIRA: Odo! (Rubble starts to fall. Kira tries to shield her head but Odo becomes an arc and protects her instead. The rock stops falling.)#
+KIRA: Odo!#
 KIRA: I'm all right. What about the generator?#
 KIRA: Tell it to hurry. A couple more tremors like that last one and this whole cave is going to collapse.#
 KIRA: Name three. I can't think of any either.#
@@ -2582,7 +2592,7 @@ KIRA: It reverts back to a gelatinous state.#
 KIRA: I'll go.#
 KIRA: Try not to look so surprised.#
 KIRA: You'd better come with us.#
-KIRA: Do as he says. (Bang! The door opposite opens and the occupant shouts through the forcefield.)#
+KIRA: Do as he says.#
 KIRA: We've altered course. Our new heading is zero one five mark four seven. We're headed directly for the Tzenkethi settlement on M'kemas Three.#
 KIRA: Twelve minutes.#
 KIRA: This is First Officer Kira Nerys. Auto-destruct authorisation Kira beta two beta.#
@@ -2702,9 +2712,10 @@ KIRA: I wouldn't advise it. All this ionic interference will scatter our molecul
 KIRA: That'll be the day. Going in.#
 KIRA: Only a Cardassian would call this hellhole invigorating.#
 KIRA: Don't worry about me.#
-KIRA: The Ravinok. (The wreck of the space ship is mostly buried inside the slope they've just come down.)#
+KIRA: The Ravinok.#
 KIRA: She didn't just crash. These are phaser hits.#
-KIRA: And paid for it. (Next to the ship is a circular arrangement of stone cairns, looking like the petals of a flower.) KIRA: Twelve graves.#
+KIRA: And paid for it.#
+KIRA: Twelve graves.#
 KIRA: So where's everybody else?#
 KIRA: What are you doing?#
 KIRA: I'll help.#
@@ -2742,10 +2753,11 @@ KIRA: So you sent them to a prison camp.#
 KIRA: I don't understand. If you cared enough to help Ziyal then, how can you be thinking about killing her now? Why not send her away again?#
 KIRA: Listen to you. It's not your wife or your seven children you're protecting, it's you.#
 KIRA: And the only one who suffers is Ziyal. You would kill your own daughter to save your career. I don't understand you. You said you loved Naprem. I saw you crying at her grave.#
-KIRA: Take a look. (A mineshaft is guarded by humanoids wearing complete body armour and workers are pushing a wagon inside.)#
+KIRA: Take a look.#
 KIRA: My tricorder's picking up a large concentration of dilithium in the area. They must be using the survivors of the Ravinok to mine the ore.#
 KIRA: You approve of what they're doing?#
-KIRA: What is it? (Kira snatches the binoculars from Dukat to see a teenage Cardassian/Bajoran girl ladling out water to other workers.) KIRA: It's her.#
+KIRA: What is it?#
+KIRA: It's her.#
 KIRA: All right. We're going to need some help. I'm going to stay here and keep an eye on things while you go back to DS Nine for reinforcements.#
 KIRA: I'm sending you back, Dukat. That's an order.#
 KIRA: There's no way I'm leaving you alone here.#
@@ -2857,7 +2869,7 @@ KIRA: I didn't think she was your type.#
 KIRA: We think so. She disappeared only a few hours before the first quake struck New York City.#
 KIRA: She was last seen#
 KIRA: Wait! Wait, please. Let us have one last kiss.#
-KIRA:  Earring. (Falcon turns his back as they kiss and Bashir removes the large pearl earring.)#
+KIRA:  Earring.#
 KIRA: Time to clip this bird's wings.#
 KIRA: Niet! What are you doing?#
 KIRA: Julian, what are you saying? He's been trying to kill you for nine years.#
@@ -2944,7 +2956,7 @@ KIRA: We're falling! Kira to Worf. Someone cut our comm. links.#
 KIRA: Let's have dinner.#
 KIRA: Good morning.#
 KIRA: Sure. Come on in.#
-KIRA: Lights. (An empty champagne bottle in a bucket. Two glasses. Candles. The sound of a breaking heart if Odo had one to break.)#
+KIRA: Lights.#
 KIRA: No, it's just. Edon and I.#
 KIRA: Odo, if someone had told me a year ago that this was going to happen, do you know what I would've said? You're crazy. Yes, I respect him. Yes, he makes me laugh. But we know each other too well. He's seen me go weeks without a bath. We've spent long, cold nights huddled together for warmth. There's no mystery left between us. We're friends, that's all. I guess I was wrong.#
 KIRA: This must seem so silly to you.#
@@ -3135,7 +3147,7 @@ KIRA: But there have been at least a dozen ships moving in and out of the system
 KIRA: How do we find these mines?#
 KIRA: The place to get them is docked at upper pylon three right now. The only question is how?#
 KIRA: We'll take care of it.#
-KIRA: Open a channel. This is the USS Defiant to all Klingon vessels near the Bajoran system. We are preparing to destroy your minefield. I suggest you leave immediately. This is your only warning. Anything?#
+KIRA: Open a channel. This is the USS Defiant to all Klingon vessels near the Bajoran system. We are preparing to destroy your minefield. I suggest you leave immediately. This is your only warning.  Anything?#
 KIRA: Oh, they're out there all right, and I think we'll be seeing them fairly soon. Prepare to detonate the mine in grid twenty one alpha.#
 KIRA: Send out the code.#
 KIRA: We can't say we didn't warn them. Detonate all the mines in grids twenty two alpha through forty seven gamma.#
@@ -3163,7 +3175,7 @@ KIRA: Well, he made it clear he wants to step aside.#
 KIRA: No.#
 KIRA: I don't know. What do you want from me, Odo?#
 KIRA: I don't see it as a contradiction.#
-KIRA: That's the thing about faith. If you don't have it, you can't understand it, and if you do, no explanation is necessary. (Akorem and Porta come out of the Temple below, to a lectern set up for the occasion.)#
+KIRA: That's the thing about faith. If you don't have it, you can't understand it, and if you do, no explanation is necessary.#
 KIRA: I guess I'll have to take my raktajino with me.#
 KIRA: You're not finished.#
 KIRA: You don't have to get up for me.#
@@ -3322,7 +3334,7 @@ KIRA: Then why haven't Sisko or Dax contacted us?#
 KIRA: You did. But the Captain's orders were clear. As long as we're at war with the Klingons, we need the Defiant here to help protect the station.#
 KIRA: I'm glad the two of you are in agreement. But with the Captain gone, I am in charge of the station and I say we stay.#
 KIRA: Mister Worf, the Captain has given us our orders and I intend for us to follow them until he issues new ones.#
-KIRA: On screen. (A damaged runabout, trailing flames in vacuum. Where have I seen that miracle before?)#
+KIRA: On screen.#
 KIRA: Life signs?#
 KIRA: Permission granted.#
 KIRA: Glad you made it back in one piece.#
@@ -3344,7 +3356,7 @@ KIRA: He'll need bigger quarters again.#
 KIRA: Eighteen? I just hope I can survive one.#
 KIRA: I don't feel great.#
 KIRA: Oh, really?#
-KIRA: It counts. But don't forget, this is still your fault. (In real life, Sid is the father of the child Nana was carrying at the time, remember.)#
+KIRA: It counts. But don't forget, this is still your fault.#
 KIRA: You performed the transfer from Keiko to me.#
 KIRA: After you put the idea in my head.#
 KIRA: After you insisted we check on those anomalous bio-scans.#
@@ -3585,7 +3597,7 @@ KIRA: I'm all right. My feet are a little swollen.#
 KIRA: Well, maybe.#
 KIRA: I think it's time.#
 KIRA: It's time.#
-KIRA: It's time! (The men take an arm each and pull her to and fro. Kira shakes them off and carefully gets off the bed on her own.)#
+KIRA: It's time!#
 KIRA: I'm trying to have a baby. I am sick of this ridiculous little competition between the two of you. Now, if one of you says one more word, you're going to have to leave.#
 KIRA: Right, that's it. Out, both of you.#
 KIRA: Go.#
@@ -3622,7 +3634,7 @@ KIRA: Incoming transmission. Sending over a document.#
 KIRA: Captain, closing on the Maquis ship. Seven hundred kilometres.#
 KIRA: Sir, the neutrino readings are dissipating. It's not a ship. It's an unmanned probe set to transmit a false warp signature.#
 KIRA: He's up to something outside the plasma fields.#
-KIRA: Sir, picking up a distress call. It's the starship Malinche. They've been ambushed by the Maquis. It's dead in space. (Later, at the Malinche, Sanders' hologram has definitely been in the wars. )#
+KIRA: Sir, picking up a distress call. It's the starship Malinche. They've been ambushed by the Maquis. It's dead in space.#
 KIRA: Sir, incoming transmission. It's Odo.#
 KIRA: And there are constant ion storms in that system. Good places to hide if you want to mount a surprise attack.#
 KIRA: Activate parabolic sensor array. Initiate lateral scanners. We're too late, Captain. Eddington's detonated his weapon. The nerve agent is already spreading through the planet's atmosphere.#
@@ -3673,16 +3685,17 @@ KIRA: What's he doing here?#
 KIRA: Then we're going to have our hands full. There're at least fifty Dominion ships headed our way. For all we know, that could be just the first wave.#
 KIRA: Not soon enough.#
 KIRA: You're going to destroy the wormhole?#
-KIRA: But the Celestial Temple, the Prophets SISKO Professor Kahn of the Trill Science Ministry has come up with a way to seal the wormhole without damaging it or harming the Prophets. KIRA: But Bajor will be cut off from the Celestial Temple.#
+KIRA: But the Celestial Temple, the Prophets#
+KIRA: But Bajor will be cut off from the Celestial Temple.#
 KIRA: But#
 KIRA: Our last listening post in the Gamma Quadrant just went dead.#
 KIRA: Neutrino levels in the wormhole are rising.#
-KIRA: May the Prophets forgive us. (Three beams go from DS9 to the wormhole, and it opens. Then a panel in the pit explodes. The beams stutter.)#
+KIRA: May the Prophets forgive us.#
 KIRA: Captain, the wormhole's opening.#
 KIRA: You're going to destroy the wormhole?#
 KIRA: Release docking clamps.#
 KIRA: Shields up. Power to phasers and quantum torpedoes.#
-KIRA: Bring us around. (The Defiant is joined by two Runabouts and Dukat's Klingon Bird of Prey.)#
+KIRA: Bring us around.#
 KIRA: Maintain communications blackout. Nobody fires until we have our orders from Captain Sisko.#
 KIRA: That'll just make it harder for us to miss.#
 KIRA: Open a channel. Dukat, stop trying to be a hero. Get back to the station.#
@@ -3695,7 +3708,7 @@ KIRA: The view's even better from upper pylon two.#
 KIRA: Maybe it will.#
 KIRA: Right now I wouldn't believe your father if he said rain was wet.#
 KIRA: Everyone has their reasons. That's what's so frightening. People can find a way to justify any action, no matter how evil.#
-KIRA: I think you can't judge people by what they think or say, only by what they do. Captain's log, stardate 50564.2. A large contingent of Klingon warships has arrived from Cardassian space, but its intentions, at least for the moment, remain unclear.#
+KIRA: I think you can't judge people by what they think or say, only by what they do.#
 KIRA: Captain.#
 KIRA: I just talked to Odo. Someone overrode the security blocks on the industrial replicator on level seventeen.#
 KIRA: No such luck.#
@@ -3711,7 +3724,7 @@ KIRA: How can that be?#
 KIRA: A bomb. If it explodes inside the sun#
 KIRA: And Bajor. We have to use the tractor beams.#
 KIRA: Wanna bet? Take us to warp.#
-KIRA: If we don't, there won't be a solar system left. (Zoom and they grab the runabout, yanking it away from the sun then letting go just before it goes KaBOOM.#
+KIRA: If we don't, there won't be a solar system left.#
 KIRA: Sometimes he just didn't know when to shut up.#
 KIRA: Look at this. I was checking the contents of one of those crates. A tentacle grabbed my hand.#
 KIRA: I can't believe they eat that stuff.#
@@ -3955,7 +3968,7 @@ KIRA: Good. That's the last message this station will be sending out for a while
 KIRA: Dukat wanted the station back, he can have it.#
 KIRA: Gentlemen. On behalf of the Bajoran government#
 KIRA: I officially welcome you to Deep Space Nine.#
-KIRA: Dukat wanted the station back, he can have it. And now, the continuation.#
+KIRA: Dukat wanted the station back, he can have it.#
 KIRA: What's wrong, Dukat? Afraid we'll take the station away from you again?#
 KIRA: Are we.#
 KIRA: Fine. We'd like the station's Bajoran security force reinstated.#
@@ -4047,7 +4060,7 @@ KIRA: What about Yassim?#
 KIRA: Let's hope she doesn't. The last thing I want to do is start arresting Bajoran civilians here on the Promenade.#
 KIRA: I don't think there's going to be any story here for you today, Jake.#
 KIRA: Well, it certainly doesn't look like it.#
-KIRA: Thank you, Mavek. (She is about to take a drink when she looks around at the Jem'Hadar and Cardassians she is working with, and leaves.)#
+KIRA: Thank you, Mavek.#
 KIRA: I keep going over it and over it in my mind, and I can't believe that I stood down there ready to use force to stop a protest against the Dominion. Me. When I was in the Resistance I despised people like me. I'm a collaborator, Odo.#
 KIRA: We used to have a saying in the Resistance. If you're not fighting them, you're helping them. Half the Alpha Quadrant is out there right now, fighting for my freedom, but not me. What am I doing? Eating a full meal every day, sleeping in a soft bed, I even write reports for the murderers who run this station.#
 KIRA: Odo, I'm not pointing a finger at you. I'm the one who told you to get more involved in the first place. No, this is about me. This is about being able get up in the morning and look in the mirror every morning and not feel nauseated by what I see. Yassim was right. I have to do something. I have to start to fight back.#
@@ -4121,7 +4134,7 @@ KIRA: Are you saying you forgot?#
 KIRA: A lot of people are going to die. Don't you care?#
 KIRA: How can you say that?#
 KIRA: The last five years, your life here, our friendship, none of that matters?#
-KIRA: That's right. I'm a solid. (Kira leaves the Link addict and the founder comes out of the other room.)#
+KIRA: That's right. I'm a solid.#
 KIRA: Now?#
 KIRA: All right, but I don't think it'll do any good.#
 KIRA: I thought that too, at first.#
@@ -4156,7 +4169,8 @@ KIRA: Forget about Odo. First, we can't get to him. Second, even if we did he wo
 KIRA: And how do you suggest we get a message to them?#
 KIRA: Trust us, Jake, it is.#
 KIRA: How?#
-KIRA: Come on, Jake, this is no time for games. (Jake points at Morn, who is wrapping a present. Probably for his mother.) KIRA: Morn?#
+KIRA: Come on, Jake, this is no time for games.#
+KIRA: Morn?#
 KIRA: I think he believes that too, when it suits his purpose.#
 KIRA: Not everything. He really does care about you.#
 KIRA: Right now you're angry and hurt, but that's going to pass. And then you'll have to decide what to do.#
@@ -4164,7 +4178,6 @@ KIRA: You heard her.#
 KIRA: Let her go.#
 KIRA: I was hoping you'd ask.#
 KIRA: No, but I thought about it.#
-KIRA: That's up to him.#
 KIRA: I have nothing to say to you.#
 KIRA: Oh, you bet I am angry. Do you have any idea what's going on?#
 KIRA: Dukat is bringing down the minefield, the Federation is about to be overrun by Dominion reinforcements and Weyoun has ordered Rom's execution and you have been occupied.#
@@ -4188,7 +4201,7 @@ KIRA: Take down the forcefields.#
 KIRA: I'd kiss you, Quark, but there isn't time. We have to find a way to shut down the power to the main computer.#
 KIRA: Right, Rom, you're with me. The rest of you, find someplace to stay out of sight.#
 KIRA: Get out of here.#
-KIRA: Why would Dominion troops be using Bajoran weapons? (There's a final thud, the firing stops and they look out to see dead Jem'Hadar and a live Bajoran security detail.)#
+KIRA: Why would Dominion troops be using Bajoran weapons?#
 KIRA: It'll have to be. Can you keep the Dominion patrols off our backs?#
 KIRA: I could ask why.#
 KIRA: What about the Link?#
@@ -4240,7 +4253,7 @@ KIRA: And sometimes your taste in men frightens me.#
 KIRA: I'm not ready for that. Odo's not ready for that. Let's just forget that you brought that one up. Two raktajinos, extra strong, and a kava roll. I'm coming to dinner alone, got it?#
 KIRA: I'll bring the wine.#
 KIRA: Are you hurt?#
-KIRA: It can't be. (After the opening titles, Bareil is holding Kira as a shield, but she's staying as limp as possible.)#
+KIRA: It can't be.#
 KIRA: Then we walk.#
 KIRA: There is no Alliance here.#
 KIRA: So I take it you're running from the Alliance.#
@@ -4359,7 +4372,7 @@ KIRA: It's hard to believe that the Dominion really wants peace. I wouldn't be s
 KIRA: Welcome to Deep Space Nine.#
 KIRA: Can I give you a word of advice, Weyoun?#
 KIRA: You're welcome to play your little 'we're all friends here' act with me, but I wouldn't try it with Captain Sisko. He's not in the mood.#
-KIRA: Consider it payback, Quark, for  rescuing me from the Dominion.#
+KIRA: Consider it payback, Quark, for#
 KIRA: Just be careful you don't turn your back on him, Quark. He's not to be trusted.#
 KIRA: It's confirmed. USS Honshu was destroyed this morning at ten thirty hours by an attack wing of Cardassian destroyers. Starfleet has picked up the distress beacons from three escape pods and one shuttlecraft, so there are survivors.#
 KIRA: With all the Dominion activity along the border, it's all Starfleet can spare at the moment. And the Defiant has another appointment. In fifty two hours you need to be at this rendezvous point outside the Badlands. You are the escort for a Federation troop convoy.#
@@ -4424,7 +4437,7 @@ KIRA: I ordered them for myself.#
 KIRA: I don't.#
 KIRA: Jadzia, there's such a thing as privacy.#
 KIRA: It's my mother's birthday. She would've been sixty today, and my father always said that these were her favourite.#
-KIRA: I wish I did remember her. I was only three when she died at the refugee centre. (Kira selects and pays for a decorative thin pyramid glass something at a stall.)#
+KIRA: I wish I did remember her. I was only three when she died at the refugee centre.#
 KIRA: I'd like to think so. I've always been proud of her. My father always said she was the bravest woman he ever met.#
 KIRA: From whom?#
 KIRA: Put it through.#
@@ -4470,7 +4483,7 @@ KIRA: Nice.#
 KIRA: Easy, easy. You don't want to make yourself sick.#
 KIRA: Don't count on it. We need to find a way to get off this station. Once we do, we'll figure out a way to free your family.#
 KIRA: We'll hide in the hills, we'll join the Resistance.#
-KIRA: Of course it is. Till then, we just need to bide our (Kira sees the scar) I'm sorry.#
+KIRA: Of course it is. Till then, we just need to bide our  I'm sorry.#
 KIRA: We all have scars of one kind or another.#
 KIRA: It's not so bad.#
 KIRA: What?#
@@ -4493,7 +4506,7 @@ KIRA: Meru, I'm back. I'm going to have to shower for a week to get the smell of
 KIRA: What are you doing here? Where's Meru?#
 KIRA: I said where's Meru?#
 KIRA: I want to see her.#
-KIRA: I said take me to her. (A Cardassian grabs her, she thumps him and gets knocked down by the second one.)#
+KIRA: I said take me to her.#
 KIRA: You ought to join the work detail sometime, find out for yourself.#
 KIRA: About my friend?#
 KIRA: What are you talking about?#
@@ -4605,10 +4618,10 @@ KIRA: You can choose the restaurant. Anywhere but a holosuite.#
 KIRA: I don't care if he approves or not. Shakaar and I are friends. That's all, friends. The First Minister asked me to update him on the war with the Dominion. My visit was strictly business. Now, are we going to have dinner together or not?#
 KIRA: I don't know. Maybe we could go dancing.#
 KIRA: Well, it's possible.#
-KIRA: Well why don't you? (So he does, long and hard. Everyone gathers to watch. Quark, Morn, Dax, passers-by. Somewhere a sax plays I've Got You Under My Skin.) KIRA: You're right. Who needs dinner?#
+KIRA: Well why don't you?#
+KIRA: You're right. Who needs dinner?#
 KIRA: The archaeologists excavating B'hala have found something they want the Emissary to see.#
 KIRA: Will the Romulans leave Benzar? You love to bring up the worst-case scenario in these meetings, don't you?#
-KIRA: If they only knew the real you.#
 KIRA: Something wrong, Jake?#
 KIRA: You say that like you think it's a bad thing.#
 KIRA: They may have found some very important religious artefacts in these old ruins.#
@@ -4653,7 +4666,7 @@ KIRA: The battle will be joined.#
 KIRA: Bajor will be reborn.#
 KIRA: The Sisko has completed his task.#
 KIRA: I await their vessel.#
-KIRA: Kosst Amojan has chosen its vessel. (On the upper level, a young man leans over the rail, electricity sparking from his fingers. His voice is deep and croaky and his eyes glow red.)#
+KIRA: Kosst Amojan has chosen its vessel.#
 KIRA: No!#
 KIRA: To tell you the truth, I didn't pay that much attention. I'm still trying to make sense of everything that happened. Of all the people on this station, the Prophets chose me. I'm not sure I know why I deserve that honour.#
 KIRA: I heard that you told the Captain that I was willing to give my life to serve the Prophets. I appreciate that you respect my beliefs.#
@@ -4724,7 +4737,7 @@ KIRA: Fire.#
 KIRA: Go ahead.#
 KIRA: Why would they fire on their own power source?#
 KIRA: Evasive manoeuvres, Mister Nog. Pattern Theta.#
-KIRA: Do it. (Defiant swoops low over the moon. The platforms change target instantly and the moon goes KaBOOM! No more shots are fired.)#
+KIRA: Do it.#
 KIRA: Go ahead, General.#
 KIRA: She'll be here when you get back.#
 KIRA: I was afraid of that. He's not sure he's coming back.#
@@ -4852,7 +4865,7 @@ KIRA: Oh, are you kidding? Odo never talks about his feelings.#
 KIRA: A little lower. Lower. Lower.#
 KIRA: What's that?#
 KIRA: Just for that, next time I'm not going to let you win a single game.#
-KIRA: Right now, all I want to do is sleep for two or three days.#
+KIRA: Right now, all I want to do is sleep for two or three  days.#
 KIRA: Back? From where?#
 KIRA: Gul Russol? I thought he was executed when Cardassia joined the Dominion.#
 KIRA: Why?#
@@ -4895,7 +4908,7 @@ KIRA: Chair? We didn't have any chairs at the camp. We sat on the floor.#
 KIRA: Oh, as if you needed the help. Nerys, what are the three keys to enlightenment?#
 KIRA: Charity, humility and faith.#
 KIRA: You were a good teacher. Without you, I'm not sure I would have survived that camp.#
-KIRA: What is it? (She takes a small crystal from the bag. It glows as Kira holds it, then she's beamed out.)#
+KIRA: What is it?#
 KIRA: Empok Nor? That's impossible.#
 KIRA: Those red armbands. You're members of the Pah wraith cult?#
 KIRA: Why did you bring me here?#
@@ -4948,7 +4961,7 @@ KIRA: Maybe she convinced herself that she did, which is a very different thing.
 KIRA: How? By recreating some kind of idealised version of the occupation? Because that's what you've done here. You have your station back, Bajorans to serve your every whim. And the best part is, this time they really do love you. As misguided as that is, they love you.#
 KIRA: And why's that?#
 KIRA: Not of children being raised to follow the Pah wraiths. You can bet that I don't approve.#
-KIRA: I'd be happy to. There's just one thing. We can't both be right. (Mika is wheeled out on a bed, holding her new-born and looking solemn. Benyan goes over and sees that the baby has Cardassian features. Then Dukat has a look. He takes the baby from Mika.)#
+KIRA: I'd be happy to. There's just one thing. We can't both be right.#
 KIRA: Fala, I don't understand this. You're an intelligent man. How can you believe Dukat's story? It's obvious he's the child's father.#
 KIRA: Are you so blind that you will just believe anything he says?#
 KIRA: You know to know what the miracle is? That Mika didn't breaking into tears in front of her husband. She was terrified he wasn't going to believe Dukat's little performance. I could see it in her eyes.#
@@ -4970,7 +4983,7 @@ KIRA: I know you're desperate to keep your followers from turning against you. I
 KIRA: Happy? Fifty people are going to die.#
 KIRA: You really believe that.#
 KIRA: Dukat!#
-KIRA: Don't you see why he's doing this? He doesn't want you to find out the truth! (Dukat is scrabbling on the floor trying to find his special pill. Fala pulls him up.)#
+KIRA: Don't you see why he's doing this? He doesn't want you to find out the truth!#
 KIRA: What's wrong, Dukat? Take it. They're all the same, aren't they?#
 KIRA: Tell them, Dukat. Tell them you never had any intention of dying with them.#
 KIRA: Fala, no! Why?#
@@ -4978,7 +4991,7 @@ KIRA: I keep going over what he said when he died and I don't know if he was try
 KIRA: I thought Dukat was just claiming to share their faith because he wanted them to love him. But it was more than that. He's changed.#
 KIRA: I know this is going to sound crazy, but I think Dukat convinced himself that he was doing what the Pah wraiths wanted.#
 KIRA: Either way, he believes. And that makes him more dangerous than ever.#
-KIRA: They've docked. (A load of Starfleet come through to be met by friends and family, then - )#
+KIRA: They've docked.#
 KIRA: I checked the passenger list this morning. He definitely boarded at#
 KIRA: Welcome back, Nog.#
 KIRA: Your gagh?#
@@ -5112,7 +5125,7 @@ KIRA: Mister Zeemo. It's a great honour to meet you.#
 KIRA: Frankie has told me so much about you.#
 KIRA: What are you waiting for, Frankie? Why don't you show Mister Zeemo to the countroom.#
 KIRA: You can tell Felix that we shut the lid on his jack in the box.#
-KIRA: What? Vic and Sisko sing 'The Best is Yet to Come'. Nice.)#
+KIRA: What?#
 KIRA: We just got word from the Klingons. The Rotarran and the Koraga were ambushed by a Dominion patrol near the Badlands.#
 KIRA: It didn't make it. The Rotarran recovered six escape pods. Worf wasn't aboard any of them.#
 KIRA: Captain, we have a problem. It's Ezri. She's gone.#
@@ -5221,7 +5234,8 @@ KIRA: All right. We will need a Cardassian shuttle with the latest security prot
 KIRA: Good.#
 KIRA: I'm a little busy right now, Rusot. Why don't you find someone else to play with.#
 KIRA: Oh, this should be good.#
-KIRA: Oh, I don't have time for this. (Rusot grabs her so she hits him several times and gets him in an arm lock.) KIRA: Don't you ever touch me again.#
+KIRA: Oh, I don't have time for this.#
+KIRA: Don't you ever touch me again.#
 KIRA: No, this  is hitting a nerve. Stop pushing me or I'll make you realise just how many nerves you have in that miserable body.#
 KIRA: You won't have any trouble finding me.#
 KIRA: Thanks for all your help.#
@@ -5294,7 +5308,7 @@ KIRA: You want another one? We'll attack Dominion Headquarters.#
 KIRA: Exactly. Damar, for the past two years you've practically lived in that building.#
 KIRA: We'll use force. We're going to need some kind of explosives.#
 KIRA: I do. Mila, I believe you're falling in love.#
-KIRA: Garak! Garak, get out of there! (BOOM and they're knocked down. Kira crawls for a rifle and is stopped by a Jem'Hadar.)#
+KIRA: Garak! Garak, get out of there!#
 KIRA: Why?#
 KIRA: Well, that could be a problem if we get trapped in the corridor.#
 KIRA: What the hell?#

@@ -1,27 +1,21 @@
 Episode Number: 218
 The Next Generation Transcripts - Cause and Effect
-Cause
-and Effect
-Stardate:
-45652.1
+Cause and Effect
+Stardate: 45652.1
 Original Airdate: 23 Mar, 1992
-  [Bridge]
+[Bridge]
 RIKER: Damage report! 
 CRUSHER: Casualty reports coming in from all over the ship. 
-DATA: The starboard nacelle has sustained a direct impact. We are
-venting drive plasma. 
+DATA: The starboard nacelle has sustained a direct impact. We are venting drive plasma. 
 LAFORGE: Initiating emergency core shutdown. 
 RO: Inertial dampers failing. We're losing attitude control. 
 RIKER: This is the Bridge. All hands to emergency escape pods. 
-DATA: Core shutdown is unsuccessful. We are losing antimatter
-containment. 
+DATA: Core shutdown is unsuccessful. We are losing antimatter containment. 
 LAFORGE: We've got to eject the core! 
 DATA: Ejection systems offline. Core breach is imminent. 
 PICARD: All hands abandon ship. Repeat, all hands abandon 
-(KaBOOM!!!!)
-Captain's log, stardate 45652.1. The Enterprise has
-entered an area of space known as the Typhon Expanse. We're the first
-Starfleet vessel to chart this unexplored region.
+(KaBOOM!!!!) 
+Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We're the first Starfleet vessel to chart this unexplored region. 
 [Someone's quarters]
 (Data does a fast, professional shuffle) 
 RIKER: Sometimes I wonder if he's stacking the deck. 
@@ -29,17 +23,14 @@ DATA: I assure you, Commander, the cards are sufficiently randomised.
 WORF: I hope so. 
 DATA: Eight, Ace, Queen. The dealer receives a four. 
 WORF: No bet. 
-DATA: Ten. Seven. No help there. A pair of ladies for the Doctor. The
-dealer receives a nine. Doctor? May I remind you since you show the
-highest hand, you control the next bet. 
+DATA: Ten. Seven. No help there. A pair of ladies for the Doctor. The dealer receives a nine. Doctor? May I remind you since you show the highest hand, you control the next bet. 
 CRUSHER: Thank you, Data. I bet ten. Worf?
 DATA: Jack. Four. Deuce. Six. 
 CRUSHER: Twenty. 
 RIKER: Your twenty, and fifty more. 
 WORF: Fifty? 
 CRUSHER: I'm in. 
-DATA: I will also see the bet. Seven. A possible straight for Commander
-Riker. Jack. Still no help for the Klingon. Eight. Nine for the dealer.
+DATA: I will also see the bet. Seven. A possible straight for Commander Riker. Jack. Still no help for the Klingon. Eight. Nine for the dealer. 
 CRUSHER: Twenty. 
 DATA: Too rich for my blood. 
 RIKER: Your twenty, one hundred more. 
@@ -51,62 +42,42 @@ CRUSHER: We'll soon find out, won't we. Let's see your cards.
 RIKER: Take it. How'd you know I was bluffing? 
 CRUSHER: I just had a feeling. 
 RIKER: I guess it's better to be lucky than good. 
-CRUSHER: It's the way your left eyebrow raises when your bluffing. Just
-kidding, Commander. 
+CRUSHER: It's the way your left eyebrow raises when your bluffing. Just kidding, Commander. 
 OGAWA [OC]: Ogawa to Doctor Crusher. 
 CRUSHER: Go ahead. 
 OGAWA [OC]: Commander La Forge needs you in Sickbay. 
-CRUSHER: On my way.
+CRUSHER: On my way. 
 [Sickbay]
-LAFORGE: At first I thought the catwalk was
-spinning. As it turns out, it was me. Luckily Ensign Fletcher was there
-to grab me. It's a long way down to the bottom of the warp core. 
-CRUSHER: You have all the symptoms of an inner ear infection. That
-would explain the dizziness and the headaches. But there's no physical
-evidence. My guess is you've been working too hard. 
-LAFORGE: I have been putting a lot of extra hours on this Typhon
-Expanse project. 
-CRUSHER: I'll give you twenty cc's of vertazine. That should clear up
-the dizziness. But finding time to relax is up to you. 
+LAFORGE: At first I thought the catwalk was spinning. As it turns out, it was me. Luckily Ensign Fletcher was there to grab me. It's a long way down to the bottom of the warp core. 
+CRUSHER: You have all the symptoms of an inner ear infection. That would explain the dizziness and the headaches. But there's no physical evidence. My guess is you've been working too hard. 
+LAFORGE: I have been putting a lot of extra hours on this Typhon Expanse project. 
+CRUSHER: I'll give you twenty cc's of vertazine. That should clear up the dizziness. But finding time to relax is up to you. 
 LAFORGE: What? What is it? 
 CRUSHER: Geordi, have you had these symptoms before? 
 LAFORGE: No. 
 CRUSHER: You're sure? 
 LAFORGE: Yeah, I'm positive. Why? 
-CRUSHER: It's funny. I feel like we've discussed this before, and I
-remember giving you a hypospray for dizziness. 
-LAFORGE: I've never had these symptoms before today, so you must be
-thinking about another patient. 
-CRUSHER: No. I'm sure it was you. Well, try to get some rest, and try
-to stay away from high places for a few days, just in case. 
+CRUSHER: It's funny. I feel like we've discussed this before, and I remember giving you a hypospray for dizziness. 
+LAFORGE: I've never had these symptoms before today, so you must be thinking about another patient. 
+CRUSHER: No. I'm sure it was you. Well, try to get some rest, and try to stay away from high places for a few days, just in case. 
 LAFORGE: Thanks, Doc. 
 CRUSHER: Goodnight. 
 LAFORGE: Goodnight. 
 [Crusher's quarters]
-(Beverly is dead-heading a plant and sipping on a
-night-cap. She goes over to the bed, turns out the lights and puts down
-the glass. Once she's settled down, she starts hearing lots voices all
-jumbled up. As she reaches to put on the lights again, she knocks over
-the glass, and it breaks)
+(Beverly is dead-heading a plant and sipping on a night-cap. She goes over to the bed, turns out the lights and puts down the glass. Once she's settled down, she starts hearing lots voices all jumbled up. As she reaches to put on the lights again, she knocks over the glass, and it breaks) 
 [Observation lounge]
-LAFORGE: As you can see, the Typhon Expanse is
-huge. If we want to chart the most remote star system, we'll have to
-launch a probe within the next few hours. 
+LAFORGE: As you can see, the Typhon Expanse is huge. If we want to chart the most remote star system, we'll have to launch a probe within the next few hours. 
 RIKER: Fine. What about the luminosity studies? 
 LAFORGE: That may pose a problem. 
 PICARD: How so? 
 LAFORGE: The flux spectrometers are still down for re-alignment. 
 RIKER: I thought they were supposed to be back online yesterday. 
-LAFORGE: They were, until the stellar dynamics lab decided they needed
-to install new modules. 
-DATA: I recommend we use a gravitron polarimeter. It will perform a
-similar function. 
+LAFORGE: They were, until the stellar dynamics lab decided they needed to install new modules. 
+DATA: I recommend we use a gravitron polarimeter. It will perform a similar function. 
 PICARD: Make it so, Mister Data. 
 CRUSHER: Captain, I have something I'd like to report. 
 PICARD: Yes, Doctor? 
-CRUSHER: I heard voices in my room last night. I was alone, so at first
-I thought I was imagining things. But this morning, ten other people
-reported hearing them at the same time I did. 
+CRUSHER: I heard voices in my room last night. I was alone, so at first I thought I was imagining things. But this morning, ten other people reported hearing them at the same time I did. 
 TROI: What were the voices saying? 
 CRUSHER: I couldn't make them out. 
 RIKER: Data, did the sensors pick up anything unusual last night? 
@@ -118,21 +89,18 @@ TROI: I sensed nothing unusual last night.
 LAFORGE: Maybe it's a problem with the comm. system. 
 WORF [OC]: Bridge to Captain Picard. 
 PICARD: Go ahead. 
-WORF [OC]: We are getting unusual readings twenty thousand kilometres
-off the starboard bow. 
+WORF [OC]: We are getting unusual readings twenty thousand kilometres off the starboard bow. 
 PICARD: On our way. 
 [Bridge]
 PICARD: Report. 
-RO: Sensors didn't detect the phenomenon until we were almost on top of
-it, sir. 
+RO: Sensors didn't detect the phenomenon until we were almost on top of it, sir. 
 WORF: It is a highly localised distortion of the space-time continuum. 
 RIKER: On screen. 
 (a blue weird thing) 
 PICARD: Back us off, Ensign. Nice and slow. 
 RO: Aye sir. Captain, manoeuvring thrusters are not responding. 
 DATA: The distortion field is fluctuating. 
-LAFORGE: All main systems just went down. Power levels are dropping
-rapidly. 
+LAFORGE: All main systems just went down. Power levels are dropping rapidly. 
 RIKER: Red alert. 
 DATA: There is an energy build up in the distortion field. 
 TROI: We have to get out of here now. 
@@ -141,126 +109,90 @@ DATA: Captain, something is emerging.
 RIKER: Shields up. Evasive manoeuvres. 
 WORF: Shields inoperative. 
 RO: The helm's not responding. 
-DATA: The vessel is on a collision course. Impact in thirty six
-seconds. 
+DATA: The vessel is on a collision course. Impact in thirty six seconds. 
 PICARD: Hail them. 
 WORF: No response. 
 PICARD: Suggestions? 
-RIKER: Decompress main shuttlebay. The explosive reaction may kick us
-out of the way. 
-DATA: Captain, I suggest we use the tractor beam to alter the other
-ship's trajectory. 
+RIKER: Decompress main shuttlebay. The explosive reaction may kick us out of the way. 
+DATA: Captain, I suggest we use the tractor beam to alter the other ship's trajectory. 
 PICARD: Mister Worf, make it so. 
 WORF: Engaging tractor beam. 
 (but the NCC 1841 clips the nacelle anyway) 
 RIKER: Damage report! 
 CRUSHER: Casualty reports coming in from all over the ship. 
-DATA: Starboard nacelle sustained a direct impact. Venting drive
-plasma. 
+DATA: Starboard nacelle sustained a direct impact. Venting drive plasma. 
 LAFORGE: Initiating emergency core shutdown. 
 RO: Inertial dampers failing. We're losing attitude control. 
 RIKER: This is the Bridge. All hands to emergency escape pods. 
-DATA: Core shutdown was unsuccessful. We are losing antimatter
-containment. 
+DATA: Core shutdown was unsuccessful. We are losing antimatter containment. 
 LAFORGE: We've got to eject the engine core! 
 DATA: Ejection systems are offline. Core breach is imminent. 
 PICARD: All hands, abandon ship! Repeat, all hands abandon 
-(KaBOOM!!!!)
-Captain's log, stardate 45652.1. The Enterprise has
-entered an area of space known as the Typhon Expanse. We are the first
-Starfleet vessel to chart this unexplored region.
+(KaBOOM!!!!) 
+Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region. 
 [Someone's quarters]
-RIKER: Sometimes I wonder if he's stacking the
-deck. 
-DATA: I assure you, Commander, the cards have been sufficiently
-randomised. 
+RIKER: Sometimes I wonder if he's stacking the deck. 
+DATA: I assure you, Commander, the cards have been sufficiently randomised. 
 WORF: I hope so. 
 DATA: Eight. Ace. Queen. The dealer receives a four. 
 WORF: No bet. 
-DATA: Ten. Seven. No help there. A pair of ladies for the Doctor.
-Dealer receives a nine. Doctor? May I remind you since you show the
-highest hand, you control the next bet. 
+DATA: Ten. Seven. No help there. A pair of ladies for the Doctor. Dealer receives a nine. Doctor? May I remind you since you show the highest hand, you control the next bet. 
 WORF: Is there something wrong, Doctor? 
 CRUSHER: No. I bet ten. 
 DATA: Jack. Four. Deuce. Six. 
 CRUSHER: Twenty. 
-RIKER: Your twenty and I'll raise you fifty. You're going to call my
-bluff, aren't you. I think I'll quit while I'm ahead. 
+RIKER: Your twenty and I'll raise you fifty. You're going to call my bluff, aren't you. I think I'll quit while I'm ahead. 
 CRUSHER: How did you know I was going to call your bluff? 
 RIKER: I just had a feeling. 
 CRUSHER: Me too. 
 OGAWA [OC]: Ogawa to Doctor Crusher. 
 CRUSHER: Go ahead. 
 OGAWA [OC]: Commander La Forge needs you in Sickbay. 
-CRUSHER: On my way.
+CRUSHER: On my way. 
 [Sickbay]
-LAFORGE: At first I thought the catwalk was
-spinning. As it turns out, it was me. I was lucky Ensign Fletcher was
-there to grab me. It's a long way down to the bottom of the warp core. 
-CRUSHER: You have all the symptoms of an inner ear infection. That
-would explain your the headaches and the dizziness. But there's no
-physical 
+LAFORGE: At first I thought the catwalk was spinning. As it turns out, it was me. I was lucky Ensign Fletcher was there to grab me. It's a long way down to the bottom of the warp core. 
+CRUSHER: You have all the symptoms of an inner ear infection. That would explain your the headaches and the dizziness. But there's no physical 
 LAFORGE: What? What is it? 
 CRUSHER: Geordi, have you ever had these symptoms before? 
 LAFORGE: Now that you mention it, I think I have. 
 CRUSHER: Do you recall when? 
 LAFORGE: No, I don't. 
-CRUSHER: We've had this discussion before and I know I've given you
-this examination. Let's check the medical logs. You've been treated
-several times for headaches related to your visor, but I read no
-mention of dizziness. 
+CRUSHER: We've had this discussion before and I know I've given you this examination. Let's check the medical logs. You've been treated several times for headaches related to your visor, but I read no mention of dizziness. 
 LAFORGE: Must be d�j� vu. 
-CRUSHER: Both of us? About the same thing?
+CRUSHER: Both of us? About the same thing? 
 [Crusher's quarters]
-(Beverly is about to dead-head a plant, when she
-stops. She sips her night-cap, sits on the bed and gives the glass a
-quizzical look. Then she sets it down, turns out the lights and lies
-down. The voices start up. Reaching for the lights, she knocks over the
-glass, and the voices stop) 
+(Beverly is about to dead-head a plant, when she stops. She sips her night-cap, sits on the bed and gives the glass a quizzical look. Then she sets it down, turns out the lights and lies down. The voices start up. Reaching for the lights, she knocks over the glass, and the voices stop) 
 CRUSHER: Crusher to Captain Picard. 
 PICARD [OC]: Yes, Doctor? 
-CRUSHER: Do you have a minute, Jean-Luc?
+CRUSHER: Do you have a minute, Jean-Luc? 
 [Ready room]
-PICARD: My Aunt Adele cured a lot of sleepless
-nights with this steamed milk. 
+PICARD: My Aunt Adele cured a lot of sleepless nights with this steamed milk. 
 CRUSHER: Thank you. Mmm, nutmeg. 
 PICARD: Whenever I get insomnia, I try to perfect the recipe. 
-CRUSHER: It was the eeriest feeling. When the glass broke, it triggered
-the sensation even more intensely that I'd done it all before. 
-PICARD: You know, earlier, I was reading this book, and I had the
-distinct feeling I'd read certain paragraphs before. But I assumed I'd
-read the book years ago and I'd forgotten. 
+CRUSHER: It was the eeriest feeling. When the glass broke, it triggered the sensation even more intensely that I'd done it all before. 
+PICARD: You know, earlier, I was reading this book, and I had the distinct feeling I'd read certain paragraphs before. But I assumed I'd read the book years ago and I'd forgotten. 
 CRUSHER: I've had this feeling for hours. And then the voices. 
-PICARD: Well, it could be nothing more than the result of a sleepless
-night. But let's be sure. Have Data and Geordi run a shipwide
-diagnostic, concentrating on the time and place you heard the voices,
-and we'll discuss the results tomorrow at seven hundred hours. 
+PICARD: Well, it could be nothing more than the result of a sleepless night. But let's be sure. Have Data and Geordi run a shipwide diagnostic, concentrating on the time and place you heard the voices, and we'll discuss the results tomorrow at seven hundred hours. 
 CRUSHER: Thank you. For everything. 
-PICARD: Thank Aunt Adele.
+PICARD: Thank Aunt Adele. 
 [Observation lounge]
-DATA: The internal scans were negative. There was
-no evidence of auditory anomalies anywhere on the ship. 
-LAFORGE: As far as the sensors are concerned, nothing unusual happened
-last night. 
-CRUSHER: Ten other people reported hearing voices at the same time I
-did. 
+DATA: The internal scans were negative. There was no evidence of auditory anomalies anywhere on the ship. 
+LAFORGE: As far as the sensors are concerned, nothing unusual happened last night. 
+CRUSHER: Ten other people reported hearing voices at the same time I did. 
 WORF [OC]: Bridge to Captain Picard. 
 PICARD: Go ahead. 
-WORF [OC]: We are getting unusual readings twenty thousand kilometres
-off the starboard bow. 
+WORF [OC]: We are getting unusual readings twenty thousand kilometres off the starboard bow. 
 PICARD: On our way. 
 [Bridge]
 PICARD: Report. 
-RO: Sensors didn't detect the phenomenon until we were almost on top of
-it, sir. 
+RO: Sensors didn't detect the phenomenon until we were almost on top of it, sir. 
 WORF: It is a highly localised distortion of the space-time continuum. 
 RIKER: On screen. 
 (the blue swirly, as before) 
 PICARD: Back us off, Ensign. Nice and slow. 
 RO: Aye sir. Captain, manoeuvreing thrusters are not responding. 
 DATA: The distortion field is fluctuating. 
-LAFORGE: All main systems just went down. Power levels are dropping
-rapidly. 
+LAFORGE: All main systems just went down. Power levels are dropping rapidly. 
 RIKER: Red alert. 
 DATA: There is an energy build up in the distortion field. 
 TROI: We have to get out of here now. 
@@ -269,37 +201,29 @@ DATA: Captain, something is emerging.
 RIKER: Shields up. Evasive manoeuvres. 
 WORF: Shields inoperative. 
 RO: The helm is not responding. 
-DATA: The vessel is on a collision course. Impact in thirty six
-seconds. 
+DATA: The vessel is on a collision course. Impact in thirty six seconds. 
 PICARD: Hail them. 
 WORF: No response. 
 PICARD: Suggestions? 
-RIKER: Decompress main shuttlebay. The explosive reaction may blow us
-out of the way. 
-DATA: Captain, I suggest we use the tractor beam to alter the other
-ship's trajectory. 
+RIKER: Decompress main shuttlebay. The explosive reaction may blow us out of the way. 
+DATA: Captain, I suggest we use the tractor beam to alter the other ship's trajectory. 
 PICARD: Make it so, Mister Worf. 
 WORF: Engaging tractor beam. 
 (thump) 
 RIKER: Damage report! 
 CRUSHER: Casualty reports coming in from all over the ship. 
-DATA: Starboard nacelle has sustained a direct impact. We are venting
-drive plasma. 
+DATA: Starboard nacelle has sustained a direct impact. We are venting drive plasma. 
 LAFORGE: Initiating emergency core shutdown. 
 RO: Inertial dampers failing. We're losing attitude control. 
 RIKER: This is the Bridge. All hands to emergency escape pods. 
-DATA: Core shutdown was unsuccessful. We are losing antimatter
-containment. 
+DATA: Core shutdown was unsuccessful. We are losing antimatter containment. 
 LAFORGE: We've got to eject the core! 
 DATA: Ejector systems are offline. Core breach is imminent 
 PICARD: (to comm.) All hands abandon ship. Repeat, all hands abandon 
-(KaBOOM!!!!)
-Captain's log, stardate 45652.1. The Enterprise has
-entered an area of space known as the Typhon Expanse. We are the first
-Starfleet vessel to chart this unexplored region.
+(KaBOOM!!!!) 
+Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region. 
 [Somebody's quarters]
-RIKER: Sometimes I wonder if he's stacking the
-deck. 
+RIKER: Sometimes I wonder if he's stacking the deck. 
 DATA: I assure you, Commander, the cards are sufficiently randomised. 
 WORF: I hope (pause) so. 
 RIKER: Something wrong, Mister Worf? 
@@ -308,8 +232,7 @@ RIKER: Yeah, last Tuesday night.
 WORF: That's not what I mean. 
 CRUSHER: I've been having the same feeling. Keep dealing, Data. 
 DATA: Eight. Ace. 
-CRUSHER: A Queen. You're going to give me a Queen. And you're going to
-get a four. Deal, Data. 
+CRUSHER: A Queen. You're going to give me a Queen. And you're going to get a four. Deal, Data. 
 DATA: But no one has bet. 
 CRUSHER: Forget the bet. Just deal. Ten, seven, queen. 
 WORF: Nine. Jack. Four. 
@@ -320,159 +243,89 @@ CRUSHER: Wait. Crusher to Sickbay.
 [Sickbay]
 OGAWA: Sickbay here. 
 CRUSHER [OC]: Is Commander La Forge there? 
-OGAWA: No, Doctor, he's not. Wait a minute. He just came in.
+OGAWA: No, Doctor, he's not. Wait a minute. He just came in. 
 (After Geordi's examination) 
 PICARD: You wanted to see me, Doctor? 
-CRUSHER: Yes. Captain, have you been getting the feeling that you've
-experienced certain things before? A sense of repetition? 
+CRUSHER: Yes. Captain, have you been getting the feeling that you've experienced certain things before? A sense of repetition? 
 PICARD: Yes, recently. While I was reading. Why do you ask? 
-CRUSHER: There have been similar incidents reported all over the ship.
-Feelings of
-d�j� vu. I had a premonition Geordi was going to come in to Sickbay. A
-few seconds later he did, with the symptoms of an ear infection. I was
-going to run the standard tests, but somehow I had a feeling they would
-turn out negative. So I ran an optical diagnostic which traced the
-problem to Geordi's visor. His dizziness is being caused by a phase
-shift in his visual receptors. It's causing him to see images that
-aren't there. 
+CRUSHER: There have been similar incidents reported all over the ship. Feelings of d�j� vu. I had a premonition Geordi was going to come in to Sickbay. A few seconds later he did, with the symptoms of an ear infection. I was going to run the standard tests, but somehow I had a feeling they would turn out negative. So I ran an optical diagnostic which traced the problem to Geordi's visor. His dizziness is being caused by a phase shift in his visual receptors. It's causing him to see images that aren't there. 
 LAFORGE: They're like blurry after-images. 
-CRUSHER: I ran a scan to see if I could detect what he was seeing. I
-picked up miniscule distortions in the surrounding dekyon field.
-Somehow, his visor is translating those distortions into visual
-impulses. 
-LAFORGE: It could be a malfunction in the ship's warp field generator.
-I'll check it out. 
+CRUSHER: I ran a scan to see if I could detect what he was seeing. I picked up miniscule distortions in the surrounding dekyon field. Somehow, his visor is translating those distortions into visual impulses. 
+LAFORGE: It could be a malfunction in the ship's warp field generator. I'll check it out. 
 PICARD: Run a localised subspace scan to look for anything else. 
 LAFORGE: Aye, sir. 
 (Geordi leaves) 
-PICARD: Keep me advised.
+PICARD: Keep me advised. 
 [Crusher's quarters]
-(This time, Beverly isn't dressed for bed. She
-carefully puts her glass down on another table out of harm's way. As
-soon as she turns out the lights, the voices start and she grabs her
-tricorder to record them.) 
+(This time, Beverly isn't dressed for bed. She carefully puts her glass down on another table out of harm's way. As soon as she turns out the lights, the voices start and she grabs her tricorder to record them.) 
 CRUSHER: Crusher to Commander La Forge. 
 LAFORGE [OC]: La Forge here. 
-CRUSHER: Geordi, I just heard what sounded like voices in my room, but
-no one else is here. 
-LAFORGE [OC]: Sensors just picked up something strange, too. We're
-checking it out. 
+CRUSHER: Geordi, I just heard what sounded like voices in my room, but no one else is here. 
+LAFORGE [OC]: Sensors just picked up something strange, too. We're checking it out. 
 CRUSHER: I'm on my way. 
-(She grabs her lab coat and it knocks the glass of the table. Some
-things just have to happen.) 
+(She grabs her lab coat and it knocks the glass of the table. Some things just have to happen.) 
 [Engineering]
-LAFORGE: Looks like you managed to record six point
-two seconds worth. Let's see if we can filter the signal and clear it
-up a little bit. 
+LAFORGE: Looks like you managed to record six point two seconds worth. Let's see if we can filter the signal and clear it up a little bit. 
 CRUSHER: Then I wasn't just hearing things? 
-DATA: The sound itself appears to have been real. However the acoustic
-energy does not correspond to any ship's system, nor to any voice
-communications sent at the time you heard it. 
+DATA: The sound itself appears to have been real. However the acoustic energy does not correspond to any ship's system, nor to any voice communications sent at the time you heard it. 
 CRUSHER: Then where did the sound come from? 
-LAFORGE: You heard the voices at the same time our localised subspace
-scan picked up a dekyon field distortion. The two may be related. Let's
-give another listen. 
-DATA: Computer, perform a narrow bandwidth analysis. Eliminate all
-non-vocal waveform components. 
+LAFORGE: You heard the voices at the same time our localised subspace scan picked up a dekyon field distortion. The two may be related. Let's give another listen. 
+DATA: Computer, perform a narrow bandwidth analysis. Eliminate all non-vocal waveform components. 
 CRUSHER: Can we isolate the voices? Find out what they're saying? 
-DATA: Computer, continuous playback please. There are approximately one
-thousand voices overlapping. The voices are those of the Enterprise
-crew. Our voices.
+DATA: Computer, continuous playback please. There are approximately one thousand voices overlapping. The voices are those of the Enterprise crew. Our voices. 
 [Observation lounge]
-CRUSHER: I'm sorry to call you here so early, but
-we couldn't wait until oh seven hundred hours. We think we may have an
-explanation for the odd occurrences around here. Commander. 
-LAFORGE: This is going to sound pretty wild. Somehow, we've entered
-what seems to be a temporal causality loop. We think we're stuck in a
-particular fragment in time, and we've been repeating that same
-fragment over and over again. 
+CRUSHER: I'm sorry to call you here so early, but we couldn't wait until oh seven hundred hours. We think we may have an explanation for the odd occurrences around here. Commander. 
+LAFORGE: This is going to sound pretty wild. Somehow, we've entered what seems to be a temporal causality loop. We think we're stuck in a particular fragment in time, and we've been repeating that same fragment over and over again. 
 TROI: Is this what's causing our d�j� vu? 
-CRUSHER: Yes, but it's more than that. In d�j� vu, you only think
-you're repeating events. We actually are. 
-LAFORGE: Our theory is this. Every time the loop begins again,
-everything resets itself, and starts all over. We don't remember
-anything that happened before, so each time through the loop, we think
-it's the first. 
-RIKER: You mean we could have come into this room, sat at this table
-and had this conversation a dozen times already? 
-LAFORGE: A dozen, a hundred, it's impossible to tell. We could have
-been trapped here for hours, days, maybe years. 
-CRUSHER: If what we're saying is true, those voices I heard might have
-been echoes from previous loops. 
-LAFORGE: It's the same thing with the phase shift in my visor.
-After-images in time. 
-PICARD: If you're right about this, how did it happen? How did we get
-there? 
-DATA: I have a hypothesis that may explain that, Captain. I have
-analysed the recording Doctor Crusher made. Most of it is quite
-ordinary. One hundred fifty discussions about ship operations, two
-hundred fifty two conversations of a personal nature, five couples
-engaged in romantic encounters. 
+CRUSHER: Yes, but it's more than that. In d�j� vu, you only think you're repeating events. We actually are. 
+LAFORGE: Our theory is this. Every time the loop begins again, everything resets itself, and starts all over. We don't remember anything that happened before, so each time through the loop, we think it's the first. 
+RIKER: You mean we could have come into this room, sat at this table and had this conversation a dozen times already? 
+LAFORGE: A dozen, a hundred, it's impossible to tell. We could have been trapped here for hours, days, maybe years. 
+CRUSHER: If what we're saying is true, those voices I heard might have been echoes from previous loops. 
+LAFORGE: It's the same thing with the phase shift in my visor. After-images in time. 
+PICARD: If you're right about this, how did it happen? How did we get there? 
+DATA: I have a hypothesis that may explain that, Captain. I have analysed the recording Doctor Crusher made. Most of it is quite ordinary. One hundred fifty discussions about ship operations, two hundred fifty two conversations of a personal nature, five couples engaged in romantic encounters. 
 PICARD: Your point, Mister Data? 
-DATA: There is evidence of some sort of disaster aboard the Enterprise,
-severe enough that the Captain ordered all hands to abandon ship. I
-have isolated three segments of the recording that are crucial. 
+DATA: There is evidence of some sort of disaster aboard the Enterprise, severe enough that the Captain ordered all hands to abandon ship. I have isolated three segments of the recording that are crucial. 
 WORF [OC]: A highly localised distortion of the space-time continuum. 
 DATA [OC]: Collision course. Impact in thirty six seconds. 
 PICARD [OC]: All hands, abandon ship! Repeat, all hands abandon 
-LAFORGE: Worf refers to a distortion. If this were a temporal
-distortion, and if we were close enough to it, it's possible that a
-large enough explosion might've ruptured the space-time continuum. We
-collided, exploded, then got stuck in this repeating loop of time. 
-PICARD: If you're right, perhaps we could escape the loop by avoiding
-the collision. 
+LAFORGE: Worf refers to a distortion. If this were a temporal distortion, and if we were close enough to it, it's possible that a large enough explosion might've ruptured the space-time continuum. We collided, exploded, then got stuck in this repeating loop of time. 
+PICARD: If you're right, perhaps we could escape the loop by avoiding the collision. 
 LAFORGE: That's our guess. 
 WORF: Maybe we should reverse course. 
-RIKER: For all we know, reversing course may be what leads us into the
-crash. 
-PICARD: No. We can't afford to start second guessing ourselves. We'll
-stay on this course until we have reason to change it. But let's do
-everything we can to avoid the collision. 
-LAFORGE: Captain, we might not be able to figure out how to avoid this
-accident until it's too late. And if the loop begins again, we'll
-forget everything we've learned this time around. 
+RIKER: For all we know, reversing course may be what leads us into the crash. 
+PICARD: No. We can't afford to start second guessing ourselves. We'll stay on this course until we have reason to change it. But let's do everything we can to avoid the collision. 
+LAFORGE: Captain, we might not be able to figure out how to avoid this accident until it's too late. And if the loop begins again, we'll forget everything we've learned this time around. 
 PICARD: What do you suggest? 
-LAFORGE: If we do find a way to avoid this collision, we should try to
-send that information into the next loop. 
+LAFORGE: If we do find a way to avoid this collision, we should try to send that information into the next loop. 
 RIKER: Is that possible? 
-DATA: We have seen that echoes, or after-images, from previous loops
-appear as distortions in the dekyon field. We may be able to send a
-deliberate echo into the next loop. 
+DATA: We have seen that echoes, or after-images, from previous loops appear as distortions in the dekyon field. We may be able to send a deliberate echo into the next loop. 
 TROI: Like a message in a bottle. 
-LAFORGE: Exactly. We could enhance a dekyon emission to create a
-specific pattern and send ourselves a message. Not a long
-one, probably only a few characters. Maybe one word. 
+LAFORGE: Exactly. We could enhance a dekyon emission to create a specific pattern and send ourselves a message. Not a long one, probably only a few characters. Maybe one word. 
 RIKER: How do we know we'll pick up that word the next time through? 
-DATA: If the dekyon emission is modulated correctly, it will set up
-resonances in my positronic subprocessors. I will receive the
-information on what you would call a subconscious level. 
-LAFORGE: Now there's the catch. We have no way of knowing how this
-information will be perceived by Data. It might be like a posthypnotic
-suggestion. 
-PICARD: Even with all these uncertainties, we've got to try. Take
-whatever steps are necessary to send a message. Dismissed.
+DATA: If the dekyon emission is modulated correctly, it will set up resonances in my positronic subprocessors. I will receive the information on what you would call a subconscious level. 
+LAFORGE: Now there's the catch. We have no way of knowing how this information will be perceived by Data. It might be like a posthypnotic suggestion. 
+PICARD: Even with all these uncertainties, we've got to try. Take whatever steps are necessary to send a message. Dismissed. 
 [Engineering]
 (Geordi is making adjustments inside Data's head) 
-LAFORGE: You know, it's possible we've tried this a thousand times and
-it's never worked. 
+LAFORGE: You know, it's possible we've tried this a thousand times and it's never worked. 
 CRUSHER: Do you have a feeling that you've done this before? 
 LAFORGE: No, I don't. 
 CRUSHER: Neither do I. Maybe that's a good sign. 
 LAFORGE: Let's test the emitter. 
 DATA: Particle accelerators at full power. 
-LAFORGE: Dekyon field active. Particle flux nominal. We're in business.
+LAFORGE: Dekyon field active. Particle flux nominal. We're in business. 
 CRUSHER: All we need now is a message. 
 RIKER [OC]: Senior officers, report to the Bridge. 
 (Red alert sounds) 
-CRUSHER: On our way.
+CRUSHER: On our way. 
 [Bridge]
-RIKER: We've got to figure out how we've handled
-this before. 
+RIKER: We've got to figure out how we've handled this before. 
 PICARD: Back us off, Ensign. Nice and slow. 
 RO: Aye sir. Captain manoeuvring thrusters are not responding. 
 DATA: The distortion field is fluctuating. 
-LAFORGE: All main systems just went down. Power levels are dropping
-rapidly. 
+LAFORGE: All main systems just went down. Power levels are dropping rapidly. 
 DATA: There is an energy build up in the distortion field. 
 TROI: We have to get out of here now. 
 DATA: Captain, something is emerging. 
@@ -480,179 +333,130 @@ DATA: Captain, something is emerging.
 RIKER: Shields up. Evasive manoeuvres. 
 WORF: Shields inoperative. 
 RO: The helm's not responding. 
-DATA: The vessel is on a collision course. Impact in thirty six
-seconds. 
+DATA: The vessel is on a collision course. Impact in thirty six seconds. 
 PICARD: Hail them. 
 WORF: No response. 
 PICARD: Suggestions? 
-RIKER: Decompress main shuttlebay. The explosive reaction may blow us
-out of the way. 
-DATA: Captain, I recommend we use the tractor beam to alter the other
-ship's trajectory. 
+RIKER: Decompress main shuttlebay. The explosive reaction may blow us out of the way. 
+DATA: Captain, I recommend we use the tractor beam to alter the other ship's trajectory. 
 PICARD: Make it so, Mister Worf. 
 WORF: Engaging tractor beam. 
 (thump) 
 RIKER: Damage report! 
 CRUSHER: Casualty reports are coming in from all over the ship. 
-DATA: Starboard nacelle has sustained a direct impact. We are venting
-drive plasma. 
+DATA: Starboard nacelle has sustained a direct impact. We are venting drive plasma. 
 LAFORGE: Initiating emergency core shutdown. 
 RO: Inertial dampers failing. We're losing attitude control. 
 RIKER: This is the Bridge. All hands to emergency escape pods. 
-DATA: Core shutdown is unsuccessful. We are losing antimatter
-containment. 
+DATA: Core shutdown is unsuccessful. We are losing antimatter containment. 
 LAFORGE: We got to eject the core! 
 DATA: Ejection systems are offline. Core breach is imminent. 
 (Data taps something into his dekyon emitter) 
 PICARD: All hands abandon ship. Repeat, all hands abandon 
-(KaBOOM!!!!)
-Captain's log, stardate 45652.1. The Enterprise has
-entered an area of space known as the Typhon Expanse. We are the first
-Starfleet vessel to chart this unexplored region.
+(KaBOOM!!!!) 
+Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region. 
 [Someone's quarters]
-RIKER: Sometimes I wonder if he's stacking the
-deck. 
+RIKER: Sometimes I wonder if he's stacking the deck. 
 DATA: I assure you, Commander, the cards are sufficiently randomised. 
 WORF: I hope so. 
 RIKER: Something wrong, Mister Worf? 
 WORF: I am experiencing nIb'poH. The feeling I have done this before. 
 RIKER: Yeah, last Tuesday night. 
 WORF: That is not what I mean. 
-CRUSHER: I've been having the same feeling. Wait. An eight, an Ace, a
-Queen and a four. Deal the cards, Data. 
+CRUSHER: I've been having the same feeling. Wait. An eight, an Ace, a Queen and a four. Deal the cards, Data. 
 (Data deals everyone a three) 
 DATA: Three. All threes. 
 CRUSHER: I was positive I knew what cards were going to be dealt. 
 WORF: I was also sure. 
 RIKER: Finish dealing the hand. 
-(Riker gets all eights, Worf all Kings, Crusher all tens and Data all
-sixes) 
+(Riker gets all eights, Worf all Kings, Crusher all tens and Data all sixes) 
 RIKER: Look at this, we've all got three of a kind. 
 CRUSHER: First we get a three, and then three of a kind. 
 OGAWA [OC]: Ogawa to Doctor Crusher. 
 CRUSHER: Go ahead. 
 OGAWA [OC]: Commander La Forge needs you in Sickbay. 
-CRUSHER: I'm on my way.
+CRUSHER: I'm on my way. 
 [Sickbay]
-LAFORGE: At first I thought the catwalk was
-spinning. As it turns out, it was me. I was lucky Ensign Fletcher was
-there to grab me. It's a long way down to the bottom of the warp core. 
-CRUSHER: You have all the symptoms of an inner ear infection. That
-would explain the headaches, dizziness. But I don't see any physical 
+LAFORGE: At first I thought the catwalk was spinning. As it turns out, it was me. I was lucky Ensign Fletcher was there to grab me. It's a long way down to the bottom of the warp core. 
+CRUSHER: You have all the symptoms of an inner ear infection. That would explain the headaches, dizziness. But I don't see any physical 
 LAFORGE: What? What is it? 
 CRUSHER: Geordi, have you ever had these symptoms before? 
 LAFORGE: Now that you mention it, I think I have. 
 CRUSHER: Do you recall when? 
 LAFORGE: No, I don't. 
-CRUSHER: I know we've had this discussion before, and I remember giving
-you this examination. Let's check the medical logs. You've been treated
-several times for headaches related to your visor but there's no
-mention of dizziness. 
+CRUSHER: I know we've had this discussion before, and I remember giving you this examination. Let's check the medical logs. You've been treated several times for headaches related to your visor but there's no mention of dizziness. 
 LAFORGE: Must be d�j� vu. 
-CRUSHER: Both of us? About the same thing? I'd like to run an optical
-diagnostic. 
+CRUSHER: Both of us? About the same thing? I'd like to run an optical diagnostic. 
 LAFORGE: For an ear infection? 
-CRUSHER: I have a hunch. Hold still. This pulse may be a little bright.
-Have you made any changes to your visor lately? 
+CRUSHER: I have a hunch. Hold still. This pulse may be a little bright. Have you made any changes to your visor lately? 
 LAFORGE: No. Why? 
 CRUSHER: I'm detecting a small phase shift in your visual receptors. 
 [Ready room]
-(Picard is discovering familiar passages in his
-book) 
+(Picard is discovering familiar passages in his book) 
 CRUSHER [OC]: Crusher to Captain Picard. 
 PICARD: Yes, Doctor? 
 CRUSHER [OC]: Can you come to Sickbay immediately? It's urgent. 
-PICARD: I'm on my way.
+PICARD: I'm on my way. 
 [Sickbay]
-CRUSHER: His dizziness is being caused by a phase
-shift in his visual receptors. It's causing him to see things that
-aren't there. 
+CRUSHER: His dizziness is being caused by a phase shift in his visual receptors. It's causing him to see things that aren't there. 
 LAFORGE: They're like blurry after-images. 
-CRUSHER: I ran a scan to see if I could detect what he was seeing. I
-picked up miniscule distortions in the surrounding dekyon field. His
-visor seems to be translating those distortions into visual impulses. 
-LAFORGE: Could be a malfunction in the ship's warp field generator.
-I'll check it out. 
-PICARD: While you're at it, run a localised subspace scan to look for
-anything unusual. 
+CRUSHER: I ran a scan to see if I could detect what he was seeing. I picked up miniscule distortions in the surrounding dekyon field. His visor seems to be translating those distortions into visual impulses. 
+LAFORGE: Could be a malfunction in the ship's warp field generator. I'll check it out. 
+PICARD: While you're at it, run a localised subspace scan to look for anything unusual. 
 LAFORGE: Aye, sir. 
-PICARD: Keep me advised, Doctor.
+PICARD: Keep me advised, Doctor. 
 [Engineering]
-LAFORGE: Lateral sensors online. Subspace scanners
-active. Data, would you run a level two diagnostic on the warp
-subsystems? 
+LAFORGE: Lateral sensors online. Subspace scanners active. Data, would you run a level two diagnostic on the warp subsystems? 
 DATA: Certainly. 
 (the display keeps flashing up the number 3) 
 LAFORGE: All threes. that can't be right. 
-DATA: I have encountered the numeral three an inordinate number of
-times over the last two hours. 
-LAFORGE: We have got a dekyon field fluctuation on deck nine, section
-twenty eight. 
+DATA: I have encountered the numeral three an inordinate number of times over the last two hours. 
+LAFORGE: We have got a dekyon field fluctuation on deck nine, section twenty eight. 
 CRUSHER [OC]: Crusher to Commander La Forge. 
 LAFORGE: La Forge here. 
-CRUSHER [OC]: I just heard what sounded like voices in my room, but
-there's no one here. 
-LAFORGE: Sensors just picked up something strange, too. We're checking
-it out. 
+CRUSHER [OC]: I just heard what sounded like voices in my room, but there's no one here. 
+LAFORGE: Sensors just picked up something strange, too. We're checking it out. 
 CRUSHER [OC]: I'm on my way down. 
 (the sound of breaking glass) 
 LAFORGE: Doctor Crusher, are you all right? 
-CRUSHER [OC]: I'm fine.
+CRUSHER [OC]: I'm fine. 
 [Observation lounge]
-DATA: I have isolated three segments of this
-recording that are crucial. 
+DATA: I have isolated three segments of this recording that are crucial. 
 WORF [OC]: A highly localised distortion of the space-time continuum. 
 DATA [OC]: Collision course. Impact in thirty six seconds. 
 PICARD [OC]: All hands, abandon ship! Repeat, all hands abandon 
-LAFORGE: Worf refers to a distortion. If this were a temporal
-distortion, and if we were close enough to it, it's possible that a
-large enough explosion might've ruptured the space time continuum. We
-collided, exploded, then got stuck in this repeating loop of time. 
-PICARD: If you're right about this then perhaps we can escape the loop
-by avoiding the collision. 
+LAFORGE: Worf refers to a distortion. If this were a temporal distortion, and if we were close enough to it, it's possible that a large enough explosion might've ruptured the space time continuum. We collided, exploded, then got stuck in this repeating loop of time. 
+PICARD: If you're right about this then perhaps we can escape the loop by avoiding the collision. 
 LAFORGE: That's our guess. 
 WORF: Perhaps we should reverse course. 
-RIKER: For all we know, reversing course might be what leads us into
-the crash. 
-PICARD: We can't afford to start second guessing ourselves. We should
-stay on this course until we have reason to change it. But in the
-meantime, I think we should do what we can to avoid a collision. 
-LAFORGE: Captain. We've been seeing the number three all over the ship.
-On consoles, in a poker game. 
-DATA: To date we have encountered two thousand eighty five conspicuous
-examples of the number three. 
+RIKER: For all we know, reversing course might be what leads us into the crash. 
+PICARD: We can't afford to start second guessing ourselves. We should stay on this course until we have reason to change it. But in the meantime, I think we should do what we can to avoid a collision. 
+LAFORGE: Captain. We've been seeing the number three all over the ship. On consoles, in a poker game. 
+DATA: To date we have encountered two thousand eighty five conspicuous examples of the number three. 
 LAFORGE: All of these threes can't be coming up by accident. 
 CRUSHER: Maybe somebody's trying to tell us something. 
-LAFORGE: We came to the same conclusion so we ran a shipwide
-diagnostic. The only unusual thing we found was a dekyon field
-modulation in Data's positronic subprocessors. 
+LAFORGE: We came to the same conclusion so we ran a shipwide diagnostic. The only unusual thing we found was a dekyon field modulation in Data's positronic subprocessors. 
 RIKER: What could be causing it? 
-LAFORGE: I don't know, but if I wanted to send information from one
-loop to the next I might use a method like a dekyon emission. 
+LAFORGE: I don't know, but if I wanted to send information from one loop to the next I might use a method like a dekyon emission. 
 TROI: You think we sent ourselves a message? 
-LAFORGE: It would make sense. Maybe we are trying to tell ourselves
-something. 
+LAFORGE: It would make sense. Maybe we are trying to tell ourselves something. 
 PICARD: If that were true, what could three indicate? 
-RIKER: Maybe we should run a level three diagnostic on all key systems.
-LAFORGE: It's a good idea. I'll have the computer run a pattern
-matching algorithm based on the number three. 
+RIKER: Maybe we should run a level three diagnostic on all key systems. 
+LAFORGE: It's a good idea. I'll have the computer run a pattern matching algorithm based on the number three. 
 RO [OC]: Bridge to Captain Picard. 
 PICARD: Go ahead. 
-RO [OC]: We're getting unusual readings twenty thousand kilometres off
-the starboard bow. 
-PICARD: On our way.
+RO [OC]: We're getting unusual readings twenty thousand kilometres off the starboard bow. 
+PICARD: On our way. 
 [Bridge]
 (Red alert is sounding) 
 PICARD: Report. 
-RO: Sensors didn't detect the phenomenon until we were almost on top of
-it, Captain. 
+RO: Sensors didn't detect the phenomenon until we were almost on top of it, Captain. 
 WORF: It is a highly localised distortion of the space-time continuum. 
 RIKER: On screen. How do you think we handled this before? 
 PICARD: Back us off, Ensign. Nice and slow. 
 RO: Aye, sir. Captain, manoeuvring thrusters are not responding. 
 DATA: The distortion field is fluctuating. 
-LAFORGE: All main systems just went down. Power levels are dropping
-rapidly. 
+LAFORGE: All main systems just went down. Power levels are dropping rapidly. 
 DATA: There is an energy build up in the distortion field. 
 TROI: We have to get out of here now. 
 DATA: Captain, something is emerging. 
@@ -660,59 +464,37 @@ DATA: Captain, something is emerging.
 RIKER: Shields up. Evasive manoeuvres. 
 WORF: Shields inoperative. 
 RO: The helm's not responding. 
-DATA: The vessel is on a collision course. Impact in thirty six
-seconds. 
+DATA: The vessel is on a collision course. Impact in thirty six seconds. 
 PICARD: Hail them. 
 WORF: No response. 
 PICARD: Suggestions? 
-RIKER: Decompress main shuttlebay. The explosive reaction may kick us
-out of the way. 
-DATA: Captain, I suggest we use the tractor beam to alter the other
-ship's trajectory. 
+RIKER: Decompress main shuttlebay. The explosive reaction may kick us out of the way. 
+DATA: Captain, I suggest we use the tractor beam to alter the other ship's trajectory. 
 PICARD: Make it so, Mister Worf. 
 WORF: Engaging tractor beam. 
 (Data looks at Riker's three pips) 
-DATA: The tractor beam will not be successful. I am decompressing the
-main shuttlebay. 
-(Enterprise slides forward and there is no thump this time. The lights
-come back on) 
+DATA: The tractor beam will not be successful. I am decompressing the main shuttlebay. 
+(Enterprise slides forward and there is no thump this time. The lights come back on) 
 WORF: We are clear of the distortion. 
 PICARD: Data, what happened? 
-DATA: At the last moment, I speculated that three might refer to the
-number of rank insignia on Commander Riker's uniform.
-That indicated to me that his suggestion might be the correct course of
-action. 
-LAFORGE: Data, you must have picked up a message we sent from the last
-loop, and stacked the deck in the poker game without realising it. 
-DATA: That is possible. I may also have been inadvertently responsible
-for the unexplained appearances of the number three. 
-PICARD: Mister Worf, end Red alert. And try to access a Federation time
-base beacon. Let's see if we can find out how long we've been in this
-causality loop. 
-WORF: Time base confirms our chronometers are off by seventeen point
-four days. 
+DATA: At the last moment, I speculated that three might refer to the number of rank insignia on Commander Riker's uniform. That indicated to me that his suggestion might be the correct course of action. 
+LAFORGE: Data, you must have picked up a message we sent from the last loop, and stacked the deck in the poker game without realising it. 
+DATA: That is possible. I may also have been inadvertently responsible for the unexplained appearances of the number three. 
+PICARD: Mister Worf, end Red alert. And try to access a Federation time base beacon. Let's see if we can find out how long we've been in this causality loop. 
+WORF: Time base confirms our chronometers are off by seventeen point four days. 
 PICARD: Reset them, Mister Data. 
 DATA: Aye, sir. 
-WORF: Captain, we are being hailed by the other vessel. The computer
-identifies it as the USS Bozeman, a Federation starship, Soyuz class. 
-LAFORGE: Soyuz class? They haven't been in service in over eighty
-years. 
+WORF: Captain, we are being hailed by the other vessel. The computer identifies it as the USS Bozeman, a Federation starship, Soyuz class. 
+LAFORGE: Soyuz class? They haven't been in service in over eighty years. 
 PICARD: Open a channel. 
-BATESON [on viewscreen]: This is Captain Morgan Bateson of the
-Federation Starship Bozeman. Can we render assistance? 
-PICARD: I'm Captain Jean-Luc Picard of the Federation Starship
-Enterprise. We were just going to ask you the same thing. 
-BATESON [on viewscreen]: Captain Picard, your vessel is not familiar to
-us. 
+BATESON [on viewscreen]: This is Captain Morgan Bateson of the Federation Starship Bozeman. Can we render assistance? 
+PICARD: I'm Captain Jean-Luc Picard of the Federation Starship Enterprise. We were just going to ask you the same thing. 
+BATESON [on viewscreen]: Captain Picard, your vessel is not familiar to us. 
 PICARD: Captain, have you any idea what has just happened? 
-BATESON [on viewscreen]: Our sensors detected a temporal distortion.
-Then your ship appeared. We nearly hit you. 
-PICARD: The Enterprise has been caught in temporal causality loop, and
-I suspect that something similar may have happened to you. 
-BATESON [on viewscreen]: You must be mistaken. We left starbase only
-three weeks ago. 
+BATESON [on viewscreen]: Our sensors detected a temporal distortion. Then your ship appeared. We nearly hit you. 
+PICARD: The Enterprise has been caught in temporal causality loop, and I suspect that something similar may have happened to you. 
+BATESON [on viewscreen]: You must be mistaken. We left starbase only three weeks ago. 
 PICARD: Captain, do you know what year this is? 
-BATESON [on viewscreen]: Of course I do. It's twenty two seventy eight.
-PICARD: Perhaps you should beam aboard our ship. There's something we
-need to discuss.  
+BATESON [on viewscreen]: Of course I do. It's twenty two seventy eight. 
+PICARD: Perhaps you should beam aboard our ship. There's something we need to discuss. 
 

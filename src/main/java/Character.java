@@ -1,9 +1,9 @@
 import java.io.*;
 
 class Character {
-	private String characterExternalName;
-	private String character;
-	private Series series;
+	private final String characterExternalName;
+	private final String character;
+	private final Series series;
 	IterableFile file;
 
 	/**
@@ -40,31 +40,18 @@ class Character {
 			if (!f.mkdirs())
 				System.out.println("Failed to create directory ./characters/" + series.name);
 		System.out.println("Saving lines spoken by " + characterExternalName);
-		boolean recordingLine = false;
 		try {
-			String line = "";
 			PrintWriter txtFile = new PrintWriter(new FileWriter("./characters/" + series.name + "/" + characterExternalName + ".txt", true));
 			for (String curr : seriesReader) {
-				if (curr.startsWith(character)) {
-					recordingLine = true;
-				}
 				//Remove parentheses and brackets
 				curr = curr.replaceAll("\\(.*?\\)", "");
 				curr = curr.replaceAll("\\[.*?\\]", "");
 				curr = curr.trim();
-				if (curr.equals(character))
-					recordingLine = false;
-				if (recordingLine) {
-					if (curr.trim().isEmpty() || (curr.contains(":") && !curr.startsWith(character))) {
-						String out = line.trim() + "#";
-						if (!out.equals("#"))
-							txtFile.println(line.trim() + "#");
-						line = "";
-						recordingLine = false;
-					}
+				if (curr.startsWith(character)) {
+					String out = curr.trim() + "#";
+					if (!out.equals("#"))
+						txtFile.println(out);
 				}
-				if (recordingLine)
-					line += curr + " ";
 			}
 			txtFile.close();
 		} catch (IOException e) {
