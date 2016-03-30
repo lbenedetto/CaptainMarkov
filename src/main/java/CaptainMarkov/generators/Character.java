@@ -1,13 +1,20 @@
+package CaptainMarkov.generators;
+
 import java.io.*;
 
-class Character {
+import CaptainMarkov.getters.SeriesReader;
+import CaptainMarkov.utils.IterableFile;
+import CaptainMarkov.utils.Series;
+import CaptainMarkov.Menu;
+
+public class Character {
 	private final String characterExternalName;
 	private final String character;
 	private final Series series;
-	IterableFile file;
+	public IterableFile file;
 
 	/**
-	 * Constructor for Character
+	 * Constructor for generators.Character
 	 *
 	 * @param cName  String
 	 * @param series Series

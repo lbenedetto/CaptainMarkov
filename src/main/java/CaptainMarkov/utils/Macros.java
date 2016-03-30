@@ -1,6 +1,10 @@
+package CaptainMarkov.utils;
+
 import java.util.HashMap;
 
-class PositronicBrain {
+import CaptainMarkov.generators.*;
+
+public class Macros {
 	/**
 	 * Create a HashMap of series names to their Markov Chains
 	 * HashMap<String, HashMap<String, MarkovChain>>
@@ -8,7 +12,7 @@ class PositronicBrain {
 	 *
 	 * @return HashMap
 	 */
-	static HashMap<String, HashMap<String, MarkovChain>> createMarkovChains() {
+	public static HashMap<String, HashMap<String, MarkovChain>> createMarkovChains() {
 		HashMap<String, HashMap<String, MarkovChain>> chains = new HashMap<>();
 		chains.put("TOS", createMarkovChainsForSeries(Series.TOS, new String[]{"Kirk", "Spock", "McCoy", "Uhura", "Chekov", "Sulu", "Computer"}));
 		chains.put("TNG", createMarkovChainsForSeries(Series.TNG, new String[]{"Picard", "Data", "Riker", "LaForge", "Troi", "Crusher", "Wesley", "Worf", "Q", "Computer"}));
@@ -59,7 +63,7 @@ class PositronicBrain {
 		//Fill the Characters array
 		for (String characterName : characterNames) {
 			series.resetInstance();
-			chains.put(characterName, new MarkovChain(new Character(characterName, series).file));
+			chains.put(characterName, new MarkovChain(new CaptainMarkov.generators.Character(characterName, series).file));
 		}
 		return chains;
 	}

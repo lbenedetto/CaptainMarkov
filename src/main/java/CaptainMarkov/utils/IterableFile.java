@@ -1,13 +1,15 @@
+package CaptainMarkov.utils;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Iterator;
 
-class IterableFile implements Iterable<String> {
+public class IterableFile implements Iterable<String> {
 	private BufferedReader file;
 
-	IterableFile(String fileName) throws FileNotFoundException {
+	public IterableFile(String fileName) throws FileNotFoundException {
 		file = new BufferedReader(new FileReader(fileName));
 	}
 

@@ -1,3 +1,7 @@
+package CaptainMarkov.getters;
+
+import CaptainMarkov.utils.Series;
+
 import java.io.*;
 import java.net.URL;
 
@@ -47,7 +51,7 @@ class ScriptScraper {
 				// nothing to see here
 			}
 		}
-		episodeText =  episodeText.replaceAll("\\n", "");
+		episodeText = episodeText.replaceAll("\\n", "");
 		episodeText = episodeText.replaceAll("<br>", "\n");
 		episodeText = episodeText.replaceAll("</div>(.*\n)*.*", "\n");
 		episodeText = episodeText.replaceAll("<[^>]*>", "\n");

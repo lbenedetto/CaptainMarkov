@@ -1,8 +1,10 @@
+package CaptainMarkov.utils;
+
 import java.util.Hashtable;
 import java.util.Random;
 import java.util.Vector;
 
-class MarkovChain {
+public class MarkovChain {
 	// Hashmap
 	private final Hashtable<String, Vector<String>> markovChain = new Hashtable<>();
 	private final Random rnd = new Random();
@@ -10,7 +12,7 @@ class MarkovChain {
 	/**
 	 * Initialize empty chain
 	 */
-	MarkovChain() {
+	public MarkovChain() {
 		createStarterEntries();
 	}
 
@@ -85,7 +87,7 @@ class MarkovChain {
 	 * @param phrase String
 	 */
 
-	void addWords(String phrase) {
+	public void addWords(String phrase) {
 		if (phrase.equals("#") || phrase.equals("")) return;
 		// put each word into an array
 		String[] words = spliterator(phrase);
@@ -128,7 +130,7 @@ class MarkovChain {
 	 *
 	 * @param n int
 	 */
-	void generateSentences(int n) {
+	public void generateSentences(int n) {
 		for (int i = 0; i < n; i++)
 			generateSentence();
 	}
@@ -149,7 +151,7 @@ class MarkovChain {
 		System.out.println(out + "\n");
 	}
 
-	String generateSentenceWithSeed(String seed) {
+	public String generateSentenceWithSeed(String seed) {
 
 		// Vector to hold the phrase
 		Vector<String> newPhrase = new Vector<>();

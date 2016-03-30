@@ -1,10 +1,15 @@
+package CaptainMarkov.getters;
+
+import CaptainMarkov.Menu;
+import CaptainMarkov.utils.Series;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Iterator;
 
-class SeriesReader implements Iterable<String> {
+public class SeriesReader implements Iterable<String> {
 	private Series series;
 
 	/**
@@ -12,11 +17,11 @@ class SeriesReader implements Iterable<String> {
 	 *
 	 * @param _series Series
 	 */
-	SeriesReader(Series _series) {
+	public SeriesReader(Series _series) {
 		series = _series;
 	}
 
-	void nextSeries() {
+	public void nextSeries() {
 		switch (series) {
 			case TOS:
 				series = Series.TNG;
@@ -35,9 +40,10 @@ class SeriesReader implements Iterable<String> {
 		}
 	}
 
-	boolean hasNextSeries() {
-		return series!=null;
+	public boolean hasNextSeries() {
+		return series != null;
 	}
+
 	/**
 	 * Returns an iterator over elements of type {@code T}.
 	 *

@@ -1,3 +1,5 @@
+package CaptainMarkov.utils;
+
 import java.util.HashMap;
 
 public enum Series {

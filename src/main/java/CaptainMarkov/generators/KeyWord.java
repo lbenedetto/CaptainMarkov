@@ -1,10 +1,17 @@
+package CaptainMarkov.generators;
+
 import java.io.*;
 
-class KeyWord {
+import CaptainMarkov.Menu;
+import CaptainMarkov.getters.SeriesReader;
+import CaptainMarkov.utils.IterableFile;
+import CaptainMarkov.utils.Series;
+
+public class KeyWord {
 	private final String keyPhrase;
 	private final boolean cutToPhrase;
 	private final Series series;
-	IterableFile file;
+	public IterableFile file;
 
 	/**
 	 * Constructor for KeyWord
@@ -13,7 +20,7 @@ class KeyWord {
 	 * @param cutToPhrase boolean
 	 * @param series      Series
 	 */
-	KeyWord(String phrase, boolean cutToPhrase, Series series) {
+	public KeyWord(String phrase, boolean cutToPhrase, Series series) {
 		keyPhrase = phrase;
 		this.cutToPhrase = cutToPhrase;
 		this.series = series;

@@ -9,7 +9,7 @@ COMPUTER: Time period?#
 COMPUTER: File or access code.#
 COMPUTER: Enter when ready.#
 COMPUTER: Current setting saved.#
-COMPUTER: Working. Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.#
+COMPUTER: Working. generators.Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.#
 COMPUTER: Enter when ready. When ready. When ready.#
 COMPUTER: Starbase maintenance approaching airlock five.#
 COMPUTER: Unoccupied sections are being closed down in order to clear space in the main computer banks. It is necessary to facilitate the system upgrade. Full power can be restored if needed.#
