@@ -30,11 +30,10 @@ public class Menu {
 			curr = seriesChain.get(choice);
 			System.out.println("How many do you want to generate at a time");
 			n = readInt();
-			while (true) {
+			do {
 				curr.generateSentences(n);
 				System.out.println("Type back to go back");
-				if (readString().equalsIgnoreCase("back")) break;
-			}
+			} while (readString().equalsIgnoreCase("back"));
 			System.out.println("Type exit to exit, or enter to continue");
 			series = readString();
 		}
