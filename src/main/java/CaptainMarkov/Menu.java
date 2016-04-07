@@ -33,7 +33,7 @@ public class Menu {
 			do {
 				curr.generateSentences(n);
 				System.out.println("Type back to go back");
-			} while (readString().equalsIgnoreCase("back"));
+			} while (!readString().equalsIgnoreCase("back"));
 			System.out.println("Type exit to exit, or enter to continue");
 			series = readString();
 		}
