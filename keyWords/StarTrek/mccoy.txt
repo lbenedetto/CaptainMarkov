@@ -536,6 +536,7 @@ MCCOY: Could be. There's no sign of breathing or other form of respiration.#
 MCCOY: The Eugenics Wars.#
 MCCOY: Now, wait a minute. Not our attempt, Mister Spock. A group of ambitious scientists. I'm sure you know the type. Devoted to logic, completely unemotional#
 MCCOY: Well, if you're actually giving me a choice#
+KIRK: Very interesting. You ready, Bones? MCCOY: No. I signed aboard this ship to practice medicine, not to have my atoms scattered back and forth across space by this gadget.#
 MCCOY: It's theoretically possible. I've never heard of it being tested for this long a period.#
 MCCOY: Jim, I have a new reading. The lights must have triggered some mechanism.#
 MCCOY: We've triggered something, all right. His heart beat's increasing. Now passing eight beats per minute. There are some signs of respiration beginning.#
@@ -751,6 +752,7 @@ MCCOY: You're running a little temperature. Perhaps you should lie down.#
 MCCOY: All right. Try to relax. Jim, it's started, the fever. It's over a hundred, and it's climbing.#
 MCCOY: A matter of hours, that's all.#
 MCCOY: Almost a symbiosis of some kind, a sort of joining.#
+KIRK: Exactly what I think. Not exactly like a pet owner speaking to a beloved animal, would you say? MCCOY: No, it's more than that.#
 MCCOY: Are you all right?#
 MCCOY: Spock! Are you all right?#
 MCCOY: It attacked you?#
@@ -2057,6 +2059,7 @@ MCCOY: Is it, Mister Spock? Is it really? Natira's asked me to stay, and I'm sta
 MCCOY: Yes. Is that too much to ask, Jim?#
 MCCOY: I do.#
 MCCOY: Let it be done.#
+NATIRA: You are now one with my people.  May I give you the love you want, and make the time you have beautiful. MCCOY: We're now of one mind.#
 MCCOY: One life.#
 MCCOY: Do the people know the contents of their book?#
 MCCOY: Has the reason that the people must leave here been revealed to you?#

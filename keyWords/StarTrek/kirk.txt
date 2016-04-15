@@ -358,6 +358,7 @@ KIRK: The lower levels. The Engineering deck.#
 KIRK: No. I don't want anyone else to see the#
 KIRK: Mister Spock, if I'm to be the Captain, I've got to act like one.#
 KIRK: You can't hurt me. You can't kill me. You can't. Don't you understand? I'm part of you. You need me. I need you.#
+OTHER KIRK: I don't need you.#
 KIRK: Yes. yes, all right. What's the matter with me?#
 KIRK: What is your point, Mister Spock?#
 KIRK: For how long?#
@@ -371,6 +372,7 @@ KIRK: I gave everybody the afternoon off. I'm watching the store.#
 KIRK: What happened?#
 KIRK: He's not dying?#
 KIRK: Yes, he is.#
+OTHER KIRK: Help me.#
 KIRK: How can he die? Can I survive without him?#
 KIRK: Don't be afraid. Here's my hand. Hold on. You don't have to be afraid. I won't let go. Hold on. You won't be afraid if you use your mind and think! Think! You can do it. That's it!#
 KIRK: I have to take him back inside myself. I can't survive without him. I don't want him back. He's like an animal, a thoughtless, brutal animal, and yet it's me. Me.#
@@ -392,16 +394,30 @@ KIRK: No. No, I'm not.#
 KIRK: Mister Spock, ready the transporter room. Bones, continue the autopsy.#
 KIRK: Kirk here.#
 KIRK: Mister Sulu. Mister Sulu. Can't wait. Can't let them die.#
+OTHER KIRK: What are you going to do?#
 KIRK: Go through the transporter, both of us.#
+OTHER KIRK: There's nothing I can do to stop you.#
 KIRK: It's what I have to do. It's what I have to do. What we have to do.#
+OTHER KIRK: I won't fight you anymore. Oh, I feel so weak. I'll be glad when this is over.#
 KIRK: Janice, hello.#
 KIRK: Yeoman, I owe you an explanation.#
 KIRK: Yes, I do. The transporter malfunctioned, divided me, created a duplicate. The animal part of me came to your cabin. He even scratched me to make us look more alike. I'd like the chance to explain it to you. You don't mind if I come to your cabin later?#
 KIRK:  Bridge.#
+OTHER KIRK: Prepare to leave orbit, Mister Farrell. Well?#
+OTHER KIRK: I gave you an order, Mister Farrell.#
+OTHER KIRK: They can't be saved. Prepare to leave orbit.#
+OTHER KIRK: I've changed my mind. Man your station, Mister Spock.  Grab him. He's the impostor.#
+OTHER KIRK: McCoy, he's fooled you.#
+OTHER KIRK: Mister Spock, you know who I am. You know what that is.#
+OTHER KIRK: I'm the captain. Isn't that obvious? Look at his face. Remember the scratches? Look how he's tried to hide them. He wants you to think that he's Captain Kirk. You know who I am.#
 KIRK: Yes, I know.#
+OTHER KIRK: You want to kill me, don't you? Farrell, James, grab him. He'll destroy the ship! I'm the Captain. Don't you understand? I'm captain of the ship!  I'm the captain! This is my ship! My ship! It's mine! I'll kill you.#
 KIRK: Can half a man live?#
+OTHER KIRK: Take another step, you'll die.#
 KIRK: Then we'll both die.#
+OTHER KIRK: Please, I don't want to. Don't make me. Don't make me.  I don't want to go back. Please! I want to live!#
 KIRK: You will. Both of us.#
+OTHER KIRK: I want to live!#
 KIRK: Mister Spock.#
 KIRK: If this doesn't work.#
 KIRK: Mister Spock.#
@@ -868,6 +884,7 @@ KIRK: The man making it is Doctor Roger Korby.#
 KIRK: Agreed, Doctor. However, there will be two of us.#
 KIRK: We're on our way, Doctor. We'll be with you in a moment. Enterprise out.#
 KIRK: Energise.#
+CHAPEL: He said he'd be waiting. KIRK: Doctor Korby? Doctor Korby. It's possible we may have hit the wrong entry point. Kirk to Enterprise.#
 KIRK: Beam down two security men.#
 KIRK: Some delay in meeting us. Probably nothing at all. Kirk out. Corridors could be quite deep. Getting here may have taken more time than he estimated. Don't worry.#
 KIRK: Rayburn, maintain post here.#
@@ -1362,6 +1379,7 @@ KIRK: Mister Spock is running a survey right now, but the odds are next to impos
 KIRK: Is that the way you see it?#
 KIRK: A physical breakdown. Possibly even mental collapse.#
 KIRK: I'd be admitting a man died because#
+STONE: Admit nothing. Say nothing. Let me bury the matter here and now. No starship captain has ever stood trial before, and I don't want you to be the first. KIRK: But if what you suspect is true, then I'm guilty. I should be punished.#
 KIRK: By what, Commodore Stone?#
 KIRK: That's as far as you go, sir. I'm telling you I was there on the Bridge. I know what happened. I know what I did.#
 KIRK: So that's the way we do it now? Sweep it under the rug, and me along with it? Not on your life. I intend to fight.#
@@ -2706,6 +2724,7 @@ KIRK: Go take a look.#
 KIRK: Help it. Treat it.#
 KIRK: You're a healer. There's a patient. That's an order. Mister Spock. Tell it we're trying to help. The mechanism.#
 KIRK: Mister Spock. Mister Spock. Spock. Spock! Come out of it. I found the unit in there. It's in pretty good shape. I also found about a million of these silicon nodules. They're eggs, aren't they?#
+SPOCK: Yes, Captain, eggs and about to hatch. KIRK: The miners must have broken into the hatchery. Their operations destroyed thousands of them. No wonder.#
 KIRK: How are you doing, Doc?#
 KIRK: Don't fire. First man that fires is dead.#
 KIRK: You've killed thousands of her children.#
@@ -2809,6 +2828,7 @@ KIRK: You think I'm going to sit here and just talk with the enemy?#
 KIRK: Something was destroyed? Nothing inconsequential, I hope.#
 KIRK: We're nothing like you. We're a democratic body.#
 KIRK: It's a very large universe, Commander, full of people who don't like the Klingons.#
+. KIRK: Go climb a tree.#
 KIRK: It will take a lot longer than that, Commander.#
 KIRK: How much of the twelve hours do we have left?#
 KIRK: I think we can count on them being punctual. Blowing that munitions dump wasn't enough. If we get out of here, we've got to carry the attack directly to Kor. These Organians#
@@ -2950,6 +2970,7 @@ KIRK: How bad?#
 KIRK: The President and Edith Keeler.#
 KIRK: We know her future. Within six years from now, she'll become very important. Nationally famous.#
 KIRK: You must be mistaken. They both can't be true.#
+SPOCK: Captain, Edith Keeler is the focal point in time we've been looking for, the point that both we and Doctor McCoy have been drawn to. KIRK: She has two possible futures then, and depending on whether she lives or dies, all of history will be changed. And McCoy#
 KIRK: In his condition, what does he do? Does he kill her?#
 KIRK: Get this thing fixed. We must find out before McCoy arrives.#
 KIRK: How do you know?#
@@ -3018,6 +3039,7 @@ KIRK: Yes, I'm here. You have to tell us what happened, Aurelan, to you and the 
 KIRK: Who?#
 KIRK: What kind of things?#
 KIRK: Aurelan, it's important that you tell us. What kind of things?#
+(One last scream and convulsion, then all her readings plummet to zero. KIRK: My brother's son?#
 KIRK: Report.;#
 KIRK: You've seen some kind of creature? Any alien form?#
 KIRK: All right. Let's go find out what it is. Set your phasers on force three, to kill. We're looking for some kind of creature, and we already know it will kill.#
@@ -3967,6 +3989,7 @@ KIRK: Spock, do you think it's possible that it got a fix on Earth when it tappe
 KIRK: And we've shown it the way home. And when it gets there#
 KIRK: And it will carry out its prime directive. Sterilise.#
 KIRK: Manual controls.#
+(The doors open and Nomad comes out. KIRK: Nomad. Nomad? Stop. Nomad, stop! Nomad.#
 KIRK: Is she all right?#
 KIRK: What happened?#
 KIRK: Whose history?#
@@ -4128,6 +4151,7 @@ KIRK: They'll die because I couldn't see a warning sign. I had to follow orders,
 KIRK: Bones, that's it. Stay with Chekov. Keep those people from feeding Vaal. Don't let them feed Vaal. Keep them in the hut. Mister Spock.#
 KIRK: Scotty, do you still have phaser power?#
 KIRK: If my guess is correct, they won't have to. Stand by.#
+SPOCK: Readings are getting weaker, Captain. Wide variation in energy transmissions, as though Vaal were trying to draw on other sources. KIRK: Tapping its energy cells.#
 KIRK: Good. The ship's pulling away must have weakened it considerable. It has to be fed, but its reserve capacity could hold out for days.#
 KIRK: My plan exactly. Scotty.#
 KIRK: Scotty, commence firing and maintain.#
@@ -4497,6 +4521,7 @@ KIRK: Is that the way you're going to do it, Mudd? Hit my people at their weakes
 KIRK: All right, here we are, birds in a gilded cage. The question is, how do we get out of here?#
 KIRK: All right. We're getting back to the ship, and don't you forget it. Straighten up! This may be a gilded cage filled with everything you always wanted, but it's still a cage. We don't belong here. We belong on that ship up there.#
 KIRK: No. Yes. My ship.#
+ALICE and KIRK: To respond in that area.#
 KIRK: Yes, I know.#
 KIRK: Alice, give us back our ship to please us. Return us to our ship because we desire it.#
 KIRK: But we're unhappy here.#
@@ -4973,6 +4998,7 @@ KIRK: Tyree?#
 KIRK: The gun. Ammunition. Doctor.#
 KIRK: Let's take a look inside.#
 KIRK: Well, here's your forge. People's exhibit number one. A chrome steel drill point.#
+MCCOY:  This pig iron is almost carbon-free. That village furnace certainly didn't produce it. People's exhibit number two. Cold-rolled gun barrel rod fashioned to look homemade. You were right about the Klingons, Jim. KIRK: Make recorder and scanner tapes of everything.#
 KIRK: Bones!#
 KIRK:  Move! Fast!#
 KIRK: Men, this is the pan. This is the hammer. The hammer striking the pan causes a spark, ignites the powder, and fires the flintlock. Now aim it as I showed you. Hold your breath and squeeze the trigger gently.  Well done. Very, very, very good.#
@@ -4986,6 +5012,7 @@ KIRK: What would you have suggested, that one side arm its friends with an overp
 KIRK: Then we arm our side with exactly that much more. A balance of power. The trickiest, most difficult, dirtiest game of them all, but the only one that preserves both sides.#
 KIRK: No. Probably not. But I'm going to have to try and make him understand. I never had a more difficult task.#
 KIRK: Well, war isn't a good life, but it's life. His wife is the only way to reach him. If I tell her we're going to supply guns, maybe she'll convince him.#
+(Kirk finds Nona near a stream which is running over a rock. She has been bathing. KIRK: Nona. Pardon me.#
 KIRK: Oh? I thought it was my idea.#
 KIRK: Nona#
 KIRK: I'd like to talk to you.#
@@ -5051,6 +5078,7 @@ KIRK: It's all right. It's all right. You can stop crying now, Shahna. It's all 
 KIRK: It's the custom of my people to help one another when we're in trouble.#
 KIRK: You could call it that.#
 KIRK: You're disturbed about what happened today.#
+SHAHNA: Yes. You have made me feel strangely. If it were allowed, I would ask that you have another drill thrall. KIRK: I wouldn't like that, Shahna. I wouldn't like that at all.#
 KIRK: I'm sorry, Shahna.#
 KIRK: What about Lars?#
 KIRK: I think Galt is the only one who controls these collars. If we can find the phaser that I threw at Lars, we can use the circuits to short out these collars.#
@@ -5122,6 +5150,7 @@ KIRK: Was your father#
 KIRK: You'll get none aboard this ship, Mister.#
 KIRK: You knew Rizzo?#
 KIRK: I want four men armed with phaser two set for disrupter effect. Join me in the transporter room in five minutes. You'll accompany me to the planet surface.#
+GARROVICK: Reading is changing, sir. KIRK: Spock was right. Notice the molecular shift?;#
 KIRK: Over that rise. Take two men, circle around to the left. I'll take the other two and go the other way. That creature is dangerous. If you see it, fire full phasers.#
 KIRK: Swensen, Bardoli come with me.#
 KIRK: A phaser! Come on!  Garrovick, did you?#
@@ -5145,6 +5174,7 @@ KIRK: Scanner readings?#
 KIRK: Are you aware it can change its molecular structure?#
 KIRK: Are you scanning for any unusual movement?#
 KIRK: Any type of gaseous cloud?#
+CHEKOV: We've run a full scanner probe twice. KIRK: Then run it twenty times if that's what it takes!#
 KIRK: Kirk to bridge. Scanning report.#
 KIRK: Maintain search. Kirk out. It can't have just vanished.#
 KIRK: Get to the point.#
@@ -5334,6 +5364,7 @@ KIRK: Launch shuttlecraft.#
 KIRK: Lieutenant Uhura, channel automatic telemetry directly to the computers.#
 KIRK: Come in, Spock.#
 KIRK: Chekov.#
+SCOTT: Captain, h e won't have enough power to get back out if he diverts it to his shields. KIRK: Spock.#
 KIRK: Report, Mister Spock. Spock, report.#
 KIRK: Spock, save your power for the shields.#
 KIRK: You mean there'll be two of those things?#
@@ -5677,6 +5708,7 @@ KIRK: In the next room, there are other receptacles. The other two of us that su
 KIRK: Even for us, a half million years is almost too long to wait. Two others still survive. Henoch and Thalassa. Thalassa, my Thalassa. I am pleased you survived with me. Forgive me. It has been so very long.#
 KIRK: Only the best minds were chosen to survive. Thalassa, my wife, as you may have guessed. Henoch, from the other side. Realising our mistake, we attempted to perpetuate both sides. We built this chamber here in order to preserve our essence in this fashion.#
 KIRK: We knew the seed that we had planted on other planets would take root, that one day you would build vessels as we did, and one day you would come here.#
+SPOCK: These others, they were stored differently than you, but it was your task to remain in the receptacle out there KIRK: and search the heavens with my mind, probing, waiting, probing. And then one day my mind touched your vessel and brought you here.#
 KIRK: To steal? To take them from you? No, no, my children, you misunderstand. We mean only that you should lend us your bodies for a short time.#
 KIRK: I will return your captain to you before the body limit has been reached.#
 KIRK: To build. To build humanoid robots. We must borrow your bodies long enough to have the use of your hands, your fingers.#
@@ -7876,6 +7908,7 @@ KIRK: Very good. We'll be right up.#
 KIRK: Set directional controls for Starbase Four. Kirk out. Will you join us on the bridge?#
 KIRK: Can you determine which ones?#
 KIRK: At the moment, I seem to have no choice.#
+LOKAI: What do you do, carry justice on your tongues? You will beg for it, but you won't fight or die for it. KIRK: After so many years of leading the fight, you seem very much alive.#
 KIRK: Bele, you keep this up, and you'll never get to Cheron with your prisoner. The rest of this ship will be irreparably damaged. This will be your final battlefield. Your fifty thousand years of pursuit will have been wasted.#
 KIRK: And you, Lokai, will die here in space. You'll inspire no more disciples. Your cause will be ended.#
 KIRK: You've made your point.#

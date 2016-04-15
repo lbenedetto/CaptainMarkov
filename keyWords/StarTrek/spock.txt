@@ -353,6 +353,7 @@ SPOCK: Sweeping the area of Outpost two. Sensor reading indefinite. Double-check
 SPOCK: And showing on my sensors, Captain. At least it's still there.#
 SPOCK: Outpost four disintegrated, Captain.#
 SPOCK: Disappeared. Interesting how they became visible for just a moment.#
+KIRK: When they opened fire. Perhaps necessary when they use their weapon. SPOCK: I have a blip on the motion sensor. Could be the intruder.#
 SPOCK: Invisibility is theoretically possible, Captain, with selective bending of light. But the power cost is enormous.#
 SPOCK: Blip has changed its heading. And in a very leisurely manoeuvre. They may not be aware of us.#
 SPOCK: His heading is now one eleven mark fourteen. The exact heading a Romulan would take, Jim, for the Neutral Zone and home.#
@@ -836,6 +837,7 @@ SPOCK: The mirror.#
 SPOCK: You noted yourself he never gets very far from it. I suppose it could be vanity.#
 SPOCK: A machine with the ability to turn energy into matter guided by thought waves. It would have a very complex memory bank, and would be extremely sophisticated.#
 SPOCK: I think not. A device capable of keeping out this planet's natural atmosphere would be immense.#
+. SPOCK: Free, Captain?#
 SPOCK: Captain.#
 SPOCK: The machine.#
 SPOCK: Can we know his range is, Captain?#
@@ -1132,6 +1134,7 @@ SPOCK: I'll take you to a place of comparative safety, then I must find the Capt
 SPOCK: By now, Mister Ambassador, I'm sure you realise that normal diplomatic procedures are ineffective here.#
 SPOCK: Very well, sir. We need all the help we can get.#
 SPOCK: I had assumed you needed help. I see I'm in error.#
+KIRK: All right, Mister Spock. SPOCK: These are the attack computers, Captain. That one's defence, that one computes the casualties. They're all tied in with a subspace transmission unit, which keeps them in constant contact with their Vendikan counterparts.#
 SPOCK: At the moment contact is broken, it abrogates the agreement between the two warring parties.#
 SPOCK: This one's the key. The circuit is now locked. Destroy this one, and they'll all go.#
 SPOCK: There's a chance it may work, Captain.#
@@ -2430,6 +2433,7 @@ SPOCK: Power surge?#
 SPOCK: Recheck your equipment, Mister Scott. I'll scan for them on the planet's surface. Spock out.#
 SPOCK: I'm beginning to believe that, Mister Scott. I've conducted two sweeps of the planet's surface. There is no sign of life.#
 SPOCK: No, Doctor. Even that would show up on our sensors.#
+SCOTT: Where are they then? SPOCK: The only answers are negative. No magnetic storms, no ionic interference, no breakdown in your equipment.#
 SPOCK: We shall continue sensor scans, Doctor. At the moment, that is all we can do, except hope for a rational explanation.#
 SPOCK: True, Doctor. Constant exposure does result in a certain degree of contamination.#
 SPOCK: They are not within the confines of this solar system.#
@@ -2455,6 +2459,7 @@ SPOCK: Doctor, I do not respond to hunches. No transporter malfunction was respo
 SPOCK: I see.  Gentlemen, I am in command of this vessel, and we shall continue on our present course.  Unless it is your intention to declare a mutiny.#
 SPOCK: Agreed. Mister Scott, could you manage warp seven?#
 SPOCK: Ensign, warp seven.#
+HAINES: Standard orbit. SPOCK: Sensors indicate only one concentration of life forms on the planet, on the lower hemisphere. Humanoid readings.#
 SPOCK: There will be no landing force, Doctor. Assuming the captain and the others are still alive, it would be unwise to endanger them by beaming down a large contingent.#
 SPOCK: Interesting. No power source. It may be shielded.#
 SPOCK: I shall beam down, Doctor. If I am unable to communicate, a landing party may be necessary.#
@@ -3244,6 +3249,7 @@ SPOCK: I stand corrected, Captain. Induced would be a more precise term. Induced
 SPOCK: The release of bacteria. Or a helpless mental depression and a state of suicidal anxiety could have been chemically induced.#
 SPOCK: I do not know, but it is possible.#
 SPOCK: A valid assumption, I would say.#
+KIRK: And their present behaviour explained by a fear of punishment. SPOCK: Or the promise of reward.#
 SPOCK: At present, yes.  Odd.#
 SPOCK: There seems to be some disturbance coming from that cave.#
 SPOCK: Definitely not humanoid, Captain. Impossible to make any specific identification. The readings do not correlate with any known information.#
@@ -3474,6 +3480,7 @@ SPOCK: Distance, Mister Sulu.#
 SPOCK: Mister Sulu, I shall run an analysis on those filaments. Tie in all sensors to the ship's library computer console. Switch scanners.#
 SPOCK: There's no analogy to this structure in Federation technology. It is, however, an energy field, and if the Tholians are successful in completing this structure before we have completed our repairs, we shall not see home again.#
 SPOCK: Doctor, your last report on an antidote on the effects of this space was negative.#
+MCCOY: It's still negative, Mister Spock. Theragen is the most promising substance tested so far. We're progressing. SPOCK: The urgency requires your personal attention in the laboratory.#
 SPOCK: A few hours ago, the Captain elected to remain on board the Defiant so that three members of this crew would have the best chance of returning safely to the Enterprise. His concern was not only for them, but for all the members of the crew of this ship. You all know the sequence of events. We were fired upon by the Tholian ship. At that time, Captain Kirk may have been alive. I deemed it necessary to return the Tholian fire for the safety of the Enterprise. The Tholian ship has been disabled. But as a result of the battle, we must accept the fact that Captain Kirk is no longer alive.#
 SPOCK: I shall not attempt to voice the quality of respect and admiration which Captain Kirk commanded. Each of you must evaluate the loss in the privacy of your own thoughts.#
 SPOCK: It can wait, Doctor. My duties require my immediate presence on the bridge.#
@@ -3635,6 +3642,7 @@ SPOCK: To shut out any knowledge of his brutal treatment of a Starfleet captain.
 SPOCK: Agreed, Captain. And Parmen wouldn't have treated you so brutally if he had any intention of releasing you or the Enterprise.#
 SPOCK: Whose harmony? Yours? Plato wanted truth and beauty, and above all, justice.#
 SPOCK: Two spacemen marching to a drum.#
+KIRK + SPOCK: We slith among the mimsey toves, and gyre among the borogoves.#
 SPOCK: I trust they did not injure you too much, Captain.#
 SPOCK: The humiliation must have been most difficult for you to bear. I can understand.#
 SPOCK: That may be, Doctor. However, I have noted that the healthy release of emotion is frequently very unhealthy for those closest to you.#
@@ -3794,6 +3802,7 @@ SPOCK: You are certain, Doctor, that this pigmentation is the natural condition 
 SPOCK: Negative, Captain.#
 SPOCK: There is no theory, Captain, from the basic work of Mendel to recent nucleotide studies, which would explain our captive. All gradations of colour from black to brown, to yellow to white are genetically predictable. We must therefore conclude that this alien is that often unaccountable rarity, a mutation, one of a kind.#
 SPOCK: Yet you are pumping him full of your noxious potions as if he were a human.#
+MCCOY: When in doubt, the book prevails, Mister Spock. I've run tests. Blood is blood, even when it's green like yours. The organs are there. They're rearranged to a degree, plus a few I've never seen before. Now, I've enriched the oxygen content of his blood and pumped in a strong stimulant. And I must say his recuperative powers appear to be excellent. SPOCK: With your permission, Captain, I shall do some further research and join you on the bridge.#
 SPOCK: Negative, Captain.#
 SPOCK: There is a vessel out there, Captain.#
 SPOCK: Negative. This would not be a Romulan vessel. It is totally alien in configuration. Motive power unknown. Small size of the craft indicates a rapid scout vessel, one or two-man crew.#
