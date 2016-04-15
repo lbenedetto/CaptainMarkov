@@ -132,6 +132,7 @@ RIKER: Captain, I believe we've have the answer to what happened over there.#
 RIKER: Similar conditions. They were monitoring a planet that was breaking up, not a collapsing star as in this case. But there were the same huge shifts in gravity,#
 RIKER: Like intoxication, but worse. Judgment almost completely impaired,#
 RIKER: Captain, the ship's engines are cut off from the bridge. The Assistant Chief Engineer pulled out the isolinear optical chips from command. All engines are offline. Wesley has hooked some kind of tractor beam to ship's power and he has it aimed at the door. We can't get past to get at the computer.#
+TROI: Bill. RIKER: Deanna, what?#
 RIKER: Deanna.#
 RIKER: Come on, I'm getting you to Sickbay.#
 RIKER: Doctor Crusher?#
@@ -247,6 +248,7 @@ RIKER: Kosinski wasn't the one controlling the warp experiments.#
 RIKER: The equations he punched in were nonsense, just as we thought.#
 RIKER: Wesley did.#
 RIKER: He tried, twice. I didn't listen.#
+WESLEY: Parts of him disappeared and then came back. Nobody else was paying attention to him the first time. RIKER: When we saw it this time, he seemed to be struggling, fighting it.#
 RIKER: You may want him here before we're done, sir. He seems to have developed some sort of special attachment to the boy.#
 RIKER: And allowing Kosinski to take credit for what you did.#
 RIKER: You are from a different time, aren't you?#
@@ -3038,6 +3040,7 @@ RIKER: Acknowledged. Captain Picard is safely aboard. Fire phasers.#
 RIKER: One Klingon bird of prey off the starboard bow.#
 RIKER: Sir, Lieutenant Castillo is the last surviving senior officer. He will have limited support from Ops, no Tactical, reduced staff in Engineering.#
 RIKER: Certainly, history never meant for this ship to go into battle without her captain.#
+37.41 RIKER: Number and type of ships, Mister Crusher?#
 RIKER: They shouldn't be so confident after the pasting we gave them on Archer Four.#
 RIKER: Photon torpedoes ready.#
 RIKER: Damage control teams, deck fourteen.#
@@ -3118,6 +3121,7 @@ RIKER: No, I meant on your shore leave.#
 RIKER: Halt. I know this perfect little vacation spot. In fact, it falls within the coordinates of this sector.#
 RIKER: Very clear.#
 RIKER: The place is called Risa, and believe me, Captain, it is a paradise. Warm tropical breezes, exotic food. Nothing to do but sit around all day and enjoy the quiet. And then#
+PICARD + RIKER: The women.#
 RIKER: I'm sure you would find their sybaritic outlook on life very appealing.#
 RIKER: I'm glad to hear you say so, sir.#
 RIKER: What about Risa?#
@@ -3185,7 +3189,10 @@ RIKER: Counsellor?#
 RIKER: Stop it. Put that down.#
 RIKER: I don't have a sword.#
 RIKER: I don't expect to fight.#
+HOLO-RIKER: Here I come.#
+HOLO-RIKER: Am I late? Did I miss the fight? En garde! You, sir, you have a familiar bearing. Is it possible our swords have crossed somewhere before?#
 RIKER: Where is he? Where's Barclay?#
+HOLO-RIKER: Ah, a personal grudge. I warn you. It would be wise for you to put your affairs in final order before you meet him in combat. You challenge the greatest sword#
 RIKER: in all the holodeck. You think this is funny?#
 RIKER: Mister Barclay will find out what it means to be threatened. Computer, discontinue image of Riker.#
 RIKER: You want us to search through all this to find him?#
@@ -3514,6 +3521,7 @@ RIKER: I don't think so. Data, separate yourself from Captain Picard. Away Team,
 RIKER: How much do you remember?#
 RIKER: And Earth Station McKinley has advised they're ready to begin refitting the Enterprise.#
 RIKER: Five or six weeks.#
+PICARD + RIKER: Come.#
 RIKER: Everyone is so concerned about my next job. With all due respect, Commander, sir, my career plans are my own business, and no one else's. But it's nice to know I'll have a few options.#
 RIKER: Course to Station McKinley ready and laid in, sir.#
 RIKER: Doctor Crusher and her assistants are waiting in Transporter room three.#
@@ -6208,6 +6216,7 @@ RIKER: Navigational sensors show that we've travelled sixty five light years fro
 RIKER: Maybe we can find an energy signature from their engines.#
 RIKER: I think we've found the shuttle's energy signature.#
 RIKER: We've traced the shuttle's energy signature to this point on the surface but there's too much interference to scan the location.#
+LAFORGE: We could, but there could be fifty Borg down there waiting for us and we'd never even know it. RIKER: I think we have to take the risk.#
 RIKER: Aye, sir. Mister Worf, you're with me.#
 RIKER: Riker to Enterprise. We're on the surface. There's no sign of any Borg, or Data. The shuttle appears to be abandoned.#
 RIKER: There are#

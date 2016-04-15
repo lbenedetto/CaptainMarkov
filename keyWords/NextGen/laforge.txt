@@ -576,6 +576,7 @@ LAFORGE: Oh, I'm not getting through. The fun in the programme, Data, was in the
 LAFORGE: She's right, Data. You always know the answer.#
 LAFORGE: I don't know about that. Deductive reasoning is one of Data's strengths.#
 LAFORGE: Now you're just being unfair, Doctor.#
+PULASKI: You see? LAFORGE: Maybe the computer could create one in the Holmes style. One where you wouldn't know the outcome.#
 LAFORGE: Good for you, Data.#
 LAFORGE: So this will be something new, something created by the computer?#
 LAFORGE: Your first visit to a holodeck, Doctor?#
@@ -1480,6 +1481,8 @@ LAFORGE: Counsellor, you'd better come along.#
 LAFORGE: I think you should know Barclay's been running some unique programs.#
 LAFORGE: Like I said, Commander, Barclay's been running some unusual programs.#
 LAFORGE: Commander I don't think there's any regulation against#
+HOLO-LAFORGE: We shall thrash them.#
+HOLO-LAFORGE: How do expect to fight without your sword, sir?#
 LAFORGE: Just tell us where to find Barclay.#
 LAFORGE: Oh, my God.#
 LAFORGE: Well, I'm not in Engineering, sir. I'm in holodeck two.#

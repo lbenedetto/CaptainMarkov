@@ -907,6 +907,7 @@ TROI: I'll say. Devinoni Ral. It's ridiculous, and wonderful. I feel completely 
 TROI: I'm afraid I'm going to lose myself. I can't get enough of him. Is it possible to fall in love in one day?#
 TROI: It was like this for you and Jack?#
 TROI: Well then, maybe I should slow down. Catch my breath. Not let this get out of control.#
+CRUSHER + TROI: No.#
 TROI: Everyone was talking today about the way you absorbed the Caldonian bid.#
 TROI: Commander Riker didn't know how you managed it.#
 TROI: But he doesn't have an edge. Your edge.#
@@ -1046,6 +1047,7 @@ TROI: No. He was a patient#
 TROI: Tam is a telepath of extraordinary talent, even for a Betazoid. He's a specialist in first contact with new life forms.#
 TROI: He's a very unique person, but he's not what you might expect, Captain.#
 TROI: I've been fine, but I thought#
+TAM + TROI: you were on thought you were on Chandra Five.#
 TROI: The opportunity for discovery is extraordinary but I don't understand Starfleet's urgency.#
 TROI: Well, in most Betazoids our telepathic gifts develop at adolescence.#
 TROI: No. Except for some reason that no one understands, occasionally a Betazoid child is born different.#
@@ -1102,7 +1104,10 @@ TROI: If Barclay is having difficulty facing reality, to suddenly destroy his on
 TROI: You are very tall. It might be threatening to some people.#
 TROI: It could provide us with valuable information about what's troubling him. You know, there's nothing wrong with a healthy fantasy life, as long as you don't let it take over.#
 TROI: You're taking it so seriously. It's not without its element of humour.#
+HOLO-TROI: I am the goddess of Empathy. Cast off your inhibitions and embrace love, truth, joy.#
+HOLO-TROI: Discard your facades and reveal your true being to me.#
 TROI: Computer, discontinue.#
+HOLO-TROI: Cast aside your masks and let me slip into your minds.#
 TROI: Muzzle it.#
 TROI: We have a lot to talk about, Mister Barclay.#
 TROI: Good luck, Reg.#
@@ -1239,6 +1244,7 @@ TROI: Give it time.#
 TROI: Yes. The Admiral was very pleased when you chose that name. He is a wonderful boy.#
 TROI: She died two years ago. A shuttle accident. I'm sorry, Will.#
 TROI: Min was beautiful, of course, strong, intelligent, patient.#
+RIKER: Well, if she was married to me, she had to be patient. TROI: She was an excellent Captain's wife, and a very good ship's counsellor. She took over after I left.#
 TROI: Admiral Picard offered me a position at Starfleet Command. It was a tremendous opportunity. I couldn't refuse. But, what's important right now, today, is that you have a son who needs you. Spend time with him. You may find part of what you've lost.#
 TROI: We did our best to prepare him.#
 TROI: That was a long time ago. Many things have changed, including Tomalak.#
@@ -1763,6 +1769,7 @@ TROI: Yes.#
 TROI: It's hard to believe. So much loveliness here, just a few metres away from such desolation.#
 TROI: This must sound incredibly simplistic but, can't you re-engineer all this on another planet?#
 TROI: A nursery rhyme?#
+CONOR + TROI: All the King's horses and all the King's Men, couldn't put Humpty together again.#
 TROI: Perhaps to prepare them for times like these.#
 TROI: I'm so sorry, Aaron. I wish I could do something to help.#
 TROI: No, a Counsellor has to maintain a discreet distance. I'd rather think of us as friends.#
@@ -1820,9 +1827,11 @@ TROI: Ode to Psyche. John Keats.#
 TROI: To Will, all my love, Deanna.#
 TROI: I don't know what to think.#
 TROI: Ensign.#
+RIKER + TROI: No.#
 TROI: I was just visiting. We'll talk again soon, Commander.#
 TROI: Data, how many people on that station?#
 TROI: Captain, this isn't right.#
+RO + TROI: No.#
 TROI: Please, sit down.#
 TROI: It's psychologically valid.#
 TROI: Well, if you're still confused tomorrow, you know where my office is.#

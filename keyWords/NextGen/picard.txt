@@ -408,6 +408,7 @@ PICARD: Then how do you explain Starfleet's report that the same tests on the US
 PICARD: Stand by for Commander Riker, Chief. He's on his way.#
 PICARD: Since you're concerned about these tests.#
 PICARD: Very good.#
+. PICARD: Engineering, this is the Bridge. It's your call.#
 PICARD: Affirmative, Number One. Are you ready?#
 PICARD: Engage.#
 PICARD: What is our velocity?#
@@ -1284,6 +1285,7 @@ PICARD: Starbase 74, this is the Enterprise. Do you read me?#
 PICARD: We'll go into that later. Right now I must speak to Lieutenant Commander Data.#
 PICARD: Yes, I know that, Data, but what could it be?#
 PICARD: They want us to find it. They would have kept it simple.#
+38.02 PICARD:  Would they have kept it that simple? Try it. Picard out.#
 PICARD: Now access the file. Start the transfer.#
 PICARD: Let me get on the other position. The Bynars always work in pairs. Maybe that is also required. It appears to be successful. Their system's started up. A resident diagnostic programme is running. Their system is absolutely incredible.#
 PICARD: Why didn't you just ask for our help?#
@@ -5620,6 +5622,7 @@ PICARD: Cell regeneration?#
 PICARD: Do you have a theory as to the cause?#
 PICARD: I envy your strength of will. Doctor Crusher has been keeping me informed of your progress. It's quite extraordinary.#
 PICARD: Are you still unable to recall anything about your past?#
+JOHN: Unfortunately, Captain, my memories begin the moment I woke up in Sickbay. Doctor Crusher told me you think I was in some kind of battle. PICARD: I'm quite sure of that. Have you any idea how you came to be in that escape pod, or what happened to the ship?#
 PICARD: Have you tried synaptic induction?#
 PICARD: Not a relapse I hope.#
 PICARD: You still have no theory as to what's causing it?#
@@ -6789,6 +6792,7 @@ PICARD: On screen. Magnify. Is it a ship?#
 PICARD: Ensign Rager, ahead one quarter impulse.#
 PICARD: Put us in orbit of the seventh planet. Keep us at a relative distance of ten kilometres from the object.#
 PICARD: A life form.#
+DATA: Aye, sir. PICARD: What would it be like, Counsellor? No ship, no bulky spacesuit. Just to live between the stars, have the entire galaxy as a home.#
 PICARD: Negative, Mister Worf. If we are curious about it, it has a perfect right to be curious about us.#
 PICARD: Reverse course, Ensign, three hundred kph.#
 PICARD: Easy, we don't want to alarm or provoke it.#

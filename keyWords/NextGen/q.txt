@@ -292,6 +292,36 @@ Q: But I feel like celebrating.#
 Q: All right.#
 Q: Yes, once again I've overstayed my welcome. As a human, I was ill-equipped to thank you, but as myself you have my everlasting gratitude. Until next time. Ah, but before I go, there's a debt I wish to repay to my professor of the humanities. Data, I've decided to give you something very, very special.#
 Q: No, no, no, no, no, no. I would never curse you by making you human. Think of it as a going away present.#
+ESOQQ: Who has done this?#
+ESOQQ: I don't trust you.#
+ESOQQ: You know my planet?#
+ESOQQ: My given name is Esoqq. It means fighter.#
+ESOQQ: Mizarians. Your names all mean surrender.#
+ESOQQ: A race of cowards. And you? I don't know your people.#
+ESOQQ: Who would want to imprison a child?#
+ESOQQ: There are Chalnoth who would kill me if they could. But kidnap? There is no reason.#
+ESOQQ: None of consequence. I've slain all the ones who mattered. That shocks you, Bolian?#
+ESOQQ: And you?#
+ESOQQ: The Chalnoth have no use for laws or governments! We are strong. We obey no one.#
+ESOQQ: And you may be the first.#
+ESOQQ: What is this?#
+ESOQQ: The only food?#
+ESOQQ: Poison!#
+ESOQQ: You.#
+ESOQQ: Three days. Perhaps four.#
+ESOQQ: No longer.#
+ESOQQ: Not very sturdy.#
+ESOQQ: Not to you. You moved far from the door.#
+ESOQQ: You claim you were hit by the stun beam before the rest of us arrived. You could be lying. Maybe our enemy is watching us from inside.#
+ESOQQ: Collaboration is what your species does best.#
+ESOQQ: For all we know, you may be our captor.#
+ESOQQ: How can we be sure you're a Mizarian? You could be an impostor.#
+ESOQQ: Keep talking and I will use it.#
+ESOQQ: Why should we believe you?#
+ESOQQ: And how do we know this is the heroic Captain Picard? We have no proof of his identity.#
+ESOQQ: The sound of your voice is beginning to anger me.#
+ESOQQ: How do you know?#
+ESOQQ: Replicas?#
 Q: Jean-Luc, it's wonderful to see you again. How about a big hug? Well don't just stand there, say something.#
 Q: Oh, and I was hoping for something more along the lines of, welcome back, Q, it's a pleasure to see you again my old friend."#
 Q: You wound me, mon capitaine.#
@@ -493,6 +523,61 @@ Q: I gave you something most mortals never experience. A second chance at life. 
 Q: Au contraire, he's the person you wanted to be. One who was less arrogant, and undisciplined as a youth. One who was less like me. The Jean-Luc Picard you wanted to be, the one who did not fight the Nausicaan, had quite a different career from the one you remember. That Picard never had a brush with death, never came face to face with his own mortality, never realised how fragile life is or how important each moment must be. So his life never came into focus. He drifted for much of his career, with no plan or agenda, going from one assignment to the next, never seizing the opportunities that presented themselves. He never lead the away team on Milika Three to save the ambassador, or take charge of the Stargazer's Bridge when its Captain was killed. And no one ever offered him a command. He learned to play it safe. And he never, ever got noticed by anyone.#
 Q: Are you asking me for something, Jean-Luc?#
 Q: Before you died in Sickbay. Is that what you want?#
+TOQ: What of it?#
+TOQ: We have no need for weapons here. The war is far away.#
+TOQ: The war our parents came here to escape.#
+TOQ: I'm not interested in what you have to say, Klingon. I have work to do.#
+TOQ: You must stop.#
+TOQ: We'll see what L'Kor thinks of this.#
+TOQ: That is impossible!#
+TOQ: You're making it up.#
+TOQ: That is not how you play this game.#
+TOQ: The hunt? We have replicators here.#
+TOQ: I know where I came from. Right here.#
+TOQ: Throw it.#
+TOQ: What do you mean?#
+TOQ: You Are not allowed to leave the compound. They won't allow it.#
+TOQ: Why? We're so close.#
+TOQ: I can't smell anything.#
+TOQ: How can you? Yes. I can smell it.#
+TOQ: It is strong. I cannot believe I couldn't smell it before.#
+TOQ: I can feel my heart pounding.#
+TOQ: I was never taught that.#
+TOQ: Ka'la! Tonight, we eat well.#
+TOQ: You do not kill an animal unless you intend to eat it.#
+TOQ: I intend to, Tokath. But not until it's cooked. Today I learned the ritual hunt. But that is not all I learned. I discovered that warrior's blood runs in my veins. I do not know how or why, but we have forgotten ourselves. Our stories are not told, our songs are not sung. Tonight, as we came home, we sang a song of victory. A song known only to me as a lullaby. But it is a warrior's song. Bagh Da tuHmoh. Fire streaks the heavens. ChojaH Duh rHo. Battle has begun. Bagh Da tuHmoh. ChojaH Duh rHo. ylja'Qo' ylja'Qo' ylja'Qo.#
+TOQ: Stop this!#
+TOQ: If you kill him, you will have to kill me.#
+TOQ: Worf would rather die than accept this way of life. And so would I. I want to leave, as do many others. You will have to kill us to keep us here.#
+TOQ: A supply ship's due in a few days. They will take us. When they arrive, Tokath will explain it to them. Then we will start a new life.#
+NU'DAQ: Pah! A ridiculous story.#
+NU'DAQ: Scientific research.#
+NU'DAQ: As if we fear Cardassian threats.#
+NU'DAQ: Yes. And there will be no other samples from Indri Eight.#
+NU'DAQ: There is no secret. It is an ancient weapon design of incredible power. And the Klingon Empire will not allow it to fall into an enemy's hands. Or even a friend's.#
+NU'DAQ: Biscuits? If that is what you believe, then go back to Cardassia. I will send you my mother's recipe.#
+NU'DAQ: And if we refuse?#
+NU'DAQ: Excellent.#
+NU'DAQ: Pahk! We have surrendered what we had for nothing.#
+NU'DAQ: How can that be? We have no idea where to start looking for the missing DNA fragment.#
+NU'DAQ: I intend to.#
+NU'DAQ: Good evening, Commander Data.#
+NU'DAQ: Is there any word yet on the missing fragment?#
+NU'DAQ: Commander, your reputation for physical strength is known even in the Klingon Empire. You are familiar with the B'aht Qul challenge?#
+NU'DAQ: Wa' Cha' Wej#
+NU'DAQ: Maw' tok!#
+NU'DAQ: I understand your intellectual prowess is equally impressive. If I were to learn of the results from the computer search before the others, the Klingon Empire would have a strategic advantage. A being of your abilities would go far in the Empire.#
+NU'DAQ: Not at all.#
+NU'DAQ: Commander, never mind.#
+NU'DAQ: It is fortunate that your Engineer discovered Gul Ocett's attempt to tamper with your defensive systems. Maht-H'a. Status.#
+NU'DAQ: What? You incompetent Top'a. You were supposed to be prepared.#
+NU'DAQ: I will go with you.#
+NU'DAQ: You dishonorable top'a!#
+NU'DAQ: How?#
+NU'DAQ: I will not be eliminated now.#
+NU'DAQ: Etched in stone, no doubt. No deals. There will be no deals as long as I'm still alive.#
+NU'DAQ: We die together, Brother. Tash Koh Tah.#
+NU'DAQ: That's all? If she were not dead, I would kill her.#
 Q: Mon capitane. I thought you'd never get here.#
 Q: It's Judge Q to you. And isn't it obvious what's going on?#
 Q: Seven years ago. How little do you mortals understand time. Must you be so linear, Jean-Luc?#

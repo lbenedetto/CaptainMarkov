@@ -2907,6 +2907,7 @@ CRUSHER: Alyssa, thank you for coming so quickly. We have to prepare for surgery
 CRUSHER: I want to make it clear that you are not to discuss what you see here with anyone.#
 CRUSHER: We'll need to synthesise at least a litre of Cardassian blood.#
 CRUSHER: The thing is, I saw Powell in Ten Forward with another woman, and the way they were talking it made me wonder.#
+TROI + CRUSHER: Goodnight.#
 CRUSHER: Ben. What are you doing here?#
 CRUSHER: Yes. Alyssa, I think you know how much I've come to depend upon you here. I've recommended your promotion because your performance here has been exemplary.#
 CRUSHER: But more than that, I've come to think of you as a friend. Someone I really care about.#
@@ -3058,6 +3059,7 @@ CRUSHER: Data.#
 CRUSHER: All right.#
 CRUSHER: Yes. Jean-Luc, crossing into Klingon territory. It's absurd. But then I never could say no to you.#
 CRUSHER: Well now, the first order of business is to get clearance to cross the Klingon border.#
+PICARD + CRUSHER: Yes?#
 CRUSHER: Tell McKinley we've been called away on a priority mission.#
 CRUSHER: I've prepared quarters for you on deck five. You might want to get some rest.#
 CRUSHER: Nell, please escort the Ambassador to his quarters.#

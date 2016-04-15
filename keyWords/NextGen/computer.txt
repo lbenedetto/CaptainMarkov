@@ -9,7 +9,7 @@ COMPUTER: Time period?#
 COMPUTER: File or access code.#
 COMPUTER: Enter when ready.#
 COMPUTER: Current setting saved.#
-COMPUTER: Working. generators.Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.#
+COMPUTER: Working. Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.#
 COMPUTER: Enter when ready. When ready. When ready.#
 COMPUTER: Starbase maintenance approaching airlock five.#
 COMPUTER: Unoccupied sections are being closed down in order to clear space in the main computer banks. It is necessary to facilitate the system upgrade. Full power can be restored if needed.#
@@ -366,6 +366,7 @@ COMPUTER: List the resonances of the subquantum states associated with transitio
 COMPUTER: In alphabetical order.#
 COMPUTER: Your time has expired.#
 COMPUTER: The fifth resonance is#
+LAFORGE + COMPUTER: Universal#
 COMPUTER: List the field patterns associated with warp modulation in order of decreasing energy.#
 COMPUTER: Warning. Shield failure.#
 COMPUTER: Please verify command with necessary protocol.#
@@ -492,6 +493,7 @@ COMPUTER: Final warning. Primary power offline in ten seconds.#
 COMPUTER: Library computer is temporarily offline.#
 COMPUTER: Library systems have been allocated to Stellar Cartography.#
 COMPUTER: Replicator systems are offline at the request of#
+PICARD + COMPUTER: Stellar Cartography.#
 COMPUTER: Pattern match found.#
 COMPUTER: The number blocks are mathematical representations of fragments of deoxyribonucleic acid strands.#
 COMPUTER: Autopsy files are restricted to active medical personnel only. Access denied.#

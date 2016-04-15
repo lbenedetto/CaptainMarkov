@@ -430,6 +430,7 @@ DATA: I have some doubts about the value of human customs  in this. My brother!#
 DATA: I will function sufficiently to stop Lore, Doctor#
 DATA: How sad, dear brother. You make me wish I were an only child.#
 DATA: I will stay with Wesley, Doctor.#
+(Lore shoots Beverly in the arm. Data jumps Lore and they fight across the cargo bay, sending barrels and containers flying DATA: Wes! The transporter.#
 DATA: Wesley, now!#
 DATA: Yes, sir. I'm fine.#
 DATA: Yes, Captain.#
@@ -461,6 +462,7 @@ DATA: Go ahead, Doctor.#
 DATA: Bingo? I fail to see the relevance, Doctor. Is that not a reference to an ancient Earth game?#
 DATA: Excellent, Doctor. We still have seventeen minutes left. I will inform the away team immediately. Enterprise to Riker.#
 DATA: Understood, Commander.#
+PICARD: Indeed we do. Mister Data, set course for the Neutral Zone. Warp six. DATA: Co-ordinates set. Warp six on your mark, sir.#
 DATA: Sir?#
 DATA: Ready to dock, sir.#
 DATA: It is an attempt at pure creativity.#
@@ -1016,6 +1018,7 @@ DATA: Ah, a word that ends in K. So, if you put funny teeth in your mouth and ju
 DATA: Data.#
 DATA: That does not apply. I simply want to know what is funny. I want to be able to involve myself in other people's laughter. I wish to join in.#
 DATA: Access faster.#
+COMIC: It's probably best when you do something like this. Need a cigar 'cos it's kind a prop kind of thing and you go like this and DATA: Faster. Move to maximum speed.#
 DATA: A guy walks into the doctor's office The doctor tells him you need an operation. The guy says I want a second opinion. The doctor said, okay, you're ugly too. Ba-boom boom. Was that funny?#
 DATA: My timing is digital.  What?#
 DATA: Why?#
@@ -1244,6 +1247,7 @@ DATA: No, sir, I am not under your nor anyone else's command. I have resigned fr
 DATA: I regret the decision, but I must. I am the culmination of one man's dream. This is not ego or vanity, but when Doctor Soong created me he added to the substance of the universe. If by your experiments I am destroyed, something unique, something wonderful will be lost. I cannot permit that, I must protect his dream.#
 DATA: With the application of a little care, Wes, the paper can be utilised again.#
 DATA: The Dream of the Fire, by K'Ratak. Thank you, Worf.#
+PULASKI: I couldn't disagree more. We'll save that argument for another day. DATA: Excuse me, please.#
 DATA: Is something wrong?#
 DATA: No one regrets that necessity more than myself. You do understand my reasons?#
 DATA: As Doctor Pulaski would at this juncture, no doubt, remind us, life is rarely fair.#
@@ -1293,6 +1297,7 @@ DATA: Sir?#
 DATA: No, sir. It might be due to problems currently being experienced by the Yamato.#
 DATA: Sensors indicate no life readings, sir.#
 DATA: Unknown, sir.#
+LAFORGE: Okay. In the event of a breach of seal integrity there's an emergency release system which dumps the antimatter. DATA: Apparently such a dump began, was then halted, and the containment seals were dropped. There was still sufficient antimatter present to lead to an explosion.#
 DATA: No, sir. None.#
 DATA: Aye, sir. We have a visual record.#
 DATA: No, sir. It appears to be a scanner. Possibly a transmitter.#
@@ -2149,6 +2154,7 @@ DATA: The human race has an enduring desire for knowledge, and for new opportuni
 DATA: Oh, I do not feel envy.#
 DATA: I feel nothing at all. That is part of my dilemma. I have the curiosity of humans, but there are questions I will never have the answer to. What is it like to laugh, or cry, or to experience any human emotions.#
 DATA: The Enterprise will be dangerously close to the atmosphere.#
+LAFORGE + DATA: Ow.#
 DATA: Medical assistance to Engineering.#
 DATA: Can you recommend a way to counter the effect?#
 DATA: Geordi is trying to say that changing the gravitational constant of the universe is beyond our capabilities.#
@@ -2212,6 +2218,7 @@ DATA: Away team reporting in, sir.#
 DATA: There is a high degree of probability that the temporal rift is symmetrical, Captain.#
 DATA: Back, sir? The Enterprise C would emerge in her own time period at almost the same instant she left.#
 DATA: Yes, sir.#
+PICARD: Is there any possibility she could survive? DATA: None, sir.#
 DATA: Perhaps her species has a perception that goes beyond linear time.#
 DATA: Not necessarily meaningless, Commander. The Klingons regard honour above all else. If the crew of the Enterprise-C had died fighting for the survival of a Klingon outpost, it would be considered a meaningful act of honour by the Klingon Empire.#
 DATA: Engineering. Is Engineering your destination as well?#
