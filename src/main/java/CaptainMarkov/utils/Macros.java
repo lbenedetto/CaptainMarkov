@@ -63,7 +63,8 @@ public class Macros {
 		//Fill the Characters array
 		for (String characterName : characterNames) {
 			series.resetInstance();
-			chains.put(characterName, new MarkovChain(new CaptainMarkov.generators.Character(characterName, series).file));
+			String temp = characterName.toUpperCase() + ":";
+			chains.put(characterName, new MarkovChain(new KeyWord(temp, false, series).file));
 		}
 		return chains;
 	}

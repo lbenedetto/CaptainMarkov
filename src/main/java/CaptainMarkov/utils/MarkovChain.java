@@ -35,7 +35,7 @@ public class MarkovChain {
 	 *
 	 * @param lines IterableFile
 	 */
-	void addFile(IterableFile lines) {
+	public void addFile(IterableFile lines) {
 		for (String s : lines)
 			addWords(s);
 	}
@@ -130,15 +130,17 @@ public class MarkovChain {
 	 *
 	 * @param n int
 	 */
-	public void generateSentences(int n) {
+	public String[] generateSentences(int n) {
+		String[] sentences = new String[n];
 		for (int i = 0; i < n; i++)
-			generateSentence();
+			sentences[i] = generateSentence();
+		return sentences;
 	}
 
 	/**
 	 * Generate and show a sentence from the Markov Chain
 	 */
-	private void generateSentence() {
+	public String generateSentence() {
 		// String for the next word
 		String nextWord = "";
 		// Select the first word
@@ -147,8 +149,7 @@ public class MarkovChain {
 		while (nextWord.isEmpty()) {
 			nextWord = startWords.get(rnd.nextInt(startWordsLen));
 		}
-		String out = generateSentenceWithSeed(nextWord);
-		System.out.println(out + "\n");
+		return generateSentenceWithSeed(nextWord);
 	}
 
 	public String generateSentenceWithSeed(String seed) {
