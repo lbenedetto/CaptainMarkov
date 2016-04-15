@@ -1282,6 +1282,7 @@ WORF: Come.#
 WORF: I cannot change the mistakes I have made, but from this day forward, I promise will stand with you.#
 WORF: Yes, we will. What you are about to do entails a grave obligation. Do not accept it lightly.#
 WORF: Good. I will teach you what you need to know to be a warrior, and you will teach me what I need to know to be a father. Come.#
+MARTOK + WORF: Martok degh.#
 WORF: Alexander, vih-nob dok-tog.#
 WORF: Well done, Captain. You were a very effective decoy.#
 WORF: I will be waiting.#
@@ -1323,6 +1324,7 @@ WORF: There are six trials we must face on the path to Kal'Hyah. This is the fir
 WORF: Blood, pain, sacrifice, anguish and death.#
 WORF: It is time to begin.#
 WORF: As you wish.#
+MARTOK + WORF: Eh to che mah lo Tah oo-wah kah esh to pah deh ah re! Yah bosh-ah! Yah bosh-ah!, Yah bosh tomah!#
 WORF: Now begins the trial of blood.#
 WORF: Who will be the first?#
 WORF: I did not expect it to be you, Doctor.#
