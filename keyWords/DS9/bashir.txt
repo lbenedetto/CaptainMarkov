@@ -986,6 +986,7 @@ BASHIR: Seriously.#
 BASHIR: Eye problems? Hearing? Headaches?#
 BASHIR: Short temper. Flies off the handle under the slightest provocation. Perfectly normal behaviour.#
 BASHIR: Sorry. I know how you feel about doctors.#
+O'BRIEN + BASHIR: It's you, Julian.#
 BASHIR: Well, your sense of humour seems normal enough#
 BASHIR: Cough. How's the sex life?#
 BASHIR: Cough. Everything all right in that department?#
@@ -2097,6 +2098,7 @@ BASHIR: Already? Oh. I thought it wasn't coming for another day or two.#
 BASHIR: Phew. Okay.#
 BASHIR: She's busy.#
 BASHIR: I never mentioned her at all, not to you anyway.#
+O'BRIEN + BASHIR:  Bring me my chariots of fire! I will not cease from mental fight, Nor shall my sword sleep in hand Till we have built Jerusalem In England's green and pleasant land.#
 BASHIR: That was really beautiful, Chief. You know what we should do?#
 BASHIR: We should go to Quark's and sing it for everybody.#
 BASHIR: No! No, this isn't a synthale kind of night. She walked right past me, Chief. Acted like I wasn't even there.#
@@ -2111,6 +2113,7 @@ BASHIR: That means a lot to me, Chief. It really does.#
 BASHIR: You're right. I'm going to go right up to her and ask her flat out where she gets off walking past me like that.#
 BASHIR: Why? Why not right now?#
 BASHIR: Good point. Good point. Good point. And did those feet#
+O'BRIEN + BASHIR: In ancient time, Walk upon England's mountains#
 BASHIR: Excuse me.#
 BASHIR: We were to medical school together. Julian Bashir.#
 BASHIR: You sound surprised.#
@@ -2395,6 +2398,7 @@ BASHIR: I'll let you know.;#
 BASHIR: Actually, my character is far more disreputable. I'm a spy.#
 BASHIR: Yes. I work for one of the nation states of this era, Great Britain, which is battling various other nations in what is called the Cold War. This apartment, my clothes, weapons, even my valet were provided to me by my government.#
 BASHIR: It's perfect.#
+(BASHIR: Thank you.#
 BASHIR: It's all part of my cover. I'm posing as a wealthy jet-setter, so I have to act like one.#
 BASHIR: People of this era used to travel in#
 BASHIR: Very funny. Who else did you invite along with you today?#
@@ -3233,8 +3237,11 @@ BASHIR: Well, to be blunt, we're not close, we haven't been for many years, and 
 BASHIR: Well, thank you. I'll see you tomorrow.#
 BASHIR: Yeah, it looks all right. Except for the eyes. They seem a little dead. They don't have that certain sparkle, that zest for life that greets me in the mirror every morning.#
 BASHIR: Does it talk?#
+HOLO-BASHIR: Please state the nature of the medical emergency.#
+HOLO-BASHIR: If you'd like my advice, you should delete this programme. Now that I'm here, why would you need an archaic piece of software like him?#
 BASHIR: He doesn't sound like much me.#
 BASHIR: Actually, he sounds more like you.#
+HOLO-BASHIR: I hope you're more interesting than you seem. I'd hate to be boring.#
 BASHIR: I'm a little concerned about the amount of argonite that's been seeping into the station's air supply.#
 BASHIR: Yes. But it's on the rise and I'd like to#
 BASHIR: Oh, my God.#
