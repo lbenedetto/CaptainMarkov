@@ -24,6 +24,7 @@ NOG: You mean like ethics?#
 NOG: You don't understand. I'm a Ferengi. For me, school is a waste of time.#
 NOG: Because there's no profit in it.#
 NOG: Because you're a stupid human. I don't know why I bother with you.#
+JAKE + NOG: I know there's a. I wonder where#
 NOG: It wasn't important.#
 NOG: That's what my father says.#
 NOG: Yes. When my father finds out, he won't be happy.#
@@ -983,6 +984,7 @@ NOG: Acting Grand Nagus Brunt.#
 NOG: Which is why you'll be meeting with another one of Zek's financial advisors. Her name is Lumba.#
 NOG: You're sure you wouldn't like me to show you around the station first?#
 NOG: He insisted on seeing you immediately.#
+ZEK+ROM+NOG: Shh.#
 NOG: Captain on the Bridge.#
 NOG: Aye, sir.#
 NOG: They must know they don't stand a chance against a fleet this size.#

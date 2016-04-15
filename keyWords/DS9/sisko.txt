@@ -1128,6 +1128,7 @@ SISKO: Major, you're with me. Chief, send get an emergency crew down there. We'l
 SISKO: Phasers at maximum.#
 SISKO: Then get a message to Ops. Tell them it's going to take us a while to get inside. If they can't get the fire suppression systems online we're going to lose our people in there.#
 SISKO: We're in, Dax. Stand by.#
+(SISKO: Are you all right?#
 SISKO: Ambassador, are you all right?#
 SISKO: Nice work, Doctor Bashir.#
 SISKO: How did you beat that thing in the computer, Chief?#
@@ -2519,6 +2520,7 @@ SISKO: We'll try to stop them with words if possible, with force if necessary.#
 SISKO: That's correct. We'll target their warp engines and weapons arrays, try to disable them.#
 SISKO: Rio Grande to Mekong and Orinoco. How do you read me?#
 SISKO: The longer they wait, the greater the chance the weapons depot will be moved to another location.#
+O'BRIEN : Commander, I'm picking up two Federation ships headed our way. SISKO: Sisko to Hudson. This isn't going to work, Cal. Turn those ships around before someone gets hurt.#
 SISKO: Lock on tractor beams.#
 SISKO: Commence firing.#
 SISKO: Hang on. Chief, you go after the Orinoco. I'll handle Hudson.#
@@ -3710,6 +3712,7 @@ SISKO: I know you have a cloaked warbird orbiting the station, and I know you're
 SISKO: That's right. But I'll tell you what's not a theory. We tracked the tetryon emissions back to your warbird and I have about fifty photon torpedoes locked on to it right now.#
 SISKO: I couldn't agree more. Constable, will you please escort our guests to the nearest transporter room.#
 SISKO: I'll handle this, Doctor. She's suffering cranial trauma. Treat the fracture with an osteogenic stimulator and then follow it up with#
+BASHIR + SISKO: With two cc's of inpedrezine.#
 SISKO: I'm just doing my job.#
 SISKO: Give him a coagulation activator to stop the bleeding.#
 SISKO: I'm flattered.#
@@ -4912,6 +4915,7 @@ SISKO: Casualties?#
 SISKO: Get here as soon as you can. The President's expecting you.#
 SISKO: It doesn't matter whether I get out of here or not. By now, Odo is talking to Jaresh-Inyo. The President will have all the evidence he needs to stop you. It's over.#
 SISKO: Who will you fight? Starfleet? The Federation? Don't you see, Admiral? You're fighting the wrong war. And as for your loyal officers, Benteen's already abandoned you. And she was closer to you than anyone. You've lost. Don't make anyone else pay for your mistakes.#
+JOSEPH: Worried? I'm scared to death. But I'll be damned if I'm going to let them change the way I live my life. SISKO: If the changelings want to destroy what we've built here, they're going to have to do it themselves. We will not do it for them.#
 SISKO: You sure we can't convince you to come back to the station with us?#
 SISKO: Well, we'd better get going. Now don't forget#
 SISKO: I'll do my best.#

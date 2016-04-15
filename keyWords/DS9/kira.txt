@@ -74,6 +74,7 @@ KIRA: No. Signal the lead Cardassian ship that we will proceed with#
 KIRA: On screen.#
 KIRA: Hail the lead ship. What did I tell you, Jasad?#
 KIRA: On screen. Go ahead, Commander.#
+SISKO : Sorry to be late. Our friend Gul Dukat had some problems on the other side of the wormhole. I see you've had a few of your own. KIRA: A few, Commander.#
 KIRA: You're can't cheat every customer who walks through the door anymore, Quark. You are a community leader now.#
 KIRA: If you don't take that hand off my hip, you'll never be able to raise a glass with it again.#
 KIRA: We have a non-functional power transfer grid on level five. All the upper docking pylons are out of commission.#
@@ -328,6 +329,7 @@ KIRA: Behavioural test? Now wait a minute.#
 KIRA: Oh, no. I'm sure all you Starfleet explorers find this fascinating, but I'm a Bajoran administrator. This is not what I signed up for.#
 KIRA: Well, this is the first door that's opened for us. I want to know where it goes.#
 KIRA: I'll be okay.#
+SISKO, BASHIR, KIRA: Allamaraine, count to four. Allamaraine, then three more. Allamaraine, if you can see. Allamaraine, you'll come with me.#
 KIRA: Rhymes and riddles and mazes. What's the logic behind all this? what do they want from us?#
 KIRA: The Wadi do love games.#
 KIRA: Excuse me. Excuse me. This has gone far enough.#
@@ -2001,6 +2003,7 @@ KIRA: Mine?#
 KIRA: Well, let me guess. Quark.#
 KIRA: With all this information he'd have no problem generating a holo-image of me.#
 KIRA: No. I have a better idea. Can you spare a few hours? I'd like to prepare a little surprise for Quark.#
+QUARK/KIRA: I've been waiting for you.#
 KIRA: Another satisfied customer, Quark?#
 KIRA: All right. Have them offload into cargo bays three and four, but that's it. We are pushing our storage capacity as it is.#
 KIRA: I haven't had a chance to read through last night's reports. Is there anything else I should know?#
@@ -4178,6 +4181,7 @@ KIRA: You heard her.#
 KIRA: Let her go.#
 KIRA: I was hoping you'd ask.#
 KIRA: No, but I thought about it.#
+ZIYAL: What are you going to do when he wakes up? KIRA: That's up to him.#
 KIRA: I have nothing to say to you.#
 KIRA: Oh, you bet I am angry. Do you have any idea what's going on?#
 KIRA: Dukat is bringing down the minefield, the Federation is about to be overrun by Dominion reinforcements and Weyoun has ordered Rom's execution and you have been occupied.#
@@ -4622,6 +4626,7 @@ KIRA: Well why don't you?#
 KIRA: You're right. Who needs dinner?#
 KIRA: The archaeologists excavating B'hala have found something they want the Emissary to see.#
 KIRA: Will the Romulans leave Benzar? You love to bring up the worst-case scenario in these meetings, don't you?#
+ODO: Somebody has to. Besides, everyone expects me to be dour and suspicious. I don't want to disappoint them. KIRA: If they only knew the real you.#
 KIRA: Something wrong, Jake?#
 KIRA: You say that like you think it's a bad thing.#
 KIRA: They may have found some very important religious artefacts in these old ruins.#
@@ -5037,6 +5042,7 @@ KIRA: Isn't it a little late to be developing a conscience?#
 KIRA: Don't ruin it, Julian. That was just what a toast should be. Short and to the point.#
 KIRA: Don't take it personally. They're very serious about their leisure activities.#
 KIRA: Me? Never.#
+EZRI + KIRA: No.#
 KIRA: It was time to go about an hour ago.#
 KIRA: Okay, we'll get you home.#
 KIRA: Sure.#

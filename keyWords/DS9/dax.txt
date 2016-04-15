@@ -231,6 +231,7 @@ DAX: Some kind of ionic field.#
 DAX: If you can see, you'll come with me.#
 DAX: No, Julian, you didn't.#
 DAX: But you didn't say the rhyme.#
+CHANDRA + DAX: Allamaraine, count to four. Allamaraine, then three more. Allamaraine, if you can see. Allamaraine, you'll come with me.#
 DAX: Come on! Just say the rhyme.#
 DAX: A game. Home is often the destination in a game.#
 DAX: Think of it. We've been given directions, clues, obstacles to overcome.#
@@ -245,6 +246,7 @@ DAX: I'll never make it across.#
 DAX: Benjamin, you and Kira can make that jump.#
 DAX: This cavern is going to collapse and kill all of us if you don't go now. Seven lives is more than enough for a Trill. You haven't even finished one.#
 DAX: Don't let sentiment get in the way#
+SISKO + DAX: Of command decisions.#
 DAX: If you were hurt, I'd leave you behind.#
 DAX: If I were your superior officer, I'd court-martial both of you.#
 DAX: Benjamin!#
@@ -871,6 +873,7 @@ DAX: Nature of interphase pocket.#
 DAX: Damage report.#
 DAX: Looks like we snagged something from the subspace pocket. Computer, identify mass on the starboard nacelle.#
 DAX: Come on. I'll take you to dinner.#
+CHEF + DAX: Ak'la bella doo!#
 DAX: Doko doko. Un koliay Trill#
 DAX: You haven't touched your racht.#
 DAX: No, you've been moved it around your plate to make it look like you've touched it.#
@@ -1620,6 +1623,7 @@ DAX: That's a very mature attitude.#
 DAX: I'm actually astonished, but impressed.#
 DAX: I won't mention it again.#
 DAX: So who do you think is going to win? Wade or P'Trell?#
+QUARK: Doctor? What are you doing in here? DAX:  A physical entity#
 DAX:  The Zek wanted to understand events outside the restrictions of linear time.#
 DAX:  This one is adversarial too.#
 DAX: That is linear.#
@@ -2584,6 +2588,7 @@ DAX: One thing's for certain. You've stopped thinking about Grilka.#
 DAX: She has maybe two raktajinos a day.#
 DAX: You're being ridiculous. Why does pregnancy always make men hysterical?#
 DAX: It's not up to you to tell Kira what she can and cannot do.#
+KIRA + DAX: Rental?#
 DAX: That means they'll be home by Thursday. Doesn't give you much time to snoop through Jake's things.#
 DAX: We just got word. The Klingons have destroyed the Farragut near the Lembatta cluster.#
 DAX: Benjamin?#
@@ -3659,8 +3664,10 @@ DAX: The computer has translated part of the inscription. It probably lacks the 
 DAX: Tell me I'm wrong, but isn't the Gateway to the Temple Deep Space Nine?#
 DAX: You're sending it back? And I was just starting to have fun.#
 DAX: I can work off the holo-recordings I took yesterday.#
+SISKO: Have you made any more progress? Good news or bad? DAX: That depends.#
 DAX: What this ideogram means. The computer has given me two possibilities.#
 DAX: During the reckoning, the Bajorans will either suffer horribly or eat fruit.#
+SISKO: Eat fruit? DAX: Given the tone of the rest of the inscriptions, I would bet on horrible suffering.#
 DAX: You'll love this. It's about you. Once the reckoning begins, the Emissary will#
 DAX: I was hoping you could tell me. The rest of the inscription's damaged.#
 DAX: Oh, I wish the wormhole would stop doing that.#

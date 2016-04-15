@@ -1225,7 +1225,9 @@ O'BRIEN: He's perfect. He looks just like me.#
 O'BRIEN: What was he programmed to do?#
 O'BRIEN: I had more wires attached to my head than you can count. Now I know why.#
 O'BRIEN: If it were me, I'd be trying to warn somebody there was something wrong at the station.#
+FAKE O'BRIEN: Keiko.#
 O'BRIEN: What about her?#
+FAKE O'BRIEN: Tell her I love#
 O'BRIEN: No, sir, it's fine.#
 O'BRIEN: I'm sure, Commander. Jake's a good fellow. I'll enjoy working with him.#
 O'BRIEN: I'll have him up to his elbows in thorium grease, sir.#
@@ -2465,6 +2467,7 @@ O'BRIEN: Not bad. You?#
 O'BRIEN: I was heading home, thought I'd stop in for a quick pint.#
 O'BRIEN: Seems like weeks. I see you found someone to play darts with. I've set up a board in my quarters so Molly and I can play.#
 O'BRIEN: So's Molly.#
+BASHIR + O'BRIEN: It's not the same.#
 O'BRIEN: I mean, Molly's just a kid. We've been playing with magnets.#
 O'BRIEN: You and I were evenly matched.#
 O'BRIEN: Kept us sharp.#
@@ -2824,6 +2827,7 @@ O'BRIEN: So when do we set up the emitters?#
 O'BRIEN: You know, I think I'm actually beginning to like bloodwine.#
 O'BRIEN: Just be thankful the anti-intoxicant we took is still working.#
 O'BRIEN: Not bad.#
+WORF + O'BRIEN: Q'apla! MARTOK: Q'apla.#
 O'BRIEN: I would be honoured to think so.#
 O'BRIEN: I am Pahash of the House of Konjah.#
 O'BRIEN: Perhaps we met on the battlefield. My regiment fought at Mempa.#
@@ -4682,6 +4686,7 @@ O'BRIEN: Either that or we're falling very, very slowly.#
 O'BRIEN: I don't see why not. Well?#
 O'BRIEN: Oh, no. This little trip wasn't my idea.#
 O'BRIEN: On the count of three.#
+BASHIR + O'BRIEN: One, two, three.#
 O'BRIEN: I wasn't worried.#
 O'BRIEN: What how?#
 O'BRIEN: Look, Sloan, we're a little pressed for time.#

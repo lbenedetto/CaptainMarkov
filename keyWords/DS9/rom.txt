@@ -32,6 +32,7 @@ ROM: You mean Maihar'du?#
 ROM: I don't recall seeing him there. Do you?#
 ROM: Yes, Nagus.#
 ROM: Yes, Nagus.#
+KRAX + ROM: Yes, Nagus.#
 ROM: We'll just have to come up with a new plan. Something more reliable than a locator bomb. Something that can't possibly fail to kill my dear brother.#
 ROM: My apologies, Nagus.#
 ROM: Yes, Nagus.#
@@ -170,6 +171,18 @@ ROM: You promised me one quarter of the profits, but then you gave her everythin
 ROM: Expenses? What expenses?#
 ROM: That does it.#
 ROM: Back to Quark. At least then I'll get cheated by family.  Let's get out of here.#
+NYDROM: Coming up to full power.#
+NYDROM: Muon generator now at full power.#
+NYDROM: It took ten years to perfect the harvesters. We've only been trying to eliminate them for a week.#
+NYDROM: The genetic integrity of the sample is holding steady. I'm not reading any genetic disruption at all.#
+NYDROM: The results are identical.#
+NYDROM: The harvesters have been destroyed.#
+NYDROM: Ambassador Sharat, I'm pleased to inform you that we have found a way to eliminate the harvesters.#
+NYDROM: Yes. And let's not forget, we couldn't have done it without the help of our friends from the Federation.#
+NYDROM: Then it's finished.#
+NYDROM: The last cylinder. I believe that you should have the honour, Doctor.#
+NYDROM: It's ironic, isn't it, that the war would finally come to an end up here, above T'Lani Three, a planet whose entire population was decimated by harvesters. I hope this will be a lasting peace.#
+NYDROM: What is this? Weapons aren't allowed up here.#
 ROM: Why, brother?#
 ROM: There is no such rule.#
 ROM: I know business is bad, but that's no reason#
@@ -305,6 +318,7 @@ ROM: Relax, brother. Nog isn't going to destroy the Ferengi way of life. He just
 ROM: The Ferengi Commerce Authority.#
 ROM: We're in trouble. All right, everyone. The bar is closed. Everybody out. Go, go, go. Now, everybody. This way. Out. Everybody out.#
 ROM: So, how do you get to be an FCA liquidator anyway?#
+QUARK + ROM: Yes. No.#
 ROM: But you told me#
 ROM: Yes, brother.#
 ROM: Earning profit? Our Moogie?#

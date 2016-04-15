@@ -1322,6 +1322,7 @@ ODO: Security reassignments, Major. Sorry it took so long. It's been a Klingon a
 ODO: Every time Klingons come to the station, I wind up with a Klingon afternoon. But this was definitely one I'll cherish forever. There's a drunk Klingon in my holding cell, must be a hundred years old, singing battle songs. Even his best friend who's probably a hundred and fifty years old won't have anything to do with him, so I get the pleasure of listening to his repertoire. Kor, Dahar Master of the Klingons.#
 ODO: That's what he announced right after winning the Battle of Klach D'kel Brakt at Quark's.#
 ODO: No, it was#
+DAX + ODO: Koloth.#
 ODO: Lieutenant.#
 ODO: All Bajoran outposts have been put on alert for retaliatory strikes. The provisional government has made a statement disavowing any responsibility.#
 ODO: An accident involving a Cardassian ship in Bajoran space? If I were a Cardassian, I wouldn't easily accept#
@@ -3049,6 +3050,7 @@ ODO: What do you want to know?#
 ODO: I wouldn't know. He was gone by the time I came aboard the station.#
 ODO: You're implying that I should know the answers, that I'm holding back information?#
 ODO: I don't know!#
+DAX: Miss me? ODO: It doesn't have to happen again#
 ODO: We've got to find another way out of here.#
 ODO: I don't know.#
 ODO: I don't know.#
@@ -3938,6 +3940,7 @@ ODO: Yes, Captain?#
 ODO: Stop what?#
 ODO: I was singing?#
 ODO: You're right. I was singing. They can't take that away from me.#
+SISKO + ODO: We may never, never meet again on that bumpy road to love.#
 ODO: You still haven't told me what I'm supposed to do about Kira and Shakaar.#
 ODO: What difference does that make?#
 ODO: No.#

@@ -2715,6 +2715,7 @@ QUARK: Yes, do tell.#
 QUARK: Me?#
 QUARK: My brother Rom?#
 QUARK: Sexy?#
+BASHIR + QUARK: Rom?#
 QUARK: Here.  You need this more than I do.#
 QUARK: I like that about her.#
 QUARK: What you need is a Ferengi.#
