@@ -1243,6 +1243,7 @@ ARCHER: Bridge to the Armoury. Everything okay down there?#
 ARCHER: Their repairs are going to be a little more extensive.#
 ARCHER: Good work. Well, I see no reason for us to go back to Jupiter Station now. Do you?#
 ARCHER: Get on it. Travis, resume our previous course.#
+REED and ARCHER: Hear, hear.#
 ARCHER: Don't get too used to drinking on duty. But you did your jobs pretty damn well yesterday. I'd say that deserves a little celebration.#
 ARCHER: Permission granted. Hoshi, what can we do for you?#
 ARCHER: Great, put it down right here.  As long as we've got you here, Malcolm.#
@@ -4216,6 +4217,9 @@ ARCHER: Suicide, Trip. She killed herself.#
 ARCHER: You're damn right you are. And it's not just her. There's a child who won't be conceived because of this, at least not for a long while. It's time you learned to weigh the possible repercussions of your actions. You've always been impulsive. Maybe this will teach you a lesson.#
 ARCHER: Do you? I'm not so sure you do. You knew you had no business interfering with those people, but you just couldn't let it alone. You thought you were doing the right thing. I might agree if this was Florida, or Singapore, but it's not, is it. We're in deep space and a person is dead. A person who'd still be alive if we hadn't made First Contact. I guess I haven't been very successful at getting through to you. If I had, you would have thought a lot harder before doing what you did.#
 ARCHER: Dismissed.#
+RESEARCHER: Just what the doctor ordered.;#
+RESEARCHER: How are your friends?#
+RESEARCHER: There's a broken heating unit in Module Three. They've asked me to take a look. Will you be all right here?#
 ARCHER: The Admiral thinks that they're humanoids enhanced with technology. He believes they abducted the research team.#
 ARCHER: Earth tracking stations spotted the transport leaving orbit at warp three point nine.#
 ARCHER: I think it's safe to assume these aliens reconfigured the engines using technology from their own ship.#
@@ -6971,6 +6975,7 @@ ARCHER: Is that so?#
 ARCHER: What were you doing in that escape pod?#
 ARCHER: Your story doesn't sound very plausible. I think we were getting close to finding your Augments. You may have put yourself into that escape pod to throw us off.#
 ARCHER: You've made it clear you'll do anything for them. Lie, murder, maybe even sacrifice yourself.#
+SOONG: If the Klingons retaliate against Earth, it'll make the Xindi Incident look like a lovers' quarrel. ARCHER: What do you care what happens to Earth? You believe your children are the future of humanity.#
 ARCHER: Doctor Lucas already told me about the missing toxins.#
 ARCHER: You didn't know? You had to see him murder someone in front of you.#
 ARCHER: None of that would have mattered in the end. It's in their nature. They were engineered to be this way. Superior ability breeds superior ambition. One of their creators wrote that. He was murdered by an Augment.#

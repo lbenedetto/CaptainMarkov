@@ -1712,6 +1712,7 @@ TUCKER: Wait and see. A night's sleep will do you a world of good.#
 TUCKER: She was here last night, right over there.#
 TUCKER: Have you tried the biosensors again, Captain?#
 TUCKER: I'll go take a look at them.#
+;TUCKER: It's the secondary phase coils.#
 TUCKER: They're not aligning. They're not perfectly synchronised. Must've happened right after it came up from the surface.#
 TUCKER: She didn't want to go first. I told her I wouldn't leave her alone with that storm coming but she insisted on going second. She wanted to be sure it was working, that it was safe. I'm the one who should be missing. I told her to go first. She should've listened to me.#
 TUCKER: Aye, sir.#
