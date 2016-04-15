@@ -1906,6 +1906,19 @@ TUVOK: Ensign Kim, you have been given a direct order. Do as the Commander tells
 TUVOK: Is something wrong, sir?#
 TUVOK: Sir, Captain Janeway's shuttle has gone to warp.#
 TUVOK: Sir?#
+HOLO-TUVOK: We are entering the Rukani sector, Commander.#
+HOLO-TUVOK: Aye, sir.#
+HOLO-TUVOK: I assure you, Commander. I have made thorough preparations for the Captain's safety during her away mission. You, on the other hand, are still adapting to your duties as First Officer. Under the circumstances, I believe my time will be better spent assisting you in your effort to justify the trust the Captain has placed in you.#
+HOLO-TUVOK: Aye, sir.#
+HOLO-TUVOK: Ensign Kim, you have been given a direct order. Do as the Commander tells you.#
+HOLO-TUVOK: Is something wrong, sir?#
+HOLO-TUVOK: The Captain's shuttle has gone to warp.#
+HOLO-TUVOK: Sir?#
+HOLO-TUVOK: What did you have in mind, Ensign?#
+HOLO-TUVOK: We will indeed attempt to do so when the time is right.#
+HOLO-TUVOK: Such a foolhardy proposal suggests a lack of proper training. Need I remind you that we are confined behind an electrostatic forcefield?#
+HOLO-TUVOK: We are hardly doing nothing. We are observing the enemy, watching for any discernible patterns in their procedures, looking for any weakness in their defences.#
+HOLO-TUVOK: I am not concerned with your amusement, Ensign. We are in a crisis situation, and we will follow procedure. And procedure dictates that we wait for the right opportunity to attempt an escape, whether it takes an hour or a week.#
 TUVOK: That won't be necessary, Captain. I am the author of the programme in question.#
 TUVOK: I'm afraid there's been a misunderstanding. The programme is not a holonovel. It is a tactical training scenario. When you first invited the Maquis to join our crew, I believed that mutiny was a very real possibility. With that in mind, I began to write a training programme for junior security officers to prepare them for such an eventuality.#
 TUVOK: No. As the two crews began to work together, I concluded that the threat of an insurrection was increasingly unlikely. I realised the programme itself might exacerbate the very conflict I sought to avoid. Therefore, I deleted the scenario, or so I believed.#
@@ -2546,6 +2559,19 @@ TUVOK: Perhaps. I'll assign her to a team and let her observe for a week. At the
 TUVOK: Commander, I've been giving some thought to the fact that the Ramuran ships might be in pursuit and could attack us again.#
 TUVOK: Their proton weapons were particularly effective against us. If Kellin would work with Seven and Ensign Kim, perhaps we could devise a strategy to defend ourselves.#
 TUVOK: Have her report to Astrometrics at thirteen hundred hours.#
+pTUVOK: Channel open.#
+pTUVOK: They are not responding.#
+pTUVOK: Phasers are online.#
+pTUVOK: The bio-agent is still dispersing through the atmosphere. The fatality rate will be three hundred thousand soon enough.#
+pTUVOK: Best guess, one hour.#
+pTUVOK: My apologies. Preparing to fire again.#
+pTUVOK: If you looked at your console once in a while instead of chasing the female ensigns, you'd see otherwise.#
+pTUVOK: We're being fired on by three ships.#
+pTUVOK: Channel open.#
+pTUVOK: They're not responding.#
+pTUVOK: Four intruders. They are in Engineering.#
+pTUVOK: Drop your weapons.#
+pTUVOK: Three of the engineering crew. They've taken Seven of Nine and one of the injured crew members hostage.#
 TUVOK: Living space will be extremely limited. Take only those personal items which are absolutely essential.#
 TUVOK: What, may I ask, is this?#
 TUVOK: Only essential items, Mister Neelix.#
@@ -2833,6 +2859,19 @@ TUVOK: Time to intercept.#
 TUVOK: Our course will put us just outside the Teharan system by the time the warships arrive.#
 TUVOK: I'll be on the bridge. Your efforts have been greatly appreciated.#
 TUVOK: Live long and prosper.#
+YOUNG TUVOK: Infinite Diversity in Infinite Combinations. I know all about Vulcan philosophies.#
+YOUNG TUVOK: I was sent against my will.#
+YOUNG TUVOK: I'm not a prisoner?#
+YOUNG TUVOK: My emotions free me.#
+YOUNG TUVOK: Where should I go?#
+YOUNG TUVOK: I can't return home. My father's banished me.#
+YOUNG TUVOK: They revoked my seat.#
+YOUNG TUVOK: Because I refused to deny myself passion, the way you and men like my father do.#
+YOUNG TUVOK: If I was meant to deny feelings, why was I born with them? Where's the logic in that?#
+YOUNG TUVOK: You speak in riddles because the truth frightens you.#
+YOUNG TUVOK: Yes.#
+YOUNG TUVOK: Why?#
+YOUNG TUVOK: I would question everything you say.#
 TUVOK: I'm Commander Tuvok of the Starship Voyager. Tuvok.#
 TUVOK: Yes. And you?#
 TUVOK: Noss.#
@@ -2871,6 +2910,18 @@ TUVOK: Is there a point to your pessimism?#
 TUVOK: Your attempt to play matchmaker is misguided. I am not experiencing Pon farr.#
 TUVOK: I respect her ability to survive.#
 TUVOK: What way is that?#
+YOUNG TUVOK: I'm sorry I was born Vulcan.#
+YOUNG TUVOK: Are you cataloguing my emotions?#
+YOUNG TUVOK: Isn't it obvious? If I weren't Vulcan, I wouldn't be here now going through this pointless ritual.#
+YOUNG TUVOK: Another riddle. I have no eyes to see behind me.#
+YOUNG TUVOK: My father's already explained it.#
+YOUNG TUVOK: Her name's Jara. Her father's a Terrelian diplomat. She's been granted a seat at my school.#
+YOUNG TUVOK: Yes.#
+YOUNG TUVOK: Yes.#
+YOUNG TUVOK: No. She's, Jara doesn't return my feelings.#
+YOUNG TUVOK: That's a lie! Who is it?#
+YOUNG TUVOK: I'll challenge him.#
+YOUNG TUVOK: You're trying to trick me.#
 TUVOK: How long was I unconscious?#
 TUVOK: Mister Paris?#
 TUVOK: Don't.#
@@ -2908,6 +2959,9 @@ TUVOK: There is no need to insult me, Mister Paris.#
 TUVOK: For what?#
 TUVOK: As do I.#
 TUVOK: Live long and prosper, Noss.#
+YOUNG TUVOK: In infinite combinations.#
+YOUNG TUVOK: Thank you.#
+YOUNG TUVOK: I am grateful.#
 TUVOK: Perhaps these images have been manipulated.#
 TUVOK: How so?#
 TUVOK: Understood.#
@@ -3816,6 +3870,7 @@ TUVOK: I haven't completed my security rounds.#
 TUVOK: How long is this entertainment?#
 TUVOK: Chakotay doubted my loyalty. He wouldn't have given me an active weapon.#
 TUVOK: Call it a hunch.#
+REG as TUVOK: Your pessimism is illogical. Perhaps a mind-meld would help to alleviate your concern.#
 TUVOK: There is too much interference from the fold.#
 TUVOK: These burns are consistent with a type-three phaser.#
 TUVOK: Replicated Starfleet technology.#

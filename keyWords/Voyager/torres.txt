@@ -2989,7 +2989,12 @@ TORRES: He seems to be randomly jumping from one to the next.#
 TORRES: I routed his subroutines to Holodeck one so Harry and Seven could monitor his fantasies.#
 TORRES: It'll give us a better idea of what's going on, help us fix him.#
 TORRES: So, if we can isolate it, we might be able to stabilise his programme.#
+HOLO-TORRES: Why do you torment me like this?#
+HOLO-TORRES: It wasn't?#
+HOLO-TORRES: Without you?#
 TORRES: What?#
+HOLO-TORRES: You can't just leave me. I couldn't bear to be alone.#
+HOLO-TORRES: Forget him. He's not half the man you are.#
 TORRES: I've seen enough of this.#
 TORRES: I'm not happy with these fluctuations. We may be trying to reactivate too many ships at once.#
 TORRES: Thanks. When did you learn Klingon?#
@@ -4054,6 +4059,17 @@ TORRES: In case of what?#
 TORRES: Torres to Chakotay.#
 TORRES: Have you got a minute?#
 TORRES: I'm still working on those modifications you asked for. I'll send somebody else.#
+EMH-TORRES: Computer, access medical file Torres Three and update her holographic template.#
+EMH-TORRES: I did, actually. Where do we keep the spare gel packs?#
+EMH-TORRES: Of course. Gamma five.#
+EMH-TORRES: I know where it is, Ensign.#
+EMH-TORRES: Lieutenant.#
+EMH-TORRES: Er, you startled me.#
+EMH-TORRES: How thoughtful, but I'm not hungry.#
+EMH-TORRES: A pregnant woman shouldn't eat this kind of food. Do you want to give me an arterial occlusion?#
+EMH-TORRES: You know, this all looks so delicious. Why don't we save it for a romantic dinner this evening?#
+EMH-TORRES: I'll be there. Sweetheart.#
+EMH-TORRES:  Harry, I'll be right there. Chakotay out.#
 TORRES: It looks like the Doctor's rerouted the power relays. It'll take a minute to bypass them.#
 TORRES: I'm not detecting an overload.#
 TORRES: All right, everybody out. Now! Move it!#
@@ -4061,6 +4077,8 @@ TORRES: I might be able to stabilise the containment field.#
 TORRES: You'd better be right behind me.#
 TORRES: Where?#
 TORRES: Doctor, don't do this.#
+EMH-TORRES: I think the Doctor's heading for the escape pods.#
+EMH-TORRES: You wouldn't shoot a pregnant woman, would you?#
 TORRES: We're ready to restart the impulse reactors.#
 TORRES: Computer, transfer the EMH back into the holodeck buffer.#
 TORRES: There's more than a thousand teraquads of new data in here.#

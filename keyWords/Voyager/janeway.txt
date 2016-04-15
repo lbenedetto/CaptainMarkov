@@ -279,6 +279,7 @@ JANEWAY: If your analogy's correct, how do we get through that sheet of ice?#
 JANEWAY: Or make a crack. Take something and smack it into the ice until it buckles.#
 JANEWAY: When we first entered the event horizon.#
 JANEWAY: So we'd be looking for a subspace instability in the event horizon. What would make it show up on our sensors?#
+TORRES + JANEWAY: Warp particles.#
 JANEWAY: If we saturate the event horizon with warp particles, we might be able to see the escaping through the rupture we made when we entered.#
 JANEWAY: Mister Tuvok, take the main deflector off-line. Mister Kim, reroute the port and starboard plasma flow to the main deflector. We can use it to generate a warp field.#
 JANEWAY: Release the warp particles.#
@@ -4041,6 +4042,11 @@ JANEWAY: I'm sure you will.#
 JANEWAY: Go ahead, Mister Paris.#
 JANEWAY: On my way.#
 JANEWAY: I appreciate your concern for my safety, Mister Chakotay, but Tuvok's right. Lieutenant Paris and I will be just fine. I'll see you in twenty four hours.#
+HOLO-JANEWAY: Well, Commander, Voyager's all yours.#
+HOLO-JANEWAY: I'm sure you will.#
+HOLO-JANEWAY: Go ahead, Mister Paris.#
+HOLO-JANEWAY: On my way.#
+HOLO-JANEWAY: I appreciate your concern for my safety, Mister Chakotay, but Tuvok's right. Lieutenant Paris and I will be just fine. I'll see you in twenty four hours.#
 JANEWAY: Well, if that takes care of our official agenda, there's another matter I'd like to discuss. Commander Chakotay informs me there's a new holonovel that's become quite popular among the crew.#
 JANEWAY: I don't suppose anyone here is familiar with what we're talking about?#
 JANEWAY: I understand that the author of this little opus has chosen to remain anonymous. Perhaps because of the controversial nature of the story, which depicts Commander Chakotay as the leader of a Maquis mutiny. Well, now that the cat's out of the bag, I want each of you to talk to your staff and find out who our anonymous author is.#
@@ -4050,6 +4056,11 @@ JANEWAY: With all due respect, Mister Tuvok, loosen up. You may have intended th
 JANEWAY: I'm more than just a Captain. I'm the leader of a community, and communities need entertainment, culture, creative outlets. Since we're not exactly privy to every new piece of music or holonovel that's written back home, I think it's only natural that we should start creating our own.#
 JANEWAY: Good. Then it's settled. I for one can't wait to see if Captain Janeway manages to outwit the conspirators.#
 JANEWAY: He would never betray the Captain the way he does in that story. No offence, Mister Vulcan, but I don't think you understand my character very well.#
+HOLO-JANEWAY: Tuvok. Tom. In here.#
+HOLO-JANEWAY: We're going to have to transport to the cargo bay to free the rest of the prisoners. It's safer than trying to make it on foot.#
+HOLO-JANEWAY: Let's move!#
+HOLO-JANEWAY: Back off!#
+HOLO-JANEWAY: Whatever you say.#
 JANEWAY: Seska? How?#
 JANEWAY: Can we get them out?#
 JANEWAY: You said the narrative parameters file is open now?#
@@ -5273,6 +5284,9 @@ JANEWAY: I beg your pardon.#
 JANEWAY: Maintain your position while we consider your request. End transmission. Hold them in a tractor beam until you hear from me.#
 JANEWAY: I have a feeling Steth and his new friend are behind whatever's happened to Tom.#
 JANEWAY: No time to explain. I'll be in Sickbay.#
+STETH/JANEWAY: Gentlemen, I'd advise you to reconsider this pursuit. Killing me will only keep you trapped in those bodies.#
+STETH/JANEWAY: Reclaim your life on Voyager, Tom. I was just as disappointed with it as you were.#
+STETH/JANEWAY: It's time to move on again. Oh, Tom? Be sure to send my best regards to B'Elanna, hmm?#
 JANEWAY: What do you plan to do now?#
 JANEWAY: A security team will escort you to your ship and erect a forcefield to contain her.#
 JANEWAY: Don't do anything. I'll take care of this.#
@@ -5430,6 +5444,77 @@ JANEWAY: Consider that carefully. We're headed for the Alpha Quadrant. Before lo
 JANEWAY: Nothing we haven't faced before.#
 JANEWAY: You'll need a command officer with you to override the security lock-outs.#
 JANEWAY: Go ahead. Tom, coordinate with Engineering to get the propulsion systems back online.#
+pJANEWAY: When diplomacy fails there's only one alternative. Violence. Force must be applied without apology. It's the Starfleet way.#
+pJANEWAY: You're asking me to fight your war, destroy your enemy.#
+pJANEWAY: We risk life and limb so your people can annex Kyrian land. Sounds like a good deal for you. What do we get?#
+pJANEWAY: You know more about Voyager than you've let on.#
+pJANEWAY: I'm listening.#
+pJANEWAY: If you're lying.#
+pJANEWAY: I want all tactical data regarding your little war. Kyrian defences, position of your own forces, everything.#
+pJANEWAY: Arm the assault probes. Fire at will. Hail them.#
+pJANEWAY: This is Captain Janeway of the warship Voyager. Break off your attack, or I'll destroy you.#
+pJANEWAY: Chakotay, any luck tracking down their leader?#
+pJANEWAY: I thought he might. We'll have to flush him out.#
+pJANEWAY: Biogenic weapons. We'll infect the most populated Kyrian territories. The Doctor's nearly done working on the weapon.#
+pJANEWAY: The best way to bring down a ruler is to make his people suffer.#
+pJANEWAY: This is no time for half-measures. You wanted victory. You're going to get it. Bridge to Sickbay. Status?#
+pJANEWAY: Target the first city. And fire.#
+pJANEWAY: Status. Status!#
+pJANEWAY: That's it?#
+pJANEWAY: How soon?#
+pJANEWAY: Why do you always keep me waiting, Tuvok?#
+pJANEWAY: Double the yield,#
+pJANEWAY: You picked a bad time to have second thoughts, Ambassador.#
+pJANEWAY: Defeat? Genocide? Why quibble with semantics?#
+pJANEWAY: We're going to defeat the Kyrians, and you're going to keep up your end of the bargain.#
+pJANEWAY: Ensign, confine this gentleman to the brig. I'll let you know when it's over.#
+pJANEWAY: Evade them.#
+pJANEWAY: Assuming our prisoner told you the truth.#
+pJANEWAY: Neelix?#
+pJANEWAY: Chakotay, you and Tuvok take an assault team and find Tedran. Make sure he's escorted safely to Voyager.#
+pJANEWAY: What now?#
+pJANEWAY: Bridge to Engineering. Respond.#
+pJANEWAY: They've left me no choice. Computer, initiate the Borg activation sequence.#
+pJANEWAY: Is in the Engine Room. Stop them.#
+pJANEWAY: Acknowledged.#
+pJANEWAY: Well, you've been wanting to expand your fighting force. Assimilate them.#
+pJANEWAY: Good news, Lieutenant?#
+pJANEWAY: Take them to chamber nineteen and get the Vaskan ambassador. This is one negotiation he won't want to miss.#
+pJANEWAY: Welcome aboard.#
+pJANEWAY: It's not every day that we receive such an important visitor. The great Tedran. A man of wisdom and peace. A servant of his people. Well, your people need you now more than ever.#
+pJANEWAY: Tell your forces to stand down, and I'll call off my attack.#
+pJANEWAY: He's offered my crew a way home.#
+pJANEWAY: That's right. And you'd do the same in my position.#
+pJANEWAY: Spoken like a true martyr. You're very enlightened. But are you so proud that you'd let your people die before you'd humble yourself?#
+pJANEWAY:#
+pJANEWAY: Surrender.#
+pJANEWAY: Don't look so shocked, Ambassador. This is what you wanted, isn't it?#
+pJANEWAY: Gentlemen. Gentlemen!#
+pJANEWAY: Save it for the holodeck. We've got a war to fight. We've only been attacking the Kyrian military installations. A mistake. We should target the general population.#
+pJANEWAY: How soon could you have one ready?#
+pJANEWAY: Dismissed.#
+pJANEWAY: Don't look so shocked, Ambassador. This is what you wanted, isn't it?#
+pJANEWAY: Don't worry, Ambassador. We've got plenty of medical supplies and we'd be more than happy to share them with you.#
+pJANEWAY: That's very generous, Ambassador#
+pJANEWAY: Oh? Why's that?#
+pJANEWAY: No problem. I understand what you're going through.#
+pJANEWAY: Under different circumstances. Janeway to Sickbay.#
+pJANEWAY: Assemble the medical supplies.#
+pJANEWAY: Once we transport the supplies to the surface there may be a#
+pJANEWAY: Hail them.#
+pJANEWAY: This is Captain Janeway of the starship Voyager. We are not your enemies. Please break off your attack.#
+pJANEWAY: Break out of orbit. Put some distance between us.#
+pJANEWAY: Janeway to Engineering. B'Elanna, respond. Tuvok.#
+pJANEWAY: Go ahead.#
+pJANEWAY: Acknowledged. Remember your offer to make me a diplomat? Well, it looks like I don't have much of a choice. Tell the doctor we have casualties. Have him meet us on deck two.#
+pJANEWAY: Janeway to Tuvok. We're approaching section thirty one.#
+pJANEWAY: Send three security teams to this deck, then seal all the access points.#
+pJANEWAY: Janeway to Tuvok.#
+pJANEWAY: The Kyrians are in the mess hall. We're going in.#
+pJANEWAY: Go.#
+pJANEWAY: We were trading with them, nothing more.#
+pJANEWAY: We didn't realise you were fighting with the Vaskans. Now, lay down your weapons and I promise you won't be harmed.#
+pJANEWAY: No!#
 JANEWAY: Tom, how long can you keep us flying?#
 JANEWAY: Everyone redouble your efforts. Keep your eyes open for new sources of deuterium. Tuvok, Chakotay, I want recommendations for further methods of conservation. Harry, you and I will give them a hand in geophysics. See if we can't synthesise a substitute fuel. In the meantime, we stay in grey mode. If anybody's got any other ideas, I'm listening.#
 JANEWAY: Now why didn't I think of that?#
@@ -7219,6 +7304,7 @@ JANEWAY: And Seven?#
 JANEWAY: All right. Let's get started before my headache gets any worse.#
 JANEWAY: Use your best judgment.#
 JANEWAY: I have to take care of something first. Now get moving, Lieutenant.#
+PAST JANEWAY: Send damage control teams to decks nine through fourteen. Seal the breaches if you can. I'll be on the Bridge. Keep me informed.#
 JANEWAY: Come here often?#
 JANEWAY: Glad we could lend a hand. When do we go home?#
 JANEWAY: Understood.#
@@ -7391,6 +7477,7 @@ JANEWAY: Photonic cannon?#
 JANEWAY: Of course.#
 JANEWAY: I see.#
 JANEWAY: Shush.#
+HOLO-JANEWAY: Congratulations.#
 JANEWAY: I came to check on your patient.#
 JANEWAY: At least there wasn't any permanent damage.#
 JANEWAY: That will never happen. Certainly not because we've seen a few random fantasies. We all daydream, Doctor. It helps us imagine other possibilities in life. Just hold off until we've figured out a way for you to do it without damaging yourself, all right?#
@@ -7533,6 +7620,7 @@ JANEWAY: This new ship. It has some kind of neurogenic interface.#
 JANEWAY: All right, I'll have the Doctor take a look at him. But in the meantime, I want you#
 JANEWAY: Tractor beam.#
 JANEWAY: Increase power to the emitters. We'll drag him in by his heels if we have to.#
+;JANEWAY: Janeway to Paris. Stand down and return to Voyager immediately.#
 JANEWAY: You know I can't do that, Tom.#
 JANEWAY: Return fire.#
 JANEWAY: Track him.#
@@ -9052,6 +9140,8 @@ JANEWAY: Computer, transfer the Barclay hologram to the mobile emitter.#
 JANEWAY: Excuse us, Doctor.#
 JANEWAY: Reg has prepared a list of assignments. I expect you to give him your full cooperation.#
 JANEWAY: Keep us posted. I'd like to send Lieutenant Barclay a little thank you note for all his hard work.#
+REG;as JANEWAY: Imagine my disappointment when I discovered that Lieutenant Paris had eaten all the scrambled eggs. It was pure, unadulterated gluttony. Gastronomic conduct unbecoming a Starfleet officer. He knows it's my favourite breakfast, but he ate them anyway. We have an egg-mergency here, people. I want to know what you plan to do about it.#
+REG as JANEWAY: Do it!#
 JANEWAY: I don't think I quite understand the problem, Doctor.#
 JANEWAY: You should hear his Tuvok. It's eerie.#
 JANEWAY: What do you want me to do, deactivate him?#

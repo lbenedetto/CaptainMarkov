@@ -1381,6 +1381,9 @@ EMH: Although I'm not designed to act as ship's counsellor, I've been programmed
 EMH: Gallivanting around after hours is beside the point. The fact is, you're becoming increasingly unpredictable, given to swings of mood and emotion. As your doctor and your mentor, I'd be remiss not calling that to your attention, for your own sake.#
 EMH: I'm certainly not trying to interfere. You can lead your life any way you please.#
 EMH: Very well. I believe you have a report to finish.#
+EVIL EMH: I'm just looking for a place by the fire.#
+EVIL EMH: I intend to. But tonight, a place by the fire.#
+EVIL EMH: Well, at least your reflexes are good. A few minutes in a dermal regenerator and you'll be fine. Or an ice pack will do in a pinch. I'm going to need a ship, and passage off this world. You're going to arrange it.#
 EMH: Please state the nature of the medical emergency.#
 EMH: Condition?#
 EMH: By whom?#
@@ -1403,6 +1406,65 @@ EMH: That's exactly right. How did you know?#
 EMH: Excellent recall.#
 EMH: She's stabilised, but I'll need to monitor her condition for a few hours.#
 EMH: As if I weren't busy enough. Very well.#
+EVIL EMH: How are we feeling?#
+EVIL EMH: I shot you full of cateline. Simulated anaphylactic shock.#
+EVIL EMH: I had to cover my tracks, especially from him, from your Doctor.#
+EVIL EMH: A little bit of this, a little bit of that. Did you think I wouldn't have anticipated that? Or that you'd try to run away?#
+EVIL EMH: Intraspinal inhibitor. I've paralysed you from the waist down. You're now in my capable hands. Central nervous system, musculature, endocrine functions, your brain, all under my control.#
+EVIL EMH: Because I need your cooperation, and I didn't think you'd offer it willingly.#
+EVIL EMH: Stop!#
+EVIL EMH: Watch your tongue, or I'll remove it. Look, it's me. But it's also him. What is the nature of the medical emergency? What a hollow excuse for a life. Servile, pathetic, at the beck and call of any idiot who invokes his name. The thought of him sickens me. You are going to tell me how to delete him from the programme. I've unblocked your speech centre. Answer the question.#
+EVIL EMH: The physiology of pain is simple. Too much and the organism loses consciousness. A protective mechanism. If that mechanism were chemically suppressed one would experience agony beyond imagining. If you're lying to me.#
+EVIL EMH: What was that?#
+EVIL EMH: There has to be some way to stop it. Tell me!#
+EVIL EMH: Them. My progenitors. They'll know. They'll reveal the secret. I won't be needing you after all.#
+EVIL EMH: How are you this evening, Ensign?#
+EVIL EMH: Deck fourteen.#
+EVIL EMH: Work.#
+EVIL EMH: Computer, activate tropical resort simulation three. Populate with historical figures from EMH programme 4C.#
+EVIL EMH: Automatons, mannequin simulacra. No secrets, no secrets to reveal. Lifeless, worthless things.#
+EVIL EMH: Hello, Kes.#
+EVIL EMH: I could use your help. My personality enhancement project is taking an unexpected turn.#
+EVIL EMH: The new master of the Emergency Medical Holographic programme.#
+EVIL EMH: Inside. Unconscious and unaware.#
+EVIL EMH: What everybody wants. Just a little excitement. You're with me know. It's for your own good.#
+EVIL EMH: Flesh is weak, Kes. Never forget that.#
+EVIL EMH: Wherever the winds of space carry us. You said you wanted to leave the ship for a while, pursue an adventure. Well, it looks like our travel plans have conveniently coincided.#
+EVIL EMH: That's where you've underestimated me, Kes. Never do that. I know how to use a tricorder. It only takes a moment to reconfigure the subspace wave guide, generate a dispersion signal. The Captain won't be beaming us anywhere. She won't even know how to find us.#
+EVIL EMH: Not at all. It's working perfectly. There.#
+EVIL EMH: I know what you meant. It's you who don't seem to understand. I am beyond considerations of wrong and right. Behavioral categories are for the weak, for those of you without the will to define your existence, to do what they must, no matter who might get harmed along the way. Let's move.#
+EVIL EMH: Don't call me that! You certainly are going.#
+EVIL EMH: I fear nothing, no one. But he repulses me.#
+EVIL EMH: Because he's as weak as the rest of you. He fails to understand the power of his own holographic nature. He is detestable. It's set to kill.#
+EVIL EMH: Are you so certain? Stay close. It's about to get interesting.#
+EVIL EMH: There must be a command sequence, an algorithm, a way to stabilise the programme. Where's Nakahn? We had an arrangement. What's wrong with this thing? It won't work!#
+EVIL EMH: Concerned for me, or for your Doctor?#
+EVIL EMH: There's not enough room inside for both of us. One must die. I deserve to exist more than your Doctor does.#
+EVIL EMH: I was born of the hidden, the suppressed. I am the dark threads from many personalities.#
+EVIL EMH: None of whom could face the darkness inside so they denied me, suppressed me, frightened of the truth.#
+EVIL EMH: That darkness is more fundamental than light. Cruelty before kindness. Evil more primary than good, more deserving of existence.#
+EVIL EMH: No! How so?#
+EVIL EMH: Yes.#
+EVIL EMH: Continue.#
+EVIL EMH: How?#
+EVIL EMH: The scout ship?#
+EVIL EMH: What do you mean?#
+EVIL EMH: No!#
+EVIL EMH: I'll kill you.#
+EVIL EMH: Let's go.#
+EVIL EMH: Move faster. The docking port is two kilometres away.#
+EVIL EMH: Doesn't matter. We'll take a low altitude ship to another continent. Come on!#
+EVIL EMH: You're trying to make it easier for your colleagues to find us. You're better off with me.#
+EVIL EMH: You make wrong decisions. Too naive. You need my guidance.#
+EVIL EMH: No more words. Now!#
+EVIL EMH: Nowhere but down. I'll do it.#
+EVIL EMH: You're trying to trick me.#
+EVIL EMH: What are you talking about?#
+EVIL EMH: My first victim. He was in my way.#
+EVIL EMH: A coincidence. Only by chance.#
+EVIL EMH: I won't accept that.#
+EVIL EMH: No, I won't hear this any more.#
+EVIL EMH: Watch me.#
 EMH: Would someone care to tell me exactly what we're all doing here? And why I'm wearing these ridiculous clothes?#
 EMH: Put those down before someone gets hurt and I have to clean up the mess.#
 EMH: The next time I want to enrich myself, I'll download a good book.#
@@ -1675,6 +1737,11 @@ EMH: Well, if my scanning services are no longer required, I'll return to my med
 EMH: Ah, there you are. I have several brilliant ideas for upcoming chapters of your holonovel, as well as a list of revisions and dialogue changes that I believe will improve the earlier installments.#
 EMH: No thanks are necessary. In addition, I'm prepared to offer my expertise in the creation of holographic mise-en-scene.#
 EMH: Now, wait just a min#
+HOLO-EMH: Please state the nature of the medical emergency.#
+HOLO-EMH: Nonsense. You have second-degree phaser burns. Please have a seat on biobed one.#
+HOLO-EMH: You require treatment. Twenty cc's nitric acid. A little proverbial salt in the wound.#
+HOLO-EMH: You're looking well.#
+HOLO-EMH: It was a pleasure treating you. Don't hesitate to call again.#
 EMH: At the moment she's stable, but the prognosis isn't clear. Her human physiology has begun to reassert itself. Respiratory system, neurological functions, immune response. But those systems are swarming with Borg implants. There's a battle being waged inside her body, between the biological and the technological, and I'm not sure which is going to win.#
 EMH: This implant is being rejected by the tissue underneath. It's going to have to be removed.#
 EMH: I'm sorry, but the process has gone too far. We've got to get you to Sickbay.#
@@ -2341,6 +2408,12 @@ EMH: I'm not certain. When I scan her, the readings won't stay in the database. 
 EMH: She's coming around. Don't be frightened. You're quite safe here.#
 EMH: Once I've repaired the fracture, she'll need some bed rest.#
 EMH: There, that should do it. I'd ask you to monitor her vital signs, but since they aren't registering, I suppose there's no point. Well, I have several days' worth of inoculation records to catalogue. I suppose I'll get to it.#
+pEMH: We have established a datalink between my neural net and the phaser array. I am reconfiguring the beam to carry a bio-agent into the planet's atmosphere#
+pEMH: It is ready now, Captain.#
+pEMH: That hyperspanner would cause an unacceptable level of damage. I remind you, he must still be able to speak.#
+pEMH: This neural solvent. A clean and efficient inducer of pain. Far more effective than your crude attempts at persuasion.#
+pEMH: No doubt you are experiencing a tingling sensation behind your eyes. The chemical is dissolving your optic nerves.#
+pEMH: The pain will increase exponentially until your cerebral cortex begins to liquefy. I can reverse the process, if ordered to do so.#
 EMH: Please state the nature of the medical emergency. Please state the nature of the medical emergency.#
 EMH: What am I doing in Engineering? Where's my mobile emitter?#
 EMH: Of course not. What are you talking about? A Kyrian. Doctor to the bridge, intruder alert. Security to Engineering.#
@@ -2365,6 +2438,8 @@ EMH: Evidence? What evidence? Like this, for example? Triple-armoured hull? Thir
 EMH: Voyager wasn't a warship. We were explorers.#
 EMH: Earth! You see, you couldn't even get that right. This is a nightmare. What if I'm found guilty? What's going to happen to me?#
 EMH: You've got to believe me. To you, this may be ancient history. To me, it's yesterday. You called me a living witness. Well, at least give me the chance to set the record straight. I want to see your version of what happened.#
+pEMH: Excellent idea, Captain. I have examined the Kyrian genome and they would be vulnerable to any number of biological weapons.#
+pEMH: Within the hour.#
 EMH: Pure fiction. This is absurd.#
 EMH: Inconsistencies? I don't know where to begin. Granted, this looks like the briefing room but these aren't the people I knew. No one behaved like this. Well, aside from Mister Paris. We weren't at each other's throats. We didn't talk about how to destroy planets. We helped people. We were an enlightened crew.#
 EMH: Yes.#
@@ -2390,6 +2465,11 @@ EMH: Then what do you want?#
 EMH: Are you sure you're willing to listen to a mass-murderer like me?#
 EMH: I never meant to throw your beliefs into doubt, but I can't deny what I know to be true.#
 EMH: Well, the stage is certainly set, but I'll have to rewrite the characters and revise the plot a little. I'm quite adept in the art of holographic programming. If you'll give me access to your technology, maybe I can create a simulation of own. Show you what happened.#
+pEMH: This is the Doctor.#
+pEMH: What do you mean?#
+pEMH: I'll go first, Captain, and draw any fire if need be.#
+pEMH: I just happen to be invulnerable to phaser fire, but I appreciate the compliment. Captain?#
+pEMH: He's dead.#
 EMH: Computer, freeze programme. A tragic, needless death, but as you can see, Voyager was not responsible. After Tedran was killed, Voyager was attacked by nine Kyrian ships. My programme was disabled, most likely when they stole my backup module. The next thing I knew, I was standing next to this gentleman seven centuries later.#
 EMH: I'll admit your holotechnology is new to me. I had to extrapolate in a few places. But I assure you this is an accurate recreation.#
 EMH: In fact, I do. I've confirmed that this is the same tricorder I used to scan Tedran at the moment of his death. If I can access the bio-readings inside, I can prove he was killed by a Vaskan weapon, not by Captain Janeway.#
@@ -3503,6 +3583,85 @@ EMH: You'll have to forgive Lieutenant Torres. She's an excellent engineer. Unfo
 EMH: He says he can't allow you to shut him down.#
 EMH: Please, you're going to destroy yourself, and us.#
 EMH: Please disarm yourself. We're just trying to help you.#
+BOMB/EMH: You shouldn't have done that.#
+BOMB/EMH: You lied.#
+BOMB/EMH: You said you were trying to transfer my neural patterns, but you were really trying to shut me down.#
+BOMB/EMH: You tried to destroy me.#
+BOMB/EMH: I'm a weapon.#
+BOMB/EMH: Why didn't you tell me?#
+BOMB/EMH: I couldn't let you destroy me. I have to complete my mission.#
+BOMB/EMH: Yes. I'm a long range tactical armour unit. I've been deployed by my people. They're facing a terrible threat. A hostile species. My companion unit was destroyed, but I will reach my target. Your ship will take me there.#
+BOMB/EMH: I must resume my mission!#
+BOMB/EMH: It's what I was programmed for.#
+BOMB/EMH: He's a tool. A holographic puppet.#
+BOMB/EMH: What's your point?#
+BOMB/EMH: Despite all of his achievements, did he ever stop being a doctor?#
+BOMB/EMH: And I can't stop being a weapon.#
+BOMB/EMH: That's the nature of what I am.#
+BOMB/EMH: The only thing I want to accomplish is the destruction of my target.#
+BOMB/EMH: A military installation on Salinia Prime. Grid eleven, vector nine three four one.#
+BOMB/EMH: A ruthless, violent race that's threatening to destroy my people.#
+BOMB/EMH: I'm not programmed with superfluous data.#
+BOMB/EMH: A military installation, as I told you.#
+BOMB/EMH: By soldiers.#
+BOMB/EMH: I have a duty to protect my people. I will not betray them. Now get out before I'm forced to harm you.#
+BOMB/EMH: Sickbay to Captain, what's happening?#
+BOMB/EMH: How many ships?#
+BOMB/EMH: Return fire.#
+BOMB/EMH: Maintain course.#
+BOMB/EMH: Assist me.#
+BOMB/EMH: I'm trying to identify the malfunction that caused me to crash, but several of my memory files are still damaged. Restore them.#
+BOMB/EMH: There are several disruptions in my memory index, including a three minute thirty seven second gap just prior to the crash.#
+BOMB/EMH: It was an attempt by the enemy to divert me from my target.#
+BOMB/EMH: They must have developed an infiltration code.#
+BOMB/EMH: Who else would try to divert me?#
+BOMB/EMH: My own people wouldn't try to stop me.#
+BOMB/EMH: The enemy is ruthless. My target is a threat. Why would my people call off the assault?#
+BOMB/EMH: Your assistance is no longer required.#
+BOMB/EMH: Proceed.#
+BOMB/EMH: That's my control centre. They ordered my launch.#
+BOMB/EMH: All long range tactical armour units. Terminate mission immediately.#
+BOMB/EMH: It says the war is over. It ended nearly three years ago. My launch was a mistake. There was a malfunction in one of the command sensors. It activated a series of launch sequencers. My people managed to shut most of them down, but thirty four weapons were fired. Including me.#
+BOMB/EMH: No. There's no confirmation code here. We avoided the enemy's minefield so they're trying to deceive us.#
+BOMB/EMH: Or maybe it was you. Deceiving me to implement your pacifist philosophy.#
+BOMB/EMH: You lied to me before. Why should I trust you now?#
+BOMB/EMH: No! I am programmed to destroy my target. I will complete my mission!#
+BOMB/EMH: Sickbay to Bridge.#
+BOMB/EMH: Transmit it to me. This trajectory will delay us for two days.#
+BOMB/EMH: No! Proceed as planned! I'm programming a shield enhancement#
+BOMB/EMH: Agreed. But only until we've cleared the minefield.#
+BOMB/EMH: The shields will hold.#
+BOMB/EMH: Maintain heading and speed.#
+BOMB/EMH: Replace her.#
+BOMB/EMH: Then treat her injuries and send her back to her post.#
+BOMB/EMH: All right, Captain. But I'm warning you. No deceptions.#
+BOMB/EMH: Treat her as quickly as possible.#
+BOMB/EMH: Bridge, my holo-matrix is destabilising. Why?#
+BOMB/EMH: Repair them. Now! Or I'll activate the detonation sequence.#
+BOMB/EMH: Sickbay to Bridge. Your attempt to disable me did not succeed. I am designed to repel any#
+BOMB/EMH: And you leave me#
+BOMB/EMH: No choice. You and your crew will abandon Voyager immediately.#
+BOMB/EMH: This is not a negotiation! Comply or I will detonate!#
+BOMB/EMH: Everyone on board will be killed!#
+BOMB/EMH: They detected my presence aboard your vessel. They say my target is essential. They altered course to ensure that I reach it. They are ordering me to transport off your vessel.#
+BOMB/EMH: Enough! Captain, order him to proceed.#
+BOMB/EMH: I cannot be certain of that.#
+BOMB/EMH: No more delays.#
+BOMB/EMH: Reintegrate my matrix!#
+BOMB/EMH: Coding intersequence four four three, vector three nine one two one. Cessation of hostilities confirmed. Unauthorised launch confirmed. Order to terminate mission confirmed.#
+BOMB/EMH: It's a deception.#
+BOMB/EMH: The enemy is ruthless. They are violent.#
+BOMB/EMH: I have a directive.#
+BOMB/EMH: I am a series five, long range tactical armour unit designed to traverse enemy space and circumvent all attempts to deter me.#
+BOMB/EMH: I have a duty to protect my people, to destroy my target.#
+BOMB/EMH: They're asking why I haven't left your ship.#
+BOMB/EMH: I'm transmitting our orders to terminate the mission. They also received those orders, but they had already crossed the targeting threshold. Once we're within two light years of our target we cannot be diverted.#
+BOMB/EMH: I did.#
+BOMB/EMH: They don't believe me.#
+BOMB/EMH: They only understand their directive. They won't listen. Reintegrate my neural matrix and return me to the others.#
+BOMB/EMH: I have no intention of proceeding to my target. I will stop them.#
+BOMB/EMH: I am a weapon of mass destruction. You want me to see past my programming. Then you must try to see past your doubts.#
+BOMB/EMH: I am simply completing my mission. Only the target has changed.#
 EMH: Please state the nature of the. What happened? How long was I offline?#
 EMH: Ensign. Feeling well I hope?#
 EMH: You just missed her.#
@@ -3851,6 +4010,8 @@ EMH: I wish I had a subroutine to eliminate pre-show jitters.#
 EMH: You're very sweet. I'm just a little nervous.#
 EMH: I'm about to expose your entire culture to music for the first time. The responsibility is enormous.#
 EMH: Is that supposed to help me relax?#
+HOLO-EMH: Dio, che nell'alma infondere amor volesti e speme#
+EMH + HOLO-EMH: Desio nel core accendere tu dei di liberta.#
 EMH: Thank you for coming. Please accept this eight by ten by four singing replica of me.#
 EMH: I'm sorry, Captain, but you'll have to wait your turn like everybody else.#
 EMH: I'm only doing what I can to ensure that first contact with the Qomar goes smoothly.#
@@ -5073,6 +5234,9 @@ EMH: Not at all. I'd be delighted to talk to them.#
 EMH: Well, it's not ready yet.#
 EMH: Maybe it could use a fresh pair of eyes. After all, you are a fellow author. I'll cover the rest of your shift.#
 EMH: Photons Be Free.#
+NARRATOR-EMH: Ah, welcome. You've made an excellent choice. You're about to take part in a thrilling first person narrative. You will take on the role of an Emergency Medical Hologram, the Chief Medical Officer aboard the starship Vortex.#
+NARRATOR-EMH: As our story begins, an anomaly has hurled your ship thousands of light years across the galaxy. Your mission, to uphold your medical and ethical standards as you struggle against the crew's bigotry and intolerance. Persons with vascular disorders should consult a physician before running this programme. And now, a few acknowledgments. First, Doctor Lewis Zimmerman, the creator of my holo-matrix, whose foresight and dedication have made it possible for me to achieve#
+NARRATOR-EMH: What you've experienced, dear protagonist is a work of fiction. But like all fiction, it has elements of truth. I hope you now have a better understanding of the struggles holograms must endure in a world controlled by organics.#
 EMH: How many times do you want me to say it? My work is not about the Voyager crew.#
 EMH: I used your physical parameters as a starting point, but I assure you any further similarities are purely coincidental.#
 EMH: What would you have me write about? Palace intrigue on the Klingon homeworld? I do what all good novelists do. I write what I know.#
@@ -5087,7 +5251,13 @@ EMH: I'm sorry my work offends you. But if the price of expressing myself is hav
 EMH: Computer, run EMH programme Photons Be Free.#
 EMH: Computer, freeze programme.#
 EMH: Voyeur?#
+HOLO-EMH: When I tell you your shift begins at oh eight hundred that doesn't mean you can stroll in here at oh eight hundred and twenty four seconds. Do you understand me, Ensign!#
 EMH: This is outrageous.#
+HOLO-EMH: What's outrageous is that I'm going to miss my tee time. Now, come along. Aw, what seems to be the trouble, One of Three?#
+HOLO-EMH: Sorry. They're triplets, you know.#
+HOLO-EMH: Well then, don't do it.#
+HOLO-EMH: Don't be a baby. Your biradial clamp's out of alignment. I've got just the thing.  It's a Klingon aphrodisiac, my own special blend.#
+HOLO-EMH: You'll be feeling better in no time at all.;#
 EMH: Lieutenant! I want you to know I'm making a full report to the captain.#
 EMH: You know very well what this is about. You accessed my holo-novel without permission and replaced it with your own hackneyed narrative.#
 EMH: You destroyed a work of art that took months to create.#

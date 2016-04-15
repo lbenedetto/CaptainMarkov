@@ -1488,7 +1488,9 @@ NEELIX: Alixia? Why weren't you there?#
 NEELIX: Commander. Commander, I thought you might need some assistance on the holodeck.#
 NEELIX: Well, I'm up to anything at this point. I've been resting for two days straight and resting makes me feel, well, restless.#
 NEELIX: Gladly.#
+HOLO-NEELIX: Set the transporter for ten thousand amu's, not a particle more. The containment field is standing by.#
 NEELIX: Sounds right.#
+HOLO-NEELIX: I've got the sample, Commander, and it's stable. Let's get out of here.#
 NEELIX: Computer, freeze programme.#
 NEELIX: Nothing.#
 NEELIX: I died, and there was nothing. There was no one there. No Forest.#
@@ -1694,6 +1696,11 @@ NEELIX: More coffee, Commander?#
 NEELIX: Strange to see you using those ancient writing implements.#
 NEELIX: I'm sorry things didn't work out for you.#
 NEELIX: Commander, I don't think you can analyse love. It's the greatest mystery of all. No one knows why it happens or doesn't. Love is a chance combination of elements. Any one thing might be enough to keep it from igniting. A mood, a glance, a remark. And if we could define love, predict it, it would probably lose its power. I'll let you finish.#
+pNEELIX: Eight Kyrian fighter ships approaching.#
+pNEELIX: Approximately three thousand Kyrians dead.#
+pNEELIX: I'm reading a fortified compound one point six kilometres below the surface.#
+pNEELIX: They've erected forcefields. Our soldiers can't get in.#
+pNEELIX: Led by you? Good luck.#
 NEELIX: Hello, there.#
 NEELIX: That, Mister Vulcan, is the Selected Works of Jirex.#
 NEELIX: Oh, Jirex is essential. He's the greatest writer in the Talaxian canon. I never go to sleep without reading at least one of his parables.#

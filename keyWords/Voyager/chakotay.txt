@@ -707,6 +707,12 @@ CHAKOTAY: I want you. I've always wanted you. You feel the same way too.#
 CHAKOTAY: Anything?#
 CHAKOTAY:  Pack it up. We'll find better quality somewhere down the line.#
 CHAKOTAY: What have you got, Lieutenant?#
+YOUNG CHAKOTAY: I'm not. I'm just looking at something.#
+YOUNG CHAKOTAY: I was just looking at a lizard when I saw it.#
+YOUNG CHAKOTAY: The Rubber Tree People?#
+YOUNG CHAKOTAY: And they still use firewood instead of magnesite fuel like everyone else.#
+YOUNG CHAKOTAY: Sacred land?#
+YOUNG CHAKOTAY: Huh. The Sky Spirits must have taken a wrong turn somewhere.#
 CHAKOTAY: Maybe it's a blessing to the land, for damaging it with the campfire.#
 CHAKOTAY: Oh, just something somebody told me once.#
 CHAKOTAY: I hated every minute of it. My father had dragged me all the way from our colony near the Cardassian border on this quest of his. Away from my friends, my home, and here we were in the middle of a brutal Central American jungle looking for the descendants of the ancient Rubber People.#
@@ -724,6 +730,10 @@ CHAKOTAY: Problem?#
 CHAKOTAY: Storm?#
 CHAKOTAY: Fine. We'll take a shuttle.#
 CHAKOTAY: Nothing we can't handle. Relax, Neelix.#
+YOUNG CHAKOTAY: Why do your Sky Spirits choose a place where it rains all the time? And it's hot, and there are so many bugs.#
+YOUNG CHAKOTAY: Sorry, Sky Spirits, I will never make friends with bugs.#
+YOUNG CHAKOTAY: I'm sorry I can't be what you want me to be.#
+YOUNG CHAKOTAY: No one chooses for me. I choose my own way. And if that makes me a contrary, I'll have to live with it.#
 CHAKOTAY: Decreasing speed to seven hundred twenty kph. Entering terminal approach phase.#
 CHAKOTAY: Touchdown site scanned. Continuing descent.#
 CHAKOTAY: Then I guess we'll have to search for these people the old fashioned way, with our eyes and ears.#
@@ -732,6 +742,14 @@ CHAKOTAY: I hereby designate the two of you the team's botanical surveyors. Coll
 CHAKOTAY: Have Ensign Kim run an analysis from the ship. We should be able to.#
 CHAKOTAY: I'll be damned.#
 CHAKOTAY: It almost looks like a hawk, doesn't it?#
+YOUNG CHAKOTAY: I'm leaving the tribe, Father.#
+YOUNG CHAKOTAY: I got to know a lot of the Starfleet officers patrolling the Cardassian border. I asked Captain Sulu if he would sponsor me at Starfleet Academy.#
+YOUNG CHAKOTAY: I told him I had your approval.#
+YOUNG CHAKOTAY: I kept him as far away from you as I could.#
+YOUNG CHAKOTAY: Our tribe lives in the past. A past of fantasy and myth.#
+YOUNG CHAKOTAY: Other tribes have learned to accept the twenty fourth century. Why can't ours?#
+YOUNG CHAKOTAY: I know. That's why I have to leave.#
+YOUNG CHAKOTAY: I ask for your blessing, Father.#
 CHAKOTAY: Go ahead, Neelix.#
 CHAKOTAY: Neelix, what the?#
 CHAKOTAY: Away team to Voyager.#
@@ -747,10 +765,13 @@ CHAKOTAY: I know all about Starfleet protocol, Lieutenant.#
 CHAKOTAY: The logical course isn't always the right course. Lay down your weapons in plain sight. Those are my orders.#
 CHAKOTAY: Negative. We'll show no force of any kind.#
 CHAKOTAY: Noted.#
+YOUNG CHAKOTAY: Maybe we should just leave them alone.#
+YOUNG CHAKOTAY: Father.#
 CHAKOTAY: All right. Let's get back to the shuttle.#
 CHAKOTAY: Hey, wait!#
 CHAKOTAY: No shuttle. Well, at least they got out okay.#
 CHAKOTAY: You have nothing to fear from me. Talk to me. Let me see you.#
+YOUNG CHAKOTAY: No, thank you.#
 CHAKOTAY: You have nothing to fear from me. Talk to me. Let me see you.#
 CHAKOTAY: If you can hear me, speak to me.#
 CHAKOTAY: I'm sorry. I don't know the ancient language of my people. I can't understand.#
@@ -1921,9 +1942,60 @@ CHAKOTAY: Shuttlebay, status.#
 CHAKOTAY: I'll take care of the prisoners here. You two get some help and start rounding up the personnel that are still locked down in quarters. Bring them to Cargo Bay one.#
 CHAKOTAY: Just like old times.#
 CHAKOTAY: Now is not the time, Seska. Take a good look around you. You're under armed guard. You may also notice that your senior officers aren't here. They're in the brig. They'll be put off the ship at the first habitable planet we come to. All except Janeway and Paris, who will arrive at their rendezvous coordinates to find that Voyager's not there. In short, I've taken control of the ship. I don't blame any of you for the mistakes of your leaders, so I'm giving you a choice. You can be put off the ship with your superiors or you can do what Neelix and some of your other crew members have already done and join me. If you do, you'll be part of a crew that's going to do whatever it takes to get us home as fast as possible. Under my command, we won't let almighty Federation principles get in the way of opportunities the way Janeway did when she destroyed the array that could have gotten us home. And we won't be wasting precious time stopping to investigate every insignificant anomaly that we come across. What we will do is use any means necessary to acquire technology that can shorten our journey. To hell with Starfleet regulations. You have fifteen minutes to make up your minds.#
+HOLO-CHAKOTAY: Where are you headed?#
+HOLO-CHAKOTAY: Mind if I walk with you?#
+HOLO-CHAKOTAY: So, how's it going?#
+HOLO-CHAKOTAY: Tuvok still giving you a hard time?#
+HOLO-CHAKOTAY: I don't know about you, but when I think about spending seventy years on the same ship with that guy, it gives me a headache.#
+HOLO-CHAKOTAY: Bridge.#
+HOLO-CHAKOTAY: Computer, halt turbolift. Who told you that?#
+HOLO-CHAKOTAY: Yeah, well, don't believe everything you hear.#
+HOLO-CHAKOTAY: Computer, resume turbolift.#
+HOLO-CHAKOTAY: All right, Ensign, here it is. As soon as the Captain leaves to meet the Rukani, I want you to put all crew quarters on lock-down. I'll ask you if you've finished upgrading the internal sensors. If you say yes, I'll know we're ready to go.#
+HOLO-CHAKOTAY: I'm watching you. No tricks.#
+HOLO-CHAKOTAY: Inform the Captain.#
+HOLO-CHAKOTAY: There's a first time for everything, I guess. Don't worry, Captain. I'll keep your ship safe and sound.#
+HOLO-CHAKOTAY: Captain, I've been thinking. Are you sure you don't want to take Lieutenant Tuvok with you, just in case the Rukani turn out to be less friendly than they seem?#
+HOLO-CHAKOTAY: Lieutenant, I want you to keep close tabs on the Captain's shuttle. Let's make sure she doesn't run into any trouble.#
+HOLO-CHAKOTAY: Ensign, let's shut down the transporters and start that diagnostic we've been putting off.#
+HOLO-CHAKOTAY: Have you finished upgrading the internal sensors?#
+HOLO-CHAKOTAY: I hope so.#
+HOLO-CHAKOTAY: Wait here.#
+HOLO-CHAKOTAY: No, it's just tomorrow's duty roster.#
+HOLO-CHAKOTAY: Thank you, Tuvok. Chakotay to all hands. Let's do it.#
+HOLO-CHAKOTAY: I guess you've made your choice.#
+HOLO-CHAKOTAY: Take them all to the brig.#
+HOLO-CHAKOTAY: Hold Kim and Tuvok here. Bring the rest of them to Cargo bay one.#
+HOLO-CHAKOTAY: And we won't be wasting precious time stopping to investigate every insignificant anomaly we come across. What we will do is use any means necessary to acquire technology that can shorten our journey. To hell with Starfleet regulations. You have fifteen minutes to make up your minds.#
+HOLO-CHAKOTAY: Where the hell are those warp engines?#
+HOLO-CHAKOTAY: It's been two days.#
+HOLO-CHAKOTAY: Run a full security sweep. Something tells me there's more to this engine problem than a faulty dilithium matrix.#
+HOLO-CHAKOTAY: Open a channel. Hello, Kathryn. How did it go with the Rukani?#
+HOLO-CHAKOTAY: There have been a few changes since you've been gone.#
+HOLO-CHAKOTAY: Apparently you do. But I'll find them.#
+HOLO-CHAKOTAY: Nobody has to die here today.#
+HOLO-CHAKOTAY: I'm sorry it had to come to this. But the crew believes I can get them home faster than you can.#
+HOLO-CHAKOTAY: Our warp drive may be temporarily offline, but our weapons systems are fully operational.#
+HOLO-CHAKOTAY: Kathryn, don't try to be a hero. I've been reasonable so far. I'll allow you to keep the shuttle. I'll even transport you some extra provisions. But if you don't stand down, I will destroy your shuttle.#
+HOLO-CHAKOTAY: What does she think she's going to accomplish?#
+HOLO-CHAKOTAY: Not till I give the order. Reopen a channel.#
+HOLO-CHAKOTAY: Target their warp core and fire.#
+HOLO-CHAKOTAY: Janeway's no fool. She tricked us into destroying her shuttle, then transported over while the shields were down.#
+HOLO-CHAKOTAY: You've got the bridge. You're with me.#
+HOLO-CHAKOTAY: Get away from that panel!#
 CHAKOTAY: It's been accessed forty seven times by thirty three different crew members.#
 CHAKOTAY: Anybody else?#
 CHAKOTAY: Besides, Tuvok, if the crew doesn't get an ending, you may have a real mutiny on your hands.#
+HOLO-CHAKOTAY: Hold it right there!#
+HOLO-CHAKOTAY: You're an incredible woman, Seska.#
+HOLO-CHAKOTAY: I've been waiting a long time for this.#
+HOLO-CHAKOTAY: Hello, boys.#
+HOLO-CHAKOTAY: As you can see, the last of your comrades have been captured. In case anybody had any doubts, it should be obvious by now that this is no longer a Starfleet vessel.#
+HOLO-CHAKOTAY: Belay that.#
+HOLO-CHAKOTAY: I'm not sure it's necessary to kill them.#
+HOLO-CHAKOTAY: Lower your weapons.#
+HOLO-CHAKOTAY: We have what we want. There's no reason to kill them.#
+HOLO-CHAKOTAY: Seska! I'm in command of this operation.#
 CHAKOTAY: I don't care what kind of story it is, as long as I'm not the bad guy this time.#
 CHAKOTAY: Ship's status report. We've got two teams on the hull, stripping off the Borg armour. They're working around the clock but it's still slow going.#
 CHAKOTAY: Torres is having problems cleaning out the plasma relays. It's disrupting the antimatter reaction. Until she's got it fixed we're stuck at impulse. She's requesting all personnel with a level three engineering rating or higher to lend a hand.#
@@ -2767,6 +2839,16 @@ CHAKOTAY: No, thanks. I'm almost done.#
 CHAKOTAY: It's the only way I could get a permanent record of what's happened in the last few days. I want to get it down before I forget it all.#
 CHAKOTAY: I've been trying to make sense of it. I fell in love with her twice. I thought she could do the same. We were the same two people on the same ship. Why didn't it happen again? I keep going over and over our last conversation, trying to think if there was something I could have said, could have done, but nothing comes to mind.#
 CHAKOTAY: Good night.#
+pCHAKOTAY: Not yet. We think Tedran has go-ne into hiding.#
+pCHAKOTAY: The location.#
+pCHAKOTAY: I'm a man of peace. My native people are enlightened, non-violent, much like your own. I'm saddened that this has happened to you. If we can work together maybe we can end this conflict.#
+pCHAKOTAY: I'll ask you again. Where is Tedran?#
+pCHAKOTAY: And I want to give that order. But you have to tell me. Where is Tedran?#
+pCHAKOTAY: He's here, at these coordinates.#
+pCHAKOTAY: Oh, believe me, he was very cooperative at the end.#
+pCHAKOTAY: Yes, sir.#
+pCHAKOTAY: You have a better idea, Lieutenant?#
+pCHAKOTAY: I haven't heard a single good idea.#
 CHAKOTAY: What's going on here?#
 CHAKOTAY: You were ordered to shut down Astrometrics an hour ago. We can't afford the power. Seven, it's inefficient.#
 CHAKOTAY: I appreciate your efforts, but we'll have to use conventional scanners until#
@@ -4141,6 +4223,7 @@ CHAKOTAY: Arm photon torpedoes. Fire when ready.#
 CHAKOTAY: Good. Now get us out of here, Tom.#
 CHAKOTAY: Harry!#
 CHAKOTAY: Harry? Harry!#
+BORG-CHAKOTAY: Neelix.#
 CHAKOTAY: Neelix!#
 CHAKOTAY: It's all right. You were unconscious, but I don't think you're injured.#
 CHAKOTAY: Your subconscious was jumping the gun, but not by much. From the look of this room, I'd say we're in an assimilation chamber.#
@@ -4810,16 +4893,60 @@ CHAKOTAY: I'll bring the wine and the furniture.#
 CHAKOTAY: It's a date.#
 CHAKOTAY: Some kind of weapon?#
 CHAKOTAY: If they are weapons, they don't seem to be directed at us.#
+HOLO-CHAKOTAY: You look perfect. Give me a hand with this?#
+HOLO-CHAKOTAY: I must have been sick that day.#
+HOLO-CHAKOTAY: Looks like wine's off the menu.#
+HOLO-CHAKOTAY: Never on the first date.#
+HOLO-CHAKOTAY: Aye, aye.#
+HOLO-CHAKOTAY: That smells delicious.#
+HOLO-CHAKOTAY: No dessert?#
+HOLO-CHAKOTAY: I can't wait.#
+HOLO-CHAKOTAY: Could use another point six milligrams. But you're the chef.#
+HOLO-CHAKOTAY: Liszt?;#
+HOLO-CHAKOTAY: Do you play an instrument?#
+HOLO-CHAKOTAY: I'd love to hear you play.#
+HOLO-CHAKOTAY: Sorry. I'm a replicator man.#
+HOLO-CHAKOTAY: You're beautiful when you're chopping. I don't mean to sound like an old holonovel, but you've got a wonderful smile.#
+HOLO-CHAKOTAY: Oh no, it was a smile. I could check the internal sensors if you'd like.#
+HOLO-CHAKOTAY: I'll take that as a compliment.#
+HOLO-CHAKOTAY: You're doing just fine.#
+HOLO-CHAKOTAY: What's wrong?#
+HOLO-CHAKOTAY: Good morning.#
 CHAKOTAY: Good morning.#
 CHAKOTAY: At first, we thought it was another one of the probes. Then Icheb picked up an automated transmission. It's a warning beacon.#
 CHAKOTAY: We've been sending out emergency hails, but so far no response. Whoever's conducting these tests could be dozens of light years away. Any progress detecting their warheads?#
 CHAKOTAY: You seem a little distracted.#
 CHAKOTAY: It's not like you to be late for a duty shift. Rough night?#
 CHAKOTAY: I'll be on the bridge if you find anything.#
+HOLO-CHAKOTAY: Bravo.#
+HOLO-CHAKOTAY: Approve? I'm amazed. I was expecting Chopsticks. I had no idea you were so good.#
+HOLO-CHAKOTAY: It won't be long before you're giving a recital for the entire crew.#
+HOLO-CHAKOTAY: Unfortunately, I don't play. But I'd love to hear you again and this is one of my favourites.#
+HOLO-CHAKOTAY: No. I want you to play.#
+HOLO-CHAKOTAY: Look, your technique is flawless. But try to put a little more heart into the piece. More of yourself.#
+HOLO-CHAKOTAY: That's all right. Keep going. Tell me what you're feeling.#
+HOLO-CHAKOTAY: Not what you're thinking, what you're feeling. Your emotions.#
+HOLO-CHAKOTAY: Stop thinking about the notes. Just play.#
+HOLO-CHAKOTAY: Yes, you can. Don't you see what's happening? The metronome is holding you back. It gives you a sense of order, but it also cuts you off from your feelings. Remember when you first came aboard? The thought of disconnecting from the hive mind terrified you. This is no different. It doesn't have to be perfect.#
 CHAKOTAY: Bridge to Seven of Nine.#
 CHAKOTAY: We need those sensor calibrations.#
 CHAKOTAY: That would be a good idea.;#
 CHAKOTAY: Good question. Maybe you should ask her.#
+HOLO-CHAKOTAY: I hope you're not allergic. Antarian moon blossoms, extremely rare. I had to smuggle them out of Airponics. Don't tell Neelix. I thought I'd cook for you tonight. How does roasted chicken sound? I slaved over the replicator for hours. Not hungry?#
+HOLO-CHAKOTAY: For what?#
+HOLO-CHAKOTAY: To say the least. You're ending this.#
+HOLO-CHAKOTAY: Why?#
+HOLO-CHAKOTAY: I could speak to the Captain, have her cut back on your duty shifts. Seven, the past few days have been more than memorable. They've been an important step forward for both of us. Don't throw that away.#
+HOLO-CHAKOTAY: You're making a mistake.#
+HOLO-CHAKOTAY: Ask yourself why you want to end this. Is it out of a sense of duty, or something else? Every time you move closer to your emotions, you back away. Like hiding behind that metronome.#
+HOLO-CHAKOTAY: Is it? I think you're afraid that embracing your humanity will make you weak, less than perfect. But think about what you stand to gain.#
+HOLO-CHAKOTAY: No, it's not. Real intimacy with another person? Nothing's more relevant.#
+HOLO-CHAKOTAY: Stay here with me.#
+HOLO-CHAKOTAY: So do I.#
+HOLO-CHAKOTAY: You're not a drone anymore, you're human.#
+HOLO-CHAKOTAY: Seven, what's wrong?#
+HOLO-CHAKOTAY: We were having an argument, then she just collapsed.#
+HOLO-CHAKOTAY: I thought you removed all her cybernetic systems.#
 CHAKOTAY: Red alert. Where's the target probe?#
 CHAKOTAY: Can you compensate?#
 CHAKOTAY: Where's the fire?#
@@ -4998,6 +5125,18 @@ CHAKOTAY: You've consulted me on every major decision over the last seven years,
 CHAKOTAY: I understand that, but every instinct tells me what you're doing is wrong. Don't you remember what happened on Lesik Prime?#
 CHAKOTAY: I think you do. Fifteen years ago, you were the lieutenant who was kept in the dark. If you hadn't questioned your captain's orders, the entire away team would have been lost.#
 CHAKOTAY: You never told me that story. I made it up. Chakotay to Tuvok.#
+EMH-CHAKOTAY: You wanted to see me?#
+EMH-CHAKOTAY: You find that unusual?#
+EMH-CHAKOTAY: I'll be on the bridge if you need me.#
+EMH-CHAKOTAY: Do you know who sent it?#
+EMH-CHAKOTAY: I'll go with you.#
+EMH-CHAKOTAY: Doesn't look like we'll get any answers here.#
+EMH-CHAKOTAY: Good work, Ensign. I'll take it from here.#
+EMH-CHAKOTAY: Get your people out of here. The core's about to breach.#
+EMH-CHAKOTAY: You're getting false readings. The Doctor's reprogrammed your sensors.#
+EMH-CHAKOTAY: You too, B'Elanna.#
+EMH-CHAKOTAY: You're not putting your baby in danger. Go!#
+EMH-CHAKOTAY: Computer, activate Emergency Command Hologram.#
 CHAKOTAY: Do you have any idea where the Flyer is?#
 CHAKOTAY: Go ahead.#
 CHAKOTAY: Computer, pause music.#

@@ -732,8 +732,11 @@ PARIS: Sure am, Captain. I'm running the scans on those ships.#
 PARIS: Oh, it's not even tempting.#
 PARIS: Captain, I'm getting results from the scans. No apparent defensive weaknesses. Metallurgical analysis is inconclusive.#
 PARIS: Yes, ma'am.#
+ADMIRAL PARIS: This time let's see if you can do it without causing an accident. You usually manage to make a mess of everything you do.#
 PARIS: Let me say something I've always wanted to say. Get out of my life.#
+ADMIRAL PARIS: I'm just telling you what you already know. When the going gets tough, you crumble.#
 PARIS: Not any more. Not any more.#
+ADMIRAL PARIS: You don't really believe that. In your heart, you believe you'll fail again. And of course you will. You can't do anything right. You'll fail. Why even try?#
 PARIS: A plasma leak caught me in the face. Help me.#
 PARIS: Come with me.#
 PARIS: You can't leave me like this. It hurts.#
@@ -894,6 +897,7 @@ PARIS: That would be dishonest, Harry.#
 PARIS: How many rations are you willing to bet on that?#
 PARIS: Harry, Harry, Harry. Never, ever play with anyone, not even your best friend, if he says let's make it interesting. You want a little action, I'll give you a little action. How about an honest game of chance?#
 PARIS: One replicator ration is all it takes to play, and the only thing you have to do to win is pick a number. Just predict what the radiogenic particle count will be at twelve hundred hours tomorrow, and if you hit the pot is yours. Minus a small handling fee for the bank, of course.#
+JONES: Jones. PARIS: Harry, get a PADD, take down these names and numbers.#
 PARIS: And the winner of sixteen replicator rations in the Paris radiogenic sweepstakes is? Computer?#
 PARIS: What? No winner? Computer, are you positive?#
 PARIS: You heard the little lady. Try your luck again, folks. The pot grows daily until we have a winner. Enter your name on the PADD and pick a number. Can I buy you lunch, Mister Kim? I have an extra ration today.#
@@ -1742,6 +1746,7 @@ PARIS: Do you think we've got a saboteur on board?#
 PARIS: They're powering phasers.#
 PARIS: I don't know how, but they've disabled our shields. We're completely vulnerable.#
 PARIS: It's Paris and Janeway.#
+HOLO-PARIS: Drop it.#
 PARIS: Computer, resume programme.#
 PARIS: Well, start it up again, right where it left off.#
 PARIS: Why not?#
@@ -2119,6 +2124,9 @@ PARIS: I knew we were too close to the protomatter. I should have said something
 PARIS: What are you saying? You can bring Neelix back to life?#
 PARIS: I say we let her try.#
 PARIS: I've sealed the fractures in the shuttle nacelle. The rest of the repairs should be completed by morning.#
+HOLO-PARIS: There's a concentration of protomatter directly ahead.#
+HOLO-PARIS: We're in range. The transporter beam ignited the protomatter.#
+HOLO-PARIS: Shields are weakening. Shields are down.#
 PARIS: You might want to try the old glass and spoon approach.#
 PARIS: Excuse me.#
 PARIS: A few days ago we almost lost a member of our family. I don't know about how the rest of you feel, but it scared the hell out of me. Neelix, you still don't know how to make a pizza, but I'm glad you're here.#
@@ -2383,6 +2391,67 @@ PARIS: Hmm.#
 PARIS: Everything here looks good. Just give me one more second to check the flow field parameters.#
 PARIS: It's my box wrench. I've been looking all over for this.#
 PARIS: To check your new carburettor?#
+STETH/PARIS: Consider this a favour. I know how unhappy you've been with this dreary, settled life so I'm taking it off your hands. I'm betting there's still some fun to be had here. Voyager is a great ship, Tom. I'll take good care of it.#
+STETH/PARIS: Sorry I'm late.#
+STETH/PARIS: It's nothing.#
+STETH/PARIS: I'm just really going to miss that guy.#
+STETH/PARIS: Not at all. Commander.#
+STETH/PARIS: Really?#
+STETH as PARIS: I'm sure I can.#
+STETH/PARIS: The Doctor.#
+STETH/PARIS: Of course.#
+STETH/PARIS: Hi.#
+STETH/PARIS: Oh! Not yet. I was just trying to figure out if there's a more efficient route between Sickbay and my quarters.#
+STETH/PARIS: Ah, not yet. But they will be, soon.#
+STETH/PARIS: Oh, sure can be.#
+STETH/PARIS: What?#
+STETH/PARIS: Oh, of course. I can't wait.#
+STETH/PARIS: I won't let it happen again.#
+STETH/PARIS: I will.#
+STETH/PARIS: If I ever find him.#
+STETH/PARIS: Okay.#
+STETH/PARIS: Sorry.#
+STETH/PARIS: I don't know what's wrong.#
+STETH/PARIS: Actually, I'm not feeling so well.#
+STETH/PARIS: No, no, Doc, that's all right. To be perfectly honest with you. This is so frustrating for me. I usually pick things up a lot faster than this.#
+STETH/PARIS: That's easy for you to say.#
+STETH/PARIS: Well, no offence, Doctor, but you were programmed to be a medical genius. Things always come easy to you. Me, I'm just a pilot. A grease monkey. And as hard as I might try to become a better assistant, it's clear to me now that I'll never be half the healer that you are.#
+STETH/PARIS: I'm afraid I have.#
+STETH/PARIS: I'll do that, Doctor. Thank you.#
+STETH/PARIS: B'Elanna.#
+STETH/PARIS: Putting.#
+STETH/PARIS: I can't putt in your quarters?#
+STETH/PARIS: Since when?#
+STETH/PARIS: That is a sand wedge. It's used for getting out of traps.#
+STETH/PARIS: I replicated it for you. I thought we could play a little game of golf on the holodeck before dinner.#
+STETH/PARIS: You're being a little hard on Steth. If it wasn't for him, I wouldn't be here right now.#
+STETH/PARIS: I mentioned to him we were having some problems and he urged me to come and talk to you. To try to work things out. To admit I was wrong. I made a mistake, B'Elanna, and I'm sorry. I won't shut you out anymore. In fact, I went to the Doctor and begged to be excused from my duties. I realise it's only a few extra hours, but they're hours I want to spend with you.#
+STETH/PARIS: You can thank me later.#
+STETH/PARIS: What would you say to twenty four glorious hours on the famed fourth planet of the Kendren system?#
+STETH/PARIS: I ran a few scans and found the most incredible beach on one of the smaller continents. I replicated a picnic lunch for us. Voyager isn't leaving orbit until tomorrow. We'd have an entire day.#
+STETH/PARIS: I wish we could. We've only got a day.#
+STETH/PARIS: Completely.#
+STETH/PARIS: What could Janeway do, execute us?#
+STETH/PARIS: B'Elanna.#
+STETH/PARIS: Responsibilities? I don't care!#
+STETH/PARIS: You're a real disappointment to me, do you know that? I don't know what I ever saw in you.#
+STETH/PARIS: Seven, what brings you here at this hour?#
+STETH/PARIS: I did. I got so caught up with my reading I guess it slipped my mind. Sorry.#
+STETH/PARIS: No, not at all. I was just exploring the replicator, trying some alien beverages. Only a few were alcoholic.#
+STETH/PARIS: I'm on break. Would you like to join me? I could replicate another Trakian ale for you.#
+STETH/PARIS: Relax, Seven. You're not on the Borg Cube any more. We could finish our work on the shuttle tomorrow.#
+STETH/PARIS: Fine.#
+STETH/PARIS: I wasn't.#
+STETH/PARIS: You're wrong. You're confused. You couldn't possibly have seen anything.#
+STETH/PARIS: I'm warning you, stay out of my way! Don't interfere in things that don't concern you. If you bother me again, I will make things very unpleasant for you.#
+STETH/PARIS: Don't be foolish. You'll regret it.#
+STETH/PARIS: You wanted to see me, Captain?#
+STETH/PARIS: She's mistaken, Captain.#
+STETH/PARIS: I'm sorry, Captain. B'Elanna and I had an argument. I was upset.#
+STETH/PARIS: I wasn't!#
+STETH/PARIS: She probably accessed those files herself. Captain, you can't take the word of a Borg over mine.#
+STETH/PARIS: You're right, Captain. I need some rest. I'll go right to my quarters.#
+STETH/PARIS: This is crazy. I don't need any help.#
 PARIS: Believe me, I'm just as happy to be back to the old Tom Paris.#
 PARIS: It's more than just a garage. This is a monument to hundreds and hundreds of hours that I probably should have spent with you.#
 PARIS: Definitely.#
@@ -2421,6 +2490,15 @@ PARIS: Aye, sir.#
 PARIS: I was looking at her ship. It uses a sophisticated polarisation technique that causes our sensor scans to pass right through it. She could have been shadowing us for quite a while.#
 PARIS: That last volley damaged our propulsion systems. We have thrusters only.#
 PARIS: I'm on it, Captain.#
+pPARIS: They're returning fire. Shields are holding.#
+pPARIS: Three more Kyrian vessels approaching.#
+pPARIS: Aye, aye, sir.#
+pPARIS: Intruders. Four Kyrians just beamed into the engine room.#
+pPARIS: We've already drained two phaser banks, and he hasn't hit anything.#
+pPARIS: As a matter of fact I do. Fighter shuttles. A direct assault.#
+pPARIS: Watch your mouth, hedgehog.#
+pPARIS: Well, then propose something, First Officer. Earn your rank for once.#
+pPARIS: Yes, ma'am.#
 PARIS: With the deuterium supply this low? Even at one quarter impulse we'll be out of gas inside a week.#
 PARIS: We could set up a bicycle in the mess hall, attach a generator, pedal home.#
 PARIS: And I volunteer Harry to take the first shift.#
@@ -2472,6 +2550,9 @@ PARIS: That stuff is in our blood?#
 PARIS: How is that possible?#
 PARIS: So, what's our prognosis, Doc?#
 PARIS: Which means if we leave, we'll have nothing to breathe.#
+DEMON PARIS: Please, just let me go back.#
+DEMON PARIS: Captain, you have to believe me. I don't know any more than you do about this. Until he showed up, I thought I was Tom Paris. A little changed by my experience on the planet maybe, but now I don't know who or what I am. All I know is that I have to get off this ship and go back down to the surface.#
+DEMON PARIS: Ow. What are you doing?#
 PARIS: Aye, Captain.#
 PARIS: Yes, ma'am.#
 PARIS: Captain!#
@@ -3053,6 +3134,7 @@ PARIS: All right, then. Let's get this thing in the air and hope Captain Janeway
 PARIS: We've been hit.#
 PARIS: We're not going down without a fight. Doc, activate the Destructo Beam.#
 PARIS: Big button in the middle of that panel.#
+KIM + PARIS: The other panel!#
 PARIS: I'm reading you.#
 PARIS: Acknowledged. Harry, target the Death Ray. Doc, fire the Destructo Beam on my mark. Ready? Now!#
 PARIS: I was about to say, Captain Proton to the rescue, but I see you have everything under control.#
@@ -3180,6 +3262,7 @@ PARIS: Ma'am, won't you be down there?#
 PARIS: They've isolated our shields again. Three vessels are converging. I'm remodulating.#
 PARIS: They can't! They're firing blind!#
 PARIS: It's no use, they've locked on to our shield modulators. They're adapting the second we change frequencies.#
+;PARIS: Captain, they've disengaged#
 PARIS: Three vessels, closing fast.#
 PARIS: Transwarp in four, three, two. A vessel entered the conduit with us, just before it closed.#
 PARIS: Direct hit on the port nacelle. We're venting plasma.#
@@ -3651,7 +3734,33 @@ PARIS: You're awfully chipper.#
 PARIS: Oh, yeah. I'm starved.#
 PARIS: No, no way. Reg and I have a hoverball game scheduled.#
 PARIS: Velocity, hoverball, warp core recalibrations? Reg, I don't know how you do it.#
+ADMIRAL PARIS: Can we contact them?#
+ADMIRAL PARIS: Impressive. Will they be able to respond?#
+ADMIRAL PARIS: It's all right, Mister Harkins, let the man speak. I'm all ears, son.#
+ADMIRAL PARIS: A wormhole?#
+ADMIRAL PARIS: I can't give you high marks for clarity, Lieutenant, but you've certainly got my attention. Is there any merit to what he's saying?#
+ADMIRAL PARIS: I have a son on that ship, Lieutenant. I haven't forgotten that fact for a single moment.#
 PARIS: You're losing me.#
+ADMIRAL PARIS: What is it, Nicole?#
+ADMIRAL PARIS: You told him I have a meeting scheduled at fifteen hundred?#
+ADMIRAL PARIS: Send him in.#
+ADMIRAL PARIS: You're frightening my secretary, Mister Barclay. You have five minutes.#
+ADMIRAL PARIS: Sit down.#
+ADMIRAL PARIS: Yes, Commander Harkins has informed me about your attachment to the crew. I understand you've been spending time with a holographic re-creation of my son, among others. Frankly, I find that rather disturbing.#
+ADMIRAL PARIS: Commander Harkins doesn't seem to think your plan is viable.#
+ADMIRAL PARIS: In my opinion, Commander Harkins removed you from the project with good cause, and that's his prerogative. I won't let my personal feelings interfere with Starfleet procedure.#
+ADMIRAL PARIS: I'll order a review of your findings. If it's concluded your ideas are valid, I'll instruct Commander Harkins to pursue it.#
+ADMIRAL PARIS: That's the best I can do, Mister Barclay. Good day.#
+ADMIRAL PARIS: There you are. I've reviewed Mister Barclay's plan. I think it's worth an attempt.#
+ADMIRAL PARIS: I'm sorry to hear that.#
+ADMIRAL PARIS: You've put me in a difficult position, son. I was hoping that we'd be able to#
+ADMIRAL PARIS: From where?#
+ADMIRAL PARIS: Voyager.#
+ADMIRAL PARIS: This is Admiral Paris.#
+ADMIRAL PARIS: Tell him, tell him I miss him.#
+ADMIRAL PARIS: I want you all to know we're doing everything we can to bring you home.#
+ADMIRAL PARIS: Why the long face, Mister Barclay?#
+ADMIRAL PARIS: No, Lieutenant. I'd say that Project Voyager is just beginning, thanks to you.#
 PARIS: To my Dad. It's nice to know he's still there. And to the newest honorary member of the Voyager crew, Reginald Barclay. Whoever you are.#
 PARIS: Good morning, Grace.#
 PARIS: Sullivan's. Care to join me?#
@@ -3997,6 +4106,7 @@ PARIS: Nice shot. They're breaking pursuit.#
 PARIS: She's going into anaphylactic shock.#
 PARIS: It's losing synaptic cohesion.#
 PARIS: Captain, this was our twelfth simulation. Something tells me thirteen won't be our lucky number.#
+(PARIS: What's the matter, Harry? You look a little pale.#
 PARIS: How can we put the new Delta Flyer through her paces without taking a few risks?#
 PARIS: Shields.#
 PARIS: Wow, nice ship.#
@@ -4179,7 +4289,23 @@ PARIS: Remember Arturis and his quantum slipstream drive? Or how about the telep
 PARIS: Yeah, which is why we'll probably end up in the Gamma Quadrant.#
 PARIS: Don't say I didn't warn you.#
 PARIS: If we get home, Harry. If.#
+ADMIRAL PARIS: State your name for the record.#
+ADMIRAL PARIS: Occupation?#
+ADMIRAL PARIS: Dabo?#
+ADMIRAL PARIS: Is this true?#
+ADMIRAL PARIS: Lieutenant Barclay tells me that the two of you;spent a significant amount of time together. Did he ever discuss his work at Pathfinder with you?#
+ADMIRAL PARIS: And who did you share that information with?#
+ADMIRAL PARIS: I have a theory. Would you like to hear it?#
+ADMIRAL PARIS: I think that some of your Ferengi friends found a way to profit from Lieutenant Barclay's work. I think you were encouraged to get close to him. And when you had all the information you needed, you left.#
+ADMIRAL PARIS: I don't think therapy is what this woman needs, Counsellor.#
+ADMIRAL PARIS: Five minutes.#
+ADMIRAL PARIS: The Ferengi wouldn't have stolen the hologram if they didn't think it was valuable. They're probably waiting to rendezvous with a buyer. Are there any Starfleet ships in that area?#
+ADMIRAL PARIS: Open a channel.#
+ADMIRAL PARIS: Tell Captain Peterson to adjust his course immediately.#
+ADMIRAL PARIS: Would someone care to tell me what that is?#
 PARIS: Two million kilometres and closing, Captain.#
+ADMIRAL PARIS: Captain Janeway knows better than to take her ship into such a dangerous anomaly.#
+ADMIRAL PARIS: The Carolina isn't equipped to do that.#
 PARIS: Making first contact with a new lifeform?#
 PARIS: If it'll make you feel any better, I'll let you in on a little secret. I was on the bridge this morning when we received a hail from an Iconian scientist. He claims to have a trans-dimensional gateway that can take us anywhere in the galaxy.#
 PARIS: Approaching the coordinates.#
@@ -4587,7 +4713,11 @@ PARIS: He thinks he's written a masterpiece. I didn't know what to tell him.#
 PARIS: People may not take the programme literally, but they might wonder if there's some truth to it. I think we should talk to the captain.#
 PARIS: What do you mean?#
 PARIS: You think I'm jealous? Okay, maybe I am overreacting. Why don't the rest of you try the programme and decide for yourselves?#
+MARSEILLES-PARIS: You should be glad we let you out of your cage at all. Now get going.#
 PARIS: You set your story on a starship lost in the Delta Quadrant.#
+NARRATOR-PARIS: Welcome. You've made an excellent choice. You're obviously a person with impeccable taste.#
+NARRATOR-PARIS: You are about to embark on a remarkable journey. You will take on the role of a medical assistant aboard the starship Voyeur.#
+NARRATOR-PARIS: Your job will be to assist the Chief Medical Officer, and learn to tolerate his overbearing behaviour and obnoxious bedside manner. Remember, patience is a virtue.#
 PARIS: This isn't about that dermal regenerator I misplaced, is it?#
 PARIS: Hey, I'm just writing what I know.#
 PARIS: Relax, Doc. I saved your programme in a backup file. But I was just trying to make a point.#
@@ -4603,6 +4733,10 @@ PARIS: Hey. What's that?#
 PARIS: What are you going to do?#
 PARIS: Oh, I'm sure she wouldn't mind waiting a few weeks.#
 PARIS: Then let him do the talking.#
+ADMIRAL PARIS: Ah yes, Mister Barclay. What can I do for you?#
+ADMIRAL PARIS: Well, what is it?#
+ADMIRAL PARIS: Well, I appreciate the gesture Lieutenant but, I don't share your affinity for holographic diversions.#
+ADMIRAL PARIS: Hmm.#
 PARIS: Oh, great idea. A cover up. And then everyone will be convinced that it's a true story.#
 PARIS: Well, we'd have to prove that the story's about us and that we've been harmed by it.#
 PARIS: In other words, you want to concede that the Doctor isn't a person.#
@@ -4793,7 +4927,12 @@ PARIS: Captain, I'm afraid#
 PARIS: But#
 PARIS: On my way, Captain.#
 PARIS: Aye, Captain.#
+ADMIRAL PARIS: What the hell is it?#
+ADMIRAL PARIS: I want every ship in range to converge on those coordinates now.#
 PARIS: I can't stay ahead of them, Captain.#
 PARIS: Yes, ma'am.#
+ADMIRAL PARIS: Open a channel.#
+ADMIRAL PARIS: This is Admiral Paris. Use all necessary force. I repeat, all necessary force.#
 PARIS: Right where we expect it to be.#
+ADMIRAL PARIS: Cease fire.#
 PARIS: Yes, ma'am.#
