@@ -15,10 +15,10 @@ public class SeriesReader implements Iterable<String> {
 	/**
 	 * Constructor for SeriesReader
 	 *
-	 * @param _series Series
+	 * @param series Series
 	 */
-	public SeriesReader(Series _series) {
-		series = _series;
+	public SeriesReader(Series series) {
+		this.series = series;
 	}
 
 	public void nextSeries() {
