@@ -2,16 +2,13 @@ package CaptainMarkov;
 
 import CaptainMarkov.utils.Macros;
 import CaptainMarkov.utils.MarkovChain;
-
 import java.util.HashMap;
 import java.util.Scanner;
 
 public class Menu {
 	public static final boolean deepLogging = false;
 
-	//TODO: Convert to GUI (long term goal)
-	//TODO: Overhaul the parsing of scripts
-	//There are a ton of weird bugs that cause certain lines to be ignored
+	//TODO: Convert to GUI (long term goal) (And fix this shitty menu while you're at it)
 	public static void main(String[] args) {
 		HashMap<String, HashMap<String, MarkovChain>> chains = Macros.createMarkovChains();
 		HashMap<String, MarkovChain> seriesChain;
@@ -31,7 +28,9 @@ public class Menu {
 			System.out.println("How many do you want to generate at a time");
 			n = readInt();
 			do {
-				curr.generateSentences(n);
+				String[] logs = curr.generateSentences(n);
+				for(String s : logs)
+					System.out.println(s);
 				System.out.println("Type back to go back");
 			} while (!readString().equalsIgnoreCase("back"));
 			System.out.println("Type exit to exit, or enter to continue");
