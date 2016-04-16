@@ -8,13 +8,14 @@ import CaptainMarkov.utils.IterableFile;
 import CaptainMarkov.utils.MarkovChain;
 import CaptainMarkov.utils.Series;
 
-public class KeyWord {
+public class KeyWord extends Generator {
 	private final String keyPhrase;
 	private final boolean cutToPhrase;
 	private final Series series;
 	private MarkovChain chain;
 	private PrintWriter txtFile;
 	public IterableFile file;
+	public boolean canGenerate;
 
 	/**
 	 * Constructor for KeyWord
@@ -24,6 +25,7 @@ public class KeyWord {
 	 * @param series      Series
 	 */
 	public KeyWord(String phrase, boolean cutToPhrase, Series series) {
+		canGenerate = false;
 		if (phrase.equals("Captain's log"))
 			keyPhrase = series == Series.DS9 ? "Station log" : "Captain's log";
 		else
@@ -44,6 +46,16 @@ public class KeyWord {
 					saveLines();
 			}
 		}
+
+	}
+	public void buildChain(){
+		chain = new MarkovChain(file);
+		canGenerate = true;
+	}
+	public String generate() {
+		if(canGenerate)
+			return chain.generateSentence();
+		throw new NullPointerException("Tried to use chain before building it");
 	}
 
 	private boolean makeOutputFile(String filename) {
@@ -60,6 +72,10 @@ public class KeyWord {
 			return false;
 		}
 		return true;
+	}
+
+	public void merge(KeyWord that) {
+		this.chain.addFile(that.file);
 	}
 
 	/**

@@ -6,10 +6,12 @@ import CaptainMarkov.getters.SeriesReader;
 import CaptainMarkov.utils.MarkovChain;
 import CaptainMarkov.utils.Series;
 
-public class CaptainsLog {
-	private final MarkovChain chain;
+public class CaptainsLog extends Generator{
+	public final MarkovChain chain;
+	private final String seed;
 
-	public CaptainsLog() {
+	public CaptainsLog(String seed) {
+		this.seed = seed;
 		chain = new MarkovChain();
 		SeriesReader seriesReader = new SeriesReader(Series.TOS);
 		while (seriesReader.hasNextSeries()) {
@@ -21,7 +23,7 @@ public class CaptainsLog {
 		}
 	}
 
-	public void getLog(String seed) {
+	public String generate() {
 		String log = "Captain's log ";
 		if (Math.random() <= .3) {
 			log += "supplemental, ";
@@ -29,7 +31,7 @@ public class CaptainsLog {
 			log += "stardate " + getStardate() + ". ";
 		}
 		log += chain.generateSentenceWithSeed(seed);
-		System.out.println(log);
+		return log;
 	}
 
 	/**

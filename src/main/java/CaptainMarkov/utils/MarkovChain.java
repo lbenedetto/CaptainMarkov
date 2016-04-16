@@ -19,7 +19,7 @@ public class MarkovChain {
 	/**
 	 * Initialize chain with lines
 	 */
-	MarkovChain(IterableFile lines) {
+	public MarkovChain(IterableFile lines) {
 		createStarterEntries();
 		addFile(lines);
 	}
