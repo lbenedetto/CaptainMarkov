@@ -2,6 +2,7 @@ package CaptainMarkov;
 
 import CaptainMarkov.utils.Macros;
 import CaptainMarkov.utils.MarkovChain;
+
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -29,7 +30,7 @@ public class Menu {
 			n = readInt();
 			do {
 				String[] logs = curr.generateSentences(n);
-				for(String s : logs)
+				for (String s : logs)
 					System.out.println(s);
 				System.out.println("Type back to go back");
 			} while (!readString().equalsIgnoreCase("back"));

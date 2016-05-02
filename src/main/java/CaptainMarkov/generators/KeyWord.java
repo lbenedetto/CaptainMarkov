@@ -26,10 +26,7 @@ public class KeyWord extends Generator {
 	 */
 	public KeyWord(String phrase, boolean cutToPhrase, Series series) {
 		canGenerate = false;
-		if (phrase.equals("Captain's log"))
-			keyPhrase = series == Series.DS9 ? "Station log" : "Captain's log";
-		else
-			keyPhrase = phrase;
+		keyPhrase = phrase;
 		//Validate filename
 		String filename = keyPhrase.replaceAll("[^a-zA-Z0-9.\\s-]", "").toLowerCase();
 		this.cutToPhrase = cutToPhrase;
@@ -48,12 +45,14 @@ public class KeyWord extends Generator {
 		}
 
 	}
-	public void buildChain(){
+
+	public void buildChain() {
 		chain = new MarkovChain(file);
 		canGenerate = true;
 	}
+
 	public String generate() {
-		if(canGenerate)
+		if (canGenerate)
 			return chain.generateSentence();
 		throw new NullPointerException("Tried to use chain before building it");
 	}
