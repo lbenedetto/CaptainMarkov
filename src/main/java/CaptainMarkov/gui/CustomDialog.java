@@ -51,17 +51,13 @@ class CustomDialog extends JDialog implements ActionListener, PropertyChangeList
 		setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
 		addWindowListener(new WindowAdapter() {
 			public void windowClosing(WindowEvent we) {
-	      /*
-           * Instead of directly closing the window, 
-                 * we're going to change the JOptionPane's 
-                 * value property. 
-                 */
 				optionPane.setValue(JOptionPane.CLOSED_OPTION);
 			}
 		});
 
 		//Register an event handler that reacts to option pane state changes.
 		optionPane.addPropertyChangeListener(this);
+		parent.setLabel("Generating...");
 	}
 
 	/**

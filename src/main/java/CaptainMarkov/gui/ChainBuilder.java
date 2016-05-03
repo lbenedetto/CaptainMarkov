@@ -11,13 +11,13 @@ import java.awt.*;
 import java.util.ArrayList;
 
 public class ChainBuilder extends JPanel {
-	private JLabel label;
+	public JLabel label;
 	// private ImageIcon icon = createImageIcon("images/middle.gif");
 	private JFrame frame;
 	private String customizationPanelDescription = "Mix and match shows: ";
 	private String presetPanelDescription = "Presets (more will be added)";
 	private CustomDialog customDialog;
-	private ChainBuilder THIS;
+	public static ChainBuilder THIS;
 	private TextForm inputForCustom;
 	private TextForm inputForPreset;
 
@@ -77,7 +77,8 @@ public class ChainBuilder extends JPanel {
 	/**
 	 * Sets the text displayed at the bottom of the frame.
 	 */
-	void setLabel(String newText) {
+	public void setLabel(String newText) {
+		//TODO: Use this for displaying information when loading markov chain
 		label.setText(newText);
 	}
 
@@ -122,6 +123,7 @@ public class ChainBuilder extends JPanel {
 			KeyWord keyWord = null;
 
 			for (Series series : shows) {
+				setLabel("Adding lines matching \"" + seed + "\" in " + series.toString());
 				if (keyWord == null) {
 					keyWord = new KeyWord(seed, true, series);
 					keyWord.buildChain();

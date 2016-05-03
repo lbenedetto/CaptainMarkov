@@ -3,6 +3,7 @@ package CaptainMarkov.generators;
 import java.util.Calendar;
 
 import CaptainMarkov.getters.SeriesReader;
+import CaptainMarkov.gui.ChainBuilder;
 import CaptainMarkov.utils.MarkovChain;
 import CaptainMarkov.utils.Series;
 
@@ -15,6 +16,7 @@ public class CaptainsLog extends Generator{
 		chain = new MarkovChain();
 		SeriesReader seriesReader = new SeriesReader(Series.TOS);
 		while (seriesReader.hasNextSeries()) {
+			ChainBuilder.THIS.setLabel("Reading series " + seriesReader.getSeries().toString());
 			for (String cur : seriesReader) {
 				if (!cur.equals(""))
 					chain.addWords(cur + "#");
@@ -24,9 +26,9 @@ public class CaptainsLog extends Generator{
 	}
 
 	public String generate() {
-		String log = "Captain's log ";
+		String log = "Captain's log, ";
 		if (Math.random() <= .3) {
-			log += "supplemental, ";
+			log += "supplemental. ";
 		} else {
 			log += "stardate " + getStardate() + ". ";
 		}

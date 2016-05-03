@@ -1,6 +1,7 @@
 package CaptainMarkov.getters;
 
 import CaptainMarkov.Menu;
+import CaptainMarkov.gui.ChainBuilder;
 import CaptainMarkov.utils.Series;
 
 import java.io.BufferedReader;
@@ -44,6 +45,9 @@ public class SeriesReader implements Iterable<String> {
 		return series != null;
 	}
 
+	public Series getSeries(){
+		return series;
+	}
 	/**
 	 * Returns an iterator over elements of type {@code T}.
 	 *
@@ -115,6 +119,7 @@ public class SeriesReader implements Iterable<String> {
 				nextEpisode();
 				nextLine();
 			}//if nextLine remains null, hasNextLine will return false, so there is nothing to worry about
+			ChainBuilder.THIS.setLabel("Reading Episode #" + series.currentEpisodeNum + " in " + series.toString());
 			return currLine;
 		}
 	}

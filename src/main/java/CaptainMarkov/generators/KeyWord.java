@@ -82,7 +82,6 @@ public class KeyWord extends Generator {
 	 */
 	private void saveLines() {
 		SeriesReader seriesReader = new SeriesReader(series);
-		System.out.println("Getting lines matching " + keyPhrase);
 		for (String curr : seriesReader) {
 			//Remove parentheses and brackets
 			curr = curr.replaceAll("\\(.*?\\)", "");
