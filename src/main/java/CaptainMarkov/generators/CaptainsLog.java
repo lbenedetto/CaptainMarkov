@@ -1,6 +1,7 @@
 package CaptainMarkov.generators;
 
 import java.util.Calendar;
+import java.util.Random;
 
 import CaptainMarkov.getters.SeriesReader;
 import CaptainMarkov.gui.ChainBuilder;
@@ -27,7 +28,7 @@ public class CaptainsLog extends Generator{
 
 	public String generate() {
 		String log = "Captain's log, ";
-		if (Math.random() <= .3) {
+		if (Math.random() <= .4) {
 			log += "supplemental. ";
 		} else {
 			log += "stardate " + getStardate() + ". ";
@@ -47,7 +48,7 @@ public class CaptainsLog extends Generator{
 	 *
 	 * @return int
 	 */
-	private static String getStardate() {
+	private static String getStardateOldMethod() {
 		Calendar currentDate = Calendar.getInstance();
 		//First digit is century
 		String stardate = "1";
@@ -58,5 +59,16 @@ public class CaptainsLog extends Generator{
 		//4 is smalled number you can divide 31 by to get it to be less than 10
 		stardate += "." + currentDate.get(Calendar.DAY_OF_MONTH) / 4;
 		return stardate;
+	}
+
+	/**
+	 * Pick a random stardate between 1312 and 56947
+	 * @return String
+	 */
+	private static String getStardate(){
+		Random rand = new Random();
+		int p1 = rand.nextInt((56947 - 1312) + 1) + 1312;
+		int p2 = rand.nextInt(10);
+		return p1 + "." + p2;
 	}
 }
