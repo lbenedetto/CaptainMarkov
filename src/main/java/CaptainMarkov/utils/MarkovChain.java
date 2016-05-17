@@ -1,5 +1,8 @@
 package CaptainMarkov.utils;
 
+import CaptainMarkov.gui.ChainBuilder;
+import org.omg.CosNaming.NamingContextPackage.NotFound;
+
 import java.util.Hashtable;
 import java.util.Random;
 import java.util.Vector;
@@ -146,6 +149,11 @@ public class MarkovChain {
 		// Select the first word
 		Vector<String> startWords = markovChain.get("_start");
 		int startWordsLen = startWords.size();
+		if (startWordsLen == 0) {
+			String error = "The most likely cause is that the phrases you tried to use never occurred in Star Trek";
+			System.out.println(error);
+			ChainBuilder.THIS.setLabel(error);
+		}
 		while (nextWord.isEmpty()) {
 			nextWord = startWords.get(rnd.nextInt(startWordsLen));
 		}
@@ -162,6 +170,7 @@ public class MarkovChain {
 		while (nextWord.charAt(nextWord.length() - 1) != '#') {
 			Vector<String> wordSelection = markovChain.get(nextWord);
 			String wordCandidate = null;
+			if (wordSelection == null) System.out.println("Couldn't find seed in chain");
 			int attempts = 0;
 			while (wordCandidate == null && attempts <= 10) {
 				int ix = rnd.nextInt(wordSelection.size());

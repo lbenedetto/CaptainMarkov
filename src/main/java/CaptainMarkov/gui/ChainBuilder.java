@@ -1,5 +1,6 @@
 package CaptainMarkov.gui;
 
+import CaptainMarkov.generators.Annotation;
 import CaptainMarkov.generators.CaptainsLog;
 import CaptainMarkov.generators.Generator;
 import CaptainMarkov.generators.KeyWord;
@@ -153,11 +154,12 @@ public class ChainBuilder extends JPanel {
 	 * Creates the panel of preset generators
 	 */
 	private JPanel createPresetPanel() {
-		final int numButtons = 1;
+		final int numButtons = 2;
 		JRadioButton[] radioButtons = new JRadioButton[numButtons];
 		final ButtonGroup group = new ButtonGroup();
 		JButton generateButton;
 		radioButtons[0] = new JRadioButton("Captains Log");
+		radioButtons[1] = new JRadioButton("Annotation");
 		for (JRadioButton jrb : radioButtons) {
 			group.add(jrb);
 		}
@@ -168,6 +170,8 @@ public class ChainBuilder extends JPanel {
 			if (radioButtons[0].isSelected()) {
 				String seed = inputForPreset.getText();
 				generator = new CaptainsLog(seed);
+			} else if (radioButtons[1].isSelected()) {
+				generator = new Annotation();
 			}
 			customDialog = new CustomDialog(frame, generator, THIS);
 			customDialog.pack();
