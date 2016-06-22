@@ -2,18 +2,11 @@
 A project that utilizes a database of Star Trek scripts to generate new phrases, such as captains logs, commands to the computer, or lines of dialogue from a specified character
 
 ## How It Works
-Scripts are pulled from http://www.chakoteya.net/ using the ScriptScraper class and saved into "./scripts/Episode num.txt"
+Scripts are pulled from http://www.chakoteya.net/ using the ScriptScraper class and saved into "./scripts/SeriesName/EpisodeNum.txt". This is done the first time your run the program, and can take a long time.
 
-The KeyWord class is then used to save all lines containing the key phrase, such as "Captain's log" or "Computer, "
-It includes the option to cut the line to the keyphrase so you don't get something like this:
+A GUI is opened to let you customize how the chain will be built. You can generate lines of dialogue from characters by inputing how their lines appear in the scripts. E.g. "PICARD:" and using the check box to select which series to search through. There are also a few preset generators for you to choose from.
 
-> TROI: Let's ask the computer. Computer, identify type of Riker.
-
-The Character class can be used to capture all the lines spoken by a given character.
-
-The markov class then reads through the lines provided by the instance of the abstract class LineGetter to build the statistical model.
-
-The statistical model is then used to generate new dialogue
+A MarkovChain (type of statistical model) is built based off of the scripts fed in and is used to generate phrases.
 
 Example outputs can be found at https://twitter.com/captain_markov
 
