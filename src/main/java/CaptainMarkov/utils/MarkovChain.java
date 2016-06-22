@@ -1,16 +1,13 @@
 package CaptainMarkov.utils;
 
 import CaptainMarkov.gui.ChainBuilder;
-import org.omg.CosNaming.NamingContextPackage.NotFound;
 
-import java.util.Hashtable;
-import java.util.Random;
-import java.util.Vector;
+import java.util.*;
 
 public class MarkovChain {
 	// Hashmap
-	private final Hashtable<String, Vector<String>> markovChain = new Hashtable<>();
-	private final Random rnd = new Random();
+	private Hashtable<String, Vector<String>> chain = new Hashtable<>();
+	private final Random rand = new Random();
 
 	/**
 	 * Initialize empty chain
@@ -29,8 +26,8 @@ public class MarkovChain {
 
 	private void createStarterEntries() {
 		// Create the first two entries (k:_start, k:_end)
-		markovChain.put("_start", new Vector<>());
-		markovChain.put("_end", new Vector<>());
+		chain.put("_start", new Vector<>());
+		chain.put("_end", new Vector<>());
 	}
 
 	/**
@@ -41,6 +38,28 @@ public class MarkovChain {
 	public void addFile(IterableFile lines) {
 		for (String s : lines)
 			addWords(s);
+	}
+
+	public void merge(MarkovChain that) {
+		Hashtable<String, Vector<String>> thatChain = that.chain;
+		Hashtable<String, Vector<String>> newChain = new Hashtable<>();
+		Set<String> thisKeys = chain.keySet();
+		Set<String> thatKeys = thatChain.keySet();
+		Set<String> keys = new HashSet<>();
+		keys.addAll(thisKeys);
+		keys.addAll(thatKeys);
+		for (String key : keys) {
+			Vector<String> newPair = new Vector<>();
+			Vector<String> thisPair = chain.get(key);
+			Vector<String> thatPair = thatChain.get(key);
+			if(thisPair != null) newPair.addAll(thisPair);
+			if(thatPair != null) newPair.addAll(thatPair);
+			chain.remove(key);
+			thatChain.remove(key);
+			newChain.put(key, newPair);
+		}
+
+		chain = newChain;
 	}
 
 	/**
@@ -103,26 +122,26 @@ public class MarkovChain {
 		for (int i = 0; i < words.length; i++) {
 			// Add the start and end words to their own
 			if (i == 0) {
-				Vector<String> startWords = markovChain.get("_start");
+				Vector<String> startWords = chain.get("_start");
 				startWords.add(words[i]);
-				Vector<String> suffix = markovChain.get(words[i]);
+				Vector<String> suffix = chain.get(words[i]);
 				if (suffix == null) {
 					suffix = new Vector<>();
 					suffix.add(words[i + 1]);
-					markovChain.put(words[i], suffix);
+					chain.put(words[i], suffix);
 				}
 			} else if (i == words.length - 1) {
-				Vector<String> endWords = markovChain.get("_end");
+				Vector<String> endWords = chain.get("_end");
 				endWords.add(words[i]);
 			} else {
-				Vector<String> suffix = markovChain.get(words[i]);
+				Vector<String> suffix = chain.get(words[i]);
 				if (suffix == null) {
 					suffix = new Vector<>();
 					suffix.add(words[i + 1]);
-					markovChain.put(words[i], suffix);
+					chain.put(words[i], suffix);
 				} else {
 					suffix.add(words[i + 1]);
-					markovChain.put(words[i], suffix);
+					chain.put(words[i], suffix);
 				}
 			}
 		}
@@ -147,7 +166,7 @@ public class MarkovChain {
 		// String for the next word
 		String nextWord = "";
 		// Select the first word
-		Vector<String> startWords = markovChain.get("_start");
+		Vector<String> startWords = chain.get("_start");
 		int startWordsLen = startWords.size();
 		if (startWordsLen == 0) {
 			String error = "The most likely cause is that the phrases you tried to use never occurred in Star Trek";
@@ -155,7 +174,7 @@ public class MarkovChain {
 			ChainBuilder.THIS.setLabel(error);
 		}
 		while (nextWord.isEmpty()) {
-			nextWord = startWords.get(rnd.nextInt(startWordsLen));
+			nextWord = startWords.get(rand.nextInt(startWordsLen));
 		}
 		return generateSentenceWithSeed(nextWord);
 	}
@@ -168,12 +187,12 @@ public class MarkovChain {
 		String nextWord = seed;
 		// Keep looping through the words until we've reached the end
 		while (nextWord.charAt(nextWord.length() - 1) != '#') {
-			Vector<String> wordSelection = markovChain.get(nextWord);
+			Vector<String> wordSelection = chain.get(nextWord);
 			String wordCandidate = null;
 			if (wordSelection == null) System.out.println("Couldn't find seed in chain");
 			int attempts = 0;
 			while (wordCandidate == null && attempts <= 10) {
-				int ix = rnd.nextInt(wordSelection.size());
+				int ix = rand.nextInt(wordSelection.size());
 				wordCandidate = wordSelection.get(ix);
 				attempts++;
 			}

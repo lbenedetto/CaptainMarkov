@@ -3,7 +3,7 @@ package CaptainMarkov.gui;
 import CaptainMarkov.generators.Annotation;
 import CaptainMarkov.generators.CaptainsLog;
 import CaptainMarkov.generators.Generator;
-import CaptainMarkov.generators.KeyWord;
+import CaptainMarkov.generators.KeyPhrase;
 import CaptainMarkov.utils.Series;
 
 import javax.swing.*;
@@ -121,18 +121,9 @@ public class ChainBuilder extends JPanel {
 			if (checkBoxes[4].isSelected()) shows.add(Series.ENT);
 
 			String seed = inputForCustom.getText();
-			KeyWord keyWord = null;
+			KeyPhrase keyPhrase = new KeyPhrase(seed, true, shows);
 
-			for (Series series : shows) {
-				setLabel("Adding lines matching \"" + seed + "\" in " + series.toString());
-				if (keyWord == null) {
-					keyWord = new KeyWord(seed, true, series);
-					keyWord.buildChain();
-				} else {
-					keyWord.merge(new KeyWord(seed, true, series));
-				}
-			}
-			customDialog = new CustomDialog(frame, keyWord, THIS);
+			customDialog = new CustomDialog(frame, keyPhrase, THIS);
 			customDialog.pack();
 			customDialog.setVisible(true);
 		});

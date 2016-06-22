@@ -1,6 +1,6 @@
 package CaptainMarkov.getters;
 
-import CaptainMarkov.Menu;
+
 import CaptainMarkov.gui.ChainBuilder;
 import CaptainMarkov.utils.Series;
 
@@ -45,9 +45,10 @@ public class SeriesReader implements Iterable<String> {
 		return series != null;
 	}
 
-	public Series getSeries(){
+	public Series getSeries() {
 		return series;
 	}
+
 	/**
 	 * Returns an iterator over elements of type {@code T}.
 	 *
@@ -73,7 +74,6 @@ public class SeriesReader implements Iterable<String> {
 		void nextEpisode() {
 			if (series.hasNextEpisode()) series.moveToNextEpisode();
 			try {
-				if (Menu.deepLogging) System.out.println("Reading episode " + series.currentEpisodeNum);
 				currentEpisode = new BufferedReader(new FileReader("./scripts/" + series.name +
 						"/Episode " + series.currentEpisodeNum + ".txt"));
 			} catch (FileNotFoundException e) {
