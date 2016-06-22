@@ -5,7 +5,6 @@ import CaptainMarkov.generators.CaptainsLog;
 import CaptainMarkov.generators.Generator;
 import CaptainMarkov.generators.KeyPhrase;
 import CaptainMarkov.utils.Series;
-import com.sun.net.httpserver.Filter;
 
 import javax.swing.*;
 import javax.swing.border.Border;
