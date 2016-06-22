@@ -40,6 +40,12 @@ public class MarkovChain {
 			addWords(s);
 	}
 
+	/**
+	 * Merge a MarkovChain with another MarkovChain
+	 * Pretty sure that this works...
+	 *
+	 * @param that MarkovChain
+	 */
 	public void merge(MarkovChain that) {
 		Hashtable<String, Vector<String>> thatChain = that.chain;
 		Hashtable<String, Vector<String>> newChain = new Hashtable<>();
@@ -52,8 +58,8 @@ public class MarkovChain {
 			Vector<String> newPair = new Vector<>();
 			Vector<String> thisPair = chain.get(key);
 			Vector<String> thatPair = thatChain.get(key);
-			if(thisPair != null) newPair.addAll(thisPair);
-			if(thatPair != null) newPair.addAll(thatPair);
+			if (thisPair != null) newPair.addAll(thisPair);
+			if (thatPair != null) newPair.addAll(thatPair);
 			chain.remove(key);
 			thatChain.remove(key);
 			newChain.put(key, newPair);
@@ -64,6 +70,7 @@ public class MarkovChain {
 
 	/**
 	 * Splits the phrase into groups of two, with overlap
+	 * This is for achieving a chain length of three
 	 *
 	 * @param phrase String
 	 * @return String[]
@@ -104,7 +111,7 @@ public class MarkovChain {
 	}
 
 	/**
-	 * Black Magic
+	 * Add words from phrase to chain
 	 *
 	 * @param phrase String
 	 */
@@ -120,8 +127,8 @@ public class MarkovChain {
 		// if it hasn't been added then add the word to the list
 		// if its the first or last word then select the _start / _end key
 		for (int i = 0; i < words.length; i++) {
-			// Add the start and end words to their own
 			if (i == 0) {
+				//Add the first part of the phrase as a suffix for _start
 				Vector<String> startWords = chain.get("_start");
 				startWords.add(words[i]);
 				Vector<String> suffix = chain.get(words[i]);
@@ -131,9 +138,11 @@ public class MarkovChain {
 					chain.put(words[i], suffix);
 				}
 			} else if (i == words.length - 1) {
+				//Add the last part of the phrase as a suffix for _end
 				Vector<String> endWords = chain.get("_end");
 				endWords.add(words[i]);
 			} else {
+				//Add the current part of the phrase to the appropriate list of suffixes
 				Vector<String> suffix = chain.get(words[i]);
 				if (suffix == null) {
 					suffix = new Vector<>();
@@ -145,18 +154,6 @@ public class MarkovChain {
 				}
 			}
 		}
-	}
-
-	/**
-	 * Generate n sentences
-	 *
-	 * @param n int
-	 */
-	public String[] generateSentences(int n) {
-		String[] sentences = new String[n];
-		for (int i = 0; i < n; i++)
-			sentences[i] = generateSentence();
-		return sentences;
 	}
 
 	/**

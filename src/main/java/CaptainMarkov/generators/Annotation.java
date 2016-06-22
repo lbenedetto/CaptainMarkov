@@ -5,7 +5,7 @@ import CaptainMarkov.gui.ChainBuilder;
 import CaptainMarkov.utils.MarkovChain;
 import CaptainMarkov.utils.Series;
 
-public class Annotation extends Generator {
+public class Annotation implements Generator {
 	public final MarkovChain chain;
 
 	public Annotation() {

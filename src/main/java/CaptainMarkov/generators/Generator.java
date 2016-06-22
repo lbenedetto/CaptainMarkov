@@ -1,5 +1,5 @@
 package CaptainMarkov.generators;
 
-public abstract class Generator {
-	public abstract String generate();
+public interface Generator {
+	String generate();
 }

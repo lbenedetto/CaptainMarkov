@@ -6,7 +6,10 @@ import CaptainMarkov.utils.Series;
 
 import java.util.ArrayList;
 
-public class KeyPhrase extends Generator {
+public class KeyPhrase implements Generator {
+	//TODO:Add support for regex to make it possible to get all types of captains logs
+	//Enterprise uses "Captain's starlog" most of the time, and there are also many other kinds of logs
+	//That it would be fun to include.
 	private final String keyPhrase;
 	private final boolean cutToPhrase;
 	private Series series;
