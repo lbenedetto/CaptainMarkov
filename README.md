@@ -11,8 +11,8 @@ A MarkovChain (type of statistical model) is built based off of the scripts fed 
 Example outputs can be found at https://twitter.com/captain_markov
 
 ##Download
-Download the executable jar by clicking this link https://github.com/larperdoodle/CaptainMarkov/blob/master/CaptainMarkov.jar?raw=true
-Run it by double clicking on it.
+Download the executable jar by clicking this link https://github.com/larperdoodle/CaptainMarkov/blob/master/CaptainMarkov.jar?raw=true  
+Run it by double clicking on it.  
 If you run it from the command line with "java -jar CaptainMarkov.jar" the command line will show much more robust feedback so you know if something is going wrong.
 
 ##Legal
