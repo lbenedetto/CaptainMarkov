@@ -5,6 +5,7 @@ import CaptainMarkov.generators.CaptainsLog;
 import CaptainMarkov.generators.Generator;
 import CaptainMarkov.generators.KeyPhrase;
 import CaptainMarkov.utils.Series;
+import com.sun.net.httpserver.Filter;
 
 import javax.swing.*;
 import javax.swing.border.Border;
@@ -35,7 +36,7 @@ public class ChainBuilder extends JPanel {
 	 */
 	private static void createAndShowGUI() {
 		//Create and set up the window.
-		JFrame frame = new JFrame("ChainBuilder");
+		JFrame frame = new JFrame("ChainBuilder v1.0");
 		frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
 		//Create and set up the content pane.
@@ -121,6 +122,7 @@ public class ChainBuilder extends JPanel {
 			if (checkBoxes[4].isSelected()) shows.add(Series.ENT);
 
 			String seed = inputForCustom.getText();
+			setLabel("If this is first time running, it will take a long time to download the scripts");
 			KeyPhrase keyPhrase = new KeyPhrase(seed, true, shows);
 
 			customDialog = new CustomDialog(frame, keyPhrase, THIS);
@@ -157,6 +159,7 @@ public class ChainBuilder extends JPanel {
 		radioButtons[0].setSelected(true);
 		generateButton = new JButton("Begin Generating");
 		generateButton.addActionListener(e -> {
+			setLabel("If this is first time running, it will take a long time to download the scripts");
 			Generator generator = null;
 			if (radioButtons[0].isSelected()) {
 				String seed = inputForPreset.getText();
