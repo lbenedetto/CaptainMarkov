@@ -26,7 +26,6 @@ public class IterableFile implements Iterable<String> {
 		String nextLine;
 		String curr;
 
-
 		@Override
 		public boolean hasNext() {
 			return nextLine != null;
@@ -42,8 +41,6 @@ public class IterableFile implements Iterable<String> {
 			curr = nextLine;
 			try {
 				nextLine = file.readLine();
-				while (nextLine.equals("#"))
-					nextLine = file.readLine();
 			} catch (IOException | NullPointerException e) {
 				nextLine = null;
 			}

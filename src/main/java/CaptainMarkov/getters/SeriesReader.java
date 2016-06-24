@@ -2,6 +2,7 @@ package CaptainMarkov.getters;
 
 
 import CaptainMarkov.gui.ChainBuilder;
+import CaptainMarkov.utils.IterableFile;
 import CaptainMarkov.utils.Series;
 
 import java.io.BufferedReader;
@@ -58,14 +59,14 @@ public class SeriesReader implements Iterable<String> {
 	public SeriesIterator iterator() {
 		SeriesIterator si = new SeriesIterator();
 		si.nextEpisode();
-		si.nextLine();
+		si.nextLine = si.currentEpisode.next();
 		return si;
 	}
 
 	private class SeriesIterator implements Iterator<String> {
 		String nextLine;
 		String currLine;
-		BufferedReader currentEpisode;
+		Iterator<String> currentEpisode;
 
 		/**
 		 * Move to the next episode
@@ -74,30 +75,15 @@ public class SeriesReader implements Iterable<String> {
 		void nextEpisode() {
 			if (series.hasNextEpisode()) series.moveToNextEpisode();
 			try {
-				currentEpisode = new BufferedReader(new FileReader("./scripts/" + series.name +
-						"/Episode " + series.currentEpisodeNum + ".txt"));
+				currentEpisode = new IterableFile("./scripts/" + series.name + "/Episode " + series.currentEpisodeNum + ".txt").iterator();
 			} catch (FileNotFoundException e) {
 				System.out.println("Could not find script file for episode " + series.currentEpisodeNum + ", downloading now");
 				ScriptScraper.downloadEpisode(series, series.currentEpisodeNum);
 				try {
-					currentEpisode = new BufferedReader(new FileReader("./scripts/" + series.name +
-							"/Episode " + series.currentEpisodeNum + ".txt"));
+					currentEpisode = new IterableFile("./scripts/" + series.name + "/Episode " + series.currentEpisodeNum + ".txt").iterator();
 				} catch (FileNotFoundException ex) {
 					e.printStackTrace();
 				}
-			}
-		}
-
-		/**
-		 * Move to the next line
-		 */
-		void nextLine() {
-			try {
-				nextLine = currentEpisode.readLine();
-				while (nextLine.equals("#"))
-					nextLine = currentEpisode.readLine();
-			} catch (IOException | NullPointerException e) {
-				nextLine = null;
 			}
 		}
 
@@ -114,11 +100,11 @@ public class SeriesReader implements Iterable<String> {
 		@Override
 		public String next() {
 			currLine = nextLine;
-			nextLine();
+			nextLine = currentEpisode.next();
 			if (nextLine == null && series.hasNextEpisode()) {
 				nextEpisode();
-				nextLine();
-			}//if nextLine remains null, hasNextLine will return false, so there is nothing to worry about
+				nextLine = currentEpisode.next();
+			}//if nextLine remains null, hasNext() will return false, so there is nothing to worry about
 			ChainBuilder.THIS.setLabel("Reading Episode #" + series.currentEpisodeNum + " in " + series.toString());
 			return currLine;
 		}
