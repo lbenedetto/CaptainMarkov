@@ -6,8 +6,9 @@ import CaptainMarkov.utils.IterableFile;
 import CaptainMarkov.utils.MarkovChain;
 import CaptainMarkov.utils.Series;
 
-import java.io.FileNotFoundException;
+import java.io.*;
 import java.util.HashSet;
+import java.util.Scanner;
 
 public class Treknobabble implements Generator {
 	public MarkovChain chain;
@@ -36,14 +37,30 @@ public class Treknobabble implements Generator {
 	 * Load dictionary from file into HashSet
 	 */
 	private void loadDictionary() {
+		dictionary = new HashSet<>();
+		InputStream in = this.getClass().getResourceAsStream("resources/dictionary.txt");
+		if (in == null) {
+			legacyLoadDictionary();
+			return;
+		}
+		Scanner scanner = new Scanner(in);
+		String s = null;
+		while (scanner.hasNextLine()) {
+			s = scanner.nextLine();
+			dictionary.add(s);
+		}
+	}
+
+	/**
+	 * Load dictionary with old method to support running program from IDE instead of from JAR
+	 */
+	private void legacyLoadDictionary() {
 		try {
-			IterableFile file = new IterableFile("dictionary.txt");
-			dictionary = new HashSet<>();
+			IterableFile file = new IterableFile("src/main/java/CaptainMarkov/generators/resources/dictionary.txt");
 			for (String s : file) {
 				dictionary.add(s);
 			}
 		} catch (FileNotFoundException e) {
-			System.out.println("Couldn't find dictionary.txt");
 			e.printStackTrace();
 		}
 	}
@@ -63,7 +80,7 @@ public class Treknobabble implements Generator {
 			if (dictionary.contains(word)) realWords++;
 			else trekWords++;
 		}
-		if(trekWords == 0) return 100;
-		return realWords/trekWords;
+		if (trekWords == 0) return 100;
+		return realWords / trekWords;
 	}
 }
