@@ -1,9 +1,6 @@
 package CaptainMarkov.gui;
 
-import CaptainMarkov.generators.Annotation;
-import CaptainMarkov.generators.CaptainsLog;
-import CaptainMarkov.generators.Generator;
-import CaptainMarkov.generators.KeyPhrase;
+import CaptainMarkov.generators.*;
 import CaptainMarkov.utils.Series;
 
 import javax.swing.*;
@@ -20,7 +17,6 @@ public class ChainBuilder extends JPanel {
 	private CustomDialog customDialog;
 	public static ChainBuilder THIS;
 	private TextForm inputForCustom;
-	private TextForm inputForPreset;
 
 	public static void main(String[] args) {
 		//Schedule a job for the event-dispatching thread:
@@ -35,7 +31,7 @@ public class ChainBuilder extends JPanel {
 	 */
 	private static void createAndShowGUI() {
 		//Create and set up the window.
-		JFrame frame = new JFrame("ChainBuilder v1.0");
+		JFrame frame = new JFrame("ChainBuilder v1.1");
 		frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
 		//Create and set up the content pane.
@@ -129,7 +125,7 @@ public class ChainBuilder extends JPanel {
 			customDialog.setVisible(true);
 		});
 		JPanel box = new JPanel();
-		JLabel label = new JLabel(customizationPanelDescription + ":");
+		JLabel label = new JLabel(customizationPanelDescription);
 		box.setLayout(new BoxLayout(box, BoxLayout.PAGE_AXIS));
 		box.add(label);
 		for (JCheckBox checkBox : checkBoxes)
@@ -146,25 +142,36 @@ public class ChainBuilder extends JPanel {
 	 * Creates the panel of preset generators
 	 */
 	private JPanel createPresetPanel() {
-		final int numButtons = 2;
-		JRadioButton[] radioButtons = new JRadioButton[numButtons];
+		final int numButtons = 3;
+		buttonWithTextForm[] buttons = new buttonWithTextForm[numButtons];
 		final ButtonGroup group = new ButtonGroup();
 		JButton generateButton;
-		radioButtons[0] = new JRadioButton("Captains Log");
-		radioButtons[1] = new JRadioButton("Annotation");
-		for (JRadioButton jrb : radioButtons) {
-			group.add(jrb);
+		buttons[0] = new buttonWithTextForm(new TextForm("Generator Seed: ", 20), new JRadioButton("Captains Log"));
+		buttons[1] = new buttonWithTextForm(new JRadioButton("Annotation"));
+		buttons[2] = new buttonWithTextForm(new TextForm("Coherency Threshold: ", 20), new JRadioButton("Treknobabble (Experimental)"));
+		buttons[2].setToolTipText("This is an experimental work in progress, \n " +
+				"but it seems to be generating more interesting things than the other settings.\n");
+		for (buttonWithTextForm buttonWithForm : buttons) {
+			group.add(buttonWithForm.button);
 		}
-		radioButtons[0].setSelected(true);
+		buttons[0].button.setSelected(true);
 		generateButton = new JButton("Begin Generating");
 		generateButton.addActionListener(e -> {
 			setLabel("If this is first time running, it will take a long time to download the scripts");
 			Generator generator = null;
-			if (radioButtons[0].isSelected()) {
-				String seed = inputForPreset.getText();
+			if (buttons[0].button.isSelected()) {
+				String seed = buttons[0].form.getText();
 				generator = new CaptainsLog(seed);
-			} else if (radioButtons[1].isSelected()) {
+			} else if (buttons[1].button.isSelected()) {
 				generator = new Annotation();
+			} else if (buttons[2].button.isSelected()) {
+				try {
+					double threshhold = Double.parseDouble(buttons[2].form.getText());
+					generator = new Treknobabble(threshhold);
+				}catch(NumberFormatException nfe){
+					setLabel("Must be a number representing the desired ratio of non-trek/trek words. Using default value of .1");
+					generator = new Treknobabble(.1);
+				}
 			}
 			customDialog = new CustomDialog(frame, generator, THIS);
 			customDialog.pack();
@@ -174,12 +181,10 @@ public class ChainBuilder extends JPanel {
 		JLabel label = new JLabel(presetPanelDescription + ":");
 		box.setLayout(new BoxLayout(box, BoxLayout.PAGE_AXIS));
 		box.add(label);
-		for (JRadioButton radioButton : radioButtons)
-			box.add(radioButton);
+		for (buttonWithTextForm button : buttons)
+			box.add(button);
 		JPanel pane = new JPanel(new BorderLayout());
 		pane.add(box, BorderLayout.PAGE_START);
-		inputForPreset = new TextForm("Generator Seed: ", 20);
-		pane.add(inputForPreset);
 		pane.add(generateButton, BorderLayout.PAGE_END);
 		return pane;
 	}
@@ -194,7 +199,7 @@ public class ChainBuilder extends JPanel {
 		final JLabel label;
 
 		// Create a form with the specified labels, tooltips, and sizes.
-		public TextForm(String label_, int width) {
+		TextForm(String label_, int width) {
 			//Create a JPanel with a 1x2 GridLayout
 			fieldPanel = new JPanel(new GridLayout(1, 2));
 			add(fieldPanel);
@@ -213,6 +218,33 @@ public class ChainBuilder extends JPanel {
 
 		public String getText() {
 			return field.getText();
+		}
+	}
+
+	private class buttonWithTextForm extends JRadioButton {
+		private final JPanel buttonPanel;
+		private TextForm form;
+		public final JRadioButton button;
+		public final boolean hasInputField;
+
+		buttonWithTextForm(TextForm form, JRadioButton button) {
+			//Create a JPanel with a 1x2 GridLayout
+			buttonPanel = new JPanel(new GridLayout(1, 2));
+			add(buttonPanel);
+			this.form = form;
+			this.button = button;
+			buttonPanel.add(this.button);
+			buttonPanel.add(this.form);
+			hasInputField = true;
+		}
+
+		buttonWithTextForm(JRadioButton button) {
+			//Create a JPanel with a 1x2 GridLayout
+			buttonPanel = new JPanel(new GridLayout(1, 2));
+			add(buttonPanel);
+			this.button = button;
+			buttonPanel.add(this.button);
+			hasInputField = false;
 		}
 	}
 } 
