@@ -29,7 +29,8 @@ class ScriptScraper {
 	 * @param series     Series
 	 */
 	private static void scrapeLink(String episodeURL, int episodeNum, Series series) {
-		String episodeText = "Episode Number: " + episodeNum + "<br>";
+		StringBuilder episodeTextBuffer = new StringBuilder("Episode Number: " + episodeNum + "<br>");
+		String episodeText;
 		URL url;
 		InputStream is = null;
 		BufferedReader br;
@@ -40,7 +41,8 @@ class ScriptScraper {
 			is = url.openStream();
 			br = new BufferedReader(new InputStreamReader(is));
 			while ((line = br.readLine()) != null) {
-				episodeText += line + " ";
+				episodeTextBuffer.append(line);
+				episodeTextBuffer.append(" ");
 			}
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
@@ -51,6 +53,7 @@ class ScriptScraper {
 				// nothing to see here
 			}
 		}
+		episodeText = episodeTextBuffer.toString();
 		episodeText = episodeText.replaceAll("\\n", "");
 		episodeText = episodeText.replaceAll("<br>", "\n");
 		episodeText = episodeText.replaceAll("</div>(.*\n)*.*", "\n");
