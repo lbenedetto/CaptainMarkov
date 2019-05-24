@@ -1,0 +1,445 @@
+Eye of the Needle
+Captain's log, stardate 48579.4. The crew has been scanning constantly for anomalies that might help us shorten our journey home. Ensign Kim has reported an exciting discovery. A subspace disturbance which may be a wormhole. 
+[Bridge] 
+(Janeway enters. Tuvok and Chakotay are at Kim's station.) 
+JANEWAY: Let's see what you have, Mister Kim.
+KIM: There. It's registering only on subspace bands. We don't even have it on long range sensors yet.
+JANEWAY: Verteron emanations. Tunnelling secondary particles. It certainly looks like a wormhole.
+CHAKOTAY: But is it stable enough for us to enter, and if it is, where does it lead?
+TUVOK: There is, of course, a seventy five percent chance the wormhole will not lead to the Alpha Quadrant.
+JANEWAY: Very true. But you can also say there's a one in four chance it will. Those aren't bad odds. Any analysis yet, Ensign?
+KIM: Too far away. We'd have to be within a thousand kilometres to get a detailed analysis. That would mean a significant course change.
+JANEWAY: Well, Mister Kim, if there's even the possibility of finding a wormhole, I think we can afford a detour. Lieutenant, input the coordinates and change course.
+PARIS: Aye, Captain. And may I suggest, if this works, we petition the Federation Astronomical Committee to officially designate this the Harry Kim Wormhole.
+(Later.) 
+PARIS: Captain, we're approaching the coordinates of the wormhole.
+JANEWAY: On screen. Are we in visual range?
+KIM: Affirmative, Captain, and the anomaly is still registering on subspace bands.
+PARIS: Sensors also indicate it's there.
+JANEWAY: Magnify. Increase to highest magnification.
+CHAKOTAY: If that's a wormhole, it must be the smallest one on record.
+JANEWAY: Mister Kim, are you able to analyse it?
+KIM: Aye Captain. It's virtually microscopic. The aperture is only about thirty centimetres in diameter.
+PARIS: I guess it's a little too small for us to fly through.
+TUVOK: However, it might be large enough to act as a conduit for a message.
+KIM: That's right. It could carry a compressed data transmission to Federation space in minutes.
+JANEWAY: We still have to find out if it goes anywhere near the Alpha Quadrant. Can you trace it's subspace bearing?
+KIM: I can't get any directional readings at all. The aperture is too small.
+TUVOK: I recommend we launch a microprobe into the wormhole.
+JANEWAY: Agreed. Do it, Lieutenant.
+TUVOK: Aye, Captain.
+(Whoosh.) 
+KIM: We're receiving telemetry.
+(The viewscreen shows a green tunnel.) 
+PARIS: It doesn't look like any wormhole I've ever studied.
+KIM: Microscopic gravitational eddies, extremely constricted spatial dimensions. The pathway's barely wider than the probe itself.
+JANEWAY: I think what we're seeing is a wormhole in an advanced state of decay. Must be ancient. Probably been collapsing for centuries.
+PARIS: Does that mean we can't send a message through it?
+KIM: No, I can do it. Maybe it'll take longer to get through, but the wormhole's still stable enough to carry a transmission.
+CHAKOTAY: Any idea yet where that message would end up, Ensign?
+KIM: I'll try extrapolating the verteron exit vector. No, I can't get it. There's a strange phase variance in the radiation stream. We'll have to wait until the probe exits.
+JANEWAY: That shouldn't take long.
+PARIS: Captain, I'm getting a distorted energy reading.
+TUVOK: The probe's telemetry has changed.
+KIM: It's stuck.
+JANEWAY: Stuck?
+KIM: It's mired in a gravitational eddy, and because the wormhole's in a state of collapse, those eddies are incredibly dense. That probe will never break free, Captain, and we'll have no way of finding out where the wormhole ends.
+JANEWAY: Let's give it some time. Maybe it will work itself loose.
+KIM: Captain? 
+JANEWAY: What is it, Ensign.
+KIM: Our probe was just scanned. There's somebody on the other side of the wormhole. 
+[Sickbay] 
+(The Doctor and new assistant Kes have a patient - a man with a sore wrist.) 
+BAXTER: It started acting up a couple of days ago. I'd been working out in the gym, maybe I overdid it.
+EMH: Is it sore here?
+BAXTER: Yes.
+EMH: Localised tenderness to the ulna bone, no epidermal damage, moderate oedema. What are the possible diagnoses?
+KES: Epicondylitis, strained ligament, torn muscle and hairline fracture.
+EMH: That's exactly right.
+KES: I've studied all the material you gave me. I'm ready for more.
+EMH: Good. There's a great deal more for you to learn. The tricorder indicates this is a small stress fracture.
+BAXTER: Can this guy do everything a real doctor does?
+(The EMH hands a device to Kes.) 
+EMH: Yes, he can. Activate it and direct the beam here. That's it. Not quite so fast.
+BAXTER: If I had to get treatment for something serious, if I needed surgery for instance, would he be performing it?
+EMH: Of course, and quite expertly too.
+BAXTER: I don't know. I'd have to think twice about that.
+EMH: Fine. And if you were lucky you wouldn't die on the table while you were making up your mind. That should do it. How does it feel?
+BAXTER: Not bad. Thanks.
+(Baxter leaves.) 
+[Doctor's office] 
+KES: Doctor, did you notice how rudely that officer treated you?
+EMH: Not more so than most.
+KES: You mean others act that way too.
+EMH: Let's just say I've become accustomed to being treated like a hypospray. Now, here's some material on first aid for burns.
+KES: Doctor, I think I'd like to do more than study first aid. I'd be interested in knowing more about anatomy and physiology.
+EMH: You're intellectually curious. I like that. These deal with human anatomy and physiology, but they weren't written for the layman. They're quite technical.
+(Kes looks over the set of PADDs.) 
+KES: I understand. I'll do my best. And I really appreciate your help. 
+[Briefing Room] 
+KIM: We've analysed the data. So far our sensors have detected four separate scans of the microprobe, each one on a progressively narrower band. Someone on the other end of that wormhole is definitely interested in that probe.
+TUVOK: We cannot preclude the possibility that there is a microscopic entity within the wormhole curious about an intruder.
+KIM: That's possible, but you'd think our probe would have detected something like that.
+JANEWAY: What's the condition of the probe now?
+TORRES: I've been monitoring it from Engineering. It's still embedded in a gravitational eddy, but within seventy two hours it will be crushed.
+KIM: But until then it should continue to transmit telemetry.
+JANEWAY: If we're reading scans from the other side, it's possible the probe is acting as a relay. If that's true, we should be able to use it to transmit a message to whoever is executing the scan.
+KIM: Yes. I can modify our subspace communications band to accept the probe as a booster.
+JANEWAY: Let's try it, Mister Kim.
+TORRES: I'll give you a hand.
+(Kim and Torres leave.) 
+TUVOK: I fear Mister Kim's exuberance may turn into an equally intense disappointment if his efforts prove in vain.
+JANEWAY: You may be right, but I'd rather assume that he's going to be successful. 
+[Engineering] 
+KIM: Okay, I've boosted power to the communications bandwidth. Now all we have to do reconfigure the signal generator so it's compatible with the probe's long range sensors.
+TORRES: I'm on it. Just a few minutes more.
+KIM: This has to work. It'll mean so much to people back home to know we're alive and headed for Federation space.
+TORRES: We haven't been gone that long. People won't give up on us so soon. They probably just think we're lost.
+KIM: It's still going to be hard on my folks. I always called them once a week, even when I was on my training missions. I've never been out of contact for so long.
+TORRES: Well, it is going to work, Starfleet, so pretty soon they're going to know you're all right.
+KIM: How about you? Any family?
+TORRES: I haven't seen my father since I was five. He and my mother separated. He went back to Earth and that was the last I saw of him.
+KIM: And your mom?
+TORRES: I think she's on the Klingon Homeworld.
+KIM: You think?
+TORRES: We didn't get along very well. Okay, the signal generator should be tuned to the probe's long range sensors.
+KIM: Isn't there anyone back home who'll be worried about you?
+TORRES: The Maquis are as to a close family as I've ever had. Most of my friends are here, on the ship, so no, there's no one back home who's going to care one way or the other whether I'm alive. We're ready to transmit.
+KIM: Engineering to Bridge. 
+[Bridge] 
+JANEWAY: Janeway here.
+KIM [OC]: We have a communications link with the microprobe. We're going to try sending a preliminary test signal, a series of sub-harmonic pulses. 
+[Engineering] 
+KIM: They stand the best chance of transmission through the wormhole.
+JANEWAY [OC]: Acknowledged. 
+[Bridge] 
+JANEWAY: Proceed.
+KIM [OC]: Aye, Captain.
+CHAKOTAY: I'm reading transmission of the test signal. The probe has received it and relayed it.
+PARIS: How will we know if the signal reaches somebody?
+JANEWAY: The only way is if that somebody answers. 
+[Engineering] 
+KIM: There's no response.
+TORRES: It's too soon. Remember, we have no idea how long it takes to reach the other side. 
+[Bridge] 
+JANEWAY: Are you reading anything, Mister Tuvok?
+TUVOK: Negative Captain. There is nothing that would suggest a response.
+CHAKOTAY: Even if someone receives our signal, it might take them some time to figure out how to return it.
+JANEWAY: You're right. Janeway to Kim. Continue transmitting.
+KIM [OC]: Aye Captain. 
+[Engineering] 
+KIM: How long shall we keep it up?
+JANEWAY [OC]: Until I tell you otherwise. 
+[Bridge] 
+JANEWAY: You have the bridge, Commander.
+TUVOK: Captain.
+JANEWAY: Mister Tuvok.
+TUVOK: I'm getting something, Captain. 
+PARIS: I'm getting it too. A subspace signal relayed through the probe.
+TUVOK: That signal is being transmitted at exactly the same frequency and amplitude as our signal. It's a response. Someone received our transmission and sent one back, and their signal originated in the Alpha Quadrant. 
+Captain's log, supplemental. Encouraged by his success in transmitting a signal to the Alpha Quadrant, Mister Kim is investigating the possibility of establishing a voice link with whoever is at the other end of the wormhole. 
+[Ready room] 
+JANEWAY: Come in. Kes, this is a surprise.
+KES: Am I interrupting?
+JANEWAY: Not at all. I was just going to have a cup of soup. Would you like anything?
+KES: Ah, spinach juice with a touch of pear, please. Tom Paris introduced me to it, it's very nutritious.
+JANEWAY: I'm sure. Computer, one spinach juice with a touch of pear and one cup of vegetable bouillon. What can I do for you?
+(They take their drinks to the settee.) 
+KES: If there were a member of the crew whose needs weren't being met, would you want to know about it?
+JANEWAY: Of course. Kes, do you and Neelix feel that your needs are being ignored?
+KES: Of course not, we're very happy here. I'm referring to the Doctor.
+JANEWAY: The Doctor?
+KES: I don't understand why people treat him the way they do.
+JANEWAY: How do people treat him?
+KES: As though he doesn't exist. They talk about him while he's standing right there. They ignore him. They insult him.
+JANEWAY: Well as a matter of fact, I've been hearing the other side of the coin. Many of the crew have complained that the Doctor is brusque, even rude, that he lacks any bedside manner. We've been talking about reprogramming him.
+KES: You can do that? It doesn't seem right.
+JANEWAY: Kes, he's only a hologram.
+KES: He's your Medical Officer. He's alive.
+JANEWAY: No he's not.
+KES: He's self aware, he's communicative, he has the ability to learn.
+JANEWAY: Because he's been programmed to do that.
+KES: So because he's a hologram he doesn't have to be treated with respect or any consideration at all?
+JANEWAY: Very well, I'll look into it.
+KES: Thank you, Captain. 
+[Bridge] 
+(At Engineering station 2, scan analysis 21166 shows the wormhole.) 
+KIM: Okay, we'll be ready to go online in a couple of minutes.
+TORRES: I'm still worried about the gravitational interference. I don't think the co-variant isolator will be effective with a vocal transmission.
+KIM: Let's try inverting the narrow band filter.
+(Janeway enters from her Ready room.) 
+JANEWAY: Progress report, Ensign.
+KIM: I think we're ready to give it a try, though we're pushing through some pretty heavy gravitational interference. I can't guarantee the clarity of the transmission.
+JANEWAY: Let's see what happens. This is Captain Kathryn Janeway of the Federation Starship Voyager. Do you read?
+(Static garble.) 
+TORRES: I'll narrow the filter bandpass some more. Try again, Captain.
+JANEWAY: This is Kathryn Janeway of the Federation ship Voyager. Is anyone receiving this communication?
+TELEK [OC]: (skreech, gurgle) vessel (gurgle) 
+KIM: Narrow the bandpass some more. Try again, Captain.
+JANEWAY: This is Janeway. Please repeat your last transmission.
+TELEK [OC]: (gurgle) cargo vessel (gurgle) quadrant (gurgle) your location.
+JANEWAY: Cargo vessel, we're still trying to clear up your last transmission. Please repeat one more time.
+TELEK [OC]: I am Captain of the cargo vessel Talvath, location Alpha Quadrant, sector one three eight five. What is your location?
+JANEWAY: We're in the Delta Quadrant, but since this quadrant hasn't been charted I can't specify our exact location.
+TELEK [OC]: Please confirm. You said Delta Quadrant?
+JANEWAY: Correct.
+TELEK [OC]: In a Federation starship?
+JANEWAY: Yes. We were on a mission and we got pulled into this quadrant.
+TELEK [OC]: Pulled in? How?
+JANEWAY: It's a complicated story. Please, if you would just try deconstructing the phase shift of our hailing frequency you could verify.
+TELEK [OC]: You are undoubtedly still in the Alpha quadrant. What are your coordinates?
+JANEWAY: I assure you I am telling you the truth. We are in the Delta quadrant, seventy thousand light years from you.
+TELEK [OC]: This is preposterous. You are obviously lying. I am terminating communication.
+JANEWAY: No, no, wait! Kim! Hail them again.
+KIM: No response, Captain.
+CHAKOTAY: Why would he have broken off transmission?
+TUVOK: Perhaps I can offer an explanation. The comm. link signature of his transmission indicates the message originated from a Romulan ship. Further, there are no known shipping lanes in the sector he identified. Given the precise calibration of his signal I would suggest that he is in fact on board a science vessel.
+PARIS: Why would he pretend to be a cargo captain.
+CHAKOTAY: If he's engaged in some kind of secret research he might want to conceal that fact.
+TUVOK: Precisely. When we claimed to be transmitting from the Delta quadrant, an impossibility so far as he knows, he may have feared we were Federation spies.
+TORRES: Just our luck. We raise one ship from the Alpha quadrant and it has to be Romulan.
+JANEWAY: That Romulan still has the ability to get a message to Starfleet. Mister Kim, hail the Talvath repeatedly. Call me the minute you re-establish contact. Commander, you have the bridge.
+CHAKOTAY: Aye, Captain. 
+[Doctor's office] 
+(Janeway enters Sickbay. The place is deserted.) 
+JANEWAY: Computer, initiate Emergency Medical Holographic Programme.
+EMH: Please state the nature of the medical emergency.
+JANEWAY: There is no emergency, Doctor. 
+[Sickbay] 
+EMH: Well, that's good. I was right in the middle of preparing a culture to test Lieutenant Hargrove for Arethian flu when Ensign Kyoto deactivated me.
+JANEWAY: I'm sure she didn't realise you were busy.
+EMH: What is it you want, Captain.
+JANEWAY: Actually, I thought we might just talk for a moment.
+EMH: About what?
+JANEWAY: Doctor, you were originally programmed to serve in a limited fashion during an emergency. Now you're being asked to do much more.
+EMH: That's certainly true. I'm providing full time medical service for the entire ship's crew, functioning both as doctor and nurse, and now as an instructor as well.
+JANEWAY: You don't have the luxury of thinking of yourself as am Emergency Medical Programme any more. You've become a full-fledged member of the crew.
+EMH: I see. Are you suggesting that I be re-programmed?
+JANEWAY: No. I'm asking if there's anything I can do to help you.
+EMH: Help me?
+JANEWAY: If there's anything you need, or want, I'd like to see that you get it.
+EMH: What I'd like is to be turned off when people leave. I spend hours here with absolutely nothing to do. When someone does remember to deactivate me they do so without asking if it's convenient. It's extremely irritating.
+JANEWAY: What if I gave you control over your deactivation sequence?
+EMH: I beg your pardon?
+JANEWAY: I'm sure we can make it possible for you to turn yourself off, or to prevent being turned off.
+EMH: I, I might like that.
+JANEWAY: I'll have someone look into it. Anything else?
+EMH: I'm not sure, I'll have to give it some thought.
+JANEWAY: You do that. 
+[Captain's quarters] 
+(Janeway is asleep in her bed under the stars.) 
+KIM [OC]: Kim to Captain Janeway.
+JANEWAY: Janeway here.
+KIM [OC]: Captain, we've got him back. The Romulan.
+JANEWAY: Good work. Put him through to my quarters. 
+(She gets up and goes into the main room.) 
+JANEWAY: This is Kathryn Janeway.
+TELEK [OC]: This is the cargo vessel Talvath.
+JANEWAY: Thank you for answering our hail, Captain. What is your name? How may I address you?
+TELEK [OC]: I'd prefer not to give my name.
+JANEWAY: Very well, I understand that you must have been sceptical when I told you where we are. I hope you've been able to verify our position.
+TELEK [OC]: My analysis of your hailing frequency seems to indicate that it originates in the Delta quadrant, but I am not precluding the possibility that you've been able to create that illusion somehow.
+JANEWAY: To what end?
+TELEK [OC]: I'm not sure. That doesn't negate the possibility.
+JANEWAY: How can I assure you of my truthfulness?
+TELEK [OC]: You say you are a Federation ship. Are you a Starfleet vessel?
+JANEWAY: Yes, we are.
+TELEK [OC]: And your mission in the Delta quadrant?
+JANEWAY: Our mission was originally in the Alpha quadrant. We were pulled against our will to our present location. Now we're trying to get home.
+TELEK [OC]: Aren't you in fact Starfleet spies on a surveillance mission?
+JANEWAY: Captain, I understand your concern. Naturally the Romulan Empire doesn't want Starfleet spying on it's science vessels, but since we're seventy thousand light years from Romulan space and a subspace message to Starfleet would take years, I think you have to admit that we can't be much of a threat to you. You have nothing to fear from us.
+TELEK [OC]: Soothing words, Captain, but they are only words.
+JANEWAY: If we were spies, we wouldn't be asking what I'm going to ask you now. We have no way of communicating with Starfleet, with our friends and families. We're hoping you might be able to relay a message for us. Our crew is not large. Each of them could write a short personal message. You'd be welcome to read them all before passing them on. I think you'd be convinced that they're nothing more than the heartfelt words of some very lonely people.
+TELEK [OC]: Captain, it would ease my apprehension if I could see that you are who you say you are. I have a signal amplifier on board. I've been working to reconfigure the protocols to penetrate the radiation stream of the wormhole. I think it might be possible to establish a visual link between us.
+JANEWAY: I have no objection. When that's done, will you help us?
+TELEK [OC]: I make no promises. Let us proceed one step at a time. Have your officers contact me in order to attempt the visual link. Goodnight.
+JANEWAY: Goodnight. 
+[Bridge] 
+TUVOK: We're ready to try a visual link with the Romulan ship, Captain.
+JANEWAY: Good work.
+KIM: We didn't have any trouble configuring the protocols, but that phase variance in the radiation stream gave us a few problems. Torres is going to balance it manually from Engineering.
+PARIS: Okay, we've got the communications frequency locked in.
+JANEWAY: On screen.
+(The static eventually resolves itself into the head and shoulders of a Romulan man.) 
+TELEK [on viewscreen]: I presume you are Captain Janeway.
+JANEWAY: Yes. I want to thank you, Captain, for maintaining contact with us. It means a great deal to me and to my crew.
+TELEK [on viewscreen]: I am not familiar with this class of ship.
+JANEWAY: It's new, but it isn't classified. I'm a little surprised your intelligence hasn't provided you with the information.
+TELEK [on viewscreen]: I've been in space for over a year, Captain, and am not privy to the latest intelligence, but I'm sure that our operatives provided the government with detailed information about your new ship.
+JANEWAY: No doubt. Captain, have you been able to communicate with your government about sending on our messages?
+TELEK [on viewscreen]: I have. They've promised to take the matter under advisement.
+JANEWAY: I see. And when do you think they will have an answer?
+TELEK [on viewscreen]: It is impossible to predict the time table of the Romulan Senate. When they've made their decision I will hear from them.
+JANEWAY: We don't have the luxury of a great deal of time. My officers are predicting that the probe will become inoperable in the next forty eight hours.
+TELEK [on viewscreen]: Captain, I am a low ranking scientist, a minor functionary. It is not my place to tell the Romulan Senate to speed up their decision making process.
+JANEWAY: You said you've been in space for over a year. Have you any family?
+TELEK [on viewscreen]: Yes. 
+JANEWAY: I assume they're not with you in space.
+TELEK [on viewscreen]: My wife and my daughter are on Romulus.
+JANEWAY: A daughter. How old is she?
+TELEK [on viewscreen]: She is seven months.
+JANEWAY: Then you've never seen her.
+TELEK [on viewscreen]: To my sorrow, no. She'll be two years old before I get back. 
+JANEWAY: You must miss your family very much.
+TELEK [on viewscreen]: I knew when I accepted this assignment there would be a price to pay. Perhaps I didn't realise how high that price would be.
+JANEWAY: Captain. Everyone of us on this ship has left behind friends, family, loved ones. We may not see them again for years, maybe never, so we can all understand how lonely you must be. Surely you must understand our feelings as well. We would be deeply grateful for any efforts you might make to persuade your government to send our messages.
+TELEK [on viewscreen]: I cannot guarantee success, but I will try to persuade my superiors to make their decision quickly and positively.
+JANEWAY: Thank you.
+TELEK [on viewscreen]: I will contact you again.
+(Transmission ends.) 
+JANEWAY: Commander, let's assume he's going to be successful. Tell the crew to prepare personal messages and have them ready within the hour.
+CHAKOTAY: With pleasure, Captain.
+(Torres runs in.) 
+TORRES: Captain, I have to talk to you.
+JANEWAY: Go ahead, Torres.
+TORRES: No. I mean, in private. 
+[Ready room] 
+TORRES: I think this will work, Captain, but I didn't want to bring it up in front of the crew. It wouldn't be right to get their hopes up in case it doesn't work, although I think it will.
+JANEWAY: Slow down, Torres, and tell me what you're talking about.
+TORRES: The phase amplitude of the visual link with the Romulan ship is within just a few megahertz of meeting transporter protocols.
+JANEWAY: Are you suggesting 
+TORRES: We might be able to piggyback a transporter beam onto the visual link. We could transport the entire crew back to the Alpha quadrant.
+JANEWAY: You'll have to reconfigure the matter transmission rate.
+TORRES: Fairly substantially.
+JANEWAY: And we risk losing whatever we try to beam out.
+TORRES: We'll have to run a series of tests first.
+JANEWAY: See to it, Lieutenant.
+TORRES: I'll need some help.
+JANEWAY: You have my authorisation to use any of the ships personnel you need. This has top priority. And don't worry about secrecy. I doubt you'd be able to keep this quiet for very long. 
+(Torres leaves. Janeway picks up a photograph of a man and a dog, and gazes longingly at it.) 
+[Sickbay] 
+(Kes returns the PADDs.) 
+KES: I've finished these and I'm ready for more.
+EMH: You've finished those already?
+KES: I enjoyed studying anatomy. It would be interesting to see an autopsy sometime.
+EMH: What are the bones of the middle ear?
+KES: Malleus, incus and stapes.
+EMH: And the connective tissue between the middle and the external auditory canal?
+KES: The tympanic membrane.
+EMH: Hmm. I suspect you have an eidetic memory. An astonishing gift. I'll do a full neural scan on you at some point. 
+[Doctor's office] 
+KES: I've been thinking. If we do get back to Federation space, I'd like to explore the possibility of going to Medical School.
+EMH: If you continue to apply yourself as you have, by the time we get back you may already have the equivalent of a medical degree.
+KES: Then you haven't heard?
+EMH: Heard what?
+KES: That we might be getting back soon.
+EMH: If there's one thing you can count on, it's that I am the last to be told about anything that happens on this ship.
+KES: Everyone's talking about it. There may be a way to transport all of us to the Alpha Quadrant. Chief Torres and half of engineering are working on it right now.
+EMH: I see. Well, I'll say goodbye now. I won't be transporting with the rest of you.
+KES: But can't we download your programme and take you with us?
+EMH: My programme is fully integrated into the sickbay system. At present I cannot be downloaded.
+(Kes kisses him on the cheek.) 
+KES: Thank you for everything.
+EMH: Wait. I'd like. That is, could I ask a favour of you?
+KES: Anything.
+EMH: If you do leave, before you go, would you check to make sure I've been deactivated.
+KES: I promise. 
+[Bridge] 
+JANEWAY: And our Chief Engineer has managed to bind a transporter beam to the visual link between us.
+TELEK [on viewscreen]: Then you've matched your data transmission to the phase amplitude of our comm. signal?
+JANEWAY: Exactly.
+TELEK [on viewscreen]: Apparently our intelligence operatives are not doing their job. You clearly have technology that we are unaware of. This would be an incredible breakthrough in subspace field mechanics.
+CHAKOTAY: If it's successful, we'd like to try transmitting a test cylinder to you.
+TELEK [on viewscreen]: A test cylinder of what sort?
+TUVOK: It is a standard Starfleet mechanism with a varietal molecular matrix. It simulates most organic and non-organic compounds. It is not classified technology.
+TELEK [on viewscreen]: Ah, I am aware of this mechanism. We use a similar device. I will allow the transport.
+JANEWAY: Bridge to Transporter room one.
+TORRES [OC]: Torres here. 
+[Transporter room] 
+TORRES: We're all set, Captain. The lock is active and we're focused on the Romulan's 
+[Bridge] 
+TORRES [OC]: Transporter coordinates. 
+JANEWAY: All right then. Let's give it a try.
+CHAKOTAY: Energise. 
+[Transporter Room] 
+TORRES: The cylinder has dematerialised, Captain. 
+[Bridge] 
+(The cylinder tries to stutter into solidity next to Telek.) 
+JANEWAY: Can you get it back? 
+[Transporter Room] 
+TORRES: The pattern buffer is having trouble accepting the matter stream.
+KIM: I'll increase power to the 
+[Bridge] 
+KIM [OC]: Phase transition coils.
+(It still won't solidify.) 
+[Transporter room] 
+TORRES: Ramp the coils to thirty seven megajoules.
+KIM: Thirty seven megajoules. 
+[Bridge] 
+(The cylinder solidifies and Telek takes hold of it.) 
+TELEK [on viewscreen]: Congratulations, Captain. You've done it. Very impressive.
+JANEWAY: We should run a series of these tests just to make sure, but we have to act quickly before the probe is crushed.
+TELEK [on viewscreen]: I understand.
+JANEWAY: Eventually we will have to try transporting a person. One of our crew will beam to your ship if you'll allow it.
+TELEK [on viewscreen]: I'm afraid I can't permit that, Captain, my government would never allow Starfleet personnel on this ship. I wouldn't want my logs to show that activity.
+TUVOK: Then what would you suggest?
+TELEK [on viewscreen]: I'll volunteer to transport to your ship and back again.
+JANEWAY: But Captain, if we can't transport to your ship, how are we to get back?
+TELEK [on viewscreen]: If the procedure is successful, I'll arrange for a troop ship to join me. That would easily accommodate your crew.
+JANEWAY: Very well. We'll be in touch. 
+[Corridor] 
+CHAKOTAY: Kim and Torres have made more than twenty transports of the test cylinder, even though she's still having trouble with that phase variance. Every one of them has been successful.
+JANEWAY: Let's hope it goes as well with the Romulan.
+TUVOK: Captain, I must insist that I stay with him at all times while he is on board. 
+[Transporter Room] 
+JANEWAY: Agreed.
+TORRES: We're locked onto him. Whenever you're ready, Captain.
+JANEWAY: Well, let's try it. Energise. What's the problem?
+TORRES: It's the phase variance in the radiation stream. I'm balancing it manually.
+(Telek finally solidifies.) 
+JANEWAY: Welcome to the Delta quadrant, Captain. My first officer, Commander Chakotay. Lieutenant Tuvok, head of security. Chief Engineer Torres and Operations officer Kim.
+(Tuvok puts away his phaser and takes out a tricorder.) 
+TELEK: My congratulations on your remarkable accomplishment. This is an astonishing breakthrough.
+TORRES: For a while there I didn't think you were going make it. There was a strange phase variance in the radiation stream. It almost kept us from pulling you through.
+JANEWAY: Mister Tuvok, you may begin evacuation procedures.
+TUVOK: I suggest we delay that for the moment, Captain. I'm afraid I've found the reason for the unusual phase variance.
+JANEWAY: What is it?
+TUVOK: Captain, what year is it?
+TELEK: What year?
+TUVOK: If you please.
+TELEK: By your calendar, the year is 2351.
+CHAKOTAY: But this is 2371.
+TUVOK: Exactly. Our Romulan visitor is a person out of time. He is showing clear evidence of temporal displacement. I would surmise that the wormhole is a rift not just in space but in time. The unusual phase variance we detected was actually an indication of a temporal shift. We have transported him from twenty years in the past to our present. 
+[Briefing Room] 
+TORRES: I've gone over and over the transporter logs. There's no question that if we try to transport ourselves through that wormhole, we'll end up twenty years in the past.
+KIM: Then lets do it. It's better than trying to spend the next seventy years trying to get back.
+PARIS: How can we do that? We'd be going back to a time when you were only two years old.
+JANEWAY: I know you're disappointed, Harry, we all are. It seemed we were so close. But clearly we can't go back. It would pollute the time line to such an extent that the consequences would be unimaginable. I'm afraid we'll have to send you back alone and ask that you not reveal anything that has happened here.
+TELEK: I can assure you, Captain, that I would not do anything that might contaminate the future and perhaps harm the Romulan Empire, but, in twenty years I could alert Starfleet not to launch the mission which sent you here.
+CHAKOTAY: I'm afraid that's not possible either. We've already had a huge impact on this quadrant. People and events here would be drastically affected.
+JANEWAY: I'm afraid we're left with our original request. In twenty years, would you relay our personal messages to Starfleet?
+TELEK: Of course. At the proper time, I will transmit them. If you should find a way back within my lifetime, I'd be an old man, but I would welcome a message from you. I am Telek R'Mor of the Romulan Astrophysical Academy.
+JANEWAY: I promise you'll hear from us. Because we will get back. 
+[Transporter Room] 
+(Tuvok gives Telek a yellow isolinear chip.) 
+TUVOK: These are our messages.
+TELEK: I wish you luck on your journey.
+JANEWAY: And I thank you for your help. Energize.
+TORRES: The signal's in the pattern buffer. Transferring to the emitter array.
+KIM: Phase variance is out of synch again.
+TORRES: Compensating. Transport complete, Captain. He made it.
+JANEWAY: I'll tell the crew. They can have the satisfaction of knowing that their messages have reached their families.
+TUVOK: Captain, I did not want to mention this until after our guest had left. I checked the computers databanks for a Romulan scientist named Telek R'Mor.
+JANEWAY: And?
+TUVOK: I'm sorry to report Doctor R'Mor died in 2367.
+JANEWAY: That was four years ago. 
+TUVOK: That is correct. Before he would have sent our messages.
+TORRES: Maybe he left a will telling someone else to transmit the messages. Or he could have given our computer chip to the Romulan Government.
+TUVOK: It is possible. Unfortunately, there is no way to know.
+JANEWAY: Then let's move on. We've got a long way to go. 
+[Sickbay] 
+(Guess who is back on the biobed, this time having his calf examined, and talking to Kes.) 
+BAXTER: I tried a new hamstring exercise. Maybe I overdid it. But my workouts are about all that stand between me and a severe case of cabin fever.
+EMH: Lieutenant, I am the Chief Medical Officer of this ship. If you have something to say to me, please, direct the statement to me.
+BAXTER: Well, you see, I need to work out.
+EMH: I'm not telling you not to work out. I'm suggesting you use a modicum of commonsense when you do it. If I see you in here again for an exercise related injury, I'll have to discuss the matter with your superior officer.
+BAXTER: Yes, sir.
+EMH: You're fine now. You may leave.
+BAXTER: Yes, sir. Thank you, sir. 
+(Baxter leaves.) 
+KES: I don't think he'll make the mistake of ignoring you again.
+EMH: Captain Janeway has made me realise that I must function as more than an Emergency Medical replacement. I must think of myself as a member of the crew.
+KES: you're absolutely right.
+EMH: I've prepared a list of things I'd like to see added to Sickbay. Perhaps you could present it to the Captain?
+KES: I'd be happy to.
+EMH: There's one more request. Something of a, a personal nature. I would like a name. 

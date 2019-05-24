@@ -1,0 +1,451 @@
+Brothers
+Captain's log, Stardate 44085.7. Due to a medical emergency, we have been forced to cut short a two day liberty on Ogus Two and set course for Starbase four one six. It seems a young man's practical joke has come dangerously close to a lethal conclusion. 
+[Observation lounge] 
+(Troi escorts a teenager into the room) 
+RIKER: Well Mister Potts, why don't we start at the beginning? 
+JAKE: We were at the arcade, sir. I brought this balloon with me, filled with red pillion dye. You see, Willie is always making fun of me. I figured I'd get him back. 
+TROI: Hey, hey, slow down. 
+JAKE: We programmed the game for an ordinary laser duel. You know, twenty one points. Four points for a 
+RIKER: I'm familiar with the game. Go on. 
+JAKE: We went out to the forest behind the east arcade. I told Willie that his laser pistol looked kind of funny, almost like a real one. When I went behind the trees, I put the balloon into my vest, and then 
+RIKER: So you made your nine year old brother believe that he'd killed you? 
+JAKE: Yes, sir. 
+RIKER: And then he ran away? 
+JAKE: Yes, sir. 
+RIKER: And while he was hiding he ate the fruit of a cove palm. 
+JAKE: It was just a joke, sir. I didn't think this was going to happen. 
+RIKER: Are you aware of the infectious nature of the parasites which inhabit cove palm? 
+JAKE: I am, I am now, sir. 
+RIKER: Are you also familiar with the terms I agreed to keep you boys on the Enterprise when your parents went on sabbatical? 
+JAKE: That we'd stay out of trouble, sir. 
+RIKER: Mister Data? 
+DATA [OC]: On my way, sir. 
+RIKER: Think about it, Mister Potts. And while you're at it, think about what may have happened had we not been this close to a starbase medical facility. 
+(Data enters) 
+RIKER: Were you able to contact the boy's parents? 
+DATA: They've been made fully aware of the situation, sir. 
+RIKER: Good. Escort this young man to the quarantine anteroom. Perhaps he could assist us in lifting his brother's spirits. 
+DATA: Aye, sir. 
+[Turbolift] 
+JAKE: He really could die. 
+DATA: Fortunately we are only two days from Starbase four one six, and their laboratory can isolate 
+(Data acts as if he's listening to something only he can hear) 
+JAKE: Can isolate what, sir? 
+(Data goes to the turbolift controls) 
+JAKE: Their laboratory can isolate what, Commander? Sir, sir, I know I made a mistake, and I can tell you're angry, but if you're not going to talk to me 
+(Data gets off at the Bridge instead of Sickbay) 
+[Bridge] 
+RIKER: Back so soon, Mister Data? 
+(Data goes to his station and starts tapping in commands) 
+LAFORGE [OC]: La Forge to Bridge. 
+PICARD: Go ahead, Commander. 
+LAFORGE [OC]: Captain, we've completed our dilithium vector calibrations. We are currently at warp four point five. You're clear to increase to warp seven. 
+PICARD: Very good, Geordi. Let me know if you 
+WORF: Captain, did you request a course correction? 
+LAFORGE [OC]: I didn't say we could increase speed to warp nine point one, sir. 
+WESLEY: New course set for heading three four one mark two two one. 
+RIKER: Course set by whom? 
+WESLEY: Not by me, Commander. 
+PICARD: What's going on? 
+RIKER: Data, who programmed the new coordinates? 
+WESLEY: Warp nine point three, Commander. 
+LAFORGE [OC]: I don't advise this, Captain. 
+[Engineering] 
+LAFORGE: If we're going to maintain our realignment progressions we shouldn't be pushing warp eight for at least an hour. 
+[Bridge] 
+PICARD: Commander. 
+(The lights dim) 
+COMPUTER: Evacuate Bridge. Deck one life support failure in thirty seconds. 
+RIKER: Turbolifts two, three, four, everyone. 
+PICARD: Transfer helm to Engineering, Geordi. 
+LAFORGE [OC]: Aye, sir. 
+RIKER: La Forge, let's get a diagnostic sweep underway. 
+COMPUTER: Evacuate Bridge. Deck one life support failure in twenty seconds. 
+PICARD: Reassemble in Engineering. 
+(Data is the only one left on the Bridge) 
+COMPUTER: Evacuate Bridge. Deck one life support failure in ten seconds. 
+(Data starts working on a rear science station) 
+COMPUTER: Deck one life support has been terminated. 
+[Engineering] 
+KOPF: Our velocity is holding steady at warp nine point three. Do you wish to override, Commander? 
+LAFORGE: No, not yet. Computer, isolate cause of life support failure. 
+COMPUTER: Atmosphere conditioning pumps on deck one are operating in negative mode. 
+LAFORGE: How could that be? There are seven independent safety interlocks to prevent that. 
+(Picard and Worf enter, then others) 
+LAFORGE: Captain, I believe we've found the problem, but it really doesn't make sense. 
+PICARD: Bring the Enterprise to a full stop, Commander. 
+LAFORGE: Aye, sir. Full stop, Ensign. 
+KOPF: It's not responding, sir. 
+LAFORGE: I'm going to have to do this at the manual input level, sir. Wes. 
+RIKER: We're still at the altered heading, Captain, holding at warp nine point three. 
+WORF: Captain. Force fields have been established on all main Bridge turbolift doors and service crawlways. 
+PICARD: Computer, locate Lieutenant Commander Data. 
+COMPUTER: Commander Data is on the main Bridge. 
+RIKER: What the hell is he up to? 
+PICARD: Number One, take a security team up to deck two. Try and break through from below. Commander? 
+LAFORGE: Everything's locked up, Captain. We have no control of impulse or warp engines from here. 
+WESLEY: Navigation's not responding either, sir. 
+PICARD: Picard to main bridge. 
+[Bridge] 
+PICARD [OC]: Commander Data, do you hear me? I repeat. Data, do you hear 
+(Data cuts off the comm.) 
+DATA: Computer. Recognise Data, Lieutenant Commander. Alpha One clearance. 
+COMPUTER: Priority clearance recognition Alpha One. 
+DATA: Maintain minimum auxiliary power and disengage subspace communications. 
+COMPUTER: Acknowledged. 
+[Engineering] 
+WESLEY: He is on the Bridge, sir. 
+PICARD: Mister La Forge, prepare for saucer separation. 
+WESLEY: Sir, we're at Warp nine three. 
+PICARD: I am aware of the risks, Ensign. When the umbilical splits, we should regain primary control, do you agree? 
+LAFORGE: Yes, sir. 
+PICARD: The saucer module should fall out of warp in two minutes. Be prepared to sweep back. Pull it in with a tractor beam. 
+WORF: Aye, sir. 
+PICARD: Initiate auto sequence. 
+[Bridge] 
+DATA: (doing a perfect imitation) Computer, recognise Picard, Jean-Luc. Alpha Two clearance. 
+COMPUTER: Priority clearance recognition, Alpha Two. 
+DATA: Cancel separation sequence. 
+COMPUTER: Sequence cancelled. 
+DATA: Isolate all remaining command functions and accept related orders and inquiries from main Bridge only. 
+[Engineering] 
+LAFORGE: The separation sequence has been aborted, Captain. 
+PICARD: Computer, recognise Jean-Luc Picard, Alpha Two priority, and re-establish separation procedure immediately. 
+COMPUTER: Orders regarding command functions are no longer accepted from your present location. 
+PICARD: And just what location are they accepted from? 
+COMPUTER: Interface terminals on main Bridge only. 
+WESLEY: You're the only one who has clearance to localise command functions. 
+PICARD: It seems Commander Data has it them as well. 
+[Jefferies tube] 
+(Riker is up the ladder, Worf at the bottom) 
+WORF: The isolinear subprocessor extends three point five metres. 
+RIKER: I've got a clear path to panel J14 baker. What's that going to do for us? 
+WORF: J14 baker backs onto science station two, Commander. 
+RIKER: Have they reinverted the environmental control sequencer? 
+WORF: Yes, sir. Life support has been re-established. 
+RIKER: Then you and Casey get up here. Let's get to it. 
+[Bridge] 
+DATA: Computer, configure a perimeter field charge, sections Nine K through Twelve T. 
+[Jefferies tube] 
+(Fizz!) 
+RIKER: What the hell was that? 
+WORF: He's activated a force field, sir. 
+RIKER: Great. Just great. 
+[Engineering] 
+PICARD: Chief O'Brien. 
+O'BRIEN [OC]: Yes, Captain. 
+PICARD: We had better disable the site to site transport function. 
+[Transporter room] 
+PICARD [OC]: When we get wherever we're going, I don't want Mister Data beaming off the Bridge. 
+O'BRIEN: I'll get right to it, sir. 
+[Engineering] 
+PICARD: Doctor Crusher. 
+CRUSHER [OC]: Yes, Captain. 
+PICARD: Is your quarantine intact? 
+CRUSHER [OC]: So far, sickbay force fields don't seem to have been affected. 
+PICARD: The boy? 
+[Sickbay] 
+(The child is in effectively what is a glass box the size of a large bed, with it's own ventilation system) 
+CRUSHER: He's alright. But he's not going to stay alright. Sir, we have to get this ship to a starbase medical facility. 
+PICARD [OC]: It seems, Doctor 
+[Engineering] 
+PICARD: That Data has other plans for the Enterprise right now. 
+[Sickbay] 
+(Beverly is tending to her 'boy in a bubble') 
+CRUSHER: Oh, Come on, I can't believe that. Everybody's played a practical joke on somebody at one time or another. 
+WILLIE: Not me. 
+CRUSHER: Not even a little one? How about April Fools? I can't believe that you're telling me that you've never tried to pull something even on April Fools' Day? 
+WILLIE: What for? It's never funny to the one getting fooled. 
+CRUSHER: Well, I'm sure your brother didn't intend for it too get out this of hand. Certainly not to the degree it has. Take a deep breath. 
+WILLIE: What's so funny about making someone think you killed them? 
+CRUSHER: Take a deep breath. Have you been drinking all the water I asked you to? 
+WILLIE: Yes. 
+CRUSHER: Well, keep it up. There might have a short delay in reaching starbase and I want 
+(Troi and Jake enter. Willie turns his back to them) 
+JAKE: There, you see? How can I tell him if he's not going to listen to me? 
+TROI: Why don't you try, Jake? 
+JAKE: It's just a waste of time. He won't listen. 
+(Jake rushes off down the corridor again) 
+[Bridge] 
+(The Enterprise has established orbit around a green world) 
+DATA: Computer, prepare to transport me directly to the following coordinates. 
+COMPUTER: Site to site transport interlocks have been manually deactivated. 
+DATA: Can you override? 
+COMPUTER: Negative. 
+DATA: Show me the shortest route to Transporter room one. Computer, prepare to activate cascade force field sequence in the following progression. 
+[Engineering] 
+LAFORGE: No matter what we try, the computer will only accept commands from the Bridge, sir. 
+WORF: He has blocked every subspace channel, sir. We cannot even call for help. 
+PICARD: Have you tried tracing back navigation inputs? 
+WESLEY: We don't even know what star system we're in, sir. 
+RIKER: The only way we knew we'd come out of warp was by looking out a window. 
+O'BRIEN [OC]: O'Brien to Captain Picard. 
+PICARD: Go ahead, Chief. 
+O'BRIEN [OC]: Captain, he's up to something. 
+PICARD: What now? 
+[Transporter room] 
+O'BRIEN: He discovered the site to site lockout. I wouldn't be surprised if he 
+[Engineering] 
+O'BRIEN: Tried to make it to a transporter room now. 
+PICARD: Mister Worf, I want security teams along the main passageways and in every transporter room. And see if the computer would be good enough to give you the precise stun setting to disable Mister Data. 
+WORF: Yes, sir. 
+PICARD: Computer, estimate the time from this location to Starbase four one six at warp nine. 
+COMPUTER: Inquiries regarding command functions are no longer accepted from your present location. 
+[Bridge] 
+DATA: (imitating Picard) Computer, establish a security code for access to all functions previously transferred to Bridge. 
+COMPUTER: Enter code. 
+DATA: One seven three four six seven three two one four seven six Charlie three two seven eight nine seven seven seven six four three Tango seven three two Victor seven three one one seven eight eight eight seven three two four seven six seven eight nine seven six four three seven six. Lock. 
+COMPUTER: Security code intact for all specified inquiries and orders. 
+DATA: Computer, initiate cascade sequence, accepting instructions from Commander Data en route. (enters turbolift) Now. 
+[Engineering] 
+LAFORGE: He's out! Security team approaching location. 
+[Corridor] 
+(The security team that see Data exit the turbolift get stopped by a forcefield, then the man who follows him)
+DATA: Intersection eight J, aft port. Establish. 
+(Right on the noses of the team who arrive at the junction just after him) 
+WORF: I order you to stop. 
+DATA: Computer, begin scan phase. 
+(Worf's phaser shot is blocked. The forcefield moves with Data, pushing Worf and his team backwards) 
+WORF: No, no, that's too close. 
+[Transporter room] 
+RIKER: This has gone far enough, Data. 
+DATA: Computer, three metre cross seal. 
+((Riker O'Brien and a guard are trapped behind a forcefield. Riker pulls his phaser) 
+O'BRIEN: I wouldn't advise that, sir. The phase coils don't take well to ricochets. 
+RIKER: What's he doing? 
+O'BRIEN: He's reactivating the site to site transport interlocks. 
+RIKER: Does that mean he'll be able to 
+(Data is beamed away) 
+[Soong's lab] 
+(It's a lush jungle planet, with insect and bird sounds. There in the midst is a typical mad scientist lair, all coloured liquids, electricity in a jar, books scattered on most surfaces, a skull on a shelf. Data enters and stands still. A figure in loose clothing and slippers is currently up a ladder. He descends, showing himself to be a very old man who looks rather like Data.) 
+SOONG: You're right on time. 
+(We next see Data reclining in a chair. The old man has just finished doing something to his communicator) 
+SOONG: Open. One of these. And one of these. There you are. 
+(Data sits up) 
+DATA: I fail to recall how I arrived here. 
+SOONG: I sent for you. In a manner of speaking. 
+DATA: And who are you, sir? Data to Enterprise. Enterprise, do you read me? 
+SOONG: I always loved that face. Please sit down. 
+DATA: We were heading for a medical facility. I was taking the boy's brother to Sickbay and 
+SOONG: I'm sure your starship will be back for you soon. Please, sit down. 
+DATA: I must find a way to contact the Enterprise. 
+SOONG: Tell me, do I look somewhat familiar to you? 
+DATA: You do bear a resemblance to Doctor Noonian Soong, the cyberneticist who constructed me. But, Doctor Soong was killed shortly afterward by the Crystalline Entity. 
+(Soong goes back up the ladder, whizzes it along it's track and finds the book he wants) 
+SOONG: There we are. It's your lucky day, Data. You've found your long lost father, and he's alive. What do you think of that? 
+DATA: But the colony was destroyed. There were no survivors. 
+SOONG: I've never felt too comfortable living anywhere without a prearranged route of escape. I admit, I wouldn't have guessed I'd be running from a giant snowflake, but 
+DATA: It is really you. 
+[Engineering] 
+LAFORGE: Captain, the quarantine field in Sickbay. 
+PICARD: You have access to it? 
+WESLEY: When he transferred force field control to the Bridge, he must have only specified fields he was planning to initiate. The quarantine field was already operating. 
+LAFORGE: Under normal circumstances, we could divert that field energy and use it to cancel the force field protecting the Bridge, but we have to retain the medical quarantine. 
+PICARD: Determine the absolute minimum field energy Doctor Crusher needs and use the rest to get me onto my Bridge. 
+[Sickbay] 
+CRUSHER: How are you this morning? 
+WILLIE: Not so great. I'm having trouble standing up. I get sort of dizzy. 
+CRUSHER: You heard the old story about the man who goes to his doctor? He says, Doctor, it hurts when I raise my arm like this. The Doctor says, then don't raise your arm like that. 
+WILLIE: So, if I get dizzy standing up 
+CRUSHER: Then don't stand up. 
+LAFORGE: Okay Doc, we're ready. If all goes well, you shouldn't notice a thing. 
+CRUSHER: Make sure it goes well, Commander. 
+(La Forge and the engineer leave) 
+CRUSHER: Your brother tells me that you still won't speak to him. 
+WILLIE: So? 
+CRUSHER: It's very hard on him, too. He feels very guilty about what happened. He's your brother. 
+WILLIE: Why is everybody so worried about him? I'm the one who's sick. I'm the one who's going to die. 
+CRUSHER: Hey, nobody is going to die, Willie. Do you hear me? Nobody! 
+[Bridge] 
+WORF: Captain, we are in. 
+PICARD [OC]: We're on our way, Lieutenant. 
+WORF: Computer, restore tactical station. 
+COMPUTER: Deactivation of command function overrides requires Alpha Two clearance. 
+[Turbolift] 
+RIKER: Beverly thinks its going to be tight. Let's hope he didn't take us too far off course. 
+PICARD: Let's hope. 
+[Bridge] 
+WORF: It won't answer to my clearance, sir. 
+PICARD: Computer, this is Captain Picard. Return all command functions to the stations. 
+COMPUTER: Alpha Two clearance recognised. Please enter security code. 
+PICARD: Security code? 
+LAFORGE: Data! I was afraid of something like this. 
+WORF: Sensors are operative. 
+RIKER: Well, at least that's something. What have you got? 
+WORF: No fix on Data, but I am picking up a single life form on the surface, sir. It appears human. 
+PICARD: That's a human that has the answers to a lot of questions. 
+WORF: Something else. 
+PICARD: What is it? 
+WORF: A small vessel, entering orbit. I detect no lifeforms aboard, sir. 
+[Soong's lab] 
+(Data is rubbing his stomach while patting his head) 
+SOONG: Good. Good, good, good. Keep it up. Keep it up. Old Tom Handy swore you'd never master that. Data, Data, whistle for me. 
+(Data does his bad, off-key 'Pop goes the Weasel') 
+SOONG: Oh, well. All right, that's enough. Sit down. (he inspects a plant) Beautiful, beautiful. You know, I've been able to keep track of you from time to time. You've become something of a celebrity in cybernetic circles. Data, why Starfleet? 
+DATA: Sir? 
+SOONG: I gave you the ability to choose whatever you wanted. To do whatever you wanted. Why Starfleet? 
+DATA: It was Starfleet officers who rescued me. 
+SOONG: Ah. So you decided to emulate your emancipators, huh? How disappointing. 
+DATA: What choice of vocation would have met with your approval, sir? 
+SOONG: Well, I often hoped you might become a scientist. Perhaps even a cyberneticist. 
+DATA: To follow in your footsteps, as it were? 
+SOONG: I see nothing wrong with that. 
+DATA: May I ask you a question, sir? 
+SOONG: Certainly. Anything you like. 
+DATA: Why did you create me? 
+SOONG: Why does a painter paint? Why does a boxer box? You know what Michelangelo used to say? That the sculptures he made were already there before he started, hidden in the marble. All he needed to do was remove the unneeded bits. It wasn't quite that easy with you, Data. But the need to do it, my need to do it, was no different than Michelangelo's need. Now let me ask you a question. Why are humans so fascinated by old things? 
+DATA: Old things? 
+SOONG: Old buildings, churches, walls, ancient things, antique things, tables, clocks, knick knacks. Why? Why, why? 
+DATA: There are many possible explanations. 
+SOONG: If you brought a Noophian to Earth, he'd probably look around and say, tear that old village down, it's hanging in rags. Build me something new, something efficient. But to a human, that old house, that ancient wall, it's a shrine, something to be cherished. Again, I ask you, why? 
+DATA: Perhaps, for humans, old things represent a tie to the past. 
+SOONG: What's so important about the past? People got sick, they needed money. Why tie yourself to that? 
+DATA: Humans are mortal. They seem to need a sense of continuity. 
+SOONG: Ah hah!! Why? 
+DATA: To give their lives meaning. A sense of purpose. 
+SOONG: And this continuity, does it only run one way, backwards, to the past? 
+DATA: I suppose it is a factor in the human desire to procreate. 
+SOONG: So you believe that having children gives humans a sense of immortality, do you? 
+DATA: It is a reasonable explanation to your query, sir. 
+SOONG: And to yours as well, Data. 
+(The door opens and someone else enters) 
+DATA: Lore! 
+SOONG: Looks like we have ourselves a family reunion. 
+(A little later, Soong is performing the same dentistry on Lore that he did on Data) 
+SOONG: Open. 
+DATA: I implore you, do not reactivate him. 
+SOONG: Don't be ridiculous, Data. Lore is far from the maniacal android you have made him out to be. In any case, he'll obey me. He always did. 
+DATA: But he admitted to an alliance with the Crystal Entity. To gain its favour, he betrayed the colonists and would have betrayed the Enterprise as well had I not 
+SOONG: Shh! One more. That should do it. 
+(Lore wakes, sees Data, and makes a lunge for him. Soong intervenes) 
+LORE: So, you're still alive. I'm surprised you woke me. Why didn't you just take me apart again and be done with it? That is why the two of you captured me, isn't it? 
+SOONG: Data had nothing to do with this, Lore. And nobody captured you. Not exactly, that is. You see, both of your brains contain a simple homing device. Data's was activated purposefully. Yours, well, until you walked through that door I had no idea you'd ever been reassembled. 
+LORE: No thanks to you. But thanks to you, dear brother, I spent nearly two years drifting in space. If it hadn't been for a fortunate encounter with a Pakled trade ship, I'd still be out there. 
+DATA: I had no alternative. You would have destroyed the Enterprise. 
+LORE: Well, since I appear to be an uninvited guest at your little party, I'll leave you with your beloved son and be on my way. 
+SOONG: Lore, wait. There are questions I can answer. You'll have no chance to ask them later. You see, I'm dying. 
+(That stops Lore in his tracks) 
+SOONG: Yes, I'm dying. 
+DATA: Dying from what, sir? 
+LORE: Wait a minute. Wait a minute. What do you mean, you're dying? You look fine. You're not that old. You look fine. What is this? Some kind of a trick? 
+SOONG: I wish it were. 
+[Observation lounge] 
+WORF: We have control of sensors, life support and auxiliary power, Captain. Nothing more. 
+PICARD: The code, Mister La Forge? 
+LAFORGE: We can't even locate the file address. At least that would tell us how many digits we're talking about. Not that it would really help. 
+PICARD: I want something that will really help. 
+CRUSHER: And quickly too. Willie Potts has twenty four hours, thirty six tops. If it goes much longer than that, the only thing left for Starbase four one six will be to do a postmortem. 
+RIKER: Geordi, if the computer's programmed to allow Data to transport down, it would figure that it would allow him to beam back up. Right? 
+LAFORGE: It would figure. 
+RIKER: And Data would have left a trace imprint when he beamed down? 
+LAFORGE: Sure. Everyone does. 
+RIKER: So what would be involved in pulling that trace and finding a way to make the computer think someone else is Data? Maybe a few someone else's? 
+LAFORGE: We'd have to access the transport controller, reset it to a testing mode, convince it that it's back in school accepting simulated inputs. That's not going to be easy without the main computer. But I suppose we could network a few tricorders together. 
+PICARD: Try, Mister La Forge. 
+LAFORGE: Yes, sir. 
+[Soong's lab] 
+LORE: You did what you had to do? What kind of answer is that? 
+SOONG: The only one I can give you. You were not functioning properly. 
+DATA: Lore told me the colonists envied him because you made him so completely human. 
+SOONG: I wouldn't exactly have used the word envious, Data. 
+LORE: You disassembled me. You took me apart. 
+DATA: Lore also told me the colonists petitioned you to replace him with a less perfect android. 
+SOONG: The last thing you should think of yourself as, Data, is less perfect. The two of you are virtually identical, except for a bit of programming. 
+DATA: It was a lie. Another lie. 
+LORE: I would have proven myself worth to you, if you'd just given me a chance. But it was easier just to turn your back and build your precious Data. 
+SOONG: You were the first. You meant as much to me as Data ever did, but you were unstable. The colonists were not envious of you, they were afraid of you. You were unstable. 
+DATA: I am not less perfect than Lore. 
+LORE: Why didn't you just fix me? It was within your power to fix me. 
+SOONG: It wasn't as easy as that. The next, the next logical step was to construct Data. Afterward, I planned to get back to you, to fix you. 
+LORE: Next logical step. 
+DATA: I am not less perfect than Lore. 
+LORE: I am not less perfect than Lore. 
+SOONG: Enough! Both of you, sit down. Sit down. For all these years I've been plagued by what went wrong. With all of your complexities, Lore, your nuances, basic emotions seemed almost simple by comparison. But the emotion turned, and twisted, became entangled with ambition. Lore, if I had known you were no longer sitting in pieces on some distant shelf, if I had known that I could simply press a button and bring you here, I would have spent those years trying to make things right for you as well. But all I knew of was Data. So I worked long and hard, and now I believe I've succeeded. This is why I brought you here, Data. Basic emotions. Simple feelings, Data. Your feelings. I've imagined how hard it's been for you, living amongst beings so moved by emotion. 
+(Both androids stare at the tiny chip held in the tweezers) 
+LORE: I don't have to imagine. I know how hard it's been. You'd be surprised, Data. Feelings do funny things. You may even learn to understand your evil brother. To forgive him. We will be more alike, Data, you and I. You'll see. I'm happy for you. 
+DATA: I question your sincerity, Lore. 
+SOONG: Perhaps with this you'll learn to be more trusting, Data. Your brother has had good reason to be bitter. 
+DATA: But sir, Lore was responsible for 
+SOONG: He wasn't given the chance that you and I were given, to live. But now I'm sure he understands why I had to do what I had to do. 
+If there were only time, Lore. What a shame. The procedure is quite simple. I'm tired. I need to rest, first, I'm tired. 
+(And he leaves the brothers eyeing each other) 
+[Corridor] 
+PICARD: They're sure this is going to work? 
+RIKER: Nobody knows the transporters better than O'Brien and La Forge. They tell me they've managed more than a little sleight of hand with our authorisation codes. 
+PICARD: They can insert them into the recall loop? 
+RIKER: The computer should think all three of us are Data. 
+[Transporter room] 
+RIKER: I just hope we don't all beam back looking like Data. 
+O'BRIEN: Whenever you say, sir. 
+PICARD: Bring him home, Number One. Energise. 
+(Riker, La Forge and Worf beam down) 
+[Soong's lab] 
+(Soong puts the emotion chip into Data's neck, or so he thinks, as the person is wearing a Starfleet uniform. But the voice gives it away to us immediately) 
+SOONG: Data? 
+LORE: (sings) 'The sons of the prophet were valiant and bold, And quite unaccustomed to fear. But of all the most reckless, Or so I am told, Was Abdul Abulbul Amir.' 
+SOONG: How do you feel? 
+LORE: I've always loved that ditty. I could never quite get the cadence right. Thank you, Father. 
+SOONG: You called me Father. 
+LORE: What would you prefer I called you? Often Wrong? 
+SOONG: What did Lore tell you about that? 
+LORE: That is what the colonists called you, isn't it? Often Wrong Soong. It's a very sloppy rhyme. Wrong Soong. Wrong Soong. It just doesn't work. Let's see. 
+SOONG: Data, how you are feeling? 
+LORE: Often Wrong's got a broken heart. Can't even tell his boys apart. 
+SOONG: Lore! 
+LORE: Well, well, well, well, well. You're not as feeble as I thought you were. 
+SOONG: This won't work. Those circuits, they weren't designed for you. Where's Data? 
+LORE: Where's Data? You didn't fill Data with substandard parts, did you, old man. No, that honour was bestowed upon me. You owe me, old man. Not him, me! 
+SOONG: It was not meant for you. You're not listening to me. It must be removed. 
+LORE: Nice try, Often Wrong. Nice try. (winces and twitches) I don't know exactly what it's doing, but its doing something. 
+SOONG: I didn't know you were alive. If I had 
+(Soong reaches for Lore, who grabs his arm and throws him across the lab) 
+LORE: 'There were brave men a-plenty, All well known to fame, Who served in the ranks of the Tsar.' 
+(Lore peels back a thumb nail -eww - and presses a tiny button there. He is beamed away) 
+[Outside Soong's lab] 
+WORF: The human is here. 
+RIKER: And Data? 
+WORF: No way of knowing. 
+RIKER: Set them on stun. 
+[Soong's lab] 
+LAFORGE: Down here. 
+RIKER: Worf. 
+(La Forge and Riker help Soong, who is just recovering consciousness) 
+RIKER: It's all right. Take it easy. 
+LAFORGE: This, this is Doctor Noonian Soong. 
+RIKER: That's impossible. Soong's dead. 
+LAFORGE: No, I'm telling you. Look at this stuff. It's Soong, all right. 
+(Worf carries in Data from the living room. He is dressed in Lore's clothes. Riker goes over) 
+RIKER: Here. Let me. 
+(He switches Data back on so Worf can put him down) 
+RIKER: Would you mind telling me what's going on here? 
+DATA: He surprised me. 
+LAFORGE: Commander. 
+DATA: What has happened here? Doctor. Doctor Soong. 
+SOONG: So alike. He saw I couldn't tell you apart. There was only one chip. I tried to tell him, but I couldn't. If I wanted to I couldn't build another one. 
+RIKER: Tried to tell who? Damn it, Data, what's going on? 
+DATA: Lore, sir. He was inadvertently summoned here by the same signal which activated my homing circuitry. It seems that after nearly two years in interstellar space, he was 
+RIKER: Mister Data, there's a very sick little boy onboard the Enterprise who's not getting any better. We're dead in the water until you get us out of here. 
+SOONG: It's all right. Access your third nested memory file and execute instruction five one five five. That will clear your memory block. 
+DATA: I was unaware of having caused any inconvenience, sir. 
+RIKER: We'll discuss it later, Mister Data. Doctor, you're coming with us, too. You need to get to Sickbay. 
+SOONG: Young man, I've lived here a long time. I have no plans to die anywhere else. 
+DATA: But sir, our medical facility may be able to 
+SOONG: Go, go, go, go Data. Go. Go with your friends. 
+DATA: May I say goodbye to Doctor Soong, sir? Alone, sir? 
+(Riker and La Forge leave) 
+SOONG: Everybody dies, Data. Well, almost everybody. 
+DATA: Do you believe that we are in some ways alike, sir? 
+SOONG: Yes, in many ways, I'd like to believe. 
+DATA: Then it is alright for you to die, because I will remain alive. You know that I cannot grieve for you, sir. 
+SOONG: You will, in your own way. Goodbye. Goodbye, Data. 
+DATA: Goodbye, Father. 
+Captain's log, Stardate 44091.1. We have been at Starbase four one six for three days. Young Willie Potts is responding well to treatment and has been returned to the Enterprise. 
+[Corridor] 
+PICARD: The transfer went well? 
+CRUSHER: He'll remain in quarantine for another week or two, but he's out of the woods. 
+PICARD: Splendid. 
+[Sickbay] 
+(The boys are running around, Jake on the outside of the quarantine area, Willie on the inside. He has a pair of plastic dinosaurs) 
+PICARD: Mister Data, I see you gifts have been well received. 
+DATA: Yes, sir. The boys appear to have reconciled their differences. 
+CRUSHER: They're brothers, Data. Brothers forgive. 

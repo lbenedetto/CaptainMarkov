@@ -1,0 +1,416 @@
+Unification Part 1
+(Gene Roddenberry 1921-1991) 
+Captain's log, stardate 45233.1. Our terraforming mission to Doraf One has been cancelled and the Enterprise recalled to Starbase two thirty four. Fleet Admiral Brackett would not discuss the matter on subspace for reasons she said would soon be clear. 
+[Ready room] 
+BRACKETT: I apologise, Captain, for the mystery, but we must attempt to contain the information I'm about to reveal to you at least as long as possible. 
+PICARD: I must admit you've piqued my curiosity, Admiral.
+BRACKETT: Three weeks ago, one of our most celebrated Ambassadors, an advisor to Federation leaders for generations, disappeared. He left no word of his destination. Two days ago, intelligence reports placed him on Romulus and I assure you it was an unauthorised visit. Computer, initiate linkage between this terminal and starbase computer system alpha two nine.
+COMPUTER: Linkage complete.
+PICARD: A defection?
+BRACKETT: If it is, the damage to Federation security would be immeasurable. Taken on Romulus, by long range scanner. Computer, enhance image in section four delta. 
+(and there on LCARS 40275 are the unmistakable craggy features of a certain former Science Officer of the Enterprise) 
+Captain's log, stardate 45236.4. As I study the intelligence reports on Ambassador Spock's disappearance, I cannot help but feel a deeper, more personal concern about this mission, for I know this man through his father. It was barely a year ago that I shared a mind meld with the Vulcan, Sarek. Now we must meet again as I attempt to find an explanation for his son's actions. 
+[Observation lounge] 
+RIKER: We'll be coming into orbit of Vulcan in less than an hour, Captain. 
+PICARD: We should tell Sarek's wife of our plans. 
+RIKER: Already been taken care of. She's transporting over at oh seven hundred. 
+PICARD: And Sarek?
+RIKER: She says he's too ill to make the trip. 
+PICARD: The man is dying. And it's my honour to tell him that his son may have betrayed the Federation.
+RIKER: How well do you know Spock? 
+PICARD: I met him once. What I know of him comes from history books, and of course my mind meld with his father. 
+RIKER: That must cover a lot of ground. 
+PICARD: Not as much as you'd imagine. Sarek and Spock. Well, sometimes, fathers and sons. 
+RIKER: Understood.
+PICARD: Oh, one other thing. Take a look at this. Turned up during an intelligence sweep. 
+(Picard hands over a PADD) 
+RIKER: Metal fragments. 
+PICARD: What do you make of it?
+RIKER: Possibly disassembled components, identified as Vulcan, recovered from a downed Ferengi vessel? 
+PICARD: They were found in crates marked Medical Supplies.
+RIKER: Contraband. 
+PICARD: It's been sent to Vulcan for identification. Starfleet have requested that we lend a hand. 
+[Ready room] 
+PERRIN: Mint tea. It's been years since I've had it. Vulcans have some kind of strange concoction they call mint. You'd never recognise it.
+PICARD: Perrin, do you know why I've come to Vulcan? I must talk to you about Spock.
+PERRIN: He didn't even say goodbye to his father before he left.
+PICARD: Is it possible he could have been abducted?
+PERRIN: No. He wrapped up all of his affairs carefully. He knew he was going.
+PICARD: Do you have any idea why he might have disappeared like this?
+PERRIN: Captain, as far as I'm concerned, he disappeared a long time ago. 
+PICARD: Would it be inappropriate to ask what happened between you and Spock?
+PERRIN: Not between us. Between Spock and his father. They had argued for years. That was family. But when the debates over the Cardassian war began, he attacked Sarek's position publicly. He showed no loyalty to his father.
+PICARD: I was not aware that Sarek was offended by Spock's opposition.
+PERRIN: I was offended. I made sure Spock knew it. I'm very protective of my husband. I do not apologise for it.
+PICARD: Does Sarek have any idea why Spock might have left?
+PERRIN: I don't know. If you could see Sarek as I do, wasting in bed, whispering to himself. He wants to see his son. He wants to heal any rift that may still remain. Now, it may be too late.
+PICARD: Perrin, would you allow me to see Sarek? 
+PERRIN: If it were anyone else I would never permit it, but you are a part of him and he of you. 
+[Cargo bay] 
+(bits of twisted metal all over the place) 
+RIKER: The Vulcans haven't figure out what these fragments are but they've determined that the metal is a dentarium alloy.
+LAFORGE: That pretty well indicates that they're Vulcan. And dentarium also means that whatever this was, it was originally designed for use in space. From the look of the damage, it must've been a high speed impact.
+RIKER: Yeah. A Ferengi cargo ship that went down in the Hanolin asteroid belt. The debris was spread over a hundred square kilometres. 
+LAFORGE: Could it be a weapons array?
+RIKER: That was my first thought, but the Vulcans have no record of any stolen weapons or stolen parts, for that matter.
+LAFORGE: This is going to be like putting together a big jigsaw puzzle when you don't know even know what the picture's supposed to be. 
+RIKER: Yep. 
+[Sarek's chamber] 
+(on a hard, flat bed, an elderly man with dementia writhes and moans to himself) 
+PERRIN: He is like this most of the time. His emotions have taken over. Sometimes, I can bring him out of it. Sarek! You will listen!
+SAREK: Go from me!
+PERRIN: Picard is here.
+SAREK: No more chaos! No more. 
+PERRIN: I will leave you alone with him. He will either acknowledge you or he won't.
+(Perrin leaves) 
+PICARD: Sarek! I've come a long way to see you.
+SAREK: I will not answer! 
+PICARD: I must speak to you about your son. 
+SAREK: I wish no one with me. 
+PICARD: About Spock.
+SAREK: Spock?
+PICARD: Yes. He's missing.
+SAREK: Is that you, Picard?
+PICARD: Hello, old friend.
+SAREK: You're here, on Vulcan.
+PICARD: I need your help. I must find Spock.
+SAREK: He's not here.
+PICARD: I know. He's been reported on Romulus.
+SAREK: On Romulus? 
+PICARD: Yes. 
+SAREK: why?
+PICARD: I had hoped to find that out from you.
+SAREK: On Romulus? You're going there, aren't you? To find him.
+(Sarek gets out of bed) 
+PICARD: Yes. Do you have any idea what might have taken him to Romulus?
+SAREK: No.
+PICARD: Is there anyone on Romulus he might know, or choose to contact?
+SAREK: Pardek? 
+PICARD: Who is Pardek?
+SAREK: It could be Pardek.
+PICARD: Who is Pardek?
+SAREK: He is a Romulan Senator. Spock has maintained a relationship with him over the years. I don't know how they met. At the Khitomer Conference, I'd imagine.
+PICARD: Pardek represented Romulus?
+SAREK: Yes, I'm sure he did. In fact, I recall Spock coming to me with optimism about a continuing dialogue with the Romulans. I told him it was illogical to maintain such an expectation. Spock was always so impressionable. This Romulan, Pardek, had no support at home. Of course, in the end I was proven correct. I gave Spock the benefit of experience, of logic. He never listened. Never listened.
+PICARD: It's been suggested that Spock might have defected.
+SAREK: Never! I will accept many things, but never that.
+PICARD: But you believe he might have gone there to see Pardek? 
+SAREK: The Romulan Senator? How do you know Pardek?
+PICARD: I've heard of him.
+SAREK: That's what he's done. He's gone to see Pardek.
+PICARD: Do you know what business they might have together?
+SAREK: No. I never knew what Spock was doing. When he was a boy, he would disappear for days into the mountains. I asked him where he had gone, what he had done, he refused to tell me. I insisted that he tell me. He would not. I forbade him to go. He ignored me. I punished him. He endured it, silently. But always he returned to the mountains. One might as well ask the river not to run. (lies down again) But secretly I admired him, the proud core of him that would not yield. 
+PICARD: Sarek, we're a part of each other. I know that he has caused you pain but I also know that you love him.
+SAREK: Tell him, Picard. 
+(Sarek tries to make the hand signal, but Picard has to put his fingers into the correct positions) 
+PICARD: Peace and long life.
+SAREK: Live long and and. Live long and. Spock. My son.
+PICARD: And prosper. 
+Captain's log, stardate 45240.1. To cross the Neutral Zone, I will require a cloaked ship. To that end, I have set a course for the Klingon home world. After all we did for Gowron during the recent war, I am certain he will be happy to return a favour. 
+[Bridge] 
+PICARD: Still no response from the Klingons, Mister Worf?
+WORF: No, sir.
+PICARD: He's ignoring me. What other explanation is there?
+RIKER: Seems after hailing him for three days, he could've found a minute to talk to you.
+WORF: Sir.
+PICARD: Yes, Lieutenant?
+WORF: I believe I know why our messages are not being answered. Gowron has been rewriting Klingon history.
+RIKER: Rewriting history?
+WORF: Yes. He is claiming it was his courage, his genius, which brought an end to the civil war.
+PICARD: I see.
+WORF: In the new version there is no mention made of the Federation's help in his rise to power.
+RIKER: If Worf's right, then our arrival would be an uncomfortable reminder of the facts.
+PICARD: He can take all the credit he wants, I don't caret. But I do need a ship. Well if Gowron won't talk to me, get someone who will. Somebody on the High Council. K'Tal, perhaps.
+WORF: Yes, sir.
+(at the science station) 
+DATA: Captain, I have a visual identification of Senator Pardek of Romulus. This is a Barolian record of a trade negotiation in which Pardek participated four years ago.
+PICARD: That's all?
+DATA: Yes, sir. 
+PICARD: Run it again. Computer, freeze. Call up the intelligence scan of Spock on Romulus. Computer, enhance far left figure and compare. Same man. Pardek. One question answered. What do we know of him?
+DATA: He has been in public service since he was a young man, a senator for nine decades. He is considered a man of the people. He has sponsored many reforms. Reportedly, Romulan leadership considers him to be somewhat of a radical because he has been an advocate of peace throughout his career.
+PICARD: I can see why Spock would cultivate a relationship with him. Where would we find him other than on the floor of the Romulan Senate?
+DATA: The district he represents is called the Krocton segment. He maintains a dwelling there.
+PICARD: Thank you, Mister Data.
+DATA: There is more, sir. I have taken the liberty of expanding the parameters of my search, and have discovered that Pardek has several relatives in the Krocton segment. I believe you will be able to locate him there on the third day of the Romulan week when the Senate is not in session.
+PICARD: Mister Data, your resourcefulness never ceases to amaze me.
+DATA: Thank you, sir.
+WORF: Captain, we are being hailed by the Klingon home world.
+PICARD: Gowron or K'Tal?
+WORF: Neither, sir. It is the junior adjutant to the diplomatic delegation.
+RIKER: Junior adjutant.
+PICARD: Name.
+WORF: B'iJik, sir.
+PICARD: On screen.
+B'IJIK [on viewscreen]: Greetings, Captain. I regret to inform you that Gowron and the High Council are quite busy and won't be able to speak with you today.
+PICARD: Is Gowron aware that we have been transmitting messages for the past three days?
+B'IJIK [on viewscreen]: Captain, Gowron wishes it were possible to talk with everyone who wants an audience. But he is one man. The demands on his time are formidable. If you would like me to take him a message. 
+PICARD: A message? Very well. Tell Gowron, leader of the High Council of the Klingon Empire, that his Arbiter of Succession, Jean-Luc Picard, needs a favour.
+B'IJIK [on viewscreen]: A favour?
+PICARD: I require a cloaked vessel.
+B'IJIK [on viewscreen]: A cloaked vessel. This is no small favour, Captain.
+PICARD: It is for a mission that could have repercussions throughout the quadrant.
+B'IJIK [on viewscreen]: How would it benefit the Klingon Empire? I'm sure Gowron will ask.
+PICARD: The only benefit to the Klingon Empire would be our gratitude.
+B'IJIK [on viewscreen]: That is what you want me to tell him? 
+PICARD: Yes. And please add that if he is unable to provide a ship, then I am sure there are others in the Klingon Empire who would be willing to help me. And then, they would have our gratitude.
+B'IJIK [on viewscreen]: I see.
+PICARD: Also, please tell him that I am immensely gratified that he is prospering so well. A tribute to his skilled leadership. 
+[Sickbay] 
+CRUSHER: They're not removable, are they, Data?
+DATA: Removable?
+CRUSHER: Your ears.
+DATA: No, Doctor. They are fully integrated components.
+CRUSHER: We'll have to do some moulds of his ears as well.
+PICARD: What about his skin colour?
+CRUSHER: We'll have to do some tests on his skin pigmentation. Changing it to appear Romulan shouldn't be too difficult. We just have to make sure we can change it back again afterwards. Your right eye is point zero zero four higher than your left.
+(Riker enters) 
+PICARD: Nobody's perfect, Doctor, but
+CRUSHER: If you want a proper fit to your prosthetic, trust your tailor.
+PICARD: Anything from Gowron?
+RIKER: No, sir. But after your tailor is done, would you join me in the cargo bay? Mister La Forge has made some progress with the metal fragments.
+CRUSHER: These two still have an appointment with Mister Mott to have their hairpieces designed.
+PICARD: Thirty minutes, Number One. 
+[Cargo bay] 
+LAFORGE: What we seem to have here is a navigational deflector array. Or at least what's left of one.
+RIKER: Why would anyone want a Vulcan shield array? 
+LAFORGE: Beats me, Commander. Every question we answer here seems to bring up two more.
+PICARD: You're certain this is Vulcan? 
+LAFORGE: Yes, sir. Metallurgical analysis confirmed that and by running a molecular pattern trace, we were actually able to identify the ship as T'Pau. It was decommissioned years ago and sent to the surplus depot at Qualor Two. As far as anybody knows it's still there.
+WORF [OC]: Worf to Captain Picard. 
+PICARD: Yes, Lieutenant?
+WORF [OC]: A Klingon vessel is decloaking off our port bow. Compliments of Gowron.
+PICARD: Mister Worf, will you convey my gratitude to the Captain and advise him that Mister Data and I will be transporting over shortly.
+WORF [OC]: Aye, sir.
+RIKER: I'd like to take the Enterprise to Qualor Two, sir. See what's out there.
+PICARD: Agreed. Thank you, Mister La Forge. 
+[Klingon Bridge] 
+K'VADA: I know my duty, Captain. When I am given orders, I follow them, but I do not like secrets. I want to know why we are going on this mission.
+PICARD: I'm sorry. It's a classified matter.
+K'VADA: You're going after the defector, aren't you?
+PICARD: Defector? 
+K'VADA: Do you think information like that stays a secret? Ambassador Spock has gone to Romulus and you are going after him.
+PICARD: Captain, your orders are to take us to a set of co-ordinates near Romulus and to bring us back, and that is all I am prepared to discuss.
+K'VADA: If we are discovered by the Romulans it means death for us all.
+PICARD: I realise that.
+K'VADA: Hechu' ghoS. Very well, Captain. We have set a course for Romulus. 
+[Klingon quarters] 
+K'VADA: It may not be what you're used to on a Starfleet ship.
+PICARD: Quite nice. Thank you.
+DATA: Captain K'Vada, is this the Captain's quarters, or my own?
+K'VADA: Both. We have limited space. We are a military ship, not a pleasure craft.
+PICARD: Of course. This will be fine.
+K'VADA: You'll sleep Klingon style. We do not soften our bodies by putting down a pad.
+PICARD: Good. I prefer it that way.
+K'VADA: You'll take your meals with us but we do not serve Federation food.
+PICARD: I've been looking forward gagh. Haven't had it for quite a while. Very fresh.
+KLINGON [OC]: MeH HoD.
+K'VADA: Jatlh! 
+KLINGON [OC]: MeHmaH ghoS. 
+K'VADA: So'wl'chu'. Well, Captain, we're at the border of the Neutral Zone. You mean to do this, do you?
+PICARD: Yes. I do. 
+First Officer's log, stardate 45240.6. The Enterprise is nearing Qualor Two, home of a Federation surplus depot operated by the Zakdorn. We hope to find out how the salvaged deflector array ended up in the hands of the Ferengi. 
+[Bridge] 
+WORF: I have made contact, Commander.
+RIKER: On screen. I'm Commander William Riker from the Federation Starship Enterprise.
+DOKACHIN [on viewscreen]: Klim Dokachin, Quartermaster, Surplus Depot Zed One Five.
+RIKER: I need some information about a Vulcan ship, the T'Pau. It was sent to you a few years ago.
+DOKACHIN [on viewscreen]: Did you arrange an appointment? 
+RIKER: An appointment? No.
+DOKACHIN [on viewscreen]: Then I will be unable to help you. You may communicate with scheduling.
+(transmission ends) 
+RIKER: Who does he think he is?
+TROI: The Quartermaster of the supply yard, with information you need.
+RIKER: Right. Mister Worf re-establish communication.
+WORF: Aye, sir.
+RIKER: Mister Dokaychin? 
+DOKACHIN [on viewscreen]: Dokachin. Klim Dokachin.
+RIKER: Mister Dokachin, the information I need involves a matter of major importance to the Federation. I'll need access to your logs, your files. My people can do the work.
+DOKACHIN [on viewscreen]: I don't allow outsiders into my computer system..
+RIKER: All right, one of your people can do the work.
+DOKACHIN [on viewscreen]: I wish I had the people to spare. but I don't.
+RIKER: Well, sir what would you suggest?
+DOKACHIN [on viewscreen]: I don't know. Contact me when you reach orbit.
+(transmission ends) 
+RIKER: I don't believe this.
+TROI: He's king of his particular hill, Commander. You'll have to treat him that way.
+RIKER: Counsellor, this feels like a perfect job for you.
+(later, Enterprise sails into the spaceship graveyard of the supply depot, and avid fans play spot the old model ship) 
+RIKER: Thank you for coming on board, Mister Dokachin.
+DOKACHIN: Quite a ship you have.
+RIKER: We've tied into your computers, if you'd like to access the files.
+DOKACHIN: I don't usually see them in such good condition. By the time they get to me, they're always falling apart.
+TROI: Mister Dokachin, we must find this ship and you're the only one who can help us.
+DOKACHIN: Who are you?
+TROI: Deanna Troi, Ship's Counsellor.
+DOKACHIN: He probably figures that we don't get to see a lot of handsome women out this way and someone like you might get a little more cooperation from me. He's probably right. What was the name of that ship? The T'Pau? (goes to science station) The T'Pau. Vulcan registry. There. Logged in stardate 41334.
+LAFORGE: Where's the ship now?
+DOKACHIN: Docked. Section eighteen gamma twelve. Do you want me to take you there?
+RIKER: I'd appreciate it.
+DOKACHIN: Helmsman, lay in a heading one four one by two zero eight. Ahead slow, two hundred kph. I suppose this is your first visit to a junkyard, isn't it? You'd be surprised at some of the things I find on board these ships. I once found a fourteen foot Caldorian eel on board a freighter, in someone's locker.
+TROI: Are you serious?
+DOKACHIN: If you have time, I'll show it to you. I still have it. Nursed her back to health. 
+WORF: We are approaching the designated coordinates, Commander.
+RIKER: On screen.
+(empty space) 
+DOKACHIN: What? Where is it? What happened to it? These are the correct coordinates.
+RIKER: The T'Pau is missing?
+DOKACHIN: The T'Pau is missing.
+RIKER: How could a ship disappear from your depot?
+DOKACHIN: I'm not accustomed to losing things, Commander. I will find your ship for you. I have the T'Pau cross-referenced in four different directories. 
+LAFORGE: When it was brought here was it stripped of material, armament, sensors?
+DOKACHIN: Of course.
+LAFORGE: Can you tell us what happened to its navigational deflector?
+DOKACHIN: It was routed to the Tripoli, a holding vessel on the outer rim of the shipyard.
+RIKER: It's not there any more. What's left of that deflector is laid out on the floor of our cargo bay.
+DOKACHIN: How can that be?
+RIKER: Perhaps we should to pay a visit to the Tripoli. 
+(another short but slow journey) 
+DOKACHIN: In all the time that the Zakdorn have operated this depot, nothing has ever been lost. Never. 
+WORF: Approaching the coordinates of the Tripoli, sir.
+RIKER: On screen.
+(more empty space) 
+DOKACHIN: I do not understand this. This is not possible. We beam goods to the Tripoli on a regular schedule. There was a shipment yesterday. Another is set for today. It must be there.
+RIKER: When is today's transport?
+DOKACHIN: Just over two hours from now. A shipment of deuterium storage tanks.
+RIKER: Ensign, align the Enterprise so we appear to be one of the abandoned ships. Mister La Forge, when we're in position, shut down the engines and all systems except sensors and life support.
+LAFORGE: Aye, sir.
+RIKER: I've a feeling somebody's going to be here to receive those storage tanks. I'd be very interested to know who that is. 
+[Klingon quarters] 
+DATA: These quarters were obviously intended for one crewmember, sir. There is but a single sleeping space.
+PICARD: I'm sure the Klingons found it amusing to put us in here together.
+DATA: Since I do not require sleep, I propose you take the shelf, sir. I am content to stand.
+PICARD: Very well, Mister Data. Thank you.
+(Picard lies down on the metal shelf with a bulkhead only just above his head) 
+DATA: Are you comfortable, sir?
+PICARD: I suppose so.
+DATA: Good night, Captain. Sleep well, sir.
+PICARD: Thank you.
+PICARD: What are you doing?
+DATA: Sir? Was I making noise, sir?
+PICARD: No, not exactly 
+DATA: I was processing all of the information we have accumulated on Romulan society. I am preparing for the task of impersonating a Romulan.
+PICARD: I see.
+DATA: Would you like me to discontinue, sir?
+PICARD: No. Please go on.
+PICARD: What are you looking at?
+DATA: I am not looking at anything, sir. I am continuing to organise my files.
+PICARD: But you're looking at me.
+DATA: I am sorry if I was disturbing you, sir. I will not look in your direction.
+(Data turns around, Picard gives up and gets up) 
+DATA: Do you not wish to sleep, sir?
+PICARD: I don't think so, Mister Data. Let's go on with the files. 
+DATA: I would be happy to. I have been studying the Krocton segment, as you asked, and have selected an appropriate site for our transport. 
+K'VADA [OC]: Captain K'Vada to Picard. Please come to the bridge. 
+[Klingon Bridge] 
+K'VADA: Captain. We've monitored a subspace message that might interest you.
+(Picard reads the PADD) 
+PICARD: Sarek is dead. 
+[Bridge] 
+WORF: Commander, sensors detect a ship approaching at warp speed.
+RIKER: Identification?
+WORF: Negative. No transponder signal, no subspace marker. 
+LAFORGE: Sounds like they don't want to be identified.
+WORF: The ship is coming out of warp, sir. 
+RIKER: On screen.
+LAFORGE: Sensors indicate a combat vessel, origin undetermined, heavily armed. Mass and density suggest that it's fully loaded with cargo. I'd say from these internal scans, a good deal of that cargo is weaponry.
+WORF: The ship is entering sector twelve delta four 
+DOKACHIN: He's taking the position assigned to the Tripoli. The coordinates are identical.
+LAFORGE: Commander, readings indicate surface to ship transport has begun.
+RIKER: Mister La Forge, bring the engines back online and restore all systems to normal.
+LAFORGE: Aye, sir.
+WORF: He's powering up engines, turning to starboard.
+RIKER: Open a channel.
+WORF: Open.
+RIKER: This is Commander William Riker of the USS Enterprise. Identify yourself. I repeat, you have entered a Federation depot. Identify yourself.
+WORF: Sir, the ship is locking phasers.
+RIKER: Shields up. Red alert.
+LAFORGE: That ship easily matches our armament, Commander.
+WORF: It's coming about.
+RIKER: If you do not respond to our hails, we will take that as evidence of hostile action.
+WORF: There is an energy build up in their phaser banks. Sir, they're activating weapons. 
+(thump) 
+WORF: Forward shields down to seventy two percent.
+RIKER: Boost power to the shields. 
+LAFORGE: Aye, sir.
+RIKER: Mister Worf, lock onto their weapon systems only and prepare to fire. 
+(Enterprise takes more hits) 
+WORF: Forward shields down to sixty eight percent, aft shields forty percent.
+RIKER: On my mark, point seven five burst. We just want to get their attention.
+WORF: Ready, sir.
+RIKER: Fire.
+WORF: Their forward shields are damaged, sir. 
+LAFORGE: We destroyed one of their phaser arrays. Looks like collateral damage in the cargo area. Commander, I'm picking up massive power fluctuations, internal explosions. With all the armament that ship is carrying, it's going to blow. 
+(KaBOOM. Geordi was right) 
+[Klingon quarters] 
+PICARD: Well, Mister Data? What do you think?
+(They are both now Romulan) 
+DATA: I would not have thought it possible, sir. I am eager to test the success of our efforts. It does remain to be seen if the Romulans will accept us. Captain, you have seemed unusually pensive since we received the news of Ambassador Sarek's death.
+PICARD: Sarek and I share a particular bond. Our lives touched in an unusual way. I admit I feel the effects of his death. The tenor of this mission has changed, Mister Data, at least it has for me. We were sent to confront Spock about his disappearance. Now, I also have to tell him that his father is dead.
+DATA: I do not entirely understand, sir. As a Vulcan, Ambassador Spock would simply see death as the logical result of his father's illness. 
+PICARD: It's never quite that simple, not even for a Vulcan. Certainly not for Spock who is half-human. Years spent in conflict. And now the chance to resolve all of those differences is gone.
+DATA: Considering the exceptionally long lifespan of Vulcans, it does seem odd that Sarek and Spock did not choose to resolve those differences in the time allowed.
+PICARD: Father and son. Both proud, both stubborn, more alike than either of them were prepared to admit. A lifetime spent building emotional barriers. They're very difficult to break down. And now the time has come, it's too late. It's a difficult moment. It's a lonely one. It's a moment Spock is about to face. 
+[Klingon Bridge] 
+K'VADA: Don't you two look sweet. Be careful, android. Some Romulan beauty might take a liking to you. Lick that paint right off your ears. You. Do you know what the Romulans will do to you if they discover who you are?
+PICARD: I have a good idea. We're ready to transport down to the surface.
+K'VADA: Just so we understand each other, my orders don't include rescue missions. 
+[Romulan office] 
+(Pardek, a stocky man, enters) 
+NERAL: Ah, Senator Pardek. You received my message.
+PARDEK: I got here as quickly as I could, Proconsul.
+NERAL: What do you know of this human? Jean-Luc Picard, a Starfleet Captain. 
+PARDEK: I know nothing of him.
+NERAL: You haven't seen him recently?
+PARDEK: To my knowledge, I have never seen him.
+NERAL: I have received intelligence indicating he's on his way here. Perhaps here already.
+PARDEK: Here on Romulus?
+NERAL: Yes. Curious, isn't it. I suppose we'd better find out if the report is accurate or merely rumour. Circulate his likeness among the security forces. Remind them that if he is here, he's probably disguised as one of us.
+PARDEK: I'll see to it. 
+[Romulan street] 
+DATA: This is definitely the street on which the intelligence scan of Spock and Pardek was taken, sir. Adjusting for the optical distortions, I am able to verify the architectural features.
+PICARD: Where were they standing? Data, you're moving about in a very, well, android way.
+DATA: I am sorry, Captain. I will be more careful.
+PICARD: Don't call me Captain.
+DATA: I understand, sir. I have found the place where they were standing. 
+PICARD: Where?
+DATA: It is here, at this doorway. A legal intercessor's office. The name is similar to Pardek's. It would appear to be one of his relatives.
+(Picard knocks, then tries the handle) 
+PICARD: He's not open for business yet. 
+DATA: Nonetheless, I recommend we keep this location under observation. I have clearly determined Pardek's routine. On days when the Senate is not in session, he invariably comes to this section after the median hour.
+PICARD: Very well. Let's sample the local cuisine, shall we? 
+[Cafe] 
+(an old woman brings two bowls to their table, no chairs) 
+PICARD: Do you happen to know what time the intercessor's office across the way opens?
+WOMAN: Why do you want to know?
+PICARD: I need his services. He was recommended.
+WOMAN: I haven't seen you here before.
+DATA: We are here for the day, from the city of Rateg.
+WOMAN: Rateg? I don't think so.
+DATA: Why do you say that?
+WOMAN: You don't sound like you're from Rateg.
+DATA: It is a misconception that all Rategs speak with a particular inflection. In fact, there are twelve different 
+PICARD: We come from several kilometres outside the city.
+WOMAN: Or perhaps you come from the security forces to watch the intercessor's office. Is he in trouble?
+PICARD: You're mistaken, madam. 
+WOMAN: Doesn't matter to me. I don't know when he opens. Eat your soup, courtesy of a loyal establishment. Jolan tru.
+(from the look on Picard's face, the soup is horrible) 
+PICARD: I don't think we can stay here too long.
+DATA: We may not have to. Direct your view to the far corner, sir. 
+MAN: Very good, Senator. 
+LADY: Senator, we seem to be having some problems 
+DATA: Is that not Pardek?
+PICARD: I believe it is. 
+DATA: Perhaps you should appear to enjoy your soup, sir.
+PARDEK: (to lady) I'll take care of that. Come. 
+(Picard and Data follow Pardek, and are stopped by two armed soldiers) 
+ROMULAN 1: Do not move.
+PICARD: What? You've made a mistake.
+ROMULAN 1: Quiet. Come with us. 
+[Romulan caves] 
+(Caves with a convenient set of steps and lots of lighting) 
+ROMULAN 1: Wait here.
+PICARD: For what? What have you brought us here for?
+PARDEK: Welcome to Romulus, Captain Picard. Don't let our soldiers frighten you. We had to get you off the street as quickly as we could. Romulan Security knows that you're here. I am Pardek. You are among friends, Captain.
+PICARD: I have come on an urgent mission from the Federation. I'm looking for Ambassador Spock.
+SPOCK: Indeed. You have found him, Captain Picard. 
+To Be Continued... 

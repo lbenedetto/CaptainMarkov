@@ -1,0 +1,521 @@
+The Omega Directive
+[Cargo Bay two] 
+COMPUTER: Oh six hundred hours. Regeneration cycle complete. 
+SEVEN: Daily log, Seven of Nine, stardate 15781.2. Today, Ensign Kim and I will conduct a comprehensive diagnostic of the aft sensor array. I have allocated three hours twenty minutes for the task, and an additional seventeen minutes for Ensign Kim's usual conversational digressions. I am scheduled to take a nutritional supplement at fifteen hundred hours, engage in one hour of cardiovascular activity, then I intend to review a text the Doctor recommended entitled A Christmas Carol. He believes it will have educational value. End log.
+(Yes, she really did get the stardate wrong.) 
+[Mess hall] 
+KIM: I'll get this. Don't give me any hints. 
+TUVOK: I have no intention of doing so. 
+SEVEN: Ensign. 
+KIM: Hi, Seven. 
+SEVEN: Are you ready to begin our sensor diagnostic? 
+KIM: Is it oh six hundred already? We've been playing all night. 
+SEVEN: Vulcan kal-toh. 
+KIM: For a game of logic, you'd be surprised at how addictive it is. Give me a few more minutes to figure this out. 
+TUVOK: You should attend to your duties, Ensign. I'll accept your forfeit. 
+KIM: No way. This is the closest I've ever come to beating you. I'm not giving up now. (Tuvok sighs. Seven takes the rod from Kim and places it in the structure. Kal-toh!)
+TUVOK: Impressive. 
+SEVEN: Elementary spatial harmonics. Are you ready now? 
+KIM: Yeah, sure. I would've gotten that. 
+[Corridor] 
+KIM: Is there anything you don't know? 
+SEVEN: I was Borg. 
+KIM: I was Borg. That's what you always say but what does it mean? You've got the knowledge of ten thousand species in your head? 
+SEVEN: Not exactly. Each drone's experiences are processed by the Collective. Only useful information is retained. 
+KIM: Still, that probably makes you the most intelligent human being alive. 
+SEVEN: Probably. 
+KIM: So what do you need the rest of us for? Forget I asked. 
+(Rumble.)
+KIM: What was that? 
+[Bridge] 
+PARIS: We just dropped out of warp. 
+CHAKOTAY: What's the problem? 
+PARIS: We were hit by some kind of shockwave. 
+CHAKOTAY: Source? 
+PARIS: Checking. 
+(Fwd navigational scan 307 goes blank.)
+PARIS: Hold on. I just lost all my sensor readings. The computer's bringing up some kind of message, but I can't access it. You'd better take a look at this. 
+(It is on all the screens. A big blue greek Omega symbol.)
+CHAKOTAY: I see it. 
+PARIS: What is it? 
+CHAKOTAY: I have no idea. My command codes aren't working. The computer says I have insufficient clearance to access the message. We can't function like this. I'm going to get Harry up here to trace the source. 
+(Janeway enters from her ready room.)
+JANEWAY: Don't do anything. I'll take care of this. 
+(She clears the symbol from the screens.)
+JANEWAY: Send all sensor data about the particle wave to my ready room. Tom, disengage engines and hold position here. 
+CHAKOTAY: Captain, what's going on? 
+JANEWAY: I can't explain right now. Don't discuss any of this with the rest of the crew. I'll have further instructions for you soon. 
+[Ready room] 
+JANEWAY: Computer, seal the doors to this room. No entry without my authorisation.
+COMPUTER: Doors are sealed. 
+JANEWAY: Access secured datafile Omega one. 
+COMPUTER: Voiceprint confirmed. State clearance code. 
+JANEWAY: Janeway one one five three red. Clearance level ten. 
+COMPUTER: Confirmed. Sensors have detected the Omega phenomenon within one point two light years of this vessel. Implement the Omega Directive immediately. All other priorities have been rescinded. 
+JANEWAY: Display sensor data. 
+[Engineering] 
+CHAKOTAY: I've been informed this is a highly classified mission. Information will be provided on a need-to-know basis. Captain's orders. 
+TORRES: Classified? By who? We're sixty thousand light years from Starfleet. 
+CHAKOTAY: Like I said. Need to know. B'Elanna, she wants you to install multiphasic shielding around the warp core. 
+TORRES: I've never seen this shield configuration. I'd like to run a couple of computer simulations to make sure it's stable. 
+CHAKOTAY: No time. She needs this done by eleven hundred hours. 
+TORRES: Eleven hundred? I don't think that's possible. 
+CHAKOTAY: Make it possible. 
+SEVEN: Are we attempting to protect the core from some form of subspace radiation? 
+CHAKOTAY: I don't know any more than you do. 
+SEVEN: It will be difficult to complete the task without more data. 
+CHAKOTAY: The data you've got will have to do. Tom, start modifying a shuttlecraft to withstand extreme thermal stress. Twelve thousand Kelvins, at least. 
+PARIS: Aye, sir. 
+TORRES: Does all this have anything to do with that secret message the Captain received? 
+CHAKOTAY: What have you heard? 
+TORRES: Rumours, mainly. Janeway's been locked in her ready room for the past sixteen hours. Something about an Omega Directive. 
+SEVEN: Omega? 
+PARIS: Ring a bell? 
+CHAKOTAY: Look, the speculation ends right here. Now, I expect you to carry out your assignments with a minimum of gossip, understood? I know it's hard not to wonder. Frankly, I'm curious myself, but the captain was very adamant about this. Get going. (to Seven) The captain wants to see you. 
+SEVEN: I thought she might. 
+[Ready room] 
+JANEWAY: Come in. What do you know about the Omega Directive? 
+SEVEN: Everything you do, most likely. 
+JANEWAY: I thought as much. The Borg assimilated Starfleet captains. You would possess all of their knowledge. 
+SEVEN: That's correct. Do you intend to carry out the Directive? 
+JANEWAY: Yes. 
+SEVEN: Then sensors have detected the molecule. 
+JANEWAY: So it would appear. But we have to confirm it. 
+SEVEN: We? 
+JANEWAY: You're going to help me carry out the Directive. Protocol forbids me from discussing this mission with any of my crew, but since you already know about it, my choice is to either work with you or confine you to quarters. 
+SEVEN: Perhaps you should do the latter. I will not help you destroy Omega. It should be harnessed. 
+JANEWAY: That's impossible. 
+SEVEN: The Borg believe otherwise. 
+JANEWAY: Explain. 
+SEVEN: On one occasion, we were able to create a single Omega molecule. We kept it stable for one trillionth of a nanosecond before it destabilised. We didn't have enough boronite ore left to synthesise more, but the knowledge we gained allowed us to refine our theories. 
+JANEWAY: The Borg have been waiting for the chance to test them out. 
+SEVEN: Yes. But we never found another source of the ore. Until now. 
+JANEWAY: Sorry, but if someone out there is experimenting with Omega, I'm under orders to stop them. Otherwise, this entire quadrant would be at risk. 
+SEVEN: Those orders were issued as a result of Starfleet's ignorance and fear. I can alleviate your ignorance. As for your fear
+JANEWAY: Sometimes fear should be respected, Seven. Tell me, how many Borg were sacrificed during this experiment? 
+SEVEN: Twenty nine vessels, six hundred thousand drones. But that is irrelevant. 
+JANEWAY: Not to me, not to my crew, and not to the people who live in this quadrant. I'm going to neutralise this threat, Seven, with or without your help. 
+SEVEN: I will assist you. 
+JANEWAY: You will? 
+SEVEN: I have waited many years to observe this molecule firsthand. I will not deny myself this experience. 
+JANEWAY: All right. Go back to your cargo bay, assemble all the data you have about Omega. I'll expect a report within the hour. I didn't realise you had such a strong scientific curiosity. 
+SEVEN: Not curiosity. Desire. 
+JANEWAY: Desire? 
+SEVEN: Omega is infinitely complex, yet harmonious. To the Borg it represents perfection. I wish to understand that perfection. 
+JANEWAY: The Borg's Holy Grail. 
+SEVEN: Captain? 
+JANEWAY: Never mind. I'll see you in an hour. 
+[Medical lab] 
+EMH: Arithrazine? What for? 
+JANEWAY: I'm going on an away mission. 
+EMH: What are you planning to do, stroll through a supernova? 
+JANEWAY: Something like that. Twenty milligrams. When can you have it ready? 
+EMH: Captain, arithrazine is used for the most severe cases of theta radiation poisoning. A physician must be present to monitor the treatment. 
+JANEWAY: That won't be possible. 
+EMH: Then I'm afraid I can't accommodate you. I'd be in violation of Starfleet Medical Protocols. 
+JANEWAY: Well, I'm overriding those protocols. 
+EMH: Don't tell me. The Omega Directive, whatever that might be. 
+JANEWAY: The arithrazine, Doctor. 
+EMH: It'll be ready in the morning. 
+JANEWAY: Have it sent to the shuttlebay. 
+EMH: Captain, I don't know what's going on here but I'd hate this to be the last time I ever see you. Please be careful. 
+JANEWAY: I will. 
+[Cargo Bay two] 
+SEVEN: I've analysed the sensor logs using Borg algorithms. The shockwave we detected indicates not one but possibly hundreds of Omega molecules. 
+JANEWAY: Location? 
+SEVEN: Within ten light years. I'm having difficulty isolating the exact star system. 
+JANEWAY: Hundreds of molecules? That changes everything. 
+SEVEN: A shuttle mission may be insufficient. We require the resources of this entire crew. 
+JANEWAY: We're going to need more firepower, more protection. Transfer your data to the Astrometrics lab. I'll work on it there. 
+[Science lab] 
+TUVOK: Calibration complete. Phase modulator. Detonator circuits? 
+KIM: On standby. 
+TUVOK: We're ready to load the gravimetric charge. 
+KIM: This looks like enough for a fifty isoton explosion. 
+(A small globe with two tubes sticking out of the bottom.)
+TUVOK: Fifty four, to be exact. 
+KIM: What are we planning to do, blow up a small planet? 
+TUVOK: I don't know. 
+KIM: This warhead isn't standard issue. Who designed it, the captain? 
+(Janeway enters.)
+JANEWAY: Mister Kim, you ask too many questions. Change of plans, gentlemen. Increase the charge to eighty isotons. 
+TUVOK: Aye, Captain. 
+JANEWAY: Harry, when you're done here, give B'Elanna a hand with the shuttlecraft. She's reinforcing the hull. 
+KIM: Right. 
+(Janeway leaves.)
+KIM: Ensign Hickman thinks it's species eight four seven two. 
+TUVOK: Pardon me? 
+KIM: That's his theory. There's an opening in fluidic space, and Captain Janeway has to shut it down. Want to know what I think? 
+TUVOK: No. 
+KIM: I think there's a type six protostar out there, and the captain's planning on detonating it and opening up a wormhole to the Alpha Quadrant. In theory, it's possible. And because she doesn't want to get our hopes up, she's not telling anybody. 
+TUVOK: Then I wouldn't suggest getting your hopes up. 
+KIM: Then what do you think it is? 
+TUVOK: I do not engage in idle speculation. 
+KIM: Oh, come on, Tuvok. Aren't you curious? 
+TUVOK: Yes, but we have a task at hand. The phase modulator. 
+[Astrometrics lab] 
+JANEWAY: Come in. Status report? 
+CHAKOTAY: Everything's going according to schedule. 
+JANEWAY: Good. The Omega Directive doesn't allow me to say much but I want you to know what to expect. At oh six hundred hours, I'll be leaving in a shuttle with Seven of Nine. 
+CHAKOTAY: Would it be out of line to ask where you're going? 
+JANEWAY: I can tell you this. One of two things is going to happen. Either Seven and I will succeed on our mission, and return within a few days, or your long range sensors will detect a large explosion in subspace. If that occurs, you'll have less than ten seconds to jump to warp and get the hell out of here. Head for the Alpha Quadrant and don't look back, understood? 
+CHAKOTAY: I always thought Starfleet was run by duty-crazed bureaucrats, but I find it hard to believe that even they would order a captain to go on a suicide mission. This shuttle excursion is your idea, isn't it? 
+JANEWAY: Let's just say I've had to amend the Directive, given the circumstances, But you have your orders and I expect you to follow them. 
+CHAKOTAY: That's expecting a lot. You're asking me to abandon my captain and closest friend without even telling me why. 
+JANEWAY: If it were a simple matter of trust I wouldn't hesitate to tell you, but we've encountered situations where information was taken from us by force. I can't allow knowledge of Omega to go beyond Voyager. 
+CHAKOTAY: That's a reasonable argument, but you're not always a reasonable woman. You're determined to protect this crew, and this time you've taken it too far. A dangerous mission? Fine, I'll acknowledge that, but isn't it more likely to succeed with everyone behind you, working together? 
+JANEWAY: Ordinarily, I'd agree. But this Directive was issued many years ago, and Starfleet didn't exactly have our predicament in mind. Lost in the Delta Quadrant, with no backup. I can't ignore the orders, but I won't ask the crew to risk their lives because of my obligation. 
+CHAKOTAY: My obligation. That's where you're wrong. Voyager may be alone out here, but you're not. Let us help you. We'll keep classified information limited to the senior staff. We'll take every security precaution. Just don't try to do this alone. 
+JANEWAY: Assemble the troops. 
+[Briefing room] 
+JANEWAY: If we were in the Alpha Quadrant right now, we wouldn't be having this conversation. I'd be in contact with Starfleet Command, and they'd send in a specialised team to deal with the crisis. In their absence, we're going to have to make do with the training I've received, and the knowledge Seven of Nine has retained from the Borg. You've all seen this symbol. Omega, the last letter of the Greek alphabet. Chosen by Starfleet to represent a threat not only to the Federation, but to the entire galaxy. Only starship captains and Federation Flag Officers have been briefed on the nature of this threat. What you're about to hear will not go beyond these bulkheads, is that clear? Good. 
+(She calls up a rotating image on the wall screen.)
+JANEWAY: This is Omega. 
+PARIS: A molecule? 
+JANEWAY: Not just any molecule. The most powerful substance known to exist. A single Omega molecule contains the same energy as a warp core. In theory, a small chain of them could sustain a civilisation. The molecule was first synthesised over a hundred years ago, by a Starfleet physicist named Ketteract. I think he was hoping to develop an inexhaustible power source. 
+SEVEN: Or a weapon. 
+JANEWAY: Ketteract managed to synthesise a single molecule particle of Omega, but it only existed for a fraction of a second before it destabilised. 
+(Another image. A space station with a big hole in it.)
+JAEWAY: This was a classified research station in the Lantaru Sector. Ketteract and one hundred twenty six of the Federation's leading scientists were lost in the accident. Rescue teams attempting to reach the site discovered an unexpected secondary effect. There were subspace ruptures extending out several light years. 
+PARIS: The Lantaru Sector. It's impossible to create a stable warp field there. You can only fly through it at sublight speeds. I was always told that was a natural phenomenon. You're saying it was caused by a single molecule of this stuff? 
+JANEWAY: Omega destroys subspace. A chain reaction involving a handful of molecules could devastate subspace throughout an entire Quadrant. If that were to happen, warp travel would become impossible. Space-faring civilisation as we know it would cease to exist. When Starfleet realised Omega's power, they suppressed all knowledge of it. 
+EMH: Have you detected Omega here, in the Delta Quadrant? 
+JANEWAY: I'm afraid so. I've been authorised to use whatever means necessary to destroy it. Tom, I've calculated the location of the molecules. I'll transfer the coordinates to the helm. Take us there at full impulse. 
+PARIS: Aye, Captain. 
+JANEWAY: I don't have to tell you what's at stake. If a large-scale Omega explosion occurs, we will lose the ability to go to warp forever. We've got our work cut out for us. 
+Captain's log, supplemental. Encrypt log entry. We're approaching the star system where we believe we'll find Omega. I have to admit, I have never been this apprehensive about a mission. I know how Einstein must have felt about the atom bomb, or Marcus when she developed the Genesis device. They watched helplessly as science took a destructive course. But I have the chance to prevent that from happening. I just hope it's not too late. 
+[Cargo Bay two] 
+JANEWAY: Status report? 
+SEVEN: This is a harmonic resonance chamber. The Borg designed it to contain and stabilise Omega. 
+JANEWAY: I thought I asked you to work on the photon torpedo. 
+SEVEN: The torpedo may be insufficient. I can modify this chamber to emit an inverse frequency. It will be enough to dissolve Omega's interatomic bonds. 
+JANEWAY: Here's to Borg ingenuity. This is excellent work, Seven. We may need this. 
+SEVEN: The modifications require several complex calculations. Assist me. 
+JANEWAY: I guess I will. I'm curious. When did the Borg discover Omega? 
+SEVEN: Two hundred twenty nine years ago. 
+JANEWAY: Assimilation? 
+SEVEN: Yes, of thirteen different species. 
+JANEWAY: Thirteen? 
+SEVEN: It began with Species two six two. They were primitive, but their oral history referred to a powerful substance which could burn the sky. The Borg were intrigued, which led them to Species two six three. They too were primitive, and believed it was a drop of blood from their Creator. 
+JANEWAY: Fascinating. 
+SEVEN: Yes, but irrelevant. We followed this trail of myth for many years until finally assimilating a species with useful scientific data. We then created the molecule ourselves. 
+JANEWAY: Omega caused quite a stir among my own species. Federation cosmologists had a theory that the molecule once existed in nature for an infinitesimal period of time at the exact moment of the Big Bang. Some claimed Omega was the primal source of energy for the explosion that began our universe. 
+SEVEN: A creation myth like any other. 
+JANEWAY: Perhaps. What is it the Borg say? That Omega is perfect? 
+SEVEN: Yes. 
+JANEWAY: Is that a theory or a belief. 
+CHAKOTAY [OC]: Bridge to Captain. 
+JANEWAY: Go ahead. 
+CHAKOTAY [OC]: We're approaching the coordinates. 
+JANEWAY: I'm on my way. I'm leaving this project in your hands. Use whatever resources and personnel you need. 
+SEVEN: Understood. 
+[Bridge] 
+CHAKOTAY: We've entered a planetary system. 
+JANEWAY: Inhabited? 
+CHAKOTAY: There's a pre-warp civilisation on the outermost planet. The source of Omega seems to be further in. 
+PARIS: The damage to subspace in this region is extreme. We won't be able to go to warp. 
+TUVOK: We're encountering distortions. 
+JANEWAY: Track their origin. 
+TUVOK: An M class moon. We're in visual range. 
+JANEWAY: On screen. 
+(A patch of the moon is throbbing pale blue.)
+TUVOK: There's a subnucleonic reaction occurring in the upper atmosphere. It is apparently emanating from a structure on the moon's surface. 
+JANEWAY: Can your sensors penetrate the atmosphere? 
+KIM: Stand by. 
+(An image of a smoking central blast point, with damage radiating away.)
+JANEWAY: My God. 
+KIM: Over three hundred thousand square kilometres destroyed. 
+JANEWAY: Scan the structure. Are there any Omega molecules remaining? 
+TUVOK: I can't tell. Several sections of the outpost are still shielded. 
+KIM: I'm detecting lifesigns. 
+CHAKOTAY: How many? 
+KIM: A few dozen maybe. It's hard to get a clear reading. 
+JANEWAY: Harry, can we transport to the surface? 
+KIM: I can get you there, but conditions in the structure aren't good. There are high levels of radiation. 
+JANEWAY: Tuvok, assemble a rescue team and have them report to Sickbay for arithrazine inoculations. Tell the Doctor to prepare for casualties. Tom, move Voyager into a high orbit, and then join the away team. We'll need a field medic. 
+PARIS: Yes, ma'am. 
+CHAKOTAY: You're going with them? 
+JANEWAY: If Omega's still down there, I have to find it. I'll keep an open comm. link with the ship. You have the bridge. 
+[Laboratory] 
+(Down on the moon, they find an injured alien amongst the wreckage.)
+JANEWAY: I'm picking up Omega's resonance frequency. It's here but I can't pinpoint a location. 
+(Janeway goes to the first alien. Pale flesh and a nasty wound on his cheek.)
+JANEWAY: I need to ask you questions about the experiments you've been conducting here. 
+ALLOS: There was an accident. We lost containment. 
+JANEWAY: The substance you were trying to create. Did any of it survive the explosion? 
+ALLOS: Yes. 
+JANEWAY: Where? 
+ALLOS: Inside the primary test chamber. Who are you? 
+JANEWAY: Captain Janeway of the starship Voyager. We're here to help you. Away team to Voyager. Two to beam directly to Sickbay. 
+CHAKOTAY [OC]: Aye, Captain. 
+TUVOK: This door is solid duritanium, thirteen centimetres thick. 
+JANEWAY: Can we get it open? 
+TUVOK: The duritanium has melted into the door frame. We'll need to cut through the metal with phasers. 
+JANEWAY: Do it. 
+TUVOK: Captain, I'd be negligent if I didn't point out that we're about to violate the Prime Directive. 
+JANEWAY: For the duration of this mission the Prime Directive has been rescinded. Let's get this over with. 
+[Cargo Bay two] 
+(A hive of activity. A large egg-shaped structure has been built.)
+SEVEN: Crewman Dell, I'm assigning you a task more suited to your abilities. Calibrate the ionic pressure seals on the observation ports. Your new designation is Three of Ten. 
+DELL: Yes, ma'am. 
+(Neelix enters.)
+NEELIX: I've got more isolinear processors for you to install. 
+KIM: Thanks, but I need to get the power relays online first. 
+NEELIX: Are you sure that's a good idea? Ensign Wildman was assigned to that. 
+KIM: This is ridiculous. I'm not going to waste time just because Seven wants to turn this team into her own private Collective. 
+NEELIX: She says it's more efficient. 
+KIM: Maybe for a bunch of Drones. 
+SEVEN: Six of Ten, this is not your assignment. 
+KIM: Please, stop calling me that. 
+SEVEN: You are compromising our productivity. I'm reassigning you to chamber maintenance. Your new designation is Two of Ten. 
+KIM: Wait a minute, you're demoting me? Since when do the Borg pull rank? 
+SEVEN: A Starfleet protocol I adapted. I find it most useful. 
+KIM: I'm glad you're not the captain. 
+(Chakotay enters.)
+CHAKOTAY: How's it coming? 
+SEVEN: The crew can be quite efficient when properly organised. The harmonic chamber will be completed within the hour. 
+CHAKOTAY: Good. I'll let the captain know. 
+SEVEN: Has she retrieved any new data from the surface? 
+CHAKOTAY: Not yet. They're still trying to access the primary test chamber. 
+SEVEN: Were there survivors? 
+CHAKOTAY: A few. The Doctor's treating them in Sickbay. 
+KIM: Commander. Seven's taking this hive mentality just a little too far. Designated functions, numbered Drones. I wouldn't be surprised if she started plugging us into alcoves. 
+CHAKOTAY: When in the Collective, Harry, adapt. 
+[Sickbay] 
+(The EMH has at least four patients now.)
+SEVEN: Which of them is the senior researcher? 
+EMH: This gentleman. Why do you ask? 
+(He nods towards the surgical alcove.)
+SEVEN: He has knowledge I require. 
+EMH: He also happens to be barely conscious. Come back in an hour. 
+SEVEN: Unacceptable. 
+EMH: Unavoidable. This is my sickbay. The man needs to recover. 
+SEVEN: The Captain left me in charge of our efforts on Voyager. I would be negligent if I ignored a source of new information. 
+(The EMH steps in front of her.)
+EMH: Our next social skills seminar is entitled Adding Diplomatic Flair To Future Negotiations. How are you feeling, sir? 
+ALLOS: Better, thank you. 
+EMH: Are you comfortable enough to speak with this individual? 
+(Allos nods.)
+EMH: Keep it brief. 
+(The EMH leaves them.)
+SEVEN: How many of the molecules were you able to synthesise? 
+ALLOS: Two hundred million? I'm not certain. 
+SEVEN: What is the isofrequency of your containment field? 
+ALLOS: One point six eight terahertz. We used the molecule's own resonance to calculate the field. 
+SEVEN: That should have been enough to stabilise them. 
+ALLOS: Obviously, it wasn't. 
+SEVEN: Obviously. But your approach is innovative. Perhaps I can adapt your technique and improve upon it. You will assist me. 
+ALLOS: Our equipment was destroyed. If you can transfer the molecules to your ship, maybe they can be saved. 
+SEVEN: I have no intention of saving them. 
+ALLOS: What? 
+SEVEN: My orders are to destroy the Omega molecules. 
+ALLOS: This is my life's work. The salvation of my people! 
+SEVEN: Will you assist me or not? 
+ALLOS: Our resources are nearly gone. The future of my people depends on this discovery. 
+SEVEN: Then your answer is no. 
+ALLOS: Small-minded creatures. You destroy whatever you don't understand! Rescue ships are on the way. They won't let you do it. 
+EMH: Please, try to be calm. Seven, you'll have to leave. 
+ALLOS: You don't realise what you're doing. You don't know what this is, what this means. 
+SEVEN: On the contrary. I understand perfectly. 
+[Laboratory] 
+TUVOK: We've disabled the locking mechanism. 
+JANEWAY: Narrow your phaser beams to cut through the inner seal. 
+TUVOK: Inadvisable. We'd risk penetrating the containment field. 
+JANEWAY: Then we'll have to use some elbow grease. Give me a hand. Right. 
+(They pull the protective door aside. The blue light from the chamber fills the room.)
+JANEWAY: There's enough here to wipe out subspace across half the quadrant. 
+TUVOK: I'll order the away teams back to Voyager and target this facility with the gravimetric charge. 
+JANEWAY: It won't be enough. We'll have to go with our Borg option. Ensign. 
+ENSIGN: Yes, Captain. 
+JANEWAY: Return to the ship. Tell Commander Chakotay to help Seven complete the harmonic chamber. We'll have to transport Omega directly to the ship. That means finding a way to shut down this containment field. 
+TUVOK: It's unfortunate we can't study this phenomenon in more detail. We may not have the opportunity again. 
+JANEWAY: Let's hope we never do. 
+TUVOK: A curious statement from a woman of science. 
+JANEWAY: I'm also a woman who occasionally knows when to quit. Take another look at your tricorder. Omega's too dangerous. I won't risk half the quadrant to satisfy our curiosity. It's arrogant, and it's irresponsible. The final frontier has some boundaries that shouldn't be crossed, and we're looking at one. 
+[Cargo Bay two] 
+(The work on the chamber is finished.)
+SEVEN: We don't need to destroy the molecules. I believe I've found a way to stabilise them. The alien in Sickbay calibrated his containment field using Omega's own resonance, an approach unknown to the Borg. I have modified this chamber 
+CHAKOTAY: Those weren't your orders. The Captain wants Omega eliminated. 
+SEVEN: That is still an option, if she insists on yielding to her fear. 
+CHAKOTAY: Show me what you've done. 
+SEVEN: This simulation shows the molecules in their free state, highly unstable. I've modified the chamber to emit a harmonic waveform that will dampen the molecules. 
+CHAKOTAY: Looks great, in theory, but this is only a simulation. How are you going to test it? 
+SEVEN: On Omega. 
+CHAKOTAY: Bad idea. One mistake, and no one will be around for a second try. 
+SEVEN: It will work. 
+CHAKOTAY: Someday, maybe. Hang on to your research. For now, we stick to the plan. Stand by to transport the molecules into this chamber and neutralise them as ordered. 
+SEVEN: I have been a member of this crew for nine months. In all of that time, I have never made a personal request. I am making one now. Allow me to proceed. Please. 
+CHAKOTAY: Why is this so important to you? 
+SEVEN: Particle zero one zero. The Borg designation for what you call Omega. Every Drone is aware of its existence. We were instructed to assimilate it at all costs. It is perfection. The molecules exist in a flawless state. Infinite parts functioning as one. 
+CHAKOTAY: Like the Borg. 
+SEVEN: Precisely. I am no longer Borg, but I still need to understand that perfection. Without it, my existence will never be complete. Commander, you are a spiritual man. 
+CHAKOTAY: That's right. 
+SEVEN: If you had the chance to see your God, your Great Spirit, what would you do? 
+CHAKOTAY: I'd pursue it, with all my heart. 
+SEVEN: Then you understand. 
+CHAKOTAY: I think I do. I'll inform the captain of your discovery. For now, her orders stand. 
+SEVEN: Thank you. 
+[Laboratory] 
+(Transporter pattern enhancers have been set up.)
+JANEWAY: Set the confinement beam to its narrowest dispersion. 
+TUVOK: Understood. 
+JANEWAY: We'll target this facility with the gravimetric torpedo. If anything goes wrong during transport, that'll be our only hope. 
+CHAKOTAY [OC]: Bridge to Janeway. We've detected two ships on an intercept course. They're not responding to hails. 
+JANEWAY: How long until they get here? 
+[Bridge] 
+PARIS: Less than four minutes, Captain. 
+JANEWAY [OC]: Standby to transport the 
+[Laboratory] 
+JANEWAY [OC]: Molecules directly to the harmonic chamber. 
+[Bridge] 
+CHAKOTAY: Understood. Bridge to 
+[Cargo Bay two] 
+CHAKOTAY [OC]: Cargo bay.
+SEVEN: Yes, Commander. 
+CHAKOTAY [OC]: Seven, get ready. 
+[Bridge] 
+CHAKOTAY: We'll have to do this quickly. 
+[Cargo Bay two] 
+SEVEN: That's not advisable. 
+CHAKOTAY [OC]: We don't have a choice. 
+[Bridge] 
+CHAKOTAY: The alien ships are on their way. 
+[Cargo Bay two] 
+SEVEN: Then I recommend moving the ship within five thousand kilometres of the surface.
+PARIS [OC]: That'll take us right into the atmosphere. 
+[Bridge] 
+PARIS: With our shields down, we won't withstand the thermal reaction for more than a few seconds. 
+CHAKOTAY: Then we'll only get one shot at this. Take us in. 
+PARIS: Aye, sir. 
+CHAKOTAY: Transporter status?
+KIM: Targeting scanners are locked. 
+CHAKOTAY: Captain, are you ready? 
+[Laboratory] 
+TUVOK: Pattern enhancers are active. 
+JANEWAY: Do it. 
+[Bridge] 
+(An aurora plays across the viewscreen.)
+PARIS: We're eleven thousand kilometres from the surface. If we get much closer, we'll incinerate. 
+KIM: We're losing structural integrity. 
+[Laboratory] 
+PARIS [OC]: Nine thousand kilometres. 
+JANEWAY: We're close enough. Energise. 
+[Bridge] 
+CHAKOTAY: Initiating transport. 
+[Cargo Bay two] 
+(The chamber lights up bright blue.)
+SEVEN: The Omega molecules are stable. 
+[Bridge] 
+SEVEN [OC]: Transport was successful. 
+KIM: I've got the away team in transporter room two. 
+CHAKOTAY: Get us out of here, maximum impulse. 
+PARIS: Already on it. 
+CHAKOTAY: How far away are those ships? 
+PARIS: They're right on our tail. 
+(A little later, looking at long range sensor scan 562.)
+CHAKOTAY: We're heading into an area of open space. No indications of life or any kind of technology. We can carry out the procedure with no risk to anyone else. 
+PARIS: Except those two ships behind us. 
+JANEWAY: Can we stay ahead of them? 
+PARIS: Not for long. 
+CHAKOTAY: How soon can we clear the subspace ruptures and go to warp? 
+PARIS: Ten, maybe fifteen minutes. But those ships will catch up to us before then. 
+JANEWAY: Well we have one advantage. We've got Omega. They won't risk firing at us. At least not until they run out of options. That should give us a chance to neutralise the molecules. 
+CHAKOTAY: Captain, we might have another problem. 
+JANEWAY: Seven of Nine? 
+CHAKOTAY: She's convinced she can stabilise Omega. 
+JANEWAY: I thought we'd settled that question. 
+CHAKOTAY: While you were on the surface, she showed me a pretty convincing simulation of how it could be done. 
+JANEWAY: I should have known she wouldn't just let this go. I'll be in Cargo Bay two. 
+[Cargo Bay two] 
+JANEWAY: Seven, the procedure? 
+SEVEN: It's working. Eleven percent of the molecules have already been neutralised. 
+JANEWAY: Let's see if we can speed up the process a little. 
+SEVEN: Did Chakotay tell you about my idea? 
+JANEWAY: Yes. 
+SEVEN: Then you will allow me to stabilise the remaining molecules. 
+JANEWAY: You know I can't do that. 
+SEVEN: Your Starfleet Directive is no longer relevant. I have found a way to control Omega. 
+JANEWAY: I don't care if you can make it sing and dance. We're getting rid of it. 
+SEVEN: A foolish decision. 
+JANEWAY: Yes, but it's mine to make. Now step aside. 
+SEVEN: I could have done this without your permission, but I chose to follow your command structure. I should have made the attempt. I still can. 
+JANEWAY: But you won't. You know I'm not trying to stop you from finding perfection, but I can't risk the safety of this Quadrant. Omega must end here. We both know that. Status? 
+SEVEN: Eighteen percent. 
+JANEWAY: This could take hours. Can you increase the harmonic resonance? 
+SEVEN: Yes. but it would rupture the chamber. 
+JANEWAY: How many molecules would we neutralise? 
+SEVEN: Forty, fifty percent at best. 
+JANEWAY: That's good enough. Our torpedo can take care of the rest. Janeway to bridge. 
+CHAKOTAY [OC]: Chakotay here. 
+JANEWAY: Chakotay, I want you to clear deck four. Put emergency forcefields around this section. Prepare to decompress Cargo Bay two on my command. 
+CHAKOTAY [OC]: Understood. 
+JANEWAY: Tuvok, load the gravimetric torpedo. Once we've jettisoned the chamber, fire. 
+TUVOK [OC]: Aye, Captain. 
+JANEWAY: Harmonic resonance to maximum. 
+[Bridge] 
+PARIS: Commander, they're closing on us. 
+TUVOK: They're attempting to stop us with a tractor beam. 
+CHAKOTAY: Adjust shields to compensate. 
+KIM: They're hailing us. 
+CHAKOTAY: On screen. 
+ALIEN CAPTAIN [on viewscreen]: Disengage your engines and prepare to be boarded. 
+CHAKOTAY: I can't do that. 
+ALIEN CAPTAIN [on viewscreen]: You've stolen our technology, abducted our people. 
+CHAKOTAY: Your people are safe. They're receiving medical care. I'll be glad to get them back to you when this is over. But we're keeping the molecules. 
+ALIEN CAPTAIN [on viewscreen]: I won't allow this substance to fall into enemy hands. I'll destroy it first. 
+TUVOK: They're charging weapons. 
+CHAKOTAY: You'll destabilise the molecules. We'll both be destroyed. 
+ALIEN CAPTAIN [on viewscreen]: Then return our technology. Now. 
+CHAKOTAY: I'm sorry. That's not possible. 
+(Transmission ends. The ships start firing.)
+TUVOK: Direct hit. Shields down ten percent. 
+CHAKOTAY: Evasive manoeuvres. Try to shake them off. 
+[Cargo Bay two] 
+SEVEN: Harmonic resonance at maximum, Captain. 
+JANEWAY: The molecules? 
+SEVEN: Eighty percent remaining. 
+JANEWAY: We need to get that down to sixty. 
+SEVEN: Any damage to our power grid could overload the chamber. Omega would chain react. 
+JANEWAY: The same thought crossed my mind. Where are we now? 
+SEVEN: Seventy two percent. 
+JANEWAY: That's close enough, Bridge, start the decompression sequence.
+CHAKOTAY [OC]: Acknowledged. 
+(An alarm sounds.)
+JANEWAY: What's wrong? What's happening? 
+SEVEN: The molecules are stabilising. 
+JANEWAY: What? 
+SEVEN: I've done nothing. It's occurring spontaneously. 
+JANEWAY: That's impossible. 
+COMPUTER: Decompression in thirty seconds. Decompression in twenty five seconds. 
+(Seven gazes into the chamber window, and sees the molecules form their glittering sphere.)
+JANEWAY: Seven, let's move. 
+COMPUTER: Decompression in twenty seconds. 
+JANEWAY: Seven! 
+COMPUTER: Decompression in fifteen seconds.
+(Janeway and Seven run out of the cargo bay.)
+COMPUTER: Decompression in ten seconds. 
+[Bridge] 
+CHAKOTAY: Tom, are we clear of the subspace ruptures? 
+PARIS: Almost. 
+CHAKOTAY: I need maximum warp within ten seconds or we'll be stuck at ground zero. 
+PARIS: Yes, sir. 
+TUVOK: Decompression is complete. The harmonic chamber has been jettisoned. 
+CHAKOTAY: Fire! 
+(The torpedo hits the chamber and it explodes into purple.)
+PARIS: We made it. We're at warp one. 
+(Janeway and Seven enter.)
+JANEWAY: The alien ships?
+PARIS: Out of range. 
+JANEWAY: Tuvok? 
+TUVOK: Sensors show no traces of Omega molecules. 
+JANEWAY: Mission accomplished. 
+Captain's log, stardate 51793.4. We've arranged for our guests in Sickbay to be taken back to their homeworld, and we can finally put this mission behind us. This will be my last encrypted log concerning the Omega Directive. The classified datafiles will now be destroyed. 
+[Holodeck - da Vinci's Workshop] 
+(Seven is gazing at the crucifix on the wall.)
+JANEWAY: I wondered who was running my programme. Master da Vinci doesn't like visitors after midnight. 
+SEVEN: He protested. I deactivated him. 
+JANEWAY: What are you doing here, Seven? 
+SEVEN: This simulation contains many religious components. I was studying them to help me understand what I saw in Cargo Bay two. 
+JANEWAY: The data isn't clear why Omega stabilised in the last few seconds. The chances are it was simply a chaotic anomaly, nothing more. 
+SEVEN: For three point two seconds I saw perfection. When Omega stabilised, I felt a curious sensation. As I was watching it, it seemed to be watching me. The Borg have assimilated many species with mythologies to explain such moments of clarity. I've always dismissed them as trivial. Perhaps I was wrong. 
+JANEWAY: If I didn't know you better, I'd say you just had your first spiritual experience. 

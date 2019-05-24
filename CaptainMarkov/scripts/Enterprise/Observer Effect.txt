@@ -1,0 +1,512 @@
+Observer Effect
+[Mess hall] 
+(Enterprise is in orbit of a grey planet, and Reed and Travis are playing chess.) 
+TRAVIS: You'll win in eight moves. 
+(Reed turns the board around so they can set up a fresh game.) 
+REED: You're really starting to get a feel for the game. 
+TRAVIS: Thirty two pieces, sixty four squares. It's not as if it's difficult. The total number of possible outcomes is limited. 
+REED: Ten to the one hundred twenty third power. 
+TRAVIS: That's what I mean. Chess is so predictable, I'm surprised anyone bothers to play it. 
+(The new game starts quickly, with Travis playing white.) 
+REED: Their average life span's only about a hundred years. With no time to play all the possible games. 
+TRAVIS: What a waste. 
+REED: Careful. No emotional involvement. 
+TRAVIS: I know the rules. Observation without interference. 
+(Another speed-chess game finishes already.) 
+TRAVIS: You'll win in five moves. 
+REED: I'm the ship's champion. I win all the tournaments. 
+TRAVIS: How do you think they'll react to what's on this planet? 
+REED: Well, that's what we're here to find out, but in my experience, all physical species are alike. I don't expect humans will be any different. 
+TRAVIS: Do you think our hosts will die tonight? 
+REED: It's possible. For some of the species that have come here, I've seen the whole crew die. For others, only a few. 
+TRAVIS: But somebody always dies. 
+REED: Always. 
+(A new game is set up.) 
+REED: Your move. 
+[Shuttlepod] 
+(An away team is returning from the planet. Hoshi pulls something from her hair.
+HOSHI: I can't wait to get back. 
+TUCKER: Two days ago, you couldn't wait to get off the ship. 
+HOSHI: Sifting through a Klingon garbage dump. Not my idea of exploring strange new worlds. 
+TUCKER: Getting tired of exploration, Ensign? All the planets starting to look alike? 
+HOSHI: Not a chance, sir. 
+TUCKER: I didn't think so. (coughs) I feel like I'm still breathing dirt. Shuttlepod One to Enterprise. 
+ARCHER [OC]: Welcome back. How did your treasure hunt turn out? 
+TUCKER: Well, nothing worth bringing home. The Klingons must've been here years ago. All they left was an old power cell and a bunch of empty ration packs. 
+HOSHI: And a latrine. 
+TUCKER: Yeah. A long hot shower's looking pretty good. Shuttlepod One out. 
+(Trip has a coughing fit.) 
+HOSHI: Commander? What's wrong?! 
+TUCKER: Take over. 
+(He gets out of the pilot's seat.) 
+TUCKER: Got to dock. 
+(He collapses on the floor.) 
+HOSHI: Shuttlepod One to Enterprise. 
+[Bridge] 
+HOSHI [OC]: I have a medical emergency. Commander Tucker's collapsed. 
+ARCHER: Can you bring the shuttlepod in? 
+[Shuttlepod] 
+HOSHI: Yes, sir. At least in simulations. 
+[Bridge] 
+ARCHER: Slow and steady, Ensign. I'll see you in Decon. 
+[Shuttlepod] 
+HOSHI: Understood. 
+[Bridge] 
+ARCHER: (to T'Pol) Call Phlox. 
+(Travis and Reed exchange a knowing look.) 
+[Decon] 
+(Archer and Phlox are outside the chamber, Hoshi and Tucker are inside.) 
+ARCHER: Trip, how you feeling? 
+TUCKER: Like I've been gut-punched by a Tellarite. 
+HOSHI: Doctor, should we start with the bio-gel? 
+PHLOX: Not until we know what we're dealing with. Three other landing parties returned from the surface with no ill effects. 
+ARCHER: We need to check out the shuttlepod, too. See if any of its environmental systems were at fault. 
+TUCKER: I can do that, Captain. I should've thought of that myself. 
+ARCHER: Stay where you are, Trip. Phlox needs blood samples. 
+PHLOX: Here's the medkits. 
+(He puts them through the decon chamber wall but as Hoshi comes to get them, she starts coughing.) 
+ARCHER: Hoshi, what is it? 
+HOSHI: Before Commander Tucker passed out, he started coughing. 
+PHLOX: Are you feeling any other symptoms? 
+(She dashes into the bathroom and throws up.) 
+TUCKER: I'm going to guess that's a yes. 
+PHLOX: I'll prepare anti-nausea medication. You get me those blood samples as soon as you can. 
+(Phlox and Archer head off down the corridor.) 
+ARCHER: Anything? 
+PHLOX: Whatever's afflicting them, it's not showing up on the standard scans. 
+ARCHER: Doesn't sound good. 
+PHLOX: It's not. 
+[Corridor] 
+TRAVIS: I studied your report on how the Klingons reacted to the infection. 
+REED: Their response was typical for a species at their level of development. 
+TRAVIS: The Klingon commander didn't let his landing party back on his ship. 
+REED: Your point? 
+TRAVIS: Captain Archer did. 
+REED: Captain Archer's done nothing different from the Klingons. The launch bay and Decon Chamber are completely isolated from the rest of the ship. 
+TRAVIS: So it doesn't matter if an infected landing party comes aboard. 
+REED: Precisely. Humans don't want to interact with dying crew mates any more than Klingons did. If it was left to me, I'd stop our observations immediately. We have nothing more to learn from humans. 
+[Turbolift] 
+TRAVIS: Oh, I don't know. They're showing concern for each other. The Cardassians did that when they were here, didn't they? 
+REED: Ah, but in the end they killed their infected crew, just as the Klingons did. The only difference is the time it took to reach that decision. 
+TRAVIS: Maybe the humans will surprise us. 
+REED: I've been observing aliens for eight hundred years. I've yet to be surprised. Still, we should follow protocol. Start questioning the infected crew. I'll check in with the Doctor. 
+[Decon Chamber] 
+(Hoshi is cleaned up and in a fresh uniform.) 
+TUCKER: Okay, this is for nausea, muscle pain, and a cough suppressant. 
+HOSHI: I'm not coughing anymore. Neither are you. Maybe we're getting better. 
+TUCKER: Well, Doctor's orders 
+(Travis arrives at the window, and knocks to get their attention.) 
+TRAVIS: Commander, Hoshi. Just wanted to say hi. 
+TUCKER: We're a little busy right now, Travis. 
+TRAVIS: Can you tell me what's in the hypospray? 
+HOSHI: Something for our symptoms. 
+TUCKER: Yeah. Phlox doesn't know what's wrong with us yet. 
+TRAVIS: Have either of you faced serious illness before? 
+TUCKER: Aren't you supposed to be on duty? 
+TRAVIS: I was curious to know how you'd compare this experience with other illnesses you might've contracted. 
+TUCKER: Travis, we really need to get some sleep. 
+TRAVIS: I only have a few more questions. 
+TUCKER: Thanks for stopping by. 
+(He slides a privacy cover across the window.) 
+TRAVIS: But 
+[Sickbay] 
+(Phlox is putting a culture slide under a microscope.) 
+PHLOX: Lieutenant Reed. Something I can do for you? 
+REED: Headache. 
+PHLOX: Of course. Just a moment. 
+(Reed looking at the monitor displays.) 
+REED: Are these are the blood tests for Commander Tucker and Ensign Sato? 
+PHLOX: That's correct. 
+(Phlox scans Reed.) 
+PHLOX: I'm not detecting any vascular involvement. 
+(Reed looks quizzical.) 
+PHLOX: Your headache. Not a bad one, I take it? 
+REED: No, not yet. Although it feels like it could get worse. Preventive measure. A lot to do today. 
+PHLOX: Mild analgesic it is. 
+(Phlox gives him the shot.) 
+REED: Doctor, I'm curious to know how you think these tests will help you develop an effective treatment. 
+PHLOX: So am I. 
+REED: I mean, are you approaching this strictly on a symptomatic level, or do you believe there's any similarity to other conditions you've seen in the past? 
+PHLOX: Lieutenant, I believe I can put your mind at ease. If your colleagues have returned with a contagious illness, there is no way it can spread to the rest of the ship. We are all quite safe. 
+(Phlox opens the Sickbay doors and gestures for him to leave.) 
+REED: I'm not worried about that, no. I'm interested in the methodology 
+PHLOX: Out, out, out! I have a lot to do as well. 
+[Decon chamber] 
+(Hoshi has wrapped a blanket around herself.) 
+TUCKER: You ever see The Andromeda Strain? 
+HOSHI: Strain of what? 
+TUCKER: No, it's a movie. Mid-twentieth century. 
+HOSHI: Let me guess. Doctor Andromeda builds a monster, and it kills him in the end. 
+TUCKER: It's about an extraterrestrial disease. 
+HOSHI: All your movies are the same. I can't keep the stories straight. 
+TUCKER: This reminds me of my dorm room at Starfleet Training. Got into a lot of trouble at old STC. 
+HOSHI: I got kicked out. 
+TUCKER: Well, you can't stop there. 
+HOSHI: In my second month, I had a difference of opinion with the Company Commander. I broke his arm. 
+TUCKER: Can I ask why? 
+HOSHI: Poker. 
+TUCKER: You broke his arm playing cards? 
+HOSHI: He tried to shut down a game I was running for some of the recruits, and a couple of the training staff. 
+TUCKER: Hold on. You ran a floating poker game at STC? 
+HOSHI: The way the regulations are worded, gambling was an honour violation only if it took place during duty hours. So I ran the game on weekends. One night my C.C. showed up, tried to sweep all the chips off the table, and I. Well, I have a black belt in aikido. I think he was just upset that I hadn't invited him to play. 
+TUCKER: What happened? 
+HOSHI: I got a bad conduct discharge. 
+TUCKER: How the hell did you end up on Enterprise? 
+HOSHI: Starfleet needed language specialists more than they needed to make an example out of me. They let me back in on probation, and here I am. 
+[Sickbay] 
+PHLOX: The closest classification it matches is a virus. Highly contagious. Silicon-based. 
+ARCHER: This is an M class planet. All life forms down there should be carbon-based. 
+PHLOX: I can only surmise the virus was brought here. Perhaps by a meteorite, which could explain why only one of our landing parties encountered it. 
+ARCHER: Is there a treatment? 
+PHLOX: There's no record of anything like it in the Denobulan database. 
+ARCHER: Then it's up to you. 
+PHLOX: I'll do all I can, Captain, but at the rate the pathogen is reproducing, Commander Tucker and Ensign Sato have less than five hours to live. 
+[Mess hall] 
+TRAVIS: The Doctor identified the pathogen. 
+REED: That happens thirty seven percent of the time. 
+TRAVIS: But no one's made the decision to abandon the infected crew members. 
+REED: Then this'll likely be one of the times when everyone dies. 
+[Decon] 
+(The window is still covered over when Archer 'rings the doorbell'.) 
+TUCKER [OC]: Travis, if that's you again. 
+ARCHER: It's me. 
+(The cover slides back to reveal a pasty-faced, sweaty Tucker.) 
+TUCKER: Next time I ask to go on a landing party, talk me out of it, okay? 
+ARCHER: You're usually too stubborn to be talked out of anything. But I'll do my best. How's Hoshi? 
+TUCKER: Sleeping. Whatever Phlox gave us, at least it's helping with the pain. 
+ARCHER: Phlox identified what's causing all the trouble. A silicon-based virus. 
+TUCKER: I don't suppose he's on his way over here with the cure. 
+ARCHER: He's working on it. So is T'Pol. 
+TUCKER: So, there is no cure. 
+ARCHER: Not yet. 
+TUCKER: I'm getting the idea you're up against a deadline. 
+ARCHER: If you mean how much time do you have, it's too early for that kind of talk. Your own immune system could knock this thing out. 
+TUCKER: I remember Exobiology 101, Captain. Humans are carbon-based. Our immune system can't fight silicon. 
+ARCHER: Don't you give up on me. 
+TUCKER: There are still a bunch of planets out there we haven't seen. 
+ARCHER: Get some rest. 
+[Corridor] 
+TRAVIS: We're looking for signs of elevated intelligence in the species we observe. 
+REED: Rational intelligence, yes. Which Archer has not demonstrated. The longer the infected crew remain on board, the greater the risk that quarantine will fail. 
+TRAVIS: I'm sure Captain Archer knows exactly what the risk is. Maybe it's not as important to him as standing by his crew. 
+REED: It's just as probable that he hasn't realised how hopeless the situation is. 
+TRAVIS: There's a way to be sure. 
+REED: We chose the Helmsman and the Armory Officer for good reason. They're both stationed on the Bridge, yet neither plays a critical role in a medical emergency. 
+TRAVIS: Which is why we should inhabit the Doctor and the Science Officer. Archer relies on their findings to make his decisions. We could witness that as it happens. 
+REED: The more people we inhabit, the greater the chance that we will inadvertently interfere. 
+TRAVIS: The more people we inhabit, the more we'll be able to observe. 
+[Decon chamber] 
+TUCKER: How many languages can you speak? 
+HOSHI: That's not how it works. There are a lot of common patterns. I'm just good at hearing them, that's all. 
+TUCKER: Good? You're a genius. The way you can pick up an alien language you've never heard before and start spouting it back to them? I got to tell you, I've always been jealous you can do that. 
+HOSHI: I wish I could fix warp engines with duct tape and a pocket knife. 
+TUCKER: It's a bit more complicated than that. Sometimes. 
+HOSHI: Seriously. Engineering, building things. have you always been good at that? 
+TUCKER: When I was a kid, not so good at building. But I was a terror when it came to taking things apart. My folks used to put all our kitchen appliances on the highest shelves. One Thanksgiving, I have no idea what I was thinking, but I removed every screw from this big dining room table we had. It was so old, the wood sort of stuck together, so it stayed standing until my dad put the turkey down. I spent the next month in my room. 
+HOSHI: How old were you? 
+TUCKER: Oh, twenty four, twenty five. 
+(Hoshi notices T'Pol and Phlox watching through the window.) 
+TUCKER: How long have they been there? 
+HOSHI: We didn't see you there. 
+PHLOX: We didn't want to interrupt you. 
+TUCKER: How's the research coming? 
+T'POL: We're waiting on new test results. 
+PHLOX: We thought we'd see how you two were progressing. 
+TUCKER: You're the ones with the medical scanners. 
+PHLOX: We were more interested in discussing your state of mind. 
+TUCKER: Look, if you really want to know how we feel, we'd be a lot better knowing you two were back in Sickbay working on the cure for this. 
+T'POL: Of course. We're going there now. 
+PHLOX: Commander. Ensign. 
+(The pair walk off.) 
+HOSHI: They both came to see us. Maybe that means they're almost finished. 
+TUCKER: Yeah, unless there's nothing more they can do. 
+[Corridor] 
+PHLOX: They're very brave, the way they're facing death. 
+T'POL: Their courage isn't at question. Their intelligence is. 
+PHLOX: You want the humans to fail. 
+T'POL: This isn't a competition. Either a species' intelligence is developed enough for First Contact, or it isn't. 
+PHLOX: Perhaps we should consider other qualities in making our decision. 
+T'POL: This is the measure we have used for ten thousand years. It's not our responsibility to change it. 
+PHLOX: Then whose responsibility is it? 
+[Situation room] 
+ARCHER: There. If Phlox is right about the virus coming here on a meteorite, that crater might be the source of it. Which means the Klingons at this campsite must have been infected, too. Set up a priority channel to Starfleet Command. We need to find out which Klingon ship explored this world, and whether or not they developed a cure. 
+REED: Right away, sir. 
+[Sickbay] 
+PHLOX: Those are the new test results my host is waiting for. 
+T'POL: We should leave these creatures to their work undisturbed. 
+PHLOX: The Helmsman and the Armoury Officer are back on the Bridge. 
+(We see Reed and Travis sit up slightly and exchange knowing looks on the Bridge.) 
+PHLOX: The altered immune receptors weren't effective. 
+T'POL: This could indicate the virus is sensitive to ionizing radiation. 
+PHLOX: At levels that would be fatal to humans, but it's a start. 
+T'POL: I'll prepare new samples for testing. 
+[Decon chamber] 
+(Hoshi is shouting in her sleep.) 
+TUCKER: Hoshi. Hoshi, wake up. 
+HOSHI: I was back in Brazil. The shuttle was coming to take me to Enterprise. 
+TUCKER: That's where we are. 
+HOSHI: Captain Archer needed me early. I didn't get the chance to say goodbye to my students. 
+TUCKER: You'll see them again. 
+[Situation room] 
+Archer is pacing when Travis and Reed join him.) 
+ARCHER: I've heard from Starfleet. They're working through diplomatic channels to contact the Klingons, but it might not be necessary. This spectrograph identifies a Klingon alloy. 
+REED: That's the signature of standard hull plating. 
+ARCHER: I found it here. 
+TRAVIS: You've detected a debris cloud in orbit. 
+ARCHER: It's what's left of a Klingon shuttlecraft. Their response to an infected landing party. The Commander killed his own shuttle crew. 
+REED: They didn't even plead for mercy. I mean, they wouldn't, would they? Being Klingon. 
+TRAVIS: Captain, does knowing what the Klingons did help us at all? 
+ARCHER: At least we know we don't have to bother asking them if they have a cure. 
+TRAVIS: But if they had developed one, you'd ask them for it, right? 
+ARCHER: On bended knee. 
+[Decon chamber] 
+HOSHI: Yo se que estoy atrasada. Enterprise no se va hasta manana. Solo necesito cinco minutos. 
+TUCKER: Hoshi, we're in quarantine for a reason. 
+HOSHI: (in Klingon) 
+TUCKER: I have no idea what you're saying, but you can't break the lockout code. 
+HOSHI: Math is just another language. 
+(The red light goes green, the door opens and alarms go off in the corridor.) 
+[Bridge] 
+REED: Quarantine breach on D deck. The Decon Chamber has been unsealed. 
+(Hoshi makes her way along corridors as Tucker doesn't have the energy to go after her.) 
+REED: Someone's overriding the safety interlocks. 
+ARCHER: Shut down all power to D deck. I want those doors sealed. 
+[Corridor] 
+(The lights have gone out, there's just red emergency lighting, and finally Tucker has stirred himself.) 
+TUCKER: Hoshi, you have to stop. That's an airlock. You open those doors, we die. 
+HOSHI: Haye nuzhno skazat dosvidaniya. 
+TUCKER: Hoshi, come on. 
+(He takes hold of her, and they struggle until she collapses in tears in his arms.) 
+HOSHI: I need to tell them while there's still time. 
+TUCKER: The Captain won't let us down. 
+[Decon chamber] 
+TUCKER: Trip to whoever's out there. We're back. 
+[Sickbay] 
+PHLOX: Commander, I want you to set your hypospray for three units of sonambutril. 
+TUCKER [on monitor]: That could drop a horse. 
+ARCHER: We can't risk Hoshi wandering off again. Especially since it seems she can override every security safeguard on Enterprise. 
+[Decon chamber] 
+TUCKER: Yeah, she's full of surprises today. 
+(He injects her and she just slumps on the bed. He covers her with a blanket.) 
+TUCKER: Sweet dreams, Houdini. 
+[Sickbay] 
+TUCKER [on monitor]: Anything else? 
+ARCHER: It's your turn, Trip. 
+TUCKER [on monitor]: Come on, Captain. 
+PHLOX: Commander, the virus is incompatible with carbon-based life. It's attacking your bodies in ways I can't predict. 
+TUCKER [on monitor]: You think I'm going to wander off, too? Start opening the wrong doors? 
+PHLOX: Not if you're sedated. 
+ARCHER: Sorry, Trip. 
+PHLOX: Commander. 
+[Decon chamber] 
+TUCKER: I'm just wondering if either one of us will ever wake up again. 
+(He injects himself.) 
+PHLOX [OC]: You should lie down right away. 
+TUCKER: I won't argue with that. 
+[Sickbay] 
+(After watching Tucker collapse onto the other bed.) 
+ARCHER: How close are you to stopping this? 
+PHLOX: T'Pol and I have isolated a specific frequency of radiation that disrupts the silicon matrix of the virus. 
+ARCHER: Sounds promising. 
+PHLOX: Unfortunately, the dosage required would be lethal. 
+ARCHER: There's got to be some kind of a trade-off. A way to produce enough radiation to slow down the virus without killing the patient. 
+PHLOX: That's what I'm working on. 
+ARCHER: Work faster. 
+[Bridge] 
+(Travis goes over to Reed's station and whispers in his ear.) 
+TRAVIS: We can stop what this virus is doing to them. 
+REED: That's not why we're here. 
+TRAVIS: We came to observe their response to the unexpected, not to watch them suffer. 
+REED: This is not the place to be having this discussion. 
+TRAVIS: I know where we can talk undisturbed. 
+[Decon chamber] 
+(The two unconscious patients sit up to talk.) 
+TUCKER: The sensations in this host are different from the others. I'm experiencing physical pain. 
+HOSHI: So am I. 
+TUCKER: Why should any species have to endure this weakness? 
+HOSHI: Because the desire to overcome it will spur them to move beyond the limitations of the physical world. 
+TUCKER: Maybe that isn't true for all species. 
+HOSHI: It was true for us. 
+[Sickbay] 
+(Phlox spots them on the monitor.) 
+PHLOX: You can't be awake. 
+(He checks the biosigns.) 
+PHLOX: Not with that much sonambutril. 
+(He turns on the audio.) 
+HOSHI [on monitor]: Our ancestors were physical beings. 
+TUCKER [on monitor]: Well, what worked for us might not work for everyone. Humans have different qualities. 
+HOSHI [on monitor]: Nothing I haven't seen before. 
+TUCKER [on monitor]: What do you have against this species? 
+HOSHI [on monitor]: What disturbs me most about the humans is their capacity for violence. 
+PHLOX: Extraordinary. 
+[Decon chamber] 
+TUCKER: Klingons embrace violence. The humans try to avoid it. 
+HOSHI: Humans say they avoid it, but their words don't match. 
+(She looks around.) 
+HOSHI: We're being observed. 
+[Sickbay] 
+(The doors open.) 
+PHLOX: Captain, T'Pol. I was just coming to see you. These are brainwave readings of Commander Tucker and Ensign Sato. 
+ARCHER: What is the significance? 
+PHLOX: The patterns aren't human. 
+T'POL: Did you know they had this capability? 
+ARCHER: He must have used Denobulan technology. 
+PHLOX: I see. Are you responsible for what happened to my patients? 
+ARCHER: We had nothing to do with it. 
+T'POL: We come here only to study how physical species react to the unknown. You can help by telling us how you detected our presence. That happens in less than two percent of our missions. 
+PHLOX: Commander Tucker and Ensign Sato were sedated. They shouldn't have been able to stand and talk. 
+ARCHER: It's been so long since we had physical form, we weren't able to distinguish sleep from sedation. 
+T'POL: We'll remember next time. 
+PHLOX: Is there anything you can do to help my patients? 
+T'POL: We're here to observe. We can't interfere. 
+PHLOX: You're interfering with me! 
+T'POL: Our subjects are human. You're Denobulan. You were inhabited a few hours ago. An intriguing experience. 
+PHLOX: I have no recollection of that. 
+ARCHER: Memories are simple to adjust. 
+PHLOX: You're going to adjust mine again? So I won't remember a word of this encounter. 
+T'POL: Or what you observed in the Decon Chamber. 
+PHLOX: If you have that ability, you must be able to help my patients. 
+ARCHER: We could. 
+T'POL: But we won't. Thank you for your help, Doctor. 
+PHLOX: No wonder you erase memories. Your behaviour is appalling. 
+[Corridor] 
+ARCHER: According to what I read on the Doctor's medical PADD, he's learned how to stop the infection. 
+T'POL: I've seen seven other species develop the radiation cure. But never in time. 
+ARCHER: Did we make First Contact with any of them? 
+T'POL: Of course not. Expending resources to attempt an impossible task is not a sign of intelligence. The Captain and Science Officer have decisions to make. We need to return to our original hosts. 
+[Situation room] 
+PHLOX: For the radiation to destroy the virus without killing the patient, it must be precisely focused. The emitters in the Decon Chamber aren't suitable, but the bio-scanner in Sickbay is. 
+T'POL: To move them from Decon to Sickbay, we'll need to expand the quarantined area. 
+ARCHER: That won't be a problem. We're going to make this work. 
+[Outside the quarantine area] 
+(Archer and Phlox are in EV suits.) 
+PHLOX: Ensign Sato's condition is deteriorating. We need to hurry. 
+(They go through two doors, observed by Reed and Travis on a monitor.) 
+ARCHER [on monitor]: Engaging quarantine. 
+REED: Reed to Bridge. 
+[Bridge] 
+REED [OC]: I confirm a positive seal. 
+T'POL: Environmental systems are isolated. 
+ARCHER [on monitor]: Entering the quarantine zone. 
+[Decon chamber] 
+PHLOX: She's going into oligemic shock. Captain, she's dying. 
+(Archer carries Hoshi to Sickbay while Phlox helps Trip) 
+[Sickbay] 
+PHLOX: Get her on the bioscan bed. 
+ARCHER: She's stopped breathing. 
+[Outside the quarantine area] 
+REED: Someone always dies. 
+[Sickbay] 
+ARCHER: Hoshi. Phlox! 
+(Phlox is having trouble opening a case, and is about to take his glove off.) 
+ARCHER: What are you doing?! 
+PHLOX: This equipment's not designed for EV gloves. 
+ARCHER: I'll be your hands. 
+PHLOX: No, Captain, no! 
+ARCHER: Right now, Enterprise needs a doctor more than it needs a Captain. 
+(He takes off the gloves, and his helmet.) 
+PHLOX: Attach the leads twenty centimetres apart. 
+(Archer wires up Hoshi.) 
+[Outside the quarantine area] 
+REED: I don't understand. 
+TRAVIS: In eight hundred years, no one's ever done that before? 
+REED: No. Not once they know it's hopeless. 
+PHLOX: You need to inject 
+[Sickbay] 
+PHLOX: Forty units of trinephedrine into her heart. No, no, no, no, no, no, no, no. That can't go deep enough. 
+(Archer gets a long-needled hypodermic.) 
+PHLOX: Old-fashioned, but effective. Angle it slightly more to the right. Now, in one quick motion, insert it three centimetres. 
+(Archer does so.) 
+PHLOX: Press the activator. Clear. 
+(Phlox jolts her with electricity, but there's no response.) 
+ARCHER: Come on, Hoshi. 
+PHLOX: Three hundred millijoules. Captain. 
+ARCHER: Again! 
+PHLOX: Three hundred and forty. She's gone. Captain, help me with Commander Tucker. 
+[Outside the quarantine area] 
+(They watch Archer take Hoshi off the biobed.) 
+TRAVIS: How many have to die before you'll admit humans are different? We need to stop this. 
+REED: I will not depart from protocol. The incident isn't over. When the first death occurs on the ship, there's a sixty eight percent chance the rest of the crew will become infected. 
+TRAVIS: What more will that teach us about them? 
+REED: All this would have happened whether we were here or not. We are not responsible. 
+TRAVIS: Maybe we should be. 
+[Sickbay] 
+PHLOX: We need to move him into the scanner. 
+(They do so, then take him out again shortly afterwards.) 
+PHLOX: It didn't work. I'm sorry, Captain. 
+ARCHER: Not your fault, Doctor. 
+PHLOX: There's nothing more I can do for Commander Tucker, but you've still got a few hours. There has to be something else I can try. 
+ARCHER: You should continue your work on the Bridge. Less chance of something going wrong with your suit. 
+PHLOX: I won't give up. 
+ARCHER: You know where to find me. 
+(Phlox leaves.) 
+ARCHER: Archer to T'Pol. 
+[Bridge] 
+T'POL: T'Pol here, Captain. 
+(She has her back to the monitor which we can see Archer on.) 
+ARCHER [on monitor]: I take it you've been watching. 
+T'POL: I have. 
+ARCHER [on monitor]: Then you know you're in command? 
+T'POL: Yes, Captain. 
+ARCHER [on monitor]: I would like to think you'll stay in command. Don't let Admiral Gardner sneak in someone over your head. 
+T'POL: I'll do my best. 
+ARCHER [on monitor]: I know you will. I need to look after Trip now. 
+[Sickbay] 
+ARCHER: We'll talk again. We'll talk again. 
+[Bridge] 
+T'POL: Captain, if Commander Tucker becomes conscious. 
+ARCHER [on monitor]: I'll let you know right away. Archer out. 
+[Sickbay] 
+(Archer goes over to Tucker, who sounds as if he is having trouble breathing. He puts his hand on his friend's chest, then looks at the monitor. Tucker dies.) 
+TUCKER: I have such respect for you, Captain Archer. 
+(The readout still says he's dead.) 
+ARCHER: Trip? 
+TUCKER: Not exactly. I'm an Organian. a nonphysical life-form. 
+(He sits up.) 
+TUCKER: Trip is my host. 
+ARCHER: What did you do to him? 
+TUCKER: Nothing. We never interfere in the natural development of other species. We only observe. 
+ARCHER: Did you know about the silicon virus? 
+TUCKER: That's why we come here. To see how different species react when they encounter it. 
+ARCHER: You knew about the virus that killed two members of my crew, and you didn't warn us? 
+TUCKER: I wanted to, but it's not up to me. 
+(Hoshi removes the sheet from over her head and sitting up.) 
+HOSHI: You're breaking every rule we have. 
+TUCKER: Because they don't apply to this species. 
+HOSHI: That is not our decision to make. 
+TUCKER: If we don't challenge the rules 
+ARCHER: I don't care about your rules. Tell me what happens to Trip and Hoshi when you're finished with their bodies. 
+HOSHI: We have to leave them as they are. 
+ARCHER: Dead? I understand why you won't get involved with a species' natural development. I've faced that decision myself. It isn't an easy one to make. 
+HOSHI: Then we agree. 
+ARCHER: No, we don't. Our encounter with the virus was an accident. one that you could have prevented. 
+HOSHI: Then how would we ever learn about you? 
+ARCHER: Ask us. Talk to us. Just like you're doing now. 
+HOSHI: Talking is a limited form of communication for us. We're much more advanced than humans. 
+ARCHER: Not from where I'm standing. Maybe you've evolved into beings with abilities I can't comprehend, but you've paid a hell of a price. You've lost compassion and empathy. Things that give life meaning. And if that's what it takes to be advanced, I don't want any part of it. 
+HOSHI: We're leaving now, Captain. You won't remember a thing about our presence. And in three hours, you'll die as well. 
+TUCKER: No. We have the power to save them all. 
+HOSHI: Are you defying me? 
+TUCKER: I'm defying the entire protocol. What Archer has done today, his act of compassion, you've never witnessed that before. 
+HOSHI: In time, we'll study other humans. 
+ARCHER: There's another way. Experience compassion for yourself. You want to know what it means to be human, you need to do more than observe. 
+[Bridge] 
+ARCHER [OC]: Archer to the Bridge. 
+T'POL: T'Pol. Go ahead. 
+ARCHER [OC]: You wanted to know when Trip was awake. 
+T'POL: Yes. 
+ARCHER: Well, you'd better get down here because he's talking up a storm, and so is Hoshi. 
+PHLOX: Captain, Hoshi's 
+ARCHER [OC]: You too, Phlox. Maybe one of you can tell me what the hell just happened. 
+[Sickbay] 
+PHLOX: You're all completely free of the virus. It has to have been a delayed reaction to Commander Tucker's radiation treatment, but how it spilled over to you and Hoshi, I have no explanation. 
+T'POL: Obviously, the pathogen's behaviour is more unpredictable than we assumed. 
+ARCHER: I'm sure someone at Starfleet Medical will figure it out. But for now, we're going to leave a warning beacon in orbit here and make sure what happened to us never happens to anyone again. 
+[Turbolift] 
+REED: You realise the consequences of what we've done. We will never be able to observe another species encounter this virus. 
+TRAVIS: Good. I'm looking forward to making my first report. After ten thousand years, the rules need to change. 
+[Corridor] 
+REED: These humans have not been a good influence on you. I would not encourage further encounters. 
+TRAVIS: I don't think we can avoid them. I'm going to recommend that we start preparations for an official First Contact mission. 
+REED: Indeed. At the rate they're progressing, that'd barely give us five thousand years to prepare. 
+TRAVIS: Then we'd better get started. 

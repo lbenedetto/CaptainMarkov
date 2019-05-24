@@ -1,0 +1,460 @@
+Riddles
+Ambassador's log, stardate 53263.2. Though helpful during my negotiations on the Kesat homeworld, Commander Tuvok certainly hasn't been the most sociable of travel companions. 
+[Delta Flyer] 
+(Tuvok is in the pilot's seat, Neelix is behind him, tapping his fingers.)
+TUVOK: Mister Neelix. 
+NEELIX: Sorry. How about a game of Species, Starship or Anomaly? 
+TUVOK: Surely you could find something more productive to occupy your time. 
+NEELIX: Come on, Tuvok, it'll be fun. You think of something, species, anomaly, or starship, and I have fifteen questions to guess what it is. Come on, come on, come on, come on.
+TUVOK: I would prefer some peace and quiet. 
+NEELIX: How about a riddle? 
+TUVOK: Mister Neelix. 
+NEELIX: Come on, it'll be fun. 
+TUVOK: I have no desire for fun. 
+NEELIX: Okay, forget fun. A good riddle can stimulate the mind. Now, no self-respecting Vulcan could say no to that. 
+TUVOK: Very well. One riddle. 
+NEELIX: Okay, here goes. A lone Ensign finds himself stranded on a class L planetoid with no rations. His only possession, a calendar. When Starfleet finds him twelve months later, he's in perfect health. Why didn't he starve to death? 
+TUVOK: It is a theoretical possibility that such planetoids contain hot water springs, which could sustain the man for several weeks. 
+NEELIX: But not for a whole year. 
+TUVOK: I concur. Logic dictates that the Ensign in question would perish. 
+NEELIX: Ah ha, ha ha! I stumped you. As a matter of fact, he not only survived, but his belly was full. Why? Because he feasted on dates from the calendar. 
+TUVOK: Your answer is merely wordplay, it has no basis in reality. Now, if you'll excuse me. 
+NEELIX: Where are you going? 
+TUVOK: To find some peace and quiet. 
+NEELIX: Have fun. 
+[Delta Flyer - aft section] 
+(Tuvok picks up a PADD to read, then notices one of the screen is active.)
+TUVOK: Tuvok to Neelix. 
+[Delta Flyer - cockpit] 
+NEELIX: Miss me already, Commander? 
+TUVOK [OC]: Did you activate the aft tactical station? 
+NEELIX: No. 
+[Delta Flyer - aft section] 
+NEELIX [OC]: Why? 
+TUVOK: There appears to be a download in progress. 
+[Delta Flyer - cockpit] 
+NEELIX: That's odd. 
+TUVOK [OC]: I'm detecting 
+[Delta Flyer - aft section] 
+TUVOK: Anomalous readings. 
+NEELIX [OC]: What sort of readings? 
+TUVOK: I'm not certain. But I believe it's a cloaking frequency that 
+(A bulkhead appears to wibble, and an energy beam hits Tuvok.)
+TUVOK: Argh! 
+[Delta Flyer - cockpit] 
+NEELIX: Commander? 
+[Delta Flyer - aft section] 
+(Tuvok is lying on the deck, twitching. His tricorder is a smoking wreck.)
+NEELIX: Tuvok! Delta Flyer to Voyager. Mayday! Tuvok, what happened? 
+[Sickbay] 
+(Tuvok is still twitching, and several large veins are standing out across his face.)
+JANEWAY: Report. 
+EMH: He's in neuraleptic shock. I'll need another twenty milligrams of synaptizine. 
+NEELIX: I'll get it. 
+EMH: It's not working. I'll need to try direct cortical stimulation. Initiate a neurostatic pulse on my mark. 
+JANEWAY: Right. 
+EMH: Now. Again. 
+(Tuvok stops twitching.)
+EMH: His vital signs have stabilised, for the moment anyway, But he suffered severe neurological trauma. 
+JANEWAY: Do you know what caused it? 
+EMH: Some kind of alien weapon. 
+NEELIX: By the time I reached Tuvok, whoever had attacked him was gone. 
+JANEWAY: What about the surrounding space? Any indication of cloaked vessels? 
+NEELIX: Between trying to tend to the Commander and piloting the Flyer, I had my hands full. I, I didn't think to scan for cloaked ships. I'm sorry. 
+JANEWAY: You saved Tuvok's life, Neelix. You have nothing to be sorry about. How do you plan to treat him? 
+EMH: I won't know until I've run a series of neurological scans, but it would certainly help to know something about the weapon. 
+JANEWAY: Neelix, these Kesat you were negotiating with. Any reason to believe they might know something about this? 
+NEELIX: It couldn't hurt to ask. 
+JANEWAY: Time to reopen diplomatic channels. 
+[Briefing room] 
+NAROQ: Deputy investigator Naroq, Kesat security. Captain Janeway, Commander Chakotay, Ambassador Neelix. 
+JANEWAY: You've done your homework. 
+NAROQ: I familiarised myself with the facts on the way here. 
+CHAKOTAY: We're hoping you can help us shed some light on what happened to our crewman. 
+NAROQ: I believe I can. Based on the information you provided, it is my opinion that he was a victim of the Ba'Neth. 
+JANEWAY: I've never heard of them. 
+NAROQ: I'm not surprised. In my language, their name means shadow people. They're a species obsessed with concealing their identity. Extremely paranoid and xenophobic. 
+JANEWAY: Well, that explains their cloaking technology. 
+NAROQ: It's my belief they've been responsible for several unexplained attacks similar to this one. 
+NEELIX: Why wasn't I warned about them during my negotiations with your government? 
+NAROQ: Because my government's official position is that the Ba'Neth do not exist. Most people think they're a myth. 
+CHAKOTAY: There's nothing mythical about what happened to Mister Tuvok. Why is your government so sceptical? 
+NAROQ: Because there've been so few encounters with the Ba'Neth and, well, no one's ever actually seen one. 
+JANEWAY: How many encounters are we talking about, exactly? 
+NAROQ: Before this incident? Twelve. 
+CHAKOTAY: I guess we're lucky thirteen. 
+NAROQ: You're lucky I gave my supervisor two bottles of Kesatian ale to get this assignment. Any other inspector would have simply attributed Commander Tuvok's injuries to unexplained phenomenon. 
+JANEWAY: No offence, Mister Naroq, but what makes you so sure the Ba'Neth aren't just a myth? 
+NAROQ: This incident fits the pattern, Captain. All of the alleged encounters have occurred aboard vessels foreign to this sector. I believe they've been attempts by the Ba'Neth to assess the technology of new arrivals. 
+NEELIX: They were trying to download tactical data. 
+NAROQ: And Commander Tuvok suffered severe neural damage. That's also consistent with previous attacks. The Ba'Neth were making sure he would not tell anyone what he saw. 
+JANEWAY: Maybe that's why Tuvok's tricorder was destroyed. They didn't want us to see the cloaking frequency he'd found. 
+NAROQ: He found a cloaking frequency? 
+JANEWAY: Apparently. 
+NAROQ: Captain, I don't blame you for finding my theories a bit eccentric. I'm used to it. It's why I'm still a deputy investigator, but I've brought equipment to help your investigation. Let me examine Commander Tuvok and run scans on the vessel where he was attacked. I may finally be able to prove my theories. 
+JANEWAY: With all due respect, we're more interested in saving Tuvok's life. 
+NAROQ: If we work together, maybe we can do both. 
+[Sickbay] 
+EMH: His cognitive, memory and logic centres have all been severely damaged. 
+NAROQ: But he still has brain activity, which is more than I can say for any of the previous victims. 
+EMH: Vulcan neural tissue is extremely resilient. I have no doubt that a brain from a lesser species would not have survived. 
+NAROQ: If you could only tell us what you saw, Mister Tuvok. 
+EMH: I don't think we'll be hearing from him any time soon. 
+JANEWAY: Keep working. I'll let you know if we find anything that might help. I'll take you to see where the attack occurred. 
+(Janeway and Naroq leave.)
+EMH: Something I can do for you, Mister Neelix? 
+NEELIX: I want to help. 
+EMH: Unless you have a degree in Vulcan neurobiology that I'm not aware of, there's nothing you can do. 
+NEELIX: There must be something. 
+EMH: My advice is to return to your quarters and get some rest. 
+NEELIX: There's no way that I'm going to be able to sleep knowing that Tuvok is lying here like this. 
+EMH: There have been rare cases in which comatose patients responded to external stimuli. Aromas, touch, voices. 
+NEELIX: So, you're saying that if I stay here and, and try to talk to Tuvok, I might be able to provoke some sort of response? 
+EMH: If anyone can provoke Tuvok, Mister Neelix, it's you. 
+(Later, Neelix is wheeling a trolley full of Tuvok's possessions into Sickbay.)
+NEELIX: Good morning, Tuvok. I brought you a few more items from your quarters to help liven up Sickbay. Your kal-toh game, in case you decide you're ready for a match. Oh, and I also thought that you might enjoy a recitation of that classic proto-Vulcan drama, Clash on the Fire Plains. I'll be performing all twenty three parts myself. I also brought you some flowers from the Airponics bay. Oh, that's fragrant, isn't it? Perhaps you'd enjoy some Vulcan incense. How about some music? Computer, access Vulcan audio file, selection fifty six alpha. 
+EMH: Mister Neelix. What is that dreadful noise? 
+NEELIX: The Chants of the Monks of T'Panit. Personally, I think it's dreadful, too, but it's one of Tuvok's favourites. 
+EMH: I appreciate your efforts, Mister Neelix, but I'm trying to analyse his latest neurological scans and this music is very distracting. 
+NEELIX: You said I was supposed to stimulate his senses. 
+EMH: I said stimulate them, Mister Neelix, not annihilate them. 
+NEELIX: Computer, pause music. 
+EMH: Thank you. 
+(The EMH returns to his office. Tuvok has sat up on his biobed.)
+NEELIX: Doctor? Tuvok. You've had an accident. You're in Sickbay. 
+EMH: Relax, Commander, I only want to scan you. 
+NEELIX: Don't worry, Tuvok, he's only trying to help you. It's only a tricorder. See? It won't hurt you. 
+(Neelix demonstrates by scanning himself.) 
+NEELIX: Now try it. 
+EMH: Well done, Mister Neelix. 
+[Delta Flyer - aft section] 
+JANEWAY: Commander Chakotay says you've found something. 
+NAROQ: That, Captain, is an understatement. Listen. 
+(Naroq's device beeps faster as he approaches the bulkhead that wibbled.)
+JANEWAY: What is it? 
+NAROQ: The sound of history being made. 
+JANEWAY: Less poetry, Mister Naroq, more facts. 
+NAROQ: The sound you're hearing indicates the presence of veridium isotopes. 
+SEVEN: Residual particles from the Ba'Neth's cloaking field. 
+JANEWAY: You've detected these isotopes before? 
+NAROQ: Yes, but only after they've decayed. You see, veridium has a very brief half-life, less than seventy hours. The previous sites I've studied have been months, sometimes years old. 
+JANEWAY: But these isotopes are still active. 
+SEVEN: We can use Mister Naroq's photolytic converter to illuminate them. 
+NAROQ: So you see, Captain, why this is an historic moment? We may finally learn what the Ba'Neth look like. 
+JANEWAY: Well, let's see what we've got. 
+(The converter flashes, and a shape starts to form.)
+NAROQ: You don't know how long I've waited to meet you. 
+JANEWAY: So the Ba'Neth aren't a myth after all. 
+NAROQ: This is the clearest image ever captured. 
+SEVEN: Perhaps. I believe I can adjust our internal sensors to improve it. 
+NAROQ: What are you doing? You might disrupt the image entirely. Tentacles. I always suspected they were multipeds! 
+EMH [OC]: Doctor to the Captain. Please report to Sickbay. 
+JANEWAY: I'm on my way. Seven, if we can integrate Mister Naroq's photolytic technology into the deflector array, we might be able to decloak a Ba'Neth ship. 
+NAROQ: The technology only works at close range. We have to find the ship before we can expose it. We still need that cloaking frequency. 
+JANEWAY: One step at a time. 
+[Doctor's office] 
+EMH: The Vulcan brain. A puzzle wrapped inside an enigma housed inside a cranium. Tuvok's neural pathways have begun to bypass the damaged tissue. They're forming new synaptic connections. In effect, his brain is rewiring itself. Whether this is due to my neurostatic therapy, or Neelix's rehabilitation regimen, or some combination of the two I can't be certain. 
+JANEWAY: Is there any chance he'll make a full recovery? 
+EMH: It's much too soon to say, but he's alert and he's already regained his basic motor skills. 
+JANEWAY: But still no speech. 
+NEELIX: It's only a matter of time, Captain. Look how far he's come already. 
+JANEWAY: I hope you're right, Neelix, but if he could talk he might be able to tell us something about that cloaking frequency. 
+(Tuvok is enjoying smelling the flowers Neelix brought in.)
+EMH: We're not sure how much he recalls. For that matter, we're not certain he recognises any of us, or even knows who he is. 
+NEELIX: I'm going to take him on a tour of the ship. The Doctor thinks that familiar sights and sounds might get the old synaptic juices flowing. Don't worry, Captain. Tuvok will be back to his old self before you can say live long and prosper. 
+[Bridge] 
+NEELIX: I've brought a visitor. 
+CHAKOTAY: Good to see you up and around. 
+NEELIX: You remember Commander Chakotay. 
+CHAKOTAY: We were just running a shield diagnostic. Would you like to take a look? 
+NEELIX: This is tactical station, where you work. 
+(Kim is currently standing there.)
+KIM: Just keeping it warm for you. Hope you don't mind. That's the shield array. This controls the tractor emitters. 
+NEELIX: I think he remembers it. 
+KIM: Whoa, whoa, whoa! He just activated the photon torpedo banks. 
+NEELIX: That's all right, Tuvok. Everybody makes mistakes. We'll be back later. 
+[Tuvok's quarters] 
+NEELIX: Last, but not least, your quarters. You spend a lot of time here. Reading, meditating. Mister Paris once referred to it as the Vulcan vault. Ah. Look around, explore. 
+[Astrometrics lab] 
+SEVEN: Astrometrics to the Bridge. Mister Naroq and I have completed our deflector modifications. We're ready to test the array. 
+[Bridge] 
+JANEWAY: Stand by. Reduce speed to one quarter impulse. Harry, full power to the deflector array. 
+KIM: Aye. 
+JANEWAY: All right, Seven, do it. 
+[Astrometrics lab] 
+SEVEN: Activating the deflector. 
+[Bridge] 
+(The pulse lights up a spaceship directly ahead of them.)
+PARIS: I'd call that a pretty successful test. 
+CHAKOTAY: They've been watching us all along. 
+JANEWAY: Hail them. 
+KIM: Which one? There's practically a fleet out there. 
+JANEWAY: This is Captain Kathryn Janeway of the Federation starship Voyager. We intend you no harm. 
+KIM: They're charging weapons. 
+JANEWAY: Shields. 
+(Whumph!)
+PARIS: They're scrambling, Captain, in all directions. 
+JANEWAY: Follow the lead vessel. 
+[Tuvok's quarters] 
+(Tuvok is hiding underneath the table. He is terrified.)
+NEELIX: It's okay, Tuvok. I'm here with you. Everything is going to be all right. You're safe with me. 
+[Bridge] 
+KIM: Still no response to our hails. 
+PARIS: I hate to ruin a good chase, but the Ba'Neth ship is moving out of the deflector's range. 
+JANEWAY: Seven, can you get 
+[Astrometrics lab] 
+JANEWAY: Their cloaking frequency? 
+SEVEN: They're blocking our scans. 
+[Bridge] 
+CHAKOTAY: We've lost them. 
+[Tuvok's quarters] 
+NEELIX: They're gone now, Tuvok. I told you you'd be safe. 
+TUVOK: Yes, you did. 
+NEELIX: Tuvok? What? Tell me, what did I do? 
+TUVOK: You told me I wouldn't be hurt. 
+NEELIX: Do you know who I am? 
+TUVOK: You're Neelix. I'm safe with you. 
+[Ready room] 
+NAROQ: We need Tuvok to tell us anything he can remember about the attack. 
+NEELIX: Captain, he may be talking again, but that doesn't mean he's ready to be interrogated. He's beginning to experience emotions, volatile ones. During this last encounter with the Ba'Neth, he was terrified. 
+JANEWAY: We'll tread lightly, I promise. 
+NEELIX: All right, Tuvok, you can come in now. 
+JANEWAY: It's nice to see you. 
+TUVOK: Captain Janeway. 
+JANEWAY: That's right. This is Mister Naroq. Please sit down. Two days ago, you were aboard a shuttle with Mister Neelix. You detected a cloaked intruder. 
+NAROQ: He attacked you. 
+TUVOK: Yes. That's why I'm having difficulty now. 
+JANEWAY: Yes, and in order to help you, we have to find the people who hurt you. 
+NAROQ: Before the intruder injured you, you managed to scan him with this. You recorded his cloaking frequency, but the tricorder was damaged and the information was lost. Can you tell us anything about that frequency? 
+JANEWAY: Try to remember. 
+TUVOK: I was scanning. 
+JANEWAY: That's right. What did you see? 
+TUVOK: I, I don't remember. 
+NAROQ: Try! 
+JANEWAY: All right, that's enough. We're done for now. 
+NAROQ: But, Captain. 
+JANEWAY: Join Seven of Nine in Astrometrics. See if she's made any progress with the Ba'Neth. 
+(Naroq nods and leaves.)
+NEELIX: Well, er, we should be going, too. A few of the crew have offered to help with Tuvok's rehabilitation. 
+JANEWAY: I thought we might have lunch later, just the two of us. 
+TUVOK: I prefer to stay with Neelix. 
+NEELIX: Oh, Tuvok. I'm, I'm sure that you would
+JANEWAY: It's all right. You two go ahead. I have a lot of work to do anyway. 
+[Mess hall] 
+(It is Kim's turn to teach kal-toh to Tuvok.)
+KIM: The object of the game is to turn this jumble of rods into a perfect sphere. We take turns positioning our pieces. Whoever gets the shape to appear first, wins. 
+TUVOK: I like the way it looks now. 
+KIM: What do you say we give it a try? 
+NEELIX: This has always been one of your favourite games, Tuvok. It helps keep your logic sharp. 
+KIM: I'll go first. Now you. 
+NEELIX: Go ahead. 
+(Tuvok places a rod, and the shape crumbles.)
+TUVOK: I don't like this game. 
+KIM: When you first taught me how to play, I wasn't very good either. But you kept encouraging me, and pretty soon I scored my first kal-toh. It just takes practice, that's all. 
+NEELIX: Try again. You can do it. 
+TUVOK: I don't like this game! 
+[Sickbay] 
+TUVOK: The Doctor helped me access my personnel file. 
+NEELIX: Nice picture. You should see mine. It's awful. 
+TUVOK: I was an instructor at Starfleet Academy. I've received seventeen commendations for valour. I'm a husband, a father. 
+NEELIX: You're an extraordinary fellow, Tuvok. 
+TUVOK: I was an extraordinary fellow. 
+NEELIX: You're still the same person. 
+TUVOK: Then why do I no longer work on the bridge? 
+NEELIX: We talked about that. You had an accident. 
+TUVOK: And now I'm not smart enough. 
+NEELIX: Tuvok, you've just got to be patient. Look how much progress you've made already. 
+TUVOK: He could dismantle a photonic warhead in less than thirty seconds. I can't even play kal-toh. 
+NEELIX: It's going to take time, but you'll relearn all those things. 
+TUVOK: How do you know that? 
+NEELIX: Well, because the Doctor 
+TUVOK: The Doctor? The Doctor doesn't know how to make me better, does he? 
+NEELIX: Well, not yet, but 
+TUVOK: I'll never be him again. 
+NEELIX: You don't know that. The Vulcan mind. 
+TUVOK: I'm not a Vulcan. Not any more! 
+(Tuvok starts throwing things around.)
+EMH: What's going on? 
+NEELIX: It's okay Doctor, I can handle this. Please, Tuvok, try to relax. Everything's going to be fine. 
+TUVOK: No! Nothing's fine! Get away from me! 
+EMH: You'd better go. Now, Mister Neelix. I'll take it from here. 
+[Mess hall] 
+(The only person here is Seven, looking out of a window.)
+NEELIX: Oh, sorry. I didn't mean to interrupt. 
+SEVEN: You didn't. 
+NEELIX: Yes, I did. You were pondering. Something difficult, by the looks of it. Anything I can help you with? 
+SEVEN: Unlikely. 
+NEELIX: Try me. 
+SEVEN: How do you find something that's invisible? 
+NEELIX: The Ba'Neth. 
+SEVEN: We have the ability to illuminate them. But to do so we must first locate them, which we cannot accomplish without their cloaking frequency. 
+NEELIX: That's quite a riddle. 
+SEVEN: One that we might be able to solve if Commander Tuvok could tell us what he saw. How is his rehabilitation progressing? 
+NEELIX: Oh, I thought it was going great, but now? Let's just say that I've got a riddle of my own. 
+SEVEN: Try me. 
+NEELIX: All right. When is a Vulcan no longer a Vulcan? 
+SEVEN: When his genetic code is sufficiently altered. 
+NEELIX: No, I was speaking metaphorically. 
+SEVEN: In that case, a person is no longer Vulcan when he has lost his logic. 
+NEELIX: Right. And how does he get it back? 
+SEVEN: He must be taught. 
+NEELIX: Exactly. But what if he's brain-damaged and emotionally unstable? How does he learn? 
+SEVEN: It may be impossible for him to learn what you're trying to teach. 
+NEELIX: Well, thanks for the pep talk. 
+SEVEN: I was merely suggesting that you adapt to the circumstances. 
+NEELIX: What circumstances? Are you saying that the Tuvok I know is gone? That I should stop trying to help him? 
+SEVEN: When I was separated from the Collective I, too, was damaged. I was no longer connected to the hive mind. I lost many abilities that I had acquired as a drone, but I adapted. 
+NEELIX: Because Captain Janeway didn't give up on you. She kept trying to help you. 
+SEVEN: But not by restoring me to what I'd been. By helping me discover what I could become. 
+[Sickbay] 
+(Tuvok is sculpting in wax.)
+NEELIX: What are you making? 
+TUVOK: A flower. It's for you. 
+NEELIX: Thank you. I'm not sure I deserve a gift. 
+TUVOK: I shouldn't have shouted at you. I was angry. I'm sorry. 
+NEELIX: You were frustrated. I don't blame you. I'm the one who should be apologising. 
+TUVOK: Why? 
+NEELIX: Because I was pushing you too hard. I was trying to mould you into something you weren't. 
+TUVOK: You were disappointed in me because I can't do anything as well as I did before. 
+NEELIX: Maybe there are things that you can do better. 
+TUVOK: What can I do better? 
+NEELIX: Well, this, for example. You would've considered it an illogical use of your time. 
+TUVOK: It's not good. 
+NEELIX: No, it's wonderful. It's creative. It's a symbol of friendship. Before your accident, you never would have considered that my feelings might have been hurt. You would have certainly never have made me a gift. 
+TUVOK: We weren't friends? 
+NEELIX: Ah, we were colleagues, and I certainly felt affection for you. 
+TUVOK: But I didn't return those feelings. 
+NEELIX: You tolerated me. 
+TUVOK: I don't understand. 
+NEELIX: You said things like 'Mister Neelix, please contain your exuberance.' And, 'Mister Neelix I have no desire for fun.' And you never smiled. You've got a much better sense of humour now. 
+TUVOK: I like to smile. 
+NEELIX: Me, too. 
+TUVOK: I don't want to play kal-toh any more. Or meditate, or work on logic problems. 
+NEELIX: You don't have to. 
+TUVOK: What can we do instead? 
+NEELIX: Whatever you want. 
+TUVOK: Teach me things that you like to do. 
+[Mess hall] 
+TUVOK: Here we are. A triple-chocolate wikki fruit sundae with warm fetran sauce. 
+PARIS: Fetran sauce on a sundae? 
+NEELIX: Wait till you taste it. 
+KIM: You really made this? 
+TUVOK: As Neelix says, dig in. 
+KIM: Mmm, this is great. 
+PARIS: This is fantastic. 
+NEELIX: What did I tell you? Tuvok has a flair for food. All morning, he's been creating new recipes using combinations of ingredients that I never would have imagined. For example. A terra nut souffl�, Jibalian fudge cake with peppermint coulis, sweet leola root tart. Mmm. 
+PARIS: Only desserts? How come? 
+TUVOK: They taste good. 
+KIM: Hey, you better watch out, Neelix. Tuvok may put you out of a job. 
+(Janeway enters.)
+PARIS: From your mouth to the Captain's ears. 
+KIM: She must have heard me. 
+JANEWAY: What's all this? 
+TUVOK: We're having fun. 
+PARIS: It turns out Tuvok is quite the pastry chef. 
+TUVOK: Would you like some terra nut souffl�, Captain? 
+JANEWAY:I'd love some. Thank you. Oh, that is delicious. 
+TUVOK: I am pleased that you like it. 
+JANEWAY: What are you making now? 
+TUVOK: Pistachio cake with parra-cream sauce. 
+JANEWAY: Oh, parra-cream's my favourite. 
+TUVOK: Then you'll have the first piece. 
+JANEWAY: Tuvok, have you remembered anything more about what happened on the Flyer? 
+TUVOK: I detected a cloaking frequency. 
+JANEWAY: Yes, that's right. Can you describe it? 
+TUVOK: I don't know, I 
+JANEWAY: Did it have a symmetric modulation? Was the amplitude constant? 
+TUVOK: I don't understand. 
+(Tuvok has an icing bag in his hand.)
+JANEWAY: It's all right. I don't mean to push you, Tuvok but maybe if we could 
+NEELIX: It's difficult for him, Captain. Maybe you can try again tomorrow. 
+TUVOK: This. This is what I saw. 
+(He has iced the modulation pattern onto a cake.)
+NEELIX: What is it? 
+JANEWAY: A cloaking frequency. 
+Captain's log, supplemental. The computer has analysed Tuvok's diagram and identified the Ba'Neth cloaking frequency. We've narrowed the search to a handful of systems. 
+[Bridge] 
+KIM: Here we go, Captain. A nine million terrawatt cloaking field in grid two one six. 
+CHAKOTAY: Nine million terrawatts? Whatever they're hiding, it's huge. 
+JANEWAY: Alter course, Mister Paris. 
+PARIS: Yes, ma'am. 
+JANEWAY: Bridge to Astrometrics. Status. 
+SEVEN [OC]: The deflector array is ready, Captain. 
+JANEWAY: Raise shields. 
+KIM: Aye, Captain. 
+PARIS: We're within range. 
+JANEWAY: All right, Seven. Light them up. 
+(A spacestation appears.)
+KIM: It's an armed outpost. Approximately three thousand life signs, twenty two ships. 
+JANEWAY: Hail them. 
+KIM: No response, Captain. 
+CHAKOTAY: They're charging weapons. 
+JANEWAY: Open a channel, all subspace bands. 
+CHAKOTAY: They're firing. 
+JANEWAY: Cease fire immediately, or I'll transmit the coordinates of this outpost to the Kesat homeworld. 
+PARIS: That got their attention. 
+JANEWAY: Several days ago, a member of your species attacked one of my crewmen. He was badly injured. In order to treat him, I need to know more about the weapon that was used. 
+KIM: They're responding. Audio only. 
+(The Ba'Neth sound as if they are gargling.)
+BA'NETH [OC]: We do not share technology. 
+JANEWAY: But you take it from others. The attacker was downloading our tactical database when the incident occurred. 
+BA'NETH [OC]: We must assess potential threats. 
+NAROQ: Paranoid, just as I predicted. 
+JANEWAY: In exchange for information about your weapon, we'll provide you with tactical data on several species we've recently encountered. You can assess their potential threats all you want. 
+BA'NETH [OC]: The Kesat investigator aboard your vessel cannot be trusted. 
+NAROQ: You know about me? 
+BA'NETH [OC]: You have been attempting to expose us for years. You are a threat. You must be stopped. 
+CHAKOTAY: They're charging weapons again. 
+NAROQ: Wait. It was my photolytic converter that allowed Voyager to decloak you. If you give Captain Janeway what she wants, I'll give you the converter. You can use it to adapt your technology so ours can no longer expose you. 
+JANEWAY: I doubt you'll get as enticing an offer from the Kesat homeworld. It would be a shame if you forced me to hail them. 
+BA'NETH [OC]: We have an agreement. 
+[Tuvok's quarters] 
+TUVOK: Enter. 
+NEELIX: What are you listening to? 
+TUVOK: A selection from Tom's jazz database. It really swings. Computer, pause the music. I've been reviewing the holodeck files. I wish to visit the Risa water recreation park. Will you accompany me? 
+NEELIX: Maybe after your Doctor's appointment. 
+TUVOK: Appointment? 
+NEELIX: The Doctor's analysed the Ba'Neth weapon, and he's devised a procedure to treat you. You should be proud of yourself. If you hadn't drawn that picture on the cake, we may never have found a treatment. 
+TUVOK: I wish I never drew that picture. 
+NEELIX: Why? 
+TUVOK: Because I don't wish to undergo the procedure. 
+NEELIX: You're having pre-operative jitters, that's all. Don't worry, everyone gets them. Just think about it. In a few hours, you'll be yourself again. 
+TUVOK: I am myself. 
+NEELIX: But you'll be able to do all the things that you used to do. Work on the bridge, advise the Captain. 
+TUVOK: I want to be able to have fun. With you. I won't be able to, will I? 
+NEELIX: Well, you won't call it fun. You'll call it deriving satisfaction. But it's basically the same thing. You'll still experience emotions. 
+TUVOK: But I won't express them. 
+NEELIX: Probably not. 
+TUVOK: Then how will you know how much I enjoy being with you? 
+NEELIX: You've just told me. 
+TUVOK: We'll still be friends? 
+NEELIX: Of course. 
+TUVOK: Even if I merely tolerate you? 
+NEELIX: I'd be lying if I told you that things between us will stay the same. 
+TUVOK: Well, why? Why do you want me to go back to the way I was? 
+NEELIX: Because this crew needs its tactical officer on the bridge. And I wouldn't be a very good friend if I ignored that just so that you'd be nicer to me. 
+[Sickbay] 
+EMH: Mister Tuvok. I was beginning to think you weren't coming. 
+TUVOK: I was experiencing pre-operative jitters. Neelix helped me overcome them. 
+EMH: Glad to hear it. Now please, lie down. 
+TUVOK: I'll see you after the procedure? 
+NEELIX: Of course. 
+(Tuvok goes into the surgical bay and lies down.)
+NEELIX: I'm going to miss him. 
+EMH: Me, too. 
+[Mess hall] 
+(Tuvok enters, in uniform and working on a PADD.)
+NEELIX: Hello, Commander. 
+TUVOK: Mister Neelix. 
+NEELIX: It's good to see you up and about. Are you feeling better? 
+TUVOK: The Doctor has approved my return to duty. 
+NEELIX: That's wonderful news. How about a celebratory glass of champagne? 
+TUVOK: Tea will suffice. 
+NEELIX: Of course. I'm preparing a special dinner tonight in honour of your recovery. I don't suppose that you'd be interested in preparing one of your famous desserts? 
+TUVOK: I have much more important things to do than engage in the preparation of nutritionally deficient foods. 
+NEELIX: Maybe another time. 
+TUVOK: Sundaes. 
+NEELIX: I beg your pardon? 
+TUVOK: I have given further consideration to your riddle regarding the Ensign who survived by consuming the dates from his calendar. It occurs to me that he could also have eaten the Sundaes. 
+NEELIX: That's a very clever answer, Mister Vulcan, But it's not very logical, is it? 
+TUVOK: No, it's not. 

@@ -1,0 +1,434 @@
+The 37's
+[Bridge] 
+(Kim has detected strange compounds in space.) 
+JANEWAY: Rust?
+KIM: That's right, Captain. High levels of ferric oxide. Corroded iron particles.
+JANEWAY: Would you mind telling me how iron could rust in space without oxygen?
+KIM: I wish I could.
+JANEWAY: Mister Paris, alter our course to follow that trail of rust. One quarter impulse.
+PARIS: Aye, Captain.
+(Later, on long range sensors.) 
+KIM: Captain, look at this. I'm picking up traces of complex hydrocarbons in the rust. Benzene, ethylene, acetylene.
+PARIS: That sounds like gasoline.
+CHAKOTAY: Gasoline?
+PARIS: It's a liquid fuel that was used centuries ago on Earth. They burned it to drive internal combustion engines.
+JANEWAY: How did it get out here?
+TUVOK: I'm detecting a small object. It appears to be the source of the rust and hydrocarbons.
+JANEWAY: Put it on screen. Magnify. 
+(They all stare at one of Henry Ford's products, floating in space.) 
+[Cargo bay] 
+(The pick up has been brought on board.) 
+TUVOK: Apparently it is a ground vehicle from mid-twentieth century Earth.
+PARIS: It's a 1936 Ford, actually.
+JANEWAY: Mister Paris?
+PARIS: That was the manufacturing date, 1936. Ford was the name of the company that build it. Antique vehicles are a hobby of mine. 
+(He opens the bonnet, sorry, pops the hood, and whistles.) 
+PARIS: Internal combustion engine, a reciprocating piston cylinder design, fuel source was a refined petroleum. Gasoline. 
+KIM: So is this an early hover car?
+PARIS: No, you're about a century too early for that. This is about one step ahead of the horse drawn carriage.
+TORRES: Traces of potassium nitrate, ammonium and methane back here.
+JANEWAY: I think you'll find that's manure. Horse manure, if I'm not mistaken. Judging from the mud on the wheels, and the alfalfa seedlings stuck in the metal frame, I'd say this vehicle belonged to a farmer, or at least someone who lived in a rural area. But the question is, how did it get here? I doubt there are many twentieth century farmers driving around the Delta Quadrant. 
+TUVOK: There are no signs of any wormholes or temporal anomalies in this region of space.
+JANEWAY: Let's run a metallurgical analysis of the vehicle.
+PARIS: There's still oil in the crank case, water in the radiator. I wonder if the battery's still charged. Now, let's see. This is before voice command activation, so there should be something in here called a key. Key.
+(Paris gets into the driver's seat.) 
+KIM: What are you doing?
+PARIS: Trying to bring this beauty back to life. Now where are the keys? Ah ha. Here they are. Okay, choke out, clutch in, give her a little gas, turn the key and step on the starter. 
+(The engine grinds into life with a series bang and cloud of smoke from the exhaust. Everyone dives for cover except Tuvok, who draws his phaser.)
+PARIS: Sorry. 
+JANEWAY: Next time you might give us a little warning, Mister Paris.
+PARIS: Aye, Captain.
+TUVOK: I suggest we increase the ventilation in the cargo bay before we are asphyxiated.
+KIM: What's that?
+PARIS: That is an amplitude modulation receiving device. AM radio. Not sure we'll pick up much out here. 
+(Beep, beep, beep.) 
+PARIS: Whoa. What was that?
+(Di di di, dah dah dah, di di di.) 
+TORRES: What is that?
+KIM: It's too regular to be random interference.
+TORRES: I'm running the signal through the ship's database. It's an ancient Earth distress call known as an SOS. 
+[Bridge] 
+KIM: I've located the source of the SOS signal. It's coming from a planet in a star system bearing three one zero mark two one five.
+JANEWAY: Mister Paris, lay in a course.
+PARIS: Aye, Captain.
+JANEWAY: Why didn't we pick up this signal earlier?
+KIM: This isn't one of the standard frequencies we monitor. Messages on this channel only travel at the speed of light. Too slow for interstellar communications.
+PARIS: Course laid in, Captain.
+JANEWAY: Warp six. engage. 
+(Later - ) 
+CREWMAN [OC]: I'll run a diagnostic check, sir.
+(The crewman leaves Paris.) 
+JANEWAY: Bring us out of warp. Full scan, Mister Kim.
+KIM: The SOS signal is coming from the third planet. It's class L, oxygen argon atmosphere. 
+JANEWAY: Any life signs? 
+KIM: There's a great deal of trinimbic interference in the upper atmosphere. I can't get a clear reading of the surface. 
+CHAKOTAY: Can you pin point the coordinates of the distress call? 
+KIM: Yes, here it is. It's coming from a continent in the northern hemisphere.
+CHAKOTAY: We won't be able to transport through this kind of interference. I might be able to take an away team in a shuttlecraft.
+TUVOK: That would not be wise, Commander, as the atmosphere is charged with trinimbic turbulence. A shuttlecraft could not safely navigate the currents. 
+JANEWAY: We could land the ship.
+CHAKOTAY: Are you sure that's necessary?
+JANEWAY: Someone on this planet is sending out a distress call.
+CHAKOTAY: If that someone is as old as the truck in the cargo bay, they're long dead by now. This might be an automated distress call. 
+JANEWAY: Possibly. But something brought that truck half way across the galaxy, and that something might be down on that planet.
+CHAKOTAY: And if it brought the truck here, it might be able to take us home too.
+JANEWAY: I'd say it's worth a look. Mister Paris, prepare the ship for landing.
+PARIS: Captain, I think I should tell you I've never actually landed a starship before.
+JANEWAY: That's all right, Lieutenant, neither have I. Bridge to Engineering. We're going to land the ship, Miss Torres. Take the warp core offline, vent all plasma from the nacelles and standby to engage atmospheric thrusters.
+TORRES [OC] Aye, Captain.
+TUVOK: This is Lieutenant Tuvok to all decks. We are preparing to land the ship. Go to blue alert and report to code blue stations. 
+PARIS: I've plotted a descent course. How close do you want to land to the distress coordinates? 
+JANEWAY: No closer than two kilometres. 
+PARIS: Okay. Atmospheric controls at standby. Landing mechanisms online. Inertial dampers at maximum.
+TUVOK: All decks report condition blue, Captain.
+JANEWAY: Put her down, Mister Paris. 
+(Voyager descends into the atmosphere.) 
+JANEWAY: Status.
+PARIS: We're on the glide trajectory. Altitude one hundred kilometres, speed ten thousand kph. Encountering some trinimbic turbulence. Compensating.
+(A big judder and a console explodes.) 
+KIM: We have an EM discharge in the lateral relays. I'm rerouting the ODN conduit. 
+PARIS: Come on. 
+KIM: Another EM discharge. I think we're all right. though. 
+PARIS: Twenty kilometres to the landing site. We should be able to see it now.
+JANEWAY: Extend landing struts. Prepare to release inertial dampers and adjust them to match the planet's gravity. 
+PARIS: Landing struts down and locked.
+KIM: Standing by environmental controls.
+PARIS: Here we go. 
+(Voyager touches down gently.) 
+PARIS: Disengaging engines, securing thrusters exhaust. We're down. 
+JANEWAY: Not bad, for a beginner. 
+[Planet surface] 
+JANEWAY: Nice day.
+KIM: I've locked onto the distress signal. It's one point five kilometres on a bearing of two four six.
+CHAKOTAY: Wait a second, I've got something else. There's a high concentration of trianium particles bearing two two five, a little over a kilometre away. Looks like some kind of power source.
+JANEWAY: Two teams. Chakotay, yours investigates the power source. Tuvok, Kim, you're with me. 
+[Outside the aircraft] 
+JANEWAY: My god.
+(Janeway's group go down the slope to the apparently intact twin engined Lockheed Electra monoplane, and scan it.) 
+TUVOK: The metal is an aluminium alloy. It appears to be an ancient Earth aircraft. 
+KIM: The SOS call is coming from inside. 
+[Inside the aircraft] 
+KIM: I've found the AM transmitter. From what I can tell, it's sending out an automated SOS.
+JANEWAY: What about the power source? Somehow I find it hard to believe the battery on this aircraft has been running for four hundred years.
+KIM: I don't recognise the power signature. Hold on, Captain, I've found what appears to be an alien fusion based generator. It's hooked up to the AM transmitter.
+CHAKOTAY {OC]: Chakotay to Janeway. 
+[Outside the aircraft] 
+JANEWAY: Go ahead, Commander. 
+CHAKOTAY [OC]: We've located the source 
+[Outside the cave entrance] 
+CHAKOTAY: Of the trianium readings. It appears to be some sort of mine shaft. I'd like to bring out another security detachment before we go inside. 
+JANEWAY [OC]: Good idea. 
+[Outside the aircraft] 
+JANEWAY: Good idea. I'll join you. Janeway out. (to Tuvok) I want the two of you to analyse the alien generator. Then see what you can find out about this SOS call. 
+(They are watched by a figure all clothed in black.) 
+[Tunnels] 
+TORRES: I'm picking up something directly ahead. Some kind of power signature, fusion based.
+(Janeway leads the team and extra security into -) 
+[Cryochamber] 
+(A high-tech area with walls lined with eight vertical cubicles. The doors are transparent and the insides are lit.) 
+TORRES: This looks like some kind of cryostasis chamber.
+JANEWAY: How many bodies are there?
+TORRES: Eight. And the equipment is still functioning.
+(Janeway wipes the dust from the first cubicle.) 
+JANEWAY: He's human. And from the clothes I'd say he's from the same era as the vehicle we found.
+(He is oriental. His cap has a single golden star on it.) 
+TORRES: His life sign readings are minimal, but he's alive.
+CHAKOTAY: Captain, according to these readings there are five other cryostasis chambers nearby. No life signs in any of them. This appears to be the only one with people inside.
+TORRES: There's another male over here.
+JANEWAY: This one's a female. She's wearing some sort of leather jacket and a pair of gold wings. Wait, there's a name tag here. I think it's A period E A R H A R T. Earhart. A Earhart. Amelia Earhart! 
+[Briefing room] 
+KIM: Who's Amelia Earhart?
+JANEWAY: She was one of the first female pilots in Earth History. In the mid twentieth century she became quite famous for flying across the Atlantic Ocean. In 1937 she attempted to fly around the world. According to the records of the time, on July 2nd 1937 Earhart and her navigator, Fred Noonan, took off from New Guinea and they were headed east, around the Equator. But somewhere in the South Seas they vanished and their disappearance became one of the most celebrated mysteries of the twentieth century. 
+PARIS: Why didn't they think she'd just crashed? 
+JANEWAY: That was the most commonly held theory. However, numerous searches of the area failed to produce the wreckage of an aircraft, so people began to speculate. Some thought she'd been shot down and captured by the Japanese Navy. Others thought that she and Noonan had flown off together on some sort of romantic adventure. Of course, the most ridiculed notion was that she had been abducted by aliens. 
+CHAKOTAY: Well, it certainly looks like that's what happened. From what we can tell, all eight of the people in that stasis chamber were taken from Earth in the 1930's and brought here. 
+KIM: The question is, why? And where are the aliens who did this? 
+TUVOK: Scans of the region show no alien life signs. 
+JANEWAY: Continue the scans. They may not be here now, but once they detect our presence, they might return. In the meantime, we'll have to get some answers on our own. Have you had any luck tapping into the computer system in the cryochamber? 
+TUVOK: Not as of yet. We are having difficulty decoding the operating system. 
+PARIS: There's one way we could find out what happened. We could wake those people up and ask them. 
+JANEWAY: I've had the same thought myself. 
+TORRES: Is that wise? We don't know how these people are going to react when they wake up in an alien world in the twenty fourth century. 
+JANEWAY: True, but I'm not willing to just leave them in stasis for another four hundred years. And if we can find out how they were brought here, we might be able to use that method to get home. We'll just have to be very careful how we handle this. 
+CHAKOTAY: I suggest that only human crew members be present when we revive them. 
+JANEWAY: Agreed. Mister Kim, I want a complete analysis of those cryostasis tubes. Find a way to deactivate them safely. 
+KIM: Aye, Captain. 
+JANEWAY: Commander, apprise the Doctor of our situation. Tell him to instruct Kes in the proper procedure for reviving someone from cryostasis. She can be made to look human easily enough. In the meantime I suggest we all brush up on ancient Earth. We're about to meet a bit of our history. 
+[Cryochamber] 
+PARIS: We're ready, Captain. 
+KIM: All the cryo-tubes are linked by a common power source, so we've decided to revive everyone simultaneously. 
+JANEWAY: Proceed. 
+KIM: The power's offline. Deactivate locking mechanisms. 
+(The doors on the cubicles slide upwards, and dry ice pours out. Kes hands hypos to Paris and Kim.) 
+PARIS: Captain, this one's armed with some kind of weapon. 
+JANEWAY: Disarm him, just to be on the safe side. 
+(Paris takes the Japanese soldier's gun then give him the hypo, while Kim revives Amelia. Kes does Noonan and the negro farmer. They start to wake. Janeway walks up to Amelia and smiles. Shortly afterwards, everyone is awake and Kes is scanning them.) 
+JANEWAY: I know this must be very strange for you.
+NOONAN: Who are you? What is going on here? 
+NOGAMI: I demand you release me immediately. 
+JANEWAY: Please, if you'll just listen for a moment, I'll try to explain. 
+NOGAMI: You are all speaking Japanese. 
+HAYES: (the farmer) Sounds to me like you are speaking English. 
+JANEWAY: It's because of a device we have. A universal translator. It allows us to talk to each other even though our languages aren't the same. 
+AMELIA: Who are you people? 
+HAYES: Look, just let us go home. We won't tell anybody. 
+NOONAN: The hell we won't! I'm going to let the world know what you people have done. Do you know who you've kidnapped here? Amelia Earhart. I'm her navigator. This is going to be headline news. You people are in trouble. 
+AMELIA: Fred, let her talk. 
+JANEWAY: What I'm going to tell you is going to sound hard to believe. Even preposterous. We think you were abducted from Earth in the 1930's and brought millions of miles through space to a planet on the other side of the galaxy. You were put into a kind of deep sleep for a very long time. It's not the 1930's any more. The year is 2371, over four hundred years from the time you were abducted. 
+AMELIA: You must think we are awfully gullible. 
+JANEWAY: Tell me, what's the last thing you remember before waking up here? 
+AMELIA: We were over the Pacific, running low on gas. We were looking for an atoll to set down. We tried to send out an SOS and suddenly there was this huge light in back of us. And the plane stopped, dead. And then it started moving backward towards the light. I must have blacked out. And I woke up here, just now. 
+HAYES: That's just the way it was with me! I was in my truck heading into town. I was just about to get onto the blacktop, when this big light come down from the sky. Just about blinded me. Next thing I know the whole truck is lifted up off the ground. 
+JANEWAY: I believe what happened was that you were abducted by aliens, and if we can find out how they got you here, we might all be able to get back to Earth. 
+(Noonan takes out a revolver he had under his jacket.) 
+NOONAN: I want some real answers, now. 
+JANEWAY: I assure you, I am telling the truth. 
+NOONAN: You! Come on down here and get those funny looking guns of theirs. 
+(Hayes obeys.)
+NOONAN: (to Kes) You, get over there with the others. 
+(Amelia takes the tricorder from Kes.) 
+AMELIA: What is this? 
+KES: It's a medical device. I'm just trying to make sure that everyone is all right. 
+NOONAN: Now, how do we get out of here? 
+(Amelia opens the tricorder, starting it beeping.) 
+CHAKOTAY [OC]: Chakotay to away team. 
+JANEWAY: Janeway here. 
+CHAKOTAY [OC]: Captain, I'm picking up some energy displacements 
+[Bridge] 
+CHAKOTAY: On the surface. I think it might be alien humanoids. It looks like they're using some kind of deflection system to trick our sensors. 
+[Cryochamber] 
+CHAKOTAY [OC]: I think you'd better get up here. 
+NOONAN: Who's that talking? 
+JANEWAY: That's Commander Chakotay, on our ship. 
+NOONAN: Commander, huh? Okay, now hear this, Commander. 
+[Bridge] 
+NOONAN [OC]: There's a gun pointed at the lady's head right now, so you call Washington 
+[Cryochamber] 
+NOONAN: And you tell them we're holding your people prisoner, and they're not going anywhere until I personally talk to J Edgar Hoover. You've got one hour. 
+[Bridge] 
+CHAKOTAY: Captain? 
+[Cryochamber] 
+JANEWAY: It seems we're being held hostage, Commander. I suggest you pay attention to what the gentleman says. 
+CHAKOTAY [OC]: I understand. 
+[Bridge] 
+CHAKOTAY: Chakotay out. 
+TUVOK: All security personnel report to the cargo bay immediately. 
+[Cryochamber] 
+AMELIA: The compass isn't working. 
+JANEWAY: I know what we've told you sounds hard to believe, but there was a time when no one believed that a woman could fly across the Atlantic. Now, people are able to travel between the stars. The galaxy is full of many different species. For instance, this young woman isn't human, she's an Ocampa. 
+(Janeway pushes back Kes's hair to reveal her pointed ears.) 
+AMELIA: I've been on expeditions all over the world, and I've seen people do all kinds of strange things to their bodies. That doesn't mean that Martians have invaded Earth. 
+KIM: Actually it was the other way around. Mars was colonised by people from Earth in 2103. 
+NOONAN: That's enough! All of you just go over there and sit down and keep quiet. 
+[Cargo bay] 
+(Tuvok hands out phaser rifles from a weapons locker.) 
+CHAKOTAY: The trinimbic interference has affected the transporter's targeting scanners. We can't beam into the chamber so we'll have to go on foot. 
+TUVOK: We will deploy throughout the caves, sealing off any exit from the chamber. 
+CHAKOTAY: Let's go. 
+[Cryochamber] 
+(Noonan takes a swig from a hip flask.) 
+AMELIA: Now is probably not the best time for that, Fred. 
+NOONAN: Just a little pick me up. 
+PARIS: He's had a few nips from that flask, Captain. We could probably rush him, get the gun. 
+JANEWAY: Let me try to talk to Earhart first. She seems reasonable. Maybe I can get through to her. Miss Earhart? 
+(Amelia walks over.) 
+JANEWAY: I want you to know you've always been an inspiration to me. Because of you, generations of women have become pilots. 
+AMELIA: Generations. What's your name? 
+JANEWAY: Kathryn Janeway. 
+AMELIA: I heard the Commander call you Captain. What exactly do you captain? 
+JANEWAY: The Federation Starship Voyager. 
+AMELIA: Starship. That supposed to mean it flies through space? 
+JANEWAY: That's right. 
+AMELIA: That isn't possible. Only in books. H G Wells, Jules Verne. 
+JANEWAY: Maybe if you saw it you'd think otherwise. 
+AMELIA: Saw it? Where is it? 
+JANEWAY: On the surface. We're actually about a hundred metres underground now. If you'd come with me to see Voyager, you'd realise that what we're telling you is true. 
+AMELIA: And risk a trap? No, you could have hundreds of reinforcements up there. 
+JANEWAY: I assure you, we have no interest in harming you. We took you out of stasis to help you. 
+AMELIA: Put yourself in my shoes, Captain. If you were me, would you believe your story? 
+JANEWAY: Maybe not. Let me tell you some of what happened after you disappeared over the Pacific. No trace of you or your plane was ever found, in spite of a massive search. Over the years there was a lot of speculation about your flight, including the rumour that it was financed by the Government and may have been part of an operation to gather information about the Japanese. 
+AMELIA: Where did you hear that? 
+JANEWAY: It's somewhat common knowledge. You see, Japan attacked Pearl Harbour in 1941, drawing the United States into a massive world war. In retrospect, your journey was seen in a different light, perhaps as part of an intelligence mission devised by a Government deeply concerned about Japanese war plans. 
+AMELIA: No one was supposed to know about that. 
+JANEWAY: Maybe not in 1937, but now it's part of history. 
+NOONAN: Hey, I've got an idea. Why don't we stick them in these things? Put them to sleep like we were. No fuss, no trouble. 
+JANEWAY: Mister Noonan, that will accomplish nothing. Please, let us take you to our ship. You'll see that everything we've told you is true. 
+NOONAN: Show me how to operate this thing. 
+AMELIA: Hey! Last time I looked, you were working for me. And I think we should listen to these people. They just may be telling the truth. What's the harm in seeing if maybe they do have this starship? Beats being cooped up in here trying to figure out what happened. How about it? Anyone want to come along? 
+HAYES: I wouldn't mind taking a look. 
+JANEWAY: Anyone else? 
+NOONAN: You're not leaving me behind. 
+PARIS: Kes and I'll stay with the others, Captain. 
+JANEWAY: It'll take about ten minutes to get to the surface. Stay close to us. Mister Kim. 
+[Outside Voyager] 
+CHAKOTAY: What is it? 
+TUVOK: I am reading energy displacements again. Possibly alien lifesigns. Two hundred metres ahead. 
+(The team heads into a canyon. An alien takes aim.)
+TUVOK: They may be up there. 
+(An energy bolt misses them.)
+CHAKOTAY: Take cover! 
+CREWWOMAN: Get down! 
+(They run for the rocks under a barrage of fire.) 
+[Canyon] 
+(Janeway leads the party out of the cave and into the line of fire.) 
+JANEWAY: This way. 
+HAYES: What's all that racket? 
+(An energy bolt passes between Janeway's legs.) 
+JANEWAY: Take cover! 
+NOONAN: I told you it was a trick! 
+(Noonan gets shot.) 
+AMELIA: Fred! 
+(Kim runs out and drags Noonan to cover. Janeway spots their attackers, and Tuvok and Chakotay hiding behind a nearby large rock.) 
+JANEWAY: Janeway to Chakotay.
+CHAKOTAY [OC]: I'm here, Captain. We're pinned down. 
+JANEWAY: I can see you from here. Lay down phaser fire. I'm going to circle around to your left, try to come at them from the rear. 
+CHAKOTAY [OC]: Right! 
+(Tuvok and Chakotay start shooting, Janeway moves off.) 
+CHAKOTAY: Chakotay to Voyager. 
+[Bridge] 
+TORRES: Torres here, Commander. 
+[Canyon] 
+CHAKOTAY: Can you give us some help down here? 
+TORRES [OC]: I don't think so. 
+[Bridge] 
+TORRES: The targeting scanners are still useless. I can't risk laying down weapons fire if I don't know where it's going. 
+[Canyon] 
+CHAKOTAY: Keep trying to get them online. 
+[Bridge] 
+TORRES: Aye, Commander. 
+[Hillside] 
+(Janeway has got behind the three attackers. She treads on a twig, one turns and she shoots him.) 
+JANEWAY: Hold your fire. Drop your weapons. Turn around slowly.
+EVANSVILLE: You're not Briori.
+JANEWAY: No, I'm human. 
+EVANSVILLE: Human? 
+(He turns to his companion, who nods. They remove their hoods to reveal that they are a man and a woman.)
+EVANSVILLE: We're human. You're working for the Briori. They have ships like yours. 
+JANEWAY: I'll answer any questions you have, but first we must take care of our wounded. Can we agree to end this? 
+EVANSVILLE: Yes. 
+JANEWAY: I'm Kathryn Janeway of the Federation Starship Voyager. 
+EVANSVILLE: John Evansville. This is my colleague, Karen Berlin. 
+[Sickbay] 
+(Noonan is on a biobed, chest bared and a nice hole burnt into it. Kes and Amelia stand by.) 
+EMH: Severe trauma to the thoracic cavity, lacerated carotid artery. 
+AMELIA: He's not going to make it. 
+EMH: I wouldn't be so sure of that. Vascular regenerator. Hmm. He's not responding to the treatment. The alcohol level in his blood is so high it's inhibiting the repair to his circulatory system. Attempting to compensate. 
+AMELIA: Told you your drinking'd kill you one day. 
+NOONAN: She's right, Doc. Just let me die in peace. There's just one thing I want to say to you first, even though it's four hundred years late. Amelia, I love you. 
+AMELIA: Fred. You never said anything. 
+NOONAN: You're married, or you were. I guess he's dead now. I just wanted you to know before I, before I met my maker. 
+EMH: There, that should do it. 
+NOONAN: Do what? 
+EMH: You're healed. 
+NOONAN: You mean I'm not going to die? 
+EMH: Aside from a hangover, you're going to be fine. 
+NOONAN: Oh, Amelia, you got to forget what I just told you. Promise me. 
+AMELIA: Fred, I already have. 
+[Briefing room] 
+EVANSVILLE: You've taken the 37s. Why? 
+JANEWAY: I'm afraid I don't understand. 
+EVANSVILLE: You went into the shrine. You stole the 37s from the sacred altars, and you disturbed the radio signal that we have been so careful to preserve. 
+CHAKOTAY: Captain, I think he's talking about Earhart and the others. 
+JANEWAY: Tell me more about the 37s? Are you one of them? 
+EVANSVILLE: I'm one of their descendants. The 37s were brought here over fifteen generations ago by the Briori. 
+CHAKOTAY: Who are the Briori? 
+EVANSVILLE: They're an alien race. They abducted over three hundred people from Earth in the year 1937, brought them over here, turned them into slaves. But those slaves revolted, killed the Briori, took their weapons and their technology and survived. And now there are over one hundred thousand of us. The Briori never came back. Now, you answer me. Why did you steal the remaining 37s from the shrine? 
+JANEWAY: We didn't steal them. We simply revived them. 
+EVANSVILLE: Revived them? They're dead. 
+JANEWAY: No, they were simply in a state of what we call cryostasis. That's a form of sleep that appears very much like death. 
+EVANSVILLE: Do you mean they're alive? 
+JANEWAY: Yes. 
+EVANSVILLE: My people have come to regard the 37s as monuments to our ancestors. Nobody has even entered their shrine for generations. 
+JANEWAY: Mister Evansville, we were hoping to find the ship that brought your ancestors here. Possibly use it to get back to Earth a little faster. 
+EVANSVILLE: I'm sorry, the Briori ship was destroyed in the slave revolt. There's nothing left. Captain, I'm sorry to hear about your long journey home, but you should know that life on this planet is good. We live in three beautiful cities only fifty miles from here. 
+JANEWAY: Oh, I'd like to see your cities. 
+EVANSVILLE: And I'd like to show them to you. 
+[Bridge] 
+(Amelia is admiring the helm.) 
+AMELIA: How fast? 
+PARIS: Warp nine point nine. In your terms, that's about four billion miles a second. 
+AMELIA: Think I could take her out for a spin? 
+PARIS: Well, er 
+(Janeway enters with Evansville.) 
+JANEWAY: Mister Evansville has offered to take us on a tour of the settlement. He's extended the invitation to the entire crew, and the 37s, of course. 
+EVANSVILLE: You, you're a 37? 
+(Janeway nods.) 
+AMELIA: I guess you could call me that. 
+EVANSVILLE: It would be an honour to show you our cities. 
+Captain's log, stardate 48975.1. Evansville wasn't exaggerating when he said they have a lot to be proud of here. It was an amazing experience, but it's left me a little disturbed. 
+[Ready room] 
+JANEWAY: Come in. 
+CHAKOTAY: Here's the damage report you asked for. 
+JANEWAY: Thank you. 
+CHAKOTAY: Is something wrong, Captain? You've seemed a little distracted ever since we came back from the cities. Weren't you impressed? 
+JANEWAY: A little too impressed. 
+CHAKOTAY: What do you mean? 
+JANEWAY: There's a thriving, sophisticated culture on this planet. Of human beings. In someways walking around those cities was almost like being back on Earth. 
+CHAKOTAY: It was a little eerie. It reminded me of home, too. 
+JANEWAY: Evansville has offered to let any of our crew stay. 
+CHAKOTAY: What will you do about that? 
+JANEWAY: Maybe this is one of those decisions that the captain has to make for the entire ship. 
+CHAKOTAY: You may have a problem if a lot of people want to stay. 
+JANEWAY: I know that, but at the same time I can't take a vote every time there's a major decision to be made. And yet, we're a long way from Starfleet, and a lot of the rules and regulations I've learnt to uphold seem distant as well. Am I the only one who's so intent on getting home? Is it just me? Am I leading the crew on a forlorn mission with no real hope of success? 
+CHAKOTAY: You're not alone. I want to get home, too. And there's not a day that goes by when I don't hear someone mention Earth. 
+JANEWAY: The people here have built a new Earth. We could stay, help them build a human civilisation in the Delta Quadrant. Isn't that an exciting prospect? Shouldn't we be grateful for the opportunity they're giving us? 
+CHAKOTAY: It is a tempting prospect, but when I hold it up against the prospect of seeing the sun rise over the Arizona desert, or swimming in the Gulf of Mexico on a summers day, there's just no comparison. I want to go home. 
+JANEWAY: We have one hundred and fifty two men and women on this ship. What happens if half of them decide to stay on the planet? Could we operate Voyager with seventy five crew members? 
+CHAKOTAY: I doubt it. In fact I don't think we could operate the ship with fewer than one hundred. If too many of the crew choose to stay behind, we could all be stranded here. 
+JANEWAY: Tell all hands to prepare for an announcement from the Captain at fourteen hundred hours. They deserve to make the choice for themselves. 
+CHAKOTAY: Aye, Captain. 
+[Mess hall] 
+(Neelix carries a tray over to the table for eight.) 
+NEELIX: Here we are! My research on twentieth century Earth is a little thin, but I've done what I can. Pot roast, green beans and something called Jell-O. 
+NOONAN: You know how to make Jell-O? 
+NEELIX: I even put in fruit cocktail. 
+NOONAN: You don't say. 
+HAYES: I don't know about the rest of you, but I've made up my mind. There is land here that goes begging, and I could have a big farm, just like I always dreamed. 
+NEELIX: And for you, rice with a little fish. I even replicated some ginger for seasoning. 
+NOGAMI: Very nice, thank you. 
+NOONAN: I have to admit, life here looks a lot better than what we left on Earth. 
+NOGAMI: It's paradise by comparison. And there are many Japanese here. I could be very happy. 
+NOONAN: We all could. Right? 
+AMELIA: I'm just not sure. What about you, Mister Neelix? Have you made your decision? 
+NEELIX: Oh yes, indeed. I'm staying right here with Captain Janeway. She'd be lost without me. She's come to depend on me a great deal. 
+NOONAN: What about the rest of the crew? Do you think many of them will stay here? 
+NEELIX: Oh, I don't think so. At least, not many. Well, that is, there's a good chance. Well, now that you ask, I honestly don't know. 
+(At another table.) 
+TORRES: You? You'd stay here on the planet? 
+KIM: I didn't say I was going to, I just said I could understand why people would want to. The people here remind me of home. I haven't felt like that since I left Earth. 
+TORRES: But you're Starfleet. You've always wanted a life in space. 
+KIM: I know, but, my whole life on a starship, day after day, with no end in sight? That's not exactly what I had in mind. 
+TORRES: You're not the first person I've heard talk like this. A lot of people are thinking about staying. 
+KIM: What about you? Don't you have some of those feelings? 
+TORRES: I'd be lying if I said I didn't. 
+[Outside Voyager] 
+AMELIA: Captain. I was told I'd find you here. Am I intruding? 
+JANEWAY: Not at all. Please join me. 
+AMELIA: I wanted you to know that the group you brought out of stasis, we've all decided to stay here on the planet. 
+JANEWAY: I understand. 
+AMELIA: I must admit the thought of travelling through space, maybe even learning to fly this ship, was very appealing to me. 
+JANEWAY: And I'd looked forward to getting to know you better. I suspect we have a lot in common. 
+AMELIA: At first I didn't know what to do. We talked about it for quite some time. Finally I realised the people here on this planet are part of us. We're their ancestors in a way. It made us feel close to them. 
+JANEWAY: The remarkable thing about the humans on this planet is that they evolved very much like the people on Earth. Tens of thousands of light years apart, both civilisations managed to create a world they could be proud of. One where war and poverty simply don't exist. I certainly can't blame you for wanting to be part of it, any more than I can blame members of my crew if they make the same decision. 
+AMELIA: When will you find out? 
+JANEWAY: In half an hour. Any one who wants to stay behind is to report to the cargo bay at fifteen hundred hours. 
+[Corridor] 
+CHAKOTAY: I expect Jarvin will stay on the planet. In fact, I'd bet on it. 
+JANEWAY: Why Jarvin? 
+CHAKOTAY: He's been more uncomfortable about being on a Starfleet ship than most of the Maquis, and he's gotten involved with a young woman in Quantum Mechanics. I think they'd like to settle down, raise a family. 
+JANEWAY: The person I expect to see is Baxter. 
+CHAKOTAY: Baxter? Walter Baxter? 
+JANEWAY: He's adventurous, a risk taker. I can see him wanting to take on the challenge of building a new life on this planet. 
+CHAKOTAY: I'd hate to loose Baxter. He's a good man. 
+JANEWAY: I'd hate to loose Jarvin. I don't want to loose anyone. We've all been through so much together, it just wouldn't seem right. But I couldn't blame anyone, anyone for staying behind. I'm not sure I want to go in. 
+CHAKOTAY: No matter what happens, we'll make it. Remember that. 
+(The cargo bay is devoid of people.) 
+[Bridge] 
+TUVOK: Captain on the bridge. 
+JANEWAY: All stations prepare for departure. Condition blue, Mister Tuvok. Miss Torres, anti-grav thrusters online. 
+TORRES: Thrusters enabled. 
+JANEWAY: Mister Paris, inertial dampers to flight configuration. Impulse drive to stand by. 
+PARIS: Yes, ma'am. 
+KIM: All stations report ready, Captain. 
+JANEWAY: Then lets do it. Take us up. 
+(Amelia, Noonan and Evansville watch Voyager lift off and fly away.) 

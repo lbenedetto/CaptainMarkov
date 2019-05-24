@@ -1,0 +1,458 @@
+Unnatural Selection
+Captain's log, Stardate 42494.8. The Enterprise is bound for Star Station India to rendezvous with a Starfleet medical courier. We've been told only that our presence is imperative. Hopefully the mission will give me further opportunities to assess the performance of our new Chief Medical Officer. 
+[Ready room] 
+PICARD: Come. 
+(Troi enters) 
+TROI: You wanted to see me, Captain? 
+PICARD: Yes, Counsellor. Come, sit down. Counsellor, you've had the opportunity to observe Doctor Pulaski for some time now. How would you evaluate her as a Chief Medical Officer? 
+TROI: I've never met a more dedicated physician. I would say she has a passion for her work. 
+PICARD: Yes, of course. I entirely agree. Is it possible that such consuming dedication could interfere with her judgement? 
+TROI: I feel your concern, Captain, but I don't share it. Perhaps because I've had the opportunity to spend more time with her and get to know her better. 
+PICARD: Yes, perhaps you're right. 
+DATA [OC]: Captain, we are picking up a faint distress signal on an open subspace frequency. It appears to be coming from an adjacent sector. 
+PICARD: Respond on the same frequency. 
+[Bridge] 
+PICARD: Are you locked on to that transmission? 
+DATA: Aye, sir. A voice only transmission from the USS Lantree, a Federation supply ship. 
+PICARD: USS Lantree, this is Picard of the Enterprise. What is the nature of your emergency? 
+VOICE [OC]: Can't hold out any more. People dying. Too many to help. 
+DATA: We are still receiving their signal, Captain, but there is no message. 
+PICARD: Lantree. Are you under attack? Lantree? USS Lantree, this is the Enterprise. Come in, Lantree. Replay that last transmission. 
+VOICE [OC]: Can't hold out any more. People dying. Too many to help. 
+RIKER: Have we got a fix on her? 
+DATA: Two point two milli-parsecs, bearing three zero at one four five degrees. 
+PICARD: Number One? 
+RIKER: We'd better take a look. What kind of vessel is she? 
+DATA: The Lantree is a Class Six Federation supply ship assigned to Gamma seven sector, Captain L.I. Telaka commanding. Normal complement, twenty six officers and crew. 
+RIKER: Armed? 
+DATA: Class three defensive only. 
+RIKER: Is she still underway? 
+DATA: Aye, sir. 
+PICARD: Adjust course to intercept. Warp seven. 
+WESLEY: Adjusting course to intercept. Warp seven, sir. 
+(Geordi enters) 
+LAFORGE: Engineering, transfer to Bridge. 
+WESLEY: We are closing on the Lantree, Captain. 
+PICARD: Take us out of warp. Establish parallel course. Match speed. 
+WESLEY: Yes, sir. 
+PICARD: Hailing frequencies. 
+WORF: Open. 
+PICARD: Lantree, this is the Enterprise. Captain Telaka, this is Picard of the Enterprise. Do you read me? 
+DATA: No life signs, Captain. 
+PICARD: Counsellor? 
+TROI: Nothing, Captain. 
+RIKER: What else have we got in the neighbourhood? 
+WESLEY: No other vessels of any kind within two parsecs. 
+WORF: No battle damage. 
+DATA: All systems seem functional, Captain. Everything is in perfect order. 
+WORF: We have to board her, Captain. 
+PICARD: Possibly, Mister Worf. Number One? 
+RIKER: If we gain control of her systems remotely, we could activate the viewscreen. That way we could at least look at the Bridge. 
+PICARD: Agreed. 
+[Ready room] 
+PICARD: Computer, security override request. 
+COMPUTER: Identify. 
+PICARD: Picard, Jean-Luc, Captain, USS Enterprise. Request control access Starfleet ship USS Lantree, Isao Telaka commanding. 
+COMPUTER: Enter access code. 
+PICARD: Omicron omicron alpha yellow daystar two seven. Enable. 
+[Bridge] 
+(At the rear stations) 
+DATA: I have verified receipt of the access codes for the Lantree, Captain. 
+PICARD: Grand. Commence operations. 
+RIKER: Our first move will be shut down the engines. 
+LAFORGE: Standing by, Commander. 
+DATA: The Lantree computer reports access codes received and accepted, sir. 
+(Pulaski enters) 
+PULASKI: Sickbay on alert, Captain. 
+LAFORGE: Interlock is engaged. The Lantree is responding, sir. 
+DATA: We have override control of her Bridge, Captain. All systems answering. 
+PICARD: All right, let's have a look. 
+LAFORGE: Lantree Bridge monitor engaging. 
+(The viewscreen shows very old people dead in their seats) 
+PICARD: Are you reading anything, Doctor? 
+PULASKI: Still no signs of life, Captain. 
+PICARD: Magnify. That must be Captain Telaka on the left. Let's look at him. Closer. My God. 
+RIKER: Looks like they had a battle with time. 
+WORF: And lost. 
+PULASKI: Heart, lungs, liver, everything. 
+PICARD: What is it? 
+PULASKI: They died of natural causes. 
+PICARD: Natural causes? What in nature could cause that? 
+PULASKI: For the record, Captain, they died of old age. 
+[Observation lounge] 
+RIKER: We've downloaded the Lantree's log, sir. 
+PICARD: Play back the Captain's last entry. 
+TELAKA [OC]: Captain's log, stardate 42493.1. There are only six of us left. We've set course for the nearest Federation outpost, but I am afraid it's too late. All attempts to analyse what is happening have failed. In the last few hours I've watched friends grow old and die, and I'm seeing it happen to me. Captain L.I. Telaka, USS Lantree. 
+RIKER: Captain Telaka was my age, sir. 
+PICARD: Doctor? 
+PULASKI: Every member of the Lantree crew had a complete examination at the beginning of this duty cycle eight weeks ago. They were in perfect health. 
+TROI: Nothing else since? 
+PULASKI: A single medical entry noting that the First Officer was treated for Thelusian flu five days ago. 
+PICARD: Thelusian flu? 
+PULASKI: It's an exotic but harmless rhinal virus. It couldn't have caused this. 
+RIKER: The last port of call of the Lantree was the Darwin Genetic Research Station on Gagarin Four three days ago. 
+PULASKI: Whatever happened, it could be something that the Lantree crew already had or it could have come from Gagarin. At the very least, the people from Darwin Station deserve a warning. We may have to consider a quarantine. 
+PICARD: You'll agree that we should quarantine the Lantree. 
+PULASKI: Absolutely. 
+RIKER: Lieutenant, initiate the quarantine transmitters on the Lantree and activate her marker beacons. We'll need to find her again. 
+WORF: Aye, sir. 
+[Bridge] 
+WORF: Quarantine warnings active on all frequencies, Captain. 
+LANTREE [OC]: Extreme caution. The USS Lantree is a quarantined vessel by order of Starfleet Command. Do not board. 
+PICARD: Set course for Gagarin Four, warp seven. 
+WESLEY: Course and speed set, sir. 
+PICARD: Engage. 
+Captain's log, supplemental. We're en route to the Federation Research station on Gagarin Four. The mere thought of a possible connection between the Lantree tragedy and a genetic research facility fills me with profound apprehension. 
+[Bridge] 
+WESLEY: We're approaching Gagarin Four, Captain. 
+PICARD: Standard orbit, Mister Crusher. 
+WESLEY: Aye, sir. 
+PICARD: Hailing frequencies. 
+WORF: Open. 
+PICARD: Darwin Station, this is Captain Jean-Luc Picard of the USS Enterprise. 
+(A middle aged woman comes on the viewscreen. She seems harassed) 
+KINGSLEY [on viewscreen]: Enterprise, this is Darwin Station. I'm Doctor Kingsley. We've just declared a medical emergency here. We need your help. 
+PULASKI: Doctor Kingsley, what is the nature of your emergency? 
+KINGSLEY [on viewscreen]: To whom am I speaking, please? 
+PULASKI: I'm Doctor Pulaski, Chief Medical Officer. 
+KINGSLEY [on viewscreen]: Katherine Pulaski, author of Linear Models of Viral Propagation? 
+PULASKI: That was a long time ago. 
+KINGSLEY [on viewscreen]: But still the standard. I can't think of anyone I'd rather be dealing with. Doctor, we're experiencing the rapid onset of geriatric phenomena. The first symptom is sudden, acute arthritic inflammation. Then the aging process accelerates. 
+PULASKI: The Lantree. 
+KINGSLEY [on viewscreen]: Doctor Pulaski, I celebrated my thirty fifth birthday a week ago. 
+PULASKI: Doctor, we understand that Darwin Station is involved in genetic research. Is there a possible connection? 
+KINGSLEY [on viewscreen]: Our research here is limited to human genetics. I can assure you we're not dealing with something that got away from us. We believe that we were infected by a supply ship that was here three days ago. 
+PICARD: Doctor, if you're speaking of the Lantree, we encountered it a few hours ago. All the crew members were dead. 
+KINGSLEY: Which would seem to confirm our suspicion. Were you able to establish a pathology, Doctor? 
+PICARD: Doctor, did you hear what I said? All the twenty six men and women aboard that ship were dead. 
+KINGSLEY: I heard you, Captain, and the prognosis is alarming, but my immediate concern is our children. 
+PULASKI: Children? 
+KINGSLEY: They represent years of advanced genetic research. You must evacuate them as soon as possible. 
+PICARD: I'm sorry, but under the circumstances, until we know what's going on I'm imposing a full quarantine on Darwin Station. 
+KINGSLEY: But the children have been in protective isolation since this was detected. They show no symptoms. You cannot leave them here to die! 
+PICARD: Doctor, our options in a quarantine situation are extremely limited. We are going to consider the possibilities. I suggest you do the same. 
+[Observation lounge] 
+WORF: I recommend against contact, Captain. 
+PICARD: Number One? 
+RIKER: I have to agree, sir. I wish there was something we could do, but the risk is too great. 
+PICARD: Doctor? 
+PULASKI: If the children are free of disease, as Doctor Kingsley said, they should be evacuated. I would like to bring one of them aboard within a force field for a complete examination. 
+PICARD: Counsellor, do you sense anything? 
+TROI: Doctor Kingsley sincerely believes the children are not a threat, but she's not telling us the whole truth. I recommend caution. 
+PICARD: We have only Doctor Kingsley's assurance that these children are not infected, whereas we have seen the results of this disease first hand. In a case like this, I think we should err on the side of caution. 
+PULASKI: All right. We could beam up one child in styrolite in suspended animation. That way I could scan for possible infection without any danger to ourselves or to the child. 
+RIKER: But we don't know what we're looking for. 
+PULASKI: Exactly. And we won't know until we begin gathering data. Captain, that's worth some risk. 
+PICARD: There's always risk, Doctor. Proceed with the examination, but I shall require positive proof that these children are harmless before I place any of my crew in jeopardy. 
+[Science lab] 
+LAFORGE: The forcefield's ready, Captain. 
+PICARD: Activate it. 
+(The forcefield goes up around a single examination table in the middle of the room) 
+PICARD: Transporter? 
+O'BRIEN [OC]: This is Chief O'Brien, sir. Almost ready. 
+PICARD: Is there a problem? 
+[Transporter room] 
+O'BRIEN: It's the styrolite. I'm altering the delta-T so the styrolite coding materialises two micro-seconds ahead of the child. 
+[Science lab] 
+O'BRIEN [OC]: It has to be right the first time. 
+PICARD: Well take all the time you need. 
+O'BRIEN [OC]: Entering corrections now, sir. 
+[Transporter room] 
+O'BRIEN: Ready, Captain. 
+[Science lab] 
+PULASKI: Doctor Kingsley, are you ready to transport? 
+KINGSLEY [OC]: You have the coordinates. We have one twelve year old male encased in number six styrolite. 
+LAFORGE: Transporter, energise. 
+(A male older than twelve appears on the table) 
+WORF: A trick! 
+LAFORGE: Transporter, reverse 
+PICARD: One moment, Lieutenant. Whoever he is, he's still in stasis. 
+PULASKI: The styrolite is intact, Captain. 
+PICARD: Force field down. 
+TROI: Captain, there's a definite presence, a distinct personality. Even in stasis it's quite strong. The child is unquestionably telepathic. 
+PULASKI: A child this mature? We could be looking at the future of humanity. 
+PICARD: At least Doctor Kingsley's vision of it. 
+(Later, as two nurses do most of the examining with various instruments, Picard returns to the lab) 
+PULASKI: This child is in better health than we are. His immune system is so advanced it may not be possible for him to contract disease. I want to free him from the styrolite. 
+PICARD: That seems rather risky, Doctor. 
+PULASKI: I can do no further tests until he's out of it. 
+PICARD: But what if you're wrong? You saw what happened on the Lantree. 
+PULASKI: I know I'm right. 
+PICARD: I can't expose the Enterprise until I know where this disease came from and how it is transmitted. 
+PULASKI: I realise that, Captain. Naturally, we'll establish a force field containment. 
+PICARD: But if we lose the force field for any reason, we lose the ship. Force fields can fail, and until 
+PULASKI: We don't have that kind of time. These children can't survive in the lab once their parents are dead. Look at him, Captain. He's a human being who needs our help. 
+PICARD: But the risk is 
+PULASKI: Minimal. 
+PICARD: If you can demonstrate that he is biologically harmless without risk to the crew, I'll do everything in my power to assist. And Doctor, God knows I'm not one to discourage input, but I would appreciate it if you'd let me finish my sentences once in a while. 
+[Corridor] 
+PULASKI: Deanna, do you have a minute? You've known the Captain for some time. I think I need some advice. I don't seem to be dealing with him very well. 
+TROI: Why do you say that? 
+PULASKI: Well, my arguments don't seem to have any affect on him. We just end up quoting regulations to each other. He has such a consuming dedication to his ship, he doesn't seem able to step back to see the human side of the equation. 
+(Troi smiles) 
+PULASKI: What's the matter? 
+TROI: Kate, I don't think he'd be where he is if he couldn't see the human side of the equation. Perhaps the two of you aren't all that different. 
+PULASKI: What do you mean? 
+TROI: Let's just say you both have well established personalities. 
+[Doctor's office] 
+PULASKI: Doctor Kingsley, this is Kate Pulaski. 
+KINGSLEY [on monitor]: Doctor? Do you have a decision? 
+PULASKI: I'm afraid it's bad news. 
+KINGSLEY [on monitor]: How can that be?! 
+PULASKI: The risk to the ship and crew is too great. Until we absolutely know the cause of the disease, the children 
+KINGSLEY [on monitor]: The children are harmless. Every test on them has been negative. I demand that you do something to save them. Please, Doctor. For God's sake, we haven't got much time. 
+PULASKI: Stand by. I'll get back to you. 
+[Engineering] 
+PULASKI: Geordi, I need your help. 
+LAFORGE: What is it, Doctor. 
+PULASKI: I need to prove the children are harmless. I can only do that in a fail-safe environment. 
+LAFORGE: The problem is there's no area on the ship that can be sealed off with absolute certainty, even with force fields. 
+PULASKI: Sickbay has an isolated system. 
+LAFORGE: But it's not possible to totally cut it off from the rest of the ship. The only truly independent environment would be something like a shuttlecraft. 
+PULASKI: A shuttlecraft. Why didn't you say so? 
+[Ready room] 
+PICARD: Come. 
+PULASKI: Captain, I'd like permission to put the boy in a shuttlecraft. I can study him there without risk to anyone else. 
+PICARD: What about you? 
+PULASKI: I'm prepared to take that risk. Someone has to breathe the same air he breathes, to touch him. I'm volunteering to make that test myself. 
+PICARD: Doctor, you have a responsibility to this ship which goes 
+PULASKI: I also have a responsibility to humanity. 
+PICARD: Starfleet guidelines about contact with quarantined 
+PULASKI: You don't have to quote the rule book. You were saying? 
+PICARD: Request approved. 
+PULASKI: Captain, you said if I. Approved? 
+PICARD: I recognise that you're trying to satisfy my conditions. 
+PULASKI: Thank you. 
+[Shuttlebay] 
+(Shuttlecraft Sakharov is being prepped for launch) 
+DATA: You sent for me, Doctor? 
+PULASKI: I did, Commander. I assume that you're qualified to pilot this shuttlecraft. 
+DATA: Certainly. I took advanced training in the operation of auxiliary space vessels at Starfleet Academy, where I received 
+PULASKI: A more than passing grade, no doubt. Please, come aboard. We don't have much time. 
+COMPUTER: Shuttlebay three force field activated. 
+[Shuttlecraft] 
+DATA: You're certain the Captain approved this, Doctor? 
+PULASKI: You'll take us a few hundred metres away from the Enterprise and hold position. 
+DATA: Begin shuttlecraft launch sequence. 
+[Bridge] 
+PICARD: Good luck, Doctor. 
+[Shuttlecraft] 
+DATA: We are in position, Doctor. 
+PULASKI: It's the only way to prove they're harmless. 
+DATA: And if they are not? 
+PULASKI: I hate to keep reminding you, but you are a machine. You'll be perfectly safe. 
+DATA: That is by no means certain, Doctor, but I was referring to you. 
+PULASKI: Medical research is sometimes a risky business. It's all part of being human. Shall we proceed? 
+DATA: Ready to transport. 
+[Transporter room] 
+DATA [OC]: You have the coordinates, Chief O'Brien. 
+O'BRIEN: Shuttlecraft, maintain your position and stand by. 
+DATA [OC]: Standing by. 
+[Science lab] 
+O'BRIEN: Transporter control, what's our status? 
+[Transporter room] 
+CREWMAN: We have a green panel, sir. 
+[Science lab] 
+O'BRIEN: Stand by to transport. 
+CREWMAN [OC]: Aye, sir. 
+O'BRIEN: Energise. 
+[Shuttlecraft] 
+(The boy is beamed in, and Pulaski uses a device to remove the styrolite covering from him. He sits up and looks into Kate's eyes) 
+PULASKI: Oh, yes, I do. I understand you perfectly. 
+DATA: How could you, Doctor? He has not said anything. 
+PULASKI: Oh yes, he has. Troi's right. He's telepathic. 
+[Bridge] 
+PICARD: Time? 
+COMPUTER: Zero three two two exactly. 
+PICARD: She's been in direct contact with the boy for eighteen minutes. 
+[Shuttlecraft] 
+(Data is giving Pulaski a medical examination) 
+DATA: All systems are functioning within normal specifications, Doctor. 
+PULASKI: The manufacturer will be pleased to hear it. I appreciate your help, but your bedside manner needs work. 
+DATA: Bedside manner? 
+(Pulaski scans the boy, then drops the instruments and clutches her elbow in agony) 
+DATA: Doctor? 
+PICARD [on monitor]: Doctor, I don't understand. What has happened? 
+PULASKI: There was no warning. 
+PICARD [on monitor]: Explain. 
+PULASKI: Arthritic inflammation. It's the initial symptom of the disease. 
+PICARD [on monitor]: What can we do? 
+PULASKI: Return the boy to Darwin Station. Apparently the children are carriers. 
+[Transporter room] 
+PICARD [OC]: Chief O'Brien, are you ready? 
+O'BRIEN: I have the original coordinates of the Darwin isolation lab, Captain. 
+PICARD [OC]: Quickly, please. 
+O'BRIEN: Shuttle One, hold your position. 
+[Shuttlecraft] 
+DATA: Holding. 
+(Pulaski gives herself a painkilling hypo) 
+O'BRIEN [OC]: Stand by to transport. 
+PULASKI: It wasn't your fault. 
+(The boy is beamed away) 
+PICARD [OC]: Tell us what you need, Doctor. 
+PULASKI: There's nothing you can do, Captain. I'm not going to make myself an exception to the Darwin quarantine. Shuttle One out. 
+DATA: What is your condition, Doctor? 
+PULASKI: Not exactly up to factory specs. I'm sorry. The pain is tolerable, thank you. 
+DATA: Shall I set course for Darwin Station? 
+PULASKI: We're already under quarantined. What do we have to lose? 
+[Observation lounge] 
+PICARD: We can no longer consider the Darwin Station crisis our most immediate concern, although Doctor Pulaski's condition is inseparably linked with that emergency. Her safe return and that of Commander Data must take priority, please. 
+TROI: Shouldn't Doctor Pulaski be involved in this? 
+RIKER: From what we've seen on the Lantree, Doctor Pulaski may not have time to help herself. 
+TROI: Well I suggest we beam them both back onto the ship. Commander Data is most likely immune and surely the biofilter will 
+O'BRIEN: The transporter's biofilter won't protect us. The boy was transported twice already and still infected Doctor Pulaski. 
+LAFORGE: Couldn't we adjust the biofilter? We could alter the filter to screen out whatever it is that's causing the disease. 
+PICARD: But we don't know what's causing the disease. We can't protect ourselves against the unknown. What we need is some kind of filter that doesn't depend on known biological factors. 
+O'BRIEN: We might try the trace. 
+RIKER: The transporter trace? 
+O'BRIEN: As you know, the transporter keeps a record of all transmissions, a pattern if you will. Usually it's just stored for security purposes, but if we use the transporter trace to control the reconstitution process 
+LAFORGE: I don't think it's ever been tried quite that way before, but theoretically it is possible. 
+O'BRIEN: I'd have to make extensive modifications. 
+PICARD: Then do it. It seems we have no alternative. 
+RIKER: Where will we get the trace pattern? The Doctor's never used our transporter. 
+PICARD: Never? 
+RIKER: No. She's a woman of very strongly held opinions, sir. What was her previous assignment? 
+TROI: Her last ship was the Repulse. 
+PICARD: Bridge, Picard. Contact the USS Repulse using subspace captain's priority channel. 
+[Darwin Station Lab] 
+KINGSLEY: Oh, Doctor Pulaski. I can only tell you how much I regret the burden we've imposed on you. On both of you. 
+PULASKI: Commander Data is an android, Doctor. He is unaffected. As for me, I chose this. I was convinced the children were safe. 
+KINGSLEY: I still can't believe you were infected by one of our children. 
+DATA: The evidence is fairly conclusive. 
+KINGSLEY: You don't understand. They were designed to resist disease. 
+PULASKI: I think it's time we talked about that. 
+KINGSLEY: Let me show you something. 
+(They go up some steps to an observation window on the Isolation lab. Seven 'children' are playing games) 
+KINGSLEY: Our ultimate achievement. The oldest is twelve, and all are telekinetic. Watch. 
+(A chess piece glides to an upper level of the three-d board) 
+PULASKI: Genetically engineered? 
+KINGSLEY: Not engineered, created. Perfect in every way. Their body structure, their musculature, their minds. 
+PULASKI: You were telling me about their immune system. 
+KINGSLEY: That was our masterpiece. We gave these children an aggressive immunity. The rest of us were infected by the supply ship, but they were protected. 
+DATA: The Lantree logs indicated that only one crewman had any illness prior to arrival here. The First Officer had a mild case of Thelusian flu. 
+KINGSLEY: Yes, he was one of the crewmen who came in direct contact with us. 
+PULASKI: The Thelusian flu would have little effect on you, but tell me, how would they react? 
+KINGSLEY: Their immune system would release an active antibody that would attack the virus. 
+PULASKI: Even at a distance? 
+KINGSLEY: Their immune systems don't wait for a disease to attack the body. It would seek out an airborne virus and destroy it. 
+PULASKI: Destroy it? How, exactly? 
+KINGSLEY: The antibody would adapt itself to alter the genetic code of the virus. 
+PULASKI: Commander, I want an analysis of the interaction between the Thelusian flu and the children. 
+DATA: On a molecular genetic level? 
+KINGSLEY: We don't have time for that. Genetic analysis could take months. 
+PULASKI: Not necessarily. Commander Data has a way with computers. 
+[Ready room] 
+TAGGERT [on monitor]: Sorry, Picard. We erased Doctor Pulaski's transporter pattern right after she transferred. Not that she used the transporter much, she preferred using the shuttlecraft. I would have given her a shuttle if it would have kept her here. 
+PICARD: Tell me, Taggert, if she served you as well as you say, why did you let her go? 
+TAGGERT [on monitor]: I see you haven't run into her stubborn streak yet. As soon as she found out about an opening on the Enterprise, she put in a request for transfer. Knew your service record backward and forward. Apparently she's been an admirer of yours for some time. 
+PICARD: Extraordinary. 
+[Darwin Station lab] 
+PULASKI: Commander, what have you got? 
+DATA: The answer, I believe, Doctor. The Lantree was not the source of the disease, but it was the trigger. 
+KINGSLEY: Trigger? 
+DATA: The Lantree's First Officer exposed your children to Thelusian flu for the first time. Their active immune systems set out to attack the virus, and once it was triggered, it kept going. The antibody created an unexpected side-effect. It alters the genetic make-up of normal humans. This is a comparison of the normal and altered DNA. These are the two molecules that have been transposed. 
+PULASKI: And since our DNA is self replicating, the process 
+DATA: Is irreversible. 
+PULASKI: Judging from what happened on the Lantree, anyone is a carrier once they're infected. 
+[Bridge] 
+PICARD: Have you made any progress, Doctor? 
+PULASKI [on viewscreen]: I'm afraid so, Captain. The children don't carry the disease, they are the cause. 
+PICARD: What do you mean? 
+PULASKI [on viewscreen]: Their advanced immune system has created an antibody that changes normal DNA. The altered genes are the ones that control aging. 
+PICARD: Then why did it attack you more quickly than Doctor Kingsley? 
+PULASKI [on viewscreen]: The enclosed environment of the shuttlecraft concentrated my exposure. The Lantree's First Officer carried the antibody onto his ship. It had the same effect on his crew. 
+PICARD: Right, what's the next step? 
+PULASKI [on viewscreen]: The children will survive, but the rest of us are just about out of time. 
+PICARD: Doctor, I want you back aboard this ship. We'll beam you up in suspended animation like the boy. That will give us more time. 
+PULASKI [on viewscreen]: Captain, I appreciate what you're trying to do, but I got into this by leaping before I looked, and I won't allow you to make the same mistake. Chief Medical Officer's log. This will be my final report to the Enterprise. Just as changes in evolution are known to be caused by changes in the environment, we now know the process also works in reverse. An attempt to control human evolution has resulted in a new species that's lethal to its predecessors. The children will be condemned to live out their lives in isolation. Quarantine of the Darwin Station must be maintained for ever. 
+[Darwin Station lab] 
+(By now Pulaski is white-haired and wrinkled) 
+DATA: I am sorry I could not be more helpful, Doctor Pulaski. 
+PULASKI: You did everything you could, Commander. As androids go, you're in a class by yourself. 
+DATA: Doctor 
+PULASKI: Please, give my best to the Captain. 
+DATA: Enterprise. Commander Data ready to beam aboard. 
+[Bridge] 
+TROI: Captain, Kate knew what she was doing. 
+PICARD: I wish I could be certain that we'd tried everything.
+WORF: Commander Data is ready to come aboard, sir. 
+PICARD: You have the Bridge, Number One. 
+[Transporter room] 
+CREWMAN: No life forms present. 
+O'BRIEN: You may step down, sir. 
+PICARD: Data, tell me if. It's good to see you again. 
+DATA: Thank you, sir. 
+PICARD: Now, quickly. If the changes in Doctor Pulaski's DNA were reversed, would it be possible 
+DATA: It is not reversible, sir. The subtle molecular transposition of 
+PICARD: Yes, yes, yes. But say if it were undone, would she be normal again? 
+DATA: As normal as ever, sir. 
+PICARD: You said that the transporter could be modified to filter out the changes in Doctor Pulaski? 
+O'BRIEN: Yes, sir, but we were unable to locate her trace pattern. 
+PICARD: Well, what if we used a sample of her DNA, say from a blood test taken before she was exposed to the disease? Could that be used to filter out the genetic changes? 
+O'BRIEN: Well, I'd have to get into the biofilter bus to patch in a molecular matrix reader. That's no problem. But the waveform modulator will be overloaded without the regeneration limiter in the first stage circuit. 
+DATA: Interesting. However, theoretically, 
+PICARD: Data. 
+DATA: Yes, sir. 
+PICARD: Can you do the modifications? 
+O'BRIEN: I think so, sir. 
+PICARD: Then make it so. 
+O'BRIEN: You heard what he said. Let's get those panels off. 
+[Doctor's office] 
+RIKER: A blood test, a tissue sample, anything that would have a sample of Doctor Pulaski's original DNA. 
+DATA: No, sir. Her records were shipped by way of Starfleet headquarters. They have not caught up with us yet. 
+RIKER: This is ridiculous. A cell, a single cell. Let's check her quarters. 
+[Pulaski's quarters] 
+RIKER: Anything. A fingernail, a hair. 
+DATA: Hair brush. 
+(Which for some reason she keeps at the back of a clothes drawer) 
+DATA: It has a follicle, sir. Live cells. 
+[Bridge] 
+PICARD: Darwin Station, this is the Enterprise. 
+PULASKI [on viewscreen]: Go ahead, Captain. I'm here. 
+PICARD: Doctor, we may have a solution. We have a sample of your normal DNA to use as a filter in the transporter. We think that we can beam you aboard while filtering out any of the genetic problems caused by the disease. 
+PULASKI [on viewscreen]: Interesting theory, Captain. If it works, we could use the same technique to save Doctor Kingsley and her colleagues. 
+PICARD: I think you should know, this has never been attempted before. 
+PULASKI [on viewscreen]: Well, I'll tell you one thing. If I live through this, I'll have a much better understanding of geriatrics. 
+[Transporter room] 
+(La Forge and Data are assisting O'Brien and his crewman with the modifications) 
+PICARD: All set, Chief? 
+O'BRIEN: Almost ready, sir. There's just one thing. 
+PICARD: Yes? 
+O'BRIEN: This modification's one way only. If it doesn't work we won't be able to reverse transport the Doctor back to the planet. 
+PICARD: Then I'll operate the transporter controls myself. If she's going to be consigned to oblivion, then 
+O'BRIEN: Thank you, sir. I'll be monitoring the medical scans. But you'll be able to tell if it's worked by watching the stack. 
+PICARD: Doctor Pulaski, are you ready? 
+PULASKI [OC]: I suppose I am, Captain. 
+PICARD: Here we go. 
+(The figure that starts to materialise is white-haired and old) 
+PICARD: It's not working. 
+O'BRIEN: Captain, wait. 
+(He taps his board and she becomes younger, and solid. Picard and Pulaski embrace.) 
+DATA: Doctor. 
+LAFORGE: Good to see you, Doctor. 
+PICARD: Welcome back, Doctor. Come. 
+[Corridor] 
+PULASKI: Captain, if this hadn't worked? 
+PICARD: If this hadn't worked, it would have been necessary to beam your energy into empty space. 
+PULASKI: And spread my atoms spread across the galaxy. 
+PICARD: Yes. I'm sorry. 
+PULASKI: No, no, don't be sorry. Every time I get into the damn thing, I'm convinced that's what's going to happen. 
+Chief Medical Officer's log, supplemental. The adults of Darwin Station have been restored to normal health using our transporter. They will remain on Gagarin Four and continue their research in hopes of one day rejoining their children. 
+[Bridge] 
+WESLEY: Impulse speed. 
+DATA: There she is, Captain. 
+PULASKI [OC]: (continuing log) Scientists believe no experiment is a failure, that even a mistake advances the evolution of understanding. 
+RIKER: Close to forty kilometres. 
+WESLEY: Forty kilometres, aye, sir. 
+PULASKI [OC]: But all achievement has a price. For one brief glimpse at the mysterious blueprint of human evolution, the men and women off the USS Lantree paid with their lives. Their sacrifice is thus noted in this scientist's log. 
+PICARD: Number One.
+RIKER: Lieutenant Worf, arm the photon torpedoes. 
+WORF: Torpedoes ready, Commander. 
+LANTREE: Extreme caution. The USS Lantree is a quarantined vessel by order of Starfleet Command. Do not board. 
+(Every one stands) 
+PICARD: Gentlemen. 
+LANTREE: Extreme caution. The USS Lantree is a quarantined vessel by order of Starfleet Command. Do not board. 
+(The Lantree is cremated in an instant. After a brief moment of reflection) 
+RIKER: Set course and speed for Star Station India. 
+WESLEY: Course and speed set, sir. 
+PICARD: Engage. 

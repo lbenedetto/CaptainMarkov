@@ -1,0 +1,586 @@
+Juggernaut
+[Malon Freighter control room] 
+(Pelk is playing with a model freighter.)
+PELK: Zeeesh. Alert, alert, decompression on platform six eight four. Brace for hull rupture. Thrusters are down. We're going to crash! Ahhh. Hey, what do you think? Look at the detail on the dorsal plating. 
+FESEK: Impressive. Are you sure you're willing to part with it? 
+PELK: I just hope your boy enjoys it as much as I do. 
+FESEK: I'm certain he will, if we make it home in time for his birthday. 
+PELK: We'll make it. 
+FESEK: If you and Savar had a child of your own, you'd have an excuse to play with toys more often. 
+(Rumble, alarm.)
+PELK: I'm detecting a fluctuation in tank four. There's a full scale rupture in progress. 
+FESEK: Isolate the deck. Activate the emergency containment field. 
+PELK: The emergency systems are offline. 
+FESEK: Backup controls are down too. Eject the tank. 
+PELK: Here? There's an inhabited system. 
+FESEK: We have no choice! 
+PELK: The ejection ports aren't responding. 
+FESEK: Impossible.
+DREMK: There's another rupture forming in tank six. 
+FESEK: We'll have to send somebody down there to seal off the tanks manually. Contact the theta core. 
+PELK: Communications are down. 
+FESEK: Get down to the injector pod and seal those tanks. 
+DREMK: I didn't sign up for core labour. 
+FESEK: I'm giving you an order. 
+DREMK: I'll be contaminated. 
+FESEK: Now! 
+[Tuvok's quarters] 
+(Tuvok is giving a lesson in meditation.)
+TUVOK: The flame, like emotion, is a primitive force. Left unchecked, it's chaotic, destructive. But if controlled it can be a powerful tool. The lamp controls the flame, as you must learn to control your emotions. 
+TORRES: I lost my temper. No big deal. 
+TUVOK: You destroyed the Doctor's holographic camera. 
+TORRES: I told him three times to leave Engineering, but he kept buzzing around snapping pictures for some photo essay. 
+TUVOK: A day in the life of the warp core. 
+TORRES: I apologised, and I replicated him a new camera. 
+TUVOK: You have a long history of emotional volatility. The point of this exercise is not to atone for past transgressions, but to prevent future ones. 
+TORRES: You can't order someone to meditate. 
+TUVOK: Commander Chakotay thinks otherwise. 
+(Torres kneels opposite Tuvok.)
+TORRES: Are my eyes supposed to be open or closed for this part. 
+TUVOK: Whichever allows you to focus your mind. 
+(She closes them.)
+TUVOK: Envision the flame burning within you. 
+(Torres laughs.)
+TORRES: Sorry. 
+TUVOK: The flame grows hotter. A point of white light. Follow it backward through the years to a time when you were younger, a child. Is there something amusing, Lieutenant? 
+TORRES: I'm sorry, an image just flashed through my mind. You as a child, those pointy little ears. You must have been cute. 
+TUVOK: Indeed. Please follow my instructions or we'll discontinue this exercise. 
+TORRES: Right. Me, childhood. How old? 
+TUVOK: Your earliest memories. Try to recall a time when you experienced uncontrollable anger. 
+TORRES: Daniel Byrd. 
+TUVOK: I beg your pardon? 
+TORRES: He was one of my classmates in grammar school. He was always terrorising me. He used to point at my cranial ridges and tease me about being half Klingon. He called me Miss Turtlehead. 
+TUVOK: That angered you. 
+TORRES: Of course, it did. So I attacked him once, during recess, on the gyro-swing. I disengaged the centrifugal governor. He was spinning so fast, he almost flew apart. Then I yanked him off the swing and started pounding his little face! If Miss Malvin hadn't showed up, I probably would have 
+TUVOK: Describe the anger you felt at that moment. 
+TORRES: I, I wanted to hurt him. To take revenge for all the humiliation he caused me. 
+TUVOK: Your anger was a source of strength. It protected you, gave you courage. 
+TORRES: I suppose it did. 
+TUVOK: And when the Doctor tried to take a holo-photograph of you? 
+TORRES: I was annoyed. He kept getting in the way. 
+TUVOK: The rage within you runs deep. It's been with you for many years. 
+TORRES: I'm not a Vulcan. I'll survive. 
+TUVOK: Whatever you say, Miss Turtlehead. 
+TORRES: What did you say! 
+TUVOK: You're easily provoked. You must learn to master your emotions. 
+TORRES: I've had enough mastery for one day. School's out. 
+[Bridge] 
+PARIS: So, how'd it go with B'Elanna today? 
+TUVOK: Our meditation sessions are confidential. 
+PARIS: No, I'm not asking for sordid details. I just want to know if you think you can help her. 
+TUVOK: Her training will be a challenge for both of us. 
+PARIS: Take it from me, getting B'Elanna to control her temper is like convincing a Ferengi to leave his estate to charity. 
+KIM: Captain, we're receiving an automated distress call. 
+JANEWAY: Origin? 
+KIM: Coordinates one twenty one by two six eight. Range, two billion kilometres. 
+CHAKOTAY: Who's sending it? 
+KIM: I can't tell. 
+JANEWAY: Let them know help's on the way. Set a course, Mister Paris. 
+(Later, they arrive at the coordinates.)
+TUVOK: Thirty seven escape pods. 
+PARIS: They're contaminated with theta radiation. 
+CHAKOTAY: Malon? 
+JANEWAY: Possibly. Lifesigns? 
+KIM: Two, but they're erratic. 
+JANEWAY: Beam them to Sickbay. Initiate bio-hazard containment procedures. 
+TUVOK: Theta radiation has affected a radius of six hundred million kilometres. 
+JANEWAY: Source? 
+TUVOK: A Malon freighter travelling at high impulse. It appears to be abandoned. 
+[Sickbay] 
+TUVOK: I thought we'd seen the last of the Malon. 
+JANEWAY: I guess they're looking for new places to dump their toxic waste. 
+EMH: Do we know what happened to their ship? Were they attacked? 
+JANEWAY: I'm just as curious as you are. Can you revive either of them? I'm Captain Kathryn Janeway. 
+FESEK: Fesek. Controller Fesek. Where am I? 
+JANEWAY: You're on my vessel. We responded to your distress call. 
+FESEK: My ship? 
+JANEWAY: It's heavily damaged. 
+FESEK: Where? 
+TUVOK: Three million kilometres from here. 
+FESEK: That's too close. We've got to get further away. 
+JANEWAY: Calm down, calm down. Tell me what's wrong with your ship. Why did you abandon it? 
+FESEK: We were on a waste export mission. 
+TUVOK: Dumping theta radiation. 
+FESEK: Two of the theta tanks ruptured. Systems malfunctioned one by one, communications, navigation, propulsion. We had no choice. Radiation was venting from every port. Over sixty crewmen died within minutes. It was chaos. We stumbled through the gas to get to the escape pods. Only a few of us made it. Where are the others? 
+JANEWAY: The two of you were the only ones we found alive. 
+FESEK: Listen to me very carefully. The fact that we're still here means the ship hasn't exploded, yet. When it does, over four trillion isotons of antimatter waste is going to ignite. Everything within three light years will be destroyed. 
+JANEWAY: Janeway to the bridge. 
+CHAKOTAY [OC]: Go ahead. 
+JANEWAY: Put at least five light years between us and the Malon freighter. 
+[Bridge] 
+JANEWAY [OC]: Quickly. 
+CHAKOTAY: You heard her, Tom. 
+JANEWAY [OC]: Send out a sector wide alert. 
+[Sickbay] 
+JANEWAY: Warn any other ships in the vicinity to 
+[Bridge] 
+JANEWAY [OC]: Evacuate immediately. 
+PARIS: Our warp field just collapsed. 
+KIM :All this theta radiation. It's disrupting subspace. 
+CHAKOTAY: Can you reinitialise the field? 
+TORRES: Negative. 
+[Sickbay] 
+JANEWAY: Tuvok. Without warp drive there's no chance we'll clear the blast radius. 
+TUVOK: Agreed. 
+JANEWAY: Mister Paris, set a course for the freighter. Full impulse. 
+PARIS [OC]: Aye, Captain. 
+FESEK: What? 
+JANEWAY: If we can't outrun your ship, maybe we can disable it. 
+FESEK: Every deck has been contaminated. Anyone who goes on board will liquefy within minutes. 
+JANEWAY: We'll find a way. 
+FESEK: We? I'm not going anywhere near that vessel. 
+JANEWAY: You can either stay and help us or I'll send you back to your escape pod. Your choice. Clean them up, Doctor. I need them on the bridge. 
+[Bridge] 
+(They catch up with the freighter.)
+JANEWAY: How long until those storage tanks explode? 
+TORRES: Approximately six hours. 
+JANEWAY: Can we get an away team on board? 
+TUVOK: The freighter's hull is intact. Life support appears to be operational. However, thirty three of forty two decks are flooded with high levels of theta radiation. 
+FESEK: Including the control room, which is where we'd have to go to reestablish containment. As I told you. 
+TORRES: We could beam on to one of the lower levels where there's less radiation, and vent the contaminated sections one by one. 
+CHAKOTAY: Clear a path to the control room. 
+FESEK: I appreciate what you're trying to do, but if what you're considering were possible, we'd have tried it before we abandoned the ship. We have years of experience aboard freighters of this gradient. 
+TORRES: Your experience is what got us into this mess in the first place. 
+JANEWAY: That's enough, Lieutenant. 
+FESEK: Maybe there's another way. 
+JANEWAY: I'm listening. 
+FESEK: Four hours from here there's a nebula that could protect us from the blast. We could alter course, wait there until after the explosion. 
+JANEWAY: There are at least three other ships in the sector. What about them? 
+FESEK: I don't see what we can do. 
+TORRES: So hundreds of people become contaminated because you're not willing to clean up your garbage. 
+JANEWAY: Lieutenant. Assemble an away team. We're going over there. 
+PELK: Wait! Tell them about the Vihaar. 
+JANEWAY: What's he talking about? 
+FESEK: Nothing. It's a myth. 
+CHAKOTAY: What kind of myth? 
+FESEK: It's an old story shared among freighter crews. Some of them say they've seen creatures in the theta storage tanks. 
+TORRES: Creatures? 
+FESEK: Created by radiogenic waste. According to the legend, they are poisonous monsters that wreak havoc aboard Malon ships. It's a common belief among our more superstitious recruits. 
+PELK: I never believed it myself, but during the evacuation some of the crew people saw something. A form. 
+FESEK: Hallucinations are one of the first symptoms of theta poisoning. You know that. 
+PELK: Maybe. Then how do you explain what happened? We checked every system. 
+TORRES: You'd say anything to get out of going back to that freighter. 
+PELK: If you'd been there, you'd be afraid to go back, too. 
+[Engineering] 
+CHAKOTAY: This chamber seems to be the least affected by radiation. We'll beam in there. 
+PELK: That's fifteen decks below the control room. 
+CHAKOTAY: We'll have to work our way up. 
+FESEK: The pressurisation systems, they're offline. How will we vent the gas? 
+NEELIX: There are two main airlocks on each deck. We'll open them as we go. Perform a series of controlled decompressions. 
+PELK: What's to stop us from being vented? 
+NEELIX: Forcefields. I spent six years aboard a Talaxian garbage scow. I know a few things about waste management. 
+PELK: Even low levels of theta radiation can be lethal. 
+CHAKOTAY: Our Doctor's developed an inoculation. It'll temporarily prevent our cells from absorbing the radiation. 
+FESEK: How long will it last? 
+CHAKOTAY: Two, three hours. 
+PELK: Half of the doors and bulkheads are fused. The ascenders are offline. It could take us twice as long as that to reach the control room. 
+CHAKOTAY: Then we'll have to work quickly. We'll take phasers to cut through any obstacles. 
+FESEK: I've ordered my men to do a lot of risky things, but nothing as foolish as this. 
+TORRES: More foolish than towing around a trillion isotons of toxic waste? 
+FESEK: We take every precaution to keep it contained. 
+TORRES: Until you dump it in someone's back yard. 
+FESEK: Is your crew always so diplomatic? 
+CHAKOTAY: Your concerns are noted. Get them inoculated. We'll meet you in Transporter room one. 
+(Neelix and the Malons leave.)
+CHAKOTAY: We're trying to avoid explosions, remember? 
+TORRES: Oh! Not another lecture about my emotions. 
+CHAKOTAY: No, a lecture about how to treat guests aboard this ship. 
+TORRES: Guests? Chakotay, these people are the scourge of the quadrant. 
+CHAKOTAY: Agreed, but right now they're our only hope of repairing that freighter, so I suggest you make friends. 
+TORRES: Diplomacy. Janeway's answer to everything. 
+CHAKOTAY: This isn't the Captain talking, it's me, and I'm giving you an order. Keep your temper in check. Understood? Understood? 
+TORRES: Yeah. 
+CHAKOTAY: I didn't hear you. 
+TORRES: Yes. 
+CHAKOTAY: B'Elanna, I need your expertise on this mission, not your bad mood. 
+TORRES: I'll see what I can do. 
+[Mess hall] 
+(Neelix is making a thick soup. He has to force himself to taste it.)
+CHAKOTAY: Ready, Neelix? 
+NEELIX: Ah, not quite. Do we still have a minute? It's just it's not quite strong enough yet. Would you mind passing me that little dish? 
+CHAKOTAY: Neelix, I admire your dedication, but the crew can figure out lunch on their own. 
+NEELIX: Lunch, and dinner, and a midnight snack have all been taken care of. This is for me. It's a Talaxian theta radiation remedy. Crushed rama leaf and katyllian clove. It helps fortify the cellular membranes. 
+CHAKOTAY: I think the Doctor's inoculation might be a better way to go. 
+NEELIX: Every little bit helps. Oh, by the way, thank you. 
+CHAKOTAY: For what? 
+NEELIX: For sending me on such an important mission. Not that my duties in the mess hall aren't challenging. 
+CHAKOTAY: It was an easy choice. You were the best man for the job. 
+NEELIX: Well, our scow once ran smack into a theta radiation field. Knocked the propulsion out. We had no choice but to sit there. We were barely alive when they found us. If it hadn't been for this, nobody would have survived. 
+(He forces himself to take another mouthful.)
+NEELIX: Once you get past the choking reflex it's really not so bad. Want to try some? 
+CHAKOTAY: I'll take my chances. 
+KIM [OC]: Transporter room one to Commander Chakotay. We're ready to proceed. 
+CHAKOTAY: On our way. 
+[Corridor] 
+PARIS: B'Elanna. Aren't you forgetting something? 
+TORRES: I don't think so. 
+PARIS: A goodbye would be nice. So long, see you soon, something along those lines. 
+TORRES: I didn't want to risk it. 
+PARIS: Risk what? 
+TORRES: Starting an argument. 
+PARIS: Argument? Us? So, I hear it's been a short fuse kind of day. 
+TORRES: About this long. 
+PARIS: Nothing you can't handle. 
+TORRES: If you think so. 
+PARIS: I know so. 
+TORRES: I suppose it's always going to be like this. 
+PARIS: Like what? 
+TORRES: Me against the galaxy. 
+PARIS: Well, the galaxy doesn't stand a chance. Now, promise me that you're going to be careful over there. No stopping to have fun. 
+TORRES: Fun? On a Malon freighter? 
+(He kisses her.)
+PARIS: See you soon. 
+[Malon Freighter corridor] 
+(They cough regularly.)
+NEELIX: Well, it's nothing a fresh coat of paint wouldn't brighten up. 
+FESEK: This way. 
+TORRES: Theta radiation density, twenty million EV per cubic metre. Structural integrity's holding. Wish I could say the same for my lungs. 
+(Bang!)
+NEELIX: What was that? 
+CHAKOTAY: This corridor's filled with methogenic particles, highly charged. 
+(Another Bang!)
+TORRES: Something's causing an electrostatic cascade. Our scanning signals are igniting the particles. It's the tricorders! 
+CHAKOTAY: Take cover. 
+(Torres removes her smouldering jacket.)
+CHAKOTAY: No more tricorders. 
+(They get to a bulkhead.)
+PELK: Control mechanisms are down. We're going to have to open the airlocks manually. 
+FESEK: Wait here. We'll take care of it. 
+CHAKOTAY: B'Elanna, go with him. 
+FESEK: We can do this ourselves. 
+CHAKOTAY: I'd prefer to keep an eye on your progress. 
+FESEK: You're on my freighter. I'm in charge here. 
+CHAKOTAY: You abandoned ship, remember? You take your orders from me. 
+FESEK: We'll have to crawl into an injector port. It's only big enough for two people. 
+CHAKOTAY: Pelk, you stay with us. 
+TORRES: Shall we? 
+[Injector port] 
+(They crawl through a dirty Jefferies tube.)
+TORRES: How can you stand to work in these conditions? 
+FESEK: You think we're animals, don't you? 
+TORRES: You said it, not me. 
+FESEK: I'm a waste controller half the year. Do you know what I do the rest of the time? I'm a sculptor. 
+TORRES: What's your point? 
+FESEK: Every year I give up work I love to expose myself to radiation that will probably cut my life in half. 
+TORRES: Then why do it? 
+FESEK: Have you ever been to Malon Prime? It's a remarkable place. It's one of the most beautiful worlds you'll ever see. Our planet would choke with industrial wastes if it weren't for the sacrifices of people like me. 
+TORRES: How many worlds are you willing to contaminate to keep your own home so tidy? 
+FESEK: Do you have any idea of the trouble we go to, to locate isolated areas? Ah, manual actuators. I'll release them, you monitor the pressure variance. 
+TORRES: Right. 
+FESEK: Do you have any children? 
+TORRES: No. 
+FESEK: I have a son. He's seven years old. He wants to be a waste controller when he grows up. 
+TORRES: You must be very proud. 
+FESEK: Ready. 
+TORRES: Torres to Chakotay. Stand by for the decompression sequence. 
+CHAKOTAY [OC]: Acknowledged. 
+(Fesek throws the contacts.)
+TORRES: It didn't work. 
+FESEK: There's something jamming the airlock controls. 
+[Malon Freighter corridor] 
+TORRES [OC]: Torres to Chakotay. We've got a problem. The actuators aren't working. Somebody's going to have to go up there and take a look. 
+NEELIX: Wait. That deck is still contaminated. 
+PELK: I'll go. I've been exposed to worse. 
+NEELIX: Wait. 
+(Neelix gives Pelk another injection.)
+NEELIX: One for the road. 
+PELK: It's probably just the decouplers. They're always getting encrusted with oxides. 
+(We are treated to a point of view with a different coloured filter on the scene, and heavy breathing.) 
+PELK: Who's there? 
+(Pelk backs away, then something grabs him.)
+PELK: Help! Help! Help! 
+(Chakotay and Neelix run to him.)
+PELK: I saw it. I saw it. 
+CHAKOTAY: What? 
+PELK: The creature. 
+NEELIX: Give me twenty cc's of anesthezine. 
+CHAKOTAY: Chakotay to Voyager. Transporter status. 
+KIM [OC]: Still too much interference. I'll try compensating. Stand by for further instructions. 
+TORRES: What happened? 
+NEELIX: We don't know. He went away for a minute, he screamed, and we found him here. 
+FESEK: These look like chemical burns. 
+NEELIX: Without tricorders, it's hard to make a diagnosis. 
+PELK: It's here. 
+FESEK: What? 
+PELK: The creature. 
+FESEK: You're hallucinating. It's the radiation, but you're going to be all right. 
+PELK: No. It attacked me. It, oh. 
+NEELIX: He's going into shock. Cortical stimulator. 
+FESEK: Pelk, get up! 
+NEELIX: He's not responding. 
+(Pelk dies.)
+CHAKOTAY: He said the creature attacked him. 
+FESEK: He imagined it. He was probably scalded when that conduit ruptured. 
+TORRES: Or maybe there is someone else on this ship. 
+KIM [OC]: Voyager to away team. Transporter interference has cleared. We're locked onto your coordinates. Stand by. 
+CHAKOTAY: Harry, Pelk is dead. Lock onto his signal and beam him to Sickbay. Ask the Doctor to determine the cause of death. 
+KIM [OC]: Aye sir. 
+CHAKOTAY: Someone still needs to get up there and open the airlocks. 
+FESEK: Me. 
+CHAKOTAY: Hold on. I'll join you. From now on nobody works alone. 
+[Bridge] 
+JANEWAY: Progress? 
+KIM: They've vented five decks. Ten to go. 
+TUVOK: At this rate, they'll reach the control room in approximately three hours. However, the storage tanks will detonate in less than two. 
+JANEWAY: I've been working on a contingency plan. (She calls up a short range scan on Tuvok's wall monitor.)
+TUVOK: An O type star. 
+JANEWAY: If the freighter exploded within the star's corona it might absorb the radiation. 
+TUVOK: The star is not on the freighter's trajectory. 
+JANEWAY: What if we gave it a little nudge? 
+TUVOK: A series of carefully timed tractor pulses could alter the freighter's course. But given the vessel's weakened state, one miscalculation could set off the explosion. 
+JANEWAY: I'm still counting on the away team to succeed, but I want to be ready with plan B if they don't. 
+[Malon Freighter corridor] 
+TORRES: I don't know about the rest of you but I could sure use a sonic shower. 
+NEELIX: I'd love to soak in a hot bath for a day or two. 
+TORRES: Oh no, not me. I want to feel those sonic pulses dissolving every last atom of this grime off my body. 
+FESEK: We have a decontamination bay on board that can purge over fifty workers at a time. 
+TORRES: Well, that sounds like fun. 
+(Torres has a coughing fit.)
+NEELIX: B'Elanna? 
+TORRES: I'm okay, just a little light-headed. 
+NEELIX: Your hand. 
+(It has blisters.)
+TORRES: Oh, God. 
+FESEK: Freighter blight, from the prolonged exposure. 
+TORRES: Lovely. 
+FESEK: In my business, it's an occupational hazard. 
+TORRES: We'd better try inoculating you again. 
+FESEK: If she's blistering, she's already received a fatal dose of radiation. She needs treatment. 
+TORRES: I'll live. Let's keep moving. 
+FESEK: We have medicines in the infirmary. It's only two sections from here. 
+TORRES: We don't have time for a detour. 
+CHAKOTAY: B'Elanna, go with him. We'll meet you outside the control room. 
+TORRES: Chakotay, I'm fine. 
+CHAKOTAY: I said go! 
+[Malon Freighter Infirmary] 
+TORRES: This is the infirmary? It looks more like a morgue. What happened to him? 
+FESEK: It looks like he was being treated for long term exposure. He was probably left behind during the evacuation. 
+TORRES: Tough luck, huh? 
+FESEK: There was nothing more we could do for him. He was a core labourer. 
+TORRES: Meaning? 
+FESEK: He worked close to the storage tanks. Only three of ten core labourers survive a standard mission. 
+TORRES: Occupational hazard? 
+FESEK: They know the risks when they accept the assignment. 
+TORRES: They know they're going to end up like this? 
+FESEK: Core labourers can make more in two months than most Malon make in a lifetime. 
+TORRES: What good is the money if they're not around to collect it. 
+FESEK: It will go to his family. 
+TORRES: What is that thing? 
+FESEK: It's a subdermal injector. It contains analeptic compounds to reverse the cell damage. 
+TORRES: I feel better already. 
+FESEK: I won't hurt you. I've done this a hundred times. You'll feel a slight burning sensation. 
+(Fesek plunges the two large needles into Torres' neck.) 
+[Astrometrics lab] 
+SEVEN: Commander. The Captain's plan B. I've calculated the inertial force required to divert the freighter. Plan C. Shield modulations that should reduce the structural damage of Voyager. It will also help protect the crew against theta radiation poisoning, if we fail. 
+TUVOK: A wise precaution. With any luck, we won't be needing it. 
+SEVEN: I didn't think Vulcans believed in luck. 
+TUVOK: As a rule we don't, but serving with Captain Janeway has taught me otherwise. 
+SEVEN: She does seem to succeed more often than random chance would allow. I'll factor it into my calculations. 
+TUVOK: Is there a Plan D? 
+SEVEN: No. 
+[Malon Freighter deck five] 
+(The team is doing the work on the run now.)
+FESEK: Initiating decompression sequence, deck four. Deck clear. 
+NEELIX: Twelve down, three to go. 
+TORRES: The airlocks are opening on this deck. 
+FESEK: What? 
+TORRES: I can't close them. 
+(The atmosphere starts to rush out.)
+NEELIX: Forcefields, where are they? 
+TORRES: They're offline! 
+CHAKOTAY: We've got to get off this deck. Move! 
+FESEK: This way. 
+(They climb an access ladder. Chakotay is last, and gets hit by a piece of flying debris.) 
+[Malon Freighter deck four] 
+TORRES: Chakotay! 
+NEELIX: He was right behind me. 
+TORRES: Torres to Chakotay. 
+FESEK: That deck is a vacuum by now. 
+TORRES: Torres to Voyager. 
+KIM [OC]: Acknowledged. 
+TORRES: Lock onto Chakotay's comm. signal and beam him to Sickbay. 
+(There is a pause, then)
+KIM [OC]: We've got him. He's okay. 
+TORRES: I thought that deck was secure. 
+FESEK: It was. 
+TORRES: Then why did we almost get blown into space? 
+FESEK: I don't know. 
+TORRES: Airlocks don't open by themselves! 
+FESEK: What are you saying? You think it was me? 
+NEELIX: Calm down, both of you! We don't have time to argue about what happened. We've got to keep moving. 
+(A shadowy figure watches them leave.) 
+[Bridge] 
+(Janeway is working at engineering station 2.)
+JANEWAY: Chakotay? 
+TUVOK: Unconscious but stable. The Doctor is treating him now. We'll be able to talk to him in less than an hour. 
+JANEWAY: I'll want a full report. 
+TUVOK: Shall I beam to the freighter and take command of the away team? 
+JANEWAY: I just spoke with B'Elanna. She's got everything under control. 
+TUVOK: This is a dangerous situation. There is no margin for emotional error. 
+JANEWAY: We have plenty to do here. Help me remodulate the tractor beam. 
+TUVOK: B'Elanna is unpredictable, Captain. Under these circumstances, her volatile nature could compromise the mission. 
+JANEWAY: Your concerns are noted, but if I send you over there I'd be sending the wrong message. That I don't have faith in her. But I do. 
+TUVOK: Your faith is admirable, but logic suggests 
+JANEWAY: This isn't about logic, it's about trust. She'll come through for us. Now, give me a hand. 
+[Malon Freighter deck two] 
+(Torres is kneeling with her back against a bulkhead.)
+NEELIX: Lieutenant? Lieuten. Are you all right? 
+TORRES: Fine. Report. 
+NEELIX: We just vented the last deck. We should have a clear path to the control room. 
+TORRES: Let's get this thing over with, then. 
+NEELIX: If you need to rest. 
+TORRES: I said I'm fine. I was meditating. 
+NEELIX: Meditating? You? 
+TORRES: Do me a favour. Don't tell Tuvok. 
+NEELIX: Your secret's safe. 
+TORRES: It's this place. 
+NEELIX: I know how you feel. The next time I volunteer to board a Malon freighter, check me into Sickbay and have my head examined. 
+TORRES: I feel like I'm ready to explode. 
+NEELIX: We'll get through this together. I've got a knack for diffusing explosive situations. 
+TORRES: Thanks. 
+[Astrometrics lab] 
+TORRES [OC]: Torres to Astrometrics. 
+SEVEN: Go ahead. 
+TORRES [OC]: We're outside the control room 
+[Malon Freighter corridor] 
+TORRES: But without tricorders we can't tell if it's safe to go in there. 
+[Astrometrics lab] 
+SEVEN: The room is too heavily shielded. Our sensors can't penetrate it. 
+[Malon Freighter corridor] 
+SEVEN [OC]: You must stand by. 
+FESEK: The theta dampening field is still active. It should be safe. 
+TORRES: After you. 
+[Malon Freighter control room] 
+FESEK: It's worse than I expected. The theta gas has leaked into the warp manifold. 
+NEELIX: We've got less than ten minutes before this vessel explodes. 
+FESEK: Emergency systems are down. 
+TORRES: This should feed enough energy to your power matrix to reinitialise them. Try it now. 
+FESEK: They're coming back online, but only one containment grid is still operational. We have two unstable tanks. One grid can't handle them both. 
+TORRES: We'll seal them one at a time. 
+[Sickbay] 
+(Chakotay wakes.)
+CHAKOTAY: Doctor? 
+EMH: Easy, Commander. 
+CHAKOTAY: Ow, my head aches. 
+EMH: I'm not surprised. You took a severe blow. 
+CHAKOTAY: I've got to get back to the freighter. 
+EMH: Not in this condition. If you want to help, you can answer some questions about Mister Pelk's death. I've found unidentified tissue in his wounds. 
+CHAKOTAY: What sort of tissue? 
+EMH: The computer is running a microcellular scan. 
+CHAKOTAY: Pelk said he was attacked. 
+EMH: Ah yes, the Malon Bogeyman. 
+COMPUTER: Microcellular analysis is complete. 
+EMH: Odd. The tissue is saturated with theta radiation, but it's not showing signs of decay. It came from someone or something that's developed a resistance to the radiation. Sickbay to Seven of Nine. 
+SEVEN [OC]: Yes, Doctor. 
+EMH: Scan for additional lifeforms aboard the Malon vessel. 
+SEVEN: I've been running continuous scans. 
+[Astrometrics lab] 
+SEVEN: I assure you there is no one there aside from the away team. 
+[Sickbay] 
+EMH: This lifeform's heavily irradiated. It could be blending in with ambient toxins. 
+[Astrometrics lab] 
+SEVEN: I'll recalibrate our sensors. 
+[Malon Freighter control room] 
+FESEK: Tank one stable. 
+TORRES: Reroute the containment grid to the tank two. 
+(Bang!)
+NEELIX: What happened? 
+FESEK: A power surge. We're losing the grid. 
+TORRES: It was triggered from a workstation on this deck. 
+JANEWAY [OC]: Janeway to away team. 
+[Bridge] 
+JANEWAY: We've detected an alien lifeform aboard the freighter. We believe it killed Pelk. 
+TORRES [OC]: Captain, we just lost power. 
+JANEWAY: We're diverting the freighter into a nearby star. Leave the control room so we can get a lock on you. 
+TORRES [OC]: Acknowledged. 
+[Malon Freighter control room] 
+(The control room door shuts.)
+NEELIX: What's going on? 
+TORRES: It's jammed. 
+SEVEN [OC]: Seven of Nine 
+[Astrometrics lab] 
+SEVEN: To away team. I've detected the alien lifeform. It's moving toward your position. 
+[Malon Freighter control room] 
+(Gas pours in through the air vents.)
+NEELIX: The gas is being routed through the environmental systems. 
+TORRES: I'll try to shut it down. 
+NEELIX: Is there another way out? 
+FESEK: No. 
+[Bridge] 
+JANEWAY: Do you have them? 
+KIM: Not yet. 
+[Astrometrics lab] 
+SEVEN: The lifeform has entered the control room. 
+[Malon Freighter control room] 
+TORRES: I'm trying to vent the gas, but the release valves are jammed. 
+FESEK: Use the environmental controls instead. 
+TORRES: In the meantime, see if you can get that hatch open. 
+(The lifeform knocks out Neelix.)
+TORRES: Neelix? 
+(She draws her phaser.)
+FESEK: No, you'll ignite the gas. 
+TORRES: Neelix? 
+(She goes into the cloud of gas, and Neelix grabs her shoulder before collapsing into her arms.)
+TORRES: We've got to get him back to Voyager. Get that hatch open! 
+FESEK: I'm trying! 
+TORRES: Fesek, behind you! 
+(The lifeform attacks Fesek. Torres gets a metal pipe and takes a swing, then backs away to a control panel to vent the gas. The clearing air reveals -)
+TORRES: You're a core labourer. 
+VIHAAR: Not anymore. 
+(His skin is a mass of blisters.)
+TORRES: Stay back. Don't make me kill you. 
+VIHAAR: I'm already dead. 
+TORRES: You've been sabotaging this ship. 
+VIHAAR: There's no other way to make them understand. 
+TORRES: So that's your way of getting even? Killing your crew? Causing an explosion that will contaminate other ships? 
+VIHAAR: They poisoned me! 
+(He attacks Torres, she dodges then the freighter shakes, knocking them both to the deck.) 
+[Bridge] 
+TUVOK: The freighter is on course for the star. 
+JANEWAY: Away team, we've adjusted the vessel's course. It's heading for an O type star. 
+[Malon Freighter control room] 
+JANEWAY [OC]: You have to get out of there now. 
+VIHAAR: No. No. 
+(He uses the control panel.) 
+[Bridge] 
+PARIS: The freighter's manoeuvring thrusters just activated. It's altering course. 
+JANEWAY: Compensate. 
+TUVOK: No effect. I'm detecting radiation surges in the theta tanks. They're going to detonate in three minutes. 
+JANEWAY: Harry? 
+KIM: As long as they're in the control room I can't get a lock 
+JANEWAY: Janeway to away team. Get those manoeuvring thrusters 
+[Malon Freighter control room] 
+JANEWAY [OC]: Offline then get out of the contaminated area. We can't get a transporter lock on you. 
+TORRES: Get the hell away from there, now! 
+VIHAAR: No! It's too late! 
+TORRES: Okay. Okay. Look, I know what they've done to you. They used you. You want to hurt them. Listen, listen to me. I know. I know that you're so angry you want to destroy everything in sight, but there's another way to make them understand. I'm on your side. I can help you. Innocent people are going to die if you do this. 
+VIHAAR: No. It's over. 
+TORRES: Please, please. Please, let me help you. 
+VIHAAR: No. 
+TORRES: Step away! 
+(She thrashes Vihaar with the metal pipe, then uses the control panel.) 
+[Bridge] 
+PARIS: The Malon's thrusters are powering down. 
+TUVOK: I have restored the freighter's trajectory. 
+JANEWAY: B'Elanna, get out of there. 
+[Malon Freighter control room] 
+(Torres helps Neelix.)
+TORRES: Come on, we've got to go. Fesek. 
+(Voyager peels off as the freighter approaches the star and starts to explode.) 
+[Bridge] 
+(The shock wave makes some consoles go bang.)
+JANEWAY: The away team, Mister Kim? 
+KIM: I got them. 
+[Sickbay] 
+CHAKOTAY: Maybe the meditation's working. 
+TORRES: What makes you say that? 
+CHAKOTAY: From what Neelix told me. You kept your temper in check over there. 
+TORRES: Don't expect me to make a habit of it. 
+EMH: Well, I've repaired most of your cellular degradation. (to Fesek) I wish I could say the same for you, but you've suffered long term systemic damage. Your condition will deteriorate over time. 
+FESEK: It's an occupational hazard. 
+JANEWAY: We've contacted a Malon transport ship in the next sector. We've altered course to rendezvous with them. 
+FESEK: Thank you, Captain. I don't know how I'm going to explain what happened. 
+TORRES: Tell them the truth. Tell them the Vihaar is no myth. 
+[Torres' quarters] 
+(Torres undresses, and remembers her furious attack on the Vihaar.) 
+TORRES: Computer, activate sonic shower. 

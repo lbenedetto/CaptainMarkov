@@ -1,0 +1,578 @@
+Nightingale
+Captain's log, stardate 54274.7. Lieutenant Torres has finally convinced me that I can't put off a major maintenance overhaul any longer. We've set down on an uninhabited planet, and I've sent shuttles to search for supplies. 
+[Engineering] 
+JANEWAY: What about the impulse upgrades? 
+TORRES: The day after tomorrow. Put a new phase compensator on that relay. 
+JANEWAY: Environmental control? 
+TORRES: The thermal regulators are still running a little hot. 
+JANEWAY: Too bad we can't just keep the windows open. How long until the warp drive is back online?
+TORRES: Six days. 
+JANEWAY: You're sure you can't get it done any faster? 
+TORRES: Captain, I don't like sitting still any more than you do, but repairs this extensive take time. 
+(The lights go out.) 
+TORRES: Mendez, track down that power drain. 
+MENDEZ: Right away. 
+JANEWAY: I know this ship has been through a lot, but you told me this would only take a few days. 
+TORRES: That was before I discovered the microfractures in the starboard nacelle and the fused relays in the main computer. 
+(The lights come back on.) 
+TORRES: Who did that? 
+ICHEB: I noticed a charge imbalance in the EPS feed. I'm sorry if I 
+TORRES: It could have taken us hours to find that.
+ICHEB: I have a tactical systems report for you. It's from Commander Tuvok. 
+TORRES: I'd say you're capable of a lot more than delivering PADDs, Icheb. 
+JANEWAY: I agree. Until we get underway again, he's assigned to you. With him on your team, maybe you'll get this job done a little faster. 
+[Delta Flyer - cockpit] 
+(Neelix has his feet up, and is snoring.)
+KIM: Neelix? 
+(Kim sounds an alarm to wake him.)
+KIM: Rise and shine. It's oh five hundred. 
+NEELIX: Already? Oh. I was dreaming we found the dilithium and were back aboard Voyager. 
+SEVEN: Dreaming is an accurate description. 
+NEELIX: Didn't we already scan this nebula? 
+SEVEN: Four times. 
+KIM: I thought the Borg were known for being thorough. 
+SEVEN: The Borg value efficiency, not redundancy. 
+KIM: I've got a hunch about this nebula. There's dilithium in there somewhere. 
+NEELIX: I'm getting some fluctuating energy readings. 
+KIM: From the nebula? 
+NEELIX: No, it's weapons fire. 
+(A vessel is coming in fast, firing past them. The impacts light up another vessel directly ahead.)
+KIM: Let's get out of here. 
+NEELIX: We're receiving a distress call. 
+TEREK [on monitor]: have casualties. Please help us. We're on a humanitarian mission delivering medical supplies. 
+(The ship decloaks.)
+KIM: Reverse course. 
+NEELIX: We can't just leave them. 
+KIM: Starfleet policy. Interference in alien conflicts is strictly prohibited. 
+NEELIX: You heard their captain. It's a medical ship. 
+SEVEN: Their shields are down. Life support is failing on at least three decks. 
+KIM: Open a channel to the other ship. 
+KIM: This is Ensign Kim of the Delta Flyer. I don't know what you're fighting about, but it looks like you've won. The people on the other ship have casualties. We'd like to
+ANNARI COMMANDER [on monitor]: This isn't your concern. 
+KIM: I'm not taking sides. I only want to help the wounded. 
+ANNARI COMMANDER [on monitor]: Withdraw immediately. 
+SEVEN: They're charging weapons. 
+KIM: Neelix, set our deflector beam for a narrow pulse. Seven, let me know the second their weapons array is fully charged. I might be able to trigger an overload. 
+NEELIX: The deflector bandwidth is at point four microns. 
+SEVEN: Now.
+(Kim fies the pulse at the Annari ship and then veers off.)
+SEVEN: Their weapons are offline. Shields are down. They're retreating. 
+KIM: Take the helm. Neelix, you're with me. 
+[Kraylor ship - Bridge] 
+(The place is wrecked.)
+KIM: Who's in charge here? 
+TEREK: He is. 
+(He indicates a corpse) 
+TEREK: What are we going to do? 
+KIM: It's okay, we're here to help. The ship that attacked you is gone. 
+LOKEN: Who are you? 
+KIM: Harry Kim from the Starship Voyager. We're responding to your distress call. We can treat your wounded. 
+LOKEN: The captain? 
+TEREK: Dead, sir. So are the rest of the officers. 
+NEELIX: I'm reading a total of twenty seven lifeforms aboard the ship. 
+DAYLA: There were fifty six of us. 
+LOKEN: How are we going to get home without the officers? 
+KIM: We need to restore main power. Where's the warp interface? 
+LOKEN: We're passengers, not crewmen. 
+TEREK: You can access engineering systems from here. 
+KIM: Your warp core is intact. I think I can bring it back online. Can you monitor antimatter flow? 
+TEREK: I'm not sure. 
+KIM: Just watch this readout and tell me if it starts to fluctuate. I'm routing emergency power to structural integrity. Atmospheric pressure is returning to normal. Neelix, we'll go through the ship deck by deck, find the survivors. 
+LOKEN: We need to get our cloak back online. 
+KIM: I'll take a look at it as soon as I've repaired the engines. 
+LOKEN: No, the cloak is more important. 
+DAYLA: The Annari have far more powerful weapons than we do. If they come back, the cloak is our best defence. 
+KIM: We'll try to get it back online. Kim to Delta Flyer. 
+SEVEN [OC]: Go ahead. 
+KIM: I need your help, Seven. It looks like we're going to be here for a while. 
+(Later, Kim is repairing bridge consoles.)
+TEREK: How did you do it? 
+KIM: Do what? 
+TEREK: Disable the Annari warship so quickly? 
+KIM: Basically, we used their own weapons against them. 
+TEREK: How? 
+KIM: We used a deflector pulse to overload their phaser banks.
+TEREK: You know a lot about engineering. 
+KIM: It's all part of my Starfleet training. 
+TEREK: Starfleet? 
+KIM: Yeah, the organisation I work for. 
+TEREK: And they teach you all these things? 
+KIM: We train at an Academy ,and I guess I picked up a few new tricks during my time on Voyager. 
+TEREK: How long have you been captain? 
+KIM: I'm just an Ensign. 
+TEREK: Ensign? What's that? 
+KIM: A junior officer. The lowest ranked officer, actually. 
+TEREK: This is my first deep space assignment. It hasn't gone very well.
+KIM: Could you hand me that? My first week on the job didn't go very well, either. We ended up seventy thousand light years from home, lost over a dozen crew members, but I got through it. So will you. 
+TEREK: I hope so. 
+KIM: If you're going to be a starship officer, you've got to accept that adversity comes with the job. 
+[Cargo Bay two] 
+(Icheb has a plate of food on his console.)
+TORRES: What's that? 
+ICHEB: It's a diagnostic of the antimatter injectors. 
+TORRES: No, I meant that stuff you're eating. 
+ICHEB: Nutritional supplements replicated to meet my metabolic requirements. 
+TORRES: Sounds delicious. You know, in the mess hall they actually have tables and chairs for that.
+ICHEB: I prefer to work while I eat. It's a more efficient use of my time. 
+TORRES: You did a great job today. We're ahead of schedule, thanks to you. Here's what we're going to work on tomorrow. I'll see you at oh six hundred. Icheb? 
+ICHEB: Yes? 
+TORRES: What do you do for fun? 
+ICHEB: Fun? 
+TORRES: Recreation. How do you spend your time when you're off duty? 
+ICHEB: Between my work and my studies I don't have much time for recreation. 
+TORRES: I've learned that you've got to take a break once in awhile. I've been doing a lot of rock climbing on the holodeck. Maybe when we're finished tightening all the nuts and bolts, you'd like to join me. 
+ICHEB: I do have an interest in geology. 
+TORRES: It's not about the rocks, Icheb. It's about the climbing. 
+[Kraylor ship - Bridge] 
+SEVEN: Main power has been restored. All stations responding. 
+KIM: The cloak's back online. Impulse and warp drives are standing by. Shields are at ninety six percent. I'd say you're ready to get back on course. 
+LOKEN: We appreciate your help. 
+KIM: I hope you have a safe journey. 
+LOKEN: Mister Kim, I feel guilty asking even more of you, but no one on this ship knows how to fly it. 
+KIM: None of you has ever piloted a starship? 
+TEREK: I've trained in shuttles, but nothing like this. 
+KIM: I'll enter a flight plan in the auto-navigation system and give you a quick course in helm operations. You shouldn't have any trouble. 
+LOKEN: Couldn't you take us? This ship needs an experienced commanding officer.
+KIM: I'm sorry, but we've already gotten more involved than we should have. And they need us back on Voyager.
+LOKEN: It's not just my ship that concerns me. You've made an enemy of the Annari now. But if you dock your ship in our shuttlebay, our cloak will protect you. 
+KIM: That's a generous offer, but we'll be fine. 
+LOKEN: Please, Mister Kim, we can't afford to fail. This ship, 
+DAYLA: Loken, don't. 
+LOKEN: We can trust these people. I'm a doctor. These people are my research team. We're carrying new vaccines to our homeland. They'll save thousands of lives.
+NEELIX: Sir, I looked at their flight plan. It takes them pretty close to Voyager. 
+KIM: I'll bring you as far as our ship. When we get there, you can discuss your situation with my captain. 
+LOKEN: Thank you. 
+SEVEN: What about Starfleet policy? 
+KIM: This is a humanitarian mission. Dock the Flyer in their shuttlebay. 
+(The ship cloaks and goes to warp. Later -)
+NEELIX: We're approaching the planet. 
+KIM: Take us out of warp. Disengage the cloak. 
+SEVEN: Wait. I'm detecting three alien vessels in orbit. 
+KIM: On screen. 
+TEREK: Those are Annari warships. Your people are in danger. 
+[Bridge] 
+JANEWAY: I apologise for the state of my ship. We weren't expecting company. 
+GERAL: I hope we're not imposing. 
+CHAKOTAY: Not at all. Making contact with new cultures is a priority for us. 
+GERAL: For us, too. This is a fine ship, Captain. 
+JANEWAY: One of the best in the fleet, but it could use a new set of deuterium injectors. 
+CHAKOTAY: Any chance you could provide them? 
+GERAL: I think we can arrange something. What are you offering in exchange? 
+JANEWAY: Zeolitic ore. We mined several tons of it from an asteroid field. It's high-grade, easy to refine. 
+GERAL: I'll speak to my supply officer. 
+TUVOK: We're being hailed by Ensign Kim. Audio only. 
+JANEWAY: Hello, Harry. 
+KIM [OC]: Is everything all right? 
+JANEWAY: Of course. Why wouldn't it be? 
+[Kraylor ship - Bridge] 
+KIM: Our long range scans detected several alien ships orbiting the planet. 
+[Bridge] 
+JANEWAY: I appreciate your concern, but there's nothing to worry about. We've made some new friends, that's all. When can we expect you back? 
+[Kraylor ship - Bridge] 
+KIM: We've run into a slight delay. 
+JANEWAY [OC]: Nothing serious, I hope. 
+KIM: No. Everything's under control. 
+JANEWAY [OC]: Good. 
+[Bridge] 
+JANEWAY: Any luck finding dilithium? 
+KIM [OC]: I'm afraid not. 
+JANEWAY: I'll tell the other teams to keep looking. See you soon, Ensign. 
+KIM [OC]: Yes, ma'am. Kim out. 
+GERAL: Dilithium? We can get that for you, too. 
+JANEWAY: Really? 
+[Kraylor ship - Bridge] 
+LOKEN: She's formed an alliance with our enemy. 
+KIM: Just because they're talking doesn't mean they formed an alliance. It's probably just a friendly meeting. 
+LOKEN: That's how the Annari operate. They come to you as friends and when they've won your trust, they declare you subjects of the Annari Empire. 
+[Bridge] 
+KIM [OC]: Kim to Voyager. 
+JANEWAY: We didn't expect you so soon. 
+KIM [OC]: Actually, Captain, I'm closer than I let on. And I've brought some new friends of my own. 
+[Briefing room] 
+LOKEN: Our chances of getting home without your help aren't very good. We'd appreciate any assistance you could offer. 
+JANEWAY: I hope you understand, I need to give this some thought. 
+(Loken leaves.) 
+JANEWAY: You've put me in a difficult position, Ensign. We could use the help the Annari are offering, but if they find out we're aiding their enemy
+KIM: I couldn't just stand by and do nothing. 
+JANEWAY: That doesn't justify getting involved in somebody else's fight. 
+KIM: What would you have done? 
+JANEWAY: Probably exactly what you did. 
+KIM: I guess I learned from the best. 
+JANEWAY: If this were simply an errand of mercy I wouldn't hesitate, but the fact is, these people are involved in an interplanetary war.
+KIM: Captain, I've gotten to know them over the last couple of days. You met Loken. They're scientists, not soldiers.
+JANEWAY: You've only heard one side of the story. 
+KIM: You've taken sides before. The Borg resistance. The Vaadwaur. 
+JANEWAY: Those were different circumstances. 
+KIM: You were trying to help people in need. How is this any different? 
+JANEWAY: Have you thought about applying to the Advocate General's office? You'd make a good lawyer. I suppose I could spare Chakotay or Tuvok for a few days. 
+KIM: That won't be necessary. The Kraylor know me. They trust me. 
+JANEWAY: I'm sure they'd find Tuvok or Chakotay just as trustworthy. 
+KIM: But they outrank me. If you send one of them, it won't be my mission anymore. 
+JANEWAY: Your mission? 
+KIM: My first real command. 
+JANEWAY: You've been in command on Voyager before. 
+KIM: On the night shift, for a few hours. It's not the same thing. You and Chakotay are always a couple of decks away, ready to take over if anything goes wrong. I've been on Voyager for almost seven years and I'm still an Ensign. 
+JANEWAY: If this is your way of bucking for a promotion 
+KIM: No, no, I understand there's a command structure and that our circumstances are unique. But the fact is, if we were back home, I'd be a Lieutenant by now. Maybe even a Lieutenant Commander. 
+JANEWAY: You're pretty sure of yourself, aren't you? 
+KIM: I know I can do this, and the Kraylor are giving me a chance to prove it. 
+JANEWAY: I expect you back before we complete our repairs. 
+KIM: Yes, ma'am. 
+JANEWAY: And I'm not sending you alone. 
+KIM: Captain 
+JANEWAY: I want you to take Seven. Since she has no rank, you clearly outrank her. 
+[Doctor's office] 
+ICHEB: Lieutenant Torres asked me to repair a malfunctioning holo-emitter. 
+EMH: It's about time. Whenever I move to the far corner of the surgical bay 
+[Sickbay]
+EMH: My legs disappear.
+ICHEB: Seven of Nine told me you gave her social lessons. 
+EMH: She wanted to get along better with the crew. Social skills are one thing the Borg never assimilated. 
+ICHEB: I was hoping you could instruct me as well. 
+EMH: I'd be delighted. Lesson One, Making a First Impression. 
+ICHEB: Actually, I wanted to ask you about something specific. 
+EMH: Fire away. 
+ICHEB: How can you tell when someone has romantic feelings for you?
+EMH: Icheb, this is a surprise. Have you caught someone's eye? 
+ICHEB: I'm speaking hypothetically. 
+EMH: Ah. Hypothetically, there are various indications of romantic attraction. Compliments, for example. Invitations to social activities. Finding excuses to be in close proximity with someone. 
+ICHEB: Yes, but couldn't those things happen in a relationship that wasn't romantic? 
+EMH: I suppose. 
+ICHEB: Is there a way to be absolutely certain?
+EMH: Well, short of an open declaration of affection, there are some fairly reliable physiological responses. Elevated blood pressure, increased beta endorphin production. 
+ICHEB: Thank you, Doctor. You've been very helpful. 
+(Icheb leaves.)
+EMH: With my guidance, you'll master the nuances of social interaction in no time. 
+[Corridor] 
+PARIS: Harry. Take me with you, buddy. 
+KIM: Sorry, Tom. This is my mission. 
+PARIS: Oh, come on. I've been itching to get back into space ever since we set down on this dust bowl. I'm tired of cleaning conduits and replacing relays. 
+KIM: You're a married man now. You've got family responsibilities. Just leave the away missions to the young, unattached guys. 
+PARIS: That ship is in pretty bad shape. You're going to need a good pilot. 
+KIM: No, thanks. 
+PARIS: Wait a minute. I know what this is about. 
+KIM: You do? 
+PARIS: Sure. You've got a girl on that ship you don't want me to know about. 
+KIM: There's no girl. Not this time. 
+PARIS: Then what is it? 
+KIM: I don't know how else to this say this, so I'll just say it. You've always been Captain Proton, I have always been Buster Kincaid. It's my turn this time. 
+[Mess hall] 
+NEELIX: I'm glad you're not planning to leave on an empty stomach, Captain. I have plomeek soup and eggplant parmesan. 
+KIM: Either's fine. 
+NEELIX: Wrong answer. 
+KIM: Excuse me? 
+NEELIX: If you're going to be a captain you have to act like a captain. Never admit you're uncertain about anything. You can't be indecisive in front of your crew. 
+KIM: It's just a snack, Neelix. 
+NEELIX: When Captain Janeway comes in here, she knows exactly what she wants. 
+KIM: Maybe I'm just not as picky about my food. 
+NEELIX: Whatever you say, Ensign. 
+KIM: Neelix! Plomeek soup, and make sure it's hot. 
+[Kraylor ship - Bridge] 
+(Kim and Seven enter.)
+TEREK: Captain on the bridge. 
+KIM: Where did you learn that? 
+TEREK: I've been studying that Starfleet manual you loaned me. 
+KIM: Take your station, Mister Terek. 
+TEREK: Aye, sir. Course? 
+KIM: I'll do it. Laying in a course, heading one one five, mark thirty seven. Does this ship have a name? 
+TEREK: Medical transport one three six. 
+KIM: I think we can do better than that. Nightingale. The name of someone from my homeworld. She was famous for treating wounded soldiers on the battlefield. 
+LOKEN: It's perfect. 
+KIM: Hail Voyager. 
+(Seven complies.)
+KIM: Kim to Voyager. We're ready to get underway. 
+JANEWAY [OC]: Acknowledged. Good luck. 
+KIM: See you in a few days. Kim out. Main power. 
+SEVEN: Online. 
+KIM: Tactical. 
+DAYLA: Shields and weapons standing by. 
+KIM: Bring the cloak online. Warp six. Engage. 
+KIM [OC]: Acting Captain's personal log, stardate 54277.3. My first day in command has been challenging, but I've loved every minute of it. I can't help feeling that this was something I was born to do. 
+[Kraylor ship - Ready room] 
+(Kim tidies his desk and strokes his saxaphone, before sitting and putting his feet up.)
+SEVEN: The hourly status report you requested. 
+KIM: Thanks. 
+SEVEN: Why have you brought these items aboard?
+KIM: They make me feel more at home. 
+SEVEN: We'll only be on this vessel for a few days. Decorating is an inefficient use of your time. 
+KIM: It's important to forge a personal connection with your vessel, make the ship your own. Ask Captain Janeway. 
+SEVEN: I'll discuss it with her the moment we return. 
+KIM: Is there anything else? 
+SEVEN: I asked Terek to make a course correction. 
+KIM: He's never done that before. I'd better check on him. 
+SEVEN: I believe he's capable of doing it himself. 
+[Kraylor ship - Bridge] 
+KIM: Status? 
+TEREK: I've entered the new heading. 
+KIM: Looks like the guidance vector is off by a couple of microns. 
+TEREK: I was about to correct that. 
+KIM: You need to realign the primary navigational sensor first. 
+TEREK: Yes, sir. 
+KIM: And make sure it stays locked on your guide star. Here, let me show you.
+(Terek gives up his seat.) 
+[Jefferies tube] 
+ICHEB: I'm, I'm sorry, Lieutenant. 
+TORRES: Don't worry about it. Bumping elbows comes with the job. And you can call me B'Elanna. Put this with the others. These relays should have been replaced a while ago. It's amazing they've held up this long. I'm really looking forward to our climb. 
+ICHEB: Wouldn't you prefer to spend your free time with your husband? 
+TORRES: If it doesn't involve a race car, a shuttle, or something else he can drive, Tom's not interested. Besides, since we got married I see more than enough of him. Hold still.
+(Torres opens a ceiling hatch and stands up. Icheb scans her.) 
+[Kraylor ship - Bridge] 
+KIM: What's that? 
+DAYLA: I'm reading a power fluctuation somewhere in the propulsion system. 
+SEVEN: It's destabilising the cloak. 
+KIM: All stop. 
+(The ship decloaks.) 
+[Kraylor ship - Engineering] 
+KIM: The core is stable. That should take care of it. 
+LOKEN: Are you absolutely certain? 
+KIM: As a scientist, you should know there's no such thing as absolute certainty. 
+SEVEN: Perhaps we could run a diagnostic before we 
+KIM: That would take hours. Captain Janeway wants us back before Voyager finishes its overhaul. 
+LOKEN: The cloaking system is delicate. It requires constant attention. 
+KIM: Correct me if I'm wrong, you're a physician. You have to trust me on this. We'll monitor it closely, don't worry. 
+LOKEN: I simply want to ensure that our mission is a success. 
+KIM: You asked me to take command of this ship, and that's what I'm doing. 
+(Loken leaves. Kim speaks to Dayla.) 
+KIM: Tell Terek to resume course. 
+(Dayla leaves.)
+SEVEN: I've discovered a serious flaw in one of the ship's systems. 
+KIM: Which one? 
+SEVEN: The captain. The captain's main function is to issue orders, correct? 
+KIM: Right. 
+SEVEN: And the crew's function is to support the captain and carry out those orders. 
+KIM: What's your point? 
+SEVEN: Every time you give an order, you carry it out yourself. And when someone else makes a suggestion, you dismiss it. 
+KIM: These people are inexperienced. They need my help. 
+SEVEN: When you first came aboard Voyager, did Captain Janeway help you? 
+KIM: Sure, she looked after all the junior officers. 
+SEVEN: By doing your work for you? 
+KIM: No. She gave me a lot to do, actually. 
+SEVEN: Because she felt you were more capable than she was? 
+KIM: Of course not. She wanted me to learn. To gain confidence. 
+SEVEN: Interesting. 
+[Kraylor ship - Bridge] 
+(Back in flight, the cloak stutters again.)
+KIM: Emergency power. Repolarise the containment field. 
+DAYLA: I can't. 
+LOKEN: The cloak is going to fail again. 
+KIM: Don't panic. This is a minor malfunction. 
+LOKEN: Minor? We're losing our main defence system. 
+TEREK: We've been detected. Two Annari vessels are closing on our position. Correction, six Annari vessels. 
+(The Annari shoot at them.)
+KIM: Evasive manoeuvres. Kim to Engineering. 
+[Kraylor ship - Engineering] 
+SEVEN: Go ahead. 
+[Kraylor ship - Bridge] 
+KIM: We need that cloak back online. 
+[Kraylor ship - Engineering] 
+SEVEN: The primary generator has failed. I'm trying to 
+(An explosion knocks her out.)
+KIM [OC]: Seven? 
+[Kraylor ship - Bridge] 
+KIM: Seven, come in. (to Terek) You have the bridge. 
+TEREK: We need you here. 
+DAYLA: I'll go, sir. 
+KIM: All right. I'll give you instructions over the comm. Charge phaser banks. Target their weapons array. 
+TEREK: Which ship? 
+KIM: The closest one, off our port bow. 
+[Kraylor ship - Engineering] 
+DAYLA: Dayla to the Bridge. Life support failing down here. I've gotten everyone out. 
+[Kraylor ship - Bridge] 
+KIM: Good work. Now go to the cloaking generator. 
+[Kraylor ship - Engineering] 
+KIM [OC]: What's the field polarity? 
+DAYLA: Two hundred six point four. 
+KIM [OC]: That's too low. We're going to have to raise it. 
+DAYLA: I'm bypassing the phase converter. 
+[Kraylor ship - Bridge] 
+KIM: No, wait, I didn't tell you to do that. 
+[Kraylor ship - Engineering] 
+DAYLA: Won't that increase the field polarity? 
+KIM [OC]: Yes, but. 
+[Kraylor ship - Bridge] 
+KIM: Listen to me carefully. I want you to try 
+LOKEN: Dayla, it's Loken. Take the warp core offline. 
+KIM: What are you talking about? 
+LOKEN: Bypass the driver coil and shunt power directly to the polaron matrix. 
+(The ship vanishes.)
+TEREK: The cloak is back online. 
+KIM: Get us out of here, full impulse. Dayla, secure the Engineering section and get back to the bridge. Dayla? 
+LOKEN: I'm not reading any life signs in Engineering. 
+[Kraylor ship - crew quarters] 
+(Kim scans an unconsious Seven while Loken enters.)
+KIM: Dayla? 
+LOKEN: She's dead. How's Seven? 
+KIM: She may be in shock. I'm not sure. Have a look. 
+(Loken scans Seven.)
+KIM: Your opinion, Doctor?
+LOKEN: I believe she may be in shock. 
+KIM: Do you think we should give her a cortical stimulant? 
+LOKEN: That might be indicated. 
+KIM: You're no doctor, are you? You and I need to talk. Alone. 
+[Kraylor ship - Ready room] 
+KIM: What the hell is going on? 
+LOKEN: I don't know what you mean. 
+KIM: Nothing about this mission is adding up. It's obvious you know a lot more about cloaking systems than biology. So did Dayla. And the second our cloak failed, half a dozen Annari warships came after us, one little medical transport. The truth! 
+LOKEN: My colleagues and I have been working at a secret base, but not to create vaccines. We've been developing cloaking devices for our fleet. 
+KIM: This ship is a prototype. 
+LOKEN: The Annari know we have it, and they don't want us to get it home. 
+KIM: I never would have agreed to this if I had known you had a military objective. 
+LOKEN: Our world has been under an Annari blockade for three years. The planet is protected by a shield grid, but it's almost impossible to get our ships in or out. 
+KIM: I convinced Captain Janeway this was a humanitarian mission. 
+LOKEN: It is. The Annari are choking us to death, slowly. If we can't get supply ships through the blockade, we can't get food to our people. Or medicine. 
+KIM: For all I know, that's another lie. 
+[Kraylor ship - Bridge] 
+KIM: Reverse course. 
+TEREK: Sir? 
+KIM: We're heading back to Voyager. 
+TEREK: I don't understand. 
+LOKEN: He knows about the cloak. 
+TEREK: I would've told you, but 
+KIM: I gave you an order. 
+TEREK: What about the mission?
+KIM: That's not your concern. You want to be a Starship officer? Your job is to follow orders. 
+TEREK: Sir, I don't think you 
+KIM: This is not a debate. You're under my command. 
+TEREK: No, sir. Not any more. 
+KIM: You're relieved. You, take the helm.
+LOKEN: I believe you're the one who's been relieved. 
+[Corridor] 
+PARIS: Where are you going in such a hurry? 
+ICHEB: Engineering, to assist B'Elanna. 
+PARIS: Ah. 
+ICHEB: Lieutenant Torres. 
+PARIS: You've been seeing a lot of my wife lately. Should I be worried? 
+ICHEB: The repairs are extensive. It's a lot of work. 
+PARIS: You can't fool me. I heard you two were planning on scaling some cliffs together. 
+ICHEB: It was her idea. 
+PARIS: Hey, relax. Spending time on the holodeck is good for you. But if you really want to have fun, forget climbing. Try my race car programme. 
+ICHEB: Race car? 
+PARIS: You get to chase me around the track in an old Earth ground vehicle. Three hundred kph. It'll really get your blood pumping. 
+ICHEB: Are you challenging me to a competition? 
+PARIS: Do you think you can take me? Tomorrow, holodeck two, nineteen hundred hours. 
+[Engineering] 
+ICHEB: There is something we need to discuss. 
+TORRES: Sure, as soon as you help me finish this diagnostic. 
+ICHEB: I can't do this. 
+TORRES: Of course you can. You've done dozens of them. 
+ICHEB: I'm not talking about the diagnostic. I'm talking about us. 
+TORRES: Us? 
+ICHEB: Your interest in me. It's inappropriate. 
+TORRES: I don't think I understand. 
+ICHEB: It's obvious you desire a romantic involvement. 
+TORRES: Excuse me? 
+ICHEB: You've made all the customary overtures, Finding reasons to spend time with me, complimenting me, inviting me to engage in recreational activities. Your husband even challenged me to a ritual contest.
+TORRES: What are you talking about? 
+ICHEB: According to my research, it's a traditional Klingon practice. 
+TORRES: Look, I'm sorry, but you've got the wrong idea. You seemed a little lonely. I was just trying to be friendly. 
+ICHEB: I scanned you. 
+TORRES: You scanned me? 
+ICHEB: In the Jefferies tube. Your blood pressure and neurotransmitter readings indicated a state of arousal. 
+TORRES: It was hot, and I've been under a lot of pressure, but I certainly wasn't aroused. Look, Icheb, I like you. But aside from the fact that I am a much older woman, I'm married. 
+ICHEB: That's why we have to do the honourable thing. We should stop seeing each other. 
+TORRES: You're right. As much as it hurts, I'll just have to face the truth. 
+ICHEB: It's for the best. 
+[Kraylor ship - crew quarters] 
+KIM: Seven. Feeling better? 
+SEVEN: Well enough to return to duty. 
+KIM: You won't be returning to duty. Not on this ship anyway. Loken lied to us. There's no vaccine. The cloak is the real cargo. I ordered the crew to take us back to Voyager, but they refused. 
+SEVEN: They mutinied. 
+KIM: I guess that's what you'd call it. I've packed some supplies. We'll take an escape pod. I'm hoping the Annari will leave us alone, treat us as neutral parties. 
+SEVEN: We're not neutral parties. 
+KIM: This is a military mission. We can't get involved. 
+SEVEN: We've been involved since you first fired on that Annari ship. 
+KIM: I thought I was helping people in distress. 
+SEVEN: Don't they still need your help? Are you abandoning this ship because the mission wasn't what you expected, or because being a captain wasn't what you expected? 
+KIM: I am perfectly capable of commanding a starship. 
+SEVEN: Are you? Clearly, you're uncomfortable with the role, delegating tasks, giving orders. 
+KIM: Someone died following my orders. 
+SEVEN: You can't blame yourself for that. 
+KIM: A captain's responsible for the lives of his crew. 
+SEVEN: People sometimes die on missions, despite the captain's best efforts. 
+KIM: I should have stuck to playing Buster Kincaid. 
+SEVEN: A holodeck programme can be turned off when it no longer suits you. Reality can't. If you really feel responsible for this crew, you'll help them get home, because they won't survive without you. 
+[Kraylor ship - Bridge] 
+(Circular explosions light up parts of the planet's forcefield.)
+TEREK: Is that some new kind of weapon? 
+LOKEN: They're scanning pulses designed to illuminate cloaked ships. If we hit one, we'll be exposed.
+TEREK: How are we going to get through? 
+KIM: We'll find a way. 
+LOKEN: I thought you were leaving. 
+KIM: I get claustrophobic in escape pods. Switch to manual helm control. Full power to shields. 
+(Loken nods.)
+TEREK: Aye, Captain. 
+[Bridge] 
+TUVOK: Two Annari ships have entered orbit. They are hailing. 
+JANEWAY: On screen. Captain Geral, we have twelve isotons of ore for you. 
+GERAL [on viewscreen]: I'm under orders to escort you out of Annari space immediately. You've been supporting our enemy. 
+JANEWAY: You must be mistaken. 
+GERAL [on viewscreen]: A shuttlecraft matching your hull composition fired on one of our ships several days ago, and we recently detected two human bio-signatures on a Kraylor warship. 
+JANEWAY: I can explain that. 
+GERAL [on viewscreen]: If you don't leave immediately, we'll be forced to fire on you. 
+JANEWAY: Our warp drive is still being repaired. 
+GERAL [on viewscreen]: Then we'll escort you at impulse. You have five minutes to lift off. 
+CHAKOTAY: So much for our new deuterium injectors. 
+PARIS: What about Harry and Seven? 
+JANEWAY: We'll go looking for them, as soon as we get rid of our escort. 
+[Kraylor ship - Bridge] 
+KIM: Evasive manoeuvres. 
+TEREK: There are too many of them. 
+KIM: You're doing fine. Just try to stay at least one hundred metres ahead of the closest pulse. 
+TEREK: Yes, sir. 
+LOKEN: We should return fire. 
+KIM: No. That would only give them another way to triangulate our position. 
+LOKEN: Our shields are failing. 
+SEVEN: We're losing structural integrity on the lower decks. 
+KIM: Reroute emergency power. 
+SEVEN: It's insufficient. 
+KIM: Open a channel to the lead Annari ship. 
+TEREK: Sir? 
+KIM: Do it. 
+TEREK: Aye, sir. 
+KIM: This is Captain Kim of the Kraylor vessel Nightingale. I'm prepared to discuss terms for our surrender. End transmission. 
+LOKEN: We trusted you. 
+KIM: And you still should. 
+TEREK: They're responding. 
+KIM: I don't have time to explain. On screen. 
+ANNARI COMMANDER [on viewscreen]: Your surrender will be unconditional. 
+KIM: No, it won't. Either you allow my crew to evacuate to the surface, or I'll put this ship on self-destruct. You'll never get the cloaking technology. Something tells me your superiors won't be happy about that. 
+ANNARI COMMANDER [on viewscreen]: Your crew will be taken aboard my vessel and brought to an Annari detention centre. 
+KIM: My crew's going to the surface in escape pods. Once they're clear, you can lock onto this ship with a tractor beam. 
+ANNARI COMMANDER [on viewscreen]: Agreed. You've two minutes to evacuate.
+TEREK: I will not abandon this ship. 
+KIM: I'm glad to hear that, because I'm going to need you here. Get your people into the pods, quickly. 
+LOKEN: But the cloak. 
+KIM: I've got a plan to save it. If I fail, at least the scientist who designed it will be alive to create another one. Seven, scan the Annari's tractor emitters. I need to know the exact beam polarity. 
+TEREK: What are we going to do? 
+KIM: Once they lock onto us, they're going to come about and pull us away from the planet. As soon as they do, we're going to reverse our shield polarity. If we time it right, it should give us enough momentum to outrun them to the defence perimeter. 
+TEREK: We're going to use their own weapons against them. 
+SEVEN: The escape pods are away. 
+KIM: Disengage the cloak. 
+SEVEN: They've locked on. 
+TEREK: Sir? 
+KIM: Not yet. Steady. Now! 
+(They fire a pulse back at the Annari ship and zoom away.)
+KIM: Status? 
+SEVEN: Shields are failing. 
+TEREK: Four Annari vessels are in pursuit. They're closing. 
+KIM: Full thrusters. 
+SEVEN: Shields are down. 
+KIM: Get us through that defence perimeter, Mister Terek. 
+TEREK: Yes, sir. We're inside.
+SEVEN: The Annari have broken off their pursuit. 
+KIM: Take us to the surface, Mister Terek. 
+[Bridge] 
+PARIS: We've just crossed out of Annari space. 
+CHAKOTAY: Our escorts have broken off. They're going to warp. 
+JANEWAY: Bring the long range sensors online. You and Tom, take the Flyer. Start your search at Harry's last known position. Tuvok, send an encrypted message to the Kraylor homeworld. See if they know where Harry and Seven are. 
+TUVOK: That won't be necessary, Captain. Ensign Kim is hailing us. 
+JANEWAY: From where? 
+TUVOK: A cloaked vessel. It's directly astern. 
+KIM [OC]: Acting Captain's log, stardate 54282.5. Final entry. New cloaking systems are being installed in other Kraylor ships, so I guess the mission was a success. Still, I wish I felt better about it. 
+[Mess Hall] 
+NEELIX: Welcome home. 
+KIM: It's good to be back. 
+NEELIX: So, what'll it be tonight? I have a light tula cheese souffl� or a zesty lasagne. 
+KIM: You know, Neelix, the truth is, I'm not sure. 
+NEELIX: I thought we talked about this. A captain has to be deci 
+KIM: I'm not a captain, Neelix. Not yet, anyway. 
