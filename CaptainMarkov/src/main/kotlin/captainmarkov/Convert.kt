@@ -4,12 +4,14 @@ import java.io.File
 import java.nio.file.Files
 import java.nio.file.Path
 import java.nio.file.Paths
+import java.util.stream.Collectors
 
 object Convert {
     @JvmStatic
     fun main(args: Array<String>) {
         val paths = Files.walk(Paths.get("scripts/Voyager"))
             .filter { path -> !path.toFile().isDirectory }
+            .collect(Collectors.toList())
         //Separate to prevent concurrent modification
         paths.forEach(this::processPath2)
     }
