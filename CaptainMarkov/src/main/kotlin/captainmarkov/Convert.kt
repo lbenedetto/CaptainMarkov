@@ -8,29 +8,26 @@ import java.nio.file.Paths
 object Convert {
     @JvmStatic
     fun main(args: Array<String>) {
-        Files.walk(Paths.get("scripts/DS9"))
-                .filter { path -> !path.toFile().isDirectory }
-                .forEach(this::processPath2)
-
+        val paths = Files.walk(Paths.get("scripts/Voyager"))
+            .filter { path -> !path.toFile().isDirectory }
+        //Separate to prevent concurrent modification
+        paths.forEach(this::processPath2)
     }
 
     private fun processPath(path: Path) {
         val episodeName = Files.readAllLines(path)
-                .take(3)
-                .last()
+            .take(3)
+            .last()
 
         path.toFile().renameTo(File(path.toString().replace(".txt", " $episodeName.txt")))
     }
 
     private fun processPath2(path: Path) {
-        val map = populate()
+        val map = populateVoyager()
         val file = path.toFile()
-        if (file.name.startsWith("Episode")) {
-            val oldPath = path.toString().replace(file.name, "")
-            var newFileName = file.name.substring(12).replace(".txt", "")
-            newFileName = "${map[newFileName]} $newFileName.txt"
-            file.renameTo(File(oldPath + newFileName))
-        }
+        val episodeName = file.name.replace(".txt", "")
+        val newFileName = "${map[episodeName]} ${file.name}"
+        file.renameTo(File("./scripts/Voyager/$newFileName"))
     }
 
     private fun populateVoyager(): HashMap<String, String> {
@@ -75,14 +72,16 @@ object Convert {
         map["The Thaw"] = "S2E23"
         map["Tuvix"] = "S2E24"
         map["Resolutions"] = "S2E25"
-        map["Basics"] = "S2E26&S3E01"
+        map["Basics - Part 1"] = "S2E26"
+        map["Basics - Part 2"] = "S3E01"
         map["Flashback"] = "S3E02"
         map["The Chute"] = "S3E03"
         map["The Swarm"] = "S3E04"
         map["False Profits"] = "S3E05"
         map["Remember"] = "S3E06"
         map["Sacred Ground"] = "S3E07"
-        map["Future's End"] = "S3E08&09"
+        map["Future's End - Part 1"] = "S3E08"
+        map["Future's End - Part 2"] = "S3E09"
         map["Warlord"] = "S3E10"
         map["The Q and the Grey"] = "S3E11"
         map["Macrocosm"] = "S3E12"
@@ -99,14 +98,16 @@ object Convert {
         map["Distant Origin"] = "S3E23"
         map["Displaced"] = "S3E24"
         map["Worst Case Scenario"] = "S3E25"
-        map["Scorpion"] = "S3E26&S4E01"
+        map["Scorpion - Part 1"] = "S3E26"
+        map["Scorpion - Part 2"] = "S4E01"
         map["The Gift"] = "S4E02"
         map["Day of Honor"] = "S4E03"
         map["Nemesis"] = "S4E04"
         map["Revulsion"] = "S4E05"
         map["The Raven"] = "S4E06"
         map["Scientific Method"] = "S4E07"
-        map["Year of Hell"] = "S4E08&09"
+        map["Year of Hell - Part 1"] = "S4E08"
+        map["Year of Hell - Part 2"] = "S4E09"
         map["Random Thoughts"] = "S4E10"
         map["Concerning Flight"] = "S4E11"
         map["Mortal Coil"] = "S4E12"
@@ -115,7 +116,8 @@ object Convert {
         map["Hunters"] = "S4E15"
         map["Prey"] = "S4E16"
         map["Retrospect"] = "S4E17"
-        map["The Killing Game"] = "S4E18&19"
+        map["The Killing Game - Part 1"] = "S4E18"
+        map["The Killing Game - Part 2"] = "S4E19"
         map["Vis a Vis"] = "S4E20"
         map["The Omega Directive"] = "S4E21"
         map["Unforgettable"] = "S4E22"
@@ -139,18 +141,19 @@ object Convert {
         map["Bliss"] = "S5E14"
         map["Dark Frontier"] = "S5E15&16"
         map["The Disease"] = "S5E17"
-        map["Course: Oblivion"] = "S5E18"
+        map["Course Oblivion"] = "S5E18"
         map["The Fight"] = "S5E19"
         map["Think Tank"] = "S5E20"
         map["Juggernaut"] = "S5E21"
         map["Someone to Watch Over Me"] = "S5E22"
-        map["11:59"] = "S5E23"
+        map["1159"] = "S5E23"
         map["Relativity"] = "S5E24"
         map["Warhead"] = "S5E25"
-        map["Equinox"] = "S5E26&S6E01"
+        map["Equinox - Part 1"] = "S5E26"
+        map["Equinox - Part 2"] = "S6E01"
         map["Survival Instinct"] = "S6E02"
         map["Barge of the Dead"] = "S6E03"
-        map["Tinker] = Tenor] = Doctor] = Spy"] = "S6E04"
+        map["Tinker, Tenor, Doctor, Spy"] = "S6E04"
         map["Alice"] = "S6E05"
         map["Riddles"] = "S6E06"
         map["Dragon's Teeth"] = "S6E07"
@@ -172,7 +175,8 @@ object Convert {
         map["Fury"] = "S6E23"
         map["Life Line"] = "S6E24"
         map["The Haunting of Deck Twelve"] = "S6E25"
-        map["Unimatrix Zero"] = "S6E26&S7E01"
+        map["Unimatrix Zero - Part 1"] = "S6E26"
+        map["Unimatrix Zero - Part 2"] = "S7E01"
         map["Imperfection"] = "S7E02"
         map["Drive"] = "S7E03"
         map["Repression"] = "S7E04"
@@ -186,10 +190,11 @@ object Convert {
         map["Repentance"] = "S7E13"
         map["Prophecy"] = "S7E14"
         map["The Void"] = "S7E15"
-        map["Workforce"] = "S7E16&17"
+        map["Workforce - Part 1"] = "S7E16"
+        map["Workforce - Part 2"] = "S7E17"
         map["Human Error"] = "S7E18"
         map["Q2"] = "S7E19"
-        map["Author] = Author"] = "S7E20"
+        map["Author, Author"] = "S7E20"
         map["Friendship One"] = "S7E21"
         map["Natural Law"] = "S7E22"
         map["Homestead"] = "S7E23"
@@ -381,7 +386,7 @@ object Convert {
         return map
     }
 
-    private fun populate(): HashMap<String, String> {
+    private fun populateDS9(): HashMap<String, String> {
         val map = HashMap<String, String>()
 
         map["Emissary"] = "S1E01&02"

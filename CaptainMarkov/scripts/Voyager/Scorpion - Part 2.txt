@@ -1,0 +1,405 @@
+Scorpion - Part 2
+[Bridge] 
+CHAKOTAY: Report. 
+TORRES: The Borg shields are offline. I've got a lock on Captain Janeway. 
+CHAKOTAY: Get her out of there and break us free of the Cube. Stand by all weapons. 
+TORRES: I'm trying to energise. The Borg are scattering the beam. 
+CHAKOTAY: Compensate. 
+TORRES: No effect. 
+TUVOK: We're being hailed. 
+CHAKOTAY: On screen. 
+JANEWAY [on viewscreen]: Commander. Cut the transporter beam. 
+CHAKOTAY: Captain? 
+JANEWAY [on viewscreen]: Do it. I've reached an agreement with the Collective. We're going to help them design a weapon against Species 8472. In exchange, they've granted us safe passage through their space. 
+PARIS: The Cube is altering course. They're heading toward the Alpha Quadrant. 
+JANEWAY [on viewscreen]: That's part of the plan. We'll work on the weapon en route. Once we're across their territory, we'll give them the nanoprobes. They appear to be holding up their end of the bargain. I suggest we do the same. 
+CHAKOTAY: How do you propose we begin this collaboration? 
+JANEWAY [on viewscreen]: I'm going to work here, on the Cube. They have technology that'll make the job go faster. I want to take advantage of it. 
+CHAKOTAY: It's not necessary for you to stay there. We can set up a comlink with the Borg and 
+JANEWAY [on viewscreen]: It's part of the deal. I work here. 
+CHAKOTAY: All right. As long as we're cooperating, maybe the Borg would be willing to disengage their tractor beam. We can match their course without a leash. 
+JANEWAY [on viewscreen]: I'll propose it. Mister Tuvok, transport to my coordinates. 
+TUVOK: Understood. 
+JANEWAY [on viewscreen]: We're going to make this work, Commander. Janeway out. 
+CHAKOTAY: You heard the Captain. 
+[Sickbay] 
+EMH: I replicated nearly ten million Borg nanoprobes, each of them reprogrammed to my specifications, each capable of targeting the alien tissue. 
+CHAKOTAY: Assimilating it. 
+EMH: Just momentarily. The Borg technology will denaturate within seconds, taking the alien tissue along with it. Mister Kim, I'm about to inject your carotid artery. You'll feel a tingling sensation. Don't be alarmed. 
+(Kim slowly opens his eyes.) 
+EMH: Nice to see you again, Ensign.
+KES: It's working. 
+EMH: Prepare another dose of nanoprobes.
+KES: Yes, Doctor.
+CHAKOTAY: Good work. Let me know when he's back on his feet.
+EMH: Commander. I must tell you. I have my doubts about this alliance. You may have convinced the Borg the nanoprobes can defeat their enemy, but a medical treatment is a long way from a weapon of war.
+CHAKOTAY: Leave that to the Captain. This situation is unpredictable so we're going to stay at full Red Alert. Keep all information about the nanoprobes stored in your holo-matrix. 
+EMH: Don't worry. I'll delete myself at the first sign of trouble. Well, maybe not the first sign. 
+[Bridge] 
+TORRES: We've just received word. Tuvok beamed to the Cube. He's joined the Captain. 
+CHAKOTAY: Keep a transporter lock on both of them.
+TORRES: I'll try, but the Borg are already regenerating their shields.
+CHAKOTAY: Try matching their shield frequencies. 
+TORRES: It won't work. They'll be able to adapt too quickly. 
+CHAKOTAY: I don't want to hear what we can't do, Lieutenant! Just find a way to get our people out of there if we have to. 
+TORRES: Aye, sir. 
+PARIS: They've released their tractor beam. 
+CHAKOTAY: Match their course and speed. 
+PARIS: I never thought I'd hear myself say this, but, looks like the Borg are cooperating. 
+[Sickbay] 
+(Kes is working in the medical lab, when she sees a reflection of Species 8472 in the wall monitor. Then one appears, and she curls up into a ball.) 
+EMH: Kes? Kes! Kes! What's wrong? 
+KES: They're watching us. 
+[Borg Cube] 
+TUVOK: May I ask where we're being taken? 
+JANEWAY: Grid nine two of subjunction twelve. Our very own workspace. It's near the centre of the Cube. 
+TUVOK: These are my tricorder readings of the bioship we examined. I believe you will find them most revealing.
+JANEWAY: Have you compared this to the Doctor's analysis of the alien tissue?
+TUVOK: Yes. Many of the cellular structures are identical.
+JANEWAY: The aliens and their ships are made of the same organic material.
+TUVOK: Apparently so. 
+[Borg Chamber] 
+BORG [OC]: You have entered grid nine two of subjunction twelve. Proceed.
+JANEWAY: All right. We've analysed one of the alien vessels, and it appears to be constructed of organic material vulnerable to the modified nanoprobes. I suggest we begin thinking about a large scale delivery system. A way to infect their ships and destroy them at the microscopic 
+BORG [OC]: We will begin.
+(A Borg grabs Janeway and pushes her to her knees. Another grabs Tuvok.) 
+TUVOK: What are you doing?
+BORG [OC]: A neural transceiver is required for maximum communication. We will work as one mind.
+JANEWAY: No. That wasn't the agreement.
+BORG [OC]: The neural link is temporary. You will not be damaged.
+JANEWAY: I don't care. I prefer to communicate verbally, thank you.
+BORG [OC]: Your primitive communication is inefficient.
+TUVOK: On the contrary. We work better with our individuality intact. Surely, we've proven that to you by now.
+BORG [OC]: Irrelevant. You must comply.
+JANEWAY: We must do nothing. Tell your drone to remove the transceiver. What about choosing a representative? A single Borg we can work with and talk to directly.
+BORG [OC]: Elaborate.
+JANEWAY: You've done it before. When you transformed Jean-Luc Picard into Locutus. We will not be assimilated. Choose a representative or the deal's off.
+(The neural transceivers are removed from their necks. A door opens, and a Borg is released from its alcove. It walks towards them. This one is clearly human female, with an hour-glass figure.) 
+SEVEN: I speak for the Borg.
+JANEWAY: I'm Captain Janeway. This is Lieutenant Tuvok.
+SEVEN: We are aware of your designations.
+JANEWAY: What's your designation?
+SEVEN: Seven of Nine, Tertiary Adjunct of Unimatrix Zero One. But you may call me Seven of Nine. You are proposing a large-scale weapon. We concur.
+JANEWAY: I thought you might.
+TUVOK: We could encase the nanoprobes in some of our photon torpedoes. In essence, turn them into biomolecular warheads.
+SEVEN: Your torpedoes are inadequate. They lack the necessary range and dispursive force.
+JANEWAY: Do you have a better idea?
+SEVEN: We are Borg.
+TUVOK: I take that as a yes.
+(Seven leads them to a computer monitor.) 
+SEVEN: A multikinetic neutronic mine. Five million isoton yield.
+TUVOK: An explosion that size could affect an entire star system.
+SEVEN: Correct. The shock wave will disperse the nanoprobes over a radius of five light years.
+JANEWAY: That's somewhat larger than I had in mind. You're proposing a weapon of mass destruction.
+SEVEN: We are.
+JANEWAY: Well, I'm not. You'd be endangering innocent worlds.
+SEVEN: It would be efficient.
+TUVOK: We'd need approximately fifty trillion nanoprobes to arm this mine. It would take the Doctor several weeks to replicate that amount. You are losing this conflict. Are you willing to risk further delay?
+JANEWAY: Right now your enemy believes it is invulnerable. If we create smaller weapons using our torpedoes and destroy a few of their bioships, it may deter them, convince them to give up this war.
+SEVEN: You are individuals. You are small, and you think in small terms. But the present situation requires that we consider your plan. Voyager's weapons inventory. Photon torpedo complement thirty two. Class six warhead. Explosive yield two hundred isotons.
+TUVOK: How did you obtain this information?
+SEVEN: We are Borg.
+TUVOK: Naturally. 
+[Sickbay] 
+(The EMH is scanning Kes.) 
+EMH: Commander, we have some disturbing news.
+CHAKOTAY: At this point, I'm getting used to it.
+EMH: Her telepathic visions are increasing, both in frequency and intensity.
+KES: It feels different this time. It's almost like they're right here, in the room. 
+EMH: There is it again. 
+KES: I'm trying to block them out, but I can't.
+EMH: Every time she has a vision specific regions of her cerebral cortex go into a state of hyperstimulation. Memory engrams, perceptual centres. I can't be sure but I think there's more going on here than just a simple hello. 
+[Borg Chamber] 
+JANEWAY: Enhance this grid. I want to take a closer look at the detonator.
+SEVEN: We must analyse the bioship. Your data.
+(Janeway hands over her PADD.) 
+JANEWAY: You're human, aren't you?
+SEVEN: This body was assimilated eighteen years ago. It ceased to be human at that time.
+JANEWAY: I'm curious. What was your name before you were 
+SEVEN: Do not engage us in further irrelevant discourse. We are being hailed by your vessel.
+JANEWAY: Commander, what is it?
+CHAKOTAY [on monitor]: It's Kes. The Doctor believes that the aliens are accessing her memory.
+JANEWAY: If that's true, they may already know what we're planning.
+CHAKOTAY [on monitor]: I've ordered long range scans for bioships. Nothing so far.
+JANEWAY: We should alter course, try to throw them off.
+SEVEN: Agreed. Our course and heading have been changed.
+JANEWAY: Match them, and keep me apprised of any changes in Kes.
+CHAKOTAY [on monitor]: Chakotay out.
+SEVEN: We now require one of your photon torpedoes and the nanoprobes.
+JANEWAY: One step at a time. We're not safely across your territory yet.
+SEVEN: We must construct and test a prototype now. The risk of attack has increased.
+JANEWAY: Irrelevant. We have an agreement. You're asking me to give up my only guarantee that you won't assimilate us. I won't risk it.
+SEVEN: Are you willing to risk a direct confrontation with us? If we transport five hundred drones onto your vessel, do you believe you could offer sufficient resistance?
+JANEWAY: We'd die trying.
+SEVEN: That won't be necessary. We must construct a launching system to accommodate this design. 
+[Bridge] 
+CHAKOTAY: Glad you could join us, Mister Kim. 
+PARIS: Harry. Welcome back.
+KIM: Thanks. Reporting for duty, sir. The Doctor gave me a clean bill of health. Did I miss anything?
+CHAKOTAY: Not too much. Take your station, Ensign.
+TORRES: You've still got a tendril up your nose.
+PARIS: Commander. I'm picking up gravimetric distortions twelve thousand kilometres aft. It's a singularity. 
+[Borg Chamber] 
+SEVEN: We are under attack. 
+[Bridge] 
+PARIS: They're charging weapons.
+CHAKOTAY: Shields. Keep a lock on the Away Team.
+TORRES: Direct hit to our secondary hull!
+KIM: Transporters are offline! Shields and weapons are down. 
+[Borg Chamber] 
+TUVOK: Voyager has taken heavy damage.
+SEVEN: We cannot let the nanoprobes be destroyed. 
+[Bridge] 
+PARIS: We're being targeted!
+CHAKOTAY: Brace for impact! 
+(The bioship fires at the Cube section next to Voyager. It's energy weapon lances its way inside, hitting a console next to Janeway and knocking her out. The Cube changes course, hitting the bioship. They both go mega-KaBOOM! Voyager rocks in the wake of the explosion.) 
+CHAKOTAY: The Cube?
+PARIS: Destroyed, and it took the bioship with it.
+TUVOK [OC]: Tuvok to Chakotay.
+(Tuvok sounds rough.) 
+CHAKOTAY: Go ahead, Tuvok. Where are you? 
+TUVOK [OC]: I'm in Cargo Bay two 
+[Cargo Bay Two] 
+TUVOK: Along with the Captain and a number of Borg. 
+[Bridge] 
+TUVOK [OC]: We were beamed over just before impact. We require assistance. 
+CHAKOTAY: Tuvok. Tuvok? Secure that deck. Security Team to Cargo Bay two. Paris, you have the bridge. 
+[Cargo Bay Two] 
+(Tuvok and Janeway are out cold. Chakotay and two security guards are armed with rifles. There are some Borg computer components around, too.) 
+SEVEN: Lower your weapons. 
+(She lowers her gun.) 
+SEVEN: We are here with your Captain's consent. It was necessary to sacrifice our vessel to protect yours. We have an alliance, do we not? 
+[Sickbay] 
+CHAKOTAY: For now they're contained. They've assimilated Cargo Bay two and they're drawing energy from the secondary power couplings.
+TUVOK: But they've gone no further.
+CHAKOTAY: Not yet. I've sealed off decks nine through thirteen and posted security details at every access point.
+TUVOK: I suggest we increase security around Sickbay as well.
+CHAKOTAY: Already done. How far did you get on the weapon?
+TUVOK: We're ready to construct a prototype.
+KES: You're fit to return back to duty, Lieutenant.
+TUVOK: And you, Kes?
+KES: Oh, I'm all right. The visions have stopped for now.
+(Janeway is on a biobed.) 
+EMH: The plasma burns to her thoracic region I can treat, and I've already stopped the internal bleeding. But her neural injuries are going to require some creative thinking.
+TUVOK: Before we beamed out, an alien energy discharge struck very near the Captain.
+EMH: Well, it appears to have disrupted all her neuroelectrical pathways. I'll have to induce a coma to protect her higher brain functions. But I must tell you, unless I can repair the damage, she may never regain consciousness.
+CHAKOTAY: Make sure those Borg stay put. I want tactical updates every twenty minutes.
+TUVOK: Aye, sir. Shall I resume working with them?
+CHAKOTAY: Stand by for now.
+EMH: The Captain wishes to speak with you. Please keep it brief.
+JANEWAY: The Doctor explained my condition. You're in command.
+CHAKOTAY: I understand.
+JANEWAY: They'll push you. They'll threaten you. But they need you. They need this alliance. You have to make this work. I want you to make this work. Get this crew home.
+EMH: I must begin. 
+[Cargo Bay Two] 
+(The Borg have been busy building regeneration alcoves and other equipment.) 
+SEVEN: Where is your Captain? I must speak with her. 
+CHAKOTAY: In our medical bay, recovering. You'll be dealing with me now.
+SEVEN: Circumstances have changed.
+CHAKOTAY: I'd say so.
+SEVEN: The loss of our vessel requires that we modify our agreement.
+CHAKOTAY: I've been giving that some thought. I'm willing to let you stay on board. We'll continue to work with you on the weapon. Once we're safely out of Borg territory we'll give you the nanoprobes, shake hands and part company.
+SEVEN: Insufficient. Our latest tactical projections indicate that the war will be lost by then. The nearest Borg vessel is forty light years away. You will reverse course and take us to it.
+CHAKOTAY: Even at maximum warp, that's a five day journey in the wrong direction. We're supposed to be heading out of Borg space, not deeper into it.
+SEVEN: There is no alternative.
+CHAKOTAY: Look, I'll honour the original agreement, but I'm not turning this ship around. It's too dangerous.
+SEVEN: Denying our request is also dangerous.
+CHAKOTAY: I'll think about it.
+SEVEN: Think quickly. 
+[Briefing room] 
+CHAKOTAY: A five day trip back into the heart of Borg territory. It's too risky. With those drones and the nanoprobes on board, we might as well have a bull's-eye painted on our hull. We're a prime target for Species 8472. We'd never survive another attack.
+NEELIX: What is the alternative?
+CHAKOTAY: I'm going to end this alliance here and now. We're going to drop the Borg off on the next uninhabited planet, give them the nanoprobes and take our chances alone. They can wait for a Borg ship to pick them up and finish the weapon. I'm in command now and I have to do what I think is best for this crew. Tom, I want you to scan for the nearest uninhabited planet and set a course. 
+PARIS: Aye, sir. 
+TUVOK: I must caution you, Commander. The Borg may not go quietly.
+CHAKOTAY: We'll see. Bring that female drone to the Ready room. Dismissed. 
+[Ready room] 
+CHAKOTAY: Once we've beamed you to the surface, we'll send down the nanoprobes and all our research.
+SEVEN: Unacceptable. We don't have time for 
+CHAKOTAY: This isn't open for discussion. I'm not turning this ship around. You're getting what you wanted. I suggest we part ways amicably.
+SEVEN: There is another option. We could assimilate your vessel.
+CHAKOTAY: If a single drone steps one millimetre out of that Cargo Bay, I'll decompress the entire deck. You won't pose much of a threat floating in space.
+SEVEN: When your Captain first approached us, we suspected that an agreement with humans would prove impossible to maintain. You are erratic, conflicted, disorganised. Every decision is debated, every action questioned. Every individual entitled to their own small opinion. You lack harmony, cohesion, greatness. It will be your undoing.
+CHAKOTAY: Escort our guest back to the Cargo Bay. 
+[Sickbay] 
+(Chakotay briefs his comatose Captain.) 
+CHAKOTAY: Well, I've made my decision. If it were only a matter of going against the orders of my superior officer. You're more than just my Captain. You're my friend. I hope you'll understand. 
+[Cargo Bay Two] 
+BORG [OC]: Species 8472 has penetrated Matrix zero one zero, grid nineteen. Eight planets destroyed. Three hundred twelve vessels disabled. Four million, six hundred twenty one Borg eliminated. We must seize control of the Alpha Quadrant vessel, and take it into the alien realm. 
+SEVEN: We understand. 
+(Seven enters a Jefferies tube.) 
+[Bridge] 
+PARIS: Class H moon. Oxygen-argon atmosphere.
+CHAKOTAY: It'll do. Take us out of warp and enter orbit.
+PARIS: Aye, sir.
+CHAKOTAY: Tuvok. Stand by to transport the Borg directly from the Cargo Bay. After they're on the surface, have security run a sweep of 
+KIM: I'm reading power fluctuations in the deflector array.
+CHAKOTAY: Cause?
+KIM: It looks like the Borg have accessed deflector control. They're trying to realign the emitters.
+CHAKOTAY: Shut them out.
+KIM: They've bypassed security protocols.
+(A green beam is emitted from the deflector dish.) 
+TORRES: We're emitting a resonant gravitation beam. It's creating another singularity.
+CHAKOTAY: Reverse course.
+PARIS: We're fighting intense gravimetric distortion. I can't break free. 
+CHAKOTAY: Bridge to Cargo Bay Two. Stop what you're doing, or I'll depressurise that deck and blow you out into space. This is your final warning. Do it! 
+(Borg drones are expelled from Voyager. Seven manages to hang on in the Jefferies tube.) 
+TUVOK: Decompression cycle complete.
+KIM: I still don't have deflector control.
+TUVOK: Commander, a single Borg has survived.
+PARIS: We're being pulled in!
+CHAKOTAY: Report.
+TUVOK: We appear to have crossed an interdimensional rift.
+PARIS: We've definitely left our galaxy. No stars, no planets.
+CHAKOTAY: Let's see.
+(The viewscreen shows a murky brown green expanse.) 
+TORRES: I'm re-calibrating sensors. The entire region is filled with some kind of organic fluid. This isn't space. It's matter.
+SEVEN [OC]: Commander Chakotay. We have entered the domain of Species 8472. Report to the Cargo Bay.
+CHAKOTAY: Paris, repressurise Cargo Bay two. Tuvok. 
+[Cargo Bay Two] 
+SEVEN: Our entry into fluidic space has created a compression wave. They know we're here. A fleet of bioships is already converging on our position. Time to intercept, three hours, seventeen minutes.
+CHAKOTAY: You've been here before. How else could you know about fluidic space?
+SEVEN: We must prepare this ship for the altercation. We will construct a complement of biomolecular warheads. 
+CHAKOTAY: Why? Why were you here? You started this war, didn't you? What's the matter, our galaxy wasn't big enough for you? You had to conquer new territory? But this race fought back. A species as malevolent as your own.
+SEVEN: Species 8472 was more resistant than we anticipated. Their technology is biogenically engineered. It is superior to that of all species we have previously encountered.
+TUVOK: Which is precisely what you wanted.
+SEVEN: They are the apex of biological evolution. Their assimilation would have greatly added to our own perfection. 
+TUVOK: So instead of assimilating these aliens you opened a door for them to our galaxy. 
+SEVEN: There is only one course of action. Destroy them first. My subspace link to the Collective has been weakened by the interdimensional rift. We cannot signal for help. We are alone. We must construct a compliment of biomolecular warheads and modify your weapons to launch them.
+CHAKOTAY: I've got a better idea. Why don't you open that rift again and take us back?
+SEVEN: If I did that, you will no longer cooperate.
+EMH [OC]: Doctor to Chakotay.
+CHAKOTAY: Go ahead.
+EMH [OC]: Report to Sickbay at once.
+CHAKOTAY: On my way. 
+[Sickbay] 
+(Janeway is up and back in uniform.) 
+CHAKOTAY: Captain?
+EMH: Ah. As you can see, I've repaired her neural damage. Ensign Kim, the Captain, I'm two for two.
+JANEWAY: Doctor. if you'll excuse us a moment.
+EMH: Hmm? Eh? Oh. Gladly. Computer deactivate EMH programme.
+JANEWAY: The Doctor brought me up to speed, but he couldn't tell me what I really wanted to know. Why?
+CHAKOTAY: The Collective ordered me to reverse course, travel forty light years back the way we came. What would you have done?
+JANEWAY: I probably would've reversed course. Maintained the alliance as long as possible.
+CHAKOTAY: In my mind, the alliance was already over.
+JANEWAY: You never trusted me. You never believed this would work. You were just waiting for an opportunity to circumvent my orders.
+CHAKOTAY: Trust had nothing to with it. I made a tactical decision.
+JANEWAY: And so did I.
+CHAKOTAY: They have taking advantage of us from day one.
+JANEWAY: We made concessions, so did they.
+CHAKOTAY: They lied. The Borg started the war with Species 8472. We've only got one Borg left to worry about. We should try to disable her and get back to the Delta Quadrant. We might be able to duplicate the deflector protocols they used to open a singularity.
+JANEWAY: No. I won't be caught tinkering with the deflector when those aliens attack. There's no other way out of this, Chakotay. It's too late for opinions, it's too late for discussion. It's time to make the call, and I'm making it. We fight the aliens in full cooperation with the Borg.
+CHAKOTAY: I was linked to a Collective once, remember? I had a neurotransceiver embedded in my spine. I know who we're dealing with. We've got to get rid of that last Borg and take our chances alone.
+JANEWAY: It won't work. This isn't working either. There are two wars going on. The one out there, and the one in here, and we're losing both of them.
+CHAKOTAY: It will be your undoing.
+JANEWAY: What?
+CHAKOTAY: Our conflicted nature. Our individuality. Seven of Nine said that we lack the cohesion of a Collective mind. That one day it would divide us and destroy us. And here we are, proving her point.
+JANEWAY: I'll tell you when we lost control of this situation, when we made our mistake. It was the moment we turned away from each other. We don't have to stop being individuals to get through this, we just have to stop fighting each other. 
+[Bridge] 
+(Tuvok escorts Seven of Nine.) 
+SEVEN: Captain Janeway.
+JANEWAY: I've relieved Mister Chakotay of his duties and confined him to the Brig. I'm back in command.
+SEVEN: And you understand the situation. 
+JANEWAY: Completely. Tuvok, give her the nanoprobes. Work with her. Build as many warheads as you can and start modifying our weapons systems. I suggest we think about enhancing our defences, as well. If we're going to fight this battle, I intend to win it.
+SEVEN: We are in agreement.
+JANEWAY: Good. This is the plan. We engage the enemy here, in their space. We show them what they're up against. If they have any sense of self-preservation, they'll back off, pull their ships out of the Delta Quadrant. That's provided the weapons are effective. If they aren't, it's been nice working with you. We've got to get this ship armed and ready in under two hours. We're going to war. 
+(Under two hours later. Kes is sitting in Chakotay's seat.) 
+KIM: Borg modifications are complete.
+JANEWAY: Bring them online.
+(Bits of Voyager's hull light up Borg green.) 
+KIM: Torpedo launch tubes active. Hull armour engaged. Shield enhancements stable. 
+TUVOK: Biomolecular weapons are ready. Thirteen standard photon torpedoes. And one class ten, armed with a high yield warhead. 
+JANEWAY: All hands, this is the Captain. Ready your stations. Seal all emergency bulkheads and prepare to engage the enemy. Stand by for my orders. 
+PARIS: Four bioships have just entered sensor range. 
+JANEWAY: Battle stations. 
+KIM: I've got a visual. 
+JANEWAY: On screen. 
+KES: I can hear them. They want to talk through me. They say we've contaminated their realm. 
+JANEWAY: Tell them we had no choice. We were only trying to defend ourselves. 
+KES: They say our galaxy is impure. Its proximity is a threat to their genetic integrity. 
+JANEWAY: Tell them we have a weapon. A devastating weapon that can destroy them at the cellular level. If they don't stop their attacks on the Delta Quadrant, we'll be forced to use it. 
+KES: They said your galaxy will be purged. 
+(The bioships start firing. People are thrown to the decks.) 
+KIM: Shields and weapons are offline! 
+TUVOK: Rerouting emergency power to the launchers. 
+PARIS: They're coming around for another assault. I've lost thrusters. 
+TUVOK: Biomolecular warheads are charged and ready. 
+JANEWAY: Fire. 
+TUVOK: Direct hit on all four vessels. No effect. 
+KIM: They're charging weapons! 
+(Then one by one, the bioships go KaBOOM.) 
+TUVOK: The nanoprobes were successful, if not prompt. All four ships have been destroyed. 
+JANEWAY: I think we've made our point. Now open a singularity and get us out of here. 
+(Seven complies. They return to the Delta Quadrant, followed by bioships.) 
+PARIS: Captain. 
+JANEWAY: Kes, are you still in contact? 
+KES: Yes. 
+JANEWAY: Tell them if they continue their attack, we'll use the weapon again. 
+KES: They're not responding. 
+JANEWAY: Evasive manoeuvres. 
+PARIS: Aye, Captain. They're in pursuit. 
+JANEWAY: Prepare to fire the high yield warhead. Aft torpedo bay. 
+TUVOK: Ready, Captain. 
+JANEWAY: Do it. 
+(The torpedo explodes in the middle of the fleet.) 
+TUVOK: Thirteen bioships have been destroyed. The others are in retreat. 
+SEVEN: I have regained full contact with the Collective. 
+JANEWAY: What are they saying? 
+SEVEN: All remaining bioships in the Delta Quadrant are returning to their realm. The Borg have prevailed. 
+JANEWAY: With a little help from us. Now it's time you fulfilled your end of the agreement. Tell the Collective we expect safe passage from here on out. We'll give you a shuttlecraft. You can head for the nearest Borg ship. 
+SEVEN: Unacceptable. This alliance is terminated. Your ship and its crew will adapt to service us. 
+(Seven goes towards Paris. He fires a hand phaser at her, but the beam bounces off her shields.) 
+SEVEN: Resistance is futile. 
+(She pushes him aside and fires her assimilation tubules into the helm console.) 
+KIM: Captain, she's tapping into helm control. She's trying to access our coordinates. 
+JANEWAY: Shut her out. 
+KIM: I can't. 
+JANEWAY: Bridge to Chakotay. Scorpion. 
+[Cargo Bay Two] 
+(A neural transceiver is activated on Chakotay's neck. He is in one of the alcoves.) 
+CHAKOTAY [OC]: Seven of Nine, stop what you're doing. You're human. A human individual. Our minds are linked. We are one. I can hear your thoughts 
+EMH: His link is stable, but it won't be for long. You must hurry. 
+TORRES: Just a few more seconds. 
+CHAKOTAY [OC]: I can see your memories. 
+[Bridge] 
+CHAKOTAY [OC]: You remember being human. 
+SEVEN: We are Borg. 
+[Cargo Bay two] 
+CHAKOTAY [OC]: I see a young girl. A family. 
+[Bridge] 
+SEVEN: Irrelevant. Your appeal to my humanity is pointless. 
+[Cargo Bay two] 
+TORRES: Almost there, Chakotay. You've got to keep her distracted if we're going to make this work. 
+CHAKOTAY [OC]: Listen to your human side. To yourself, the little girl. Seven of Nine. Annika! 
+EMH: He's losing the link! 
+TORRES: Initiating power surge now! 
+(Both Chakotay and Seven feel the effects of the energy surge. Their neural transceivers overload and they pass out.) 
+[Bridge] 
+TUVOK: Her connection to the Collective is severed. 
+JANEWAY: Get her to Sickbay. Bridge to Doctor. Report. 
+[Cargo Bay two] 
+EMH: Commander Chakotay's going to be all right, although he may wake up with a bit of a headache. 
+[Bridge] 
+JANEWAY: Tom, plot a course out of Borg space. Maximum warp.
+PARIS: Yes, Ma'am. 
+Captain's log, stardate 51003.7. Three days, and no sign of Borg or bioships. We appear to be out of danger, but the entire crew is still on edge and so am I. Not even the calm of Master Da Vinci's workshop is enough to ease my mind. 
+[Da Vinci's Workshop - night] 
+(Janeway is at a desk, writing with quill on parchment.) 
+CHAKOTAY: Am I interrupting? 
+JANEWAY: Not at all. Just finishing up my log. 
+CHAKOTAY: The old-fashioned way. 
+JANEWAY: I wanted to get as far away from bioimplants and fluidic space. And this feels more human somehow. 
+CHAKOTAY: I hate to spoil the mood, but you might want to look at this Engineering report. It'll take at least two weeks to remove the Borg technology from our systems. B'Elanna did note that the power couplings on deck eight work better with the Borg improvements. 
+JANEWAY: Leave them. How is our passenger? 
+CHAKOTAY: The Doctor says she's stabilising. Her human cells are starting to regenerate. 
+JANEWAY: I wonder what's left under all that Borg technology. If she can ever become human again. 
+CHAKOTAY: You plan to keep her on board. 
+JANEWAY: We pulled the plug. We're responsible for what happens to her now. 
+CHAKOTAY: She was assimilated at a very young age. The Collective's all she knows. She might not want to stay. 
+JANEWAY: I think she might. We have something the Borg could never offer. Friendship. 
+CHAKOTAY: I want you to know that disobeying your orders was one of the most difficult things I've ever had to do. 
+JANEWAY: I understand. And I respect the decision you made, even though I disagree with it. What's important is that in the end we got through this, together. I don't ever want that to change. 
+CHAKOTAY: Agreed. 
+JANEWAY: Good. Well, I think it's time we get back to our bridge. 
+CHAKOTAY: No argument there. 
+(We are given a last lingering look at Seven on a biobed, one small implant blinking.) 
