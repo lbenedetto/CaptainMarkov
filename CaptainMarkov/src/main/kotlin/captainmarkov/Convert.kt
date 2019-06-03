@@ -9,27 +9,19 @@ import java.util.stream.Collectors
 object Convert {
     @JvmStatic
     fun main(args: Array<String>) {
-        val paths = Files.walk(Paths.get("scripts/Voyager"))
+        val paths = Files.walk(Paths.get("scripts/NextGen"))
             .filter { path -> !path.toFile().isDirectory }
             .collect(Collectors.toList())
         //Separate to prevent concurrent modification
-        paths.forEach(this::processPath2)
+        paths.forEach(this::processPath)
     }
 
     private fun processPath(path: Path) {
-        val episodeName = Files.readAllLines(path)
-            .take(3)
-            .last()
-
-        path.toFile().renameTo(File(path.toString().replace(".txt", " $episodeName.txt")))
-    }
-
-    private fun processPath2(path: Path) {
-        val map = populateVoyager()
+        val map = populateTNG()
         val file = path.toFile()
         val episodeName = file.name.replace(".txt", "")
         val newFileName = "${map[episodeName]} ${file.name}"
-        file.renameTo(File("./scripts/Voyager/$newFileName"))
+        file.renameTo(File("./scripts/NextGen/$newFileName"))
     }
 
     private fun populateVoyager(): HashMap<String, String> {
@@ -267,7 +259,7 @@ object Convert {
         map["The Defector"] = "S3E10"
         map["The Hunted"] = "S3E11"
         map["The High Ground"] = "S3E12"
-        map["Deja Q"] = "S3E13"
+        map["Déjà Q"] = "S3E13"
         map["A Matter of Perspective"] = "S3E14"
         map["Yesterday's Enterprise"] = "S3E15"
         map["The Offspring"] = "S3E16"
@@ -278,7 +270,7 @@ object Convert {
         map["Hollow Pursuits"] = "S3E21"
         map["The Most Toys"] = "S3E22"
         map["Sarek"] = "S3E23"
-        map["Menage a Troi"] = "S3E24"
+        map["Ménage à Troi"] = "S3E24"
         map["Transfigurations"] = "S3E25"
         map["The Best of Both Worlds - Part 1"] = "S3E26"
         map["The Best of Both Worlds - Part 2"] = "S4E01"
