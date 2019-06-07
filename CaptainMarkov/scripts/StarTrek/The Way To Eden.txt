@@ -119,7 +119,7 @@ SPOCK: It is somewhat uncomplimentary, Captain. Herbert was a minor official not
 KIRK: Well, I shall try to be less rigid in my thinking. 
 [Sickbay] 
 (The teenagers are having an impromptu concert) 
-ADAM: (playing a guitar without a sound box) Looking for the good land, Going astray. Don't cry, don't cry. Oh, I can't have honey, And I can't have cream. Gonna live, not die. Gonna live, not die. (Rad plays bongos) Stand in the middle of it all one day. I'll look at it shining all around me and say, I'm here, I�m here, In the good land. In the new land. I'm here. 
+ADAM: (playing a guitar without a sound box) Looking for the good land, Going astray. Don't cry, don't cry. Oh, I can't have honey, And I can't have cream. Gonna live, not die. Gonna live, not die. (Rad plays bongos) Stand in the middle of it all one day. I'll look at it shining all around me and say, I'm here, I'm here, In the good land. In the new land. I'm here.
 CHEKOV: Excuse me. Is Irina Galliulin with you? 
 ADAM: She's getting her physical. Gonna crack my knuckles and jump for joy. I got a clean bill of health from Doctor McCoy. You know Irina? 
 RAD: Say, tell me, why do you wear all those clothes? How do you breathe? 
@@ -202,7 +202,7 @@ KIRK: Thank you, Scotty. Mister Spock, I don't seem to be able to communicate wi
 SPOCK: I shall make an attempt, Captain. 
 KIRK: Thank you, Mister Spock. If it weren't for that ambassador's son, they'd all be in the brig. 
 SPOCK: Yes, sir. 
-Captain's log, stardate 5832.5. The arrogance of Doctor Sevrin and his followers is creating an intolerable situation aboard the Enterprise. If it continues, I�ll be forced to use controls which might not agree with Starfleet's suggestion that they be handled with extreme tolerance. 
+Captain's log, stardate 5832.5. The arrogance of Doctor Sevrin and his followers is creating an intolerable situation aboard the Enterprise. If it continues, I'll be forced to use controls which might not agree with Starfleet's suggestion that they be handled with extreme tolerance.
 [Brig] 
 SEVRIN: I have no influence over what they do. 
 SPOCK: They respect you. They will listen to your reasoning. For their sake, you must stop them. Doctor Sevrin, I'm in a position to help you and your group. I can use the resources of the Enterprise to determine whether or not Eden actually exists and to plot its exact location. I can present a case to Federation to allow you and your group to colonise that planet. Neither you nor your people are at present charged with a crime. However, incitement to disaffection is criminal. The Federation will never allow the colonisation of a planet by criminals. If they persist, they will be so charged and forever barred from Eden. 
@@ -278,7 +278,7 @@ RAD: Can you suggest any special ways to swing them?
 ADAM: Just be friendly. You know how to be friendly. Then they'll be friendly. 
 [Rec room] 
 (Sounds are being laid down in a session and piped through the ship) 
-ADAM: (singing) I�m talkin ''bout you, I�m talkin ''bout me. Long time back when the galaxy was new. Man found out what he had to do. Found he had to eat and he found he had to drink. And a long time later he found he had to think. Uh huh. Yes, think. I'm standing here wondering. 
+ADAM: (singing) I'm talkin ''bout you, I'm talkin ''bout me. Long time back when the galaxy was new. Man found out what he had to do. Found he had to eat and he found he had to drink. And a long time later he found he had to think. Uh huh. Yes, think. I'm standing here wondering.
 ALL: What? 
 ADAM: If a man tells another man out of my way. He piles up trouble for himself all day. But all kinds of trouble come to an end. When a man tells another man be my friend, uh huh. My friend. Well, what's it going to be? 
 GIRL: (singing) There's a mile wide emptiness between you and me. 
@@ -309,7 +309,7 @@ SEVRIN: If I am in any way prevented from reaching that destination, I shall des
 KIRK: Can he do it? 
 SPOCK: He has the capability, Captain. 
 [Auxiliary control] 
-SCOTT [OC]: He�s got everything channelled over. 
+SCOTT [OC]: He's got everything channelled over.
 [Bridge] 
 KIRK: Start a trace-back of all circuits. 
 [Auxiliary control] 

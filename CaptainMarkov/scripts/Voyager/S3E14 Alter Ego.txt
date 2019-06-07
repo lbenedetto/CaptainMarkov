@@ -50,7 +50,7 @@ KIM: Yes!
 TUVOK: You are experiencing shon-ha'lock, the engulfment. It is the most intense and psychologically perilous form of eros. I believe humans call it love at first sight. 
 KIM: But we're talking about a holodeck character. 
 TUVOK: Irrelevant. The emotional complex in which you are trapped is the same and so is the cure. Logical deconstruction, followed by a regimen of meditative suppression. As I shall demonstrate. 
-[Holodeck � Paxau resort] 
+[Holodeck - Paxau resort]
 (Neelix is directing the hanging of a paper lantern.) 
 NEELIX: Ah, a little further to the left. Mmm, no. That's too much. 
 KIM: Neelix. Have you seen Marayna? 
@@ -309,7 +309,7 @@ KIM: Deck three. Computer, belay that order. Holodeck one.
 [Outside the holodeck] 
 KIM: Computer, activate Neelix resort programme. 
 COMPUTER: That programme is currently running. 
-[Holodeck � Paxau Resort] 
+[Holodeck - Paxau Resort]
 (Marayna and Tuvok are playing kal-toh.) 
 MARAYNA: Hello, Harry. 
 KIM: Enjoying yourselves? Now I know why you told me to keep off the holodeck. 
@@ -385,7 +385,7 @@ TORRES: She's locked us out of the programme. We'll be lucky if we can open the 
 (The doors open.) 
 PARIS: We're lucky. 
 TUVOK: Marayna may have opened the doors. Caution is advised. 
-[Holodeck � Paxau resort] 
+[Holodeck - Paxau resort]
 (The luau is back on.) 
 TORRES: I'll try to access the inside control panel. 
 PARIS: It's kind of creepy. 
@@ -416,7 +416,7 @@ JANEWAY: Are you responsible for the plasma fires?
 MARAYNA [OC]: You're giving me no other choice but to force the issue. 
 JANEWAY: What do you want? 
 MARAYNA [OC]: Tuvok. I want Tuvok. Let him come to the holodeck alone, or I'll destroy your ship. 
-[Holodeck � Paxau resort] 
+[Holodeck - Paxau resort]
 MARAYNA: Tuvok, you're back. 
 TUVOK: I had little choice. 
 MARAYNA: We're alone now. No one can see us or hear us. We can do whatever we want. You don't have to pretend anymore. This is our world. 
@@ -424,7 +424,7 @@ TUVOK: You successfully lured me here by threatening the ship, but any attempt t
 [Bridge] 
 TORRES: I've isolated the source of the uplink signal. 
 JANEWAY: Stand by to transport. 
-[Holodeck � Paxau resort] 
+[Holodeck - Paxau resort]
 MARAYNA: I understand your sense of duty, of loyalty to your captain, but we have something stronger, a connection that goes beyond duty and loyalty. I know you want to be with me, Tuvok. 
 TUVOK: You must leave Voyager now and allow us to continue on our course. 
 MARAYNA: I won't. 
@@ -433,7 +433,7 @@ MARAYNA: There's nothing she can do. You're staying here with me. She'll just ha
 TUVOK: Energise. 
 [Bridge] 
 KIM: Transporting to the source of the uplink. 
-[Holodeck � Paxau resort] 
+[Holodeck - Paxau resort]
 MARAYNA: Stop! 
 (Tuvok is beamed away.) 
 [Bridge] 
@@ -482,7 +482,7 @@ TUVOK: Tuvok to Voyager. Ready for transport.
 MARAYNA: But what about you, Tuvok? Will you always be alone? 
 (Tuvok looks at her as he is beamed away.) 
 Security chief's log, stardate 50471.3. The remaining damage to the ship was easily repaired, and we soon left Marayna's nebula behind. Voyager is back on course, and I have resumed my normal routine. 
-[Holodeck � Paxau resort] 
+[Holodeck - Paxau resort]
 (Tuvok is playing kal-toh in his quarters, when he puts down a rod, turns of its projector base, picks it up and leaves.) 
 TUVOK: Mister Kim, would you be interested in learning to play kal-toh? 
 KIM: I thought kal-toh was beyond human understanding. 

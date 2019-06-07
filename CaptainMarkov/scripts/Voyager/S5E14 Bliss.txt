@@ -60,7 +60,7 @@ JANEWAY: Come in.
 SEVEN: I completed my diagnostic. Sensors are operating at peak efficiency. 
 JANEWAY: Then there's nothing to worry about. 
 SEVEN: On the contrary. The wormhole's neutrino levels are extremely erratic. 
-JANEWAY: I thought so too, until I received this. It turns out those faint signals we detected were communiqu�s from Starfleet. They assure me the neutrino flux is nothing to worry about. 
+JANEWAY: I thought so too, until I received this. It turns out those faint signals we detected were communiqués from Starfleet. They assure me the neutrino flux is nothing to worry about.
 SEVEN: Starfleet may be in error. We should run further scans. 
 JANEWAY: No time. The wormhole might destabilise. 
 SEVEN: The Doctor often instructs me to look before I leap. It is an antiquated adage, but I believe it is relevant. 
@@ -203,7 +203,7 @@ KIM: No more Hirogen hunting parties, Malon garbage scows.
 PARIS: By this time tomorrow it'll be Cardassians, Romulans, Ferengi. 
 CHAKOTAY [OC]: Chakotay to the bridge. 
 JANEWAY: Go ahead. 
-CHAKOTAY [OC]: I�ve spoken to Seven of Nine. We're putting her into stasis. 
+CHAKOTAY [OC]: I've spoken to Seven of Nine. We're putting her into stasis.
 JANEWAY: Make it fast. We don't want the Borg to crash our welcome home party. 
 [Cargo Bay two] 
 SEVEN: I need to adjust my regeneration parameters. How long will I remain inactive? 
@@ -245,7 +245,7 @@ TUVOK: Bridge, she has erected another forcefield. It'll require
 TUVOK [OC]: Several minutes to deactivate it.
 JANEWAY: Where is she, exactly? 
 KIM: Engineering console sixteen beta. Captain? 
-JANEWAY: I�m sending an EM surge to that station. Seven's going into stasis whether she likes it or not. 
+JANEWAY: I'm sending an EM surge to that station. Seven's going into stasis whether she likes it or not.
 [Engineering] 
 (The energy surge knocks Seven down.)
 TUVOK: She's down, Captain. 
@@ -319,7 +319,7 @@ QATAI: Pitcher plant?
 NAOMI: The Doctor taught me about it in botany class. It catches insects by mimicking pheromones. 
 QATAI: Yes, you're right, but this one doesn't eat insects. He eats starships. 
 SEVEN: You are familiar with this lifeform. 
-QATAI: Familiar? I�ve been hunting it for nearly forty years. 
+QATAI: Familiar? I've been hunting it for nearly forty years.
 SEVEN: And have you become impervious to its telepathy? 
 QATAI: Almost, but there are days when he can still trick me. Like yesterday. I thought I had found a way to kill him once and for all. I'd allow him to begin consuming my ship and then I'd fly directly to his most vulnerable system, his primary neural plexus. Boom! I'd destroy him from the inside out. But he knew. He showed me what I wanted to see. I was nowhere near his neural plexus. I was flying directly into his digestion chamber. And speaking of digestion. 
 NAOMI: How do we get out of the monster? 
@@ -364,8 +364,8 @@ QATAI: They never want to.
 [Medical lab] 
 QATAI: It's the silence I hate. The way he takes you without a fight. It was the same way with the Nokaro. A crew of nearly three thousand. Families mostly, mine included, looking for a New World to settle. But they came across our friend here and he showed them what they wanted to see. A glistening green paradise. By the time I responded to their distress call, all that was left of them was some fading engine emissions. That was thirty nine years ago. Thirty nine years, two weeks, four days. 
 EMH: Do you mind? The situation is dismal enough. 
-QATAI: I�m just trying to explain who we're up against. 
-EMH: Well, I�m getting a pretty good idea on my own. Judging by these bioscans, the organism's been devouring life forms for a bit longer than thirty nine years. I'd estimate it's at least two hundred thousand years old. 
+QATAI: I'm just trying to explain who we're up against.
+EMH: Well, I'm getting a pretty good idea on my own. Judging by these bioscans, the organism's been devouring life forms for a bit longer than thirty nine years. I'd estimate it's at least two hundred thousand years old.
 QATAI: The intelligent always survive. 
 EMH: I wouldn't go that far. It appears to operate on highly evolved instinct. I haven't detected any signs of sentience. 
 QATAI: Oh he's intelligent, all right. Smart enough to fool your crew into taking you offline. 
@@ -373,7 +373,7 @@ EMH: No need to get personal.
 [Sickbay] 
 (Another shudder wakes Naomi.)
 NAOMI: Seven? 
-SEVEN: I�m here. 
+SEVEN: I'm here.
 NAOMI: Are we still inside the monster? 
 SEVEN: Yes, but we are going to find a way out. 
 QATAI [OC]: There. This is it. Exactly what we need. 
@@ -391,20 +391,20 @@ SEVEN: My scans indicate that your weapons are tetryon based. If you were to fir
 NAOMI: Would that make Voyager taste bad? 
 QATAI: It might at that. 
 [Transporter room] 
-EMH: Once I�ve beamed you back to your ship, try adjusting your shields to this frequency. You'll find them more resistant to the bioplasmic discharges. 
+EMH: Once I've beamed you back to your ship, try adjusting your shields to this frequency. You'll find them more resistant to the bioplasmic discharges.
 QATAI: You seem to know a little about everything. Medicine, exobiology, shield harmonics. 
-EMH: I�m something of a renaissance EMH. 
+EMH: I'm something of a renaissance EMH.
 QATAI: I could use a crewmate like you. The beast would have a difficult time manipulating a hologram's desires. 
 EMH: An Ishmael to your Ahab? No, thank you. 
 QATAI: You're turning down the hunt of a lifetime? 
-EMH: As appealing as that sounds, I�m a Doctor, not a dragon slayer. My programme requires that I do no harm. 
+EMH: As appealing as that sounds, I'm a Doctor, not a dragon slayer. My programme requires that I do no harm.
 QATAI: Shame. 
 [Engineering] 
 SEVEN: Qatai's vessel is ready. 
-EMH: I�ve rerouted bridge controls to Engineering. Ops, tactical, helm, all integrated into one station. 
+EMH: I've rerouted bridge controls to Engineering. Ops, tactical, helm, all integrated into one station.
 SEVEN: Efficient. 
 EMH: I thought you'd like it. 
-SEVEN: I�m plotting a course for the organism's oesophageal aperture. Prepare to release the antimatter. Hull integrity's dropped another thirteen percent. Doctor? 
+SEVEN: I'm plotting a course for the organism's oesophageal aperture. Prepare to release the antimatter. Hull integrity's dropped another thirteen percent. Doctor?
 EMH: Ready on my end. 
 SEVEN: Voyager to Qatai. Prepare to fire. 
 [Qatai's ship] 
@@ -425,7 +425,7 @@ SEVEN: Initiate the burst on my mark. Now.
 (Voyager releases its gas, and Qatai shoots at it. The gas ignites.)
 QATAI: Like the taste of that? 
 [Engineering] 
-EMH: I�m reading violent contractions throughout the digestive chamber. It's working. We're moving back through the oesophageal aperture! 
+EMH: I'm reading violent contractions throughout the digestive chamber. It's working. We're moving back through the oesophageal aperture!
 SEVEN: Voyager has been expelled. We're three point nine kilometres from the organism. 
 EMH: After just one burst? For a big fellow he certainly has a low tolerance for tummy ache. 
 SEVEN: Qatai's vessel was also released. 
@@ -443,11 +443,11 @@ SEVEN: Initiate another antimatter burst. Now. Fire.
 QATAI [on monitor]: We're out. 
 SEVEN: Are we certain? 
 EMH: No sign of bioplasmic energy. We've escaped. 
-SEVEN: I�m taking us out of range. Maximum warp. 
+SEVEN: I'm taking us out of range. Maximum warp.
 EMH: I'd better see to the crew. 
 QATAI [on monitor]: Well, I'll be on my way. Thanks for your help. 
 SEVEN: Your engines have taken heavy damage. You require our assistance. 
-QATAI [on monitor]: No time. The beast is already altering course. I�ll handle repairs myself. 
+QATAI [on monitor]: No time. The beast is already altering course. I'll handle repairs myself.
 SEVEN: The procedure would take several days. 
 QATAI [on monitor]: Don't worry about me. Just get your ship home. And watch out for pitcher plants. 
 [Bridge] 

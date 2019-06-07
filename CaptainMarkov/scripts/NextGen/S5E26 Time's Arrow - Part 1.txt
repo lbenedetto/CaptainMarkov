@@ -255,7 +255,7 @@ NATIVE: Pale face.
 SEAMAN: I don't like Easterners, personally. 
 DATA: I am a Frenchman. 
 GAMBLER: Ah. Mes parents sont originaires de Bourgonais. Je suis ne a la New Orleans. 
-DATA: Alors, nous sommes presque fr�res. Je suis heureux de vous connaitre. 
+DATA: Alors, nous sommes presque frères. Je suis heureux de vous connaitre.
 GAMBLER: Please, sir. 
 (Data sits between the man and the seaman) 
 GAMBLER: The game is poker. The deal is yours. The ante is four bits. 

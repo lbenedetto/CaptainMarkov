@@ -49,7 +49,7 @@ PICARD: Slow to impulse power. Mister Worf?
 WORF: Long range sensors holding on the shuttlecraft, bearing zero one zero, mark two seven one. 
 PICARD: Hail the vessel. 
 WORF: Lieutenant Hickman does not respond, sir. 
-PICARD: Put a repeating message on all subspace channels. Order the Lieutenant to come about and stand to. Make it a priority one communiqu�. 
+PICARD: Put a repeating message on all subspace channels. Order the Lieutenant to come about and stand to. Make it a priority one communiqué.
 WORF: Still no response, sir. 
 GRAHAM: The craft is now within visual range. 
 PICARD: On screen. 
@@ -221,7 +221,7 @@ CRUSHER: Her skin is simulating light. A radiant reaction. Some sort of mimetic 
 OGAWA: That's not all. Her body temperature is dropping. 
 CRUSHER: It's as if she's generating a disruptive field. I can barely get any readings off her now. What's her rate of transformation? 
 OGAWA: It's increasing. 
-CRUSHER: That's not possible. It should have been inhibited by the T-cell stimulator. Unless. If there's a foreign body inside her that's producing these changes, something like a viral cr�che. 
+CRUSHER: That's not possible. It should have been inhibited by the T-cell stimulator. Unless. If there's a foreign body inside her that's producing these changes, something like a viral créche.
 OGAWA: A very small one if our scans haven't found it. 
 CRUSHER: I want a full genetic analysis. We're going to examine any abnormality we find no matter how insignificant it seems. 
 [Engineering] 

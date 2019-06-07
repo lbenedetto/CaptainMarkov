@@ -62,7 +62,7 @@ SCOTT: Aye, sir.
 KIRK: Gentlemen, I don't for a moment believe that President Lincoln is actually coming aboard, but we're dealing with an unknown and apparently highly advanced life-form. Until we know, when in Rome, we'll do as the Romans do. 
 CHEKOV [OC]: Bridge to Transporter room. One minute to overhead position. 
 SCOTT: Locked on to something. Does that appear human to you, Mister Spock? 
-SPOCK: Fascinating. For a moment, it appeared almost mineral. Like living rock with heavy fore claws. It�s settling down now to completely human readings. 
+SPOCK: Fascinating. For a moment, it appeared almost mineral. Like living rock with heavy fore claws. It's settling down now to completely human readings.
 SCOTT: We can beam it aboard anytime now, sir. 
 KIRK: Doctor McCoy, take tricorder readings and see if it is human. Appropriate ruffles and flourishes, Mister Spock. Security, stand ready. 
 DICKERSON: Phaser team, set ready for a heavy stun. 
@@ -105,7 +105,7 @@ SPOCK: It is basic to the Vulcan philosophy, sir. The combination of a number of
 LINCOLN: Yes. Philosophy of Nome, meaning all. How did I know that? Just as I seem to know that on the planet surface you will meet one of the greatest living Vulcans in all the long history of your planet. My mind cannot recall his name, but I know he will be there. What is it that powers your vessel, Captain? May I see your engine room? 
 KIRK: Certainly. Our engineering officer 
 UHURA: Has been waiting in the briefing room for you, sir, for over two hours. 
-KIRK: Oh, dear. If you�ll forgive me, our communications officer 
+KIRK: Oh, dear. If you'll forgive me, our communications officer
 LINCOLN: I would be delighted to have her as guide. 
 KIRK: Forgive me again. We'll rejoin you shortly. 
 [Briefing room] 
@@ -115,7 +115,7 @@ SCOTT: Why, they're probably looking up a plate of haggis in the galley. They've
 KIRK: Sorry to have been delayed, gentlemen. 
 MCCOY: Jim, I would be the last to advise you on your command image. 
 KIRK: I doubt that, Bones, but continue. 
-MCCOY: Do I have to lay it out for you? Practically the entire crew has seen you treat this impostor like the real thing when he can�t possibly be the real article. 
+MCCOY: Do I have to lay it out for you? Practically the entire crew has seen you treat this impostor like the real thing when he can't possibly be the real article.
 SCOTT: Lincoln died three centuries ago on a planet hundreds of light years away. 
 SPOCK: More that direction, Engineer. 
 MCCOY: You're the science officer. Why aren't you, well, doing whatever a science officer does at a time like this? 
@@ -149,7 +149,7 @@ KIRK: Gentlemen, your concern is noted and appreciated. Mister Spock, standard d
 KIRK: Standing by, Mister Scott. 
 SCOTT: Transporter room to bridge. Standing by. 
 CHEKOV [OC]: We are now locked in synchronous orbit, Mister Scott. Sensors continue to show the area as completely Earth-like in all respects. 
-MCCOY: If they�re wrong and they do beam into a pool of lava 
+MCCOY: If they're wrong and they do beam into a pool of lava
 SCOTT: Then they're dead men. I couldna pull them back in time. 
 KIRK: All right, Mister Scott, energise. 
 (Lincoln, Kirk and Spock are beamed away, but - ) 
@@ -161,7 +161,7 @@ KIRK: Kirk to Enterprise. Enterprise? Enterprise, come in. Kirk to Enterprise. E
 SPOCK: Undamaged, yet something is preventing them from functioning. 
 [Transporter room] 
 SCOTT: Come in, landing party. Report. Enterprise to Captain Kirk. Can you read us? 
-MCCOY: If they�re all right, they should've reported in. 
+MCCOY: If they're all right, they should've reported in.
 [Planet surface] 
 KIRK: Your explanation, sir? 
 LINCOLN: Well, I have none. To me this seems quite as it should be. 
@@ -308,7 +308,7 @@ KAHLESS: Better than what they have.
 GREEN: No, it's not advantage enough. I want to make sure the odds are in our favour. Overwhelm and devastate, that's the way to get power and to hold it, and I mean to do that. 
 [Good guy base] 
 KIRK: There's nothing immoral about fighting an illusion, Mister Spock. We play their game, fight, or lose the ship and all the crewmen aboard. 
-SPOCK: And if they�re real, Captain? 
+SPOCK: And if they're real, Captain?
 KIRK: We'll use this as a base. It's defensible. They can't approach without being seen. 
 LINCOLN: Are we fighting a defensive war, James? 
 KIRK: No, we don't have time. But if things go against us, I want a place to retreat to. What I want to do now is scout them out, find their weaknesses and attack. 
@@ -348,7 +348,7 @@ KAHLESS: One of those peace lovers, Colonel.
 GREEN: Why are you doing this? Do you speak for the others? 
 SURAK: No, I speak for myself because I abhor violence. But if you accept the solution I offer, they, too, will accept it. 
 [Bridge] 
-GREEN [on viewscreen]: How can I be sure? I think you�re trying to trick me, Vulcan. I think that while you're here talking peace, the others are preparing to attack. 
+GREEN [on viewscreen]: How can I be sure? I think you're trying to trick me, Vulcan. I think that while you're here talking peace, the others are preparing to attack.
 SURAK [on viewscreen]: No, Colonel. They are at their base awaiting an answer. 
 [Bad guy base] 
 GREEN: How can I believe that? No one talks peace unless he's ready to back it up with war. 
@@ -388,7 +388,7 @@ SPOCK: I am not insensitive to it, Captain.
 SURAK [OC]: Help me, Spock! 
 KIRK: But you can just listen to it and do nothing. I can't. 
 SPOCK: Captain, that is what they are waiting for. They're waiting for us to attempt a rescue. 
-KIRK: I can�t just let him stay there. 
+KIRK: I can't just let him stay there.
 LINCOLN: Perhaps we can rescue him, Mister Spock. Now, I suggest that we do whatever they want. 
 KIRK: Do what they want, sir? 
 LINCOLN: Not the way they want it, however. We must first convince them that they have provoked us to recklessness. James, I do not mean to presume upon your authority. What I propose is that I circle around to their rear while you two provide a frontal assault. It should be sufficiently violent to cover whatever I do. 

@@ -125,7 +125,7 @@ SPOCK: At maximum speed, Starbase Two would still meet the emergency.
 LYSA: Captain, shall I advise Starfleet Command of the change of plan? 
 KIRK: No change of plan has been ordered, Lieutenant. Our arrival at Beta Aurigae will merely be delayed. Our gravitational studies of that binary system will not suffer, and a life may be saved! That is not unusual procedure for the Enterprise. 
 SPOCK: Sir, I believe Starfleet will have to be notified that our rendezvous with the starship Potemkin will not take place as scheduled. 
-KIRK: Mister Spock, if you�d concentrate on the areas for which you are responsible, Starfleet Command would've been informed already. 
+KIRK: Mister Spock, if you'd concentrate on the areas for which you are responsible, Starfleet Command would've been informed already.
 SPOCK: Since the captain usually deals with Starfleet in these matters, I assumed that my suggestions might be deemed interference. 
 KIRK: Inform Starfleet of the delay, Lieutenant. 
 LYSA: Aye, sir. 
@@ -141,7 +141,7 @@ KIRK: There are no administrative duties required here.
 MCCOY: As well as flagrant medical blunders. 
 KIRK: Promotions and demotions can be politically manoeuvred. You know that, Bones. 
 MCCOY: Not in Starfleet Headquarters, Captain. And certainly not in the Surgeon General's office. 
-KIRK: I'm afraid the order will have to stand. I can only say that Doctor Coleman's experience with what happened on the planet had to be the deciding factor here. I�m sure that you can appreciate that. 
+KIRK: I'm afraid the order will have to stand. I can only say that Doctor Coleman's experience with what happened on the planet had to be the deciding factor here. I'm sure that you can appreciate that.
 MCCOY: I appreciate the fact that you had a decision to make. I also find myself in that position now, Jim, and I'm asking you to report for an examination. 
 KIRK: What? What do you base that on? 
 MCCOY: Development of emotional instability and erratic mental attitudes since returning from that planet. 
@@ -194,7 +194,7 @@ JANICE: I promise I'll be good.
 CHAPEL: Well, I'll be right back. I'm glad you're feeling so much better. 
 (Chapel leaves, Janice pours the drink on the floor and breaks the glass against the bed. Then she uses it to cut the strap holding her down) 
 [Sickbay - exam ward] 
-MCCOY: These tests should help me pinpoint the cause of Jim�s illness. 
+MCCOY: These tests should help me pinpoint the cause of Jim's illness.
 SPOCK: Good. Knowledge of the captain's aberrant behaviour is spreading through the ship. The crew is becoming increasingly tense. 
 MCCOY: Yes, well what worries me most is that Jim seems completely unaware that something is wrong with him. We've got to make him realise that something serious is happening before treatment can even begin. 
 SPOCK: I'm afraid that is a forlorn hope, Doctor. The illness appears to be primarily mental. 
@@ -260,7 +260,7 @@ SPOCK: That is true. The captain did not. However, those events have been record
 JANICE: You are closer to the captain than anyone in the universe. You know his thoughts. What does your telepathic mind tell you now? 
 (Under the watchful gaze of the guard, Spock does a quick mind-link) 
 SPOCK: I believe you. However, my belief is not acceptable evidence. Evidence must be factual. Doctor McCoy may be of help. Come with me. 
-GALLOWAY: I�m sorry, sir, but Doctor Lester cannot leave here. 
+GALLOWAY: I'm sorry, sir, but Doctor Lester cannot leave here.
 [McCoy's office] 
 KIRK: Well, are you satisfied with the results of the tests? 
 MCCOY: There is no positive evidence of any disorder. 
@@ -310,7 +310,7 @@ SPOCK: I know them now.
 KIRK: And what have you to say now? 
 SPOCK: I am disappointed and deeply concerned that there is no objective evidence to support my position. So far. 
 (Lemli enters with Janice and Coleman) 
-KIRK: Doctor Coleman, if you�re required here, we'll call you. 
+KIRK: Doctor Coleman, if you're required here, we'll call you.
 (Coleman leaves. Janice takes the witness stand) 
 KIRK: We certainly appreciate your being here. Everyone is deeply aware that you have been subjected to inordinate emotional stress. We had hoped to avoid any further stress, but Mister Spock disagrees. It is his opinion that your testimony is important in determining the merits of his case. And since we are solely interested in arriving at a just decision, I'm going to have to ask you a few more questions. I'll try not to upset you. You claim that, that you are Captain James T. Kirk? 
 JANICE: No. I am not Captain Kirk. That is very apparent. I claim that whatever it is that makes James Kirk a living being special to himself is being held here in this body. 
@@ -354,7 +354,7 @@ MCCOY: Yes. I'm ready for the vote.
 [Courtroom] 
 KIRK: Play the tapes of the conversation in the corridor. 
 LYSA: Aye, sir. 
-SCOTT [OC]: Then's the time we move against him. We�ll have to take over the ship. 
+SCOTT [OC]: Then's the time we move against him. We'll have to take over the ship.
 MCCOY [OC]: We're talking about mutiny, Scotty. 
 SCOTT [OC]: Aye. Are you ready for the vote? 
 MCCOY: That's enough. We know what was said. 
@@ -378,7 +378,7 @@ KIRK: Lieutenant Lysa, inform all sectors of my decision. Have each section send
 CHEKOV: Coming within scanning range. 
 KIRK: Plot co-ordinates for orbit. Mister Sulu, lock into co-ordinates as soon as orbit is accomplished. Interment will take place on Benecia. 
 (Chekov and Sulu remove their hands from their controls) 
-KIRK: You have received your orders! You will obey my orders. You�ll be charged with mutiny! You will obey my orders or, or, 
+KIRK: You have received your orders! You will obey my orders. You'll be charged with mutiny! You will obey my orders or, or,
 (He starts convulsing, and Janice is doing the same in the brig) 
 [Brig] 
 JANICE: For a moment, I thought that I was up on the bridge. 
@@ -400,7 +400,7 @@ KIRK: The dosage should be doubly lethal.
 COLEMAN: It is. 
 [Brig] 
 (which strangely looks straight out into the corridor) 
-KIRK: To prevent further conspiracy, you will be removed to separate cells. If there�s any resistance, you'll be given a sedative until you learn co-operation. Doctor Lester will be first. Follow Doctor Coleman. 
+KIRK: To prevent further conspiracy, you will be removed to separate cells. If there's any resistance, you'll be given a sedative until you learn co-operation. Doctor Lester will be first. Follow Doctor Coleman.
 (Janice steps out into the corridor) 
 SPOCK: May I point out, Captain 
 (Janice struggles with Coleman) 

@@ -154,7 +154,7 @@ LAFORGE: Now that you mention it, I think I have.
 CRUSHER: Do you recall when? 
 LAFORGE: No, I don't. 
 CRUSHER: We've had this discussion before and I know I've given you this examination. Let's check the medical logs. You've been treated several times for headaches related to your visor, but I read no mention of dizziness. 
-LAFORGE: Must be d�j� vu. 
+LAFORGE: Must be déjà vu.
 CRUSHER: Both of us? About the same thing? 
 [Crusher's quarters] 
 (Beverly is about to dead-head a plant, when she stops. She sips her night-cap, sits on the bed and gives the glass a quizzical look. Then she sets it down, turns out the lights and lies down. The voices start up. Reaching for the lights, she knocks over the glass, and the voices stop) 
@@ -244,7 +244,7 @@ OGAWA: No, Doctor, he's not. Wait a minute. He just came in.
 PICARD: You wanted to see me, Doctor? 
 CRUSHER: Yes. Captain, have you been getting the feeling that you've experienced certain things before? A sense of repetition? 
 PICARD: Yes, recently. While I was reading. Why do you ask? 
-CRUSHER: There have been similar incidents reported all over the ship. Feelings of d�j� vu. I had a premonition Geordi was going to come in to Sickbay. A few seconds later he did, with the symptoms of an ear infection. I was going to run the standard tests, but somehow I had a feeling they would turn out negative. So I ran an optical diagnostic which traced the problem to Geordi's visor. His dizziness is being caused by a phase shift in his visual receptors. It's causing him to see images that aren't there. 
+CRUSHER: There have been similar incidents reported all over the ship. Feelings of déjà vu. I had a premonition Geordi was going to come in to Sickbay. A few seconds later he did, with the symptoms of an ear infection. I was going to run the standard tests, but somehow I had a feeling they would turn out negative. So I ran an optical diagnostic which traced the problem to Geordi's visor. His dizziness is being caused by a phase shift in his visual receptors. It's causing him to see images that aren't there.
 LAFORGE: They're like blurry after-images. 
 CRUSHER: I ran a scan to see if I could detect what he was seeing. I picked up miniscule distortions in the surrounding dekyon field. Somehow, his visor is translating those distortions into visual impulses. 
 LAFORGE: It could be a malfunction in the ship's warp field generator. I'll check it out. 
@@ -272,8 +272,8 @@ DATA: Computer, continuous playback please. There are approximately one thousand
 [Observation lounge] 
 CRUSHER: I'm sorry to call you here so early, but we couldn't wait until oh seven hundred hours. We think we may have an explanation for the odd occurrences around here. Commander. 
 LAFORGE: This is going to sound pretty wild. Somehow, we've entered what seems to be a temporal causality loop. We think we're stuck in a particular fragment in time, and we've been repeating that same fragment over and over again. 
-TROI: Is this what's causing our d�j� vu? 
-CRUSHER: Yes, but it's more than that. In d�j� vu, you only think you're repeating events. We actually are. 
+TROI: Is this what's causing our déjà vu?
+CRUSHER: Yes, but it's more than that. In déjà vu, you only think you're repeating events. We actually are.
 LAFORGE: Our theory is this. Every time the loop begins again, everything resets itself, and starts all over. We don't remember anything that happened before, so each time through the loop, we think it's the first. 
 RIKER: You mean we could have come into this room, sat at this table and had this conversation a dozen times already? 
 LAFORGE: A dozen, a hundred, it's impossible to tell. We could have been trapped here for hours, days, maybe years. 
@@ -381,7 +381,7 @@ LAFORGE: Now that you mention it, I think I have.
 CRUSHER: Do you recall when? 
 LAFORGE: No, I don't. 
 CRUSHER: I know we've had this discussion before, and I remember giving you this examination. Let's check the medical logs. You've been treated several times for headaches related to your visor but there's no mention of dizziness. 
-LAFORGE: Must be d�j� vu. 
+LAFORGE: Must be déjà vu.
 CRUSHER: Both of us? About the same thing? I'd like to run an optical diagnostic. 
 LAFORGE: For an ear infection? 
 CRUSHER: I have a hunch. Hold still. This pulse may be a little bright. Have you made any changes to your visor lately? 

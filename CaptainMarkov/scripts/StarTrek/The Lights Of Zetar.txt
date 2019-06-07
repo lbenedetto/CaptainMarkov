@@ -10,7 +10,7 @@ CHEKOV: I didn't think Mister Scott would go for the brainy type.
 SULU: I don't think he's even noticed she has a brain. 
 KIRK: Mister Scott. Mister Scott? 
 SCOTT: (turning from Mira) Hmm? 
-KIRK: As soon as we're within viewing range of Memory Alpha, you and Lieutenant Romaine will go to the emergency manual monitor. You�ll prepare for direct transfer of equipment. 
+KIRK: As soon as we're within viewing range of Memory Alpha, you and Lieutenant Romaine will go to the emergency manual monitor. You'll prepare for direct transfer of equipment.
 SCOTT: Aye, Captain. 
 MIRA: We're ready, sir. 
 KIRK: Lieutenant, may I offer my congratulations on what will be your first assignment for the Federation? 
@@ -394,7 +394,7 @@ SCOTT@ All right, now. What's all this talk of dying? They've called the turn on
 KIRK: Kirk here. 
 SULU [OC]: Sulu, Captain. All evasion tactics carried out as ordered. 
 KIRK: What success did you have? 
-SULU [OC]: It�s been useless, Captain. 
+SULU [OC]: It's been useless, Captain.
 SPOCK: At their present force, they will get through the shields this time, Captain. 
 KIRK: Warp eight, Mister Sulu. 
 SULU [OC]: Yes, sir. 
@@ -449,7 +449,7 @@ KIRK: The price of your survival is too high.
 ZETAR: We only want the girl. 
 KIRK: You can't have her. You're entitled to your own life, but not another's. 
 MIRA: Life was given to me. It is mine. I want to live it out. I will 
-MCCOY: The girl�s life reading is becoming a match to the Zetarians. She's losing. 
+MCCOY: The girl's life reading is becoming a match to the Zetarians. She's losing.
 ZETAR: Do not fight us. 
 SPOCK: They will not accept their own deaths. 
 KIRK: They'll be forced to accept it. 

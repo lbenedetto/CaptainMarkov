@@ -274,7 +274,7 @@ JANEWAY: Now.
 CHAKOTAY: Is the tractor beam ready? 
 PARIS: Just about, sir. 
 CHAKOTAY: Lock onto the module and take us out. 
-SEVEN: We don�t have time. 
+SEVEN: We don't have time.
 CHAKOTAY: I gave you an order. 
 SEVEN: Commander. 
 CHAKOTAY: We're not leaving without that module. Tom! 
@@ -405,7 +405,7 @@ SEVEN: I believe so.
 [Delta Flyer - aft compartment] 
 CHAKOTAY: Consider it my last request. 
 [Ares Four Command Module] 
-KELLY [on monitor]: And I can't get a fix on my position. But I�m alive and the CM seems to be intact. I'm inside this 
+KELLY [on monitor]: And I can't get a fix on my position. But I'm alive and the CM seems to be intact. I'm inside this
 [Delta Flyer - cockpit] 
 KELLY [OC]: Whatever it is. 
 PARIS: Could you hear that, Chakotay? 

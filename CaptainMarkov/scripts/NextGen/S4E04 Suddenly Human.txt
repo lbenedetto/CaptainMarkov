@@ -68,7 +68,7 @@ JONO: Yes, Captain.
 PICARD: Good. That's better. Now, if we're to accomplish anything 
 DATA [OC]: Data to Picard. 
 PICARD: Go ahead. 
-DATA [OC]: We have received a subspace communiqu� from Starfleet Command regarding the young human, sir. 
+DATA [OC]: We have received a subspace communiqué from Starfleet Command regarding the young human, sir.
 PICARD: Very well. Doctor, Counsellor. 
 CRUSHER: Lieutenant Worf, escort this young man to quarters. He is to be confined there until further notice. 
 WORF: Yes, Doctor. 

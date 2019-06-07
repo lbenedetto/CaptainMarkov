@@ -26,7 +26,7 @@ RIKER [OC]: Captain, I'm sorry to disturb you.
 PICARD: Yes, Number One. What is it? 
 RIKER [on monitor]: An incoming message. Code Forty Seven, sir. 
 PICARD: Pipe it through. 
-COMPUTER: This is an emergency communiqu�. It is not to be discussed with fellow officers unless deemed absolutely necessary. There will be no computer record of said transmission. 
+COMPUTER: This is an emergency communiqué. It is not to be discussed with fellow officers unless deemed absolutely necessary. There will be no computer record of said transmission.
 PICARD: Understood. 
 COMPUTER: Proceed with voice print identification. 
 PICARD: Picard, Jean-Luc. Captain, USS Enterprise. 

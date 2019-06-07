@@ -134,7 +134,7 @@ QUARK: Dinner is served.
 FALLIT: I didn't order dinner. 
 QUARK: What better way to mollify, satisfy a hungry traveller than with a delicious home-cooked meal? Starting with a delicate Vak clover soup. 
 (Kot pours the soup on the floor and breaks the dish.) 
-QUARK: Why spoil your appetite with soup? Here's the real treat. Jumbo Vulcan mollusks. Saut�ed in rhombolian butter. A taste so exquisite, it's to die for. Or to live for, for that matter. 
+QUARK: Why spoil your appetite with soup? Here's the real treat. Jumbo Vulcan mollusks. Sautéed in rhombolian butter. A taste so exquisite, it's to die for. Or to live for, for that matter.
 (Kot tries it) 
 QUARK: Do you know dabo, Fallit? It's a wonderfully entertaining game and easy to learn. I took the liberty of lining up a couple of excellent tutors I know. 
 (two dabo girls sit) 

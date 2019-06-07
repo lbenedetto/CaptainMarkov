@@ -249,17 +249,17 @@ JANEWAY: Well, keep investigating.
 SEVEN: Yes, Captain. 
 JANEWAY: We've run enough simulations for one day. Let's work on refining our tactics, anything we can do to shave a few more seconds off our little heist. Computer, end programme. 
 [Corridor] 
-JANEWAY: I don't know about you but I�m glad to be back on Voyager. Borg vessels make my skin crawl. 
+JANEWAY: I don't know about you but I'm glad to be back on Voyager. Borg vessels make my skin crawl.
 SEVEN: It was a holodeck recreation. 
 JANEWAY: Close enough. We just spent the last three hours dodging drones. It didn't bother you? 
 SEVEN: Your point. 
 JANEWAY: You seemed a little nervous in there. 
 SEVEN: The last time I was on a Borg vessel, I was a drone. The recreation was unsettling. 
-JANEWAY: You were reluctant to look at your parents' research and now I sense you're a little reluctant to go on this mission. Maybe I�m pushing you too fast. 
+JANEWAY: You were reluctant to look at your parents' research and now I sense you're a little reluctant to go on this mission. Maybe I'm pushing you too fast.
 SEVEN: I'll adapt. 
 JANEWAY: It's easier said than done. It's been over two years since you came face to face with the Collective. Are you sure you're up to it? I need everybody working at peak efficiency. 
 SEVEN: You doubt my ability to function. 
-JANEWAY: No, I�m simply voicing my concerns. 
+JANEWAY: No, I'm simply voicing my concerns.
 SEVEN: They are unjustified. 
 JANEWAY: I hope so, because the next time we won't be on the holodeck. 
 SEVEN: Understood. 
@@ -294,7 +294,7 @@ SEVEN: Seven of Nine to Security. Intruder alert.
 QUEEN [OC]: They can't hear you. 
 SEVEN: Who are you? 
 QUEEN [OC]: I am the Borg. Seven of Nine, tertiary adjunct of Unimatrix zero one, you've become weak. 
-SEVEN: This is a dream. I�m regenerating. 
+SEVEN: This is a dream. I'm regenerating.
 QUEEN [OC]: It's not a dream. We've accessed your neural transceiver. Our thoughts are one. We know about Voyager's plan to invade the Sphere. It will fail. 
 SEVEN: If that's true, then why haven't you assimilated them? 
 QUEEN [OC]: We've come to make you an offer. Rejoin the Collective and we'll spare Voyager. 

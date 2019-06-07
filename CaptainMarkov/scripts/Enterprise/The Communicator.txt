@@ -96,7 +96,7 @@ ARCHER: I don't know.
 (Reed and Archer are pushed against the wall and searched. Pell finds the phase pistol.) 
 PELL: What kind of weapon is this? (silence) Where's General Gosis? 
 SOLDIER: On the Eastern perimeter. 
-PELL: Send a level four communiqu� and tell him I think we've found a pair of enemy spies. Take them to the Complex and put your men on alert. You won't be seeing your friends in the Alliance for a long time. 
+PELL: Send a level four communiqué and tell him I think we've found a pair of enemy spies. Take them to the Complex and put your men on alert. You won't be seeing your friends in the Alliance for a long time.
 [Bridge] 
 TUCKER: I'm telling you, something's gone wrong. We should hail them. 
 HOSHI: If they're in a public place, the communicator would draw attention. 
@@ -158,7 +158,7 @@ T'POL: Work quickly.
 TUCKER: I could use a hand. 
 TRAVIS: Aye, sir. 
 (They leave.) 
-T'POL: I suggest we monitor the communiqu�s coming from the compound. They may tell us what's happening to the Captain and Mister Reed. 
+T'POL: I suggest we monitor the communiqués coming from the compound. They may tell us what's happening to the Captain and Mister Reed.
 HOSHI: Right away. 
 [Launch bay - Cell ship] 
 (The little sphere is wide open.) 
@@ -236,7 +236,7 @@ GOSIS: We need to verify what they've told us.
 TEMEC: I ran every imaginable test. If I were to extract the organs, I could study them in more detail. 
 GOSIS: (to Pell) You'll be in charge of the execution. I'll inform the prisoners. 
 [Bridge] 
-HOSHI: Sub-Commander, another communiqu�. It's from a General Gosis to the Chancellor. He said they've captured two enemy spies. They're going to hang them. 
+HOSHI: Sub-Commander, another communiqué. It's from a General Gosis to the Chancellor. He said they've captured two enemy spies. They're going to hang them.
 [Launch bay - cell ship] 
 TUCKER: Reconnect the diffraction relays and we'll give it another shot. 
 (He sneaks another look under his rubber glove.) 

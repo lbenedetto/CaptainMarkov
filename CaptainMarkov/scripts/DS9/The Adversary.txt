@@ -24,7 +24,7 @@ ALL: Hear, hear. Cheers.
 SISKO: That's enough. Thank you for coming, Ambassador. 
 KRAJENSKY: Those pips look good on you, Captain. Though to be honest, I'm not really here for the ceremony. 
 SISKO: I had that feeling. What can I do for you? 
-KRAJENSKY: Our intelligence reports indicate there's been a coup d'�tat on the Tzenkethi homeworld. 
+KRAJENSKY: Our intelligence reports indicate there's been a coup d'état on the Tzenkethi homeworld.
 SISKO: I doubt anyone is going to miss the Autarch. 
 KRAJENSKY: I know I won't. Unfortunately, it's too early to tell who's in control, but we don't want to take any chances. We need to remind the Tzenkethi that the Federation is committed to protecting our colonies near their border. 
 SISKO: You want to show the flag. 
@@ -215,7 +215,7 @@ KIRA: If you ask me, the Tzenkethi are doing a pretty good job of that all by th
 SISKO: Not necessarily. The transmission we received from Barisa Prime could've been faked using that device we found implanted in the communications relay. In fact, our entire mission could have been engineered by the Dominion. Think about it. We've been all over this ship, and we have not seen a trace of the real Ambassador Krajensky nor his remains. 
 EDDINGTON: Which means he was probably replaced before we left the station. 
 ODO: Maybe the real Ambassador never came to Deep Space Nine at all. 
-BASHIR: So anything Ambassador Krajensky told us could have been a lie. The Tzenkethi coup d'�tat, increased tension along the border, the threat of an attack. 
+BASHIR: So anything Ambassador Krajensky told us could have been a lie. The Tzenkethi coup d'état, increased tension along the border, the threat of an attack.
 SISKO: And now here we are, cloaked, armed for battle, and headed into Tzenkethi space. If we can't stop this ship before we cross the border, we may wind up causing a war rather of preventing one. 
 ODO: Which is no doubt what my people are hoping for. A war between the Tzenkethi and the Federation would destabilise the Alpha Quadrant, making it that much easier for the Dominion to move in. 
 EDDINGTON: I wish the internal sensors were online. It'd make it a lot easier to track down the changeling. 

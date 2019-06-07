@@ -65,7 +65,7 @@ MACET [on viewscreen]: Very well. One hour.
 [Ready room] 
 HADEN [on monitor]: Captain, we've confirmed your report. It was the starship Phoenix, under the command of Benjamin Maxwell. 
 PICARD: Ben Maxwell? But he's one of Starfleet's finest captains. He must have had provocation. 
-HADEN [on monitor]: I wish we knew. He's gone on silent running. Doesn't answer our communiqu�s. 
+HADEN [on monitor]: I wish we knew. He's gone on silent running. Doesn't answer our communiqués.
 PICARD: Then he's still in Cardassian space? 
 HADEN [on monitor]: The station he destroyed was in sector twenty one five oh five. You're the nearest starship. We want you to go in and find him. 
 PICARD: Will the Cardassians cooperate? 
@@ -158,7 +158,7 @@ PICARD: We are able to make that determination.
 MACET: You can read our transponder codes. 
 PICARD: The important thing at the moment is that one of your ships may be in jeopardy. Mister Worf, has there been any answer to our communication? 
 WORF: No, Captain. 
-PICARD: Put out a repeating message on all subspace channels, priority one communiqu�. Break off your pursuit immediately. 
+PICARD: Put out a repeating message on all subspace channels, priority one communiqué. Break off your pursuit immediately.
 WORF: Aye, sir. 
 PICARD: Gul Macet, you see we are doing everything in our power to reach the Phoenix. 
 MACET: Yes, and accomplishing nothing, I'm sorry to say. Can you show me the location of our other ships? 
