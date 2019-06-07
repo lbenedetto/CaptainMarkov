@@ -8,8 +8,8 @@ import java.util.stream.Collectors
 
 object SeriesReader {
 
-    fun readAll(): List<String> {
-        return Series.values()
+    fun readAll(series: Array<out Series> = Series.values()): List<String> {
+        return series
             .map { readAllFromSeries(it) }
             .flatten()
     }

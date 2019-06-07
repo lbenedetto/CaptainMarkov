@@ -9,19 +9,8 @@ class MarkovChain {
     private var chain = Hashtable<String, Vector<String>>()
     private val rand = Random()
 
-    /**
-     * Initialize empty chain
-     */
-    constructor() {
+    init {
         createStarterEntries()
-    }
-
-    /**
-     * Initialize chain with lines
-     */
-    constructor(lines: List<String>) {
-        createStarterEntries()
-        addFile(lines)
     }
 
     private fun createStarterEntries() {
@@ -30,83 +19,42 @@ class MarkovChain {
         chain["_end"] = Vector()
     }
 
-    /**
-     * Add more lines to the Markov Chain
-     *
-     * @param lines List<String>
-    </String> */
-    fun addFile(lines: List<String>) {
+    private fun addLines(lines: List<String>) {
         for (s in lines)
             addWords(s)
     }
 
     /**
-     * Merge a MarkovChain with another MarkovChain
-     * Pretty sure that this works...
+     * input: I wrote useful documentation
+     * output: [I wrote, wrote useful, useful documentation]
      *
-     * @param that MarkovChain
+     * This gives us a chain length of 3 words,
+     * which results in a higher coherency.
      */
-    fun merge(that: MarkovChain) {
-        val thatChain = that.chain
-        val newChain = Hashtable<String, Vector<String>>()
-        val thisKeys = chain.keys
-        val thatKeys = thatChain.keys
-        val keys = HashSet<String>()
-        keys.addAll(thisKeys)
-        keys.addAll(thatKeys)
-        for (key in keys) {
-            val newPair = Vector<String>()
-            val thisPair = chain[key]
-            val thatPair = thatChain[key]
-            if (thisPair != null) newPair.addAll(thisPair)
-            if (thatPair != null) newPair.addAll(thatPair)
-            chain.remove(key)
-            thatChain.remove(key)
-            newChain[key] = newPair
-        }
-
-        chain = newChain
-    }
-
-    /**
-     * Splits the phrase into groups of two, with overlap
-     * This is for achieving a chain length of three
-     *
-     * @param phrase String
-     * @return String[]
-     */
-    private fun spliterator(phrase: String): Array<String> {
-        val split = phrase.split(" ".toRegex())
+    private fun getChainLinks(phrase: String): Array<String> {
+        return phrase.split(" ".toRegex())
             .dropLastWhile { it.isEmpty() }
+            .toList()
+            .zipWithNext() // Returns a list of pairs of each two adjacent elements in this collection.
+            .map { pair -> "${pair.first} ${pair.second}" }
             .toTypedArray()
-        return Array(split.size - 1) {
-            var temp = split[it]
-            temp += " " + split[it + 1]
-            temp
-        }
     }
 
     /**
-     * Removes every other word in the phrase
+     * Removes every other word in the phrase,
+     * undoing the duplication of words caused by getChainLinks()
      *
      * @param phrase String
      * @return String
      */
     private fun removeDuplicateWords(phrase: String): String {
-        val words = phrase.split(" ".toRegex())
-            .dropLastWhile { it.isEmpty() }
-            .toTypedArray()
-        var out = ""
-        var add = true
-        for (s in words) {
-            if (add) {
-                out += "$s "
-                add = false
-            } else {
-                add = true
-            }
-        }
-        return if (words.size % 2 == 0) out + words[words.size - 1] else out
+        val words = phrase.trim().split(" ")
+
+        val out = words.withIndex()
+            .filter { it.index % 2 == 0 }
+            .joinToString(separator = " ") { it.value }
+
+        return if (words.size % 2 == 0) out + " " + words[words.size - 1] else out
 
     }
 
@@ -119,7 +67,7 @@ class MarkovChain {
     fun addWords(phrase: String) {
         if (phrase == "#" || phrase == "") return
         // put each word into an array
-        val words = spliterator(phrase)
+        val words = getChainLinks(phrase)
         //No point in adding 2 word phrases
         if (words.size < 2) return
         // Loop through each word, check if it's already added

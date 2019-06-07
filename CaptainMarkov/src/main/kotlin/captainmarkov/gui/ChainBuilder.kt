@@ -62,7 +62,8 @@ private constructor(// private ImageIcon icon = createImageIcon("images/middle.g
             JCheckBox("(TNG) The Next Generation"),
             JCheckBox("(DS9) Deep Space Nine"),
             JCheckBox("(VOY) Voyager"),
-            JCheckBox("(ENT) Enterprise")
+            JCheckBox("(ENT) Enterprise"),
+            JCheckBox("Movies")
         )
 
         checkBoxes.forEach { it.isSelected = true }
@@ -74,10 +75,11 @@ private constructor(// private ImageIcon icon = createImageIcon("images/middle.g
             if (checkBoxes[2].isSelected) shows.add(Series.DS9)
             if (checkBoxes[3].isSelected) shows.add(Series.VOY)
             if (checkBoxes[4].isSelected) shows.add(Series.ENT)
+            if (checkBoxes[5].isSelected) shows.add(Series.MOVIES)
 
             val seed = inputForCustom!!.text
             setLabel("If this is first time running, it will take a long time to download the scripts")
-            val keyPhrase = KeyPhrase(seed, true, shows)
+            val keyPhrase = KeyPhrase(seed, true, shows.toTypedArray())
 
             customDialog = CustomDialog(frame, keyPhrase, this)
             customDialog.pack()
@@ -226,7 +228,7 @@ private constructor(// private ImageIcon icon = createImageIcon("images/middle.g
             frame.defaultCloseOperation = WindowConstants.EXIT_ON_CLOSE
 
             //Create and set up the content pane.
-            val instance = ChainBuilder(frame)
+            instance = ChainBuilder(frame)
             instance.isOpaque = true //content panes must be opaque
             frame.contentPane = instance
 
