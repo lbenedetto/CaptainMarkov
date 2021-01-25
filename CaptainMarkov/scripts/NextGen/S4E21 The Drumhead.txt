@@ -1,0 +1,367 @@
+The Drumhead
+Captain's Log, Stardate 44769.2. For some weeks we have had a Klingon exobiologist on board as part of a scientific exchange programme. Unfortunately, we suspect that he was involved in a security breach and in the possible sabotage of our warp drive. 
+[Interrogation room] 
+(also the ship's theatre and meeting room) 
+RIKER: What were you doing accessing the propulsion system files on Stardate 44758? 
+J'DAN: I didn't. 
+RIKER: Yes, you did, from computer twelve B nine, deck thirty six. The computer logged in your identification from your communicator. 
+J'DAN: It must be a mistake. 
+TROI: J'Dan, we have confirmed reports that schematic drawings of our dilithium chamber fell into Romulan hands one week later. 
+J'DAN: I know nothing about it. 
+RIKER: I suppose you know nothing about the explosion that disabled the warp drive at approximately the same time? 
+J'DAN: No. I was not involved. You accuse me because I am Klingon. 
+TROI: Our Chief Security Officer is Klingon. That has nothing to do with it. 
+J'DAN: Send me home, then, if you are so distrusting. 
+RIKER: We've already contacted the Klingon High Council. You'll be returned home as soon as we finished our investigation. 
+J'DAN: I have nothing more to say. 
+RIKER: Very well. Worf, accompany the Lieutenant to his quarters. 
+(Worf and J'Dan leave) 
+RIKER: What do you think? 
+TROI: It's hard to tell. He is very closed, but he is hiding something. 
+[Turbolift] 
+J'DAN: On the Klingon Home World your name is not mentioned. It is as though you never existed. A terrible burden for a warrior to bear, to become nothing, to be without honour, without the chance for glory. 
+[Corridor] 
+J'DAN: I have friends, powerful friends, on the homeworld. I could talk to them. They might help to restore your name, if you could just take me to a shuttlecraft. 
+[J'Dan's quarters] 
+J'DAN: It could be done without any one knowing about it. 
+(Worf hits J'Dan) 
+WORF: I don't know how you transferred secret information to the Romulans, but I will find out. 
+J'DAN: Pahtk! 
+WORF: When we inform the Klingon High Council, they will put you to a slow death. 
+Captain's log, supplemental. Retired Admiral Norah Satie, whose investigation exposed the alien conspiracy against Starfleet Command three years ago, is arriving to assist in our inquiry. 
+[Transporter room] 
+(an older woman in a long red robe beams in with a male and female escort) 
+SATIE: Captain Picard. 
+PICARD: Admiral Satie. Welcome aboard the Enterprise. 
+SATIE: Delighted to be here. I managed to acquire my former staff. My aide, Sabin Genestra, from Betazed, and my assistant, Nellen Tore, from Delb Two. 
+PICARD: This is my First Officer, Commander William Riker. May I show you to your quarters? 
+SATIE: Captain, if Starfleet Command is so concerned with your report they brought me out of retirement, I think I should get right to work. 
+PICARD: Very well. Commander Riker, will you see to the Admiral's staff? 
+SATIE: First, I'd like to inspect the damage to your engine room. 
+[Engineering] 
+PICARD: Admiral Satie, this is Commander Data, Commander La Forge. 
+LAFORGE: Admiral. We still can't get in there, Captain. The radiation levels are dropping, but they're too high to raise the isolation door. 
+PICARD: How much longer will it be? 
+DATA: At the rate the levels are decreasing, we will gain entry in forty nine hours, Captain. 
+LAFORGE: Maybe the Admiral would like to see the visual log of the explosion. 
+SATIE: Yes. 
+LAFORGE: This was logged four days ago at oh three hundred hours. 
+(a picture on the monitor of the warp core, labelled sensor log playback 44765.3 03.00.59.941. Part of the core goes bang) 
+LAFORGE: At that point the emergency confinement field was activated and the isolation doors came down. No one was killed, but I have two people in Sickbay with radiation burns. 
+SATIE: Have you been able to make any assessments? 
+DATA: Slow motion study of the explosion suggests that the articulation frame collapsed. 
+SATIE: The schematics that were stolen from the Enterprise, I believe some involved the articulation frame of the dilithium chamber. 
+PICARD: That's one reason we tend to suspect sabotage. 
+DATA: Other evidence lends credence to that theory, Captain. A review of the sensor logs indicates that every systems reading was well within normal parameters until fifty two milliseconds before the explosion. 
+LAFORGE: We haven't found anything that suggests there was a malfunction anywhere along the line. 
+SATIE: Captain, I think I'm going to need a full briefing before we go any further. 
+PICARD: By all means, Admiral. 
+SATIE: Commander Data, La Forge, I don't envy you your job. Good luck. 
+[Ready room] 
+PICARD: There are disturbing overtones in the idea of a Klingon providing information to the Romulans. Are you aware of any other Klingon-Romulan connection that Starfleet Command might have encountered recently? 
+SATIE: I don't believe what Starfleet Command knows or doesn't know is for me to reveal. 
+PICARD: This ship has encountered several incidents which might suggest a potential alliance between those two powers. 
+SATIE: We're aware of that, Captain. What we must concentrate on is the business at hand. 
+(doorbell) 
+PICARD: Come. 
+WORF: Excuse me, Captain, I didn't know that 
+PICARD: Please, Mister Worf, come in. I particularly want my guest to meet you. Admiral Satie. This is my Head of Security, Lieutenant Worf. 
+WORF: Captain, I have been pursuing the investigation of Lieutenant J'Dan. I believe I know how he transferred information off the Enterprise. 
+SATIE: Well done, Lieutenant. 
+WORF: (hands over a hypospray) This is J'Dan's. A hypospray he uses to treat his Ba'ltmasor Syndrome. But this has been fitted with an optical reader specially modified to read data from Starfleet isolinear chips. He can extract digital information from a computer, encode it in the form of amino acid sequences, and transfer those sequences into a fluid in the syringe. Then he injects someone, perhaps even without their knowledge. 
+SATIE: Or perhaps with their knowledge. 
+WORF: The information would be carried in their bloodstream in the form of inert proteins. 
+SATIE: The body itself becomes a conveyor of top secret files. Lieutenant Worf, when we confront J'Dan, I want you to conduct the interrogation. 
+WORF: I would be honoured. Captain. Admiral. 
+(Worf leaves) 
+SATIE: Captain, I predict that officer will be extremely valuable in this investigation. 
+[Interrogation room] 
+WORF: I have tracked the movements of every person who has left the Enterprise since you have been here. I traced one Tarkanian diplomat as far as the Cruces system where he disappeared and has not been seen since. 
+J'DAN: That proves nothing. 
+WORF: A hyposyringe was discovered in your quarters. 
+J'DAN: I take injections. Everyone knows that. 
+WORF: But your injections do not include an optical chip reader. This device has but one function, to transform computer information into biological sequences. 
+J'DAN: The blood of all Klingons has become water. Since the Federation alliance we have turned into a nation of mewling babies. Romulans are strong. They are worthy allies. They do not turn Klingons into weaklings like you. 
+SATIE: Lieutenant, how did you damage the dilithium chamber? 
+J'DAN: I had nothing to do with that 
+SATIE: You mean it was sheer coincidence that it was sabotaged after you gave the plans for the design to the Romulans? 
+J'DAN: I do not know. I had nothing to do with it. 
+SATIE: You've admitted your crime. Why lie now? 
+J'DAN: I am not lying. 
+PICARD: Mister Worf, you may have him confined. 
+(Worf and J'Dan leave) 
+SATIE: Sabin? 
+SABIN: I believe he's telling the truth. He admits stealing the files but not sabotaging the dilithium chamber. I get no sense that he's lying. 
+PICARD: But if you're right, someone else may be involved. 
+SATIE: I think, Captain, you have a bigger problem on your ship than one Klingon exchange officer. 
+[Satie's quarters] 
+(the Admiral is serving tea, I think) 
+SATIE: I've seen this before. The spectre of conspiracy on a starship is a frightening one. 
+PICARD: I can scarcely believe it myself, but I am so grateful for your presence, Admiral. If anyone in Starfleet can help us, it's you. 
+SATIE: Captain, I find myself changing my mind about you. 
+PICARD: In what way? 
+SATIE: When Starfleet ordered me here, it was with the express command that we work together on this problem as equals. My father taught me to avoid partnerships. Most of them are woefully lop-sided. 
+PICARD: That sounds like Judge Aaron Satie. 
+SATIE: You knew my father? 
+PICARD: Only from his writings. His judgments were required reading at the Academy. 
+SATIE: He was an extraordinary man. Every night at the dinner table he would pose a question for debate. My big brothers and I would wrangle it around, from one side and the other. Father would referee, and he kept a stopwatch on us so we'd have to learn brevity. But he wouldn't let us leave until he thought we'd completely explored the issue. 
+PICARD: I'm willing to wager that you trounced your brothers during those debates. 
+SATIE: More than once. Father loved it when I nailed one of them with some subtle point of logic. All that I am, I owe to him. He was a giant. 
+PICARD: You must miss him very much. 
+SATIE: Captain, I always preferred working alone. That way, if something goes wrong, I don't have to go far for the cause. I resented you being assigned to me, but I was wrong. We're going to be quite a team. 
+[Observation lounge] 
+WORF: J'Dan did not make friends easily. There are not many to question. 
+SABIN: You've done a thorough job, Lieutenant. 
+WORF: I am strongly motivated in this matter. 
+SABIN: Yes, I can see that. I don't mind telling you I'm surprised. Frankly, when I first heard about your father. 
+WORF: My father? 
+SABIN: Yes. There are some who believe he betrayed your people to the Romulans. 
+WORF: What he did or did not do is no one's concern but my own 
+SABIN: Of course. I only meant before I saw you in action, I naturally considered you a possible security risk. But I want you to know you have the Admiral's and my complete confidence. You have nothing to prove to us. 
+WORF: If there is a conspiracy on board, I promise you I will find it. 
+SABIN: Good. You know the ship, you know the personnel, you know exactly what we're up against. We're counting on you, Lieutenant. 
+WORF: I will arrange for the interviews to begin. 
+[Interrogation room] 
+SATIE: And how often did Lieutenant J'Dan come in for his injections? 
+CRUSHER: About once a week. 
+SATIE: Did you administer them yourself? 
+CRUSHER: No. 
+SATIE: Then who did? 
+CRUSHER: I had one of my assistants do that. 
+SABIN: Did you ever hear him say anything? Anything that may have seemed innocent at the time that might now shed some light on this investigation? 
+CRUSHER: No, nothing. In fact, he rarely spoke at all. 
+PICARD: Thank you, Doctor Crusher, we appreciate your time. You are excused now. Mister Worf, will you bring in the next person? 
+(Crusher leaves and a young man enters) 
+PICARD: Please sit down, Mister Tarses. For the record, will you tell us your name and position? 
+TARSES: Simon Tarses, Crewman First Class, medical technician. 
+PICARD: I assure you this is an informal inquiry. We are not accusing you of anything. However, if you would like counsel, it can be provided for you. 
+TARSES: No, sir. I have nothing to hide. 
+PICARD: Tell me, how long have you held your appointment onboard this vessel? 
+TARSES: Since Stardate 43587. 
+SATIE: Mister Tarses, your records state that you were born on Mars Colony. 
+TARSES: That's right. 
+SATIE: Then you are human? 
+TARSES: Largely. My paternal grandfather was Vulcan. 
+SATIE: Yes, I see that. Tell me, what is your relationship with the Klingon, J'Dan? 
+TARSES: Er, he, I mean, there's no relationship. He just came in for his injections. 
+SATIE: Did you give him those injections? 
+TARSES: Sometimes. There were several of us. Actually, I might have done it twice. 
+SABIN: Did he ever make any comments that might, in retrospect, be suspicious? 
+TARSES: Not really. He hardly ever talked. 
+SATIE: Did you ever see him outside Sickbay? 
+TARSES: Once or twice in Ten Forward, with a group of people, but I never had a conversation with him. 
+SATIE: Thank you, Mister Tarses. I don't think there's need for more. Captain? 
+PICARD: You're excused, crewman. 
+(Tarses leaves) 
+PICARD: Mister Worf? 
+SABIN: Wait. He's lying. He's desperately frightened. He's covering something. 
+PICARD: It's clear that he's frightened, but that's hardly an indication 
+SABIN: It's more than that. He wasn't truthful. He's covering a lie. One so big it's overwhelming him. I think we've found the man. 
+[Ready room] 
+PICARD: Admiral. I have to tell you, you must not expect me to permit any action against Mister Tarses solely on the basis of Betazoid intuition. 
+SATIE: Sabin has uncanny instincts. I've learned to trust them. 
+PICARD: I'm not happy about this use of a Betazoid. 
+SATIE: But you have a Betazoid counsellor. Surely you're aware of the advantages. 
+PICARD: There is a difference between a counsellor and an investigator. 
+SATIE: Are you saying you never use your counsellor during interrogations? 
+PICARD: Yes, I do, but I would not act solely on the basis of her instinct. 
+SATIE: Nor do I. 
+PICARD: But you're asking, you're asking me to restrict Mister Tarses' movements solely on the basis on Sabin's feeling. 
+SATIE: If Counsellor Troi suggested to you that someone on the ship were dangerous, would you not act on that? Observe him? Curb his activity? 
+PICARD: Yes, I admit I probably would. And perhaps I should re-evaluate that behaviour. 
+SATIE: Oh, nonsense. Let's keep our priorities straight. The important thing is to uncover the conspiracy on this ship and to prevent further damage. Now, if Tarses is a possible saboteur, you cannot allow him access to sensitive areas of the ship, and I strongly suggest continuous surveillance. 
+PICARD: If we had clear evidence. 
+SATIE: We will have clear evidence. Sabin and Lieutenant Worf are continuing to investigate. But if you don't act until then, it may be too late. 
+PICARD: No. I won't treat a man as a criminal unless there is cause to do so. 
+SATIE: And while you're being so generous, you give a saboteur a chance to strike again. Last time it was just a hatch cover/ What if next time it's more serious? What if lives are lost? Can you afford not to act? 
+LAFORGE [OC]: Engineering to Captain Picard. 
+PICARD: Yes, Mister La Forge. 
+LAFORGE [OC]: Captain, could you come to Engineering right away? We've got something interesting to show you. 
+PICARD: I'll be right there. 
+[Engineering] 
+LAFORGE: Captain, we finally got in here about six hours ago. We've been going over it inch by inch ever since. 
+DATA: We have made micro-tomographic analyses of the dilithium chamber, the hatch mounting, the blast pattern from the explosion. 
+LAFORGE: We did mass spectrometer readings of the residue for chemical content, sifted through the debris for bomb fragments. 
+SATIE: What did you find? 
+LAFORGE: This is the frame for the hatch. It ruptured right along here. When we take a reading of that spot. See? 
+SATIE: I'm afraid I'm out of my element, Commander. You'll have to interpret for me. 
+PICARD: There are submicron fractures in the metal casing. 
+LAFORGE: That's right. A breakdown of the atomic cohesive structure. 
+SATIE: Yes? And what caused them? 
+DATA: Those fractures suggest nothing more than simple neutron fatigue. I would speculate that when the engine was last inspected at McKinley station, the hatch casing was replaced with one which had an undetectable defect. I believe, sir, that the conclusion to our investigation must be that the explosion was not intentional. 
+LAFORGE: That's the way I see it. This wasn't sabotage at all. It was nothing more than an accident. 
+[Observation lounge] 
+SABIN: An accident? I find that hard to believe. 
+PICARD: If my crew say there was no sabotage, then you can be sure there was none. 
+SATIE: Let us keep our perspective, gentlemen. Just because there was no sabotage doesn't mean there isn't a conspiracy on this ship. We do have a confessed spy. 
+SABIN: And he had confederates. 
+PICARD: Do we know that for sure? 
+SATIE: Of course he did. Do you think J'Dan could have come on board the flagship of the Federation and accomplished what he did without help from within? 
+PICARD: I agree it would be difficult, but not impossible. 
+WORF: We should continue to investigate Tarses. He was hiding something. 
+SABIN: Captain Picard Lieutenant Worf and I have been working well together. I suggest we continue, if for no other purpose than to determine Tarses' innocence. 
+PICARD: Now, please! Let me remind you he is innocent until he is proved guilty. 
+SATIE: Of course he is. What Sabin is saying is that he and Lieutenant Worf would like to establish his innocence unequivocally, for his own sake. 
+PICARD: Very well. But let us put this to rest as quickly as possible. 
+[Interrogation room] 
+(Picard enters to a packed house) 
+PICARD: You've opened the hearing to spectators? 
+SATIE: It isn't good to have closed door proceedings for too long. It invites rumour and speculation. 
+PICARD: Nevertheless, Admiral, I think it would be wise 
+SATIE: Because spies and saboteurs don't like the bright light of an open inquiry. They're like roaches, scurrying for the dark corner. 
+PICARD: This hearing is convened on Stardate 44780 as a continuing inquiry into the activities of Crewman Simon Tarses. Mister Tarses, for your own protection, I have assigned a counsel to you in the person of Commander William Riker. 
+TARSES: Thank you, sir, but I don't need protection. I have not done anything wrong. 
+SATIE: Doctor Crusher, have you observed Crewman Tarses with J'Dan? 
+CRUSHER: Well, yes, he gave him his injection. 
+SATIE: I meant outside of Sickbay. 
+CRUSHER: I think so, perhaps in Ten Forward. 
+SATIE: And whom else have you observed at these occasions? 
+CRUSHER: I don't understand what relevance that has. It was an innocent social gathering. 
+SATIE: If it was so innocent, why do you hesitate to give us the names? 
+PICARD: Thank you, Doctor. (sotto) If you have a case to make against Tarses, you had better make it, otherwise I'm stopping this here and now. 
+SABIN: Mister Tarses. Isn't it true that you have access to the biological supplies in Sickbay? 
+TARSES: It's part of my job, yes. 
+SABIN: J'Dan used suspensions of deoxyribose to carry the encoded files he stole. Isn't it true one of your duties is to prepare those suspensions? 
+TARSES: Several technicians share that job. 
+SABIN: And isn't it true that your security clearance allows you access to all the stores and files in Sickbay? Access which you can exercise at any time? 
+TARSES: Because I have access does not mean I 
+SABIN: What would you say if I told you there is evidence that the explosion in the engine room was caused by a corrosive chemical. One that is kept stored in Sickbay. 
+TARSES: I had nothing to do with that. 
+SABIN: How can we believe you? How can we believe someone whom we know, we know, to be a liar? 
+RIKER: I object! There is no basis for calling Crewman Tarses a liar. 
+PICARD: Agreed. Mister Sabin. 
+SABIN: Captain, there is a basis which will become clear in a moment. Mister Tarses, didn't you deliberately and premeditatively lied when you filled out your personnel application and compounded that lie by repeating it to this committee? 
+TARSES: What? 
+SABIN: Isn't it true that the paternal grandfather of whom you speak was not a Vulcan but was in fact a Romulan? That it is Romulan blood you carry and a Romulan heritage that you honour? 
+(Riker whispers in Simon's ear) 
+SABIN: We're waiting, Mister Tarses. 
+TARSES: On the advice of my counsel I refuse to answer that question, in that the answer may serve to incriminate me. 
+[Observation lounge] 
+WORF: You and Crewman Marcus will coordinate to track Tarses' movements over the last five years. Ensign Kellogg, I want a list of all relatives, known associates, and especially old school friends. And make arrangements to do an encephalographic polygraph scan. 
+PICARD: Mister Worf? 
+WORF: Yes, Captain? 
+PICARD: I need to speak with you. 
+WORF: You are dismissed. Please get your reports to me as soon as possible. 
+(the security officers leave) 
+PICARD: Do you see what is happening here, Mister Worf? 
+WORF: Sir? 
+PICARD: This is not unlike a drumhead trial. 
+WORF: I do not understand. 
+PICARD: Five hundred years ago, military officers would upend a drum on the battlefield sit at it and dispense summary justice. Decisions were quick, punishments severe, appeals denied. Those who came to a drumhead were doomed. 
+WORF: But we know there is a traitor here. J'Dan has admitted his guilt. 
+PICARD: That's true, and he will stand for his crimes. 
+WORF: Tarses has all but done the same. 
+PICARD: How? 
+WORF: He refused to answer the question about his Romulan grandfather. 
+PICARD: That is not a crime, Worf. Nor can we infer his guilt because he didn't respond. 
+WORF: Sir, if a man were not afraid of the truth, he would answer. 
+PICARD: Oh, no. We cannot allow ourselves think that. The Seventh Guarantee is one of the most important rights granted by the Federation. We cannot take a fundamental principle of the Constitution and turn it against a citizen. 
+WORF: Sir, the Federation does have enemies. We must seek them out. 
+PICARD: Oh, yes. That's how it starts. But the road from legitimate suspicion to rampant paranoia is very much shorter than we think. Something is wrong here, Mister Worf. I don't like what we have become. 
+[Picard's quarters] 
+(Picard is pouring tea) 
+PICARD: There you are, Mister Tarses. Would you care for some lemon? 
+TARSES: No, thank you, sir. This is fine. 
+PICARD: Well, tell me a little about yourself, Crewman. I know you were born on Mars Colony. 
+TARSES: Yes, sir. All my life I wanted to be in Starfleet. I went to the Academy's training programme for enlisted personnel. I took training as a medical technician and I served at several outposts. The day that I was posted to the Enterprise was the happiest day of my life. 
+PICARD: Did you ever consider applying to the Academy, going the whole route, apply to become an officer? 
+TARSES: My parents wanted me to. And then I thought about it. I used to sit under this big tree near the parade grounds 
+PICARD: An elm tree with a circular bench? 
+TARSES: Yes, that's the one. 
+PICARD: I spent many an hour there. It was my favourite spot to study. 
+TARSES: I used to sit under that tree and watch the drills, picture myself an officer. I know that it would have made my mother very happy, but. 
+PICARD: You didn't do it. 
+TARSES: No. I was eighteen, and eager. The last thing I wanted to do was spend four years sitting in classrooms. I wanted to be out there, travelling the stars. I didn't want to wait for anything. And now it's done, isn't it? My career in Starfleet is finished. 
+PICARD: Not if you aren't guilty, Simon. 
+TARSES: It doesn't matter. I lied on my application, and that mistake will be with me for the rest of my life. 
+[Corridor] 
+(Norah is giving instructions to her silent aide, Nellen) 
+SATIE: Mister Worf has found a brother who still lives on Mars Colony. Contact someone there and have him interviewed. 
+PICARD: Admiral Satie? 
+SATIE: And start a background check into all his friends at the Academy training programme. 
+PICARD: Admiral Satie? 
+SATIE: Yes, Captain? 
+PICARD: I would like to have a word with you. 
+SATIE: Of course. 
+PICARD: In private and off the record. 
+SATIE: Of course. After all, you are my partner in this. 
+[Ready room] 
+SATIE: I cannot possibly believe you mean this. 
+PICARD: But I do. This must stop. It has gone too far. You lied to him about the Engine Room. There were no volatile chemicals found there. 
+SATIE: It was a tactic. A way of applying pressure. 
+PICARD: We are hounding an innocent man. 
+SATIE: And how, may I ask, have you managed to determine that? 
+PICARD: I've talked with him. 
+SATIE: I see. And he told you he was a victim of circumstance, blameless and pure. 
+PICARD: No, he admits his mistake in falsifying his application. That does not make him a traitor. 
+SATIE: How can you be so incredibly naive? Captain, may I tell you how I've spent the last four years? From planet to Starbase to planet. I have no home. I live on starships and shuttlecraft. I haven't seen a family member in years. I have no friends. But I have a purpose. My father taught me from the time I was a little girl still clutching a blanket, that the United Federation of Planets is the most remarkable institution ever conceived. And it is my cause to make sure that this extraordinary union be preserved. I cannot imagine why you are trying to block this investigation. There have been others in the past who doubted me. They came to regret it. 
+PICARD: The hearings on Simon Tarses will stop. If necessary, I will go to Starfleet Command. 
+SATIE: I have news for you, Captain. I've been in constant contact with Starfleet Command. The hearings are not going to stop. They're going to be expanded. 
+PICARD: What are you saying? 
+SATIE: I'm going to get to the heart of this conspiracy if it means investigating every last person on this ship. And every hearing from now on will be held in the presence of Admiral Thomas Henry of Starfleet Security. I've requested he be brought here at once. 
+PICARD: You never told me about this. 
+SATIE: I report to Starfleet Command directly. I do not need your permission or your approval for my decisions. 
+PICARD: Admiral, what you're doing here is unethical. It's immoral. I'll fight it. 
+SATIE: Do what you must, Captain. And so will I. 
+[Bridge] 
+DATA: Captain, warp engines are back online. We are ready to commence restart sequences. Sir? 
+PICARD: Yes? Yes, yes, of course. Proceed, Mister Data. 
+PIKER: Are you all right, Captain? 
+PICARD: Yes, of course, Number One. Just a little preoccupied. 
+NELLEN: Admiral Satie has ordered you to report to the interrogation room at oh nine hundred hours tomorrow morning. You are to be questioned before the committee. 
+Captain's log, supplemental. Admiral Thomas Henry, who has worked closely with Norah Satie in the past, has arrived to observe the hearings. 
+[Interrogation room] 
+SABIN: Your full name? 
+PICARD: Jean-Luc Picard. 
+SABIN: Rank and position? 
+PICARD: Captain, Federation Starship Enterprise. 
+SABIN: How long have you held this post? 
+PICARD: For three years, since stardate 41124. 
+SABIN: Very well. Admiral? 
+PICARD: If you don't mind, there's something I'd like to say. 
+SATIE: If you have a statement, you'll have an opportunity to make it later. 
+PICARD: I believe that Chapter Four, Article Twelve of the Uniform Code of Justice grants me the right to make a statement before questioning begins. 
+SATIE: Very well. 
+PICARD: I am deeply concerned by what is happening here. It began when we apprehended a spy, a man who admitted his guilt and who will answer for his crime. But the hunt didn't end there. Another man, Mister Simon Tarses, was brought to trial and it was a trial, no matter what others choose to call it. A trial based on insinuation and innuendo. Nothing substantive offered against Mister Tarses, much less proven. Mister Tarses' grandfather is Romulan, and for that reason his career now stands in ruins. Have we become so fearful? Have we become so cowardly that we must extinguish a man because he carries the blood of a current enemy? Admiral, let us not condemn Simon Tarses, or anyone else, because of their bloodlines, or investigate others for their innocent associations. I implore you, do not continue with this proceeding. End it now. 
+SATIE: Captain, do you believe in the Prime Directive? 
+PICARD: Of course. 
+SATIE: In fact, it's Starfleet General Order Number One, is it not? 
+PICARD: Your point, Admiral? 
+SATIE: Would it surprise you to learn that you have violated the Prime Directive a total of nine times since you took command of the Enterprise? I must say, Captain, it surprised the hell out of me. 
+PICARD: My reports to Starfleet document the circumstances in each of those instances 
+SATIE: Yes, we're looking into those reports, Captain, very closely into those reports, after which I'm sure we'll have more questions for you about your so-called commitment to Starfleet's Prime Directive. 
+SABIN: Captain, could you tell us just what happened on Stardate 44390? 
+PICARD: I beg your pardon? 
+SABIN: Let me refresh your memory. You were transporting a Vulcan ambassador, T'Pel. 
+PICARD: I was following orders to take this ambassador to a location near the Neutral Zone. 
+SATIE: I don't think we need the preamble. 
+SABIN: In fact, she was not a Vulcan at all, was she? She was a Romulan spy. 
+PICARD: That's correct. 
+SABIN: A spy whom you were delivering back into the hands of the enemy. 
+SATIE: Tell me, Captain, when the deception was revealed and she stood proudly on the bridge of a Romulan ship, did you make any effort to retrieve her? 
+PICARD: No. 
+SATIE: No. Even though you knew she carried Federation secrets that she'd been accumulating for years? 
+WORF: The Enterprise could have been captured by the Romulans! Captain Picard did the only thing he could. 
+SATIE: Really, Lieutenant? And where were you when this traitor was on board the Enterprise? Where was ship's Security? 
+SABIN: Don't you think it's questionable judgment, Captain, to have a security officer whose father was a Romulan collaborator? 
+(Worf takes a couple of steps forward) 
+PICARD: Lieutenant. 
+SATIE: Tell me, Captain, have you completely recovered from your experience with the Borg? 
+PICARD: Yes, I have completely recovered. 
+SATIE: It must have been awful for you, actually becoming one of them, being forced to use your vast knowledge of Starfleet operations to aid the Borg. Just how many of our ships were lost? Thirty nine? And a loss of life, I believe, measured at nearly eleven thousand. One wonders how you can sleep at night, having caused so much destruction. I question your actions, Captain. I question your choices. I question your loyalty. 
+PICARD: You know, there some words I've known since I was a school boy. With the first link, the chain is forged. The first speech censured, the first thought forbidden, the first freedom denied, chains us all irrevocably. Those words were uttered by Judge Aaron Satie as wisdom and warning. The first time any man's freedom is trodden on, we're all damaged. I fear that today 
+SATIE: How dare you! You who consort with Romulans invoke my father's name to support your traitorous arguments. It is an offence to everything I hold dear. And to hear those words used to subvert the United Federation of Planets. My father was a great man. His name stands for integrity and principle. You dirty his name when you speak it. He loved the Federation, but you, Captain, corrupt it. You undermine our very way of life. I will expose you for what you are. I've brought down bigger men than you, Picard! 
+(Admiral Henry walks out) 
+SATIE: I have nothing more to say. 
+SABIN: Perhaps we should call a recess until tomorrow. 
+[Observation lounge] 
+WORF: Am I bothering you, Captain? 
+PICARD: No. Please, Mister Worf. Come in. 
+WORF: It is over. Admiral Henry has called an end to any more hearings on this matter. 
+PICARD: That's good. 
+WORF: Admiral Satie has left the Enterprise. 
+PICARD: We think we've come so far. The torture of heretics, the burning of witches, it's all ancient history. Then, before you can blink an eye, it suddenly threatens to start all over again. 
+WORF: I believed her. I helped her. I did not see what she was. 
+PICARD: Mister Worf, villains who wear twirl their moustaches are easy to spot. Those who clothe themselves in good deeds are well camouflaged. 
+WORF: I think after yesterday, people will not be as ready to trust her. 
+PICARD: Maybe. But she, or someone like her, will always be with us, waiting for the right climate in which to flourish, spreading fear in the name of righteousness. Vigilance, Mister Worf, that is the price we have to continually pay. 

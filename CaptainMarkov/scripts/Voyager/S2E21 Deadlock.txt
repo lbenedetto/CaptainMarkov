@@ -1,0 +1,579 @@
+Deadlock
+[Mess hall] 
+(Neelix refills Samantha Wildman's mug.) 
+NEELIX: Good afternoon, Ensign. How are we doing today? 
+WILDMAN: Oh, we're doing just fine, thank you. 
+NEELIX: Good, good. By the way, I was wondering if you'd take a look at the thermal array in the kitchen. It overloaded this morning and vaporised an entire pot roast. 
+WILDMAN: I'd be happy to. 
+NEELIX: Wonderful. I informed Ensign Kim about the problem hours ago, and he still hasn't come down to fix it. 
+[Kitchen] 
+WILDMAN: He's been working on a problem with the structural integrity grid. I'm sure he hasn't forgotten about you. 
+NEELIX: If this thing doesn't get fixed soon, we'll all be eating cold leftovers for dinner and who do you think the crew will blame? 
+WILDMAN: Looks like you need a new set of anodyne relays. I'll go down to Engineering and get some for you out of storage. 
+[Mess hall] 
+NEELIX: Thanks. Oh, and while you're here, would you mind taking a look at the replicator? It's been having trouble making anything with large amounts of cellulose. 
+WILDMAN: Of course. 
+NEELIX: Cabbages, psyllium, green beans, celery and all. It all comes out looking a touch too yellow. 
+WILDMAN: I thought you didn't use replicated vegetables when you're cooking. Always fresh, organic, from the airponic bay. 
+NEELIX: Well, the yields have been a little low lately. Normally, I would never dream of using synthesised veggies. 
+WILDMAN: It looks like a malfunction in the power grid. Shouldn't be too difficult. 
+(Wildman gasps and sits down.) 
+NEELIX: What's wrong? 
+WILDMAN: I think I'm having a contraction. Oh, yeah! It's a contraction, all right. 
+NEELIX: That's wonderful. Labour can't be far behind. Let's, let's get you to Sickbay. Try to breathe now. Deep, deep regular breaths. Not so fast now. We're having a baby. 
+[Sickbay] 
+EMH: Push! 
+KES: Don't forget to breathe, Samantha. Deep regular breaths. That's it. 
+EMH: Cervical dilation is at ten point two centimetres. Prostaglandin levels are normal. Push, Ensign. 
+WILDMAN: You push, damn it! I'm sick of pushing! 
+EMH: I know you're fatigued. Try to focus on your breathing. Remember the exercises we did. When you feel a contraction, bear down. 
+[Bridge] 
+(Janeway is pacing.) 
+PARIS: This is ridiculous. It's been seven hours. How long does it take to deliver a baby? 
+JANEWAY: As long as it takes, Mister Paris. 
+TUVOK: Indeed. During the birth of our third child, my wife was in labour for ninety six hours. 
+KIM: Four days? 
+TUVOK: I have learned that pregnancy and patience go hand in hand. 
+CHAKOTAY: You know, I didn't expect to be this nervous. It's not even my child. 
+JANEWAY: In a way, this child belongs to all of us. It is the first baby born on Voyager. I'm just not sure whether I should be welcoming it on board, or apologising. 
+CHAKOTAY: Captain? 
+JANEWAY: Voyager isn't exactly anyone's idea of a nursery, and the Delta Quadrant isn't much of a playground. 
+CHAKOTAY: My father had a saying, Captain. Home is wherever you happen to be. 
+TUVOK: Captain, long-range sensors are picking up heavy subspace communications ahead. They're Vidiian. 
+JANEWAY: All stop. A ship? 
+TUVOK: At least twenty ships within sensor range. I am also detecting a G type star system with two inhabited planets. Life signs, Vidiian. 
+CHAKOTAY: Sounds like we're headed right into their territory. 
+JANEWAY: And I'm in no mood to donate any organs today. Options, Mister Paris? 
+PARIS: There's a large plasma drift bearing four zero mark seven. It extends almost half the length of this sector. Interference from the plasma should block us from their sensors. 
+JANEWAY: Good thinking. Lay in a course at full impulse. Mister Tuvok, deflectors at maximum. 
+(Voyager heads into the big green swirly thing.) 
+[Sickbay] 
+WILDMAN: Oh! Oh, what was that? 
+EMH: What's wrong? 
+WILDMAN: A pain in my abdomen. It's different. Sharp. Oh, God! 
+EMH: The baby has shifted position, and its exo-cranial ridges have lodged in the uterine wall. This is a rare complication, but it's been known to happen in human Ktarian pregnancies. 
+KES: Can we reposition the baby? 
+EMH: No. Its spinal column is too fragile. I don't want to risk nerve damage. If we don't deliver the baby now, its ridges could perforate the uterus and cause internal bleeding. Kes, prepare for a foetal transport. 
+[Bridge] 
+PARIS: We're clearing the Vidiian system, Captain. 
+JANEWAY: Take us out of the plasma drift and resume our previous course. 
+[Sickbay] 
+EMH: I've locked onto the baby's coordinates. We're ready to begin. Initiating umbilical separation. Energising. 
+(A screaming infant materialises in the bio-crib. It has three wicked spiked horns on its forehead.) 
+EMH: Congratulations, Ensign. It's a girl. 
+WILDMAN: Is she all right? 
+EMH: The transport caused a slight hemocythemic imbalance, but we'll stabilise her cell membranes with osmotic pressure therapy. 
+(Big shudder.) 
+[Bridge] 
+JANEWAY: What was that? 
+KIM: We hit some kind of subspace turbulence as we were coming out of the plasma drift. I can't tell if 
+(The power goes down.) 
+PARIS: What the hell? Captain, the warp engines just stalled. 
+JANEWAY: Go to impulse. 
+PARIS: Impulse engines aren't responding. Manoeuvring thrusters are out too. 
+KIM: We're losing main power. Switching to backup power. 
+JANEWAY: Red alert. Bridge to Engineering. 
+[Engineering] 
+JANEWAY [OC]: Report. 
+TORRES: Our antimatter supply is being drained, Captain. I don't know why. The containment fields are in place. It's like we sprung a leak, but I can't find the crack. 
+JANEWAY [OC]: B'Elanna 
+[Bridge] 
+JANEWAY: Try infusing the warp core with repeated proton bursts. That should be enough to keep it going. 
+TORRES [OC]: I think 
+[Engineering] 
+TORRES: I can generate enough protons in the sensor array for a burst every thirty seconds. 
+JANEWAY [OC]: Do it. 
+TORRES: Hogan! These proton bursts are going to cause a lot of stress on the hull. Reinforce structural integrity to, now what? 
+(Whoosh, bang! A console explodes.) 
+[Bridge] 
+CHAKOTAY: What was that? 
+TUVOK: It appeared to be a proton burst. 
+JANEWAY: Already? Bridge to Torres. Report. Engineering, respond. 
+KIM: Captain, three EPS conduits just ruptured in Engineering. They took heavy casualties. 
+[Sickbay] 
+(Bang!) 
+EMH: The incubator is losing power. Activate the auxiliary respirator. 
+(The doors open.) 
+CREWMAN: We've got wounded here. 
+(Shortly after, the biobeds are fully occupied, and patients are lying on the floor.) 
+EMH: Second degree plasma burns on the face and neck. Treat him with a dermaline gel. 
+CREWMAN: Yes, sir. 
+EMH: Fractured clavicle, thoracic contusions, nothing serious. She can wait. Fused vertebrae. Prep him for surgery. Status? 
+KES: It doesn't look good, Doctor. The baby's cell membranes won't stabilise. 
+EMH: Increase the osmotic 
+(Another proton burst.) 
+EMH: That's not helping. Increase the osmotic pressure ratio by ten percent. 
+KIM [OC]: Bridge to Sickbay, there's been a major coolant leak in the Mess hall. You've got more wounded on the way. 
+EMH: Acknowledged. 
+[Engineering] 
+TORRES: Torres to Bridge! We're definitely being, we're definitely being hit by proton bursts. But I don't know where they're coming from. I never even started the procedure. 
+[Bridge] 
+KIM: She's right. The main sensor array is offline. Not a single burst was fired. 
+JANEWAY: And yet the bursts appear to be originating from within the ship. It's like they're coming out of thin air. 
+TUVOK: Captain, these bursts are weakening the structural integrity of the hull. We cannot take any more. 
+JANEWAY: Can we increase power to structural reinforcement? 
+KIM: Our antimatter supply is too low. There's just not enough power to go 
+(Whumph, bang!) 
+TUVOK: Hull breach on deck fifteen, section twenty nine alpha. Emergency force fields are offline. 
+KIM: Captain, I've been working on a way to enhance our portable forcefield generators. It might be enough to seal that breach. 
+JANEWAY: Go. 
+[Sickbay] 
+NEELIX: Don't you worry. We have the best doctor in the quadrant. 
+KES: Doctor, her cell membranes are losing cohesion. 
+EMH: Try remodulating the osmotic pressure. 
+KES: No effect. 
+EMH: Hang on. I'll be right there. 
+(Another proton burst hits. The EMH flickers and drops his dermal regenerator.) 
+EMH: Oh, no. 
+[Corridor] 
+KIM: Jefferies tube twelve runs right over the breach. If we can get close enough, we should be able to set up a portable containment field. 
+HOGAN: The breach has weakened the integrity of that tube by twenty two percent. 
+TORRES: That's why we need to reinforce the field. We'll use the power conduits on this deck. 
+[Bridge] 
+TUVOK: I've analysed the bursts on all spectral frequencies. There's still no indication of where they're coming from. 
+JANEWAY: At this point, I don't give a damn where they're coming from. I just want to stop them. Chakotay, do we have enough auxiliary power to magnetise the hull? It might cushion the impact of the bursts. 
+CHAKOTAY: We have just barely enough. 
+JANEWAY: Give it a try. 
+[Sickbay] 
+EMH: I've stabilised my imaging array but it could go out at any time. 
+WILDMAN: Doctor? 
+EMH: Prepare for emergency resuscitation. 
+WILDMAN: My baby, she, she's going to die, isn't she? 
+EMH: Not if I can help it. 
+[Jefferies tube] 
+KIM: Here it is. The breach is directly below us. 
+(Kim opens the bulkhead and goes down the ladder.) 
+TORRES: Make it fast, Harry. Torres to Hogan. What's your status? 
+[Corridor] 
+HOGAN: Almost got it, Lieutenant. I'm rerouting all power in this section to your 
+(Whumph, bang! Hogan is thrown backwards.) 
+[Jefferies tube] 
+TORRES: Torres to Hogan. Hogan 
+[Corridor] 
+TORRES [OC]: Are you there? 
+HOGAN: I'm hurt. 
+[Jefferies tube] 
+TORRES: Hurry, we have to help him. 
+KIM: Just give me a minute. 
+[Sickbay] 
+EMH: Again. 
+KES: Nothing. 
+(The baby is dead.) 
+EMH: I'm sorry, Ensign. 
+[Corridor] 
+HOGAN: Hogan to Sickbay. I need medical assistance. Deck fifteen, section twenty nine. 
+[Sickbay] 
+KES: I'll go. 
+[Jefferies tube] 
+TORRES: The breach is widening. Let's get out of here. Damn it, Harry! Let's go! 
+KIM: Hold on. My minute isn't up yet. 
+(The breach opens and Harry grabs a ladder rung to stop himself being sucked out. Torres climbs down.) 
+TORRES: Harry, grab my hand! 
+(But the pull of the vacuum of space is too strong.) 
+TORRES: Harry! 
+[Corridor] 
+KES: Lieutenant Hogan? 
+TORRES: Kes, over here. 
+(Kes runs towards them, and vanishes.) 
+TORRES: Torres to Bridge. Ensign Kim is dead. 
+[Bridge] 
+TORRES [OC]: Kes just disappeared. 
+JANEWAY: Disappeared? 
+TORRES [OC]: I can't explain it. 
+[Corridor] 
+TORRES: She just vanished. There seems to be some kind of spatial rift. 
+[Bridge] 
+TORRES [OC]: Right where she disappeared. 
+JANEWAY: Can you determine where it leads? 
+[Corridor] 
+TORRES: Stand by, Bridge. I just threw a piece of conduit into the rift. Just as it vanished, I detected another 
+[Bridge] 
+TORRES [OC]: Oxygen nitrogen atmosphere. 
+JANEWAY: Another atmosphere? 
+[Corridor] 
+TORRES: Whatever's on the other side of that rift, there's air. Maybe Kes is still alive. 
+(Bang!) 
+[Bridge] 
+JANEWAY: Get out of there, Torres. The hull breach is widening. I'm going to evacuate the 
+[Corridor] 
+JANEWAY [OC]: Entire deck. 
+TORRES: You don't have to tell me twice. 
+[Bridge] 
+TUVOK: Main computer core is failing. Switching to back up processors. 
+(Bang!) 
+JANEWAY: Chakotay, are you ready to magnetise the hull? 
+CHAKOTAY: Stand by. I'm having trouble with the alignment module. 
+JANEWAY: Try remodulating the field emitters. 
+(Bang! Janeway is knocked down.) 
+JANEWAY: Chakotay! 
+CHAKOTAY: I've got alignment. Magnetising the hull. 
+(Shudder.) 
+CHAKOTAY: I think it worked. 
+JANEWAY: Let's hope so. I want a full damage report from all decks. 
+PARIS: Are you all right, Captain? 
+JANEWAY: It's just a scratch. 
+PARIS: It's more than a scratch. Maybe you should go to 
+JANEWAY: I'm fine, Lieutenant. 
+TUVOK: Damage reports are coming in. The hull breach on deck fifteen has widened to include deck fourteen, section twelve. And there are six hundred thirty two micro-fractures along the hull's infrastructure. All primary systems are offline. We are running on emergency power only. The antimatter supply has dropped to eighteen percent and is continuing to fall. Warp coils in both nacelles have fused and are inoperative. The environmental control systems are failing. Fifteen crew members have been seriously wounded with plasma burns, twenty seven experienced other injuries. The Doctor is setting up triage facilities in Sickbay and Holodeck two. I must also regretfully report that Ensign Wildman's baby did not survive. 
+JANEWAY: I want an engineering team to seal those micro-fractures before they become breaches. 
+TUVOK: Aye, Captain. 
+JANEWAY: Mister Paris, grab a medical tricorder and go assist the Doctor. 
+PARIS: Right. 
+JANEWAY: Commander, you have the Bridge. I'm going to go talk to Ensign Wildman. Maybe I can help. 
+(Bang!) 
+CHAKOTAY: The magnetic field is collapsing. The hull is depolarising! 
+(Bang!) 
+TUVOK: The fire suppression system is out. 
+COMPUTER: Warning. Hull breach on deck one. Emergency forcefields inoperative. 
+CHAKOTAY: Everybody out! Go, go, go! Hurry, Captain! 
+JANEWAY: I'm trying to reroute emergency power to the field emitters! 
+CHAKOTAY: Captain! 
+JANEWAY: I can seal this breach! 
+(Flames appear. She retreats. But before she gets to the turbolift, she sees an image of an undamaged Bridge, and looks into her own eyes.) 
+CHAKOTAY: Captain, let's go! 
+(Note to readers: damaged Voyager and crew remain as normal, while the undamaged Voyager and crew will be suffixed 2.) 
+[Voyager 2 - Bridge] 
+(Quiet, normal, undamaged.) 
+CHAKOTAY 2: Captain? 
+JANEWAY 2: Ensign Kim, scan the Bridge. I just saw myself cross the Bridge and enter that turbolift. It was very faint, almost like a ghost image. And I looked like hell. 
+KIM 2: Captain, there was a minor spatial fluctuation on the Bridge. But it was only there for a millisecond. 
+JANEWAY 2: Bridge to Engineering. B'Elanna, how long until we can use the main sensor array? 
+TORRES 2 [OC]: Another three hours. 
+[Voyager 2 - Engineering] 
+TORRES 2: We're only about halfway through the proton burst procedure. 
+[Voyager 2 - Bridge] 
+JANEWAY 2: See if you can speed up the process. We need the sensors as soon 
+[Voyager 2 - Engineering] 
+JANEWAY 2 [OC]: as possible. 
+TORRES 2: Understood. 
+[Voyager 2 - Bridge] 
+JANEWAY 2: Mister Kim, modify a tricorder to scan for spatial anomalies. Go over every centimetre of this Bridge. Examine the sensor logs from our trip through the plasma drift. Look for anything unusual. I'll be in Sickbay. 
+CHAKOTAY 2: Aye, Captain. 
+[Voyager 2 - Sickbay] 
+EMH 2: Good news, Ensign. Our baby is perfectly healthy. There's no sign of any interspecies abnormalities. 
+WILDMAN 2: Our baby? 
+EMH 2: A figure of speech. I am, in part, responsible for bringing her into the world. You may hold her now. 
+WILDMAN 2: Hello there. 
+(Janeway 2 enters.) 
+JANEWAY 2: Congratulations, Samantha. She's adorable. Have you thought of a name? 
+WILDMAN 2: Not yet. I really thought it would be a boy. 
+JANEWAY 2: Let me know as soon as you decide. I've been making a blanket for her. All that's missing is an initial. Get some rest. How's our other patient doing? 
+EMH 2: She's still unconscious. 
+KES 2: I ran a microcellular scan. We're almost identical in every way. 
+JANEWAY 2: Almost? 
+EMH 2: There's a slight phase shift in her DNA. Do you have any theory about where she came from? 
+JANEWAY 2: Not yet. But I intend to find out. Can you wake her? 
+EMH 2: I believe so. 
+JANEWAY 2: Good, because I think she's going to have an interesting story to tell. 
+(Shortly afterwards, our Kes is awake.) 
+KES: I was running through the corridor with my medkit. Deck fifteen. And then suddenly I felt dizzy, and my vision started to blur. After that, I don't remember anything, until you woke me up just now. 
+KES 2: You were found unconscious down on deck fifteen, holding a medkit. 
+JANEWAY 2: We also found this lying next to you. It's a piece of damaged conduit. Our analysis shows it's from Voyager, deck fifteen, section twenty nine alpha, bulkhead zero five two. But there's no damage to deck fifteen or anywhere else on this ship. 
+KES: There was massive damage to deck fifteen. 
+JANEWAY 2: The evidence would seem to suggest that you've come from a different ship, a different Voyager. We did find a spatial rift on deck fifteen. It's possible that it somehow connects us to this other Voyager. 
+EMH 2: If you're right, where is the other ship? A parallel universe, another dimension, another point in time? 
+JANEWAY 2: I'm not sure. Almost everything about the Voyager Kes described is identical to ours. We've had similar experiences, similar personal histories. We both entered a plasma cloud to avoid the Vidiians. Both of our engines stalled as we left the cloud, which caused both of our antimatter supplies to drain. And then we both decided to keep our engines running by emitting proton bursts. But after that, our experiences diverged. We started emitting the proton bursts. They didn't. 
+KES 1: Our ship was being damaged by proton bursts. We couldn't figure out where they were coming from. 
+JANEWAY 2: That's more than a coincidence. Janeway to Engineering. B'Elanna, I want you to stop the proton bursts immediately. 
+[Voyager 2 - Engineering] 
+TORRES 2: But if we stop now, the power levels will drop 
+JANEWAY 2 [OC]: I'll explain later, Lieutenant. 
+TORRES 2: Understood. 
+[Voyager 2 - Sickbay] 
+JANEWAY 2: I don't know how, but there's another Voyager out there, and I intend to find it. 
+[Voyager 2 - Bridge] 
+(Science station scan analysis 4077.) 
+CHAKOTAY 2: We analysed the sensor logs from our trip through the plasma cloud. We couldn't find anything unusual until we ran a quantum level analysis. Remember that subspace turbulence we hit just before we left the cloud? 
+JANEWAY 2: Yes. 
+CHAKOTAY 2: Well, watch what happens. 
+(Voyager's outline blurs.) 
+KIM 2: At first, we thought it was a sensor aberration, but they were in perfect calibration at the time. 
+TORRES 2: So I ran a multispectral analysis on the subspace turbulence. It was more than just turbulence. It was some kind of divergence field. And the moment we passed through it, all of our sensor readings doubled. Mass, energy output, bio-signatures, everything. Every particle of matter on this ship seems to have been duplicated in that instant. 
+JANEWAY 2: So where is the other ship? 
+KIM 2: As strange as it sounds, Captain, according to these readings, another Voyager's right here, right now, occupying the same point in space time we are. 
+JANEWAY 2: Quantum theorists at Kent State University ran an experiment in which a single particle of matter was duplicated using a divergence of subspace fields, a spatial scission. 
+CHAKOTAY 2: If the same forces were at work inside the plasma cloud, they may have duplicated every particle of matter on Voyager. 
+JANEWAY 2: Matter. But not antimatter. 
+KIM 2: Captain? 
+JANEWAY 2: In that Kent State experiment, they were able to duplicate normal matter, but when they tried to duplicate antimatter particles, the experiment failed. 
+TORRES 2: So the antimatter on the ships wasn't duplicated. Both engines have been trying to draw power from a single source of antimatter. 
+JANEWAY 2: Like Siamese twins linked at the chest, with only one heart. 
+CHAKOTAY 2: So what do we do? 
+JANEWAY 2: I don't know. But whatever it is, we're going to have to coordinate it with the other ship. Start working on a way to communicate with them. 
+TORRES 2: Right. 
+JANEWAY 2: The only link we know of is on deck fifteen, the spatial rift. We're going to need a way to send Kes back through safely. 
+KIM 2: We could rig a portable phase discriminator. It might protect her from the spatial transition. 
+JANEWAY 2: Get on it. 
+[Voyager 2 - Sickbay] 
+WILDMAN 2: When can I start breast feeding? 
+EMH 2: Right away. However, I should forewarn you that her incisors will erupt within three to four weeks. Since your skin lacks the scales of a Ktarian, we'll have to discuss alternatives. 
+WILDMAN 2: When can I take her home? 
+EMH 2: In twenty four hours. I want observe the infant to make sure there's no more damage to her cell membranes. 
+KES 2: You're welcome to stay the night so you may be with her. 
+WILDMAN 2: I'd like that. Hey. 
+(The baby's mewling upsets our Kes.) 
+EMH [OC]: Congratulations, Ensign. It's a girl. I've stabilised my imaging array, but it could go out at any rate. 
+KES [OC]: Doctor, her cell membranes are losing cohesion. 
+EMH [OC]: Try remodulating the osmotic pressure. 
+KES [OC]: No effect. 
+EMH [OC]: Again. 
+KES [OC]: Nothing. 
+WILDMAN [OC]: My baby. She's going to die, isn't she? 
+EMH [OC]: I'm sorry, Ensign. 
+WILDMAN [OC]: She's going to die, isn't she? 
+EMH 2: Kes. Kes? Are you all right? 
+KES: Yes. It's just. The baby's crying, it was like a bad memory. 
+EMH 2: What do you mean? 
+KES: On my Voyager, during the delivery, there were complications. We performed a foetal transport. 
+EMH 2: The same thing happened here. The transport was successful. 
+KES: On my ship, the medical systems were heavily damaged. The osmotic pressure therapy didn't work. The baby died. 
+EMH 2: I'm sorry to hear that. But try to understand, it wasn't your fault. The situation was out of your control. 
+KES: Doctor, I've got to get back to my ship. They need my help. 
+EMH 2: The Captain's working on it, Kes. In the meantime, try to get some rest. Besides, I'm sure your Voyager is also equipped with a proficient Emergency Medical Hologram. 
+[Voyager 2 - Engineering] 
+TORRES 2: It's a little harder to establish a comm. link than I thought, Captain. The molecular signature of the second Voyager is slightly out of phase with our own. I can't get visual, audio, nothing. 
+JANEWAY 2: Have you tried remodulating the comm. frequency carrier? 
+TORRES 2: Five times on forty seven different frequencies. 
+JANEWAY 2: There has to be a way. If they were recalibrating their carrier wave at the same time so we could match phase variance, would that allow us to connect? 
+TORRES 2: I think so, but in order to get them to do that, we'd have to communicate with them first. It's the chicken and the egg. 
+JANEWAY 2: Maybe we need something a little more primitive. Is there a signal we could emit on all subspace bands just to get their attention? 
+TORRES 2: A rotating band pulse might do it, but it wouldn't be much more than a shrill whistle. 
+JANEWAY 2: That might be enough. Give it a try. 
+[Engineering] 
+TORRES: All right, Captain. All of the ship's command functions have been rerouted to main Engineering. 
+JANEWAY: Welcome to the new Bridge. Now, let's see about 
+(A shrill tone pierces the air.) 
+JANEWAY: What's that? 
+TORRES: I don't know. It's some kind of com. emission coming through all subspace bands. 
+JANEWAY: Coming from where? 
+TORRES: Good question. I can't tell, but it's got a Federation signature. 
+JANEWAY: Try recalibrating our frequency carrier to match it. 
+[Voyager 2 - Engineering] 
+TORRES 2: That's it! They recalibrated and locked onto our phase variant. 
+JANEWAY 2: What kind of communication can we establish? 
+TORRES 2: Not much at this point. We can use the emergency encryption code for a short message. Not more than five seconds. 
+JANEWAY 2: That should be enough. 
+[Engineering] 
+JANEWAY: That's the emergency code. Run it through an alphanumeric sequencer. 
+TORRES: I think someone's telling us to lock onto a frequency of twelve gigahertz. 
+JANEWAY: Do it. 
+(A monitor on a wall console lights up with static.) 
+TORRES: I'll try to clear it up. 
+JANEWAY 2 [on monitor]: Captain, this isn't an illusion. What you're seeing is real, but it's going to take some explaining. 
+(Later.) 
+CHAKOTAY: There are two Voyagers and two crews?
+JANEWAY: That's what I was told. 
+TUVOK: Could this possibly be some kind of subterfuge, Captain? An alien deception? 
+JANEWAY: That woman, whoever she is, had very specific knowledge of what happened here. The damage from the proton bursts, Wildman's baby, Kes disappearing. She even knew that when I was twelve years old, I walked home in a thunderstorm over seven kilometres because I lost a tennis match. 
+TORRES: And her explanation of how the ship were duplicated, certainly plausible. 
+PARIS: If it is true, what do we do about it? 
+JANEWAY: My counterpart has suggested we try to merge the two ships. Recreate the subspace divergence field we passed through and then depolarise it. 
+TORRES: Both ships would have to send out a massive resonance pulse from their deflector dishes at exactly the same time. 
+CHAKOTAY: They may be able to do that, but we barely have enough power for life support. How can we get enough to send an energy pulse of that size? 
+JANEWAY: We could evacuate all the crew to this deck, and cut off life support everywhere else. Then we could divert all power to the deflector dish. B'Elanna, re-establish the comm. link with the other ship. 
+JANEWAY 2 [on monitor]: This is Janeway. What have you decided? 
+JANEWAY: Captain, we think we can channel enough energy to our deflector dish to try the merging process. 
+JANEWAY 2 [on monitor]: Good. When can we start? 
+JANEWAY: We'll need at least fifteen minutes to make our preparations. 
+JANEWAY 2 [on monitor]: We'll be ready. 
+JANEWAY: And Captain, we'll only have enough power to try this once. 
+JANEWAY 2 [on monitor]: I understand. 
+JANEWAY: Chakotay, Tuvok, begin the evacuation process. 
+CHAKOTAY: Aye, Captain. 
+PARIS: I'll let the Doctor know he'll have to rely on his back up power supply. 
+TORRES: We're ready, Captain. 
+JANEWAY 2 [on monitor]: We're standing by, Captain. I think you should take the lead in this operation since you may have to make allowances for your ship's weakened power systems. 
+JANEWAY: Acknowledged. Lieutenant Torres and, Lieutenant Torres, charge the deflector dishes. 
+TORRES: Deflector dish charging. 
+[Voyager 2 - Engineering] 
+TORRES 2: Capacitance levels are rising. Sixty percent, eighty five percent, ninety eight percent. We're ready to create the subspace divergence field. 
+[Engineering] 
+TORRES: Initiating. Power flow nominal, Captain. 
+JANEWAY: Synchronise computer event timing. Ready to release depolarisation pulse on my mark. Now. 
+TORRES: The pulses have been emitted, Captain. The fields are starting to depolarise. 
+[Voyager 2 - Engineering] 
+(Both ships are shaking.) 
+TORRES 2: But we aren't merging. In fact, we're going further out of phase! 
+[Engineering] 
+JANEWAY: Increase power to the deflector dish. 
+TORRES: I can't! Too much plasma back flow. If we keep this up, we're going to lose our antimatter connection. We'll both be destroyed! 
+JANEWAY: Abort! 
+[Voyager 2 - Engineering] 
+TORRES 2: Aborting resonance pulse. 
+JANEWAY 2: What went wrong? 
+TORRES 2: I'm not sure. I think the plasma flow became to turbulent. The divergence fields were so chaotic, we couldn't complete the merging. We've lost the comm. link as well. Captain, the antimatter leak? It's becoming a haemorrhage. If we don't start the proton bursts, we'll be completely drained in thirty minutes. 
+JANEWAY 2: The lives of both crews are at stake here. I can't make unilateral decisions that might affect that other ship. Janeway to Kim. Is the spatial rift 
+[Voyager 2 - Bridge] 
+JANEWAY 2 [OC]: Still stable? 
+KIM 2: I think so, Captain. And I've rigged a phase discriminator. Kes should be able to go back safely. 
+[Voyager 2 - Engineering] 
+JANEWAY 2: Rig another one, Ensign. I'm going with her. 
+[Voyager 2 - Turbolift] 
+(Kim puts a band on Janeway's arm.) 
+KIM 2: This should protect you from the spatial transition. 
+[Voyager 2 - Corridor] 
+JANEWAY 2: Keep trying to re-establish a comm. link between the ships. 
+TORRES 2: I will, but remember, we have fewer than thirty minutes of antimatter left. Whatever you do over there, do it fast. 
+JANEWAY 2: Understood. Are you ready? 
+KES: Yes. 
+[Corridor] 
+(Deck fifteen.) 
+KES 1: It's gotten worse here. 
+JANEWAY 2: Command and Control is in main Engineering. Let's go. 
+[Engineering] 
+TORRES: I don't know how else to stop the antimatter drain, except with proton bursts. 
+JANEWAY: We can't do that. We'd damage the other ship just like this one. Think, people. We need options. 
+(Janeway 2 and Kes enter.) 
+JANEWAY 2: I agree, Captain. And I think we need to talk. 
+(They go to the upper level.) 
+JANEWAY 2: By my estimates, our antimatter supply will run out in less than half an hour. 
+JANEWAY: The attempt to merge our ships is throwing us further out of phase. The quantum cohesion on both Voyagers is breaking down. 
+JANEWAY 2: Just like original Kent State experiment. The duplicate atoms couldn't occupy the same point in space time for very long before 
+JANEWAY: Mutual annihilation. 
+JANEWAY 2: What are our options? 
+JANEWAY: Let's try a different tact. Instead of trying to merge the two ships, let's try to separate them. Maybe we could divide the antimatter between us. 
+JANEWAY 2: I'm afraid not. We've been studying that theory. B'Elanna tells me that any attempt to disrupt the antimatter supply will destroy us all. What about evacuating your crew to my ship? It might get a little crowded, but we could manage. 
+JANEWAY: We've been studying that theory. And my B'Elanna tells me that sending any more than five to ten people through the rift would radically alter the atomic balance of the two Voyagers. We'd both be destroyed. Captain, I think you should return to your ship and run a metallurgical analysis. Find out the precise phase modulation of your hull. I'll do the same here. Maybe we can find a way to realign the phase displacement. 
+JANEWAY 2: You're going to self-destruct your ship. 
+JANEWAY: What makes you say that? 
+JANEWAY 2: Because that's what I would do if your Voyager were intact, and my Voyager were crippled, my crew wounded or dead. I'd sacrifice my ship so that yours could survive. 
+JANEWAY: Then I'm glad we agree. Go back to your ship. 
+JANEWAY 2: I didn't say I agree, I said I understand. I'm not willing to let you make that sacrifice yet. We haven't explored all the options. 
+JANEWAY: Yes, we have and we both know it. This is my ship and my decision. 
+JANEWAY 2: Captain, I'm not going to let you 
+JANEWAY: I've made my decision! Please don't make me call security and have you escorted off my ship, because you know I'll do it. 
+JANEWAY 2: All right. I'll go back. But give me fifteen minutes to come up with another solution. After that, it's your decision. 
+JANEWAY: Fifteen minutes. Good luck. 
+JANEWAY 2: To both of us. 
+[Voyager 2 - Bridge] 
+KIM 2: Okay, I've managed to re-establish a comm. link with the other Voyager. 
+JANEWAY 2: Hail them. 
+JANEWAY 2: Captain, I've got an idea. Actually, it was yours. It might be possible to realign the phase displacement between us. 
+JANEWAY [on viewscreen]: We don't have time to try it. May plan is the only one that's going to work. It's time that we both accept that. 
+[Engineering] 
+PARIS: We've got a perimeter alert. A vessel is approaching, bearing zero zero five mark three one eight. They've just dropped out of warp. 
+CHAKOTAY: Can you identify them? 
+PARIS: They're Vidiian, sir. 
+[Voyager 2 - Bridge] 
+(Kim nods.) 
+JANEWAY 2: Red alert. 
+[Engineering] 
+JANEWAY: Shields. 
+CHAKOTAY: Still off-line. 
+[Voyager 2 - Bridge] 
+JANEWAY [on viewscreen]: Captain, we're picking up a Vidiian ship heading this way. Can you see them too? 
+JANEWAY 2: Yes. 
+JANEWAY [on viewscreen]: Do you have any weapons? 
+JANEWAY 2: Stand by. Tuvok? 
+TUVOK 2: Negative, Captain. We had to reroute power to compensate for the antimatter loss. It would take several hours to bring weapons back online. 
+[Vidiian ship] 
+COMMANDER: What is it? 
+VIDIIAN: Their ship seems to be trapped in some sort of spatial flux. 
+COMMANDER: Have they detected us? 
+VIDIIAN: Yes. But they can't raise their shields. And it appears that whatever is happening to them has disrupted their weapon systems. 
+COMMANDER: Load a hypothermic charge. Fire. 
+[Engineering] 
+TUVOK: Captain, they have fired an energy weapon. 
+[Voyager 2 - Bridge] 
+TUVOK 2: All hands, brace for impact. Damage control teams, stand by. 
+[Engineering] 
+JANEWAY: What happened? They couldn't have missed. 
+CHAKOTAY: Maybe they hit the other Voyager. 
+JANEWAY: Hail them. 
+TORRES: I've lost the comm. link again. 
+JANEWAY: Try to get it back. 
+[Vidiian Ship] 
+VIDIIAN: We have destroyed their weapons array. 
+COMMANDER: Manoeuvre us to within grappling range. 
+[Voyager 2 - Bridge] 
+(Thunk! The Vidiian ship grabs Voyager.) 
+TUVOK 2: They are cutting an access route through the hull on deck five. 
+[Voyager 2 - Corridor] 
+(Tuvok and a security guard are shot down.) 
+VIDIIAN: Vulcan. Male. The phaser blast damaged the right kidney, but the other organs are healthy. 
+SURGEON: Begin with them. 
+(The next organ donor is Paris.) 
+[Voyager 2 - Sickbay] 
+EMH 2: I've erected an emergency force field around Sickbay. That should hold them off for a while. 
+WILDMAN 2: I won't let them take my baby. 
+EMH 2: It's going to be all right, Ensign. Give her to me and I'll hide her inside an access port. If they do break in, it's unlikely they'll look for anyone there. Trust me, Ensign. I won't let anyone touch our baby. 
+WILDMAN 2: Mama will see you soon. 
+EMH 2: Lieutenant, give me a hand. Move this. We're going to have to cut away the internal circuitry to make room 
+KES 2: Vidiians. They're using some kind of disrupter to break down the forcefield. The forcefield's down. 
+[Voyager 2 - Bridge] 
+JANEWAY 2: Commander? 
+CHAKOTAY 2: They've got everything below deck five, and I don't know how much longer we can keep them away from the Bridge. 
+JANEWAY 2: Mister Kim, how many Vidiians are there on the ship? 
+KIM 2: Three hundred and forty seven, and more are boarding. 
+CHAKOTAY 2: We're outnumbered two to one. 
+KIM 2: I've got an incoming subspace signal. It's from the other Voyager. They must've re-established the comm. link. 
+JANEWAY 2: On screen. 
+JANEWAY [on viewscreen]: Captain, this comm. link might not last much longer. What's happening over there? 
+JANEWAY 2: We've been boarded. The Vidiians are on the verge of taking over our ship. Are they on yours? 
+JANEWAY [on viewscreen]: No. We don't think they can detect our ship. Captain, we can have a security detachment cross the spatial rift and board your ship within five minutes. 
+JANEWAY 2: No. If we do that, the Vidiians might become aware of your Voyager. That would put both ships at risk. 
+JANEWAY [on viewscreen]: We can't just stand by and let you all be killed. 
+JANEWAY 2: I'm not about to let that happen. I'll destroy this ship. 
+JANEWAY [on viewscreen]: I don't suppose there's any way I can change your mind. I know how stubborn you can be. 
+JANEWAY 2: True. But there is something else I can do for you. I'm going to send Harry Kim through the rift with Ensign Wildman's baby. Somehow, it seems only fair. 
+JANEWAY [on viewscreen]: We'll be waiting for them. 
+JANEWAY 2: Just make me a promise, Kathryn. Get your crew home. 
+JANEWAY [on viewscreen]: I will. I will. 
+JANEWAY 2: Harry, you've got five minutes. Get the baby. 
+KIM 2: But Captain. 
+JANEWAY 2: Move it, Ensign! That's an order! Computer, initiate the self-destruct sequence. Authorisation Janeway pi one one zero. Set at five minutes and mute voice warnings. Enable. 
+COMPUTER: Warning. Self-destruct sequence has been initiated. Warp core overload in four minutes, fifty five seconds. There will be no further audio warnings. 
+[Voyager 2 - Sickbay] 
+VIDIIAN: Ocampa. Female. The organs are healthy. She has an extremely high rate of tissue regeneration. 
+SURGEON: Extract her pelvic ridge. We'll analyse the bone marrow for Phage resistance. 
+VIDIIAN: The others are human. My scans indicate their pancreatic tissues are well suited for transplant. 
+SURGEON: Begin the extraction procedure. 
+(The EMH tries to stop the baby from crying.) 
+VIDIIAN: This one. A female human. She's recently given birth. 
+SURGEON: Are you certain? 
+VIDIIAN: Yes. Her haemo-uterine levels are far above normal. 
+SURGEON: Where's the infant? Set your bio-probe to maximum. Find it. 
+(Kim dodges some Vidiians and bursts into Sickbay, firing. He takes out the two Vidiians then sees that the incubator is empty.) 
+KIM 2: No! 
+EMH 2: Ensign Kim, is that you? 
+KIM 2: Doc, am I glad to see you. 
+EMH 2: Have we retaken the ship? 
+KIM 2: No. Actually, the Captain's put the ship on self-destruct. She ordered me to take the baby and go to the other Voyager. 
+EMH 2: Well, I, I guess you'd better hurry then. 
+KIM 2: Goodbye, Doc. 
+EMH 2: Ensign. Tell my counterpart that I've corrected all signs of hemocythemia. He'll know what that means. 
+KIM 2: Will do. 
+[Voyager 2 - Bridge] 
+(Vidiians enter.) 
+JANEWAY 2: Hello. I'm Captain Kathryn Janeway. Welcome to the Bridge. 
+VIDIIAN: Commander! 
+(He has spotted the monitor reading - DESTRUCT SEQUENCE ENGAGED Time Remaining 2, 1 
+KaBOOM! goes Voyager 2. KaBOOM goes the Vidiian ship, and battered Voyager is left alone) 
+[Corridor] 
+(Kim and the baby cross the rift.) 
+TORRES: Ah, it's about time. 
+TUVOK: Tuvok to Janeway. Ensign Kim has made it through the rift, with the infant. 
+[Engineering] 
+JANEWAY: Acknowledged. 
+CHAKOTAY: Captain, the Vidiian ship has been destroyed. So has the other Voyager. 
+Captain's log, stardate 49548.7. There are no signs of any pursuing Vidiian vessels, and we have resumed a course toward home. 
+[Sickbay] 
+TUVOK: Repair efforts are underway. Lieutenant Torres estimates we'll be able to return to the Bridge within three days. 
+JANEWAY: Good. I'm not sure how much longer B'Elanna can tolerate my standing over her shoulder in Engineering. Tuvok, is there something on your mind? 
+TUVOK: I am curious, Captain. Before the Vidiians attacked, when you were in disagreement with the other Captain about 
+JANEWAY: Would I have given the order to self-destruct our ship? I've gone over that moment a thousand times in my mind. The truth is, yes, I would have given the order. But I will admit, there was a part of me that could see her point of view. 
+TUVOK: One could say that you were both the doubter and the doubted. I do not envy the paradox of logic you were faced with in that situation. 
+JANEWAY: Neither did I. And neither did she. 
+(Tuvok leaves.) 
+WILDMAN: Thank you. Thank you so much. 
+KIM: You're welcome. But you should also thank the Doctor. It was his counterpart who saved her from the Vidiians. 
+EMH: I'm not surprised. I am programmed to be heroic when the need arises. By the way, Ensign, this other Doctor, did he have a name? 
+KIM: I really didn't have time to ask. 
+JANEWAY: Am I allowed to go back to my temporary Bridge now, Doctor? 
+EMH: By all means. 
+[Corridor] 
+JANEWAY: It's good to have you back, Ensign. 
+KIM: Thank you, I think. 
+JANEWAY: Something wrong? 
+KIM: I'm not sure. I mean, this isn't really my ship, and you're not really my captain, and yet you are, and there's no difference. But I know there's a difference. Or is there? It's all a little weird. 
+JANEWAY: Mister Kim, we're Starfleet officers. Weird is part of the job. 

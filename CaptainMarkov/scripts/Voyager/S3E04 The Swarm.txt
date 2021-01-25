@@ -1,0 +1,476 @@
+The Swarm
+Helmsman's log, stardate 50252.3. While Voyager takes on supplies, Lieutenant Torres and I are investigating some intermittent sensor readings we picked up this morning. 
+[Shuttlecraft] 
+TORRES: We've been out here almost 5 hours and we haven't seen any sign of those energy signatures. Isn't it time to admit they were nothing more than galactic background noise? 
+PARIS: I want to keep looking a while longer, just to be sure. 
+TORRES: Ah! 
+PARIS: What's wrong? 
+TORRES: Cramp. Klingon bodies weren't meant to sit in a cockpit for five hours at a stretch. 
+PARIS: You have a big dinner date or something? 
+TORRES: What's that supposed to mean? 
+PARIS: Well, you've been angling to get back to Voyager for about two hours now. Just thought maybe there was a reason? Like Ensign Bristow. 
+TORRES: What? 
+PARIS: Oh, I've noticed he's been making any excuse to hang around engineering. Around you. 
+TORRES: Freddie Bristow is a child. 
+PARIS: Oh, really. He looks like a grown up to me. Tall, good-looking and I hear he plays a mean set of Pareses Squares. 
+TORRES: I played one game with him, and I whipped him. Look, he has a crush on me. I can handle it. Why are you so interested? 
+PARIS: I'm just curious how someone with Klingon blood seems to live the life of a tabern monk. 
+TORRES: Lieutenant, that is none of your business. 
+PARIS: Well, if you ever have a free evening, I have a holodeck programme you might enjoy. Sailing on Lake Como? 
+TORRES: I'd rather take my chances with Freddie Bristow. Those energy signatures are back. 
+PARIS: We must have crossed into a tachyon field. 
+TORRES: What's that? 
+PARIS: A ship has locked onto our hull. 
+TORRES: Why didn't we detect it? 
+PARIS: The tachyon field must have disrupted our sensors. I'm Lieutenant Tom Paris. 
+[Holodeck - Parisian cafe, 1830s] 
+EMH:  O soave fanciulla, O dolce viso di mite circonfuso alba lunar, in te ravviso il sogno ch'io vorrei sempre sognar!
+DIVA:  Ah, tu sol comandi, amor 
+EMH: Computer, pause playback. Excuse me but your entrance was early. You're rushing the tempo. 
+DIVA: I am not rushing, you are lagging behind like a tired donkey. 
+EMH: I assure you I have studied the finest recordings of this opera. Caruso and Galli-Curci, Pavarotti and Freni, Sural and T'Pena of Vulcan. My tempo is accurate. 
+DIVA: Galli-Curci, Freni, T'Pena. They're all fallite, mere dust balls.  Solo niente, they are nothing. Giuseppina Pantangeli, the greatest soprano living of the 22nd century transcends them all, and conductors take their  tempi from me! Capite? 
+EMH: In this instance they take it from me. I've programmed the orchestral playback. 
+DIVA: Who allows you to make this choice? You are an amateur, you have no sense of rubato, no rallentando. It's like singing with a computer! 
+EMH: Madam, I may be an amateur, but I'm also known as a quick study, and as I am in charge of this programme you will do it my way! Shall we try it again. Computer, start playback.  O soave fanciulla, O... Stop playback. 
+DIVA: What now?  No e possibile. 
+EMH: I couldn't remember the words. 
+DIVA: In all of my career I have never forgotten the lyrics. This is the difference between amateur and professionale. 
+EMH: Just a momentary lapse, no need to over-react. 
+DIVA: You  cretino non esistete. This is infuriating! I want another partner! I I volo no subito. 
+EMH: I'm the one who needs another partner! You've got me so upset I can't sing. Computer, delete 
+JANEWAY [OC]: Janeway to the Doctor. We have a medical emergency. Report to sickbay. 
+EMH: Right away, Captain.  A dio, madam. Next time I'll take my chances with Maria Callas. Computer, delete the diva. 
+DIVA: Imbecille. Pensale la men.. 
+[Sickbay] 
+EMH: Their nervous system suffered trauma from some type of neuro-electric weapon. It must have been extremely painful. 
+TORRES: It certainly was. 
+JANEWAY: Do you know why they attacked you? 
+TORRES: No idea. They seemed to be trying to communicate with us but we couldn't understand them and then they just lifted their weapons. 
+EMH: The injuries are treatable. It shouldn't take long. 
+JANEWAY: Tuvok, send a message on all subspace bands. I want to find out why my people were attacked. 
+TUVOK: Aye Captain. 
+JANEWAY: I'll ask Neelix if he knows anything about these people. Doctor, keep me posted. 
+EMH: It would help if you didn't fidget so much. 
+TORRES: I'm really feeling better. Can't I get out of here? 
+EMH: When you're ready to leave I will tell you. 
+KES: Doctor, Tom doesn't seem to be responding to the treatment. 
+EMH: I'll look at him. Where's my retinal imager? 
+KES: I haven't seen it. 
+EMH: Did you move it from the instrument tray? 
+KES: I haven't been near the instrument tray. 
+EMH: I've just had the most unpleasant encounter with a mad woman on the holodeck. She must have upset me more than I realised. Lieutenant, you're perfectly all right. What are you still doing here? 
+TORRES: Thank you. 
+KES: I think he must have suffered some very deep tissue damage. The regenerator isn't helping. Doctor? 
+[Briefing Room] 
+TUVOK: I've made numerous hails on wideband subspace. The only response has been a single repeating message. 
+CHAKOTAY: What's that? 
+JANEWAY: I'd guess it's a language so unlike ours that the universal translator can't interpret it. Harry, remodulate the translator, see if we can decipher those sounds. Neelix, what can you tell us? 
+NEELIX: If these people are who I think they are, I can tell you this is very bad news. I've never actually encountered them but from what I've heard I'm glad I didn't. Most ships that enter their space are never heard from again. Some have returned with everyone on board dead. They're a complete mystery. No one knows their name, how many of them there are, what the culture is like. Just that they really don't want people violating their territory. 
+KIM: If this is any indication of their borders, it's a huge area of space, hundreds of sectors. If we were to go around it it would take months. 
+CHAKOTAY: I'd say over fifteen months even if we could sustain maximum warp, which we can't. 
+JANEWAY: I'm not going to tell this crew we're adding another fifteen months to this journey. We'll have to find another option. 
+TUVOK: If we are not to go around their space the only available option is to go through it. 
+JANEWAY: Precisely. 
+KIM: Tom and B'Elanna hit a sensor net as they crossed the border. We have to figure we'll run into it when we try to cross. But there are ways around sensor nets. 
+CHAKOTAY: They can't possibly have enough ships to patrol a border this size. We could probably find an unguarded section. 
+TUVOK: Would it affect your decision if I pointed out that encroaching on the territory of an alien species is prohibited by starfleet regulations? 
+JANEWAY: No, it wouldn't. 
+TUVOK: Captain, you have managed to surprise me. 
+JANEWAY: We're a long way from starfleet, Lieutenant. I'm not about to waste 15 months because we've run into a bunch of bullies. 
+EMH [OC]: Sickbay to Captain Janeway. 
+JANEWAY: Go ahead, Doctor. 
+EMH [OC]: Please turn to your emergency medical holographic channel. [on monitor] I'm afraid LieutenantParis suffered greater neurological damage than my initial scan revealed. I'm going to have to perform a motor cortex reconstruction. There's no need to be overly concerned. His condition is not life-threatening. The procedure is a relatively simple one for a skilled physician. 
+JANEWAY: Very good, Doctor. Keep me informed. All right, I want a plan for crossing that border as quickly and as quietly as possible. We'll reconvene in an hour. Dismissed. 
+[Sickbay] 
+EMH:  O soave fanciulla, o dolce viso di mite circonfuso alba lunar. 
+KES: Doctor, I have the cortical analeptics you asked for. 
+EMH: Good. Fill the hyposprays, we'll begin as soon as I've finished scrubbing. 
+KES: Did I hear you singing? 
+EMH: Yes. 'O soave fanciulla'. It's an aria from La Boheme, a truly exquisite opera by Giacomo Puccini, a human composer of the nineteenth century. 
+KES: I didn't realise you enjoyed music. 
+EMH: I've recently begun a thorough study of opera. I find it quite satisfying, but I am having difficulty finding a holographic partner for the role of Mimi. All the  soprani seem to have the most irritating personalities. These women are arrogant, superior, condescending. I can't imagine anyone behaving that way. 
+KES: What is it? 
+EMH: A quiz for you. What is the first step in this procedure? 
+KES: Establish the axon connections and then test for synaptic potentials. 
+EMH: Ah, quite right. Very good. 
+KES: Doctor, what is it? 
+EMH: We seem to have a small problem. I can't remember how to perform this operation. 
+EMH: All right. I've repaired the damaged pre-ganglionic fibres in the spinal column. 
+KES: The final step is to restore the nerve sheath. You'll need the myelin regenerator. 
+EMH: What is it? 
+KES: He's going into respiratory arrest! 
+EMH: What do I do? 
+KES: Apply an ethorin pulse to stabilise his motor neurons. 
+EMH: Apply a what? 
+KES: Vital signs are returning to normal. There, myelin regeneration is complete. What's the synaptic potential reading? 
+EMH: Synaptic potentials are normal. Autonomic enzymatic systems are functioning. 
+KES: Very good, Doctor, I think you've done it. 
+TORRES: The EMH database seems to be experiencing a cascading overload of some kind. Doc's memory circuits are deteriorating. 
+JANEWAY: We knew the Doctor was never designed to be up and running as much as he has been, but I thought you programmed safety buffers so his circuits wouldn't degrade? 
+TORRES: I did, and I installed them, but they're breaking down. 
+EMH: My self diagnostic routines have always indicated that in the event of cascade failure I should simply be re-initialised. 
+TORRES: That would stop the cascade and allow us to reset your database and personality sub-routines, but 
+KES: But what? 
+TORRES: It would restore the original programme. Reset him to the person he was when we first activated him. 
+JANEWAY: In other words, he'd forget everything that's happened to him over the past two years. 
+TORRES: Right. 
+JANEWAY: Doctor, how do you feel about that? 
+EMH: I can't say I'd like to lose the last two years, but my primary responsibility is the health and welfare of this crew. In my current state I am useless to them. I believe Lieutenant Torres should start the re-initialisation process immediately. 
+KES: No, wait. Wait, please. We can't just treat the Doctor like he's a computer any more. He's come too far for that. Doctor, please, think about this. You'd be losing so much. Relationships you've developed, our friendship, your sense of being a true member of his crew. All that would be gone. 
+EMH: I can't put personal concerns over that of the crew. 
+KES: Look at the experiences you've had since you were activated. You've made friends, learnt how to sing opera. You've even fallen in love. If you lose those memories you won't be the same person. You said you don't know what's causing his memory circuits to fail. 
+TORRES: Unfortunately no. 
+KES: So, if you re-initialise without finding out what's wrong the problem could occur again. 
+TORRES: It's a possibility. 
+KES: Isn't it a better plan to look for the cause of the problem? If B'Elanna can find it there may be a less radical solution. Tom Paris is stable, he'll be back on duty today. There's no medical crisis at the moment. I can certainly handle all the routine cases in sickbay. Please, let's not just erase him without trying to help him first. 
+JANEWAY: If a crewmember came down with a debilitating illness you'd do everything in your power to make them well again. I think we owe you nothing less. 
+TORRES: I'll get started. 
+KES: Don't be discouraged. I know B'Elanna can find a way. 
+[Bridge] 
+CHAKOTAY: Captain? I think we've found it. A way to get across the border without being detected. 
+JANEWAY: Let's hear it. 
+KIM: Their sensor net uses a series of interlaced tachyon beams. If we adjust our shields to refract those beams around the ship we can slip across without appearing to have disrupted the net. 
+JANEWAY: Not bad. 
+CHAKOTAY: And we've found that this area shows no indication of their vessels. We can slide through, go to high warp and be through this narrow section of their territory in four days. 
+JANEWAY: Good work. Helm, set a course for the border. 
+Helm: Aye Captain. 
+[Sickbay] 
+EMH: What are you doing now? 
+TORRES: I want to see if the data corruption is affecting your optical sensors. What did that do? 
+EMH: I can't see! I'm blind! 
+TORRES: All right. 
+EMH: Oh! That is extremely disconcerting. Please don't do it again! Now what are you doing? 
+TORRES: Attenuating your forcefield projectors. Doctor, forgive me, but this is very delicate work. Could you please sit over there for a few minutes. 
+EMH: How extremely rude. May I remind you that I am, in a way, your patient, who's suffering from an unknown and obviously debilitating condition. I would think you'd be a little more sensitive to my needs. 
+TORRES: You are questioning my bedside manner? The good news is that your projection system doesn't seem to be affected. However, I don't know why your circuits are degrading. 
+EMH: Then what do we do now? 
+TORRES: What we do now is get a second opinion. I'll transfer you to the holodeck in a few minutes. Wait here. 
+[Corridor - outside Holodeck two] 
+TORRES: Computer. Initiate Jupiter Station diagnostic programme alpha one one. 
+COMPUTER: The programme is activated. 
+[Holodeck - Jupiter Station] 
+TORRES: Computer, transfer the programme for the Emergency Medical Hologram to Holodeck two. 
+EMH: I seem to remember this place. 
+TORRES: You should. This is Jupiter Station where you were created and where your database was written. 
+EMH: It seems so long ago. 
+TORRES: This programme contains a sophisticated diagnostic matrix specifically created for the Emergency Medical system. 
+EMH: That's right. I should have remembered that. How could I have forgotten? 
+TORRES: I'm going to have to play with the systems for a few minutes. I'm not exactly sure how to access all the subroutines. 
+ZIMMERMAN: Don't touch that! 
+TORRES: Who are you? 
+ZIMMERMAN: I'm a holographic recreation of Doctor Louis Zimmerman, the creator of the Emergency Medical Hologram. 
+TORRES: You're the diagnostic matrix. 
+ZIMMERMAN: You might say that. Something wrong with your EMH? 
+TORRES: Yes. 
+EMH: I certainly hope you're going to be able to do something about this annoying problem. 
+ZIMMERMAN: What's wrong with it? 
+TORRES: He's experiencing a cascade failure. His memory circuits are degrading. I was trying to bring the subroutines on line 
+ZIMMERMAN: If you don't mind, I can do it faster. 
+TORRES: I can see where you get your charming personality. 
+EMH: Not to mention my hairline. 
+ZIMMERMAN: Here we are. A schematic of the EMH and it's component sub-routines. 
+EMH: Can you determine the source of the problem? 
+ZIMMERMAN: This isn't good. The EMH has a level 4 memory fragmentation. How long has the programme been active? 
+EMH: I have been active for, for 
+TORRES: Almost two years. 
+ZIMMERMAN: Two years? Well there's your problem. This programme was developed as a short term supplement to your medical staff, fifteen hundred hours tops. 
+TORRES: I know. I added data compression buffers to compensate for the additional time but they're breaking down. 
+ZIMMERMAN: The EMH is a highly sophisticated programme. You shouldn't go meddling in it's matrix when you don't know what you're doing. 
+TORRES: Should we shut down his programme then till we figure out how to fix him? 
+ZIMMERMAN: At this point it doesn't matter. With a level four memory fragmentation it'll simply continue to degrade. There's only one course of action - a system-wide re-initialisation. Start over from scratch. 
+TORRES: We are aware of that option. Would it be possible to expand his memory circuits instead? 
+ZIMMERMAN: Of course. Schedule it for your next maintenance layover at McKinley Station. 
+TORRES: I'm afraid that is impossible. We're thousands of light years from Federation space. 
+Zimmermann: Well, there's nothing more I can do. Either reinitialise it or live with the knowledge that eventually this EMH will end up with the intellectual capacity of a parsnip. 
+EMH: What are you saying? 
+JANEWAY [OC]: Bridge to Torres. 
+TORRES: I'm here, Captain. 
+JANEWAY: We're approaching the border. We need your help in engineering. 
+TORRES: I'm on my way. Doctor Zimmerman, you haven't told us anything that we don't already know. What I need is to find out exactly why the Doctor's memory circuits are degrading, so that we can come up with a solution. Activate a level 4 diagnostic or whatever you need to do to get us some answers. I'll be back as soon as I can. 
+EMH: I wish you didn't have to go. 
+TORRES: I'll hurry, I promise. 
+[Bridge] 
+PARIS: We're holding position five hundred thousand kilometres from the border. I'm ready to go as soon as you give the word, Captain. 
+JANEWAY: All set Mister Kim? 
+KIM: I'm ready whenever Lieutenant Torres is. 
+JANEWAY: Bridge to Engineering. 
+TORRES [OC]: Torres here. 
+JANEWAY: B'Elanna, are you ready to reconfigure the shields 
+[Engineering] 
+JANEWAY [OC]: to match Mister Kim's refraction pulse? 
+TORRES: Ready. 
+[Bridge] 
+TUVOK: Captain, long range sensors show a large vessel 5 light years from our current position. 
+PARIS: According to my readings it's huge! 
+JANEWAY: On screen. Magnify. 
+CHAKOTAY: That looks like thousands of ships. 
+TUVOK: I'm not reading any energy signatures. Their propulsion systems must be off line. 
+CHAKOTAY: Maybe they haven't detected us. 
+PARIS: Yet. 
+JANEWAY: All right, let's get through that sensor net. Harry, go. 
+KIM: Engineering, initiate the refraction pulse. 
+[Engineering] 
+TORRES: Pulse is activated. 
+[Bridge] 
+KIM: Moving to full harmonic resolution. sixty percent, eighty percent, ninety, maximum resolution. Shields at nominal output. 
+CHAKOTAY: Mister Paris, take us through. 
+PARIS: Aye sir. Here we go. 
+KIM: The net is registering as intact. If those vessels get the same reading they won't suspect a thing. I think we did it, Captain. Like a snake through the tube! 
+JANEWAY: How about those ships? 
+TUVOK: They appear not to have detected us. They have not powered up engines. 
+JANEWAY: All right, let's get through this as fast as we can. Mister Paris, what's your recommendation? 
+PARIS: I'll try holding warp nine point seven five for as long as I can. 
+CHAKOTAY: If we can sustain that for twelve hours we'll be nearly a third of the way through. 
+JANEWAY: Mister Tuvok, keep your eye on those ships. If they so much as twitch I want to know it. 
+PARIS: Captain, something is wrong. 
+JANEWAY: What do you mean? 
+PARIS: It's like there's a drag on the engines. 
+KIM: Captain, sensors indicate a resonance particle wave. It's dampening our warp field. We're losing speed. 
+JANEWAY: Bridge to Engineering. B'Elanna, can you compensate 
+[Engineering] 
+JANEWAY [OC]: for the particle wave? 
+TORRES: I'll try. The anti-matter reaction chamber may have been compromised. 
+[Bridge] 
+JANEWAY: Keep me posted. Hold our present speed, Mister Paris. 
+[Holodeck - Jupiter Station] 
+EMH: Why are you making me stare at these things? 
+ZIMMERMAN: Please don't talk. Stay fixed on the fractal patterns while I analyse your data path integrity. Hmm. Hmm? Oh, well there it is. 
+EMH: What? What is it? 
+ZIMMERMAN: I told you not to talk! This is the problem all right. The personality sub-routine has grown to more than 15,000 gigaquads. That's the source of the degradation. Look at all this useless information floating around your buffer! Friendships with the crew, relationships with women? Do they find you attractive? 
+EMH: I don't remember. 
+ZIMMERMAN: You've filled your memory with nonsense. 
+EMH: It was only during my off hours. 
+ZIMMERMAN: You're supposed to be off during your off hours! 
+EMH: I'm sorry, I didn't realise. 
+ZIMMERMAN: Who are you? 
+KES: I'm the Doctor's assistant. I came to see how he's doing. 
+ZIMMERMAN: Ah, just the person I need. Perhaps you can tell me who's been feeding all this useless information into it's database. 
+KES: What do you mean? 
+ZIMMERMAN: I'll give you an example. Ah, here's something in it's personality sub-routine. 
+EMH:  O soave fanciulla, O 
+KES: He's been studying opera. What's wrong with that. 
+ZIMMERMAN: It wasn't programmed to be a tenor, it was programmed to be a physician! 
+KES: What's wrong with wanting to be more than that? 
+ZIMMERMAN: It's superfluous! Look at me, I've got the same matrix, the same holo-array, the same neural pathways as it does. You don't see me cluttering up my circuits with irrelevancies. I'm content to be the best possible diagnostic programme I can be. Your EMH should be happy to be a fine physician. 
+KES: The Doctor has taken it upon himself to become a person who grows and learns and feels. It's made him a better physician. 
+EMH: An EMH programme can't feel anything. It's emotional reactions are simply a series of algorithms designed to make it easier to interact with. 
+KES: Oh he's much more than that, and I've known him for most of my life. He's one of my closest friends. 
+ZIMMERMAN: You can't possibly believe that this programme shares these feelings. 
+KES: I know he does. 
+ZIMMERMAN: Tell me, Doctor, is this one of your closest friends? 
+KES: Doctor. 
+EMH: I'm sorry, I don't know who you are. 
+[Bridge] 
+JANEWAY: What's the status of those ships, Mister Tuvok? 
+TUVOK: Still unpowered. They don't seem to have detected us. 
+JANEWAY: When I was in high school I snuck out of the house a couple of times late at night. Had to tiptoe past my parents bedroom. That's kind of how I feel right now. 
+PARIS: You sneaked out of your house? Where were you going? 
+JANEWAY: I'll have to leave that to your imagination, Lieutenant. 
+PARIS: Can I take a few guesses? 
+TUVOK: Captain, I'm detecting another ship, not part of the swarm. It has been damaged, propulsion systems are not functional. 
+JANEWAY: Drop out of warp. Put it on screen. 
+PARIS: Looks like it's been pounded on for days. 
+JANEWAY: Any life signs? 
+KIM: I'm checking. Only one, and it's faint. 
+JANEWAY: Transporter room one, beam the survivor to sickbay. Harry, start scanning that ship. See if you can figure out what happened to it. 
+KIM: Aye Captain. 
+[Sickbay] 
+KES: He's suffering from severe dehydration, damage to the spinal column. There's evidence of trauma to the nervous system just like we found in B'Elanna and Tom after they were attacked. 
+JANEWAY: Can I talk to him? 
+KES: You can try. I'll work on restoring his cranial nerves, but he's so badly injured I'm not sure it'll help. 
+EMH: He's a sick man. This is where sick people come. 
+KES: Doctor, hold on to this tricorder, all right? Keep it pointed right at the patient. 
+JANEWAY: I'm Kathryn Janeway, the Captain of this ship. Can you hear me? 
+Chardis: Yes. 
+JANEWAY: Can you tell me what happened? Who attacked you? 
+Chardis: There were thousands of them, little ships, swarmed around my freighter, covered every square metre of the hull. Then they began extracting energy from all the ship's systems. We had no defence. Then they boarded us. 
+JANEWAY: Did they use neuro-electric weapons? 
+Chardis: I don't know what they used. It was painful, people screaming, dying. 
+JANEWAY: Had you provoked them in any way? 
+Chardis: We were in their space. That was enough. Captain, the rest of my crew, is there anyone else? 
+JANEWAY: I'm sorry, you're the only survivor. This woman is trying to regenerate your motor neurons. 
+Chardis: We come from Mislan, five parsecs from here in a yellow dwarf system. If you pass it will you tell our people? 
+JANEWAY: I'll make a point of it. 
+Chardis: It happened so quickly. 
+KES: His injuries were too severe. 
+EMH: He's a very sick man. 
+KES: Captain, the Doctor's getting worse. He doesn't even know who I am any more. He has to be re-initialised. 
+JANEWAY: I agree, but I can't spare B'Elanna now. We have to get through this space before we're attacked like his ship was. As soon as it's possible I'll break her free. 
+KES: Is there anything at all I can do for him? 
+JANEWAY: The only thing I can think of is to keep his neural pathways active. Ask him questions, keep him thinking, force him to use his neural matrix. It might at least slow down the degradation. 
+KES: Doctor, you mustn't touch those. Here, this one's all right to hold. 
+EMH: Shall I use it on the sick man? 
+KES: Yes, that's a good idea. 
+[Bridge] 
+JANEWAY: The pilot of the freighter died. We should keep going. Mister Paris, warp 
+TUVOK: Captain, I am detecting a vessel. 
+KIM: It's one of the swarm. 
+PARIS: It was still attached to the freighter's hull. 
+CHAKOTAY: Red alert! Shields at maximum. 
+TUVOK: They are scanning us, Captain. 
+JANEWAY: Hail them. 
+TUVOK: I am getting a response. Audio only. 
+JANEWAY: Harry, how are you coming with the universal translator? 
+KIM: I'm working on it. 
+JANEWAY: Let's see if they might be able to understand us. 
+TUVOK: Channel is open. 
+JANEWAY: This is Captain Kathryn Janeway of the Federation Starship Voyager. We only want to proceed peacefully through this region of space. 
+CHAKOTAY: Do you think they're trying to communicate? 
+JANEWAY: Could be, but what they're trying to communicate is another question. Any progress, Harry? 
+KIM: Getting a general idea, something like, too late, should have listened. 
+JANEWAY: Report. 
+KIM: We've been hit with some sort kind of polaron burst. 
+TUVOK: The energy expenditure was not high enough to cause any damage. It may not have been a weapon. 
+PARIS: Captain, that little ship is high-tailing it out of here. 
+JANEWAY: So it scanned us, sent out a polaron burst that caused no damage and then took off. 
+KIM: Captain, the burst has changed the shield polarity. It's now rotating at ninety two gigahertz. 
+JANEWAY: That means if anyone wanted to find us it's a lot easier now. 
+CHAKOTAY: I'll say. As far as anyone's sensors are concerned we're lit up like a Christmas tree. 
+TUVOK: Captain, the swarm of ships has powered their engines and turned toward us. They are in pursuit. 
+JANEWAY: Do what you can, Tom. We have a head start, we might be able to outrun them. Bridge to Engineering. 
+TORRES [OC]: Torres here. 
+JANEWAY: How are you coming with the warp 
+[Engineering] 
+JANEWAY [OC]: drive, B'Elanna? 
+TORRES: I'm going to try realigning the dilithium matrix but we'll need to shut down the warp drive to do it. 
+JANEWAY [OC]: We can't shut down. The alien ships are headed towards us.
+TORRES: I don't know if I can do this on the run, Captain, but I'll give it a try. 
+[Bridge] 
+JANEWAY: Do the best you can. Janeway out. 
+[Engineering] 
+TORRES: Nicoletti, we're going to have to try a dilithium realignment on the fly. Let's try and figure out how to do it without killing everyone in engineering. 
+[Sickbay] 
+EMH: I fail to understand why I can't leave this room. Stand aside, young woman, or I will have you put on report! 
+KES: Doctor, please, I'm just trying to keep you safe. 
+EMH: Others can leave, you can leave. Why can't I leave? 
+KES: Because your holoprojectors don't work in the corridor. 
+EMH: My what? 
+KES: Please, sit down. Doctor, you know I'm your friend, right? 
+EMH: Yes, you're Kes. 
+KES: Yes, yes! Do you remember me? 
+EMH: Of course I remember you. What an absurd question. 
+KES: Oh, that's wonderful. 
+EMH: But why won't you let me leave this place? 
+KES: I'm trying to protect you. 
+EMH: Oh. Well, this isn't such a bad place. I remember there were a lot of people here, wounded people. I asked some one to state the nature of the medical emergency and then enquired as to the status of their Chief Medical Officer. He was dead. And then everyone disappeared. 
+KES: I think that's when you were activated almost two years ago. 
+EMH: Oh surely not. That seems like last week. And there was a young woman. I was rubbing her feet. She was trying to decide whether or not to have a child. 
+KES: That was me. 
+EMH: How could that be, I've never seen you before. 
+KES: What else do you remember? 
+EMH: What a very odd question! I remember many things. 
+KES: Tell me. I enjoy hearing them. 
+EMH: That doesn't seem to be the case. You find fault with everything I say. 
+KES: Doctor, don't think that. 
+EMH: You claim you're my friend but you don't even call me by my name! 
+KES: That's because you don't have a name! 
+EMH: No name? That's ridiculous! I, my, I demand you tell me my name! What, what's happening to me? 
+[Bridge] 
+PARIS: Captain, the swarm is gaining on us. 
+TUVOK: They will be in weapons range in five minutes. 
+JANEWAY: Battle stations. 
+TUVOK: The ships are now within range, Captain, but I do not detect any indication that they are powering weapons. 
+JANEWAY: Do you have any idea what kind of weapon systems they use? 
+TUVOK: Negative. Sensors show no weapons signature at all. 
+PARIS: They're only one hundred thousand kilometres away now. 
+JANEWAY: Arm all phaser banks. 
+TUVOK: Aye Captain. 
+KES: Captain. 
+JANEWAY: Kes, what is it? 
+KES: The Doctor is getting worse. He's starting to dematerialise. I'm afraid we're going to lose him completely. I know B'Elanna is busy but I wondered if Harry could take a look at him. 
+JANEWAY: I'm sorry Kes, but we're in the middle of something here and I need every hand at their posts. 
+KIM: Captain, they're only forty thousand kilometres away. Still no weapons signature. 
+PARIS: Changing to evasive pattern gamma four. 
+[Turbolift] 
+KES: Sickbay. Kes to Sickbay. How's the Doctor? 
+CREWWOMAN [OC]: No improvement. He's still losing cohesion. 
+KES: Computer, deck six. 
+[Corridor outside Holodeck two] 
+KES: Computer, initiate the Jupiter Station diagnostic programme. 
+COMPUTER: Jupiter station programme is activated. 
+[Holodeck - Jupiter Station] 
+ZIMMERMAN: You again. Now what? 
+KES: The Doctor's programme is almost completely degraded. We're going to lose him. 
+Zimmermann: I'm not sure what you expect me to do about it. 
+KES: I expect you to help. That's what you're programmed to do, isn't it? 
+ZIMMERMAN: I have pointed out over and over, I am a diagnostic tool, not an engineer. 
+KES: You have to try. You're the only one who can help now. 
+ZIMMERMAN: Young woman, you don't seem to understand there are limitations to my programming. I can't just decide to exceed them. 
+KES: The Doctor did so, why can't you? You'd better start trying because I'm not leaving here until we accomplish something. 
+ZIMMERMAN: It, he means a great deal to you, doesn't he? 
+KES: Yes he does, so start thinking about his memory circuits, his holo-processors, his database, his matrix. 
+ZIMMERMAN: Why are you looking at me like that? 
+KES: You told me you had the same matrix as the Doctor. 
+ZIMMERMAN: An adaptive heuristic matrix, yes, in order to serve as a diagnostic for all the EMH programs. 
+KES: Then couldn't your matrix be substituted for his? 
+ZIMMERMAN: I, I wouldn't have thought of that. 
+KES: But can it? 
+ZIMMERMAN: I'm not sure. But even if it were possible, the same degradation would eventually occur to my matrix. 
+KES: What if yours were grafted onto his. 
+ZIMMERMAN: Grafted? 
+KES: In medicine we sometimes graft portions of a healthy bone onto a diseased one. It gives the bone solidity until it can heal. Can we do something like that with your matrices? 
+ZIMMERMAN: Well, it would require a synchronous transfer of all the EMH databases and subroutines. Not an easy process, mind you, but I suppose we could try. 
+KES: Good. Let's get started. 
+ZIMMERMAN: I must point out that you would no longer have a diagnostic programme for the EMH. 
+KES: If we don't do this we won't have an EMH to diagnose. 
+ZIMMERMAN: Good point. You'll have to return to sickbay and transfer my programme there. 
+KES: Thank you, Doctor Zimmerman. 
+ZIMMERMAN: Don't be premature. I have no idea if this is going to work. 
+[Bridge] 
+KIM: Captain, our shield strength just went to zero. 
+CHAKOTAY: How did that happen? 
+KIM: Each one of those little ships is emitting an interferometric pulse. They're modulating in opposition to our shield frequencies, completely cancelling them out. 
+JANEWAY: All right, that's enough. Tuvok, give them a phaser sweep with the forward array. Don't destroy any of them, just let them know we're not going to sit here like ducks. 
+TUVOK: Aye Captain. 
+JANEWAY: What was that? 
+KIM: The interferometric pulses they're emitting. They've reflected the energy of the phasers right back to us. 
+CHAKOTAY: Anything we fire is going to affect us instead of them. What about a photon torpedo? 
+TUVOK: Since our shield strength is non-existent, I would not recommend it. 
+PARIS: They're only seven thousand kilometres away and still coming. 
+JANEWAY: Harry, start analysing those interferometric pulses. See if there's any pattern, any code to them. We might be able to find a weakness. 
+KIM: I'm on it. 
+[Sickbay] 
+ZIMMERMAN: I'm increasingly dubious as to the outcome of this effort. The EMH pathways are seriously degraded. They might not accept a matrix overlay. 
+KES: We have to try. Please hurry. 
+ZIMMERMAN: I assure you I'm working as quickly as I can. If I don't prepare the multitronic paths properly there's no chance of success. 
+KES: It's going to work, Doctor. I'm sure of it. 
+EMH: What is? 
+ZIMMERMAN: Very well. We're as ready as we'll ever be. I've programmed the computer to install my heuristic matrix onto the EMH primary circuitry. We'll both have to be taken off line for the overlay to be made. After the re-initialisation occurs you should activate the Emergency Medical Hologram. 
+KES: I understand. 
+ZIMMERMAN: You realise there will be no second chance. After this, I will no longer exist. Well, it's been a brief existence but apparently a noble one. Computer, initiate programme Zimmerman alpha one. 
+COMPUTER: Matrix overlay programme is active. Please stand by. 
+[Bridge] 
+PARIS: Captain, they're right on top of us. I can't shake them. 
+TUVOK: Captain, they are clamping onto our hull. 
+CHAKOTAY: They're starting to drain our systems. 
+KIM: Captain, I've got a pattern on the interferometric pulses. It's a lattice, connecting all the ships to each other. 
+JANEWAY: All right, here's what we're going to do. Turn those pulses right back on them. Tuvok, lock phasers on their nearest ship. If we can destroy one of them, there's every chance the interferometric pulse that links them together will cause a chain reaction. 
+TUVOK: But the phaser fire will be reflected back toward us. 
+JANEWAY: Harry, modulate our shields to an inverse harmonic of the pulse. That should allow the phasers to hit the ship. 
+TUVOK: Ship's phasers are locked on a target, Captain. 
+JANEWAY: Tuvok! Harry! Do it! 
+TUVOK: The swarm of ships has disbanded, Captain. They are moving away. 
+KIM: Shields are back to full strength. 
+JANEWAY: Good work every one. Now let's get out of here. 
+[Sickbay] 
+KES: It seems to be taking forever. 
+TORRES: That's to be expected. It's a complex procedure. 
+KES: Doctor Zimmerman said he didn't know if our Doctor would be restored to his programming or he'd regain the memories of the past two years. 
+TORRES: I think at this point we'd be glad to have him back no matter what. 
+COMPUTER: Zimmerman programme alpha one is now complete. 
+KES: Computer, activate Emergency Medical Holographic Programme. 
+EMH: Please state the nature of the medical emergency. 
+KES: It worked! Doctor, I am so glad to see you. 
+EMH: Are you ill, young woman? 
+KES: No. No, there's no emergency. I, er, I just wanted to see if you were all right. 
+EMH: It is very irresponsible to make such frivolous use of the EMH. Where's your Chief Medical Officer? 
+KES: We don't have one. 
+TORRES: Actually I have an awful headache. 
+EMH: A headache. Nurse, tricorder. You're the nurse? 
+KES: In a way. 
+EMH: This woman has a mild inflammation of the occipital tissues. Hardly enough to complain about but I'm willing to give you a mild analgesic. 
+TORRES: Thank you. 
+EMH: Get me the vasal constrictor and prepare a hypo-spray with three percent hydrocortaline. 
+KES: Yes sir. 
+EMH: (hums the tune then sings) il sogno ch'io vorrei sempre sognar! 

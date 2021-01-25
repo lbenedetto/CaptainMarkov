@@ -1,0 +1,440 @@
+Projections
+[Sickbay] 
+EMH: Please state the nature of the medical emergency. Hello? Computer, who activated the Emergency Medical Holographic programme?
+COMPUTER: Auto-initiation of the EMH programme occurred when a ship-wide Red alert was initiated.
+EMH: Emergency? Sickbay to bridge. Captain Janeway, please respond.
+COMPUTER: Captain Janeway is not on board the ship.
+EMH: Well then, who's in command?
+COMPUTER: Internal scans indicate no crew members are on board.
+EMH: You mean the ship's empty?
+COMPUTER: Affirmative.
+EMH: What is the crew's status?
+COMPUTER: Unknown.
+EMH: Did they go on shore leave? Are they dead? What?
+COMPUTER: That information is not available.
+EMH: Can you give me a ship's status report?
+COMPUTER: Affirmative. Warp core is offline. The ship is restricted to emergency power and auxiliary systems only. Structural integrity breach on deck six, deck seven and deck twelve. Deflector shields inoperative. Weapons array offline. Communications offline. Sewage and waste reclamation offline.
+EMH: Okay, I get the idea. What caused this damage?
+COMPUTER: That information is not available.
+EMH: Of course it isn't. 
+[Doctor's office] 
+EMH: Computer, transfer all bridge logs to this station.
+COMPUTER: Accessing bridge logs.
+EMH: Replay last log entry.
+JANEWAY [on monitor]: heavy casualties. The warp core is going critical and the ejection system is offline. I've ordered all personnel to abandon ship. Lieutenant Torres and I 
+(The screen goes blank.) 
+EMH: Computer, have any escape pods been ejected?
+COMPUTER: All escape pods were launched at twenty one hundred hours.
+EMH: Scan the ship for any humanoid life forms.
+COMPUTER: There are no humanoid life forms aboard this vessel.
+EMH: Well, I'm glad everyone bothered to say goodbye. Chief Medical Officers log, stardate 48892.1. It appears that Voyager has suffered a disaster. What kind I don't know, but one thing is clear. The crew was forced to abandon ship. It would therefore seem that my usefulness has come to an end. I am terminating my programme. If anyone finds this log, I can be re-activated by 
+(There is a noise nearby.)
+EMH: Hello?
+(Something is trying to get through the Sickbay doors.) 
+[Sickbay] 
+(The EMH loads a hypo.) 
+EMH: Hello? 
+(He stands by the door. A dirty pair of hands finally prise the doors open. He grabs the person and pulls them through.) 
+TORRES: Doctor! What are you doing?
+EMH: Sorry, I wasn't expecting a member of the crew. The computer said everyone had left.
+TORRES: The internal sensors were damaged during the attack. They must not be reading every life sign on the ship.
+EMH: Attack?
+TORRES: The Kazon. Two of their Predator class warships took us by surprise, hit us with a volley of plasma torpedoes. It started a core breach and we had to abandon ship. The Captain and I stayed behind to see if we could stop the breach. At the last second we did.
+(The EMH starts to scan her.) 
+EMH: Why didn't the crew return to the ship?
+TORRES: Because they couldn't. The Kazon tractored all of the life pods onto their ships. They went into warp before we could stop them. What's wrong?
+EMH: This tricorder isn't registering your life signs. This one isn't working either.
+TORRES: You've got to help the Captain. She was hit by a falling support beam. I didn't want to risk moving her so I had to leave her on the bridge.
+EMH: Can't we beam her to Sickbay?
+TORRES: The transporters are down. So are the turbolifts. I had to crawl through thirty one Jefferies tubes on five decks just to get here.
+EMH: Then you're going to have to go back up there with a medical kit. I'll instruct you on how to treat her. 
+TORRES: You don't understand, Doctor. I'm not going, you are. I'm sending you to the bridge.
+EMH: That would be ideal, if it were possible, but my projection system is limited to the Sickbay and the holodecks.
+TORRES: Not any more. For the past few weeks we've been setting up holographic emitters on critical decks. We were hoping to set up a remote holo-projection system, give you access to other parts of the ship.
+EMH: Why wasn't I told about this?
+TORRES: We hadn't even tested the system yet. There was no guarantee it was going to work. I guess the Captain didn't want to get your hopes up.
+EMH: Her compassion is heart-warming. The next time I'd rather be kept informed. Where are these remote projectors?
+TORRES: Decks one through five. We also put them in Engineering, the Mess hall and the cargo bay. All the projectors are in place but the problem is we're going to have to interface with the Sickbay imaging system. That's going to take a lot of power and computer memory. I don't know if we have enough reserve power to spare.
+EMH: Most of the crew is gone. Could we divert power from life support systems?
+TORRES: Good idea. I can drop life support down to minimum levels on the lower decks. That should give us enough power. All right, I'll need another twenty minutes to get the projectors online. 
+(Later.) 
+TORRES: All right, the remote projectors are charged and ready to go. Imaging interface stable. Are you ready to try this?
+EMH: I assume there's still an emergency medical kit behind the tactical console?
+TORRES: That's right.
+EMH: Then I'm ready.
+TORRES: There are a couple of things you should know. In order to do this I had to recalibrate your containment field, so your holo-matrix will be very sensitive to disruption. Try to stay away from energy discharges. Phaser fire, forcefields, that sort of thing.
+EMH: I'll try.
+TORRES: Make sure you do, because if your containment field collapses it'll take hours to re-initialise your programme.
+EMH: Understood.
+TORRES: I'm going to head down to engineering and try and get some of the critical systems working. You'll hear from me when I get the comm. system back online. Unless, of course, this doesn't work, in which case I'll see you in about five seconds. Good luck, Doctor.
+EMH: Thank you. I have a feeling I'll need it. 
+[Bridge] 
+EMH: Well, It's bigger than I thought. 
+(He checks on an unidentified crewman then goes to where Janeway is lying face down.) 
+EMH: Captain? 
+(The tricorder from the emergency kit does not seem to work, but the hypo does. Janeway groans and he lifts her into a sitting position.)
+EMH: Hello, Captain. You're going to be fine.
+JANEWAY: Oh, Doctor. I see the new holoprojectors are working.
+EMH: Lieutenant Torres was able to get them online. Are you feeling any pain, dizziness, nausea?
+JANEWAY: I'm a little disoriented and I have one hell of a headache.
+EMH: For some reason none of the tricorders are working, but from what I can tell you have a concussion. I'd like to get you to Sickbay as soon as possible.
+JANEWAY: The last thing I remember is launching the escape pods. Lieutenant Torres and I were trying to stop the core breach, and then I blacked out.
+EMH: You were successful in preventing the breach.
+JANEWAY: And the crew?
+EMH: They were taken prisoner by the Kazon.
+TORRES [OC]: Torres to bridge, can you hear me?
+JANEWAY: Yes, Lieutenant, we hear you. Go ahead.
+TORRES [OC]: Are you all right, Captain?
+JANEWAY: I'm fine. I'm glad you convinced the Doctor to make a house call. What's our status?
+TORRES [OC]: I've got communications back online and I think I can re-activate the warp core, but it'll mean recrystallising the entire dilithium matrix.
+JANEWAY: Keep on it. In the meantime I'll see if I can restore the bridge controls and start scanning for the Kazon ships.
+TORRES [OC]: Aye, Captain. Torres out.
+JANEWAY: Doctor, do you know anything about bypassing a power relay? 
+EMH: Is it anything like a coronary bypass? 
+JANEWAY: Actually, it is. Give me a hand. See this conduit? It's a power relay. It's circuits are burnt out. What we need to do is reconfigure the
+NEELIX [OC]: Neelix to bridge. Is anyone there? Emergency!
+JANEWAY: Neelix, this is the Captain. What's wrong?
+NEELIX [OC]: Help. I need help! I'm in the mess hall. There's a 
+(Weapons fire.) 
+JANEWAY: Neelix, are you there? Neelix? With the turbolifts down it'll take me a half hour to get there. Doctor, it's up to you. I'll use the remote projectors to send you to the Mess hall. Stand by for transfer. 
+[Mess hall] 
+(A clatter of pots and pans.) 
+NEELIX: I hope that crushed your skull, Kazon pus hog.
+EMH: Kazon!
+(The EMH ducks down under the tables and crawls along while Neelix catapults fruit and vegetables at a shadowy figure cowering by the window.) 
+NEELIX: What's it like to stare death in the face, Kazon? 
+(The Kazon shoots his rifle at Neelix.) 
+NEELIX: Missed me! 
+(The EMH makes his way behind the Kazon.) 
+NEELIX: I suggest you surrender now, Kazon. The Captain's on her way! 
+(Neelix continues his barrage.) 
+NEELIX: Want some more, you needle-snake? 
+(The EMH jumps the Kaxon from behind. Neelix runs out of the kitchen and smacks the Kazon across the head with a pan, making a dent in it.) 
+NEELIX: My best sauté pan. Good work, Doctor.
+EMH: You're injured.
+(Neelix sees the red on his shoulder.) 
+NEELIX: Ahhh! What's wrong? Is it serious?
+EMH: Don't panic, Mister Neelix. It looks superficial.
+NEELIX: Am I going to die?
+EMH: Not unless you're allergic to tomatoes. That isn't blood, it's some kind of sauce.
+NEELIX: Nondoran tomato paste. Oh, that'll leave a nasty stain. What are you doing here, Doctor?
+EMH: I could ask you the same thing.
+NEELIX: Kes and I were on our way to the escape pod when this Kazon fungus came crawling out of an access hatch. I kept him occupied long enough for Kes to get away but he didn't give up so easily. So I took off running, he chased me and I led him here. No one gets the best of me in my kitchen! I'm fine now. The question is, are you? 
+EMH: Me?
+NEELIX: You're bleeding.
+EMH: Bleeding? That's impossible.
+(But there is blood behind his ear.) 
+NEELIX: Don't panic, Doctor. It looks superficial.
+EMH: I'm not programmed to bleed.
+NEELIX: Maybe you should check your programme.
+EMH: Emergency Medical Hologram to Captain Janeway.
+JANEWAY [OC]: Go ahead Doctor.
+EMH: Captain, we've captured a Kazon. He's been rendered unconscious and Mister Neelix is fine. But I believe my programme is malfunctioning. I request that you return me to sickbay immediately.
+JANEWAY [OC]: Acknowledged. Mr Neelix, keep an eye on the Kazon until I get there. I'm on my way.
+NEELIX: No problem, Captain. 
+[Sickbay] 
+(The EMH dabs at his wound and winces.) 
+EMH: Pain? I'm not programmed to feel pain. 
+(He scans himself.)
+EMH: Heart rate, blood pressure, brain patterns? Computer, analyse Emergency Medical Holographic programme. Has it been altered in any way to include life signs?
+COMPUTER: Unable to comply. Requested programme is not on file.
+EMH: Not on file? The programme's running right now! Display schematics for all Sickbay holographic systems.
+COMPUTER: No holographic systems exist in Sickbay.
+EMH: EMH programme A K one diagnostic and surgical subroutine omega three two three. Check the database and you'll find it!
+COMPUTER: Specified programme does not exist.
+EMH: Well, then, who is the Chief Medical Officer on board this ship?
+COMPUTER: The Chief Medical Officer of USS Voyager is Doctor Louis Zimmerman.
+EMH: Louis Zimmerman? Yes. He was the engineer who created my programme. I understand he resembles me but, he's not on Voyager! He's at the Jupiter Station Holo-Programming Centre. Computer, how long has Doctor Zimmerman served on Voyager?
+COMPUTER: Doctor Zimmerman commenced duty on stardate 48308.2
+EMH: 48308. That's the date I was activated. Computer, display all Starfleet records on Doctor Lewis Zimmerman. 
+(Personnel database 2794 comes up on a monitor.) 
+EMH: He looks a lot like me. In fact, he looks exactly like me. Computer, is this me?
+COMPUTER: Affirmative. Doctor Lewis Zimmerman.
+(Janeway, Torres and Neelix enter with the Kazon.) 
+JANEWAY: Doctor, we've almost got the warp core back online, but we need to know where the crew was taken. I want you to perform an ARA scan on the Kazon while we question him. Is something wrong?
+EMH: Something's very wrong. These tricorders aren't picking up any of your life signs. At first I thought they were malfunctioning, but now I find they show me to be a living, breathing, bleeding human being.
+JANEWAY: What? 
+EMH: And that's not all. According to the computer, I'm not a hologram. I'm a real person named Zimmerman. I've been trying to analyse my programme but the computer says it doesn't exist.
+JANEWAY: This could be a problem with the remote projectors. The multiple holographic signals may be confusing the computer. I'm going to deactivate you and then re-initialise your programme parameters. Computer, discontinue Emergency Medical Holographic system. 
+EMH: See what I mean?
+JANEWAY: You're right. Your programme's not anywhere on file. Computer, shut down all holographic systems throughout the ship.
+(Janeway, Torres, Neelix and the Kazon vanish.) 
+EMH: Computer, what happened to Captain Janeway, Lieutenant Torres, Mister Neelix and the Kazon?
+COMPUTER: All holographic simulations were discontinued.
+EMH: Simulations? Computer, I'm talking about real people. Locate Captain Janeway.
+COMPUTER: Captain Janeway is stored in memory block forty seven alpha.
+EMH: List all other programmes stored in that memory block. This is the entire Voyager crew. Computer, are you saying that the crew is nothing more than a collection of holographic programmes?
+COMPUTER: Affirmative.
+EMH: This is ridiculous. There must be something wrong.
+(A Starfleet Lieutenant appears. Everyone say Hi! to Dwight Schultz.) 
+BARCLAY: Doctor, am I glad to see you. Can you see me?
+EMH: Of course I can see you. Who are you?
+BARCLAY: Sir, it's me. It's Lieutenant Barclay. Reg. Your assistant.
+EMH: My assistant's name is Kes. Who are you?
+BARCLAY: Uh-oh.
+EMH: What?
+BARCLAY: Oh, no, this is bad. This is very bad. Don't panic. Let's just try to think our way through this.
+EMH: I'm not familiar with you. Are you a member of the Voyager crew or have we encountered another Federation ship?
+BARCLAY: Oh, boy. The Voyager. Oh, boy. This is going to sound a little crazy from your perspective, but you've got to trust me. None of this is happening. This is all a holographic simulation that you've been running.
+EMH: What are you talking about.
+BARCLAY: You're in the holodeck at the Jupiter Station. Your name is Doctor Lewis Zimmerman, you're a holo-engineer and you've been running a programme that's malfunctioning and we've been trying to reach you.
+EMH: What are you saying? That I'm a real person?
+BARCLAY: Well, I always used to think of you that way and I know your wife tends to think 
+EMH: My wife?
+BARCLAY: We'd, er, we'd better take this one step at a time.
+EMH: Please do.
+BARCLAY: Well, you see, this starship, it's not really a starship. 
+[Doctor's office] 
+BARCLAY: It was a programme that you wrote to study the psychological impact of long term isolation on a crew made up of Starfleet and Maquis crewmembers.
+EMH: A programme I wrote? That's preposterous. I'm the programme. Voyager is a real ship, manned by real people.
+BARCLAY: I'm afraid not. This must have something to do with the radiation surge.
+EMH: What was that?
+BARCLAY: We've been having problems shutting the programme down because of a kinoplasmic radiation surge on the station. It's affected all of the computer systems, including the holodecks. The radiation must be affecting the memory centres of your brain.
+EMH: How did you get in here?
+BARCLAY: I'm not really here. Clearly, I'm here because we're talking. You see, what I mean is, I'm in a control booth outside of the holodeck. What you see is a projection of my body so that we can communicate. We've been trying to get in here, or send a comm. signal in for nearly six hours.
+EMH: You expect me to believe that the past six months I've spent on this ship have been nothing but a simulation?
+BARCLAY: You haven't been here six months. You've only been here six hours.
+EMH: That's impossible! I have very clear memories of my first appearance on Voyager. Meeting Captain Janeway for the first time. I've had numerous experiences aboard this ship.
+BARCLAY: That's all part of the simulation.
+EMH: How do I know you're not some kind of alien, impersonating a Starfleet officer.
+BARCLAY: Look, Doctor, it's very important that you believe me. You're losing your sense of identity. You're starting to think that you're part of the programme and that's, that's not good. It's called HTDS. Holo Transference Dementia Syndrome.
+EMH: So now I'm having a psychotic episode.
+BARCLAY: No. Yes. I mean, maybe the radiation. Doctor, I'm sorry I have to do this.
+(Barclay slaps the EMH's face.) 
+EMH: How dare you!
+BARCLAY: It hurt, right? If you were a programme it wouldn't hurt. 
+EMH: I could be programmed to think it hurt.
+BARCLAY: Doctor. 
+(The EMH slaps Barclay.) 
+BARCLAY: I'll be back. I've got to discuss this with the others. Don't, don't go anywhere.
+(Barclay vanishes.) 
+EMH: Pain. Pain, why would I have pain? I think I'm hungry. I'm not sure what for, but I'm definitely hungry. This is impossible.
+(Barclay returns.) 
+BARCLAY: The problem is worse than we thought. The radiation is disrupting the command protocols. We can't shut the programme down, and while the programme is running we can't access the holodeck grid.
+EMH: Why don't you beam me out of here?
+BARCLAY: We tried, but the radiation is interfering with the transporters and we can't get a lock on you. I've consulted with our neurologist, Doctor Kaplin, and he said if we can't get you out of here within the next hour, that the radiation would completely oxidise your neurocellular structures.
+EMH: So, what do you suggest?
+BARCLAY: There's only one way left to terminate the programme, and that's to play it out. Bring it to it's conclusion and once the simulation ends, it'll release the access locks on the holodeck arch and we can get you out of here.
+EMH: How does it conclude?
+BARCLAY: You programmed two possible outcomes. Either Voyager finds its way back to Federation space, or it's destroyed in the process. But the simulation was designed to run for weeks before either happens. But I know of a way that you can bring it to an end right now. Destroy the ship.
+EMH: Destroy the ship? Destroy Voyager?
+BARCLAY: This is just a simulation, Lewis. None of this is real. And unless you destroy this ship that you think you're on, you're going to die.
+EMH: No. No, absolutely not.
+BARCLAY: Doctor, it's the only way.
+EMH: First of all, I don't even know how to destroy the ship. Second of all I wouldn't do it even if I could, and third, how do I know you're not an alien intruder trying to trick me into killing everyone?
+BARCLAY: Well, those are good questions. First, I can tell you how to destroy the Voyager. Second, if you don't do it, you're going to die. And third. Well, I'm just not an alien and I don't know how else to convince you of that.
+EMH: If what you're saying is true, why don't you destroy the ship? Why do I have to do it?
+BARCLAY: You are the one running the simulation. It's coded to respond to your input, not mine.
+EMH: I'm sorry, Mister Barclay, if that's what your name really is, but you're not very convincing.
+BARCLAY: Here, use this tricorder. Scan the room outwards to a distance of fifteen metres.
+EMH: This appears to show a wall fifteen metres away and it does have a holodeck grid configuration.
+BARCLAY: You see? 
+EMH: But you could be manipulating these readings.
+BARCLAY: Scan me. You'll see I'm a holographic projection originating from beyond that wall.
+EMH: Yes, all right. But it could still be an elaborate deception. I can't take that risk.
+BARCLAY: There has to be some way to convince you. Oh, I know. I'll be right back.
+(Barclay vanishes. The Sickbay changes from empty to full, with flickering lights.) 
+KIM: Are you the Emergency Medical Hologram?
+EMH: Yes, of course I am.
+KIM: We've got wounded here.
+EMH: I've seen this patient before. He has multiple percussive injuries. Tricorder. Medical tricorder. I've been in this moment in time before.
+PARIS: What? What are you talking about? Help this man.
+EMH: Have we just been catapulted across the galaxy to an unknown area of the Delta Quadrant?
+KIM: Yes.
+EMH: And you are developing tumourous growths on your chest.
+KIM: What? 
+EMH: Ah. So that hasn't happened yet. Is this stardate 48308?
+PARIS: Look, are you going to help this man or not?
+EMH: I'm not. Mister Barclay?
+KIM: The programme must be malfunctioning. Let me see if I can reset the holographic projector.
+EMH: Mister Barclay, will you please return? 
+(Barclay appears.) 
+BARCLAY: Now do you believe me? This is the beginning of the simulation. We can't shut down the programme but we can restart it.
+EMH: This is my first memory of being activated on Voyager.
+PARIS: Who the hell are you?
+EMH: Did I programme Mister Paris to be so annoying?
+BARCLAY: Actually, I programmed him. I modelled him after my cousin Frank.
+EMH: Hmm. Computer, delete Paris.
+PARIS: What are you
+(Paris disappears.) 
+KIM: What did you do to him?
+EMH: Computer, delete Kim. Hmm.
+(Kim disappears.) 
+BARCLAY: Are you convinced yet?
+EMH: Let's just say your credibility level is rising. But I'm still not prepared to destroy Voyager. 
+BARCLAY: So what are you going to do now? 
+EMH: I need to confirm my true nature. Whether or not I am in fact a real person. Let's just say that I'm right and this is a real ship and I am a hologram. If I were to destroy the holographic memory core then I should disappear.
+BARCLAY: Yes. But if you destroy it and you're still here
+EMH: Then I'm not a hologram.
+BARCLAY: And you'll know that I'm telling you the truth.
+EMH: The holo-memory core is located in Engineering. Let's go. 
+[Corridor] 
+BARCLAY: What's wrong?
+EMH: The remote holoprojectors were taken offline. I shouldn't be able to exist outside sickbay? 
+BARCLAY: That's because you're a
+EMH: A real person. Yes. I'm getting the idea. 
+[Engineering] 
+JANEWAY: Magnetic constrictors are online. The warp core is stable. Let's get started on those plasma relays. You, who are you?
+EMH: I'm the Emergency Medical Hologram.
+JANEWAY: I didn't know you could be projected into Engineering.
+EMH: I can't. But it's a long story. I'd rather not get into it right now.
+JANEWAY: Fine. We have three wounded crewmembers over here.
+EMH: I'm afraid I have a more pressing matter to attend to, Captain.
+JANEWAY: What do you mean, you have a more pressing matter to attend to? And who are you? I don't recognise you.
+BARCLAY: Oh, don't mind me, I'm just assisting the Doctor.
+JANEWAY: Doctor, I am ordering you to take care of these wounded crewmembers.
+EMH: Computer, delete Janeway.
+(She stays where she is.) 
+BARCLAY: The computer's not responding to vocal commands. The protocols are starting to freeze up. We don't have much time.
+JANEWAY: Jarvis, Parsons, put these men under arrest.
+BARCLAY: Don't worry, those phasers aren't real, they're just holograms.
+EMH: I wouldn't be so sure. I was injured earlier.
+BARCLAY: That means the holodeck safeties are off.
+EMH: Now, just a moment. Let's not do anything hasty.
+JANEWAY: Who are you? Are you two responsible for bringing us here?
+EMH: Actually, no. The array you discovered is controlled by an entity you will come to know as the Caretaker. Or Banjo man. He's actually an alien life form who's caring for a species known as the Ocampa who live nearby.
+JANEWAY: Enough! I don't know what this is all about, but clearly you're involved. Take them to the brig. I'll question them later.
+EMH: No, I don't think so.
+JANEWAY: You're in no position to argue.
+EMH: I'm not arguing. I'm simply pointing out that in several seconds the entire crew of Voyager will be transported to the array, where you will be tortured and probed for medical information. It will be quite painful, but not fatal.
+KIM [OC]: Bridge to Janeway. We're being scanned by the array, Captain. It's penetrated our shields.
+JANEWAY: What kind of scan? 
+(Some people disappear.) 
+JANEWAY: Bridge. Janeway to Bridge, respond. What are you 
+(Finally, Janeway disappears.) 
+BARCLAY: Time is running out, Doctor. The oxidation levels in your neural tissues are rising. You've got to destroy this ship and bring this programme to an end.
+EMH: First things first. I have to make absolutely sure what I am. 
+(He removes a wall panel.) 
+EMH: This is the central memory nexus for all holographic systems on board. If I destroy this, there won't be a single hologram left on Voyager.
+BARCLAY: Well, except for me. I'm being projected from outside the simulation. Go ahead, give it a try. 
+(Barclay hands the EMH a phaser. They move back to the warp core and the EMH shoots out the circuits.) 
+BARCLAY: Convinced?
+EMH: Computer, what is the status of the holographic imaging system on Voyager?
+COMPUTER: The holographic imaging system has been destroyed.
+EMH: Are there any holographic programmes running anywhere on the ship?
+COMPUTER: Negative.
+EMH: Then why is the ship still here, and not a hologrid?
+COMPUTER: Please restate the question.
+EMH: You said all holo-systems were destroyed. Why is the ship simulation still running?
+COMPUTER: All holo-simulations have been terminated.
+BARCLAY: Doctor, I know this is a little confusing, but try to remember you just destroyed the holographic imaging system on a holographic ship. A hologram in a hologram. If you want to bring this to an end you've got to destroy the entire simulation. The ship itself. 
+EMH: Then it's true. I am a real person.
+BARCLAY: And you're a person in great danger. Destroy the ship. Now, before it's too late.
+EMH: But if I'm wrong? 
+BARCLAY: Doctor, you've got to believe me. What else can I do to prove it to you?
+EMH: I know, I know, but it's just so 
+(The EMH clutches his head.) 
+BARCLAY: There. Do you see what's happening? Holograms don't feel pain. Your brain is being flooded with kinoplasmic radiation. You're dying.
+EMH: I guess you're right. What should I do?
+BARCLAY: The warp core. Even set on full power it's going to take a sustained phaser burst to punch through the outer duranium shielding. Set your phaser to maximum. Aim for the magnetic constrictors. Ready?
+EMH: Ready.
+CHAKOTAY: Stop! Doctor, don't do it! Doctor, don't listen to him. He's lying. Step away from the warp core, Doctor, don't do anything that man tells you. You're in danger if you do. None of this is real.
+EMH: So I've been told. It's all a holographic simulation.
+CHAKOTAY: That's right. But it's not the simulation you think it is. Everything around you is part of a holographic projection that's being created by your programme.
+EMH: My programme? 
+CHAKOTAY: You're on the holodeck on Voyager. The Captain suggested you take a day off, try a holonovel, so you did. But while you were running the holonovel, there was a kinoplasmic radiation surge in the imaging system. It created a feedback loop between the holodeck computer and your programme. All of this, including Mister Barclay, is a holographic simulation generated by your codes, subroutines and memory circuits.
+BARCLAY: Don't be distracted by these holographic characters. Stay focused on what you need to do. Destroy the warp core.
+EMH: Wait a minute. The entire crew of Voyager was just taken by the array. They won't be back for three days. So what's he doing here?
+BARCLAY: The programme is malfunctioning.
+EMH: Are you the real Commander Chakotay, or a holographic projection like Mister Barclay.
+CHAKOTAY: I'm a projection. I'm really at the holographic control station in Engineering. You're trapped on the holodeck. We've been monitoring the programme from here and we've been trying to reach you for hours.
+EMH: Sounds familiar. He told me the same thing.
+BARCLAY: Doctor, do you remember coming into the holodeck and running a holonovel within the last six hours?
+EMH: No. No, I don't.
+CHAKOTAY: That's because your memory circuits are being eradicated by the feedback loop. We have to get you off the holodeck, transfer you back to Sickbay.
+BARCLAY: You don't have memory circuits, you have a mind, and it's being damaged. Destroy the Voyager, the programme will end, and we can get you off the holodeck.
+CHAKOTAY: That's not true, Doctor. Because of the feedback loop, if you destroy the simulation, you will be destroyed as well.
+EMH: Me?
+CHAKOTAY: If you shut down this simulation your programme will be wiped out right along with it. There'll be no way to retrieve the lost data. You'll be gone.
+(The EMH gets another headache.) 
+BARCLAY: Only real people experience pain. You've got to believe me.
+CHAKOTAY: What you're perceiving as pain is really the feedback loop eradicating your memory circuits.
+EMH: What, what is it you want me to do?
+CHAKOTAY: Don't do anything. We're working on the problem right now. We're close to a solution.
+BARCLAY: Do nothing and you'll die.
+(The EMH collapses.) 
+CHAKOTAY: Doctor, trust me.
+KES: Trust me, Lewis.
+EMH: Kes.
+KES: Yes, you know me. You remember me.
+EMH: Yes, you're my assistant.
+BARCLAY: I told you, his brain is being damaged. He's losing his memory. This is Kes Zimmerman, your wife.
+CHAKOTAY: This is all a holographic delusion drawn from people and experiences in your own memory circuits. You are malfunctioning.
+KES: Lewis, please, listen to Reg, he's trying to help you. Destroy this programme.
+CHAKOTAY: If you listen to her, you'll end up destroying yourself.
+KES: Believe in yourself. You're not a programme, you're a real flesh and blood human being. And you're my husband. I don't want to lose you.
+BARCLAY: Lewis, how would you rather think of yourself? As a real person with a real life, with a family that loves you? Or as some hologram that exists in a Sickbay on a starship lost in deep space.
+CHAKOTAY: This isn't about what you want. This is about what you are. Just because you're made of projected light and energy doesn't mean you're any less real than someone made of flesh and blood. It doesn't matter what you're made of. What matters is who you are. You're our friend, and we want you back.
+KES: Louis, please. Pick up the phaser, destroy the warp core. It's your only hope.
+CHAKOTAY: Doctor, we're close to getting you out of here. Try to hold on!
+(Kes caresses the EMH.) 
+KES: What ever happens, I just want you to know, I love you.
+EMH: I always wanted to 
+[Sickbay] 
+EMH: Tell you, Kes, that you're beautiful.
+KES: Thank you.
+EMH: What's going on?
+TUVOK: We were able to shut down the holodeck simulation that your programme was generating. Commander Chakotay transferred you back to Sickbay. You seem to have suffered no damage.
+EMH: What really happened?
+KIM: Voyager encountered a subspace anomaly which created a kinoplasmic radiation surge throughout most of our computers. Unfortunately it happened while you were using the holodeck.
+KES: We've been working for the past six hours to get you out of there.
+EMH: So there was never a Kazon attack. 
+KES: That's right.
+EMH: And the crew didn't really abandon ship.
+TUVOK: No. In fact, except for the computer problems, it has been an uneventful day.
+EMH: And who is this Lieutenant Barclay I imagined.
+KIM: Barclay was part of the original engineering team that designed your programme. He was in charge of testing your interpersonal skills.
+EMH: Well, this should make an interesting paper.
+CHAKOTAY [OC]: Chakotay to Sickbay. Is the Doctor all right?
+TUVOK: Yes, Commander. His programme is functioning normally.
+CHAKOTAY [OC]: Good work. As soon as you're finished there I want all senior officers to report to the bridge.
+TUVOK: Acknowledged.
+KIM: It's good to have you back, Doctor.
+EMH: Well, I suppose I should begin cataloguing the neotrianate samples I was working on this morning.
+(Tuvok and Kim leave.) 
+KES: So you really think I'm beautiful? 
+EMH: I was under a great deal of stress, you understand. I may have said things that are not necessarily my true feelings.
+Kes. Oh. Then you don't think I'm beautiful.
+EMH: I didn't say that, exactly. I consider you very, very attractive. In a platonic sense.
+KES: I see. Then you don't really love me.
+EMH: I'm afraid not.
+KES: Then I guess our marriage is over.
+EMH: Our marriage? Are you making a joke?
+KES: It isn't a joke to me, Lewis. I know we have problems but I think we can solve them.
+EMH: No. No, this can't be right. Something's wrong here.
+BARCLAY: It's not too late, Lewis. You can still save yourself by destroying the warp core.
+(The headaches return.) 
+EMH: No! No, I don't believe you. None of this is real. It's all a delusion. Somebody help me!
+BARCLAY: I am helping you.
+KES: Listen to him, Lewis.
+EMH: No!
+(The EMH tries to leave Sickbay but an armed Kazon forces him back inside.) 
+PARIS: Doctor, are you listening to me? That man needs help! 
+(That man is the EMH on a biobed, with bad burns and Janeway's voice.) 
+JANEWAY: Try to calm down, Doctor, everything's going to be fine. 
+[Holodeck] 
+JANEWAY: Doctor, do you know who I am? Do you know where you are?
+(Chakotay and Kim are there, too.) 
+EMH: I appear to be on the holodeck grid.
+JANEWAY: That's right. And do you know what you are?
+EMH: Yes, I'm the Emergency Medical Holographic programme. Right?
+JANEWAY: Right.
+EMH: Well, I assume everything that's happened took place here on the holodeck.
+CHAKOTAY: That's right. We encountered a subspace anomaly and there was a radiation surge in the computer system.
+EMH: And Kes is my assistant, not my wife? 
+CHAKOTAY: Your wife?
+EMH: Never mind. Captain, if it's okay, I'd like to return to Sickbay now.
+JANEWAY: Of course. It's good to have you back, Doctor.
+EMH: It's good to be back.
+JANEWAY: Computer, transfer EMH programme to Sickbay. 
+[Doctor's office] 
+KES: We were married?
+EMH: It was a delusion, of course.
+KES: I understand. But I'd still prefer it if you didn't tell Neelix about this. He tends to get a little jealous. It'll be our secret.
+EMH: I am curious about one thing.
+KES: What's that?
+EMH: The radiation surge caused my programme to malfunction and my codes and circuits began to degrade and yet, instead of detecting that threat to my programme, I experienced an elaborate delusion concerning the nature of my existence. Human or hologram. Person or projection. Why? Why would my programme focus on such an esoteric dilemma? 
+KES: Well, I sometimes ask those kind of questions. Who am I? What am I doing here? What's my purpose in life? Doesn't everybody? 
+EMH: Not me. I know exactly who I am and what my purpose is. I am the Emergency Medical Hologram aboard the starship Voyager.
+KES: Are you sure about that? 
+(Kes leaves. The EMH leaves his desk and strolls to the Sickbay door. It opens. He checks that the corridor is clear then sticks his arm out. It disappears up to the elbow. He pulls it back in, smiles, and goes back to his work.) 

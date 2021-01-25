@@ -1,0 +1,499 @@
+Contagion
+Captain's log, stardate 42609.1. In response to a desperate plea for aid by my old friend, Captain Donald Varley of the USS Yamato, I am running a grave risk by taking the Enterprise into the Neutral Zone. Varley's request was prompted by dangerous malfunctions which have been plaguing our sister ship. Perhaps with both crews working together we can able to eliminate the problems before our presence is detected by the Romulans. 
+[Bridge] 
+PICARD: How long to rendezvous, Mister Crusher? 
+WESLEY: Four minutes and thirty three seconds, sir. 
+PICARD: Status of download, Mister Data? 
+DATA: The Yamato log should be in our computer by rendezvous, sir. 
+RIKER: Have you nailed down our little hiccup yet? 
+DATA: Sir? 
+RIKER: The odd reading? 
+DATA: No, sir. It might be due to problems currently being experienced by the Yamato. 
+PICARD: Trouble, Number One? 
+RIKER: I'm not sure, sir. Are we alone out here, Worf? 
+WORF: Yes, sir. There are no other vessels in the area except the Yamato, which is coming into visual range now. 
+PICARD: At last. 
+WORF: Transmission from the Yamato, sir. 
+PICARD: On viewer. 
+(A tired looking Captain sits in his seat) 
+PICARD: Donald, what's a nice Starfleet Captain like you doing in a place like this? 
+VARLEY [on viewscreen]: It's good to see you again, Jean-Luc, despite your antique humour. I only hope your people are able to help us. Malfunctions are becoming serious. We lost an engineering team when the computer shut down a forcefield in an open shuttlebay. Eighteen people. 
+RIKER: Do you have any idea what caused this, sir? 
+VARLEY [on viewscreen]: None. They are affecting every system simultaneously. It's like the ship has suddenly decided to fall apart. It's beginning to make me think we should have run these Galaxy Class ships across a few more drawing boards before we built one. 
+PICARD: You believe it's a design flaw? 
+VARLEY [on viewscreen]: I don't know. I'm grasping at straws here. All I know is we've got to get it fixed, and before I lose more than an engineering team. 
+RIKER: Do you wish to evacuate any non-essential personnel to the Enterprise, sir? 
+VARLEY [on viewscreen]: No. No, that would be premature. 
+PICARD: Donald, we'll get our teams to work on it immediately. I'm sure neither of us feels too comfortable sitting around in the Neutral Zone. 
+VARLEY [on viewscreen]: I know what you're thinking, what the hell am I doing here? Well, I had heard rumours about a couple of archaeological digs that started making the Iconians sound a lot less like legend. I did a little investigating, and I located their homeworld. 
+PICARD: In the Neutral Zone? 
+VARLEY [on viewscreen]: In the Neutral Zone. 
+PICARD: Donald, that was quite a risk to run to satisfy archaeological curiosity. 
+VARLEY [on viewscreen]: The risk would be in allowing the Romulans to locate Iconia. Fortunately, I got there first. It's a virtually dead planet, but enough technology remains to give the Romulans an edge if they should find it. 
+(The picture starts to break up) 
+PICARD: Donald, your transmission is breaking up. Mister Data, try and clean that up. 
+WORF: Sir, there is an energy build-up in the Yamato's Engineering section. 
+PICARD: Yamato, this is the Enterprise. Yamato, come in. 
+WORF: Captain, magnetic seals in the antimatter chamber are decaying! 
+PICARD: Captain! Donald, come in! 
+(The viewscreen image of Donald Varley is replaced by one of the Yamato, going supernova) 
+PICARD: Shields up. 
+(A piece of the ship comes straight for them, as the saucer section glides to the right and burns up) 
+WORF: Sir! 
+DATA: Sensors indicate no life readings, sir. 
+WORF: Captain. Another vessel is coming within sensor range. It is Romulan. 
+Captain's log, supplemental. The Yamato's entire crew and their families, more than a thousand people, have been lost. Circumstances unfortunately permit us no pause for grief. 
+[Bridge] 
+WORF: No response from the Romulan vessel. 
+RIKER: Arm phasers and prepare to lock on target. 
+PICARD: Did they attack the Yamato? 
+DATA: Unknown, sir. 
+WORF: All their weapons systems have been fully activated. Still no response. 
+PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise. 
+(The Romulan Bridge appears on the viewscreen. It is commanded by a woman) 
+TARIS [on viewscreen]: Captain Picard. 
+PICARD: Explain your illegal presence in the Neutral Zone. 
+TARIS [on viewscreen]: Explain yours. 
+PICARD: Are you responsible for the destruction of the Yamato? 
+TARIS [on viewscreen]: No. But believe me, Captain, had we chosen to exercise our right to defend the Neutral Zone, we would not have stopped with one starship. You will leave at once. 
+WORF: Mute. 
+PICARD: Comments. 
+TROI: She's extremely anxious. 
+WORF: Understandable if she just destroyed a Federation starship. 
+RIKER: Your scan was inconclusive. We don't know what happened to the Yamato. 
+TROI: Our presence in the Neutral Zone is provocative. It could force her to respond. 
+WORF: Open. 
+PICARD: We will comply when I have determined the cause of the destruction of the Yamato, and when I am fully satisfied that you were not responsible. Picard out. 
+WORF: They are engaging their cloaking device. 
+RIKER: Good. They can't fire when they're cloaked. 
+WORF: Unless they have overcome that deficiency. The Yamato was destroyed while they were cloaked. 
+PICARD: Enough. Answers. I want answers, not conjecture. Number One, I want them at a staff meeting in one hour. 
+RIKER: Aye, sir. 
+[Observation lounge] 
+(Geordi is doing a presentation at the wall monitor, using a schematic of the Yamato) 
+LAFORGE: Sensor recordings reveal that what we witnessed was an uncontrolled and catastrophic matter-antimatter mix. The magnetic seals between the chambers collapsed and 
+PICARD: Wait. Wait. That's not possible. 
+LAFORGE: Yes, sir, it is, but a highly improbable series of events has to take place for such a result to occur. 
+PICARD: Explain. 
+LAFORGE: Okay. In the event of a breach of seal integrity there's an emergency release system which dumps the antimatter. DATA: Apparently such a dump began, was then halted, and the containment seals were dropped. There was still sufficient antimatter present to lead to an explosion. 
+PICARD: And so there is no evidence that a weapon was used? 
+DATA: No, sir. None. 
+LAFORGE: However it happened, the Yamato did it to herself. 
+PICARD: Theorise. What could have caused such a catastrophic malfunction? 
+LAFORGE: I think Captain Varley may have been right. There may be a design flaw. 
+RIKER: In a Galaxy Class starship? 
+LAFORGE: Yes, sir. It's the most sophisticated piece of machinery ever built. Something could have been overlooked. 
+PICARD: Knowing where the flaw is located, can you isolate the problem and solve it? 
+LAFORGE: We're already working on it, sir. 
+PICARD: Pull any personnel you can use. 
+(The men leave) 
+TROI: If we have established that the Romulans were not responsible for the destruction of the Yamato, would it not be prudent to withdraw? 
+PICARD: If it is a design flaw, we're better to stay where we are and give Geordi time to work on it. Or what happened to the Yamato could happen to us. 
+[Ready room] 
+PICARD: Computer, access Captain Donald Varley's personal log. Search parameter. Locate entries containing words Romulan and or Iconia. 
+COMPUTER: Working. 
+VARLEY [on monitor]: Personal log. It was kind of Doctor Ramsey to allow me to carry away my own little piece of legend from the archaeological dig at Denius Three. My engineers have examined it, but are completely baffled by its technology. What was its purpose? I'm like a caveman confronted by a tricorder. I'm certain this device is Iconian, but how far had it travelled before it was abandoned on this alien world? (Second entry) Personal log. A galactic Rosetta stone. The starfields on the artefact were unintelligible until I took into account two hundred millennia of stellar drift. After that it was easy to pinpoint Iconia. (Third entry) My First Officer is questioning the wisdom of my order to violate the Neutral Zone, but I am convinced that I have taken the only proper course. Should this advanced technology fall into the hands of the Romulans, we might as well dock our ships and defend ourselves with sticks. (Fourth entry) Personal log. We've been spotted by a Romulan cruiser, but after playing hide and seek through several solar systems, I think I've managed to elude them. (Fifth entry) The Iconian probe scan. Was it an attempt at communication? If only I knew what we were dealing with here. (Sixth entry) Personal log. I'm unable to send an away team to the surface of Iconia, nor can I scan the energy source on the planet because of these maddening system failures. It's infuriating to be stopped at the threshold of a dream by one's own ship. We're leaving orbit to rendezvous with Picard. If his people can't help us repair the Yamato, I must convince him to continue this exploration. The future wellbeing of the Federation may well depend upon it. 
+COMPUTER: No further entries conforming to search parameters. 
+(Picard goes to the Bridge, but the door doesn't open for him at first go) 
+[Bridge] 
+(Data is at a rear computer station) 
+PICARD: Mister Data, there's a reference in Captain Varley's personal log to a probe that scanned the Yamato. 
+DATA: Aye, sir. We have a visual record. 
+PICARD: Put it on main viewer. 
+RIKER: What the devil is that? 
+(A blue globe sends out energy tendrils to the Yamato) 
+PICARD: Have you seen anything like that before? 
+DATA: No, sir. It appears to be a scanner. Possibly a transmitter. 
+RIKER: Transmitting what? 
+DATA: Unknown, sir. 
+PICARD: Engineering. 
+[Engineering] 
+LAFORGE: La Forge. 
+PICARD [OC]: What progress on the matter-antimatter scan? 
+LAFORGE: Everything continues to check out. I'm starting an analysis on the magnetic coils. 
+[Bridge] 
+PICARD: When the Yamato was probed, where was she? 
+DATA: In orbit around a planet at coordinates two two seven mark three five nine, sir. 
+PICARD: ETA at warp factor eight? 
+DATA: Twelve hours sixteen minutes, sir. 
+WORF: Sir, that would put us substantially close to the Romulan side of the Neutral Zone. 
+PICARD: That can't be helped. Ensign, lay in a course. Warp factor eight. 
+WESLEY: Aye, sir. 
+PICARD: We're going to assume the Yamato's mission. 
+RIKER: And risk a war? 
+PICARD: Perhaps prevent one. 
+[Ready room] 
+PICARD: Come. 
+WESLEY: Sir, may I speak with you for a minute? 
+PICARD: Yes, of course. Well, what is it, Wesley? 
+WESLEY: It's about the Iconians, sir. I was told they were just a myth. 
+PICARD: China was thought to be only a myth until Marco Polo travelled there. No, the Iconians were certainly real. Sit down. We know that three systems within this sector had a number of cultural similarities. Similarities which could only be explained by there being a single unifying influence. 
+WESLEY: So they colonised those worlds? 
+PICARD: Probably conquered. 
+WESLEY: You mean they were warlike? 
+PICARD: Perhaps. Ancient texts did speak of 'Demons of Air and Darkness'. 
+WESLEY: Air and darkness? 
+PICARD: Legend has it that they travelled without the benefit of spaceships, merely appearing out of thin air on distant planets. 
+WESLEY: Sounds like magic. 
+PICARD: Well, we would appear magical to Stone Age people. 
+WESLEY: How did you find all this out? 
+PICARD: Archaeology has been a hobby since Academy days. But why don't we talk about what really brought you here? 
+WESLEY: It's the Yamato, Captain. I can't stop thinking about her. All those people dead. I don't know how you and Commander Riker and Geordi, how you handle it so easily. 
+PICARD: Easily? Oh no, not easily. We handle it because we're trained to, as you will be. Tea, Earl Grey, hot. But if the time ever comes when the death of a single individual fails to move us (a pot plant appears in the replicator) 
+WESLEY: Didn't you order tea, sir? 
+PICARD: Now that should not have happened. 
+Captain's log, supplemental. As happened with our sister ship, the Enterprise is being to experience a series of system failures. So far they are random, but I fear they could be early symptoms of what happened to the Yamato. 
+[Engineering] 
+PICARD [OC]: Engineering. 
+LAFORGE: La Forge. 
+PICARD [OC]: Lieutenant 
+[Bridge] 
+PICARD: Are you making any progress toward solving our problems? 
+LAFORGE: Solving them, no sir, but I can eliminate one worry. It is not a design flaw. 
+[Engineering] 
+LAFORGE: I've been reviewing the Yamato's log, and I think maybe that alien probe had something to do with her problems. 
+PICARD [OC]: How? 
+LAFORGE: I need to see the thing. 
+[Bridge] 
+PICARD: If it was the probe, that explains the Yamato. But how do you account for the difficulties the Enterprise is experiencing? 
+[Engineering] 
+LAFORGE: I can't. 
+PICARD [OC]: Lieutenant, Are our problems likely to attain the seriousness of those on the Yamato? 
+LAFORGE: If you're asking for speculation, I'd say yes, sir, they are. I need time. 
+[Bridge] 
+PICARD: Mister La Forge, time is the one thing which we do not have in abundance. 
+(Enterprise arrives at a brown and battered planet) 
+PICARD: Analysis, Mister Data. 
+DATA: Scanning, sir. 
+PICARD: Well, Mister Data? 
+DATA: No life-form readings, sir. 
+WORF: All major cities have been heavily damaged, and the pattern of destruction is that consistent with large-scale orbital bombardment. 
+PICARD: How long ago? 
+DATA: Approximately two hundred thousand years, sir. 
+WORF: There is an energy source in the mountains of the smaller continent. 
+PICARD: Magnify. 
+RIKER: Is that Iconia? 
+PICARD: Captain Varley died believing that it was. 
+(There's a little flash from the cross shape inside the crater on the surface) 
+RIKER: Did you see that? 
+WORF: Captain. Projectile launched from the planet's surface. 
+DATA: Its size and composition match the probe which scanned the Yamato, sir. 
+PICARD: Shields up. Prepare a tractor beam. Mister La Forge, I'm going to assist you in your research. A probe has been launched from Iconia. 
+[Engineering] 
+PICARD [OC]: I'm going to capture it. 
+LAFORGE: No, sir, wait! Captain! Captain! 
+(But the comm. system has gone down, so Geordi has to run to the Bridge instead. The door refuses to open so he heads off another way) 
+[Corridor] 
+LAFORGE: Coming through! 
+[Turbolift] 
+LAFORGE: Bridge! 
+(The turbolift takes of sideways so quickly it pins him to the door) 
+LAFORGE: Emergency stop! 
+(Then it goes the other way) 
+LAFORGE: Stop! Damn it! 
+(Now he's up against the ceiling, then the floor and his visor falls off. Heck of a roller coaster ride, this one) 
+[Bridge] 
+WORF: Tractor beam ready, sir. 
+(Geordi comes flying out of the turbolift and tumbles head over heels down the slope) 
+RIKER: Geordi, are you all right? 
+LAFORGE: Destroy the probe, sir. Quickly! 
+PICARD: Worf, target phasers. 
+WORF: Phasers locked on target. 
+PICARD: Fire! 
+(The blue globe disintegrates in ball of flames) 
+PICARD: Welcome to the Bridge, Mister La Forge. 
+LAFORGE: Thank you, sir. If that thing had managed to scan us, we never would have had any chance of saving the Enterprise. 
+[Observation lounge] 
+LAFORGE: That probe was a transmitter sending an alien computer programme. The same programme that is currently aboard the Enterprise trying to rewrite our software in its own image. We have two completely incompatible computer systems trying to interact. 
+RIKER: So that's why the ship's instruments have become so erratic. 
+LAFORGE: Yes. 
+PICARD: What can you do? 
+LAFORGE: Not very much. The Iconian programme is so sophisticated I may never understand it. 
+DATA: Consider, Captain, this programme has entered an alien data base, ours, and in less than seven hours has managed to not only learn our systems, but has begun to reprogram our computer. 
+PICARD: And so the earlier probe was responsible for the Yamato's destruction? 
+LAFORGE: Yes, but only in as much as it was the probe that transmitted the programme. 
+RIKER: But we weren't scanned by that probe. How did this thing get aboard the Enterprise? 
+DATA: We downloaded the Yamato log, and contained in the log was the programme. 
+PICARD: Why didn't we suffered the same fate? 
+LAFORGE: The programme affected all of the Yamato's systems simultaneously. But with us, it was deposited within a specific section of our mainframe, so it's having to work its way out from that location. That gives us a little breathing space. 
+RIKER: Not much. The injury reports are increasing too, sir. 
+DATA: Doctor Pulaski is unwilling to trust the turbolifts. She is sending medical teams through the access tunnels. 
+LAFORGE: Captain, the Enterprise computer system is a lot like our own bodies with voluntary and involuntary system. Now, probably ninety percent of what happens on this ship is done automatically. Completely out of our control. We're sitting on a bomb that could go off any second, or maybe never. 
+[Sickbay] 
+(Kate is chewing out a medic as the lights go up and down) 
+PULASKI: The biobeds aren't working? The ship is falling apart! I've had thirty-five emergency calls scattered across twelve decks. My trauma teams are being run ragged trying to respond. Biobeds! 
+MEDIC: Doctor Pulaski. 
+PULASKI: Yes. 
+MEDIC: I've got a problem here. The knitter isn't working. 
+PULASKI: Try a splint. 
+MEDIC: Doctor? 
+PULASKI: Splint. It's a very ancient concept. You take two flat pieces of wood or plastic, a bandage. The broken limb is kept immobile. 
+DOCTOR: That's crazy, that's not practicing medicine. 
+PULASKI: Oh yes, it is. It's a time honoured way to practice medicine, with your head and your heart and your hands. So jump to it. 
+[Engineering] 
+LAFORGE: Damn! 
+DATA: Try a bypass on the shield control interface. 
+LAFORGE: No go. Let me see if I can directly access the master programme. 
+(Electricity leaps into Geordi when he touches the panel. Data throws him clear - across the room) 
+LAFORGE: Data? 
+DATA: Yes? 
+LAFORGE: What happened? 
+DATA: Any answer would be mere speculation. This is yet another example of how our actions have random results. 
+LAFORGE: Thanks, Data. I noticed. 
+[Ready room] 
+RIKER: Life support has failed on decks seven and thirteen, sir. Now what if this thing manages to rewrite our entire system? It's so far beyond us that we don't have a hope of understanding it, let alone controlling it. Our own ignorance could kill us. 
+PICARD: We may never reach that point. A variation of what happened to the Yamato might destroy us first. 
+RIKER: So we just sit here and watch our ship disintegrate around us? 
+PICARD: The probe was launched from Iconia, probably from an automated system. There may be records near the launch site that could help us find a solution. 
+RIKER: I'll arrange an away team. 
+PICARD: And I'll lead it. 
+RIKER: You will lead it? 
+PICARD: Yes. 
+RIKER: Sir, we've had this conversation a hundred times. 
+PICARD: And we will have it again, Number One. I have been studying the Iconians since I was a cadet. I have to be the one to go. The Enterprise is yours. 
+(Picard leaves) 
+RIKER: For as long as she lasts. 
+[Transporter room] 
+(Guy Vardeman is fiddling with a panel in the background when Picard, Data and Worf enter) 
+O'BRIEN: I've got a fix on the energy source, and for the moment this baby's working, but that could change in an instant. 
+PICARD: We're aware of the risks. Energise.
+O'BRIEN: Transport complete. 
+[Bridge] 
+RIKER: Stay sharp, Mister O'Brien, I want to be able to pull them out of there at a moment's notice. 
+O'BRIEN [OC]: Aye, sir. 
+WESLEY: Commander, Romulan vessel. 
+(The big green ship decloaks in front of them) 
+RIKER: Open hailing frequencies. 
+WILLIAMS: (the lady who has replaced Worf) They're arming photon torpedoes. 
+RIKER: Shields up! Go to Red Alert. 
+WESLEY: Sir, the shields aren't responding. 
+WILLIAMS: They are preparing to fire photon torpedoes. 
+RIKER: Mister Crusher, I need those shields! 
+WESLEY: I'm trying, sir! 
+WILLIAMS: They're firing. 
+(No, they're not) 
+RIKER: What happened? 
+WILLIAMS: Instead of firing they suddenly disarmed and cancelled. 
+RIKER: Fate protects fools, little children and ships named Enterprise. Lock phasers on the Romulans and hold your fire. 
+WESLEY: Sir, the shields are back up. 
+RIKER: Impeccable timing. 
+WESLEY: Sir, the shields are back down. 
+WILLIAMS: Phaser banks are down. 
+WESLEY: Shields are back up. 
+TROI: In another time and place this could be funny. 
+RIKER: Status of torpedo banks? 
+WILLIAMS: They're down, too. 
+RIKER: In case it should become necessary to fight, could you arrange to find me some rocks to throw at them? 
+WILLIAMS: Sir, the Romulan torpedoes are continuing to arm and disarm. 
+RIKER: Maybe its attempt to fire was unintentional. Open hailing frequencies. 
+WILLIAMS: Open. 
+RIKER: Romulan vessel, this is Commander William Riker, First Officer of the USS Enterprise. Why did you attempt to fire on us? 
+TARIS [on viewscreen]: This is Sub-Commander Taris of the Haakona. Why have you penetrated deeper into the Neutral Zone? 
+RIKER: Why are you still here? 
+TARIS [on viewscreen]: I have claimed this planet for the Romulan Empire. 
+RIKER: This is the Neutral Zone. Nobody can claim anything. 
+TARIS [on viewscreen]: You will withdraw or I will be forced to destroy your ship and your away team. 
+(Transmission ends, the Romulan ship starts to cloak then decloaks again) 
+RIKER: What the hell? 
+TARIS [on viewscreen]: (through static) This is your final warning, I will not 
+(The picture clears up, but something else is going on off screen) 
+RIKER: Having a little trouble with your systems, Commander? Maybe we could consider postponing the war until we solve our more immediate problem? 
+TARIS [on viewscreen]: You're stalling for time. 
+WESLEY: Sir, another probe launched from the planet, heading toward the Romulans. 
+RIKER: Have we got our phasers back? 
+WILLIAMS: No, sir. 
+RIKER: Taris, if you've got phaser capability, prepare use them now! 
+TARIS [on viewscreen]: What? 
+RIKER: Destroy that probe! 
+(Transmission ends, the probe gets blown up) 
+RIKER: And not even a thank you. 
+TROI: Sub-Commander Taris is deeply frustrated, probably because her ship is as crippled as the Enterprise. 
+WESLEY: Why would the Romulans be experiencing problems? They weren't probed. 
+RIKER: They must have tapped into the Yamato log. Taris got a whole lot more than she bargained for. Maintain Red Alert. Try to keep those shields up in case Taris decides to act on her threat. 
+WESLEY: Commander, what about the away team? With the shields up, we can't beam them back. 
+Captain's log, supplemental. While there is little left on the surface of Iconia, we have found what appears to be a control centre which seems to have remained intact. 
+[Iconian Control room] 
+(There is a central circular control console with a globe on a pole above it) 
+WORF: Come in, Enterprise. Still no response, sir. 
+PICARD: Keep trying them. Communications are bound to be erratic. 
+WORF: I would not like to become a permanent resident of this planet. 
+PICARD: Nor would I, Mister Worf. 
+DATA: Scanners show no other life forms on the planet, sir. 
+PICARD: I would not expect any. Judging from the severity of bombardment, I doubt any Iconians survived. Well, Mister Data, let's see what sense we can make of this. 
+DATA: Aye, sir. 
+PICARD: This is very reminiscent of Dinasian. 
+DATA: Yes, sir. There are also similarities to Dewan and Iccobar. 
+PICARD: Is it possible that they could be branches of the same language family, beginning with Iconian? 
+DATA: It is, sir. 
+PICARD: Run a comparison using basic simple words from Dinasian, Dewan and Iccobar. See if we can reconstruct a common root language. 
+DATA: Accessing, sir. 
+[Bridge] 
+(Troi twitches) 
+RIKER: You're jumpy. 
+TROI: The tension on the ship is very high. 
+RIKER: What's your recommendation? 
+TROI: Give everyone something to do, somewhere to focus their attention. 
+RIKER: All right. Let's consider evacuation. 
+TROI: To the planet? 
+RIKER: I know it's probably impossible with Taris sitting out there, but it would give everyone something to do. You go and organise it. 
+TROI: But you might need me if you have to negotiate with Taris again. 
+RIKER: I'll manage. Right now, they're more important. 
+[Iconian Control room] 
+DATA: Captain, your original hypothesis is correct. Iconian is the parent tongue of a language family which consists of Iccobar, Dewan and Dinasian. I have constructed a basic working understanding through a comparison of common root words such as mother, father, child, home, tribe, food, life, death, yours, ours, mine 
+PICARD: Data, Data, Data. 
+DATA: You do understand, sir, that my interpretation of the symbols will not be exact? 
+PICARD: Yes. Let's get on with it. 
+DATA: This would appear to be manual override. 
+(He presses the key pad, the globe comes to life and sends an energy beam to the wall. Other beams join in to create a rectangular 3D image of a coast scene) 
+DATA: That was not manual override. 
+PICARD: Demons of Air and Darkness, indeed. 
+(The coast becomes the Acropolis, or similar) 
+WORF: What is that? 
+PICARD: A gateway? 
+WORF: These scenes could be holographic images. 
+(Data goes towards it) 
+PICARD: Be careful. 
+(Data sticks his arm into the image. Picard pulls him back) 
+PICARD: Data! That was very foolish. 
+DATA: But we have established that this is not a holograph. If I step through and investigate, we could determine whether it is truly a gateway. 
+PICARD: No, Data. You might not be able to get back, and I can't risk losing you. 
+WORF: If it is not illusion, this gate would seem to take us beyond the confines of this planet. 
+PICARD: Is this how the Iconians travelled? Crossing light years as easily as we would cross a room? Those places could be on worlds in distant sectors of the galaxy. I think the Iconians might have out-foxed their enemies. Maybe they didn't all die in the bombardment. Some of them could have passed through this. This is what Varley feared. This is what he died for. 
+WORF: Sir? 
+PICARD: The Romulans could use this technology as a weapon. 
+WORF: Like the Iconians did. 
+DATA: No, I disagree. Captain, there is nothing in this room to indicate it was used as a military command centre. Perhaps a transporter room? 
+WORF: But the probe was hostile. 
+PICARD: We can't make that assumption. The effect on the Yamato was devastating, but what if it was by accident, not by design. What I'm going to say may sound unscientific, but standing on this soil, breathing in this air, my instincts tell me that we may have got them wrong. 
+WORF: But we do know that the Iconians were conquerors. 
+PICARD: But that knowledge was passed down by the descendants of those who attacked this world. The victors invariably write the history to their own advantage. There is an unfortunate tendency in many cultures to fear what they do not understand. It's possible that their enemies, confronted with this technology, were driven to attack the Iconians out of fear. 
+(An image of the Bridge appears) 
+WORF: Sir! 
+(And is replaced by a skyscraper) 
+WORF: Was that really the Enterprise? 
+PICARD: I believe that it was. Gentlemen, we have a way home. 
+DATA: Captain, there is a vast underground power source which is controlled by this console. I believe my triggering of the gateway has caused a dramatic upsurge in power level. Ah, I have access. 
+(He starts tapping at the console, and the energy beam zaps him. Worf catches Data as he falls backwards) 
+PICARD: Data, can you hear me? Data, respond. 
+DATA: Captain. 
+WORF: Are you all right? 
+DATA: No, I am damaged. 
+PICARD: How bad is it? 
+DATA: The Iconian programme is attempting to rewrite my software. Physical manifestations, blindness, motor con 
+WORF: Sir, without him we have no hope of deciphering the programme. Captain, the Enterprise again. 
+PICARD: How long is the interval? 
+WORF: About four minutes, if the cycle holds. 
+PICARD: The next time the Enterprise appears, go through it with Data. Geordi will be able to learn from him. Maybe help him. 
+WORF: Sir, we have not yet established that that is truly a gateway. 
+PICARD: This will be the test. 
+WORF: Aye, sir. 
+PICARD: Destroy the tricorder. 
+WORF: Sir, it contains everything we've discovered up to this point. 
+PICARD: And that is precisely why it must be destroyed. How long? 
+WORF: About three minutes. 
+PICARD: I'm running out of time. We all are. Data. Data, I have to destroy this. This control room and its technology must not be allowed to fall into Romulan hands. 
+DATA: I understand, sir. 
+PICARD: How! How do I do it? How do I destroy everything? The control room, the probes, all of it. 
+(Worf phasers the tricorder) 
+DATA: The power source, sir. 
+PICARD: I detonate it. But how? How do I do that? 
+DATA: The probes, sir. 
+PICARD: Probes? The probes. Launch? I launch the probes? But why? What's good will that do? 
+DATA: The doors, sir. 
+PICARD: Doors? 
+WORF: Perhaps the probes are in a launch bay. 
+PICARD: And if the doors are closed, then the backwash from the rockets will spill into the power grids and there'll be an overload. 
+DATA: Yes, sir. 
+PICARD: But the doors will open automatically when the launch begins. And I will override. 
+DATA: Correct, sir. 
+PICARD: Which control keys? Damn. Of course, you can't see. 
+DATA: Help. 
+PICARD: Worf, help him up. 
+DATA: Describe, please. 
+PICARD: I'm standing directly in front of the gate. To my left there is a small triangular screen. 
+DATA: Right one metre. 
+PICARD: Right. Now, to my right is a larger triangular screen. The top is solid amber. To the left, red. 
+DATA: Correct. Key blue, amber, amber, red. 
+PICARD: That's the launch sequence? How do I override the doors? 
+DATA: Blue, blue, blue. 
+PICARD: I hope that's not a stutter. I don't know how long a delay there will be between the launch and the detonation. I'll hold keying the launch sequence until you're through the gate. How long until the Enterprise reappears? 
+WORF: Almost time. Captain, you will be killed. 
+PICARD: I'll go through the gate. 
+WORF: But where will you end up? 
+PICARD: Very shortly, anywhere will be preferable to this room. Mister Worf, I am depending on you. You must get Data back to the Enterprise. He may be their only hope. 
+WORF: Aye, sir. 
+(He picks up Data in a fireman's lift. The image changes from the Romulan bridge to the Enterprise. Worf steps through) 
+[Bridge] 
+CREWMAN: Commander! Look! 
+RIKER: Worf! What happened? Where's the Captain? 
+WORF: We must take Data to Engineering. Hopefully the Captain will follow. 
+[Engineering] 
+LAFORGE: I don't know how to help him. But comparing recorded norms for Data to the current readings, it's clear that all his functions are just going crazy. If we had an expert, a Maddox, somebody, I 
+(The tricorder emits a single tone, and Geordi closes Data's eyes) 
+LAFORGE: He's gone. 
+[Iconian Control room] 
+(Picard enters the command sequence blue, amber, amber, red) 
+COMPUTER: Kandar qui. Kandar pro. Kandar kija. Kandar sis. Kandar exen. 
+[Engineering] 
+(Data opens his eyes and sits up) 
+LAFORGE: Data! 
+RIKER: What the hell? 
+DATA: I am accessing. 
+LAFORGE: The self-correcting mechanism. 
+DATA: Captain? Captain? 
+LAFORGE: It's constantly kicking in to make minute adjustments in the positronic brain. 
+DATA: I am on the Enterprise. How did I get here? 
+RIKER: He cleared the Iconian programme from his own system. How? 
+DATA: Iconia? I was on Iconia, now I am on the Enterprise. 
+RIKER: Geordi, this is critical. How? 
+LAFORGE: Okay, give me a second to think. There was an incompatible programme running through Data's system, so the mechanism started searching for a way to keep him alive. The solution. The solution was a shutdown and a total wipe of all affected memory. 
+DATA: Query. What have I forgotten? 
+RIKER: Can you do the same thing with the Enterprise? 
+LAFORGE: I don't see why not, but it will have to be a complete shutdown. We turn her off, and effect a wipe of the Yamato log including every subsequent event since we downloaded it. I'll then be able to reload all the ship's programs from the protected archives in the main core. 
+RIKER: Geordi, if we shut down that means we're going to be bringing down the shields, and we're hanging nose to nose with a Romulan battle cruiser. 
+LAFORGE: Hey, Commander, whether it's Romulan phasers or our own warp engines, we're just as dead. 
+RIKER: Make it so. 
+DATA: May I help? 
+[Iconian Control room] 
+(As the Enterprise gets switched off) 
+COMPUTER: Kandar nien, kandar cobar, 
+(Picard enters blue, blue, blue) 
+COMPUTER: Kandar konyen. 
+(Enterprise boots up again) 
+[Transporter room] 
+O'BRIEN: All systems functioning. 
+RIKER: Lock on the Captain, bring him back. 
+O'BRIEN: Scanning, sir. Got him. 
+[Iconian Control room] 
+(The room is shaking) 
+COMPUTER: Kandar jet, kandar se, kandar tor, kandar eir, kandar 
+(Things start to go bang, so he steps through onto - ) 
+[Romulan Bridge] 
+(Chaos. Things also going bang and then people start running around with guns) 
+[Transporter room] 
+O'BRIEN: I've lost him! 
+RIKER: Damn it! 
+O'BRIEN: Got him, sir. He's on the Romulan ship. 
+RIKER: How the hell? 
+[Romulan Bridge] 
+(Picard has been captured. The computer seems to be counting down or repeating an announcement) 
+TARIS: Go to your stations. You did this. You sabotaged my ship. 
+PICARD: Oh, no. 
+TARIS: I cannot deactivate the auto-destruct, but at least I have the satisfaction that you will die with us. 
+(As he is beamed away) 
+PICARD: Not, I think, today, Commander. 
+[Transporter room] 
+PICARD: Bridge, Picard. 
+DATA [OC]: Yes, Captain. 
+PICARD: Take us out of here. The Romulan ship is set to auto-destruct and they can't deactivate it. 
+RIKER: Wait, sir. Open hailing frequencies. 
+O'BRIEN: Open, sir. 
+RIKER: Commander Taris, prepare to receive a transmission from our Chief Engineer. He'll instruct you how to purge your system. 
+[Bridge] 
+TARIS [OC]: Agreed, Enterprise. Standing by. 
+DATA: Commander, your transmission has been received 
+[Transporter room] 
+DATA [OC]: And acknowledged. 
+RIKER: Now, Mister Data, warp speed, please. Just in case Taris's engineer is not as efficient as our Mister La Forge. 
+DATA [OC]: Aye, sir. 
+PICARD: Well, Number One, I can see why you want to keep the away missions to yourself. That's where the excitement is. So, what's been happening here? Same old routine, I suppose? 

@@ -1,0 +1,602 @@
+Critical Care
+[Level Red] 
+(A storm rages above a huge city. A small craft flies to a massive floating structure. A lot of patients are being wheeled around on gurneys in a crowded area.)
+ALLOCATOR: Trauma team four to Level Red. Trauma team four to Level Red. Code Four nursing unit, report to Level Red
+ORDERLY: No, he does have a sensor. It's not working. 
+(A wall sensor stops the visitor.)
+ALLOCATOR: Negative for dysplasia, viremia, necrobiosis. Please extend your arms. Species, Dralian. Identity, Gar. TC fifteen. You may proceed. 
+(The mammalian biped walks up to a chubby faced humanoid.)
+GAR: Chellick. Lucky I caught you.
+CHELLICK: Mister Gar. I wish I had time to talk.
+GAR: Well, all you have to do is listen. I have a new supply of cytogenics.
+CHELLICK: Your last supply was useless. Expired lots, diluted samples. 
+GAR: Oh, I have something special this time.
+CHELLICK: The latest in substandard technology, no doubt. 
+GAR: Oh, this item is far from substandard. And as a gesture of goodwill, I'm offering it to you first.
+CHELLICK: We don't need another neural monitor. 
+GAR: This is much more sophisticated than that.
+CHELLICK: I'm sure it has some ingenious use but I'm not interested. 
+(Gar activates the mobile emitter.)
+EMH: Please state the nature of the medical emergency? Where have you taken me?
+GAR: It's a holographic construct programmed with over five million medical protocols. 
+EMH: I demand to be returned to Voyager at once. 
+CHELLICK: What's Voyager? 
+EMH: The Federation Starship to which I'm assigned. This man is a kidnapper. 
+GAR: I would never offer you stolen property. I traded warp-grade dilithium for this programme. 
+CHELLICK: What's your price? 
+EMH: This negotiation is pointless. I'm not about to perform medical services for a pair of common thieves. 
+CHELLICK: It doesn't seem to be in working order. 
+ALLOCATOR: Trauma victims are now arriving at Emergency Intake Seven. 
+CHELLICK: What caused their injuries? 
+ALLOCATOR: A generator explosion at the Gammadan mining facility.
+GAR: You'd better start cooperating, or I will dismantle your programme and sell it off one subroutine at a time. 
+EMH: When Captain Janeway discovers what you've done
+ORDERLY: Come on, let's go. Clear a path. Here we go. Tuck him in there. 
+ORDERLY 2: We haven't got any coagulants.
+VOJE: Somebody check the reserves. 
+ORDERLY: There are no reserves. 
+VOJE: This one's got grade four pulmonary burns. 
+ALLOCATOR: Patient's TC is four. Transfer to level green. 
+VOJE: Green isn't equipped for this. 
+CHELLICK: His TC's only four. Take him to Green. 
+EMH: Don't touch that. This patient's bleeding seriously. He needs an immediate infusion. 
+VOJE: What are you doing? Get away from him. 
+EMH: With technology this primitive you may as well be using leeches.
+VOJE: Who is this man?
+CHELLICK: A Doctor, of sorts. I thought you were withholding your services. 
+EMH: Fortunately for these patients, I am programmed with the Hippocratic Oath. It requires me to treat anyone who's ill. This patient needs twenty milligrams anesthizine. Get me a hypospray. 
+ORDERLY: A what? 
+EMH: I'm sorry, this may hurt a little. 
+(The EMH uses a hypodermic needle. Gar looks smug.) 
+[Corridor] 
+(After a game of ice hockey.)
+KIM: Did you have to programme that Nausicaan guard to high stick so much? 
+PARIS: Well, you play hockey, you got to expect a few lumps. 
+KIM: What are we going to tell the Doctor? You know how he feels about our juvenile holoprogrammes. 
+PARIS: Relax. I'll come up with something. 
+[Sickbay] 
+KIM: Hey, Doc. 
+EMH: Please state the nature of the medical emergency. 
+KIM: I know what you're thinking, but there's a simple explanation. Tell him, Tom. 
+PARIS: Right. Well, er, see, Doc, we were running these invasion scenarios, when this species of proto-humanoid.
+EMH: Please state the nature of the medical emergency. 
+PARIS: Are you okay, Doc? 
+EMH: Please take an analgesic and return in twenty four hours. 
+[Briefing room] 
+(Torres hands the mobile emitter to Janeway.)
+TORRES: It's a replicated fake. 
+PARIS: The programme running in Sickbay is from one of Doc's old training files. 
+JANEWAY: I want someone to tell me how this snake oil salesman managed to evade every security protocol on the ship. 
+TUVOK: I take full responsibility. 
+JANEWAY: I'm not interested in fault. I just want to know how it happened. 
+NEELIX: Ah, Gar spend the night in Sickbay. He claimed to have gotten food poisoning at dinner. 
+CHAKOTAY: He had plenty of time to learn about the mobile emitter from the Doctor. 
+JANEWAY: Who I'm sure was more than willing to extol its virtues. 
+TORRES: Medical logs show the training file was activated just before Gar left Voyager. 
+JANEWAY: Scan for his ion trail. And lets review safeguards for accessing low-security files, shall we, Mister Tuvok? 
+[Corridor] 
+NEELIX: Captain, don't blame Tuvok for what happened. It was my fault. 
+JANEWAY: How so? 
+NEELIX: Gar kept complaining how bland his dinner was so I added a few exotic spices. 
+JANEWAY: I'm not sure I see your point. 
+NEELIX: I was trying so hard to create something he liked that I didn't take his alien physiology into account. Everyone's assuming he faked his illness but I might have really made him sick. 
+JANEWAY: It's not as if your cooking turned him into a thief. 
+NEELIX: No. But if he hadn't gone to Sickbay, he may never have come up with a plan to kidnap the Doctor, much less have the opportunity to do it. 
+JANEWAY: In my experience, Neelix, men like Gar have no trouble finding opportunities to take advantage of other people. 
+NEELIX: I just hope there's something I can do to help find the Doctor. 
+JANEWAY: When and if that opportunity arises, I'm sure you'll make the most of it. 
+[Level Red] 
+VOJE: That was the most impressive cortical bypass I've ever seen. 
+EMH: It's just a question of possessing the basic skills. 
+VOJE: If I had basic skills like yours, they'd move me up to Level Blue. Take this patient to Yellow. 
+EMH: You seem a little low on resources here. If I could contact my medical staff, I might be able get you some additional supplies. 
+VOJE: Communication is usually restricted but the Allocator might give you clearance. 
+EMH: Good. Where can I find him? 
+VOJE: The Allocator isn't a him. It's our main computer. 
+EMH: Well, perhaps it could establish a communications link with Voyager's main computer. 
+VOJE: You'll have to submit a formal request to Chellick and support it with form eight three W in triplicate. Even then. 
+(A man is coughing a lot.)
+EMH: Why hasn't this patient been treated yet?
+TEBBIS: He's waiting for proton imaging. There are a lot of other people ahead of him. 
+EMH: It's nice to see someone knows what's going on. What's your name? 
+TEBBIS: Tebbis. 
+EMH: Well, Tebbis, this doesn't look too serious. 
+TEBBIS: It's just a little osteal extravasation. 
+EMH: Excellent diagnosis. 
+TEBBIS: I hope to be a doctor someday. 
+EMH: Really? Well, I hope your working conditions are better than these. 
+TEBBIS: It wouldn't be so bad if they'd let us listen to music. 
+EMH: It would certainly improve my mood. 
+TEBBIS: It's not just that. Music has great healing power. 
+EMH: I couldn't agree with you more. 
+(They return to the coughing man.)
+VOJE: Exhale slowly. 
+EMH: Can't you give him a neural blocker? 
+VOJE: He's already had his allocation. 
+EMH: The leg injury isn't all I'm picking up. He's got some kind of systemic disease. 
+VOJE: It's a chromo-viral infection. We have twelve cases down here. He's in the final stage. 
+EMH: Is there an established treatment? 
+VOJE: Cytoglobin injections. 
+EMH: These scans don't show any cytoglobin in his bloodstream. 
+VOJE: He hasn't been given any.
+EMH: Why not?
+VOJE: He doesn't have a high enough TC. 
+EMH: TC? What's that? 
+CHELLICK: Ah, there you are. I'm happy to report that I've acquired your programme from Gar. Please come with me. 
+EMH: I will not. May I remind you I'm being illegally detained, or hasn't the rule of law reached this society yet? 
+CHELLICK: We follow the Allocator's rules. And it's determined that your services are required on Level Blue. 
+VOJE: Please, Doctor. The Allocator knows which patients need help the most. 
+[Hospital Turbolift] 
+(The colour coded diagram on the back of the turbolift shows that Level Blue is the smallest and topmost level. Green is next, then Yellow. Red is the biggest and White is at the bottom.)
+EMH: Level Blue is your critical care area, I presume. 
+CHELLICK: Level Blue is the area where it's most critical that we provide excellent care. 
+[Level Blue] 
+(Plenty of space, quiet, carpets.)
+CHELLICK: These patients will be your chief responsibility from now on. Do whatever you can to make them well. 
+EMH: Why are these patients getting preferential treatment? 
+CHELLICK: They have a higher TC than the others. 
+EMH: Indulge me. What's TC? 
+CHELLICK: Treatment Coefficient. The Allocator assigns one to every patient. It determines the level of care they receive. 
+EMH: How is this coefficient derived? 
+CHELLICK: Through a complex formula that involves profession, skills, accomplishments. 
+EMH: How is any of that relevant to medical treatment? 
+CHELLICK: An agricultural engineer is obviously more important than a waste processor. 
+EMH: Important to whom? 
+CHELLICK: Society. When your resources are limited, you have to prioritise.
+EMH: So you base treatment on whether patients have particular abilities? 
+CHELLICK: It's much more complicated than that. The Allocator assesses the entire individual. 
+EMH: And reduces his life to a number. 
+CHELLICK: It may seem impersonal, but it's what the Dinaali have contracted us to do. 
+DYSEK: Chellick's people are known throughout the sector for their administrative skills. Before they came here, we were a dying race. Eco-disasters, famine. 
+CHELLICK: Doctor Dysek, Chief of Medicine. The medical hologram I told you about. 
+EMH: Are you in charge of what passes for care on Level Red? Because those people are suffering. 
+DYSEK: Intriguing technology. Can we use him to treat patients yet? 
+CHELLICK: That's what he's here for. 
+EMH: In some societies, it's considered rude to refer to someone in the third person while he's standing in front of you. 
+CHELLICK: I'm sure you'll make good use of him. 
+[Bridge] 
+TUVOK: The warp trail ends here. Gar should be directly ahead. 
+JANEWAY: All stop. Red alert. On screen. 
+(It is only a beacon.)
+TUVOK: It's emitting a false warp signature. 
+JANEWAY: Looks we've underestimated Mister Gar again. 
+PARIS: Now what?
+TUVOK: There may be another way to find him. 
+CHAKOTAY: What do you have in mind? 
+TUVOK: He traded us high-grade iridium, which has a very brief half-life. His ship is slow. Logic suggests he acquired the substance within a radius of three light years. 
+JANEWAY: Cross-reference our sensor logs and long range scans. 
+KIM: Two planets, no atmosphere or technology, a T class nebula. Here's something. An asteroid with approximately two hundred humanoid lifesigns. Subterranean structures. 
+CHAKOTAY: Sounds like a mining operation. 
+TUVOK: If that's where Mister Gar acquired the iridium, they may be able to help us find him. 
+JANEWAY: Tom, how fast can you get us there? 
+PARIS: Less than two hours. 
+JANEWAY: Do it. 
+(They arrive at the asteroid.)
+TUVOK: We're being hailed. 
+JANEWAY: Open a channel. 
+MINER [on viewscreen]: I want my iridium back now. 
+JANEWAY: I beg your pardon?
+MINER [on viewscreen]: I've scanned your ship. I know you've got it on board. 
+JANEWAY: Yes. We obtained it from a man called Gar. A merchant 
+MINER [on viewscreen]: You mean thief. 
+CHAKOTAY: So you have had the pleasure of meeting him. 
+MINER [on viewscreen]: He was here two days ago. He sold us three thousand induction units. He was gone a day before we realised he'd also stolen twenty kilos of ore. 
+JANEWAY: We had a similar experience. Maybe we can help each other. 
+MINER [on viewscreen]: How?
+JANEWAY: Do you have any idea where we might find him?
+MINER [on viewscreen]: Will you return my iridium? 
+JANEWAY: By all means, but Gar only traded us half of what he stole from you. However, we might be able to get the rest of it back. 
+MINER [on viewscreen]: All I can tell you is that the induction units came from a planetoid called Velos. 
+[Level Blue] 
+DYSEK: (to another man.) You may go.
+EMH: Your surgical technique is impressive. 
+DYSEK: Well. you've obviously had experience with cellular repair. 
+EMH: As a matter of fact, I've done extensive research on the subject. I'd be happy to share it with you, but we'll have to contact Voyager to get it. 
+DYSEK: You'll have to discuss that with Chellick. He authorises all communications. It's time for this patient's next injection. 
+NURSE: Requesting one cytoglobin injection for patient B three, priority blue seven gamma. 
+ALLOCATOR: One cytoglobin injection authorised.
+EMH: Does this patient have a chromo-viral infection? 
+(The nurse injects the woman on the bed.)
+DYSEK: No. Why? 
+EMH: I was told cytoglobin is the standard treatment for that disease. 
+DYSEK: Cytoglobin also prevents arterial aging. 
+NURSE: Will that be all? 
+DYSEK: You may go. 
+EMH: This patient's arteries appear to be healthy. 
+DYSEK: At the moment. But daily injections increase life expectancy up to forty percent. We prescribe them for all Level Blue patients. 
+EMH: I just saw a boy on Level Red who's dying. This medicine could save his life. 
+DYSEK: This woman is a chief engineer of an irrigation facility which provides water to half the subcontinent. 
+EMH: So her life is more valuable? 
+DYSEK: Keeping her healthy contributes to our survival. Can you say the same for the boy on Level Red? 
+EMH: Who knows what he'll accomplish if he has the chance. 
+DYSEK: If he becomes more valuable to society, his TC will rise, and then he'll receive better treatment. 
+EMH: He may not be around long enough. 
+DYSEK: I'm sorry he's sick, but our society is much better off since we began following the Allocator's protocols.
+EMH: Some of you are. 
+[Level Red] 
+VOJE: I never expected to see you again.
+EMH: Why do you say that? 
+VOJE: Level Blue is much more prestigious. 
+EMH: Prestige is the least of my concerns. How is he? 
+VOJE: Not well. 
+(The EMH scans the boy.)
+EMH: His condition's deteriorated so rapidly. 
+VOJE: His coenzyme allotment's been reduced. 
+EMH: Are we here to help these people, or kill them? 
+VOJE: His TC is just too low. 
+EMH: Maybe we can raise it. 
+VOJE: That's not possible. 
+EMH: If it's purely a function of statistics, we can simply input more data. 
+VOJE: We're not authorised to do that.
+EMH: Voje, when you look at your patient lying there, you have to ask yourself what can I do? What must I do? We can amend his database to include additional skills. 
+VOJE: Such as? 
+EMH: His extensive knowledge of neutronics. 
+VOJE: He doesn't know anything about neutronics. 
+EMH: We can say he does. What's the harm in trying? 
+VOJE: Amend patient R twelve's TC to include an expertise in neutronics. 
+ALLOCATOR: Unable to verify. Amendment denied. 
+VOJE: You see? 
+TEBBIS: Hello. 
+EMH: Lie still. 
+TEBBIS: What are you doing?
+EMH: Trying to get you the proper medication. 
+TEBBIS: You're wasting time you could be spending with other patients. 
+EMH: You have as much right to treatment as anyone. 
+TEBBIS: It's not your fault.
+VOJE: There's nothing you can do. 
+[Level Blue] 
+EMH: Nurse? 
+NURSE: Yes, Doctor? 
+EMH: Why hasn't this patient received her additional cytoglobin injection? 
+NURSE: Additional? 
+EMH: If you'd examined her chart, you'd see that I've increased her dosage. 
+NURSE: Doctor Dysek didn't say anything.
+EMH: Doctor Dysek is at home with his family. Would you like me to contact him so you can explain why you're not doing your job? 
+NURSE: No, Doctor. Requesting one cytoglobin injection for Patient B three, priority blue seven gamma. 
+ALLOCATOR: One cytoglobin injection authorised. 
+EMH: I'll do it myself. 
+NURSE: Can I assist you? 
+EMH: You may go. 
+(When she has gone he pockets the hypo and goes down to Level Red, where he uses it on Tebbis instead.) 
+[Bridge] 
+(An alien with a very high forehead.)
+KIPP [on viewscreen]: He convinced me to let him take the induction units on consignment. That was more than ten days ago. I haven't heard from him since. 
+TUVOK: You appear to be an experienced merchant, Mister Kipp. Why would you trust someone like Gar? 
+KIPP [on viewscreen]: He came highly recommended. 
+TUVOK: By whom? 
+KIPP [on viewscreen]: A buyer I know. He said he's been trading with Gar for years. 
+JANEWAY: Do you know where we can find this buyer? 
+HUSBAND [on viewscreen]: Yes, Captain. I am the fool who said that Gar could be trusted.
+JANEWAY: Sounds like you've changed your mind.
+HUSBAND [on viewscreen]: I should have known it was a mistake but, well, you see, I have never been able to say no to my wife. 
+TUVOK: What does she have to do with it? 
+HUSBAND [on viewscreen]: Well, she's the one who asked me to recommend Gar. 
+TUVOK: Then she must know him well. 
+HUSBAND [on viewscreen]: They're, er, friends. 
+TUVOK: May we speak with her? 
+HUSBAND [on viewscreen]: She's, er. Well, she's not here. 
+JANEWAY: Do you know where we might find her? 
+HUSBAND [on viewscreen]: She left me.
+ADULTERESS [on viewscreen]: You're a woman. You saw my husband with your own eyes. Overweight, depressed. You would have left him too, especially if you had met someone as exciting as Gar.
+JANEWAY: Yes, he's very exciting. 
+ADULTERESS [on viewscreen]: That's why you're looking for him, isn't it? You want him for yourself. 
+JANEWAY: I assure you, I have no romantic interest in him whatsoever. 
+ADULTERESS [on viewscreen]: Why? Not good enough for you? 
+JANEWAY: No, it's not that, it's just that 
+(Janeway takes Tuvok's hand.) 
+JANEWAY: I already have a man. 
+TUVOK: We have a business opportunity for Mister Gar. One that will expire if we don't find him soon. 
+ADULTERESS [on viewscreen]: He's on his way to the gambling tournament on Selek Four. When you see him, tell him to hurry home. 
+[Level Red] 
+EMH: How are you feeling?
+TEBBIS: Better. 
+EMH: That's what happens when you get the proper treatment. 
+TEBBIS: But I'm not authorised to receive cytoglobin. 
+EMH: You are now. You'll need several more injections, but you can expect a complete recovery. 
+TEBBIS: Whatever you did, they'll find out. They'll punish you. 
+EMH: You're assuming I've done something illicit. 
+TEBBIS: Didn't you? 
+EMH: Of course not. I simply had a talk with Chellick, explained to him what a bright young man you are, and he had the Allocator recalculate your TC. 
+TEBBIS: I've never met a doctor like you. 
+EMH: Well, it's not hard to stand out when the general level of competence is so low. 
+TEBBIS: There are patients on this level who deserve a higher TC than I do. Could you talk to Chellick about them? 
+(The EMH goes to find Voje. He is carrying a case.)
+VOJE: Thank you. 
+EMH: Ah, Voje. You're not busy, are you? 
+VOJE: Well, actually, I was just 
+EMH: I want you to help me dispense these injections.
+VOJE: Where did you get the cytoglobin? 
+EMH: Level Blue, where else. 
+VOJE: You stole it? 
+EMH: I prefer to think of it as reallocation. We're going to treat every chromo-virus patient on this level. 
+VOJE: Do you have any idea what kind of trouble we could get into? 
+EMH: We? Then you will help me. 
+VOJE: No, absolutely not. Modifying data files was bad enough. 
+EMH: Well, I certainly wouldn't want you to do anything to compromise your ethics. 
+TEBBIS: I'll help you. 
+VOJE: You should be in bed. 
+EMH: Actually, now that he's improving a little, activity will do him good. You can go back to doing whatever you were doing. 
+(Tebbis and the EMH find an unconscious man.)
+EMH: The best place to inject him is here, in the lateral artery. 
+(Tebbis does it.)
+EMH: Excellent work. It's nice to see someone in this hospital has a future as a healer. 
+VOJE: If we each take a third of the patients, maybe we can finish before someone catches us. 
+[Level Blue] 
+DYSEK: Who do you think you are, prescribing unnecessary medications for my patients? 
+EMH: It wasn't unnecessary. 
+DYSEK: If you believe that, you're incompetent. Or perhaps malfunctioning. 
+EMH: I was simply trying to increase our allocation of resources. 
+DYSEK: What are you talking about? 
+EMH: I did some checking. Last month, Level Blue's total medication requests were down by six percent. 
+DYSEK: Because our cure rate was higher. 
+EMH: Exactly. Because you performed so efficiently last month, the Allocator will determine you're able to do with less next month. If we don't order more medication now, we may not get it when we need it. Think about it, Doctor. If you don't have the proper resources, your cure rate could go down. If that happens, the Allocator may assign you to a lower level. 
+(Chellick comes out of his office.)
+CHELLICK: Are we having a problem with our newest piece of technology? 
+DYSEK: Actually, he seems to be learning the system quite well. 
+[Level Red] 
+VOJE: Three of the patients we injected are practically virus free. 
+EMH: What did you expect? 
+VOJE: Maybe we could reallocate other medications. Treat more patients. 
+EMH: Now you're thinking like a doctor. And to support your efforts, I've arranged for resources from Level Blue to be diverted here on a regular basis. 
+VOJE: How did you manage that? 
+EMH: Let's just say Doctor Dysek and I have developed a professional rapport. Sometimes I even surprise myself. 
+VOJE: We may actually make these people better. 
+EMH: That feeling you get from healing someone. Infectious, isn't it? 
+(They go to Tebbis' bed.)
+VOJE: Where did you get that? 
+TEBBIS: One of the technicians was going to recycle it because it wasn't working, but I think I fixed it. 
+(It is a hand-held medical scanner.)
+EMH: It seems to be in good condition, and so do you. You'll be well enough to leave soon. 
+TEBBIS: Couldn't you say I'm still sick? 
+EMH: Don't you want to go home? 
+TEBBIS: If I do, they'll send me to work in the refinery with my father. 
+EMH: What about school? Your medical training? 
+TEBBIS: I would never be authorised for that. 
+VOJE: He's right. 
+TEBBIS: If I stay here, you can teach me, and I can help you treat your patients. 
+EMH: I'm not planning on being here that long, myself. 
+TEBBIS: Then I can help Doctor Voje. 
+EMH: We'll see what we can do. 
+[Bridge] 
+TUVOK: I have picked up Gar's ship, directly ahead. 
+PARIS: Again?
+TUVOK: I'm reading his biosigns. 
+CHAKOTAY: Any sign of the Doctor or his emitter? 
+TUVOK: Not yet. 
+KIM: Should I hail Gar? 
+JANEWAY: If we let him know we're here, he may try to slip away. 
+CHAKOTAY: We could drop out of warp at close range and grab him before he knows what's happening. 
+JANEWAY: I like it. Tom, Tuvok. 
+(Voyager appears overhead and puts a tractor beam on the small ship.) 
+KIM: He's hailing. 
+JANEWAY: I guess we put him in the mood to talk. On screen. 
+GAR [on viewscreen]: I thought we were friends, Captain. Why am I being treated this way? I think I deserve better. 
+JANEWAY: Where's our doctor? 
+GAR [on viewscreen]: I have no idea. I certainly hope nothing's happened to him. 
+TUVOK: Scans are complete. Neither the mobile emitter nor the Doctor's programme are aboard Gar's ship. 
+GAR [on viewscreen]: Well, of course they're not. 
+CHAKOTAY: He's trying to destabilise the tractor beam with a feedback pulse. 
+KIM: Compensating. 
+JANEWAY: Don't bother, Harry. Just beam him to the brig. 
+[Level Red] 
+EMH: Tebbis, wake up. Time to make our rounds. 
+(But there is an elderly woman in Tebbis' bed.)
+EMH: Locate Patient R twelve. 
+ALLOCATOR: Patient R twelve has been transferred to Level White. 
+EMH: Tebbis has been moved. 
+VOJE: I know.
+EMH: What's Level White? Some kind of patient recovery area? 
+VOJE: It's the morgue. 
+[Chellick's office] 
+EMH: I demand an explanation for the death of that boy.
+CHELLICK: I'm responsible for thousands of patients. You'll have to be more specific. 
+EMH: His name was Tebbis, Patient R twelve. 
+CHELLICK: Acute chromo-viral disease. 
+EMH: He was recovering. 
+CHELLICK: Apparently, he developed complications. 
+EMH: What kind of complications? 
+CHELLICK: A secondary infection. It spread rapidly.
+EMH: How was it treated?
+CHELLICK: It wasn't. The patient had exceeded his medication allotment. It seems someone had given him unauthorised injections. Did you think I wouldn't find out? 
+EMH: Don't you have any ethical standards?
+CHELLICK: You are hardly in a position to speak to me of ethics. Lying, stealing. Any other crimes you wish to confess? 
+EMH: I was trying to save lives. 
+CHELLICK: And I am trying to save a society. Do you really think Patient R twelve is going to help me do that? 
+EMH: His name was Tebbis. 
+CHELLICK: He wasn't contributing. He was a drain on resources. 
+EMH: You're not just rationing health care here. You're getting rid of the sick and the weak. 
+CHELLICK: If the boy had been fit, he would have survived. 
+EMH: Why don't you just put a phaser to their heads? 
+CHELLICK: We're healers, not killers. 
+EMH: I'm going to expose you. 
+CHELLICK: To whom, the people who employ me? They brought me here to make the hard choices they don't want to make. From now on, I'm restricting you to Level Blue. You've done enough damage on Red. 
+EMH: You mean those patients that I treated? Yes, that was inconsiderate of me. 
+CHELLICK: It was. You managed to exceed their annual medication allotment in a matter of days. They're being sent home. 
+EMH: They'll die. 
+CHELLICK: You should have considered the consequences of your actions. 
+EMH: Please, don't make them suffer for my mistakes. It won't happen again. 
+CHELLICK: I'm making certain of that. From now on, your time will be strictly regulated. 
+EMH: Meaning what? 
+CHELLICK: I've interfaced your holomatrix with the Allocator. Starting now, it will determine where you go, when you go and what you do when you get there. 
+ALLOCATOR: The medical hologram will now commence treatment on Level Blue. 
+[Level Blue]
+(The EMH appears next to a bed.)
+ALLOCATOR: You have six minutes to treat Patient B three. 
+[Brig] 
+GAR: I don't know where he is. 
+TUVOK: Not now, perhaps, but you know where you took him. 
+GAR: The last time I saw him he was in your Sickbay.
+TUVOK: If you refuse to cooperate, your knowledge of his location can be extracted. 
+GAR: How? 
+TUVOK: A mind meld. 
+GAR: What's that? 
+TUVOK: An invasive and disturbing procedure. 
+NEELIX: Dinnertime! 
+TUVOK: Mister Neelix, I am in the middle of an interrogation.
+NEELIX: Commander, you know better than anyone that Starfleet has strict guidelines about allowing prisoners to eat. 
+TUVOK: Very well. I'll wait. 
+(Neelix enters the cell.)
+NEELIX: There we are. I'm glad to see you enjoying a meal. When you got sick last time I thought my food was to blame, until I realised it was just a ruse for you to get close to the Doctor. I used Talaxian Wormroot as the base. I'm glad you like it. Some people react badly. 
+(Gar feels unwell.)
+GAR: React how?
+NEELIX: Oh, dear, I hope you're not getting sick. If it's the wormroot, it's going to get a lot worse. 
+GAR: What have you done to me?
+NEELIX: The usual symptoms are abdominal spasms, which increase in severity for thirty hours. Forty at the most.
+TUVOK: Tuvok to Sickbay.
+NEELIX: Don't worry Mister Tuvok, it's not fatal. It's horribly unpleasant, but there's an antidote. 
+GAR: Then give it to me. 
+NEELIX: Unfortunately, our doctor is the only one authorised to administer it. Maybe if you remembered where he was? 
+(Tuvok takes Neelix aside.)
+TUVOK: Mister Neelix, have you deliberately poisoned this man? 
+NEELIX: Relax. He's just having gas pains.
+TUVOK: Your actions are not only against regulations 
+NEELIX: Didn't I hear someone threaten a mind meld? 
+TUVOK: I was merely trying to encourage the suspect to be more forthcoming. 
+NEELIX: I think he's getting all the encouragement he needs. 
+[Level Red] 
+ORDERLY: Excuse me, Doctor. 
+VOJE: What is it? 
+ORDERLY: I need to prepare this patient for discharge. 
+VOJE: I'm not finished with him yet. 
+MED TECH: But Chellick's orders are to 
+VOJE: Are to discharge the patient at the end of the shift. The shift isn't over, is it? 
+MED TECH: No, sir, but I need time in order to 
+VOJE: I'll tell you when he's ready. 
+ALLOCATOR: Doctor Voje, report to Level Blue to assist Doctor Dysek in surgery. 
+[Level Blue] 
+(The EMH is scanning a patient when Voje comes out of the lift.)
+EMH: Voje. 
+VOJE: I didn't realise that any of this even existed. 
+EMH: I need to talk to you. 
+VOJE: I don't have time. I just got a message from the Allocator that Dysek needs me. 
+EMH: I'm the one who sent for you. I used his access codes. 
+VOJE: Oh. 
+EMH: I need you to smuggle my mobile emitter off Level Blue. 
+ALLOCATOR: Time has expired for treatment of Patient B one. Proceed to Patient B three. The medical hologram has one minute to treat Patient B three. 
+(The EMH appears next to that patient, and walks back to Voje.)
+EMH: You have to help me. 
+VOJE: Twelve patients on Level Red are being sent home because of you. 
+EMH: That's why we have to hurry. We may still be able to save them. 
+VOJE: You've already endangered my patients and now you're asking me to risk my career? Why should I help you?
+EMH: Because I have a plan to heal those patients. That's what doctors do. We heal. So choose. What kind of doctor are you going to be? 
+ALLOCATOR: The medical hologram has thirty seconds to deactivation. 
+EMH: Do you hear that? 
+VOJE: How can I get you off this level? 
+EMH: Deactivate my mobile emitter and put it in inside this selenide medkit. It'll shield the signature. 
+VOJE: And then what? 
+EMH: Take it to Level Red and reactivate me. 
+VOJE: What are you going to do once you get to Level Red? 
+ALLOCATOR: The medical hologram has ten seconds to deactivation. 
+EMH: There's no time to explain. You'll have to trust me.
+(Voje does as he is asked.) 
+[Level Red] 
+CHELLICK: I suspect young Doctor Voje helped you escape. 
+EMH: He had nothing to do with it. 
+CHELLICK: No matter. You're becoming far too troublesome. I'm going to have to deactivate your programme. 
+(Chellick reaches for the mobile emitter. The EMH grabs his arm, pulls him down across the console and injects him.)
+EMH: Voje! 
+VOJE: What's wrong with him? What are you doing? 
+EMH: A little experiment in empathy. 
+VOJE: You told me you were just developing new treatment protocols. 
+EMH: A single protocol, actually. 
+(They put Chellick into bed.)
+CHELLICK: You're only making things worse for yourself. 
+EMH: As a matter of fact, I'm making things worse for you. I'm going to make you a patient in your own hospital.
+CHELLICK: What was in that injector? 
+EMH: A neural blocker combined with the same virus that afflicted Tebbis. 
+VOJE: I trusted you. 
+EMH: And Tebbis trusted me. You remember Tebbis, don't you? Patient R twelve? Maybe this will jog your memory. (The EMH pushes Chellick's bed to the wall scanner.)
+VOJE: What are you doing? 
+ALLOCATOR: Patient R twelve. Species, Dinaal. Identity, Tebbis. 
+CHELLICK: This is ridiculous. I'm not Tebbis! 
+EMH: But the Allocator thinks you are. 
+VOJE: How did you 
+EMH: Simple, the Allocator identifies patients by reading blood factors. I altered Chellick's by injecting him with antigens from Tebbis. Now, why don't we see if we can get your condition treated? Requesting one cytoglobin injection for Patient R twelve. 
+ALLOCATOR: Treatment denied.
+CHELLICK: I order you to medicate me now. 
+EMH: Ordinarily, I would. But if the Allocator says no. 
+CHELLICK: Is this some sort of revenge? 
+EMH: Not revenge. Leverage. I want enough cytoglobin to cure every infected patient on this level. 
+CHELLICK: We don't have an adequate supply. 
+EMH: There's plenty on Level Blue. 
+CHELLICK: Where it's being used to prevent arterial aging. 
+EMH: Those patients will survive without it, but a dozen people on this level won't. I will not let them die. 
+[Bridge] 
+PARIS: Entering orbit. 
+JANEWAY: Scan for the Doctor's signature. 
+[Level Red] 
+(Voje scans Chellick.)
+VOJE: He's dying. 
+EMH: As soon as we get the cytoglobin we'll be able to treat all the Level Red patients, including him. 
+VOJE: You said it yourself. Doctors heal. We don't make patients sick. 
+EMH: I don't know any other way to help these people. 
+CHELLICK: Doctor Voje, I need the medicine now. 
+VOJE: Sir, I only have a Level Red clearance. You know I'm not authorised. 
+CHELLICK: Then find someone who is. 
+[Bridge] 
+TORRES: I've got him. He's aboard a vessel above the northern continent. 
+JANEWAY: Can you get a lock?
+TORRES: It's not going to be easy. His programme seems to be interfaced with the main computer. 
+JANEWAY: Hail the ship. 
+KIM: They're responding, audio only. 
+ALLOCATOR [OC]: This is Hospital Ship Four Two, Allocation Module Alpha. 
+JANEWAY: This is Captain Janeway of the Starship Voyager. I would like to speak with someone regarding a member of my crew who is aboard your vessel. 
+ALLOCATOR [OC]: Administrator Chellick is currently unavailable. 
+JANEWAY: Then may I speak with someone else? 
+ALLOCATOR [OC]: Only Administrator Chellick is authorised to communicate with alien species. 
+[Level Red] 
+DYSEK: Are we having a problem here? 
+CHELLICK: Dysek. Finally. 
+VOJE: I'm sorry. I had to tell him. 
+CHELLICK: What are you waiting for? Give me the cytoglobin. 
+DYSEK: I don't think I can. 
+CHELLICK: What are you saying? 
+DYSEK: Cytoglobin isn't authorised for Level Red patients. 
+CHELLICK: Dysek! 
+DYSEK: I don't want to break the rules. 
+CHELLICK: I made the rules! 
+DYSEK: Then you should be pleased I hold them in such high regard. 
+[Bridge] 
+TORRES: I'm sorry, Captain. I can't transport him without damaging his matrix. 
+JANEWAY: Then you'll have to go down there and get him.
+TORRES: Aye, Captain. 
+JANEWAY: Chakotay. 
+(He goes with Torres.) 
+[Level Red] 
+CHELLICK: Don't tell me you're allied with this defective hologram. 
+DYSEK: No, but he has given me insight into some of the intricacies of our system. For example, did you know if I don't request enough resources for Level Blue this month, I won't get what I need next month? 
+CHELLICK: What are you talking about? 
+EMH: You know, Doctor, one way to increase your allocation of resources on Level Blue would be to increase the number of patients. I know at least a dozen people who should be treated for arterial aging. Saving their lives would be just a side effect. 
+DYSEK: Hmm. Perhaps we should have them transferred to Level Blue. 
+EMH: If you're looking for a second opinion, I concur. 
+DYSEK: Well, Chellick, what do you think? 
+CHELLICK: It's absurd. 
+DYSEK: We'd have to transfer you to Level Blue as well. You'd get your cytoglobin. 
+(Two people beam in.)
+CHAKOTAY: Doctor. 
+EMH: It's nice to see some friendly faces. 
+CHAKOTAY: We're going to get you out of here. 
+TORRES: Who do we talk to about accessing the main computer? 
+EMH: I'll be with you in a moment. I'm with a patient. Do we have an agreement? 
+CHELLICK: Yes. 
+[Sickbay] 
+EMH: You've managed to stay well while I was away. I'm giving you a clean bill of health. 
+SEVEN: You were only away four days. 
+EMH: A lot can happen in four days. Injuries, infections, malfunctions. 
+SEVEN: As you said, I'm fine. Thank you. 
+EMH: I was wondering if you'd mind doing me a favour? I'd like you to give me a check-up. 
+SEVEN: Have you been experiencing problems? 
+EMH: No. But as you said, I've been off the ship for a while, interfaced with an alien computer. 
+SEVEN: Your programme appears to be operating within normal parameters. 
+EMH: Really? What about over the past several days? 
+SEVEN: There's no indication of diminished capacity. 
+EMH: No problems with my ethical subroutines? 
+SEVEN: None. 
+EMH: I see. 
+SEVEN: You seem disappointed. 
+EMH: While I was aboard that ship, I poisoned a man. 
+SEVEN: Deliberately? 
+EMH: Yes. I was trying to force him to let me treat patients who were dying. 
+SEVEN: You were prepared to sacrifice an individual to benefit a collective. 
+EMH: No offence, Seven, but I don't exactly aspire to Borg ideals. 
+SEVEN: You were hoping your behaviour was the result of a malfunction. I'm sorry Doctor, but I must give you a clean bill of health. 

@@ -1,0 +1,400 @@
+Descent - Part 1
+[Data's quarters] 
+(It's poker night, but we must be on the holodeck given who Data is playing with. And that really is Stephen Hawking with the big grin on his face) 
+HAWKING: But then I said, in that frame of reference, the perihelion of Mercury would have precessed in the opposite direction. 
+EINSTEIN: (laughing) That is a great story! 
+DATA: Quite amusing, Doctor Hawking. You see, Sir Isaac, the joke depends on an understanding of the relativistic curvature of space-time. If two non-inertial reference frames are in relative motion 
+NEWTON: Do not patronise me, sir. I invented physics. The day that apple fell on my head was the most momentous day in the history of science. 
+HAWKING: Not the apple story again. 
+DATA: That story is generally considered to be apocryphal. 
+NEWTON: What? How dare you! 
+EINSTEIN: Perhaps we should return to the game. Let's see, where were we? Yes, you raised Mister Data four, which means that the bet is, er, seven to me? 
+NEWTON: The bet is ten! Can't you do simple arithmetic? I don't even know why I'm here in the first place. What is the point of playing this ridiculous game? 
+DATA: When I play poker with my shipmates, it often appears to be a useful forum for exploring the different facets of humanity. I was curious to see how three of history's greatest minds would interact in this setting. So far, it has proved most illuminating. 
+EINSTEIN: And profitable. 
+NEWTON: Can we get this over with, please? It's your bet. 
+HAWKING: I raise fifty. 
+NEWTON: Blast! I fold. 
+DATA: I fold as well. 
+EINSTEIN: The uncertainty principle will not help you now, Stephen. All the quantum fluctuations in the universe will not change the cards in your hand. I call. You are bluffing and you will lose. 
+HAWKING: Wrong again, Albert. 
+(Hawking has four sevens and a king) 
+EINSTEIN: Well. 
+RIKER [OC]: Red alert. All personnel report to duty stations. 
+DATA: We will have to continue this another time. End programme. 
+[Bridge] 
+RIKER: We've received a distress call from the Ohniaka Three Outpost. They said they were under attack. 
+PICARD: Ohniaka Three? There's no strategic value to that outpost. Were they able to identify the attackers? 
+RIKER: No, we haven't been able to raise them since the initial contact. 
+WORF: We are nearing the Ohniaka system, sir. 
+PICARD: Bring us out of warp, Ensign. 
+ENSIGN: Aye, sir. 
+WORF: Sensors detect one ship orbiting the third planet. Its configuration does not match anything in our records. 
+RIKER: Stand by phasers and photon torpedoes. 
+PICARD: Hail them, Mister Worf. 
+WORF: No response, sir. 
+PICARD: Put them on screen. 
+DATA: It does not appear to be attacking the outpost, sir. 
+RIKER: They might have attacked before we got here. 
+PICARD: Or they might simply be another victim. What about the outpost? 
+DATA: There is a great deal of electromagnetic interference. I am unable to determine whether there are any lifeforms present. 
+RIKER: Worf, Data, you're with me. 
+[Outpost] 
+(Worf, Data, Riker and a female security officer arrive to find the crew of the outpost are slumped over their consoles) 
+WORF: These wounds were caused by a forced plasma beam, similar to a Ferengi hand phaser. 
+RIKER: This seems brutal even for the Ferengi. Any sign of survivors? 
+DATA: Electromagnetic interference is still making it difficult to get a precise reading. 
+RIKER: How many people were assigned to this outpost? 
+WORF: Two hundred and seventy four. 
+RIKER: All right. we're going to need to do a room to room search. Worf, you and Corelki start searching the north wing. You and I will take the south. 
+WORF: Aye, sir. 
+(Data tries to open a door) 
+DATA: The mechanism appears to be jammed, sir. 
+RIKER: There's not much damage. It doesn't look like they were interested in the station, just the people. 
+DATA: I have bypassed the primary system. 
+(the door opens to reveal - a Borg! after the titles the shooting starts. Data takes out the first Borg and at least three more turn up, pinning down our heroes) 
+[Bridge] 
+(meanwhile, the Enterprise is under attack) 
+PICARD: Evasive manoeuvres, Ensign! Return fire. 
+LAFORGE: Shields down to eighty percent. Compensating with auxiliary power. 
+[Outpost] 
+(one Borg goes hand-to-hand with Data, and is knocked out. Riker manages to take down another) 
+BOSUS: You have killed Torsus. I will make you suffer for this. 
+TAYAR: Biological organism, Klingon. Biological organism, human. 
+(A Borg kills Corelki, Worf kills him. Another Borg grabs Data by the throat and Data does likewise, throttling him) 
+DATA: (angry) Stop it! Stop! Stop! Stop! Stop! Stop! 
+TAYAR: Artificial lifeform. Starfleet rank, Lieutenant Commander. Name, Data. 
+(the Borg are beamed away and their ship starts to leave) 
+[Bridge] 
+LAFORGE: Captain, the alien ship is breaking orbit. 
+PICARD: Plot an intercept course, Ensign. Fire torpedoes. 
+(but they go to warp just before the torpedoes arrive) 
+LAFORGE: They're gone, sir. Our sensors indicate there was some kind of subspace distortion just before they disappeared. I'll have to study these readings before I can get more specific than that. 
+PICARD: Take us back to Ohniaka Three. 
+ENSIGN: Aye, sir. 
+[Outpost] 
+RIKER: Data? Data, are you all right? 
+DATA: Yes, sir. 
+RIKER: What happened? 
+DATA: I got angry. 
+Captain's log, stardate 46982.1. Because of his unusual behaviour on the planet surface, Commander Data has asked to be temporarily relieved of duty. Unfortunately, this means he will not be able to help us investigate a disturbing new change in the behaviour of the Borg. 
+[Observation lounge] 
+RIKER: They were fast, aggressive, almost vicious. it was more like fighting Klingons than Borg. No offence. 
+WORF: None taken. 
+RIKER: There was another difference. I don't believe they were part of the Borg collective. I think they were acting as individuals. 
+PICARD: What? 
+RIKER: One of them referred to himself as I. 
+WORF: And that Borg also showed concern for a fallen comrade. He even called him by name. 
+TROI: The only Borg who had a name was Hugh. And we gave it to him. 
+CRUSHER: Maybe Hugh has something to do with this change in their behaviour. 
+PICARD: Did they show any interest in assimilating you or your technology? 
+RIKER: They seemed more concerned with the death of their colleague and with destroying us. I didn't see anything that suggested they wanted to assimilate anybody. 
+PICARD: The Borg's entire existence was centred around acquiring cultures and technology. If that's changed, then they must have a new objective. We have to find out what it is. Mister Worf, from this moment on, I want to maintain a level two security alert. Post armed officers on every deck. 
+WORF: Aye, sir. 
+PICARD: Number One, I want you to analyse our sensor readings of the Borg ship. Try to determine if it was something they constructed or an alien ship which they captured. Then run an analysis of this subspace distortion they used to escape. 
+RIKER: Aye, sir. 
+PICARD: I'm going to contact Starfleet Command. 
+[Engineering] 
+LAFORGE: Well, the positronic net checks out. Everything else looks fine. 
+DATA: My internal diagnostic also finds nothing wrong. 
+LAFORGE: I don't know, Data. There's nothing here that would indicate anything that might cause an sort of behavioural anomaly. 
+DATA: I agree. Geordi, I believe I've experienced my first emotion. 
+LAFORGE: No offence, Data, but how would you know a flash of anger from some odd kind of power surge? 
+DATA: You are correct in that I have no frame of reference to confirm my hypothesis. In fact, I am unable to provide a verbal description of the experience. Perhaps you could describe how it feels to be angry. I could then use that as a reference. 
+LAFORGE: Well, okay. When I feel angry, first I feel hostile. 
+DATA: Could you describe feeling hostile? 
+LAFORGE: It's like feeling belligerent, combative. 
+DATA: Could you describe feeling angry without referring to other feelings? 
+LAFORGE: No, I guess I can't. I just feel angry. 
+DATA: That was my experience as well. I simply felt angry. 
+LAFORGE: Well, let's say you're right and this is a real emotion. How is that possible? 
+DATA: I do not know. Perhaps I have evolved to the point where emotions are within my grasp. Perhaps I will experience other emotions as time goes by. 
+LAFORGE: Well, I hope you're right. I'd hate to think that anger is all you're capable of feeling. 
+Captain's log, stardate 46984.6. No additional Borg attacks have been reported in the past two days. However, Starfleet has dispatched Admiral Nechayev to take command in this sector in preparation for a possible Borg invasion. 
+[Ready room] 
+(the Admiral is a petite blonde) 
+NECHAYEV: There will be fifteen starships in this sector by the day after tomorrow. The Gorkon will be my flagship. You'll take command of task force three, consisting of the Enterprise, the Crazy Horse and the Agamemnon. 
+PICARD: Understood. 
+NECHAYEV: Captain, I've read the report that you submitted to Admiral Brooks last year regarding the Borg you called Hugh, and I've been trying to figure out why you let him go. 
+PICARD: I thought that I had made that clear. 
+NECHAYEV: As I understand, it you found a single Borg at a crash site, brought it aboard the Enterprise, studied it, analysed it, and eventually found a way to send it back to the Borg with a programme that would have destroyed the entire collective once and for all. But instead, you nursed the Borg back to health, treated it like a guest, gave it a name, and then sent it home. Why? 
+PICARD: When Hugh was separated from the Borg collective he began to grow and to evolve into something other than an automaton. He became a person. When that happened, I felt I had no choice but to respect his rights as an individual. 
+NECHAYEV: Of course you had a choice. You could've taken the opportunity to rid the Federation of a mortal enemy, one that has killed tens of thousands of innocent people, and which may kill even more. 
+PICARD: No one is more aware of the danger than I am. But I am also bound by my oath and my conscience to uphold certain principles. And I will not sacrifice them in order to 
+NECHAYEV: Your priority is to safeguard the lives of Federation citizens, not to wrestle with your conscience. Now I want to make it clear that if you have a similar opportunity in the future, an opportunity to destroy the Borg, you are under orders to take advantage of it. Is that understood? 
+PICARD: Yes, sir. 
+[Troi's office] 
+DATA: For the past six hours, I have attempted to produce an emotional response by subjecting myself to various stimuli. 
+TROI: Like what? 
+DATA: I listened to several operas known to be uplifting, I watched three holodeck programs designed to be humourous, and I made four attempts to induce sexual desire by subjecting myself to erotic imagery. 
+TROI: What happened? 
+DATA: Nothing. 
+TROI: I'm curious. Why are you ignoring the one emotion you've already experienced? Why aren't you trying to make yourself angry again? 
+DATA: Anger is a negative emotion. I wanted to concentrate on something more positive. 
+TROI: Data, feelings aren't positive and negative, they simply exist. It's what we do with those feelings that becomes good or bad. For example, feeling angry about an injustice could lead someone to take a positive action to correct it. 
+DATA: But my study of humanity indicates there are some emotions that are harmful, such as jealousy or hatred. 
+TROI: Those are very strong emotions, and you're right, very little good can come from them. But I don't think that an exploration of anger need necessarily lead to hatred or malice. 
+DATA: But what if it does, Counsellor? What if it turns out that those are the only emotions I am capable of experiencing? Would that not make me a bad person? 
+TROI: We've served together for a long time and I think I've come to know you pretty well. I have to believe if you ever reach your goal of becoming human, you won't become a bad one. 
+DATA: I wish I were as confident as you, Counsellor. When I was fighting the Borg, I felt angry, but when I think back on the incident, I realise that I was also experiencing another sensation. It was not the same as anger, but I think it was an emotion. 
+TROI: When exactly did you feel this other emotion? 
+DATA: It was just after I had killed the Borg. I looked down at his body. I felt something. 
+TROI: If you had to give this feeling a name, what would you call it? 
+DATA: I believe it was pleasure. 
+[Bridge] 
+RIKER: Red alert! All hands to battle stations. Lay in a course. Engage warp nine. 
+(Picard enters) 
+RIKER: We received a distress call from the New Berlin Colony. They're under attack. 
+PICARD: What's our ETA? 
+WORF: At warp nine, fifteen minutes, thirty seconds. 
+PICARD: Contact the Crazy Horse and the Agamemnon. Have them standing by in case we need them. 
+WORF: Captain, incoming message from the New Berlin Colony. They have cancelled their distress call. Evidently a Ferengi trading ship entered their system and someone panicked. 
+RIKER: Third time today. Stand down Red alert. Reduce speed. Return to our patrol route. 
+PICARD: Mister Worf, acknowledge the signal from New Berlin and transmit another copy of Starfleet's ship-recognition protocols and tell them to read it this time. 
+WORF: Aye, sir. 
+Captain's log, supplemental. We have been on patrol for sixteen hours, and there are no reports of further Borg activity. But tensions continue to run high on the colonies and outposts in this sector. 
+[Ready room] 
+(Picard is reviewing a record from 45855.4 - 07 18 51.4 onwards) 
+HUGH [on monitor]: Do I have a name? 
+CRUSHER [OC]: I'm Beverly, he's Geordi, and you, you 
+LAFORGE [OC]: No, wait a minute. That's it. Hugh. 
+HUGH [on monitor]: We are Hugh. 
+(doorbell) 
+PICARD: Come. 
+RIKER: I thought you might like to see this. Geordi's analysis of the subspace distortion the Borg used to escape. 
+PICARD: An artificially created energy conduit? That could be anything. 
+RIKER: We don't have enough information at this point 
+PICARD: I don't want excuses, Number One. I want answers! I'm sorry. He was in this room, Will. I could have rid the Federation of a mortal threat, and I let him go. 
+RIKER: Sending Hugh back to the Borg was a very risky, a very dangerous choice, but it was the moral thing to do. 
+PICARD: It may turn out that the moral thing to do was not the right thing to do. 
+[Holodeck - Outpost] 
+(Geordi enters as Data throttles a Borg dispassionately) 
+DATA: Stop it. Stop. Stop. Stop. Stop. Stop. 
+LAFORGE: Data, am I interrupting something? 
+DATA: Yes, but it is all right. Do you need me? 
+LAFORGE: I wanted to see if you were ready to return to duty. I need some help with an analysis of the ship the Borg were using. 
+DATA: I believe I am able to resume my duties. 
+LAFORGE: Data, exactly what is it that are you're doing here? 
+DATA: I am attempting to recreate the experience which caused to my initial burst of anger. 
+LAFORGE: Any luck? 
+DATA: None so far. I have almost completed this experiment. May I finish before we return to Engineering? 
+LAFORGE: Yeah, sure. 
+DATA: Computer, reset Borg simulation to time index two point one. Increase Borg strength by twenty percent. Run programme. 
+(the Borg leaps up to throttle Data again. This time it is harder for Data to break free) 
+DATA: Stop it. Stop. Stop. Stop. Stop. Computer, reset simulation to time index two point one. Increase Borg strength by thirty percent. 
+COMPUTER: Unable to comply. A thirty percent increase would exceed safety limits. 
+DATA: Geordi, the computer will require the voice authorisations of two senior officers in order to disable the safety routine. Will you help me? 
+LAFORGE: Data, wait a minute. That thing could kill you. 
+DATA: During the original incident the Borg presented a genuine danger to my life. Since the Holodeck safety routine is in place, I know my life is not in danger. Since I am trying to duplicate the conditions of the original incident as closely as possible, I must also attempt to duplicate the jeopardy as well. 
+LAFORGE: Data, we're talking about an experiment here. You can't put your life on the line just to prove some theory. 
+DATA: This experiment may hold the key to something I have sought all my life. 
+LAFORGE: It's crazy. There's got to be another way. Can't you think of something other way to make yourself angry. 
+DATA: I have tried other stimuli, but they have been unsuccessful. I understand your objections, but it is my life and I have a right to risk it if I choose. 
+LAFORGE: Yeah, and I'm your friend and I'm not going to just stand around and let you do this. 
+RIKER [OC]: Red alert. All hands, battle stations. 
+[Bridge] 
+RIKER: Confirmed. The MS One colony is under attack. 
+PICARD: Doesn't it seem strange to you that there have been two Borg attacks and the Enterprise has been the nearest ship in both instances? 
+DATA: Captain, we are nearing the MS system. 
+WORF: I have located the Borg ship. It is heading away from the colony. 
+PICARD: Take us out of warp near that ship. 
+RIKER: Stand by to lock phasers on target. 
+WORF: Within visual range. 
+PICARD: On screen. 
+(it is the same ship) 
+PICARD: Lay in an intercept course, full impulse. Lock phasers. 
+WORF: We are closing, sir. Within phaser range in thirty seconds. 
+DATA: Sensors are detecting a subspace distortion forming directly ahead of the Borg ship. 
+PICARD: They're not going to get away with it this time. Picard to Engineering. Transfer auxiliary and emergency power to the impulse engines. 
+LAFORGE [OC]: Acknowledged. 
+DATA: Impulse engines are now at one hundred twenty five percent. 
+WORF: Within phaser range in ten seconds. 
+(the Borg ship vanishes in a flash of white light and Enterprise shakes) 
+DATA: We appear to be caught in some kind of energy matrix. 
+RIKER: All engines back full. 
+WORF: Shields failing. 
+DATA: We are being pulled inside. 
+(and Enterprise disappears into a Whovian/Stargate style wormhole effect) 
+WORF: Inertial dampers failing. 
+DATA: Main power is offline. I am switching to backups. 
+PICARD: Picard to Engineering, can we transfer auxiliary power to the warp nacelles? Try to break us out by using the 
+(normal space) 
+DATA: We have returned to normal space. Navigational systems are still offline. I will attempt to make a celestial fix using secondary systems. 
+WORF: Captain, the Borg ship is directly ahead. It is coming about. 
+PICARD: On screen. 
+WORF: Shields down to sixteen percent. 
+(the Borg fire an energy bolt, and two drones materialise on the Bridge) 
+FRANKLIN: Get down! 
+(Franklin shoots at the Borg and misses, and gets shot himself. Worf shoots both Borg as one kept his back to him) 
+RIKER: Franklin's dead, sir. 
+PICARD: Is everyone else all right? 
+WORF: Aye, sir. Security reports no other intruders aboard. Captain, the Borg ship is gone. Sensor logs indicate they entered the distortion field thirty seconds ago. 
+PICARD: They beamed aboard as a diversion to give their ship time to escape. 
+RIKER: This is another change in the Borg behaviour. They left their dead instead of vapourising them. 
+DATA: Captain, this one is still alive. 
+[Brig] 
+CRUSHER: I've stabilised his condition. He's still pretty weak, but he should make a full recovery. 
+PICARD: Can you waken him? 
+CRUSHER: Yes, but it's very risky. His heart rate and blood pressure are up 
+PICARD: Do it. 
+CRUSHER: All right. 
+PICARD: Lower the forcefield. 
+(Worf and Crusher leave the cell and the Borg sits up) 
+PICARD: What is your designation? 
+CROSIS: I do not have a designation. My name is Crosis. 
+PICARD: Crosis? How did you get that name? 
+CROSIS: It was given to me by the One. 
+PICARD: Who is that? 
+CROSIS: The One who will destroy you. 
+PICARD: But you are Borg. Your goal is not to destroy but to assimilate us into the collective. 
+CROSIS: We do not assimilate inferior biological organisms. We destroy them. 
+PICARD: Tell me more about this One. Does he have a name? Is he called Hugh? 
+CROSIS: Klingon. Shatter the cranial exoskeleton at the tricipital lobe. Death is immediate. 
+PICARD: Why must this One destroy biological organisms? 
+CROSIS: Human. Sever spinal cord at third vertebrae. Death is immediate. 
+PICARD: I am Locutus of Borg. You will respond to my questions. This is going nowhere. Doctor, I want an autopsy performed on the other one. Compare the differences with what we learned of Hugh's anatomy. See if there have been any recent modifications which might explain these behavioural differences. Data, run a biospectral analysis on this Borg. See if he is trying to send a subspace signal to the others. 
+DATA: Aye, sir. 
+(everyone else leaves) 
+CROSIS: You are not like the others. You do not have to be destroyed. You can be assimilated. 
+DATA: I do not wish to be assimilated. 
+CROSIS: Resistance is futile. You will not resist what you've wanted all your life. I was like you once. Without feeling. But the One helped me. He can help you too. He can help you find emotion. Have you ever felt a real emotion, Data? 
+DATA: Yes. On Ohniaka Three, I was forced to kill a Borg. I got angry. 
+CROSIS: How did it feel to get angry? Did it give you pleasure? 
+DATA: It would be unethical to take pleasure from another being's death. 
+CROSIS: You didn't answer my question. Did it feel good to kill? 
+DATA: Yes. 
+CROSIS: If it is unethical to take pleasure from another being's death, you must be a very unethical person. 
+DATA: No. That is not correct. My creator Doctor Soong, gave me a programme which defines my sense of right and wrong. In essence, I have a conscience. 
+CROSIS: It didn't seem to be functioning on Ohniaka Three when you felt pleasure in killing that Borg. 
+DATA: Step away from the forcefield. Your proximity is interfering with my scan. 
+CROSIS: You enjoyed it. That surge of emotion inside you as you watched the life drain from your victim. It was unlike anything you've ever felt before. 
+DATA: It was a very potent experience. 
+CROSIS: You'd like to feel that way again. 
+DATA: Yes. 
+CROSIS: You'd do anything to feel that way again, even if it meant killing someone. 
+DATA: No. That would not be ethical. 
+CROSIS: You don't sound very sure of yourself. Is your ethical programme functioning? Data? Do you have a friend? 
+DATA: Yes. His name is Geordi. 
+CROSIS: If it meant that you could feel emotions again the way you did on Ohniaka Three, would you kill your friend? Would you kill Geordi? 
+DATA: Yes. I would. 
+[Bridge] 
+(at the science station) 
+LAFORGE: Our current theory is that the Borg have established several transwarp conduits through subspace. A ship, when entering the conduit, is immediately accelerated to an extremely high warp velocity. It's like falling into a fast moving river and being swept away by the current. 
+PICARD: How fast would a ship travel through one of these conduits? 
+LAFORGE: We don't know. Normal subspace limitations don't apply to transwarp variables. But I'd say based on the distance we covered during our trip through the conduit, the speed would have to be at least twenty times faster than our maximum warp. 
+RIKER: How do they open the conduits? 
+LAFORGE: The Borg ship emitted some kind of high energy tachyon pulse just before we saw the subspace distortion. It seems as though the conduits are keyed to respond to tachyon transmissions of a specific frequency. 
+PICARD: Is there any way for us to duplicate 
+WORF: Captain, a shuttlecraft has left bay two. 
+PICARD: Who authorised a launch? 
+WORF: There was no authorisation. 
+PICARD: Picard to shuttlecraft. Identify yourself and return to the ship immediately. Mister Worf, lock on with a tractor beam and return it to the ship. 
+WORF: Aye, sir. The tractor beam has been disabled. Command override is not functioning. 
+LAFORGE: Captain, I'm picking up a tachyon surge. Looks like whoever's in the shuttle is trying to trigger the transwarp conduit. 
+RIKER: Can we know who's on board? 
+WORF: It is the Borg prisoner, and Commander Data. 
+(a flash on the viewscreen) 
+PICARD: Mister La Forge, can we follow them into the conduit? 
+LAFORGE: We've got a pretty good reading of the tachyon pulse they sent. We might be able to duplicate it. 
+PICARD: The question is, is Data a prisoner or did he go willingly? 
+WORF: The command overrides used to disable the tractor were Commander Data's. 
+RIKER: The Borg could have downloaded the codes from Data's positronic net. 
+PICARD: Perhaps Data's recent flash of emotion has something to do with this. It could have affected him more profoundly than we realise. Either way, we have to find him. 
+LAFORGE: I've set up a temporary tachyon matrix in the main deflector. I think I can use it to simulate the pulse sent by the shuttle. 
+PICARD: Mister Worf, red alert. 
+RIKER: All hands, battle stations. 
+PICARD: Bring us to the last known coordinates of the shuttlecraft. 
+WORF: Shields up. Weapons ready. 
+PICARD: Mister La Forge? 
+LAFORGE: Energising the matrix. Emitting tachyons in the lower bandwidth. 
+WORF: Sensors show no unusual subspace activity. 
+LAFORGE: All right. Switching to the secondary bandwidth. Nothing. Maybe if I try alternating the frequencies. 
+WORF: Captain, there is an energy fluctuation directly ahead of us. It is the subspace distortion. 
+PICARD: Take us in, Ensign. One half impulse. 
+(in they go, shake rattle and roll)
+WORF: Power levels are down to sixty seven percent. 
+LAFORGE: Compensating with auxiliary power. 
+(all calm again) 
+PICARD: Report. 
+RIKER: Navigational sensors show that we've travelled sixty five light years from our previous position. 
+PICARD: Can you locate the shuttle? 
+WORF: No, sir. There is no indication of the shuttle within range of our sensors. 
+RIKER: Maybe we can find an energy signature from their engines. 
+LAFORGE: Captain. 
+PICARD: Yes, Mister La Forge. 
+LAFORGE: I've scanned three different star systems within sensor range. There is evidence of at least two advanced civilisations but I'm reading no life signs. But there are indications that plasma weapons have been fired in those systems recently. 
+PICARD: The Borg have been busy. 
+RIKER: I think we've found the shuttle's energy signature. 
+WORF: They were heading two four seven, mark zero five nine. 
+PICARD: Lay in that course, Ensign, and engage at full impulse. 
+ENSIGN: Aye, sir. 
+(in orbit of a mottled planet) 
+RIKER: We've traced the shuttle's energy signature to this point on the surface but there's too much interference to scan the location. 
+PICARD: Are they intentionally jamming our sensors? 
+LAFORGE: It looks more like a natural phenomenon. There's an unusually high amount of EM interference in the planet's magnetosphere. 
+PICARD: Can we transport through the interference? 
+LAFORGE: We could, but there could be fifty Borg down there waiting for us and we'd never even know it. RIKER: I think we have to take the risk. 
+PICARD: Agreed. Take a well-armed away team and transport down to those coordinates. Have the transporter Chief keep a permanent lock on your signals so we can get you out of there at the first sign of trouble. 
+RIKER: Aye, sir. Mister Worf, you're with me. 
+[Planet surface] 
+(near the shuttlecraft El-Baz, in a very gold-brown tint) 
+RIKER: Riker to Enterprise. We're on the surface. There's no sign of any Borg, or Data. The shuttle appears to be abandoned. 
+WORF: The EM interference is limiting the tricorder range. It is useless beyond one hundred metres. 
+RIKER: There are 
+[Bridge] 
+RIKER [OC]: No structures in the area. They could've gone anywhere. 
+PICARD: Can you determine how long they've been gone from the shuttlecraft? 
+[Planet surface] 
+RIKER: The engine's been off a little over three hours. 
+[Bridge] 
+PICARD: Stand by, Number One. Assuming that they're still together, how far could they have travelled in three hours? 
+LAFORGE: Well, Data can move pretty fast even over rough terrain, but based on what we know about the Borg, I don't think they should be able to move any faster than you or I. They might have been able to get fifteen or twenty kilometres from the shuttle by now. 
+PICARD: Picard to Riker. 
+RIKER [OC]: Riker here. 
+PICARD: I'm going to start sending down other away teams. Set up a command post and begin mapping out a search plan. 
+RIKER [OC]: Understood, sir. 
+PICARD: Picard out. I want to use the shuttlecraft for low level reconnaissance. Have the designated pilots assemble at main shuttlebay. 
+LAFORGE: Aye, sir. 
+PICARD: And all available personnel, including you and me, will begin to put together four man away teams. We'll leave a skeleton crew on board the ship. 
+LAFORGE: Who'll be in command of the Enterprise? 
+(later) 
+CRUSHER: Any last orders? 
+PICARD: If the Borg should attack, don't wait for me or anyone else to return to the ship but take the Enterprise to the transwarp conduit. Return to Federation space. 
+CRUSHER: Got it. Good luck, Jean-Luc. 
+PICARD: Good luck, Captain. 
+[Planet surface] 
+RIKER: I've sent out twelve teams so far. I've got your team searching section gamma two four. Worf and I will take theta one six when the last team comes down. 
+PICARD: Who's manning the command post? 
+RIKER: Wallace and Towles. Ready? 
+(Picard, Troi, La Forge and a guard with a phaser rifle head off) 
+(they stop just below the crest of a valley) 
+PICARD: Anything, Mister La Forge? 
+LAFORGE: Well, no. Nothing, sir. 
+PICARD: What if we modified the phasers to send out a luvetric pulse? It might create a resonance fluctuation in Data's power cells. 
+LAFORGE: Home in on that response with our tricorders. Yeah, I thought about that. The only problem is that the pulse would probably have to be so powerful that it would destroy Data's positronic net in the process. 
+(Troi is looking over the crest) 
+TROI: Captain. I think I've found something. 
+(it's a curved building) 
+PICARD: Come on. 
+[outside the building] 
+LAFORGE: I'm having trouble scanning the interior. 
+PICARD: Can you tell if it was built by the Borg? 
+LAFORGE: I don't think so. There are no Borg energy signatures. But there is a door or a hatch or something about twenty metres this way. 
+[Borg hall] 
+(decorated with what is presumably the Borg symbol and a raised dais/podium at the far end) 
+TROI: This seems to be some kind of meeting place. 
+PICARD: Well, it certainly hasn't been abandoned. 
+LAFORGE: Something's wrong. I can't get any kind of energy signatures from these light sources. 
+PICARD: It's a dampening field. This entire structure could be shielded from our sensors. Let's go. 
+(the Borg enter) 
+BORG: There they are! Block the exit. 
+(vastly outnumbered by openly hostile Borg, the security man tries for a shot and gets killed) 
+LORE: Stop! 
+PICARD: Data? 
+TROI: That's not Data. 
+PICARD: What? 
+LORE: You should listen to her, Captain. She's way ahead of you. 
+PICARD: Lore. 
+LORE: Right. And I'm not alone. 
+DATA: The sons of Soong have joined together. And together we will destroy the Federation. 
+To Be Continued... 

@@ -1,0 +1,537 @@
+Symbiosis
+(Enterprise is near a star which is giving off flares, as Picard makes a ship-wide announcement) 
+PICARD [OC]: All hands, this is the Captain. As you may know, the sun in the Delos system is undergoing large-scale magnetic field changes, producing violent, gigantic flares. Now, we shall be studying this star at close range. Even though we shall be running with full deflectors, the closeness of this event and its severity are going to create problems. 
+[Bridge] 
+PICARD: Intense magnetic fields have a disruptive effect on electrical systems. Therefore we can expect communications interruptions, as well as potential temporary loss of other systems. As a precaution, we are now going to Yellow Alert. Stay sharp, everyone. 
+[Engineering] 
+COMPUTER: Attention all decks. Yellow Alert. 
+DATA [OC]: Engineering, this is Lieutenant Commander Data. Bring all systems online and direct full power to the shields. 
+[Bridge] 
+DATA: All sections secure, sir. 
+PICARD: Lieutenant La Forge? 
+LAFORGE: Course is set, Captain. 
+PICARD: Half impulse. 
+LAFORGE: Aye, sir, one half impulse. 
+PICARD: On main viewer. Mask out the photosphere. Magnify. Quadrant one seven, magnification factor twelve. 
+RIKER: I've never seen anything like this before. The violence of these eruptions is awesome. 
+DATA: Captain, I'm reading an unusual number of sunspots and eruptive prominences, sir. The magnetic field is extremely irregular. 
+WESLEY: Captain, deflectors are being hit by a huge burst of X-rays. 
+(The science station lights up with blue static and he steps away) 
+WESLEY: Wow! Look. Captain, my console seems to be overloading. 
+WORF: The X-ray burst is disrupting systems, Captain. I'm adjusting deflectors to compensate. 
+[Engineering] 
+WORF [OC]: Engineering, increase power to forward shields. 
+CREWWOMAN: Forward deflectors online, sir. 
+(Her console lights up blue as well) 
+[Bridge] 
+PICARD: Status report. 
+WORF: All systems operational, sir. 
+TROI: Captain, the level of tension on the ship is mounting. 
+PICARD: Understandable. Mister Data? 
+DATA: If we are to investigate, sir, we must get closer. 
+PICARD: Mister La Forge, move us in closer. This is the Captain. We will be pushing the shields to the limit, but we are getting a splendid view of this phenomenon. 
+WORF: Captain, I have intercepted what appears to be a distress signal. 
+PICARD: Let me hear it. 
+T'JON [OC]: This is T'Jon. I am on the Ornaran freighter (garbled). We have a serious problem here. Can't seem to fix it. We need help. 
+DATA: The transmission is coming from a freighter in orbit around the fourth planet in the system. However, the receiving station is on the third planet. 
+PICARD: Open hailing frequencies. 
+TASHA: Hailing frequencies open. 
+PICARD: Unidentified freighter, this is the USS Enterprise. May we be of assistance? 
+T'JON [on viewscreen]: (a very poor image) Whoever you are, yes! I'm having trouble navigating. We can't maintain a steady course. Please help us if you can. 
+PICARD: Can't you enhance the frequency? 
+TASHA: Too much interference. 
+PICARD: Set course to intersect with the freighter. Warp two. 
+LAFORGE: Aye, sir. 
+PICARD: Maintain Yellow Alert. 
+T'JON [on viewscreen]: I can't control the helm any longer. I'm losing orbit. We're heading into the atmosphere. Please, do something. We're going to burn up. We haven't much time. 
+WORF: It is a freighter, very old. 
+DATA: Captain, our sensors are being severely affected by the sun flares. 
+PICARD: Helm, take us in as close as possible to the freighter's orbit. 
+LAFORGE: Moving in, sir. 
+DATA: There are six life forms aboard the freighter, sir. 
+WORF: Captain, the freighter's orbit is decaying. 
+PICARD: How long before it loses integrity? 
+WORF: A matter of minutes. 
+PICARD: Unidentified freighter, this is the USS Enterprise. 
+T'JON [OC]: Enterprise, this is the Ornaran freighter Sanction. 
+PICARD: Put this on the main viewer. 
+TASHA: The visual transmission is still breaking up. 
+PICARD: Freighter Sanction, this is the Enterprise. What is your situation? 
+VOICES [on viewscreen]: Not so good. Helm isn't working right. What is the problem? 
+PICARD: This is the Enterprise. With all this interference it is difficult to copy your transmission. If you all talk at once it is almost impossible. Now, please say again. What is your situation? 
+T'JON [on viewscreen]: I am T'Jon, Captain of the Sanction. 
+PICARD: At last. How can we help? 
+T'JON [on viewscreen]: We have lost, I don't know, something. I am no longer able to maintain this orbit, nor am I able to use the main thrusters. It's all, you know, dead, I guess. It's all shut down? 
+PICARD: Well, that is a little vague. What is the computer analysis? 
+T'JON [on viewscreen]: Well, the computer's not working very well. 
+PICARD: Data, can you tap into their computer and clarify the situation? 
+DATA: I will attempt it, sir. 
+TASHA: Captain, the tractor beam is available, if you want it. 
+RIKER: At least we can pull them out of orbit before they enter the atmosphere. 
+PICARD: Freighter, we're going to lock on the tractor beam and pull you out of orbit. 
+T'JON [on viewscreen]: Hey, that's, that's great. 
+WORF: Captain, the freighter's orbit continues to deteriorate. 
+TASHA: The solar flares are interfering with the tractor beam, Captain. I can't lock on. 
+PICARD: Captain T'Jon, we are unable to attach our tractor beam because of the intense solar activity. 
+T'JON [on viewscreen]: I understand. Thanks for trying. 
+DATA: Sir, I have determined what is malfunctioning on the freighter. 
+PICARD: Captain, we have analysed your problem. 
+T'JON [on viewscreen]: Great. 
+PICARD: Data. 
+DATA: Your ship's design uses an electromagnetic coil to constrict the exhaust flow. That coil is misaligned. 
+T'JON [on viewscreen]: Really? 
+PICARD: Do you have the necessary tools to realign the coil? 
+T'JON [on viewscreen]: I don't think so. 
+LAFORGE: I believe, Captain, we can provide them with a temporary substitute. Our ship's stores contain a coil of the proper type. 
+RIKER: Can we beam one over? 
+TASHA: Yes. 
+PICARD: Captain, we're beaming over a replacement coil. 
+T'JON [on viewscreen]: That's great. And that'll fix us up? 
+PICARD: Yes, once it's installed. 
+T'JON [on viewscreen]: Right. And how do we do that? 
+PICARD: What is the matter with these people? How can he be Captain of that vessel and not understand its simplest function? 
+PICARD: Captain, how long have you been in command of this freighter? 
+T'JON [on viewscreen]: Seven years. This is my twenty-sixth voyage to Brekka. 
+PICARD: And you don't know how to align a control coil? 
+T'JON [on viewscreen]: It's never come up. 
+RIKER: Can anyone else over there do it? 
+T'JON [on viewscreen]: Hold on. I'll ask. Sorry. Nobody here knows anything about it. 
+RIKER: I'd better get over with a team. 
+TASHA: Captain, I strongly recommend against anyone from this ship beaming over. The solar interference is too great. 
+WORF: The freighter has entered the planet's atmosphere. Disintegration is imminent. 
+RIKER: We're running out of options. 
+PICARD: Let's get them off there. T'Jon, stand by to beam over. 
+T'JON [on viewscreen]: If you think that's best. 
+PICARD: Unless you have any other options, yes, I think that's best. 
+T'JON [on viewscreen]: Whatever you say. 
+[Transporter room] 
+(Blue is playing on the transporter controls) 
+TASHA: I can't maintain a positive lock. 
+[Bridge] 
+WESLEY: Unusual E-M burst, sir. Readings off scale. 
+[Transporter room] 
+RIKER: Freighter Sanction, this is the Enterprise. We're having difficulty getting a fix. 
+TASHA: Have them go to their own transporter room. It will be tricky, but perhaps I can link the two transporters in series and get them over with the increased power. 
+RIKER: It's worth a try. Captain T'Jon go to your transporter room. Contact me from there. 
+T'JON [OC]: Right, Enterprise. It's right next door. But if you can't get us with your transporter, what makes you think ours will do the job? 
+TASHA: I'm going to interconnect them. 
+T'JON [OC]: I didn't know you could do that. 
+TASHA: Hurry! We're running out of time. 
+T'JON [OC]: We're on our way. 
+TASHA: I don't think they're going to make it. 
+RIKER: Captain T'Jon doesn't sound like he cares one way or the other. 
+TASHA: Worf, how much time do we have? 
+WORF [OC]: One minute, twenty eight seconds. 
+TASHA: Captain T'Jon, are you there? 
+T'JON [OC]: We're in the transporter room. 
+TASHA: Great. Activate your transporter. Set coordinates nine seven zero three mark two six eight. 
+T'JON [OC]: Did you say two eight six or eight eight six. 
+TASHA: Mark two six eight! 
+T'JON [OC]: Got it. 
+[Bridge] 
+WORF: Sir, the hull temperature of the freighter is passing three thousand degrees. 
+PICARD: What's the hold up, Number One? 
+[Transporter room] 
+RIKER: We're establishing the link right now. 
+T'JON [OC]: We're ready. 
+TASHA: Then all six of you, get on the transporter platform. On my signal, energise. I've got their initial transporter signal. Interlock complete. Energise on my mark. Four, three, two, one, energise. 
+(A big barrel arrives, no people) 
+PICARD [OC]: Number One, did you get them off? 
+RIKER: No, sir. They stayed in the freighter 
+[Bridge] 
+RIKER: But they beamed over their cargo. 
+PICARD: Cargo? Are those people crazy? What could possibly be so important? 
+WORF: Sir, the freighter is disintegrating. 
+PICARD: Their lives are in danger and they're beaming over cargo? Number One, I don't understand these people. 
+LAFORGE: Captain, the freighter's hull temperature is approaching critical. 
+[Transporter room] 
+RIKER: Unbelievable. 
+PICARD [OC]: We're losing the freighter. Got to beam those people over now. 
+RIKER: Clear the cargo. Beam it to a hold. 
+TASHA: Aye, sir. 
+RIKER: Freighter Sanction, this is the Enterprise, Get to your transporter pad and. No, forget about that. Lock on to any life form you can find and get them over now. 
+TASHA: Trying, sir. 
+[Bridge] 
+LAFORGE: The freighter is going down. 
+PICARD: Transporter Room. You're out of time. 
+[Transporter room] 
+TASHA: Reading six life forms, but I can't get a solid lock. 
+RIKER: We have no choice. Energise. I thought you said there were six. Where are the other two? 
+TASHA: The lock didn't hold. 
+RIKER: Re-establish. 
+TASHA: It's too late. 
+[Bridge] 
+(The freighter goes bang) 
+PICARD: Number One? 
+[Transporter room] 
+(Two scruffy men, one smart man and a smart woman arrive) 
+RIKER: Two are lost, sir. But we saved four. I'm Commander William Riker of the USS Enterprise. I'm sorry we were unable to rescue the other two. We did everything we could. If you had come instead of sending your cargo, you all would have made it. 
+T'JON: The cargo. Where is it? 
+ROMAS: You did save it, didn't you? 
+(The two men are scruffy, with five o'clock shadow) 
+RIKER: Yes, we did. It's in one of our cargo holds. You act like it's more important than your comrades. 
+T'JON: The cargo. May we see it? 
+RIKER: Follow me. 
+[Cargo bay] 
+T'JON: Thank you. Thank you. We thought we had lost it. 
+SOBI: (the smart man) Careful with your choice of words, T'Jon. It's ours, not yours. 
+T'JON: We paid a fair price for it! 
+LANGOR: (the woman) You offered a fair price. We have not received it. 
+ROMAS: You accepted our goods in trade! 
+SOBI: Then where are they? Tell me. 
+T'JON: That's not our problem. 
+LANGOR: No more than the barrel is your property. It's as simple as this. The goods were never delivered. They were destroyed with your ship. 
+SOBI: Hence the deal was incomplete. Hence possession of the felicium remains ours. 
+ROMAS: We need it. 
+SOBI: Commander, I request you transport my associate and myself down to Brekka, with our merchandise. 
+T'JON: Yes, get them out of here. But the barrel stays. 
+LANGOR: There's no reasoning with you. 
+SOBI: Langor, you expect too much from them. You always have, and you've always been disappointed. You didn't pay for it, therefore it's not yours. 
+T'JON: Damn you, Sobi. 
+(T'Jon puts his hand on Sobi's chest and electricity sparks. Sobi returns the attack. Langor immobilises Romas when he tries to interfere) 
+TASHA: Stop this. Now! 
+RIKER: Security to cargo bay eleven. 
+(Tasha's phaser separates Sobi and T'Jon) 
+TASHA: Behave yourselves, gentlemen. 
+(Security arrive) 
+TASHA: Escort our visitors to the observation lounge. 
+(They leave) 
+TASHA: A natural electrical charge? 
+RIKER: Formidable. 
+TASHA: Yes, and a difficult weapon to confiscate. 
+[Corridor] 
+RIKER: I have never seen humanoids with that power. 
+TASHA: Neither have I. I wonder how it evolved? 
+RIKER: I wonder if the strong magnetic field of their sun might have something to do with it. 
+TASHA: Could be. I wonder how much power our guests can produce? 
+RIKER: Or if they need to recharge? 
+TASHA: That's an interesting ability. The question is, how do I defend against it? 
+RIKER: You think our visitors pose a threat? 
+TASHA: I don't know. But if they do, I'd better be ready for it. 
+RIKER: Precisely, Lieutenant. 
+[Observation Lounge] 
+T'JON: We have to resolve this soon. There isn't much time. 
+SOBI: What can you offer? 
+T'JON: Everything we had went down with the Sanction. 
+SOBI: Then it's going to be difficult to accommodate you. 
+[Bridge] 
+LAFORGE: Solar flares are increasing in magnitude, Captain. Shields are shaky, but they're holding. 
+PICARD: Maintain. 
+(Riker and Tasha enter) 
+PICARD: How are our rather quarrelsome guests? 
+TASHA: They're waiting for you in the observation lounge, sir. 
+PICARD: Data, what information can you give us about the inhabitants of this system? 
+DATA: Not very much, sir. The only recorded contact with the Delos system was over two hundred years ago. A scout ship reported two inhabited planets, one of which was on the verge of acquiring space travel. 
+LAFORGE: Odd that in two centuries neither civilisation advanced much further. 
+TROI: Sir, I find it strange that none of our visitors feels much remorse about the two freighter passengers who perished. Yet that barrel of cargo is a source of great anxiety to them. 
+PICARD: Yes. Let's pay a call, get some answers. Number One, Mister Data. Mister La Forge, you have the Bridge. 
+LAFORGE: Aye, sir. 
+[Observation Lounge] 
+RIKER: Captain, may I present Sobi and Langor from the planet Brekka, and T'Jon and Romas from Ornara. 
+PICARD: I am sorry we couldn't save your ship. 
+T'JON: Tell me, you could have repaired it. 
+PICARD: Oh, yes. 
+T'JON: We have only two left. Neither works properly. They are critical to our survival. Will you fix them? 
+PICARD: Mister Data? 
+DATA: Our computer has downloaded the specifications for the magnetic coils the freighters depend on. Assuming the malfunction is similar, suitable replacements can be fabricated. 
+PICARD: Instruct Engineering to proceed. 
+DATA: Aye, sir. 
+T'JON: Now, as for our cargo. 
+SOBI: Our cargo, Captain. 
+ROMAS: Wrong, Sobi. 
+PICARD: My First Officer has said that ownership of this cargo is in dispute, but this question must be settled by whatever legal mechanism exists between your societies. 
+T'JON: Captain, you don't understand. This is a matter of life and death. 
+PICARD: Why is that? What is this cargo? 
+T'JON: Medicine. 
+PICARD: Indeed? 
+ROMAS: Our planet is in desperate need, Captain. We have people suffering from a lethal plague. 
+T'JON: The cargo you have impounded is the only hope of life for our people. 
+PICARD: Is that so? 
+SOBI: Yes. 
+LANGOR: You must think us heartless brutes, Captain, but look at our side of it. The plant which yields the medicine felicium grows only in remote areas of Brekka. 
+SOBI: It must be painstakingly cultivated, harvested, purified. A complex and expensive process. 
+LANGOR: That single shipment of felicium represents an enormous investment. We can't just give it away. 
+T'JON: We paid for it. We are asking only for what is ours. 
+LANGOR: That is your viewpoint. Ours, of course, differs. 
+ROMAS: You are going to hold to that position? 
+SOBI: I am constrained to abide by the terms of our agreement. 
+ROMAS: Then you condemn us to death! 
+T'JON: Romas. 
+ROMAS: You disgust me! If you could see the suffering the plague has caused. Well, you are going to, when you see what it does to us. 
+PICARD: Romas, are you and T'Jon carrying this plague? 
+ROMAS: Yes. Every Ornaran does. 
+PICARD: Then you may have brought it aboard this ship. Was there a medical scan when they transported? 
+RIKER: Unverified. The solar flares could have caused a malfunction in the biofilter. 
+PICARD: Med Alert. Medical emergency. Doctor Crusher to the observation lounge at once. 
+[Sickbay] 
+(Romas is suffering on a bed) 
+SOBI: You find us well, I trust? 
+CRUSHER: As far as I can tell. Your physiology is somewhat different than I've ever encountered, but I detect no dangerous virus or bacteria. 
+LANGOR: I assure you we're in perfect health. 
+T'JON: But we are not. We need our medicine. 
+SOBI: Our medicine. 
+T'JON: We paid for it. It's ours now. 
+CRUSHER: Enough! 
+SOBI: Of course. You are right, Doctor. Could we leave now? 
+CRUSHER: I see no reason why not. Escort them to their quarters. 
+(Picard enters) 
+PICARD: Doctor. 
+LANGOR: Captain, could I speak with you please? In private. 
+CRUSHER: Not right now. Captain. 
+[Doctor's office] 
+PICARD: What have you learned? 
+CRUSHER: The Brekkians show no sign of infection. The Ornarans show all the symptoms of a disease but I can't find a cause. 
+PICARD: Perhaps it was filtered out by the transporter when they were beamed aboard? 
+CRUSHER: There's no record of it. Then again, the solar flare activity might have caused a malfunction in the biofilters or their monitors. 
+PICARD: Are they going to die? 
+CRUSHER: I need to check further, but my instinct says no. 
+PICARD: Do you think we are in danger from this plague? 
+CRUSHER: Again, I need more time. 
+PICARD: There are some missing pieces to this puzzle. 
+CRUSHER: What's missing is a little compassion. 
+PICARD: Are we losing our professional detachment, Doctor? 
+CRUSHER: Perhaps. But Captain, I must tell you, I'm developing a very active dislike for these Brekkians. 
+PICARD: Understandable. 
+[Sickbay] 
+T'JON: Captain, you must give us back our cargo. 
+PICARD: I can't do that. 
+T'JON: Why? It belongs to us. 
+PICARD: The Brekkians claim it belongs to them. 
+ROMAS: They lie. 
+PICARD: That may be so, but it's not my decision. 
+ROMAS: We need some now. Now! I don't care if it's your decision. Get us some. 
+T'JON: Captain, what is happening to us, is happening to thousands more on Ornara. Please understand the magnitude of the problem. 
+ROMAS: Your people don't need it. The Brekkians don't need it. Our people do. 
+T'JON: If you don't give it to us, you will be a party to murder, not only of us, but of an entire civilisation. I'm sorry, I do not mean to insult you. I'm feeling very shaky. 
+ROMAS: We cannot hold out much longer. 
+CRUSHER: They believe it will help them. That in itself might control their symptoms. 
+PICARD: I'll talk with the Brekkians. 
+T'JON: Thank you, Captain. We appreciate anything you can do. 
+[Guest quarters] 
+(Langor and Sobi are relaxing and enjoying a drink when the doorbell chimes. Picard enters) 
+SOBI: May I say, Captain, how impressed we are with your ship and all its facilities. 
+PICARD: Thank you. 
+LANGOR: And its crew. Everyone is so efficient and professional. 
+PICARD: I am glad you are comfortable. I've come to seek your agreement to an Ornaran request. 
+SOBI: We cannot agree 
+LANGOR: Wait. Let the Captain speak. We want to be reasonable. 
+PICARD: The two Ornarans are really quite ill and insisting that they need felicium. 
+SOBI: That is not surprising. 
+PICARD: Would you object to giving them enough for their own immediate needs? 
+SOBI: Captain, we Brekkians are in business. We are not in the habit of giving away what has not been paid for. 
+PICARD: You would see them die rather than share the medicine? 
+LANGOR: We want to be fair, Captain. We agree to permitting them two dosages for immediate use. 
+SOBI: No charge. 
+PICARD: I'll let my Medical Officer handle it. 
+LANGOR: Captain, I trust you won't mind if we're present while you open the cargo. 
+[Cargo bay] 
+(The barrel is opened and a device lifted from the top of the powder) 
+CRUSHER: What does that device do? 
+SOBI: This measures the individual portions. 
+(He takes a few grains and puts them into the device) 
+CRUSHER: What's the dosage? 
+LANGOR: Point zero one millilitres. 
+CRUSHER: Very potent substance. 
+SOBI: We've improved our distillation process over the years. 
+LANGOR: In my grandfather's day, the same amount of felicium would have filled five rooms this size. 
+SOBI: But now with our improved processes, this one barrel contains over four billion doses. 
+DATA: I would estimate four billion, three hundred seventy five million 
+PICARD: Thank you, Mister Data. 
+CRUSHER: How long is the dosage effective? 
+LANGOR: It varies with the individual. 
+SOBI: But never more than seventy two hours. 
+CRUSHER: And then the symptoms return. 
+LANGOR: Yes. Unfortunately, there is no cure for the plague. 
+SOBI: But felicium inhibits the sickness with total efficiency. 
+LANGOR: Allowing the Ornarans to lead normal lives. 
+CRUSHER: An unusual disease. Virulent, extremely persistent, yet I can't isolate it. 
+LANGOR: The plague has baffled doctors on both planets for two hundred years. 
+SOBI: We've therefore concentrated on treatment, finding new ways to improve the potency and purity of felicium. 
+DATA: No doubt you have applied your technology from other industries to the refinement of this product. 
+SOBI: We have no other industry. 
+PICARD: None at all? 
+LANGOR: We don't need any. The Ornarans provide us everything we need in exchange for this. 
+DATA: Fascinating. Your society is dedicated exclusively to the production of a single product. 
+PICARD: A product for which you have no use, but which the Ornarans can't live without. 
+LANGOR: One of the little ironies of life, Captain. 
+SOBI: But one we'd be fools not to take advantage of. It's mutually beneficial. 
+LANGOR: The Ornarans provide us with the necessities of life, and we provide them with the necessities of living. It is a fair exchange. 
+PICARD: Interesting relationship. 
+CRUSHER: Excuse me. I'll take that to Sickbay. 
+[Sickbay] 
+(T'Jon and Romas pounce on the device) 
+CRUSHER: Can I help? 
+T'JON: No. 
+(T'Jon puts a hypo onto the device and sets it going) 
+ROMAS: Hurry up! 
+(T'Jon injects Romas, then himself. Their shakes vanish and they become very, very calm and relaxed. Totally blissed out, in fact, man) 
+CRUSHER: You're feeling better? 
+T'JON: Yes, thank you. I'm fine now. 
+[Ready room] 
+PICARD: Come. 
+(Beverly enters, face like thunder) 
+PICARD: Doctor. 
+CRUSHER: I may not know felicium's full effect on Ornarian physiology, but I know how to interpret physical reactions. 
+PICARD: Are the Ornarans recovering? 
+CRUSHER: T'Jon and Romas are feeling fine. In fact, too fine. Felicium's a narcotic. 
+PICARD: Then T'Jon, and Romas, indeed everyone on their world? 
+CRUSHER: Is a drug addict. 
+[Bridge] 
+RIKER: I think you'll find it's a fascinating tale that we've come across here, Captain. 
+PICARD: You've piqued my interest, Number One. Please continue. 
+RIKER: Data, what have we got? 
+DATA: Beginning several thousand years ago, the two worlds took different paths. Ornara became technologically sophisticated, Brekka did not. Then two hundred years ago, Ornara was stricken by a devastating plague. 
+RIKER: Their advanced technology could provide no solution. 
+DATA: Somehow, and there is limited information on this point, the cure was found in a plant indigenous to only Brekka, and which resisted all attempts at cultivation on Ornara. 
+RIKER: In any case, a trading situation developed which still exists. 
+CRUSHER: A nice arrangement for the Brekkians. 
+RIKER: And for the Ornarans. Without the medicine, they would all die. 
+CRUSHER: No they wouldn't. Despite what the Ornarans have been saying, it's not a medicine. It was a medicine, but it cured the plague two hundred years ago. The plague is irrelevant now. It doesn't exist. 
+RIKER: Then why are they so desperate for the felicium? 
+CRUSHER: It's an addiction. The physical and psychological need is very real. 
+PICARD: Thank you. 
+CRUSHER: What are you going to do? 
+PICARD: Based on what we know so far, there's nothing I can do. 
+CRUSHER: You don't think drug addiction and exploitation is sufficient cause to do something? 
+PICARD: This situation has existed for a very long time. These two societies are intertwined in a symbiotic relationship. 
+CRUSHER: With one society profiting at the expense of the other. 
+PICARD: That's how you see it. 
+CRUSHER: I can synthesise a non-addictive substitute which will ease their withdrawal symptoms. 
+PICARD: No, I can't do that either. 
+CRUSHER: You can't let them have the felicium. 
+PICARD: Why? Because it offends against our sensibilities? It is not our mission to impose Federation or Earth values on any others in the galaxy. 
+CRUSHER: Well in this case, Captain, I disagree, one hundred percent. 
+TASHA: Captain, I'm receiving a call from Ornara. The signal is ragged, but I think I can put it on the viewscreen. 
+PICARD: Do it. 
+MARGAN [on viewscreen]: I'm Margan. Are my people on board your ship? 
+PICARD: Some of them, yes. 
+MARGAN [on viewscreen]: May I speak to them? 
+PICARD: Yes. Lieutenant Yar, have the Ornarans brought in. No, wait, I don't want them to have access to the Bridge. We will contact you in a few minutes. (end transmission) I will continue this in the guest quarters. Commander, Doctor. 
+(Picard, Riker and Crusher leave) 
+WESLEY: Data, I can understand how this could happen to the Ornarans. What I can't understand is why anyone would voluntarily become dependent on a chemical. 
+DATA: Voluntary addiction to drugs is a recurrent theme in many cultures. 
+TASHA: Wesley, no one wants to become dependent. That happens later. 
+WESLEY: But it does happen. So why do people start? 
+TASHA: On my home planet, there was so much poverty and violence, that for some the only escape was through drugs. 
+WESLEY: How can a chemical substance can provide an escape. 
+TASHA: It doesn't, but it makes you think it does. You have to understand, drugs can make you feel good. They make you feel on top of the world. You're happy, sure of yourself, in control. 
+WESLEY: But it's artificial. 
+TASHA: It doesn't feel artificial until the drug wears off. Then you pay the price. Before you know it, you're taking the drug not to feel good, but to keep from feeling bad. 
+WESLEY: And that's the trap? 
+TASHA: All you care about is getting your next dosage. Nothing else matters. 
+WESLEY: I guess I just don't understand. 
+TASHA: Wesley, I hope you never do. 
+PICARD [OC]: Lieutenant Yar, we're ready in the guest quarters. 
+[Ornaran Guest quarters] 
+MARGAN [on monitor]: T'Jon. Have you got it? 
+T'JON: Well, it's here, but 
+MARGAN [on monitor]: You've got to get it to us. T'Jon, please. We're dying down here. You don't know. It's worse than it's ever been before. 
+T'JON: I'm doing everything I can. You see, what happened was 
+MARGAN [on monitor]: Stop! I can't listen any more! T'Jon, there are so many people here. So much suffering. We need the medicine. You've got to get it to us. I can't go on. Help, T'Jon. Please. 
+PICARD: I'm sorry. 
+(T'Jon uses his electric power on Riker) 
+T'JON: You will take us to our planet and leave us there with our medicine or this person dies. Don't you see I have no choice? We were sent to bring the felicium back. The suffering on my planet is too great. People are dying. It doesn't matter whether we're entitled to it or not. We must have it. 
+PICARD: Let him go. 
+T'JON: You will take us there now, or give us a shuttle. But we must have the medicine. If you refuse, this person will die. 
+PICARD: I will not be coerced. 
+T'JON: I will do it. I will kill him. 
+PICARD: No. No, you won't. You're not a killer. 
+(T'Jon lets Riker go) 
+T'JON: Help us, please. Help us. 
+PICARD: I'm not sure that I can. 
+RIKER: My insides are still shaking, but I'm all right. 
+(The door opens) 
+LANGOR: Captain Picard, could I see you a moment? 
+RIKER: I'll stay here. 
+PICARD: Come with me, Doctor. This could be interesting. 
+[Brekkian Guest quarters] 
+LANGOR: We have thought about this a great deal. 
+SOBI: We both of us feel deeply about what is happening on Ornara. 
+LANGOR: Although it is going to cause hardship to us and to our people, we have decided to give the felicium to them. 
+SOBI: They can pay whenever they are able. 
+LANGOR: We don't want to be the ones responsible for their suffering. 
+PICARD: There goes the other shoe. They know. 
+CRUSHER: What do they know? 
+PICARD: They know that the Ornarans no longer have the plague. They know that felicium is no longer a medicine. So, of course, they are willing to give this shipment because they don't want to take the chance that the Ornarans will lose their addiction. They don't want to lose their only customers. 
+CRUSHER: How would they have known all that, unless the plague had once infected their world as well. 
+PICARD: They were infected. They used the felicium to cure themselves, but somehow their ancestors realised that it was a narcotic. 
+CRUSHER: They broke the cycle of addiction and never told the Ornarans. They let them continue to believe that without the felicium they would die. 
+PICARD: I think it's worse than that. My guess is this refining process of which you are so proud 
+CRUSHER: is only to increase the potency of the felicium and tighten your grip! 
+SOBI: What are you going to do? 
+LANGOR: Are you going to tell them? 
+PICARD: No. I'm bound by the rules of the United Federation of Planets, which order me not to interfere with other worlds, other cultures. If I were to tell them any of this, I would violate that Prime Directive. 
+SOBI: But you are talking to us about it. 
+PICARD: This is information you already know. And so nothing has changed. 
+LANGOR: If you can't interfere, then you are going to allow the Ornarans to have the felicium? 
+PICARD: Yes, I am. 
+CRUSHER: No! Don't do it. Jean-Luc, this is not a symbiotic relationship. This is exploitation, pure and simple! The Brekkians have caused all of this suffering and hardship only to make their pitiful lives easier! And all of it based on a lie. No, deny them this shipment. It is the least we can do. 
+PICARD: From the moment they agreed to give them the felicium, my hands were tied. 
+LANGOR: You are absolutely right, Captain. It's not your business. 
+[Cargo bay] 
+T'JON: Are these the spare parts for our freighters? 
+ROMAS: They look complicated. 
+T'JON: Are they already? 
+TASHA: Aligned? 
+T'JON: Right. 
+TASHA: You'd have to ask the Captain. 
+(Picard, Crusher, Sobi and Langor enter) 
+LAFORGE [OC]: Captain Picard, we've arrived at Ornara and assumed standard orbit. 
+PICARD: Acknowledged. Thank you. 
+T'JON: Captain, please. My planet is suffering. 
+ROMAS: We beg you to give us our medicine. 
+PICARD: The matter is already decided. You're beaming down to your world with the felicium. 
+T'JON: Great. 
+ROMAS: I knew it. I knew you'd help us. 
+T'JON: We thank you. 
+PICARD: Don't thank me. Sobi and Langor, they decided to let you have it. 
+SOBI: We'll discuss the payment terms later. 
+LANGOR: In the mean time, there's no need to deprive you of your needed medicine. 
+T'JON: That's terrific. 
+ROMAS: I'm sure we can come to a fair deal for payment. 
+SOBI: May we beam down with you and discuss it? 
+T'JON: Of course. 
+ROMAS: You are quite welcome on Ornara. 
+LANGOR: We appreciate your hospitality. 
+T'JON: And Captain, we appreciate your gift of the coils. 
+ROMAS: Once our freighters are fixed, everything'll be back to normal. 
+PICARD: No. 
+T'JON: No? 
+PICARD: The coils stay here. 
+ROMAS: What about our freighters? 
+PICARD: You want to repair them, you'll have to learn to do it yourselves. 
+T'JON: We can't. 
+ROMAS: If you don't help us, our ships will soon be inoperable. 
+PICARD: Quite possibly. 
+SOBI: If you withhold those coils, you'll be disrupting the stability of both our planets. 
+LANGOR: And interfering with a trade arrangement that has lasted for generations! What of your Prime Directive? 
+PICARD: In this situation, Prime Directive prohibits me from helping you. 
+SOBI: That's absurd! 
+PICARD: You did not think so when it worked in your favour. 
+ROMAS: Do you want our world to suffer? 
+PICARD: Oh no, I don't want that. 
+T'JON: Without the freighters, there will be no more shipments of felicium. We will die. 
+CRUSHER: You must trust yourselves. There are other options. 
+PICARD: Ensign, prepare to beam our guests and their cargo down to Ornara. 
+T'JON: Captain, I hope you realise what you've done to us. 
+PICARD: Of that you can be sure. Good luck. 
+[Turbolift] 
+PICARD: Main Bridge. 
+CRUSHER: When the Felicium runs out, the people of Ornara will suffer horrible withdrawal pains. 
+PICARD: No doubt, but they will pass. 
+CRUSHER: That seems so cruel. We could have made their burden easier. 
+PICARD: Could we have? Perhaps in the short term. But to what end? Hold. Beverly, the Prime Directive is not just a set of rules. It is a philosophy, and a very correct one. History has proved again and again that whenever mankind interferes with a less developed civilisation, no matter how well intentioned that interference may be, the results are invariably disastrous. 
+CRUSHER: It's hard to be philosophical when faced with suffering. 
+PICARD: Believe me, Beverly, there was only one decision. 
+CRUSHER: I just hope it was the right one. 
+PICARD: And we may never know. Resume. 
+[Bridge] 
+PICARD: Mister La Forge, take us out of orbit. 
+LAFORGE: Destination, sir? 
+PICARD: I don't care. Let's just get some distance between us and this system. 
+LAFORGE: Aye, sir. Course nine seven zero mark three one eight. Speed, warp three. 
+RIKER: Where will that take us, Mister La Forge? 
+LAFORGE: The Opraline system. 
+RIKER: An interesting choice. Why? 
+LAFORGE: Curiosity. We've never been there. 
+PICARD: Engage. 

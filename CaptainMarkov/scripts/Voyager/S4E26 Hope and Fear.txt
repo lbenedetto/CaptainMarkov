@@ -1,0 +1,446 @@
+Hope and Fear
+[Holodeck] 
+(A game of Velocity appears to consist of two players taking turns at shooting phasers at a flying target. It changes colour when a player hits it. Like squash, the target bounces off the walls, too. Janeway runs into the wall and gets knocked down, dropping her phaser. Then she grabs it up again and shoots the target square on.)
+COMPUTER: Full impact. Final round to Janeway. Winner Janeway. 
+JANEWAY: Good game. 
+SEVEN: For you. 
+JANEWAY: Oh, come on, Seven. You won four out of ten rounds. Nothing to be ashamed of. 
+SEVEN: On the contrary. I have superior visual acuity and stamina. I should have won every round. 
+JANEWAY: Well, Velocity is more than a test of stamina. It's a game of wits. 
+SEVEN: You are a frustrating opponent. During the final round, after you dropped your phaser, you did not look at the disk, and yet you were able to acquire the target. 
+JANEWAY: Intuition. 
+SEVEN: Intuition is a human fallacy. The belief that you can predict random events. 
+JANEWAY: Oh, belief had nothing to do with it. At some level, conscious or otherwise, I was aware of several factors. The trajectory of the disk after I hit the wall, the sound it made on its return, and the shadow it cast on the hologrid. 
+SEVEN: Intriguing but implausible. 
+JANEWAY: I won, didn't I? Thanks for the match. 
+SEVEN: I wish to play again. 
+JANEWAY: Not today. 
+SEVEN: You are fatigued and concerned that I will defeat you. 
+JANEWAY: Tired? Yes. Concerned? No. 
+SEVEN: Computer, begin first round. 
+JANEWAY: Belay that command. Seven, try to be a sport. Game's over. 
+Captain's log, stardate 51978.2. It's been five months since we received the encoded message from the Alpha Quadrant. We know that the transmission was from Starfleet Command but we still can't decrypt it. B'Elanna thinks it's a lost cause, that too much of the datastream has been destroyed. But I haven't given up. I keep hoping inspiration will strike, somehow. 
+[Mess hall] 
+(Janeway is working on the decryption.)
+CHAKOTAY: Good morning. 
+JANEWAY: What time is it? 
+CHAKOTAY: Oh five hundred. 
+JANEWAY: Oh. Well then, good morning. 
+CHAKOTAY: I just heard from Tom and Neelix. They're about to leave the trading colony. 
+JANEWAY: Any luck? 
+CHAKOTAY: According to Tom, the shuttle's so loaded down with supplies, he won't make half impulse. Neelix is asking permission to bring one of the locals on board. He's been very helpful, and Neelix wants to repay him by giving him passage to the next system. 
+JANEWAY: Permission granted. 
+CHAKOTAY: You might want to grab some sleep. We've got a big day ahead. 
+JANEWAY: I will in a while. 
+CHAKOTAY: Still hunting for buried treasure? 
+JANEWAY: We've found the treasure, I just can't pick the lock. I've tried over fifty decryption algorithms. Every time I piece together a datablock, ten more come unravelled. What did Starfleet send us? A map? The location of a wormhole? If I could decode this today, Chakotay, we could be home tomorrow. Then again, it could be Admiral Chapman's recipe for the perfect pound cake. I've been pinning our hopes on this message, but I'm starting to wonder. 
+CHAKOTAY: One way or another, we've got to find out. I'll talk to B'Elanna. You could enlist Seven of Nine. 
+JANEWAY: She should have a few Borg algorithms up her sleeve. If she's in the mood. 
+CHAKOTAY: Problems? 
+JANEWAY: I don't know if she's getting restless or if it's just me, but we're butting heads more than usual lately. She seems to challenge everything I say. 
+CHAKOTAY: She's learned a lot from you over the last year. Maybe the pupil thinks she's outgrowing the mentor. 
+JANEWAY: Maybe. Well, this mentor would like another cup of coffee. Will you join me? 
+CHAKOTAY: Love to. 
+[Cargo bay] 
+(The shuttlecraft has returned and is being unloaded.)
+PARIS: This goes to Engineering. Sickbay. Storage. 
+(A crewwoman holds up a jellyfish.)
+CHAKOTAY: I hope that's not going to the mess hall. 
+PARIS: I don't remember what this is. Neelix! 
+NEELIX: Captain, this man is a genius. I was trying to negotiate with a xenon-based lifeform when the Universal Translator went offline. Arturis here stepped in and acted as a perfect go-between, and he'd never heard either of our languages. 
+(Arturis is a bald, slightly large-headed humanoid.)
+ARTURIS: Oh, they were simple. No insult intended. 
+PARIS: Neelix! 
+NEELIX: On my way. If you two will excuse me. 
+JANEWAY: Well, welcome to Voyager. We may be a linguistically simple folk but we're happy to give you a ride. Let's see if we can find you some quarters. 
+ARTURIS: Neelix was right. Voyager is a welcoming place. 
+JANEWAY: Well, we do our best. 
+[Corridor] 
+JANEWAY: I can't say I've ever met a living Universal Translator. 
+ARTURIS: My people have a way with languages. I myself know over four thousand. 
+JANEWAY: And to think I still struggle with basic Klingon. You couldn't have heard Neelix say more than a few phrases. 
+ARTURIS: It was all I needed. It was enough to grasp the grammar and syntax. 
+JANEWAY: Impressive. 
+ARTURIS: Not really. It's a natural ability. Some species are born with great physical prowess. Others, like yours, with a generosity of spirit. My people can see patterns where others see only confusion. Is something wrong? 
+JANEWAY: No. Tell me, how are you at computational languages? Algorithms, trinary syntax? 
+ARTURIS: It's all the same to me. 
+JANEWAY: I was wondering if you might do us another favour. 
+[Astrometrics lab] 
+ARTURIS: You weren't exaggerating, Captain. This datastream is badly damaged. I'd like to see the entire transmission again. Are you Borg? 
+SEVEN: Yes. 
+ARTURIS: You're much more attractive than the average drone. 
+SEVEN: I am no longer part of the Collective. 
+ARTURIS: I see, I see. I think I see the problem. May I? 
+JANEWAY: Please. 
+(Seven allows Arturis to use the console.)
+JANEWAY: Have you encountered his people before? 
+SEVEN: Species one one six. 
+ARTURIS: Is that what you call us? 
+SEVEN: Yes. The Borg has never been able to assimilate them. Not yet. 
+JANEWAY: Seven. 
+ARTURIS: Oh, it's all right, Captain. The Borg Collective is like a force of nature. You don't feel anger toward a storm on the horizon, you just avoid it. Ah. Here it is. It's a simple matter of extracting the iconometric elements, and triaxilating a recursion matrix. 
+JANEWAY: Now why didn't I think of that? 
+ARTURIS: There's a great deal of information here, Captain. I think it might be useful to utilise the other monitors. 
+(They call the message up on the big screen.)
+JANEWAY: You've done it. 
+ARTURIS: Almost. I've reconstructed over sixty eight kiloquads of information, but a lot of it is still garbled. 
+JANEWAY: What about that datablock. Fourteen beta? 
+ARTURIS: That part of the message is too degraded to recover. 
+SEVEN: Captain, I've found a spatial grid. 
+(6-98 381-33 02-77 913-41, I think.)
+JANEWAY: They've marked a set of coordinates. It's less than ten light years from here. 
+SEVEN: Maybe Starfleet wants us to proceed to that location. 
+JANEWAY: Maybe. There's only one way to find out. 
+[Bridge] 
+PARIS: We're approaching the coordinates. 
+JANEWAY: Take us out of warp. Scan the vicinity. 
+TUVOK: I am picking up a vessel. 
+JANEWAY: On screen. 
+CHAKOTAY: Identify. 
+TUVOK: Unless I am mistaken, Captain, the warp signature is Starfleet. 
+(It is a sleek silver Delta wing.)
+PARIS: I'll be damned. They came through. 
+JANEWAY: Tuvok. 
+TUVOK: Hailing them. No response. 
+CHAKOTAY: Lifesigns? 
+SEVEN: There is no organic matter of any kind. 
+KIM: No sign of damage to the outer hull. Primary systems are online including life support. Something must have happened to the crew. 
+JANEWAY: The answer is somewhere in that Starfleet transmission. We need to finish decoding it. May I call on your talents again? 
+ARTURIS: Of course. 
+JANEWAY: Take an away team. Secure the vessel. 
+CHAKOTAY: Tom. Tuvok. 
+ARTURIS: Captain. I won't pretend to know you well, but I am surprised you're not more encouraged by this discovery. 
+JANEWAY: I've learned to walk the line between hope and caution. We've had other opportunities that didn't work out. But I will admit, I'm leaning toward hope this time. 
+[Dauntless Bridge] 
+(The away team beam in to the rear of the bridge. According to the monitors around the walls, this is NX-01A.)
+PARIS: Wow. 
+TUVOK: Wow indeed. 
+CHAKOTAY: I've never seen this kind of hull geometry. Looks like they've taken a whole new approach to starship design. 
+TUVOK: USS Dauntless. Registry NX-01A. Launch Date 51472. 
+CHAKOTAY: Sixty thousand light years in three months? 
+TUVOK: I'm trying to access the crew logs but there are none. 
+PARIS: I don't think there was a crew. This helm was set for auto-navigation to these coordinates. 
+TUVOK: It appears that Starfleet has provided us with a new ship. 
+CHAKOTAY: Let's not pack our bags just yet. I'd like to know how they 
+(Beep!)
+PARIS: I'm reading power fluctuations in the warp core, if you can call it a warp core. I don't recognise this engine configuration. 
+(The ship shakes.)
+CHAKOTAY: Let's go take a look. 
+[Dauntless Engineering] 
+(Instead of a tall warp core there is a hemisphere with a plasma globe inside it.)
+PARIS: I think we've found our engine core. 
+CHAKOTAY: Some kind of new warp drive? 
+PARIS: It's not antimatter, it's, I don't know what it is. 
+(He checks another console.)
+PARIS: They call this thing a quantum slipstream drive. 
+TUVOK: Quantum slipstream. 
+CHAKOTAY: I've never seen that in the engineering manuals. 
+PARIS: The ship's powering up. Auto-navigation is kicking in. 
+[Voyager Bridge] 
+KIM: Bridge to Janeway. The vessel's moving away at high impulse. 
+[Astrometrics lab] 
+KIM [OC]: I can't raise the away team. 
+JANEWAY: Pursuit course, Ensign. 
+[Dauntless Engineering] 
+PARIS: I can't shut down the drive. 
+CHAKOTAY: Computer, disable propulsion.
+(It is the normal Starfleet computer voice.) 
+COMPUTER: Unable to comply. 
+PARIS: Hang on.
+(The ship enters warp, not Andromeda-style slipstream.) 
+[Voyager Bridge] 
+KIM: Bridge to Janeway. They're gone. 
+[Dauntless Engineering] 
+(They hurtle down a Whovian space-time-like corridor.)
+PARIS: Look at this. Energy from the quantum drive is being routed through the main deflector. 
+CHAKOTAY: Is that what's creating the slipstream? 
+PARIS: It looks that way. 
+TUVOK: Fascinating. Can you make it stop? 
+PARIS: I'll try accessing helm controls. We're back in normal space. 
+CHAKOTAY: Scan for Voyager. 
+TUVOK: No sign of them. Commander, we've travelled over fifteen light years. 
+Captain's log, supplemental. After two days at high warp, we've rendezvoused with the Dauntless. Arturis has helped us reconstruct most of the Starfleet message. The pieces of this puzzle are finally coming together. 
+[Briefing room] 
+ADMIRAL HAYES [on monitor]: Slipstream technology is experimental and high risk, but it's come a long way in the past year. We've conducted forty seven trial runs, all of them successful. But each flight lasted only five days. In order to reach Earth, you'd have to remain at slipstream velocities for a full three months. Can your crew survive that long? We believe they can, and we encourage you to try. Everything you'll need is on the Dauntless. Power cells, supplies, living quarters. Safe journey. We hope to see you soon. 
+JANEWAY: Admiral Hayes. Good man, fine officer, bit of a windbag. Let's talk about the risk. Doctor? 
+EMH: I've examined the away team for signs of cell damage or physiological stress. Nothing. Their little joyride didn't harm them in the slightest. 
+JANEWAY: Long term effects? 
+EMH: I'm running medical projections right now. So far, the results are encouraging. 
+JANEWAY: And the Dauntless itself? 
+CHAKOTAY: I'd say it's in pretty good shape, considering. 
+TORRES: I've been looking over the primary systems. Helm, Ops, Tactical, they're comparable to Voyager's. But it's a lean ship, Captain. No shuttlecraft, only one transporter, no holodecks, no replicators. 
+JANEWAY: Well, Mister Neelix, you may have your work cut out for you. 
+NEELIX: Ready and willing, Captain. 
+KIM: So what are we waiting for? 
+SEVEN: Your enthusiasm is premature. Voyager is a proven vessel. It would be reckless to abandon it so quickly. 
+KIM: Come on, where's that Borg spirit? We'll adapt. 
+SEVEN: My Borg spirit gives me an objectivity you lack. 
+TUVOK: She has a point. This would mean leaving Voyager behind. 
+CHAKOTAY: Is there any way we could modify Voyager to create a slipstream? 
+PARIS: In theory, but I don't think the ship would hold up very long under the quantum stresses. 
+JANEWAY: Try to make the modifications. If there's a way we can bring Voyager along for the ride, I'm all for it. Harry, B'Elanna, I want you to take an Engineering team down to the Dauntless. Start working on a way to shut down the slipstream drive at a moment's notice. 
+TORRES: Aye, Captain. 
+JANEWAY: Once we have that safeguard in place, we can start making the test flights. I want this entire crew to familiarise themselves with that ship. See to it. Dismissed. Tuvok. Big day. 
+TUVOK: Indeed. 
+JANEWAY: A way home. We've waited for this moment for years. Why don't I feel more enthusiastic? 
+TUVOK: Perhaps my mental discipline is rubbing off on you. 
+JANEWAY: Perhaps. What do you think about this little miracle of ours? 
+TUVOK: I share your concern about the crew's safety. We must take every precaution. 
+JANEWAY: Somehow I don't think standard diagnostics and security protocols are going to make me feel any better. 
+TUVOK: Captain? 
+JANEWAY: All of this is just a little too perfect. The alien genius with the answers to all our problems. A message from Starfleet telling us everything we want to hear. A starship delivered right to our doorstep. What more could we ask for? They even turned down the beds. The only thing missing was chocolates on the pillows. 
+TUVOK: It does seem convenient. 
+JANEWAY: I can't put my finger on it, but from the moment this all started I sensed something was wrong. 
+TUVOK: It started when Arturis boarded Voyager. 
+JANEWAY: Exactly. We'll proceed as planned, but I want you to investigate that ship from stem to stern. Keep an eye on our guest. See if you can find out more about him. 
+TUVOK: Understood. 
+JANEWAY: Let's hope we're just suffering from some good old-fashioned paranoia. Keep me posted. 
+Captain's log, supplemental. So far, the crew hasn't found any evidence to support my doubts about Arturis. Nevertheless, I've told them to keep looking and to keep their optimism in check. But that's one order I don't expect them to follow to the letter. 
+Daily log, Seven of Nine, Stardate 51981.6. I've analysed the quantum slipstream technology of the Dauntless. It is similar to the transwarp drive used by the Borg. As a result, my expertise will be crucial to the mission's success. Voyager's crew is counting on that success but I find myself ambivalent, so I'm carrying out my assignment, nothing more. 
+(Janeway's log continues.) Despite my apprehension, I can't help but wonder what I'll be doing in three months' time. Still guiding Voyager through the Delta Quadrant, searching for a way home, or looking up old friends in Indiana? 
+(Seven's log continues.) If we do return to Sector zero zero one, will I adapt to human civilisation? A single Borg among billions of individuals? 
+[Dauntless Engineering] 
+TORRES: Initiate emergency shutdown on my mark. Now. 
+KIM: Quantum field strength down to ninety percent. Eighty percent. It's levelling off at seventy five. 
+SEVEN: We need to dampen the field by at least fifty percent. 
+TORRES: Try reversing the quantum field polarities. 
+KIM: Seventy percent. Fifty five. Forty nine percent. 
+TORRES: We did it. We've got our safety net. 
+KIM: One step closer to home. 
+SEVEN: Tuvok wants us to run a metallurgical analysis of the bulkheads to look for anything unusual. 
+TORRES: Thank you. You two run the analysis. I'll be on the bridge with Arturis. Our resident genius said he'd help me figure out how to use the control sequencers. 
+SEVEN: Lieutenant, you seem eager to return to Earth. 
+TORRES: Eager? I wouldn't go that far. 
+SEVEN: You were a member of the Maquis. Starfleet Command will no doubt hold you responsible for a multitude of crimes. You will find nothing on Earth but adversity. 
+TORRES: That's looking on the bright side. Let's put it this way. I'd rather face the music back home than spend the rest of my life in the Delta Quadrant. What about you? Looking forward to seeing Earth? 
+SEVEN: No. 
+TORRES: I'm not surprised. You think people are going to resent an ex-Maquis? What about an ex-drone? We'll be outcasts together. I'm kidding, Seven. It's a joke. Work on that sense of humour. It'll help you make friends on Earth. 
+KIM: Seven, can you give me a hand down here? I'm picking up an anomalous energy surge. 
+SEVEN: There are no power conduits running through this section. 
+KIM: Believe me, Seven, one look at that big blue marble, and you'll fall in love. It's got just about every ecosystem you can think of, and hundreds of different humanoid species live there. Bolians, Vulcans, Ktarians. If you like Ktarians. And there are several other planets to choose from. 
+SEVEN: If you will excuse me, Ensign, I must speak to the captain. 
+KIM: Seven. For what's it worth, it won't be the same without you. 
+(Seven smiles slightly and leaves. Kim tracks his anomolous reading to inside a panel. He reaches in with his tricorder and gets a slight shock, then the whole wall panel display wibbles briefly.)
+KIM: Kim to Tuvok. 
+TUVOK [OC]: Tuvok here. 
+KIM: I'm on the Dauntless, in the engine room, and I've found something 
+[Bridge] 
+KIM [OC]: That qualifies as unusual. 
+TUVOK: I'll be right there. 
+[Astrometrics] 
+JANEWAY: Computer, display datablock fourteen beta, auxiliary display. 
+(The doors open.)
+JANEWAY: Seven, I could use your help. I'm trying to reconstruct the last fragment of the Starfleet message. 
+SEVEN: Arturis said it was irreparably damaged. 
+JANEWAY: I know, but I think he gave up too easily. 
+SEVEN: Intuition? 
+JANEWAY: It's intuition if I'm right. I've designed a new decryption algorithm. Let's give it a try. 
+SEVEN: Captain. I will not be going with you to the Alpha Quadrant. 
+JANEWAY: I can understand your reluctance. It's been hard enough dealing with a crew of a hundred and fifty individual humans. The prospect of an entire planet must be overwhelming. 
+SEVEN: I am not overwhelmed. I simply do not wish to live among humans. 
+JANEWAY: Well, whether you like it or not, you're one of us. You've come a long way from that drone who stepped out of a Borg alcove nine months ago. Don't turn your back on humanity now. Not when you're about to take your biggest step. Earth. Your home. 
+SEVEN: I may have come a long way, but not in the direction you think. You've attempted to influence my development. You exposed me to your culture, you ideals. You hoped to shape me in your own image. But you have failed. You may have noticed our tendency to disagree. 
+JANEWAY: Oh, I've noticed. 
+SEVEN: Then you must also recognise that I do not share your values. Your desire to explore space is inefficient. Your need for familial connections is a weakness. Your infatuation with this planet is irrational. 
+JANEWAY: I won't argue that you've turned out differently than I expected, and that we often have conflicting points of view. But right now, the stakes are higher. This crew needs your expertise. Abandon them and you diminish their chances of getting home. 
+SEVEN: Irrelevant. 
+JANEWAY: No, it's not. We've given you a lot, Seven. It's time you gave something in return. 
+SEVEN: I have, on many occasions. Now I refuse. 
+JANEWAY: What would you do, go back to the Collective? 
+SEVEN: I don't know. 
+JANEWAY: Then what exactly do you have in mind? 
+SEVEN: I don't know. 
+JANEWAY: That's my point. You're asking me to cast you adrift in the Delta Quadrant alone and without support. I wouldn't grant that request to any member of this crew because it's too dangerous. 
+SEVEN: I will survive. 
+JANEWAY: On what, Borg perfection? 
+SEVEN: Precisely. 
+JANEWAY: I don't buy it. This isn't about your independence or your superiority. This is about your fear. You're not making this choice because you've outgrown humanity. I think you're afraid to go back to Earth. 
+(Beep.)
+JANEWAY: The algorithm's working. It's reconstructing the datablock. That's strange, I thought we already recovered this part of the message. 
+SEVEN: Perhaps it is an addendum from the Admiral. You did designate him a windbag. 
+JANEWAY: Oh, I don't think so. The data index doesn't match. This is a completely different message. 
+ADMIRAL HAYES [on monitor]: Apologies from everyone at Starfleet Command. We've had our best people working around the clock, trying to find a wormhole, a new means of propulsion, anything to get you home. But despite our best efforts. I know it's not what you were hoping, but we've sent you all the data we've collected on the Delta Quadrant. With any luck, you'll find at least some part of it useful. Maybe enough to shave a few years off your journey. Safe journey. We hope to see you soon. 
+SEVEN: Your intuition was correct. 
+JANEWAY: Unfortunately. 
+SEVEN: Arturis must have created a false message. 
+JANEWAY: It sure as hell looks that way. Janeway to Tuvok. 
+TUVOK [OC]: Yes, Captain. 
+JANEWAY: My suspicions have been confirmed. 
+[Corridor] 
+JANEWAY: Arturis tampered with Starfleet's message. 
+[Dauntless Engineering] 
+JANEWAY [OC]: The Dauntless isn't what it appears to be.
+TUVOK: I agree. We've discovered alien technology behind a bulkhead
+[Corridor] 
+TUVOK [OC]: In Engineering. I can't identify it. 
+JANEWAY: Where's Arturis now? 
+[Dauntless Engineering] 
+TUVOK: On the Dauntless bridge, working with Lieutenant Torres. 
+JANEWAY [OC]: Go to the bridge, but don't tip our hand. 
+[Corridor] 
+JANEWAY: I'll be there with a full security team within minutes. 
+[Dauntless Engineering] 
+TUVOK: Understood. 
+[Corridor] 
+JANEWAY: Let's get weapons. 
+[Dauntless Bridge] 
+(Arturis goes to the helm and is about to press a button flashing red.)
+TORRES: Don't touch that! You almost kicked us into slipstream drive. 
+ARTURIS: Oh. I wouldn't want to do that. Kucha meRah. 
+(He should say jIQaqh, according to Klingonese experts.)
+TORRES: No problem. You speak Klingon. 
+ARTURIS: I do now. Your captain was kind enough to let me review your linguistic database. 
+TORRES: I only know speak a few phrases myself. 
+ARTURIS: Oh, shame. It's a robust language. 
+TORRES: A little too robust for me. 
+(Janeway beams in with Seven and two security guards.)
+JANEWAY: Evacuate the repair teams. 
+TORRES: Captain? 
+JANEWAY: Do it. Explain yourself. 
+ARTURIS: I don't know what you're talking about. 
+JANEWAY: You fabricated the message from Starfleet. I recovered the real transmission. The one you said was irreparably damaged. 
+ARTURIS: That's absurd. 
+JANEWAY: Starfleet didn't send us this vessel and you're not here to help. Is this your ship? 
+ARTURIS: Please, stay calm, There must be an explanation. 
+JANEWAY: I tried to ignore my gut feelings, because I got carried away by the excitement of getting home. But you preyed on that, didn't you? You took advantage of our hopes and now I want to know why. 
+ARTURIS: I believe that there is a threat here, Captain, but not from me. I didn't feel it was my place to make accusations, but I saw her reconfigure several key algorithms two days ago in your Astrometrics lab, and it seemed obvious. She must have been tampering with the Starfleet message. 
+SEVEN: You are lying. 
+ARTURIS: She's been sabotaging your every effort to reach Earth. You don't have to believe me, Captain. You can find all the evidence you need in her personal database. 
+JANEWAY: Evidence you undoubtedly put there yourself just in case you got caught. Take him to Voyager. Throw him the brig. 
+(Arturis beats off the two security guards. Tuvok phasers him in the abdomen, but he still manages to pull a lever before they can drag him away from the helm. The Dauntless transforms into an alien vessel, primary motif - red. Then Arturis manages to set up a forcefield.)
+JANEWAY: Janeway to Voyager. Beam us out of here. 
+[Voyager Bridge] 
+KIM: He's trying to deflect our transporters. Stand by. 
+(Tuvok is beamed away, then the security personnel. Janeway and Seven start to dematerialise, then solidify again.)
+KIM: I've got everyone but Seven and the Captain. He's found a way to block their transport. 
+PARIS: The ship's going into slipstream mode. 
+CHAKOTAY: Pursuit course. 
+PARIS: We lost them, Commander. 
+(Tuvok enters.)
+CHAKOTAY: Tom, bring the warp core modifications online. We're going after them. 
+PARIS: Sir, we haven't even had a trial run yet. 
+CHAKOTAY: There's no time like the present. 
+[Dauntless Bridge] 
+SEVEN: Where are you taking us? 
+ARTURIS: Home. 
+JANEWAY: How'd you create the Starfleet bridge? Holograms? 
+ARTURIS: Particle synthesis. Beyond your understanding. 
+JANEWAY: Is this what your people do? Prey on innocent ships? 
+ARTURIS: Innocent? Typical of Captain Janeway. Self-righteous. 
+JANEWAY: If I've offended you or your people in some way, please tell me. 
+ARTURIS: Diplomacy, Captain? Your diplomacy destroyed my world. 
+JANEWAY: What? What are you saying? 
+ARTURIS: You negotiated an agreement with the Borg Collective. Safe passage through their space. And in return, you helped them defeat one of their enemies. 
+SEVEN: Species eight four seven two. 
+ARTURIS: In your colourful language, yes. Species eight four seven two. Did it ever occur to you that there were those of us in the Delta Quadrant who had a vested interest in that war? Victory would have meant the annihilation of the Borg, but you couldn't see beyond the bow of your own ship! 
+JANEWAY: In my estimation, Species eight four seven two posed a greater threat than the Borg. 
+ARTURIS: Who are you to make that decision? A stranger to this Quadrant. 
+JANEWAY: There wasn't exactly time to take a poll. I had to act quickly. 
+ARTURIS: My people managed to elude the Borg for centuries. Outwitting them, always one step ahead. But in recent years, the Borg began to weaken our defences. They were closing in and Species eight four seven two was our last hope to defeat them. You took that away from us! The outer colonies were the first to fall. Twenty three in a matter of hours. Our sentry vessels tossed aside, no defence against the storm. By the time they'd surrounded our star system, hundreds of Cubes, we had already surrendered to our own terror. A few of us managed to survive. Ten, twenty thousand. I was fortunate. I escaped with a vessel. Alone, but alive. I don't blame them. They were just drones, acting with their Collective instinct. You, you had a choice! 
+JANEWAY: I'm sorry for what happened to your people, but try to understand. I couldn't have known. 
+ARTURIS: It took me months to find you. I watched and waited for my opportunity to make you pay for what you'd done. Then the Starfleet message, and I knew that your selfish desire to get home would surface again. That I could lure you to this vessel. That I could see to it that you'd all be assimilated and spend the rest of eternity as Borg. I was hoping to get your entire crew, but I'll settle for the two of you. In a matter of hours, this ship will return to my homeworld. Inside Borg space. 
+SEVEN: When that happens, you will be assimilated as well. 
+ARTURIS: That's irrelevant. This is what you wanted all along, isn't it? To go back to your Collective? You should thank me. 
+[Voyager Bridge] 
+CHAKOTAY: Report. 
+PARIS: We're at full impulse, but we're not breaking through the quantum barrier. 
+TUVOK: I'm having trouble controlling the field parameters. I need more power to the deflector. 
+CHAKOTAY: Bridge to Torres. 
+TORRES [OC]: I'm already on it, Commander. 
+[Voyager Engineering] 
+TORRES: Stand by. Reroute auxiliary power to Deflector Control. Make sure that quantum warp field is stable. 
+CREWMAN: Aye, Lieutenant. 
+[Voyager Bridge] 
+TUVOK: Deflector at maximum. I'm focusing the quantum field. 
+KIM: Make it quick. Hull temperature's at critical. 
+(Voyager enters the tunnel.)
+PARIS: We're at slipstream velocity. 
+KIM: Structural integrity's down by nine percent. We've got less than an hour before the hull starts to buckle. 
+PARIS: I've located their slipstream. I'm aligning ours to match. We're right behind them. 
+CHAKOTAY: How far behind? 
+PARIS: Just a few minutes. 
+TUVOK: Is there any way to increase our speed? 
+PARIS: None. We're at maximum. 
+CHAKOTAY: Maintain course. If I know the captain, she's already got a plan. 
+[Dauntless Brig] 
+JANEWAY: Any ideas? 
+SEVEN: Not presently. 
+JANEWAY: We'd better think of something. We come face to face with your former family in less than an hour, and that's one reunion I'd like to miss. Unless of course, you're looking forward to rejoining the Collective? 
+SEVEN: I do not believe I am. 
+JANEWAY: Not the ringing opposition I was hoping for, but I'll take it. A drone could walk through this forcefield like it was thin air. Is there enough Borg technology left in your body to let it adapt? 
+SEVEN: If I activate the appropriate nanoprobes, I could alter my bio-electric field. However, I would need to adjust my cranial implant. 
+JANEWAY: Would a micro-filament do the trick? 
+SEVEN: It might. 
+JANEWAY: Then let's get you one. Once you get outside, access that control panel and disable the forcefield. Then we'll try to reach the engine room. 
+SEVEN: And employ the emergency shutdown procedure. 
+(Janeway opens her comm. badge and takes out an invisible wire.)
+SEVEN: Sufficient. You will need to cross-link the third and sixth nodules. 
+(Janeway uses the wire on the implant over Seven's eye.)
+JANEWAY: Déjà vu.
+SEVEN: Captain? 
+JANEWAY: As I recall, this is where our relationship began. In a brig, nine months ago. I severed you from the Collective and you weren't exactly happy about it. 
+SEVEN: No, I was not. 
+JANEWAY: In case I never get a chance to say this, I realise that I've been hard on you at times. But it was never out of anger, or regret that I brought you on board. I'm your Captain. That means I can't always be your friend. Understand? 
+SEVEN: No. However, if we are assimilated, our thoughts will become one, and I'm sure I will understand perfectly. A joke, Captain. You yourself have encouraged me to use my sense of humour. 
+JANEWAY: It's nice to know you've taken some of my advice to heart. 
+SEVEN: You were correct. My desire to remain in the Delta Quadrant was based on fear. I am no longer Borg, but the prospect of becoming human is unsettling. I don't know where I belong. 
+JANEWAY: You belong with us. 
+SEVEN: The adaptations are complete. 
+(Seven steps through the forcefield and goes to a control panel. The computer alerts Arturis on the bridge. The forcefield is lowered.)
+JANEWAY: We're in business. 
+[Dauntless Engineering] 
+(The consoles are still in Starfleet configuration.)
+SEVEN: I can't initiate the emergency shutdown. 
+JANEWAY: Our commands are being blocked from the bridge. He's detected us. 
+SEVEN: The ship's velocity has just increased. At our present speed, we will enter Borg space in less than twelve minutes. 
+JANEWAY: Do we still have access to the power distribution grid? 
+SEVEN: Yes. 
+JANEWAY: If we can't throw on the brakes, let's swerve the wheel. Send a power surge into the starboard thrusters. 
+SEVEN: The torsional stress at these speeds could tear the ship apart. 
+JANEWAY: It's either that or join the Hive. Do it. If we're still in one piece, try to gain control of navigation. I'll be on the bridge. We have a game of Velocity scheduled for tomorrow, holodeck one. I expect you to keep the appointment. 
+SEVEN: Aye, Captain. 
+[Dauntless Bridge] 
+(The Dauntless rolls and yaws to port, throwing Arturis to the deck. He struggles against the g-forces to get back and level it off. Janeway enters.)
+.JANEWAY: Sorry about the bumpy ride. 
+ARTURIS: You can slow this ship down, but you can't stop it. In four minutes, Captain Janeway will be gone and a new drone will be born. 
+JANEWAY: Don't count on it. Seven of Nine has accessed your navigational systems. You taught us how to use this ship a little too well. I can't begin to imagine your loss, but try to see beyond your desire for revenge. 
+ARTURIS: Revenge is all I have left. 
+JANEWAY: No. As long you're alive there's hope. Your people's accomplishments, their knowledge, their dignity, can survive in you. End this. 
+(A console explodes in Engineering.)
+ARTURIS: I've just destroyed the navigational controls. No one can stop this ship now. Not even me. Two minutes to Borg space.
+(An impact knocks him to the deck.) 
+[Voyager Bridge] 
+(Voyager is firing torpedoes in the slipstream. Most miss.)
+TUVOK: Direct hit. The vessel's shields are down. Transporters standing by. 
+CHAKOTAY: Get a lock on our people. 
+[Dauntless Bridge] 
+(The helm explodes. Arturis goes to rear station.)
+ARTURIS: Voyager. 
+JANEWAY: Come with me. It's not too late. 
+(Arturis fires his weapon as she dematerialises.)
+ARTURIS: It is for you. 
+[Voyager Bridge] 
+KIM: I've got them, Commander, Transporter Room two. 
+CHAKOTAY: Alter our slipstream. Hard starboard. Take us back the way we came.
+(Voyager diverts down a side tunnel.) 
+[Dauntless Bridge] 
+(The Dauntless returns to normal space near a group of Cubes.)
+BORG [OC]: We are the Borg. You will be assimilated. Resistance is futile. 
+Captain's log, supplemental. We remained in the quantum slipstream for an hour before it finally collapsed. Our diagnostics have concluded that we can't risk using this technology again. But we did manage to get three hundred light years closer to home. 
+[Holodeck] 
+(The scheduled game of Velocity.)
+COMPUTER: Full impact. Final round to Janeway. Winner, Janeway. 
+JANEWAY: Nice play. You almost had me. 
+SEVEN: Almost. 
+JANEWAY: Go again? 
+SEVEN: I must report to the Astrometrics lab. There is work to be done. 
+JANEWAY: Work? I gave the crew strict orders to take some R and R over the next few days, and that includes you. 
+SEVEN: There are more pressing needs. I am attempting to design another method of travelling at slipstream velocities without damaging Voyager. 
+JANEWAY: I thought that was impossible. 
+SEVEN: Impossible is a word that humans use far too often. I wish to continue my efforts. 
+JANEWAY: A few days ago you were ready to abandon ship, and here you are, practically laying in a course to Earth. 
+SEVEN: As we approached Borg space I began to re-evaluate my future. The prospect of becoming a drone was unappealing. 
+JANEWAY: Sometimes you've got to look back in order to move forward. Sounds to me like you're starting to embrace your humanity. 
+SEVEN: No. But as I said, nothing is impossible. 
+JANEWAY: Computer. One more game.
+(The disk appears and flies around Seven. She fires at it, and us.) 

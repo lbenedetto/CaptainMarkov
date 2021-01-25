@@ -1,0 +1,479 @@
+Learning Curve
+[Holodeck - Janeway's Gothic novel]
+(Janeway opens the drawing room windows to let in the sunshine.) 
+JANEWAY: Good morning children. I'm your new governess, Mrs Davenport. Too formal. Henry, Beatrice, I'm so glad to meet you. I've heard so much about you, and I'm sure we're going to be very good friends. Oh, too familiar. Hello, I'm Mrs Davenport. Your father has asked me here to be your new governess.
+(The children enter quietly behind her.) 
+HENRY: Something he did without mentioning in to us.
+JANEWAY: Good morning, children. It's good to see you. You must be Henry. And this is Beatrice.
+(Janeway holds out her hand. Henry gives a little bow.) 
+HENRY: Henry Burleigh, Viscount Timmons. My sister, the Lady Beatrice Flora. You will address us as my Lord and my Lady.
+JANEWAY: Of course, my Lord. Please, sit down. Let's get to know one another, shall we? I'm Mrs Davenport. I hope to be a friend to you as well as a governess.
+HENRY: In ullam rem ne properemus.
+JANEWAY: I beg your pardon?
+HENRY: In ullam rem ne properemus. Is your Latin a bit rusty?
+JANEWAY: I suppose it is.
+HENRY: Then I don't see how you'll be doing my lessons with me.
+JANEWAY: My Lord, I assure you that I am more than qualified to instruct you. I may have to brush up on my Latin, but when it comes to mathematics and the sciences, I'm sure you'll find my lessons challenging. And Beatrice, what do you like to study?
+BEATRICE: Nothing.
+JANEWAY: Not even painting or needlework?
+BEATRICE: I just made my first sampler. I finished it yesterday.
+JANEWAY: Did you? Oh, I'd love to see it sometime.
+BEATRICE: I don't have it anymore. I gave it to Mother.
+HENRY: Beatrice! My sister is confused. She gave the sampler to Mother before she died.
+BEATRICE: No, I didn't. I gave it to her last night.
+HENRY: Beatrice!
+BEATRICE: I talked to her!
+HENRY: Beatrice is upset, Mrs Davenport. She hasn't yet accepted our mother's death.
+JANEWAY: Beatrice, I know it was a terrible thing to lose your mother. 
+BEATRICE: She's not dead! I saw her last night!
+(Beatrice vanishes.) 
+HENRY: What have you done to my sister?
+(Henry vanishes.) 
+JANEWAY: Computer, restore characters in programme Janeway lambda one.
+COMPUTER: Unable to comply. There has been a disruption of power to energy grid beta four.
+JANEWAY: Janeway to Bridge. Report. 
+CHAKOTAY [OC]: We're experiencing 
+[Bridge] 
+CHAKOTAY: Power fluctuations on deck six, Captain. Mister Tuvok is investigating.
+JANEWAY [OC]: Keep me informed. Janeway out. 
+[Corridor] 
+(Tuvok finds an open access panel.) 
+TUVOK: Tuvok to Lieutenant Torres. Has any equipment repair been authorised on Deck six?
+TORRES [OC] Negative. What's going on?
+TUVOK: Stand by.
+(A head pokes out of the access area.) 
+DALBY: Be careful! Sorry. You might have broken the connection.
+TUVOK: Crewman Dalby, what are you doing here?
+DALBY: One of the bio-neural gel packs was malfunctioning. I had to replace it.
+TUVOK: Did you inform Lieutenant Torres?
+DALBY: Not yet. I was just going to take this to Engineering for analysis.
+TUVOK: On this ship we have a protocol for such procedures.
+DALBY: I was in the area, I saw a malfunctioning gel pack and I fixed it. What's the problem?
+TUVOK: Your repair interrupted a number of ships functions. That is the problem.
+DALBY: I guess I'm used to doing things a little differently. On our ship, when something went wrong, you fixed it.
+TUVOK: I would remind you, Mister Dalby, that you are no longer on a Maquis ship.
+DALBY: I'm well aware of that, Lieutenant. And every minute of every day I regret it. I was just trying to do my job, trying to help out. If that goes against Starfleet's almighty rules then put me in the brig. Otherwise, leave me alone. 
+Captain's log, stardate 48846.5. Ordinarily the loss of a gel pack would be a minor inconvenience, but here in the Delta Quadrant it's a reminder of the precarious nature of our journey. 
+[Ready room] 
+JANEWAY: I don't understand. The gel packs have an extremely reliable track record. It's almost impossible to damage them. Why did this one malfunction?
+TUVOK: Unknown. Lieutenant Torres is running a materials analysis on the gel pack. In the mean time the unit has been replaced.
+JANEWAY: How many do we have left in reserve?
+TUVOK: Forty seven.
+JANEWAY: Those gel packs run half the critical systems on this ship. Once they run out, that's it. We can't replicate new ones.
+CHAKOTAY: It might be possible to switch over some systems to conventional isolinear circuits.
+JANEWAY: Good idea. Start looking into it.
+TUVOK: There is one other matter I wish to discuss. I am concerned about Crewman Dalby. He attempted to make unauthorised repairs on a damaged gel pack. When I confronted him, he lost control.
+JANEWAY: How so?
+TUVOK: He became extremely angry, to the point of insubordination.
+JANEWAY: Dalby. I've heard complaints about him from others.
+TUVOK: Indeed. This is not the first incident involving Mister Dalby. Last week he was found tampering with ship's systems to increase a friends replicator rations, and he has missed three of his last ten duty shifts.
+JANEWAY: Commander, you know Mister Dalby better than I do. Any idea what might be bothering him?
+CHAKOTAY: Dalby's always been pretty aggressive. My guess is the man's frustrated. He's not used to dealing with Starfleet protocol and procedures.
+TUVOK: A starship cannot run without protocols. Mister Dalby's attitude is disrupting this vessels operations.
+CHAKOTAY: What do you suggest? Dragging him in front of a disciplinary board?
+TUVOK: Perhaps that would be the best approach.
+JANEWAY: I doubt that's going to help. Dalby's not the only Maquis who's having problems adjusting. And besides, it's not only a matter of attitude, it's also a matter of experience. It's not fair to expect Starfleet behaviour from people who never went to the Academy.
+TUVOK: What do you propose?
+JANEWAY: We need to bring some of these people up to speed. Instruct them in how to run a Starfleet vessel. Show them why we do things the way we do. Give them an opportunity to feel like they're part of the team.
+CHAKOTAY: A crash course in Starfleet operations. Field training.
+JANEWAY: Exactly. So, what do you think, Mister Tuvok. Are you up training a group of raw cadets?
+TUVOK: Me?
+JANEWAY: You taught at the Academy for sixteen years. You'd be perfect for the job.
+TUVOK: Commander Chakotay would be a more logical choice to be their instructor. He is a Maquis, as well as their former Captain.
+JANEWAY: That's my point. He doesn't have to earn their respect. We do.
+TUVOK: Very well, Captain, I will prepare a curriculum.
+JANEWAY: Commander, pick out the Maquis crewmembers you feel would benefit most from the training. Have them report to Lt Tuvok at the next duty shift.
+CHAKOTAY: Right. Don't worry, Tuvok. I'll tell them to take it easy on you. 
+[Cargo bay] 
+TUVOK: Good morning. We have assembled here because Captain Janeway feels you would all benefit from additional Starfleet training. Consequently 
+(A woman with red shoulders and hair band speaks first.) 
+HENLEY: I think we need some clarification. Just why have we been singled out for this honour?
+TUVOK: The answer to that question would seem to be self evident, crewman. Interrupting a senior officer is not acceptable behaviour. The purpose of this training is to familiarise you with Starfleet protocols so that mistakes like that will be minimised.
+(Next up, a Bolian.) 
+CHELL: Still, the fact remains. That is, if I have permission to speak, Lieutenant? Thank you. As I was saying, the fact remains that you must have noticed certain problems with each member of this select group or we wouldn't be here. I frankly can't imagine what I might have done that warrants my inclusion.
+TUVOK: Crewman Chell.
+CHELL: In fact
+TUVOK: Your report indicates that you are talkative, disruptive and unreliable. You promise to do tasks which then go undone. 
+CHELL: That is a complete exaggeration. Just yesterday I overhauled a servicing system 
+TUVOK: Crewman! From this point on you will speak only if you are spoken to.
+CHELL: But Lieutenant, I'm just trying to
+TUVOK: Forty laps around the cargo bay. Start running now.
+CHELL: But
+TUVOK: Fifty laps. 
+(Chell gives up and starts jogging.)
+TUVOK: As I was saying, this class will adhere to standards established for Starfleet cadets. There will be physical training and academic studies, as well as tactical situations which will be simulated on the holodeck. Crewman, have you been listening to me? 
+(A Bajoran man looks up from the floor.) 
+TUVOK: Excuse me. I did not hear that answer.
+GERRON: Yes.
+TUVOK: Speak up, crewman.
+GERRON: I said, yes.
+TUVOK: From now on you will look at me when I am talking to you.
+DALBY: Leave him alone.
+TUVOK: What was that?
+DALBY: I said, leave him alone. Can't you see he's just a kid? He shouldn't even be here.
+TUVOK: We think he should.
+DALBY: You'll probably have me running two hundred laps for this, but I don't care. The problem we're having, Lieutenant, is that this whole thing is insulting. We didn't ask to come aboard this ship but we understand the situation we're in and we've done the best job we can, and now you're telling us that's not good enough.
+TUVOK: That is correct.
+DALBY: Well, maybe that's too bad. Maybe we've done the best we can and that's as good as you're going to get. How about it? Does anybody really want to be here?
+HENLEY: I don't have anything to learn from him.
+DALBY: Well I don't think he's going to phaser us, and frankly I'd rather be in the brig than in here, so let's go.
+TUVOK: Crewmen, you are demonstrating rank insubordination. I order all of you to stay where you are.
+DALBY: Chell! Come on, we're leaving. 
+[Mess hall] 
+GERRON: I don't know. Maybe it wasn't such a good idea to leave like that. I mean, they're not just going to let us get away with it.
+HENLEY: What are they going to do, put us off the ship? Keep us in the brig for seventy years? Every person on this ship is needed. Nothing's going to happen.
+DALBY: It's not like we're guilty of mutiny. We'll just keep doing our jobs, same as ever. We're just not going to jump through any Starfleet hoops.
+(Chakotay enters and joins them, moving Chell out of his seat.) 
+CHAKOTAY: You want to give me your version of what happened?
+DALBY: Commander, we're going to live up to our responsibilities on this ship. We're just not going to be treated like teenage cadets.
+CHAKOTAY: I see.
+HENLEY: It was ridiculous. Tuvok had Chell running laps around the cargo bay.
+DALBY: And he was picking on Gerron. I don't like it.
+CHAKOTAY: Really?
+DALBY: Look, Commander, you know as well as I do that we're used to playing with a different rule book. There's the Starfleet way, and there's the Maquis way.
+CHAKOTAY: And you want to do things the Maquis way?
+DALBY: That's right. That's always worked for us.
+(Chakotay punches Dalby, who falls off his chair.) 
+CHAKOTAY: That's the Maquis way too, isn't it? And if you want to keep doing it the Maquis was that's fine with me. We can do that tomorrow, the next day, everyday, until you report to Lieutenant Tuvok. You understand me? What? How does a Starfleet crewman answer a question?
+DALBY: Yes. Sir.
+CHAKOTAY: Does anyone else have a problem. 
+[Cargo bay] 
+(Tuvok hands out small PADDs.) 
+TUVOK: These are your study assignments for next week. Please note that examinations will be conducted randomly with no advance notice. I will now inspect your uniforms. Crewman Henley, your headband is certainly festive.
+HENLEY: Thank you.
+TUVOK: However, it is in violation of regulations. Please check the protocol files for recommended guidelines. What is this?
+(A chunky gold medallion on a chain.) 
+CHELL: It's a Kazleti design. I studied the technique when I visited their planet. It took me weeks to learn. I know it doesn't look complicated but this 
+TUVOK: This ornament is in violation of the dress code.
+CHELL: It was hidden. You could hardly see it.
+TUVOK: You will remove it now.
+GERRON: I know, I'll have to take off the earring.
+TUVOK: Correct. In addition, your boots are scuffed. From now on you will arrive in polished boots.
+GERRON Yes, sir.
+TUVOK: Do you have a problem, Mister Dalby?
+DALBY: No, sir.
+TUVOK: Very well. You will all report to me on deck eleven at nineteen hundred hours. Dismissed.
+HENLEY: What are we going to be doing?
+TUVOK: You will find that out at nineteen hundred hours. Dismissed. 
+[Engineering] 
+DALBY: I'm going through with this field training, as ordered. I can't say it's very productive. Frankly, it feels like punishment.
+TORRES: In other words you're afraid you won't make it. That you'll fail this training.
+DALBY: Excuse me? That's not what I said, or what I'm thinking. What? You think I can't make it through this ridiculous exercise? That's absurd.
+TORRES: Fine. Then make it through. (alarm) It's another power failure.
+DALBY: It's the gel packs again.
+TORRES: Deck four, section nine C. 
+JANEWAY [OC]: Bridge to Engineering. Report.
+TORRES: It's another malfunction in the bio-neural circuitry. We're putting a repair crew on it now. Torres out. Dalby. Replace the failed gel pack and check out the adjoining circuits. Make sure we don't have some kind of cascade feedback causing this. We can't just keep replacing these things. Ensign, you're in charge till I get back. I'll be in Sickbay if you need me. 
+[Sickbay] 
+KES: What is it?
+TORRES: It's your new patient. It's one of the bio-neural gel packs.
+EMH: Ah yes, I'm aware of these devices, but I've never seen one.
+TORRES: It's malfunctioning but I can't find anything wrong with it mechanically. I thought that you could look at the biological component.
+EMH: Interesting. 
+(The EMH puts the pack on a biobed and raises the curved arms over it.)
+EMH: Initiate the scan.
+KES: Scanning beam is active.
+EMH: Ah, ha!
+TORRES: What?
+EMH: The patient is sick.
+TORRES: Can you be more specific?
+EMH: To discuss the patient's condition in front of the patient would be a serious breach of professional etiquette. It's been suggested that I cultivate a greater sensitivity to my patient's needs. Don't worry, my little friend. 
+TORRES: Doctor.
+EMH: Very well. The biological component of the circuit device has an infection. A very contagious one.
+TORRES: Is the crew in any danger?
+KES: I don't detect any sign of infection in you, Lieutenant.
+EMH: I suspect the contagion is not harmful to humanoids. If it were, we probably would have seen evidence of illness in the crew by now. But in order to protect the ship's circuitry, you'll have to isolate and quarantine all the affected gel packs until a treatment regimen can be initiated.
+TORRES: I'll have to take the forward grids off line. We'll lose replicators but I can reroute the primary systems. How long do you need?
+EMH: I don't know. Unless we find the source of the infection, we won't be able to stop it from spreading.
+TORRES: Okay, I'll tell the Captain. 
+[Deck 11 corridor] 
+TUVOK: We'll be taking a ten kilometre run. I've cleared deck thirteen of personnel for the evening. Make sure your packs are secure to avoid chafing.
+CHELL: Couldn't I just carry Henley? She weighs about the same. 
+[Maintenance access] 
+TUVOK: We will get to deck thirteen by using the Jeffries tubes.
+DALBY: Well, at least it's only two decks down.
+TUVOK: Not that way, crewman. We are getting to deck thirteen by way of the mess hall.
+HENLEY: That's on deck two. We'd have to crawl through over fifty Jeffries tubes to get there.
+TUVOK: Correct. I am glad to see your knowledge of the ship's internal structure is improving. Crewman Gerron, lead the way.
+(Gerron starts up the ladder, followed by Chell, Henley, Dalby and Tuvok. Eventually Gerron stops on a ladder for a breather.) 
+CHELL: Thank you. You can stay there as long as you like as far as I'm concerned. This pack feels like it's filled with latinum bricks.
+TUVOK [OC]: Crewman Gerron. What is the problem up there? Keep going!
+CHELL: Maybe he'll slip and plunge to his death. 
+[Mess hall] 
+(Tuvok leads the group running through the mess hall. Chell diverts to a table and picks up a glass of water.) 
+CREWWOMAN: Be my guest.
+(Tuvok takes it off him at the door.) 
+[Deck 13 corridor] 
+TUVOK: All right, the ten kilometres begin now.
+HENLEY: My legs feel like lead pipes.
+DALBY: Don't think about it. Keep your mind on something else.
+HENLEY: How about the pain in my shoulders.
+(Later, Tuvok, Henley and Dalby lap a limping Chell and struggling Gerron. Finally a wilting Henley and Dalby catch up with Tuvok.) 
+TUVOK: That was a run of approximately ten point one kilometres.
+HENLEY: That was no run, it was a death march.
+TUVOK: You may be experiencing difficulty because I increased the gravity on this deck by ten percent.
+DALBY: What?
+TUVOK: You never know what conditions you might encounter. You must be prepared for anything. Crewmen Gerron and Chell, you have not completed your run. By my account we have lapped you three times. You will finish the ten kilometres now. We will repeat this exercise tomorrow evening and I will expect each one of you to better your performance. 
+[Transporter room] 
+(Chell is scanning the transporter pads with a small hand-held device when Torres goes to Kim at the console.) 
+TORRES: Have you found any traces of the bacteria?
+KIM: I've checked the transporter logs for the past month. There's no indication that the biofilter picked up anything suspicious.
+TORRES: We stopped at that planet, Napinne, brought on some food stores for Neelix. Some of it looked pretty strange.
+KIM: Right. Varmeliate fibre, whole green putillos and schplict.
+TORRES: Schplict?
+KIM: Grakel milk. I've looked at the logs, everything checked out.
+TORRES: Okay, let's go over the environmental systems. Maybe we're dealing with something airborne.
+KIM: He's been at it since before I got here.
+TORRES: Chell, what are you doing?
+CHELL: Mister Tuvok ordered me to degauss the entire transporter room.
+TORRES: But you're using a micro-resonator.
+CHELL: I know.
+TORRES: Why don't you use the magneton scanner? You'd be done in five minutes.
+KIM: Tuvok told him to use the micro-resonator.
+TORRES: But he'll be at it for hours.
+CHELL: Mister Tuvok estimated twenty six point three hours.
+KIM: Sounds like a Tuvok estimate.
+TORRES: Well, good luck.
+KIM: Oh, you missed a spot. 
+TUVOK [OC]: Security log, supplemental. I have recreated the bridge of Voyager on the holodeck and scheduled a war games simulation. I am hopeful that an exercise in teamwork will help to instill a sense of participation among my trainees. 
+[Holodeck - Voyager bridge] 
+TUVOK: On the bridge, we depend on the smooth functioning of every crewman at every station. You are the Captain's eyes, ears and hands. You must function as one perfectly tuned unit. Mister Dalby, I understand you have command experience.
+DALBY: Yes, sir.
+TUVOK: You have the Bridge. The programme will present you with a series of random events which you and your crew must deal with in whatever manner you see fit.
+DALBY: I understand.
+TUVOK: The programme will be initiated when you set a course.
+DALBY: All set?
+ALL: Aye, sir. Ready.
+DALBY: Mister Chell, ahead warp six. Heading one five nine mark seven.
+CHELL: Aye, sir.
+DALBY: Mister Gerron, what's the nearest star system?
+GERRON: I'm showing a red giant system three point seven light years from our current position. There are eight planets, none of them M-class.
+HENLEY: Sir, we're picking up an automated distress call.
+DALBY: Source?
+HENLEY: Unknown. There's a lot of subspace interference.
+DALBY: Gerron, can you get a fix?
+GERRON: Sensors indicate a Ferengi ship heavily damaged by weapons fire. Eight life form readings, very faint.
+DALBY: Hail them.
+HENLEY: They're not responding.
+CHELL: I must point out sir that the Ferengi have been known to deceive other ships by pretending to be damaged. We could be falling into a trap.
+DALBY: We have a duty to offer humanitarian aid if we can. Chell, change course to intercept.
+CHELL: Course laid in, sir.
+DALBY: Proceed. 
+GERRON: Sir, a Romulan Warbird decloaking off the port bow.
+DALBY: Red alert. Hail them. Let them know we're on a rescue mission.
+HENLEY: They're powering up weapons.
+GERRON: No response to the hail.
+DALBY: Evasive manoeuvres, Mister Chell.
+CHELL: Initiating evasive sequence beta nine three.
+(Boom.) 
+HENLEY: We've been hit on the lateral phaser array. Shields at eighty one percent.
+DALBY: Arm all forward phasers.
+GERRON: Sir, there's a second Romulan ship decloaking dead ahead. It's launching torpedoes. 
+(Bang!)
+GERRON: Damage to decks eleven through fifteen. Reports of casualties.
+DALBY: Arm all photon banks. Mister Chell, continuous evasive action. Henley, fire at will!
+HENLEY: Aye, sir.
+GERRON: Shields are buckling. Hull breach on deck nine.
+DALBY: Keep firing, Henley. Let's do as much damage as we can.
+TUVOK: Computer, reset programme. Your first command together was less than successful. You are all dead.
+DALBY: It was a no-win situation. What were we supposed to do?
+TUVOK: Can anyone answer that question?
+HENLEY: I thought we went by the book.
+CHELL: I certainly did everything I could possibly do. My evasive action sequences can not be faulted.
+HENLEY: At least we went out with our phasers firing.
+TUVOK: Mister Gerron, do you have something to add? 
+GERRON: What does it matter?
+TUVOK: It matters, because if you do not learn from your mistakes, you will be doomed to repeat them.
+DALBY: I was in command. Put the blame on me. The crew was just following my orders.
+TUVOK: And have you reached a conclusion as to your error?
+DALBY: I thought I did everything I could. We were just out-gunned.
+TUVOK: I see. Did the possibility of retreat not occur to you?
+HENLEY: Retreat?
+DALBY: I can't believe you'd say that.
+TUVOK: The strongest tactical move is always the one in which you will reap the highest gain at the lowest cost. Going out with phasers firing may seem heroic, but in the long run it is merely foolish. Retreat is often the best possible option.
+DALBY: Well, Mister Tuvok, once more you've proven your point. We're just not Starfleet material. Are we dismissed, sir?
+TUVOK: Dismissed. Computer, exit. 
+[Mess hall] 
+(Tuvok is at the other side of his usual table, staring into space.) 
+NEELIX: I feel that my services as Morale Officer are required.
+TUVOK: I assure you, you are wrong.
+NEELIX: Oh really? One, no cup of tea. Two, no PADD. Three, you're sitting on the opposite side from usual. All of that tells me you've got something on your mind. And what tells me that it's making you miserable is that cloud of doom that's rising from you like a ground fog.
+TUVOK: I cannot imagine that there are visible emanations which allow you to interpret my mood. You are making wild assumptions.
+NEELIX: Ah, ha. Maquis trainees getting you down? 
+TUVOK: I do not believe they are responding well to my instruction.
+NEELIX: What seems to be the problem?
+TUVOK: That is what I have been trying to determine, and I'm afraid I am at a loss. I have taught literally thousands of cadets and I have never encountered these difficulties. My methods are sound and time-honoured. I insist on strict adherence to rules and protocols. I never waver from that approach. I have always been successful in honing each cadet into a Starfleet officer.
+NEELIX: Come with me, I want to show you something. 
+(Neelix takes Tuvok to a flower arrangement by the counter.)
+NEELIX: These are Keela flowers. Beautiful, and remarkably strong. The stem is flexible, impossible to break. But occasionally on the same plant there's a bloom whose stem is not so flexible. Ah, here's one. And when the stem is brittle, it breaks.
+TUVOK: You're saying that the Maquis crew is rigid and inflexible. That they will never adjust to Starfleet rules.
+NEELIX: No, Mister Vulcan, I'm saying that you are rigid and inflexible, but maybe if you'd learn to bend a little, you might have better luck with your class. Those Maquis aren't Starfleet cadets. You can't treat them the same way. Get to know them, try to find out what they're like inside. You might discover a better teaching method.
+TUVOK: I am not sure if I have the ability to find out what they are like inside. Mister Neelix, what is that?
+(An malodorous mound of stuff.) 
+NEELIX: Brill cheese. I made it from that schplict we brought on board last week. Ensign Ashmore asked for something called macaroni and cheese.
+TUVOK: Cheese. You must cultivate bacteria to make cheese.
+NEELIX: Of course. 
+Captain's log, stardate 48859.3. Lieutenant Tuvok has reported what may be a possible explanation for the infection in the bio-neural gel packs. I have asked Lieutenant Torres and her team to investigate Neelix's kitchen. 
+[Mess hall kitchen] 
+TORRES: Get me a schematic of the airflow patterns for the whole ship.
+CREWMAN: Aye Sir.
+TORRES: The cheese is full of volatile bacterial spores. It has to stay isolated in this portable containment field.
+CREWWOMAN: What is this?
+NEELIX: That's just a Laurelian pudding. It has to simmer for four hours.
+TORRES: The spores must have travelled through that intake and then into the ventilation system.
+TUVOK: Where they were disseminated throughout the ship, subsequently infecting the bio-neural circuitry.
+NEELIX: I feel awful about this. I assure you I had no idea.
+(The lights go out.) 
+TORRES: More gel packs must be down. If this is getting to the environmental systems we may be in more trouble that we thought. Neelix, this wasn't your fault. The important thing is that we found the source. Get the cheese to Sickbay. The Doctor should look at it as soon as possible.
+CREWMAN: Yes, Lieutenant. 
+[Sandrine's] 
+TUVOK: You may break, Mister Dalby.
+DALBY: Okay.
+TUVOK: Do you play pool often?
+DALBY: Not really. I did when I was younger.
+TUVOK: Do you have a family?
+DALBY: What is this all about?
+TUVOK: Pardon?
+DALBY: This little exercise. Are we testing my social skills? Does Starfleet have rules about them too?
+TUVOK: I had thought we could get to know each other. Perhaps then our relationship would function more smoothly.
+DALBY: Get to know each other? Okay, here's the brief history of Kenneth Dalby. We lived on the Bajoran frontier. It was a hard life. I coped by getting into a lot of trouble. I was angry at everybody and everything, till a woman came along and taught me about love. For a while, I wasn't angry any more. Three Cardassians raped her and smashed her skull. I joined the Maquis and tried to slaughter as many of them as I could find. How about you? Any family?
+TUVOK: I do, but there is nothing to report about them that would compare with your story. I've observed that you seem to be somewhat protective of Mister Gerron. Have you formed a friendship with him?
+DALBY: No. He won't let me get close. First time I saw him, I thought I was looking at myself at that age. I thought maybe I could be a friend, maybe he wouldn't turn out the way I did. But I didn't have much luck. And then we got stuck out here. Being so far away from home is hard on somebody that young, so I'd appreciate it if you'd try not to make him any more miserable that he is already.
+TUVOK: Commander Chakotay specifically recommended Mister Gerron for this programme. He felt that if the young man were able to learn new skills, to set goals and accomplish them, it might go a long way to helping him feel better about himself.
+DALBY: That's why he's in this group?
+TUVOK: It is our intention that the experience be positive for everyone.
+DALBY: If you say so. But understand this, Lieutenant. I don't want to get to know you, and I don't want to be your friend. 
+[Sickbay] 
+EMH: This is the most pernicious infectious agent I've ever seen. It systematically attacked every cell in the gel pack's biological matrix.
+KES: I've exposed it to every anti-bacterial agent we have available. It hasn't responded.
+(Shudder.) 
+EMH: Sickbay to Bridge. Captain, what seems to be happening.
+JANEWAY [OC]: We're losing more bio-neural circuitry, Doctor. 
+[Bridge] 
+JANEWAY: All systems are being affected. Please, tell me you have some good news about a treatment.
+EMH: [OC]: I'm afraid not. Frankly, I'm at a loss. 
+[Sickbay] 
+EMH: But we'll keep trying.
+JANEWAY [OC]: Please do. Janeway out.
+EMH: What I find curious is that these bacteria didn't show up in any of our diagnostic scans of the ship. But if the bacteria from the cheese into the ship's systems, how did the gel packs get infected?
+KES: Haven't I read that viruses can live inside bacteria?
+EMH: Of course. A virus. The bacteria could be hosts to the infectious virus. There are thousands of viruses so small they would have escaped detection.
+KES: So maybe we should try the anti-viral agents on the gel-packs.
+EMH: It's certainly worth a try. 
+[Cargo bay] 
+DALBY: I think the inertial dampeners are malfunctioning.
+HENLEY: Along with a lot of other things. 
+TUVOK: Class dismissed. Return to your duty stations.
+(But the doors won't open.) 
+CHELL: Lieutenant? We're stuck in here. 
+[Bridge] 
+KIM: Captain, the bio-neural network is failing sequentially. We're losing systems faster than we can compensate with backups.
+CHAKOTAY: What about changing over to isolinear circuitry?
+KIM: Torres is working on it, but it's a long way from being ready. It couldn't even maintain life support at this point.
+PARIS: Propulsion is down.
+KIM: Every system on the main grid is down. Communication, transporters, turbolifts and life support.
+JANEWAY: Bridge to Engineering.
+TORRES [OC]: Torres here, Captain.
+JANEWAY: Transfer whatever power you can to life support, and keep working on the isolinear circuitry.
+TORRES [OC]: Understood. 
+[Cargo Bay] 
+GERRON: The manual override isn't working, sir.
+DALBY: Can't get the main cargo door open either.
+TUVOK: Tuvok to Bridge. This is Lieutenant Tuvok, is anyone receiving this message? It appears our duty stations will have to do without us for the time being. 
+[Bridge] 
+KIM: Captain, life support is failing. Deck fifteen has lost all power and deck seven has lost it's gravitational grid.
+EMH [OC]: Sickbay to Bridge. Captain, I believe we may have something.
+JANEWAY: Go ahead, Doctor.
+EMH [OC]: The gel packs are incapable of responding to 
+[Sickbay] 
+EMH: an infection in the same way humanoid organisms do. 
+[Bridge] 
+JANEWAY: With a fever.
+EMH [OC]: Exactly. 
+[Sickbay] 
+EMH: We've experimented with heating the samples of bio-neural circuitry we have here and the results are promising. Of course, we don't have the ability to produce the amount of heat needed 
+[Bridge] 
+EMH [OC]: To wipe out a ship-wide infection.
+JANEWAY: Janeway to Torres.
+TORRES [OC]: Torres here.
+JANEWAY: If we wanted to superheat the gel pack system, to raise it's temperature, so to speak, how could we do it?
+TORRES [OC]: I suppose we could infuse the gel pack 
+[Engineering] 
+TORRES: Circuits with a high energy plasma burst from a symmetric warp field. 
+[Bridge] 
+JANEWAY: But we'd have to generate that heat by inverting the warp field towards the ship. 
+[Engineering] 
+TORRES: Right. We could produce the required energy by getting the warp engines to eighty percent of maximum while we're standing still. 
+[Bridge] 
+TORRES [OC]: Then we could initiate the plasma burst.
+JANEWAY: Can we get to eighty percent with all the control failures we have? 
+[Engineering] 
+TORRES: If we re-route the emergency power to the warp engines it might be enough. But it's a risky move. 
+[Bridge] 
+JANEWAY: I'm aware of that, but I think we have to try it. Divert all power including life support to the warp engines
+TORRES [OC]: Aye, Captain.
+JANEWAY: Mister Paris, deactivate the nacelle control system and prepare to engage the warp engines.
+PARIS: Nacelle controls deactivated. Ready to go.
+JANEWAY: Do it. 
+[Cargo bay] 
+CHELL: What's that noise?
+(A panel falls off to reveal a conduit.) 
+DALBY: This conduit is getting very hot.
+HENLEY: So am I. It's getting awfully warm in here.
+CHELL: Something's wrong. Very wrong. I don't like this at all.
+TUVOK: I would surmise that the Captain is making some effort to deal with the systems failures. The fact that we do not know what that effort entails may lead us to imagine the worst. We must not let fear get the best of us. Mister Gerron, it is possible the console in the control room is still functioning. Please see if you can open the doors from there.
+GERRON: Yes, sir.
+(Gerron heads up a ladder.) 
+TUVOK: In the mean time, we can attempt to access one of the Jeffries tubes through the forward bulkhead. 
+[Bridge] 
+(The ship is shaking and everyone is sweating.) 
+PARIS: I don't know about the bacteria, but I'm about ready to pass out.
+CHAKOTAY: Engines are only at seventy four percent of maximum. That's not enough for a plasma burst.
+JANEWAY: Mister Paris, increase antimatter flow.
+KIM: It's having an affect, Captain. Temperature is at three hundred and forty Kelvins. Can we get the engines a little hotter?
+JANEWAY: Mister Paris, get us to eighty percent of maximum somehow.
+PARIS: I'll try.
+KIM: Okay, we're at three hundred and sixty Kelvins.
+CHAKOTAY: Engines are at seventy nine percent of maximum. I think we can risk it.
+JANEWAY: Bridge to Torres, initiate the plasma burst.
+TORRES [OC]: Aye, Captain, but be prepared. It might blow out some of the conduits.
+JANEWAY: Acknowledged. Go ahead. 
+[Cargo Bay] 
+(Tuvok and the three get the Jefferies tube entrance open just as the conduit blows.) 
+TUVOK: The plasma gas will become toxic within minutes. We must leave immediately.
+DALBY: What about Gerron? We can't leave him.
+TUVOK: Get in the Jeffries tube. I cannot risk losing any more of you to save one man.
+DALBY: What is that, some kind of Starfleet rule?
+TUVOK: It is always tactically correct to sacrifice the few for the many.
+DALBY: I don't give a Circassian fig what's tactically correct, I'm going back for him. This is one time when retreat is not an option.
+TUVOK: Get in the Jeffries tube now! Mister Dalby, I will break your arm if you do not follow my order.
+DALBY: I won't forget this. You're letting him die.
+TUVOK: Keep moving.
+(Tuvok closes the hatch behind his trainees and runs across the cargo bay to the ladder.) 
+[Bridge] 
+JANEWAY: Janeway to sickbay, report.
+EMH [OC]: Bacterial levels are dropping, Captain. 
+[Sickbay] 
+EMH: If they continue, we should be able to purge the system within a few minutes.
+JANEWAY [OC]: Keep me informed. 
+[Bridge] 
+JANEWAY: We need life support back on line as soon as possible.
+EMH [OC]: I'll get back to you right away, Captain. 
+(Meanwhile, Tuvok reaches Gerron, puts him across his shoulders and heads back down the ladder. The gas gets to him and they fall the last two rungs. Tuvok tries to drag Gerron the rest of the way, but passes out.)
+EMH [OC]: Sickbay to Bridge. Repeat, Sickbay to Bridge. Can anyone hear me?
+CHAKOTAY: Come in, doctor.
+EMH [OC]: All of the infectious bacteria have been destroyed. 
+[Sickbay] 
+EMH: The danger of further infection has passed. 
+[Bridge] 
+JANEWAY: Mister Kim, start getting our systems back on line.
+KIM: Aye, Captain. 
+[Cargo bay] 
+(Chell and Dalby prise the door open and hold it with a metal bar. Dalby and Henley go to get Tuvok and Gerron.) 
+CHELL: Come on, come on! 
+[Outside the Cargo bay] 
+(Chell removes the bar and the door shuts again.) 
+HENLEY: I think he's all right.
+DALBY: I thought Starfleet rules said that was an unacceptable risk, going back to save him.
+TUVOK: It was. However, I recently realised that there are times when it is desirable to bend the rules.
+DALBY: Lieutenant, if you can learn to bend the rules, I guess we can learn to follow them. Come on, let's get you two to Sickbay. 

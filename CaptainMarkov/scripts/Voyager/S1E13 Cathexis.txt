@@ -1,0 +1,392 @@
+Cathexis
+Captain's log, stardate 48734.2. Sometimes it's a good idea to get away from being a Captain for a while. To that end, I've started participating in a new holonovel. The setting is ancient England. 
+[Holodeck - Victorian House] 
+(It is a stormy night, of course.) 
+TEMPLETON [OC]: The drawing room is in here. 
+(A housemaid opens the door and the efficient housekeeper enters, followed by Janeway in corset and crinoline.)
+TEMPLETON: Bridget, take Mrs Davenport's cape, and tell Lord Burleigh that she's here.
+BRIDGET: Yes, ma'am.
+TEMPLETON: There's tea.
+(Bridget leaves.) 
+JANEWAY: That would be lovely. Thank you.
+TEMPLETON: Tea is usually served at five thirty and dinner's at eight thirty. His lordship doesn't appreciate being kept waiting.
+JANEWAY: I'll be sure to be prompt.
+TEMPLETON: Let's make something clear, Mrs Davenport. My job is to make sure that this household runs smoothly. I have been with Lord Burleigh for nearly twenty years because this household runs smoothly. He has come to trust me, and I will not brook any behaviour that might jeopardise that trust, so you will be expected to follow the rules that I have set down.
+JANEWAY: Mrs Templeton, I have no wish to do anything that might disrupt this household but let me make something perfectly clear. I've been hired by Lord Burleigh, and it's his orders I will follow, not yours.
+TEMPLETON: You would be wise not to make an enemy of me. I can make sure we have another governess by next week.
+JANEWAY: I suggest we try to get along, Mrs Templeton. Surely there's room here for both of us?
+TEMPLETON: One lump or two?
+JANEWAY: Two, please.
+TEMPLETON: Lord Burleigh will be here directly.
+(Mrs Templeton leaves Janeway to look around. She goes to close a window flapping in the storm and sees a reflection in the glass. Janeway turns to gaze at a portrait of a woman. Someone puts a hand on her shoulder and she jumps.) 
+BURLEIGH: Forgive me. I've startled you.
+JANEWAY: I'm sorry. I didn't here you come in.
+BURLEIGH: Mrs Davenport, I'll come to the point. I am not an easy man to live with. Since my wife died I'm told I'm even worse. She was a buffer for me.
+JANEWAY: I understand.
+BURLEIGH: The children are the ones who've suffered. I've not been much of a father to them, and God knows I can't be a mother. I'm not asking that you replace their mother, but I think that they'll respond to a woman's sensibilities. You might fill a void in their lives.
+JANEWAY: I'll certainly try, your Grace.
+BURLEIGH: Young Henry is sometimes a bit stubborn and little Beatrice misses her mother terribly. I hope they won't make things difficult for you. One thing above all I must demand. You are never, under any circumstances, to go onto the fourth floor. Is that clear?
+KIM: [OC]: Bridge to Captain Janeway.
+JANEWAY: Go ahead, Mister Kim.
+KIM [OC]: I've got Commander Chakotay and 
+[Bridge] 
+KIM: Mister Tuvok's shuttlecraft on long range sensors, but they're not responding to our hails. The shuttle's been badly damaged. I'm reading multiple hull fractures.
+JANEWAY [OC]: Life signs?
+KIM: Two, but they're very faint.
+JANEWAY [OC]: Beam them to Sickbay as soon as they're in range. I'm on my way.
+KIM: Aye, Captain. 
+[Sickbay] 
+(Tuvok is unconscious on a biobed.) 
+JANEWAY: Doctor. 
+EMH: They've each taken a blast to the head by some kind of energy discharge. Cardiostimulator. Mister Tuvok has a serious concussion, but it's nothing I can't handle. As for Commander Chakotay, all of the bioneural energy has been extracted from his brain.
+JANEWAY: Extracted?
+EMH: Yes. From the looks of it, someone drained the energy from every single axon and dendrite right down to the synapses. I can keep his heart beating and I can keep him breathing, but other than that there's nothing I can do. He's brain dead.
+(Later, Tuvok is awake.) 
+TUVOK: The attack lasted no more than a few seconds, but it was highly effective. I feel Commander Chakotay and I are fortunate to be alive.
+JANEWAY: What happened, Lieutenant?
+TUVOK: We had completed our trade mission with the Ilidarians and were on course to the rendezvous point when we encountered a dark matter nebula. As we began a routine analysis, an unidentified ship emerged and attacked our shuttle.
+JANEWAY: Any idea why?
+TUVOK: No. They would not respond to our hails. We were hit by an energy discharge which penetrated our shields and filled the cabin. Commander Chakotay lost consciousness immediately, and I was barely able to activate the autopilot before I was overcome as well.
+JANEWAY: And the alien ship?
+TUVOK: The last image I saw was the ship flying back into the nebula, but the details are difficult to remember.
+EMH: Can you tell me anything about the energy discharge? Its modulation or phase distribution?
+TUVOK: No. There was no time for a detailed analysis. However, the shuttle's sensors may have recorded information that could be helpful. I will download the sensor logs.
+JANEWAY: Why would someone want to extract his bioneural energy?
+EMH: I don't know, but if I'm to have any hope of reviving him, I must know precisely how his neurons were depleted. It would be a great help if I could examine the weapon.
+JANEWAY: We're going back to that nebula to try to find the ship that attacked you. Janeway to Bridge. Prepare to lay in a new course. Mister Tuvok will provide you with the coordinates.
+PARIS [OC]: Aye, Captain.
+JANEWAY: We'll keep you posted, Doctor. 
+[Bridge] 
+TUVOK: The energy discharge overloaded the shuttlecraft's central computer core. All sensor data have been erased.
+JANEWAY: Lieutenant Torres is in Sickbay now. When she reports, tell her to go over those damaged sensor logs with a fine tooth comb to see if she can reconstruct any of the data.
+TUVOK: Aye, Captain.
+JANEWAY: Well, this is going to make things a little more difficult. I've been using the long range sensors to analyze the nebula you discovered. It's sending out strong electromagnetic radiation. We won't be able to scan inside it. You know, it sounds to me like a perfect hiding place.
+TUVOK: I agree.
+JANEWAY: I don't like the idea of going in there blind. Let me see if I can reconfigure the sensors to a multiphasic bandwidth.
+TUVOK: Is there a problem?
+JANEWAY: I've lost all sensor contact with the nebula. I don't understand. Wait a minute, we've altered course. Mister Paris?
+PARIS: Our new heading is one twenty one mark six. We've completely come about, Captain, but it wasn't me.
+JANEWAY: Mister Kim, check the navigational computer. Who ordered the course change?
+KIM: According to my readings, the command was issued from the conn.
+PARIS: I'm telling you, it wasn't me, and the helm controls are working perfectly. No sign of a malfunction.
+JANEWAY: Ensign, transfer helm control to your station and reset our original course.
+KIM: Course laid in.
+JANEWAY: Mister Paris, I want you to run a full diagnostic on the conn station. See if you can isolate the problem.
+PARIS: Aye, Captain. 
+[Sickbay] 
+(Torres holds a carved stone to Chakotay's head then places it on a skin held in a frame. The skin is painted with an eight pointed star and various Mesoamerican pictograms. The stone sticks.) 
+EMH: You might have asked before adorning my Sickbay with animal remains.
+TORRES: It's a medicine wheel, a talisman used by Chakotay's tribe. He once showed me how it works. He said if anything ever happened to him, that I should perform a special healing ritual.
+EMH: Ah.
+TORRES: The wheel represents both the universe outside and the universe inside our minds as well. They believe each is a reflection of the other. When a person is sleeping, or on a vision quest, it's said that his soul is walking the wheel. But if he's in a coma or near death, it means that he's gotten lost. These stones are signposts to help point the way back. Not exactly standard medical procedure, I know, but 
+EMH: You've placed the Coyote Stone at the crossroads of the fifth and sixth realms, which would divert Commander Chakotay's soul, that is his consciousness, into the Mountains of the Antelope Women. According to his tradition, an extremely attractive locale. He might not want to leave.
+TORRES: How do you know about the medicine wheel?
+EMH: It's my business to know about a variety of medical treatments, including those based on psycho-spiritual beliefs. Unfortunately, in this case, the medicine wheel won't be much help. There's just not enough of his mind left to work with.
+(The EMH leaves Torres to put the Coyote stone somewhere else.) 
+TORRES: Find your way home, Commander. 
+[Kes's quarters] 
+(Kes is reading a book.) 
+KES: Hello? Is someone here? 
+(We move with something as it passes her.) 
+[Mess Hall kitchen] 
+KES: It's like sensing some kind of presence, as if someone else were here.
+NEELIX: Your telepathic senses again. Is this like last week, when you went into Sickbay and you knew Lieutenant Hargrove had been there, only he'd left hours before?
+KES: It's not the same. That was like, like hearing faint music from a faraway place. When I was in my quarters just now 
+NEELIX: Mmm hmm?
+KES: It was almost tangible. I felt like there was someone in the room with me.
+NEELIX: Who was it?
+KES: I don't know. A presence, that's all I can say. 
+[Bridge] 
+(A male Lieutenant reports to Janeway.) 
+DURST: Warp engines still within normal parameters, Captain.
+(Whumph.) 
+JANEWAY: We just changed course again. Mister Kim?
+KIM: Our new heading is one twenty one mark six.
+JANEWAY: Get us back on course.
+KIM: The helm's not responding. I'm locked out.
+(Tuvok goes over to help.) 
+TUVOK: This command station has been blocked.
+JANEWAY: From where?
+TUVOK: The lockout originated on deck twelve, section B seven, navigational control.
+JANEWAY: See if you can re-establish control.
+(Paris enters.) 
+PARIS: I've checked every ODN junction in the helm control network, and I still can't find the problem.
+JANEWAY: It seems we've developed a new problem while you were gone.
+TUVOK: Helm control re-established.
+JANEWAY: Get us back on course for the nebula. Janeway to Torres.
+TORRES: [OC]: Torres here.
+JANEWAY: Who's in the navigational control?
+TORRES: [OC]: No one right now. I was there this morning, and Lieutenant Paris was in there just a few minutes ago.
+PARIS: That's not true.
+JANEWAY: Are you certain about that, B'Elanna?
+TORRES: [OC]: Positive. I just saw him leave about five minutes ago.
+JANEWAY: Janeway out. Explanation, Mister Paris? 
+PARIS: I passed by the navigational control on my way back from the Jefferies tube, but that's all. Am I being accused of something here?
+TUVOK: We are merely following a line of deductive reasoning, Lieutenant. Both deviations from our course were apparently issued from locations where you were working.
+PARIS: I'm telling you, I didn't do it. 
+JANEWAY: Well, I'm willing to rule out mutiny for time being. I believe you, Mister Paris, but we have to consider the possibility that you might be having a problem with your memory. I want you to go down to Sickbay. Have the doctor check you out.
+PARIS: All right.
+JANEWAY: Lieutenant Durst. 
+(Durst escorts Paris out.) 
+[Sickbay] 
+EMH: Neurotransmitters at normal. Synaptic functions stable. Hold still. This is an extremely sensitive scan.
+PARIS: What I wouldn't give to see good old Doc Brown right now.
+EMH: What?
+PARIS: Doc Brown. Lollipops in the waiting room, no holocomic books more than six months old, house calls. I caught a bad cold one time when I was nine years old. The doctor whipped up a pot of garlic soup and brought it over himself.
+(Tuvok enters.) 
+TUVOK: Your report, Doctor?
+EMH: I still have a series of tests to perform, but other than his irritating lapses into nostalgia, I see nothing wrong with him.
+PARIS: I guess you're going to have to round up another suspect, Tuvok.
+TUVOK: On the contrary, Lieutenant. I ran a forensic sweep of the navigational control. I found traces of your DNA on the console.
+PARIS: That's impossible.
+TUVOK: The cellular residue you left behind is less than twelve hours old. Do you still wish to maintain your innocence?
+PARIS: To be honest, I don't know what to think.
+EMH: Perhaps my biomolecular scan will reveal something.
+TUVOK: Keep me informed, Doctor. 
+[Bridge] 
+(Durst enters.) 
+TUVOK: I believe I have found the ion trail of the ship that attacked us. It leads directly into the dark matter nebula. This is the nebula, and this is the ion trail. As you can see, their flight path is highly erratic.
+JANEWAY: These planetoids inside the nebula, they may be generating a dangerous gravitational effect, like storm currents. Chances are they've mapped those currents and they're taking the only safe way through.
+TUVOK: A reasonable assumption. I recommend we follow their exact flight path.
+JANEWAY: Agreed. Lay in a course to the 
+(The lights go out.) 
+KIM: Captain, we're dropping to impulse power. I'm reading a massive energy drain all over the ship, and the warp core is shutting down.
+JANEWAY: Bridge to Engineering. Report. Lieutenant Torres, please respond. Mister Kim, take the Bridge. Tuvok, you're with me. 
+[Engineering] 
+JANEWAY: Torres, what's going on?
+TORRES: Captain?
+JANEWAY: You've initiated an emergency warp core shutdown.
+TORRES: What?
+JANEWAY: Too late. The warp core is offline. It'll take at least two hours to regenerate the dilithium matrix. Ensign, get the rest of the systems back online. Apparently, you've just crashed the main computer, locked out the Bridge and stopped this ship cold. Do you want to tell me why?
+TORRES: Captain, I don't know what you're talking about.
+JANEWAY: What the hell is going on here? 
+[Sickbay] 
+EMH: I found something, and you're not going to like it. This is Mister Paris' memory engram for the last twenty four hours. As you can see, it has a very consistent and distinctive modulation, except at thirteen fifty hours. For one minute forty seven seconds, a different memory pattern appeared. Thirteen fifty hours is also the exact moment when Mister Paris presumably tampered with navigational control. It gets worse. In addition to that, there is another disruption at twelve oh two hours, the moment when he allegedly entered the new course at the helm. I also found there's an identical disruption in Lieutenant Torres's pattern at the moment she shut down warp power. I should point out that this is a neuroelectrical signature, what I believe to be another brain wave that was superimposed on their own.
+PARIS: Another brain wave? Whose?
+EMH: I don't know. It has an unusual energy signature, one I've never seen before.
+JANEWAY: Doctor, what are you saying?
+EMH: One possible explanation, and the only one I can think of at the moment, is that an unknown alien entity momentarily took control of their minds.
+TUVOK: Intruder alert. All security personnel, go to Condition Four. Captain, it is possible the intruder returned with us in the shuttlecraft.
+JANEWAY: If we're right and there is an alien here, it seems intent on preventing us from going back to the nebula. What's more, it seems to have the ability to jump from person to person. If that's true, it could be in any one of us, controlling our actions without us realising it.
+EMH: Well, except for me.
+PARIS: That's true. So far it's only affected organic beings. If it could control the computer and navigational systems directly, it probably would've done it already.
+JANEWAY: Which means the doctor is the only person on board we can trust at this moment. Doctor, until we have eliminated this alien presence, I can't take the risk that it could take over any of the senior officers. I'd like to transfer all command codes to you until further notice.
+EMH: What would that mean? That I am in command?
+JANEWAY: No, but you will act as a failsafe. If you feel at any time that any one of us are under the influence of the alien, you can countermand our orders and take control of the ship. Do you feel up to it?
+EMH: Well, of course. I make life and death decisions every day.
+PARIS: I feel better already.
+JANEWAY: Computer, transfer all command codes to the holographic doctor. Authorisation Janeway eight four one alpha six five.
+COMPUTER: Command code transfer complete.
+JANEWAY: Let's see if we can get the warp core back online ahead of schedule.
+TORRES: Aye, Captain. 
+[Corridor] 
+KES: Captain, I heard what's happened. I think you're right. There is an alien presence here, I've been sensing something unusual all day. I don't know how to describe it, but I know there's something here.
+(The thing flies along the corridor.) 
+JANEWAY: Do you know where?
+KES: No, just that it's on the ship.
+TUVOK: Captain, Kes's telepathic abilities are undisciplined. If I could initiate a Vulcan mind-meld with her, I may be able to help her focus those abilities to detect the alien more accurately.
+KES: I'm willing to do that.
+JANEWAY: Very well. Proceed, Mister Tuvok. 
+(Elsewhere.) 
+KIM: The captain wants to seal off all critical areas of the ship. Make sure the access hatch of Jefferies tube A-seventeen is secured.
+DURST: So what exactly are we securing against?
+KIM: We're not sure yet, but we think it's some kind of noncorporeal alien.
+DURST: Noncorporeal? That means it can probably move through a bulk 
+(A turbolift door opens to reveal Tuvok and Kes unconscious.) 
+KIM: Medical emergency. Deck seven, section thirteen alpha. 
+Captain's log, supplemental. It appears that Mister Tuvok and Kes were both hit by an unidentified energy discharge. Tuvok was not badly hurt, but Kes is in a coma. 
+[Briefing room] 
+TUVOK: It was similar to the attack on the shuttlecraft. An energy discharge came through the bulkhead, filled the turbolift and hit both of us.
+TORRES: We didn't pick up a discharge of any kind on the internal sensors.
+TUVOK: Perhaps this type of energy is beyond our sensor bandwidth.
+JANEWAY: Perhaps, but that discharge had to come from somewhere.
+PARIS: The most thorough scanning device we have on board is a magneton scanner. We could search the ship centimetre by centimetre, but that wouldn't do much good. This alien could be anywhere at any time.
+TORRES: But what if we could perform a magneton scan on the entire ship all at once?
+JANEWAY: What do you suggest?
+TORRES: A magneton flash scan. We could reconfigure every sensor array on the ship to emit a single burst. It might be enough to illuminate any anomalous energy. Harry, what do you think?
+(Harry is staring at nothing, so Tuvok draws his phaser and Torres gets out a tricorder.) 
+KIM: Whoa. What did I do?
+TUVOK: Stay where you are, Mister Kim.
+TORRES: I don't see anything unusual, but that doesn't mean anything.
+JANEWAY: Mister Kim, what were you doing just now?
+KIM: I was just thinking. I was remembering an old study I saw about magneton scanners. I guess my mind started to wander a bit.
+JANEWAY: I'm very disturbed by what just happened here. We don't have any idea what occurs when someone is occupied by this alien presence. If we start pointing a finger every time someone gets distracted, it won't be long before outright paranoia starts sweeping the ship. Tuvok, B'Elanna, I want you to get started on that magneton flash scan. It's worth a try. Dismissed. 
+[Sickbay] 
+(The EMH is checking on Kes.) 
+NEELIX: And that's not all. Ensign Parsons ordered his pejuta cold.
+EMH: So?
+NEELIX: He always drinks it hot. Hot! With lemon. But not today. Today it's cold pejuta, hold the lemon.
+EMH: Mister Neelix, just because a man changes his drink order doesn't mean he's possessed by an alien.
+NEELIX: Nevertheless, don't you think you should scan him or dissect him or something, just to make sure?
+EMH: I could examine every crew member you've mentioned so far, every person on board, for that matter and it wouldn't do any good. From what we can tell, the alien can jump from person to person at will.
+NEELIX: It sounds to me like you're defending Ensign Parsons.
+EMH: I'm not defending him, I'm just pointing out that you're acting a little paranoid. In fact, one could say you're acting a little too paranoid.
+NEELIX: Are you suggesting that I, that I could possibly? Doctor, I can assure you, not even an alien intruder could make me do anything to hurt Kes.
+EMH: All I'm suggesting, Mister Neelix, is that paranoia is only going to aggravate your already precarious emotional condition. Try to relax. I don't think Kes has suffered any permanent neurological damage. I'll let you know the moment I've had any success in reviving her.
+NEELIX: I'll be back as soon as you wake, dearest. And don't worry, you're in good hands. Thank you, Doctor.
+(Neelix leaves and Tuvok enters.) 
+EMH: What are you doing?
+TUVOK: I am reconfiguring the sensor relays on the ship. This will only take a minute.
+EMH: Must you do it now? I'm in the middle of a treatment.
+TUVOK: I am sorry, Doctor. Captain's orders. How is she?
+EMH: No irreparable damage. In fact, her injuries are quite different from Commander Chakotay's. Her bioneural energy is completely intact, and I'm curious about these contusions on her neck and shoulder. They're not consistent with an energy discharge. They look more like wounds sustained during a physical struggle.
+TUVOK: Odd. There was no physical struggle that I can recall.
+EMH: I just don't understand it. The only thing these injuries come close to resembling is an extreme trauma to the trapezius nerve bundle. It's as though her nerve fibres have been ruptured. 
+[Ready Room] 
+JANEWAY: Come in.
+TUVOK: Lieutenant Torres and I will be ready to initiate the magneton scan in approximately two hours. You should be aware that it will be a high-intensity burst. It will cause dizziness and disorientation in all crew members, including myself, for several seconds.
+JANEWAY: Make a ship-wide announcement before you initiate the scan.
+TUVOK: Aye, Captain. There is another matter of some concern. It appears that Kes's injuries were not caused by an energy discharge. The doctor has found evidence that she was physically assaulted.
+JANEWAY: Assaulted? But you weren't physically assaulted.
+TUVOK: That is correct.
+JANEWAY: Is it possible that you inflicted her wounds?
+TUVOK: Me?
+JANEWAY: Maybe you were inhabited by the alien at that moment.
+TUVOK: It is possible. Perhaps we should have the doctor run a neurological scan to see if I show a memory disruption.
+JANEWAY: Agreed. Janeway to Sickbay. Computer, activate Emergency Medical Holographic System.
+COMPUTER: Unable to comply. The EMH programme has been disabled.
+JANEWAY: Disabled? By whom?
+COMPUTER: Unknown.
+JANEWAY: The Doctor's initialisation routine has been locked out. It's encrypted. I can't reactivate the programme.
+TUVOK: It appears the lockout originated somewhere above deck four.
+JANEWAY: Why would someone deactivate the Doctor?
+TUVOK: The Doctor does hold the command codes to Voyager.
+JANEWAY: Yes, but once he was deactivated the codes automatically reverted back to me.
+TUVOK: If we assume the alien could not take over the holographic doctor, then logically it would try to force the command codes back into a humanoid host.
+JANEWAY: Me. It's too dangerous for one person to retain the command codes at this point. I suggest we divide my command protocols into two code groupings.
+TUVOK: A sensible precaution.
+JANEWAY: You would be the reasonable choice to hold the second grouping, if there's any such thing as a reasonable choice right now. The alien could occupy either one of us at any time.
+TUVOK: But presumably not both of us at the same time.
+JANEWAY: I'll tell the bridge crew the plan. We'll all have to act as checks and balances for each other. 
+[Bridge] 
+(The thing is watching from above.) 
+JANEWAY: I want you all to be aware of something that has happened, something I must assume was due to the alien. The Doctor has been deactivated, and we can't get him back online. I have decided to divide my command protocols.
+TUVOK: Captain? 
+(Janeway hits Tuvok, knocking him down. He draws a phaser but she kicks it out of his hand.) 
+TUVOK: Stun her! She's the alien! 
+(Paris obeys. Then Kim pulls his phaser and Paris disarms him. Next to try and shoot Tuvok is Durst, but he misses. Paris hits him then Tuvok stuns all the bridge crew with a wide burst.) 
+[Sickbay] 
+(Paris gives Janeway a hypo.) 
+PARIS: That should do it, Captain.
+JANEWAY: Thank you, Mister Paris. I feel better already. Any luck getting the Doctor back online?
+KIM: Not yet. Whoever did this put up one hell of a roadblock. I'm going to have to break through at least six levels of encryption to access the holo-emitters.
+JANEWAY: How long is it going to take?
+KIM: Two, maybe three hours.
+TORRES [OC]: Torres to Janeway.
+JANEWAY: Go ahead.
+TORRES [OC]: Captain, can you come down to Engineering? There's something here I think you should see.
+JANEWAY: I'm on my way. Mister Paris, you're our temporary medic until the Doctor returns.
+PARIS: Right.
+JANEWAY: Ensign, I need you on the Bridge. 
+[Engineering] 
+TORRES: I've been trying to reconstruct the damaged sensor logs from Tuvok and Chakotay's shuttlecraft. I didn't have any luck until I ran a parity trace scan. Captain, the sensor logs weren't destroyed by an energy discharge. Someone erased them, and then overloaded the sensor matrix to make it look like they'd been damaged. It gets worse. There was enough information left in the backup logs for me to reconstruct what happened during the attack. They were near a dark matter nebula and an energy discharge did breach the hull, but there was no other ship.
+JANEWAY: No ship?
+TORRES: I'm certain of it. From what I can tell, the energy discharge came from the nebula itself.
+JANEWAY: Why would Tuvok lie about an attack?
+TORRES: He must have been under the alien's influence.
+KIM: [OC]: Bridge to Janeway. We're approaching the dark matter nebula.
+JANEWAY: Acknowledged. How long until the magneton flash scan is ready to go?
+TORRES: The sensor arrays are charging now. Fifteen, maybe twenty minutes.
+JANEWAY: When it's ready, transfer control of the scan to the Bridge. In the meantime, I think we should take a look at exactly what it is we're not supposed to see. 
+[Bridge] 
+JANEWAY: Mister Tuvok, can you locate the ion trail of the alien ship that attacked you?
+TUVOK: I believe so. Mister Kim, lay in that course. Shields are at maximum, Captain. All preparations for entering the nebula are complete.
+PARIS: Captain, I've finished the bioanalysis the doctor was running on Kes before he was deactivated. I think he was on to something. If I'm interpreting his data correctly, the bruises on Kes's neck and shoulders were the result of a Vulcan neck pinch.
+JANEWAY: Lieutenant?
+TUVOK: I have no memory of injuring Kes. Perhaps I was occupied by the alien at that time.
+JANEWAY: Perhaps so, but then, why does it keep attacking you? In three separate instances now, it's assaulted you.
+TUVOK: I am the Chief of Security. It may see me as a particular threat.
+JANEWAY: So far, you've posed no greater threat than anyone else, and yet it keeps going after you.
+TUVOK: Captain, I believe you are having a typically human response to circumstances which are frightening and inexplicable, commonly known as paranoia.
+JANEWAY: Maybe, but I don't think it's paranoia that's keeping me from picking up this ion trail of yours. What bandwidth are you on?
+TUVOK: I'm using a multiphasic scan. If you examine the alpha K band, you will see it.
+JANEWAY: Yes, here it is. A very interesting ion trail. There's no sign of any subspace distortions in its wake. According to these readings, it's a ship without engines. You're lying, Tuvok. There is no alien ship, and there never was. We're not going inside that nebula until we get some answers. Mister Kim, reverse course and 
+TUVOK: (draws phaser) Belay that order. That is exactly what the alien has been trying to do, keep us from entering the nebula. I suspect the captain has been occupied. I am relieving her of command. Ensign, proceed into the nebula, one half impulse.
+JANEWAY: Don't do it, Harry.
+TUVOK: Now, Ensign.
+KIM: No sir, I won't do it.
+TUVOK: I must inform you this phaser is on wide beam dispersal and set to kill. I am taking command of this Bridge. I must ask you all to stand together where I can see you. Step away from the console, Ensign.
+(Tuvok takes over the operations console. The crew report to Janeway in hushed tones.) 
+DURST: Captain, we're entering the nebula.
+KIM: Captain, I'm picking up some kind of energy pulses in the nebula, highly coherent, with a biomatrix.
+JANEWAY: Life forms.
+KIM: And they're heading this way.
+JANEWAY: (to Tuvok) Those beings out there, are they your people?
+TUVOK: We are the Komar. This is our domain.
+(Down in Engineering, the thing flies around. Torres suddenly stiffens then goes to a control panel and does something. The ship jolts.)
+JANEWAY: What's happening?
+DURST: The warp core's been ejected.
+TUVOK: No. No! We must continue.
+TORRES [OC]: Torres to Bridge. Captain 
+[Engineering] 
+TORRES: I think I was just taken over by the alien. One second I was working the plasma relays and the next thing I knew, I was ejecting 
+[Bridge] 
+TORRES [OC]: The warp core.
+JANEWAY: Acknowledged, Lieutenant. Stand by.
+PARIS: I don't get it. If the alien's in Tuvok, how could it be down in Engineering at the same time?
+KIM: I don't know. Unless there are two aliens.
+PARIS: Two?
+JANEWAY: Wait a minute. Lieutenant Torres isn't authorised to eject the warp core on her own. That requires a command code authorisation. Computer, who authorised the ejection of the warp core?
+COMPUTER: The authorisation was entered by Commander Chakotay.
+JANEWAY: Chakotay.
+KIM: How is that possible?
+JANEWAY: The alien in Tuvok wants us in that nebula, but there's another presence that's been trying to keep us out. It doesn't make sense, unless it's Chakotay and he knows we'll be in danger if we go in there.
+KIM: But he's in Sickbay. He's brain dead.
+JANEWAY: Maybe not. Maybe his neural energy was displaced somehow and he's able to move from person to person.
+DURST: Tuvok's engaged emergency thrusters. We're moving again, Captain.
+(Voyager enters the nebula.) 
+JANEWAY: You brought us here, for what? To extract our neural energy? 
+TUVOK: Very perceptive, Captain. The collective neural energy of your crew will sustain my people for years to come.
+JANEWAY: You don't have to do this. Maybe we can help you find another source of energy.
+KIM: Captain, we're under attack. We're being bombarded by the energy beings.
+(Janeway activates the flash-scan. Tuvok is stunned and blinded, so Paris can take the phaser off him. Tuvok collapses before Paris can stun him. An energy leaves him and goes through the bulkhead. Paris runs a medical tricorder over Tuvok and nods to Janeway.) 
+JANEWAY: The magneton scan identified the entity before it left the ship. It was a trianic-based energy being.
+KIM: Looks like he's joined his friends outside.
+(Whumph.) 
+PARIS: Shields are holding, but they won't last long at this rate, and the electromagnetic radiation is blinding our sensors. I can't find a way out.
+JANEWAY: Come about. Maybe if we reverse course, we can just backtrack.
+PARIS: Yes, ma'am.
+KIM: I don't know if that'll work, Captain. Tuvok was navigating a complicated course. We could be going deeper into the nebula.
+JANEWAY: Mister Kim, maybe you can reconstruct Tuvok's navigational logs.
+KIM: I'm on it, Captain.
+(Whumph.) 
+DURST: Shields down to sixty five percent, Captain! The energy beings are starting to penetrate our defences.
+(In Sickbay, an entity enters Neelix. He goes to the medicine wheel and moves the stones.) 
+KIM: I'm not having any luck. Tuvok deleted the navigational logs as he went along. He wanted to make sure we didn't get out of here.
+NEELIX [OC]: Neelix to Bridge.
+JANEWAY: Go ahead.
+NEELIX [OC]: Captain, I can't be sure but 
+[Sickbay] 
+NEELIX: I think I was just taken over by the alien. 
+[Bridge] 
+NEELIX [OC]: And I've done something very strange. I've rearranged the stones on the medicine wheel.
+JANEWAY: If it's Chakotay, maybe he's trying to tell us something. Mister Kim, activate Sickbay visual relay sixteen and put it on the view screen.
+KIM: Aye, Captain.
+(A picture of the medicine wheel is on the viewscreen.) 
+JANEWAY: What is it? What does it mean? Is it a code, a message?
+PARIS: Or a map.
+JANEWAY: Computer, overlay a star map of the nebula on the current viewscreen image.
+PARIS: The stones are in the same position as those three planetoids. Chakotay must be using them to point a way out.
+JANEWAY: Mister Kim, lay in a course that takes us along a line connecting those three planetoids. Engage.
+(It is a bumpy ride.) 
+DURST: Shields failing. The aliens are penetrating the hull.
+JANEWAY: Mister Kim, report.
+KIM: We're passing the third planetoid now, Captain. The dark matter density is thinning. Reading normal space ahead.
+JANEWAY: Bridge to Torres. Transfer all remaining power to the thrusters, including life support.
+KIM: We've cleared the nebula, Captain. Main power coming back online. Shields at full strength, hull integrity normal. The alien beings are not pursuing. 
+Captain's log, stardate 48735.9. We have returned to the co-ordinates where we ejected the warp core and have successfully retrieved it. Now we're hoping the Doctor will be able to successfully reintegrate Commander Chakotay's consciousness. 
+[Sickbay] 
+(Janeway and Torres are looking over the EMH's shoulders.) 
+JANEWAY: Did it work?
+EMH: It appears so. Commander. Can you hear me?
+CHAKOTAY: Yes. I'm a little dizzy, but I think I'm all here.
+TORRES: How did you manage to reintegrate his consciousness?
+EMH: It involved three neural transceivers, two cortical stimulators and fifty gigaquads of computer memory. I would be happy to take you through the process, but it would take at least ten hours to explain it all to you. Needless to say, it was a remarkable procedure. I would consider writing a paper about it if there were a convenient forum in which to publish it.
+(Janeway puts her hands on Chakotay's bare shoulder.) 
+JANEWAY: What happened, Commander?
+CHAKOTAY: After the attack on the shuttle, I had the sensation of floating above my own body. I thought I was dead.
+JANEWAY: And when the shuttle returned to Voyager you were still disembodied?
+CHAKOTAY: Yes. I couldn't speak, I couldn't touch anything. But then I found if I concentrated on someone who was in the room with me, I could share their consciousness. At first I could only do little things with the host's body. Push buttons, work a console. As time went on, it became easier to do more. I'm sorry I had to knock you around, Tuvok.
+TUVOK: No apology is necessary.
+JANEWAY: Good job, Commander, and welcome back.
+CHAKOTAY: To be honest, I feel like I never left. 

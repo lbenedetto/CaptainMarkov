@@ -1,0 +1,380 @@
+The Measure of a Man
+Captain's log, stardate 42523.7. We are en route to newly established Starbase one seven three for port call. Crew rotation is scheduled, and we will be off-loading experiment modules. 
+[Data's quarters] 
+(Pulaski, La Forge, Data (wearing a dealer's shade) O'Brien and Riker are sitting down for an evening's entertainment) 
+O'BRIEN: Hold it, that's my chair. My luck is always lousy unless I start on the dealer's right. 
+DATA: That would seem to be superstition. 
+O'BRIEN: Bitter experience has taught me it's a fundamental truth. 
+RIKER: Okay, the game is five card stud, nothing wild. Ante up. 
+DATA: This game is exceedingly simple. With only fifty two cards, twenty one of which I will see, and four other players, there are a limited number of winning combinations. 
+LAFORGE: There's more to this than just the cards, Data. 
+DATA: Of course. The bets will indicate of the relative strength of each hand. 
+O'BRIEN: Time to pluck a pigeon. 
+(Kate starts the betting) 
+PULASKI: Five. 
+LAFORGE: I'm in. 
+DATA: I too. 
+RIKER: Call. 
+(The first lot of face up cards are dealt) 
+RIKER: A seven, and a six, and the ace. 
+DATA: I bet ten. 
+O'BRIEN: See that. 
+RIKER: Call. 
+PULASKI: Fold. 
+LAFORGE: Yeah, me too. I'm out. 
+(Another deal. Riker is showing the ten, Jack and five of hearts. Data has two Queens and an Ace) 
+DATA: I bet five. 
+O'BRIEN: Same. 
+RIKER: Your five. And five. 
+(Data sees the bet) 
+O'BRIEN: Too rich for me. 
+(Final card) 
+RIKER: No help. 
+(He gives himself the four of hearts. Ooo's all round) 
+DATA: I bet ten. 
+RIKER: Your ten and ten. 
+(We discover that Data has a third Queen. He looks at Riker) 
+DATA: Is that what is known as a poker face? 
+RIKER: Are you playing or not? 
+DATA: I fold. 
+(Riker's hole card was the two of spades. Busted) 
+DATA: You had nothing! 
+LAFORGE: He bluffed you, Data. 
+DATA: It makes very little sense to bet when you cannot win. 
+RIKER: But I did win. I was betting that you wouldn't call. 
+DATA: How could you tell? 
+PULASKI: Instinct, Data, instinct. The game is seven card high/low with a buy on the last card. And just to make it more interesting, the man with the axe takes all. 
+[Starbase 173] 
+(Enterprise is docked at a space station. You can see her from the window) 
+(Picard is relaxing in the coffee lounge when he sees a woman at the top of the stairs) 
+PICARD: My God. (He walks over to her) Phillipa Louvois. And back in uniform. It's been ten years, but seeing you again like this makes it seem like fifty. If we weren't around all these people, do you know what I would like to do? 
+PHILLIPA: Bust a chair across my teeth? 
+PICARD: After that. 
+PHILLIPA: Ain't love wonderful. 
+(They sit together at a table) 
+PICARD: So, what are you doing out here? 
+PHILLIPA: I am in charge of the Twenty third Sector JAG office. We're brand new. I have no staff but one terrified little Ensign. Hopefully we can make some good law out here. 
+PICARD: Anything is possible. So you came back to Starfleet. 
+PHILLIPA: Still the most exciting and worthwhile place to be. 
+PICARD: You had no reason to leave. 
+PHILLIPA: They forced me out. 
+PICARD: No. That was your own damn stubborn pride. 
+PHILLIPA: When I prosecuted you in the Stargazer court martial, I was doing my job. 
+PICARD: Oh, you did more than your job. You enjoyed it. 
+PHILLIPA: Not true! A court martial is standard procedure when a ship is lost. I was doing my duty as an officer of the Judge Advocate General. 
+PICARD: You always enjoyed the adversarial process more than arriving at the truth. Well, I hope you've learned a little wisdom along the way. 
+PHILLIPA: You know, I never thought I would say this, but it's good to see you again. It brings a sense of order and stability to my universe to know that you're still a pompous ass. And a damn sexy man. 
+NAKAMURA: Captain Picard? 
+PHILLIPA: Admiral. 
+NAKAMURA: Captain Louvois. You're acquainted with Captain Picard? 
+PHILLIPA: Oh, yes. We're old friends. Excuse me. Picard, call me. You can buy me dinner. 
+(Phillipa exits) 
+NAKAMURA: Captain, it's good to see you again. 
+PICARD: Admiral. 
+NAKAMURA: May I present Commander Bruce Maddox. 
+PICARD: Commander. 
+NAKAMURA: He has an interesting proposal for you, but that can wait for a while. I'm eager to see the Enterprise. 
+PICARD: Yes, sir. This way. 
+[Bridge] 
+RIKER: Admiral on the Bridge. 
+PICARD: I was a little surprised at the decision to put a base in force so close to the Neutral Zone. 
+NAKAMURA: As you know, we've had disturbing news from both sides of the zone. We're here to respond when needed. And it won't hurt to have the Romulans know that we're nearby. Well, Captain, I want to thank you for this opportunity. For five hundred years every ship that has borne the name of the Enterprise has been a legend. This one is no different. 
+MADDOX: Admiral. 
+NAKAMURA: Oh yes, Captain. Commander Maddox is here to do some work on your android. Please take care of him. 
+(Nakamura leaves) 
+MADDOX: How have you been, Data? 
+DATA: My condition does not alter with the passage of time, Commander. 
+PICARD: The two of you are acquainted? 
+MADDOX: Yes, I evaluated Data when it first applied to the Academy. 
+DATA: And was the sole member of the committee to oppose my entrance on the grounds that I was not a sentient being. 
+PICARD: What exactly will this work entail? 
+MADDOX: I am going to disassemble Data. 
+[Observation lounge] 
+PICARD: All right, explain this procedure. 
+MADDOX: Ever since I first saw Data at the entrance evaluation at the Starfleet Academy, I've wanted to understand it. I became a student of the works of Doctor Noonien Soong, Data's creator, and I've tried to continue his work. I believe I am very close to the breakthrough that will enable me to duplicate Doctor Soong's work and replicate this. But as a first step I must disassemble and study it. Data is going to be my guide. 
+PICARD: Data? 
+DATA: It sounds intriguing. 
+RIKER: How will you proceed? 
+MADDOX: I will run a full diagnostic on Data, evaluating the condition of its current software. I will then dump its core memory into the starbase mainframe computer and begin a detailed analysis of its construction. 
+DATA: You've constructed a positronic brain? 
+MADDOX: Yes. 
+DATA: Have you determined how the electron resistance across the neural filaments is to be resolved? 
+MADDOX: Not precisely. 
+DATA: That would seem to be a necessary first step. 
+MADDOX: I am confident that I will find the answer once I examine the filament links in your anterior cortex. 
+DATA: But if the answer is not forthcoming, your model will not function. 
+MADDOX: I do not anticipate any problems. 
+RIKER: You seem a little vague on the specifics. 
+PICARD: What are the risks to Commander Data? 
+MADDOX: Negligible. 
+DATA: Captain, I believe his basic research lacks the specifics necessary to support an experiment of this magnitude. 
+PICARD: Commander Data is a valued member of my Bridge crew. Based on what I've heard, I cannot allow Commander Data to submit himself to this experiment. 
+MADDOX: I was afraid this might be your attitude, Captain. Here are Starfleet's transfer orders separating Commander Data from the Enterprise, and reassigning it to Starbase one seventy three under my command. Data, I will see you in my office tomorrow at zero nine hundred hours. 
+[Ready room] 
+PICARD: Come. 
+(Data enters) 
+DATA: You sent for me, sir? 
+PICARD: Data, please sit down. Well, we have a problem. 
+DATA: I find myself in complete agreement with that assessment of the situation, sir. 
+PICARD: Your service to this ship has been exemplary. I don't want to lose you. 
+DATA: I will not submit to the procedure, sir. 
+PICARD: Data, I understand your objections, but I have to consider Starfleet's interests. What if Commander Maddox is correct, there is a possibility that many more beings like yourself could be constructed. 
+DATA: Sir, Lieutenant La Forge's eyes are far superior to human biological eyes. True? Then why are not all human officers required to have their eyes replaced with cybernetic implants? (Picard looks away) I see. It is precisely because I am not human. 
+PICARD: That will be all, Mister Data. 
+(Data leaves) 
+PICARD: Computer, pull all relevant information with regard to Starfleet regulations on the transfer of officers. 
+COMPUTER: Working. 
+[JAG office] 
+PHILLIPA: My God, twice in as many days. 
+PICARD: I need your help. 
+PHILLIPA: An historic moment. 
+PICARD: I have been trying to make sense of this gobbledygook, but it's beyond me. The fact is, my android officer, Data, is being transferred compulsorily to be made part of a highly dangerous, ill-conceived experiment, and I want it stopped. 
+PHILLIPA: He can refuse to undergo the procedure, but we can't stop the transfer. 
+PICARD: Once this Maddox has got control of Data, anything could happen. I don't trust that man. 
+PHILLIPA: We agree to certain risks when we join Starfleet. 
+PICARD: Yes. Acceptable risks, justified risks, but I can't accept this. It's unjustified. It's unfair. He has rights. 
+PHILLIPA: All this passion over a machine? 
+PICARD: Don't start. This is important to me. Is there an option? 
+PHILLIPA: There is always an option. He can resign. 
+PICARD: I see. 
+PHILLIPA: So you came to me for help. 
+PICARD: Yes, I came to you. You're the JAG officer for this sector. I had no choice but to come to you. 
+PHILLIPA: Wait! I didn't mean it that way. I'm glad that you felt you could, well, come to me. 
+PICARD: The word trust just isn't in your vocabulary, is it. Good try, nine out of ten for effort. 
+PHILLIPA: I wish things were different. 
+PICARD: I wish I could believe that. 
+[Data's quarters] 
+(Data is packing a very small carry case. It's contents include a small holo-projector that displays an image of Tasha Yar, an impressive collection of medals, He puts a book on the desk and then Maddox walks in without even knocking. Data comes back with another item to find Maddox reading) 
+MADDOX: 'When in disgrace with fortune and men's eyes, I all alone beweep my outcast state'. Is it just words to you, or do you fathom the meaning? 
+(Shakespeare's sonnet 29) 
+DATA: Is it not customary to request permission before entering an individual's quarters? 
+MADDOX: I thought that we could talk this out, that I could try to persuade you. Your memories and knowledge will remain intact. 
+DATA: Reduced to the mere facts of the events. The substance, the flavour of the moment, could be lost. Take games of chance. 
+MADDOX: Games of chance? 
+DATA: Yes, I had read and absorbed every treatise and textbook on the subject, and felt myself well prepared for the experience. Yet, when I finally played poker, I discovered that the reality bore little resemblance to the rules. 
+MADDOX: And the point being? 
+DATA: That while I believe it is possible to download the information contained in the positronic brain, I do not think you have acquired the expertise necessary to preserve the essence of those experiences. There is an ineffable quality to memory which I do not believe can survive your procedure. 
+MADDOX: Ineffable quality. I had rather we had done this together, but one way or the other, we are doing it. You are under my command. 
+DATA: No, sir, I am not under your nor anyone else's command. I have resigned from Starfleet. 
+MADDOX: Resigned? You can't resign. 
+DATA: I regret the decision, but I must. I am the culmination of one man's dream. This is not ego or vanity, but when Doctor Soong created me he added to the substance of the universe. If by your experiments I am destroyed, something unique, something wonderful will be lost. I cannot permit that, I must protect his dream. 
+MADDOX: And so must I. But keep packing, because one way or the other, you will be reporting. 
+Captain's log, supplemental. Commander Bruce Maddox, having been thwarted by Data's abrupt resignation, is now seeking a legal remedy for his woes. Captain Louvois has requested my presence at those discussions. 
+[JAG office] 
+MADDOX: Your response is emotional and irrational. 
+PICARD: Irrational? 
+MADDOX: You are endowing Data with human characteristics because it looks human. But it is not. If it were a box on wheels I would not be facing this opposition. 
+PHILLIPA: Overt sentimentality is not one of Captain Picard's failings. Trust me, I know. 
+PICARD: I will tell you again. Data is a valued member of my crew. He is an outstanding Bridge officer. 
+MADDOX: If I am permitted to make this experiment, the horizons for human achievement become boundless. Consider, every ship in Starfleet with a Data on board. Utilising its tremendous capabilities, acting as our hands and eyes in dangerous situations. 
+PHILLIPA: Look, you're preaching to the choir here. Why don't you get to the point? 
+MADDOX: Data must not be permitted to resign. 
+PICARD: Data is a Starfleet officer. He still has certain rights. 
+MADDOX: Rights! Rights! I'm sick to death of hearing about rights! What about my right not to have my life work subverted by blind ignorance? 
+PHILLIPA: We have rule of law in this Federation. You ca not simply seize people and experiment with them to prove your pet theories. 
+PICARD: Thank you. 
+MADDOX: Now you're doing it. Data is an extraordinary piece of engineering, but it is a machine. If you permit it to resign it will destroy years of work in robotics. Starfleet does not have to allow the resignation. 
+PICARD: Commander, who do you think you're working for? Starfleet is not an organisation that ignores its own regulations when they become inconvenient. Whether you like it or not, Data does have rights. 
+MADDOX: Let me put it another way. Would you permit the computer of the Enterprise to refuse a refit? 
+PHILLIPA: That's an interesting point. But the Enterprise computer is property. Is Data? 
+MADDOX: Of course. 
+PHILLIPA: There may be law to support this position. 
+PICARD: Then find it. A ruling with such broad ranging implications must be supported. Phillipa, I hope you will use the same zeal that you did in the Stargazer court martial. 
+[Ten forward] 
+(Data is very neatly undoing the wrapping of a present) 
+WESLEY: Data, you're supposed to rip the wrapping off. 
+DATA: With the application of a little care, Wes, the paper can be utilised again. 
+WESLEY: Data, you're missing the point. 
+(Now that he has carefully removed it, Data rips the paper in half, then reads the book title) 
+DATA: The Dream of the Fire, by K'Ratak. Thank you, Worf. 
+WORF: It was in the hands of the Klingons that the novel attained its full stature. 
+PULASKI: I couldn't disagree more. We'll save that argument for another day. DATA: Excuse me, please. 
+(Data goes over to Geordi, who is sitting on his own) 
+DATA: Is something wrong? 
+LAFORGE: Of course there is. You're going away. 
+DATA: No one regrets that necessity more than myself. You do understand my reasons? 
+LAFORGE: Sure, I understand. I just don't like your being forced out. It's not fair. 
+DATA: As Doctor Pulaski would at this juncture, no doubt, remind us, life is rarely fair. 
+LAFORGE: Sorry, that just doesn't make it any better. 
+DATA: I shall miss you, Geordi. 
+LAFORGE: Yeah. Me too. Take care of yourself, Data. 
+[JAG office] 
+(Picard and Riker are present to hear the outcome of the research into Data's status) 
+PHILLIPA: I have completed my research, based on the Acts of Cumberland passed in the early twenty first century. Data is the property of Starfleet. He cannot resign and he cannot refuse to cooperate with Commander Maddox. 
+PICARD: What if I challenge this ruling? 
+PHILLIPA: Then I shall be required to hold a hearing. 
+PICARD: Then I so challenge. Convene your hearing. 
+PHILLIPA: Captain, that would be exceedingly difficult. This is a new base. I have no staff. 
+PICARD: But surely, Captain, you have regulations to take care of such an eventuality. 
+PHILLIPA: There are. I can use serving officers as legal counsel. You as the senior officer would defend. 
+PICARD: Very good. 
+PHILLIPA: And the unenviable task of prosecuting this case would fall on you, Commander, as the next most senior officer of the defendant's ship. 
+RIKER: I can't. I won't. Data's my comrade. We have served together. I not only respect him, I consider him my friend. 
+PHILLIPA: When people of good conscience have an honest dispute, we must still sometimes resort to this kind of adversarial system. 
+RIKER: You just want me to prove that Data is a mere machine. I can't do that because I don't believe it. I happen to know better. So I'm neither qualified nor willing. You're going to have to find someone else. 
+PHILLIPA: Then I will rule summarily based upon my findings. Data is a toaster. Have him report to Commander Maddox immediately for experimental refit. 
+RIKER: I see. I have no choice but to agree. 
+PHILLIPA: Good. And I expect you to do your duty in that courtroom. If I find for one minute that you are not doing your best, I will end this then and there. 
+PICARD: You don't have to remind us of our duty. You just remember yours. 
+PHILLIPA: I have never forgotten it. Not then, and certainly not now. 
+[Ready room] 
+PICARD: Come. 
+(Data enters) 
+PICARD: Data, Captain Louvois has issued a ruling. You are the property of Starfleet Command. You can not resign. 
+DATA: I see. From limitless options I am reduced to none, or rather one. I can only hope that Commander Maddox is more capable than it would appear. 
+PICARD: Data, you're not going to submit. We're going to fight this. I challenged the ruling. Captain Louvois will be compelled to hold a hearing. She may be overly attached to the letter of the law, but I suspect that she still understands its spirit. We will put to rest this question of your legal status once and for all. Now, I have been asked to represent you, but if there is some other officer with which you would feel more happy? 
+DATA: Captain, I have complete confidence in your ability to represent my interests. 
+[Computer room] 
+RIKER: Computer, identify Riker, William T. Access code theta alpha two seven three seven, blue, enable. 
+COMPUTER: Riker, William T, identified. Ready. 
+RIKER: Access all available technical schematics on Lieutenant Commander Data. 
+COMPUTER: Working. 
+(Then up pops 'emergency manual control' and Data's off-switch location is displayed. Riker is fascinated at this new information, then realises the implication) 
+[Courtroom] 
+PHILLIPA: This hearing, convened on stardate 42527.4, is to determine the legal status of the android known as Data. The office of the Judge Advocate General has rendered a finding of property, the defence has challenged. Commander Riker? 
+RIKER: Your honour, there is only one issue, and one relevant piece of evidence. I call Lieutenant Commander Data. 
+(Data goes to the witness chair and puts his hand on a scanner on the table) 
+COMPUTER: Verify. Lieutenant Commander Data. Current assignment, USS Enterprise. Starfleet Command Decoration for Valour and 
+RIKER: Your honour, we'll stipulate to all of this. 
+PICARD: Objection, Your Honour, I want this read. All of it. 
+PHILLIPA: Sustained. 
+COMPUTER: Valour and Gallantry, Medal of Honour with Clusters, Legion of Honour, the Star Cross. 
+PHILLIPA: Proceed, Commander. 
+RIKER: Commander, what are you? 
+DATA: An android. 
+RIKER: Which is? 
+DATA: Webster's Twenty Fourth Century Dictionary, Fifth Edition, defines an android as an automaton made to resemble a human being. 
+RIKER: Automaton. Made. By whom? 
+DATA: Sir? 
+RIKER: Who built you, Commander? 
+DATA: Doctor Noonien Soong. 
+RIKER: And he was? 
+DATA: The foremost authority in cybernetics. 
+RIKER: More basic than that. What was he? 
+DATA: Human? 
+RIKER: Thank you. Commander, what is the capacity of your memory, and how fast can you access information? 
+DATA: I have an ultimate storage capacity of eight hundred quadrillion bits. My total linear computational speed has been rated at sixty trillion operations per second. 
+RIKER: Your Honour, I offer in evidence prosecution's exhibit A, a rod of par-steel. Tensile strength, forty kilobars. Commander, would you bend that? 
+PICARD: Objection. There are many life forms possessed of mega strength. These issues are not relevant to this hearing. 
+PHILLIPA: I'm afraid I can't agree, Captain. Proceed with you demonstration, Commander. 
+(Data bends the heavy rod neatly into a U shape) 
+RIKER: Drawing on the log record of the construction of the prototype android Lore, also constructed by Noonien Soong, I request to be allowed to remove the Commander's hand for your inspection. 
+PICARD: Objection! (changes his mind) It doesn't matter. Objection withdrawn. 
+PHILLIPA: Proceed, Commander. 
+RIKER: I'm sorry. 
+(Riker twists and pulls off Data's left forearm and hand)
+RIKER: The Commander is a physical representation of a dream, an idea conceived of by the mind of a man. It's purpose is to serve human needs and interests. It's a collection of neural nets and heuristic algorithms. Its responses dictated by an elaborate software programme written by a man. Its hardware built by a man. And now. And now a man will shut it off. 
+(A flick of the hidden off switch, and Data slumps across the table) 
+RIKER: Pinocchio is broken. Its strings have been cut. 
+(A horrified silence descends) 
+PICARD: I request a recess. 
+PHILLIPA: Granted. 
+[Ten forward] 
+(There is only one customer present, sitting at the bar) 
+GUINAN: Do you mean his argument was that good? 
+PICARD: Riker's presentation was devastating. He almost convinced me. 
+GUINAN: You've got the harder argument. By his own admission, Data is a machine. 
+PICARD: That's true. 
+GUINAN: You're worried about what's going to happen to him? 
+PICARD: I've had to send people on far more dangerous missions. 
+GUINAN: Then this should work out fine. Maddox could get lucky and create a whole army of Datas, all very valuable. 
+PICARD: Oh, yes. No doubt. 
+GUINAN: He's proved his value to you. 
+PICARD: In ways that I cannot even begin to calculate. 
+GUINAN: And now he's about to be ruled the property of Starfleet. That should increase his value. 
+PICARD: In what way? 
+GUINAN: Well, consider that in the history of many worlds there have always been disposable creatures. They do the dirty work. They do the work that no one else wants to do because it's too difficult, or to hazardous. And an army of Datas, all disposable, you don't have to think about their welfare, you don't think about how they feel. Whole generations of disposable people. 
+PICARD: You're talking about slavery. 
+GUINAN: I think that's a little harsh. 
+PICARD: I don't think that's a little harsh. I think that's the truth. But that's a truth we have obscured behind a comfortable, easy euphemism. Property. But that's not the issue at all, is it? 
+[Courtroom] 
+PICARD: Commander Riker has dramatically demonstrated to this court that Lieutenant Commander Data is a machine. Do we deny that? No. Because it is not relevant. We too are machines, just machines of a different type. Commander Riker has also reminded us that Lieutenant Commander Data was created by a human. Do we deny that? No. Again it is not relevant. Children are created from the building blocks of their parents' DNA. Are they property? I call Lieutenant Commander Data to the stand. 
+(Picard has Data's case with him. He opens it) 
+PICARD: What are these? 
+DATA: My medals. 
+PICARD: Why do you pack them? What logical purpose do they serve? 
+DATA: I do not know, sir. I suppose none. I just wanted them. Is that vanity? 
+PICARD: And this? 
+(The book) 
+DATA: A gift from you, sir. 
+PICARD: You value it? 
+DATA: Yes, sir. 
+PICARD: Why? 
+DATA: It is a reminder of friendship and service. 
+(Picard activates the hologram of Tasha) 
+PICARD: And this? You have no other portraits of your fellow crew members. Why this person? 
+DATA: I would prefer not to answer that question, sir. I gave my word. 
+PICARD: Under the circumstances, I don't think Tasha would mind. 
+DATA: She was special to me, sir. We were intimate. 
+(Phillipa sits up) 
+PICARD: Thank you, Commander. I have no further questions for this witness. 
+PHILLIPA: Commander Riker, do you want to cross? 
+RIKER: I have no questions, Your Honour. 
+PHILLIPA: Thank you. You may step down. 
+PICARD: I call to the stand Commander Bruce Maddox as a hostile witness. 
+COMPUTER: Verify, Maddox, Bruce, Commander. Current assignment, Associate Chair of Robotics, Daystrom Technological Institute. Major papers 
+PICARD: Yes, yes, yes. Suffice it to say, he's an expert. Commander, is your contention that Lieutenant Commander Data is not a sentient being and therefore not entitled to all the rights reserved for all life forms within this Federation? 
+MADDOX: Data is not sentient, no. 
+PICARD: Commander, would you enlighten us? What is required for sentience? 
+MADDOX: Intelligence, self awareness, consciousness. 
+PICARD: Prove to the court that I am sentient. 
+MADDOX: This is absurd! We all know you're sentient. 
+PICARD: So I am sentient, but Data is not? 
+MADDOX: That's right. 
+PICARD: Why? Why am I sentient? 
+MADDOX: Well, you are self aware. 
+PICARD: Ah, that's the second of your criteria. Let's deal with the first, intelligence. Is Commander Data intelligent? 
+MADDOX: Yes. It has the ability to learn and understand, and to cope with new situations. 
+PICARD: Like this hearing. 
+MADDOX: Yes. 
+PICARD: What about self awareness. What does that mean? Why am I self aware? 
+MADDOX: Because you are conscious of your existence and actions. You are aware of yourself and your own ego. 
+PICARD: Commander Data, what are you doing now? 
+DATA: I am taking part in a legal hearing to determine my rights and status. Am I a person or property? 
+PICARD: And what's at stake? 
+DATA: My right to choose. Perhaps my very life. 
+PICARD: My rights. My status. My right to choose. My life. It seems reasonably self aware to me. Commander? I'm waiting. 
+MADDOX: This is exceedingly difficult. 
+PICARD: Do you like Commander Data? 
+MADDOX: I don't know it well enough to like or dislike it. 
+PICARD: But you admire him? 
+MADDOX: Oh yes, it's an extraordinary piece of 
+PICARD: Engineering and programming. Yes, you have said that. Commander, you have devoted your life to the study of cybernetics in general? 
+MADDOX: Yes. 
+PICARD: And Commander Data in particular? 
+MADDOX: Yes. 
+PICARD: And now you propose to dismantle him. 
+MADDOX: So that I can learn from it and construct more. 
+PICARD: How many more? 
+MADDOX: As many as are needed. Hundreds, thousands if necessary. There is no limit. 
+PICARD: A single Data, and forgive me, Commander, is a curiosity. A wonder, even. But thousands of Datas. Isn't that becoming a race? And won't we be judged by how we treat that race? Now, tell me, Commander, what is Data? 
+MADDOX: I don't understand. 
+PICARD: What is he? 
+MADDOX: A machine! 
+PICARD: Is he? Are you sure? 
+MADDOX: Yes! 
+PICARD: You see, he's met two of your three criteria for sentience, so what if he meets the third. Consciousness in even the smallest degree. What is he then? I don't know. Do you? (to Riker) Do you? (to Phillipa) Do you? Well, that's the question you have to answer. Your Honour, the courtroom is a crucible. In it we burn away irrelevancies until we are left with a pure product, the truth for all time. Now, sooner or later, this man or others like him will succeed in replicating Commander Data. And the decision you reach here today will determine how we will regard this creation of our genius. It will reveal the kind of a people we are, what he is destined to be. It will reach far beyond this courtroom and this one android. It could significantly redefine the boundaries of personal liberty and freedom, expanding them for some, savagely curtailing them for others. Are you prepared to condemn him and all who come after him to servitude and slavery? Your Honour, Starfleet was founded to seek out new life. Well, there it sits. Waiting. You wanted a chance to make law. Well, here it is. Make a good one. 
+PHILLIPA: It sits there looking at me, and I don't know what it is. This case has dealt with metaphysics, with questions best left to saints and philosophers. I'm neither competent nor qualified to answer those. I've got to make a ruling, to try to speak to the future. Is Data a machine? Yes. Is he the property of Starfleet? No. We have all been dancing around the basic issue. Does Data have a soul? I don't know that he has. I don't know that I have. But I have got to give him the freedom to explore that question himself. It is the ruling of this court that Lieutenant Commander Data has the freedom to choose. 
+(Data walks over to Maddox) 
+DATA: I formally refuse to undergo your procedure. 
+MADDOX: I will cancel that transfer order. 
+DATA: Thank you. And, Commander, continue your work. When you are ready, I will still be here. I find some of what you propose intriguing. 
+(Data leaves) 
+MADDOX: He's remarkable. 
+PHILLIPA: You didn't call him it. 
+(Maddox leaves) 
+PHILLIPA: You see? Sometimes it does work. 
+PICARD: Phillipa. Dinner? 
+PHILLIPA: You buying? 
+[Observation lounge] 
+DATA: Sir, there is a celebration on the Holodeck. 
+RIKER: I have no right to be there. 
+DATA: Because you failed in your task? 
+RIKER: No, God, no. I came that close to winning, Data. 
+DATA: Yes, sir. 
+RIKER: I almost cost you your life! 
+DATA: Is it not true that had you refused to prosecute, Captain Louvois would have ruled summarily against me? 
+RIKER: Yes. 
+DATA: That action injured you, and saved me. I will not forget it. 
+RIKER: You're a wise man, my friend. 
+DATA: Not yet, sir. But with your help, I am learning. 

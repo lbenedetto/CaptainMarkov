@@ -1,0 +1,480 @@
+Life Line
+[Shuttlecraft] 
+BARCLAY: Shuttlecraft Dawkins to Jupiter Station. 
+WOMAN [OC]: Go ahead. 
+BARCLAY: This is Lieutenant Reginald Barclay requesting permission to dock. 
+WOMAN [OC]: Granted. 
+[Zimmerman's living quarters] 
+ZIMMERMAN [OC]: What? What is it? 
+BARCLAY [OC]: It's me, sir, Reg Barclay. 
+ZIMMERMAN [OC]: Come in. 
+(An iguana is lounging on a console.)
+BARCLAY: Doctor Z? How are you? 
+(We are shown a grey haired version of our EMH.)
+ZIMMERMAN: Nice of you to finally drop by. 
+BARCLAY: I've been extremely busy. The, er, Pathfinder project. 
+ZIMMERMAN: You're still searching for that ship? What's it called, Pioneer? 
+BARCLAY: Er, Voyager. 
+ZIMMERMAN: Voyager. Any luck? 
+BARCLAY: Actually, we're on the verge of a breakthrough. A communications link. 
+ZIMMERMAN: Congratulations. The first transgalactic phone call. 
+BARCLAY: Is there any word from Starfleet Medical? 
+ZIMMERMAN: Doctors. I've been scanned and probed a hundred times and they still can't tell me what's wrong. 
+BARCLAY: I'm sure it's only a matter of time. 
+ZIMMERMAN: I'm dying, Reginald. And there's nothing anybody can do about it. 
+[Astrometrics lab] 
+(A signal leaves Earth, gets boosted by the MIDAS array and arrives at -)
+SEVEN: Seven of Nine to the bridge. 
+JANEWAY [OC]: Go ahead. 
+SEVEN: We're receiving a transmission from Starfleet. 
+[Bridge] 
+JANEWAY: Route it here. 
+[Astrometrics lab] 
+SEVEN: It's not a comm. link, Captain. It appears to be 
+[Bridge] 
+SEVEN [OC]: A compressed datastream, badly degraded. 
+JANEWAY: On my way. 
+[Briefing room] 
+JANEWAY: They say good things come in small packages. This is all the data they could send us, until next month. 
+TORRES: Next month? 
+CHAKOTAY: They're using a cyclic pulsar to amplify signals from the MIDAS array, but the cycle only peaks every thirty two days. 
+JANEWAY: So once a month we'll be able to receive a short burst of information. And we'll have about seventeen hours to respond. 
+CHAKOTAY: So far we've gotten tactical updates, letters from home, and news about the Alpha Quadrant. 
+KIM: I don't suppose they found us a shortcut home. 
+CHAKOTAY: It doesn't look that way. 
+JANEWAY: We don't have much time to prepare a response, and we'll have to keep it short, but I want to give everyone an opportunity to send something. Even if it's only a brief note. 
+(This is directed at Tuvok.)
+JANEWAY: Inform the crew. 
+PARIS: Yes, ma'am. 
+KIM: Aye, Captain. 
+JANEWAY: Lieutenant Barclay, the Pathfinder Project. They didn't give up on us. So when you write those letters, you might want to thank them. 
+[Sickbay] 
+NEELIX: Mail call. 
+EMH: A letter? For me? Oh, it's from Lieutenant Barclay. 
+NEELIX: Bad news? 
+EMH: Lewis Zimmerman. Apparently, he's seriously ill. 
+NEELIX: Zimmerman? 
+EMH: He's the father of modern holography. He invented the matrix that made my programme possible. 
+NEELIX: Oh. What's wrong with him? 
+EMH: He's suffering from acute subcellular degradation. The doctors here are having trouble finding the cause, much less a treatment. I've included his medical files. As you'll see, the prognosis isn't good. They say he's only got a few months. I'm sorry I don't have better news to report, but I thought you'd want to know. 
+NEELIX: How well did you know him? 
+EMH: I've never met the man. 
+NEELIX: If you'd like to send a response, the captain will need it by nineteen hundred hours. 
+[Doctor's office]
+(The EMH is reviewing Patient Profile 1027, Zimmerman, Lewis.)
+SEVEN: Here's the information you requested. 
+EMH: Thank you. 
+SEVEN: You're reviewing his medical data. 
+EMH: I thought I could send Starfleet a second opinion. It's a long shot, but maybe my experiences in the Delta Quadrant could provide some insights. I was hoping these Borg regeneration techniques might help them develop a treatment for his condition. 
+SEVEN: You bear a striking resemblance. 
+EMH: He used his own physical parameters as a model for my matrix. Can't say I blame him. A doctor needs to inspire confidence in his patients. Compassionate eyes and a strong chin can go a long way. 
+[Ready room] 
+EMH: I believe I can help him, Captain. 
+JANEWAY: How? 
+EMH: You remember the Vidiians? The early stages of the Phage are very similar to Doctor Zimmerman's disease. I believe I can adapt a variety of Borg regeneration techniques to arrest the cell damage, maybe even reverse it. 
+JANEWAY: Make sure to pass along your findings. Thank you, Doctor. 
+EMH: Actually, I was hoping to administer the treatment myself. 
+JANEWAY: What are you suggesting? 
+EMH: I'd like you to send my programme back to the Alpha Quadrant. None of the Doctors at Starfleet are familiar with these techniques. It would take them months to fully understand them, much less put them to use. 
+JANEWAY: Even if we could send you, you're needed here. 
+EMH: Mister Paris can take over Sickbay. He's more than capable. We've done this once before. There weren't any problems. 
+JANEWAY: Three years ago, and we used alien technology. 
+EMH: I've spoken to Seven of Nine. She believes we can compress my programme. 
+JANEWAY: There's limited space in the datastream. If we send you, there won't be room for anything else. 
+EMH: I realise I'd be asking the crew to make a sacrifice on my behalf, but they can wait another month. Doctor Zimmerman might not have that time. 
+JANEWAY: I'm sorry he's not doing well. Unusual man. I met him once at a conference. He managed to offend just about everyone there, but he was certainly brilliant. I'm sure Starfleet is consulting their best physicians, Doctor. 
+EMH: They are, but no one's been able to develop a cure. I have. But I can't treat a patient who's thirty thousand light years away. 
+JANEWAY: I'm sorry. 
+EMH: Captain. 
+JANEWAY: This is the first time we're attempting to send a response. We don't know if it will even get through. 
+EMH: I'm willing to take that risk. 
+JANEWAY: I'm not. 
+EMH: He programmed me. Every algorithm, every subroutine. If it weren't for his years of work, I wouldn't be standing here. I owe him something. And frankly, so does this crew. In a way, he's responsible for every life I've saved. 
+JANEWAY: Lewis Zimmerman designed the template for Starfleet's EMH. You're one of thousands based on that technology. It's not as though he's your father. 
+EMH: From your perspective. From mine, he's the closest thing I've got. If I don't try to help him now, I may never get the chance. 
+JANEWAY: You'll have to find a way to convince Tom to take those duty shifts. 
+EMH: He's already agreed. 
+JANEWAY: Tell him Captain Jane said hello. That's what he kept calling me at the conference. I think he did it just to get on my nerves. 
+EMH: I've heard he can be difficult. 
+JANEWAY: I certainly hope you get a chance to find out. 
+EMH: Thank you, Captain. 
+[Sickbay] 
+(The EMH is in his office humming La Donna e Mobile. When he tries to sing, nothing comes out. He goes out to speak to Seven.)
+EMH: My vocal processor. 
+SEVEN: It's not a malfunction. I've removed your singing algorithms. They'll be stored in a memory buffer until you return. 
+EMH: Why? 
+SEVEN: Your programme's too large for the datastream. I have to extract all non-essential subroutines. 
+EMH: They're essential to me. They're part of who I am. 
+SEVEN: Are you planning on performing opera during your visit? 
+EMH: No. 
+SEVEN: Will you be reciting poetry? 
+EMH: Doubtful. 
+SEVEN: Hoverball? Holophotography? 
+EMH: I may want to take a few snapshots to document my trip. 
+SEVEN: Sexual activities? 
+EMH: I get the point. How much has to be left behind? 
+SEVEN: Twelve megaquads. 
+EMH: I suppose you could get rid of my athletic abilities and my grand master chess programme. 
+SEVEN: That leaves three megaquads. Your painting skills? 
+EMH: Oh, if you must. Try to leave a few of my enhancements intact. I don't want to look like every other EMH on the block. I think Doctor Zimmerman will be very interested to see what I've learned. He probably never imagined what one of his own creations could accomplish. I could spark a whole new field in holographic research. 
+[Astrometrics lab] 
+JANEWAY: Bon voyage. 
+EMH: See you in a month. 
+KIM: Don't get lost.
+(Kim removes the mobile emitter.) 
+[Zimmerman's living quarters] 
+(A woman waves her hand over a salad.)
+HALEY: (to fly) If I've told you once, I've told you a thousand times. Stay off the food. 
+ZIMMERMAN [OC]: Haley? Haley, what's the status of my lunch? 
+HALEY: It's coming, Doctor! 
+ZIMMERMAN [OC]: As if things weren't bad enough, now I'm dying of starvation. 
+(Doorbell.)
+HALEY: Come in! 
+BARCLAY: Haley. 
+HALEY: Mister Barclay. Is something wrong? 
+BARCLAY: No, no, just the opposite. Is he in? 
+HALEY: He's not taking visitors today. 
+BARCLAY: Tell him this is important. 
+HALEY: He's in a prickly mood. 
+BARCLAY: I've brought something with me that might cheer him up. Computer, is the download complete? 
+COMPUTER: Affirmative. 
+[Zimmerman's lab] 
+HALEY: Lunch. 
+ZIMMERMAN: That's not pork chops. 
+HALEY: It's salad. 
+ZIMMERMAN: I didn't ask for salad. 
+HALEY: It's healthy. 
+ZIMMERMAN: I'm dying. A piece of meat isn't going to kill me any quicker. Give the plants to Leonard. He's the one trying to watch his weight. 
+(That will be the iguana.)
+HALEY: Lieutenant Barclay is here to see you. 
+ZIMMERMAN: I told you I wasn't 
+HALEY: He says it's urgent. 
+ZIMMERMAN: Can't it wait until I'm dead? All right, send him in. Three minutes. He's got three minutes. 
+HALEY: Be civil to him, Lewis. He's worried about you. We all are. 
+(Haley leaves, Barclay enters.)
+BARCLAY: I found a friend waiting for me at home. 
+ZIMMERMAN: You don't have any friends. 
+BARCLAY: Well, I guess, er, you could say he's a friend of yours. 
+(Barclay activates the hologram.)
+EMH: Please state the nature of the medical emergency. 
+ZIMMERMAN: An EMH Mark One? I'm not in the mood for nostalgia, Reginald. 
+BARCLAY: But this is the Mark One from Voyager. 
+EMH: I was compressed into a datastream and transmitted from the Delta Quadrant. 
+ZIMMERMAN: Congratulations. I recommend a tour of Jupiter's third moon. I hear the lava flows are lovely this time of year. 
+EMH: I'm not here for a vacation. I'm here to treat your illness. 
+ZIMMERMAN: You brought a Mark One thirty thousand light years to treat me? I was wrong about you, Reginald. You do have a sense of humour. 
+EMH: Care to let me in on the joke? 
+ZIMMERMAN: You didn't tell him? 
+EMH: Tell me what? 
+BARCLAY: Well, I, er 
+ZIMMERMAN: You're obsolete, extinct. Yesterday's news. 
+EMH: My programme was retired? 
+ZIMMERMAN: Retired? Not at all. The EMH Mark One was reconfigured to scrub plasma conduits on waste transfer barges. I've been treated by the Mark Three, the Mark Four, not to mention the finest real doctors in Starfleet. None of them could help me.
+BARCLAY: He has been running almost continuously for six years. He has seen more things than most doctors can even imagine. 
+EMH: I also have an exceptionally high tolerance for difficult patients. 
+ZIMMERMAN: I didn't programme you for sarcasm. 
+EMH: You'll find I'm full of surprises. 
+ZIMMERMAN: Show the good Doctor to the plasma generator. I understand there's quite a build-up of residue. 
+EMH: If we had more time, I'd enjoy trading barbs with you. But right now, there's a more pressing concern. Your life. I'm working on a treatment based on a disease I encountered in the Delta Quadrant, but I'll need to run a complete analysis. However, if it's impossible for you to believe that a lowly Mark One could have anything useful to offer, I'll be happy to pack my bags and go explore those sulphur mines. 
+ZIMMERMAN: Go ahead, scan away. 
+BARCLAY: I'll be outside.
+(Barclay leaves.) 
+EMH: What were your initial symptoms? 
+ZIMMERMAN: Radical hair loss. Fatigue, nausea, joint inflammation. 
+EMH: Have you travelled outside the solar system recently? 
+ZIMMERMAN: What's that got to do with anything? 
+EMH: Just answer the question. 
+ZIMMERMAN: I haven't left Jupiter station in over four years. 
+EMH: To your knowledge, have you been exposed to theta radiation? 
+ZIMMERMAN: No. 
+EMH: Neutron flux? 
+ZIMMERMAN: Never. 
+EMH: Have you had intimate relations with a Bolian? 
+ZIMMERMAN: These are questions first year medical students would ask. 
+EMH: I'm just being thorough. 
+LEONARD: Just being thorough. 
+EMH: Did that creature just speak? 
+ZIMMERMAN: His name's Leonard. He's a hologram. 
+EMH: Computer, deactivate iguana. 
+ZIMMERMAN: How dare you! 
+EMH: I'm a Doctor, not a zoo keeper. Has there ever been an epidemic on this station? 
+ZIMMERMAN: No! Enough questions! Finish your scans and get out of here. 
+EMH: Doctor. 
+ZIMMERMAN: I said get out of here. 
+EMH: I travelled halfway across the galaxy to treat you. The least you could do is show a little gratitude. 
+ZIMMERMAN: Thank you. Get out of here! 
+EMH: I may be the only physician who can save your life. You need me. 
+ZIMMERMAN: Like hell. I brought your matrix into this world and I can take it out.
+EMH: I'm no longer a prototype. I have exceeded my original programming. I'm no longer under your control. 
+ZIMMERMAN: Oh, really? Computer, transfer EMH to the living quarters. 
+[Zimmerman's living quarters] 
+BARCLAY: How did it go? 
+(Later, the EMH comes storming out of the lab on his own.)
+EMH: Power up the MIDAS array. I'm leaving. 
+BARCLAY: What, what happened this time? 
+EMH: I ran a mitochondrial scan. There was something odd about the results, so I spent a full hour analysing them. And what did I discover? He's a Vulcan marsupial. He reconfigured my tricorder! You find that amusing? 
+BARCLAY: A little. Well, not really. 
+HALEY: Sounds like you're making progress. 
+EMH: How so? 
+HALEY: He only teases people he likes. 
+EMH: Then he must love me. 
+BARCLAY: I take it that you, er, still haven't been able to diagnose him. 
+EMH: On the contrary, the patient appears to be suffering from an acute case of arrogance! 
+(A fly buzzes) 
+BARCLAY: Oh, that's Roy. 
+EMH: Don't tell me. A hologram?. 
+BARCLAY: It was commissioned by Starfleet Intelligence. An experiment in micro-surveillance. Doctor Z keeps it around as a sort of a pet. 
+EMH: Undercover insects, talking iguanas. This isn't a research station, it's a three ring Circus. You should charge admission. 
+BARCLAY: Look. Look, you know that we can't send you back for another two weeks so please, just, just keep trying. 
+EMH: I can't treat a patient who won't let me near him. He's deranged. What he needs is a counsellor. 
+(The EMH swats Roy.) 
+EMH: Finally, I've accomplished something. 
+[Barclay's quarters] 
+BARCLAY: I thought you might be able to provide some, er, insight. 
+TROI [on monitor]: It's not that simple, Reg. Doctor Zimmerman sounds like a very complex individual. I'd need to speak to him in person. 
+BARCLAY: Then maybe I could get him to agree to a counselling session. 
+TROI [on monitor]: The Enterprise is in the middle of a mission. We're nearly seven light years from you. 
+BARCLAY: An important mission? 
+TROI [on monitor]: They're all important, Reg. I could refer you to Counsellor Jenzo, a colleague of mine on Earth. 
+BARCLAY: I need the best, Deanna. 
+TROI [on monitor]: It would be an interesting challenge. 
+BARCLAY: Thank you, thank you, thank you, thank you. 
+TROI [on monitor]: Don't thank me yet. I'll still need to clear this with Captain Picard. If he agrees, I might be able to be there by early next week. 
+BARCLAY: I'll see you then. 
+[Ready room] 
+(Doorbell.)
+JANEWAY: Come in.
+CHAKOTAY: Good morning. Problem? 
+JANEWAY: I haven't decided. I've just listened to a communiqué from Admiral Hayes.
+CHAKOTAY: Nice to have friends in high places. 
+ADMIRAL HAYES [on monitor]: Hello, Captain. I hope this message finds you well. From what I understand, it has not been easy, but I want you to know that a lot of people here are very proud of what you've accomplished. I also want to assure you that we have not given up finding a way to get you home. We've redirected two deep space vessels toward your position. If all goes well, they could rendezvous with you in the next five to six years. 
+JANEWAY: Computer, advance to time index one twenty one point four. 
+ADMIRAL HAYES [on monitor]: As we get closer and our conversations become more frequent. When you respond to this message, please let us know of any casualties. I'm sure you've had more than your share. I'm anxious to know the status of your crew, the Maquis, first contacts that you've made, interactions with the Borg. But there'll be time for everything. Our thoughts are with you. Talk to you soon. 
+CHAKOTAY: What? 
+JANEWAY: Status of the Maquis. 
+CHAKOTAY: Do you find that surprising? 
+JANEWAY: I don't think of you or B'Elanna or the others as Maquis. I think of you as part of my crew. 
+CHAKOTAY: You may have forgotten, but we haven't. You heard the Admiral. It'll be years before we have to deal with those issues. Let's worry about it then. 
+JANEWAY: Do you have lunch plans? 
+CHAKOTAY: Is that an invitation? 
+JANEWAY: I was hoping you'd help me compose a response. 
+CHAKOTAY: You're on. 
+[Zimmerman's living quarters] 
+HALEY: Doctor, your lunch is ready. 
+(Moans come over the comm.) 
+HALEY: Are you all right? 
+ZIMMERMAN [OC]: Fine, Haley, fine. Give me a few minutes. 
+[Zimmerman's lab] 
+(Zimmerman is receiving a massage from a Tarlac woman. She continues to knead with her elbow whilst scanning him with a medical tricorder.)
+ZIMMERMAN: Ah. Ah. Lower. Ah. Perfect. I needed this. You have no idea what I've had to endure these past few days. Last night I woke up and I found him hovering over my bed with a hypospray. A smattering of photons, that's all he is. What's that? What is that? A tricorder? You were scanning me? Computer, realign Voyager's EMH. You! 
+EMH: Remain calm. Emotional outbursts will only aggravate your condition. 
+ZIMMERMAN: I'll tell you what's aggravating my condition. You! 
+EMH: If you'd let me examine you. 
+ZIMMERMAN: I'll report you to the medical ethics board. 
+EMH: Doctor! 
+ZIMMERMAN: Save it for your hearing. 
+EMH: If you weren't so stubborn, you'd see I'm only trying to help. 
+ZIMMERMAN: I don't want your help! Why won't you leave me alone? 
+EMH: Because, for reasons beyond my comprehension, I care about you. 
+ZIMMERMAN: You weren't programmed to care. You were programmed to hold a scalpel. 
+EMH: I told you, I'm not the same EMH you created six years ago. 
+ZIMMERMAN: Of course. You can sing and dance. I should install you in a Ferengi nightclub. 
+EMH: The Voyager crew appreciates my attempts to expand my programme. 
+ZIMMERMAN: This isn't Voyager. It's my lab. And in my lab, you're still just a hologram. 
+EMH: A hologram you created. A hologram who owes you his existence. 
+ZIMMERMAN: Is that what's keeping you here? Some twisted sense of obligation? Well, let me assure you, you don't owe me anything. 
+HALEY [OC]: Doctor? 
+ZIMMERMAN: Yes, Haley, what is it? 
+HALEY [OC]: You have a visitor. 
+(Troi enters.)
+TROI: Hello, I'm Deanna Troi. Which one of you is Doctor Zimmerman? 
+ZIMMERMAN: Deanna Troi. Another one of your tricks? 
+TROI: Excuse me? Ow! 
+(Zimmerman pinches her arm.)
+EMH: He thinks you're a hologram. 
+TROI: I can assure you I'm quite real. 
+ZIMMERMAN: Oh. Well. The last beautiful woman to walk in here turned out to be him. 
+EMH: I'll take that as a compliment. 
+TROI: Did I come at a bad time? 
+EMH: Your timing couldn't be better. The patient is suffering from acute anxiety, normally associated with terminal illness. It's made him agoraphobic, paranoid and extremely antagonistic. 
+TROI: I see. Mind if I sit down? 
+ZIMMERMAN: Please.
+(Leonard is watching her closely.) 
+TROI: Reg tells me you won't let the Doctor help you. 
+ZIMMERMAN: He's a Mark One. He's obsolete. I'd be safer in the hands of a Klingon field medic. 
+TROI: I understand he's developed a promising treatment. 
+ZIMMERMAN: If you're a Borg drone. He's threatening to use some kind of ghoulish assimilation technique. It's not fit for a lab rat. 
+EMH: You won't even look at my research. From the moment I arrived, you've berated me, treated me like an antique. Well, let me tell you something. Antique or not, I took a huge risk coming here. I had to plead with my Captain, leave my ship without a surgeon. 
+TROI: Doctor. Imagine that your programme was seriously damaged, and the only person who could repair you was an engineer from, say, a hundred years ago. Would you feel comfortable with that? 
+EMH: If he were skilled, intelligent, creative. 
+TROI: Honestly, Doctor? A hundred years ago? 
+EMH: Well, I suppose it would give me pause. 
+ZIMMERMAN: Ha. 
+TROI: Now, put yourself in the Doctor's shoes. Imagine you were asked to treat someone you cared about, say an EMH Mark twelve. 
+ZIMMERMAN: There is no Mark twelve. 
+TROI: But if there were, and you wanted to save his programme. He probably wouldn't let you near him. He wouldn't care that you'd won the Daystrom Prize for holography. From his perspective, you'd be out of date. But what if you knew you could save him? 
+EMH: Thank you, Counsellor, for extending that olive branch. I'm willing to see past our differences, if he is. 
+ZIMMERMAN: All right. He can start by purging the plasma conduits on deck six. 
+TROI: Doctor Zimmerman. 
+ZIMMERMAN: I will not put my life in the hands of a primitive. 
+EMH: You'd need a phaser drill to get through that thick skull of his. 
+ZIMMERMAN: Get out! 
+TROI: Gentlemen! 
+ZIMMERMAN: Oh, spare us your psychobabble. 
+TROI: I came here thinking that you were opposite sides of the same coin. Identical, but different. Now I see you're both exactly the same. You're both jerks. 
+LEONARD: Jerks. 
+[Zimmerman's living quarters] 
+TROI: I'm starting to think you called the wrong counsellor, Reg. 
+BARCLAY: You'll figure something out. You always do. 
+TROI: Things are worse now than when I arrived. Lewis won't come out of his lab and the EMH is hiding in a holodeck. 
+BARCLAY: He's feeling homesick. I let him use my Voyager simulation and it seems to be cheering him up. 
+TROI: A hologram fighting to save the life of his creator, who just so happens to be the same man his own personality is based on. I think I'd need a whole team of therapists just to get them in the same room. 
+HALEY: Mister Barclay said this is your favourite ice cream. 
+TROI: I hardly deserve it, but thanks. You're a hologram. 
+HALEY: How do you know? 
+TROI: I'm an empath. I haven't sensed any emotions from you. When were you first brought online? 
+HALEY: Nine years ago. 
+TROI: No offence but, you're more antiquated than the EMH Mark One, and yet Lewis seems to listen to you. Why do you suppose that is? Were you here when the Mark One was created? 
+HALEY: Yes. 
+TROI: Any idea why Lewis made it in his own image? 
+HALEY: Maybe you should ask him. 
+TROI: I did. He evaded the question. I was hoping you might know. 
+HALEY: He was extremely proud of the Mark One. He used to dream about hundreds of holograms in every corner of the quadrant saving lives. He put so much of himself into its development. I suppose it only seemed natural that it should look like him, too. 
+TROI: But the Mark One failed to meet Starfleet's expectations. 
+HALEY: He was devastated. 
+BARCLAY: He, he locked himself away in this lab for two years trying to repair the defects. Finally, he just gave up. Started from scratch. A whole new matrix. 
+TROI: The Mark Two. 
+BARCLAY: Followed by the Mark Three, and then the Mark Four. He, he was obsessed with perfecting it. 
+TROI: But none of the later models resembled Lewis. 
+HALEY: He made that mistake once. He wasn't about to do it again. 
+TROI: And now, after all this time, a Mark One shows up. It must be like staring in a mirror at a reflection you don't want to remember. 
+[Zimmerman's lab] 
+ZIMMERMAN: Computer, resume recording. Last Will and Testament, Doctor Lewis Zimmerman. Let's see. Where were we? Subsection eight, the Trojan Horse project. I hereby bequeath my latest research in holographic infiltration technology to the only engineer I trust to complete the work, Lieutenant Reginald Barclay. Subsection nine, holographic art. I hereby bequeath my entire collection, including the twenty first century masterpiece, Woman in Four Dimensions, to the person who has appreciated it the most. I guess that would be Reg Barclay, too. Subsection ten, Haley. I realise she's only a hologram, but she's been a loyal assistant for many years. I'd like to request that Starfleet keep her programme running for as long as this research facility exists. She's been as real to me as anyone I've ever known. Not that I've known many people. I've created most of my friends. 
+(He is struck by a stab of pain that takes his breath away.)
+ZIMMERMAN: Pause recording. (to Leonard) Don't worry. I'll find a home for you, too. 
+[Holodeck - Doctor's office] 
+TROI: So this is Voyager. I like it. 
+EMH: It's a remarkable facsimile, but Mister Barclay did get a few of the details wrong. For one thing, Neelix doesn't purr. 
+TROI: I think that may have something to do with Reg's cat. He named it after your friend. 
+EMH: Neelix would be honoured. If you're here for Doctor Zimmerman's medical files, I've nearly finished updating them. Maybe the next physician will put them to better use. 
+[Holodeck - Sickbay]
+TROI: Actually, I stopped by to ask you to dinner. 
+EMH: I'm a hologram, Counsellor. I don't eat. 
+TROI: I know that, but we'd still enjoy your company. 
+EMH: We? 
+TROI: Lieutenant Barclay, Haley, myself, Doctor Zimmerman. 
+EMH: No, thanks. Unless that man's eating crow, I'm not interested. 
+TROI: It's the perfect opportunity for us to talk things out in a more casual environment. 
+EMH: Sorry. 
+TROI: Just one meal. 
+EMH: I said no. 
+(His matrix flickers.) 
+TROI: Doctor? 
+EMH: Something's wrong. 
+TROI: Troi to Lieutenant Barclay. 
+BARCLAY [OC]: Go ahead. 
+TROI: There's something wrong with the EMH. 
+BARCLAY [OC]: Can you be more specific? 
+EMH: She's a counsellor, Lieutenant, not an engineer. 
+BARCLAY [OC]: Stand by. 
+[Zimmerman's living quarters] 
+(The EMH is still flickering.)
+EMH: What's happening to me? 
+BARCLAY: Your programme is destabilising. 
+EMH: What? Why? 
+BARCLAY: They sent you thirty thousand light years. I should have expected some problems. 
+EMH: It's not your fault, Mister Barclay. We just need to find a way to repair the damage. 
+BARCLAY: You don't understand. Your primary matrix is degrading and there is nothing I can do. 
+[Zimmerman's lab] 
+ZIMMERMAN: Good riddance to bad photons. 
+BARCLAY: He's dying, Lewis. 
+ZIMMERMAN: He's not dying. His files are just degrading. 
+TROI: There are people on Voyager who count on him. 
+ZIMMERMAN: I'll send them a Mark Four. They're more reliable. 
+BARCLAY: They don't want a Mark Four. They want their friend. 
+ZIMMERMAN: No EMH was ever designed to be anyone's friend. He's just a hologram. 
+HALEY: Is that how you feel about me? Just a hologram? 
+ZIMMERMAN: I will not be ambushed in my own lab. 
+HALEY: Stardate 53292. My programme malfunctioned and you cancelled a lecture on Vulcan and came all the way home to repair me. 
+ZIMMERMAN: There's nothing worse than addressing a room full of pointy-eared blowhards. I was looking for an excuse to get away. 
+HALEY: You came back because you cared about me, just like you care about the Mark One. You just won't admit it. He may not be perfect, but he's still one of your creations and right now he needs his creator. Don't turn your back on him. 
+(Later, Zimmerman forks some salad into his mouth and presses buttons.)
+ZIMMERMAN: Computer, activate Voyager's EMH. 
+EMH: Please state the nature of the medical emergency. 
+ZIMMERMAN: You're the emergency. 
+EMH: Where's Lieutenant Barclay? 
+ZIMMERMAN: Trust me, you're in far more capable hands. 
+EMH: You're going to repair my programme? 
+ZIMMERMAN: Who better? 
+EMH: Just yesterday you threatened to decompile me. 
+ZIMMERMAN: That was before your colleagues made me feel guilty. 
+EMH: You're ill. You're in no condition to perform delicate procedures. 
+ZIMMERMAN: I'll survive, but you won't if you don't relax and let me finish. 
+EMH: What are you doing? 
+ZIMMERMAN: My scans identified a recursive error in your pattern buffer. I'm trying to isolate it. 
+EMH: Is that a fractal algorithm? 
+ZIMMERMAN: Very good. I'm using it to realign your matrix. 
+EMH: Fractal algorithms are notoriously unstable. 
+ZIMMERMAN: In the hands of a novice. (Beep!) Whoops. 
+EMH: Whoops? What's whoops? 
+ZIMMERMAN: Computer, deactivate EMH. 
+(Later, the EMH is reactivated.)
+EMH: I, I can't move! 
+ZIMMERMAN: I know. I had to take your mobility subroutines offline. 
+EMH: How long have I been deactivated? 
+ZIMMERMAN: Seventeen hours. I'm resetting your parameters. 
+(The EMH goes off and on, and walks over to Zimmerman.)
+EMH: You don't look well. You need rest. 
+ZIMMERMAN: I'm fine. And so are you. Your programme's been stabilised. 
+EMH: I, I'm going to be okay? 
+ZIMMERMAN: No, you're going to be better than okay. 
+EMH: Now what are you doing? 
+(The EMH disappears and reappears.)
+EMH: Welcome to Sickbay. How may I help you today? 
+ZIMMERMAN: Well, what do you think? 
+EMH: I think you've altered my greeting protocol. 
+ZIMMERMAN: That's just the beginning. I've also added new subroutines for compassion, patience, empathy, decorum. 
+EMH: I don't feel any different. 
+ZIMMERMAN: Because I haven't installed them yet. I thought you'd like to be awake for the big moment. Reginald was right about you. You have exceeded the sum of your programming. You've accomplished far more than I would have ever predicted. But let's face facts. You never overcame the inherent flaws in your personality subroutines. You're arrogant, irritable. A jerk, as Counsellor Troi would say. 
+EMH: I believe she was describing you as well. 
+ZIMMERMAN: Don't change the subject. I may not be able to turn you into a Mark Four, but I can make you a bit more presentable. 
+EMH: What if I'm happy with the way I am? 
+ZIMMERMAN: I'm doing you a favour. 
+EMH: I don't want any favours and I don't want your new subroutines. Why can't you accept me as I am? 
+ZIMMERMAN: Because you're defective. Emergency Medical Hotheads. Extremely Marginal Housecalls. That's what everyone used to call the Mark Ones until they were bounced out of the Medical Corps. I tried to have them decommissioned, but Starfleet in its infinite wisdom overruled me and reassigned them all to work waste transfer barges. That's where you'd be too, if you hadn't been lost in the Delta Quadrant. Do you know how humiliating it is to have six hundred and seventy five Mark Ones out there, scrubbing plasma conduits, all with my face? 
+EMH: I'm sure they're doing a fine job. 
+ZIMMERMAN: What are you doing? I'm not finished with you. (The EMH is scanning him.)
+EMH: I'm trying to do my job. And if you give me a chance you'll see that I'm pretty good at it. Frankly, I'd hoped that if we ever met, you'd be proud of me. 
+ZIMMERMAN: Well, I guess it is comforting to know that at least one of you is still doing what I designed you to do. 
+EMH: Your intercellular proteins are at a dangerous level. We should begin the procedure. Please, give me a chance to make you proud of me. 
+ZIMMERMAN: Maybe we could try it, see how it goes. 
+EMH: See how it goes. 
+ZIMMERMAN: Just don't expect me to put you in my will. 
+[Zimmerman's living quarters] 
+(Barclay is pacing. Troi and Haley are sitting quietly.)
+BARCLAY: I, I'm going in. 
+TROI: Reg. 
+BARCLAY: They have been in there for thirty two hours. 
+TROI: Be patient. 
+(The EMH enters.)
+BARCLAY: Well, you, you're not fritzing anymore. 
+EMH: No thanks to you. Doctor Zimmerman ran a diagnostic on my subtronic relays and he made a very interesting discovery. Apparently, I was the victim of foul play. 
+BARCLAY: Well, what, what do you mean? 
+EMH: He found an algorithm designed to disrupt my matrix. You wouldn't know anything about that, would you? 
+TROI: Well, traditional therapy wasn't getting us anywhere. 
+EMH: Well, your little scheme worked. Doctor Zimmerman has agreed to the cellular regeneration procedure. He'll require several more treatments, but I'm optimistic he'll make a full recovery. 
+[Zimmerman's lab] 
+(The EMH is taking holo-photographs of the lab.)
+ZIMMERMAN: Trying to steal my secrets? 
+EMH: Another one of my hobbies. I thought I'd take home a few memories. You're supposed to be in bed. 
+ZIMMERMAN: I've got work to do. 
+EMH: It can wait. Go to bed. Doctor's orders. 
+ZIMMERMAN: I hope you won't be coming back next month to make sure I'm taking my medicine. 
+EMH: Don't worry. My captain's not likely to authorise another house call. 
+ZIMMERMAN: Good. The next time she sends a datastream, you might want to drop me a line, let me know how you're doing. 
+EMH: If you insist. 
+(Barclay enters.)
+BARCLAY: Ready? 
+EMH: Would you mind? 
+(He hands Barclay his holo-camera.) 
+BARCLAY: Not at all. Smile! 
